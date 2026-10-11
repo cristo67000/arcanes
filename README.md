@@ -81,7 +81,10 @@ node build/construire.mjs          # le dictionnaire, et build/rapport.txt
 node build/essais_statiques.mjs    # fichiers, version, classes, données (342)
 node build/essais.mjs              # Chrome réel : recherche, fiches, figures, révision, hors-ligne (85)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
+node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
 ```
+
+En ligne : https://cristo67000.github.io/arcanes/ (GitHub Pages, branche `main`).
 
 `build/galerie.html` montre toutes les figures sur une planche (`?theme=sombre`,
 `?f=nom`). Pour développer sans que le service worker serve les anciens
