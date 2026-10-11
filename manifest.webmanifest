@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Arcanes — dictionnaire encyclopédique de l'ésotérisme",
+  "short_name": "Arcanes",
+  "description": "Dictionnaire encyclopédique de l'ésotérisme : hermétisme, alchimie, kabbale, astrologie, tarot, magie, Rose-Croix, théosophie et leurs figures. Schémas, frise chronologique, notes et révision. Hors ligne, sans compte ni publicité.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f1e6",
+  "theme_color": "#1d1630",
+  "categories": ["books", "education", "reference"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

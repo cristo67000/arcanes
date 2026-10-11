@@ -1,0 +1,287 @@
+# Figures — Renaissance et XVIIe siècle.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ marsile-ficin
+cat: figures
+nom: Marsile Ficin
+alias: Marsilio Ficino, Ficino, académie platonicienne de Florence, Careggi
+dates: 1433 – 1499
+an: 1433
+def: Philosophe et médecin florentin, traducteur de Platon, de Plotin et du Corpus Hermeticum, qui fit renaître le platonisme et fonda la magie astrale de la Renaissance.
+texte: Protégé de Cosme de Médicis, qui lui donne une villa à Careggi, Ficin consacre sa vie à rendre accessibles en latin les textes de la sagesse antique. Cosme lui fait interrompre la traduction de Platon pour celle du [[corpus-hermetique|Corpus Hermeticum]], achevée en 1463 : Hermès, plus ancien, devait passer en premier. Suivent Platon (publié en 1484), [[plotin]] (1492), [[jamblique]], [[proclus]] et le [[pseudo-denys]]. Dans sa *Théologie platonicienne*, il défend l'immortalité de l'âme et l'accord du platonisme et du christianisme ; il devient prêtre en 1473.
+texte: Dans le troisième livre de son traité *[[de-vita|De vita]]* (1489), Ficin, mélancolique né sous Saturne, explique comment capter les influences bénéfiques des astres par les plantes, les parfums, les couleurs, les pierres, la musique et les images : c'est la première théorie savante de la magie astrale à la Renaissance, fondée sur l'[[ame-du-monde|esprit du monde]] qui relie les astres et les corps. Sa généalogie de la sagesse antique, la [[prisca-theologia]], a orienté tout l'ésotérisme ultérieur.
+oeuvres: Traduction du Corpus Hermeticum (1463, imprimée en 1471) ; Théologie platonicienne (1482) ; De vita libri tres (1489) ; traduction de Plotin (1492)
+voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte
+
+@ pic-de-la-mirandole
+cat: figures
+nom: Pic de la Mirandole
+alias: Jean Pic de la Mirandole, Giovanni Pico della Mirandola, Pico, 900 conclusions, neuf cents conclusions
+dates: 1463 – 1494
+an: 1463
+def: Philosophe italien, prodige de l'humanisme, qui voulut concilier toutes les doctrines et fit entrer la kabbale juive dans la pensée chrétienne.
+texte: En 1486, à vingt-trois ans, Pic publie *Neuf cents conclusions* tirées de toutes les philosophies et propose de les soutenir publiquement à Rome devant les savants du monde entier. Le discours d'ouverture, connu plus tard comme *[[discours-sur-la-dignite-de-l-homme|Discours sur la dignité de l'homme]]*, célèbre l'homme libre de choisir sa place dans l'univers. Le pape Innocent VIII interdit la dispute et fait condamner treize thèses, dont celle-ci : « Aucune science ne nous assure davantage de la divinité du Christ que la magie et la kabbale. »
+texte: Grâce au converti Flavius Mithridate, qui lui traduit des textes hébreux, Pic est le premier chrétien à étudier la [[kabbale]] à fond et à soutenir qu'elle confirme les mystères chrétiens : c'est l'acte de naissance de la [[kabbale-chretienne|kabbale chrétienne]]. Proche de [[marsile-ficin]], il meurt à trente et un ans à Florence ; une étude de ses restes, en 2008, a conforté l'hypothèse d'un empoisonnement à l'arsenic.
+oeuvres: Neuf cents conclusions (1486) ; Discours sur la dignité de l'homme (1486) ; Heptaplus (1489)
+voir: kabbale-chretienne, discours-sur-la-dignite-de-l-homme, marsile-ficin, jean-reuchlin, prisca-theologia
+
+@ jean-reuchlin
+cat: figures
+nom: Jean Reuchlin
+alias: Johannes Reuchlin, Capnion, De arte cabalistica
+dates: 1455 – 1522
+an: 1455
+def: Humaniste allemand, premier grand hébraïsant chrétien, qui fit de la kabbale une science chrétienne et défendit les livres juifs contre ceux qui voulaient les brûler.
+texte: Juriste et diplomate, Reuchlin publie en 1506 une grammaire hébraïque qui ouvre aux chrétiens l'étude de la langue de l'Ancien Testament. Dans *De verbo mirifico* (1494), il soutient que le nom de Jésus, en hébreu, s'obtient en insérant la lettre *shin* au cœur du [[tetragramme|Tétragramme]] divin : le Nom imprononçable devient prononçable dans le Christ. Son *[[de-arte-cabalistica|De arte cabalistica]]* (1517) expose la kabbale sous forme de dialogue.
+texte: Lorsque le converti Johannes Pfefferkorn obtient de l'empereur la confiscation des livres juifs, Reuchlin rend un avis contraire (1510). La querelle qui s'ensuit met l'Europe savante en émoi et inspire aux humanistes une satire célèbre, les *Lettres des hommes obscurs*.
+oeuvres: De verbo mirifico (1494) ; Rudiments de l'hébreu (1506) ; De arte cabalistica (1517)
+voir: kabbale-chretienne, de-arte-cabalistica, tetragramme, pic-de-la-mirandole
+
+@ jean-tritheme
+cat: figures
+nom: Jean Trithème
+alias: Johannes Trithemius, Trithemius, Tritheme, Steganographia, abbé de Sponheim
+dates: 1462 – 1516
+an: 1462
+def: Abbé bénédictin allemand, bibliophile et historien, auteur d'un traité de magie angélique qui se révéla être un manuel de cryptographie.
+texte: Abbé de Sponheim à vingt et un ans, Trithème fait de son monastère une bibliothèque célèbre, puis devient abbé de Saint-Jacques de Würzburg. Historien et polygraphe, il est aussi un connaisseur réputé de la magie : il échange avec [[cornelius-agrippa]], qui lui dédie la première version de sa *Philosophie occulte*, et passe pour avoir eu [[paracelse]] parmi ses élèves.
+texte: Sa *[[steganographia|Steganographia]]*, écrite vers 1499 et imprimée en 1606, semble enseigner à transmettre des messages à distance grâce à des anges ; elle est mise à l'Index. Dans les années 1990, deux chercheurs ont montré, chacun de son côté, que son troisième livre, réputé purement magique, cache lui aussi un système de chiffrement. Sa *Polygraphie* (1518) est le premier livre imprimé consacré à la cryptographie.
+oeuvres: Steganographia (vers 1499, imprimée en 1606) ; Polygraphia (1518)
+voir: steganographia, cornelius-agrippa, anges, magie-ceremonielle
+
+@ cornelius-agrippa
+cat: figures
+nom: Corneille Agrippa
+alias: Heinrich Cornelius Agrippa, Agrippa von Nettesheim, Cornelius Agrippa, Agrippa
+dates: 1486 – 1535
+an: 1486
+def: Savant allemand de la Renaissance, auteur du De occulta philosophia, la grande synthèse de la magie savante, avant d'en proclamer la vanité.
+texte: Né à Cologne, Agrippa mène une vie errante de soldat, de juriste, de médecin et de professeur, en France, en Italie, en Suisse et aux Pays-Bas. À Metz, en 1519, il défend avec succès une femme accusée de sorcellerie. Dès 1510, il compose le *[[de-occulta-philosophia|De occulta philosophia]]*, qu'il publie remanié en 1533 : le traité rassemble tout ce que la Renaissance savait de la [[magie-naturelle]], de la magie céleste et de la magie cérémonielle, avec des tables de [[carre-magique|carrés magiques]], de sceaux et d'alphabets.
+texte: Paradoxalement, il publie en 1530 un pamphlet sceptique, *De l'incertitude et de la vanité des sciences*, qui n'épargne pas la magie. La légende en fait un sorcier suivi d'un chien noir démoniaque, modèle du Faust de la légende ; un *Quatrième livre de philosophie occulte*, rituel de conjuration paru après sa mort, lui est faussement attribué.
+oeuvres: De occulta philosophia (rédigé en 1510, publié en 1531-1533) ; De l'incertitude et de la vanité des sciences (1530)
+voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman
+
+@ paracelse
+cat: figures
+nom: Paracelse
+alias: Paracelsus, Theophrastus von Hohenheim, Théophraste Bombast de Hohenheim
+dates: 1493 – 1541
+an: 1493
+def: Médecin et philosophe suisse, réformateur radical de la médecine, qui fonda la thérapeutique sur la chimie et une philosophie de la nature mêlant alchimie, astrologie et foi chrétienne.
+texte: Né près d'Einsiedeln, fils de médecin, Paracelse parcourt l'Europe comme chirurgien militaire et médecin itinérant. Nommé à Bâle en 1527, il enseigne en allemand plutôt qu'en latin et brûle publiquement un manuel de médecine classique ; il doit fuir la ville l'année suivante. Il meurt à Salzbourg en 1541. Contre la médecine des humeurs héritée de Galien, il soutient que chaque maladie a sa cause spécifique et son remède, et que l'[[alchimie]] doit servir à préparer des médicaments, non à faire de l'or : c'est la [[iatrochimie]]. « C'est la dose qui fait le poison », écrit-il.
+texte: Sa philosophie unit le [[microcosme-macrocosme|microcosme et le macrocosme]] : l'homme contient en lui les astres et les éléments. Il ajoute aux quatre éléments les [[tria-prima|trois principes]], sel, soufre et mercure, et décrit l'[[archee|archée]], force vitale qui gouverne chaque organisme. On lui doit aussi un traité sur les esprits des éléments — nymphes, sylphes, pygmées et salamandres —, source des [[elementaux]] de l'occultisme.
+oeuvres: Paragranum (1530) ; Grande Chirurgie (1536) ; Astronomia magna (1537-1538) ; Liber de nymphis, sylphis, pygmaeis et salamandris (publié en 1566)
+voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie
+
+@ guillaume-postel
+cat: figures
+nom: Guillaume Postel
+alias: Postel, Mère Jeanne
+dates: 1510 – 1581
+an: 1510
+def: Orientaliste et visionnaire français, premier traducteur latin du Zohar, qui rêva d'une concorde universelle entre les religions sous l'égide du roi de France.
+texte: Lecteur royal de langues orientales à Paris dès 1539, Postel voyage à Constantinople et en Orient, rapporte des manuscrits arabes et hébreux et publie la première grammaire arabe imprimée en France. Il traduit en latin le *[[sefer-yetsirah|Sefer Yetsirah]]*, imprimé en 1552, et une grande partie du *[[zohar|Zohar]]*, restée manuscrite. Pour lui, la [[kabbale]] contient la vérité primitive qui permettra de réconcilier juifs, chrétiens et musulmans.
+texte: À Venise, il rencontre une religieuse, la « Mère Jeanne », en qui il voit la Nouvelle Ève, incarnation féminine du Christ, et se dit lui-même transformé par l'esprit de cette femme. Jugé fou plutôt qu'hérétique, il passe les dix-huit dernières années de sa vie reclus au prieuré de Saint-Martin-des-Champs, à Paris, où il continue d'écrire et de recevoir.
+voir: kabbale-chretienne, zohar, sefer-yetsirah
+
+@ nostradamus
+cat: figures
+nom: Nostradamus
+alias: Michel de Nostredame, Nostredame, Centuries, Prophéties
+dates: 1503 – 1566
+an: 1503
+def: Médecin et astrologue provençal, auteur d'almanachs et de quatrains prophétiques obscurs, les Centuries, dont les interprétations n'ont jamais cessé depuis le XVIe siècle.
+texte: Né à Saint-Rémy-de-Provence, Michel de Nostredame soigne les malades de la peste et publie un traité de recettes de confitures et de fards. À partir de 1550, il fait paraître chaque année un almanach de prédictions, puis, en 1555, les premiers de ses *Prophéties* : des quatrains rimés, groupés par centaines (d'où le nom de « Centuries »), écrits dans une langue volontairement énigmatique. Catherine de Médicis le consulte, et Charles IX le nomme médecin ordinaire en 1564.
+texte: La réputation des Centuries vient de leur obscurité même : sans dates ni noms clairs, les quatrains ont été rapportés après coup à la Révolution, à Napoléon, à Hitler ou aux attentats de 2001, mais n'ont jamais permis d'annoncer un événement avant qu'il se produise. Nostradamus était d'abord un astrologue de son temps, qui travaillait avec des éphémérides et des chroniques historiques.
+voir: astrologie, divination, ephemerides
+
+@ john-dee
+cat: figures
+nom: John Dee
+alias: Dee, docteur Dee, Mortlake, Monas
+dates: 1527 – 1608 ou 1609
+an: 1527
+def: Mathématicien, astrologue et conseiller d'Élisabeth Ire, qui chercha dans des conversations avec les anges, au moyen d'une pierre de vision, la clé de la connaissance universelle.
+texte: Esprit encyclopédique, Dee réunit à Mortlake, près de Londres, l'une des plus grandes bibliothèques d'Angleterre, enseigne la navigation aux explorateurs, écrit une célèbre préface à la traduction anglaise d'Euclide (1570) et forge l'idée d'un « empire britannique ». Astrologue de la reine, il choisit la date de son couronnement en 1559. Sa *[[monas-hieroglyphica|Monas hieroglyphica]]* (1564) condense en un seul signe toute la sagesse cosmique.
+texte: À partir de 1582, déçu des limites du savoir humain, il entreprend avec le voyant [[edward-kelley]] des séances où des anges, vus dans une pierre de cristal ou un miroir d'obsidienne, leur dictent une langue et un système magique, la [[magie-enochienne|magie énochienne]]. Les deux hommes parcourent la Pologne et la Bohême, jusqu'à la cour de l'empereur Rodolphe II. Dee meurt pauvre et oublié ; son miroir est conservé au British Museum.
+oeuvres: Propaedeumata aphoristica (1558) ; Monas hieroglyphica (1564) ; préface à l'Euclide anglais (1570)
+schema: monade-hieroglyphique
+voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie
+
+@ edward-kelley
+cat: figures
+nom: Edward Kelley
+alias: Edward Kelly, Talbot, Kelley
+dates: 1555 – 1597 ou 1598
+an: 1555
+def: Alchimiste et voyant anglais, compagnon de John Dee, qui servit d'intermédiaire dans ses conversations avec les anges, puis fit carrière d'alchimiste à la cour de Bohême.
+texte: Kelley entre au service de [[john-dee]] en 1582 comme « scryeur » : c'est lui qui voit les anges dans la pierre et rapporte leurs paroles, que Dee note scrupuleusement. Une rumeur tenace, invérifiable, prétend qu'il avait eu les oreilles coupées pour faux en écriture. En 1587, il annonce que les anges ordonnent aux deux hommes de partager leurs épouses, ce qui précipite leur séparation.
+texte: Resté en Bohême, Kelley prétend posséder une poudre de projection et devient alchimiste de l'empereur Rodolphe II, qui l'anoblit. Incapable de produire l'or promis, il est emprisonné et meurt captif, peut-être en tentant de s'évader. Le débat sur sa sincérité n'a jamais été tranché.
+voir: john-dee, magie-enochienne, cristallomancie, transmutation
+
+@ giordano-bruno
+cat: figures
+nom: Giordano Bruno
+alias: Bruno, le Nolain, Nolanus, univers infini
+dates: 1548 – 1600
+an: 1548
+def: Philosophe italien, ancien dominicain, qui défendit un univers infini peuplé de mondes innombrables, pratiqua l'art de la mémoire et la magie, et fut brûlé par l'Inquisition.
+texte: Né à Nola, près de Naples, Bruno quitte l'ordre dominicain et mène une vie errante à Genève, Toulouse, Paris, Londres, Wittenberg et Prague. Il pousse la révolution de Copernic bien au-delà de ce que pensait l'astronome : l'univers est infini, les étoiles sont des soleils entourés de planètes, et une âme divine anime le tout. Il développe un [[art-de-la-memoire|art de la mémoire]] fondé sur des images magiques et des roues combinatoires inspirées de [[raymond-lulle]], et écrit sur les liens magiques qui unissent les êtres.
+texte: Livré à l'Inquisition romaine, il refuse de se rétracter et meurt sur le bûcher, au Campo de' Fiori, le 17 février 1600. L'historienne [[frances-yates]] a fait de lui un mage hermétiste, ce que d'autres spécialistes jugent excessif ; il est en tout cas devenu un symbole de la liberté de pensée.
+voir: art-de-la-memoire, hermetisme, raymond-lulle, frances-yates, ame-du-monde
+
+@ isaac-louria
+cat: figures
+nom: Isaac Louria
+alias: Isaac Luria, l'Ari, Ari, kabbale lourianique, Safed
+dates: 1534 – 1572
+an: 1534
+def: Kabbaliste de Safed, en Galilée, dont l'enseignement sur la contraction de Dieu, la brisure des vases et la réparation du monde renouvela la kabbale.
+texte: Né à Jérusalem, élevé en Égypte, Isaac Louria s'installe à Safed en 1570, où vit une brillante communauté de kabbalistes après l'expulsion des juifs d'Espagne. Il y meurt deux ans plus tard, emporté par une épidémie, à trente-huit ans. Il n'a presque rien écrit ; son disciple Hayyim Vital met par écrit son enseignement, notamment dans *L'Arbre de vie*.
+texte: Le mythe lourianique raconte que Dieu, pour faire place au monde, s'est d'abord retiré en lui-même : c'est le [[tsimtsoum]]. La lumière qu'il a ensuite émise dans des réceptacles les a fait éclater : c'est la [[chevirat-ha-kelim|brisure des vases]], dont les éclats, mêlés d'étincelles divines, forment les puissances du mal. L'homme, par la prière et l'accomplissement des commandements, doit relever ces étincelles : c'est le [[tikkoun]], la réparation du monde.
+voir: tsimtsoum, chevirat-ha-kelim, tikkoun, kabbale, adam-kadmon
+
+@ heinrich-khunrath
+cat: figures
+nom: Heinrich Khunrath
+alias: Khunrath, Amphitheatrum, oratoire-laboratoire
+dates: 1560 – 1605
+an: 1560
+def: Médecin et alchimiste allemand, auteur de l'Amphithéâtre de la sagesse éternelle, dont les gravures unissent alchimie, kabbale chrétienne et prière.
+texte: Disciple de [[paracelse]], Khunrath exerce comme médecin à Hambourg et à Dresde et séjourne en Bohême. Son *[[amphitheatrum|Amphithéâtre de la sagesse éternelle]]* (1595, édition augmentée en 1609) est célèbre pour ses grandes planches circulaires : l'une montre l'alchimiste à genoux dans une pièce qui est à la fois oratoire et laboratoire : la prière et le travail du fourneau n'y font qu'un.
+texte: Pour Khunrath, l'œuvre alchimique est inséparable de la prière et de la contemplation des Écritures et de la nature ; le Christ est la vraie [[pierre-philosophale]]. Il annonce la sensibilité des manifestes [[rose-croix]].
+voir: amphitheatrum, alchimie, kabbale-chretienne, pierre-philosophale, emblemes
+
+@ michael-maier
+cat: figures
+nom: Michael Maier
+alias: Michel Maïer, Maier, Atalanta fugiens
+dates: 1568 – 1622
+an: 1568
+def: Médecin et alchimiste allemand, médecin de l'empereur Rodolphe II, auteur de l'Atalante fugitive, recueil d'emblèmes alchimiques accompagnés de musique.
+texte: Maier, nommé comte palatin par Rodolphe II, publie à partir de 1614 une série d'ouvrages où il lit les mythes grecs et égyptiens comme des allégories de l'œuvre alchimique. Son *[[atalanta-fugiens|Atalanta fugiens]]* (1617) réunit cinquante emblèmes : chacun associe une gravure, une devise, une épigramme, un commentaire et une fugue à trois voix, pour que l'œil, l'oreille et l'esprit reçoivent ensemble l'enseignement.
+texte: Maier fut aussi le principal défenseur savant des [[rose-croix|Rose-Croix]], dans sa *Themis aurea* (1618) et d'autres traités, bien qu'il n'ait jamais prétendu en faire partie.
+oeuvres: Arcana arcanissima (1614) ; Atalanta fugiens (1617) ; Symbola aureae mensae (1617) ; Themis aurea (1618)
+voir: atalanta-fugiens, emblemes, rose-croix, alchimie
+
+@ robert-fludd
+cat: figures
+nom: Robert Fludd
+alias: Fludd, Robertus de Fluctibus
+dates: 1574 – 1637
+an: 1574
+def: Médecin et philosophe anglais, défenseur des Rose-Croix, qui représenta dans de grandes gravures l'harmonie du macrocosme et du microcosme.
+texte: Membre du collège des médecins de Londres, Fludd publie à Oppenheim, de 1617 à 1621, une histoire « des deux mondes », le grand et le petit, illustrée par l'atelier de Johann Theodor de Bry. On y voit le monocorde du monde, dont la corde tendue par la main de Dieu relie la Terre aux cieux selon les intervalles de la musique, et l'homme inscrit dans les cercles du cosmos. Il prend la défense des [[rose-croix|Rose-Croix]] dès 1616.
+texte: Fludd polémique avec Kepler, Mersenne et Gassendi, qui lui reprochent de mêler la Bible, la kabbale et la physique : ces querelles marquent le moment où la science moderne se sépare de la philosophie occulte. Il défend aussi l'« onguent armaire », qui guérirait une blessure à distance en soignant l'arme qui l'a faite.
+voir: microcosme-macrocosme, harmonie-des-spheres, rose-croix, michael-maier, sympathie-universelle
+
+@ jakob-boehme
+cat: figures
+nom: Jakob Boehme
+alias: Jacob Böhme, Jacob Boehme, Böhme, le cordonnier de Görlitz, philosophe teutonique, Ungrund
+dates: 1575 – 1624
+an: 1575
+def: Cordonnier et mystique de Görlitz, en Lusace, dont les visions sur la naissance de Dieu et de la nature fondèrent la théosophie chrétienne.
+texte: En 1600, Boehme est saisi d'une illumination en contemplant le reflet du soleil sur un plat d'étain : il croit voir le fond de toutes choses. Il met douze ans à l'écrire ; son premier livre, *[[aurore-naissante|L'Aurore naissante]]* (1612), circule en manuscrit et lui vaut l'interdiction d'écrire par le pasteur de la ville. Il reprend pourtant la plume et compose une vingtaine de traités, dont *De la signature des choses* et le *Mysterium magnum*.
+texte: Sa pensée part d'un abîme sans fond, l'*Ungrund*, d'où Dieu se manifeste à lui-même à travers sept « qualités » ou forces, dans un jeu de colère et d'amour, de ténèbres et de lumière. La nature est la manifestation visible de cette vie divine, et chaque chose en porte la [[signatures|signature]]. Lu dans toute l'Europe, Boehme a inspiré la [[theosophie-chretienne|théosophie]], les piétistes, [[louis-claude-de-saint-martin]], Hegel et Schelling.
+oeuvres: L'Aurore naissante (1612) ; De la signature des choses (1622) ; Mysterium magnum (1623) ; Le Chemin vers le Christ (1624)
+voir: theosophie-chretienne, aurore-naissante, sophia, signatures, louis-claude-de-saint-martin
+
+@ johann-valentin-andreae
+cat: figures
+nom: Johann Valentin Andreae
+alias: Andreae, Andreä, Christianopolis
+dates: 1586 – 1654
+an: 1586
+def: Théologien luthérien du Wurtemberg, membre du cercle de Tübingen d'où sortirent les manifestes rose-croix, et auteur reconnu des Noces chymiques de Christian Rosenkreutz.
+texte: Petit-fils d'un célèbre théologien, Andreae fréquente à Tübingen un cercle d'amis — dont le médecin Tobias Hess — qui rêvent d'une réforme générale du savoir et de la chrétienté. De ce milieu sortent la *[[fama-fraternitatis|Fama Fraternitatis]]* et la *[[confessio-fraternitatis|Confessio]]*. Andreae reconnaît dans son autobiographie avoir écrit, jeune, les *[[noces-chymiques|Noces chymiques]]*, parues en 1616.
+texte: Devant l'agitation provoquée par les manifestes, il qualifie la Rose-Croix de « jeu » (*ludibrium*) et propose d'autres projets de sociétés chrétiennes. Sa *Christianopolis* (1619) décrit une cité idéale gouvernée par la piété et la science. Le rôle exact qu'il a joué dans la rédaction des manifestes reste discuté.
+voir: rose-croix, noces-chymiques, fama-fraternitatis, christian-rosenkreutz
+
+@ christian-rosenkreutz
+cat: figures
+nom: Christian Rosenkreutz
+alias: Christian Rose-Croix, frère C.R.C., C.R.C., Rosencreutz
+dates: figure légendaire (1378 – 1484 selon la légende)
+an: 1378
+def: Fondateur légendaire de la Fraternité de la Rose-Croix, dont la vie, la mort et la découverte du tombeau sont racontées dans les manifestes du XVIIe siècle.
+texte: Selon la *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), le frère C.R.C., gentilhomme allemand né en 1378, voyage en Orient — à Damas, en Arabie, à Fès — où il reçoit des sages une science de la nature et des correspondances. De retour en Allemagne, il fonde avec quelques compagnons une fraternité secrète de médecins qui soignent gratuitement et se retrouvent chaque année. Il meurt à cent six ans, en 1484, et son tombeau, caché dans une crypte à sept côtés éclairée d'un soleil intérieur, est découvert en 1604.
+texte: Les *[[noces-chymiques|Noces chymiques]]* (1616) racontent son voyage initiatique, en sept jours, vers les noces d'un roi et d'une reine. Les historiens tiennent Christian Rosenkreutz pour un personnage de fiction ; les ordres rosicruciens modernes en font un véritable maître, voire un être réincarné.
+voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose
+
+@ basile-valentin
+cat: figures
+nom: Basile Valentin
+alias: Basilius Valentinus, Douze Clefs, Char triomphal de l'antimoine
+dates: auteur supposé du XVe siècle ; œuvres publiées à partir de 1599
+an: 1599
+def: Moine bénédictin imaginaire, présenté comme un alchimiste du XVe siècle, sous le nom duquel parurent à partir de 1599 des traités alchimiques très influents.
+texte: Les *Douze Clefs de philosophie* (1599) et le *Char triomphal de l'antimoine* (1604) sont publiés par Johann Thölde, fonctionnaire des salines de Thuringe, qui les présente comme l'œuvre d'un moine d'Erfurt du XVe siècle ; aucun moine de ce nom n'a été retrouvé, et les historiens voient en Thölde ou dans son entourage les véritables auteurs. Ces textes, marqués par [[paracelse]], décrivent la préparation de remèdes à base d'[[antimoine]].
+texte: Les douze gravures des *Clefs*, très commentées, représentent les étapes du [[grand-oeuvre|Grand Œuvre]] : le loup qui dévore le roi, le dragon, le coq et le renard. C'est dans un traité attribué à Basile Valentin qu'apparaît l'acrostiche [[vitriol|V.I.T.R.I.O.L.]]
+voir: antimoine, vitriol, grand-oeuvre, lion-vert, alchimie
+
+@ michel-sendivogius
+cat: figures
+nom: Michel Sendivogius
+alias: Michał Sędziwój, Sendivogius, Novum lumen chymicum, nitre aérien
+dates: 1566 – 1636
+an: 1566
+def: Alchimiste polonais de la cour de Rodolphe II, auteur de la Nouvelle Lumière chimique, qui voyait dans un « nitre » contenu dans l'air l'aliment caché de la vie.
+texte: Diplomate au service du roi de Pologne et de l'empereur, Sendivogius passe pour avoir réussi des transmutations devant témoins, avec une poudre qu'il aurait héritée de l'alchimiste écossais Alexander Seton. Son *Novum lumen chymicum* (1604), publié anonymement, devient l'un des traités les plus lus du XVIIe siècle ; Newton l'annote.
+texte: Il y décrit une substance, le « nitre aérien », présente dans l'air et dans la rosée, qui nourrit la vie et la combustion. Certains historiens des sciences y ont vu une intuition de l'oxygène, découvert plus d'un siècle et demi plus tard ; d'autres mettent en garde contre cette lecture rétrospective.
+voir: alchimie, rosee, mercure-philosophique, isaac-newton
+
+@ athanasius-kircher
+cat: figures
+nom: Athanase Kircher
+alias: Athanasius Kircher, Kircher, Œdipe égyptien
+dates: 1602 – 1680
+an: 1602
+def: Jésuite allemand, savant universel du Collège romain, qui crut déchiffrer les hiéroglyphes égyptiens comme des symboles d'une sagesse divine.
+texte: Professeur à Rome, Kircher écrit sur le magnétisme, la musique, l'optique, les volcans, la Chine et la langue des origines, et réunit un musée de curiosités. Dans son *Œdipe égyptien* (1652-1654), il interprète les [[hieroglyphes]] non comme une écriture mais comme des emblèmes philosophiques, et rattache l'Égypte à l'[[hermetisme]], à la [[kabbale]] et à Platon.
+texte: Ses lectures ont été balayées par le déchiffrement de Champollion, mais son œuvre, abondamment illustrée, a nourri l'imaginaire ésotérique, de l'[[egyptosophie]] à l'[[arbre-des-sephiroth|arbre kabbalistique]], dont il popularise une représentation.
+voir: hieroglyphes, egyptosophie, kabbale-chretienne, hermetisme
+
+@ knorr-von-rosenroth
+cat: figures
+nom: Christian Knorr von Rosenroth
+alias: Knorr von Rosenroth, Knorr, Kabbala denudata
+dates: 1636 – 1689
+an: 1636
+def: Érudit et poète allemand, éditeur de la Kabbala denudata, qui donna aux chrétiens la plus vaste traduction latine de textes kabbalistiques.
+texte: Conseiller du comte palatin de Sulzbach, Knorr von Rosenroth étudie l'hébreu avec des rabbins et publie entre 1677 et 1684 les deux volumes de la *[[kabbala-denudata|Kabbala denudata]]*, « la kabbale dévoilée » : des parties du [[zohar|Zohar]], des textes de la kabbale de [[isaac-louria|Louria]] et un lexique, traduits en latin. Il est aidé par François-Mercure van Helmont, fils du célèbre chimiste.
+texte: Pour Knorr, la kabbale doit faciliter la conversion des juifs en montrant l'accord de leur tradition avec le christianisme. Son recueil est resté pendant deux siècles la principale source des chrétiens sur la kabbale ; la [[golden-dawn|Golden Dawn]] en a fait traduire une partie en anglais par [[samuel-liddell-mathers|Mathers]].
+voir: kabbala-denudata, kabbale-chretienne, zohar, isaac-louria
+
+@ elias-ashmole
+cat: figures
+nom: Elias Ashmole
+alias: Ashmole, Ashmolean
+dates: 1617 – 1692
+an: 1617
+def: Antiquaire, astrologue et alchimiste anglais, l'un des premiers francs-maçons dont l'initiation soit attestée, fondateur du musée Ashmolean d'Oxford.
+texte: Ashmole note dans son journal qu'il a été reçu franc-maçon le 16 octobre 1646 à Warrington, dans une loge composée en majorité de gentilshommes qui n'étaient pas des bâtisseurs : c'est l'un des plus anciens témoignages d'une [[franc-maconnerie]] « spéculative ». Passionné d'[[astrologie]] et d'[[alchimie]], il publie en 1652 le *Theatrum chemicum Britannicum*, anthologie de poèmes alchimiques anglais.
+texte: Il réunit d'importantes collections de manuscrits, dont ceux de [[john-dee]], et les donne en 1683 à l'université d'Oxford avec le cabinet de curiosités de la famille Tradescant : c'est l'origine du premier musée public d'Angleterre.
+voir: franc-maconnerie, alchimie, astrologie, john-dee
+
+@ eirenee-philalethe
+cat: figures
+nom: Eyrénée Philalèthe
+alias: Eirenaeus Philalethes, Irénée Philalèthe, Philalèthe, George Starkey, Introitus apertus
+dates: pseudonyme de George Starkey (1628 – 1665)
+an: 1628
+def: Pseudonyme sous lequel l'alchimiste américain George Starkey publia des traités célèbres, dont l'Entrée ouverte au palais fermé du roi, lus par Boyle et Newton.
+texte: George Starkey, né aux Bermudes et formé à Harvard, s'installe à Londres en 1650. Il y fait circuler des traités qu'il attribue à un mystérieux adepte, Eyrénée Philalèthe (« l'ami pacifique de la vérité »), qui aurait réussi la [[pierre-philosophale]] à vingt-trois ans. *L'Entrée ouverte au palais fermé du roi* (publiée en 1667) devient l'un des classiques de l'[[alchimie]].
+texte: Les historiens William Newman et Lawrence Principe ont montré que Starkey était aussi un chimiste de laboratoire rigoureux, dont les carnets décrivent de véritables expériences, et qu'il a fortement influencé Robert Boyle. [[isaac-newton]] a recopié et annoté ses traités.
+voir: alchimie, isaac-newton, mercure-philosophique, pierre-philosophale
+
+@ isaac-newton
+cat: figures
+nom: Isaac Newton
+alias: Newton, Newton alchimiste
+dates: 1643 – 1727
+an: 1643
+def: Physicien et mathématicien anglais, fondateur de la mécanique classique, qui consacra aussi des décennies à l'alchimie, à la théologie et à l'interprétation des prophéties.
+texte: Newton a laissé plus d'un million de mots sur l'[[alchimie]] : copies de traités, dont ceux d'[[eirenee-philalethe|Eyrénée Philalèthe]] et de [[michel-sendivogius|Sendivogius]], notes de lecture, index des termes alchimiques et comptes rendus d'expériences menées dans son laboratoire de Cambridge. Il cherchait dans l'alchimie les forces actives de la matière que sa mécanique ne pouvait expliquer.
+texte: Ces manuscrits, longtemps tenus cachés par ses héritiers, sont dispersés aux enchères en 1936 ; l'économiste John Maynard Keynes en achète une partie et conclut que Newton fut « non le premier de l'âge de la raison, mais le dernier des magiciens ». Les historiens nuancent aujourd'hui la formule : l'alchimie de Newton était une recherche expérimentale sérieuse, menée dans l'esprit de son temps.
+voir: alchimie, eirenee-philalethe, prisca-theologia

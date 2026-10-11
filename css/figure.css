@@ -1,0 +1,124 @@
+/*
+ * Les figures (js/figure.js et js/figures/*.js) : toutes leurs couleurs.
+ *
+ * Les dessins ne portent aucune couleur en dur : chaque forme a une classe,
+ * reliée ici aux variables du thème. Le même dessin vaut pour le vélin et la
+ * nuit, et un changement de palette se fait dans theme.css.
+ */
+
+.figure-svg { display: block; width: 100%; height: auto; max-width: 30rem; margin: 0 auto; font-family: var(--sans); overflow: visible; }
+
+/* Traits */
+.f-trait, .f-trait-doux, .f-trait-fort, .f-trait-pointille, .f-trait-epais, .f-trait-accent, .f-trait-fleur,
+.f-sentier, .f-etoile-trait, .f-etoile-trait-doux, .f-aspect-doux, .f-aspect-tendu, .f-axe, .f-paon, .f-ecaille {
+  fill: none; stroke-linecap: round; stroke-linejoin: round;
+}
+.f-trait { stroke: var(--encre-douce); stroke-width: 1.4; }
+.f-trait-doux { stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-trait-fort { stroke: var(--encre-douce); stroke-width: 2; }
+.f-trait-pointille { stroke: var(--encre-legere); stroke-width: 1.1; stroke-dasharray: 4 4; }
+.f-trait-epais { stroke: var(--or); stroke-width: 5; }
+.f-trait-accent { stroke: var(--accent); stroke-width: 1.6; }
+.f-trait-fleur { stroke: var(--accent); stroke-width: 1.1; opacity: .75; }
+.f-trait-plein { fill: var(--encre); stroke: none; }
+.f-pointe { fill: var(--encre-legere); stroke: none; }
+.f-axe { stroke: var(--trait-fort); stroke-width: 2; stroke-dasharray: 2 5; }
+
+/* Textes */
+.f-texte { fill: var(--encre); }
+.f-texte-doux { fill: var(--encre-legere); }
+.f-texte-accent { fill: var(--accent); }
+.f-texte-actif { fill: var(--sur-accent); }
+.f-texte-tendu { fill: var(--bad); }
+.f-texte-sur-age { fill: #1b1720; }
+.f-texte-blanc { fill: #ffffff; }
+.f-gras { font-weight: 700; }
+.f-italique { font-style: italic; }
+.f-serif { font-family: var(--serif); }
+.f-hebreu { fill: var(--accent); font-family: "SBL Hebrew", "Ezra SIL", "Noto Serif Hebrew", "Times New Roman", serif; }
+
+/* Formes pleines */
+.f-boite { fill: var(--fond); stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-boite-forte { fill: var(--accent-clair); stroke: var(--accent); stroke-width: 1.3; }
+.f-boite-sombre { fill: var(--trait); stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-case { fill: var(--fond); stroke: var(--trait); stroke-width: 1; }
+.f-case-claire { fill: var(--carte); stroke: var(--trait); stroke-width: 1; }
+.f-case-forte { fill: var(--accent-clair); stroke: var(--accent); stroke-width: 1; }
+.f-case-moyenne { fill: var(--or-clair); stroke: var(--trait-fort); stroke-width: 1; }
+.f-point { fill: var(--encre-douce); }
+.f-point-accent { fill: var(--or); }
+.f-etoile { fill: var(--or); }
+.f-fond-page { fill: var(--carte); }
+.f-fond-page-trait { fill: var(--carte); stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-actif { fill: var(--accent); stroke: var(--accent); stroke-width: 1.4; }
+.f-actif-fort { stroke: var(--accent) !important; stroke-width: 2.6 !important; }
+.f-halo { fill: none; stroke: var(--accent); stroke-width: 2.5; stroke-dasharray: 3 4; }
+
+/* Signes posés dans une figure : l'épaisseur du trait ne suit pas l'échelle */
+.glyphe-pose .glyphe-trait { fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+.glyphe-pose .glyphe-point { fill: currentColor; }
+.f-glyphe { color: var(--encre); }
+.f-glyphe-accent { color: var(--or); }
+.f-glyphe-actif { color: var(--sur-accent); }
+.f-glyphe-doux { color: var(--encre-legere); }
+
+/* L'arbre des séphiroth */
+.f-sentier { stroke: var(--trait-fort); stroke-width: 2.2; }
+.f-sentier-actif { stroke: var(--accent); stroke-width: 3; }
+.f-sephira { fill: var(--carte); stroke: var(--or); stroke-width: 1.8; }
+.f-sephira.f-actif { fill: var(--accent); stroke: var(--accent); }
+.f-cachee { fill: var(--fond); stroke: var(--encre-legere); stroke-width: 1.2; stroke-dasharray: 3 3; }
+
+/* Éléments et couleurs de l'œuvre */
+.f-el-feu { fill: var(--el-feu); stroke: var(--trait-fort); stroke-width: .8; }
+.f-el-terre { fill: var(--el-terre); stroke: var(--trait-fort); stroke-width: .8; }
+.f-el-air { fill: var(--el-air); stroke: var(--trait-fort); stroke-width: .8; }
+.f-el-eau { fill: var(--el-eau); stroke: var(--trait-fort); stroke-width: .8; }
+.f-noir { fill: #1b1720; stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-blanc { fill: #f7f5ef; stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-jaune { fill: #e2b33a; stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-rouge { fill: #a8261e; stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-paon { stroke: var(--accent); stroke-width: 3; stroke-dasharray: 2 4; }
+
+/* Étoiles, aspects */
+.f-etoile-trait { stroke: var(--accent); stroke-width: 1.8; }
+.f-etoile-trait-doux { stroke: var(--or); stroke-width: 1.6; }
+.f-aspect-doux { stroke: var(--ok); stroke-width: 1.6; }
+.f-aspect-tendu { stroke: var(--bad); stroke-width: 1.6; stroke-dasharray: 5 3; }
+
+/* L'ouroboros */
+.f-serpent { fill: none; stroke: var(--or); stroke-width: 15; stroke-linecap: round; }
+.f-serpent-queue { fill: none; stroke: var(--or); stroke-width: 7; stroke-linecap: round; }
+.f-serpent-tete { fill: var(--or); }
+.f-oeil { fill: var(--fond); }
+.f-ecaille { stroke: var(--fond); stroke-width: 1.2; opacity: .55; }
+
+/* Divers */
+.f-amande { fill: var(--accent-clair); stroke: none; }
+.f-soleil-un { fill: var(--or-clair); stroke: var(--or); stroke-width: 2; }
+.f-chakra { fill: var(--carte); stroke: var(--accent); stroke-width: 1.6; }
+.f-strate-0 { fill: var(--trait); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-1 { fill: var(--fond); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-2 { fill: var(--el-air); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-3 { fill: var(--accent-clair); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-4 { fill: var(--el-eau); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-5 { fill: var(--or-clair); stroke: var(--trait-fort); stroke-width: 1; }
+.f-strate-6 { fill: var(--carte); stroke: var(--or); stroke-width: 1.4; }
+.f-age-or { fill: #d9b44a; }
+.f-age-argent { fill: #c3c7cf; }
+.f-age-bronze { fill: #b9814b; }
+.f-age-fer { fill: #6d6f78; }
+.f-carte-cadre { fill: var(--carte); stroke: var(--trait-fort); stroke-width: 1.2; }
+.f-carte-interieur { fill: none; stroke: var(--or); stroke-width: .7; opacity: .7; }
+
+/* Les groupes : sans style propre, ils rassemblent ce qu'un lien rend cliquable */
+.f-phase, .f-sommet, .f-operation, .f-secteur-zodiaque, .f-ligne-table, .f-sentiers, .f-noeud, .f-niveau { }
+
+/* Les éléments cliquables d'une figure ouvrent un article */
+.f-lien { cursor: pointer; }
+.f-lien:hover .f-sephira:not(.f-actif), .f-lien:hover .f-carte-cadre, .f-lien:hover .f-case, .f-lien:hover .f-case-claire { stroke: var(--accent); }
+.f-lien:hover [class^="f-el-"] { stroke: var(--accent); stroke-width: 1.6; }
+.f-lien:focus { outline: none; }
+.f-lien:focus-visible .f-sephira, .f-lien:focus-visible .f-carte-cadre, .f-lien:focus-visible rect, .f-lien:focus-visible path:first-child {
+  stroke: var(--accent); stroke-width: 3;
+}

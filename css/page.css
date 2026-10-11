@@ -1,0 +1,17 @@
+/* Pages de texte (confidentialité) : sobres, lisibles, vélin ou nuit. */
+@import url("theme.css");
+
+* { box-sizing: border-box; }
+html { font-size: 17px; -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0 auto; padding: 1.2rem 1.1rem 3rem; max-width: 42rem;
+  background: var(--fond); color: var(--encre); font: 1rem/1.65 var(--serif);
+}
+h1 { font-size: 1.7rem; line-height: 1.2; margin: .5rem 0 1rem; }
+h2 { font-size: 1.25rem; margin: 2rem 0 .5rem; }
+a { color: var(--accent); }
+code { font: .88em ui-monospace, Consolas, monospace; background: var(--accent-clair); padding: .05em .3em; border-radius: 4px; }
+ul { padding-left: 1.3rem; }
+li { margin: .3rem 0; }
+.retour { margin: 0 0 .5rem; font-family: var(--sans); }
+.mise-a-jour { color: var(--encre-legere); font-size: .9rem; }

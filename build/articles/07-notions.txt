@@ -1,0 +1,424 @@
+# Notions et doctrines.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ exoterique
+cat: notions
+nom: Exotérique
+alias: exotérisme, exoterisme, ésotérique et exotérique, acroamatique
+def: Se dit d'un enseignement destiné au public, par opposition à l'enseignement ésotérique, réservé à un cercle d'initiés.
+texte: La distinction remonte à l'Antiquité : on disait qu'Aristote donnait des leçons « exotériques », ouvertes à tous, et des leçons réservées à ses élèves avancés, dites « acroamatiques » ou ésotériques. Les écoles de [[pythagore]] et de [[platon]] passaient aussi pour avoir un double enseignement.
+texte: [[rene-guenon]] a fait de ce couple une clé de lecture des religions : chacune aurait une face exotérique, la loi et les rites communs à tous, et une face ésotérique, la voie de connaissance réservée à quelques-uns — le [[soufisme]] pour l'islam, la [[kabbale]] pour le judaïsme. Les historiens rappellent que cette répartition simplifie beaucoup des réalités historiques complexes.
+voir: esoterisme, occulte, initiation, traditionalisme
+
+@ occulte
+cat: notions
+nom: Occulte
+alias: sciences occultes, qualités occultes, vertus occultes, occultus
+def: Ce qui est caché aux sens ou à la connaissance ordinaire ; on appelle « sciences occultes » la magie, l'astrologie, l'alchimie et les arts divinatoires.
+texte: En latin, *occultus* signifie « caché ». La philosophie médiévale appelait « qualités occultes » les propriétés des choses qu'on ne pouvait expliquer par les quatre qualités élémentaires mais seulement constater par leurs effets : l'attraction de l'aimant, l'action d'un poison ou d'un remède. Connaître et utiliser ces forces était l'objet de la [[philosophie-occulte]] de la Renaissance.
+texte: L'expression « sciences occultes » se répand au XVIIIe siècle et devient au XIXe le drapeau de l'[[occultisme]]. Pour la science moderne, les effets jadis dits occultes — la gravitation de Newton fut d'abord accusée d'en être une — doivent être expliqués par des lois mesurables.
+attention: L'occulte (ce qui est caché) n'est pas l'[[esoterisme|ésotérique]] (ce qui est réservé) : un phénomène peut être caché sans que personne le garde secret.
+voir: philosophie-occulte, occultisme, esoterisme, sympathie-universelle
+
+@ mystique
+cat: notions
+nom: Mystique
+alias: mysticisme, mystiques, expérience mystique, union mystique
+def: Expérience d'union directe et intime avec le divin ou l'absolu, et ensemble des doctrines et des pratiques qui y conduisent.
+texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : Maître Eckhart, Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
+texte: [[antoine-faivre]] distingue la mystique de l'ésotérisme : le mystique tend à dépasser toutes les images et tous les intermédiaires pour s'unir à Dieu, tandis que l'ésotériste s'attache aux symboles, aux [[correspondances]] et aux êtres intermédiaires, et cherche à connaître autant qu'à s'unir. Les deux attitudes se mêlent souvent chez les mêmes auteurs.
+voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne
+
+@ initiation
+cat: notions
+nom: Initiation
+alias: initié, initiés, initiatique, rite de passage, rites initiatiques, initiation régulière
+def: Ensemble de rites et d'enseignements par lesquels une personne est admise dans un groupe ou un état nouveau, souvent vécu comme une mort et une renaissance symboliques.
+texte: L'ethnologue Arnold van Gennep a montré en 1909 que les rites de passage suivent un même schéma : séparation, épreuves dans un état intermédiaire, puis réintégration sous un statut nouveau. Les [[mysteres-antiques|mystères]] de l'Antiquité, les confréries de métiers, la [[franc-maconnerie]] et la plupart des ordres ésotériques organisent ainsi l'entrée de leurs membres, puis leur progression par [[grades-maconniques|grades]].
+texte: Pour les ésotéristes, l'initiation n'est pas seulement l'entrée dans une société : elle transmet une influence spirituelle et éveille des facultés cachées. [[rene-guenon]] insiste sur la nécessité d'une initiation « régulière », transmise par une chaîne ininterrompue, et oppose l'initiation à la [[mystique]], qui serait passive. L'initiation se double presque toujours d'un secret, qui protège moins un savoir qu'une expérience.
+voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore
+
+@ correspondances
+cat: notions
+nom: Correspondances
+alias: correspondance, loi d'analogie, analogie, analogie universelle, ce qui est en haut
+def: Idée selon laquelle toutes les parties de l'univers, visibles et invisibles, se répondent entre elles par des liens symboliques et réels, si bien qu'on peut lire l'une dans l'autre.
+texte: Pour [[antoine-faivre]], c'est le premier trait de la pensée ésotérique. Les correspondances unissent les planètes aux métaux, aux jours, aux couleurs, aux plantes et aux organes ; elles unissent le [[microcosme-macrocosme|microcosme et le macrocosme]] ; elles unissent aussi le monde à l'Écriture, que l'on peut lire comme un second livre de la nature. La formule de la [[table-d-emeraude|Table d'émeraude]], « ce qui est en bas est comme ce qui est en haut », en est l'expression la plus célèbre.
+texte: [[emanuel-swedenborg]] a donné à la notion une forme systématique, et Baudelaire l'a rendue célèbre par son sonnet *Correspondances* (1857) : « La Nature est un temple où de vivants piliers / Laissent parfois sortir de confuses paroles. » L'[[astrologie]], la [[magie-naturelle]], la doctrine des [[signatures]] et l'[[alchimie]] reposent sur cette pensée analogique.
+schema: planetes-septenaire
+voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme
+
+@ microcosme-macrocosme
+cat: notions
+nom: Microcosme et macrocosme
+alias: microcosme, macrocosme, petit monde, grand monde, homme zodiacal
+def: Doctrine selon laquelle l'homme est un « petit monde » qui reproduit en lui la structure du « grand monde », l'univers, de sorte que l'un éclaire l'autre.
+texte: L'idée est grecque : Démocrite aurait appelé l'homme un petit monde, et le *Timée* de [[platon]] décrit l'âme humaine et l'[[ame-du-monde|âme du monde]] faites de la même étoffe. Le Moyen Âge dessine l'homme zodiacal, chaque signe gouvernant une partie du corps, du Bélier pour la tête aux Poissons pour les pieds : c'est la [[melothesie]].
+texte: À la Renaissance, [[paracelse]] fonde sa médecine sur cette correspondance : le médecin doit connaître le ciel pour connaître le corps. [[robert-fludd]] la représente dans de grandes gravures où l'homme s'inscrit dans les cercles du cosmos. L'occultisme en fait l'un de ses principes, souvent figuré par le [[pentagramme]] humain ou par l'[[hexagramme]].
+voir: correspondances, melothesie, paracelse, robert-fludd, table-d-emeraude
+
+@ ame-du-monde
+cat: notions
+nom: Âme du monde
+alias: anima mundi, âme universelle, esprit du monde, spiritus mundi
+def: Principe vivant qui animerait l'univers entier comme l'âme anime un corps, et relierait toutes ses parties entre elles.
+texte: Dans le *Timée*, [[platon]] décrit le monde comme un vivant doté d'une âme, que le [[demiurge]] a façonnée selon des proportions musicales. Les stoïciens parlent d'un souffle divin qui traverse toutes choses ; [[plotin]] fait de l'Âme le troisième principe, après l'Un et l'Intellect.
+texte: [[marsile-ficin]] y ajoute un « esprit du monde », substance très subtile, par laquelle l'âme du monde transmet aux corps les influences des astres : c'est ce qui rend possible la magie naturelle. [[giordano-bruno]], les alchimistes et la [[naturphilosophie]] de Schelling — auteur d'un traité *De l'âme du monde* (1798) — reprennent l'idée d'une nature vivante. L'[[occultisme]] l'identifie à la [[lumiere-astrale]].
+voir: platon, neoplatonisme, sympathie-universelle, lumiere-astrale, naturphilosophie
+
+@ sympathie-universelle
+cat: notions
+nom: Sympathie universelle
+alias: sympathie, sympathies, antipathie, antipathies, sympatheia
+def: Lien caché par lequel des choses semblables s'attirent et agissent les unes sur les autres à distance, fondement de la magie naturelle.
+texte: Les stoïciens appelaient *sympatheia* la solidarité de toutes les parties du cosmos : la Lune agit sur les marées, le Soleil sur les plantes. [[plotin]] explique la magie par ces sympathies naturelles, que le magicien ne crée pas mais utilise. On y joint les antipathies : le lion craindrait le coq, l'aimant perdrait sa force en présence de l'ail.
+texte: La Renaissance en fait un système. [[marsile-ficin]], [[cornelius-agrippa]] et Giambattista Della Porta dressent des listes de choses solaires, lunaires ou saturniennes, que l'on peut combiner pour attirer une influence. La « poudre de sympathie » du XVIIe siècle prétendait guérir une plaie en traitant le sang resté sur un linge.
+voir: correspondances, magie-naturelle, signatures, ame-du-monde, philosophie-occulte
+
+@ signatures
+cat: notions
+nom: Signatures
+alias: doctrine des signatures, signature des choses, signatura rerum
+def: Doctrine selon laquelle Dieu a marqué chaque chose d'un signe visible qui révèle ses vertus cachées, en particulier les vertus médicinales des plantes.
+texte: La noix, dont l'intérieur ressemble au cerveau, soignerait la tête ; l'euphraise, dont la fleur porte une tache en forme d'œil, les yeux ; la pulmonaire, aux feuilles tachetées comme un poumon, la poitrine. [[paracelse]] en fait un principe de sa médecine : la nature est un livre qu'il faut savoir lire.
+texte: [[jakob-boehme]] approfondit la notion dans *De la signature des choses* (1622) : chaque être exprime par sa forme, sa couleur et son son la force intérieure qui l'a produit. La doctrine des signatures a guidé la pharmacie populaire pendant des siècles ; la botanique moderne a montré que la ressemblance d'une plante avec un organe ne dit rien de ses propriétés.
+voir: correspondances, paracelse, jakob-boehme, sympathie-universelle, magie-naturelle
+
+@ harmonie-des-spheres
+cat: notions
+nom: Harmonie des sphères
+alias: musique des sphères, musica mundana, harmonie céleste
+def: Idée d'origine pythagoricienne selon laquelle les mouvements des astres produisent une musique, ou du moins obéissent aux mêmes rapports de nombres que les accords musicaux.
+texte: Les pythagoriciens découvrent que l'octave, la quinte et la quarte répondent aux rapports simples 2/1, 3/2 et 4/3 entre les longueurs des cordes. Ils en concluent que les planètes, tournant à des distances proportionnées, émettent des sons accordés que nous n'entendons pas, parce que nous les entendons depuis toujours. [[platon]], dans le mythe d'Er, place une sirène sur chaque sphère céleste.
+texte: Boèce distingue la musique du monde, celle du corps et de l'âme humains, et la musique des instruments. Johannes Kepler, en 1619, cherche encore dans *L'Harmonie du monde* les accords des planètes — et y énonce sa troisième loi du mouvement planétaire. [[robert-fludd]] en a donné l'image du monocorde cosmique.
+schema: cosmos-geocentrique
+voir: pythagorisme, pythagore, tetractys, robert-fludd, planetes
+
+@ emanation
+cat: notions
+nom: Émanation
+alias: émanatisme, procession, emanation
+def: Doctrine selon laquelle toutes choses découlent d'un principe premier par une série de degrés, comme la lumière rayonne d'une source, plutôt que d'être créées à partir de rien.
+texte: [[plotin]] en donne le modèle : l'Un, surabondant, produit l'Intellect sans rien perdre de lui-même, l'Intellect produit l'Âme, et ainsi de suite jusqu'à la matière, de plus en plus éloignée de la source. Le chemin du retour, ou « conversion », remonte les mêmes degrés.
+texte: Le schéma émanatiste se retrouve dans les [[eon|éons]] du [[gnosticisme]], dans les [[sephiroth|séphiroth]] de la [[kabbale]], dans la hiérarchie des anges du [[pseudo-denys]] et chez [[martinez-de-pasqually]]. Il s'accorde mal avec la doctrine chrétienne d'une création libre à partir de rien, ce qui l'a rendu suspect aux théologiens.
+schema: emanation-plotin
+voir: neoplatonisme, plotin, sephiroth, eon, pseudo-denys
+
+@ plerome
+cat: notions
+nom: Plérôme
+alias: pleroma, plénitude
+def: Dans le gnosticisme, la « plénitude » du monde divin, formée de l'ensemble des éons qui émanent du Dieu suprême.
+texte: Le mot grec *plêrôma* signifie « plénitude ». Chez les [[valentin|valentiniens]], le Plérôme rassemble trente [[eon|éons]] groupés en couples, issus du Père inconnaissable et de son Silence. Il est séparé du monde inférieur par une limite, l'*Horos*, que franchit la faute de [[sophia]].
+texte: Le salut, pour les gnostiques, est le retour de l'élément spirituel de l'homme dans le Plérôme. [[carl-gustav-jung]] a repris le mot pour désigner une totalité originelle où les contraires ne sont pas encore séparés.
+voir: gnosticisme, eon, sophia, valentin, demiurge
+
+@ demiurge
+cat: notions
+nom: Démiurge
+alias: demiurgos, Ialdabaoth, Yaldabaoth, artisan du monde
+def: Artisan divin qui façonne le monde : bienveillant chez Platon, il devient chez les gnostiques un dieu inférieur et ignorant, auteur d'un monde imparfait.
+texte: Dans le *Timée* de [[platon]], le démiurge (« artisan ») est un dieu bon qui, regardant les Idées éternelles, organise la matière en un cosmos aussi beau que possible. Pour de nombreux [[gnosticisme|gnostiques]], le créateur du monde matériel est au contraire un être né d'une faute — souvent fils de [[sophia]] —, ignorant le vrai Dieu qui est au-dessus de lui.
+texte: Certains textes l'appellent Ialdabaoth et l'identifient au Dieu de l'Ancien Testament, qui s'écrie : « Je suis un Dieu jaloux, il n'y en a pas d'autre que moi. » Les [[archonte|archontes]] qui l'assistent gouvernent les planètes et retiennent les âmes prisonnières.
+voir: gnosticisme, archonte, sophia, platon, plerome
+
+@ eon
+cat: notions
+nom: Éon
+alias: éons, aiôn, aion, éon d'Horus
+def: Dans le gnosticisme, chacune des puissances divines émanées du Dieu suprême et formant le plérôme ; plus largement, un très long âge du monde.
+texte: Le grec *aiôn* signifie « durée », « éternité ». Les gnostiques l'emploient pour les entités spirituelles qui composent le [[plerome]], souvent groupées par couples masculin-féminin, les « syzygies » : l'Abîme et le Silence, l'Intellect et la Vérité, le Verbe et la Vie… La dernière, [[sophia]], est à l'origine de la chute.
+texte: Le mot a gardé le sens d'ère cosmique : [[aleister-crowley]] annonce en 1904 la fin de l'« éon d'Osiris » et le début de l'« éon d'Horus », l'âge de l'enfant couronné.
+voir: plerome, gnosticisme, sophia, thelema
+
+@ archonte
+cat: notions
+nom: Archontes
+alias: archonte, archons, gouverneurs, puissances
+def: Dans le gnosticisme, les puissances qui gouvernent le monde matériel, souvent associées aux sept planètes, et qui retiennent les âmes captives.
+texte: Le mot grec signifie « chefs », « gouverneurs ». Pour les [[gnosticisme|gnostiques]], les archontes, créatures du [[demiurge]], règnent chacun sur une sphère planétaire et ont façonné le corps humain pour y enfermer l'étincelle divine. Le destin astrologique, la fatalité, est leur œuvre.
+texte: À la mort, l'âme doit traverser leurs sphères ; certains textes lui fournissent les mots de passe à prononcer devant chaque gardien. Les épîtres de Paul parlent déjà des « principautés » et des « puissances » de ce monde, que les gnostiques ont interprétées en ce sens.
+voir: demiurge, gnosticisme, planetes, poimandres
+
+@ sophia
+cat: notions
+nom: Sophia
+alias: Sagesse divine, Vierge Sophia, sophiologie, Achamoth
+def: Figure de la Sagesse divine, personnifiée dans la Bible, devenue dans le gnosticisme l'éon dont la chute engendre le monde, et chez les théosophes chrétiens l'épouse céleste de l'âme.
+texte: Dans le livre des Proverbes, la Sagesse parle comme une personne : « Le Seigneur m'a créée au commencement de ses voies. » Les [[gnosticisme|gnostiques]] font d'elle le dernier des [[eon|éons]] : en voulant connaître le Père sans son conjoint, elle donne naissance à un avorton, le [[demiurge]], et à la matière ; repentante, elle est sauvée par le Christ.
+texte: Chez [[jakob-boehme]], la « Vierge Sophia » est le miroir de Dieu et la compagne qu'Adam a perdue en tombant ; l'âme doit retrouver avec elle une union intérieure. Cette figure traverse la [[theosophie-chretienne|théosophie chrétienne]] jusqu'aux penseurs russes de la « sophiologie », comme Vladimir Soloviev.
+voir: gnosticisme, pistis-sophia, jakob-boehme, eon, shekhina
+
+@ reintegration
+cat: notions
+nom: Réintégration
+alias: réintégration des êtres, apocatastase, restauration universelle
+def: Retour de l'homme, et de tous les êtres déchus, dans l'état de pureté et de puissance qu'ils possédaient avant la chute.
+texte: Le terme est au centre de la doctrine de [[martinez-de-pasqually]], exposée dans son *[[traite-de-la-reintegration|Traité de la réintégration des êtres]]* : l'homme a été émané par Dieu dans un corps glorieux, avec pour mission de contenir les esprits rebelles ; tombé à son tour dans la matière, il doit recouvrer sa dignité par la purification, la prière et la [[theurgie]].
+texte: L'idée rejoint l'apocatastase enseignée par le théologien Origène au IIIe siècle, le rétablissement final de toutes choses en Dieu. Elle est le fil conducteur de l'[[illuminisme]] et du [[martinisme]].
+voir: martinez-de-pasqually, traite-de-la-reintegration, martinisme, illuminisme, rite-ecossais-rectifie
+
+@ imagination-creatrice
+cat: notions
+nom: Imagination créatrice
+alias: imaginatio, imaginal, monde imaginal, mundus imaginalis, imagination active
+def: Faculté de l'âme qui, selon l'ésotérisme, ne se contente pas d'inventer des fictions mais perçoit et façonne des réalités intermédiaires entre l'esprit et la matière.
+texte: Pour [[paracelse]], l'*imaginatio* est une force réelle : l'imagination d'une femme enceinte marque l'enfant, celle du magicien agit à distance. La [[philosophie-occulte]] en fait l'organe de la magie. L'orientaliste Henry Corbin, à partir d'[[ibn-arabi]] et de la philosophie iranienne, parle d'un « monde imaginal » (*mundus imaginalis*), réel quoique non matériel, perçu par une imagination active.
+texte: [[antoine-faivre]] retient l'imagination, avec les médiations — anges, symboles, intermédiaires —, parmi les traits fondamentaux de l'ésotérisme. Corbin insistait pour distinguer l'« imaginal » de l'« imaginaire », qui désigne en français l'irréel.
+voir: ibn-arabi, esoterisme, paracelse, voyage-astral
+
+@ lumiere-astrale
+cat: notions
+nom: Lumière astrale
+alias: grand agent magique, agent universel, astral, plan astral
+def: Selon Éliphas Lévi et l'occultisme, fluide universel et invisible qui baigne toutes choses, garde l'empreinte des images et des pensées, et que la volonté du mage peut diriger.
+texte: [[eliphas-levi]] décrit la lumière astrale comme le « grand agent magique », double à la fois vital et lumineux de toute la nature, qu'il identifie au fluide de [[franz-anton-mesmer|Mesmer]], à l'[[od]] de Reichenbach et au serpent de la Genèse. Elle conserve les reflets de tout ce qui a été, ce qui expliquerait la [[voyance]], les visions et les apparitions des séances spirites.
+texte: La [[theosophie]] reprend le terme et parle d'un « plan astral », monde des émotions et des désirs où séjournerait l'âme après la mort. L'adjectif « astral », qui désignait d'abord ce qui relève des astres, en a reçu ce sens nouveau.
+voir: eliphas-levi, magnetisme-animal, od, corps-subtils, annales-akashiques
+
+@ od
+cat: notions
+nom: Od
+alias: force odique, odyle, Reichenbach, od de Reichenbach
+def: Force vitale hypothétique décrite au milieu du XIXe siècle par le chimiste Karl von Reichenbach, qui croyait l'avoir observée sous forme de lueurs perçues par des sujets sensibles.
+texte: Karl von Reichenbach, chimiste réputé, découvreur de la paraffine, fait asseoir dans l'obscurité totale des personnes qu'il appelle « sensitives », qui disent voir des lueurs autour des aimants, des cristaux et des doigts humains. Il attribue ces effets à une force nouvelle, qu'il nomme « od » d'après le nom du dieu nordique Odin.
+texte: Les physiciens de son temps n'ont jamais pu reproduire ses observations, mais les occultistes ont accueilli l'od comme une preuve de la [[lumiere-astrale]] ou du fluide magnétique. On le rapproche aujourd'hui de l'[[aura]].
+voir: lumiere-astrale, magnetisme-animal, aura
+
+@ corps-subtils
+cat: notions
+nom: Corps subtils
+alias: corps astral, corps éthérique, double éthérique, corps mental, véhicule de l'âme, ochêma, corps glorieux, sept principes
+def: Enveloppes invisibles et plus fines que le corps physique dont l'être humain serait doté, selon de nombreuses traditions ésotériques, et qui survivraient en partie à la mort.
+texte: Les néoplatoniciens parlaient d'un « véhicule » lumineux de l'âme (*ochêma*), qu'elle revêt en descendant à travers les sphères. [[paracelse]] distingue un corps « sidéral » à côté du corps élémentaire. La [[theosophie]] systématise ces idées en sept principes, du corps physique à l'esprit pur, en passant par le double éthérique, siège de la vitalité, le corps astral, siège des désirs et des émotions, et le corps mental.
+texte: [[rudolf-steiner]] retient quatre membres principaux : corps physique, corps éthérique, corps astral et « je ». Le [[spiritisme]] parle de [[perisprit]]. Ces enveloppes, que les clairvoyants disent percevoir comme une [[aura]], n'ont jamais été mises en évidence par des instruments.
+schema: corps-subtils
+voir: theosophie, aura, voyage-astral, perisprit, chakra, lumiere-astrale
+
+@ aura
+cat: notions
+nom: Aura
+alias: aura humaine, effet Kirlian, photographie Kirlian
+def: Halo lumineux et coloré que certains disent percevoir autour des êtres vivants, considéré comme le reflet de leurs corps subtils, de leur santé et de leurs émotions.
+texte: Les théosophes Annie Besant et Charles Leadbeater ont décrit dans *Les Formes-pensées* (1901) les couleurs de l'aura selon les sentiments : rose pour l'affection, vert pour la sympathie, brun-gris pour l'égoïsme. En 1911, un médecin londonien, Walter Kilner, prétend la rendre visible à travers des écrans colorés.
+texte: La « photographie Kirlian », mise au point en URSS en 1939, montre des halos lumineux autour des doigts ou des feuilles placés dans un champ électrique ; les physiciens l'expliquent par une décharge électrique dont l'aspect dépend surtout de l'humidité. Aucune expérience contrôlée n'a montré qu'une personne puisse percevoir l'aura d'autrui.
+voir: corps-subtils, od, chakra, voyance
+
+@ chakra
+cat: notions
+nom: Chakras
+alias: chakra, cakra, roues, centres d'énergie, muladhara, sahasrara, anahata, ajna
+def: Dans les traditions tantriques de l'Inde, centres d'énergie subtile disposés le long de la colonne vertébrale ; l'ésotérisme occidental et le New Age en ont fait un système très populaire.
+texte: Le mot sanskrit *cakra* signifie « roue ». Les textes tantriques décrivent un réseau de canaux subtils et, selon les écoles, de quatre à sept centres ou davantage, représentés comme des lotus d'un nombre de pétales déterminé, chacun associé à une syllabe, à un élément et à une divinité. Le système le plus connu compte six centres, du périnée au front, et un septième au sommet du crâne, le lotus aux mille pétales.
+texte: L'Occident l'a découvert par la [[theosophie]], par *La Puissance du serpent* de John Woodroffe (1919) et par *Les Chakras* de Charles Leadbeater (1927). Le [[new-age|New Age]] a associé à chaque chakra une couleur de l'arc-en-ciel, des pierres, des glandes et des émotions, ce qui ne figure pas dans les textes indiens.
+schema: chakras
+voir: kundalini, tantrisme, corps-subtils, aura
+
+@ kundalini
+cat: notions
+nom: Kundalini
+alias: kundalinî, puissance du serpent, serpent de feu, éveil de la kundalini
+def: Dans le tantrisme, énergie divine lovée comme un serpent endormi à la base de la colonne vertébrale, que le yogi éveille et fait monter à travers les chakras jusqu'au sommet du crâne.
+texte: La *kundalinî* (« celle qui est enroulée ») est la forme individuelle de la Shakti, la puissance de la déesse. Par des techniques de souffle, de postures, de concentration et de formules, le pratiquant l'éveille ; elle s'élève le long du canal central en traversant les [[chakra|chakras]] et s'unit au principe masculin, Shiva, au sommet de la tête : c'est la libération.
+texte: L'Occident a découvert la notion au XXe siècle. Elle a été associée à des expériences spectaculaires — chaleur, visions, tremblements — racontées par le yogi Gopi Krishna, et intégrée au vocabulaire du [[new-age|New Age]] et de certaines psychologies.
+voir: chakra, tantrisme, corps-subtils, serpent
+
+@ karma
+cat: notions
+nom: Karma
+alias: karman, loi du karma, rétribution des actes
+def: Dans les religions de l'Inde, loi selon laquelle chaque acte produit des effets qui déterminent les existences futures ; la théosophie en a fait une loi morale universelle de cause à effet.
+texte: Le sanskrit *karman* signifie « acte ». L'hindouisme, le bouddhisme et le jaïnisme enseignent que les actes, bons ou mauvais, laissent des traces qui mûrissent dans cette vie ou dans les suivantes, enchaînant l'être au cycle des renaissances, le *samsâra*, dont la libération le délivre.
+texte: La [[theosophie]] a introduit le mot en Occident à la fin du XIXe siècle, en le liant à la [[reincarnation]] conçue comme progrès de l'âme : le karma y devient une justice immanente qui explique les inégalités de naissance. Cette lecture, reprise par l'[[anthroposophie]] et le [[new-age|New Age]], diffère sensiblement des conceptions indiennes.
+voir: reincarnation, theosophie, metempsycose, cycles-cosmiques
+
+@ reincarnation
+cat: notions
+nom: Réincarnation
+alias: réincarnation, vies antérieures, renaissance, transmigration
+def: Croyance selon laquelle l'âme, après la mort, revient vivre dans un nouveau corps, et traverse ainsi une série d'existences.
+texte: La croyance se trouve dans les religions de l'Inde, chez certains philosophes grecs, sous le nom de [[metempsycose]], et dans plusieurs courants de la [[kabbale]] sous celui de *guilgoul*. Les Églises chrétiennes l'ont rejetée.
+texte: Le XIXe siècle la réintroduit en Occident sous une forme nouvelle : pour le [[spiritisme]] d'[[allan-kardec]] et pour la [[theosophie]], l'âme progresse de vie en vie, sans retour en arrière ni passage par des corps d'animaux, jusqu'à la perfection. Cette réincarnation « évolutionniste » est devenue une croyance répandue en Europe, souvent sans lien avec une religion particulière.
+voir: metempsycose, karma, spiritisme, theosophie, annales-akashiques
+
+@ metempsycose
+cat: notions
+nom: Métempsycose
+alias: metempsychose, transmigration des âmes, palingénésie
+def: Passage de l'âme, après la mort, dans un autre corps, humain, animal ou végétal, selon la doctrine de certains philosophes grecs.
+texte: [[pythagore]] passait pour se souvenir de ses vies antérieures et aurait reconnu dans les cris d'un chien battu la voix d'un ami mort. Empédocle dit avoir été « garçon, fille, buisson, oiseau et poisson ». Dans la *République*, [[platon]] raconte comment les âmes choisissent leur prochaine vie avant de boire l'eau de l'oubli.
+texte: La métempsycose antique admet le passage dans des corps animaux, comme punition ou épreuve. Le [[spiritisme]] et la [[theosophie]] le refusent et préfèrent parler de [[reincarnation]].
+voir: reincarnation, pythagore, orphisme, karma
+
+@ annales-akashiques
+cat: notions
+nom: Annales akashiques
+alias: archives akashiques, akasha, chronique de l'Akasha, mémoire de l'univers
+def: Selon la théosophie et l'anthroposophie, mémoire cosmique où serait inscrit tout ce qui s'est jamais produit, et que les clairvoyants pourraient consulter.
+texte: Le sanskrit *âkâsha* désigne l'espace ou l'éther, cinquième élément de la philosophie indienne. Les théosophes en font une substance subtile qui enregistre toute pensée et tout événement. [[rudolf-steiner]] publie de 1904 à 1908 des articles intitulés *Chronique de l'Akasha*, où il dit y lire l'histoire de l'[[atlantide|Atlantide]] et de la [[lemurie|Lémurie]].
+texte: Le médium américain Edgar Cayce disait y puiser les vies antérieures de ses consultants. La notion rejoint la [[lumiere-astrale]] d'Éliphas Lévi, qui conserverait le reflet de toutes choses.
+voir: lumiere-astrale, rudolf-steiner, theosophie, voyance, atlantide
+
+@ egregore
+cat: notions
+nom: Égrégore
+alias: egregore, égrégores, entité collective
+def: Dans l'ésotérisme moderne, entité psychique qui naîtrait des pensées, des émotions et des rites d'un groupe, et agirait à son tour sur ses membres.
+texte: Le mot vient du grec *egrêgoroi*, « veilleurs », nom donné aux anges déchus du *[[livre-d-henoch|Livre d'Hénoch]]* ; [[eliphas-levi]] l'emploie encore en ce sens. Dans l'occultisme et la franc-maçonnerie du XXe siècle, il prend le sens d'une sorte d'âme collective : un ordre, une loge, une nation ou une religion auraient leur égrégore, nourri par la ferveur de ceux qui y participent.
+texte: Pour ceux qui y croient, l'égrégore explique la force qui se dégage d'un rituel pratiqué depuis longtemps, mais aussi l'emprise d'un groupe sur ses membres. Le mot est passé dans le langage courant pour désigner l'esprit d'un collectif.
+voir: initiation, magie-ceremonielle, dion-fortune, livre-d-henoch
+
+@ maitres-de-sagesse
+cat: notions
+nom: Maîtres de sagesse
+alias: Mahatmas, maîtres ascensionnés, Grande Fraternité blanche, Morya, Koot Hoomi, Kouthoumi, hiérarchie spirituelle
+def: Selon la théosophie, adeptes parvenus à la perfection qui guident en secret l'évolution de l'humanité depuis des retraites cachées, notamment au Tibet.
+texte: [[helena-blavatsky]] affirme avoir été instruite par deux de ces Mahatmas, Morya et Koot Hoomi, qui correspondent avec certains théosophes par des lettres apparues de façon surnaturelle ; ces « lettres des Mahatmas » sont conservées à la British Library. Le rapport Hodgson de 1885 conclut qu'elles ont été écrites par Blavatsky et ses proches.
+texte: Après elle, la liste des Maîtres s'allonge : [[alice-bailey]] reçoit l'enseignement du « Tibétain », le [[comte-de-saint-germain]] devient un maître ascensionné, et des mouvements comme « I AM », fondé dans les années 1930, organisent leur culte. L'idée d'une hiérarchie invisible de sages traverse tout le [[new-age|New Age]].
+voir: helena-blavatsky, theosophie, alice-bailey, comte-de-saint-germain, agartha
+
+@ tradition-primordiale
+cat: notions
+nom: Tradition primordiale
+alias: Tradition, tradition unique, tradition hyperboréenne, centre suprême
+def: Selon René Guénon et le traditionalisme, vérité métaphysique révélée à l'origine de l'humanité, dont toutes les religions authentiques sont des adaptations.
+texte: [[rene-guenon]] soutient qu'il existe une Tradition unique, d'origine non humaine, dont les grandes religions sont les branches, adaptées à des peuples et à des époques. Elle aurait eu pour premier siège une terre polaire, l'Hyperborée, et se conserverait dans un « centre suprême » caché, qu'il associe au Roi du monde et à l'[[agartha|Agartha]].
+texte: L'idée prolonge la [[prisca-theologia]] de la Renaissance et la « philosophie pérenne ». Elle fonde le [[traditionalisme]] et son jugement sévère sur la modernité, perçue comme la fin d'un [[cycles-cosmiques|cycle]].
+voir: traditionalisme, rene-guenon, prisca-theologia, agartha, cycles-cosmiques
+
+@ cycles-cosmiques
+cat: notions
+nom: Cycles cosmiques
+alias: yugas, Kali-yuga, âge d'or, âge de fer, manvantara, grande année, âges du monde
+def: Doctrines qui conçoivent l'histoire du monde comme une succession d'âges de plus en plus dégradés, revenant périodiquement à leur origine.
+texte: L'hindouisme distingue quatre âges, ou *yugas*, dont les durées sont dans le rapport 4, 3, 2, 1 : l'âge parfait, puis deux âges intermédiaires, puis le *Kali-yuga*, âge sombre et de discorde, qui aurait commencé selon la tradition en 3102 avant notre ère. Le poète grec Hésiode décrit de même une race d'or, d'argent, de bronze, des héros, puis de fer, la nôtre. Les Grecs parlent aussi d'une « grande année » au terme de laquelle les astres reviennent à leur position initiale.
+texte: La [[theosophie]] reprend ces cycles en y mêlant l'évolution des races-racines. [[rene-guenon]] en fait la clé de la crise moderne : nous vivons la fin du Kali-yuga, avant un retour à l'âge d'or.
+schema: cycles-yugas
+voir: tradition-primordiale, regne-de-la-quantite, ere-du-verseau, precession
+
+@ ere-du-verseau
+cat: notions
+nom: Ère du Verseau
+alias: âge du Verseau, Age of Aquarius, ère des Poissons, ères astrologiques
+def: Selon l'astrologie, période d'environ deux mille ans qui succède à l'ère des Poissons, à mesure que le point du printemps recule dans le zodiaque, et qu'on associe à une ère de conscience nouvelle.
+texte: À cause de la [[precession|précession des équinoxes]], le Soleil, à l'équinoxe de printemps, se lève devant une constellation qui change très lentement, en remontant le zodiaque : il a traversé le Bélier, puis les Poissons, et approche du Verseau. Chaque « ère » dure environ 2 150 ans. L'ère des Poissons a été associée au christianisme, dont le poisson était un symbole ; celle du Verseau, porteur d'eau, à une spiritualité universelle.
+texte: Les astrologues ne s'accordent pas sur sa date de début, que l'on place entre la fin du XIXe siècle et le XXVIIe. En France, l'expression est lancée par Paul Le Cour dans *L'Ère du Verseau* (1937). La chanson *Aquarius* de la comédie musicale *Hair* (1967) en a fait le symbole de la contre-culture et du [[new-age|New Age]].
+voir: precession, new-age, verseau, poissons, cycles-cosmiques
+
+@ atlantide
+cat: notions
+nom: Atlantide
+alias: Atlantis, Atlantes, continent englouti
+def: Île légendaire décrite par Platon, puissance maritime engloutie en un jour et une nuit, devenue pour l'ésotérisme moderne le berceau d'une civilisation et d'une sagesse perdues.
+texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
+texte: L'Atlantide renaît avec *Atlantis* d'Ignatius Donnelly (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'Edgar Cayce. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
+voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale
+
+@ lemurie
+cat: notions
+nom: Lémurie
+alias: Lemuria, Mu, continent de Mu
+def: Continent englouti imaginé en 1864 par un zoologiste pour expliquer la présence de lémuriens à Madagascar et en Inde, puis adopté par la théosophie comme berceau d'une humanité primitive.
+texte: Le zoologiste britannique Philip Sclater propose un pont de terre disparu entre Madagascar et l'Inde, qu'il nomme Lémurie, d'après les lémuriens. L'hypothèse, raisonnable dans la science de son temps, a été abandonnée avec la tectonique des plaques, qui explique autrement la répartition des espèces.
+texte: [[helena-blavatsky]] fait de la Lémurie le continent de la troisième race-racine, êtres gigantesques et d'abord androgynes. Un autre continent fabuleux, Mu, est popularisé dans le Pacifique par James Churchward à partir de 1926.
+voir: atlantide, theosophie, doctrine-secrete
+
+@ agartha
+cat: notions
+nom: Agartha
+alias: Agarttha, Agharti, Asgartha, Shambhala, Roi du monde, terre creuse
+def: Royaume souterrain légendaire, situé sous l'Asie, où un souverain spirituel, le Roi du monde, garderait la sagesse primordiale de l'humanité.
+texte: Le mot apparaît dans les livres de l'écrivain Louis Jacolliot sur l'Inde, dans les années 1870. [[saint-yves-d-alveydre]] le développe dans *Mission de l'Inde* : l'Agartha abriterait des millions d'habitants, des bibliothèques de pierre et un pontife suprême. En 1922, le voyageur Ferdinand Ossendowski rapporte de Mongolie des récits sur l'« Agharti » et le Roi du monde, que [[rene-guenon]] commente dans *Le Roi du monde* (1927).
+texte: On rapproche souvent l'Agartha de Shambhala, royaume mythique du bouddhisme tibétain, associé au cycle du Kâlachakra. La légende nourrit aussi les théories de la « terre creuse ».
+voir: saint-yves-d-alveydre, tradition-primordiale, synarchie, maitres-de-sagesse
+
+@ synarchie
+cat: notions
+nom: Synarchie
+alias: synarchique, complot synarchique
+def: Système de gouvernement imaginé par Saint-Yves d'Alveydre, où la société serait dirigée par trois conseils, spirituel, politique et économique, en harmonie ; le mot désigna ensuite un prétendu complot.
+texte: Opposant la synarchie (« gouvernement ensemble ») à l'anarchie des États modernes, [[saint-yves-d-alveydre]] veut retrouver une organisation qu'il croit avoir existé dans l'Antiquité, où l'Autorité spirituelle, le Pouvoir politique et l'Économie étaient séparés et coordonnés. Son système influence [[papus]] et certains cercles martinistes.
+texte: En 1941, sous Vichy, circule la rumeur d'une société secrète de technocrates, le « Mouvement synarchique d'empire », qui aurait comploté pour prendre le pouvoir. Les historiens ont montré que ce complot était une légende, née de rivalités politiques ; le mot reste attaché aux théories conspirationnistes.
+voir: saint-yves-d-alveydre, agartha, martinisme
+
+@ medium
+cat: notions
+nom: Médium
+alias: médiums, médiumnité, mediumnité, voyant, canal, channeling
+def: Personne qui se dit capable de servir d'intermédiaire entre les vivants et les esprits des morts, par la parole, l'écriture ou des phénomènes physiques.
+texte: Le mot latin *medium* (« intermédiaire ») s'impose avec le [[spiritualisme]] américain et le [[spiritisme]]. [[allan-kardec]] distingue les médiums à effets physiques — coups frappés, déplacement d'objets, [[ectoplasme|matérialisations]] — et les médiums à effets intellectuels, qui parlent, écrivent ou dessinent sous l'influence des esprits.
+texte: Certains médiums du XIXe siècle, comme Daniel Dunglas Home, qui passait pour léviter, ou l'Italienne Eusapia Palladino, ont été étudiés par des savants ; beaucoup ont été surpris en train de tricher. Le [[new-age|New Age]] a renouvelé la pratique sous le nom de « canalisation ».
+voir: spiritisme, spiritualisme, tables-tournantes, ectoplasme, ecriture-automatique, metapsychique
+
+@ tables-tournantes
+cat: notions
+nom: Tables tournantes
+alias: table tournante, guéridon, typtologie, coups frappés, tables parlantes
+def: Pratique très en vogue au milieu du XIXe siècle, où des personnes assises autour d'une table, les mains posées sur elle, obtiennent qu'elle bouge et frappe des coups interprétés comme des messages d'esprits.
+texte: Venue des États-Unis, la mode gagne l'Europe en 1853. On convient d'un code — un coup pour oui, deux pour non, ou un nombre de coups par lettre de l'alphabet — et l'on interroge la table. À Jersey, en exil, Victor Hugo et sa famille dialoguent ainsi pendant deux ans avec Shakespeare, Molière, Jésus ou « l'Ombre du sépulcre ».
+texte: Dès 1853, le physicien Michael Faraday montre par une expérience ingénieuse que ce sont les participants qui, sans le savoir, poussent la table par de petits mouvements involontaires ; le chimiste Chevreul arrive à la même conclusion pour le pendule et la baguette. Ce phénomène, dit « idéomoteur », explique aussi les messages du [[ouija]].
+voir: spiritisme, spiritualisme, medium, ouija, pendule
+
+@ ectoplasme
+cat: notions
+nom: Ectoplasme
+alias: ectoplasmes, matérialisation, matérialisations
+def: Substance que certains médiums du début du XXe siècle étaient censés exsuder de leur corps pendant les séances, et qui prenait forme de membres ou de visages.
+texte: Le mot est forgé par le physiologiste Charles Richet en 1894. Les séances de « matérialisation », dans une pénombre rouge, montrent le médium en transe d'où s'échappe une matière blanchâtre, qui se modèle en mains ou en visages ; des photographies célèbres en témoignent.
+texte: Les enquêtes ont montré, dans tous les cas examinés de près, l'usage de gaze, de papier mâché, de mousseline ou de découpures de journaux, avalés puis régurgités. L'ectoplasme reste un motif majeur de l'imaginaire des fantômes.
+voir: medium, spiritualisme, metapsychique
+
+@ perisprit
+cat: notions
+nom: Périsprit
+alias: perisprit, enveloppe semi-matérielle
+def: Dans le spiritisme d'Allan Kardec, enveloppe semi-matérielle qui unit l'esprit au corps pendant la vie et lui sert de corps après la mort.
+texte: [[allan-kardec]] forge le mot sur le modèle du « périsperme » qui entoure la graine. Le périsprit, tiré du fluide universel, explique comment un esprit immatériel peut agir sur la matière : c'est par lui qu'il fait tourner les tables, apparaît aux vivants ou impressionne un médium.
+texte: La notion rejoint les [[corps-subtils]] des autres traditions et le « double » des occultistes.
+voir: spiritisme, allan-kardec, corps-subtils, medium
+
+@ ecriture-automatique
+cat: notions
+nom: Écriture automatique
+alias: psychographie, planchette, automatisme psychique
+def: Écriture produite sans contrôle conscient, que les spirites attribuent aux esprits et que les psychologues et les surréalistes ont étudiée comme une expression de l'inconscient.
+texte: Dans les séances spirites, le médium écrit, la main guidée par une force qu'il dit étrangère, parfois à l'aide d'une planchette munie d'un crayon. Le psychologue Pierre Janet, dans *L'Automatisme psychologique* (1889), explique ces textes par une dissociation de la conscience.
+texte: Les surréalistes reprennent la méthode à leur compte : André Breton et Philippe Soupault écrivent en 1919 *Les Champs magnétiques*, et le *Manifeste du surréalisme* (1924) définit le mouvement comme un « automatisme psychique pur ».
+voir: medium, spiritisme, ouija
+
+@ voyage-astral
+cat: notions
+nom: Voyage astral
+alias: projection astrale, sortie hors du corps, décorporation, expérience hors du corps
+def: Expérience où une personne a l'impression de quitter son corps et de se déplacer dans le monde physique ou dans d'autres plans, au moyen de son corps astral selon les ésotéristes.
+texte: L'occultisme et la [[theosophie]] décrivent le corps astral, qui pourrait se détacher du corps physique pendant le sommeil ou par entraînement, relié à lui par un fil d'argent. La [[golden-dawn|Golden Dawn]] enseignait à « voyager en esprit » dans des paysages symboliques. Des manuels de projection astrale paraissent à partir des années 1920 ; Robert Monroe popularise l'expérience en 1971.
+texte: Les neurologues observent des expériences de sortie du corps lors de crises d'épilepsie, d'accidents, de l'anesthésie ou de la stimulation électrique de certaines zones du cerveau. Elles sont vécues comme très réelles, mais les tests consistant à lire des cibles cachées n'ont pas donné de résultats probants.
+voir: corps-subtils, lumiere-astrale, imagination-creatrice
+
+@ arcane
+cat: notions
+nom: Arcane
+alias: arcanes, arcanum, arcana, secret
+def: Secret réservé aux initiés ; en alchimie, remède secret aux vertus puissantes ; dans le tarot, nom donné depuis le XIXe siècle à chacune des cartes.
+texte: Le latin *arcanum*, de *arca*, « coffre », désigne ce qui est enfermé, tenu caché. Les théologiens parlent de la « discipline de l'arcane » pour la règle des premiers chrétiens qui ne révélaient les sacrements qu'aux baptisés. [[paracelse]] appelle arcanes les remèdes les plus puissants, qui agissent par leur vertu cachée.
+texte: L'occultiste Paul Christian, disciple d'[[eliphas-levi]], popularise vers 1870 l'emploi du mot pour les cartes du [[tarot]], divisées en [[arcanes-majeurs|arcanes majeurs]] et [[arcanes-mineurs|mineurs]] : chaque carte serait un secret de l'initiation égyptienne.
+voir: tarot, arcanes-majeurs, arcanes-mineurs, esoterisme, initiation
+
+@ art-de-la-memoire
+cat: notions
+nom: Art de la mémoire
+alias: ars memoriae, mnémotechnie, palais de la mémoire, lieux de mémoire, théâtre de la mémoire
+def: Technique héritée de l'Antiquité qui consiste à placer en esprit des images frappantes dans des lieux imaginaires pour retenir un discours ; la Renaissance en fit un instrument magique et philosophique.
+texte: Les rhéteurs latins enseignaient à se représenter un bâtiment familier et à déposer dans chacune de ses pièces une image liée à ce qu'on veut retenir ; il suffit ensuite de parcourir le bâtiment en pensée. La tradition attribuait l'invention de la méthode au poète Simonide.
+texte: À la Renaissance, Giulio Camillo conçoit un « théâtre de la mémoire » où toute la connaissance serait rangée selon les planètes, et [[giordano-bruno]] construit des systèmes de roues et d'images astrales qui doivent imprimer dans l'esprit l'ordre même de l'univers. [[frances-yates]] a consacré un livre célèbre à cette histoire (1966).
+voir: giordano-bruno, raymond-lulle, frances-yates, robert-fludd
+
+@ cosmos-geocentrique
+cat: notions
+nom: Sphères célestes
+alias: cosmos géocentrique, géocentrisme, sphères, premier mobile, empyrée, ciel des fixes, système de Ptolémée
+def: Représentation de l'univers, dominante de l'Antiquité au XVIIe siècle, où la Terre immobile occupe le centre de sphères emboîtées portant la Lune, le Soleil, les planètes et les étoiles fixes.
+texte: Autour de la Terre tournent, de la plus proche à la plus lointaine, les sphères de la Lune, de Mercure, de Vénus, du Soleil, de Mars, de Jupiter et de Saturne, puis celle des étoiles fixes. Le Moyen Âge y ajoute un « premier mobile », qui entraîne tout le ciel dans sa rotation quotidienne, et au-delà l'empyrée, séjour de Dieu et des bienheureux. Sous la Lune, tout naît et meurt ; au-dessus, tout est parfait et incorruptible.
+texte: Ce cosmos ordonné donne son cadre à l'[[astrologie]], aux [[hierarchies-celestes|hiérarchies des anges]], qu'on fait correspondre aux sphères, à la descente de l'âme qui revêt à chaque étage une qualité, et à la [[harmonie-des-spheres|musique des sphères]]. Dante y fait voyager son poète à travers le Paradis. Copernic, en 1543, place le Soleil au centre, et la physique de Newton fait disparaître les sphères.
+schema: cosmos-geocentrique
+voir: claude-ptolemee, harmonie-des-spheres, planetes, hierarchies-celestes, poimandres

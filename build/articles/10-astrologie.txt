@@ -1,0 +1,435 @@
+# Astrologie.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ astrologie
+cat: astrologie
+nom: Astrologie
+alias: astrologue, astrologues, astrologique, astrologie judiciaire, science des astres
+an: -400
+dates: depuis la Mésopotamie ; horoscopes depuis le Ve siècle av. J.-C.
+def: Art d'interpréter les positions des astres pour connaître le caractère et le destin des personnes, des peuples et des événements, en supposant une correspondance entre le ciel et la Terre.
+texte: Les devins de Mésopotamie observent les cieux comme un livre de présages destinés aux rois. Au Ve siècle avant notre ère apparaissent les premiers horoscopes individuels et le [[zodiaque]] de douze signes. L'astrologie dite « horoscopique », qui combine les [[planetes|planètes]], les signes, les [[maisons|maisons]] et l'[[ascendant]], naît dans l'Égypte hellénistique ; [[claude-ptolemee|Ptolémée]] en donne la synthèse dans son *[[tetrabiblos|Tétrabible]]*. Transmise aux savants arabes, elle revient en Europe au XIIe siècle, s'enseigne dans les universités, guide la médecine et conseille les princes.
+texte: Distinguée de l'astronomie au XVIIe siècle, l'astrologie perd sa place dans le savoir officiel quand la cosmologie de Copernic et de Newton ruine l'idée de sphères célestes agissant sur la Terre. Elle renaît à la fin du XIXe siècle grâce à la [[theosophie]], puis sous une forme psychologique au XXe, et se répand dans la presse avec l'[[horoscope]] des signes solaires.
+texte: Les tests scientifiques menés depuis le XXe siècle — comme l'expérience en double aveugle publiée dans la revue *Nature* en 1985 — n'ont pas montré que des astrologues puissent associer un thème astral à une personnalité mieux que le hasard, et aucun mécanisme physique connu ne pourrait expliquer de telles influences. L'astrologie reste un fait culturel et historique majeur, au cœur de l'ésotérisme.
+schema: zodiaque
+voir: zodiaque, planetes, theme-astral, maisons, aspects, tetrabiblos, claude-ptolemee
+
+@ zodiaque
+cat: astrologie
+nom: Zodiaque
+alias: signes du zodiaque, signes astrologiques, écliptique, zodiaque tropical, zodiaque sidéral
+def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée par l'astrologie en douze signes de trente degrés.
+texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse.
+texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
+schema: zodiaque
+voir: astrologie, triplicites, precession, belier, melothesie, dignites
+
+@ belier
+cat: astrologie
+nom: Bélier
+alias: aries, signe du bélier
+glyphe: belier
+def: Premier signe du zodiaque, signe de feu cardinal gouverné par Mars, que le Soleil traverse environ du 21 mars au 20 avril.
+texte: Le Bélier ouvre l'année astrologique au printemps. Le mythe grec y voit le bélier à la toison d'or qui emporta Phrixos et Hellé à travers les airs. Signe de feu et de commencement, il est associé par les astrologues à l'élan, au courage et à l'impulsivité. [[mars|Mars]] y a son domicile, et le [[soleil|Soleil]] son exaltation.
+texte: Dans la [[melothesie]], il gouverne la tête. Son symbole figure les cornes de l'animal.
+schema: zodiaque/belier
+voir: zodiaque, mars, triplicites, balance
+
+@ taureau
+cat: astrologie
+nom: Taureau
+alias: taurus, signe du taureau
+glyphe: taureau
+def: Deuxième signe du zodiaque, signe de terre fixe gouverné par Vénus, que le Soleil traverse environ du 21 avril au 21 mai.
+texte: Le Taureau rappelle le dieu Zeus métamorphosé en taureau blanc pour enlever Europe. Signe de terre au cœur du printemps, il est associé à la stabilité, à la patience, à la sensualité et aux biens matériels. [[venus|Vénus]] y a son domicile, la [[lune|Lune]] son exaltation.
+texte: Il gouverne le cou et la gorge. Son symbole, un cercle surmonté de cornes, figure la tête de l'animal.
+schema: zodiaque/taureau
+voir: zodiaque, venus, triplicites, scorpion
+
+@ gemeaux
+cat: astrologie
+nom: Gémeaux
+alias: gemini, signe des gémeaux, Castor et Pollux
+glyphe: gemeaux
+def: Troisième signe du zodiaque, signe d'air mutable gouverné par Mercure, que le Soleil traverse environ du 22 mai au 21 juin.
+texte: Les Gémeaux sont Castor et Pollux, les jumeaux divins, l'un mortel et l'autre immortel, qui partagèrent l'immortalité en vivant alternativement un jour sur deux. Signe d'air et de dualité, il est associé à la curiosité, à la communication, à la mobilité. [[mercure|Mercure]] y a son domicile.
+texte: Il gouverne les bras, les épaules et les poumons. Son symbole figure deux colonnes reliées.
+schema: zodiaque/gemeaux
+voir: zodiaque, mercure, triplicites, sagittaire
+
+@ cancer
+cat: astrologie
+nom: Cancer
+alias: signe du cancer, crabe, écrevisse
+glyphe: cancer
+def: Quatrième signe du zodiaque, signe d'eau cardinal gouverné par la Lune, que le Soleil traverse environ du 22 juin au 22 juillet.
+texte: Le Cancer est le crabe que la déesse Héra envoya contre Héraclès pendant son combat contre l'Hydre, et que le héros écrasa. Le Soleil y entre au solstice d'été, son point le plus haut, après quoi il redescend. Signe d'eau, il est associé à la sensibilité, à la mémoire, à la famille et au foyer. La [[lune|Lune]] y a son domicile, [[jupiter|Jupiter]] son exaltation.
+texte: Il gouverne la poitrine et l'estomac. Son symbole évoque les pinces du crabe, ou deux spirales enroulées.
+schema: zodiaque/cancer
+voir: zodiaque, lune, triplicites, capricorne
+
+@ lion
+cat: astrologie
+nom: Lion
+alias: leo, signe du lion
+glyphe: lion
+def: Cinquième signe du zodiaque, signe de feu fixe gouverné par le Soleil, que le Soleil traverse environ du 23 juillet au 22 août.
+texte: Le Lion est le lion de Némée, invulnérable, étouffé par Héraclès lors de son premier travail. Au cœur de l'été, il est associé à la vitalité, à la générosité, à la fierté et au besoin de briller. Le [[soleil|Soleil]] y a son domicile : c'est le signe royal par excellence.
+texte: Il gouverne le cœur et le dos. Son symbole évoque la crinière ou la queue de l'animal.
+schema: zodiaque/lion
+voir: zodiaque, soleil, triplicites, verseau
+
+@ vierge
+cat: astrologie
+nom: Vierge
+alias: virgo, signe de la vierge
+glyphe: vierge
+def: Sixième signe du zodiaque, signe de terre mutable gouverné par Mercure, que le Soleil traverse environ du 23 août au 22 septembre.
+texte: La Vierge, souvent représentée tenant un épi de blé, est identifiée à Astrée, la Justice, qui quitta la Terre à la fin de l'âge d'or, ou à Déméter et à sa fille. Signe de la moisson, il est associé à l'ordre, à l'analyse, au service et au souci du détail. [[mercure|Mercure]] y a à la fois son domicile et son exaltation.
+texte: Il gouverne le ventre et les intestins. Son symbole est une lettre M au jambage replié.
+schema: zodiaque/vierge
+voir: zodiaque, mercure, triplicites, poissons
+
+@ balance
+cat: astrologie
+nom: Balance
+alias: libra, signe de la balance
+glyphe: balance
+def: Septième signe du zodiaque, signe d'air cardinal gouverné par Vénus, que le Soleil traverse environ du 23 septembre au 22 octobre.
+texte: Le Soleil y entre à l'équinoxe d'automne, quand le jour et la nuit sont égaux : d'où la balance, seul signe qui ne figure pas un être vivant. Les Grecs voyaient d'abord dans ces étoiles les pinces du Scorpion. Signe d'air et d'équilibre, il est associé à l'harmonie, à la justice, aux relations et au goût. [[venus|Vénus]] y a son domicile, [[saturne|Saturne]] son exaltation.
+texte: Il gouverne les reins et les lombes. Son symbole figure le fléau d'une balance, ou le soleil qui se couche sur l'horizon.
+schema: zodiaque/balance
+voir: zodiaque, venus, triplicites, belier
+
+@ scorpion
+cat: astrologie
+nom: Scorpion
+alias: scorpio, signe du scorpion
+glyphe: scorpion
+def: Huitième signe du zodiaque, signe d'eau fixe gouverné par Mars et, pour les astrologues modernes, par Pluton, que le Soleil traverse environ du 23 octobre au 22 novembre.
+texte: Le Scorpion est celui que la déesse Artémis, ou la Terre, envoya contre le chasseur Orion ; les deux constellations ne sont jamais visibles ensemble dans le ciel. Signe de l'automne, des feuilles mortes et de la fermentation, il est associé à l'intensité, au secret, à la passion et à la transformation. [[mars|Mars]] y a son domicile traditionnel, et l'astrologie moderne lui a attribué [[pluton|Pluton]].
+texte: Il gouverne les organes génitaux. Son symbole est une lettre M terminée par un dard.
+schema: zodiaque/scorpion
+voir: zodiaque, mars, pluton, triplicites, taureau
+
+@ sagittaire
+cat: astrologie
+nom: Sagittaire
+alias: sagittarius, signe du sagittaire, centaure
+glyphe: sagittaire
+def: Neuvième signe du zodiaque, signe de feu mutable gouverné par Jupiter, que le Soleil traverse environ du 23 novembre au 21 décembre.
+texte: Le Sagittaire est un centaure qui tend son arc, parfois identifié au sage Chiron, maître d'Achille et d'Asclépios. Signe de feu tourné vers le lointain, il est associé à l'idéal, aux voyages, à la philosophie, à la foi et à l'optimisme. [[jupiter|Jupiter]] y a son domicile.
+texte: Il gouverne les cuisses et les hanches. Son symbole est une flèche.
+schema: zodiaque/sagittaire
+voir: zodiaque, jupiter, triplicites, gemeaux
+
+@ capricorne
+cat: astrologie
+nom: Capricorne
+alias: capricornus, signe du capricorne, chèvre-poisson
+glyphe: capricorne
+def: Dixième signe du zodiaque, signe de terre cardinal gouverné par Saturne, que le Soleil traverse environ du 22 décembre au 20 janvier.
+texte: Le Capricorne est un animal composite, chèvre à queue de poisson, hérité de la Babylonie ; les Grecs l'associent au dieu Pan ou à la chèvre Amalthée, nourrice de Zeus. Le Soleil y entre au solstice d'hiver, d'où il recommence à monter. Signe de terre, il est associé à l'ambition, à l'endurance, à la discipline et au temps. [[saturne|Saturne]] y a son domicile, [[mars|Mars]] son exaltation.
+texte: Il gouverne les genoux. Son symbole, difficile à tracer, mêle la corne de la chèvre et la queue enroulée du poisson.
+schema: zodiaque/capricorne
+voir: zodiaque, saturne, triplicites, cancer
+
+@ verseau
+cat: astrologie
+nom: Verseau
+alias: aquarius, signe du verseau, Ganymède
+glyphe: verseau
+def: Onzième signe du zodiaque, signe d'air fixe gouverné par Saturne et, pour les astrologues modernes, par Uranus, que le Soleil traverse environ du 21 janvier au 19 février.
+texte: Le Verseau est un jeune homme qui verse l'eau d'une amphore, identifié à Ganymède, échanson des dieux. Signe d'air au cœur de l'hiver, il est associé à l'indépendance, à l'amitié, à l'esprit de groupe et à l'innovation. [[saturne|Saturne]] y a son domicile traditionnel ; l'astrologie moderne lui attribue [[uranus|Uranus]]. L'[[ere-du-verseau|ère du Verseau]] est annoncée comme celle d'une humanité nouvelle.
+texte: Il gouverne les jambes et les chevilles. Son symbole figure deux ondes, l'eau ou l'air en mouvement.
+schema: zodiaque/verseau
+voir: zodiaque, saturne, uranus, ere-du-verseau, lion
+
+@ poissons
+cat: astrologie
+nom: Poissons
+alias: pisces, signe des poissons
+glyphe: poissons
+def: Douzième et dernier signe du zodiaque, signe d'eau mutable gouverné par Jupiter et, pour les astrologues modernes, par Neptune, que le Soleil traverse environ du 20 février au 20 mars.
+texte: Les deux Poissons, liés par un fil, seraient Aphrodite et son fils Éros, changés en poissons pour fuir le monstre Typhon. Dernier signe, celui de la fin de l'hiver, il est associé à la sensibilité, à l'imagination, à la compassion et au mysticisme. [[jupiter|Jupiter]] y a son domicile traditionnel, [[neptune|Neptune]] pour les modernes, et [[venus|Vénus]] son exaltation.
+texte: Il gouverne les pieds. Son symbole figure deux poissons nageant en sens contraire, reliés par un trait.
+schema: zodiaque/poissons
+voir: zodiaque, jupiter, neptune, ere-du-verseau, vierge
+
+@ planetes
+cat: astrologie
+nom: Planètes
+alias: sept planètes, septénaire planétaire, astres errants, ordre chaldéen, planètes bénéfiques, planètes maléfiques
+def: Pour l'astrologie traditionnelle, les sept astres qui se déplacent parmi les étoiles — Soleil, Lune, Mercure, Vénus, Mars, Jupiter, Saturne — auxquels l'astrologie moderne a ajouté Uranus, Neptune et Pluton.
+texte: Le mot grec *planêtês* signifie « errant » : les planètes, à la différence des étoiles fixes, changent de place dans le ciel. Rangées par durée de révolution décroissante, de Saturne à la Lune, elles forment l'« ordre chaldéen », qui est aussi celui de leurs sphères dans le [[cosmos-geocentrique|cosmos géocentrique]]. Chacune gouverne un jour de la semaine, un métal, une couleur, des plantes, des organes : c'est la grande table des [[correspondances]].
+texte: L'astrologie distingue des planètes bénéfiques (Jupiter, la grande, et Vénus, la petite), maléfiques (Saturne, la grande, et Mars, la petite), et neutres ou variables (Mercure). Les [[alchimie|alchimistes]] désignent les métaux par les signes des planètes : or du Soleil, argent de la Lune, vif-argent de Mercure, cuivre de Vénus, fer de Mars, étain de Jupiter, plomb de Saturne.
+schema: planetes-septenaire
+voir: soleil, lune, mercure, venus, mars, jupiter, saturne, heures-planetaires, dignites
+
+@ soleil
+cat: astrologie
+nom: Soleil
+alias: Sol, Hélios, le Soleil, or, dimanche
+glyphe: soleil
+def: Astre central de l'astrologie, symbole de la vie, de la conscience et de l'autorité, associé à l'or, au cœur et au dimanche.
+texte: Le Soleil donne la lumière et la chaleur, rythme le jour et l'année. En astrologie, il représente la volonté, l'identité, le père, le roi. Il a son domicile dans le [[lion|Lion]] et son exaltation dans le [[belier|Bélier]]. Le « signe » qu'on désigne familièrement comme le sien est celui où le Soleil se trouvait à la naissance. Son symbole, le cercle avec un point central, est aussi celui de l'or en alchimie.
+texte: [[marsile-ficin]] recommande de s'entourer de choses solaires — or, safran, miel, encens, chants harmonieux — pour fortifier l'esprit. Les cultes solaires, de l'Égypte au *Sol invictus* romain, ont nourri toute une symbolique ésotérique du Soleil spirituel.
+schema: planetes-septenaire/soleil
+voir: planetes, lion, lune, alchimie, tiferet, arcane-soleil
+
+@ lune
+cat: astrologie
+nom: Lune
+alias: Luna, Séléné, la Lune, argent, lundi, lunaison, phases de la Lune
+glyphe: lune
+def: Astre de la nuit, le plus rapide des astres errants, symbole de la sensibilité, de l'imagination et de la mère, associé à l'argent, aux eaux et au lundi.
+texte: La Lune change de forme au fil de ses phases et gouverne les marées : l'astrologie lui attribue les humeurs, les fluides du corps, la fécondité, l'inconscient et les rêves. Elle a son domicile dans le [[cancer|Cancer]] et son exaltation dans le [[taureau|Taureau]]. Les [[noeuds-lunaires|nœuds lunaires]], points où son orbite croise celle du Soleil, déterminent les éclipses.
+texte: En alchimie, la Lune est l'argent, la reine, le principe féminin uni au Soleil dans les [[noces-chymiques|noces]] de l'œuvre. La [[wicca]] l'associe à la Déesse, et de nombreux rites magiques se règlent sur ses phases.
+schema: planetes-septenaire/lune
+voir: planetes, cancer, soleil, noeuds-lunaires, yesod, arcane-lune
+
+@ mercure
+cat: astrologie
+nom: Mercure
+alias: Mercurius, Hermès, planète Mercure, mercredi
+glyphe: mercure
+def: Planète la plus proche du Soleil, messagère rapide, symbole de l'intelligence, de la parole et des échanges, associée au vif-argent et au mercredi.
+texte: Mercure ne s'écarte jamais beaucoup du Soleil, qu'il précède ou suit de près. L'astrologie lui confie la pensée, le langage, le commerce, les voyages, les écrits — et les voleurs, que protégeait le dieu Hermès. Il a son domicile dans les [[gemeaux|Gémeaux]] et la [[vierge|Vierge]], et son exaltation dans la Vierge.
+texte: Planète double et changeante, Mercure prend la couleur des astres auxquels il s'associe. Son symbole, avec ses petites cornes, figure le [[caducee|caducée]] ou le casque ailé du dieu ; c'est aussi celui du [[mercure-principe|vif-argent]] des alchimistes.
+schema: planetes-septenaire/mercure
+voir: planetes, gemeaux, vierge, mercure-principe, hermes-trismegiste, hod
+
+@ venus
+cat: astrologie
+nom: Vénus
+alias: Venus, Aphrodite, étoile du berger, planète Vénus, vendredi, cuivre
+glyphe: venus
+def: Planète la plus brillante du ciel, symbole de l'amour, de la beauté et de l'harmonie, associée au cuivre et au vendredi.
+texte: L'« étoile du berger », visible à l'aube ou au crépuscule, porte le nom de la déesse de l'amour. L'astrologie lui attribue l'affection, le plaisir, les arts, l'union et les richesses : c'est la « petite bénéfique ». Elle a son domicile dans le [[taureau|Taureau]] et la [[balance|Balance]], et son exaltation dans les [[poissons|Poissons]].
+texte: Son symbole, un cercle au-dessus d'une croix, passe pour figurer le miroir de la déesse ; il désigne en biologie le sexe féminin. Le cuivre lui revient parce que l'île de Chypre, consacrée à Aphrodite, en était riche.
+schema: planetes-septenaire/venus
+voir: planetes, taureau, balance, netsah, arcane-imperatrice
+
+@ mars
+cat: astrologie
+nom: Mars
+alias: Arès, planète rouge, planète Mars, mardi, fer
+glyphe: mars
+def: Planète rouge, symbole de l'énergie, du combat et du désir, associée au fer et au mardi.
+texte: Sa couleur de sang lui a valu le nom du dieu de la guerre. L'astrologie lui attribue la force, le courage, la colère, les accidents, le fer et le feu : c'est la « petite maléfique », redoutée des anciens mais jugée indispensable à l'action. Il a son domicile dans le [[belier|Bélier]] et le [[scorpion|Scorpion]], et son exaltation dans le [[capricorne|Capricorne]].
+texte: Son symbole, un cercle surmonté d'une flèche, figurerait le bouclier et la lance du dieu ; il désigne en biologie le sexe masculin.
+schema: planetes-septenaire/mars
+voir: planetes, belier, scorpion, gueboura
+
+@ jupiter
+cat: astrologie
+nom: Jupiter
+alias: Zeus, planète Jupiter, jeudi, étain
+glyphe: jupiter
+def: Plus grande des planètes, symbole de l'expansion, de la justice et de la prospérité, associée à l'étain et au jeudi.
+texte: Jupiter porte le nom du roi des dieux. L'astrologie y voit la « grande bénéfique » : la croissance, la chance, la loi, la religion, la générosité. Il a son domicile dans le [[sagittaire|Sagittaire]] et les [[poissons|Poissons]], et son exaltation dans le [[cancer|Cancer]]. Sa conjonction avec Saturne, tous les vingt ans environ, est l'un des grands repères de l'[[astrologie-mondiale]].
+texte: [[marsile-ficin]] conseillait aux savants mélancoliques de rechercher les influences de Jupiter pour tempérer celles de Saturne.
+schema: planetes-septenaire/jupiter
+voir: planetes, sagittaire, poissons, grandes-conjonctions, hesed
+
+@ saturne
+cat: astrologie
+nom: Saturne
+alias: Kronos, Cronos, planète Saturne, samedi, plomb, mélancolie
+glyphe: saturne
+def: Planète la plus lente et la plus lointaine des sept planètes anciennes, symbole du temps, de la limite et de la mélancolie, associée au plomb et au samedi.
+texte: Saturne, le Kronos grec qui dévore ses enfants, met près de trente ans à faire le tour du zodiaque. L'astrologie y voit la « grande maléfique » : la vieillesse, les obstacles, la solitude, la mort, mais aussi la patience, la rigueur et la profondeur. Il a son domicile dans le [[capricorne|Capricorne]] et le [[verseau|Verseau]], et son exaltation dans la [[balance|Balance]].
+texte: La Renaissance a fait de lui la planète des penseurs : [[marsile-ficin]], né sous Saturne, voit dans la mélancolie le tempérament des contemplatifs et des génies. Le plomb, métal lourd et sombre, lui appartient ; en alchimie, Saturne désigne aussi la matière noire du début de l'œuvre.
+schema: planetes-septenaire/saturne
+voir: planetes, capricorne, verseau, carre-magique, binah, de-vita
+
+@ uranus
+cat: astrologie
+nom: Uranus
+alias: planète Uranus, Herschel
+glyphe: uranus
+def: Planète découverte en 1781, que l'astrologie moderne associe à l'originalité, aux ruptures et aux révolutions, et au signe du Verseau.
+texte: William Herschel découvre Uranus en 1781 avec un télescope : c'est la première planète inconnue des anciens. Les astrologues lui attribuent, à partir du XIXe siècle, les changements soudains, l'indépendance, l'électricité, les inventions et les révolutions — elle est découverte au temps des révolutions américaine et française.
+texte: Elle a été donnée pour maîtresse au [[verseau|Verseau]]. Son intégration a obligé l'astrologie à réviser un système fondé depuis l'Antiquité sur sept planètes.
+voir: planetes, verseau, neptune, pluton
+
+@ neptune
+cat: astrologie
+nom: Neptune
+alias: planète Neptune, Le Verrier
+glyphe: neptune
+def: Planète découverte en 1846, que l'astrologie moderne associe aux rêves, à la dissolution des limites, à la mystique et à l'illusion, et au signe des Poissons.
+texte: Neptune est découverte en 1846 grâce aux calculs du Français Urbain Le Verrier, qui en avait déduit la position à partir des perturbations du mouvement d'Uranus. L'astrologie lui associe l'océan, l'inspiration, la compassion, mais aussi la confusion et les drogues.
+texte: Elle a été donnée pour maîtresse aux [[poissons|Poissons]]. Son symbole est le trident du dieu des mers.
+voir: planetes, poissons, uranus, pluton
+
+@ pluton
+cat: astrologie
+nom: Pluton
+alias: planète Pluton, planète naine
+glyphe: pluton
+def: Astre découvert en 1930, reclassé en 2006 parmi les planètes naines, que l'astrologie moderne associe à la mort, à la transformation et aux forces cachées.
+texte: Clyde Tombaugh découvre Pluton en 1930 à l'observatoire Lowell, en Arizona. Les astrologues lui confient les profondeurs, la puissance, la crise et la régénération, et lui donnent la maîtrise du [[scorpion|Scorpion]].
+texte: En 2006, l'Union astronomique internationale cesse de compter Pluton parmi les planètes ; la plupart des astrologues continuent de l'utiliser.
+voir: planetes, scorpion, neptune, uranus
+
+@ theme-astral
+cat: astrologie
+nom: Thème astral
+alias: thème natal, carte du ciel, nativité, thème de naissance, carte natale
+def: Représentation du ciel au moment et au lieu précis d'une naissance, montrant la position des planètes dans les signes et les maisons, que l'astrologue interprète.
+texte: Pour dresser un thème, on calcule à l'aide des [[ephemerides|éphémérides]] la position du Soleil, de la Lune et des planètes dans le [[zodiaque]], puis, selon l'heure et le lieu, l'[[ascendant]] et les [[maisons|maisons]]. Le résultat se dessine sous forme d'une roue. L'interprétation combine les signes, les maisons, les [[aspects]] entre planètes et leurs [[dignites|dignités]].
+texte: L'Antiquité dressait les thèmes sous forme de carré ; la roue s'est imposée au XXe siècle. On dresse aussi des thèmes pour un événement, une question (astrologie horaire) ou la fondation d'une ville.
+schema: maisons-astrologiques
+voir: maisons, ascendant, aspects, horoscope, ephemerides, astrologie
+
+@ maisons
+cat: astrologie
+nom: Maisons astrologiques
+alias: maisons, maison astrologique, domification, Placidus, cuspide
+def: Les douze secteurs du ciel, comptés à partir de l'ascendant, qui correspondent dans un thème aux grands domaines de la vie.
+texte: Alors que les signes dépendent de la course annuelle du Soleil, les maisons dépendent de la rotation quotidienne de la Terre : elles divisent le ciel local au moment de la naissance. La première maison, celle de l'[[ascendant]], est la personne elle-même ; la deuxième, ses biens ; la troisième, ses frères et ses échanges ; la quatrième, le foyer ; la cinquième, les enfants et les plaisirs ; la sixième, la santé et le travail ; la septième, le conjoint et les adversaires ; la huitième, la mort et les héritages ; la neuvième, les voyages et la religion ; la dixième, la carrière ; la onzième, les amis ; la douzième, les épreuves cachées.
+texte: Il existe de nombreuses méthodes pour tracer les maisons — égales, de Regiomontanus, de Placidus… —, qui donnent des résultats différents, sujet de débats sans fin entre astrologues.
+schema: maisons-astrologiques
+voir: theme-astral, ascendant, zodiaque, aspects
+
+@ ascendant
+cat: astrologie
+nom: Ascendant
+alias: signe ascendant, milieu du ciel, MC, descendant, fond du ciel, angles
+def: Point du zodiaque qui se lève à l'horizon est au moment d'une naissance ; il ouvre la première maison du thème.
+texte: Comme la Terre tourne sur elle-même, tout le zodiaque défile à l'horizon en vingt-quatre heures : l'ascendant change de signe environ toutes les deux heures. Il faut donc connaître l'heure exacte de naissance pour le calculer. Les astrologues le tiennent pour aussi important que le signe solaire : il dirait la manière d'être et d'aborder le monde.
+texte: Avec le descendant, à l'opposé, le milieu du ciel, point le plus haut, et le fond du ciel, il forme les quatre « angles » du thème. Le mot grec *hôroskopos*, « qui observe l'heure », désignait l'ascendant avant de désigner tout le thème.
+schema: maisons-astrologiques
+voir: maisons, theme-astral, horoscope
+
+@ aspects
+cat: astrologie
+nom: Aspects
+alias: aspect, conjonction, opposition, carré, trigone, sextile, orbe
+def: Angles que forment entre elles les planètes dans le zodiaque, auxquels l'astrologie attribue une relation harmonieuse ou tendue.
+texte: Les aspects majeurs, fixés par [[claude-ptolemee|Ptolémée]], sont la conjonction (planètes au même endroit), le sextile (60 degrés), le carré (90), le trigone (120) et l'opposition (180). Le trigone et le sextile passent pour harmonieux, le carré et l'opposition pour tendus, la conjonction pour neutre. Une tolérance de quelques degrés, l'« orbe », est admise.
+texte: Ces angles correspondent aux polygones inscrits dans le cercle du zodiaque — triangle, carré, hexagone — et rappellent les rapports musicaux de l'[[harmonie-des-spheres|harmonie des sphères]]. Kepler, qui pratiquait l'astrologie, a proposé d'y ajouter des aspects mineurs.
+schema: aspects
+voir: theme-astral, harmonie-des-spheres, grandes-conjonctions
+
+@ decans
+cat: astrologie
+nom: Décans
+alias: décan, decan, decans, trente-six décans
+def: Divisions du zodiaque en trente-six parts de dix degrés, héritées de l'astronomie égyptienne, chacune gouvernée par une planète et figurée par une image.
+texte: Dans l'Égypte ancienne, trente-six étoiles ou groupes d'étoiles, se levant successivement à l'horizon, marquaient les heures de la nuit et les semaines de l'année. L'astrologie hellénistique les intègre au zodiaque : chaque signe compte trois décans, gouvernés par des planètes et représentés par des figures souvent étranges.
+texte: Ces images, transmises par le *[[picatrix|Picatrix]]* et les astrologues arabes, ornent les fresques du palais Schifanoia à Ferrare (vers 1470) : l'historien de l'art Aby Warburg en a reconstitué la généalogie en 1912, à l'origine de l'étude moderne des images astrologiques.
+voir: zodiaque, picatrix, talisman, egyptosophie
+
+@ triplicites
+cat: astrologie
+nom: Triplicités et quadruplicités
+alias: triplicités, éléments astrologiques, signes de feu, signes de terre, signes d'air, signes d'eau, signes cardinaux, signes fixes, signes mutables, modes
+def: Classements des douze signes par élément — trois signes de feu, de terre, d'air et d'eau — et par mode — quatre signes cardinaux, fixes et mutables.
+texte: Les signes de feu sont le [[belier|Bélier]], le [[lion|Lion]] et le [[sagittaire|Sagittaire]] ; de terre, le [[taureau|Taureau]], la [[vierge|Vierge]] et le [[capricorne|Capricorne]] ; d'air, les [[gemeaux|Gémeaux]], la [[balance|Balance]] et le [[verseau|Verseau]] ; d'eau, le [[cancer|Cancer]], le [[scorpion|Scorpion]] et les [[poissons|Poissons]]. Sur la roue, les signes d'un même élément forment un triangle.
+texte: Les signes cardinaux ouvrent les saisons (Bélier, Cancer, Balance, Capricorne), les signes fixes en occupent le milieu (Taureau, Lion, Scorpion, Verseau), les signes mutables les achèvent (Gémeaux, Vierge, Sagittaire, Poissons). Les quatre signes fixes correspondent aux quatre vivants du [[tetramorphe]].
+schema: zodiaque
+voir: zodiaque, quatre-elements, tetramorphe
+
+@ dignites
+cat: astrologie
+nom: Dignités planétaires
+alias: dignités, domicile, exaltation, exil, chute, maîtrise, maître de signe
+def: Système qui évalue la force d'une planète selon le signe où elle se trouve : elle est puissante dans son domicile et son exaltation, affaiblie dans son exil et sa chute.
+texte: Chaque planète « gouverne » un ou deux signes, ses domiciles : le Soleil le Lion, la Lune le Cancer, Mercure les Gémeaux et la Vierge, Vénus le Taureau et la Balance, Mars le Bélier et le Scorpion, Jupiter le Sagittaire et les Poissons, Saturne le Capricorne et le Verseau. Elle est en exil dans les signes opposés. Elle a aussi un signe d'exaltation, où elle s'élève, et un signe de chute, à l'opposé.
+texte: Ce système, exposé par [[claude-ptolemee|Ptolémée]], est d'une grande symétrie autour de l'axe Cancer-Lion, demeures des deux luminaires. Les planètes découvertes depuis 1781 y ont été ajoutées par les modernes.
+schema: dignites
+voir: planetes, zodiaque, tetrabiblos
+
+@ horoscope
+cat: astrologie
+nom: Horoscope
+alias: horoscopes, horoscope du jour, astrologie des signes solaires
+def: À l'origine, l'ascendant d'un thème, puis le thème astral entier ; aujourd'hui, surtout les prévisions publiées dans la presse pour chacun des douze signes solaires.
+texte: Le mot grec *hôroskopos* désignait le degré du zodiaque qui se lève à l'heure de la naissance. Il a ensuite nommé le [[theme-astral|thème astral]] lui-même, puis toute prédiction astrologique.
+texte: L'horoscope des journaux, classé par signe solaire, naît en 1930 : un quotidien britannique demande à l'astrologue R. H. Naylor le thème de la princesse Margaret, qui vient de naître, et le succès est tel qu'il devient une rubrique. Les astrologues eux-mêmes jugent ces prévisions, valables pour un douzième de l'humanité, très éloignées de leur pratique.
+voir: theme-astral, ascendant, astrologie, zodiaque
+
+@ astrologie-mondiale
+cat: astrologie
+nom: Astrologie mondiale
+alias: astrologie mondaine, astrologie politique, éclipses, comètes
+def: Branche de l'astrologie qui étudie le destin des peuples, des États, des religions et du climat d'après les éclipses, les comètes, les grandes conjonctions et l'entrée du Soleil dans les signes cardinaux.
+texte: C'est la forme la plus ancienne de l'astrologie : les présages babyloniens concernaient le roi et le royaume. [[claude-ptolemee|Ptolémée]] lui consacre le deuxième livre du *[[tetrabiblos|Tétrabible]]*, attribuant chaque pays à un signe. L'astrologue persan Albumasar, au IXe siècle, en fait une théorie de l'histoire fondée sur les [[grandes-conjonctions|grandes conjonctions]].
+texte: Au Moyen Âge et à la Renaissance, on lit dans les éclipses et les comètes l'annonce de guerres, de pestes et de morts de princes. Les almanachs populaires, comme ceux de [[nostradamus]], vivaient de ces prédictions.
+voir: grandes-conjonctions, tetrabiblos, nostradamus, ephemerides
+
+@ grandes-conjonctions
+cat: astrologie
+nom: Grandes conjonctions
+alias: grande conjonction, conjonction de Jupiter et Saturne, étoile de Bethléem, déluge de 1524
+def: Rencontres de Jupiter et de Saturne dans le ciel, environ tous les vingt ans, dont l'astrologie a fait les marqueurs des grands tournants de l'histoire.
+texte: Jupiter et Saturne, les deux planètes les plus lentes connues des anciens, se rejoignent tous les vingt ans environ. Ces conjonctions restent pendant deux siècles dans les signes d'un même élément, puis passent à l'élément suivant : chaque changement annoncerait une ère nouvelle, une religion, un empire. Albumasar en tire au IXe siècle une véritable chronologie astrologique.
+texte: La conjonction de 1524 dans les Poissons fit annoncer un nouveau déluge et provoqua une vague de pamphlets et de peurs en Europe. Kepler suggéra que l'étoile de Bethléem avait été une triple conjonction de Jupiter et de Saturne survenue en l'an 7 avant notre ère.
+voir: astrologie-mondiale, jupiter, saturne, aspects
+
+@ precession
+cat: astrologie
+nom: Précession des équinoxes
+alias: précession, grande année, année platonicienne, Hipparque
+def: Lent déplacement du point de l'équinoxe de printemps le long du zodiaque, d'environ un degré en soixante-douze ans, dû à l'oscillation de l'axe de la Terre.
+texte: L'astronome grec Hipparque découvre au IIe siècle avant notre ère que les étoiles se décalent peu à peu par rapport au point de l'équinoxe. Nous savons aujourd'hui que l'axe de rotation de la Terre décrit un cône, comme une toupie, en près de 26 000 ans. Le point du printemps, qui était dans la constellation du Bélier au temps d'Hipparque, se trouve aujourd'hui dans celle des Poissons.
+texte: Cette « grande année » a été rapprochée de celle de [[platon]] et a donné naissance aux ères astrologiques, dont l'[[ere-du-verseau|ère du Verseau]]. Elle explique aussi le décalage entre les signes du zodiaque tropical et les constellations.
+voir: ere-du-verseau, zodiaque, cycles-cosmiques, astrologie-vedique
+
+@ ephemerides
+cat: astrologie
+nom: Éphémérides
+alias: ephemerides, éphéméride, tables astronomiques, almanach, tables alphonsines
+def: Tables qui donnent, jour par jour, la position des astres dans le ciel, indispensables aux astronomes, aux navigateurs et aux astrologues.
+texte: Les astronomes babyloniens, puis grecs et arabes, calculent des tables de positions. Les *Tables alphonsines*, dressées à la cour d'Alphonse X de Castille au XIIIe siècle, servent pendant trois siècles. En 1474, Regiomontanus publie les premières éphémérides imprimées, que Christophe Colomb aurait utilisées pour prédire une éclipse de Lune en Jamaïque.
+texte: Les almanachs populaires, vendus par millions, mêlaient éphémérides, prédictions et conseils. Les astrologues utilisent aujourd'hui des logiciels qui calculent les positions à partir des données des agences spatiales.
+voir: theme-astral, nostradamus, astrologie-mondiale
+
+@ noeuds-lunaires
+cat: astrologie
+nom: Nœuds lunaires
+alias: noeuds lunaires, tête du dragon, queue du dragon, Rahu, Ketu, nœud nord, nœud sud
+def: Les deux points où l'orbite de la Lune croise le chemin apparent du Soleil ; les éclipses ne peuvent se produire qu'à leur voisinage.
+texte: Les astrologues médiévaux appellent « tête du dragon » le nœud ascendant et « queue du dragon » le nœud descendant, imaginant un dragon qui avale le Soleil ou la Lune lors des éclipses. Dans l'astrologie indienne, ce sont Rahu et Ketu, la tête et le corps d'un démon tranché par le dieu Vishnou, comptés comme des planètes invisibles.
+texte: Les nœuds font le tour du zodiaque en dix-huit ans et demi, en sens inverse des planètes. L'astrologie moderne en a fait l'axe de la « destinée karmique » d'une personne.
+voir: lune, astrologie-vedique, ephemerides
+
+@ heures-planetaires
+cat: astrologie
+nom: Heures planétaires
+alias: heure planétaire, jours de la semaine, semaine planétaire, heptagramme
+def: Système qui attribue chaque heure du jour à une planète, selon l'ordre chaldéen, et qui explique l'ordre des jours de la semaine.
+texte: On découpe le jour (du lever au coucher du soleil) et la nuit en douze heures chacun, et l'on donne ces heures aux planètes dans l'ordre de leurs sphères : Saturne, Jupiter, Mars, Soleil, Vénus, Mercure, Lune, puis de nouveau Saturne. La planète de la première heure donne son nom au jour. Après le jour de Saturne vient ainsi celui du Soleil, puis celui de la Lune, de Mars, de Mercure, de Jupiter et de Vénus : c'est l'ordre de notre semaine.
+texte: En français, lundi, mardi, mercredi, jeudi et vendredi gardent les noms de la Lune, de Mars, de Mercure, de Jupiter et de Vénus ; samedi et dimanche ont pris des noms chrétiens, mais l'anglais garde *Saturday* et *Sunday*. La magie choisit le jour et l'heure de la planète pour consacrer un [[talisman]] ; l'heptagramme planétaire résume ce cycle.
+schema: heptagramme-planetes
+voir: planetes, talisman, clavicule-de-salomon, intelligences-planetaires
+
+@ melothesie
+cat: astrologie
+nom: Mélothésie
+alias: homme zodiacal, homme astrologique, homo signorum, saignée
+def: Correspondance établie par l'astrologie médicale entre les signes du zodiaque, ou les planètes, et les parties du corps humain.
+texte: Le principe est celui du [[microcosme-macrocosme|microcosme et du macrocosme]] : le corps est un petit ciel. Les signes se répartissent de la tête aux pieds, du [[belier|Bélier]], qui gouverne la tête, aux [[poissons|Poissons]], qui gouvernent les pieds. On en tirait des règles pratiques : ne pas saigner ni opérer une partie du corps quand la Lune traverse le signe qui la gouverne.
+texte: L'« homme zodiacal », nu, entouré ou couvert des signes, illustre les almanachs et les livres d'heures, comme les *Très Riches Heures du duc de Berry*, au début du XVe siècle.
+schema: zodiaque
+voir: microcosme-macrocosme, zodiaque, paracelse, astrologie
+
+@ astrologie-chinoise
+cat: astrologie
+nom: Astrologie chinoise
+alias: horoscope chinois, signes chinois, douze animaux, zodiaque chinois, quatre piliers
+def: Système astrologique chinois fondé sur un cycle de douze animaux, combiné aux cinq éléments pour former un cycle de soixante ans.
+texte: Chaque année est placée sous le signe d'un animal : Rat, Buffle, Tigre, Lièvre, Dragon, Serpent, Cheval, Chèvre, Singe, Coq, Chien et Cochon. Une légende raconte que ces animaux sont ceux qui répondirent à l'appel du Bouddha, ou de l'Empereur de jade, dans l'ordre de leur arrivée. Le cycle se combine avec les cinq éléments — bois, feu, terre, métal, eau — pour donner soixante combinaisons. L'année commence au Nouvel An lunaire, entre fin janvier et fin février.
+texte: L'astrologie chinoise savante est bien plus complexe : elle considère aussi le mois, le jour et l'heure de naissance, les « quatre piliers du destin ». Elle est indépendante du [[zodiaque]] occidental, avec lequel elle n'a en commun que le nombre douze.
+voir: yin-et-yang, yi-king, astrologie, zodiaque
+
+@ astrologie-vedique
+cat: astrologie
+nom: Astrologie indienne
+alias: astrologie védique, jyotish, jyotisha, nakshatras, demeures lunaires, zodiaque sidéral
+def: Astrologie pratiquée en Inde, qui utilise un zodiaque calé sur les étoiles et vingt-sept demeures lunaires, et joue un grand rôle dans la vie religieuse et sociale.
+texte: Le *jyotisha*, « science des lumières », mêle un fonds indien très ancien, les *nakshatras*, vingt-sept ou vingt-huit « demeures » de la Lune, et l'astrologie horoscopique grecque, transmise au début de notre ère. Il utilise un zodiaque « sidéral », décalé d'environ vingt-quatre degrés par rapport au zodiaque occidental du fait de la [[precession]], et compte Rahu et Ketu, les [[noeuds-lunaires|nœuds de la Lune]], parmi ses neuf « planètes ».
+texte: En Inde, on consulte un astrologue pour fixer la date d'un mariage, comparer les thèmes des futurs époux ou choisir un nom ; le mot « védique », souvent employé en Occident, est discuté, car cette astrologie est postérieure aux Védas.
+voir: zodiaque, precession, noeuds-lunaires, astrologie

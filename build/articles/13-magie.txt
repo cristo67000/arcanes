@@ -1,0 +1,326 @@
+# Magie et rituels.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ magie
+cat: magie
+nom: Magie
+alias: magicien, magiciens, mage, mages, magique, magie blanche, magie noire, magick, haute magie, basse magie
+glyphe: pentagramme
+def: Ensemble de pratiques qui prétendent agir sur les êtres, les choses et les événements par des moyens cachés — paroles, gestes, objets, rites, invocations —, en s'appuyant sur des forces naturelles ou sur des esprits.
+texte: Le mot vient du grec *mageia*, l'art des *magoi*, prêtres de la Perse ancienne. Les Grecs et les Romains l'opposent déjà aux cultes officiels : elle est privée, secrète, souvent suspecte. Le Moyen Âge chrétien distingue une [[magie-naturelle|magie naturelle]], qui utilise les vertus cachées des choses, d'une magie démoniaque, condamnée ; la Renaissance réhabilite une magie savante, la [[philosophie-occulte]]. L'opposition populaire entre magie « blanche », bienfaisante, et magie « noire », malfaisante, recoupe en partie ces distinctions.
+texte: Au XIXe siècle, [[eliphas-levi]] fait de la magie une science de la volonté appliquée à la [[lumiere-astrale]] ; [[aleister-crowley]], qui écrit *magick* pour la distinguer des tours de scène, la définit comme « la science et l'art de provoquer un changement conformément à la volonté ». La [[magie-ceremonielle|magie cérémonielle]] de la [[golden-dawn|Golden Dawn]], la [[wicca]] et la [[magie-du-chaos|magie du chaos]] en sont les formes modernes.
+texte: Les anthropologues ont beaucoup débattu de la nature de la magie. James Frazer, dans *Le Rameau d'or* (1890), décrit une magie « sympathique » fondée sur deux lois : le semblable agit sur le semblable, et ce qui a été en contact reste lié. Marcel Mauss y voit au début du XXe siècle un fait social, distinct de la religion par son caractère privé. Les historiens rappellent que la frontière entre magie, religion et science a beaucoup varié selon les époques.
+voir: magie-naturelle, magie-ceremonielle, theurgie, goetie, philosophie-occulte, sorcellerie, talisman
+
+@ magie-naturelle
+cat: magie
+nom: Magie naturelle
+alias: magia naturalis, magie sympathique, Della Porta
+def: Magie qui prétend n'utiliser que les propriétés cachées des choses naturelles — plantes, pierres, animaux, astres —, sans recourir aux esprits, et que la Renaissance tint pour une science licite.
+texte: Pour [[albert-le-grand]], [[marsile-ficin]] ou [[cornelius-agrippa]], la nature est pleine de [[sympathie-universelle|sympathies]] et de vertus occultes : le mage ne fait rien de surnaturel, il « marie » des choses que la nature a faites pour s'unir, comme le paysan marie l'orme et la vigne. [[pic-de-la-mirandole]] la définit comme l'accomplissement de la philosophie naturelle.
+texte: La *Magie naturelle* de Giambattista Della Porta (1558, augmentée en 1589) mêle recettes de cuisine, de parfums et de teintures, expériences d'optique et de magnétisme : on y voit la frontière encore floue entre magie et science expérimentale. Le XVIIe siècle mécaniste a absorbé la part expérimentale de cette magie et rejeté le reste.
+voir: sympathie-universelle, signatures, philosophie-occulte, de-vita, magie
+
+@ magie-ceremonielle
+cat: magie
+nom: Magie cérémonielle
+alias: haute magie, magie rituelle, magie cérémonielle, ritual magic
+def: Forme savante de la magie qui invoque des puissances spirituelles — anges, intelligences planétaires, esprits — au moyen de rites élaborés, d'instruments consacrés, de noms divins et de cercles.
+texte: Héritière des grimoires médiévaux comme la *[[clavicule-de-salomon|Clavicule de Salomon]]* et de la [[philosophie-occulte]] de la Renaissance, la magie cérémonielle exige du magicien une longue purification, le choix du jour et de l'heure planétaires, des vêtements et des [[instruments-magiques|instruments]] consacrés, le tracé d'un [[cercle-magique]] et la récitation de prières et de noms hébreux.
+texte: [[eliphas-levi]] l'appelle « haute magie » pour l'opposer à la sorcellerie. La [[golden-dawn|Golden Dawn]] en fait un système d'entraînement spirituel, où les rites visent moins à obtenir des effets extérieurs qu'à transformer le magicien lui-même ; [[israel-regardie]] a publié ses rituels.
+voir: clavicule-de-salomon, golden-dawn, instruments-magiques, cercle-magique, theurgie, rituel-du-pentagramme
+
+@ theurgie
+cat: magie
+nom: Théurgie
+alias: théurge, theurgie, art hiératique, opérations théurgiques
+def: Pratique rituelle destinée à unir l'âme aux dieux ou à Dieu, en faisant « œuvre divine », par opposition à la magie qui chercherait des effets terrestres.
+texte: Le mot grec signifie « œuvre divine ». Il apparaît avec les [[oracles-chaldaiques|Oracles chaldaïques]] et devient, chez [[jamblique]] et [[proclus]], le sommet de la vie philosophique : l'âme ne peut remonter seule vers les dieux, elle a besoin des rites, des symboles, des pierres, des plantes et des noms que les dieux eux-mêmes ont semés dans le monde.
+texte: Les auteurs de la Renaissance distinguent la théurgie, permise parce qu'elle s'adresse aux bons anges, de la [[goetie|goétie]], qui s'adresse aux démons. Au XVIIIe siècle, [[martinez-de-pasqually]] appelle théurgie les opérations des [[elus-coens|Élus Coëns]] ; la [[golden-dawn|Golden Dawn]] reprend le mot pour sa propre pratique.
+voir: jamblique, proclus, oracles-chaldaiques, elus-coens, goetie, magie-ceremonielle
+
+@ goetie
+cat: magie
+nom: Goétie
+alias: goetia, goétie, goétique, Ars Goetia
+def: Magie qui invoque les démons, considérée comme la forme basse et dangereuse de la magie ; par extension, la première partie du Lemegeton, qui décrit soixante-douze esprits infernaux.
+texte: Le grec *goêteia* désignait la sorcellerie, l'art des charlatans et des enchanteurs. La Renaissance l'oppose à la [[theurgie]] : le goète commande aux démons, ou croit les commander, au péril de son âme.
+texte: La *Goétie* du *[[lemegeton|Lemegeton]]* énumère soixante-douze démons, leurs sceaux, leurs fonctions et la manière de les contraindre à apparaître dans un triangle placé hors du [[cercle-magique|cercle]] du magicien. Elle reste très utilisée par certains courants de la magie contemporaine.
+voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau
+
+@ magie-enochienne
+cat: magie
+nom: Magie énochienne
+alias: énochien, enochien, langue énochienne, langue angélique, clés énochiennes, appels énochiens, tables de veille, Aethyrs
+def: Système magique reçu par John Dee et Edward Kelley de 1582 à 1589 au cours de conversations avec des anges, comprenant une langue, un alphabet, des appels et de grandes tables de lettres.
+texte: Les anges, vus par [[edward-kelley]] dans une pierre de vision, dictent lettre par lettre des tables carrées, un alphabet de vingt et une lettres et quarante-huit « appels » ou « clés » dans une langue dite angélique, celle qu'Adam aurait parlée et qu'Hénoch aurait connue. [[john-dee]] note tout dans ses journaux, conservés aujourd'hui à la British Library.
+texte: Redécouverte par la [[golden-dawn|Golden Dawn]], la magie énochienne devient l'un des piliers de la magie moderne ; [[aleister-crowley]] explore en 1909, dans le désert algérien, les trente « Aethyrs » décrits par les appels. Les linguistes ont relevé que la grammaire de la langue énochienne est très proche de celle de l'anglais.
+voir: john-dee, edward-kelley, livre-d-henoch, anges, cristallomancie, golden-dawn
+
+@ magie-sexuelle
+cat: magie
+nom: Magie sexuelle
+alias: sexualité sacrée, magie de l'amour, Eulis, Maria de Naglowska
+def: Ensemble de pratiques qui utilisent l'acte sexuel et le désir comme moyens d'atteindre des états de conscience particuliers ou de produire des effets magiques.
+texte: L'Américain [[paschal-beverly-randolph]] en est le premier théoricien moderne, au milieu du XIXe siècle : l'union des époux, accomplie avec une intention commune, ouvrirait l'accès aux mondes spirituels. Ses idées passent à l'[[oto|Ordo Templi Orientis]], dont [[aleister-crowley]] réserve la magie sexuelle aux plus hauts grades. À Paris, dans les années 1930, l'occultiste russe Maria de Naglowska enseigne une « messe d'or » mêlant sexualité et rédemption.
+texte: L'ésotérisme occidental a aussi largement puisé, souvent sans les comprendre, dans le [[tantrisme]] indien. Les historiens étudient ces pratiques comme un chapitre de l'histoire de la sexualité moderne ; certains groupes s'en sont servis pour justifier des abus.
+voir: paschal-beverly-randolph, oto, aleister-crowley, tantrisme, julius-evola
+
+@ magie-du-chaos
+cat: magie
+nom: Magie du chaos
+alias: chaos magick, chaos magie, Illuminates of Thanateros, IOT, Liber Null
+an: 1978
+def: Courant de la magie apparu en Angleterre à la fin des années 1970, qui considère les croyances comme de simples outils interchangeables et cherche avant tout ce qui fonctionne.
+texte: Peter J. Carroll publie en 1978 *Liber Null* et fonde avec Ray Sherwin les Illuminates of Thanateros. Inspirés par [[austin-osman-spare]], ils retiennent de la magie traditionnelle ses techniques — [[sigil|sigils]], états de transe, rites — en rejetant ses doctrines : le magicien peut adopter pour un temps n'importe quel système de croyances, y compris inventé ou tiré de la culture populaire, puis en changer.
+texte: Cette approche pragmatique et ironique, très liée à la contre-culture, a largement diffusé l'usage des sigils et l'idée d'une magie sans tradition ni hiérarchie.
+voir: austin-osman-spare, sigil, thelema, magie
+
+@ grimoire
+cat: magie
+nom: Grimoire
+alias: grimoires, livre de magie, Grand Grimoire, Dragon rouge, Grimoire du pape Honorius
+def: Livre de magie contenant des formules, des rites, des sceaux et des instructions pour invoquer les esprits, fabriquer des talismans ou obtenir des pouvoirs.
+texte: Le mot vient de « grammaire » : au Moyen Âge, il désignait un livre en latin, incompréhensible au profane. Les grimoires manuscrits se transmettent dans les milieux de clercs, de médecins et de curieux ; les plus prestigieux se placent sous l'autorité de [[salomon]], d'Hermès, d'Albert le Grand ou d'un pape. Au XVIIIe siècle, des grimoires imprimés à bon marché, comme le *Grand Grimoire* ou le *Dragon rouge*, qui explique comment conclure un pacte avec un démon, se répandent dans les campagnes.
+texte: Posséder un grimoire passait pour dangereux : on racontait qu'il était impossible de s'en débarrasser. Depuis le XIXe siècle, éditeurs et occultistes ont publié les grands grimoires anciens, et le mot désigne aujourd'hui tout livre de magie.
+voir: clavicule-de-salomon, lemegeton, livre-d-abramelin, grand-albert, petit-albert, arbatel
+
+@ talisman
+cat: magie
+nom: Talisman
+alias: talismans, image astrologique, images magiques, telesma
+def: Objet fabriqué et consacré selon des règles précises, généralement sous une configuration astrale favorable, pour attirer une influence bénéfique ou produire un effet déterminé.
+texte: Le mot vient de l'arabe *tilasm*, lui-même tiré du grec *telesma*, « consécration ». Le talisman classique est une plaque de métal ou une pierre gravée d'une figure, de signes et de noms au moment où une planète est puissante dans le ciel : il en capte l'« esprit ». Le *[[picatrix|Picatrix]]* en donne des centaines de recettes ; [[marsile-ficin]] en discute la légitimité ; [[cornelius-agrippa]] associe à chaque planète son métal, son [[carre-magique|carré magique]] et ses [[sceau|sceaux]].
+texte: On distingue souvent le talisman, qui attire et agit, de l'[[amulette]], qui protège. Les talismans planétaires restent l'une des pratiques les plus répandues de la magie occidentale.
+voir: amulette, carre-magique, intelligences-planetaires, picatrix, heures-planetaires, sceau
+
+@ amulette
+cat: magie
+nom: Amulette
+alias: amulettes, porte-bonheur, phylactère, gri-gri, œil d'Horus, scarabée
+def: Petit objet porté sur soi ou placé dans une maison pour protéger des malheurs, des maladies et du mauvais œil.
+texte: Les amulettes existent dans toutes les civilisations : l'œil d'Horus et le scarabée égyptiens, la *bulla* des enfants romains, la main de Fatma, les médailles et les scapulaires chrétiens, les petits rouleaux de versets bibliques. Elles tirent leur force de leur matière, de leur forme, d'une inscription, comme le mot [[abracadabra]], ou d'une bénédiction.
+texte: Les pierres gravées de l'Antiquité tardive, dites « gnostiques », associent des figures comme Abraxas à des [[voces-magicae|mots magiques]]. Le langage courant confond souvent amulette et [[talisman]].
+voir: talisman, abracadabra, voces-magicae, papyrus-grecs-magiques
+
+@ pentacle
+cat: magie
+nom: Pentacle
+alias: pentacles, pentaculum, pentacles de Salomon, disque magique
+def: Dans la magie cérémonielle, figure tracée sur un disque de métal ou de parchemin, chargée de signes, de noms divins et de versets, qui protège le magicien et lui donne autorité sur les esprits.
+texte: La *[[clavicule-de-salomon|Clavicule de Salomon]]* décrit des dizaines de pentacles, groupés par planète : celui-ci fait trembler les esprits, celui-là procure la richesse ou l'amour. Ils combinent cercles, carrés, lettres hébraïques, sceaux et inscriptions bibliques.
+texte: En français, le mot est souvent confondu avec le [[pentagramme]], l'étoile à cinq branches, qui figure d'ailleurs sur certains pentacles. La [[wicca]] appelle pentacle un disque gravé d'un pentagramme, et le [[tarot-rider-waite|tarot Rider-Waite]] a donné ce nom à l'enseigne des deniers.
+voir: pentagramme, clavicule-de-salomon, talisman, instruments-magiques, sceau
+
+@ sceau
+cat: magie
+nom: Sceau
+alias: sceaux, sigillum, sigilla, signature d'un esprit, caractère, sceaux des esprits
+def: Signe graphique propre à un ange, un démon, une planète ou une intelligence, qui le représente et permet de l'invoquer ou de le contraindre.
+texte: Les grimoires donnent pour chaque esprit son « sceau » ou « caractère » : un dessin fait de traits, de cercles et de croix, qu'on trace sur un parchemin ou qu'on grave sur le métal. La *Goétie* attribue ainsi un sceau à chacun de ses soixante-douze démons. [[cornelius-agrippa]] explique comment tirer le sceau d'une intelligence planétaire en reliant, sur le [[carre-magique|carré magique]] de sa planète, les nombres qui correspondent aux lettres de son nom.
+texte: Le « sceau de Salomon », bague avec laquelle le roi aurait commandé aux démons, est souvent figuré par un [[hexagramme]] ou un [[pentagramme]]. La notion a été reprise et transformée par les [[sigil|sigils]] modernes.
+schema: sceau-de-saturne
+voir: carre-magique, sigil, intelligences-planetaires, lemegeton, salomon, talisman
+
+@ sigil
+cat: magie
+nom: Sigil
+alias: sigils, sigillisation, sigille, méthode de Spare
+def: Dans la magie moderne, symbole abstrait formé à partir des lettres d'un souhait, que le magicien charge d'énergie puis oublie pour que l'inconscient en réalise l'objet.
+texte: La méthode est mise au point par [[austin-osman-spare]] : on écrit une phrase d'intention (« je veux guérir »), on supprime les lettres répétées, on combine celles qui restent en un dessin unique, méconnaissable. Le sigil est ensuite « chargé » dans un moment de concentration extrême, d'épuisement ou d'extase, puis volontairement oublié, pour que le désir échappe au contrôle de la conscience.
+texte: La [[magie-du-chaos|magie du chaos]] en a fait l'une de ses techniques favorites ; elle s'est répandue bien au-delà, jusqu'au développement personnel.
+voir: austin-osman-spare, magie-du-chaos, sceau
+
+@ intelligences-planetaires
+cat: magie
+nom: Intelligences planétaires
+alias: intelligences et esprits des planètes, Agiel, Zazel, anges des planètes, archanges planétaires, esprits olympiques
+def: Selon la magie de la Renaissance, êtres spirituels préposés à chaque planète : une intelligence bonne et un esprit, ou démon, plus matériel, dont les noms et les sceaux servent à la fabrication des talismans.
+texte: [[cornelius-agrippa]] donne pour chaque planète une intelligence et un esprit, dont les noms hébreux ont la même valeur numérique que la somme des nombres de son [[carre-magique|carré magique]] : pour Saturne, l'intelligence Agiel et l'esprit Zazel valent tous deux 45, total des nombres de 1 à 9. D'autres traditions placent à la tête de chaque planète un archange, comme Michel pour le Soleil ou Gabriel pour la Lune, ou un « esprit olympique », comme dans l'*[[arbatel|Arbatel]]*.
+texte: Le magicien les invoque au jour et à l'heure de la planète pour consacrer un [[talisman]].
+voir: carre-magique, talisman, sceau, arbatel, anges, heures-planetaires
+
+@ cercle-magique
+cat: magie
+nom: Cercle magique
+alias: cercle de protection, triangle de l'art, ouvrir le cercle, tracer le cercle
+def: Cercle tracé sur le sol avant une opération magique, où le magicien se tient protégé des esprits qu'il invoque et qui délimite un espace consacré.
+texte: Dans les grimoires, le cercle est tracé avec un couteau ou de la craie consacrés, entouré de noms divins, de croix et de [[pentacle|pentacles]] ; en sortir pendant l'opération serait mortel. Dans la *Goétie*, l'esprit est appelé à apparaître dans un triangle tracé à l'extérieur du cercle. La scène du magicien dans son cercle est un motif du théâtre et de la gravure, du *Faust* de Marlowe aux illustrations de grimoires.
+texte: Dans la [[wicca]] et le [[neopaganisme]], le cercle n'est plus une défense contre des démons mais un espace sacré « entre les mondes », ouvert au début et fermé à la fin du rite.
+voir: evocation, goetie, clavicule-de-salomon, wicca, instruments-magiques
+
+@ instruments-magiques
+cat: magie
+nom: Instruments magiques
+alias: baguette, baguette magique, épée magique, coupe, athamé, athame, armes élémentaires
+def: Objets consacrés dont se sert le magicien — baguette, épée ou poignard, coupe, pentacle, encensoir, lampe —, auxquels l'occultisme fait correspondre les éléments.
+texte: La *[[clavicule-de-salomon|Clavicule de Salomon]]* décrit la fabrication du couteau à manche blanc et à manche noir, de la baguette coupée d'un seul coup dans du noisetier vierge, de l'épée, du burin, à des jours et des heures précis. La [[golden-dawn|Golden Dawn]] organise les « armes élémentaires » : la baguette pour le feu, la coupe pour l'eau, le poignard pour l'air et le [[pentacle]] pour la terre, qui répondent aux quatre enseignes des [[arcanes-mineurs|arcanes mineurs]].
+texte: La [[wicca]] emploie l'*athamé*, couteau à manche noir, pour tracer le cercle, et le chaudron. Sur la carte du [[arcane-bateleur|Bateleur]], les occultistes ont reconnu ces instruments posés sur la table.
+voir: magie-ceremonielle, arcanes-mineurs, pentacle, cercle-magique, quatre-elements
+
+@ evocation
+cat: magie
+nom: Évocation
+alias: évoquer, invocation, invoquer, conjuration, conjurer, adjuration
+def: Opération magique par laquelle on appelle un esprit à se manifester hors de soi ; on la distingue de l'invocation, où l'on appelle une puissance divine à descendre en soi.
+texte: Dans l'évocation, le magicien, protégé par son [[cercle-magique|cercle]], ordonne à un ange ou à un démon d'apparaître, souvent dans un triangle, un miroir ou une fumée d'encens, puis le congédie par une formule de renvoi. La conjuration est la formule par laquelle on le contraint au nom des noms divins.
+texte: La distinction entre évocation et invocation a été précisée par la [[golden-dawn|Golden Dawn]] et [[aleister-crowley]] : on évoque ce qui est inférieur à soi, on invoque ce qui est supérieur. [[eliphas-levi]] raconte son évocation d'Apollonius à Londres, en 1854, comme une expérience troublante dont il déconseille la répétition.
+voir: cercle-magique, goetie, necromancie, magie-ceremonielle, theurgie
+
+@ envoutement
+cat: magie
+nom: Envoûtement
+alias: envoutement, envoûter, poupée, figurine de cire, mauvais sort, maléfice, désenvoûtement
+def: Opération magique destinée à nuire à distance à une personne, souvent au moyen d'une figurine à son image que l'on pique, brûle ou fait fondre.
+texte: Le mot vient de l'ancien français *vout*, « visage, image ». La pratique est très ancienne : on a retrouvé dans l'Égypte et la Grèce antiques des figurines percées d'aiguilles et des tablettes de malédiction. Au Moyen Âge, plusieurs grands procès politiques reposent sur des accusations d'envoûtement par des images de cire, comme celui de l'évêque Guichard de Troyes, accusé en 1308 d'avoir fait mourir la reine Jeanne.
+texte: La croyance aux sorts et aux « désenvoûteurs » reste vivante ; l'ethnologue Jeanne Favret-Saada l'a étudiée dans le bocage normand des années 1970 (*Les Mots, la Mort, les Sorts*). À la fin du XIXe siècle, la « guerre des envoûtements » oppose les occultistes de [[stanislas-de-guaita]] à l'abbé Boullan.
+voir: sorcellerie, magie, stanislas-de-guaita, messe-noire
+
+@ sorcellerie
+cat: magie
+nom: Sorcellerie
+alias: sorcier, sorcière, sorciers, sorcières, maléfice, maleficium, witchcraft
+def: Pouvoir de nuire par des moyens occultes que l'on prête à certaines personnes ; dans l'Europe moderne, crime imaginaire d'alliance avec le Diable, puni de mort.
+texte: Dans de nombreuses sociétés, le malheur — maladie, mort du bétail, mauvaise récolte — est attribué à l'action malveillante d'un voisin doté de pouvoirs. L'Europe médiévale connaît des guérisseurs, des devins et des « jeteurs de sorts ». À partir du XVe siècle, les théologiens et les juges construisent une figure nouvelle : la sorcière qui a fait un pacte avec Satan, vole la nuit vers le [[sabbat]] et tue par maléfice. C'est l'origine de la [[chasse-aux-sorcieres|chasse aux sorcières]].
+texte: Au XXe siècle, le mot change de sens : la [[wicca]] et des courants féministes revendiquent l'héritage des « sorcières » comme figure de liberté et de savoir féminin. Les historiens soulignent que les victimes des procès n'appartenaient pas, pour l'essentiel, à une religion païenne survivante.
+voir: chasse-aux-sorcieres, sabbat, demonologie, wicca, envoutement
+
+@ sabbat
+cat: magie
+nom: Sabbat
+alias: sabbat des sorcières, sabbats, nuit de Walpurgis, balai, onguent des sorcières, benandanti
+def: Assemblée nocturne où, selon les démonologues et les juges des XVe-XVIIe siècles, les sorcières rendaient un culte au Diable, présent sous la forme d'un bouc.
+texte: Les procès décrivent le vol nocturne sur un balai ou un animal, après s'être enduit d'un onguent ; l'arrivée dans un lieu désert ; l'hommage au Diable, souvent par un baiser obscène ; les danses à rebours, les festins, les orgies et la préparation de poisons. Le mot, pris au sabbat juif, trahit l'hostilité antijuive de ceux qui l'ont imaginé.
+texte: Les historiens y voient pour l'essentiel une construction des démonologues, que la torture faisait confirmer par les accusés. L'historien Carlo Ginzburg a cependant montré, avec les *benandanti* du Frioul, qui disaient combattre en esprit les sorciers pour protéger les récoltes, que des croyances populaires en des voyages extatiques ont été réinterprétées par les juges.
+voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet
+
+@ chasse-aux-sorcieres
+cat: magie
+nom: Chasse aux sorcières
+alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus maleficarum, Salem
+def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
+texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
+texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin Jean Wier en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
+voir: sorcellerie, sabbat, demonologie, affaire-des-poisons
+
+@ demonologie
+cat: magie
+nom: Démonologie
+alias: démonologue, démons, démon, diable, Dictionnaire infernal, Collin de Plancy, hiérarchie infernale
+def: Étude et classement des démons, de leur nature, de leurs noms, de leurs pouvoirs et de leurs relations avec les hommes, développée par les théologiens et les magiciens.
+texte: La tradition chrétienne voit dans les démons des anges déchus, révoltés avec Lucifer. Les démonologues de la Renaissance, comme le juriste Jean Bodin (*De la démonomanie des sorciers*, 1580), décrivent leurs ruses et justifient la répression de la sorcellerie. D'autres, comme le médecin Jean Wier (*Des illusions des démons*, 1563), expliquent par la maladie les cas de possession et publient une liste de démons pour en montrer l'absurdité.
+texte: Les grimoires dressent des hiérarchies infernales, avec rois, ducs et marquis. Au XIXe siècle, le *Dictionnaire infernal* de Jacques Collin de Plancy (1818, illustré en 1863) devient une référence populaire. La [[goetie]] et la littérature fantastique puisent abondamment dans cette tradition.
+voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet
+
+@ anges
+cat: magie
+nom: Anges
+alias: ange, angélologie, archanges, archange, Michel, Gabriel, Raphaël, Uriel, magie angélique
+def: Êtres spirituels, messagers de Dieu selon les religions juive, chrétienne et musulmane, que l'ésotérisme a classés, nommés et invoqués.
+texte: Le mot grec *angelos* signifie « messager ». La Bible nomme trois archanges, Michel, Gabriel et Raphaël ; le *[[livre-d-henoch|Livre d'Hénoch]]* en ajoute d'autres, dont Uriel. Le [[pseudo-denys]] les répartit en neuf chœurs, les [[hierarchies-celestes|hiérarchies célestes]]. La kabbale associe des anges aux [[sephiroth|séphiroth]], aux lettres et aux soixante-douze noms divins du [[shem-ha-meforash|Shem ha-Meforash]].
+texte: La magie angélique, qui prétend obtenir des anges la connaissance ou la protection, traverse les siècles, de l'*Art notoire* médiéval aux conversations de [[john-dee]] et à l'[[ange-gardien|ange gardien]] d'[[livre-d-abramelin|Abramelin]]. [[emanuel-swedenborg]] décrit les sociétés angéliques qu'il dit avoir visitées. Les anges connaissent un vif regain de popularité dans le [[new-age|New Age]].
+schema: hierarchies-celestes
+voir: hierarchies-celestes, ange-gardien, magie-enochienne, shem-ha-meforash, pseudo-denys, demonologie
+
+@ hierarchies-celestes
+cat: magie
+nom: Hiérarchies célestes
+alias: neuf chœurs des anges, chœurs angéliques, séraphins, chérubins, trônes, dominations, vertus, puissances, principautés
+def: Classement des anges en neuf chœurs répartis en trois triades, établi vers l'an 500 par le Pseudo-Denys et devenu classique dans le christianisme.
+texte: La première triade, la plus proche de Dieu, comprend les Séraphins, les Chérubins et les Trônes ; la deuxième, les Dominations, les Vertus et les Puissances ; la troisième, les Principautés, les Archanges et les Anges. Chaque chœur reçoit la lumière du précédent et la transmet au suivant.
+texte: Dante place les neuf chœurs dans les neuf ciels du *Paradis*, et la magie de la Renaissance les fait correspondre aux sphères célestes et aux [[sephiroth|séphiroth]]. Le schéma a fourni le modèle de nombreuses hiérarchies ésotériques ultérieures, y compris démoniaques.
+schema: hierarchies-celestes
+voir: anges, pseudo-denys, cosmos-geocentrique, emanation
+
+@ ange-gardien
+cat: magie
+nom: Saint Ange gardien
+alias: ange gardien, connaissance et conversation du saint ange gardien, génie, daimôn de Socrate
+def: Ange attaché à chaque personne pour la guider et la protéger ; dans la magie moderne, être supérieur avec lequel le magicien cherche à entrer en relation, but suprême de son œuvre.
+texte: La tradition chrétienne, appuyée sur une parole de l'Évangile, attribue à chaque homme un ange gardien ; l'Antiquité parlait du « génie » ou du « démon » personnel, comme celui qui avertissait Socrate. Le *[[livre-d-abramelin|Livre d'Abramelin]]* fait de la rencontre avec le saint ange gardien, au terme d'une longue retraite, la condition de toute magie légitime.
+texte: [[aleister-crowley]] reprend cette idée : « obtenir la connaissance et la conversation du saint ange gardien » est la grande étape de l'initiation dans l'[[a-a|A∴A∴]] ; il interprète cet ange tantôt comme un être réel, tantôt comme le moi supérieur.
+voir: livre-d-abramelin, anges, aleister-crowley, magie-ceremonielle
+
+@ elementaux
+cat: magie
+nom: Élémentaux
+alias: élémentals, esprits élémentaires, sylphes, ondines, gnomes, salamandres, nymphes, Comte de Gabalis
+def: Esprits des quatre éléments décrits par Paracelse — sylphes de l'air, ondines de l'eau, gnomes de la terre, salamandres du feu —, repris par la littérature et l'occultisme.
+texte: Dans son *Livre des nymphes, des sylphes, des pygmées et des salamandres*, [[paracelse]] décrit des êtres faits d'une chair subtile, mortels mais sans âme, qui habitent chacun leur élément ; les ondines pourraient acquérir une âme en épousant un homme. Le roman satirique *Le Comte de Gabalis* de l'abbé de Villars (1670) popularise ces êtres dans les salons, en les prêtant aux Rose-Croix.
+texte: L'occultisme du XIXe siècle les intègre à ses systèmes : pour [[eliphas-levi]] et la [[golden-dawn|Golden Dawn]], le magicien doit maîtriser les élémentaux de chaque élément. Le conte d'Ondine, de La Motte-Fouqué à Giraudoux, et les fées des contes en sont les cousins littéraires.
+voir: paracelse, quatre-elements, rose-croix, rituel-du-pentagramme
+
+@ miroir-magique
+cat: magie
+nom: Miroir magique
+alias: miroir noir, miroir d'obsidienne, miroir de John Dee, miroir divinatoire
+def: Miroir, souvent noir, utilisé pour la divination ou pour entrer en contact avec les esprits, dans lequel le voyant dit apercevoir des images.
+texte: Le plus célèbre est le miroir d'obsidienne de [[john-dee]], fait d'une pierre volcanique polie à la manière des Aztèques et rapporté du Mexique après la conquête ; il est conservé au British Museum. [[paschal-beverly-randolph]] fabriquait et vendait des miroirs magiques destinés à la vision.
+texte: La légende veut que [[nostradamus]] ait montré à Catherine de Médicis, dans un miroir, la succession de ses fils sur le trône. Le motif du miroir révélateur traverse les contes, de Blanche-Neige aux récits fantastiques.
+voir: cristallomancie, john-dee, voyance
+
+@ mandragore
+cat: magie
+nom: Mandragore
+alias: mandragora, main de gloire, plante des sorcières
+def: Plante méditerranéenne dont la racine fourchue évoque une forme humaine, chargée de légendes et utilisée comme narcotique, aphrodisiaque et ingrédient magique.
+texte: La légende veut que la mandragore pousse au pied des gibets, née de la semence des pendus, et qu'elle pousse en sortant de terre un cri qui tue celui qui l'arrache : on attachait donc un chien à la racine pour la tirer. Dans la Genèse, Rachel obtient de sa sœur Léa des « mandragores » réputées favoriser la fécondité.
+texte: La racine contient des alcaloïdes puissants, employés autrefois pour endormir les malades avant une opération, et dangereux à forte dose. On sculptait ou falsifiait des racines de bryone pour vendre de fausses mandragores, censées porter chance. Machiavel en a fait le sujet d'une comédie, *La Mandragore* (1518).
+voir: magie-naturelle, signatures, grand-albert, sorcellerie
+
+@ rituel-du-pentagramme
+cat: magie
+nom: Rituel du pentagramme
+alias: rituel mineur de bannissement du pentagramme, LBRP, croix kabbalistique, bannissement
+def: Rituel de base de la Golden Dawn, encore très pratiqué, où le magicien trace des pentagrammes aux quatre points cardinaux en prononçant des noms divins pour purifier l'espace et lui-même.
+texte: Le rituel commence par la « croix kabbalistique » : le magicien touche son front, sa poitrine et ses épaules en prononçant une formule hébraïque tirée de la fin du Notre Père. Il trace ensuite dans l'air un [[pentagramme]] vers chacun des quatre orients, en vibrant un nom divin, puis appelle les quatre archanges — Raphaël devant lui, Gabriel derrière, Michel à sa droite, Uriel à sa gauche.
+texte: Conçu comme une protection et un exercice quotidien de concentration, il a été rendu public par [[israel-regardie]] et figure dans presque tous les manuels de magie cérémonielle.
+voir: pentagramme, golden-dawn, magie-ceremonielle, anges, israel-regardie
+
+@ messe-noire
+cat: magie
+nom: Messe noire
+alias: messes noires, messe satanique, abbé Guibourg
+def: Parodie de la messe catholique célébrée en l'honneur du Diable ou à des fins magiques, plus souvent imaginée par les accusateurs et les romanciers que réellement pratiquée.
+texte: Au Moyen Âge, on accusait certains prêtres de dire des messes pour faire mourir un ennemi. L'[[affaire-des-poisons|affaire des Poisons]], sous Louis XIV, livre le témoignage le plus célèbre : selon les aveux recueillis, l'abbé Guibourg aurait célébré des messes sur le corps nu d'une femme, peut-être Madame de Montespan, avec des sacrifices d'enfants — des témoignages obtenus sous la menace de la torture, dont l'exactitude reste discutée.
+texte: Huysmans décrit une messe noire dans *Là-bas* (1891), qui fixe pour longtemps l'image romanesque du rituel. Le [[satanisme]] moderne en a parfois fait une cérémonie de provocation.
+voir: satanisme, affaire-des-poisons, sorcellerie, envoutement
+
+@ affaire-des-poisons
+cat: magie
+nom: Affaire des Poisons
+alias: affaire des poisons, la Voisin, Catherine Monvoisin, chambre ardente
+an: 1679
+dates: 1679 – 1682
+def: Scandale criminel du règne de Louis XIV, qui révéla un commerce de poisons, d'avortements et de messes noires où furent compromis des membres de la cour.
+texte: Après le procès de la marquise de Brinvilliers, empoisonneuse exécutée en 1676, la police de Paris découvre un réseau de devineresses et de fabricants de « poudres de succession ». Une juridiction spéciale, la Chambre ardente, siège de 1679 à 1682 ; Catherine Monvoisin, dite la Voisin, est brûlée en 1680. Les interrogatoires mettent en cause la favorite du roi, Madame de Montespan, accusée d'avoir fait dire des [[messe-noire|messes noires]] pour garder l'amour du roi.
+texte: Louis XIV fait arrêter l'enquête et enfermer à vie certains témoins. Un édit de 1682 réglemente la vente des poisons et traite désormais la magie comme une imposture. L'affaire marque, en France, la fin des grands procès de sorcellerie.
+voir: messe-noire, chasse-aux-sorcieres, sorcellerie
+
+@ abracadabra
+cat: magie
+nom: Abracadabra
+alias: abracadabrant
+def: Formule magique, attestée pour la première fois au IIIe siècle, qu'on écrivait en triangle décroissant sur une amulette pour faire disparaître la fièvre.
+texte: Le médecin romain Serenus Sammonicus recommande d'écrire le mot sur un papier en retirant une lettre à chaque ligne, de façon à former un triangle pointe en bas, et de porter le tout au cou : la maladie décroît comme le mot. L'origine du mot reste inconnue ; on l'a rapproché de l'araméen ou de l'Abraxas des [[basilide|basilidiens]].
+texte: Utilisé pendant des siècles sur des [[amulette|amulettes]], il est devenu la formule par excellence des magiciens de scène, et l'adjectif « abracadabrant » qualifie ce qui est extravagant.
+voir: amulette, voces-magicae, carre-sator, basilide
+
+@ carre-sator
+cat: magie
+nom: Carré SATOR
+alias: sator arepo tenet opera rotas, carré magique de Pompéi, palindrome
+def: Carré de cinq mots latins — SATOR, AREPO, TENET, OPERA, ROTAS — qui se lit dans tous les sens, retrouvé à Pompéi et utilisé pendant des siècles comme formule protectrice.
+texte: Les cinq mots forment un carré parfait : on lit la même phrase de gauche à droite, de droite à gauche, de haut en bas et de bas en haut. On le trouve gravé sur une colonne de Pompéi, donc avant l'an 79, puis dans tout le monde chrétien, sur des murs, des manuscrits et des amulettes contre le feu ou les morsures. Son sens est discuté : « Le semeur Arepo tient les roues avec soin » est l'une des traductions proposées, Arepo restant énigmatique.
+texte: Au XXe siècle, on a remarqué que ses lettres pouvaient former deux fois PATERNOSTER en croix, avec deux A et deux O de reste, l'alpha et l'oméga : certains y voient un signe de reconnaissance des premiers chrétiens, ce que sa présence à Pompéi rend discutable.
+schema: carre-sator
+voir: carre-magique, amulette, abracadabra
+
+@ voces-magicae
+cat: magie
+nom: Mots magiques
+alias: voces magicae, noms barbares, Ephesia grammata, lettres éphésiennes, IAO, Ablanathanalba
+def: Mots incompréhensibles, noms étrangers ou suites de voyelles employés dans les incantations antiques et médiévales, dont la force tenait à leur étrangeté même.
+texte: Les [[papyrus-grecs-magiques|papyrus grecs magiques]] sont remplis de ces *voces magicae* : noms divins hébreux déformés comme IAO, palindromes comme *Ablanathanalba*, suites des sept voyelles grecques chantées dans un ordre précis, ou noms des « lettres éphésiennes », formules réputées protectrices. Les [[oracles-chaldaiques|Oracles chaldaïques]] interdisaient de traduire les « noms barbares », dont la puissance se perdrait.
+texte: [[jamblique]] explique que ces noms, transmis par les dieux, agissent par leur son, même pour qui ne les comprend pas. La tradition s'est prolongée dans les grimoires, avec leurs noms hébreux et leurs formules latines déformées.
+voir: papyrus-grecs-magiques, amulette, abracadabra, theurgie

@@ -1,0 +1,314 @@
+# Figures — de l'Antiquité à la fin du Moyen Âge.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ hermes-trismegiste
+cat: figures
+nom: Hermès Trismégiste
+alias: Hermes Trismegistus, Mercure Trismégiste, Thot, Thoth, trois fois grand, Hermès
+dates: figure légendaire
+glyphe: mercure
+def: Sage légendaire né de la fusion du dieu égyptien Thot et du dieu grec Hermès, à qui l'on attribuait les écrits de l'hermétisme, l'alchimie et l'astrologie.
+texte: Dans l'Égypte hellénistique, les Grecs reconnaissent dans Thot, dieu de l'écriture, de la magie et de la sagesse, leur propre Hermès, messager des dieux et guide des âmes. Le surnom « trois fois grand » traduit un titre égyptien. Hermès devient peu à peu un homme divinisé, un très ancien roi ou prêtre qui aurait consigné toute la science dans des livres sacrés : les traités du [[corpus-hermetique|Corpus Hermeticum]], l'[[asclepius|Asclépius]], la [[table-d-emeraude|Table d'émeraude]] et une foule d'écrits d'[[alchimie]], d'[[astrologie]] et de [[magie]] lui sont attribués.
+texte: Les Pères de l'Église le citent comme un païen qui avait pressenti le vrai Dieu. À la Renaissance, il passe pour un contemporain de Moïse : le pavement de la cathédrale de Sienne le représente en 1488 avec cette inscription. Les alchimistes en font le père de leur art, d'où l'adjectif « hermétique ». Depuis la démonstration d'Isaac Casaubon en 1614, on sait que les textes qui portent son nom sont des œuvres anonymes des premiers siècles de notre ère.
+voir: hermetisme, corpus-hermetique, table-d-emeraude, egyptosophie, prisca-theologia, caducee
+
+@ zoroastre
+cat: figures
+nom: Zoroastre
+alias: Zarathoustra, Zarathustra, Zardosht, mazdéisme, zoroastrisme
+dates: date incertaine, entre 1500 et 600 av. J.-C.
+an: -1000
+def: Prophète de l'Iran ancien, fondateur du mazdéisme, dont les Grecs firent le premier des mages et l'inventeur de l'astrologie et de la magie.
+texte: Zarathoustra est l'auteur présumé des *Gâthâs*, hymnes de l'Avesta qui célèbrent Ahura Mazdâ, le Seigneur sage, et décrivent le combat de l'esprit du bien et de l'esprit du mal, où chaque homme doit prendre parti. Sa religion, le mazdéisme ou zoroastrisme, fut celle de l'Empire perse ; elle survit chez les Parsis de l'Inde et en Iran.
+texte: Pour les Grecs, Zoroastre est le fondateur de la caste des mages, les prêtres perses, dont le nom a donné le mot « [[magie]] ». On lui attribue des traités d'astrologie et de science de la nature. Au XVe siècle, le philosophe byzantin Gémiste Pléthon fait de lui l'auteur des [[oracles-chaldaiques|Oracles chaldaïques]], et [[marsile-ficin]] le place en tête des sages de la [[prisca-theologia]].
+voir: prisca-theologia, oracles-chaldaiques, manicheisme, magie
+
+@ orphee
+cat: figures
+nom: Orphée
+alias: Orpheus
+dates: figure mythique
+def: Chantre mythique de Thrace, dont la musique charmait les bêtes et les pierres, descendu aux Enfers pour en ramener Eurydice, et tenu pour le fondateur de mystères initiatiques.
+texte: Selon le mythe, Orphée obtient des dieux des Enfers de ramener son épouse Eurydice parmi les vivants, à condition de ne pas se retourner avant d'avoir revu le jour ; il se retourne et la perd. Il meurt déchiré par les Ménades, et sa tête continue de chanter en descendant le fleuve. Les Grecs lui attribuaient l'invention des rites de purification et un ensemble de poèmes religieux, origine de l'[[orphisme]].
+texte: La Renaissance en fait l'un des « anciens théologiens » de la [[prisca-theologia]], et le chant orphique devient chez [[marsile-ficin]] une véritable technique : une musique accordée aux planètes pour attirer leurs influences. Figure du poète initié, Orphée hante ensuite le symbolisme et l'occultisme.
+voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres
+
+@ pythagore
+cat: figures
+nom: Pythagore
+alias: Pythagoras, Pythagore de Samos, vers dorés
+dates: vers 570 – vers 495 av. J.-C.
+an: -570
+def: Philosophe et mathématicien grec, fondateur à Crotone d'une communauté religieuse qui voyait dans le nombre le principe de l'univers et enseignait la transmigration des âmes.
+texte: Né à Samos, Pythagore s'établit vers 530 avant notre ère à Crotone, en Italie du Sud, où il fonde une confrérie qui exerce un temps le pouvoir politique. Il n'a rien écrit : ses disciples lui attribuaient toutes leurs découvertes, y compris le théorème qui porte son nom, connu des Babyloniens bien avant lui. La tradition lui prête des voyages en Égypte et chez les mages, des miracles, une cuisse d'or et le souvenir de ses vies antérieures.
+texte: Sa doctrine, connue par des sources tardives, unit mathématiques, musique et religion : les nombres et leurs rapports gouvernent les sons, les astres et les âmes ; l'âme immortelle passe de corps en corps, et l'on se purifie par une vie réglée. Les *Vers dorés*, recueil de préceptes composé bien après lui, ont été lus pendant des siècles comme son testament spirituel.
+voir: pythagorisme, tetractys, harmonie-des-spheres, metempsycose, monade, platon
+
+@ platon
+cat: figures
+nom: Platon
+alias: Plato, platonisme, platonicien, Timée
+dates: 428 – 348 av. J.-C.
+an: -428
+def: Philosophe athénien, disciple de Socrate, dont la doctrine d'un monde des Idées supérieur au monde sensible est la source principale de l'ésotérisme occidental.
+texte: Pour Platon, les choses visibles ne sont que les reflets changeants de réalités éternelles, les Idées, que l'âme a contemplées avant de naître et dont elle se ressouvient. Plusieurs de ses dialogues ont nourri l'ésotérisme : le *Timée* décrit un [[demiurge]] qui façonne le monde en regardant les Idées et le dote d'une [[ame-du-monde|âme]] ; le *Phèdre* et le *Banquet*, la remontée de l'âme par l'amour du beau ; la *République*, le mythe de la caverne et le voyage d'Er dans l'au-delà ; le *Timée* et le *Critias*, le récit de l'[[atlantide|Atlantide]].
+texte: Ses successeurs ont parlé de « doctrines non écrites », réservées à l'enseignement oral de l'Académie, ce qui a encouragé l'idée d'un Platon ésotérique. Relu par le [[neoplatonisme]], il devient pour la Renaissance le dernier maillon de la [[prisca-theologia]], et [[marsile-ficin]] traduit en latin l'ensemble de ses dialogues.
+voir: neoplatonisme, ame-du-monde, demiurge, atlantide, prisca-theologia, plotin
+
+@ apollonius-de-tyane
+cat: figures
+nom: Apollonius de Tyane
+alias: Apollonios de Tyane, Balinas, Balinus, Bélinous
+dates: Ier siècle
+an: 15
+def: Philosophe pythagoricien du Ier siècle, thaumaturge et voyageur, devenu dans l'Antiquité tardive un rival païen du Christ et, chez les Arabes, un maître des talismans.
+texte: Nous connaissons Apollonius surtout par la *Vie* que lui consacre Philostrate au début du IIIe siècle : végétarien, vêtu de lin, voyageant jusqu'en Inde pour rencontrer les brahmanes, il guérit, prédit l'avenir, chasse les démons et disparaît mystérieusement. Vers 300, un gouverneur romain l'oppose au Christ dans un pamphlet contre les chrétiens, ce qui lui vaut une longue réputation de faiseur de prodiges.
+texte: La tradition arabe connaît un « Balînâs », maître des talismans, à qui elle attribue le *Livre du secret de la création*, dont la conclusion est la plus ancienne version connue de la [[table-d-emeraude|Table d'émeraude]]. [[eliphas-levi]] a publié sous son nom un rituel des douze heures, le *Nuctéméron*.
+voir: pythagorisme, table-d-emeraude, talisman
+
+@ simon-le-magicien
+cat: figures
+nom: Simon le Magicien
+alias: Simon Magus, simonie, Simon de Samarie
+dates: Ier siècle
+an: 30
+def: Magicien samaritain des Actes des Apôtres, qui voulut acheter le pouvoir de conférer l'Esprit saint, et que les Pères de l'Église désignèrent comme le père de toutes les hérésies.
+texte: Les Actes des Apôtres (chapitre 8) racontent que Simon, qui émerveillait la Samarie par ses prodiges, se fit baptiser puis offrit de l'argent aux apôtres pour recevoir leur pouvoir ; Pierre le maudit. De là vient le mot « simonie », le trafic des choses saintes. Selon Irénée de Lyon, Simon se présentait comme la « Grande Puissance » de Dieu et voyageait avec Hélène, une ancienne prostituée de Tyr en qui il voyait la Pensée divine déchue dans la matière.
+texte: La légende raconte qu'à Rome, devant l'empereur Néron, il s'éleva dans les airs et s'écrasa au sol à la prière de Pierre. Pour les hérésiologues, il est le premier [[gnosticisme|gnostique]] ; il reste dans l'imaginaire chrétien la figure du mage rival de l'apôtre.
+voir: gnosticisme, sophia, magie
+
+@ valentin
+cat: figures
+nom: Valentin
+alias: Valentinus, valentinien, valentiniens, Évangile de vérité
+dates: vers 100 – vers 160
+an: 100
+def: Maître chrétien d'Alexandrie et de Rome, fondateur de l'école gnostique la plus influente de l'Antiquité.
+texte: Né en Égypte, formé à Alexandrie, Valentin enseigne à Rome entre 136 et 160 environ et aurait, selon Tertullien, manqué de peu d'en devenir évêque. De ses écrits ne restent que quelques fragments ; l'*Évangile de vérité*, retrouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], pourrait être de lui.
+texte: Ses disciples, Ptolémée et Héracléon en Occident, Théodote en Orient, ont développé un système d'une grande ampleur : trente [[eon|éons]] groupés en couples forment le [[plerome]] ; la chute de la dernière, [[sophia]], produit le [[demiurge]] et le monde ; les hommes se répartissent en spirituels, psychiques et matériels selon la part de lumière qu'ils portent. Les valentiniens vivaient au sein des églises, se tenant pour des chrétiens plus avancés.
+voir: gnosticisme, plerome, sophia, eon, demiurge, basilide
+
+@ basilide
+cat: figures
+nom: Basilide
+alias: Basilides, basilidiens, Abraxas, Abrasax
+dates: actif vers 120 – 140
+an: 120
+def: Maître gnostique d'Alexandrie au IIe siècle, à qui l'on attribue la doctrine de trois cent soixante-cinq cieux gouvernés par Abraxas.
+texte: Basilide enseigne à Alexandrie sous les empereurs Hadrien et Antonin et se dit disciple d'un compagnon de l'apôtre Pierre. Les Pères de l'Église ont laissé de sa doctrine deux versions difficiles à concilier. Selon Irénée, il décrivait une série de cieux engendrés les uns des autres, au nombre de trois cent soixante-cinq, dont le chef porte le nom d'Abraxas : en grec, les lettres de ce nom valent ensemble 365, le nombre des jours de l'année.
+texte: Abraxas est gravé, sous la forme d'un être à tête de coq et à pieds de serpents, sur des pierres magiques de l'époque romaine, dont le lien avec Basilide reste incertain. Le nom a connu une longue postérité ésotérique, jusqu'à [[carl-gustav-jung]] et à Hermann Hesse.
+voir: gnosticisme, isopsephie, valentin, amulette
+
+@ mani
+cat: figures
+nom: Mani
+alias: Manès, Manichée, Manes
+dates: 216 – 274 ou 277
+an: 216
+def: Prophète né en Mésopotamie, fondateur du manichéisme, qui se présentait comme le dernier des envoyés de Dieu et voulait unir toutes les religions.
+texte: Mani grandit dans une communauté baptiste judéo-chrétienne de Babylonie. Il dit avoir reçu, à douze puis à vingt-quatre ans, la visite d'un ange, son « jumeau » céleste, qui lui révèle sa mission. Il prêche en Perse sous la protection du roi Shapur Ier, envoie des missionnaires vers l'Occident et l'Orient, et rédige lui-même ses livres pour éviter, dit-il, les déformations qu'ont subies les enseignements de Zoroastre, de Bouddha et de Jésus.
+texte: Sous Bahram Ier, les prêtres mazdéens obtiennent sa condamnation ; il meurt en prison. Sa religion, le [[manicheisme]], lui survit pendant plus de mille ans.
+voir: manicheisme, gnosticisme, zoroastre
+
+@ plotin
+cat: figures
+nom: Plotin
+alias: Plotinus, Ennéades, Enneades
+dates: 205 – 270
+an: 205
+def: Philosophe grec né en Égypte, fondateur du néoplatonisme, pour qui toute réalité émane de l'Un et l'âme peut s'unir à lui par la contemplation.
+texte: Élève à Alexandrie d'Ammonios Saccas, Plotin suit l'expédition de l'empereur Gordien en Orient dans l'espoir de connaître la sagesse des Perses et des Indiens, puis enseigne à Rome à partir de 244. Son disciple [[porphyre]] a rassemblé ses cinquante-quatre traités en six groupes de neuf, les *Ennéades*, et raconte qu'il atteignit quatre fois, pendant les années où il le fréquenta, l'union avec l'Un.
+texte: Sa pensée, celle de l'[[emanation]] et de la remontée de l'âme vers sa source, a façonné la mystique chrétienne, juive et musulmane ; [[marsile-ficin]] la traduit en latin en 1492. Plotin méprisait pourtant la magie et polémiquait contre les [[gnosticisme|gnostiques]], qu'il accusait de mépriser le monde.
+oeuvres: Ennéades (rassemblées par Porphyre vers 301)
+schema: emanation-plotin
+voir: neoplatonisme, emanation, porphyre, ame-du-monde, platon
+
+@ porphyre
+cat: figures
+nom: Porphyre
+alias: Porphyrios, Porphyre de Tyr
+dates: vers 234 – vers 305
+an: 234
+def: Philosophe néoplatonicien, disciple et éditeur de Plotin, auteur d'une œuvre immense qui interroge la valeur des rites et des oracles.
+texte: Né à Tyr, Porphyre devient à Rome l'élève de [[plotin]], dont il publie les œuvres et écrit la vie. Esprit curieux, il rassemble une *Philosophie tirée des oracles*, commente le symbolisme de l'*Antre des nymphes* d'Homère, défend le végétarisme et rédige un traité *Contre les chrétiens*, détruit sur ordre impérial.
+texte: Dans sa *Lettre à Anébon*, il pose à un prêtre égyptien les questions qui embarrassent les philosophes : comment des dieux impassibles peuvent-ils être contraints par des rites ? La réponse de [[jamblique]], *Les Mystères d'Égypte*, devient le manifeste de la [[theurgie]]. Son *Isagogè*, introduction à la logique d'Aristote, fut l'un des livres les plus lus du Moyen Âge.
+voir: plotin, jamblique, neoplatonisme, theurgie, oracles-chaldaiques
+
+@ jamblique
+cat: figures
+nom: Jamblique
+alias: Iamblichus, Iamblique, Les Mystères d'Égypte, De mysteriis
+dates: vers 245 – vers 325
+an: 245
+def: Philosophe néoplatonicien de Syrie, théoricien de la théurgie, pour qui l'âme ne peut s'unir aux dieux par la seule pensée mais a besoin des rites.
+texte: Disciple de [[porphyre]], Jamblique fonde une école en Syrie. Il compose une vaste somme pythagoricienne, dont une *Vie de Pythagore*, et surtout, sous le nom d'un prêtre égyptien, Abammon, une réponse à son maître, connue depuis [[marsile-ficin]] sous le titre *Les Mystères d'Égypte*. Il y soutient que l'âme humaine est entièrement descendue dans le corps et ne peut remonter par ses propres forces : il lui faut les symboles, les noms et les rites que les dieux ont eux-mêmes donnés aux hommes.
+texte: Cette défense de la [[theurgie]] marque tout le néoplatonisme tardif, de [[proclus]] à l'empereur Julien. Elle a été redécouverte par l'ésotérisme moderne, pour qui Jamblique est le théoricien d'une magie sacrée distincte de la sorcellerie.
+voir: theurgie, porphyre, proclus, neoplatonisme, egyptosophie
+
+@ proclus
+cat: figures
+nom: Proclus
+alias: Proklos, Proclus de Lycie, Éléments de théologie
+dates: 412 – 485
+an: 412
+def: Dernier grand maître de l'école néoplatonicienne d'Athènes, qui organisa toute la réalité en une hiérarchie rigoureuse de principes et pratiqua la théurgie.
+texte: Né à Constantinople, Proclus dirige pendant près de cinquante ans l'Académie d'Athènes. Ses *Éléments de théologie* déduisent, comme un traité de géométrie, la procession de toutes choses à partir de l'Un ; sa *Théologie platonicienne* ordonne les dieux grecs en séries. Païen fervent dans un empire devenu chrétien, il célèbre les fêtes de tous les peuples et compose des hymnes aux dieux.
+texte: Dans un petit traité sur l'art hiératique, il explique comment chaque plante, chaque pierre et chaque animal appartient à la « chaîne » d'un dieu : l'héliotrope, qui se tourne vers le soleil, participe de la puissance solaire. Cette doctrine des [[sympathie-universelle|sympathies]] a été reprise par [[marsile-ficin]]. Par l'intermédiaire du [[pseudo-denys]] et du *Livre des causes*, Proclus a profondément marqué la pensée médiévale.
+voir: neoplatonisme, theurgie, jamblique, sympathie-universelle, pseudo-denys
+
+@ zosime-de-panopolis
+cat: figures
+nom: Zosime de Panopolis
+alias: Zosimos, Zosime
+dates: vers 300
+an: 300
+def: Alchimiste gréco-égyptien des environs de l'an 300, le plus ancien dont les écrits nous soient parvenus, qui fit de l'œuvre alchimique une voie spirituelle.
+texte: Originaire de Panopolis, aujourd'hui Akhmim, en Haute-Égypte, Zosime adresse ses traités à une femme nommée Théosébie. Il décrit des appareils — alambics, bains, fours — et des opérations de teinture des métaux, cite ses prédécesseurs, dont [[marie-la-juive]], et critique les pratiques de prêtres égyptiens rivaux.
+texte: Ses *Visions* racontent en rêve un autel où des hommes subissent tourments et démembrements avant de devenir esprits : image saisissante de la purification de la matière, mais aussi de celle de l'opérateur. Zosime s'inspire de l'[[hermetisme]] et de la [[gnose]] pour présenter l'alchimie comme une libération de l'esprit. [[carl-gustav-jung]] a fait de ses visions un point de départ de sa lecture psychologique de l'alchimie.
+voir: alchimie, marie-la-juive, hermetisme, transmutation
+
+@ marie-la-juive
+cat: figures
+nom: Marie la Juive
+alias: Marie la Prophétesse, Maria Prophetissa, axiome de Marie
+dates: entre le Ier et le IIIe siècle
+an: 200
+def: Alchimiste de l'Antiquité, connue par les citations de Zosime, à qui l'on attribue l'invention de plusieurs appareils de laboratoire, dont le bain-marie.
+texte: Marie est l'une des plus anciennes autorités de l'[[alchimie]] gréco-égyptienne. Zosime lui attribue la description d'alambics à plusieurs becs et du *kérotakis*, appareil où les métaux sont exposés aux vapeurs de soufre ou de mercure. Le [[bain-marie]], chauffage doux par l'intermédiaire de l'eau, porterait son nom.
+texte: On lui prête aussi des formules énigmatiques, comme celle qu'on appelle l'« axiome de Marie » : « Un devient deux, deux devient trois, et du troisième naît l'un comme quatrième. » [[carl-gustav-jung]] y voyait l'image du processus d'individuation. La tradition médiévale l'a confondue avec Miriam, la sœur de Moïse.
+voir: zosime-de-panopolis, bain-marie, alambic, alchimie
+
+@ claude-ptolemee
+cat: figures
+nom: Claude Ptolémée
+alias: Ptolémée, Ptolemaeus, Ptolemy, système de Ptolémée, géocentrisme
+dates: vers 100 – vers 170
+an: 100
+def: Astronome, géographe et astrologue d'Alexandrie, auteur de l'Almageste, qui fixa pour quatorze siècles le système d'un univers centré sur la Terre, et du Tétrabible, manuel d'astrologie.
+texte: Dans l'*Almageste*, Ptolémée rend compte des mouvements des planètes par des combinaisons de cercles autour d'une Terre immobile. Ce modèle, qui place autour de la Terre les sphères de la Lune, de Mercure, de Vénus, du Soleil, de Mars, de Jupiter, de Saturne et des étoiles fixes, structure toute la cosmologie médiévale, y compris celle des ésotéristes, jusqu'à Copernic.
+texte: Dans le *[[tetrabiblos|Tétrabible]]*, il donne à l'[[astrologie]] une justification physique : les astres agissent sur la Terre par la chaleur, l'humidité, la sécheresse et le froid, comme le Soleil règle les saisons et la Lune les marées. Ce traité reste la référence de l'astrologie savante.
+oeuvres: Almageste ; Tétrabible ; Géographie ; Harmoniques
+schema: cosmos-geocentrique
+voir: tetrabiblos, astrologie, planetes, harmonie-des-spheres
+
+@ pseudo-denys
+cat: figures
+nom: Pseudo-Denys l'Aréopagite
+alias: Denys l'Aréopagite, Dionysius, Pseudo-Dionysius, Hiérarchie céleste, théologie négative
+dates: vers 500
+an: 500
+def: Auteur chrétien anonyme des environs de l'an 500, qui écrivit sous le nom d'un disciple de saint Paul et décrivit la hiérarchie des anges et la théologie négative.
+texte: L'auteur se présente comme Denys, membre de l'Aréopage d'Athènes converti par Paul. Ses traités — *La Hiérarchie céleste*, *La Hiérarchie ecclésiastique*, *Les Noms divins*, *La Théologie mystique* — transposent dans le christianisme la pensée de [[proclus]] : la lumière divine descend par degrés, à travers neuf chœurs d'anges répartis en trois triades, jusqu'aux hommes. Dieu, au-delà de tout ce qu'on peut en dire, se connaît mieux par ce qu'on en nie que par ce qu'on en affirme.
+texte: Tenu pour un disciple des apôtres, il jouit au Moyen Âge d'une autorité presque égale à celle de l'Écriture. Le doute émis par Lorenzo Valla et Érasme est confirmé en 1895, quand deux philologues montrent qu'il dépend de Proclus. Sa hiérarchie angélique reste celle de la tradition, et de la [[magie]] savante qui invoque les anges.
+schema: hierarchies-celestes
+voir: hierarchies-celestes, anges, proclus, neoplatonisme, mystique
+
+@ salomon
+cat: figures
+nom: Salomon
+alias: roi Salomon, Solomon, sceau de Salomon, Testament de Salomon
+dates: Xe siècle av. J.-C. selon la Bible
+an: -970
+def: Roi d'Israël, fils de David, modèle biblique de la sagesse, devenu dans les traditions juive, chrétienne et musulmane le maître des démons et le patron de la magie.
+texte: La Bible fait de Salomon le constructeur du Temple de Jérusalem et le plus sage des rois, auteur de proverbes et de cantiques, connaisseur des plantes et des animaux. Dès l'Antiquité, cette sagesse devient pouvoir sur les esprits : l'historien Flavius Josèphe rapporte des formules d'exorcisme de Salomon, et le *Testament de Salomon*, écrit grec des premiers siècles, raconte comment il soumit les démons, grâce à un anneau marqué d'un sceau donné par l'archange Michel, pour bâtir le Temple.
+texte: De là une abondante littérature magique placée sous son nom : la *[[clavicule-de-salomon|Clavicule de Salomon]]*, le *[[lemegeton|Lemegeton]]* et sa *Goétie*, où figurent les sceaux des soixante-douze esprits qu'il aurait enfermés dans un vase d'airain. Le Temple de Salomon est aussi au cœur du mythe de la [[franc-maconnerie]], à travers la légende de son architecte, Hiram.
+voir: clavicule-de-salomon, lemegeton, hexagramme, goetie, colonnes-jakin-et-boaz
+
+@ jabir-ibn-hayyan
+cat: figures
+nom: Jâbir ibn Hayyân
+alias: Jabir, Geber, Pseudo-Geber, corpus jâbirien, Summa perfectionis
+dates: VIIIe siècle selon la tradition
+an: 721
+def: Alchimiste arabe auquel la tradition attribue un immense corpus de traités, et dont le nom latinisé, Geber, couvrit au Moyen Âge les ouvrages les plus influents de l'alchimie occidentale.
+texte: La tradition fait de Jâbir un disciple de l'imam Ja'far al-Sâdiq, mort en 765. Les quelque trois mille traités qu'on lui attribue ont été composés en réalité aux IXe et Xe siècles dans des milieux chiites ismaéliens, comme l'a montré l'orientaliste Paul Kraus en 1942. Ils exposent que tous les métaux sont formés de [[soufre]] et de [[mercure-principe|mercure]] en proportions variables, et qu'on peut les transmuter en rétablissant l'équilibre de leurs qualités, mesuré par une science de la « balance ».
+texte: En Occident, la *Summa perfectionis*, écrite en latin vers 1300 sous le nom de Geber, est le manuel d'alchimie le plus lu du Moyen Âge ; l'historien William Newman l'attribue à un franciscain italien, Paul de Tarente. C'est en souvenir de l'obscurité de ses écrits, dit-on, que l'anglais *gibberish* désigne un charabia.
+voir: alchimie, soufre, mercure-principe, transmutation, elixir-de-longue-vie
+
+@ ibn-arabi
+cat: figures
+nom: Ibn Arabî
+alias: Ibn Arabi, Muhyî al-Dîn, le plus grand maître, al-Shaykh al-Akbar
+dates: 1165 – 1240
+an: 1165
+def: Mystique et penseur musulman d'Andalousie, le plus influent des maîtres du soufisme, dont la doctrine de l'imagination créatrice a fasciné l'Occident.
+texte: Né à Murcie, Ibn Arabî parcourt l'Andalousie et le Maghreb à la recherche des maîtres, part pour l'Orient en 1201 et meurt à Damas. Ses *Révélations mecquoises* et ses *Gemmes de la sagesse* exposent une vision où Dieu se manifeste dans toutes choses : le monde est le miroir où Dieu se contemple, et chaque prophète révèle l'un de ses noms. Ses disciples ont résumé sa pensée par la formule d'« unicité de l'être ».
+texte: L'orientaliste Henry Corbin, dans *L'Imagination créatrice dans le soufisme d'Ibn Arabî* (1958), a fait connaître sa théorie d'un monde intermédiaire entre l'esprit et la matière, perçu par une imagination active : le [[imagination-creatrice|monde imaginal]]. Cette notion a beaucoup compté pour les études sur l'ésotérisme.
+voir: soufisme, imagination-creatrice, mystique
+
+@ moise-de-leon
+cat: figures
+nom: Moïse de León
+alias: Moshe de Leon, Moses de Leon
+dates: vers 1240 – 1305
+an: 1240
+def: Kabbaliste castillan du XIIIe siècle, principal auteur du Zohar, qu'il présenta comme l'œuvre d'un sage du IIe siècle.
+texte: Moïse de León vit à Guadalajara puis à Ávila et compose en hébreu plusieurs traités de [[kabbale]]. Vers 1280, il commence à diffuser des cahiers écrits en araméen, présentés comme les enseignements de Rabbi Siméon bar Yohaï, maître du IIe siècle : ce sera le *[[zohar|Zohar]]*, « livre de la splendeur ». Une chronique rapporte qu'après sa mort sa veuve aurait déclaré qu'il avait tout écrit lui-même, sans aucun manuscrit ancien.
+texte: [[gershom-scholem]] a montré par l'étude de la langue et des idées que l'essentiel du Zohar est bien de lui ; des chercheurs plus récents y voient plutôt l'œuvre d'un cercle de kabbalistes dont il fut la figure centrale.
+voir: zohar, kabbale, sephiroth, gershom-scholem
+
+@ abraham-aboulafia
+cat: figures
+nom: Abraham Aboulafia
+alias: Abulafia, kabbale prophétique, kabbale extatique
+dates: 1240 – après 1291
+an: 1240
+def: Kabbaliste né à Saragosse, fondateur d'une kabbale « prophétique » qui recherche l'extase par la méditation sur les lettres et les noms divins.
+texte: Aboulafia enseigne une méthode de combinaison des lettres hébraïques (*tseirouf*), accompagnée de techniques de respiration, de mouvements de la tête et de chants, qui doit conduire le méditant à l'état de prophétie. Il se croit lui-même appelé à une mission messianique et part en 1280 pour Rome afin de rencontrer le pape Nicolas III ; celui-ci meurt avant de le recevoir.
+texte: Critiqué par les autorités rabbiniques, Aboulafia a été longtemps marginalisé, mais ses écrits ont circulé et influencé la [[kabbale-chretienne|kabbale chrétienne]] de [[pic-de-la-mirandole]]. Moshe Idel en a fait l'un des grands sujets de l'étude moderne de la kabbale.
+voir: kabbale, tetragramme, gematrie, temourah, notarikon
+
+@ raymond-lulle
+cat: figures
+nom: Raymond Lulle
+alias: Ramon Llull, Raimundus Lullus, Art de Lulle, lullisme, Ars magna
+dates: vers 1232 – 1316
+an: 1232
+def: Philosophe, poète et missionnaire majorquin, inventeur d'un Art combinatoire censé démontrer toutes les vérités, et à qui l'on attribua plus tard de nombreux traités d'alchimie.
+texte: Courtisan converti par une vision du Christ crucifié, Lulle consacre sa vie à la conversion des musulmans et des juifs. Il conçoit pour cela un « Art » : des figures circulaires et mobiles combinent les attributs de Dieu (bonté, grandeur, éternité…) et des principes relatifs, si bien que l'on peut, en faisant tourner les cercles, produire mécaniquement toutes les questions et leurs réponses. Il écrit aussi des romans et de la poésie en catalan.
+texte: Son Art fascine la Renaissance, de [[pic-de-la-mirandole]] à [[giordano-bruno]], et annonce les projets de langue universelle ; Leibniz s'en inspire. Lulle avait condamné l'alchimie, mais un *Testament* alchimique écrit au XIVe siècle sous son nom a fait de lui l'un des maîtres de l'art.
+voir: art-de-la-memoire, kabbale-chretienne, alchimie, giordano-bruno
+
+@ albert-le-grand
+cat: figures
+nom: Albert le Grand
+alias: Albertus Magnus, saint Albert, Albert de Cologne
+dates: vers 1200 – 1280
+an: 1200
+def: Dominicain allemand, maître de Thomas d'Aquin, savant encyclopédique qui intégra à la pensée chrétienne les sciences de la nature d'Aristote et des Arabes, et à qui la légende attribua des pouvoirs de magicien.
+texte: Albert enseigne à Paris et à Cologne et commente toute l'œuvre d'Aristote. Observateur curieux, il écrit sur les minéraux, les plantes et les animaux, discute de l'[[alchimie]] et de l'[[astrologie]], qu'il tient pour des savoirs légitimes s'ils restent soumis à la foi. Le *Miroir de l'astronomie*, qui distingue l'astrologie licite des images magiques condamnables, a longtemps été placé sous son nom.
+texte: Sa réputation de science universelle lui valut d'être pris pour un magicien : on racontait qu'il avait fabriqué un automate parlant. Des recueils de secrets et de recettes ont circulé sous son nom, dont le célèbre *[[grand-albert|Grand Albert]]*, vendu par les colporteurs jusqu'au XXe siècle. Il a été canonisé en 1931.
+voir: grand-albert, petit-albert, alchimie, magie-naturelle, roger-bacon
+
+@ roger-bacon
+cat: figures
+nom: Roger Bacon
+alias: Doctor mirabilis, docteur admirable
+dates: vers 1220 – vers 1292
+an: 1220
+def: Franciscain anglais, savant et réformateur des études, qui défendit la science expérimentale, l'optique, l'alchimie et l'astrologie, et devint dans la légende un magicien.
+texte: Maître à Oxford et à Paris, Bacon adresse au pape Clément IV, en 1267, son *Opus majus*, plaidoyer pour une réforme du savoir chrétien par les langues anciennes, les mathématiques et la « science expérimentale ». Il y étudie la réfraction de la lumière, imagine des machines volantes et des navires sans rameurs, et donne une place à l'[[alchimie]], capable selon lui de prolonger la vie.
+texte: Ses idées le rendent suspect à son ordre. La légende anglaise en fait un magicien possesseur d'une tête d'airain qui parlait ; on lui a attribué, sans fondement, le mystérieux manuscrit Voynich. Il reste pour l'histoire des sciences l'un des premiers défenseurs de l'expérience comme source de connaissance.
+voir: albert-le-grand, alchimie, elixir-de-longue-vie, magie-naturelle
+
+@ arnaud-de-villeneuve
+cat: figures
+nom: Arnaud de Villeneuve
+alias: Arnau de Vilanova, Arnaldus de Villanova
+dates: vers 1240 – 1311
+an: 1240
+def: Médecin catalan, professeur à Montpellier et médecin des papes et des rois, sous le nom duquel circulèrent de nombreux traités d'alchimie.
+texte: Arnaud soigne les rois d'Aragon et les papes Boniface VIII et Clément V, enseigne à Montpellier et écrit sur la médecine, la diététique et les vertus des eaux distillées : on lui a longtemps attribué la découverte de l'« eau-de-vie ». Il se passionne aussi pour les prophéties sur la fin des temps, ce qui lui vaut des démêlés avec les théologiens de Paris.
+texte: Une quinzaine de traités alchimiques, dont le *Rosaire*, lui ont été attribués après sa mort ; leur authenticité est très douteuse. Ils ont contribué à faire de lui, aux côtés de [[raymond-lulle]], l'une des grandes autorités de l'[[alchimie]] médiévale.
+voir: alchimie, quintessence, elixir-de-longue-vie, rosaire-des-philosophes
+
+@ nicolas-flamel
+cat: figures
+nom: Nicolas Flamel
+alias: Flamel, Pernelle, Pernelle Flamel
+dates: vers 1330 – 1418
+an: 1330
+def: Écrivain public et libraire parisien du XIVe siècle, enrichi par son métier, que la légende née au XVIIe siècle fit l'alchimiste qui aurait réussi la pierre philosophale.
+texte: Les archives montrent un Flamel bien réel : libraire-juré de l'Université, copiste et propriétaire de nombreuses maisons, il fait avec sa femme Pernelle de généreuses donations aux églises de Paris, notamment au cimetière des Innocents, où il fait peindre des figures. Sa maison de 1407, rue de Montmorency, existe toujours. Les historiens expliquent sa fortune par ses affaires, ses placements et la dot de Pernelle.
+texte: En 1612 paraît le *[[livre-des-figures-hieroglyphiques|Livre des figures hiéroglyphiques]]*, où « Flamel » raconte avoir acquis un livre mystérieux d'« Abraham le Juif », l'avoir fait expliquer par un médecin juif en Espagne, puis réussi la transmutation en or le 25 avril 1382. Ce récit, écrit deux siècles après sa mort, fonde la légende d'un Flamel immortel, aperçu encore aux siècles suivants — jusque dans les romans d'aujourd'hui.
+voir: livre-des-figures-hieroglyphiques, pierre-philosophale, transmutation, alchimie

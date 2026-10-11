@@ -1,0 +1,343 @@
+# Symboles.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ ouroboros
+cat: symboles
+nom: Ouroboros
+alias: ouroboros, uroboros, serpent qui se mord la queue, Un est le Tout, hen to pan
+def: Serpent ou dragon qui se mord la queue en formant un cercle, symbole de l'éternité, du cycle sans fin et de l'unité de toutes choses.
+texte: L'image apparaît en Égypte, sur une chapelle du tombeau de Toutânkhamon, au XIVe siècle avant notre ère, où elle entoure une figure divine. Elle devient l'emblème de l'[[alchimie]] gréco-égyptienne : un manuscrit de la *Chrysopée de Cléopâtre* inscrit dans son cercle les mots « Un est le Tout ». La matière qui se dévore et se reproduit elle-même figure l'œuvre qui recommence sans fin.
+texte: Les gnostiques y voient le monde enveloppé par le serpent ; la [[societe-theosophique|Société théosophique]] en entoure son sceau. Le chimiste August Kekulé raconta avoir trouvé la structure en anneau du benzène après avoir rêvé d'un serpent qui se mordait la queue.
+schema: ouroboros
+voir: serpent, chrysopee, alchimie, cycles-cosmiques, societe-theosophique
+
+@ pentagramme
+cat: symboles
+nom: Pentagramme
+alias: pentagramme, pentacle (au sens d'étoile), étoile à cinq branches, pentalpha, hygieia, pentagramme inversé
+glyphe: pentagramme
+def: Étoile à cinq branches tracée d'un seul trait, symbole de l'homme, de la santé et de la maîtrise des éléments par l'esprit dans l'ésotérisme occidental.
+texte: Les pythagoriciens en faisaient leur signe de reconnaissance et y inscrivaient le mot « santé » ; ses segments sont en proportion du [[nombre-d-or|nombre d'or]]. Le christianisme médiéval y voit les cinq plaies du Christ ; [[cornelius-agrippa]] y inscrit l'homme, la tête et les membres étendus touchant ses cinq pointes : c'est le [[microcosme-macrocosme|microcosme]].
+texte: [[eliphas-levi]] lui donne son sens moderne : la pointe en haut, l'esprit domine les [[quatre-elements|quatre éléments]] ; la pointe en bas, il figure la tête du bouc et la matière dominant l'esprit. La [[golden-dawn|Golden Dawn]] attribue chaque pointe à un élément et l'utilise dans le [[rituel-du-pentagramme]]. Il est le symbole de la [[wicca]] ; inversé, il a été adopté par le [[satanisme]].
+schema: pentagramme-elements
+voir: rituel-du-pentagramme, microcosme-macrocosme, quatre-elements, pentacle, hexagramme, baphomet
+
+@ hexagramme
+cat: symboles
+nom: Hexagramme
+alias: sceau de Salomon, étoile de David, Magen David, étoile à six branches, deux triangles entrelacés
+def: Étoile à six branches formée de deux triangles entrelacés, l'un pointe en haut, l'autre pointe en bas, symbole de l'union des contraires, appelée sceau de Salomon en magie.
+texte: La figure est très ancienne et commune à de nombreuses cultures. Dans la magie médiévale et la tradition islamique, elle orne le sceau de [[salomon]] qui commandait aux démons. Elle devient l'emblème de la communauté juive de Prague au XVIIe siècle, puis du judaïsme tout entier sous le nom d'étoile de David, et le sionisme l'adopte en 1897.
+texte: Pour les alchimistes, le triangle pointe en haut est le feu, le triangle pointe en bas l'eau : leur union réunit les [[quatre-elements|quatre éléments]]. Les occultistes y lisent la formule « ce qui est en haut est comme ce qui est en bas » et y disposent les sept planètes, le Soleil au centre. Le sceau de la [[societe-theosophique|Société théosophique]] l'utilise.
+schema: hexagramme-planetes
+voir: pentagramme, salomon, quatre-elements, microcosme-macrocosme, table-d-emeraude
+
+@ caducee
+cat: symboles
+nom: Caducée
+alias: caducée, kerykeion, baguette d'Hermès, bâton d'Esculape, bâton d'Asclépios
+def: Baguette d'Hermès, autour de laquelle s'enroulent deux serpents et que surmontent deux ailes, symbole de la paix, de l'échange, de l'union des contraires et de la médecine.
+texte: Le caducée était le bâton des hérauts, messagers inviolables. La légende raconte qu'Hermès le jeta entre deux serpents qui se battaient : ils s'y enroulèrent et firent la paix. Il désigne le commerce, l'éloquence, et pour les alchimistes l'union du [[soufre]] et du [[mercure-principe|mercure]] autour de l'axe de l'œuvre.
+texte: On le confond souvent avec le bâton d'Asclépios, dieu de la médecine, autour duquel ne s'enroule qu'un seul serpent : c'est ce dernier qui est le véritable symbole médical, même si le caducée l'a supplanté dans plusieurs pays. Les ésotéristes modernes comparent les deux serpents aux canaux d'énergie qui s'enroulent autour de la colonne vertébrale dans la doctrine de la [[kundalini]].
+voir: hermes-trismegiste, mercure, serpent, kundalini, mercure-principe
+
+@ la-rose
+cat: symboles
+nom: Rose
+alias: la rose, rose mystique, rose sur la croix, rose-croix (symbole), sceau de Luther
+def: Fleur symbolique par excellence de l'Occident, image de la beauté, de l'amour, du secret et de la perfection spirituelle, unie à la croix dans le symbole rosicrucien.
+texte: La rose est la fleur de Vénus et de l'amour courtois dans le *Roman de la Rose* ; dans la *Divine Comédie*, Dante contemple le paradis sous la forme d'une immense rose blanche où siègent les bienheureux. Le latin *sub rosa*, « sous la rose », signifie « en secret ». Pour les alchimistes, le *Rosaire* est le jardin de la sagesse.
+texte: Le sceau de Luther montrait une croix dans un cœur posé sur une rose blanche, et les armoiries de la famille d'[[johann-valentin-andreae]] portaient une croix et des roses : l'emblème des [[rose-croix|Rose-Croix]] est né dans ce milieu luthérien. La rose épanouie au centre de la croix figure l'âme qui fleurit au cœur de l'épreuve, ou l'union du principe féminin et du principe masculin.
+voir: rose-croix, christian-rosenkreutz, rosaire-des-philosophes, pelican
+
+@ croix-ansee
+cat: symboles
+nom: Croix ansée
+alias: ankh, ânkh, clé de vie, croix égyptienne
+glyphe: ankh
+def: Signe égyptien en forme de croix surmontée d'une boucle, qui signifie « vie » dans l'écriture hiéroglyphique, et que les dieux tiennent à la main.
+texte: Dans les représentations égyptiennes, les dieux tendent l'*ânkh* vers le nez du pharaon pour lui donner le souffle de vie. L'origine de la forme est discutée : nœud de sandale, lien, ou symbole d'union. Les chrétiens coptes d'Égypte l'ont adopté comme forme de la croix.
+texte: L'[[egyptosophie]] moderne, la [[societe-theosophique|Société théosophique]], qui l'inscrit dans son sceau, puis la contre-culture et le [[new-age|New Age]] en ont fait un symbole très répandu d'immortalité et de sagesse égyptienne.
+voir: egyptosophie, hieroglyphes, societe-theosophique
+
+@ oeil-de-la-providence
+cat: symboles
+nom: Œil de la Providence
+alias: oeil de la providence, œil qui voit tout, delta lumineux, œil dans le triangle, pyramide au dollar
+def: Œil rayonnant inscrit dans un triangle, représentant la Providence divine qui voit tout, devenu aussi un symbole maçonnique et républicain.
+texte: L'image apparaît dans l'art chrétien au XVIIe siècle : le triangle figure la Trinité, l'œil la vigilance de Dieu. On la retrouve en tête de la *Déclaration des droits de l'homme et du citoyen* peinte en 1789, et au revers du grand sceau des États-Unis (1782), au sommet d'une pyramide inachevée, reproduit sur le billet d'un dollar depuis 1935.
+texte: La [[franc-maconnerie]] en fait le « delta lumineux » qui surmonte le siège du vénérable. Sa présence sur le dollar a nourri les théories complotistes sur les [[illumines-de-baviere|Illuminati]], sans aucun fondement : le symbole était commun dans l'art religieux de l'époque.
+voir: franc-maconnerie, illumines-de-baviere, pyramides, trois-points
+
+@ compas-et-equerre
+cat: symboles
+nom: Compas et équerre
+alias: équerre et compas, équerre, compas, la lettre G
+def: Emblème principal de la franc-maçonnerie : l'équerre, instrument de la rectitude et de la matière, et le compas, instrument de la mesure et de l'esprit, croisés l'un sur l'autre.
+texte: L'équerre trace l'angle droit et le carré de la terre ; le compas trace le cercle du ciel. Leur position varie selon les grades : chez l'apprenti, l'équerre recouvre le compas ; chez le compagnon, ils s'entrecroisent ; chez le maître, le compas domine, signe que l'esprit l'emporte. Dans les pays anglophones, une lettre G, pour *God* et Géométrie, est placée entre eux.
+texte: Avec la Bible ou le livre de la loi, ils forment les « trois grandes lumières » de la loge. On les retrouve sur les tombes, les bijoux et les bâtiments maçonniques du monde entier.
+voir: franc-maconnerie, grades-maconniques, etoile-flamboyante
+
+@ acacia
+cat: symboles
+nom: Acacia
+alias: branche d'acacia, l'acacia m'est connu
+def: Arbuste dont la branche, dans la légende maçonnique, marquait la tombe de l'architecte Hiram, et qui symbolise l'immortalité et la connaissance du maître.
+texte: Selon la légende du grade de maître, les compagnons partis à la recherche d'Hiram assassiné découvrent sa tombe grâce à une branche d'acacia plantée sur la terre fraîchement remuée. Le bois d'acacia, réputé imputrescible, était celui de l'arche d'alliance.
+texte: La formule « l'acacia m'est connu » permet à un maître de se faire reconnaître. L'acacia est devenu l'image de l'espérance d'une vie qui triomphe de la mort.
+voir: franc-maconnerie, grades-maconniques
+
+@ labyrinthe
+cat: symboles
+nom: Labyrinthe
+alias: labyrinthes, chemin de Jérusalem, labyrinthe de Chartres, Minotaure, fil d'Ariane
+def: Construction ou tracé aux chemins sinueux, symbole du parcours difficile qui mène au centre, à soi-même ou à Dieu, et de l'épreuve initiatique.
+texte: Le mythe grec raconte que Dédale construisit en Crète le labyrinthe où le roi Minos enferma le Minotaure, et que Thésée en sortit grâce au fil d'Ariane. Les cathédrales gothiques, comme Chartres vers 1200, tracent sur leur sol de grands labyrinthes à chemin unique, que l'on parcourait en prière : on les appelait parfois « chemins de Jérusalem ».
+texte: Pour l'ésotérisme, le labyrinthe figure l'[[initiation]] : un chemin qui semble s'éloigner du but et qui pourtant y conduit, une mort symbolique au centre suivie d'un retour transformé.
+voir: initiation, mandala, mysteres-antiques
+
+@ mandala
+cat: symboles
+nom: Mandala
+alias: mandalas, yantra, diagramme cosmique, mandala de sable
+def: Diagramme circulaire et symétrique des traditions hindoues et bouddhistes, image du cosmos et support de méditation ; Jung en fit un symbole de la totalité psychique.
+texte: Le mot sanskrit signifie « cercle ». Le mandala dispose autour d'un centre, souvent occupé par une divinité, des carrés et des cercles concentriques percés de portes orientées : c'est un palais divin et une carte de l'univers. Les moines tibétains en dessinent avec du sable coloré, puis les dispersent pour signifier l'impermanence. Le *yantra* en est une forme géométrique.
+texte: [[carl-gustav-jung]], qui dessinait lui-même des mandalas, y vit l'expression spontanée du Soi, de la totalité de la personne, apparaissant dans les rêves et les dessins de ses patients aux moments de réorganisation intérieure.
+voir: tantrisme, carl-gustav-jung, chakra, labyrinthe
+
+@ vesica-piscis
+cat: symboles
+nom: Vesica piscis
+alias: vessie de poisson, mandorle, amande mystique
+def: Figure en forme d'amande formée par l'intersection de deux cercles de même rayon passant chacun par le centre de l'autre, base de la géométrie dite « sacrée ».
+texte: Le nom latin signifie « vessie de poisson ». La figure est la première construction des *Éléments* d'Euclide, qui s'en sert pour tracer un triangle équilatéral. Dans l'art chrétien, elle devient la mandorle qui entoure le Christ en gloire ou la Vierge, et le poisson, *ichthus*, est un symbole du Christ.
+texte: La géométrie sacrée y voit l'image de la naissance du monde, de l'union de deux principes d'où naît le troisième ; elle est au point de départ de la [[fleur-de-vie|fleur de vie]].
+schema: vesica-piscis
+voir: fleur-de-vie, arcane-monde, tetramorphe
+
+@ fleur-de-vie
+cat: symboles
+nom: Fleur de vie
+alias: fleur de vie, graine de vie, géométrie sacrée
+def: Motif formé de cercles de même rayon qui se chevauchent régulièrement en rosace, popularisé par le New Age comme symbole de la géométrie sacrée de l'univers.
+texte: Le motif apparaît dans de nombreuses cultures comme simple décor géométrique, des ornements romains aux carnets de Léonard de Vinci. On en trouve des dessins sur un pilier du temple d'Osiris à Abydos, en Égypte, probablement tracés bien après la construction du temple.
+texte: Le nom de « fleur de vie » et l'idée qu'elle contiendrait les plans de toute la création datent des années 1990, avec les ouvrages de Drunvalo Melchizedek. Elle est devenue un emblème très répandu du [[new-age|New Age]].
+schema: fleur-de-vie
+voir: vesica-piscis, new-age, mandala
+
+@ triskele
+cat: symboles
+nom: Triskèle
+alias: triskell, triskel, triple spirale, trinacria
+def: Motif formé de trois spirales ou de trois jambes rayonnant d'un centre, emblème du mouvement et de la trinité, associé aujourd'hui à l'identité celtique et bretonne.
+texte: La triple spirale gravée à l'entrée du tumulus de Newgrange, en Irlande, date du Néolithique, bien avant les Celtes. L'art celtique de La Tène en fait un motif favori ; le triskèle à trois jambes figure sur les armes de la Sicile et de l'île de Man.
+texte: Le triskèle est devenu au XXe siècle un symbole de la Bretagne et du mouvement celtique, et le [[druidisme|néo-druidisme]] l'interprète comme l'image des trois mondes ou des trois forces de la nature.
+voir: druidisme, neopaganisme
+
+@ baphomet
+cat: symboles
+nom: Baphomet
+alias: Baphomet de Lévi, bouc de Mendès, idole des Templiers
+def: Nom d'une idole que les templiers furent accusés d'adorer, devenu sous la plume d'Éliphas Lévi une figure androgyne à tête de bouc, symbole de l'équilibre des contraires.
+texte: Lors du procès des [[templiers]], certains accusés parlent d'une tête qu'ils auraient vénérée, nommée « Baphomet », probablement une déformation de « Mahomet ». Au XIXe siècle, des auteurs y cherchent un symbole gnostique secret.
+texte: [[eliphas-levi]] dessine en 1856, en frontispice de son *[[dogme-et-rituel|Rituel de la haute magie]]*, un Baphomet assis : tête de bouc portant un flambeau et un [[pentagramme]], ailes, seins de femme, caducée au ventre, un bras levé marqué *[[solve-et-coagula|Solve]]*, l'autre abaissé marqué *Coagula*. Pour Lévi, c'est l'image de la [[lumiere-astrale]] et de l'union des contraires, non du Diable. L'image a pourtant inspiré le [[arcane-diable|Diable]] du tarot Rider-Waite et l'emblème du [[satanisme]] moderne.
+voir: eliphas-levi, templiers, solve-et-coagula, arcane-diable, satanisme, androgyne
+
+@ phenix
+cat: symboles
+nom: Phénix
+alias: phoenix, phénix, oiseau de feu, bennou
+def: Oiseau fabuleux qui renaît de ses cendres, symbole de la résurrection, de l'immortalité et, en alchimie, de la pierre philosophale achevée.
+texte: Hérodote rapporte que le phénix, venu d'Arabie tous les cinq cents ans, apporte au temple du Soleil d'Héliopolis le corps de son père enveloppé de myrrhe ; la tradition ultérieure le fait mourir dans un bûcher parfumé et renaître de ses cendres. Les Égyptiens vénéraient à Héliopolis l'oiseau Bennou, lié au soleil levant.
+texte: Les chrétiens en ont fait une image de la résurrection du Christ, les alchimistes celle de la [[rubedo]], la matière qui, passée par le feu, renaît incorruptible.
+voir: rubedo, pierre-philosophale, pelican, oeuf-cosmique
+
+@ pelican
+cat: symboles
+nom: Pélican
+alias: pélican mystique, pélican alchimique, Chevalier Rose-Croix
+def: Oiseau dont on croyait qu'il se perçait la poitrine pour nourrir ses petits de son sang, symbole du Christ et du sacrifice ; c'est aussi un vase des alchimistes.
+texte: Les bestiaires médiévaux racontent que le pélican, après avoir tué ses petits, les ressuscite au bout de trois jours en les arrosant de son sang : image du Christ qui sauve les hommes par sa Passion. On le voit sur les autels, les vitraux et, dans la [[franc-maconnerie]], sur le bijou du grade de Chevalier Rose-Croix.
+texte: Les alchimistes appellent pélican un vase dont les deux bras recourbés ramènent dans la panse le liquide qui s'évapore : la matière se distille et retombe sur elle-même sans fin, comme le pélican se nourrit de son propre sang.
+voir: alambic, rubedo, la-rose, phenix, grades-maconniques
+
+@ androgyne
+cat: symboles
+nom: Androgyne
+alias: androgynie, hermaphrodite, Adam androgyne, mythe d'Aristophane
+def: Être à la fois homme et femme, symbole de la totalité originelle, de l'union des contraires et de l'humanité réconciliée.
+texte: Dans le *Banquet* de [[platon]], Aristophane raconte que les premiers humains étaient sphériques et doubles ; Zeus les coupa en deux, et chacun cherche depuis sa moitié perdue. Des commentateurs juifs de la Genèse comprennent qu'Adam, créé « homme et femme », était d'abord androgyne, avant d'être séparé en deux.
+texte: L'alchimie figure l'achèvement de l'œuvre par le [[rebis]], être à deux têtes ; [[jakob-boehme]] pense qu'Adam a perdu en tombant sa compagne intérieure, [[sophia]]. Le Baphomet d'Éliphas Lévi est androgyne, et Joséphin Péladan intitule *L'Androgyne* l'un de ses romans. Le thème hante le symbolisme fin de siècle.
+voir: rebis, sophia, baphomet, platon, adam-kadmon
+
+@ arbre-cosmique
+cat: symboles
+nom: Arbre cosmique
+alias: axe du monde, axis mundi, arbre du monde, Yggdrasil, arbre de vie
+def: Arbre immense qui, dans de nombreuses mythologies, relie le ciel, la terre et le monde souterrain, et forme l'axe autour duquel s'organise l'univers.
+texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
+texte: L'historien des religions Mircea Eliade a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
+voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob
+
+@ sphinx
+cat: symboles
+nom: Sphinx
+alias: sphinge, énigme du sphinx, savoir oser vouloir se taire
+def: Créature à corps de lion et tête humaine, gardien des secrets en Égypte et en Grèce, devenu chez les occultistes le symbole des quatre vertus du mage : savoir, oser, vouloir et se taire.
+texte: Le grand sphinx de Gizeh, sculpté il y a plus de quatre mille cinq cents ans, figure un roi en lion couché. Le sphinx grec, femelle et ailé, pose à Œdipe son énigme : quel être marche à quatre pattes le matin, à deux à midi, à trois le soir ? L'homme.
+texte: [[eliphas-levi]] compose un sphinx des quatre vivants du [[tetramorphe]] — taureau, lion, aigle et homme — et en tire la devise du mage : « Savoir, oser, vouloir, se taire. » Le sphinx couronne la [[arcane-roue-de-fortune|Roue de Fortune]] du tarot.
+voir: tetramorphe, egyptosophie, arcane-roue-de-fortune, eliphas-levi
+
+@ serpent
+cat: symboles
+nom: Serpent
+alias: serpents, dragon, ophites, naassènes, serpent d'airain
+def: Animal au symbolisme double, à la fois tentateur et porteur de sagesse, de guérison et de renouveau, omniprésent dans l'ésotérisme.
+texte: Dans la Genèse, le serpent tente Ève ; mais Moïse dresse au désert un serpent d'airain qui guérit ceux qui le regardent, et Jésus invite à être « prudents comme les serpents ». Certains gnostiques, les ophites, honoraient le serpent du paradis comme le révélateur de la connaissance. Le serpent qui mue figure la renaissance ; celui qui se mord la queue, l'[[ouroboros]], l'éternité.
+texte: On le retrouve autour du [[caducee|caducée]] d'Hermès, du bâton d'Asclépios, dans la [[kundalini]] lovée à la base de la colonne vertébrale, et chez [[eliphas-levi]], pour qui le serpent de la Genèse est l'image de la [[lumiere-astrale]].
+voir: ouroboros, caducee, kundalini, gnosticisme, lumiere-astrale
+
+@ etoile-flamboyante
+cat: symboles
+nom: Étoile flamboyante
+alias: étoile flamboyante, étoile maçonnique, lettre G
+def: Étoile à cinq branches entourée de rayons, souvent marquée en son centre de la lettre G, symbole du grade de compagnon dans la franc-maçonnerie.
+texte: Présentée au compagnon après son [[initiation]], l'étoile flamboyante figure l'homme régénéré, éclairé par la connaissance, à l'image du [[pentagramme]] de la tradition hermétique. La lettre G a reçu de nombreuses interprétations : Géométrie, Gnose, Génération, Gravitation, ou Dieu (*God*).
+texte: Elle brille à l'orient du temple, au-dessus ou à côté du vénérable, et rappelle l'étoile qui guida les Mages.
+voir: franc-maconnerie, grades-maconniques, pentagramme, compas-et-equerre
+
+@ colonnes-jakin-et-boaz
+cat: symboles
+nom: Colonnes Jakin et Boaz
+alias: Jakin, Boaz, Jachin, Booz, deux colonnes, colonnes du Temple
+def: Les deux colonnes de bronze qui se dressaient devant le Temple de Salomon, reprises dans toutes les loges maçonniques et dans l'iconographie ésotérique.
+texte: Le premier livre des Rois décrit les deux colonnes coulées par l'artisan Hiram de Tyr et placées à l'entrée du Temple : à droite Jakin (« il établira »), à gauche Boaz (« en lui la force »). Elles sont devenues l'image du seuil, de l'entrée dans le lieu sacré.
+texte: Dans les loges maçonniques, elles encadrent la porte du temple, et chaque grade se rattache à l'une d'elles. La [[kabbale-hermetique|kabbale hermétique]] les identifie aux deux colonnes latérales de l'arbre des séphiroth, rigueur et miséricorde ; la Grande Prêtresse du [[tarot-rider-waite|tarot Rider-Waite]] siège entre une colonne noire marquée B et une blanche marquée J.
+voir: salomon, franc-maconnerie, arcane-papesse, arbre-des-sephiroth
+
+@ chaine-d-union
+cat: symboles
+nom: Chaîne d'union
+alias: chaîne d'union, houppe dentelée, lacs d'amour
+def: Rite de clôture de nombreuses loges maçonniques, où les frères se tiennent par la main, bras croisés, pour former un cercle fraternel ; on appelle aussi ainsi la corde à nœuds qui entoure le temple.
+texte: Les participants forment une chaîne autour du temple, chacun donnant la main droite à son voisin de gauche et la gauche à son voisin de droite. Un mot ou une pensée circule, et l'on évoque les absents et les disparus.
+texte: La corde à nœuds, ou « houppe dentelée », qui fait le tour de la loge, représente la même idée d'une communauté unie. Les ésotéristes y voient la formation d'un [[egregore]].
+voir: franc-maconnerie, egregore, initiation
+
+@ lotus
+cat: symboles
+nom: Lotus
+alias: lotus sacré, fleur de lotus, nénuphar, om mani padme hum
+def: Fleur aquatique qui s'épanouit, immaculée, au-dessus de l'eau boueuse, symbole de pureté, d'éveil spirituel et de naissance du monde en Égypte et en Inde.
+texte: En Égypte, le soleil naissant sortait d'un lotus au premier matin du monde. En Inde, Brahmâ naît d'un lotus issu du nombril de Vishnou, et le Bouddha est représenté assis sur un lotus : la fleur s'épanouit pure au-dessus de la boue, comme l'esprit éveillé au-dessus du monde.
+texte: Les [[chakra|chakras]] sont décrits comme des lotus au nombre de pétales variable, jusqu'au lotus aux mille pétales du sommet de la tête. La [[theosophie]] a largement diffusé ce symbole en Occident.
+voir: chakra, mandala, egyptosophie, tantrisme
+
+@ yin-et-yang
+cat: symboles
+nom: Yin et yang
+alias: yin yang, taijitu, taiji, tao, taoïsme
+def: Couple de principes complémentaires de la pensée chinoise, l'obscur et le lumineux, le réceptif et l'actif, dont l'alternance produit tous les changements du monde.
+texte: Le yin évoque à l'origine le versant ombragé d'une colline, le yang le versant ensoleillé. Ils s'opposent et s'engendrent l'un l'autre : chacun contient le germe de l'autre et se change en lui à son point extrême. Le *[[yi-king|Yi King]]* combine leurs traits, brisés et pleins, en trigrammes et en hexagrammes. Le diagramme circulaire du « faîte suprême », où deux virgules noire et blanche s'enlacent avec chacune un point de la couleur opposée, s'est répandu à l'époque des Ming.
+texte: L'Occident a adopté le symbole au XXe siècle comme image universelle de l'équilibre des contraires, rapproché des polarités de l'[[alchimie]] et de la [[kabbale]].
+voir: yi-king, neidan, astrologie-chinoise, androgyne
+
+@ svastika
+cat: symboles
+nom: Svastika
+alias: swastika, croix gammée, svastika, sauvastika
+def: Croix aux branches coudées, l'un des plus anciens symboles de l'humanité, signe de bon augure en Inde, détourné au XXe siècle par le nazisme qui en a fait en Occident un symbole de haine.
+texte: Le mot sanskrit dérive de *svasti*, « bien-être ». Le signe apparaît dès le Néolithique en Eurasie et se retrouve chez les Grecs, les Celtes, les Germains et les Amérindiens. Il reste sacré dans l'hindouisme, le jaïnisme et le bouddhisme, où il orne les temples et les maisons. La [[societe-theosophique|Société théosophique]] l'inscrit dans son sceau à la fin du XIXe siècle.
+texte: Les mouvements völkisch et l'[[ariosophie]] en font un emblème « aryen » ; le parti nazi l'adopte en 1920. Depuis, son usage est banni ou interdit dans plusieurs pays européens, tandis qu'il garde en Asie sa signification religieuse et bienfaisante.
+voir: ariosophie, societe-thule, societe-theosophique, runes
+
+@ tetramorphe
+cat: symboles
+nom: Tétramorphe
+alias: quatre vivants, quatre évangélistes, homme lion taureau aigle
+def: Les quatre « vivants » — un homme, un lion, un taureau et un aigle — de la vision d'Ézéchiel et de l'Apocalypse, devenus les symboles des quatre évangélistes et, pour l'ésotérisme, des quatre éléments et des quatre signes fixes du zodiaque.
+texte: Le prophète Ézéchiel voit le char de Dieu porté par quatre créatures à quatre faces ; l'Apocalypse place autour du trône un lion, un taureau, un être à face d'homme et un aigle. Saint Jérôme les attribue aux évangélistes : l'homme à Matthieu, le lion à Marc, le taureau à Luc, l'aigle à Jean. Ils entourent le Christ en gloire des portails romans.
+texte: Les astrologues remarquent qu'ils répondent aux quatre signes fixes : [[verseau|Verseau]], [[lion|Lion]], [[taureau|Taureau]] et [[scorpion|Scorpion]], dont l'aigle était une figure ancienne. Ils occupent les coins des arcanes du [[arcane-monde|Monde]] et, dans le Rider-Waite, de la [[arcane-roue-de-fortune|Roue de Fortune]] ; [[eliphas-levi]] les réunit dans son [[sphinx]].
+voir: arcane-monde, sphinx, triplicites, merkavah, quatre-elements
+
+@ trois-points
+cat: symboles
+nom: Trois points
+alias: ∴, trois points en triangle, frère trois-points, abréviation maçonnique
+def: Signe formé de trois points disposés en triangle, utilisé par les francs-maçons pour abréger les mots et signer, d'où le surnom de « frères trois-points ».
+texte: L'usage apparaît dans la [[franc-maconnerie]] française à la fin du XVIIIe siècle : on écrit F∴ pour « frère », L∴ pour « loge », G∴ O∴ pour « Grand Orient ». Le triangle de points rappelle le delta, la triade et les trois grades ; en mathématiques, le même signe signifie « donc ».
+texte: Certains ordres ésotériques, comme l'[[a-a|A∴A∴]] d'Aleister Crowley, ont repris cette ponctuation pour leur nom.
+voir: franc-maconnerie, oeil-de-la-providence, a-a
+
+@ graal
+cat: symboles
+nom: Graal
+alias: Saint-Graal, saint Graal, Perceval, Parzival, Parsifal, quête du Graal
+def: Objet mystérieux des romans arthuriens, d'abord un plat, puis la coupe de la Cène ou une pierre tombée du ciel, devenu le symbole d'une quête spirituelle et d'un secret caché.
+texte: Dans le *Conte du Graal* de Chrétien de Troyes, vers 1180, le jeune Perceval voit passer au château du Roi Pêcheur un « graal », un plat d'or, sans oser demander à qui il sert. Robert de Boron en fait la coupe où Joseph d'Arimathie recueillit le sang du Christ ; Wolfram von Eschenbach, dans son *Parzival*, une pierre tombée du ciel. Wagner en tire *Parsifal* (1882).
+texte: L'ésotérisme moderne s'en est emparé : [[josephin-peladan]] place sa Rose-Croix sous le signe du Graal, [[rene-guenon]] y voit un symbole du centre spirituel, [[julius-evola]] lui consacre un livre, et Otto Rahn le cherche chez les [[catharisme|cathares]] de Montségur. Les récits contemporains d'une descendance secrète du Christ n'ont aucune base historique.
+voir: catharisme, templiers, josephin-peladan, tradition-primordiale
+
+@ oeuf-cosmique
+cat: symboles
+nom: Œuf cosmique
+alias: oeuf cosmique, œuf du monde, œuf orphique, Hiranyagarbha
+def: Œuf primordial d'où naît l'univers dans de nombreuses cosmogonies, symbole de la totalité en germe et de la naissance du monde.
+texte: Les orphiques racontent qu'au commencement le Temps forma un œuf d'argent d'où sortit Phanès, dieu de la lumière, premier-né. Dans l'Inde védique, un « embryon d'or » flotte sur les eaux primordiales ; en Chine, le géant Pangu naît d'un œuf dont les deux moitiés deviennent le ciel et la terre.
+texte: L'[[alchimie]] reprend l'image dans son [[oeuf-philosophique|œuf philosophique]], où la matière enfermée doit éclore en pierre. L'œuf de Pâques, symbole de résurrection, prolonge ce thème.
+voir: oeuf-philosophique, orphisme, phenix
+
+@ pyramides
+cat: symboles
+nom: Pyramides
+alias: pyramide, grande pyramide, Khéops, pyramidologie, pouvoir des pyramides
+def: Monuments funéraires des pharaons d'Égypte, dont la Grande Pyramide de Gizeh a été chargée depuis le XIXe siècle de secrets mathématiques, prophétiques ou énergétiques.
+texte: La Grande Pyramide, tombeau du roi Khéops, est bâtie vers 2560 avant notre ère. En 1864, l'astronome écossais Charles Piazzi Smyth, à la suite de l'éditeur John Taylor, croit y découvrir une unité de mesure divine, le « pouce pyramidal », et une chronologie prophétique de l'humanité : c'est la « pyramidologie ». Au XXe siècle, la mode du « pouvoir des pyramides » prétend qu'une forme pyramidale conserve les aliments et aiguise les lames de rasoir.
+texte: Les égyptologues ont montré, notamment par la découverte du village et des tombes des ouvriers, comment les Égyptiens construisirent ces monuments. Les théories ésotériques qui leur prêtent une origine perdue ou extraterrestre ne reposent sur aucune preuve.
+voir: egyptosophie, nombre-d-or, schwaller-de-lubicz, oeil-de-la-providence
+
+@ hieroglyphes
+cat: symboles
+nom: Hiéroglyphes
+alias: hiéroglyphe, Horapollon, Hieroglyphica, écriture sacrée
+def: Écriture de l'Égypte ancienne, longtemps lue en Occident comme un système de symboles philosophiques, avant son déchiffrement par Champollion en 1822.
+texte: Les Grecs appellent ces signes « sculptures sacrées ». Un traité du Ve siècle, les *Hieroglyphica* d'Horapollon, en donne des interprétations allégoriques — un serpent qui se mord la queue signifie l'univers. Redécouvert en 1419 et imprimé en 1505, il fait croire aux humanistes que les hiéroglyphes enseignent des vérités par images, sans passer par les mots : de là naît la mode des [[emblemes|emblèmes]].
+texte: [[athanasius-kircher]] consacre des volumes entiers à leur interprétation mystique. En 1822, Champollion montre, grâce à la pierre de Rosette, qu'ils notent aussi des sons : l'Égypte des symboles cède la place à celle de la langue, mais l'image ésotérique des hiéroglyphes survit dans l'[[egyptosophie]].
+voir: egyptosophie, athanasius-kircher, emblemes, croix-ansee
+
+@ emblemes
+cat: symboles
+nom: Emblèmes
+alias: emblème, livres d'emblèmes, emblématique, Alciat, emblèmes alchimiques
+def: Genre littéraire et artistique de la Renaissance qui associe une devise, une image et un poème pour exprimer une idée morale ou philosophique ; l'alchimie et la Rose-Croix en ont fait un langage secret.
+texte: Le premier livre d'emblèmes est publié en 1531 par le juriste italien André Alciat. Chaque emblème comprend un titre ou une devise, une gravure et un court poème qui en donne la clé. Le genre connaît un immense succès dans toute l'Europe, nourri par l'idée que les [[hieroglyphes]] égyptiens enseignaient par images.
+texte: Les alchimistes s'en emparent pour dire sans dire : l'*[[atalanta-fugiens|Atalanta fugiens]]* de [[michael-maier]], l'*[[amphitheatrum|Amphithéâtre]]* de Khunrath, le *[[mutus-liber|Mutus liber]]* et le *[[splendor-solis|Splendor solis]]* forment le grand corpus de l'iconographie alchimique, que l'on commente encore aujourd'hui.
+voir: atalanta-fugiens, hieroglyphes, splendor-solis, mutus-liber, rosaire-des-philosophes
+
+@ aigle-bicephale
+cat: symboles
+nom: Aigle bicéphale
+alias: aigle à deux têtes, aigle impérial, Deus meumque jus
+def: Aigle à deux têtes regardant en sens opposés, emblème des empires byzantin, germanique et russe, et symbole des hauts grades du Rite écossais ancien et accepté.
+texte: L'aigle à deux têtes, connu dès l'Antiquité orientale, devient l'emblème de Byzance, puis du Saint-Empire romain germanique et de la Russie des tsars : il regarde à la fois vers l'Orient et l'Occident. Les alchimistes l'utilisent pour figurer le double [[mercure-principe|mercure]].
+texte: Le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] en a fait son emblème, couronné, tenant une épée, avec la devise *Deus meumque jus*, « Dieu et mon droit » ; il signale les plus hauts grades.
+voir: rite-ecossais-ancien-et-accepte, grades-maconniques, mercure-principe
+
+@ echelle-de-jacob
+cat: symboles
+nom: Échelle de Jacob
+alias: échelle de Jacob, échelle mystique, échelle des degrés
+def: Échelle vue en songe par le patriarche Jacob, sur laquelle montaient et descendaient les anges, symbole de la communication entre le ciel et la terre et de l'ascension spirituelle par degrés.
+texte: La Genèse raconte que Jacob, endormi la tête sur une pierre, vit une échelle dressée de la terre au ciel, avec des anges qui la montaient et la descendaient ; il nomma ce lieu Béthel, « maison de Dieu ». Les mystiques chrétiens ont décrit la vie spirituelle comme une échelle de vertus, comme l'*Échelle sainte* de Jean Climaque.
+texte: La première planche du *[[mutus-liber|Mutus liber]]* montre deux anges sonnant de la trompette sur une échelle au-dessus d'un dormeur. La [[franc-maconnerie]] place une échelle à plusieurs échelons dans certains grades ; la kabbale et l'occultisme comparent l'ascension par l'[[arbre-des-sephiroth|arbre des séphiroth]] à cette échelle.
+voir: mutus-liber, anges, arbre-cosmique, initiation
+
+@ enneagramme
+cat: symboles
+nom: Ennéagramme
+alias: ennéagramme, enneagram, ennéagramme de la personnalité, neuf types
+def: Figure à neuf points inscrits dans un cercle, enseignée par Gurdjieff comme symbole universel des processus, puis devenue un système de typologie de la personnalité.
+texte: Selon [[piotr-ouspensky]], [[georges-gurdjieff]] présente en 1916 un cercle où neuf points sont reliés par un triangle (3, 6, 9) et par une figure qui suit l'ordre 1-4-2-8-5-7, la suite des décimales de 1/7. Il y voit l'union de la loi de trois et de la loi de sept, et l'image de tout processus qui se renouvelle.
+texte: Dans les années 1960, le Bolivien Oscar Ichazo puis le psychiatre chilien Claudio Naranjo en font un système de neuf types de personnalité, aujourd'hui répandu dans le développement personnel et la formation en entreprise, sans validation scientifique solide. Gurdjieff disait tenir la figure de confréries soufies, ce qui n'a pas été confirmé.
+schema: enneagramme
+voir: georges-gurdjieff, quatrieme-voie, piotr-ouspensky, soufisme

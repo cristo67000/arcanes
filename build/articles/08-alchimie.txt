@@ -1,0 +1,437 @@
+# Alchimie.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ alchimie
+cat: alchimie
+nom: Alchimie
+alias: alchimiste, alchimistes, art hermétique, philosophie hermétique, chymie, al-kimiya
+glyphe: soleil
+an: -200
+dates: depuis l'Égypte gréco-romaine
+def: Art de transformer la matière, né dans l'Égypte gréco-romaine, qui cherchait à changer les métaux vils en or et à préparer des remèdes universels, et que beaucoup ont vécu aussi comme une voie de transformation intérieure.
+texte: Le mot vient de l'arabe *al-kîmiyâ*, lui-même tiré du grec. Les premiers textes alchimiques sont grecs et égyptiens, autour du début de notre ère ; [[zosime-de-panopolis]] en est le premier auteur connu. L'art passe aux savants arabes — le corpus de [[jabir-ibn-hayyan|Jâbir]], al-Râzî —, qui le dotent d'une théorie des métaux faits de [[soufre]] et de [[mercure-principe|mercure]], puis à l'Europe latine au XIIe siècle. Il vise la [[pierre-philosophale]], capable de réaliser la [[transmutation]] des métaux, et l'[[elixir-de-longue-vie|élixir]] qui guérit toutes les maladies.
+texte: Jusqu'à la fin du XVIIe siècle, alchimie et chimie ne font qu'un : les historiens parlent de « chymie ». Les alchimistes ont mis au point des appareils, des acides, des procédés de distillation et de purification, et [[paracelse]] tourne l'art vers la préparation des médicaments. La séparation des deux mots se fait vers 1700 ; l'alchimie devient alors synonyme de quête chimérique.
+texte: Mais l'alchimie a toujours eu aussi une dimension religieuse : purifier la matière, c'est se purifier soi-même, et le [[grand-oeuvre|Grand Œuvre]] décrit la mort et la résurrection. Au XIXe siècle, certains auteurs la réduisent à une allégorie spirituelle ; [[carl-gustav-jung]] y voit une projection des processus de l'inconscient. Les historiens actuels insistent sur l'unité des deux aspects, pratique et symbolique.
+schema: grand-oeuvre
+voir: grand-oeuvre, pierre-philosophale, transmutation, hermetisme, operations-alchimiques, tria-prima
+
+@ grand-oeuvre
+cat: alchimie
+nom: Grand Œuvre
+alias: Grand Oeuvre, opus magnum, l'Œuvre, oeuvre au noir, œuvre au noir, œuvre au blanc, œuvre au rouge
+def: Ensemble des opérations par lesquelles l'alchimiste prépare la pierre philosophale, décrit comme une succession de couleurs, du noir au blanc puis au rouge.
+texte: Les textes décrivent l'œuvre par les couleurs que prend la matière dans le vase scellé : d'abord le noir de la [[nigredo]], putréfaction et mort ; puis, après le jeu des couleurs de la [[cauda-pavonis|queue de paon]], le blanc de l'[[albedo]], qui donne la pierre au blanc, capable de changer les métaux en argent ; parfois le jaune de la [[citrinitas]] ; enfin le rouge de la [[rubedo]], la pierre parfaite qui change les métaux en or.
+texte: Chaque auteur divise différemment le travail, en sept, douze ou quatorze opérations, et le cache sous des allégories : combats de dragons, noces d'un roi et d'une reine, mort et résurrection d'un roi, oiseaux qui montent et descendent. Le Grand Œuvre est aussi l'image d'une transformation spirituelle : « l'œuvre au noir », titre d'un roman de Marguerite Yourcenar (1968), désigne la dissolution de soi qui précède la renaissance.
+schema: grand-oeuvre
+voir: nigredo, albedo, citrinitas, rubedo, cauda-pavonis, pierre-philosophale, operations-alchimiques
+
+@ pierre-philosophale
+cat: alchimie
+nom: Pierre philosophale
+alias: pierre des philosophes, lapis philosophorum, la Pierre, poudre de projection, teinture, médecine universelle
+def: Substance que les alchimistes cherchaient à produire, capable de transmuter les métaux vils en or, et souvent aussi de guérir toutes les maladies et de prolonger la vie.
+texte: Malgré son nom, la pierre est généralement décrite comme une poudre, lourde, rouge et brillante, ou comme une « teinture » : il suffirait d'en jeter une petite quantité, enrobée de cire, sur du plomb ou du mercure en fusion pour les changer en or — c'est la [[projection]]. Une pierre « au blanc », moins parfaite, ne donne que de l'argent. Plus la pierre est « multipliée », par répétition des opérations, plus son pouvoir s'accroît.
+texte: La pierre est aussi la « médecine » des métaux et des hommes : la tradition lui attribue le pouvoir de rétablir la santé, d'où l'[[elixir-de-longue-vie|élixir de longue vie]]. Pour les alchimistes chrétiens, comme [[heinrich-khunrath]], le Christ est la vraie pierre ; pour [[carl-gustav-jung]], elle figure le Soi, la totalité de la personne.
+voir: grand-oeuvre, transmutation, projection, elixir-de-longue-vie, chrysopee, rubedo
+
+@ elixir-de-longue-vie
+cat: alchimie
+nom: Élixir de longue vie
+alias: élixir, elixir, élixir de vie, panacée, panacee, médecine universelle, remède universel
+def: Remède merveilleux recherché par les alchimistes, capable de guérir toutes les maladies, de rendre la jeunesse et de prolonger la vie, parfois indéfiniment.
+texte: Le mot « élixir » vient de l'arabe *al-iksîr*, qui désignait la poudre qu'on répand sur les métaux pour les transmuter. Dans l'alchimie latine, la [[pierre-philosophale]] devient aussi médecine du corps humain : [[roger-bacon]] et les traités attribués à [[arnaud-de-villeneuve]] et à [[raymond-lulle]] promettent la prolongation de la vie. La « panacée », du nom d'une déesse grecque de la guérison, désigne le remède universel.
+texte: L'alchimie chinoise poursuivait le même but : plusieurs empereurs moururent pour avoir absorbé des élixirs à base de mercure ou d'arsenic. Les légendes de [[nicolas-flamel]] immortel ou du [[comte-de-saint-germain]] plusieurs fois centenaire s'appuient sur la croyance en l'élixir.
+voir: pierre-philosophale, or-potable, quintessence, neidan, comte-de-saint-germain
+
+@ transmutation
+cat: alchimie
+nom: Transmutation
+alias: transmutation des métaux, transmuter
+def: Changement d'un métal en un autre, en particulier d'un métal vil en or, but principal de l'alchimie.
+texte: Pour les alchimistes, tous les métaux sont formés des mêmes principes, le [[soufre]] et le [[mercure-principe|mercure]], plus ou moins purs et équilibrés : la nature les mûrit lentement sous terre jusqu'à l'or, le plus parfait. L'art ne fait qu'accélérer ce mûrissement. Les récits de transmutations réussies devant témoins abondent au XVIIe siècle ; le plus célèbre est celui du médecin Helvétius, à La Haye, en 1666, dont le philosophe Spinoza parle dans une lettre.
+texte: La chimie moderne a établi que les éléments ne se changent pas les uns dans les autres par des réactions chimiques. La physique nucléaire a pourtant montré que la transmutation existe : la radioactivité transforme naturellement certains atomes, et l'on a obtenu en 1941 de l'or à partir de mercure dans un accélérateur — en quantités infimes et à un coût sans rapport avec sa valeur.
+voir: pierre-philosophale, chrysopee, projection, alchimie, soufre
+
+@ chrysopee
+cat: alchimie
+nom: Chrysopée
+alias: chrysopoeia, argyropée, argyropee, fabrication de l'or, Chrysopée de Cléopâtre
+def: Art de faire de l'or, et, par extension, la transmutation des métaux en or ; on appelle argyropée la fabrication de l'argent.
+texte: Les deux mots viennent du grec *chrysos*, l'or, et *argyros*, l'argent. La *Chrysopée de Cléopâtre*, feuillet d'un manuscrit grec de l'alchimie antique, porte l'un des plus anciens dessins d'[[ouroboros]], le serpent qui se mord la queue, entouré des mots « Un est le Tout ».
+texte: Les alchimistes plus spirituels méprisaient parfois la chrysopée, recherche de l'or pour lui-même, qu'ils laissaient aux [[souffleur|souffleurs]] ; d'autres la tenaient pour la preuve matérielle de la réussite de l'œuvre.
+voir: transmutation, pierre-philosophale, ouroboros, souffleur
+
+@ spagyrie
+cat: alchimie
+nom: Spagyrie
+alias: spagyrique, spagyric, alchimie végétale
+def: Art, nommé par Paracelse, de préparer des remèdes en séparant les composants d'une substance, surtout d'une plante, puis en les réunissant purifiés.
+texte: Le mot réunit deux verbes grecs, « séparer » et « rassembler » : c'est la formule *solve et coagula* appliquée à la pharmacie. Une plante est distillée pour en tirer l'esprit et l'huile, ses résidus calcinés pour en extraire le sel, puis ces parties purifiées sont recombinées en une préparation réputée plus efficace que la plante brute.
+texte: La spagyrie se développe aux XVIe et XVIIe siècles avec le [[paracelsisme]] ; « spagyrique » devient alors synonyme d'« alchimiste ». Elle survit aujourd'hui dans certaines pratiques de médecine non conventionnelle, sans validation scientifique.
+voir: paracelse, iatrochimie, solve-et-coagula, tria-prima, paracelsisme
+
+@ iatrochimie
+cat: alchimie
+nom: Iatrochimie
+alias: iatrochimiste, chimiatrie, médecine chimique, guerre de l'antimoine
+def: Médecine fondée sur la chimie, inaugurée par Paracelse, qui explique la vie et la maladie par des processus chimiques et soigne par des remèdes préparés au laboratoire.
+texte: Le mot vient du grec *iatros*, médecin. Contre la médecine des humeurs, [[paracelse]] et ses disciples, puis le Flamand Jean-Baptiste van Helmont et le Hollandais Franciscus Sylvius, voient dans la digestion, la respiration ou la fièvre des fermentations et des effervescences. Ils introduisent dans la pharmacie les sels de mercure, de fer et d'[[antimoine]].
+texte: En France, la faculté de médecine de Paris interdit l'antimoine en 1566 ; la « guerre de l'antimoine » dure un siècle, jusqu'à ce que le jeune Louis XIV, guéri en 1658, dit-on, par un vin émétique, fasse lever l'interdit. L'iatrochimie est l'un des chemins par lesquels l'alchimie a conduit à la chimie et à la pharmacie modernes.
+voir: paracelse, paracelsisme, antimoine, spagyrie, archee
+
+@ materia-prima
+cat: alchimie
+nom: Matière première
+alias: materia prima, prima materia, matière de l'œuvre, sujet des sages
+def: Substance de départ de l'œuvre alchimique, que les traités désignent sous mille noms et décrivent comme méprisée de tous et présente partout.
+texte: Pour Aristote, la matière première est le substrat sans forme qui reçoit toutes les formes. Les alchimistes en font la matière de leur œuvre, qu'il faut identifier avant tout : « vile, trouvée dans le fumier », selon certains, « que les enfants jouent avec elle dans les rues », selon d'autres. Ils l'appellent dragon, eau sèche, plomb des sages, Saturne ou terre adamique.
+texte: Les historiens ont reconnu derrière ces énigmes, selon les auteurs, l'[[antimoine]], le cinabre, les sels de plomb, le vitriol, l'urine ou la [[rosee|rosée]]. Le secret de la matière première était le mieux gardé de tous.
+voir: grand-oeuvre, mercure-philosophique, turba-philosophorum, antimoine, rosee
+
+@ mercure-philosophique
+cat: alchimie
+nom: Mercure philosophique
+alias: mercure des philosophes, mercure des sages, notre mercure, eau mercurielle, dissolvant universel
+def: Agent essentiel de l'œuvre alchimique, distinct du mercure ordinaire, qui dissout l'or et le fait renaître sous une forme plus parfaite.
+texte: Les alchimistes répètent que « notre mercure » n'est pas le vif-argent du commerce : c'est un mercure « animé », préparé par de longues opérations, souvent en le purifiant avec le régule d'[[antimoine]] et l'argent. Il est à la fois l'eau qui dissout et la semence qui fait germer l'or.
+texte: [[eirenee-philalethe|Eyrénée Philalèthe]] décrit en détail la préparation de son « mercure sophique », et les carnets de son auteur montrent qu'il s'agissait de vraies expériences de laboratoire. Les lectures spirituelles de l'alchimie y voient l'esprit, principe volatil et transformateur.
+voir: mercure-principe, eirenee-philalethe, antimoine, grand-oeuvre, azoth
+
+@ soufre
+cat: alchimie
+nom: Soufre
+alias: soufre philosophique, principe soufre, sulphur
+glyphe: soufre
+def: Dans la théorie alchimique, principe chaud, sec, actif et combustible des métaux, opposé et complémentaire au mercure ; on l'appelle aussi l'âme de la matière.
+texte: Le corpus de [[jabir-ibn-hayyan|Jâbir]] et ses successeurs expliquent que les métaux se forment sous terre par l'union du soufre et du [[mercure-principe|mercure]]. Le soufre apporte la couleur, la fixité et la combustibilité ; selon sa pureté, il donne l'or, le cuivre ou le fer. Il ne s'agit pas du soufre ordinaire, mais d'un principe, que le soufre commun ne fait qu'évoquer.
+texte: Masculin, solaire et fixe, le soufre est figuré par le roi, le lion ou le Soleil, tandis que le mercure est la reine, l'aigle ou la Lune. [[paracelse]] l'intègre à ses [[tria-prima|trois principes]], où il représente l'âme, entre l'esprit et le corps.
+schema: tria-prima
+voir: mercure-principe, sel, tria-prima, transmutation
+
+@ mercure-principe
+cat: alchimie
+nom: Mercure (principe)
+alias: mercure alchimique, principe mercure, vif-argent, argent vif
+glyphe: mercure
+def: Dans la théorie alchimique, principe froid, humide, volatil et féminin des métaux, qui leur donne leur éclat et leur fusibilité ; on l'appelle aussi l'esprit de la matière.
+texte: Le vif-argent, seul métal liquide, fascinait les alchimistes : il dissout l'or, s'évapore et se condense, se fige au contact du soufre en cinabre rouge. Ils en font le principe de la « métallité » : tous les métaux sont des mercures plus ou moins « coagulés » par le [[soufre]].
+texte: Pour [[paracelse]], il est l'esprit, principe de volatilité, dans la triade qu'il forme avec le soufre et le [[sel]]. Le mercure est figuré par la reine, l'aigle, la Lune, le serpent ou le dieu Hermès avec son [[caducee|caducée]]. Le « mercure des philosophes » qu'on prépare pour l'œuvre est un agent particulier, le [[mercure-philosophique]].
+schema: tria-prima
+voir: soufre, sel, tria-prima, mercure-philosophique, mercure
+
+@ sel
+cat: alchimie
+nom: Sel
+alias: sel des philosophes, principe sel, sal
+glyphe: sel
+def: Troisième principe ajouté par Paracelse au soufre et au mercure : principe de fixité et de solidité, il représente le corps de toute chose.
+texte: Quand on brûle du bois, explique [[paracelse]], ce qui flambe est le [[soufre]], ce qui part en fumée est le [[mercure-principe|mercure]], et ce qui reste en cendres est le sel. Il est le principe de la forme stable, de la saveur et de l'incombustibilité ; il lie l'âme et l'esprit dans un corps.
+texte: Les alchimistes paracelsiens extraient les sels des plantes calcinées pour leurs remèdes, et des auteurs comme Blaise de Vigenère consacrent des traités entiers au sel, réalité à la fois chimique et spirituelle.
+schema: tria-prima
+voir: tria-prima, soufre, mercure-principe, spagyrie, calcination
+
+@ tria-prima
+cat: alchimie
+nom: Trois principes
+alias: tria prima, tria principia, sel soufre mercure, trois substances
+def: Doctrine de Paracelse selon laquelle toute chose est composée de trois principes, le soufre, le mercure et le sel, correspondant à l'âme, à l'esprit et au corps.
+texte: [[paracelse]] ajoute le [[sel]] au couple traditionnel du [[soufre]] et du [[mercure-principe|mercure]]. Ces trois principes ne remplacent pas les [[quatre-elements|quatre éléments]] mais en décrivent la composition intime : chaque élément, chaque corps, contient du soufre combustible, du mercure volatil et du sel fixe, en proportions différentes. La maladie naît d'un déséquilibre entre eux.
+texte: La triade, qui s'accorde avec la Trinité, a dominé la chimie des XVIe et XVIIe siècles. Les chimistes l'ont abandonnée lorsqu'ils ont constaté qu'on ne pouvait isoler ces principes, mais elle reste un symbole majeur de l'ésotérisme.
+schema: tria-prima
+voir: soufre, mercure-principe, sel, paracelse, quatre-elements
+
+@ quatre-elements
+cat: alchimie
+nom: Quatre éléments
+alias: éléments, feu, air, eau, terre, quatre qualités, humeurs, quatre tempéraments
+def: Théorie antique selon laquelle toute matière est composée de feu, d'air, d'eau et de terre, eux-mêmes définis par les qualités du chaud, du froid, du sec et de l'humide.
+texte: Le philosophe Empédocle, au Ve siècle avant notre ère, enseigne que tout naît du mélange de quatre « racines », unies par l'Amour et séparées par la Haine. Aristote les définit par des couples de qualités : le feu est chaud et sec, l'air chaud et humide, l'eau froide et humide, la terre froide et sèche. Comme ils partagent une qualité deux à deux, ils peuvent se changer les uns dans les autres : c'est le fondement théorique de l'[[alchimie]].
+texte: La médecine leur fait correspondre quatre humeurs — sang, bile jaune, bile noire, flegme — et quatre tempéraments : sanguin, colérique, mélancolique, flegmatique. L'[[astrologie]] répartit les douze signes en quatre triplicités élémentaires, et les occultistes attribuent les éléments aux quatre enseignes du [[tarot]]. Aristote y ajoute un cinquième élément, l'éther des cieux, d'où la [[quintessence]].
+schema: quatre-elements
+voir: quintessence, tria-prima, elementaux, triplicites, arcanes-mineurs, pentagramme
+
+@ quintessence
+cat: alchimie
+nom: Quintessence
+alias: cinquième essence, quinta essentia, éther, aether
+def: Cinquième élément, incorruptible, dont seraient faits les cieux selon Aristote ; les alchimistes ont cru l'extraire des choses terrestres par la distillation.
+texte: Aristote distingue des quatre éléments terrestres un cinquième, l'éther, matière des astres, qui ne connaît ni naissance ni corruption et se meut en cercle. Au XIVe siècle, le franciscain Jean de Roquetaillade enseigne qu'on peut obtenir sur terre un équivalent de ce « ciel » en distillant le vin à de nombreuses reprises : l'eau-de-vie ainsi obtenue, qui conserve les chairs, serait la quintessence, capable de préserver le corps de la corruption.
+texte: Le mot a ensuite désigné l'extrait le plus pur et le plus actif de toute substance, puis, dans la langue courante, ce qu'il y a de meilleur et d'essentiel en quelque chose.
+voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme
+
+@ nigredo
+cat: alchimie
+nom: Nigredo
+alias: œuvre au noir, oeuvre au noir, noirceur, tête de corbeau, caput corvi, putréfaction, mélanose
+def: Première phase du Grand Œuvre, où la matière enfermée dans le vase noircit, se décompose et « meurt » avant de renaître.
+texte: Les textes décrivent un noir profond, « plus noir que le noir », signe que la matière a été dissoute et putréfiée. On l'appelle la tête de corbeau, et on la figure par un corbeau, un squelette, un soleil noir, un roi qui meurt ou des corps dans un tombeau. Les alchimistes y voient un signe de réussite : sans mort, pas de renaissance.
+texte: [[carl-gustav-jung]] interprète la nigredo comme la confrontation de la conscience avec sa propre part d'ombre, une phase de dépression et de désorientation qui précède toute transformation profonde.
+schema: grand-oeuvre/nigredo
+voir: grand-oeuvre, albedo, putrefaction, cauda-pavonis, rubedo
+
+@ albedo
+cat: alchimie
+nom: Albedo
+alias: œuvre au blanc, oeuvre au blanc, blancheur, dealbatio, pierre au blanc, ablution
+def: Deuxième phase du Grand Œuvre, où la matière, purifiée par des lavages répétés, devient blanche ; elle donne la pierre au blanc, qui change les métaux en argent.
+texte: Après le noir et l'apparition des couleurs de la [[cauda-pavonis|queue de paon]], la matière blanchit. Les traités parlent d'ablutions et de lavages, et répètent la formule : « Blanchissez le laiton et déchirez vos livres. » L'albedo est figurée par la Lune, la reine, le cygne, la colombe ou une femme vêtue de blanc.
+texte: Elle est souvent comprise comme la purification de l'âme, rendue capable de recevoir la lumière. Certains alchimistes s'arrêtent à la pierre au blanc ; les autres poursuivent jusqu'à la [[rubedo]].
+schema: grand-oeuvre/albedo
+voir: grand-oeuvre, nigredo, citrinitas, rubedo, lune
+
+@ citrinitas
+cat: alchimie
+nom: Citrinitas
+alias: œuvre au jaune, oeuvre au jaune, xanthose, jaunissement
+def: Phase de jaunissement placée par certains alchimistes entre le blanc et le rouge du Grand Œuvre, comme une aurore annonçant le soleil.
+texte: Les alchimistes grecs de l'Antiquité comptaient quatre couleurs : noir, blanc, jaune et violet ou rouge, en correspondance avec les [[quatre-elements|quatre éléments]]. À partir de la fin du Moyen Âge, beaucoup de traités suppriment le jaune et ne retiennent que trois étapes.
+texte: Quand elle est conservée, la citrinitas évoque l'éveil d'une lumière solaire dans la matière déjà blanche, qui annonce sa maturité.
+schema: grand-oeuvre/citrinitas
+voir: grand-oeuvre, albedo, rubedo
+
+@ rubedo
+cat: alchimie
+nom: Rubedo
+alias: œuvre au rouge, oeuvre au rouge, rougeur, iosis, pierre au rouge, roi rouge
+def: Dernière phase du Grand Œuvre, où la matière devient rouge : c'est la pierre philosophale parfaite, qui change les métaux en or.
+texte: La rubedo est figurée par le roi rouge couronné, le Soleil, le lion rouge, le phénix qui renaît de ses cendres ou le pélican qui nourrit ses petits de son sang. La pierre au rouge est « fixe » : elle résiste au feu le plus violent. On peut ensuite la « multiplier » par la répétition des opérations, et l'employer en [[projection]].
+texte: Sur le plan spirituel, la rubedo représente l'union accomplie de l'esprit et de la matière, la résurrection et la gloire du corps transfiguré.
+schema: grand-oeuvre/rubedo
+voir: grand-oeuvre, pierre-philosophale, projection, phenix, pelican, rebis
+
+@ cauda-pavonis
+cat: alchimie
+nom: Queue de paon
+alias: cauda pavonis, paon, couleurs de l'arc-en-ciel
+def: Apparition de couleurs irisées dans le vase alchimique, entre le noir et le blanc, que les alchimistes tenaient pour le signe que l'œuvre était sur la bonne voie.
+texte: Après la [[nigredo]], la surface de la matière se couvre d'irisations changeantes, comme les plumes déployées d'un paon ou un arc-en-ciel. Les traités y voient l'annonce de l'[[albedo]] : la matière morte commence à revivre.
+texte: Le paon, oiseau dont la chair passait pour incorruptible, était déjà dans l'art chrétien un symbole de résurrection. Il figure dans de nombreuses images alchimiques, comme celles du *[[splendor-solis|Splendor solis]]*.
+schema: grand-oeuvre
+voir: grand-oeuvre, nigredo, albedo, splendor-solis
+
+@ solve-et-coagula
+cat: alchimie
+nom: Solve et coagula
+alias: dissous et coagule, solve coagula, dissolution, coagulation
+def: Formule latine, « dissous et coagule », qui résume le travail alchimique : défaire la matière pour la recomposer sous une forme plus pure.
+texte: Toute l'œuvre peut se décrire comme une alternance de dissolutions — la matière fixe devient liquide ou volatile — et de coagulations — la matière volatile se fixe à nouveau. Chaque cycle purifie et « exalte » la substance. La [[spagyrie]] de Paracelse en est l'application à la pharmacie.
+texte: [[eliphas-levi]] a inscrit les deux mots sur les bras de son [[baphomet|Baphomet]], l'un levé, l'autre abaissé. Ils sont devenus la devise de toute transformation, intérieure ou matérielle.
+voir: operations-alchimiques, spagyrie, baphomet, grand-oeuvre
+
+@ vitriol
+cat: alchimie
+nom: V.I.T.R.I.O.L.
+alias: VITRIOL, vitriol, Visita interiora terrae, huile de vitriol, cabinet de réflexion
+def: Acrostiche latin des alchimistes, « Visite l'intérieur de la terre, et en rectifiant tu trouveras la pierre cachée », formé sur le nom du vitriol, sel employé dans l'œuvre.
+texte: Le vitriol désignait les sulfates métalliques, dont le vitriol vert (sulfate de fer) ; en le distillant, on obtenait l'« huile de vitriol », notre acide sulfurique, l'un des plus puissants dissolvants connus. La formule *Visita Interiora Terrae Rectificando Invenies Occultum Lapidem* apparaît dans un traité attribué à [[basile-valentin]] au début du XVIIe siècle.
+texte: Elle se lit à double sens : chercher la matière au cœur de la terre, et descendre en soi-même pour y trouver la pierre. La [[franc-maconnerie]] l'a reprise : elle est écrite sur le mur du « cabinet de réflexion » où le candidat médite avant son [[initiation]].
+voir: basile-valentin, materia-prima, franc-maconnerie, initiation, lion-vert
+
+@ rebis
+cat: alchimie
+nom: Rebis
+alias: res bina, hermaphrodite alchimique, androgyne hermétique
+def: « Chose double » : être à deux têtes, mi-homme mi-femme, qui figure dans l'alchimie l'union parfaite du soufre et du mercure, du Soleil et de la Lune.
+texte: Le mot latin *rebis* contracte *res bina*, « la chose double ». Dans le *[[rosaire-des-philosophes|Rosaire des philosophes]]* et d'autres traités, le rebis apparaît couronné, debout sur un dragon ou sur la Lune, tenant une coupe et un serpent : c'est le produit des noces du roi et de la reine, en qui les contraires ne font plus qu'un.
+texte: Le rebis rejoint le mythe de l'[[androgyne]] primordial ; il est l'une des images les plus commentées de l'iconographie alchimique.
+voir: androgyne, rosaire-des-philosophes, grand-oeuvre, rubedo
+
+@ lion-vert
+cat: alchimie
+nom: Lion vert
+alias: leo viridis, lion vert dévorant le soleil, loup gris
+def: Animal symbolique de l'alchimie, souvent représenté en train de dévorer le soleil, qui désigne un dissolvant puissant capable d'attaquer l'or.
+texte: Une image célèbre du *Rosaire des philosophes* montre un lion vert qui mord le soleil, d'où coule un sang. Selon les auteurs, le lion vert désigne le vitriol vert, l'eau régale (mélange d'acides qui dissout l'or), le minerai d'[[antimoine]] ou une matière encore « verte », c'est-à-dire non mûre.
+texte: Il est souvent associé au loup gris de [[basile-valentin]], qui dévore le roi mort avant d'être brûlé pour le rendre à la vie : image de la purification de l'or par l'antimoine.
+voir: antimoine, vitriol, basile-valentin, rosaire-des-philosophes
+
+@ voie-seche
+cat: alchimie
+nom: Voie sèche
+alias: voie courte, voie du creuset
+def: Méthode alchimique qui opère à feu vif, dans un creuset, en quelques jours, jugée plus rapide mais plus dangereuse que la voie humide.
+texte: La voie sèche travaille par la fusion et les très hautes températures, avec des matières solides : minerais, sels, métaux. Elle exige une grande maîtrise du feu et ne pardonne pas l'erreur. [[fulcanelli]] et [[eugene-canseliet]] la tenaient pour la voie de l'adepte.
+texte: Elle s'oppose à la [[voie-humide|voie humide]], qui emploie des liquides et une chaleur douce pendant des mois. Les traités se contredisent sur leurs mérites respectifs, et beaucoup combinent les deux.
+voir: voie-humide, athanor, eugene-canseliet, grand-oeuvre
+
+@ voie-humide
+cat: alchimie
+nom: Voie humide
+alias: voie longue, voie du ballon
+def: Méthode alchimique qui fait cuire lentement les matières dans un vase de verre scellé, à chaleur douce et constante, pendant de longs mois.
+texte: C'est la voie décrite par la plupart des traités classiques : la matière est enfermée dans l'[[oeuf-philosophique|œuf philosophique]] et mise à « couver » dans l'[[athanor]], tandis que l'alchimiste observe la succession des couleurs. La patience y est la première vertu : « Toute hâte vient du diable », disent les textes.
+texte: Plus sûre que la [[voie-seche|voie sèche]], elle demande des années de travail et une surveillance continuelle du feu.
+voir: voie-seche, oeuf-philosophique, athanor, grand-oeuvre
+
+@ athanor
+cat: alchimie
+nom: Athanor
+alias: fourneau philosophique, fourneau cosmique, Henri le paresseux, piger Henricus
+def: Fourneau des alchimistes, généralement en forme de tour, conçu pour entretenir pendant des mois une chaleur douce et constante.
+texte: Le mot vient de l'arabe *al-tannûr*, le four. L'athanor est une tour de briques ou de terre, dont le combustible, placé dans une colonne centrale, descend de lui-même pour alimenter le feu : on l'appelait pour cela « Henri le paresseux ». Le vase de l'œuvre, placé dans un bain de sable ou de cendres, y cuit sans interruption.
+texte: Symboliquement, l'athanor est le corps de l'alchimiste, où brûle le feu intérieur, ou le monde lui-même, fourneau où mûrissent les métaux.
+voir: oeuf-philosophique, voie-humide, alambic, operations-alchimiques
+
+@ alambic
+cat: alchimie
+nom: Alambic
+alias: ambix, cucurbite, chapiteau, cornue, aludel, matras
+def: Appareil de distillation, inventé dans l'Antiquité, formé d'un vase où l'on chauffe le liquide et d'un chapiteau où la vapeur se condense avant de s'écouler par un bec.
+texte: Le mot vient de l'arabe *al-anbîq*, lui-même tiré du grec *ambix*. Les alchimistes gréco-égyptiens, dont [[marie-la-juive]] et [[zosime-de-panopolis]], décrivent déjà des alambics à un ou plusieurs becs. Le laboratoire alchimique compte bien d'autres vases : la cucurbite, la cornue, le [[pelican]] où la vapeur retombe sans cesse sur la matière, l'aludel pour les sublimations, le matras ou [[oeuf-philosophique|œuf philosophique]].
+texte: Les alchimistes médiévaux perfectionnent l'alambic, refroidi à l'eau, qui permet d'obtenir l'alcool, l'« eau-de-vie », et les essences des plantes. C'est l'un des héritages durables de l'alchimie.
+voir: distillation, bain-marie, marie-la-juive, oeuf-philosophique, pelican
+
+@ oeuf-philosophique
+cat: alchimie
+nom: Œuf philosophique
+alias: oeuf philosophique, œuf des philosophes, vase d'Hermès, matras, sceau d'Hermès
+def: Vase de verre ovale, scellé hermétiquement, où la matière de l'œuvre est enfermée et mise à cuire pendant toute la durée de l'œuvre.
+texte: Les alchimistes comparent l'œuvre à une génération : la matière enfermée dans l'œuf doit « couver » à la chaleur douce de l'[[athanor]] comme le poussin dans l'œuf, jusqu'à éclore en pierre. On fermait le col du vase en le faisant fondre au feu : c'est le « sceau d'Hermès », d'où l'expression « fermé hermétiquement ».
+texte: L'œuf est aussi, dans de nombreuses traditions, l'image du monde à naître : l'[[oeuf-cosmique|œuf cosmique]].
+voir: athanor, voie-humide, oeuf-cosmique, hermetisme
+
+@ bain-marie
+cat: alchimie
+nom: Bain-marie
+alias: balneum Mariae, bain de Marie
+def: Procédé de chauffage doux et régulier, par l'intermédiaire d'un récipient d'eau chaude, dont le nom rappellerait l'alchimiste Marie la Juive.
+texte: Le vase contenant la matière est plongé dans un récipient d'eau chauffée, ce qui empêche la température de dépasser celle de l'eau bouillante. Les alchimistes, qui avaient besoin de chaleurs très diverses, chauffaient aussi au bain de sable, au bain de cendres, ou au fumier en fermentation.
+texte: La tradition attribue l'invention du procédé à [[marie-la-juive]] ; le nom latin *balneum Mariae* a donné notre « bain-marie », passé de l'alchimie à la cuisine.
+voir: marie-la-juive, alambic, athanor
+
+@ operations-alchimiques
+cat: alchimie
+nom: Opérations alchimiques
+alias: opérations, conjonction, fermentation, fixation, multiplication, cohobation, circulation, séparation
+def: Suite d'opérations de laboratoire — calcination, dissolution, putréfaction, distillation, sublimation, coagulation, fixation, multiplication, projection — dont les alchimistes décrivaient l'enchaînement pour accomplir l'œuvre.
+texte: Les listes varient selon les auteurs : sept opérations chez certains, douze chez d'autres, souvent mises en correspondance avec les planètes ou les signes du zodiaque. On y retrouve la [[calcination]], qui réduit en cendres, la dissolution, qui liquéfie, la [[putrefaction]], qui décompose, la [[distillation]] et la [[sublimation]], qui séparent le subtil de l'épais, la conjonction, qui unit les contraires, la fermentation, la fixation, qui rend stable ce qui était volatil, la multiplication et la [[projection]].
+texte: Ces opérations sont à la fois de véritables techniques chimiques et des étapes symboliques : elles décrivent aussi le travail de l'alchimiste sur lui-même, selon la formule [[solve-et-coagula]].
+schema: operations-alchimiques
+voir: solve-et-coagula, calcination, putrefaction, distillation, sublimation, projection, grand-oeuvre
+
+@ calcination
+cat: alchimie
+nom: Calcination
+alias: calciner, calx, chaux métallique
+def: Opération qui consiste à chauffer fortement une matière pour la réduire en poudre ou en cendres, souvent la première étape de l'œuvre.
+texte: Chauffés à l'air, les métaux se changent en une poudre, la « chaux » (*calx*). Les alchimistes y voyaient une mort du métal, dépouillé de sa forme, prélude à sa purification. Calciner une plante permet d'en extraire le [[sel]].
+texte: L'explication de la calcination a joué un rôle clé dans la naissance de la chimie moderne : Lavoisier montre en 1774-1777 que le métal calciné gagne du poids en absorbant une part de l'air, l'oxygène.
+voir: operations-alchimiques, sel, nigredo
+
+@ putrefaction
+cat: alchimie
+nom: Putréfaction
+alias: putréfier, corruption, digestion
+def: Opération par laquelle la matière, laissée à une chaleur douce et humide, se décompose et noircit, condition de toute renaissance dans l'œuvre.
+texte: « Si le grain ne meurt… » : les alchimistes reprennent volontiers la parole de l'Évangile. La matière doit pourrir pour que naisse une forme nouvelle, comme la semence en terre. La putréfaction produit le noir de la [[nigredo]] ; on la conduisait souvent dans le fumier de cheval, dont la fermentation donne une chaleur constante.
+texte: Elle est figurée par des cadavres, des squelettes, des corbeaux et des tombeaux ; sur le plan intérieur, elle est la mort du « vieil homme ».
+voir: nigredo, operations-alchimiques, homoncule
+
+@ sublimation
+cat: alchimie
+nom: Sublimation
+alias: sublimer, aludel, sublimé
+def: Opération par laquelle une substance solide, chauffée, passe à l'état de vapeur puis se dépose plus haut sous forme de cristaux purifiés.
+texte: Le sel ammoniac, l'arsenic, le soufre ou les sels de mercure se subliment : leur vapeur monte dans l'aludel et se condense sur les parois froides en une matière plus pure. Les alchimistes y voyaient l'« élévation » de la partie subtile, séparée de l'épaisse.
+texte: Le mot est passé au langage moral, puis à la psychanalyse, où il désigne la transformation d'une pulsion en activité valorisée.
+voir: operations-alchimiques, distillation, alambic
+
+@ distillation
+cat: alchimie
+nom: Distillation
+alias: distiller, eau-de-vie, rectification, eaux distillées
+def: Opération qui sépare les composants d'un liquide en le chauffant pour en recueillir les vapeurs condensées, pratiquée et perfectionnée par les alchimistes.
+texte: Connue des alchimistes gréco-égyptiens, la distillation est développée par les savants arabes, puis par les Latins, qui obtiennent au XIIe ou XIIIe siècle l'alcool, l'« eau ardente » ou « eau-de-vie ». On distille aussi les plantes pour en extraire les eaux et les huiles essentielles, et l'on répète l'opération pour obtenir des produits toujours plus purs : c'est la rectification.
+texte: Les alchimistes voyaient dans la distillation l'image de l'âme qui monte au ciel et redescend, et dans l'alcool, incorruptible et inflammable, la [[quintessence]].
+voir: alambic, quintessence, operations-alchimiques, bain-marie
+
+@ projection
+cat: alchimie
+nom: Projection
+alias: poudre de projection, faire projection
+def: Dernière opération de l'alchimie, qui consiste à jeter un peu de pierre philosophale sur un métal en fusion pour le transmuter en or ou en argent.
+texte: Les récits de projection obéissent à un même schéma : un inconnu, souvent un adepte de passage, donne ou laisse une parcelle de poudre ; on fait fondre du plomb ou chauffer du mercure, on y jette la poudre enveloppée de cire ou de papier, et après quelques instants, on trouve de l'or. Le pouvoir de la pierre se mesure à la quantité de métal qu'elle peut changer : dix, cent, mille fois son poids.
+texte: Certaines « médailles de transmutation », frappées au XVIIe siècle avec de l'or prétendu alchimique, sont conservées dans des musées ; les analyses modernes y ont révélé des alliages ou des dorures.
+voir: pierre-philosophale, transmutation, rubedo, operations-alchimiques
+
+@ alkahest
+cat: alchimie
+nom: Alkahest
+alias: alcahest, dissolvant universel, liquor alkahest
+def: Dissolvant universel imaginé par Paracelse et recherché par Van Helmont, capable de réduire toute substance à sa matière première.
+texte: Le mot apparaît chez [[paracelse]] ; Jean-Baptiste van Helmont en fait le grand secret de la [[iatrochimie]] : un liquide qui dissoudrait toute chose sans s'altérer lui-même, et permettrait de préparer des remèdes d'une puissance inouïe.
+texte: Le chimiste Johann Kunckel souleva une objection restée célèbre : si l'alkahest dissout tout, dans quel vase pourrait-on le conserver ? Les chimistes ont cessé de le chercher au XVIIIe siècle.
+voir: iatrochimie, paracelse, mercure-philosophique, materia-prima
+
+@ homoncule
+cat: alchimie
+nom: Homoncule
+alias: homunculus, homonculus, petit homme artificiel
+def: Petit être humain artificiel que des alchimistes prétendaient faire naître dans un vase, sans le concours d'une femme.
+texte: Un traité *De la nature des choses*, attribué à [[paracelse]], donne une recette : laisser [[putrefaction|putréfier]] de la semence humaine dans un vase scellé, au chaud dans du fumier de cheval, pendant quarante jours, puis nourrir de sang humain la petite forme transparente qui y apparaît. L'homoncule ainsi obtenu connaîtrait par nature tous les secrets.
+texte: Le motif, qui rejoint celui du [[golem]] de la tradition juive, inspire Goethe, qui fait naître un homoncule dans une fiole au second *Faust*, puis toute une littérature de créatures artificielles.
+voir: golem, paracelse, putrefaction
+
+@ or-potable
+cat: alchimie
+nom: Or potable
+alias: aurum potabile, or buvable
+def: Préparation d'or rendue buvable, que les alchimistes et les médecins de la Renaissance tenaient pour un remède universel, capable de conserver la jeunesse.
+texte: L'or, métal incorruptible, devait communiquer son incorruptibilité au corps. Les recettes d'or potable se multiplient aux XVIe et XVIIe siècles ; la plupart ne contenaient que des traces d'or, voire aucune. On le vendait très cher aux princes.
+texte: En 2009, l'analyse des restes de Diane de Poitiers, favorite d'Henri II, célèbre pour sa jeunesse conservée, a révélé une concentration d'or si élevée qu'elle a pu contribuer à sa mort : elle en buvait sans doute régulièrement.
+voir: elixir-de-longue-vie, pierre-philosophale, iatrochimie
+
+@ azoth
+cat: alchimie
+nom: Azoth
+alias: azoch, azot
+def: Nom alchimique du mercure des philosophes, et plus largement de l'agent universel de l'œuvre, compris comme le commencement et la fin de toutes choses.
+texte: Le mot vient de l'arabe *al-zâwûq*, le mercure. Les alchimistes de la Renaissance le décomposent en A et Z, alpha et oméga : l'azoth est le premier et le dernier, la matière et le remède. [[paracelse]] passait pour garder dans le pommeau de son épée, gravé de ce mot, un remède secret ou un esprit familier.
+texte: [[eliphas-levi]] fait de l'azoth un autre nom de la [[lumiere-astrale]]. Le mot « azote », inventé par Lavoisier pour un gaz impropre à la vie, a une tout autre origine, grecque.
+voir: mercure-philosophique, paracelse, lumiere-astrale, elixir-de-longue-vie
+
+@ antimoine
+cat: alchimie
+nom: Antimoine
+alias: stibine, régule d'antimoine, régule étoilé, loup gris, Char triomphal de l'antimoine
+glyphe: antimoine
+def: Métalloïde gris et brillant, dont le minerai, la stibine, joua un grand rôle dans l'alchimie et la médecine chimique des XVIe et XVIIe siècles.
+texte: Fondu avec de l'or impur, le minerai d'antimoine absorbe les autres métaux et laisse l'or purifié : c'est le « loup gris » qui dévore le roi dans les gravures de [[basile-valentin]], dont le *Char triomphal de l'antimoine* (1604) en fait l'éloge. Le métal obtenu, le « régule », cristallise parfois en forme d'étoile, ce qui fascinait [[isaac-newton]] et [[eirenee-philalethe|Philalèthe]] : ils l'utilisaient pour préparer le [[mercure-philosophique|mercure des philosophes]].
+texte: En médecine, les composés d'antimoine, violents émétiques, provoquent la « guerre de l'antimoine » entre partisans de la [[iatrochimie]] et défenseurs de la médecine ancienne. Le symbole alchimique de l'antimoine est un cercle surmonté d'une croix.
+voir: basile-valentin, iatrochimie, lion-vert, mercure-philosophique, materia-prima
+
+@ rosee
+cat: alchimie
+nom: Rosée
+alias: rosée de mai, ros, rosée céleste
+def: Eau du matin que de nombreux alchimistes, surtout à partir du XVIIe siècle, tenaient pour porteuse d'un esprit céleste et utilisaient comme matière ou comme dissolvant de l'œuvre.
+texte: Recueillie au printemps, surtout en mai, avec des draps tendus sur l'herbe, la rosée passait pour concentrer l'esprit universel descendu des astres. Le *[[mutus-liber|Mutus liber]]* (1677) montre un couple qui la récolte et la distille. [[michel-sendivogius]] voyait dans l'air et la rosée le réservoir d'un « nitre » vivifiant.
+texte: Au XVIIIe siècle, certains auteurs ont rapproché le nom de la Rose-Croix du latin *ros*, rosée ; l'étymologie est fantaisiste mais montre le prestige de cette matière. [[eugene-canseliet]] recueillait encore la rosée dans son jardin.
+voir: mutus-liber, michel-sendivogius, materia-prima, eugene-canseliet
+
+@ souffleur
+cat: alchimie
+nom: Souffleur
+alias: souffleurs, puffer, alchimiste charlatan
+def: Nom méprisant donné aux faux alchimistes qui, sans connaître la théorie, s'épuisaient à souffler sur leurs fourneaux dans l'espoir de faire de l'or.
+texte: Le souffleur actionne son soufflet pour attiser le feu ; le mot désigne celui qui ne cherche que l'or, se ruine et ruine ses dupes. Les alchimistes « philosophes » distinguent soigneusement leur art de cette pratique vulgaire.
+texte: La littérature a beaucoup moqué les souffleurs, du *Conte du valet du chanoine* de Chaucer au XIVe siècle à *L'Alchimiste* de Ben Jonson (1610). Leurs escroqueries ont contribué au discrédit de l'alchimie.
+voir: chrysopee, alchimie, transmutation
+
+@ neidan
+cat: alchimie
+nom: Alchimie intérieure chinoise
+alias: neidan, waidan, alchimie taoïste, champ de cinabre, dantian, Fleur d'or
+def: Pratique taoïste qui transpose l'alchimie des élixirs dans le corps du pratiquant, où l'on « cuit » les énergies vitales pour produire un élixir d'immortalité.
+texte: La Chine a connu une alchimie « extérieure » (*waidan*), qui préparait des élixirs à partir du cinabre, du mercure et du plomb, et qui coûta la vie à plusieurs empereurs. À partir du VIIIe siècle environ se développe une alchimie « intérieure » (*neidan*) : le corps devient le fourneau, et l'adepte raffine par la méditation et la respiration trois énergies — l'essence, le souffle et l'esprit — pour former un embryon d'immortalité dans le « champ de cinabre », sous le nombril.
+texte: L'Occident l'a découverte par *Le Secret de la fleur d'or*, traduit par Richard Wilhelm et commenté par [[carl-gustav-jung]] en 1929.
+voir: elixir-de-longue-vie, alchimie, carl-gustav-jung, yin-et-yang
+
+@ archee
+cat: alchimie
+nom: Archée
+alias: archeus, archée, alchimiste intérieur
+def: Selon Paracelse, principe vital qui gouverne chaque organisme et agit en lui comme un alchimiste intérieur, séparant dans les aliments le pur de l'impur.
+texte: Pour [[paracelse]], chaque organe, chaque être possède son archée, sorte d'esprit artisan qui dirige la nutrition, la croissance et la guérison. Dans l'estomac, il trie les aliments, garde ce qui nourrit et rejette le poison : l'alchimie se fait d'abord dans le corps.
+texte: Jean-Baptiste van Helmont développe la notion et parle d'une pluralité d'archées. Elle annonce les doctrines vitalistes de la médecine des XVIIIe et XIXe siècles.
+voir: paracelse, iatrochimie, paracelsisme

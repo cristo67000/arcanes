@@ -1,0 +1,152 @@
+/*
+ * Arcanes — couleurs et polices.
+ *
+ * Deux ambiances : « vélin », un papier ancien encre violette, pour le jour ;
+ * « nuit », un ciel d'encre où brille l'or, pour le soir. Le thème sombre suit
+ * automatiquement le téléphone, ou se force depuis les Réglages par l'attribut
+ * `data-theme` de <html>.
+ *
+ * Deux familles de caractères, et ce n'est pas une coquetterie : les vedettes
+ * et le texte des articles sont composés en caractères à empattements, comme
+ * un dictionnaire imprimé ; l'interface, en caractères sans empattements. Le
+ * réglage « police des articles » passe aussi le texte en sans empattements.
+ * Aucune police n'est téléchargée : ce sont celles du système.
+ */
+
+:root {
+  --fond: #f6f1e6;
+  --carte: #fffcf5;
+  --encre: #231b33;
+  --encre-douce: #4b4260;
+  --encre-legere: #7a7189;
+  --trait: #e3dac7;
+  --trait-fort: #c9bca1;
+  --accent: #5a3796;
+  --accent-fort: #432474;
+  --accent-clair: #ece5f6;
+  --sur-accent: #ffffff;
+  --or: #9c7212;
+  --or-clair: #f3e7c5;
+  --ok: #1d7a55;
+  --ok-fond: #e1f2e9;
+  --warn: #9c5a0d;
+  --warn-fond: #f8ead3;
+  --bad: #b3342c;
+  --bad-fond: #f9e5e2;
+  --ombre: 0 1px 3px rgba(35, 27, 51, .08), 0 6px 20px rgba(35, 27, 51, .07);
+  --ombre-bord: 0 10px 14px -12px rgba(35, 27, 51, .45);
+  --surligne: #f6e19a;
+  --rayon: 12px;
+
+  --c-courants: #6a3fa6;
+  --c-figures: #9b3d2c;
+  --c-textes: #2f6688;
+  --c-notions: #237466;
+  --c-alchimie: #a8640c;
+  --c-kabbale: #3c4fb0;
+  --c-astrologie: #1b6c9e;
+  --c-divination: #9a3570;
+  --c-magie: #7d2a47;
+  --c-societes: #57682a;
+  --c-symboles: #866433;
+  --c-perso: #6b6577;
+
+  /* les éléments, dans les figures */
+  --el-feu: #f2c7b0;
+  --el-terre: #d9cfae;
+  --el-air: #d6e4f0;
+  --el-eau: #c5d9e0;
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", P052, Georgia, "Noto Serif", "DejaVu Serif", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
+  --texte: var(--serif);
+  color-scheme: light;
+}
+
+:root[data-police="sans"] { --texte: var(--sans); }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="clair"]) {
+    --fond: #13101d;
+    --carte: #1c1829;
+    --encre: #ece6f6;
+    --encre-douce: #bdb3d0;
+    --encre-legere: #887e9c;
+    --trait: #2c2640;
+    --trait-fort: #423a5c;
+    --accent: #c4a6ff;
+    --accent-fort: #dac8ff;
+    --accent-clair: #2a2142;
+    --sur-accent: #13101d;
+    --or: #e1bd62;
+    --or-clair: #3a2f17;
+    --ok: #63d0a2;
+    --ok-fond: #13291f;
+    --warn: #efb45c;
+    --warn-fond: #33260f;
+    --bad: #ff8d82;
+    --bad-fond: #361a19;
+    --ombre: 0 1px 3px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
+    --ombre-bord: 0 10px 14px -12px rgba(0, 0, 0, .9);
+    --surligne: #5e4a12;
+    --c-courants: #b593f2;
+    --c-figures: #f19a83;
+    --c-textes: #7fbde6;
+    --c-notions: #6fd2bd;
+    --c-alchimie: #f0b456;
+    --c-kabbale: #9aa8ff;
+    --c-astrologie: #74c2f0;
+    --c-divination: #ee8fc6;
+    --c-magie: #e38aa8;
+    --c-societes: #b8cf7a;
+    --c-symboles: #dbbd88;
+    --c-perso: #aaa3b8;
+    --el-feu: #5a2e22;
+    --el-terre: #4a4228;
+    --el-air: #263d52;
+    --el-eau: #1f4048;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="sombre"] {
+  --fond: #13101d;
+  --carte: #1c1829;
+  --encre: #ece6f6;
+  --encre-douce: #bdb3d0;
+  --encre-legere: #887e9c;
+  --trait: #2c2640;
+  --trait-fort: #423a5c;
+  --accent: #c4a6ff;
+  --accent-fort: #dac8ff;
+  --accent-clair: #2a2142;
+  --sur-accent: #13101d;
+  --or: #e1bd62;
+  --or-clair: #3a2f17;
+  --ok: #63d0a2;
+  --ok-fond: #13291f;
+  --warn: #efb45c;
+  --warn-fond: #33260f;
+  --bad: #ff8d82;
+  --bad-fond: #361a19;
+  --ombre: 0 1px 3px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
+  --ombre-bord: 0 10px 14px -12px rgba(0, 0, 0, .9);
+  --surligne: #5e4a12;
+  --c-courants: #b593f2;
+  --c-figures: #f19a83;
+  --c-textes: #7fbde6;
+  --c-notions: #6fd2bd;
+  --c-alchimie: #f0b456;
+  --c-kabbale: #9aa8ff;
+  --c-astrologie: #74c2f0;
+  --c-divination: #ee8fc6;
+  --c-magie: #e38aa8;
+  --c-societes: #b8cf7a;
+  --c-symboles: #dbbd88;
+  --c-perso: #aaa3b8;
+  --el-feu: #5a2e22;
+  --el-terre: #4a4228;
+  --el-air: #263d52;
+  --el-eau: #1f4048;
+  color-scheme: dark;
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "arcanes",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["-e", "import('./build/serveur_local.mjs').then((m) => m.demarrerServeur(8220)).then(() => console.log('http://127.0.0.1:8220/'))"],
+      "port": 8220,
+      "url": "http://127.0.0.1:8220"
+    }
+  ]
+}

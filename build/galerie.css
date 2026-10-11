@@ -1,0 +1,6 @@
+body { padding: 0; }
+#planche { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 12px; padding: 12px; }
+#planche .figure { margin: 0; }
+.galerie-nom { margin: 0 0 6px; font: 600 12px var(--sans); color: var(--encre-legere); }
+.galerie-signes { display: flex; flex-wrap: wrap; gap: 10px; align-content: flex-start; }
+.glyphe-galerie { width: 40px; height: 40px; color: var(--encre); }

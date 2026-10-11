@@ -1,0 +1,539 @@
+# Textes et livres.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ corpus-hermetique
+cat: textes
+nom: Corpus Hermeticum
+alias: Corpus hermétique, Hermetica, traités hermétiques, Pimander, Pimandre
+an: 200
+dates: IIe – IIIe siècles ; traduit par Ficin en 1463
+def: Recueil de dix-sept traités grecs attribués à Hermès Trismégiste, composés dans l'Égypte romaine, qui enseignent la connaissance de Dieu, du monde et de l'homme.
+texte: Ces traités, de longueur et d'inspiration variées, se présentent comme des dialogues entre [[hermes-trismegiste|Hermès]] et ses disciples, Tat, Asclépius ou Ammon. Ils ont été réunis par des copistes byzantins, peut-être au XIe siècle. Le premier, le *[[poimandres|Poimandrès]]*, raconte la création du monde et la chute de l'homme ; d'autres enseignent que Dieu est bon, que le monde est son image et que l'homme peut devenir divin par la connaissance, ou décrivent une renaissance spirituelle.
+texte: En 1462, un moine rapporte de Macédoine un manuscrit à Florence ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
+voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose
+
+@ poimandres
+cat: textes
+nom: Poimandrès
+alias: Pimandre, Poemandres, Pymander, traité I
+an: 150
+def: Premier traité du Corpus Hermeticum, récit d'une révélation où l'Intellect divin montre à Hermès la création du monde, la chute de l'homme et le chemin de sa remontée.
+texte: Le narrateur, plongé dans une méditation, voit apparaître un être immense, Poimandrès, l'Intellect souverain, qui lui fait voir l'origine de toutes choses : une lumière, puis une obscurité humide, d'où naît le monde ordonné. L'Homme primordial, créé à l'image de Dieu, se penche à travers les sphères des planètes, voit son reflet dans la Nature, s'en éprend et s'unit à elle : il devient double, immortel par l'esprit, mortel par le corps.
+texte: À la mort, l'âme remonte à travers les sept sphères en rendant à chacune le vice qu'elle en avait reçu, jusqu'à se fondre en Dieu. Ce récit, proche des cosmogonies [[gnosticisme|gnostiques]] et de la Genèse, est l'un des textes fondateurs de l'[[hermetisme]].
+voir: corpus-hermetique, hermetisme, gnose, adam-kadmon, microcosme-macrocosme
+
+@ asclepius
+cat: textes
+nom: Asclépius
+alias: Asclepius, Discours parfait, Logos teleios
+an: 250
+def: Traité hermétique connu en latin pendant tout le Moyen Âge, qui célèbre la grandeur de l'homme et décrit comment les prêtres égyptiens animaient les statues des dieux.
+texte: L'original grec, intitulé *Discours parfait*, est perdu ; il en reste une traduction latine ancienne, longtemps attribuée à Apulée, et un fragment copte trouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]]. Hermès y enseigne à son disciple Asclépius que l'homme est « un grand miracle », intermédiaire entre les dieux et le monde.
+texte: Deux passages ont frappé les lecteurs : celui où les Égyptiens attirent par des rites les esprits divins dans leurs statues, qui deviennent vivantes et prophétisent — saint Augustin le condamne comme idolâtrie, les magiciens de la Renaissance y voient le modèle des [[talisman|talismans]] — et la « lamentation » qui annonce l'abandon de l'Égypte par les dieux.
+voir: corpus-hermetique, hermetisme, talisman, egyptosophie
+
+@ table-d-emeraude
+cat: textes
+nom: Table d'émeraude
+alias: Tabula smaragdina, Emerald Tablet, Tabula smaragdina Hermetis, ce qui est en bas est comme ce qui est en haut
+an: 800
+def: Bref texte attribué à Hermès Trismégiste, connu d'abord en arabe, qui résume en quelques sentences énigmatiques le secret de l'unité du monde et de l'œuvre alchimique.
+texte: La plus ancienne version connue figure, vers l'an 800, à la fin d'un livre arabe attribué à [[apollonius-de-tyane|Balînâs]], où elle est censée avoir été trouvée dans un caveau, entre les mains d'Hermès mort. Traduite en latin au XIIe siècle, elle devient le texte le plus cité de l'[[alchimie]]. Sa phrase la plus célèbre : « Ce qui est en bas est comme ce qui est en haut, et ce qui est en haut est comme ce qui est en bas, pour accomplir les miracles d'une seule chose. »
+texte: Elle évoque une chose unique dont le père est le Soleil, la mère la Lune, que le vent a portée dans son ventre et que la Terre nourrit ; il faut séparer le subtil de l'épais, monter de la terre au ciel et redescendre. Les alchimistes y lisaient la recette de la [[pierre-philosophale]] ; les ésotéristes y voient la formule même des [[correspondances]] et du rapport entre [[microcosme-macrocosme|microcosme et macrocosme]]. [[isaac-newton]] en a fait une traduction.
+voir: hermes-trismegiste, alchimie, correspondances, microcosme-macrocosme, apollonius-de-tyane
+
+@ oracles-chaldaiques
+cat: textes
+nom: Oracles chaldaïques
+alias: Oracles chaldéens, Chaldean Oracles, Julien le Chaldéen, Julien le Théurge
+an: 170
+def: Poème grec du IIe siècle, présenté comme une révélation divine, qui décrit une hiérarchie de puissances divines et les rites permettant à l'âme de remonter vers le Père.
+texte: Selon la tradition, les *Oracles* ont été obtenus sous Marc Aurèle par Julien le Théurge, qui les aurait reçus des dieux par l'intermédiaire de l'âme de Platon, avec l'aide de son père, Julien le Chaldéen. Ils ne nous sont parvenus qu'en fragments cités par les philosophes. On y trouve un Père suprême, un Intellect, une déesse Hécate qui unit les mondes, et l'idée que l'âme, revêtue d'un « véhicule » lumineux, peut être purifiée par des rites.
+texte: Les néoplatoniciens, de [[porphyre]] à [[proclus]], les tiennent pour une Écriture sacrée et y fondent la [[theurgie]]. Au XVe siècle, Gémiste Pléthon les attribue à [[zoroastre]] et à ses mages, et la Renaissance les lit comme l'un des plus anciens témoins de la [[prisca-theologia]].
+voir: theurgie, neoplatonisme, zoroastre, prisca-theologia
+
+@ papyrus-grecs-magiques
+cat: textes
+nom: Papyrus grecs magiques
+alias: PGM, Papyri Graecae Magicae, Liturgie de Mithra, papyrus magiques
+an: -100
+dates: IIe siècle av. J.-C. – Ve siècle
+def: Ensemble de manuscrits sur papyrus trouvés en Égypte, contenant des formules, des rites et des invocations de la magie gréco-égyptienne de l'époque romaine.
+texte: La plupart proviennent d'une même collection achetée à Thèbes au début du XIXe siècle par un diplomate, Giovanni Anastasi, peut-être la bibliothèque d'un magicien. Ils mêlent dieux grecs, égyptiens et juifs, anges et démons, noms secrets et suites de voyelles, et donnent des recettes pour obtenir une vision, un rêve, un amour, une victoire ou la protection d'un [[amulette|amulette]].
+texte: Rassemblés et publiés par Karl Preisendanz de 1928 à 1931, ils sont la source la plus directe sur la [[magie]] pratique de l'Antiquité. L'un d'eux, dit *Liturgie de Mithra*, décrit une ascension de l'âme jusqu'à la vision du dieu.
+voir: magie, amulette, voces-magicae, theurgie
+
+@ bibliotheque-de-nag-hammadi
+cat: textes
+nom: Bibliothèque de Nag Hammadi
+alias: Nag Hammadi, codex de Nag Hammadi, Évangile de Thomas, Évangile de Philippe, Apocryphon de Jean, codex Jung
+an: 1945
+dates: copiés au IVe siècle ; découverts en 1945
+def: Ensemble de treize volumes coptes du IVe siècle, découverts en 1945 en Haute-Égypte, qui ont révélé les écrits des gnostiques eux-mêmes.
+texte: En décembre 1945, près de la ville de Nag Hammadi, un paysan découvre dans une jarre enterrée une série de codex reliés de cuir. Ils contiennent une cinquantaine de textes traduits du grec en copte : l'*Évangile selon Thomas*, recueil de paroles de Jésus, l'*Évangile de Philippe*, l'*Apocryphon de Jean*, l'*Évangile de vérité*, mais aussi un extrait de la *République* de Platon et des traités [[hermetisme|hermétiques]].
+texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich.
+voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius
+
+@ pistis-sophia
+cat: textes
+nom: Pistis Sophia
+alias: codex Askew, Pistis-Sophia
+an: 300
+def: Écrit gnostique copte où Jésus ressuscité révèle à ses disciples la chute et la repentance de Sophia, puissance divine égarée dans le chaos.
+texte: Le texte est conservé dans un manuscrit copte acquis au XVIIIe siècle par un médecin londonien, Anthony Askew, et entré au British Museum en 1785. Pendant onze ans après la Résurrection, Jésus instruit ses disciples, et notamment Marie-Madeleine, interlocutrice privilégiée ; il raconte comment Pistis Sophia, « Foi-Sagesse », trompée par une fausse lumière, est tombée dans les régions inférieures, puis sauvée après treize repentances.
+texte: Longtemps l'un des rares écrits gnostiques connus de première main, il fascine les occultistes de la fin du XIXe siècle : il est traduit en français en 1895 et en anglais en 1896 par un secrétaire de [[helena-blavatsky]].
+voir: gnosticisme, sophia, eon, plerome, bibliotheque-de-nag-hammadi
+
+@ livre-d-henoch
+cat: textes
+nom: Livre d'Hénoch
+alias: Hénoch, Enoch, 1 Hénoch, Veilleurs, Livre des Veilleurs
+an: -250
+def: Écrit juif des derniers siècles avant notre ère, attribué au patriarche Hénoch, qui raconte la chute des anges « Veilleurs » et décrit les secrets du ciel.
+texte: Selon la Genèse, Hénoch « marcha avec Dieu, puis il ne fut plus, car Dieu l'avait pris ». Le livre placé sous son nom raconte que deux cents anges, les Veilleurs, descendirent sur terre, s'unirent aux femmes et enseignèrent aux hommes la métallurgie, les fards, la magie et l'astrologie ; leurs fils, des géants, ravagèrent la terre, d'où le Déluge. Hénoch, emmené au ciel, en visite les demeures et apprend le cours des astres.
+texte: Perdu en Occident, le livre a été conservé intégralement en éthiopien : l'Église d'Éthiopie le tient pour canonique. L'explorateur James Bruce en rapporte des copies en 1773. Le nom d'Hénoch a été donné à la [[magie-enochienne|magie énochienne]] de [[john-dee]], que les anges présentaient comme la langue enseignée au patriarche.
+voir: anges, magie-enochienne, demonologie
+
+@ sefer-yetsirah
+cat: textes
+nom: Sefer Yetsirah
+alias: Sepher Yetzirah, Livre de la formation, Livre de la création, trente-deux voies de la sagesse
+an: 300
+def: Bref traité hébreu de l'Antiquité tardive qui explique la création du monde par les dix nombres primordiaux et les vingt-deux lettres de l'alphabet, soit trente-deux voies de la sagesse.
+texte: Attribué par la tradition au patriarche Abraham, le *Livre de la formation* est sans doute composé entre le IIIe et le VIe siècle. Dieu y crée le monde par dix *sefirot* — un mot qui désigne ici des nombres ou des dimensions — et par les vingt-deux lettres, réparties en trois « mères » (*alef*, *mem*, *shin*), sept « doubles » et douze « simples ». Chaque lettre correspond à un élément, une planète ou un signe du zodiaque, à un jour, un mois et une partie du corps.
+texte: Commenté par les philosophes juifs dès le Xe siècle, il devient un texte fondateur de la [[kabbale]], qui fera de ses sefirot les puissances divines de l'[[arbre-des-sephiroth|arbre des séphiroth]]. [[guillaume-postel]] le traduit en latin en 1552, et ses correspondances entre lettres et astres structurent la [[kabbale-hermetique|kabbale hermétique]] et le [[tarot]] des occultistes.
+schema: alphabet-hebreu
+voir: kabbale, alphabet-hebreu, sephiroth, golem, tarot
+
+@ sefer-ha-bahir
+cat: textes
+nom: Bahir
+alias: Sefer ha-Bahir, Livre de la clarté
+an: 1180
+def: Premier texte de la kabbale médiévale, apparu en Provence vers 1180, qui présente les sefirot comme des puissances de Dieu et emploie l'image d'un arbre divin.
+texte: Le *Livre de la clarté* se présente comme un recueil de paroles de sages de l'époque du Talmud, sous forme de paraboles et de commentaires de versets. Il décrit pour la première fois les attributs divins comme un organisme : un arbre dont les racines sont en haut, un roi et ses trésors, une puissance féminine, la [[shekhina|Shekhina]]. Il évoque aussi la transmigration des âmes.
+texte: [[gershom-scholem]] a montré qu'il était apparu dans le cercle des kabbalistes de Provence, autour de Rabbi Isaac l'Aveugle, en reprenant des matériaux plus anciens. Il ouvre la voie au *[[zohar|Zohar]]*.
+voir: kabbale, sephiroth, shekhina, zohar
+
+@ zohar
+cat: textes
+nom: Zohar
+alias: Sefer ha-Zohar, Livre de la splendeur, Zohar
+an: 1280
+def: Œuvre maîtresse de la kabbale, vaste commentaire mystique de la Torah écrit en araméen à la fin du XIIIe siècle en Castille, et présenté comme l'enseignement d'un sage du IIe siècle.
+texte: Le *Zohar* raconte les entretiens de Rabbi Siméon bar Yohaï et de ses compagnons, qui cheminent en Galilée en commentant l'Écriture. Derrière chaque verset, il découvre la vie intérieure de Dieu : le jeu des [[sephiroth|séphiroth]], l'union du Saint, béni soit-il, et de sa [[shekhina|Shekhina]], l'exil de celle-ci, la lutte contre l'« autre côté », le mal, et le rôle de l'homme qui, par ses actes, répare ou trouble l'harmonie divine.
+texte: [[gershom-scholem]] l'a attribué pour l'essentiel à [[moise-de-leon]]. Imprimé à Mantoue et à Crémone en 1558-1560, il devient pour les juifs un livre sacré, presque à l'égal de la Bible, et nourrit la [[kabbale-chretienne|kabbale chrétienne]] à travers les traductions de [[guillaume-postel]] et la *[[kabbala-denudata|Kabbala denudata]]*.
+voir: kabbale, moise-de-leon, sephiroth, shekhina, kabbala-denudata
+
+@ picatrix
+cat: textes
+nom: Picatrix
+alias: Ghâyat al-hakîm, Ghayat al-Hakim, Le But du sage
+an: 1000
+def: Grand traité arabe de magie astrale, écrit en al-Andalus vers l'an 1000, traduit en espagnol puis en latin au XIIIe siècle, qui enseigne à fabriquer des talismans et à prier les planètes.
+texte: Son titre arabe, *Le But du sage*, dit son ambition : réunir toute la science des images astrales. L'auteur, longtemps identifié à tort au savant al-Majrîtî, explique comment graver sur une pierre ou un métal, au moment où une planète est puissante, une figure qui capte son « esprit » et produit un effet. Il décrit aussi les prières et les sacrifices des [[sabeens-de-harran|Sabéens]] aux sept planètes.
+texte: Traduit à la cour d'Alphonse X de Castille en 1256, le *Picatrix* circule en manuscrit dans l'Europe latine, où il est à la fois recherché et réprouvé. [[marsile-ficin]] et [[cornelius-agrippa]] s'en inspirent.
+voir: talisman, sabeens-de-harran, astrologie, magie, intelligences-planetaires
+
+@ secret-des-secrets
+cat: textes
+nom: Secret des secrets
+alias: Secretum secretorum, Sirr al-asrâr, pseudo-Aristote
+an: 950
+def: Traité arabe présenté comme une lettre d'Aristote à Alexandre le Grand, mêlant conseils politiques, hygiène, astrologie, physiognomonie et talismans, l'un des livres les plus copiés du Moyen Âge.
+texte: Compilé en arabe vers le Xe siècle, le *Secret des secrets* prétend transmettre l'enseignement secret qu'Aristote aurait réservé à son royal élève : comment gouverner, choisir ses conseillers d'après leur visage, préserver sa santé, consulter les astres et se protéger par des pierres et des talismans.
+texte: Traduit en latin au XIIe et au XIIIe siècle, il circule en des centaines de manuscrits et en langues vulgaires. [[roger-bacon]] le commente. Certaines versions contiennent le texte de la [[table-d-emeraude|Table d'émeraude]], ce qui a beaucoup contribué à sa diffusion.
+voir: table-d-emeraude, physiognomonie, talisman, astrologie
+
+@ turba-philosophorum
+cat: textes
+nom: Turba philosophorum
+alias: Turba, Assemblée des philosophes, Code de vérité
+an: 1100
+def: Texte alchimique traduit de l'arabe en latin vers le XIIe siècle, mise en scène d'une assemblée de philosophes antiques débattant du secret de l'œuvre.
+texte: Sous la présidence de Pythagore, des philosophes grecs aux noms souvent déformés — Anaxagore, Empédocle, Socrate… — prennent tour à tour la parole pour exposer, chacun à sa manière, la préparation de la [[pierre-philosophale]]. Les discours se contredisent en apparence ; le lecteur doit découvrir sous les noms divers une seule matière et une seule opération.
+texte: L'original arabe, perdu, remonte sans doute au Xe siècle. La *Turba* devient au Moyen Âge l'une des plus hautes autorités de l'[[alchimie]] : on la cite sans cesse, et son style d'assemblée énigmatique est souvent imité.
+voir: alchimie, pierre-philosophale, materia-prima
+
+@ rosaire-des-philosophes
+cat: textes
+nom: Rosaire des philosophes
+alias: Rosarium philosophorum, Rosarium
+an: 1550
+def: Traité alchimique imprimé en 1550, célèbre pour sa série de gravures montrant l'union, la mort et la résurrection d'un roi et d'une reine.
+texte: Le *Rosarium philosophorum* est une compilation de citations d'autorités alchimiques, publiée à Francfort en 1550. Vingt gravures sur bois l'accompagnent : un roi et une reine, le Soleil et la Lune, se rencontrent, se dénudent, s'unissent dans un bain, meurent ensemble dans un tombeau, sont purifiés par une rosée céleste et renaissent en un seul être à deux têtes, le [[rebis]].
+texte: Ces images de la conjonction des contraires ont été au cœur de l'interprétation psychologique de l'alchimie par [[carl-gustav-jung]], qui les commente dans *La Psychologie du transfert* (1946).
+voir: rebis, androgyne, grand-oeuvre, emblemes, carl-gustav-jung
+
+@ clavicule-de-salomon
+cat: textes
+nom: Clavicule de Salomon
+alias: Clavicula Salomonis, Clé de Salomon, Grande Clavicule, Key of Solomon
+an: 1400
+dates: manuscrits des XIVe – XVIIIe siècles
+def: Grimoire attribué au roi Salomon, connu par des manuscrits de la fin du Moyen Âge, qui décrit les purifications, les instruments et les pentacles nécessaires pour invoquer les esprits.
+texte: La *Clavicule* — la « petite clé » — prescrit au magicien un long temps de préparation : jeûnes, prières, bains, vêtements de lin, choix du jour et de l'heure planétaires. Elle décrit la fabrication du couteau, de la baguette, du parchemin vierge, le tracé du [[cercle-magique]] et des dizaines de [[pentacle|pentacles]] aux figures et aux inscriptions hébraïques, chacun consacré à une planète et à un effet.
+texte: Des versions latines, italiennes et françaises circulent du XVe au XVIIIe siècle et s'enrichissent sans cesse. [[samuel-liddell-mathers]] en publie une traduction anglaise en 1889, qui fixe pour longtemps l'image du [[grimoire]] classique.
+voir: grimoire, salomon, pentacle, cercle-magique, lemegeton, instruments-magiques
+
+@ lemegeton
+cat: textes
+nom: Lemegeton
+alias: Petite Clé de Salomon, Lesser Key of Solomon, Goétie, Ars Goetia, Ars Notoria
+an: 1650
+dates: manuscrits du XVIIe siècle
+def: Grimoire anglais du XVIIe siècle en cinq parties, dont la première, la Goétie, décrit soixante-douze démons et la manière de les contraindre.
+texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *Art notoire* censé donner la science par la prière.
+texte: La liste des démons rejoint celle que le médecin Jean Wier avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
+voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau
+
+@ livre-d-abramelin
+cat: textes
+nom: Livre d'Abramelin
+alias: Abramelin, Abraham le Juif, Sacrée Magie d'Abramelin, Abramelin le Mage
+an: 1608
+def: Grimoire présenté comme la transmission, par un juif de Worms au XVe siècle, de la magie du sage égyptien Abramelin, dont le but est d'entrer en relation avec son saint ange gardien.
+texte: Le livre raconte qu'Abraham de Worms, après de longs voyages, reçut d'un sage nommé Abramelin une méthode qu'il transmet à son fils. Les manuscrits allemands les plus anciens datent du début du XVIIe siècle. La méthode exige une retraite de six mois (dix-huit dans la version allemande) de prière et de purification croissantes, au terme de laquelle apparaît l'[[ange-gardien|ange gardien]] ; le magicien peut ensuite commander les démons grâce à des carrés de lettres.
+texte: [[samuel-liddell-mathers]] traduit en 1898 un manuscrit français de la bibliothèque de l'Arsenal. [[aleister-crowley]] achète en Écosse le manoir de Boleskine pour y accomplir l'opération, qu'il n'achève pas, et l'« obtention de la connaissance et de la conversation du saint ange gardien » devient le cœur de la magie thélémite.
+voir: ange-gardien, grimoire, carre-magique, magie-ceremonielle, samuel-liddell-mathers
+
+@ arbatel
+cat: textes
+nom: Arbatel
+alias: Arbatel de magia veterum, esprits olympiques, Aratron, Bethor, Phaleg, Och, Hagith, Ophiel, Phul
+an: 1575
+def: Petit traité de magie imprimé à Bâle en 1575, d'inspiration chrétienne et paracelsienne, connu pour ses sept « esprits olympiques » qui gouvernent les planètes.
+texte: Anonyme, l'*Arbatel* se compose d'aphorismes groupés par sept. Il présente la magie comme une sagesse donnée par Dieu à ceux qui le craignent, et condamne la magie démoniaque. Il décrit sept esprits célestes, chacun préposé à une planète et à une période de l'histoire : Aratron (Saturne), Bethor (Jupiter), Phaleg (Mars), Och (Soleil), Hagith (Vénus), Ophiel (Mercure) et Phul (Lune), avec leurs caractères à tracer.
+texte: Très apprécié des théosophes chrétiens et des rosicruciens, l'*Arbatel* contraste avec les grimoires de conjuration par sa tonalité pieuse et optimiste.
+voir: intelligences-planetaires, grimoire, planetes, theosophie-chretienne
+
+@ grand-albert
+cat: textes
+nom: Grand Albert
+alias: Les Admirables Secrets d'Albert le Grand, Liber aggregationis
+an: 1500
+def: Recueil populaire de secrets et de recettes attribué faussement à Albert le Grand, vendu par les colporteurs du XVIIe au XXe siècle.
+texte: Le *Grand Albert* reprend des textes latins médiévaux placés sous le nom d'[[albert-le-grand]] : les vertus des herbes, des pierres et des animaux, les « secrets des femmes » sur la génération, les influences des planètes. On y apprend, par exemple, qu'une certaine pierre rend invisible ou qu'une herbe fait parler en dormant.
+texte: Édité à bon marché dans la « Bibliothèque bleue » de Troyes, il pénètre jusque dans les campagnes, où il passe pour un livre de sorcier qu'il était dangereux de posséder. Il témoigne de la diffusion populaire de la [[magie-naturelle]] savante.
+voir: petit-albert, albert-le-grand, magie-naturelle, grimoire, mandragore
+
+@ petit-albert
+cat: textes
+nom: Petit Albert
+alias: Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert, main de gloire
+an: 1668
+def: Grimoire populaire publié en 1668, qui mêle recettes domestiques, magie naturelle et talismans, et doit sa réputation sulfureuse à la recette de la « main de gloire ».
+texte: Malgré son titre, le *Petit Albert* n'a rien à voir avec [[albert-le-grand]]. On y trouve de quoi faire pousser les cheveux, guérir les chevaux, gagner au jeu, se faire aimer, et des [[talisman|talismans]] planétaires inspirés de [[paracelse]]. La recette la plus célèbre est celle de la « main de gloire », main de pendu préparée qui servirait de chandelier aux voleurs pour endormir les habitants d'une maison.
+texte: Comme le [[grand-albert|Grand Albert]], il est diffusé par les colporteurs et devient un objet de crainte et de fascination dans les campagnes françaises.
+voir: grand-albert, grimoire, talisman, sorcellerie
+
+@ de-vita
+cat: textes
+nom: De vita libri tres
+alias: De vita, Trois Livres de la vie, De vita coelitus comparanda
+an: 1489
+def: Traité de Marsile Ficin publié en 1489, consacré à la santé des savants, dont le troisième livre expose comment attirer les influences des astres : c'est le fondement de la magie astrale de la Renaissance.
+texte: Le premier livre conseille aux hommes d'étude, que leur tempérament mélancolique place sous [[saturne|Saturne]], un régime de vie ; le deuxième traite de la longévité. Le troisième, *Comment acquérir la vie céleste*, explique que l'[[ame-du-monde|âme du monde]] répand, par un « esprit » subtil, les vertus des astres dans les choses : on peut les capter en s'entourant de plantes, de couleurs, de parfums, de musiques et d'images correspondant à la planète bienfaisante, surtout le Soleil, Jupiter et Vénus.
+texte: Prudent, [[marsile-ficin]] présente ces pratiques comme naturelles et non démoniaques. Le livre, très lu, fait de lui le théoricien de la [[magie-naturelle]] savante.
+voir: marsile-ficin, magie-naturelle, talisman, sympathie-universelle, saturne
+
+@ discours-sur-la-dignite-de-l-homme
+cat: textes
+nom: Discours sur la dignité de l'homme
+alias: Oratio de hominis dignitate, Oratio, De la dignité de l'homme
+an: 1486
+def: Discours de Pic de la Mirandole, écrit en 1486, qui célèbre la liberté de l'homme de façonner sa propre nature et réunit toutes les sagesses, de la magie à la kabbale.
+texte: Destiné à ouvrir la dispute publique des *Neuf cents conclusions*, le discours fait parler Dieu à Adam : « Je ne t'ai donné ni place déterminée, ni visage propre… afin que tu sois l'artisan de ta propre forme. » L'homme peut descendre jusqu'à la bête ou s'élever jusqu'à l'ange.
+texte: La seconde partie défend la concorde de toutes les philosophies et justifie la [[magie-naturelle]], qui « marie le ciel et la terre », et la [[kabbale]], qui confirme les mystères chrétiens. Publié après la mort de [[pic-de-la-mirandole]], ce texte est devenu un symbole de l'humanisme.
+voir: pic-de-la-mirandole, kabbale-chretienne, magie-naturelle, prisca-theologia
+
+@ de-arte-cabalistica
+cat: textes
+nom: De arte cabalistica
+alias: De l'art kabbalistique
+an: 1517
+def: Traité de Jean Reuchlin publié en 1517, premier exposé systématique de la kabbale par un chrétien, sous la forme d'un dialogue entre un pythagoricien, un musulman et un juif.
+texte: Dédié au pape Léon X, le livre met en scène trois sages réunis à Francfort : Simon, un kabbaliste juif, enseigne à Philolaüs, pythagoricien, et à Marranus, musulman, les principes de la [[kabbale]] — les [[sephiroth|séphiroth]], les noms divins, les techniques de la [[gematrie]] et de la [[temourah]]. Reuchlin y montre l'accord de la kabbale et du [[pythagorisme]], deux voies d'une même sagesse antique.
+texte: L'ouvrage a fait connaître la kabbale à toute l'Europe savante et fondé la [[kabbale-chretienne|kabbale chrétienne]] comme discipline.
+voir: jean-reuchlin, kabbale-chretienne, gematrie, pythagorisme
+
+@ steganographia
+cat: textes
+nom: Steganographia
+alias: Stéganographie, stéganographie
+an: 1499
+def: Traité de Jean Trithème, écrit vers 1499, qui semble enseigner la transmission de messages par des anges, mais cache en réalité des méthodes de chiffrement.
+texte: Les deux premiers livres décrivent des invocations à des esprits porteurs de messages ; mais leurs formules, examinées de près, sont elles-mêmes des textes chiffrés selon des règles simples, et le traité enseigne en fait l'art de cacher un message dans un autre — d'où le mot « stéganographie » qui désigne aujourd'hui cette technique. Le troisième livre, consacré aux esprits des planètes et aux tables de nombres, a longtemps passé pour purement magique, jusqu'à ce que des chercheurs y découvrent dans les années 1990 un autre système de chiffrement.
+texte: Imprimé en 1606, le livre est mis à l'Index en 1609 ; il a fasciné [[john-dee]], qui en recopia le manuscrit.
+voir: jean-tritheme, anges, john-dee
+
+@ de-occulta-philosophia
+cat: textes
+nom: De occulta philosophia
+alias: Trois Livres de la philosophie occulte, De la philosophie occulte, Quatrième Livre
+an: 1533
+def: Somme de la magie savante de la Renaissance, publiée par Corneille Agrippa en 1533, qui ordonne en trois livres la magie naturelle, céleste et cérémonielle.
+texte: Le premier livre traite du monde élémentaire : les quatre éléments, les vertus occultes des choses, les [[sympathie-universelle|sympathies]], les [[signatures]], les fascinations et les philtres. Le deuxième, du monde céleste : les nombres et leur symbolique, les [[carre-magique|carrés magiques]] des planètes, la musique, les images astrologiques. Le troisième, du monde intellectuel : la religion, les noms divins, la [[kabbale]], les anges et les démons, les rites de purification.
+texte: Abondamment pillé, le traité a fourni une grande partie du contenu des [[grimoire|grimoires]] ultérieurs, de la [[golden-dawn|Golden Dawn]] et de la magie moderne. Un *Quatrième Livre* apocryphe, publié en 1559, y ajoute des procédés de conjuration.
+voir: cornelius-agrippa, philosophie-occulte, carre-magique, magie-naturelle, talisman
+
+@ monas-hieroglyphica
+cat: textes
+nom: Monas hieroglyphica
+alias: La Monade hiéroglyphique, monade de Dee
+an: 1564
+def: Traité de John Dee publié en 1564, qui commente en vingt-quatre théorèmes un signe unique de son invention, résumant les planètes, les éléments et l'œuvre alchimique.
+texte: Le signe de Dee réunit le croissant de la [[lune|Lune]], le cercle du [[soleil|Soleil]] et son point central, une croix figurant les quatre éléments, et en bas le double croissant du signe du [[belier|Bélier]], le feu. On y reconnaît le glyphe de [[mercure|Mercure]] augmenté. Dee le déploie par la géométrie, l'arithmétique et la [[kabbale]] pour en tirer une science de toute la nature.
+texte: Dédié à l'empereur Maximilien II, l'ouvrage, extrêmement obscur, a fasciné les lecteurs ésotériques : le signe de la monade figure dans les *[[noces-chymiques|Noces chymiques de Christian Rosenkreutz]]*.
+schema: monade-hieroglyphique
+voir: john-dee, monade, noces-chymiques, mercure
+
+@ amphitheatrum
+cat: textes
+nom: Amphithéâtre de la sagesse éternelle
+alias: Amphitheatrum sapientiae aeternae, Amphitheatrum
+an: 1595
+def: Ouvrage de Heinrich Khunrath publié en 1595 puis en 1609, dont les grandes planches gravées unissent la kabbale chrétienne, l'alchimie et la prière.
+texte: Le livre commente des versets bibliques et s'accompagne de planches circulaires saisissantes : le Christ au centre d'une rose de lumière portant les dix [[sephiroth|séphiroth]], la citadelle alchimique aux vingt et une portes, l'adepte en prière dans son laboratoire-oratoire, l'échelle des sept degrés de la sagesse.
+texte: Ces images, parmi les plus reproduites de l'iconographie ésotérique, expriment l'idée que la connaissance de Dieu, de l'homme et de la nature est une seule et même quête.
+voir: heinrich-khunrath, emblemes, kabbale-chretienne, alchimie
+
+@ livre-des-figures-hieroglyphiques
+cat: textes
+nom: Livre des figures hiéroglyphiques
+alias: Livre des figures hiéroglyphiques de Nicolas Flamel, Abraham le Juif
+an: 1612
+def: Récit alchimique publié en 1612 sous le nom de Nicolas Flamel, qui fonde la légende du libraire parisien ayant réussi la transmutation.
+texte: Publié par Pierre Arnauld de La Chevalerie dans un recueil de *Trois traités de la philosophie naturelle*, le livre explique le sens alchimique des figures que [[nicolas-flamel]] avait fait peindre sur une arcade du cimetière des Innocents. Le narrateur raconte qu'il acheta un livre d'écorce couvert de figures, œuvre d'« Abraham le Juif », qu'il chercha vingt et un ans à le comprendre, puis fit un pèlerinage à Saint-Jacques-de-Compostelle où un médecin juif converti lui en donna la clé.
+texte: Les historiens y voient une œuvre du début du XVIIe siècle, écrite deux siècles après la mort de Flamel. Le récit n'en a pas moins inspiré des générations d'alchimistes et de romanciers.
+voir: nicolas-flamel, pierre-philosophale, transmutation, emblemes
+
+@ fama-fraternitatis
+cat: textes
+nom: Fama Fraternitatis
+alias: Fama, Renommée de la Fraternité, manifestes rosicruciens
+an: 1614
+def: Premier manifeste de la Rose-Croix, publié à Cassel en 1614, qui révèle l'existence d'une fraternité secrète fondée par Christian Rosenkreutz et appelle à une réforme générale du savoir.
+texte: Après avoir circulé en manuscrit, la *Fama Fraternitatis* paraît en allemand en 1614. Elle raconte la vie de [[christian-rosenkreutz]], la fondation de sa fraternité de médecins et la découverte, en 1604, de son tombeau. Elle invite les savants d'Europe à se faire connaître, en annonçant une nouvelle ère de connaissance de la nature et de Dieu, contre le pape et l'astrologie des charlatans.
+texte: Le manifeste déclenche une véritable fièvre : des centaines d'écrits répondent, demandent à entrer dans la fraternité, la défendent ou la dénoncent. Personne ne semble pourtant l'avoir jamais rencontrée.
+voir: rose-croix, christian-rosenkreutz, confessio-fraternitatis, noces-chymiques, johann-valentin-andreae
+
+@ confessio-fraternitatis
+cat: textes
+nom: Confessio Fraternitatis
+alias: Confessio, Confession de la Fraternité
+an: 1615
+def: Deuxième manifeste de la Rose-Croix, publié en latin en 1615, qui précise la doctrine de la fraternité et annonce la fin des temps.
+texte: La *Confessio* reprend le récit de la *[[fama-fraternitatis|Fama]]* et y ajoute une tonalité prophétique : de nouvelles étoiles apparues en 1572 et 1604 annoncent une réforme du monde, le « livre de la nature » s'ouvrira à ceux qui sont dignes, et le pape sera renversé. Elle met en garde contre les faux alchimistes qui ne cherchent que l'or.
+texte: Avec la *Fama* et les *Noces chymiques*, elle forme le corpus des trois manifestes fondateurs de la tradition [[rose-croix]].
+voir: rose-croix, fama-fraternitatis, noces-chymiques
+
+@ noces-chymiques
+cat: textes
+nom: Noces chymiques de Christian Rosenkreutz
+alias: Noces chimiques, Chymische Hochzeit, Les Noces chymiques
+an: 1616
+def: Récit allégorique publié à Strasbourg en 1616, troisième texte de la Rose-Croix, qui raconte en sept jours le voyage initiatique de Christian Rosenkreutz vers les noces d'un roi et d'une reine.
+texte: Invité par une lettre que lui apporte un ange, le vieux Christian Rosenkreutz se rend à un château où se prépare un mariage royal. Il traverse des épreuves, est pesé sur une balance, assiste à la décapitation des couples royaux puis, dans une tour à étages, à leur résurrection par une série d'opérations alchimiques. Le texte foisonne de symboles et d'humour.
+texte: L'œuvre est reconnue par [[johann-valentin-andreae]] comme un écrit de sa jeunesse. On y voit tour à tour une allégorie du [[grand-oeuvre|Grand Œuvre]], une initiation spirituelle ou une satire ; [[carl-gustav-jung]] et Rudolf Steiner en ont donné des lectures.
+voir: rose-croix, christian-rosenkreutz, johann-valentin-andreae, grand-oeuvre, monas-hieroglyphica
+
+@ atalanta-fugiens
+cat: textes
+nom: Atalanta fugiens
+alias: Atalante fugitive, Atalanta, emblèmes de Maier
+an: 1617
+def: Livre d'emblèmes alchimiques de Michael Maier publié en 1617, où chacune des cinquante gravures s'accompagne d'une épigramme, d'un commentaire et d'une fugue musicale.
+texte: Le titre renvoie au mythe d'Atalante, la coureuse que le prétendant Hippomène vainc en laissant tomber trois pommes d'or : Atalante figure le mercure volatil, Hippomène le soufre qui le fixe, la pomme d'or la matière qui les unit. Les gravures, de l'atelier de Matthäus Merian, montrent un enfant nourri par la Terre, un hermaphrodite couché dans le feu, un loup qui dévore le roi, une femme qui lave le linge.
+texte: Les cinquante fugues à trois voix — Atalante, Hippomène et la pomme — sont l'une des premières tentatives d'unir musique et image dans un livre. C'est un sommet de l'art des [[emblemes]].
+voir: michael-maier, emblemes, alchimie, mercure-philosophique
+
+@ aurore-naissante
+cat: textes
+nom: Aurore naissante
+alias: Aurora, Morgenröte im Aufgang, L'Aurore naissante
+an: 1612
+def: Premier livre de Jakob Boehme, écrit en 1612, qui décrit la vie de Dieu, la création et la chute des anges à partir de l'illumination de son auteur.
+texte: Boehme y rapporte ce qu'il a vu en 1600 : la nature entière manifeste un combat de forces, la colère et l'amour, le dur et le doux, au sein de Dieu même. Il décrit sept « esprits sources » à l'œuvre dans toute chose, la chute de Lucifer qui a corrompu la nature, et l'espérance d'une aube nouvelle.
+texte: Copié à son insu, le manuscrit parvient au pasteur de Görlitz, qui fait condamner l'auteur au silence. Publié après la mort de [[jakob-boehme]], le livre devient le texte fondateur de la [[theosophie-chretienne|théosophie chrétienne]].
+voir: jakob-boehme, theosophie-chretienne
+
+@ splendor-solis
+cat: textes
+nom: Splendor solis
+alias: Splendeur du soleil, Salomon Trismosin
+an: 1532
+def: Manuscrit alchimique allemand enluminé de 1531-1532, attribué au légendaire Salomon Trismosin, dont les vingt-deux peintures comptent parmi les plus belles de l'alchimie.
+texte: Chaque peinture, encadrée de bordures richement décorées de scènes de la vie quotidienne, illustre une étape de l'œuvre : un roi qui se noie, un homme démembré, un hermaphrodite ailé, et une série de vases de verre où apparaissent tour à tour un dragon, des oiseaux, un paon, une reine blanche et un roi rouge, suivant les couleurs de la [[nigredo]] à la [[rubedo]].
+texte: L'exemplaire le plus ancien est conservé à Berlin, une copie de 1582 à la British Library. Ces images ont été souvent reproduites depuis le XXe siècle.
+voir: emblemes, grand-oeuvre, cauda-pavonis, nigredo, rubedo
+
+@ mutus-liber
+cat: textes
+nom: Mutus liber
+alias: Livre muet, Mutus Liber, Altus
+an: 1677
+def: Livre alchimique publié à La Rochelle en 1677, composé de quinze planches presque sans texte, qui montrent un couple accomplissant ensemble l'œuvre.
+texte: Le titre dit l'essentiel : le « livre muet » enseigne par les seules images. On y voit un homme et une femme recueillir la rosée de mai avec des draps tendus dans un pré, la distiller, la chauffer, et répéter patiemment les opérations, sous le regard de figures célestes. La première planche montre un dormeur et deux anges sonnant de la trompette sur une échelle, rappel du songe de Jacob.
+texte: Signé du pseudonyme « Altus », le livre est attribué à un apothicaire rochelais, Isaac Baulot. Il a nourri l'idée d'une alchimie pratiquée en couple et de la [[rosee|rosée]] comme matière de l'œuvre.
+voir: rosee, alchimie, emblemes, echelle-de-jacob
+
+@ kabbala-denudata
+cat: textes
+nom: Kabbala denudata
+alias: Kabbale dévoilée, Kabbalah Unveiled
+an: 1677
+def: Recueil latin de textes kabbalistiques publié par Christian Knorr von Rosenroth entre 1677 et 1684, principale source chrétienne sur la kabbale jusqu'au XIXe siècle.
+texte: Les deux volumes contiennent un dictionnaire des termes kabbalistiques, des traductions de parties du *[[zohar|Zohar]]*, des extraits des traités d'[[isaac-louria]] et de ses disciples, et des essais sur l'accord de la kabbale et du christianisme.
+texte: Leibniz et Newton l'ont lue. [[samuel-liddell-mathers]] en traduit trois livres en anglais en 1887 sous le titre *The Kabbalah Unveiled* : c'est par elle que la [[golden-dawn|Golden Dawn]] et l'occultisme anglo-saxon ont connu la kabbale.
+voir: knorr-von-rosenroth, zohar, kabbale-chretienne, kabbale-hermetique
+
+@ tetrabiblos
+cat: textes
+nom: Tétrabible
+alias: Tetrabiblos, Quadripartitum, Apotelesmatika
+an: 150
+def: Traité d'astrologie de Claude Ptolémée, écrit au IIe siècle, qui a donné à l'astrologie occidentale ses bases théoriques pour plus de quinze siècles.
+texte: Les « quatre livres » de [[claude-ptolemee|Ptolémée]] commencent par justifier l'astrologie comme une science de la nature, conjecturale mais légitime. Ils exposent ensuite les qualités des planètes et des signes, les [[aspects]], les [[dignites|dignités]], l'astrologie des peuples et des climats — l'[[astrologie-mondiale]] —, puis l'interprétation du [[theme-astral|thème de naissance]] : durée de vie, tempérament, fortune, mariage, enfants.
+texte: Traduit en arabe puis en latin au XIIe siècle, le *Tétrabible* est la référence de l'astrologie savante au Moyen Âge et à la Renaissance, et le reste pour les astrologues « traditionnels » d'aujourd'hui.
+voir: claude-ptolemee, astrologie, theme-astral, aspects, dignites
+
+@ arcanes-celestes
+cat: textes
+nom: Arcanes célestes
+alias: Arcana coelestia, Arcana caelestia
+an: 1749
+def: Œuvre maîtresse d'Emanuel Swedenborg, publiée en latin à Londres de 1749 à 1756, qui révèle verset par verset le sens spirituel de la Genèse et de l'Exode.
+texte: Dans ces huit volumes, [[emanuel-swedenborg|Swedenborg]] soutient que l'Écriture possède, sous le sens littéral, un sens interne fondé sur les [[correspondances]] : chaque mot désigne une réalité spirituelle. Entre les chapitres, il rapporte ce qu'il a vu et entendu dans le monde des esprits, où il dit séjourner depuis des années.
+texte: Publiés anonymement, les *Arcanes célestes* se vendent d'abord très mal. Ils deviennent pourtant le texte de référence de l'Église de la Nouvelle Jérusalem et de tous les lecteurs de Swedenborg.
+voir: emanuel-swedenborg, correspondances, anges
+
+@ monde-primitif
+cat: textes
+nom: Le Monde primitif
+alias: Monde primitif analysé et comparé avec le monde moderne
+an: 1773
+def: Ouvrage en neuf volumes d'Antoine Court de Gébelin (1773-1782), qui veut reconstituer la langue et la civilisation uniques des origines, et où naît la légende égyptienne du tarot.
+texte: [[court-de-gebelin|Court de Gébelin]] y étudie les mythes, les calendriers, les étymologies et les blasons pour montrer que tous dérivent d'une même civilisation primitive, d'origine agricole, dont la sagesse se cache sous les allégories. L'ouvrage, souscrit par le roi et l'élite savante, fait de lui une célébrité.
+texte: Le huitième volume (1781) contient l'essai sur le jeu des [[tarot|tarots]], présenté comme le livre égyptien de Thot, et un texte du comte de Mellet qui associe pour la première fois les vingt-deux atouts aux vingt-deux lettres de l'[[alphabet-hebreu|alphabet hébreu]].
+voir: court-de-gebelin, tarot, egyptosophie, arcanes-majeurs
+
+@ des-erreurs-et-de-la-verite
+cat: textes
+nom: Des erreurs et de la vérité
+alias: Des erreurs et de la vérité, ou les hommes rappelés au principe universel de la science
+an: 1775
+def: Premier livre de Louis-Claude de Saint-Martin, publié en 1775 sous la signature du « Philosophe inconnu », qui oppose à la philosophie des Lumières une doctrine de la chute et de la réintégration de l'homme.
+texte: L'auteur y reprend, à mots couverts, l'enseignement de [[martinez-de-pasqually]] : l'homme, être déchu, a perdu la connaissance de son principe ; les sciences et les institutions humaines sont pleines d'erreurs parce qu'elles l'ignorent. Seul le retour à ce principe permet de comprendre la nature et la société.
+texte: Le livre, à la fois admiré et moqué — Voltaire n'y voit qu'obscurité et absurdité —, établit la réputation de [[louis-claude-de-saint-martin]] et donne son nom au « Philosophe inconnu ».
+voir: louis-claude-de-saint-martin, reintegration, martinisme
+
+@ traite-de-la-reintegration
+cat: textes
+nom: Traité de la réintégration des êtres
+alias: Traité de la réintégration, Traité sur la réintégration des êtres
+an: 1772
+def: Ouvrage inachevé de Martinez de Pasqually, rédigé vers 1771-1773, qui expose sous forme de récit biblique la doctrine des Élus Coëns sur la chute et la réintégration.
+texte: Le *Traité* récrit l'histoire sainte depuis la création : les esprits pervers, déchus pour avoir voulu créer à l'égal de Dieu, sont enfermés dans le monde matériel ; l'homme, d'abord émané pour les surveiller, chute à son tour en voulant les imiter. Toute l'histoire est celle de la [[reintegration]] progressive des êtres dans leur état primitif, à laquelle la [[theurgie]] des Élus Coëns veut contribuer.
+texte: Longtemps réservé aux initiés en copies manuscrites, il n'est publié qu'en 1899. C'est la source principale du [[martinisme]].
+voir: martinez-de-pasqually, reintegration, elus-coens, martinisme
+
+@ dogme-et-rituel
+cat: textes
+nom: Dogme et rituel de la haute magie
+alias: Dogme et rituel, Transcendental Magic
+an: 1854
+def: Ouvrage d'Éliphas Lévi publié en 1854-1856, texte fondateur de l'occultisme, qui présente la magie comme une science de la volonté et de la lumière astrale.
+texte: Le livre se compose de deux parties de vingt-deux chapitres chacune, construites sur le modèle des vingt-deux [[arcanes-majeurs|arcanes majeurs]] du [[tarot]]. Le *Dogme* expose la doctrine : la [[lumiere-astrale]], l'équilibre des contraires, la puissance de la volonté, la [[kabbale]]. Le *Rituel* décrit les instruments, les cérémonies, le [[pentagramme]], l'évocation des esprits.
+texte: Le frontispice du second volume représente le [[baphomet|Baphomet]], figure ailée à tête de bouc devenue une icône. Traduit en anglais par [[arthur-edward-waite]] en 1896, le livre a façonné la magie de la [[golden-dawn|Golden Dawn]].
+voir: eliphas-levi, occultisme, lumiere-astrale, baphomet, pentagramme
+
+@ livre-des-esprits
+cat: textes
+nom: Le Livre des Esprits
+alias: Livre des Esprits, Livre des esprits
+an: 1857
+def: Ouvrage d'Allan Kardec publié en 1857, fondement de la doctrine spirite, rédigé sous forme de questions posées aux esprits et de leurs réponses.
+texte: La première édition comprend plus de cinq cents questions ; la deuxième, de 1860, plus de mille. Elles portent sur Dieu, la création, l'âme, la vie après la mort, la [[reincarnation]], les relations des esprits avec les vivants, la morale et l'avenir de l'humanité. [[allan-kardec|Kardec]] présente les réponses comme recueillies par plusieurs [[medium|médiums]] et vérifiées par recoupement.
+texte: Plusieurs fois réédité chaque année au XIXe siècle, le livre a fait du [[spiritisme]] une doctrine organisée.
+voir: allan-kardec, spiritisme, medium, perisprit
+
+@ isis-devoilee
+cat: textes
+nom: Isis dévoilée
+alias: Isis Unveiled
+an: 1877
+def: Premier grand ouvrage d'Helena Blavatsky, paru en 1877, qui oppose au matérialisme scientifique et au christianisme des Églises la sagesse occulte des Anciens.
+texte: En deux volumes, *Science* et *Théologie*, [[helena-blavatsky|Blavatsky]] rassemble une masse de citations sur la magie, les phénomènes spirites, la kabbale, les religions de l'Inde et de l'Égypte, pour soutenir qu'une même doctrine secrète, connue des initiés de tous les temps, explique ce que la science moderne ignore.
+texte: Le premier tirage s'épuise en dix jours. Des critiques ont relevé dès le XIXe siècle les nombreux emprunts non signalés à d'autres auteurs.
+voir: helena-blavatsky, theosophie, doctrine-secrete
+
+@ doctrine-secrete
+cat: textes
+nom: La Doctrine secrète
+alias: Doctrine secrète, The Secret Doctrine, Stances de Dzyan
+an: 1888
+def: Ouvrage principal d'Helena Blavatsky, publié en 1888, qui expose la cosmologie et l'histoire de l'humanité selon la théosophie, à partir d'un livre tibétain inconnu.
+texte: Le premier volume, *Cosmogenèse*, commente les *Stances de Dzyan*, extraites d'un livre que [[helena-blavatsky|Blavatsky]] dit avoir lu dans un monastère : il décrit la naissance des univers par cycles, de l'Absolu aux mondes manifestés. Le second, *Anthropogenèse*, raconte l'évolution de l'humanité à travers sept « races-racines », dont celles de la [[lemurie|Lémurie]] et de l'[[atlantide|Atlantide]].
+texte: Aucun spécialiste n'a jamais retrouvé de *Livre de Dzyan*. L'ouvrage, immense et touffu, est devenu le texte de référence de la [[theosophie]] ; sa théorie des races a malheureusement été récupérée par l'[[ariosophie]].
+voir: helena-blavatsky, theosophie, cycles-cosmiques, atlantide, lemurie
+
+@ les-grands-inities
+cat: textes
+nom: Les Grands Initiés
+alias: Grands Initiés
+an: 1889
+def: Livre d'Édouard Schuré publié en 1889, qui présente huit fondateurs de religions et de philosophies, de Rama à Jésus, comme les initiés d'une même vérité secrète.
+texte: Rama, Krishna, Hermès, Moïse, Orphée, Pythagore, Platon et Jésus y apparaissent comme les maillons d'une chaîne de révélateurs, chacun ayant reçu dans les sanctuaires de l'[[initiation]] la même doctrine de l'âme et de Dieu, qu'il a adaptée à son peuple. Le style est lyrique, plus romanesque qu'historique.
+texte: Le livre a été l'un des plus grands succès de l'édition ésotérique en français et a fait découvrir à des générations de lecteurs l'idée d'une sagesse universelle.
+voir: edouard-schure, prisca-theologia, initiation, mysteres-antiques
+
+@ kybalion
+cat: textes
+nom: Le Kybalion
+alias: Kybalion, sept principes hermétiques, Trois Initiés
+an: 1908
+def: Petit livre publié à Chicago en 1908 par « Trois Initiés », qui expose sept principes présentés comme ceux de l'hermétisme antique.
+texte: Les sept principes sont ceux du mentalisme (« le Tout est esprit »), de la correspondance, de la vibration, de la polarité, du rythme, de la cause et de l'effet, et du genre. Le livre se présente comme le commentaire d'un recueil de maximes hermétiques très ancien.
+texte: Il est en réalité attribué à William Walker Atkinson, auteur prolifique de la [[nouvelle-pensee|Nouvelle Pensée]], et ne doit presque rien aux textes de l'[[hermetisme]] antique. Il reste très lu dans les milieux ésotériques et dans le développement personnel.
+voir: nouvelle-pensee, hermetisme, correspondances
+
+@ livre-de-la-loi
+cat: textes
+nom: Le Livre de la Loi
+alias: Liber AL vel Legis, Liber Legis, Livre de la Loi, Aiwass, Stèle de la révélation
+an: 1904
+def: Texte fondateur de Thelema, dicté selon Aleister Crowley par une entité nommée Aiwass au Caire en avril 1904.
+texte: Pendant trois jours, du 8 au 10 avril 1904, [[aleister-crowley]] dit avoir écrit sous la dictée d'une voix, chaque jour un chapitre, au nom de trois divinités égyptiennes : Nuit, l'espace infini ; Hadit, le point au centre de chaque être ; Ra-Hoor-Khuit, le dieu guerrier du nouvel éon. L'épisode est lié à une stèle funéraire égyptienne du musée de Boulaq, numérotée 666, que sa femme Rose lui avait désignée.
+texte: Le livre proclame : « Fais ce que tu voudras sera le tout de la Loi » et « Tout homme et toute femme est une étoile ». Crowley mit des années à l'accepter avant d'en faire le cœur de sa religion, [[thelema|Thelema]].
+voir: thelema, aleister-crowley, oto, egyptosophie
+
+@ mystere-des-cathedrales
+cat: textes
+nom: Le Mystère des cathédrales
+alias: Mystère des cathédrales
+an: 1926
+def: Livre de l'alchimiste anonyme Fulcanelli, publié en 1926, qui interprète les sculptures des cathédrales gothiques comme un livre de pierre de l'alchimie.
+texte: [[fulcanelli]] y décrit le portail central de Notre-Dame de Paris, dont les médaillons montreraient les opérations de l'œuvre, celui d'Amiens, la croix d'Hendaye et quelques maisons de Bourges. Il joue sur l'argot des bâtisseurs et la « langue des oiseaux », une lecture des mots par leurs sonorités : « gothique » viendrait de l'« art goth », l'argot.
+texte: Les historiens de l'art ne retiennent pas ses interprétations, mais le livre a connu un succès durable et profondément marqué la vision populaire des cathédrales comme lieux de savoirs cachés.
+voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre
+
+@ regne-de-la-quantite
+cat: textes
+nom: Le Règne de la quantité et les signes des temps
+alias: Règne de la quantité, Le Règne de la quantité
+an: 1945
+def: Ouvrage de René Guénon publié en 1945, qui décrit le monde moderne comme l'aboutissement d'un déclin cyclique, où la qualité cède partout la place à la quantité.
+texte: [[rene-guenon|Guénon]] y soutient que l'humanité, au terme du [[cycles-cosmiques|cycle]] présent, se « solidifie » : le matérialisme, la mesure, l'uniformité et la machine envahissent tout, puis viennent des « fissures » par où s'engouffrent des influences inférieures — il range le [[spiritisme]], le [[new-age|néo-spiritualisme]] et certaines psychologies parmi ces « contre-initiations ».
+texte: Le livre est l'exposé le plus complet de sa critique de la modernité et le texte de référence du [[traditionalisme]].
+voir: rene-guenon, traditionalisme, cycles-cosmiques, tradition-primordiale
+
+@ matin-des-magiciens
+cat: textes
+nom: Le Matin des magiciens
+alias: Matin des magiciens, réalisme fantastique, Planète
+an: 1960
+def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle science, ésotérisme et histoire secrète, et lança en France la vogue du « réalisme fantastique ».
+texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
+texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
+voir: fulcanelli, societe-thule, alchimie, ariosophie

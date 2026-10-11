@@ -1,0 +1,302 @@
+# Ordres et sociétés.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ rose-croix
+cat: societes
+nom: Rose-Croix
+alias: rosicrucien, rosicruciens, rosicrucianisme, Fraternité de la Rose-Croix, Frères de la Rose-Croix, Rose+Croix, manifestes rosicruciens
+an: 1614
+dates: depuis 1614
+def: Fraternité secrète de sages annoncée par trois manifestes allemands de 1614 à 1616, dont l'existence réelle n'a jamais été prouvée, et qui a inspiré depuis de nombreux ordres se réclamant d'elle.
+texte: La *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), la *[[confessio-fraternitatis|Confessio]]* (1615) et les *[[noces-chymiques|Noces chymiques]]* (1616) révèlent l'existence d'une fraternité fondée par [[christian-rosenkreutz]], qui détiendrait une science universelle de la nature et de Dieu et appellerait à une réforme générale du savoir et de la chrétienté. Ces textes, issus du milieu luthérien de Tübingen autour de [[johann-valentin-andreae]], déclenchent une « fureur rosicrucienne » : des centaines de publications, de [[michael-maier]] à [[robert-fludd]], défendent ou attaquent des frères que nul ne rencontre. En 1623, des affiches placardées à Paris annoncent leur présence invisible dans la ville.
+texte: Au XVIIIe siècle, la [[franc-maconnerie]] crée des grades de « Rose-Croix » et un ordre allemand de la [[rose-croix-d-or|Rose-Croix d'or]] pratique l'alchimie. Le XIXe et le XXe siècle voient naître la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], l'[[amorc|AMORC]], la [[rosicrucian-fellowship|Rosicrucian Fellowship]], le [[lectorium-rosicrucianum|Lectorium Rosicrucianum]]… Aucun n'a de filiation historique démontrée avec les manifestes. Leur symbole commun est une [[la-rose|rose]] fleurissant au cœur d'une croix.
+voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix
+
+@ franc-maconnerie
+cat: societes
+nom: Franc-maçonnerie
+alias: franc-maçon, francs-maçons, maçonnerie, maçonnique, loge, loges, obédience, Grand Orient, Grande Loge, Grand Architecte de l'Univers, Hiram
+an: 1717
+dates: depuis le XVIIe siècle ; Grande Loge de Londres en 1717
+def: Société initiatique et fraternelle, organisée en loges, qui utilise les symboles et les outils des bâtisseurs pour enseigner à ses membres un perfectionnement moral et spirituel.
+texte: La franc-maçonnerie dite « spéculative » naît en Écosse et en Angleterre au XVIIe siècle, quand des gentilshommes sont admis dans des loges de maçons de métier ; [[elias-ashmole]] note son initiation en 1646. En 1717, selon la tradition, quatre loges de Londres fondent une Grande Loge ; les *Constitutions* du pasteur James Anderson (1723) en fixent les principes. La maçonnerie se répand en France dans les années 1720-1730 ; le Grand Orient de France est créé en 1773. L'Église catholique la condamne dès 1738.
+texte: Les maçons se réunissent en « tenues », dans un temple orné de symboles inspirés du Temple de [[salomon]] : les [[colonnes-jakin-et-boaz|deux colonnes]], le [[compas-et-equerre|compas et l'équerre]], le pavé mosaïque, l'[[etoile-flamboyante|étoile flamboyante]]. L'[[initiation]] mène par trois [[grades-maconniques|grades]] — apprenti, compagnon, maître —, ce dernier fondé sur la légende de la mort et de la résurrection de l'architecte Hiram ; des « hauts grades » s'y ajoutent selon les rites.
+texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]].
+voir: grades-maconniques, initiation, rite-ecossais-ancien-et-accepte, rite-ecossais-rectifie, compas-et-equerre, templiers
+
+@ grades-maconniques
+cat: societes
+nom: Grades maçonniques
+alias: grades, degrés, apprenti, compagnon, maître, maître maçon, hauts grades, 33e degré, Rose-Croix maçonnique, Kadosh
+def: Degrés successifs de l'initiation maçonnique : les trois grades « bleus » d'apprenti, de compagnon et de maître, puis, selon les rites, une série de hauts grades.
+texte: L'apprenti découvre les symboles et apprend le silence ; le compagnon étudie les outils, les nombres et l'[[etoile-flamboyante|étoile flamboyante]] ; le maître revit symboliquement la mort et la résurrection d'Hiram, l'architecte du Temple assassiné par trois mauvais compagnons. Chaque grade a ses mots, ses signes et ses attouchements de reconnaissance.
+texte: Au XVIIIe siècle se multiplient les hauts grades — Élu, Chevalier d'Orient, Rose-Croix, Kadosh… —, qui développent des légendes templières, chevaleresques, bibliques ou hermétiques. Le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] en compte trente-trois, le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]] jusqu'à quatre-vingt-dix-neuf.
+schema: degres-maconniques
+voir: franc-maconnerie, initiation, rite-ecossais-ancien-et-accepte, oswald-wirth
+
+@ templiers
+cat: societes
+nom: Templiers
+alias: ordre du Temple, chevaliers du Temple, Jacques de Molay, néo-templiers, néotemplarisme, Stricte Observance templière, mythe templier
+an: 1120
+dates: 1120 – 1312 ; mythe depuis le XVIIIe siècle
+def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1312 après un procès retentissant, devenu dans l'imaginaire ésotérique le gardien de secrets transmis à des sociétés ultérieures.
+texte: Fondé par Hugues de Payns pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître Jacques de Molay est brûlé à Paris en 1314.
+texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la Stricte Observance templière, en Allemagne, en fait sa légende fondatrice, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
+voir: baphomet, franc-maconnerie, rite-ecossais-rectifie, graal, ordre-du-temple-solaire
+
+@ rite-ecossais-ancien-et-accepte
+cat: societes
+nom: Rite écossais ancien et accepté
+alias: REAA, rite écossais, Suprême Conseil, trente-trois degrés, aigle bicéphale
+an: 1801
+dates: depuis 1801
+def: Rite maçonnique en trente-trois degrés, organisé à Charleston, aux États-Unis, en 1801, à partir de hauts grades d'origine française, aujourd'hui le plus répandu dans le monde.
+texte: Malgré son nom, le rite n'est pas né en Écosse : ses grades viennent pour l'essentiel d'un « rite de perfection » pratiqué en France au milieu du XVIIIe siècle et transporté aux Antilles puis en Amérique. Le premier Suprême Conseil se constitue à Charleston en 1801 ; le rite arrive en France en 1804.
+texte: Au-delà des trois grades symboliques, ses degrés développent des légendes bibliques, chevaleresques et philosophiques, dont le 18e, Chevalier Rose-Croix, et le 30e, Chevalier Kadosh, chargé de la vengeance des templiers. Son emblème est l'[[aigle-bicephale|aigle à deux têtes]].
+schema: degres-maconniques
+voir: franc-maconnerie, grades-maconniques, aigle-bicephale, rose-croix
+
+@ rite-ecossais-rectifie
+cat: societes
+nom: Régime écossais rectifié
+alias: RER, rite écossais rectifié, Chevaliers bienfaisants de la Cité sainte, CBCS, convent de Wilhelmsbad
+an: 1778
+dates: depuis 1778
+def: Rite maçonnique chrétien fondé à Lyon en 1778 par Jean-Baptiste Willermoz, qui transmet dans ses grades secrets la doctrine de la réintégration de Martinez de Pasqually.
+texte: Au convent des Gaules (Lyon, 1778), puis à celui de Wilhelmsbad (1782), [[jean-baptiste-willermoz]] transforme la Stricte Observance templière : il renonce à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte. Au sommet, une classe secrète, celle des Profès et des Grands Profès, reçoit l'enseignement des [[elus-coens|Élus Coëns]] sur la chute et la [[reintegration]] de l'homme.
+texte: Le rite, conservé en Suisse au XIXe siècle, a été réveillé en France au XXe ; il est pratiqué aujourd'hui par plusieurs obédiences. Il est le principal témoin vivant de l'[[illuminisme]] dans la franc-maçonnerie.
+voir: jean-baptiste-willermoz, elus-coens, reintegration, martinisme, franc-maconnerie, templiers
+
+@ rite-de-memphis-misraim
+cat: societes
+nom: Rite de Memphis-Misraïm
+alias: Memphis-Misraïm, rite de Misraïm, rite de Memphis, maçonnerie égyptienne, Haute Maçonnerie égyptienne
+an: 1881
+dates: Misraïm vers 1805, Memphis en 1838, unis en 1881
+def: Rite maçonnique « égyptien » à très nombreux degrés, issu de la fusion au XIXe siècle des rites de Misraïm et de Memphis, riche en symbolisme hermétique et kabbalistique.
+texte: Le rite de Misraïm (nom hébreu de l'Égypte), apparu en Italie vers 1805 et implanté en France par les frères Bédarride, compte quatre-vingt-dix degrés. Le rite de Memphis est fondé à Paris en 1838 par Jacques-Étienne Marconis de Nègre. Tous deux s'inscrivent dans l'[[egyptosophie]] maçonnique ouverte par la Haute Maçonnerie égyptienne de [[cagliostro]]. Giuseppe Garibaldi les réunit en 1881.
+texte: Le rite a attiré les occultistes, de [[papus]] à [[robert-ambelain]], qui l'ont réorganisé au XXe siècle. Il est pratiqué par plusieurs obédiences en France et en Italie.
+voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus
+
+@ elus-coens
+cat: societes
+nom: Élus Coëns
+alias: Élus Cohens, Chevaliers maçons Élus Coëns de l'Univers, Réau-Croix, ordre des Élus Coëns
+an: 1754
+dates: 1754 – 1781
+def: Ordre maçonnique de hauts grades fondé par Martinez de Pasqually, qui pratiquait une théurgie destinée à réconcilier l'homme avec Dieu.
+texte: Le mot *coën* vient de l'hébreu *cohen*, prêtre. [[martinez-de-pasqually]] organise son ordre en grades successifs, dont le plus élevé est celui de Réau-Croix. Les membres accomplissent, seuls ou en groupe, des opérations aux équinoxes : dans une pièce où des cercles sont tracés et des bougies disposées selon un plan précis, ils récitent des invocations et attendent des « passes », signes lumineux ou sonores de la présence des esprits.
+texte: Après le départ de Martinez pour Saint-Domingue, l'ordre décline et se met en sommeil vers 1781. Sa doctrine survit à travers [[louis-claude-de-saint-martin]] et le [[rite-ecossais-rectifie|Régime écossais rectifié]] ; des groupes en ont repris les opérations au XXe siècle.
+voir: martinez-de-pasqually, theurgie, reintegration, traite-de-la-reintegration, martinisme
+
+@ illumines-de-baviere
+cat: societes
+nom: Illuminés de Bavière
+alias: Illuminati, Illuminaten, ordre des Illuminés, Illuminés
+an: 1776
+dates: 1776 – 1785
+def: Société secrète fondée en 1776 par Adam Weishaupt pour répandre les idées des Lumières, interdite en 1785, et devenue le personnage central de nombreuses théories du complot.
+texte: [[adam-weishaupt]] veut former une élite éclairée qui ferait progresser la raison et la morale contre l'obscurantisme et le despotisme. L'ordre, organisé en grades et en pseudonymes antiques, s'appuie sur les loges maçonniques ; le baron Knigge, qui le rejoint en 1780, en assure l'expansion. Il compte jusqu'à deux mille membres, dont des aristocrates, des fonctionnaires et Goethe.
+texte: Le gouvernement bavarois l'interdit en 1784-1785 et publie ses documents saisis. En 1797, l'abbé Barruel accuse les Illuminés d'avoir fomenté la Révolution française. Depuis, les « Illuminati », sans existence réelle depuis plus de deux siècles, sont accusés de gouverner secrètement le monde dans d'innombrables récits complotistes.
+attention: À ne pas confondre avec l'[[illuminisme]], courant mystique de la même époque, auquel Weishaupt était au contraire hostile.
+voir: adam-weishaupt, franc-maconnerie, illuminisme
+
+@ illumines-d-avignon
+cat: societes
+nom: Illuminés d'Avignon
+alias: Société des Illuminés d'Avignon, Mont-Thabor, Sainte Parole, Grabianka
+an: 1786
+dates: 1786 – vers 1800
+def: Communauté mystique fondée près d'Avignon par Dom Pernety et le comte polonais Grabianka, qui consultait un oracle divin et mêlait Swedenborg, alchimie et dévotion mariale.
+texte: Le groupe formé à Berlin autour de [[dom-pernety]] interroge par des calculs une « Sainte Parole » qui lui dicte ses décisions. Sur son ordre, Pernety et ses disciples, dont le comte Tadeusz Grabianka, s'installent en 1786 dans le Comtat Venaissin, alors terre pontificale. Ils se réunissent sur une hauteur qu'ils nomment Mont-Thabor, lisent [[emanuel-swedenborg|Swedenborg]], pratiquent l'alchimie et vouent un culte particulier à la Vierge.
+texte: La communauté attire des visiteurs de toute l'Europe, traverse la Révolution et se disperse au début du XIXe siècle.
+voir: dom-pernety, illuminisme, emanuel-swedenborg
+
+@ rose-croix-d-or
+cat: societes
+nom: Rose-Croix d'or
+alias: Gold- und Rosenkreuzer, Rose-Croix d'or d'ancien système, Rose-Croix d'Or
+an: 1757
+dates: vers 1757 – vers 1790
+def: Ordre allemand du XVIIIe siècle, organisé en neuf grades, qui pratiquait l'alchimie et la théosophie chrétienne dans le cadre de la franc-maçonnerie.
+texte: Apparu dans les années 1750 et réorganisé en 1777, l'ordre recrute parmi les francs-maçons et se veut l'héritier des [[rose-croix|Rose-Croix]] du XVIIe siècle. Ses membres, répartis en neuf grades calqués sur l'[[arbre-des-sephiroth|arbre des séphiroth]], reçoivent des instructions alchimiques et morales de supérieurs inconnus.
+texte: Il connaît son apogée à la cour de Prusse, où le roi Frédéric-Guillaume II, initié, s'entoure de ministres rose-croix. L'ordre disparaît à la fin du siècle, mais son modèle de grades inspirera la [[golden-dawn|Golden Dawn]].
+voir: rose-croix, franc-maconnerie, alchimie, golden-dawn
+
+@ societas-rosicruciana
+cat: societes
+nom: Societas Rosicruciana in Anglia
+alias: SRIA, Soc. Ros., Societas Rosicruciana
+an: 1866
+dates: depuis 1866
+def: Société rosicrucienne anglaise réservée aux francs-maçons, fondée en 1866, d'où sortirent les fondateurs de la Golden Dawn.
+texte: Fondée par Robert Wentworth Little, la Societas Rosicruciana in Anglia réunit des maçons intéressés par l'étude de l'hermétisme, de la kabbale et des traditions rosicruciennes, selon une hiérarchie de grades inspirée de la [[rose-croix-d-or|Rose-Croix d'or]]. Elle est plus une société d'étude qu'un ordre magique.
+texte: [[william-wynn-westcott]], qui en devient le Mage suprême, [[samuel-liddell-mathers]] et William Robert Woodman y sont membres lorsqu'ils fondent la [[golden-dawn|Golden Dawn]] en 1888. La société existe toujours.
+voir: golden-dawn, rose-croix, william-wynn-westcott, franc-maconnerie
+
+@ ordre-martiniste
+cat: societes
+nom: Ordre martiniste
+alias: ordre martiniste, Supérieur Inconnu, S.I., martinistes
+an: 1891
+dates: depuis 1887-1891
+def: Ordre initiatique fondé par Papus et Augustin Chaboseau à la fin du XIXe siècle, qui se réclame de Louis-Claude de Saint-Martin et transmet le grade de « Supérieur Inconnu ».
+texte: [[papus]] et Augustin Chaboseau affirment avoir reçu chacun, par des chaînes distinctes, une initiation remontant à [[louis-claude-de-saint-martin]] ; ils les mettent en commun et créent en 1891 un Suprême Conseil. L'initiation, transmise de personne à personne, se fait en loge, masqué et vêtu d'une cape, et confère le grade de « Supérieur Inconnu ». L'ordre attire de nombreux occultistes et essaime en Europe et en Amérique.
+texte: Après la mort de Papus, il se divise en de multiples branches, dont celles animées par [[robert-ambelain]]. L'ordre est le cœur du [[martinisme]] moderne.
+voir: martinisme, papus, louis-claude-de-saint-martin, robert-ambelain, occultisme
+
+@ ordre-kabbalistique-de-la-rose-croix
+cat: societes
+nom: Ordre kabbalistique de la Rose-Croix
+alias: OKRC, Rose-Croix kabbalistique
+an: 1888
+dates: depuis 1888
+def: Ordre occultiste fondé à Paris en 1888 par Stanislas de Guaita et Joséphin Péladan, qui délivrait des grades universitaires en kabbale après examen.
+texte: L'ordre est dirigé par un conseil de douze membres, dont six seulement sont connus — parmi eux [[stanislas-de-guaita]], [[josephin-peladan]] et [[papus]]. Il veut être une école sérieuse d'[[occultisme]] : il délivre, après examen, des grades de bachelier, de licencié et de docteur en kabbale.
+texte: Péladan le quitte dès 1890-1891 pour fonder sa [[ordre-de-la-rose-croix-catholique|Rose-Croix catholique]], qu'il veut fidèle à l'Église. L'ordre reste actif sous la direction de Papus et de ses successeurs.
+voir: stanislas-de-guaita, josephin-peladan, papus, rose-croix, occultisme
+
+@ ordre-de-la-rose-croix-catholique
+cat: societes
+nom: Ordre de la Rose-Croix catholique
+alias: Rose-Croix catholique et esthétique du Temple et du Graal, Rose+Croix du Temple et du Graal, Salons de la Rose+Croix
+an: 1891
+dates: 1891 – 1918
+def: Ordre fondé en 1891 par Joséphin Péladan, qui voulait unir la tradition rosicrucienne, la foi catholique et l'art idéaliste.
+texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses Salons de la Rose+Croix, de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'Erik Satie.
+texte: L'ordre, très lié à la personnalité de son fondateur, s'éteint avec lui.
+voir: josephin-peladan, rose-croix, ordre-kabbalistique-de-la-rose-croix, graal
+
+@ eglise-gnostique
+cat: societes
+nom: Église gnostique
+alias: Église gnostique universelle, Église gnostique de France, néo-gnosticisme, Valentin II
+an: 1890
+dates: depuis 1890
+def: Église fondée en France en 1890 par Jules Doinel, qui voulait restaurer les cultes des anciens gnostiques et des cathares, et qui donna naissance à de nombreuses Églises gnostiques modernes.
+texte: [[jules-doinel]], après une vision, proclame la restauration de la [[gnose]] et se fait patriarche sous le nom de Valentin II. L'Église a ses évêques, aux noms empruntés à l'Antiquité gnostique, et ses rites, dont le *consolamentum* des [[catharisme|cathares]]. Elle admet des femmes au rang de « sophias ». [[papus]] et [[rene-guenon]] en ont été évêques.
+texte: Après la défection de Doinel, l'Église se divise ; d'autres Églises gnostiques naissent, souvent liées au [[martinisme]] ou à l'[[oto|Ordo Templi Orientis]], dont la Messe gnostique de Crowley est l'office central.
+voir: jules-doinel, gnose, catharisme, papus, martinisme
+
+@ golden-dawn
+cat: societes
+nom: Golden Dawn
+alias: Ordre hermétique de l'Aube dorée, Hermetic Order of the Golden Dawn, Aube dorée, Stella Matutina, Alpha et Omega, Isis-Urania
+an: 1888
+dates: 1888 – vers 1903 ; ordres dérivés ensuite
+def: Ordre magique fondé à Londres en 1888, qui a réuni en un seul système la kabbale, le tarot, l'astrologie, l'alchimie et la magie cérémonielle, et a façonné tout l'occultisme moderne.
+texte: Fondé par [[william-wynn-westcott]], [[samuel-liddell-mathers]] et William Robert Woodman, membres de la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], l'ordre s'appuie sur un manuscrit chiffré et sur des lettres d'une adepte allemande, probablement inventées. Il organise ses grades sur l'[[arbre-des-sephiroth|arbre des séphiroth]], du Néophyte, à la base, aux grades du Second Ordre, qui s'ouvre en 1892 avec un rituel dans le caveau de [[christian-rosenkreutz]], où l'on pratique la magie.
+texte: La Golden Dawn attire des écrivains et des artistes : le poète W. B. Yeats, l'actrice Florence Farr, les romanciers Arthur Machen et Algernon Blackwood, [[arthur-edward-waite]], [[pamela-colman-smith]] et [[aleister-crowley]]. Les conflits autour de Mathers la font éclater en 1900-1903 en plusieurs ordres, dont la Stella Matutina. Les rituels publiés par [[israel-regardie]] ont permis à son système, du [[rituel-du-pentagramme]] aux [[sentiers|sentiers]] du tarot, de devenir la base de la magie occidentale contemporaine.
+schema: arbre-sephiroth
+voir: samuel-liddell-mathers, william-wynn-westcott, kabbale-hermetique, magie-ceremonielle, israel-regardie, a-a
+
+@ a-a
+cat: societes
+nom: A∴A∴
+alias: AA, Argenteum Astrum, Astre d'argent, Étoile d'argent
+an: 1907
+dates: depuis 1907
+def: Ordre magique fondé en 1907 par Aleister Crowley et George Cecil Jones pour transmettre, de maître à élève, l'enseignement de la Golden Dawn réformé selon Thelema.
+texte: Le nom est généralement développé en *Argenteum Astrum*, « l'Étoile d'argent ». L'ordre reprend les grades de la [[golden-dawn|Golden Dawn]], répartis sur l'[[arbre-des-sephiroth|arbre des séphiroth]], mais sans loges : chaque membre ne connaît que celui qui l'a reçu et celui qu'il reçoit. Les étapes majeures sont l'obtention de la [[ange-gardien|connaissance et de la conversation du saint ange gardien]] et la traversée de l'abîme.
+texte: Les trois points en triangle de son nom imitent l'usage maçonnique des [[trois-points]]. La revue de l'ordre, *The Equinox*, publie de 1909 à 1913 les rituels de la Golden Dawn et les textes de [[aleister-crowley]].
+voir: aleister-crowley, thelema, golden-dawn, ange-gardien, oto
+
+@ oto
+cat: societes
+nom: Ordo Templi Orientis
+alias: OTO, O.T.O., Ordre du Temple de l'Orient, Messe gnostique
+an: 1906
+dates: depuis le début du XXe siècle
+def: Ordre initiatique fondé en Allemagne au début du XXe siècle par Carl Kellner et Theodor Reuss, que dirigea Aleister Crowley et qui est devenu l'organisation principale de Thelema.
+texte: L'industriel Carl Kellner et l'occultiste Theodor Reuss conçoivent un ordre de hauts grades maçonniques qui transmettrait, dans ses degrés supérieurs, un secret de [[magie-sexuelle]]. [[aleister-crowley]] y entre en 1910, prend la tête de la section britannique et, en 1925, celle de l'ordre entier ; il le refond selon les principes de [[thelema|Thelema]] et lui donne un rite public, la Messe gnostique.
+texte: Presque éteint à la mort de Crowley, l'ordre est relancé aux États-Unis dans les années 1970 et compte aujourd'hui des loges dans de nombreux pays.
+voir: aleister-crowley, thelema, magie-sexuelle, a-a, eglise-gnostique
+
+@ societe-theosophique
+cat: societes
+nom: Société théosophique
+alias: Theosophical Society, Adyar, ST, sceau de la Société théosophique
+an: 1875
+dates: depuis 1875
+def: Organisation fondée à New York en 1875 par Helena Blavatsky et Henry Olcott, établie ensuite à Adyar, en Inde, qui a diffusé dans le monde entier la théosophie et les religions orientales.
+texte: La Société se donne trois buts : former un noyau de fraternité universelle sans distinction de race, de croyance, de sexe ou de caste ; encourager l'étude comparée des religions, des philosophies et des sciences ; étudier les lois inexpliquées de la nature et les pouvoirs latents de l'homme. Sa devise est : « Il n'y a pas de religion plus élevée que la vérité. » Son sceau réunit un serpent qui se mord la queue, deux triangles entrelacés, une croix ansée et un svastika.
+texte: Installée en Inde en 1879, à Adyar, près de Madras, à partir de 1882, la Société se divise à plusieurs reprises, notamment après la mort de [[helena-blavatsky]]. Sous la présidence d'[[annie-besant]], elle atteint son apogée dans les années 1920. Elle a profondément influencé l'ésotérisme du XXe siècle, mais aussi le renouveau hindou et bouddhiste et le mouvement national indien.
+voir: theosophie, helena-blavatsky, henry-steel-olcott, annie-besant, ouroboros, hexagramme
+
+@ societe-anthroposophique
+cat: societes
+nom: Société anthroposophique
+alias: Société anthroposophique universelle, Goetheanum, Dornach
+an: 1913
+dates: depuis 1913
+def: Organisation fondée en 1913 par les disciples de Rudolf Steiner après leur rupture avec la Société théosophique, dont le siège est le Goetheanum, à Dornach, en Suisse.
+texte: La section allemande de la [[societe-theosophique|Société théosophique]], dirigée par [[rudolf-steiner]], refuse de suivre [[annie-besant]] dans sa promotion de [[jiddu-krishnamurti]] ; exclue, elle devient la Société anthroposophique. Steiner la refonde à Noël 1923 sous le nom de Société anthroposophique universelle, avec une École de science spirituelle.
+texte: La Société chapeaute aujourd'hui un vaste réseau d'institutions : écoles Steiner-Waldorf, fermes biodynamiques, établissements de soins et entreprises.
+voir: anthroposophie, rudolf-steiner, societe-theosophique
+
+@ amorc
+cat: societes
+nom: AMORC
+alias: Ancien et mystique ordre de la Rose-Croix, Ancient Mystical Order Rosae Crucis, Rosicruciens AMORC
+an: 1915
+dates: depuis 1915
+def: Ordre rosicrucien fondé à New York en 1915 par Harvey Spencer Lewis, devenu le plus grand ordre rosicrucien du monde, qui enseigne par correspondance.
+texte: [[harvey-spencer-lewis]] présente l'AMORC comme l'héritier d'une tradition remontant à l'Égypte du pharaon Akhenaton. Installé à San José, en Californie, l'ordre y construit le parc rosicrucien et un musée égyptien. Il diffuse ses « monographies », leçons hebdomadaires de mysticisme, de métaphysique et de développement personnel, envoyées aux membres par la poste.
+texte: Implanté dans de nombreux pays, dont la France depuis l'entre-deux-guerres, l'AMORC a été au XXe siècle la porte d'entrée de beaucoup de gens dans l'ésotérisme.
+voir: harvey-spencer-lewis, rose-croix, egyptosophie
+
+@ rosicrucian-fellowship
+cat: societes
+nom: Rosicrucian Fellowship
+alias: Fraternité rosicrucienne, Mount Ecclesia, association rosicrucienne
+an: 1909
+dates: depuis 1909
+def: Association fondée en 1909 par Max Heindel, installée à Oceanside, en Californie, qui enseigne un christianisme ésotérique, l'astrologie et la guérison spirituelle.
+texte: [[max-heindel]] la fonde après la publication de sa *Cosmogonie des Rose-Croix*. Elle s'installe en 1911 sur une colline d'Oceanside, Mount Ecclesia, et diffuse par correspondance des cours de philosophie, d'astrologie et de guérison par la prière.
+texte: Elle se distingue de l'[[amorc|AMORC]], avec lequel on la confond souvent, par son orientation chrétienne et théosophique.
+voir: max-heindel, rose-croix, astrologie, rudolf-steiner
+
+@ lectorium-rosicrucianum
+cat: societes
+nom: Lectorium Rosicrucianum
+alias: École internationale de la Rose-Croix d'Or, Rose-Croix d'Or de Haarlem, Jan van Rijckenborgh
+an: 1935
+dates: depuis 1935
+def: Mouvement rosicrucien fondé aux Pays-Bas en 1935, qui enseigne une voie gnostique de libération inspirée des cathares, des Rose-Croix et de l'hermétisme.
+texte: Fondé à Haarlem par Jan Leene, connu sous le nom de Jan van Rijckenborgh, son frère Zwier Willem Leene et Henny Stok-Huizer, dite Catharose de Petri, le Lectorium enseigne que l'homme porte en lui un « atome-étincelle d'esprit », reste du monde divin originel, qui doit renaître par une transformation complète de l'être.
+texte: Ses fondateurs ont publié des commentaires des manifestes rosicruciens, du *Corpus Hermeticum* et de la *Pistis Sophia*. Le mouvement compte des centres dans de nombreux pays.
+voir: rose-croix, gnose, catharisme, corpus-hermetique
+
+@ fraternite-hermetique-de-louxor
+cat: societes
+nom: Fraternité hermétique de Louxor
+alias: H. B. of L., Hermetic Brotherhood of Luxor, Max Théon
+an: 1884
+dates: vers 1884 – 1890
+def: Organisation occultiste apparue en Angleterre vers 1884, qui offrait par correspondance un enseignement pratique, inspiré en partie de la magie sexuelle de Randolph, en réaction à la théosophie.
+texte: Animée par l'Écossais Peter Davidson et l'astrologue Thomas Burgoyne, sous l'autorité d'un mystérieux Max Théon, la Fraternité reproche à la [[theosophie]] son orientalisme et son manque de pratique. Elle propose une initiation occidentale fondée sur des exercices, l'usage de miroirs et des enseignements tirés de [[paschal-beverly-randolph]].
+texte: Éphémère, elle a pourtant transmis des idées importantes à l'[[oto|Ordo Templi Orientis]] et à l'occultisme français ; [[rene-guenon]] s'y est intéressé. Max Théon fonde ensuite en Algérie, à Tlemcen, le Mouvement cosmique.
+voir: paschal-beverly-randolph, magie-sexuelle, theosophie, oto
+
+@ societe-thule
+cat: societes
+nom: Société Thulé
+alias: Thule-Gesellschaft, Thulé, Sebottendorf
+an: 1918
+dates: 1918 – 1925
+def: Association nationaliste et antisémite fondée à Munich en 1918, mêlant études germaniques et occultisme völkisch, dans l'orbite de laquelle naquit le parti nazi.
+texte: Fondée par Rudolf von Sebottendorf, la Société Thulé — du nom d'une île mythique du Grand Nord — se présente comme un cercle d'études de l'antiquité germanique. Elle prolonge l'[[ariosophie]] et combat activement la révolution de 1918-1919 à Munich. Plusieurs futurs dirigeants nazis gravitent autour d'elle, et elle soutient la fondation du Parti ouvrier allemand, qui deviendra le parti nazi.
+texte: La Société disparaît dès le milieu des années 1920. Des livres à sensation, comme *[[matin-des-magiciens|Le Matin des magiciens]]*, en ont fait l'organisation occulte secrète qui aurait dirigé le nazisme, thèse que les historiens rejettent.
+voir: ariosophie, svastika, matin-des-magiciens, runes
+
+@ ordre-du-temple-solaire
+cat: societes
+nom: Ordre du Temple solaire
+alias: OTS, Temple solaire, Luc Jouret, Joseph Di Mambro
+an: 1984
+dates: 1984 – 1997
+def: Groupe néo-templier et apocalyptique fondé en 1984, responsable de la mort de soixante-quatorze personnes en Suisse, au Québec et en France entre 1994 et 1997.
+texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
+texte: En octobre 1994, cinquante-trois personnes meurent en Suisse et au Québec, dans des incendies volontaires et des assassinats présentés comme un « transit » vers l'étoile Sirius ; seize autres en 1995 dans le Vercors, cinq en 1997 au Québec. Cette tragédie a profondément marqué la perception des groupes ésotériques et la lutte contre les dérives sectaires en France.
+voir: templiers, rose-croix

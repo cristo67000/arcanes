@@ -1,0 +1,372 @@
+# Figures — XVIIIe et XIXe siècles.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ emanuel-swedenborg
+cat: figures
+nom: Emanuel Swedenborg
+alias: Swedenborg, swedenborgien, Nouvelle Jérusalem, Église de la Nouvelle Jérusalem
+dates: 1688 – 1772
+an: 1688
+def: Savant suédois devenu visionnaire, qui affirma visiter le ciel et l'enfer et converser avec les anges, et enseigna une doctrine des correspondances entre le monde spirituel et le monde naturel.
+texte: Assesseur au Collège des mines de Suède, Swedenborg publie des travaux de métallurgie, d'anatomie et de cosmologie qui font de lui un savant reconnu. En 1744-1745, une crise de rêves et de visions le détourne de la science : il se dit appelé par le Seigneur à révéler le sens intérieur de l'Écriture. Ses *[[arcanes-celestes|Arcanes célestes]]* (1749-1756) commentent la Genèse et l'Exode verset par verset ; *Du ciel et de l'enfer* (1758) décrit la vie après la mort, où chacun rejoint de lui-même la société d'esprits qui lui ressemble.
+texte: Sa doctrine des [[correspondances]] enseigne que chaque chose naturelle répond à une réalité spirituelle. On racontait qu'il avait vu, à Göteborg, l'incendie qui ravageait Stockholm en 1759 ; Kant consacra à ces prodiges un essai ironique. Après sa mort, ses lecteurs fondent l'Église de la Nouvelle Jérusalem ; son influence s'étend à Balzac, Baudelaire, William Blake et au [[spiritisme]].
+oeuvres: Arcanes célestes (1749-1756) ; Du ciel et de l'enfer (1758) ; La Vraie Religion chrétienne (1771)
+voir: correspondances, arcanes-celestes, illuminisme, anges
+
+@ martinez-de-pasqually
+cat: figures
+nom: Martinez de Pasqually
+alias: Martines de Pasqually, Martinès de Pasqually, Pasqually, Dom Martinès
+dates: vers 1727 – 1774
+an: 1727
+def: Théurge du XVIIIe siècle, fondateur de l'ordre maçonnique des Élus Coëns, dont le Traité de la réintégration des êtres expose une histoire secrète de la chute et du salut.
+texte: Les origines de Martinez de Pasqually restent obscures. À partir de 1754, il fonde dans plusieurs villes françaises, dont Bordeaux, un ordre de hauts grades maçonniques, les [[elus-coens|Chevaliers maçons Élus Coëns de l'Univers]]. Il y enseigne une [[theurgie]] : des opérations rituelles accomplies aux équinoxes, avec cercles, flammes et invocations, au terme desquelles l'opérant espère des « passes », manifestations lumineuses signes de sa réconciliation avec les esprits bons.
+texte: Son *[[traite-de-la-reintegration|Traité de la réintégration des êtres]]*, inachevé, raconte la chute des anges rebelles puis celle de l'homme, d'abord créé pour les tenir en respect, et la voie de sa [[reintegration]]. Il part en 1772 pour Saint-Domingue, où il meurt deux ans plus tard. Ses disciples [[louis-claude-de-saint-martin]] et [[jean-baptiste-willermoz]] ont transmis sa doctrine en la transformant.
+voir: elus-coens, traite-de-la-reintegration, reintegration, martinisme, theurgie
+
+@ louis-claude-de-saint-martin
+cat: figures
+nom: Louis-Claude de Saint-Martin
+alias: Saint-Martin, le Philosophe inconnu, Philosophe inconnu
+dates: 1743 – 1803
+an: 1743
+def: Théosophe français, dit le Philosophe inconnu, disciple de Martinez de Pasqually puis lecteur de Jakob Boehme, qui préféra à la théurgie une voie intérieure de prière.
+texte: Né à Amboise, officier, Saint-Martin devient en 1768 le secrétaire de [[martinez-de-pasqually]] et participe aux opérations des [[elus-coens]]. Il s'en détache peu à peu : « Il faut naître de nouveau », écrit-il, et c'est dans le cœur que l'homme retrouve Dieu, non par des cérémonies. Son premier livre, *[[des-erreurs-et-de-la-verite|Des erreurs et de la vérité]]* (1775), signé « un Ph… Inc… », connaît un grand retentissement.
+texte: À Strasbourg, en 1788, il découvre [[jakob-boehme]], qu'il appelle son « second maître » et qu'il traduit. Ses ouvrages — *L'Homme de désir*, *Le Ministère de l'homme-esprit* — ont marqué Joseph de Maistre, Balzac et les romantiques. Le [[martinisme]] moderne se réclame de lui, bien qu'il n'ait fondé aucun ordre.
+oeuvres: Des erreurs et de la vérité (1775) ; Tableau naturel des rapports qui existent entre Dieu, l'homme et l'univers (1782) ; L'Homme de désir (1790) ; Le Ministère de l'homme-esprit (1802)
+voir: martinisme, martinez-de-pasqually, jakob-boehme, reintegration, des-erreurs-et-de-la-verite
+
+@ jean-baptiste-willermoz
+cat: figures
+nom: Jean-Baptiste Willermoz
+alias: Willermoz, Chevaliers bienfaisants de la Cité sainte
+dates: 1730 – 1824
+an: 1730
+def: Négociant lyonnais et franc-maçon, disciple de Martinez de Pasqually, qui fit passer la doctrine des Élus Coëns dans le Régime écossais rectifié.
+texte: Marchand de soieries à Lyon, Willermoz consacre sa vie à la [[franc-maconnerie]]. Initié aux [[elus-coens|Élus Coëns]] en 1767, il en recueille l'enseignement, mais l'ordre décline après le départ de son fondateur. Au convent des Gaules, réuni à Lyon en 1778, puis à celui de Wilhelmsbad, en 1782, il réforme la Stricte Observance templière allemande et crée l'ordre des Chevaliers bienfaisants de la Cité sainte : c'est le [[rite-ecossais-rectifie|Régime écossais rectifié]], dont les grades secrets transmettent la doctrine de la [[reintegration]].
+texte: Dans les années 1780, il se passionne pour le [[magnetisme-animal|magnétisme]] et recueille les messages d'une somnambule, l'« Agent inconnu ». Il traverse la Révolution et meurt à Lyon presque centenaire, en ayant veillé jusqu'au bout sur son rite.
+voir: rite-ecossais-rectifie, elus-coens, martinez-de-pasqually, reintegration, templiers
+
+@ cagliostro
+cat: figures
+nom: Cagliostro
+alias: comte de Cagliostro, Giuseppe Balsamo, Alessandro di Cagliostro, Grand Cophte
+dates: 1743 – 1795
+an: 1743
+def: Aventurier sicilien, guérisseur et fondateur d'une maçonnerie égyptienne, célèbre dans toute l'Europe des Lumières avant de mourir dans une prison pontificale.
+texte: Né à Palerme sous le nom de Giuseppe Balsamo — identification contestée par ses défenseurs mais aujourd'hui admise —, il parcourt l'Europe avec son épouse Lorenza sous le titre de comte de Cagliostro, soignant gratuitement les pauvres, vendant élixirs et promesses de régénération. En 1784, il fonde à Lyon la loge mère de sa « Haute Maçonnerie égyptienne », dont il est le Grand Cophte, et qui admet aussi les femmes.
+texte: Compromis dans l'affaire du Collier de la reine, il est embastillé puis acquitté en 1786 et expulsé de France. Arrêté à Rome en 1789 par l'Inquisition pour franc-maçonnerie, il est condamné à mort, peine commuée en prison à vie ; il meurt dans la forteresse de San Leo. Goethe, Schiller et Alexandre Dumas l'ont mis en scène.
+voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie
+
+@ comte-de-saint-germain
+cat: figures
+nom: Comte de Saint-Germain
+alias: Saint-Germain, le comte immortel, maître Rakoczi
+dates: naissance inconnue – 1784
+an: 1700
+def: Aventurier et virtuose d'origine inconnue, familier de Louis XV, qui laissait entendre qu'il avait vécu plusieurs siècles et devint pour les théosophes un maître immortel.
+texte: Apparu à la cour de France vers 1758, le comte de Saint-Germain y fascine par sa conversation, sa connaissance des langues, sa musique et ses secrets de teinture et de pierres précieuses ; Louis XV le loge au château de Chambord et lui confie une mission diplomatique officieuse en Hollande. Il se garde de démentir les rumeurs qui lui prêtent un âge prodigieux et la connaissance de l'[[elixir-de-longue-vie|élixir de longue vie]].
+texte: Il meurt en 1784 dans le Schleswig, chez le prince Charles de Hesse-Cassel, passionné d'ésotérisme. Sa légende ne s'arrête pas là : on prétend l'avoir revu ensuite, et la [[theosophie]] fait de lui l'un des [[maitres-de-sagesse|Maîtres de sagesse]], que les mouvements issus d'[[alice-bailey]] et le mouvement « I AM » vénèrent encore.
+voir: cagliostro, maitres-de-sagesse, elixir-de-longue-vie
+
+@ franz-anton-mesmer
+cat: figures
+nom: Franz Anton Mesmer
+alias: Mesmer, mesmérisme, baquet de Mesmer
+dates: 1734 – 1815
+an: 1734
+def: Médecin allemand, inventeur du magnétisme animal, théorie d'un fluide universel dont la circulation dans le corps commanderait la santé.
+texte: Docteur de la faculté de Vienne en 1766 avec une thèse sur l'influence des planètes sur le corps humain, Mesmer commence par soigner avec des aimants, puis conclut que la force curative vient de lui-même. Chassé de Vienne après l'échec du traitement d'une jeune pianiste aveugle, il s'installe à Paris en 1778 et publie l'année suivante son *Mémoire sur la découverte du magnétisme animal*. Le succès de ses séances collectives autour du « baquet » est immense ; ses disciples fondent la Société de l'Harmonie.
+texte: Le rapport de la commission royale de 1784 conclut à l'inexistence du fluide. Mesmer quitte la France et finit sa vie en Suisse et au bord du lac de Constance, mais le [[magnetisme-animal|magnétisme]] continue sans lui, transformé par le marquis de [[puysegur]].
+voir: magnetisme-animal, puysegur, lumiere-astrale, od
+
+@ puysegur
+cat: figures
+nom: Marquis de Puységur
+alias: Puységur, Armand de Puységur, Armand-Marie-Jacques de Chastenet, somnambulisme magnétique
+dates: 1751 – 1825
+an: 1751
+def: Officier et disciple de Mesmer, qui découvrit en 1784 le « somnambulisme magnétique », ancêtre de l'hypnose.
+texte: Dans son domaine de Buzancy, près de Soissons, le marquis de Puységur magnétise en 1784 un jeune paysan, Victor Race. Au lieu des convulsions attendues, Victor tombe dans un sommeil paisible où il parle avec aisance, répond aux questions, décrit sa maladie et en prescrit le remède. Puységur soigne bientôt les villageois sous un orme qu'il a « magnétisé ».
+texte: Pour lui, ce n'est pas un fluide qui agit mais la volonté bienveillante du magnétiseur : « Croyez et veuillez. » Ses observations ouvrent la voie à l'hypnose, à la psychologie des états dissociés et, par les visions de certains somnambules, au [[spiritisme]].
+voir: magnetisme-animal, franz-anton-mesmer, medium, voyance
+
+@ court-de-gebelin
+cat: figures
+nom: Antoine Court de Gébelin
+alias: Court de Gébelin, Gébelin, Monde primitif, Livre de Thot
+dates: 1725 – 1784
+an: 1725
+def: Pasteur protestant et érudit français, auteur du Monde primitif, qui affirma le premier que le tarot était un livre de sagesse des anciens Égyptiens.
+texte: Fils d'un pasteur du Désert, Court de Gébelin consacre sa vie à une œuvre immense, *[[monde-primitif|Le Monde primitif]]* (neuf volumes, 1773-1782), qui veut retrouver la langue, la religion et la civilisation uniques de l'humanité des origines à travers les mythes, les étymologies et les symboles. Franc-maçon de la loge des Neuf Sœurs, il défend aussi [[franz-anton-mesmer|Mesmer]].
+texte: Dans le huitième volume (1781), il raconte avoir découvert, en voyant jouer au [[tarot]], que ses figures étaient les restes d'un livre égyptien, le *Livre de Thot*, sauvé de l'incendie des temples. Cette thèse, sans aucun fondement — le tarot apparaît en Italie au XVe siècle —, fonde le tarot ésotérique : [[etteilla]] puis [[eliphas-levi]] la reprennent.
+voir: monde-primitif, tarot, egyptosophie, etteilla
+
+@ etteilla
+cat: figures
+nom: Etteilla
+alias: Jean-Baptiste Alliette, Alliette, tarot d'Etteilla, Grand Etteilla
+dates: 1738 – 1791
+an: 1738
+def: Cartomancien parisien, premier professionnel de la divination par les cartes, qui publia le premier jeu de tarot conçu pour la divination.
+texte: Jean-Baptiste Alliette, marchand de graines puis professeur d'algèbre, signe ses livres de son nom à l'envers. En 1770, il publie une méthode pour tirer les cartes avec un jeu ordinaire de trente-deux cartes, première exposition imprimée de la [[cartomancie]]. Après la parution du *Monde primitif* de [[court-de-gebelin]], il adopte la thèse égyptienne du [[tarot]] et prétend même l'avoir découverte avant lui.
+texte: En 1789, il fait graver un tarot « rectifié », dont il réorganise l'ordre et les figures pour la divination, et fonde une Société des interprètes du Livre de Thot. Ses jeux, les « Grand Etteilla », sont encore édités aujourd'hui.
+voir: cartomancie, tarot, court-de-gebelin, divination
+
+@ dom-pernety
+cat: figures
+nom: Dom Pernety
+alias: Antoine-Joseph Pernety, Pernety, Dictionnaire mytho-hermétique
+dates: 1716 – 1796
+an: 1716
+def: Bénédictin français, érudit et alchimiste, auteur du Dictionnaire mytho-hermétique, qui fonda à Avignon la communauté des Illuminés d'Avignon.
+texte: Moine de la congrégation de Saint-Maur, Pernety accompagne Bougainville aux îles Malouines en 1763-1764 comme aumônier et naturaliste. En 1758, il publie les *Fables égyptiennes et grecques dévoilées*, où il lit toute la mythologie comme une allégorie de l'[[alchimie]], et un *Dictionnaire mytho-hermétique*, précieux répertoire du vocabulaire alchimique. Il quitte son ordre et devient bibliothécaire de Frédéric II à Berlin, où il lit [[emanuel-swedenborg|Swedenborg]] et traduit ses œuvres.
+texte: À Berlin, il anime un groupe qui consulte un oracle, la « Sainte Parole », par une sorte de [[kabbale]] numérique. Revenu en France, il installe sa communauté près d'Avignon en 1786 : ce sont les [[illumines-d-avignon]]. Il meurt pendant la Révolution.
+oeuvres: Fables égyptiennes et grecques dévoilées (1758) ; Dictionnaire mytho-hermétique (1758)
+voir: illumines-d-avignon, alchimie, emanuel-swedenborg, illuminisme
+
+@ karl-von-eckartshausen
+cat: figures
+nom: Karl von Eckartshausen
+alias: Eckartshausen, La Nuée sur le sanctuaire
+dates: 1752 – 1803
+an: 1752
+def: Écrivain bavarois, conseiller de la cour de Munich, auteur de La Nuée sur le sanctuaire, qui décrit une Église intérieure invisible réunissant les vrais initiés.
+texte: Archiviste et censeur à Munich, Eckartshausen appartient brièvement aux [[illumines-de-baviere|Illuminés de Bavière]] avant de s'en détacher et de les combattre. Auteur prolifique, il écrit sur la magie, les nombres, la chimie et la morale, et s'inscrit dans la tradition de la [[theosophie-chretienne|théosophie chrétienne]].
+texte: Sa *Nuée sur le sanctuaire* (1802), traduite en français et en russe, affirme qu'il existe, depuis l'origine, une communauté intérieure de ceux que Dieu illumine, une Église invisible dont les Églises visibles ne sont que l'enveloppe. Ce livre a profondément marqué les milieux mystiques russes, et l'idée d'une fraternité intérieure se retrouve dans l'[[occultisme]] et la [[theosophie]].
+voir: theosophie-chretienne, illuminisme, maitres-de-sagesse
+
+@ adam-weishaupt
+cat: figures
+nom: Adam Weishaupt
+alias: Weishaupt, Spartacus
+dates: 1748 – 1830
+an: 1748
+def: Professeur de droit à Ingolstadt, fondateur en 1776 de la société secrète des Illuminés de Bavière, au cœur de nombreuses théories du complot.
+texte: Formé par les jésuites, Weishaupt enseigne le droit canon à l'université d'Ingolstadt. Le 1er mai 1776, il fonde avec quelques étudiants l'ordre des [[illumines-de-baviere|Illuminés]], qui veut diffuser les idées des Lumières, la raison et la vertu, en s'infiltrant dans les loges maçonniques. Il prend le nom d'ordre de « Spartacus ».
+texte: Interdit en Bavière en 1784-1785, l'ordre disparaît ; Weishaupt finit sa vie à Gotha. Mais des écrivains contre-révolutionnaires, comme l'abbé Barruel, lui attribuent la Révolution française, et sa société devient, jusqu'à nos jours, le personnage central d'innombrables récits complotistes sans fondement.
+voir: illumines-de-baviere, franc-maconnerie, illuminisme
+
+@ fabre-d-olivet
+cat: figures
+nom: Antoine Fabre d'Olivet
+alias: Fabre d'Olivet, La Langue hébraïque restituée
+dates: 1767 – 1825
+an: 1767
+def: Écrivain et philologue français, qui prétendit retrouver le sens caché de la langue hébraïque et de l'histoire humaine, et fut l'un des pères de l'occultisme.
+texte: Poète, auteur dramatique et compositeur, Fabre d'Olivet publie en 1813 une traduction commentée des *Vers dorés* de Pythagore, puis *La Langue hébraïque restituée* (1815-1816) : selon lui, chaque lettre hébraïque porte un sens hiéroglyphique, et le texte de la Genèse, ainsi lu, révèle une cosmogonie que Moïse aurait apprise des prêtres égyptiens. Il dit aussi avoir guéri un jeune sourd par une méthode secrète.
+texte: Son *Histoire philosophique du genre humain* (1822) décrit l'histoire comme le jeu de trois forces : la Providence, la Destinée et la Volonté humaine. [[saint-yves-d-alveydre]], [[eliphas-levi]] et [[papus]] ont beaucoup emprunté à cette œuvre singulière.
+voir: occultisme, saint-yves-d-alveydre, pythagorisme, alphabet-hebreu
+
+@ mademoiselle-lenormand
+cat: figures
+nom: Mademoiselle Lenormand
+alias: Marie-Anne Lenormand, Lenormand, la sibylle du faubourg Saint-Germain
+dates: 1772 – 1843
+an: 1772
+def: Cartomancienne parisienne, la plus célèbre voyante de la Révolution et de l'Empire, dont le nom fut donné après sa mort à un jeu de cartes divinatoires.
+texte: Née à Alençon, Marie-Anne Lenormand ouvre à Paris un cabinet de divination qui attire une clientèle de plus en plus illustre. Elle raconte avoir prédit leur destin aux révolutionnaires et compte parmi ses fidèles l'impératrice Joséphine. Elle publie ses souvenirs, se fait emprisonner plusieurs fois et laisse à sa mort une fortune considérable.
+texte: Le [[jeu-lenormand|« Petit Lenormand »]], jeu de trente-six cartes illustrées, a été publié en Allemagne en 1846, trois ans après sa mort, en utilisant sa célébrité : rien n'indique qu'elle s'en soit jamais servie. Il reste l'un des oracles les plus employés en [[cartomancie]].
+voir: cartomancie, jeu-lenormand, voyance, divination
+
+@ eliphas-levi
+cat: figures
+nom: Éliphas Lévi
+alias: Eliphas Levi, Alphonse-Louis Constant, abbé Constant, Lévi
+dates: 1810 – 1875
+an: 1810
+def: Écrivain français, ancien séminariste et socialiste, dont le Dogme et rituel de la haute magie fonda l'occultisme moderne.
+texte: Fils d'un cordonnier parisien, Alphonse-Louis Constant entre au séminaire, devient diacre mais renonce à la prêtrise. Socialiste et mystique, il publie des pamphlets qui lui valent la prison. Vers 1850, il se tourne vers la [[kabbale]] et la [[magie]], prend le nom hébraïsé d'Éliphas Lévi et publie le *[[dogme-et-rituel|Dogme et rituel de la haute magie]]* (1854-1856), suivi d'une *Histoire de la magie* (1860) et de *La Clef des grands mystères* (1861).
+texte: Lévi présente la magie comme une science de la volonté appliquée à la [[lumiere-astrale]], agent universel qu'il identifie au fluide de Mesmer. Il établit la correspondance entre les vingt-deux [[arcanes-majeurs|arcanes majeurs]] du [[tarot]] et les vingt-deux lettres de l'[[alphabet-hebreu|alphabet hébreu]], et dessine le célèbre [[baphomet|Baphomet]]. À Londres, en 1854, il dit avoir évoqué l'esprit d'[[apollonius-de-tyane|Apollonius de Tyane]]. Son œuvre a inspiré l'occultisme français, la [[golden-dawn|Golden Dawn]] et [[aleister-crowley]], né l'année de sa mort et qui se disait sa réincarnation.
+oeuvres: Dogme et rituel de la haute magie (1854-1856) ; Histoire de la magie (1860) ; La Clef des grands mystères (1861)
+voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme
+
+@ allan-kardec
+cat: figures
+nom: Allan Kardec
+alias: Hippolyte Léon Denizard Rivail, Rivail, Kardec
+dates: 1804 – 1869
+an: 1804
+def: Pédagogue lyonnais qui, sous le pseudonyme d'Allan Kardec, codifia la doctrine du spiritisme à partir des messages reçus par des médiums.
+texte: Élève du pédagogue suisse Pestalozzi, Hippolyte Rivail tient à Paris une école et publie des manuels d'arithmétique et de grammaire. En 1855, d'abord sceptique, il assiste à des séances de [[tables-tournantes]] et entreprend d'interroger méthodiquement les esprits. Il publie en 1857, sous un nom qu'il dit avoir porté dans une vie antérieure chez les druides, *[[livre-des-esprits|Le Livre des Esprits]]*, puis fonde la *Revue spirite* (1858).
+texte: Suivent *Le Livre des médiums* (1861), *L'Évangile selon le spiritisme* (1864), *Le Ciel et l'Enfer* (1865) et *La Genèse* (1868). Sa tombe au cimetière du Père-Lachaise, en forme de dolmen, est l'une des plus fleuries de Paris, et sa doctrine compte des millions d'adeptes au Brésil.
+oeuvres: Le Livre des Esprits (1857) ; Le Livre des médiums (1861) ; L'Évangile selon le spiritisme (1864)
+voir: spiritisme, livre-des-esprits, medium, perisprit, reincarnation
+
+@ helena-blavatsky
+cat: figures
+nom: Helena Blavatsky
+alias: Helena Petrovna Blavatsky, Madame Blavatsky, HPB, H.P.B., Blavatsky
+dates: 1831 – 1891
+an: 1831
+def: Aventurière et écrivaine d'origine russe, cofondatrice de la Société théosophique, dont les livres affirment révéler la sagesse secrète de maîtres orientaux.
+texte: Née à Iekaterinoslav, dans une famille de la noblesse, Helena von Hahn se marie à dix-sept ans avec un fonctionnaire, Nikifor Blavatsky, qu'elle quitte aussitôt. Elle dit avoir ensuite voyagé pendant des années à travers le monde et séjourné au Tibet auprès de ses [[maitres-de-sagesse|Maîtres]] ; ces voyages sont mal documentés. Arrivée à New York en 1873, elle rencontre [[henry-steel-olcott]] et fonde avec lui, en 1875, la [[societe-theosophique|Société théosophique]].
+texte: *[[isis-devoilee|Isis dévoilée]]* (1877) et *[[doctrine-secrete|La Doctrine secrète]]* (1888) exposent sa [[theosophie]]. Installée en Inde en 1879, elle produit des phénomènes — lettres des Maîtres tombant du plafond — qu'un enquêteur de la Society for Psychical Research, Richard Hodgson, déclare frauduleux en 1885. Elle s'établit alors à Londres, où elle meurt. Personnalité fascinante et controversée, elle a joué un rôle majeur dans la diffusion des idées orientales en Occident.
+oeuvres: Isis dévoilée (1877) ; La Doctrine secrète (1888) ; La Clef de la théosophie (1889) ; La Voix du silence (1889)
+voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott
+
+@ henry-steel-olcott
+cat: figures
+nom: Henry Steel Olcott
+alias: Olcott, colonel Olcott
+dates: 1832 – 1907
+an: 1832
+def: Avocat et journaliste américain, cofondateur et premier président de la Société théosophique, artisan du renouveau bouddhiste au Sri Lanka.
+texte: Ancien colonel de la guerre de Sécession, Olcott enquête comme journaliste sur les phénomènes spirites quand il rencontre [[helena-blavatsky]] en 1874. Président de la [[societe-theosophique|Société théosophique]] de sa fondation à sa mort, il en est l'organisateur, tandis que Blavatsky en est l'inspiratrice.
+texte: Converti au bouddhisme à Ceylan en 1880, il publie un *Catéchisme bouddhiste* (1881), fonde des écoles bouddhistes et contribue à créer le drapeau bouddhiste. Il est encore honoré au Sri Lanka comme l'un des artisans du réveil de la religion face aux missions chrétiennes.
+voir: helena-blavatsky, societe-theosophique, theosophie, annie-besant
+
+@ annie-besant
+cat: figures
+nom: Annie Besant
+alias: Besant
+dates: 1847 – 1933
+an: 1847
+def: Militante britannique, libre-penseuse puis théosophe, présidente de la Société théosophique, qui présenta le jeune Krishnamurti comme le futur instructeur du monde et milita pour l'autonomie de l'Inde.
+texte: Après avoir rompu avec son mari pasteur, Annie Besant milite pour la libre pensée, le contrôle des naissances, le socialisme fabien et les droits des ouvrières. En 1889, chargée de rendre compte de *La Doctrine secrète*, elle se convertit à la [[theosophie]] et devient la disciple de [[helena-blavatsky]]. Elle préside la [[societe-theosophique|Société théosophique]] de 1907 à sa mort.
+texte: Avec Charles Webster Leadbeater, elle voit dans un jeune Indien, [[jiddu-krishnamurti]], le véhicule du futur « Instructeur du monde » ; Krishnamurti refusera ce rôle en 1929. Installée en Inde, elle fonde en 1916 une ligue pour l'autonomie du pays et préside en 1917 le Congrès national indien.
+voir: societe-theosophique, jiddu-krishnamurti, theosophie, helena-blavatsky
+
+@ paschal-beverly-randolph
+cat: figures
+nom: Paschal Beverly Randolph
+alias: P. B. Randolph, Randolph, Eulis
+dates: 1825 – 1875
+an: 1825
+def: Médecin, médium et écrivain afro-américain, fondateur d'une fraternité rosicrucienne et premier théoricien moderne de la magie sexuelle.
+texte: Né à New York, orphelin, Randolph est marin, puis médium à succès, médecin et conférencier ; il milite pour l'abolition de l'esclavage. Après des voyages en Europe et en Orient, il fonde aux États-Unis une Fraternité de la Rose-Croix et publie des ouvrages sur les miroirs magiques, le haschich et surtout les pouvoirs spirituels de l'union sexuelle, qu'il appelle les « mystères d'Eulis ».
+texte: Pour lui, l'amour conjugal, vécu dans une intention commune, peut ouvrir l'âme aux mondes supérieurs. Ses idées, transmises par la [[fraternite-hermetique-de-louxor|Fraternité hermétique de Louxor]], influencent l'[[oto|Ordo Templi Orientis]] et l'ensemble de la [[magie-sexuelle]] occidentale. Il meurt à cinquante ans, probablement par suicide.
+voir: magie-sexuelle, fraternite-hermetique-de-louxor, miroir-magique, rose-croix
+
+@ anna-kingsford
+cat: figures
+nom: Anna Kingsford
+alias: Kingsford, Hermetic Society, La Voie parfaite
+dates: 1846 – 1888
+an: 1846
+def: Médecin et mystique anglaise, militante contre la vivisection, qui fonda la Société hermétique et défendit un christianisme ésotérique et féminin.
+texte: Diplômée de la faculté de médecine de Paris en 1880, l'une des premières femmes médecins d'Angleterre, Anna Kingsford combat la vivisection et prône le végétarisme. Avec Edward Maitland, elle publie *La Voie parfaite* (1882), lecture ésotérique du christianisme fondée sur ses visions, où la figure divine féminine tient une grande place.
+texte: Présidente en 1883 de la loge londonienne de la [[societe-theosophique|Société théosophique]], elle s'en sépare l'année suivante pour fonder la Société hermétique, qui veut rendre à l'Occident sa propre tradition plutôt que d'aller la chercher en Orient. Plusieurs futurs fondateurs de la [[golden-dawn|Golden Dawn]] en sont membres.
+voir: golden-dawn, theosophie, hermetisme, sophia
+
+@ saint-yves-d-alveydre
+cat: figures
+nom: Saint-Yves d'Alveydre
+alias: Alexandre Saint-Yves, marquis de Saint-Yves d'Alveydre, Archéomètre, Mission de l'Inde
+dates: 1842 – 1909
+an: 1842
+def: Écrivain français, théoricien de la synarchie, qui décrivit un royaume souterrain, l'Agartha, gardien de la tradition primordiale.
+texte: Après une jeunesse difficile, Alexandre Saint-Yves épouse une riche comtesse et prend le titre de marquis d'Alveydre. Disciple posthume de [[fabre-d-olivet]], il publie une série de « missions » qui exposent sa doctrine de la [[synarchie]], gouvernement harmonieux de la société par trois pouvoirs, spirituel, politique et économique, opposé à l'« anarchie » des régimes modernes.
+texte: Dans *Mission de l'Inde* (rédigé en 1886, publié en 1910), il décrit l'[[agartha|Agartha]], centre souterrain où un pontife suprême garderait la sagesse de l'humanité. Il consacre ses dernières années à l'*Archéomètre*, instrument destiné à retrouver les proportions universelles. [[papus]] le tenait pour son maître intellectuel.
+voir: synarchie, agartha, fabre-d-olivet, papus, tradition-primordiale
+
+@ stanislas-de-guaita
+cat: figures
+nom: Stanislas de Guaita
+alias: Guaita, marquis de Guaita, Essais de sciences maudites
+dates: 1861 – 1897
+an: 1861
+def: Poète et occultiste lorrain, fondateur de l'Ordre kabbalistique de la Rose-Croix, auteur des Essais de sciences maudites.
+texte: Marquis lorrain, poète du symbolisme, Stanislas de Guaita découvre [[eliphas-levi]] et se consacre à l'[[occultisme]]. Il fonde en 1888 avec [[josephin-peladan]] l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]] et rassemble une bibliothèque occulte réputée. Ses *Essais de sciences maudites* (*Au seuil du mystère*, *Le Temple de Satan*, *La Clef de la magie noire*) étudient la magie noire pour mieux la combattre.
+texte: Il est l'un des protagonistes de la « guerre des envoûtements » qui l'oppose à l'abbé Boullan, prêtre défroqué accusé de pratiques sexuelles rituelles : la presse accuse Guaita d'avoir tué Boullan par magie, mort en 1893, et un duel s'ensuit. Usant de morphine, il meurt à trente-six ans.
+voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement
+
+@ josephin-peladan
+cat: figures
+nom: Joséphin Péladan
+alias: Péladan, Sâr Péladan, Sâr Mérodack, Salons de la Rose+Croix
+dates: 1858 – 1918
+an: 1858
+def: Écrivain et critique d'art lyonnais, dit le Sâr, fondateur de l'Ordre de la Rose-Croix catholique et organisateur des Salons de la Rose+Croix.
+texte: Romancier de la décadence — *Le Vice suprême* (1884) ouvre un long cycle romanesque, *La Décadence latine* —, Péladan se pose en mage, prend le titre assyrien de « Sâr » et s'habille de façon spectaculaire. Cofondateur en 1888 de l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], il le quitte pour fonder en 1891 un ordre rival, la [[ordre-de-la-rose-croix-catholique|Rose-Croix catholique]], qui se veut fidèle à l'Église et voué à l'art.
+texte: De 1892 à 1897, il organise à Paris six Salons de la Rose+Croix, où exposent des peintres symbolistes et dont la musique est un temps confiée à Erik Satie. Il y prône un art idéaliste, religieux et mystique, contre le réalisme et l'impressionnisme.
+voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal
+
+@ papus
+cat: figures
+nom: Papus
+alias: Gérard Encausse, Encausse, docteur Papus
+dates: 1865 – 1916
+an: 1865
+def: Médecin et occultiste français, le grand organisateur de l'occultisme de la Belle Époque, fondateur de l'Ordre martiniste et auteur de manuels très lus.
+texte: Né en Espagne, Gérard Encausse prend le nom d'un génie de la médecine trouvé dans le *Nuctéméron* d'Apollonius publié par [[eliphas-levi]]. Étudiant en médecine, il publie *Le Tarot des Bohémiens* (1889) et le *Traité méthodique de science occulte* (1891), fonde la revue *L'Initiation* (1888), le Groupe indépendant d'études ésotériques et, avec Augustin Chaboseau, l'[[ordre-martiniste|Ordre martiniste]]. Il est aussi membre du suprême conseil de l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]].
+texte: Disciple du guérisseur lyonnais Maître Philippe, il se rend plusieurs fois en Russie, à la cour de Nicolas II. Médecin militaire pendant la Grande Guerre, il meurt de la tuberculose en 1916. Ses ouvrages de vulgarisation, souvent réédités, ont fixé pour un siècle l'image française des « sciences occultes ».
+oeuvres: Le Tarot des Bohémiens (1889) ; Traité méthodique de science occulte (1891) ; Traité élémentaire de magie pratique (1893)
+voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre
+
+@ jules-doinel
+cat: figures
+nom: Jules Doinel
+alias: Doinel, Valentin II, Église gnostique
+dates: 1842 – 1903
+an: 1842
+def: Archiviste français, fondateur en 1890 de l'Église gnostique, qui prétendait restaurer la religion des anciens gnostiques et des cathares.
+texte: Archiviste du Loiret à Orléans, Jules Doinel découvre une charte cathare et se passionne pour l'hérésie. En 1888, au cours d'une séance spirite, il dit recevoir de l'Éon Jésus la mission de restaurer la [[gnose]]. Il fonde l'[[eglise-gnostique|Église gnostique]], se fait appeler Valentin II et sacre des évêques, parmi lesquels [[papus]].
+texte: En 1895, il renie son œuvre, revient au catholicisme et publie sous un pseudonyme un pamphlet dénonçant la franc-maçonnerie comme luciférienne, dans le sillage de la mystification de Léo Taxil. Il finit par revenir à l'Église qu'il avait fondée.
+voir: eglise-gnostique, gnose, gnosticisme, catharisme
+
+@ oswald-wirth
+cat: figures
+nom: Oswald Wirth
+alias: Wirth, tarot de Wirth
+dates: 1860 – 1943
+an: 1860
+def: Occultiste et franc-maçon suisse, secrétaire de Stanislas de Guaita, auteur d'un tarot et d'ouvrages sur le symbolisme maçonnique et le tarot.
+texte: Magnétiseur, Oswald Wirth entre au service de [[stanislas-de-guaita]] comme secrétaire. En 1889, il dessine sous sa direction les vingt-deux [[arcanes-majeurs|arcanes majeurs]] d'un tarot « kabbalistique », qui corrige le [[tarot-de-marseille|tarot de Marseille]] selon les idées d'[[eliphas-levi]]. Il en donne la clé dans *Le Tarot des imagiers du Moyen Âge* (1927).
+texte: Franc-maçon actif, il fonde la revue *Le Symbolisme* et publie des manuels sur les trois premiers grades, *Le Livre de l'Apprenti*, *du Compagnon* et *du Maître*, qui ont formé des générations de maçons français.
+voir: tarot, arcanes-majeurs, stanislas-de-guaita, franc-maconnerie, grades-maconniques
+
+@ edouard-schure
+cat: figures
+nom: Édouard Schuré
+alias: Schuré, Les Grands Initiés
+dates: 1841 – 1929
+an: 1841
+def: Écrivain alsacien, auteur des Grands Initiés, récit de l'histoire religieuse de l'humanité comme une succession de révélateurs d'une même vérité.
+texte: Né à Strasbourg, admirateur de Wagner, Schuré publie en 1889 *[[les-grands-inities|Les Grands Initiés]]*, qui présente Rama, Krishna, Hermès, Moïse, Orphée, Pythagore, Platon et Jésus comme les initiés successifs d'une même doctrine secrète. Le livre, très souvent réédité, a été l'un des plus grands succès de la littérature ésotérique en français.
+texte: Proche de la [[theosophie]], il se lie d'amitié avec [[rudolf-steiner]] au début du XXe siècle, dont il fait jouer les « drames mystères » et dont il diffuse les idées en France.
+voir: les-grands-inities, prisca-theologia, rudolf-steiner, initiation
+
+@ samuel-liddell-mathers
+cat: figures
+nom: Samuel Liddell MacGregor Mathers
+alias: Mathers, MacGregor Mathers, Moina Mathers
+dates: 1854 – 1918
+an: 1854
+def: Occultiste britannique, cofondateur et principal concepteur des rituels de l'Ordre hermétique de la Golden Dawn, traducteur de grimoires anciens.
+texte: Franc-maçon et membre de la Societas Rosicruciana in Anglia, Mathers fonde en 1888 la [[golden-dawn|Golden Dawn]] avec [[william-wynn-westcott]] et William Robert Woodman. Il en écrit les rituels de grades et le système d'enseignement, qui réunit [[kabbale]], [[tarot]], [[astrologie]], [[magie-enochienne|magie énochienne]] et [[alchimie]]. Il traduit en anglais une partie de la *Kabbala denudata* (1887), la *[[clavicule-de-salomon|Clavicule de Salomon]]* (1889) et le *[[livre-d-abramelin|Livre d'Abramelin]]* (1898).
+texte: Installé à Paris avec sa femme Moina, sœur du philosophe Henri Bergson et artiste, il célèbre des « rites d'Isis » au théâtre. Son autoritarisme provoque en 1900 la rupture de l'ordre et sa brouille avec son disciple [[aleister-crowley]]. Il meurt à Paris en 1918.
+voir: golden-dawn, william-wynn-westcott, aleister-crowley, livre-d-abramelin, clavicule-de-salomon
+
+@ william-wynn-westcott
+cat: figures
+nom: William Wynn Westcott
+alias: Westcott, manuscrit chiffré, Anna Sprengel
+dates: 1848 – 1925
+an: 1848
+def: Médecin légiste londonien, franc-maçon et kabbaliste, cofondateur de la Golden Dawn à partir d'un mystérieux manuscrit chiffré.
+texte: Coroner de Londres, Westcott est un érudit de la [[kabbale]], traducteur du *[[sefer-yetsirah|Sefer Yetsirah]]* en anglais (1887). Il affirme avoir déchiffré un manuscrit codé contenant les ébauches de cinq rituels, et être entré en correspondance avec une adepte allemande, Anna Sprengel, qui l'aurait autorisé à fonder une loge : c'est l'acte de naissance de la [[golden-dawn|Golden Dawn]] en 1888. Les historiens tiennent ces lettres pour des faux.
+texte: Sa hiérarchie lui ayant reproché d'appartenir à une société occulte, il démissionne de l'ordre en 1897 pour conserver sa charge.
+voir: golden-dawn, samuel-liddell-mathers, sefer-yetsirah
+
+@ arthur-edward-waite
+cat: figures
+nom: Arthur Edward Waite
+alias: A. E. Waite, Waite, Rider-Waite
+dates: 1857 – 1942
+an: 1857
+def: Écrivain et occultiste anglo-américain, historien prolifique de l'ésotérisme, qui conçut avec Pamela Colman Smith le tarot le plus répandu au monde.
+texte: Membre de la [[golden-dawn|Golden Dawn]], Waite prend en 1903 la tête d'une branche qui oriente l'ordre vers le mysticisme chrétien, puis fonde en 1915 sa propre Fraternité de la Rose-Croix. Il publie des dizaines d'ouvrages sur les [[rose-croix|Rose-Croix]], la [[franc-maconnerie]], l'[[alchimie]], la [[kabbale]] et le [[graal|Graal]], et des éditions de textes anciens, dont l'œuvre d'[[eliphas-levi]] en anglais.
+texte: En 1909, il fait illustrer par [[pamela-colman-smith]] un tarot dont toutes les cartes, y compris les [[arcanes-mineurs|arcanes mineurs]], portent des scènes figurées : c'est le [[tarot-rider-waite|tarot Rider-Waite]], du nom de son éditeur. Son livre *La Clef illustrée du tarot* l'accompagne.
+voir: tarot-rider-waite, pamela-colman-smith, golden-dawn, tarot
+
+@ pamela-colman-smith
+cat: figures
+nom: Pamela Colman Smith
+alias: Pixie, Pamela Smith
+dates: 1878 – 1951
+an: 1878
+def: Illustratrice et artiste britannique, membre de la Golden Dawn, qui dessina en 1909 les soixante-dix-huit cartes du tarot Rider-Waite.
+texte: Née à Londres de parents américains, élevée en partie en Jamaïque, Pamela Colman Smith illustre des livres, conte des histoires en public et fréquente le théâtre de Bram Stoker et le cercle de W. B. Yeats, qui la fait entrer à la [[golden-dawn|Golden Dawn]] en 1901. En quelques mois de 1909, elle dessine sous la direction d'[[arthur-edward-waite]] les cartes d'un tarot dont la popularité dépasse aujourd'hui celle de tous les autres.
+texte: Payée forfaitairement, elle ne touche aucun droit sur le succès du jeu et meurt pauvre en Cornouailles. Son rôle, longtemps effacé derrière le nom de Waite, est aujourd'hui reconnu : on parle de plus en plus du tarot « Smith-Waite ».
+voir: tarot-rider-waite, arthur-edward-waite, golden-dawn

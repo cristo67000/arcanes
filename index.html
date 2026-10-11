@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- L'application ne parle à personne : ni police distante, ni mesure
+       d'audience. `connect-src 'self'` suffit, et le dit. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Dictionnaire encyclopédique de l'ésotérisme : plus de cinq cents articles sur l'hermétisme, l'alchimie, la kabbale, l'astrologie, le tarot, la magie, les Rose-Croix, la théosophie et leurs figures, avec schémas, frise chronologique, notes et révision. Hors ligne, sans compte, sans publicité.">
+  <meta name="theme-color" content="#1d1630">
+  <!-- La version de la coquille, la même que dans sw.js : à l'installation,
+       le service worker refuse une page d'une autre version. -->
+  <meta name="application-version" content="v1.0.0">
+  <title>Arcanes — dictionnaire encyclopédique de l'ésotérisme</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Arcanes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Arcanes">
+  <meta property="og:title" content="Arcanes — dictionnaire encyclopédique de l'ésotérisme">
+  <meta property="og:description" content="Hermétisme, alchimie, kabbale, astrologie, tarot, magie, Rose-Croix, théosophie : plus de cinq cents articles, des schémas et une frise, hors ligne.">
+  <meta property="og:url" content="https://cristo67000.github.io/arcanes/">
+  <meta property="og:image" content="https://cristo67000.github.io/arcanes/icons/apercu-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Arcanes — dictionnaire encyclopédique de l'ésotérisme">
+  <meta property="og:locale" content="fr_FR">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/figure.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+  <div id="demarrage" role="status">
+    <svg class="marque-dessin grand" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+      <path class="anneau-marque" d="M36.5 12.9A17 17 0 1 1 30.6 8.3"/>
+      <circle class="tete-marque" cx="33.6" cy="9.9" r="3.1"/>
+      <path class="etoile-marque" d="M24 14.5L26.1 21.9L33.5 24L26.1 26.1L24 33.5L21.9 26.1L14.5 24L21.9 21.9Z"/>
+    </svg>
+    <div class="marque">Arcanes</div>
+    <p>Ouverture du dictionnaire…</p>
+  </div>
+
+  <header id="barre">
+    <h1>
+      <svg class="marque-dessin" viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+        <path class="anneau-marque" d="M36.5 12.9A17 17 0 1 1 30.6 8.3"/>
+        <circle class="tete-marque" cx="33.6" cy="9.9" r="3.1"/>
+        <path class="etoile-marque" d="M24 14.5L26.1 21.9L33.5 24L26.1 26.1L24 33.5L21.9 26.1L14.5 24L21.9 21.9Z"/>
+      </svg>
+      <span class="marque-petite">Arcanes</span>
+    </h1>
+    <p class="sous-titre">dictionnaire encyclopédique de l’ésotérisme</p>
+  </header>
+
+  <main id="scene">
+
+    <!-- ————— Dictionnaire ————— -->
+    <section id="vue-dictionnaire" class="vue">
+      <div id="bloc-recherche">
+        <input id="q" type="search" autocomplete="off" autocapitalize="off"
+               autocorrect="off" spellcheck="false" enterkeyhint="search"
+               placeholder="Chercher : alchimie, Paracelse, tarot…" aria-label="Chercher un article">
+        <kbd id="q-raccourci" class="raccourci" aria-hidden="true">/</kbd>
+        <button id="q-vider" type="button" aria-label="Effacer" hidden>✕</button>
+      </div>
+
+      <div id="filtres" class="filtres" role="group" aria-label="Filtrer par catégorie"></div>
+
+      <div id="accueil">
+        <section id="du-jour" hidden></section>
+        <section id="portes"></section>
+        <div id="recents"></div>
+      </div>
+
+      <div class="ligne-compte">
+        <p id="compte" class="discret compte"></p>
+        <button id="b-hasard" type="button" class="bouton-hasard">
+          <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="4" width="16" height="16" rx="3.5"/><circle cx="9" cy="9" r="1.1" class="plein"/><circle cx="15" cy="15" r="1.1" class="plein"/><circle cx="15" cy="9" r="1.1" class="plein"/><circle cx="9" cy="15" r="1.1" class="plein"/></svg>
+          <span>Au hasard</span>
+        </button>
+      </div>
+      <div id="liste"></div>
+
+      <nav id="index-lettres" class="index-lettres" aria-label="Aller à une lettre" hidden></nav>
+      <div id="index-bulle" class="index-bulle" aria-hidden="true" hidden></div>
+
+      <div id="rien" hidden>
+        <p class="rien-titre">Aucun article ne correspond.</p>
+        <div id="suggestions" class="suggestions" hidden>
+          <p class="discret">Vouliez-vous dire :</p>
+          <div id="suggestions-liste" class="voisins"></div>
+        </div>
+        <p class="discret">Essayez une autre orthographe ou un mot du texte. Vous pouvez aussi écrire vous-même l’article.</p>
+        <button id="b-ajouter-depuis-recherche" type="button" class="bouton-discret ajouter-terme"></button>
+      </div>
+    </section>
+
+    <!-- ————— Frise ————— -->
+    <section id="vue-frise" class="vue" hidden>
+      <h2>Frise chronologique</h2>
+      <p class="discret intro-frise">Les figures, les textes, les courants et les sociétés de l’ésotérisme, de l’Antiquité à nos jours. Les dates anciennes sont souvent approximatives.</p>
+      <div id="frise-filtres" class="filtres" role="group" aria-label="Filtrer la frise"></div>
+      <nav id="frise-epoques" class="epoques" aria-label="Aller à une époque"></nav>
+      <div id="frise-contenu"></div>
+    </section>
+
+    <!-- ————— Révision ————— -->
+    <section id="vue-quiz" class="vue" hidden>
+      <div id="quiz-contenu"></div>
+    </section>
+
+    <!-- ————— Carnet ————— -->
+    <section id="vue-carnet" class="vue" hidden>
+      <h2>Mon carnet</h2>
+      <div class="segments segments-carnet" role="group" id="carnet-onglets" aria-label="Rubriques du carnet">
+        <button type="button" data-rubrique="favoris" aria-pressed="true"><span>Favoris</span><span class="nombre-rubrique" hidden></span></button>
+        <button type="button" data-rubrique="a-revoir" aria-pressed="false"><span>À revoir</span><span class="nombre-rubrique" hidden></span></button>
+        <button type="button" data-rubrique="notes" aria-pressed="false"><span>Notes</span><span class="nombre-rubrique" hidden></span></button>
+        <button type="button" data-rubrique="articles" aria-pressed="false"><span>Mes articles</span><span class="nombre-rubrique" hidden></span></button>
+      </div>
+      <input id="carnet-filtre" type="search" autocomplete="off" autocapitalize="off"
+             spellcheck="false" placeholder="Filtrer…" aria-label="Filtrer la liste">
+      <div id="carnet-contenu"></div>
+    </section>
+
+    <!-- ————— Réglages ————— -->
+    <section id="vue-reglages" class="vue" hidden>
+      <div id="reglages-contenu"></div>
+    </section>
+
+  </main>
+
+  <div id="mise-a-jour" role="status" aria-live="polite" hidden>
+    <p id="mise-a-jour-texte">Une nouvelle version est prête.</p>
+    <div class="maj-boutons">
+      <button id="b-mettre-a-jour" type="button" class="bouton-principal">Mettre à jour</button>
+      <button id="b-maj-plus-tard" type="button" class="lien-discret">Plus tard</button>
+    </div>
+  </div>
+
+  <div id="annonce" role="status" aria-live="polite" hidden></div>
+
+  <nav id="onglets" aria-label="Sections">
+    <button type="button" data-vue="dictionnaire" aria-current="true">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3V4z"/><path d="M5 17a3 3 0 0 1 3-3h11"/></svg>
+      <span>Dictionnaire</span>
+    </button>
+    <button type="button" data-vue="frise">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3v18"/><circle cx="12" cy="7" r="1.6" class="plein"/><circle cx="12" cy="13" r="1.6" class="plein"/><circle cx="12" cy="19" r="1.6" class="plein"/><path d="M14.5 7H20M4 13h5.5M14.5 19H19"/></svg>
+      <span>Frise</span>
+    </button>
+    <button type="button" data-vue="quiz">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4.5" y="3.5" width="12" height="16" rx="2"/><path d="M8 20.5h9.5a2 2 0 0 0 2-2V7"/><path d="M10.5 8.5l1 2.2 2.3.3-1.7 1.6.4 2.3-2-1.1-2 1.1.4-2.3-1.7-1.6 2.3-.3z"/></svg>
+      <span>Révision</span>
+    </button>
+    <button type="button" data-vue="carnet">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 20h4L19 9l-4-4L4 16v4z"/><path d="M13.5 6.5l4 4"/></svg>
+      <span>Carnet</span>
+    </button>
+    <button type="button" data-vue="reglages">
+      <svg class="icone" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h8M18 7h2M4 12h2M12 12h8M4 17h10M20 17h0"/><circle cx="15" cy="7" r="2"/><circle cx="9" cy="12" r="2"/><circle cx="17" cy="17" r="2"/></svg>
+      <span>Réglages</span>
+    </button>
+  </nav>
+
+  <aside id="fiche" hidden aria-modal="true" role="dialog">
+    <div id="fiche-contenu"></div>
+  </aside>
+
+  <aside id="editeur" hidden aria-modal="true" role="dialog">
+    <div id="editeur-contenu"></div>
+  </aside>
+
+  <script src="js/outils.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/dictionnaire.js"></script>
+  <script src="js/rendu.js"></script>
+  <script src="js/glyphes.js"></script>
+  <script src="js/figure.js"></script>
+  <script src="js/figures/kabbale.js"></script>
+  <script src="js/figures/astrologie.js"></script>
+  <script src="js/figures/alchimie.js"></script>
+  <script src="js/figures/tarot.js"></script>
+  <script src="js/figures/symboles.js"></script>
+  <script src="js/voix.js"></script>
+  <script src="js/editeur.js"></script>
+  <script src="js/fiche.js"></script>
+  <script src="js/liste.js"></script>
+  <script src="js/frise.js"></script>
+  <script src="js/carnet.js"></script>
+  <script src="js/cartes.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/sauvegarde.js"></script>
+  <script src="js/installer.js"></script>
+  <script src="js/miseajour.js"></script>
+  <script src="js/reglages.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/demarrage.js"></script>
+</body>
+</html>

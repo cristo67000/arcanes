@@ -1,0 +1,222 @@
+# Les vingt-deux arcanes majeurs du tarot, dans l'ordre du tarot de Marseille.
+# Format : voir l'en-tête de build/construire.mjs.
+
+@ arcane-bateleur
+cat: divination
+nom: Le Bateleur
+alias: Bateleur, arcane I, le Magicien, le Mage, le Jongleur
+def: Premier arcane majeur du tarot : un jeune homme debout derrière une table couverte d'objets, figure de l'habileté, du commencement et de la volonté.
+texte: Dans le [[tarot-de-marseille|tarot de Marseille]], le Bateleur, coiffé d'un chapeau à larges bords en forme de huit couché, tient une baguette et une pièce devant une table où sont posés gobelets, dés, couteau et bourse : c'est un prestidigitateur de foire. Le mot « bateleur » désigne le saltimbanque qui fait des tours d'adresse.
+texte: Les occultistes en ont fait le Mage, l'homme qui maîtrise les éléments : les objets de la table deviennent les quatre [[instruments-magiques|instruments du magicien]] — bâton, coupe, épée et denier. [[eliphas-levi]] lui associe la lettre *alef* ; la Golden Dawn, qui l'appelle le Magicien, la lettre *bet* et la planète Mercure. En divination, il annonce un début, une initiative, un savoir-faire.
+schema: arcanes-majeurs/1
+voir: arcanes-majeurs, arcane-papesse, instruments-magiques, arcane-mat
+
+@ arcane-papesse
+cat: divination
+nom: La Papesse
+alias: Papesse, arcane II, la Grande Prêtresse, papesse Jeanne
+def: Deuxième arcane majeur : une femme coiffée de la tiare, assise, un livre ouvert sur les genoux, figure de la connaissance secrète, de la patience et de l'intuition.
+texte: L'image d'une femme pape a surpris : on y a vu la légendaire papesse Jeanne, femme qui aurait occupé le trône de saint Pierre au IXe siècle, ou une allégorie de la Foi ou de l'Église. Assise devant un voile, elle tient un livre : la sagesse qui ne se livre qu'à qui sait attendre.
+texte: Le [[tarot-rider-waite|tarot Rider-Waite]] l'appelle la Grande Prêtresse, assise entre deux colonnes noire et blanche, [[colonnes-jakin-et-boaz|Jakin et Boaz]], le croissant de lune à ses pieds. En divination, elle indique le secret, l'étude, la réserve, la vie intérieure.
+schema: arcanes-majeurs/2
+voir: arcanes-majeurs, arcane-imperatrice, arcane-pape, colonnes-jakin-et-boaz
+
+@ arcane-imperatrice
+cat: divination
+nom: L'Impératrice
+alias: Impératrice, arcane III
+def: Troisième arcane majeur : une souveraine couronnée et ailée, tenant un sceptre et un écu à l'aigle, figure de la fécondité, de l'intelligence créatrice et du rayonnement.
+texte: Assise de face, l'Impératrice porte un sceptre surmonté d'un globe crucifère et un bouclier frappé de l'aigle impérial. Elle forme un couple avec l'[[arcane-empereur|Empereur]], les deux pouvoirs du monde temporel.
+texte: Les occultistes y voient la Nature, la mère, la nourrice ; la Golden Dawn lui attribue [[venus|Vénus]], et le Rider-Waite la place dans un jardin de blé. En divination, elle annonce l'abondance, la création, l'expression, la naissance d'un projet.
+schema: arcanes-majeurs/3
+voir: arcanes-majeurs, arcane-empereur, venus
+
+@ arcane-empereur
+cat: divination
+nom: L'Empereur
+alias: Empereur, arcane IIII, arcane IV
+def: Quatrième arcane majeur : un souverain de profil, sceptre en main, un écu à l'aigle à ses pieds, figure de l'autorité, de l'ordre et de la stabilité.
+texte: L'Empereur siège de profil, les jambes croisées en forme de chiffre quatre, appuyé sur un trône. Il représente le pouvoir temporel, la loi, le père, la maîtrise du monde matériel.
+texte: La Golden Dawn lui attribue le [[belier|Bélier]], signe gouverné par Mars ; le Rider-Waite le montre sur un trône orné de têtes de bélier, au milieu de montagnes arides. En divination, il signifie la solidité, la protection, mais aussi la rigidité.
+schema: arcanes-majeurs/4
+voir: arcanes-majeurs, arcane-imperatrice, arcane-pape
+
+@ arcane-pape
+cat: divination
+nom: Le Pape
+alias: Pape, arcane V, le Hiérophante, le Grand Prêtre
+def: Cinquième arcane majeur : un pontife bénissant deux clercs agenouillés devant lui, figure de l'enseignement, de la tradition et de la médiation spirituelle.
+texte: Assis entre deux colonnes, coiffé de la tiare et tenant une croix à triple traverse, le Pape bénit de la main droite. Il est le pendant de la [[arcane-papesse|Papesse]] : elle garde le savoir caché, il transmet la doctrine.
+texte: Le Rider-Waite le renomme Hiérophante, du nom du prêtre qui révélait les mystères d'Éleusis, et la Golden Dawn lui donne le [[taureau|Taureau]]. En divination, il représente le conseil, l'institution, la morale, le mariage religieux.
+schema: arcanes-majeurs/5
+voir: arcanes-majeurs, arcane-papesse, mysteres-antiques, initiation
+
+@ arcane-amoureux
+cat: divination
+nom: L'Amoureux
+alias: Amoureux, les Amoureux, arcane VI, les Amants
+def: Sixième arcane majeur : un jeune homme entre deux femmes, sous un Cupidon qui bande son arc, figure du choix, du désir et de l'union.
+texte: Dans le tarot de Marseille, l'Amoureux hésite entre deux femmes, l'une plus âgée, l'autre plus jeune, qu'on a lues comme le vice et la vertu, la mère et l'épouse, ou deux voies de la vie. Au-dessus, un Cupidon ailé s'apprête à décocher sa flèche : le choix est aussi un coup du sort.
+texte: Le Rider-Waite, qui l'appelle les Amoureux, montre Adam et Ève nus sous un ange, devant l'arbre de la connaissance ; la Golden Dawn lui attribue les [[gemeaux|Gémeaux]]. En divination, il signifie une décision, un sentiment, une alliance.
+schema: arcanes-majeurs/6
+voir: arcanes-majeurs, androgyne, gemeaux
+
+@ arcane-chariot
+cat: divination
+nom: Le Chariot
+alias: Chariot, arcane VII
+def: Septième arcane majeur : un prince couronné debout sur un char tiré par deux chevaux, figure du triomphe, de la maîtrise et de l'avancée.
+texte: Le Chariot reprend les cortèges triomphaux de la Renaissance. Le conducteur, cuirassé, porte des épaulettes en forme de visages ; les deux chevaux semblent tirer chacun d'un côté, et il les mène sans rênes : la victoire est celle de la volonté qui unit des forces opposées.
+texte: La Golden Dawn lui attribue le [[cancer|Cancer]] ; le Rider-Waite remplace les chevaux par deux sphinx, l'un noir, l'autre blanc. En divination, il annonce le succès, le voyage, la conquête.
+schema: arcanes-majeurs/7
+voir: arcanes-majeurs, arcane-force
+
+@ arcane-justice
+cat: divination
+nom: La Justice
+alias: Justice, arcane VIII, arcane XI
+def: Huitième arcane majeur du tarot de Marseille : une femme assise tenant une épée et une balance, figure de l'équilibre, de la loi et de la juste rétribution.
+texte: La Justice est l'une des quatre vertus cardinales représentées dans le tarot, avec la [[arcane-force|Force]] et la [[arcane-temperance|Tempérance]] ; la Prudence manque, à moins qu'on ne la reconnaisse dans l'[[arcane-hermite|Hermite]]. Elle regarde droit devant elle, l'épée levée et la balance en équilibre.
+texte: La Golden Dawn l'échange avec la Force et lui donne le numéro XI, pour accorder les arcanes au zodiaque : la Justice reçoit la [[balance|Balance]]. En divination, elle signifie le jugement, la décision équitable, les affaires légales, la conséquence des actes.
+schema: arcanes-majeurs/8
+voir: arcanes-majeurs, arcane-force, balance, karma
+
+@ arcane-hermite
+cat: divination
+nom: L'Hermite
+alias: Hermite, Ermite, arcane VIIII, arcane IX
+def: Neuvième arcane majeur : un vieillard en manteau qui avance appuyé sur un bâton, une lanterne à la main, figure de la sagesse, de la solitude et de la recherche.
+texte: Le tarot de Marseille écrit « Hermite », avec un *h* qui a fait rêver les occultistes à Hermès. Dans les jeux italiens anciens, la figure tenait un sablier : c'était le Temps, le vieillard Saturne. La lanterne a remplacé le sablier, et l'on a pensé à Diogène cherchant un homme.
+texte: Pour les ésotéristes, il est le sage qui éclaire la route de ceux qui le suivent, l'initié qui a renoncé au monde. La Golden Dawn lui attribue la [[vierge|Vierge]]. En divination, il signifie la prudence, la patience, la méditation, le retrait.
+schema: arcanes-majeurs/9
+voir: arcanes-majeurs, saturne, initiation
+
+@ arcane-roue-de-fortune
+cat: divination
+nom: La Roue de Fortune
+alias: Roue de Fortune, arcane X, la Roue
+def: Dixième arcane majeur : une roue que font tourner des animaux montant et descendant, surmontée d'un sphinx couronné, figure des cycles et des retournements du destin.
+texte: La roue de Fortune est un thème médiéval : la déesse aveugle fait tourner la roue où les hommes montent au pouvoir puis en tombent, avec les mots « je régnerai, je règne, j'ai régné, je suis sans règne ». Dans le tarot de Marseille, des créatures mi-animales, mi-humaines y remplacent les rois, et un sphinx immobile siège au sommet.
+texte: [[eliphas-levi]] y voit les forces de l'univers — le sphinx, Hermanubis et Typhon — et inscrit sur la roue les lettres du mot TARO. La Golden Dawn lui attribue [[jupiter|Jupiter]]. En divination, elle annonce un changement, une chance, un tournant.
+schema: arcanes-majeurs/10
+voir: arcanes-majeurs, cycles-cosmiques, sphinx
+
+@ arcane-force
+cat: divination
+nom: La Force
+alias: Force, arcane XI, arcane VIII
+def: Onzième arcane majeur du tarot de Marseille : une femme qui ouvre sans effort la gueule d'un lion, figure de la force maîtrisée, du courage et de la douceur victorieuse.
+texte: Vertu cardinale, la Force était souvent représentée dans l'art par une femme brisant une colonne ou par Hercule terrassant le lion. Le tarot de Marseille la montre domptant le lion de ses mains nues, coiffée d'un chapeau en forme de huit couché comme celui du [[arcane-bateleur|Bateleur]] : la puissance de l'esprit soumet les instincts.
+texte: La Golden Dawn lui donne le numéro VIII et le signe du [[lion|Lion]] ; [[aleister-crowley]] l'appelle « Désir ». En divination, elle signifie la maîtrise de soi, l'énergie, la confiance.
+schema: arcanes-majeurs/11
+voir: arcanes-majeurs, arcane-justice, lion
+
+@ arcane-pendu
+cat: divination
+nom: Le Pendu
+alias: Pendu, arcane XII
+def: Douzième arcane majeur : un homme suspendu par un pied à une potence, les mains derrière le dos, figure de l'épreuve, du sacrifice et du renversement des valeurs.
+texte: L'image vient des « peintures infamantes » de l'Italie de la Renaissance, où l'on représentait les traîtres et les débiteurs en fuite pendus par un pied. Le Pendu a pourtant un visage serein, et ses jambes croisées dessinent la forme d'un quatre.
+texte: Les ésotéristes y voient l'initié qui accepte de voir le monde à l'envers pour le comprendre autrement, voire le Christ, ou Odin suspendu à l'arbre pour conquérir les runes. La Golden Dawn l'associe à l'élément eau. En divination, il signifie l'attente, l'impuissance provisoire, le lâcher-prise, le sacrifice consenti.
+schema: arcanes-majeurs/12
+voir: arcanes-majeurs, runes, initiation
+
+@ arcane-sans-nom
+cat: divination
+nom: L'Arcane sans nom
+alias: arcane XIII, la Mort, treizième arcane, Mort
+def: Treizième arcane majeur, laissé sans nom dans le tarot de Marseille : un squelette qui fauche un champ où gisent des têtes et des mains, figure de la mort et de la transformation.
+texte: Les jeux italiens nommaient la carte « la Mort ». Le tarot de Marseille lui laisse son seul numéro, comme si l'on évitait de prononcer le mot. Le squelette fauche des têtes couronnées et d'autres non : la mort frappe les rois comme les humbles, thème des danses macabres de la fin du Moyen Âge.
+texte: Les occultistes et les tarologues insistent sur la transformation plus que sur la mort physique : la fin d'un cycle, le dépouillement, la condition d'une renaissance, comme la [[nigredo]] des alchimistes. La Golden Dawn lui attribue le [[scorpion|Scorpion]].
+schema: arcanes-majeurs/13
+voir: arcanes-majeurs, nigredo, arcane-jugement
+
+@ arcane-temperance
+cat: divination
+nom: Tempérance
+alias: la Tempérance, arcane XIIII, arcane XIV, Art
+def: Quatorzième arcane majeur : un ange qui verse un liquide d'un vase dans un autre, figure de la modération, de l'harmonie et de la circulation des énergies.
+texte: La Tempérance est la troisième vertu cardinale du tarot : on la représentait en train de mêler l'eau au vin pour en modérer la force. L'ange ailé du tarot de Marseille fait couler un fluide entre deux vases sans en perdre une goutte, image de l'équilibre et de la guérison.
+texte: Les occultistes y voient une image de l'[[alchimie]] ; [[aleister-crowley]] la renomme « Art ». La Golden Dawn lui attribue le [[sagittaire|Sagittaire]]. En divination, elle signifie la patience, la conciliation, la santé.
+schema: arcanes-majeurs/14
+voir: arcanes-majeurs, alchimie, anges
+
+@ arcane-diable
+cat: divination
+nom: Le Diable
+alias: Diable, arcane XV
+def: Quinzième arcane majeur : un être cornu et ailé, debout sur un autel, auquel sont enchaînés deux petits diables, figure des passions, des liens et des forces obscures.
+texte: Le Diable du tarot de Marseille a des ailes de chauve-souris, des seins, un sexe masculin, des pieds griffus et brandit une épée ou une torche ; deux diablotins cornus sont attachés par le cou à son piédestal. Il évoque la tentation, l'argent, la sexualité, la domination.
+texte: Le Rider-Waite s'inspire du [[baphomet|Baphomet]] d'[[eliphas-levi]] pour lui donner une tête de bouc et un pentagramme inversé au front, et montre Adam et Ève enchaînés. La Golden Dawn lui attribue le [[capricorne|Capricorne]]. En divination, il signifie l'attachement, les désirs puissants, l'emprise, mais aussi l'énergie vitale.
+schema: arcanes-majeurs/15
+voir: arcanes-majeurs, baphomet, demonologie, satanisme
+
+@ arcane-maison-dieu
+cat: divination
+nom: La Maison Dieu
+alias: Maison Dieu, Maison-Dieu, la Tour, arcane XVI, tour foudroyée
+def: Seizième arcane majeur : une tour dont le sommet est arraché par un feu venu du ciel, d'où tombent deux hommes, figure de l'effondrement soudain et de la libération brutale.
+texte: Le nom de « Maison Dieu », propre au tarot de Marseille, désignait au Moyen Âge un hôpital, comme l'Hôtel-Dieu ; d'autres y voient la tour de Babel détruite par Dieu, ou la maison de Dieu frappée pour punir l'orgueil. Les jeux anglais la nomment simplement la Tour. Des flammes ou des plumes descendent du ciel, et une pluie de boules colorées tombe autour.
+texte: La Golden Dawn lui attribue [[mars|Mars]]. En divination, c'est l'une des cartes les plus redoutées : la ruine, la rupture, la révélation qui détruit les illusions — mais aussi la sortie d'une prison.
+schema: arcanes-majeurs/16
+voir: arcanes-majeurs, mars
+
+@ arcane-etoile
+cat: divination
+nom: L'Étoile
+alias: Étoile, arcane XVII, les Étoiles
+def: Dix-septième arcane majeur : une jeune femme nue, à genoux au bord de l'eau, qui verse deux cruches sous un ciel de huit étoiles, figure de l'espérance et de l'inspiration.
+texte: Sous une grande étoile entourée de sept plus petites, la femme répand une eau sur la terre et l'autre dans le courant ; un oiseau se pose sur un arbuste. La nudité dit la simplicité, la vérité sans voile ; l'eau qui coule, la générosité de la nature.
+texte: La Golden Dawn lui attribue le [[verseau|Verseau]]. En divination, elle signifie l'espoir, la guérison, la confiance, la protection.
+schema: arcanes-majeurs/17
+voir: arcanes-majeurs, verseau, arcane-lune
+
+@ arcane-lune
+cat: divination
+nom: La Lune
+alias: arcane XVIII, arcane XVIII la Lune
+def: Dix-huitième arcane majeur : une lune au visage de profil, entre deux tours, au-dessus de deux chiens qui hurlent et d'une écrevisse sortant d'un étang, figure du rêve, de l'illusion et des peurs.
+texte: La Lune répand des gouttes vers la terre ; deux chiens, ou un chien et un loup, aboient vers elle ; au premier plan, une écrevisse émerge de l'eau. Tout évoque la nuit, l'inconscient, l'imagination, les instincts et les dangers cachés.
+texte: La Golden Dawn lui attribue les [[poissons|Poissons]]. En divination, elle signifie l'incertitude, l'illusion, l'intuition, le monde des rêves.
+schema: arcanes-majeurs/18
+voir: arcanes-majeurs, lune, arcane-soleil
+
+@ arcane-soleil
+cat: divination
+nom: Le Soleil
+alias: arcane XVIIII, arcane XIX, arcane le Soleil
+def: Dix-neuvième arcane majeur : un soleil rayonnant au visage humain, au-dessus de deux enfants qui se tiennent devant un muret, figure de la joie, de la clarté et de la réussite.
+texte: Le Soleil répand ses rayons et ses gouttes d'or sur deux enfants presque nus, qui se touchent avec tendresse. Après les inquiétudes de la Lune, c'est la lumière du jour, l'amitié, la fraternité, la vie retrouvée.
+texte: Le Rider-Waite montre un enfant nu sur un cheval blanc, devant des tournesols. La Golden Dawn lui attribue naturellement le [[soleil|Soleil]]. En divination, c'est l'une des cartes les plus favorables : succès, bonheur, union.
+schema: arcanes-majeurs/19
+voir: arcanes-majeurs, soleil, arcane-lune
+
+@ arcane-jugement
+cat: divination
+nom: Le Jugement
+alias: Jugement, arcane XX, l'Éon, Jugement dernier
+def: Vingtième arcane majeur : un ange sonnant de la trompette au-dessus de morts qui sortent de leur tombeau, figure de la résurrection, de l'appel et du renouveau.
+texte: L'image reprend celle du Jugement dernier : un ange dans les nuées, la trompette ornée d'une croix, et un homme, une femme et un enfant qui se lèvent, les mains jointes. C'est la fin des temps et la vie nouvelle.
+texte: La Golden Dawn lui attribue l'élément feu ; [[aleister-crowley]] le renomme « l'Éon », image de l'avènement d'un âge nouveau. En divination, il signifie un renouveau, une révélation, une vocation, un retour.
+schema: arcanes-majeurs/20
+voir: arcanes-majeurs, arcane-sans-nom, eon
+
+@ arcane-monde
+cat: divination
+nom: Le Monde
+alias: Monde, arcane XXI, l'Univers
+def: Vingt et unième arcane majeur : une figure nue dansant au centre d'une couronne ovale, entourée des quatre vivants, figure de l'accomplissement et de la totalité.
+texte: Au centre d'une couronne de feuillage, une femme, ou un être androgyne, tient une baguette ; aux quatre coins se trouvent un ange, un aigle, un lion et un bœuf, les quatre vivants de l'Apocalypse, symboles des évangélistes : c'est le [[tetramorphe]]. L'image reprend celle du Christ en gloire des portails romans.
+texte: Dernier arcane numéroté, le Monde clôt le cycle : les occultistes y voient l'âme réintégrée, l'achèvement du [[grand-oeuvre|Grand Œuvre]]. La Golden Dawn lui attribue [[saturne|Saturne]] et la Terre. En divination, il annonce la réalisation, la réussite complète, l'harmonie.
+schema: arcanes-majeurs/21
+voir: arcanes-majeurs, tetramorphe, androgyne, arcane-mat
+
+@ arcane-mat
+cat: divination
+nom: Le Mat
+alias: Mat, le Fou, l'Excuse, arcane 0, arcane sans numéro
+def: Arcane majeur sans numéro : un vagabond qui marche, son baluchon sur l'épaule, poursuivi par un chien qui déchire ses chausses, figure de la liberté, de la folie et de l'inconnu.
+texte: Le Mat n'a pas de numéro. Au jeu de tarot, il sert d'« Excuse » : on peut le jouer à tout moment, sans suivre. Son nom ancien, « mat », signifie fou. Le vagabond, vêtu en bouffon, avance sans regarder où il va ; le chien le mord ou le pousse.
+texte: Faute de numéro, les occultistes ont discuté de sa place : [[eliphas-levi]] le met entre le XX et le XXI, avec la lettre *shin* ; la Golden Dawn en fait l'arcane 0, au début de la série, avec la lettre *alef* et l'élément air. Il figure tantôt l'insensé qui ignore tout, tantôt le sage qui a tout dépassé. En divination, il signifie le départ, l'imprévu, la liberté, l'imprudence.
+schema: arcanes-majeurs/0
+voir: arcanes-majeurs, arcane-bateleur, arcane-monde, tarot

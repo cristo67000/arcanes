@@ -1,0 +1,17 @@
+Dictionnaire construit le 2026-10-11
+519 articles, 53346 mots, 234 datés pour la frise, 119 avec figure (34 / 34 figures), 33 avec glyphe
+608500 octets de JSON
+
+  courants     39
+  figures     108
+  textes       53
+  notions      46
+  alchimie     46
+  kabbale      40
+  astrologie   42
+  divination   46
+  magie        35
+  societes     27
+  symboles     37
+
+10 article(s) que rien ne cite : acacia, alkahest, anna-kingsford, arcane, augures, chaine-d-union, decans, lotus, simon-le-magicien, triskele
