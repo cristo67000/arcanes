@@ -43,7 +43,7 @@ alias: Willermoz, Chevaliers bienfaisants de la Cité sainte
 dates: 1730 – 1824
 an: 1730
 def: Négociant lyonnais et franc-maçon, disciple de Martinez de Pasqually, qui fit passer la doctrine des Élus Coëns dans le Régime écossais rectifié.
-texte: Marchand de soieries à Lyon, Willermoz consacre sa vie à la [[franc-maconnerie]]. Initié aux [[elus-coens|Élus Coëns]] en 1767, il en recueille l'enseignement, mais l'ordre décline après le départ de son fondateur. Au convent des Gaules, réuni à Lyon en 1778, puis à celui de Wilhelmsbad, en 1782, il réforme la Stricte Observance templière allemande et crée l'ordre des Chevaliers bienfaisants de la Cité sainte : c'est le [[rite-ecossais-rectifie|Régime écossais rectifié]], dont les grades secrets transmettent la doctrine de la [[reintegration]].
+texte: Marchand de soieries à Lyon, Willermoz consacre sa vie à la [[franc-maconnerie]]. Initié aux [[elus-coens|Élus Coëns]] en 1767, il en recueille l'enseignement, mais l'ordre décline après le départ de son fondateur. Au [[convent]] des Gaules, réuni à Lyon en 1778, puis au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], en 1782, il réforme la [[stricte-observance|Stricte Observance templière]] allemande et crée l'ordre des Chevaliers bienfaisants de la Cité sainte : c'est le [[rite-ecossais-rectifie|Régime écossais rectifié]], dont les grades secrets transmettent la doctrine de la [[reintegration]].
 texte: Dans les années 1780, il se passionne pour le [[magnetisme-animal|magnétisme]] et recueille les messages d'une somnambule, l'« Agent inconnu ». Il traverse la Révolution et meurt à Lyon presque centenaire, en ayant veillé jusqu'au bout sur son rite.
 voir: rite-ecossais-rectifie, elus-coens, martinez-de-pasqually, reintegration, templiers
 

@@ -96,6 +96,39 @@ ok(dico.articles.every((a) => !/ [;:!?]/.test(a.d + a.t.join(''))), 'la ponctuat
 ok(dico.articles.every((a) => !/\w'\w/.test(a.d + a.t.join(''))), 'les apostrophes sont typographiques');
 ok(dico.portes.every((p) => ids.has(p)), 'les portes d’entrée mènent à des articles');
 
+// ── Les catégories ont leur couleur ─────────────────────────────────────────
+const theme = lire('css/theme.css');
+const app = lire('css/app.css');
+for (const c of dico.cats) {
+  ok((theme.match(new RegExp('--c-' + c.id + ':', 'g')) || []).length === 3, 'la catégorie « ' + c.nom + ' » a sa couleur, de jour et de nuit');
+  ok(app.includes('.cat-' + c.id + ' {'), 'la catégorie « ' + c.nom + ' » a sa classe');
+}
+ok(dico.articles.every((a) => dico.cats.some((c) => c.id === a.c)), 'chaque article est dans une catégorie connue');
+
+// ── Les illustrations ───────────────────────────────────────────────────────
+const illus = JSON.parse(lire('build/illustrations.json'));
+const images = Object.values(illus.images);
+const fichiersImg = fs.readdirSync(path.join(RACINE, 'img')).filter((f) => !f.startsWith('.'));
+ok(images.length >= 50, 'des illustrations sont déclarées (' + images.length + ')');
+for (const im of images) {
+  ok(fs.existsSync(path.join(RACINE, im.f)), 'l’image existe : ' + im.f);
+  ok(/^(public domain|pd|cc0)/i.test(im.lic) || /domaine public/i.test(im.lic), 'licence libre de tout droit pour ' + im.f + ' (' + im.lic + ')');
+  ok(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(im.src), 'la source de ' + im.f + ' est une page de Wikimedia Commons');
+  ok(im.l && im.cr, 'l’image ' + im.f + ' a une légende et un crédit');
+}
+ok(fichiersImg.every((f) => images.some((im) => im.f === 'img/' + f)), 'aucun fichier orphelin dans img/');
+ok(fichiersImg.every((f) => f.endsWith('.webp')), 'les images sont en WebP');
+const poidsImages = fichiersImg.reduce((n, f) => n + fs.statSync(path.join(RACINE, 'img', f)).size, 0);
+ok(poidsImages === meta.octetsImages && fichiersImg.length === meta.images, 'le manifeste compte les images et leur poids');
+ok(!liste.some((f) => f.startsWith('img/')), 'les images ne sont pas dans la coquille (elles ont leur cache)');
+const vues = new Set();
+for (const a of dico.articles) {
+  for (const im of a.im || []) vues.add(im.f);
+  for (const p of a.pl || []) for (const im of p.im) { vues.add(im.f); if (im.r) ok(ids.has(im.r), 'la vignette mène à un article : ' + im.r); }
+}
+ok(vues.size === images.length, 'chaque image paraît dans au moins un article (' + vues.size + ' / ' + images.length + ')');
+ok(sw.includes("const IMAGES = 'arcanes-images'") && lire('js/illustrations.js').includes("const CACHE = 'arcanes-images'"), 'la page et le service worker partagent le cache des images');
+
 console.log(bons + ' épreuve(s) statique(s) réussie(s)');
 if (echecs.length) {
   console.log(echecs.length + ' ÉCHEC(S) :');

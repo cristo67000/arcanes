@@ -3,8 +3,8 @@
  * La fiche d'un article : ce qu'on voit en touchant une entrée.
  *
  * De haut en bas : la catégorie, la vedette, les dates, le signe ; la
- * définition ; le corps de l'article, où chaque renvoi ouvre l'article cité ;
- * la figure ; les œuvres ; la mise en garde ; « voir aussi » et « cité dans » ;
+ * définition ; les illustrations ; le corps de l'article, où chaque renvoi
+ * ouvre l'article cité, avec sa figure et sa planche ; les œuvres ; la mise en garde ; « voir aussi » et « cité dans » ;
  * les notes de la personne ; enfin l'article précédent et le suivant dans
  * l'ordre alphabétique, pour feuilleter.
  *
@@ -322,14 +322,23 @@
     actions.appendChild(rev);
     corps.appendChild(actions);
 
-    // Le corps de l'article ; la figure après le premier paragraphe
+    // Les illustrations d'en tête : la carte, le portrait, la gravure
+    const images = Illustrations.bloc(a);
+    if (images) corps.appendChild(images);
+
+    // Le corps de l'article ; la figure après le premier paragraphe, la planche
+    // de vignettes après le suivant (ou à la place de la figure s'il n'y en a pas)
     const texte = element('div', 'article-texte');
+    const insertions = [];
     const figure = blocFigure(a);
-    (a.t || []).forEach((p, i) => {
+    if (figure) insertions.push(figure);
+    for (const p of a.pl || []) insertions.push(Illustrations.planche(p));
+    const paragraphes = a.t || [];
+    paragraphes.forEach((p) => {
       texte.appendChild(Rendu.paragraphe(p, null, surligne));
-      if (i === 0 && figure) texte.appendChild(figure);
+      if (insertions.length) texte.appendChild(insertions.shift());
     });
-    if (!(a.t || []).length && figure) texte.appendChild(figure);
+    for (const reste of insertions) texte.appendChild(reste);
     corps.appendChild(texte);
 
     if (a.oe && a.oe.length) {

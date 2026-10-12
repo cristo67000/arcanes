@@ -1,17 +1,24 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble plus de **cinq
+Une application web progressive (PWA), hors ligne, qui rassemble plus de **six
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
 l'Antiquité à nos jours, **textes** (Corpus Hermeticum, Zohar, manifestes
 rose-croix…), **notions**, **alchimie**, **kabbale et nombres**, **astrologie**,
 **tarot et divination** (les vingt-deux arcanes majeurs ont chacun leur
-article), **magie**, **ordres et sociétés**, **symboles**.
+article), **magie**, **ordres et sociétés**, **franc-maçonnerie** (la loge, ses
+officiers et ses usages, les grades, les rites, les obédiences, les figures et
+les textes), **symboles**.
+
+- plus de **deux cents illustrations** du domaine public : les cartes des
+  tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), des
+  portraits, des gravures alchimiques et maçonniques, des pages de titre ;
+  touchées, elles s'agrandissent et donnent leur source ;
 
 - des renvois partout : chaque article mène aux autres, et dit qui le cite ;
-- **34 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
-  Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme…), dont
-  les éléments sont cliquables ;
+- **36 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
+  Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
+  d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
 - une **frise chronologique** de plus de deux cents dates ;
 - une **révision** : quatre choix (définition → article, article → définition,
   « lequel est le plus ancien ? ») ou cartes à retourner ;
@@ -34,6 +41,10 @@ Les textes sont **originaux** : aucune source tierce n'est recopiée, il n'y a
 donc pas de question de licence. Les dates anciennes sont souvent approximatives
 et le disent (« vers »).
 
+Les illustrations viennent de Wikimedia Commons et sont toutes dans le domaine
+public ou sous CC0 : `build/illustrer.py` refuse toute autre licence. Leur
+provenance, leur légende et leur crédit sont dans `build/illustrations.txt`.
+
 ## Structure
 
 ```
@@ -41,8 +52,10 @@ index.html  manifest.webmanifest  sw.js  confidentialite.html
 css/        theme.css (couleurs, polices) · figure.css · app.css · page.css
 js/         un module par écran ou par rôle — voir l'en-tête de chacun
 js/glyphes.js   les signes (planètes, zodiaque, éléments) dessinés au trait
-js/figure.js    le moteur des figures ; js/figures/*.js, les 34 figures
+js/figure.js    le moteur des figures ; js/figures/*.js, les 36 figures
+js/illustrations.js  les images, la visionneuse, leur cache hors ligne
 data/       dictionnaire.json, manifeste.json — produits par build/construire.mjs
+img/        les illustrations en WebP — produites par build/illustrer.py
 icons/      icônes, image d'aperçu (build/generer-icones.py)
 build/      les sources des articles (articles/*.txt) et les outils
 ```
@@ -52,6 +65,14 @@ Zéro build à l'exécution : des fichiers statiques, servis tels quels. Le seul
 fichiers texte de `build/articles/` en `data/dictionnaire.json` et échoue au
 moindre défaut (renvoi cassé, définition manquante, figure introuvable, italique
 mal fermée). Il écrit un rapport dans `build/rapport.txt`.
+
+Les images ont leur propre étape : `python build/illustrer.py` lit
+`build/illustrations.txt`, télécharge chaque fichier depuis Commons (les
+originaux restent dans `build/.sources-images/`, hors du dépôt), vérifie la
+licence, recadre, réduit, convertit en WebP et écrit `build/illustrations.json`,
+que `construire.mjs` rattache aux articles. Le service worker ne les met pas
+dans la coquille de chaque version : la page les range en arrière-plan dans un
+cache à part, `arcanes-images`, qu'aucune mise à jour ne vide.
 
 ## Écrire un article
 
@@ -78,8 +99,8 @@ d'une phrase (règle dans `construire.mjs`, liste des noms propres à garder).
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données (342)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, révision, hors-ligne (85)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images (1 400)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, révision, hors-ligne (93)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
 ```

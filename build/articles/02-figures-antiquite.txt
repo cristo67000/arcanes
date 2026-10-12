@@ -105,7 +105,7 @@ nom: Mani
 alias: Manès, Manichée, Manes
 dates: 216 – 274 ou 277
 an: 216
-def: Prophète né en Mésopotamie, fondateur du manichéisme, qui se présentait comme le dernier des envoyés de Dieu et voulait unir toutes les religions.
+def: Prophète né en Mésopotamie au IIIe siècle, fondateur d'une religion dualiste répandue de l'Afrique du Nord à la Chine ; il se présentait comme le dernier des envoyés de Dieu et voulait unir toutes les religions.
 texte: Mani grandit dans une communauté baptiste judéo-chrétienne de Babylonie. Il dit avoir reçu, à douze puis à vingt-quatre ans, la visite d'un ange, son « jumeau » céleste, qui lui révèle sa mission. Il prêche en Perse sous la protection du roi Shapur Ier, envoie des missionnaires vers l'Occident et l'Orient, et rédige lui-même ses livres pour éviter, dit-il, les déformations qu'ont subies les enseignements de Zoroastre, de Bouddha et de Jésus.
 texte: Sous Bahram Ier, les prêtres mazdéens obtiennent sa condamnation ; il meurt en prison. Sa religion, le [[manicheisme]], lui survit pendant plus de mille ans.
 voir: manicheisme, gnosticisme, zoroastre

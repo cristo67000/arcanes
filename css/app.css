@@ -34,7 +34,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-courants { --cc: var(--c-courants); } .cat-figures { --cc: var(--c-figures); } .cat-textes { --cc: var(--c-textes); }
 .cat-notions { --cc: var(--c-notions); } .cat-alchimie { --cc: var(--c-alchimie); } .cat-kabbale { --cc: var(--c-kabbale); }
 .cat-astrologie { --cc: var(--c-astrologie); } .cat-divination { --cc: var(--c-divination); } .cat-magie { --cc: var(--c-magie); }
-.cat-societes { --cc: var(--c-societes); } .cat-symboles { --cc: var(--c-symboles); } .cat-perso { --cc: var(--c-perso); }
+.cat-societes { --cc: var(--c-societes); } .cat-maconnerie { --cc: var(--c-maconnerie); } .cat-symboles { --cc: var(--c-symboles); } .cat-perso { --cc: var(--c-perso); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));
@@ -46,6 +46,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .glyphe-ligne { width: 1.05rem; height: 1.05rem; color: var(--cc, var(--or)); stroke-width: 1.9; }
 .glyphe-titre { width: 3.6rem; height: 3.6rem; color: var(--or); stroke-width: 1.4; }
 .glyphe-du-jour { width: 3rem; height: 3rem; color: var(--or); stroke-width: 1.5; }
+.image-du-jour { flex: none; width: auto; height: auto; max-width: 5.2rem; max-height: 6.5rem; border-radius: 5px; box-shadow: var(--ombre); }
 .glyphe-porte { width: 1.1rem; height: 1.1rem; color: var(--or); }
 .glyphe-puce { width: .95rem; height: .95rem; margin-right: .35rem; vertical-align: -.12rem; color: var(--or); }
 .glyphe-frise { width: .95rem; height: .95rem; margin-right: .35rem; vertical-align: -.1rem; color: var(--or); }
@@ -356,6 +357,76 @@ a.renvoi:hover, a.renvoi:focus-visible { color: var(--accent); }
   border: 1px solid var(--trait); border-radius: var(--rayon);
 }
 .figure figcaption { margin: .55rem .2rem 0; font-size: .86rem; color: var(--encre-douce); }
+
+/* ————— Illustrations : en tête de fiche, en planche, en grand ————— */
+
+.illustrations { display: flex; gap: .9rem; justify-content: center; align-items: flex-start; margin: .1rem 0 1.3rem; }
+.illustration { margin: 0; min-width: 0; text-align: center; }
+.illustrations.n2 .illustration, .illustrations.n3 .illustration { flex: 1 1 0; max-width: 15rem; }
+.illustration-bouton {
+  display: block; width: 100%; padding: 0; border: 0; border-radius: 8px;
+  background: none; color: inherit; cursor: zoom-in;
+}
+.illustration img {
+  display: block; margin: 0 auto; width: auto; height: auto; max-width: 100%; max-height: 22rem;
+  border-radius: 6px; background: var(--carte); box-shadow: var(--ombre);
+}
+.illustrations.n1 img { max-height: 20rem; }
+.illustration-bouton:focus-visible img { outline: 2px solid var(--accent); outline-offset: 3px; }
+.illustration figcaption { margin: .5rem .1rem 0; font-size: .84rem; line-height: 1.35; color: var(--encre-douce); }
+.illustration-legende { display: block; }
+.illustration-credit { display: block; margin-top: .15rem; font-size: .72rem; color: var(--encre-legere); }
+/* Hors ligne, avant que l'image ne soit rangée : sa place, et un mot. */
+.illustration.absente img { display: none; }
+.illustration.absente .illustration-bouton {
+  display: flex; align-items: center; justify-content: center; min-height: 6rem; padding: .8rem;
+  border: 1px dashed var(--trait-fort); cursor: default;
+}
+.illustration.absente .illustration-bouton::after { content: "Image disponible une fois en ligne"; font-size: .8rem; color: var(--encre-legere); }
+
+.planche {
+  margin: 1.2rem 0 1.3rem; padding: .7rem .6rem .8rem; background: var(--carte);
+  border: 1px solid var(--trait); border-radius: var(--rayon);
+}
+.planche-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(3.7rem, 1fr)); gap: .7rem .45rem; }
+.vignette {
+  display: flex; flex-direction: column; align-items: center; gap: .3rem; min-width: 0; padding: 0;
+  border: 0; background: none; color: var(--encre-douce); cursor: pointer;
+  font: .68rem/1.15 var(--sans); text-align: center;
+}
+.vignette img { display: block; width: 100%; height: auto; border-radius: 3px; box-shadow: 0 1px 3px rgba(20, 14, 30, .25); }
+.vignette:hover img, .vignette:focus-visible img { outline: 2px solid var(--accent); outline-offset: 2px; }
+.vignette:focus-visible { outline: none; }
+.vignette-nom { overflow-wrap: anywhere; hyphens: auto; -webkit-hyphens: auto; }
+.vignette.absente img { visibility: hidden; }
+.planche figcaption { margin: .7rem .2rem 0; font-size: .86rem; color: var(--encre-douce); }
+
+#visionneuse {
+  position: fixed; inset: 0; z-index: 50;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: calc(env(safe-area-inset-top) + 3.6rem) .8rem calc(env(safe-area-inset-bottom) + 1rem);
+  background: rgba(12, 9, 19, .95); color: #ece6f6;
+}
+/* L'identifiant porte « display: flex », plus fort que l'attribut hidden. */
+#visionneuse[hidden] { display: none; }
+body.visionneuse-ouverte { overflow: hidden; }
+.visionneuse-cadre { flex: 1 1 auto; min-height: 0; width: 100%; display: flex; align-items: center; justify-content: center; }
+.visionneuse-image {
+  display: block; width: auto; height: auto; max-width: 100%; max-height: 100%;
+  border-radius: 6px; cursor: zoom-out;
+}
+.visionneuse-legende { flex: none; max-width: 34rem; margin-top: .8rem; text-align: center; font-size: .9rem; line-height: 1.4; }
+.visionneuse-legende .illustration-legende { font: 1rem/1.4 var(--serif); }
+.visionneuse-legende .illustration-credit { color: #b8afc9; font-size: .78rem; }
+.visionneuse-source { display: inline-block; margin-top: .5rem; color: #d6c4ff; font-size: .8rem; }
+.visionneuse-fermer {
+  position: absolute; top: calc(env(safe-area-inset-top) + .6rem); right: .8rem;
+  width: 2.75rem; height: 2.75rem; border-radius: 50%; border: 1px solid rgba(255, 255, 255, .35);
+  background: rgba(255, 255, 255, .08); color: #fff; font-size: 1.1rem; cursor: pointer;
+}
+.visionneuse-fermer:hover, .visionneuse-fermer:focus-visible { background: rgba(255, 255, 255, .2); }
+#visionneuse.absente .visionneuse-image { display: none; }
+#visionneuse.absente .visionneuse-cadre::after { content: "Image disponible une fois en ligne"; color: #b8afc9; }
 
 .oeuvres { margin: 1rem 0; }
 .oeuvres ul { margin: 0; padding-left: 1.2rem; }

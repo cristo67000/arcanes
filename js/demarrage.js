@@ -47,6 +47,10 @@
         .then((enregistrement) => MiseAJour.surveiller(enregistrement))
         .catch((erreur) => console.warn('Arcanes : service worker non installé —', erreur));
     }
+
+    /* Les illustrations, pour la lecture hors ligne : après tout le reste, quand
+     * l'application est à l'écran et que la coquille a eu sa part de réseau. */
+    setTimeout(() => { Illustrations.entretenir().catch(() => {}); }, sansSw ? 500 : 4000);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', demarrer);

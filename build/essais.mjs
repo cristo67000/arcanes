@@ -168,6 +168,43 @@ try {
   // Tous les signes
   ok(await js("return Object.keys(Glyphes).every((g) => Glyphes.svg(g) instanceof SVGElement)"), 'tous les signes se dessinent');
 
+  // ── Aucun texte ne laisse voir ses balises ([[…]], *…*) ──────────────────
+  const balises = await js(`
+    const sortie = [];
+    for (const a of Dictionnaire.articles) {
+      for (const t of [a.d].concat(a.t || [], a.at ? [a.at] : [])) {
+        if (/\\[\\[|\\]\\]|\\*/.test(Rendu.paragraphe(t).textContent)) { sortie.push(a.id); break; }
+      }
+    }
+    return sortie;
+  `);
+  ok(balises.length === 0, 'aucune balise ne reste visible dans les textes (' + balises.slice(0, 6).join(', ') + ')');
+  ok(await js("return Rendu.paragraphe('La *[[zohar|Zohar]]* et le [[zohar]].').querySelectorAll('i a.renvoi').length === 1"), 'un renvoi en italique est un lien, dans l’italique');
+
+  // ── Les illustrations : les cartes, la visionneuse, la planche ────────────
+  await js("Fiche.ouvrir('arcane-bateleur'); return 1");
+  await attendre("Fiche.ref === 'arcane-bateleur' && document.querySelectorAll('#fiche .illustration img').length === 2 && Array.from(document.querySelectorAll('#fiche .illustration img')).every((i) => i.complete && i.naturalWidth > 0)", 8000, 'les deux cartes du Bateleur s’affichent');
+  ok(await js("return Array.from(document.querySelectorAll('#fiche .illustration-credit')).every((c) => /domaine public|CC0/.test(c.textContent))"), 'chaque image dit sa licence');
+  await js("document.querySelector('#fiche .illustration-bouton').click(); return 1");
+  await attendre("Illustrations.ouverte && document.querySelector('#visionneuse img') && document.querySelector('#visionneuse img').naturalWidth > 0", 4000, 'la visionneuse montre la carte en grand');
+  ok(await js("return !!document.querySelector('#visionneuse .visionneuse-source[href^=\"https://commons.wikimedia.org/\"]')"), 'la visionneuse donne la source de l’image');
+  await js('history.back(); return 1');
+  await attendre('!Illustrations.ouverte', 3000, '« retour » referme la visionneuse');
+  ok(await js("return Fiche.ouverte && Fiche.ref === 'arcane-bateleur'"), '« retour » referme la visionneuse sans fermer la fiche');
+  await js("Fiche.ouvrir('arcanes-majeurs'); return 1");
+  await attendre("Fiche.ref === 'arcanes-majeurs' && document.querySelectorAll('#fiche .vignette').length === 22", 4000, 'la planche des vingt-deux arcanes');
+  await js("document.querySelectorAll('#fiche .vignette')[3].click(); return 1");
+  await attendre("Fiche.ref === 'arcane-empereur'", 3000, 'une vignette ouvre son arcane');
+  ok(await js("return Fiche.ref") === 'arcane-empereur', 'la quatrième vignette ouvre l’Empereur');
+  await js("Fiche.ouvrir('temple-maconnique'); return 1");
+  await attendre("Fiche.ref === 'temple-maconnique' && document.querySelector('#fiche .f-lien[data-ref=\"venerable-maitre\"]')", 3000, 'le plan de loge');
+  await js("document.querySelector('#fiche .f-lien[data-ref=\"venerable-maitre\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
+  await attendre("Fiche.ref === 'venerable-maitre'", 3000, 'toucher le Vénérable dans le plan ouvre son article');
+  ok(await js("return Array.from(document.querySelectorAll('#filtres .filtre')).some((b) => /Franc-maçonnerie/.test(b.textContent))"), 'la franc-maçonnerie a son filtre');
+  await js('Fiche.fermer(); return 1');
+  await attendre('!Fiche.ouverte', 3000, 'fermeture');
+  await pause(500);
+
   // ── Notes et article à soi ────────────────────────────────────────────────
   await js("Fiche.ouvrir('tarot'); return 1");
   await attendre("Fiche.ref === 'tarot'", 3000, 'fiche Tarot');
@@ -301,10 +338,14 @@ try {
     const liste = JSON.parse('[' + /const FICHIERS = \[([\s\S]*?)\];/.exec(swSource)[1].replace(/'/g, '"').replace(/,\s*$/, '') + ']');
     ok(fichiers.length === liste.length, 'la coquille contient tous les fichiers (' + fichiers.length + ' / ' + liste.length + ')');
     // Tout ce que la page a chargé est dans la coquille
-    const charges = await js("return performance.getEntriesByType('resource').map((e) => new URL(e.name).pathname).filter((p) => !p.startsWith('/sw.js'))");
+    const charges = await js("return performance.getEntriesByType('resource').map((e) => new URL(e.name).pathname).filter((p) => !p.startsWith('/sw.js') && !p.startsWith('/img/'))");
     const dans = new Set(liste.map((f) => '/' + f.replace(/^\.\//, '')));
     const absents = Array.from(new Set(charges)).filter((p) => !dans.has(p) && !dans.has(p.replace(/^\//, '')) && p !== '/');
     ok(absents.length === 0, 'tout ce que la page charge est dans la coquille (absents : ' + absents.join(', ') + ')');
+    // Les illustrations se rangent dans leur propre cache
+    const rangees = await js("const e = await Illustrations.entretenir(true); const c = await caches.open('arcanes-images'); return { prets: e.prets, total: e.total, dans: (await c.keys()).length }");
+    ok(rangees.total === MANIFESTE.images && rangees.prets === rangees.total && rangees.dans === rangees.total,
+      'toutes les illustrations sont rangées pour le hors-ligne (' + rangees.dans + ' / ' + MANIFESTE.images + ')');
     // Hors ligne : le serveur s'arrête, l'application se rouvre
     await serveur.arreter();
     await demarrage();
@@ -312,6 +353,8 @@ try {
     await js("Fiche.ouvrir('alchimie'); return 1");
     await attendre("Fiche.ref === 'alchimie' && document.querySelector('#fiche .figure svg')", 4000, 'hors ligne, une fiche et sa figure s’ouvrent');
     ok(await js('return !!navigator.serviceWorker.controller'), 'hors ligne, c’est bien le service worker qui sert la page');
+    await js("Fiche.ouvrir('arcane-mat'); return 1");
+    await attendre("Fiche.ref === 'arcane-mat' && document.querySelectorAll('#fiche .illustration img').length === 2 && Array.from(document.querySelectorAll('#fiche .illustration img')).every((i) => i.complete && i.naturalWidth > 0)", 6000, 'hors ligne, les cartes du Mat s’affichent');
   }
 } catch (e) {
   echecs.push('exception : ' + (e && e.stack ? e.stack : e));

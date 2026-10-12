@@ -111,8 +111,24 @@
 .f-carte-cadre { fill: var(--carte); stroke: var(--trait-fort); stroke-width: 1.2; }
 .f-carte-interieur { fill: none; stroke: var(--or); stroke-width: .7; opacity: .7; }
 
+/* La loge maçonnique et les rites */
+.f-mur { fill: none; stroke: var(--encre-douce); stroke-width: 2.4; stroke-linecap: square; }
+.f-marche { fill: var(--or-clair); stroke: var(--trait-fort); stroke-width: .8; }
+.f-delta { fill: var(--or-clair); stroke: var(--or); stroke-width: 1.4; stroke-linejoin: round; }
+.f-houppe { fill: none; stroke: var(--encre-legere); stroke-width: 1.2; stroke-dasharray: 5 3; }
+.f-houppe-active { stroke: var(--accent); stroke-width: 2.4; }
+.f-noeud-houppe { fill: var(--encre-legere); }
+.f-pierre { fill: var(--el-terre); stroke: var(--encre-douce); stroke-width: 1; stroke-linejoin: round; }
+.f-pierre-claire { fill: var(--carte); stroke: var(--encre-douce); stroke-width: 1; stroke-linejoin: round; }
+.f-pierre-sombre { fill: var(--trait-fort); stroke: var(--encre-douce); stroke-width: 1; stroke-linejoin: round; }
+.f-damier-noir { fill: var(--encre-douce); }
+.f-damier-blanc { fill: var(--carte); }
+.f-colonne { fill: var(--or-clair); stroke: var(--or); stroke-width: 1.6; }
+.f-grade-bleu { fill: var(--c-maconnerie); }
+.f-grade-haut { fill: var(--or-clair); stroke: var(--or); stroke-width: 1; }
+
 /* Les groupes : sans style propre, ils rassemblent ce qu'un lien rend cliquable */
-.f-phase, .f-sommet, .f-operation, .f-secteur-zodiaque, .f-ligne-table, .f-sentiers, .f-noeud, .f-niveau { }
+.f-phase, .f-sommet, .f-operation, .f-secteur-zodiaque, .f-ligne-table, .f-sentiers, .f-noeud, .f-niveau, .f-zone { }
 
 /* Les éléments cliquables d'une figure ouvrent un article */
 .f-lien { cursor: pointer; }

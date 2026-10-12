@@ -3,9 +3,10 @@
  * Service worker.
  *
  * Tout ce qu'il faut à l'application — pages, feuilles de style, scripts,
- * figures, icônes et le dictionnaire lui-même (six cents Ko) — est rangé d'un
+ * figures, icônes et le dictionnaire lui-même (huit cents Ko) — est rangé d'un
  * seul bloc, dans un cache propre à la version : « cache d'abord », et hors
- * ligne dès le premier lancement.
+ * ligne dès le premier lancement. Les illustrations (une dizaine de Mo) ont
+ * leur cache à part, qui survit aux versions : voir plus bas.
  *
  * Une version suivante se prépare dans un autre cache et ne prend la main
  * qu'au feu vert de `js/miseajour.js`, quand la personne a accepté le bandeau :
@@ -16,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.0.1';
+const VERSION = 'v1.1.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -35,10 +36,12 @@ const FICHIERS = [
   'js/glyphes.js',
   'js/figure.js',
   'js/figures/kabbale.js',
+  'js/figures/maconnerie.js',
   'js/figures/astrologie.js',
   'js/figures/alchimie.js',
   'js/figures/tarot.js',
   'js/figures/symboles.js',
+  'js/illustrations.js',
   'js/voix.js',
   'js/editeur.js',
   'js/fiche.js',
@@ -113,9 +116,25 @@ self.addEventListener('activate', (e) => {
   })());
 });
 
+/* Les illustrations ont leur propre cache, qui survit aux versions : la page le
+ * remplit en arrière-plan (js/illustrations.js) et en retire ce qui ne sert
+ * plus. L'adresse porte l'empreinte du fichier (`?v=…`) et se compare telle
+ * quelle. Une image demandée avant d'y être rangée y entre au passage. */
+const IMAGES = 'arcanes-images';
+
+async function servirImage(requete) {
+  const cache = await caches.open(IMAGES);
+  const enCache = await cache.match(requete, { ignoreVary: true });
+  if (enCache) return enCache;
+  const reponse = await fetch(requete);
+  if (reponse.ok) await cache.put(requete, reponse.clone());
+  return reponse;
+}
+
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== self.location.origin) return;
+  if (url.pathname.includes('/img/')) { e.respondWith(servirImage(e.request)); return; }
 
   /* Le cache de cette version, et lui seul. Ce qui n'y est pas — l'image
    * d'aperçu, une adresse inconnue — va au réseau sans rien laisser dans le

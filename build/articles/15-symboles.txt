@@ -70,22 +70,22 @@ texte: La [[franc-maconnerie]] en fait le « delta lumineux » qui surmonte le s
 voir: franc-maconnerie, illumines-de-baviere, pyramides, trois-points
 
 @ compas-et-equerre
-cat: symboles
+cat: maconnerie
 nom: Compas et équerre
 alias: équerre et compas, équerre, compas, la lettre G
 def: Emblème principal de la franc-maçonnerie : l'équerre, instrument de la rectitude et de la matière, et le compas, instrument de la mesure et de l'esprit, croisés l'un sur l'autre.
 texte: L'équerre trace l'angle droit et le carré de la terre ; le compas trace le cercle du ciel. Leur position varie selon les grades : chez l'apprenti, l'équerre recouvre le compas ; chez le compagnon, ils s'entrecroisent ; chez le maître, le compas domine, signe que l'esprit l'emporte. Dans les pays anglophones, une lettre G, pour *God* et Géométrie, est placée entre eux.
 texte: Avec la Bible ou le livre de la loi, ils forment les « trois grandes lumières » de la loge. On les retrouve sur les tombes, les bijoux et les bâtiments maçonniques du monde entier.
-voir: franc-maconnerie, grades-maconniques, etoile-flamboyante
+voir: franc-maconnerie, trois-grandes-lumieres, outils-maconniques, etoile-flamboyante
 
 @ acacia
-cat: symboles
+cat: maconnerie
 nom: Acacia
 alias: branche d'acacia, l'acacia m'est connu
 def: Arbuste dont la branche, dans la légende maçonnique, marquait la tombe de l'architecte Hiram, et qui symbolise l'immortalité et la connaissance du maître.
-texte: Selon la légende du grade de maître, les compagnons partis à la recherche d'Hiram assassiné découvrent sa tombe grâce à une branche d'acacia plantée sur la terre fraîchement remuée. Le bois d'acacia, réputé imputrescible, était celui de l'arche d'alliance.
+texte: Selon la [[legende-d-hiram|légende du grade de maître]], les compagnons partis à la recherche d'Hiram assassiné découvrent sa tombe grâce à une branche d'acacia plantée sur la terre fraîchement remuée. Le bois d'acacia, réputé imputrescible, était celui de l'arche d'alliance.
 texte: La formule « l'acacia m'est connu » permet à un maître de se faire reconnaître. L'acacia est devenu l'image de l'espérance d'une vie qui triomphe de la mort.
-voir: franc-maconnerie, grades-maconniques
+voir: legende-d-hiram, maitre-macon, franc-maconnerie
 
 @ labyrinthe
 cat: symboles
@@ -198,13 +198,13 @@ texte: On le retrouve autour du [[caducee|caducée]] d'Hermès, du bâton d'Ascl
 voir: ouroboros, caducee, kundalini, gnosticisme, lumiere-astrale
 
 @ etoile-flamboyante
-cat: symboles
+cat: maconnerie
 nom: Étoile flamboyante
 alias: étoile flamboyante, étoile maçonnique, lettre G
 def: Étoile à cinq branches entourée de rayons, souvent marquée en son centre de la lettre G, symbole du grade de compagnon dans la franc-maçonnerie.
 texte: Présentée au compagnon après son [[initiation]], l'étoile flamboyante figure l'homme régénéré, éclairé par la connaissance, à l'image du [[pentagramme]] de la tradition hermétique. La lettre G a reçu de nombreuses interprétations : Géométrie, Gnose, Génération, Gravitation, ou Dieu (*God*).
 texte: Elle brille à l'orient du temple, au-dessus ou à côté du vénérable, et rappelle l'étoile qui guida les Mages.
-voir: franc-maconnerie, grades-maconniques, pentagramme, compas-et-equerre
+voir: compagnon, grades-maconniques, pentagramme, compas-et-equerre
 
 @ colonnes-jakin-et-boaz
 cat: symboles
@@ -212,17 +212,19 @@ nom: Colonnes Jakin et Boaz
 alias: Jakin, Boaz, Jachin, Booz, deux colonnes, colonnes du Temple
 def: Les deux colonnes de bronze qui se dressaient devant le Temple de Salomon, reprises dans toutes les loges maçonniques et dans l'iconographie ésotérique.
 texte: Le premier livre des Rois décrit les deux colonnes coulées par l'artisan Hiram de Tyr et placées à l'entrée du Temple : à droite Jakin (« il établira »), à gauche Boaz (« en lui la force »). Elles sont devenues l'image du seuil, de l'entrée dans le lieu sacré.
-texte: Dans les loges maçonniques, elles encadrent la porte du temple, et chaque grade se rattache à l'une d'elles. La [[kabbale-hermetique|kabbale hermétique]] les identifie aux deux colonnes latérales de l'arbre des séphiroth, rigueur et miséricorde ; la Grande Prêtresse du [[tarot-rider-waite|tarot Rider-Waite]] siège entre une colonne noire marquée B et une blanche marquée J.
-voir: salomon, franc-maconnerie, arcane-papesse, arbre-des-sephiroth
+texte: Dans les loges maçonniques, elles encadrent la porte du [[temple-maconnique|temple]] — à gauche ou à droite selon les rites — et les deux premiers grades se rattachent chacun à l'une d'elles. La [[kabbale-hermetique|kabbale hermétique]] les identifie aux deux colonnes latérales de l'arbre des séphiroth, rigueur et miséricorde ; la Grande Prêtresse du [[tarot-rider-waite|tarot Rider-Waite]] siège entre une colonne noire marquée B et une blanche marquée J.
+schema: plan-de-loge/colonnes
+voir: salomon, temple-de-salomon, franc-maconnerie, arcane-papesse, arbre-des-sephiroth
 
 @ chaine-d-union
-cat: symboles
+cat: maconnerie
 nom: Chaîne d'union
 alias: chaîne d'union, houppe dentelée, lacs d'amour
 def: Rite de clôture de nombreuses loges maçonniques, où les frères se tiennent par la main, bras croisés, pour former un cercle fraternel ; on appelle aussi ainsi la corde à nœuds qui entoure le temple.
 texte: Les participants forment une chaîne autour du temple, chacun donnant la main droite à son voisin de gauche et la gauche à son voisin de droite. Un mot ou une pensée circule, et l'on évoque les absents et les disparus.
 texte: La corde à nœuds, ou « houppe dentelée », qui fait le tour de la loge, représente la même idée d'une communauté unie. Les ésotéristes y voient la formation d'un [[egregore]].
-voir: franc-maconnerie, egregore, initiation
+schema: plan-de-loge/houppe
+voir: franc-maconnerie, egregore, agapes, initiation
 
 @ lotus
 cat: symboles
@@ -261,7 +263,7 @@ texte: Les astrologues remarquent qu'ils répondent aux quatre signes fixes : [[
 voir: arcane-monde, sphinx, triplicites, merkavah, quatre-elements
 
 @ trois-points
-cat: symboles
+cat: maconnerie
 nom: Trois points
 alias: ∴, trois points en triangle, frère trois-points, abréviation maçonnique
 def: Signe formé de trois points disposés en triangle, utilisé par les francs-maçons pour abréger les mots et signer, d'où le surnom de « frères trois-points ».

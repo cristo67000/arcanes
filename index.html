@@ -7,11 +7,11 @@
        d'audience. `connect-src 'self'` suffit, et le dit. -->
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="no-referrer">
-  <meta name="description" content="Dictionnaire encyclopédique de l'ésotérisme : plus de cinq cents articles sur l'hermétisme, l'alchimie, la kabbale, l'astrologie, le tarot, la magie, les Rose-Croix, la théosophie et leurs figures, avec schémas, frise chronologique, notes et révision. Hors ligne, sans compte, sans publicité.">
+  <meta name="description" content="Dictionnaire encyclopédique de l'ésotérisme : plus de six cents articles sur l'hermétisme, l'alchimie, la kabbale, l'astrologie, le tarot, la magie, la franc-maçonnerie, les Rose-Croix, la théosophie et leurs figures, illustrés de gravures et de cartes anciennes, avec schémas, frise chronologique, notes et révision. Hors ligne, sans compte, sans publicité.">
   <meta name="theme-color" content="#1d1630">
   <!-- La version de la coquille, la même que dans sw.js : à l'installation,
        le service worker refuse une page d'une autre version. -->
-  <meta name="application-version" content="v1.0.1">
+  <meta name="application-version" content="v1.1.0">
   <title>Arcanes — dictionnaire encyclopédique de l'ésotérisme</title>
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -21,7 +21,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Arcanes">
   <meta property="og:title" content="Arcanes — dictionnaire encyclopédique de l'ésotérisme">
-  <meta property="og:description" content="Hermétisme, alchimie, kabbale, astrologie, tarot, magie, Rose-Croix, théosophie : plus de cinq cents articles, des schémas et une frise, hors ligne.">
+  <meta property="og:description" content="Hermétisme, alchimie, kabbale, astrologie, tarot, magie, franc-maçonnerie, Rose-Croix, théosophie : plus de six cents articles illustrés, des schémas et une frise, hors ligne.">
   <meta property="og:url" content="https://cristo67000.github.io/arcanes/">
   <meta property="og:image" content="https://cristo67000.github.io/arcanes/icons/apercu-1200x630.png">
   <meta property="og:image:width" content="1200">
@@ -180,6 +180,8 @@
     <div id="editeur-contenu"></div>
   </aside>
 
+  <div id="visionneuse" hidden aria-modal="true" role="dialog"></div>
+
   <script src="js/outils.js"></script>
   <script src="js/store.js"></script>
   <script src="js/dictionnaire.js"></script>
@@ -187,10 +189,12 @@
   <script src="js/glyphes.js"></script>
   <script src="js/figure.js"></script>
   <script src="js/figures/kabbale.js"></script>
+  <script src="js/figures/maconnerie.js"></script>
   <script src="js/figures/astrologie.js"></script>
   <script src="js/figures/alchimie.js"></script>
   <script src="js/figures/tarot.js"></script>
   <script src="js/figures/symboles.js"></script>
+  <script src="js/illustrations.js"></script>
   <script src="js/voix.js"></script>
   <script src="js/editeur.js"></script>
   <script src="js/fiche.js"></script>

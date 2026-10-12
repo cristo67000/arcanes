@@ -1,0 +1,346 @@
+# La franc-maçonnerie : ses figures, ses textes, ses voisins (le Temple de
+# Salomon, le compagnonnage).
+# Format : voir l'en-tête de build/construire.mjs.
+
+# ── Figures ─────────────────────────────────────────────────────────────────
+
+@ robert-moray
+cat: figures
+nom: Robert Moray
+alias: Sir Robert Moray, Murray, Robert Murray
+an: 1641
+dates: vers 1608 – 1673
+def: Soldat, diplomate et savant écossais, l'un des fondateurs de la Royal Society, dont la réception dans une loge en 1641 est la plus ancienne initiation d'un non-maçon attestée en Angleterre.
+texte: Officier au service de la France puis des Covenantaires écossais, Moray est reçu le 20 mai 1641 à Newcastle par des membres de la loge d'Édimbourg qui suivaient l'armée écossaise. Il prend pour marque de maçon un [[pentagramme]], qu'il dessinera longtemps en signature de ses lettres.
+texte: Familier de Charles II, curieux de chimie, d'[[alchimie]] et de physique, il est en 1660 l'un des fondateurs de la Royal Society, qu'il préside à ses débuts. Son cas montre qu'avant 1717, des gentilshommes savants entraient déjà dans les loges de métier (voir [[operatifs-et-speculatifs|opératifs et spéculatifs]]).
+voir: operatifs-et-speculatifs, elias-ashmole, pentagramme, franc-maconnerie
+
+@ james-anderson
+cat: figures
+nom: James Anderson
+alias: Anderson, pasteur Anderson
+an: 1723
+dates: vers 1679 – 1739
+def: Pasteur presbytérien écossais établi à Londres, rédacteur des Constitutions de 1723, le texte fondateur de la franc-maçonnerie moderne.
+texte: Né à Aberdeen, ministre d'une congrégation presbytérienne de Londres, Anderson est chargé par la jeune [[grande-loge-de-londres|Grande Loge de Londres]] de mettre en ordre les anciens devoirs du métier. Il en tire les *[[constitutions-d-anderson|Constitutions]]* (1723), qui joignent une histoire légendaire de l'architecture, d'Adam à la Grande-Bretagne, aux « obligations » du franc-maçon et aux règlements des loges.
+texte: Il en publie en 1738 une seconde édition augmentée, où il raconte pour la première fois la fondation de 1717. Son rôle exact, et la part qu'y eut [[jean-theophile-desaguliers]], sont discutés ; son nom est resté attaché à l'esprit de tolérance de la maçonnerie anglaise.
+voir: constitutions-d-anderson, grande-loge-de-londres, jean-theophile-desaguliers, old-charges
+
+@ jean-theophile-desaguliers
+cat: figures
+nom: Jean-Théophile Désaguliers
+alias: John Theophilus Desaguliers, Désaguliers, Desaguliers
+an: 1719
+dates: 1683 – 1744
+def: Physicien d'origine huguenote, collaborateur de Newton à la Royal Society et troisième grand maître de la Grande Loge de Londres, l'un des véritables architectes de la maçonnerie moderne.
+texte: Né à La Rochelle, emmené tout enfant en Angleterre par son père, pasteur réfugié après la révocation de l'édit de Nantes, Désaguliers devient le démonstrateur des expériences de la Royal Society et un vulgarisateur célèbre de la physique d'[[isaac-newton]], dont il est le proche. Élu grand maître en 1719, il attire dans les loges l'aristocratie et le monde savant.
+texte: On lui attribue une grande part dans les *[[constitutions-d-anderson|Constitutions]]* de 1723 et la diffusion de la maçonnerie sur le continent : en 1731, à La Haye, il préside la réception du duc François de Lorraine, futur empereur. Il incarne l'alliance des Lumières newtoniennes et de la sociabilité maçonnique.
+voir: grande-loge-de-londres, constitutions-d-anderson, isaac-newton, james-anderson
+
+@ andrew-michael-ramsay
+cat: figures
+nom: Andrew Michael Ramsay
+alias: chevalier de Ramsay, Ramsay, André-Michel de Ramsay
+an: 1736
+dates: 1686 – 1743
+def: Écrivain écossais converti au catholicisme par Fénelon, dont le discours de 1736 rattacha la franc-maçonnerie aux chevaliers des croisades et inspira les hauts grades.
+texte: Disciple et biographe de Fénelon à Cambrai, précepteur un temps du jeune prince Charles Édouard Stuart, Ramsay est un auteur à succès avec *Les Voyages de Cyrus* (1727), roman philosophique inspiré du *Télémaque*. Fait chevalier de Saint-Lazare, il entre en maçonnerie et devient grand orateur de l'ordre en France.
+texte: Son [[discours-de-ramsay|discours]] de 1736, revu en 1737, présente la maçonnerie comme une société universelle fondée par des croisés qui auraient uni l'épée et la truelle. Il ne parle pas des [[templiers]], mais son récit ouvre la voie aux grades chevaleresques et à l'[[ecossisme]] qui fleurissent dans les années suivantes.
+voir: discours-de-ramsay, ecossisme, templiers, grades-maconniques
+
+@ etienne-morin
+cat: figures
+nom: Étienne Morin
+alias: Estienne Morin, Stephen Morin
+an: 1761
+dates: vers 1717 – 1771
+def: Négociant et franc-maçon français qui, muni d'une patente de 1761, répandit aux Antilles un système de vingt-cinq hauts grades d'où sortit le Rite écossais ancien et accepté.
+texte: Membre actif des loges de Bordeaux, Morin reçoit à Paris, le 27 août 1761, une patente qui le nomme grand inspecteur pour le Nouveau Monde. Capturé en mer par les Anglais l'année suivante, il gagne enfin Saint-Domingue, où il propage son « ordre du Royal Secret », puis la Jamaïque, où il meurt en 1771. Ses copies de la patente ont sans doute été enjolivées pour asseoir son autorité.
+texte: Son adjoint Henry Andrew Francken diffuse le système en Amérique du Nord. Le [[rite-de-perfection|Rite de perfection]] ainsi transmis devient en 1801, à Charleston, le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]].
+voir: rite-de-perfection, rite-ecossais-ancien-et-accepte, ecossisme
+
+@ karl-gotthelf-von-hund
+cat: figures
+nom: Karl Gotthelf von Hund
+alias: baron von Hund, Hund, Eques ab Ense
+an: 1751
+dates: 1722 – 1776
+def: Gentilhomme saxon, fondateur de la Stricte Observance templière, qui prétendait avoir reçu à Paris la succession secrète des chevaliers du Temple.
+texte: Seigneur de Lipse, en Haute-Lusace, von Hund raconte avoir été reçu en 1743 dans l'ordre du Temple par un chevalier inconnu, que l'on a voulu identifier au prince Charles Édouard Stuart. Sur cette révélation, il fonde à partir de 1751 la [[stricte-observance|Stricte Observance templière]], dont il devient le chef sous le nom de chevalier de l'Épée, *Eques ab Ense*, et y engage sa fortune.
+texte: Incapable de produire les « supérieurs inconnus » au nom desquels il commandait, contesté au convent de Brunswick en 1775, il meurt l'année suivante. Son système, qui avait conquis une grande partie de l'Europe maçonnique, est réformé six ans plus tard au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]].
+voir: stricte-observance, templiers, convent-de-wilhelmsbad, jean-baptiste-willermoz
+
+@ joseph-de-maistre
+cat: figures
+nom: Joseph de Maistre
+alias: Maistre, comte de Maistre, Josephus a Floribus
+an: 1782
+dates: 1753 – 1821
+def: Magistrat et penseur savoyard, franc-maçon du Régime écossais rectifié dans sa jeunesse, devenu le grand théoricien de la contre-révolution et du providentialisme.
+texte: Initié à Chambéry en 1774, de Maistre rejoint les loges rectifiées et la classe secrète des Grands Profès, où il découvre la doctrine de la [[reintegration]] de [[martinez-de-pasqually]] et lit avec passion [[louis-claude-de-saint-martin]]. En 1782, il adresse au duc de Brunswick, à l'occasion du [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], un mémoire où il voit dans la maçonnerie le moyen de réunir les chrétiens séparés.
+texte: La Révolution en fait l'adversaire résolu des Lumières : les *Considérations sur la France* (1796), puis *Les Soirées de Saint-Pétersbourg* (1821), lisent l'histoire comme l'œuvre de la Providence. Il y dialogue encore avec l'[[illuminisme]] de sa jeunesse, dont il garde le goût des correspondances et de la réversibilité des souffrances.
+oeuvres: Mémoire au duc de Brunswick (1782) ; Considérations sur la France (1796) ; Les Soirées de Saint-Pétersbourg (1821)
+voir: rite-ecossais-rectifie, illuminisme, louis-claude-de-saint-martin, convent-de-wilhelmsbad
+
+@ benjamin-franklin
+cat: figures
+nom: Benjamin Franklin
+alias: Franklin
+an: 1731
+dates: 1706 – 1790
+def: Imprimeur, savant et homme d'État américain, franc-maçon dès 1731, éditeur des premières Constitutions maçonniques d'Amérique et Vénérable de la loge parisienne des Neuf Sœurs.
+texte: Reçu en 1731 dans la loge Saint-Jean de Philadelphie, Franklin imprime en 1734 les *[[constitutions-d-anderson|Constitutions]]* d'Anderson, premier livre maçonnique publié en Amérique, et devient la même année grand maître de Pennsylvanie. L'inventeur du paratonnerre est aussi l'un des pères de la Déclaration d'indépendance.
+texte: Ambassadeur à Paris de 1776 à 1785, il fréquente les loges et devient en 1779 le Vénérable des [[les-neuf-soeurs|Neuf Sœurs]], où il a assisté à la réception de Voltaire. En 1784, il préside la commission royale qui conclut que le [[magnetisme-animal|magnétisme animal]] de [[franz-anton-mesmer]] n'agit que par l'imagination.
+voir: les-neuf-soeurs, constitutions-d-anderson, franz-anton-mesmer, magnetisme-animal
+
+@ gotthold-ephraim-lessing
+cat: figures
+nom: Gotthold Ephraim Lessing
+alias: Lessing, Ernst et Falk, Ernst und Falk
+an: 1778
+dates: 1729 – 1781
+def: Écrivain et philosophe allemand des Lumières, franc-maçon, auteur des Dialogues maçonniques Ernst et Falk, qui font de la maçonnerie un idéal plutôt qu'une institution.
+texte: Reçu en 1771 dans une loge de Hambourg, Lessing est vite déçu par les cérémonies et les hauts grades. Dans *Ernst et Falk* (1778-1780), deux amis conversent : la vraie maçonnerie, dit Falk, ne réside pas dans les loges, mais dans l'effort des hommes de bien pour dépasser les frontières que tracent entre eux les nations, les religions et les classes.
+texte: Auteur de *Nathan le Sage* (1779), plaidoyer pour la tolérance entre juifs, chrétiens et musulmans, et de *L'Éducation du genre humain* (1780), qui envisage une révélation progressive et même la réincarnation, Lessing a donné à la maçonnerie allemande ses textes les plus médités.
+oeuvres: Ernst et Falk, dialogues pour francs-maçons (1778-1780) ; Nathan le Sage (1779) ; L'Éducation du genre humain (1780)
+voir: franc-maconnerie, reincarnation, wolfgang-amadeus-mozart
+
+@ wolfgang-amadeus-mozart
+cat: figures
+nom: Wolfgang Amadeus Mozart
+alias: Mozart
+an: 1784
+dates: 1756 – 1791
+def: Compositeur autrichien, reçu franc-maçon à Vienne en 1784, qui écrivit de la musique pour les loges et fit de La Flûte enchantée un opéra initiatique.
+texte: Mozart est initié le 14 décembre 1784 dans la loge viennoise *Zur Wohltätigkeit*, « La Bienfaisance » ; son père Leopold et son ami Joseph Haydn entrent aussi dans l'ordre. La Vienne de Joseph II compte alors des loges brillantes, comme *Zur wahren Eintracht*, où le minéralogiste Ignaz von Born étudie les mystères égyptiens. Mozart compose des cantates, des chants et la *Musique funèbre maçonnique* (1785), où reviennent les rythmes ternaires et les tonalités à trois bémols chères aux maçons.
+texte: *[[la-flute-enchantee|La Flûte enchantée]]* (1791), écrite avec le librettiste Emanuel Schikaneder, maçon lui aussi, transpose sur scène une initiation par les épreuves du silence, du feu et de l'eau, dans un décor égyptien. Mozart meurt quelques semaines après la création.
+oeuvres: Musique funèbre maçonnique (1785) ; Die Zauberflöte (1791) ; Petite cantate maçonnique (1791)
+voir: la-flute-enchantee, egyptosophie, initiation-maconnique
+
+@ johann-wolfgang-von-goethe
+cat: figures
+nom: Johann Wolfgang von Goethe
+alias: Goethe, Faust, Das Märchen, Le Conte
+an: 1780
+dates: 1749 – 1832
+def: Poète et savant allemand, franc-maçon et un temps Illuminé de Bavière, dont l'œuvre est nourrie de lectures alchimiques, hermétiques et néoplatoniciennes.
+texte: Convalescent à Francfort en 1768-1769, le jeune Goethe lit, sous l'influence de la piétiste Susanne von Klettenberg, [[paracelse]], Basile Valentin et l'*Opus mago-cabbalisticum* de Welling, et fait des expériences d'[[alchimie]] : il en reste l'esprit de *Faust*. Reçu franc-maçon à Weimar le 23 juin 1780, il entre en 1783 chez les [[illumines-de-baviere|Illuminés de Bavière]].
+texte: Son *Conte* (1795), récit symbolique peuplé d'un serpent, de feux follets et de rois de métal, a été lu comme un rituel alchimique ; [[rudolf-steiner]], éditeur de ses écrits scientifiques, en tira son premier drame-mystère. Sa théorie des couleurs et sa recherche de la plante originelle prolongent la [[naturphilosophie]].
+oeuvres: Faust (1808, 1832) ; Le Conte du serpent vert et de la belle Lys (1795) ; Traité des couleurs (1810)
+voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner
+
+@ augustin-barruel
+cat: figures
+nom: Augustin Barruel
+alias: abbé Barruel, Barruel, Mémoires pour servir à l'histoire du jacobinisme
+an: 1797
+dates: 1741 – 1820
+def: Prêtre jésuite français dont les Mémoires pour servir à l'histoire du jacobinisme (1797-1798) imputèrent la Révolution à un complot des philosophes, des francs-maçons et des Illuminés.
+texte: Réfugié à Londres pendant la Révolution, l'abbé Barruel publie quatre volumes qui font de 1789 l'aboutissement d'une conjuration organisée de longue date : les philosophes contre l'Église, les francs-maçons contre les rois, les [[illumines-de-baviere|Illuminés de Bavière]] contre toute société. L'ouvrage, traduit dans toute l'Europe, connaît un succès immense.
+texte: Les historiens ont montré que les loges, où se côtoyaient nobles, prêtres et bourgeois, ne formaient aucun parti et se sont divisées comme le pays. La thèse de Barruel est pourtant la source de toutes les théories du complot maçonnique, jusqu'au XXIe siècle (voir [[antimaconnisme]]).
+oeuvres: Mémoires pour servir à l'histoire du jacobinisme (1797-1798)
+voir: antimaconnisme, illumines-de-baviere, adam-weishaupt
+
+@ laurence-dermott
+cat: figures
+nom: Laurence Dermott
+alias: Dermott, Ahiman Rezon, Grande Loge des Anciens
+an: 1756
+dates: 1720 – 1791
+def: Peintre en bâtiment irlandais devenu marchand de vin à Londres, grand secrétaire de la Grande Loge des « Anciens » et auteur de son livre des constitutions, l'Ahiman Rezon.
+texte: Arrivé à Londres vers 1748, Dermott devient en 1752 grand secrétaire de la Grande Loge rivale fondée l'année précédente par des maçons qui reprochaient à celle de 1717 d'avoir altéré les anciens usages. Polémiste mordant, c'est lui qui baptise ses adversaires les « Modernes ».
+texte: Son *Ahiman Rezon* (1756), titre de fantaisie tiré de l'hébreu, sert de constitutions aux Anciens, très répandus en Irlande, dans les régiments et en Amérique. Il défend l'[[arche-royale|Arche royale]] comme le sommet de la maçonnerie. L'union de 1813 dans la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]] doit beaucoup à son héritage.
+oeuvres: Ahiman Rezon (1756)
+voir: grande-loge-de-londres, grande-loge-unie-d-angleterre, arche-royale
+
+@ william-preston
+cat: figures
+nom: William Preston
+alias: Preston, Illustrations of Masonry, lectures de Preston
+an: 1772
+dates: 1742 – 1818
+def: Imprimeur écossais établi à Londres, auteur des Illustrations of Masonry (1772), dont les « lectures » fixèrent l'enseignement moral des grades anglais.
+texte: Correcteur d'imprimerie à Londres, Preston consacre sa vie à rassembler et polir les explications des symboles données en loge. Ses *Illustrations of Masonry* (1772), sans cesse rééditées, et ses conférences par questions et réponses sur chaque grade inspirent les instructions anglaises et américaines.
+texte: On lui doit le long éloge des sept arts libéraux qui accompagne le grade de [[compagnon]], et une lecture de la maçonnerie comme école de science et de vertu, typique des Lumières britanniques.
+oeuvres: Illustrations of Masonry (1772)
+voir: compagnon, rite-emulation, grande-loge-de-londres
+
+@ jean-marie-ragon
+cat: figures
+nom: Jean-Marie Ragon
+alias: Ragon, Ragon de Bettignies, les Trinosophes
+an: 1841
+dates: 1781 – 1862
+def: Auteur maçonnique français, fondateur de la loge des Trinosophes, qui interpréta la franc-maçonnerie comme l'héritière des mystères antiques et de la sagesse égyptienne.
+texte: Fonctionnaire et polygraphe, Ragon fonde à Paris en 1816 la loge des Trinosophes, où il professe un cours remarqué. Dans son *Cours philosophique et interprétatif des initiations anciennes et modernes* (1841), il fait remonter les grades aux [[mysteres-antiques|mystères antiques]] d'Égypte et de Grèce, et lit les symboles comme un enseignement astronomique et moral.
+texte: Son *Orthodoxie maçonnique* (1853) et son *Tuileur général* (1861) en font l'un des auteurs les plus lus de la maçonnerie française du XIXe siècle. Il incarne le courant qui fait de la loge le conservatoire d'une sagesse universelle, entre [[egyptosophie]] et rationalisme.
+oeuvres: Cours philosophique et interprétatif des initiations anciennes et modernes (1841) ; Orthodoxie maçonnique (1853) ; Tuileur général de la franc-maçonnerie (1861)
+voir: mysteres-antiques, egyptosophie, tuilage, rite-de-memphis-misraim
+
+@ albert-pike
+cat: figures
+nom: Albert Pike
+alias: Pike, Morals and Dogma, Morale et dogme
+an: 1871
+dates: 1809 – 1891
+def: Avocat et général américain, souverain grand commandeur du Rite écossais pour le sud des États-Unis, dont Morals and Dogma (1871) mêle maçonnerie, kabbale et philosophie des religions.
+texte: Poète, avocat dans l'Arkansas, brigadier général de l'armée confédérée pendant la guerre de Sécession, Pike dirige de 1859 à sa mort la juridiction sud du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]]. Il en réécrit tous les rituels et publie *Morals and Dogma* (1871), commentaire des trente-deux premiers degrés.
+texte: Le livre, nourri d'[[eliphas-levi]], dont il recopie des pages entières, de [[kabbale]], d'hermétisme et de religions orientales, a fait de Pike la cible privilégiée de l'[[antimaconnisme]] : [[leo-taxil]] lui attribua des instructions secrètes sur le culte de Lucifer, une invention reprise jusqu'à aujourd'hui.
+oeuvres: Morals and Dogma (1871)
+voir: rite-ecossais-ancien-et-accepte, eliphas-levi, leo-taxil, kabbale
+
+@ maria-deraismes
+cat: figures
+nom: Maria Deraismes
+alias: Deraismes
+an: 1882
+dates: 1828 – 1894
+def: Écrivaine et militante féministe française, première femme reçue dans une loge masculine en 1882 et cofondatrice de l'ordre maçonnique mixte du Droit humain.
+texte: Conférencière brillante, Maria Deraismes défend sous le Second Empire et la IIIe République les droits des femmes, la laïcité et la libre pensée. Le 14 janvier 1882, la loge *Les Libres Penseurs* du Pecq l'initie malgré les règlements de son obédience, qui suspend la loge.
+texte: Avec Georges Martin, elle fonde le 4 avril 1893 le [[droit-humain|Droit humain]], première obédience mixte, qui accueille hommes et femmes à égalité. Elle meurt l'année suivante ; l'ordre qu'elle a créé s'étend au monde entier.
+voir: droit-humain, maconnerie-d-adoption, grande-loge-feminine-de-france
+
+@ leo-taxil
+cat: figures
+nom: Léo Taxil
+alias: Taxil, Gabriel Jogand-Pagès, Diana Vaughan, palladisme, mystification Taxil, affaire Taxil
+an: 1885
+dates: 1854 – 1907
+def: Pamphlétaire anticlérical français qui, feignant de se convertir, publia de 1885 à 1897 de fausses révélations sur un culte satanique au sein de la franc-maçonnerie, avant d'avouer la mystification.
+texte: Gabriel Jogand-Pagès, dit Léo Taxil, s'est fait connaître par des pamphlets contre l'Église, et brièvement par une initiation maçonnique interrompue. En 1885, il annonce sa conversion et publie *Les Mystères de la franc-maçonnerie dévoilés*, puis toute une littérature sur le « palladisme », un prétendu rite luciférien dirigé par [[albert-pike]] où l'on adorerait le [[baphomet|Baphomet]]. Il invente une ex-grande prêtresse repentie, Diana Vaughan, dont les mémoires bouleversent les milieux catholiques.
+texte: Le 19 avril 1897, devant une salle comble à la Société de géographie, il révèle que tout était faux, pour se moquer de la crédulité de ses lecteurs. L'aveu n'a pas empêché ses inventions de circuler dans l'[[antimaconnisme]] et le [[satanisme]] imaginaire.
+oeuvres: Les Mystères de la franc-maçonnerie dévoilés (1886) ; Le Diable au XIXe siècle (1892-1894, sous le nom du docteur Bataille)
+voir: antimaconnisme, albert-pike, baphomet, satanisme
+
+@ rudyard-kipling
+cat: figures
+nom: Rudyard Kipling
+alias: Kipling, The Mother-Lodge, L'Homme qui voulut être roi
+an: 1886
+dates: 1865 – 1936
+def: Écrivain britannique né en Inde, reçu franc-maçon à Lahore en 1886, qui a célébré la fraternité des loges coloniales et fait de la maçonnerie le ressort de L'Homme qui voulut être roi.
+texte: Kipling est initié le 5 avril 1886, avant l'âge requis, dans la loge *Hope and Perseverance* de Lahore, qui comptait des hindous, des musulmans, des sikhs, des juifs et des chrétiens ; il en devient secrétaire. Son poème *The Mother-Lodge* (1896) chante cette égalité où le soldat côtoie le négociant et le brahmane le comptable.
+texte: Dans *L'Homme qui voulut être roi* (1888), deux aventuriers se font passer pour des dieux auprès d'un peuple d'Afghanistan qui connaît, à leur stupeur, les signes maçonniques ; la nouvelle est devenue un film célèbre. Kipling a parsemé son œuvre de symboles et de références maçonniques.
+oeuvres: L'Homme qui voulut être roi (1888) ; The Mother-Lodge (1896) ; Kim (1901)
+voir: franc-maconnerie, fils-de-la-veuve, loge
+
+@ jules-boucher
+cat: figures
+nom: Jules Boucher
+alias: Boucher, La Symbolique maçonnique
+an: 1948
+dates: 1902 – 1955
+def: Occultiste et franc-maçon français, auteur de La Symbolique maçonnique (1948), longtemps le manuel le plus lu des maçons français sur le sens des symboles.
+texte: Martiniste, alchimiste amateur, auteur d'un *Manuel de magie pratique* (1941), Boucher entre en maçonnerie et met sa culture ésotérique au service de l'explication des symboles : pierres, outils, colonnes, nombres, couleurs. *La Symbolique maçonnique* rapproche le travail de la loge de l'[[alchimie]] et de la [[kabbale]], dans la lignée d'[[oswald-wirth]] et de [[rene-guenon]].
+texte: Le livre, sans cesse réédité, a beaucoup fait pour l'image d'une maçonnerie ésotérique en France ; les historiens lui reprochent d'avoir projeté sur les rituels des significations que leurs auteurs ne leur donnaient pas.
+oeuvres: Manuel de magie pratique (1941) ; La Symbolique maçonnique (1948)
+voir: oswald-wirth, rene-guenon, pierre-brute, martinisme
+
+# ── Textes ──────────────────────────────────────────────────────────────────
+
+@ manuscrit-regius
+cat: textes
+nom: Manuscrit Regius
+alias: Regius, poème Regius, Halliwell, Halliwell Manuscript, Royal MS 17 A I
+an: 1390
+dates: vers 1390 – 1425
+def: Poème anglais de la fin du XIVe ou du début du XVe siècle, le plus ancien des textes qui exposent l'histoire légendaire et les devoirs du métier de maçon.
+texte: Conservé à la British Library, le manuscrit a été identifié en 1840 par James Orchard Halliwell, qui y reconnut le premier document du métier. En près de huit cents vers, il raconte que la géométrie fut enseignée aux maçons par Euclide en Égypte, puis apportée en Angleterre, où le roi Athelstan aurait réuni une assemblée des maçons et fixé leurs règles.
+texte: Suivent les articles et les points que doivent observer maîtres et compagnons — loyauté envers le roi et le seigneur, juste salaire, refus d'accueillir un serf comme apprenti —, puis des préceptes de piété et de bonnes manières. Le texte appartient à la famille des *[[old-charges|Old Charges]]*, sources des *[[constitutions-d-anderson|Constitutions]]* de 1723.
+voir: old-charges, constitutions-d-anderson, operatifs-et-speculatifs
+
+@ old-charges
+cat: textes
+nom: Old Charges
+alias: Anciens Devoirs, Gothic Constitutions, manuscrit Cooke, Cooke, Old Constitutions, devoirs du métier
+dates: vers 1390 – XVIIIe siècle
+def: Les « anciens devoirs » des maçons anglais et écossais : une centaine de manuscrits qui associent une histoire légendaire du métier, depuis Adam ou Euclide, à ses règles de conduite.
+texte: Après le [[manuscrit-regius|manuscrit Regius]] et le manuscrit Cooke (milieu du XVe siècle), plus d'une centaine de copies, des XVIe et XVIIe siècles pour la plupart, répètent le même canevas : les sept arts libéraux, la géométrie inventée avant le Déluge et sauvée sur deux colonnes, l'œuvre d'Euclide, le Temple de [[salomon]], l'arrivée du métier en France puis en Angleterre, l'assemblée d'York sous le roi Athelstan. Viennent ensuite les devoirs : servir Dieu et l'Église, être loyal, ne pas débaucher l'apprenti d'un autre.
+texte: On les lisait au nouvel admis, qui jurait de les observer la main sur le livre. Ils sont le pont documentaire entre la maçonnerie de métier et la maçonnerie spéculative ; [[james-anderson]] les a refondus dans ses *[[constitutions-d-anderson|Constitutions]]*.
+voir: manuscrit-regius, constitutions-d-anderson, operatifs-et-speculatifs, rite-d-york
+
+@ constitutions-d-anderson
+cat: textes
+nom: Constitutions d'Anderson
+alias: Constitutions, The Constitutions of the Free-Masons, Constitutions de 1723, Constitutions de 1738, obligations
+an: 1723
+dates: 1723 ; seconde édition en 1738
+def: Le livre publié en 1723 par la Grande Loge de Londres, qui fixe l'histoire légendaire, les obligations et les règlements de la franc-maçonnerie moderne.
+texte: Rédigé par [[james-anderson]], le livre retrace l'histoire de l'architecture depuis Adam, « créé à l'image de Dieu, le grand Architecte de l'Univers », jusqu'à l'Angleterre, puis énonce six « obligations ». La première est restée célèbre : si autrefois les maçons devaient suivre la religion de leur pays, il est jugé plus à propos de ne les obliger qu'à « cette religion sur laquelle tous les hommes sont d'accord », c'est-à-dire d'être des hommes de bien et loyaux, quelles que soient leurs confessions.
+texte: Le maçon ne sera « jamais un athée stupide ni un libertin irréligieux » ; il sera sujet paisible, et les querelles de religion et de politique resteront hors de la loge. Ce texte, ambigu à dessein, est revendiqué aussi bien par la maçonnerie « régulière » que par les obédiences libérales (voir [[regularite|régularité]]). Benjamin Franklin l'imprime en Amérique dès 1734.
+oeuvres: The Constitutions of the Free-Masons (1723) ; The New Book of Constitutions (1738)
+voir: james-anderson, grande-loge-de-londres, regularite, grand-architecte-de-l-univers, landmarks
+
+@ discours-de-ramsay
+cat: textes
+nom: Discours de Ramsay
+alias: Discours, discours du chevalier de Ramsay, oraison de Ramsay
+an: 1736
+dates: décembre 1736 ; version de 1737
+def: Discours prononcé à Paris en 1736 par le chevalier de Ramsay, qui fait naître la franc-maçonnerie aux croisades et lui assigne une mission universelle.
+texte: Prononcé en décembre 1736 dans une loge parisienne, puis remanié pour une assemblée générale que le cardinal de Fleury, hostile, empêcha de se tenir en mars 1737, le discours de [[andrew-michael-ramsay]] présente la maçonnerie comme une société de vertu, de secret et de goût pour les beaux-arts, appelée à réunir les hommes de toutes les nations.
+texte: Il en situe l'origine au temps des croisades, où des princes et des chevaliers auraient fait vœu de rebâtir les temples de la Terre sainte, avant de transmettre leur institution aux loges d'Écosse. Ce récit chevaleresque inspira les grades écossais (voir [[ecossisme]]) et, bientôt, la légende templière de la [[stricte-observance|Stricte Observance]].
+voir: andrew-michael-ramsay, ecossisme, stricte-observance, templiers
+
+@ masonry-dissected
+cat: textes
+nom: Masonry Dissected
+alias: Prichard, Samuel Prichard, La maçonnerie disséquée
+an: 1730
+dates: 1730
+def: Brochure publiée à Londres en 1730 par Samuel Prichard, qui divulgua les trois grades de la franc-maçonnerie et donna le premier récit imprimé de la légende d'Hiram.
+texte: Sous forme de catéchisme par questions et réponses, *Masonry Dissected* livre les rituels d'apprenti, de compagnon et de maître, avec leurs mots et leurs signes. Le succès est immédiat : trois éditions en quelques jours, des traductions, des contrefaçons. Le texte atteste que le système à trois grades et la [[legende-d-hiram|légende d'Hiram]] existaient en 1730.
+texte: La brochure aurait poussé la [[grande-loge-de-londres|Grande Loge de Londres]] à modifier certains mots de reconnaissance, et lui donne paradoxalement une stabilité : on s'en servit longtemps comme aide-mémoire. Elle ouvre la longue série des [[divulgations-maconniques|divulgations]].
+voir: divulgations-maconniques, legende-d-hiram, mots-signes-attouchements
+
+@ divulgations-maconniques
+cat: textes
+nom: Divulgations maçonniques
+alias: divulgations, exposures, L'Ordre des francs-maçons trahi, Le Catéchisme des francs-maçons, Réception d'un frère maçon, Jachin and Boaz, Three Distinct Knocks, Mopses
+dates: depuis le XVIIIe siècle
+def: Textes imprimés qui révèlent au public les rituels, les mots et les signes de la franc-maçonnerie, publiés par curiosité, par hostilité ou par spéculation, et devenus des sources précieuses pour les historiens.
+texte: Après *[[masonry-dissected|Masonry Dissected]]* (1730), la France découvre en 1737 la *Réception d'un frère maçon*, procès-verbal de police publié à l'instigation du lieutenant général Hérault, puis *Le Catéchisme des francs-maçons* (1744) et *L'Ordre des francs-maçons trahi et le secret des Mopses révélé* (1745), illustré de gravures des « tableaux » de loge. L'Angleterre a *Three Distinct Knocks* (1760) et *Jachin and Boaz* (1762).
+texte: Ces brochures, souvent rééditées, servaient de manuels aux maçons eux-mêmes, qui y trouvaient les rituels qu'ils n'avaient pas le droit d'écrire. Elles permettent de dater les grades et les usages, et prouvent que le secret maçonnique fut, très tôt, d'une autre nature que la simple dissimulation (voir [[secret-maconnique|secret maçonnique]]).
+voir: masonry-dissected, secret-maconnique, tableau-de-loge, mots-signes-attouchements
+
+@ bulle-in-eminenti
+cat: textes
+nom: In eminenti
+alias: In eminenti apostolatus specula, bulle de 1738, Clément XII, Providas, condamnation pontificale de la franc-maçonnerie, excommunication des francs-maçons
+an: 1738
+dates: 28 avril 1738
+def: Bulle du pape Clément XII, du 28 avril 1738, qui condamne la franc-maçonnerie et excommunie les catholiques qui y adhèrent.
+texte: Le pape reproche aux loges de réunir des hommes de toutes religions et sectes, de s'entourer d'un secret garanti par serment et de menacer ainsi l'ordre public et le salut des âmes. La bulle n'est pas enregistrée par le Parlement de Paris et reste sans effet en France, où les ecclésiastiques fréquentent les loges ; elle est appliquée dans les États pontificaux et en Espagne.
+texte: Benoît XIV la confirme en 1751 par la bulle *Providas*, et une longue suite de textes, jusqu'à l'encyclique *Humanum genus* de Léon XIII (1884), en reprend les griefs. Le droit canonique de 1917 excommunie les maçons ; celui de 1983 ne les nomme plus, mais la Congrégation pour la doctrine de la foi a précisé la même année que l'adhésion restait interdite (voir [[antimaconnisme]]).
+voir: antimaconnisme, secret-maconnique, franc-maconnerie
+
+@ la-flute-enchantee
+cat: textes
+nom: La Flûte enchantée
+alias: Die Zauberflöte, Flûte enchantée, Sarastro, Tamino, Pamina, Papageno, Reine de la Nuit
+an: 1791
+dates: 1791
+def: Opéra de Mozart sur un livret d'Emanuel Schikaneder, créé à Vienne en 1791, qui met en scène une initiation dans un décor égyptien inspiré de la franc-maçonnerie.
+texte: Le prince Tamino part délivrer Pamina, enlevée par Sarastro ; il découvre que ce dernier n'est pas un tyran, mais le grand prêtre d'un temple d'Isis et d'Osiris, et que la Reine de la Nuit, qui l'a envoyé, incarne les ténèbres. Pour être admis parmi les initiés, Tamino doit garder le silence, puis traverser avec Pamina les épreuves du feu et de l'eau, au son de la flûte magique ; l'oiseleur Papageno, lui, n'aspire qu'à manger, boire et trouver une épouse.
+texte: L'ouverture s'ouvre sur trois accords, le nombre trois revient sans cesse, et les épreuves rappellent celles de l'[[initiation-maconnique|initiation maçonnique]]. Le livret puise dans l'[[egyptosophie]] du temps, en particulier le roman *Sethos* de l'abbé Terrasson (1731). Il a été lu comme une allégorie des Lumières et de la maçonnerie viennoise de [[wolfgang-amadeus-mozart|Mozart]].
+voir: wolfgang-amadeus-mozart, egyptosophie, initiation-maconnique, mysteres-antiques
+
+# ── Le Temple et le compagnonnage ───────────────────────────────────────────
+
+@ temple-de-salomon
+cat: symboles
+nom: Temple de Salomon
+alias: Temple de Jérusalem, premier Temple, Saint des saints, Villalpando
+def: Le sanctuaire que le roi Salomon fit bâtir à Jérusalem selon la Bible, détruit par les Babyloniens en 587 avant notre ère, devenu le modèle symbolique de la loge maçonnique et de bien des spéculations ésotériques.
+texte: Le premier livre des Rois en détaille les dimensions, les matériaux venus du Liban, les deux [[colonnes-jakin-et-boaz|colonnes de bronze]] coulées par Hiram, la mer d'airain et le Saint des saints où reposait l'arche d'alliance. Rebâti au retour de l'exil, agrandi par Hérode, le Temple est détruit par les Romains en 70 de notre ère. Les archéologues n'ont retrouvé aucun vestige sûr de l'édifice de [[salomon]].
+texte: Les théologiens y ont vu une image du cosmos, du corps humain ou de l'Église ; le jésuite Villalpando en publie en 1604 une restitution monumentale, et [[isaac-newton]] en étudie les mesures pour y chercher la clé des prophéties. Les [[templiers]] tiraient leur nom de son emplacement ; la [[franc-maconnerie]] en a fait le chantier mythique de ses ouvriers (voir [[legende-d-hiram|légende d'Hiram]]) et l'image de l'homme à reconstruire.
+voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique
+
+@ compagnonnage
+cat: societes
+nom: Compagnonnage
+alias: compagnons du Devoir, Tour de France, Devoirs, Enfants de Salomon, Enfants de Maître Jacques, Enfants du Père Soubise, chef-d'œuvre, Agricol Perdiguier, cayenne
+def: Les associations françaises d'ouvriers de métier qui transmettent leur savoir par le Tour de France, le chef-d'œuvre et des rites d'initiation, distinctes de la franc-maçonnerie mais voisines de ses symboles.
+texte: Attestés dès la fin du Moyen Âge, les compagnons se répartissent en « Devoirs » rivaux qui se réclament de trois fondateurs légendaires : les Enfants de Salomon, les Enfants de Maître Jacques, tailleur de pierre du Temple, et les Enfants du Père Soubise, charpentier. L'apprenti voyage de ville en ville, accueilli par la « Mère » d'une auberge, travaille chez des maîtres, reçoit un nom de compagnon et présente un chef-d'œuvre. Les rixes entre Devoirs furent longtemps sanglantes ; Agricol Perdiguier plaide pour leur réconciliation dans *Le Livre du compagnonnage* (1839).
+texte: Les compagnons partagent avec les francs-maçons l'équerre et le compas, le [[temple-de-salomon|Temple de Salomon]], la canne et les couleurs, mais ce sont des ouvriers de métier, non une société philosophique. Le compagnonnage est inscrit depuis 2010 au patrimoine culturel immatériel de l'humanité.
+voir: operatifs-et-speculatifs, compagnon, temple-de-salomon, franc-maconnerie

@@ -53,6 +53,7 @@ const CATEGORIES = [
   { id: 'divination', nom: 'Tarot et divination' },
   { id: 'magie',      nom: 'Magie et rituels' },
   { id: 'societes',   nom: 'Ordres et sociétés' },
+  { id: 'maconnerie', nom: 'Franc-maçonnerie' },
   { id: 'symboles',   nom: 'Symboles' },
 ];
 const ID_CATEGORIES = new Set(CATEGORIES.map((c) => c.id));
@@ -66,7 +67,7 @@ const PORTES = ['esoterisme', 'hermetisme', 'alchimie', 'kabbale', 'gnose', 'ros
  * minuscule, mais « la [[kabbale]] de [[isaac-louria]] » garde la majuscule du
  * nom propre. Les catégories de noms communs passent en minuscule, sauf les
  * noms propres de la liste ci-dessous (et les arcanes, qui sont des titres). */
-const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles']);
+const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles', 'maconnerie']);
 const NOMS_PROPRES = new Set([
   'atlantide', 'lemurie', 'agartha', 'sophia', 'shekhina', 'ein-sof', 'adam-kadmon', 'keter', 'hokhmah', 'binah',
   'daat', 'hesed', 'gueboura', 'tiferet', 'netsah', 'hod', 'yesod', 'malkhout', 'shem-ha-meforash', 'grand-oeuvre',
@@ -74,6 +75,13 @@ const NOMS_PROPRES = new Set([
   'naturphilosophie', 'baphomet', 'graal', 'belier', 'taureau', 'gemeaux', 'cancer', 'lion', 'vierge', 'balance',
   'scorpion', 'sagittaire', 'capricorne', 'verseau', 'poissons', 'soleil', 'lune', 'mercure', 'venus', 'mars',
   'jupiter', 'saturne', 'uranus', 'neptune', 'pluton',
+  // la franc-maçonnerie : rites, obédiences, titres et lieux s'écrivent avec la majuscule
+  'orient', 'venerable-maitre', 'surveillants', 'grand-architecte-de-l-univers', 'sagesse-force-beaute',
+  'rite-francais', 'rite-emulation', 'rite-d-york', 'arche-royale', 'rite-suedois', 'rite-schroder', 'stricte-observance',
+  'rite-de-perfection', 'philalethes', 'rite-ecossais-ancien-et-accepte', 'rite-ecossais-rectifie', 'rite-de-memphis-misraim',
+  'chevalier-rose-croix', 'chevalier-kadosh', 'grande-loge-de-londres', 'grande-loge-unie-d-angleterre', 'grand-orient-de-france',
+  'grande-loge-de-france', 'glnf', 'droit-humain', 'grande-loge-feminine-de-france', 'prince-hall', 'convent-de-wilhelmsbad',
+  'les-neuf-soeurs', 'temple-de-salomon',
 ]);
 function enMinuscule(a) {
   return CATEGORIES_COMMUNES.has(a.cat) && !NOMS_PROPRES.has(a.id) && !a.id.startsWith('arcane-')
@@ -200,6 +208,8 @@ function analyser(texte, lieu, ids) {
   const sansLiens = texte.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (tout, id, libelle) => {
     if (!ids.has(id)) erreur(lieu, 'renvoi vers un article inexistant « ' + id + ' »');
     if (libelle !== undefined && !libelle.trim()) erreur(lieu, 'renvoi au libellé vide « ' + id + ' »');
+    // l'italique se met autour du renvoi, pas dedans : « *[[zohar|Zohar]]* »
+    if (libelle !== undefined && libelle.includes('*')) erreur(lieu, 'italique dans le libellé d’un renvoi « ' + id + ' »');
     cites.push(id);
     return libelle || 'X';
   });
@@ -215,6 +225,48 @@ function nu(texte, noms) {
   return texte
     .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (tout, id, libelle) => libelle || noms.get(id) || id)
     .replace(/\*/g, '');
+}
+
+// ── Les illustrations ───────────────────────────────────────────────────────
+
+/* build/illustrations.json, écrit par build/illustrer.py : chaque image, son
+ * fichier dans img/, sa légende, son crédit, les articles où elle paraît ; et
+ * les planches, galeries de vignettes rattachées à un article. Une image dont
+ * le fichier manque, un article inconnu : erreur, comme pour un renvoi. */
+function lireIllustrations(ids) {
+  const fichier = path.join(ICI, 'illustrations.json');
+  const resultat = { parArticle: new Map(), planches: new Map(), nombre: 0, octets: 0 };
+  if (!fs.existsSync(fichier)) return resultat;
+  const { images, planches } = JSON.parse(fs.readFileSync(fichier, 'utf-8'));
+  const licence = (lic) => (/cc0/i.test(lic) ? 'CC0' : 'domaine public');
+  const vue = (id, im) => ({ f: im.f, v: im.v, w: im.w, h: im.h });
+  for (const [id, im] of Object.entries(images)) {
+    const chemin = path.join(RACINE, im.f);
+    if (!fs.existsSync(chemin)) { erreur('illustrations', 'fichier absent : ' + im.f + ' (relancer build/illustrer.py)'); continue; }
+    resultat.nombre += 1;
+    resultat.octets += fs.statSync(chemin).size;
+    for (const ref of im.pour) {
+      if (!ids.has(ref)) { erreur('illustrations', 'image « ' + id + ' » : article inexistant « ' + ref + ' »'); continue; }
+      if (!resultat.parArticle.has(ref)) resultat.parArticle.set(ref, []);
+      resultat.parArticle.get(ref).push(Object.assign(vue(id, im), {
+        l: typographie(im.l), cr: typographie(im.cr), li: licence(im.lic), src: im.src,
+      }));
+    }
+  }
+  for (const [ref, liste] of Object.entries(planches)) {
+    if (!ids.has(ref)) { erreur('illustrations', 'planche : article inexistant « ' + ref + ' »'); continue; }
+    resultat.planches.set(ref, liste.map((p) => ({
+      ti: typographie(p.titre),
+      im: p.images.map((id) => {
+        const im = images[id];
+        // la vignette ouvre le premier article de l'image, s'il n'est pas celui-ci
+        const cible = im.pour.find((r) => r !== ref);
+        return Object.assign(vue(id, im), { l: typographie(im.l), cr: typographie(im.cr), li: licence(im.lic), src: im.src },
+          cible ? { r: cible } : {});
+      }),
+    })));
+  }
+  return resultat;
 }
 
 // ── Assemblage ──────────────────────────────────────────────────────────────
@@ -281,6 +333,7 @@ function main() {
     const corps = a.textes.map((t) => nu(t, noms)).join(' ');
     if (corps.length < 200) avertir(lieu, 'article court (' + corps.length + ' signes)');
   }
+  const illustrations = lireIllustrations(ids);
   for (const p of PORTES) if (!ids.has(p)) erreur('PORTES', 'article inexistant « ' + p + ' »');
   for (const id of NOMS_PROPRES) if (!ids.has(id)) erreur('NOMS_PROPRES', 'article inexistant « ' + id + ' »');
   for (const nomFigure of Object.keys(figures)) {
@@ -311,6 +364,8 @@ function main() {
       if (a.attention) o.at = typographie(a.attention);
       if (a.schema) o.sc = a.schema;
       if (a.voir.length) o.v = a.voir;
+      if (illustrations.parArticle.has(a.id)) o.im = illustrations.parArticle.get(a.id);
+      if (illustrations.planches.has(a.id)) o.pl = illustrations.planches.get(a.id);
       if (enMinuscule(a)) o.mn = 1;
       const par = cites.get(a.id);
       if (par && par.size) o.ci = Array.from(par).sort((x, y) => cleTri(noms.get(x)).localeCompare(cleTri(noms.get(y)), 'fr'));
@@ -325,6 +380,7 @@ function main() {
   const manifeste = {
     format: 1, construit: aujourdhui, articles: articles.length,
     figures: Object.keys(figures).length, mots, octets: Buffer.byteLength(json),
+    images: illustrations.nombre, octetsImages: illustrations.octets,
   };
   fs.writeFileSync(path.join(RACINE, 'data', 'manifeste.json'), JSON.stringify(manifeste) + '\n', 'utf-8');
 
@@ -338,6 +394,8 @@ function main() {
       + articles.filter((a) => a.an !== null).length + ' datés pour la frise, '
       + articles.filter((a) => a.schema).length + ' avec figure (' + figuresUtilisees.size + ' / ' + Object.keys(figures).length + ' figures), '
       + articles.filter((a) => a.gl).length + ' avec glyphe',
+    illustrations.nombre + ' illustrations (' + Math.round(illustrations.octets / 1024) + ' Ko) dans '
+      + illustrations.parArticle.size + ' articles, ' + illustrations.planches.size + ' planche(s)',
     Buffer.byteLength(json) + ' octets de JSON',
     '',
     ...CATEGORIES.map((c) => '  ' + c.id.padEnd(11) + String(parCat[c.id] || 0).padStart(4)),

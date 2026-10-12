@@ -200,7 +200,7 @@ dates: 1797 – 1850
 def: Philosophie de la nature du romantisme allemand, qui voit dans l'univers un organisme vivant, traversé de polarités et d'analogies, où l'esprit se reconnaît.
 texte: Inaugurée par Schelling avec ses *Idées pour une philosophie de la nature* (1797), elle s'oppose à la science mécaniste : la nature n'est pas une machine mais l'esprit encore endormi. Le magnétisme, l'électricité, la chimie et la vie y sont des manifestations d'une même force, organisée en couples de contraires. Franz von Baader, lecteur de [[jakob-boehme]] et de [[louis-claude-de-saint-martin]], en donne une version théosophique.
 texte: Proche de l'ésotérisme par sa vision d'une nature vivante et de [[correspondances]] universelles, la Naturphilosophie a pourtant stimulé de véritables découvertes, comme celle de l'électromagnétisme par Hans Christian Ørsted en 1820, nourri de la pensée de Schelling.
-voir: theosophie-chretienne, correspondances, magnetisme-animal, ame-du-monde
+voir: theosophie-chretienne, correspondances, magnetisme-animal, ame-du-monde, johann-wolfgang-von-goethe
 
 @ spiritisme
 cat: courants

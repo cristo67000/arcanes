@@ -13,26 +13,28 @@ texte: Au XVIIIe siècle, la [[franc-maconnerie]] crée des grades de « Rose-Cr
 voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix
 
 @ franc-maconnerie
-cat: societes
+cat: maconnerie
 nom: Franc-maçonnerie
-alias: franc-maçon, francs-maçons, maçonnerie, maçonnique, loge, loges, obédience, Grand Orient, Grande Loge, Grand Architecte de l'Univers, Hiram
+alias: franc-maçon, francs-maçons, maçonnerie, maçonnique, frère, sœur, Grand Architecte de l'Univers, Hiram
 an: 1717
 dates: depuis le XVIIe siècle ; Grande Loge de Londres en 1717
 def: Société initiatique et fraternelle, organisée en loges, qui utilise les symboles et les outils des bâtisseurs pour enseigner à ses membres un perfectionnement moral et spirituel.
-texte: La franc-maçonnerie dite « spéculative » naît en Écosse et en Angleterre au XVIIe siècle, quand des gentilshommes sont admis dans des loges de maçons de métier ; [[elias-ashmole]] note son initiation en 1646. En 1717, selon la tradition, quatre loges de Londres fondent une Grande Loge ; les *Constitutions* du pasteur James Anderson (1723) en fixent les principes. La maçonnerie se répand en France dans les années 1720-1730 ; le Grand Orient de France est créé en 1773. L'Église catholique la condamne dès 1738.
-texte: Les maçons se réunissent en « tenues », dans un temple orné de symboles inspirés du Temple de [[salomon]] : les [[colonnes-jakin-et-boaz|deux colonnes]], le [[compas-et-equerre|compas et l'équerre]], le pavé mosaïque, l'[[etoile-flamboyante|étoile flamboyante]]. L'[[initiation]] mène par trois [[grades-maconniques|grades]] — apprenti, compagnon, maître —, ce dernier fondé sur la légende de la mort et de la résurrection de l'architecte Hiram ; des « hauts grades » s'y ajoutent selon les rites.
-texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]].
-voir: grades-maconniques, initiation, rite-ecossais-ancien-et-accepte, rite-ecossais-rectifie, compas-et-equerre, templiers
+texte: La franc-maçonnerie dite « spéculative » naît en Écosse et en Angleterre au XVIIe siècle, quand des gentilshommes sont admis dans des loges de maçons de métier (voir [[operatifs-et-speculatifs|opératifs et spéculatifs]]) : [[robert-moray]] est reçu en 1641, [[elias-ashmole]] en 1646. En 1717, selon la tradition, quatre loges de Londres fondent une [[grande-loge-de-londres|Grande Loge]] ; les *[[constitutions-d-anderson|Constitutions]]* du pasteur [[james-anderson]] (1723) en fixent les principes. La maçonnerie gagne toute l'Europe des Lumières ; en France, où elle s'installe vers 1725, le [[grand-orient-de-france|Grand Orient]] naît en 1773. L'Église catholique la condamne dès 1738.
+texte: Les maçons se réunissent en [[loge|loges]], lors de [[tenue|tenues]] rituelles, dans un [[temple-maconnique|temple]] orné de symboles inspirés du [[temple-de-salomon|Temple de Salomon]] : les [[colonnes-jakin-et-boaz|deux colonnes]], le [[compas-et-equerre|compas et l'équerre]], le [[pave-mosaique|pavé mosaïque]], l'[[etoile-flamboyante|étoile flamboyante]]. L'[[initiation-maconnique|initiation]] mène par trois [[grades-maconniques|grades]] — [[apprenti]], [[compagnon]], [[maitre-macon|maître]] —, le dernier fondé sur la [[legende-d-hiram|légende d'Hiram]] ; des hauts grades s'y ajoutent selon les rites, du [[rite-francais|Rite français]] au [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]]. Les loges se fédèrent en [[obedience|obédiences]].
+texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]]. Son secret supposé a nourri, dès le XVIIIe siècle, un [[antimaconnisme]] tenace.
+texte: Elle a compté parmi ses membres Montesquieu, Voltaire, [[benjamin-franklin]], [[wolfgang-amadeus-mozart|Mozart]], [[gotthold-ephraim-lessing|Lessing]], [[johann-wolfgang-von-goethe|Goethe]], [[joseph-de-maistre]] ou [[rudyard-kipling|Kipling]], et une grande part des élites politiques des XVIIIe et XIXe siècles, des deux côtés de l'Atlantique. Exclue en principe des femmes, elle s'est ouverte à elles par la [[maconnerie-d-adoption|maçonnerie d'adoption]], puis par des obédiences mixtes et féminines ; aux États-Unis, la [[prince-hall|maçonnerie de Prince Hall]] est née de la ségrégation.
+schema: plan-de-loge
+voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage
 
 @ grades-maconniques
-cat: societes
+cat: maconnerie
 nom: Grades maçonniques
-alias: grades, degrés, apprenti, compagnon, maître, maître maçon, hauts grades, 33e degré, Rose-Croix maçonnique, Kadosh
+alias: grades, degrés, hauts grades, 33e degré, Rose-Croix maçonnique, Kadosh, augmentation de salaire, passage, élévation
 def: Degrés successifs de l'initiation maçonnique : les trois grades « bleus » d'apprenti, de compagnon et de maître, puis, selon les rites, une série de hauts grades.
-texte: L'apprenti découvre les symboles et apprend le silence ; le compagnon étudie les outils, les nombres et l'[[etoile-flamboyante|étoile flamboyante]] ; le maître revit symboliquement la mort et la résurrection d'Hiram, l'architecte du Temple assassiné par trois mauvais compagnons. Chaque grade a ses mots, ses signes et ses attouchements de reconnaissance.
-texte: Au XVIIIe siècle se multiplient les hauts grades — Élu, Chevalier d'Orient, Rose-Croix, Kadosh… —, qui développent des légendes templières, chevaleresques, bibliques ou hermétiques. Le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] en compte trente-trois, le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]] jusqu'à quatre-vingt-dix-neuf.
+texte: L'[[apprenti]] découvre les symboles et apprend le silence ; le [[compagnon]] étudie les outils, les nombres et l'[[etoile-flamboyante|étoile flamboyante]] ; le [[maitre-macon|maître]] revit symboliquement la mort et le relèvement d'Hiram, l'architecte du Temple assassiné par trois mauvais compagnons (voir [[legende-d-hiram|légende d'Hiram]]). Chaque grade a ses [[mots-signes-attouchements|mots, ses signes et ses attouchements]], et le passage de l'un à l'autre s'appelle une « augmentation de salaire ».
+texte: Au XVIIIe siècle se multiplient les hauts grades — Élu, [[ecossisme|Écossais]], Chevalier d'Orient, [[chevalier-rose-croix|Rose-Croix]], [[chevalier-kadosh|Kadosh]]… —, qui développent des légendes templières, chevaleresques, bibliques ou hermétiques. Le [[rite-francais|Rite français]] les ramène à quatre ordres ; le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] compte trente-trois degrés en tout, le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]] jusqu'à quatre-vingt-dix-neuf.
 schema: degres-maconniques
-voir: franc-maconnerie, initiation, rite-ecossais-ancien-et-accepte, oswald-wirth
+voir: apprenti, compagnon, maitre-macon, ecossisme, rite-ecossais-ancien-et-accepte, oswald-wirth
 
 @ templiers
 cat: societes
@@ -42,34 +44,35 @@ an: 1120
 dates: 1120 – 1312 ; mythe depuis le XVIIIe siècle
 def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1312 après un procès retentissant, devenu dans l'imaginaire ésotérique le gardien de secrets transmis à des sociétés ultérieures.
 texte: Fondé par Hugues de Payns pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître Jacques de Molay est brûlé à Paris en 1314.
-texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la Stricte Observance templière, en Allemagne, en fait sa légende fondatrice, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
-voir: baphomet, franc-maconnerie, rite-ecossais-rectifie, graal, ordre-du-temple-solaire
+texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire
 
 @ rite-ecossais-ancien-et-accepte
-cat: societes
+cat: maconnerie
 nom: Rite écossais ancien et accepté
 alias: REAA, rite écossais, Suprême Conseil, trente-trois degrés, aigle bicéphale
 an: 1801
 dates: depuis 1801
 def: Rite maçonnique en trente-trois degrés, organisé à Charleston, aux États-Unis, en 1801, à partir de hauts grades d'origine française, aujourd'hui le plus répandu dans le monde.
-texte: Malgré son nom, le rite n'est pas né en Écosse : ses grades viennent pour l'essentiel d'un « rite de perfection » pratiqué en France au milieu du XVIIIe siècle et transporté aux Antilles puis en Amérique. Le premier Suprême Conseil se constitue à Charleston en 1801 ; le rite arrive en France en 1804.
-texte: Au-delà des trois grades symboliques, ses degrés développent des légendes bibliques, chevaleresques et philosophiques, dont le 18e, Chevalier Rose-Croix, et le 30e, Chevalier Kadosh, chargé de la vengeance des templiers. Son emblème est l'[[aigle-bicephale|aigle à deux têtes]].
+texte: Malgré son nom, le rite n'est pas né en Écosse : ses grades viennent pour l'essentiel d'un [[rite-de-perfection|« rite de perfection »]] élaboré en France au milieu du XVIIIe siècle et transporté aux Antilles puis en Amérique par [[etienne-morin]]. Le premier Suprême Conseil se constitue à Charleston en 1801 ; le rite arrive en France en 1804.
+texte: Au-delà des trois grades symboliques, ses degrés développent des légendes bibliques, chevaleresques et philosophiques, dont le 18e, [[chevalier-rose-croix|Chevalier Rose-Croix]], et le 30e, [[chevalier-kadosh|Chevalier Kadosh]], chargé de la vengeance des templiers. En France, la [[grande-loge-de-france|Grande Loge de France]] le pratique depuis 1894 et le [[droit-humain|Droit humain]] depuis sa fondation. Son emblème est l'[[aigle-bicephale|aigle à deux têtes]].
 schema: degres-maconniques
-voir: franc-maconnerie, grades-maconniques, aigle-bicephale, rose-croix
+voir: franc-maconnerie, grades-maconniques, rite-de-perfection, chevalier-rose-croix, chevalier-kadosh, aigle-bicephale
 
 @ rite-ecossais-rectifie
-cat: societes
+cat: maconnerie
 nom: Régime écossais rectifié
 alias: RER, rite écossais rectifié, Chevaliers bienfaisants de la Cité sainte, CBCS, convent de Wilhelmsbad
 an: 1778
 dates: depuis 1778
 def: Rite maçonnique chrétien fondé à Lyon en 1778 par Jean-Baptiste Willermoz, qui transmet dans ses grades secrets la doctrine de la réintégration de Martinez de Pasqually.
-texte: Au convent des Gaules (Lyon, 1778), puis à celui de Wilhelmsbad (1782), [[jean-baptiste-willermoz]] transforme la Stricte Observance templière : il renonce à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte. Au sommet, une classe secrète, celle des Profès et des Grands Profès, reçoit l'enseignement des [[elus-coens|Élus Coëns]] sur la chute et la [[reintegration]] de l'homme.
+texte: Au convent des Gaules (Lyon, 1778), puis au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), [[jean-baptiste-willermoz]] transforme la [[stricte-observance|Stricte Observance templière]] : il renonce à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte. Au sommet, une classe secrète, celle des Profès et des Grands Profès, reçoit l'enseignement des [[elus-coens|Élus Coëns]] sur la chute et la [[reintegration]] de l'homme.
 texte: Le rite, conservé en Suisse au XIXe siècle, a été réveillé en France au XXe ; il est pratiqué aujourd'hui par plusieurs obédiences. Il est le principal témoin vivant de l'[[illuminisme]] dans la franc-maçonnerie.
-voir: jean-baptiste-willermoz, elus-coens, reintegration, martinisme, franc-maconnerie, templiers
+schema: rites-maconniques/rectifie
+voir: jean-baptiste-willermoz, elus-coens, reintegration, convent-de-wilhelmsbad, stricte-observance, joseph-de-maistre
 
 @ rite-de-memphis-misraim
-cat: societes
+cat: maconnerie
 nom: Rite de Memphis-Misraïm
 alias: Memphis-Misraïm, rite de Misraïm, rite de Memphis, maçonnerie égyptienne, Haute Maçonnerie égyptienne
 an: 1881
@@ -77,7 +80,8 @@ dates: Misraïm vers 1805, Memphis en 1838, unis en 1881
 def: Rite maçonnique « égyptien » à très nombreux degrés, issu de la fusion au XIXe siècle des rites de Misraïm et de Memphis, riche en symbolisme hermétique et kabbalistique.
 texte: Le rite de Misraïm (nom hébreu de l'Égypte), apparu en Italie vers 1805 et implanté en France par les frères Bédarride, compte quatre-vingt-dix degrés. Le rite de Memphis est fondé à Paris en 1838 par Jacques-Étienne Marconis de Nègre. Tous deux s'inscrivent dans l'[[egyptosophie]] maçonnique ouverte par la Haute Maçonnerie égyptienne de [[cagliostro]]. Giuseppe Garibaldi les réunit en 1881.
 texte: Le rite a attiré les occultistes, de [[papus]] à [[robert-ambelain]], qui l'ont réorganisé au XXe siècle. Il est pratiqué par plusieurs obédiences en France et en Italie.
-voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus
+schema: rites-maconniques/memphis
+voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus, jean-marie-ragon
 
 @ elus-coens
 cat: societes
@@ -98,9 +102,9 @@ an: 1776
 dates: 1776 – 1785
 def: Société secrète fondée en 1776 par Adam Weishaupt pour répandre les idées des Lumières, interdite en 1785, et devenue le personnage central de nombreuses théories du complot.
 texte: [[adam-weishaupt]] veut former une élite éclairée qui ferait progresser la raison et la morale contre l'obscurantisme et le despotisme. L'ordre, organisé en grades et en pseudonymes antiques, s'appuie sur les loges maçonniques ; le baron Knigge, qui le rejoint en 1780, en assure l'expansion. Il compte jusqu'à deux mille membres, dont des aristocrates, des fonctionnaires et Goethe.
-texte: Le gouvernement bavarois l'interdit en 1784-1785 et publie ses documents saisis. En 1797, l'abbé Barruel accuse les Illuminés d'avoir fomenté la Révolution française. Depuis, les « Illuminati », sans existence réelle depuis plus de deux siècles, sont accusés de gouverner secrètement le monde dans d'innombrables récits complotistes.
+texte: Le gouvernement bavarois l'interdit en 1784-1785 et publie ses documents saisis. En 1797, l'[[augustin-barruel|abbé Barruel]] accuse les Illuminés d'avoir fomenté la Révolution française. Depuis, les « Illuminati », sans existence réelle depuis plus de deux siècles, sont accusés de gouverner secrètement le monde dans d'innombrables récits complotistes.
 attention: À ne pas confondre avec l'[[illuminisme]], courant mystique de la même époque, auquel Weishaupt était au contraire hostile.
-voir: adam-weishaupt, franc-maconnerie, illuminisme
+voir: adam-weishaupt, franc-maconnerie, illuminisme, johann-wolfgang-von-goethe
 
 @ illumines-d-avignon
 cat: societes

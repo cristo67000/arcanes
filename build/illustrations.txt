@@ -1,0 +1,1485 @@
+# Les illustrations de l'application, et d'où elles viennent.
+#
+#     python build/illustrer.py      télécharge, vérifie la licence, convertit en WebP
+#                                    dans img/ et écrit build/illustrations.json
+#     node build/construire.mjs      rattache ensuite chaque image à ses articles
+#
+# Toutes viennent de Wikimedia Commons et sont dans le domaine public (ou sous
+# CC0) : le script refuse toute autre licence. Ce sont des reproductions fidèles
+# d'œuvres anciennes, que leur numérisation ne fait pas sortir du domaine public.
+#
+# ── Une image ───────────────────────────────────────────────────────────────
+#
+#   = conver-01                   identifiant : le fichier sera img/conver-01.webp
+#   commons: Fichier.jpg          le fichier sur Wikimedia Commons, sans « File: »
+#   legende: Le Bateleur          ce qu'on lit sous l'image (*italique* permise)
+#   credit: BnF                   l'auteur, la date, le fonds — la licence s'ajoute seule
+#   pour: arcane-bateleur         les articles où elle paraît, en tête de fiche
+#   largeur: 440                  (facultatif) largeur en pixels, 400 par défaut
+#   recadrer: 0.02 0 0.98 1       (facultatif) gauche haut droite bas, en fractions
+#
+# « % un titre » ouvre un lot : les champs écrits juste après valent pour toutes
+# les images suivantes, jusqu'au prochain « % ».
+#
+# ── Une planche ─────────────────────────────────────────────────────────────
+#
+#   + arcanes-majeurs             l'article qui montre la planche
+#   titre: Les vingt-deux…        sa légende
+#   images: conver-01, conver-02  les vignettes, dans l'ordre ; chacune ouvre le
+#                                 premier article de son « pour: », ou s'agrandit
+
+% Tarot de Nicolas Conver, arcanes majeurs
+credit: BnF, tirage du début du XIXe siècle
+legende: Tarot de Marseille — Nicolas Conver, 1760
+largeur: 440
+
+= conver-01
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (089 of 132).jpg
+pour: arcane-bateleur
+
+= conver-02
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (091 of 132).jpg
+pour: arcane-papesse
+
+= conver-03
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (093 of 132).jpg
+pour: arcane-imperatrice
+
+= conver-04
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (095 of 132).jpg
+pour: arcane-empereur
+
+= conver-05
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (097 of 132).jpg
+pour: arcane-pape
+
+= conver-06
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (099 of 132).jpg
+pour: arcane-amoureux
+
+= conver-07
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (101 of 132).jpg
+pour: arcane-chariot
+
+= conver-08
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (103 of 132).jpg
+pour: arcane-justice
+
+= conver-09
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (105 of 132).jpg
+pour: arcane-hermite
+
+= conver-10
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (107 of 132).jpg
+pour: arcane-roue-de-fortune
+
+= conver-11
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (109 of 132).jpg
+pour: arcane-force
+
+= conver-12
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (111 of 132).jpg
+pour: arcane-pendu
+
+= conver-13
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (113 of 132).jpg
+pour: arcane-sans-nom
+
+= conver-14
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (115 of 132).jpg
+pour: arcane-temperance
+
+= conver-15
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (117 of 132).jpg
+pour: arcane-diable
+
+= conver-16
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (119 of 132).jpg
+pour: arcane-maison-dieu
+
+= conver-17
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (121 of 132).jpg
+pour: arcane-etoile
+
+= conver-18
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (123 of 132).jpg
+pour: arcane-lune
+
+= conver-19
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (125 of 132).jpg
+pour: arcane-soleil
+
+= conver-20
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (127 of 132).jpg
+pour: arcane-jugement
+
+= conver-21
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (129 of 132).jpg
+pour: arcane-monde
+
+= conver-00
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (131 of 132).jpg
+pour: arcane-mat
+
+% Tarot de Nicolas Conver, arcanes mineurs
+credit: Nicolas Conver, Marseille, 1760 — BnF, tirage du début du XIXe siècle
+largeur: 440
+
+= conver-as-baton
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (009 of 132).jpg
+legende: As de bâton
+
+= conver-as-coupe
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (057 of 132).jpg
+legende: As de coupe
+
+= conver-as-epee
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (085 of 132).jpg
+legende: As d’épée
+
+= conver-as-denier
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (037 of 132).jpg
+legende: As de deniers
+
+= conver-roi-baton
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (001 of 132).jpg
+legende: Roi de bâton
+
+= conver-reine-coupe
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (051 of 132).jpg
+legende: Reine de coupe
+
+= conver-cavalier-epee
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (081 of 132).jpg
+legende: Cavalier d’épée
+
+= conver-valet-denier
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (035 of 132).jpg
+legende: Valet de deniers
+
+= conver-deux-denier
+commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (039 of 132).jpg
+legende: Deux de deniers, au nom de Nicolas Conver et à la date de 1760
+pour: tarot-de-marseille
+
+% Tarot Rider-Waite-Smith, arcanes majeurs
+credit: dessin de Pamela Colman Smith
+largeur: 440
+
+= rws-01
+commons: RWS1909 - 01 Magician.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Magician* (I)
+pour: arcane-bateleur
+
+= rws-02
+commons: RWS1909 - 02 High Priestess.jpeg
+legende: Rider-Waite-Smith, 1909 : *The High Priestess* (II)
+pour: arcane-papesse
+
+= rws-03
+commons: RWS1909 - 03 Empress.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Empress* (III)
+pour: arcane-imperatrice
+
+= rws-04
+commons: RWS1909 - 04 Emperor.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Emperor* (IV)
+pour: arcane-empereur
+
+= rws-05
+commons: RWS1909 - 05 Hierophant.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Hierophant* (V)
+pour: arcane-pape
+
+= rws-06
+commons: RWS1909 - 06 Lovers.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Lovers* (VI)
+pour: arcane-amoureux
+
+= rws-07
+commons: RWS1909 - 07 Chariot.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Chariot* (VII)
+pour: arcane-chariot
+
+= rws-08
+commons: RWS1909 - 11 Justice.jpeg
+legende: Rider-Waite-Smith, 1909 : *Justice* (XI)
+pour: arcane-justice
+
+= rws-09
+commons: RWS1909 - 09 Hermit.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Hermit* (IX)
+pour: arcane-hermite
+
+= rws-10
+commons: RWS1909 - 10 Wheel of Fortune.jpeg
+legende: Rider-Waite-Smith, 1909 : *Wheel of Fortune* (X)
+pour: arcane-roue-de-fortune
+
+= rws-11
+commons: RWS1909 - 08 Strength.jpeg
+legende: Rider-Waite-Smith, 1909 : *Strength* (VIII)
+pour: arcane-force
+
+= rws-12
+commons: RWS1909 - 12 Hanged Man.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Hanged Man* (XII)
+pour: arcane-pendu
+
+= rws-13
+commons: RWS1909 - 13 Death.jpeg
+legende: Rider-Waite-Smith, 1909 : *Death* (XIII)
+pour: arcane-sans-nom
+
+= rws-14
+commons: RWS1909 - 14 Temperance.jpeg
+legende: Rider-Waite-Smith, 1909 : *Temperance* (XIV)
+pour: arcane-temperance
+
+= rws-15
+commons: RWS1909 - 15 Devil.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Devil* (XV)
+pour: arcane-diable
+
+= rws-16
+commons: RWS1909 - 16 Tower.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Tower* (XVI)
+pour: arcane-maison-dieu
+
+= rws-17
+commons: RWS1909 - 17 Star.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Star* (XVII)
+pour: arcane-etoile
+
+= rws-18
+commons: RWS1909 - 18 Moon.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Moon* (XVIII)
+pour: arcane-lune
+
+= rws-19
+commons: RWS1909 - 19 Sun.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Sun* (XIX)
+pour: arcane-soleil
+
+= rws-20
+commons: RWS1909 - 20 Judgement.jpeg
+legende: Rider-Waite-Smith, 1909 : *Judgement* (XX)
+pour: arcane-jugement
+
+= rws-21
+commons: RWS1909 - 21 World.jpeg
+legende: Rider-Waite-Smith, 1909 : *The World* (XXI)
+pour: arcane-monde
+
+= rws-00
+commons: RWS1909 - 00 Fool.jpeg
+legende: Rider-Waite-Smith, 1909 : *The Fool* (0)
+pour: arcane-mat
+
+% Tarot Rider-Waite-Smith, arcanes mineurs
+credit: Pamela Colman Smith, Londres, 1909 — première édition
+largeur: 440
+
+= rws-coupes-07
+commons: RWS1909 - Cups 07.jpeg
+legende: Sept de coupes : les rêveries
+
+= rws-epees-03
+commons: RWS1909 - Swords 03.jpeg
+legende: Trois d’épées : le chagrin
+
+= rws-epees-10
+commons: RWS1909 - Swords 10.jpeg
+legende: Dix d’épées : la ruine
+
+= rws-deniers-05
+commons: RWS1909 - Pentacles 05.jpeg
+legende: Cinq de deniers : la misère
+
+= rws-deniers-08
+commons: RWS1909 - Pentacles 08.jpeg
+legende: Huit de deniers : l’apprentissage
+
+= rws-batons-04
+commons: RWS1909 - Wands 04.jpeg
+legende: Quatre de bâtons : la fête
+
++ arcanes-majeurs
+titre: Les vingt-deux arcanes majeurs du tarot de Nicolas Conver (1760), le Mat à la fin. Touchez une carte pour lire son article.
+images: conver-01, conver-02, conver-03, conver-04, conver-05, conver-06, conver-07, conver-08, conver-09, conver-10, conver-11, conver-12, conver-13, conver-14, conver-15, conver-16, conver-17, conver-18, conver-19, conver-20, conver-21, conver-00
+
++ arcanes-mineurs
+titre: Les quatre as et une figure de chaque enseigne, dans le tarot de Nicolas Conver : bâton, coupe, épée, denier.
+images: conver-as-baton, conver-as-coupe, conver-as-epee, conver-as-denier, conver-roi-baton, conver-reine-coupe, conver-cavalier-epee, conver-valet-denier
+
++ tarot-rider-waite
+titre: Six arcanes mineurs du Rider-Waite-Smith : chaque carte numérale y devient une scène, ce que le tarot de Marseille ne faisait pas.
+images: rws-coupes-07, rws-epees-03, rws-epees-10, rws-deniers-05, rws-deniers-08, rws-batons-04
+
++ tarot-de-marseille
+titre: Les vingt-deux arcanes majeurs du tarot de Nicolas Conver. Touchez une carte pour lire son article.
+images: conver-01, conver-02, conver-03, conver-04, conver-05, conver-06, conver-07, conver-08, conver-09, conver-10, conver-11, conver-12, conver-13, conver-14, conver-15, conver-16, conver-17, conver-18, conver-19, conver-20, conver-21, conver-00
+
+# ── Portraits ──────────────────────────────────────────────────────────────
+
+% Portraits
+largeur: 360
+
+= portrait-weishaupt
+commons: Johann Adam Weishaupt.jpg
+legende: Adam Weishaupt
+credit: gravure, 1799
+pour: adam-weishaupt
+
+= portrait-albert-le-grand
+commons: AlbertusMagnus.jpg
+legende: Albert le Grand, fresque de Tommaso da Modena
+credit: Tommaso da Modena, 1352 — Trévise, couvent San Nicolò
+pour: albert-le-grand
+
+= portrait-pike
+commons: Albert Pike - Brady-Handy.jpg
+legende: Albert Pike
+credit: photographie de l’atelier Brady-Handy, entre 1865 et 1880
+pour: albert-pike
+
+= portrait-kardec
+commons: Photo Kardec.jpg
+legende: Allan Kardec
+credit: photographie, avant 1869
+pour: allan-kardec
+
+= portrait-ramsay
+commons: Pier Leone Ghezzi - Caricature of M. de Ramsay (cropped).jpg
+legende: Le chevalier de Ramsay à Rome, croqué par Pier Leone Ghezzi
+credit: Pier Leone Ghezzi, 1724
+pour: andrew-michael-ramsay
+
+= portrait-kingsford
+commons: Anna Kingsford 3.jpg
+legende: Anna Kingsford
+credit: photographie, années 1880
+pour: anna-kingsford
+
+= portrait-besant
+commons: Annie Besant, LoC.jpg
+legende: Annie Besant
+credit: photographie, vers 1897 — Bibliothèque du Congrès
+pour: annie-besant
+
+= portrait-court-de-gebelin
+commons: AntoineCourtdeGebelin.jpg
+legende: Antoine Court de Gébelin
+credit: gravure du XVIIIe siècle
+pour: court-de-gebelin
+
+= portrait-fabre-d-olivet
+commons: Fabre dolivet.jpg
+legende: Antoine Fabre d’Olivet
+credit: portrait anonyme, début du XIXe siècle
+pour: fabre-d-olivet
+
+= portrait-apollonius
+commons: Apollonius of Tyana.jpg
+legende: Apollonius de Tyane sur un médaillon romain
+credit: gravure d’après un contorniate de l’Antiquité tardive
+pour: apollonius-de-tyane
+
+= portrait-arnaud
+commons: Arnaldus de Villanova.jpg
+legende: Arnaud de Villeneuve, portrait imaginaire
+credit: gravure ancienne
+pour: arnaud-de-villeneuve
+
+= portrait-waite
+commons: Arthur Waite Author.JPG
+legende: Arthur Edward Waite
+credit: photographie, 1911
+pour: arthur-edward-waite
+
+= portrait-kircher
+commons: Athanasius Kircher.jpg
+legende: Athanasius Kircher
+credit: gravure, 1665
+pour: athanasius-kircher
+
+= portrait-barruel
+commons: Barruel, 8B6291074 (cropped).jpg
+legende: L’abbé Barruel
+credit: gravure — Bibliothèque nationale de France
+pour: augustin-barruel
+
+= portrait-spare
+commons: Austin Osman Spare.jpg
+legende: Austin Osman Spare
+credit: photographie, 1904
+pour: austin-osman-spare
+
+= portrait-basile-valentin
+commons: Chymische Schrifften 1717 Basilius Valentinus Frontispiece.jpg
+legende: Basile Valentin en moine bénédictin, frontispice de ses *Chymische Schrifften*
+credit: gravure, 1717
+pour: basile-valentin
+
+= portrait-franklin
+commons: Joseph Siffrein Duplessis - Benjamin Franklin - Google Art Project.jpg
+legende: Benjamin Franklin par Joseph Siffred Duplessis
+credit: Joseph Siffred Duplessis, vers 1785
+pour: benjamin-franklin
+
+= portrait-cagliostro
+commons: Portrait of Giuseppe Balsamo (called Count Alessandro Cagliostro) LACMA 62.18 (1 of 2).jpg
+legende: Buste de Cagliostro par Jean-Antoine Houdon
+credit: Jean-Antoine Houdon, 1786 — Los Angeles County Museum of Art
+pour: cagliostro
+
+= portrait-jung
+commons: ETH-BIB-Jung, Carl Gustav (1875-1961)-Portrait-Portr 14163 (cropped).tif
+legende: Carl Gustav Jung
+credit: photographie, vers 1935 — ETH-Bibliothek, Zurich
+pour: carl-gustav-jung
+
+= portrait-rosenkreutz
+commons: The Rosicrucian Philosopher.png
+legende: Le « philosophe rosicrucien », image imaginaire de J. Augustus Knapp
+credit: J. Augustus Knapp, 1928
+pour: christian-rosenkreutz
+
+= portrait-ptolemee
+commons: PSM V78 D326 Ptolemy.png
+legende: Ptolémée, portrait imaginaire d’André Thevet
+credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
+pour: claude-ptolemee, tetrabiblos
+
+= portrait-saint-germain
+commons: Count of St Germain.jpg
+legende: Le comte de Saint-Germain
+credit: gravure du XVIIIe siècle
+pour: comte-de-saint-germain
+
+= pernety-malouines
+commons: Port-Saint-Louis.jpg
+legende: Port-Saint-Louis, aux îles Malouines, dans le journal de voyage de Dom Pernety
+credit: gravure, 1769
+pour: dom-pernety
+
+= portrait-schure
+commons: Édouard Schuré.jpg
+legende: Édouard Schuré
+credit: photographie, 1908
+pour: edouard-schure
+
+= portrait-ashmole
+commons: Elias Ashmole by John Riley.jpg
+legende: Elias Ashmole par John Riley
+credit: John Riley, vers 1687
+pour: elias-ashmole
+
+= portrait-levi
+commons: Eliphas Levi 1874.jpg
+legende: Éliphas Lévi
+credit: photographie, 1874
+pour: eliphas-levi
+
+= portrait-swedenborg
+commons: Emanuel Swedenborg, 1688-1772, ämbetsman (Per Krafft d.ä.) - Nationalmuseum - 15710.tif
+legende: Emanuel Swedenborg par Per Krafft l’Ancien
+credit: Per Krafft l’Ancien, vers 1766 — Nationalmuseum, Stockholm
+pour: emanuel-swedenborg
+
+= portrait-etteilla
+commons: ALLIETTE.jpg
+legende: Etteilla à sa table de travail
+credit: gravure du XVIIIe siècle
+pour: etteilla
+
+= portrait-lessing
+commons: Gotthold Ephraim Lessing Kunstsammlung Uni Leipzig.jpg
+legende: Gotthold Ephraim Lessing par Anton Graff
+credit: Anton Graff, 1771 — Université de Leipzig
+pour: gotthold-ephraim-lessing
+
+= portrait-postel
+commons: Guillaume Postel.jpg
+legende: Guillaume Postel
+credit: portrait du XVIe siècle
+pour: guillaume-postel
+
+= portrait-blavatsky
+commons: Helena Petrovna Blavatsky.jpg
+legende: Helena Blavatsky
+credit: photographie, 1877
+pour: helena-blavatsky
+
+= portrait-olcott
+commons: Henry Steel Olcott.jpg
+legende: Henry Steel Olcott
+credit: photographie, fin du XIXe siècle
+pour: henry-steel-olcott
+
+= portrait-hermes
+commons: HermesTrismegistusCaucHighRes.jpg
+legende: Hermès Trismégiste, gravure de Jean-Louis Durant
+credit: Jean-Louis Durant, dans Pierre Mussard, *Historia deorum fatidicorum*, Genève, 1675
+pour: hermes-trismegiste, poimandres
+
+= portrait-newton
+commons: GodfreyKneller-IsaacNewton-1689.jpg
+legende: Isaac Newton par Godfrey Kneller
+credit: Godfrey Kneller, 1689
+pour: isaac-newton
+
+= portrait-jabir
+commons: Man Florence, Ashburnham 1166 fol 12r.jpg
+legende: « Geber », miniature d’un manuscrit italien
+credit: manuscrit Ashburnham 1166, vers 1470 — Bibliothèque Laurentienne, Florence
+pour: jabir-ibn-hayyan
+
+= portrait-boehme
+commons: Portret van Jakob Böhme, RP-P-OB-2353.jpg
+legende: Jakob Böhme
+credit: gravure, fin du XVIIe ou début du XVIIIe siècle — Rijksmuseum
+pour: jakob-boehme
+
+= portrait-jamblique
+commons: Iamblichus.jpg
+legende: Jamblique, portrait imaginaire
+credit: gravure ancienne
+pour: jamblique
+
+= portrait-reuchlin
+commons: Johannes Reuchlin - Imagines philologorum.jpg
+legende: Johannes Reuchlin
+credit: gravure des *Imagines philologorum*, XVIe siècle
+pour: jean-reuchlin
+
+= portrait-tritheme
+commons: Trithemiusmoredetail.jpg
+legende: Jean Trithème, détail de sa dalle funéraire à Wurtzbourg
+credit: sculpture, vers 1516
+pour: jean-tritheme
+
+= portrait-willermoz
+commons: J-B Willermoz.jpg
+legende: Jean-Baptiste Willermoz
+credit: portrait anonyme
+pour: jean-baptiste-willermoz
+
+= portrait-ragon
+commons: Jean Marie Ragon.jpg
+legende: Jean-Marie Ragon
+credit: gravure du XIXe siècle
+pour: jean-marie-ragon
+
+= portrait-desaguliers
+commons: John Theophilus Desaguliers.jpg
+legende: Jean-Théophile Désaguliers
+credit: gravure du XVIIIe siècle
+pour: jean-theophile-desaguliers
+
+= portrait-andreae
+commons: Andportraits2.jpg
+legende: Johann Valentin Andreae
+credit: gravure du XVIIe siècle
+pour: johann-valentin-andreae
+
+= portrait-goethe
+commons: Goethe (Stieler 1828).jpg
+legende: Goethe par Joseph Karl Stieler
+credit: Joseph Karl Stieler, 1828 — Neue Pinakothek, Munich
+pour: johann-wolfgang-von-goethe
+
+= portrait-dee
+commons: John Dee Ashmolean.jpg
+legende: John Dee
+credit: portrait anonyme, vers 1594 — Ashmolean Museum, Oxford
+pour: john-dee
+
+= portrait-de-maistre
+commons: Jmaistre.jpg
+legende: Joseph de Maistre par Carl Christian Vogel von Vogelstein
+credit: Carl Christian Vogel von Vogelstein, 1810
+pour: joseph-de-maistre
+
+= portrait-peladan
+commons: Josephin Peladan 2.jpg
+legende: Joséphin Péladan en habit de Sâr, par Alexandre Séon
+credit: Alexandre Séon, 1891 — musée des Beaux-Arts de Lyon
+pour: josephin-peladan
+
+= portrait-doinel
+commons: Doinel, Jules.jpg
+legende: Jules Doinel
+credit: photographie, vers 1890
+pour: jules-doinel
+
+= portrait-hund
+commons: Carl Gothelf von Hund und Altengrotkau.jpg
+legende: Karl Gotthelf von Hund
+credit: portrait du XVIIIe siècle
+pour: karl-gotthelf-von-hund
+
+= portrait-eckartshausen
+commons: Karl von Eckartshausen.jpg
+legende: Karl von Eckartshausen
+credit: gravure, avant 1843
+pour: karl-von-eckartshausen
+
+= portrait-saint-martin
+commons: Louis-Claude de Saint-Martin, portrait au physionotrace.jpg
+legende: Louis-Claude de Saint-Martin, portrait au physionotrace
+credit: physionotrace, fin du XVIIIe siècle
+pour: louis-claude-de-saint-martin
+
+= portrait-lenormand
+commons: Portrait of Mlle Lenormand from The Court of Napoleon.jpg
+legende: Mademoiselle Lenormand tirant les cartes
+credit: gravure du XIXe siècle
+pour: mademoiselle-lenormand
+
+= portrait-deraismes
+commons: Maria Deraismes by Etienne Carjat.png
+legende: Maria Deraismes par Étienne Carjat
+credit: Étienne Carjat, vers 1884
+pour: maria-deraismes
+
+= portrait-marie-la-juive
+commons: Mary the jewess by Michael Maier.jpg
+legende: Marie la Juive dans les *Symbola aureae mensae* de Michael Maier
+credit: gravure, 1617
+pour: marie-la-juive
+
+= portrait-ficin
+commons: Marsilio Ficino - Angel Appearing to Zacharias (detail).jpg
+legende: Marsile Ficin, détail d’une fresque de Domenico Ghirlandaio
+credit: Domenico Ghirlandaio, 1486-1490 — Santa Maria Novella, Florence
+pour: marsile-ficin
+
+= portrait-heindel
+commons: Max Heindel.jpg
+legende: Max Heindel
+credit: photographie, début du XXe siècle
+pour: max-heindel
+
+= portrait-maier
+commons: Michael Maier portrait.jpg
+legende: Michael Maier
+credit: gravure, 1617-1618
+pour: michael-maier
+
+= portrait-flamel
+commons: Flamel.jpg
+legende: Nicolas Flamel, portrait imaginaire
+credit: gravure du XVIIe siècle
+pour: nicolas-flamel
+
+= portrait-nostradamus
+commons: Nostradamus 1846.jpg
+legende: Nostradamus
+credit: portrait ancien, reproduit en 1846
+pour: nostradamus
+
+= orphee-kavcic
+commons: Franc Kavčič - The Lament of Orpheus.jpg
+legende: *La Lamentation d’Orphée*, par Franc Kavčič
+credit: Franc Kavčič, début du XIXe siècle
+pour: orphee
+
+= portrait-colman-smith
+commons: Pamela Colman Smith The Craftsman cropped.jpg
+legende: Pamela Colman Smith
+credit: photographie publiée dans *The Craftsman*, 1912
+pour: pamela-colman-smith
+
+= portrait-papus
+commons: Bio-papus-image-1.jpg
+legende: Papus
+credit: photographie, avant 1915
+pour: papus
+
+= portrait-paracelse
+commons: Paracelsus.jpg
+legende: Paracelse, d’après Quentin Metsys
+credit: copie du XVIIe siècle — musée du Louvre
+pour: paracelse
+
+= portrait-randolph
+commons: Randolph-1.jpg
+legende: Paschal Beverly Randolph
+credit: photographie, XIXe siècle
+pour: paschal-beverly-randolph
+
+= portrait-pic
+commons: Pico1.jpg
+legende: Pic de la Mirandole
+credit: portrait anonyme — Galerie des Offices, Florence
+pour: pic-de-la-mirandole
+
+= proclus-euclide
+commons: In primum Euclidis elementorum librum 01.jpg
+legende: Le commentaire de Proclus sur Euclide, édition de Padoue
+credit: page de titre, 1560
+pour: proclus
+
+= portrait-lulle
+commons: Ramon Llull.jpg
+legende: Raymond Lulle, portrait imaginaire
+credit: gravure du XVIe ou du XVIIe siècle
+pour: raymond-lulle
+
+= portrait-steiner
+commons: Steiner um 1905.jpg
+legende: Rudolf Steiner
+credit: photographie d’Otto Rietmann, vers 1905
+pour: rudolf-steiner
+
+= portrait-kipling
+commons: Kipling nd.jpg
+legende: Rudyard Kipling
+credit: photographie, années 1890
+pour: rudyard-kipling
+
+= portrait-saint-yves
+commons: Saint-Yves d'Alveydre.jpg
+legende: Saint-Yves d’Alveydre
+credit: gravure du XIXe siècle
+pour: saint-yves-d-alveydre
+
+= portrait-mathers
+commons: Samuel Liddell MacGregor Mathers in Egyptian getup.jpg
+legende: Samuel Liddell MacGregor Mathers en costume égyptien
+credit: photographie, vers 1899
+pour: samuel-liddell-mathers
+
+= simon-nucci
+commons: Nucci, Avanzino - Petrus' Auseinandersetzung mit Simon Magus - 1620.jpg
+legende: *Pierre et Simon le Magicien*, par Avanzino Nucci
+credit: Avanzino Nucci, 1620
+pour: simon-le-magicien
+
+= portrait-guaita
+commons: Guaitasd.jpg
+legende: Stanislas de Guaita
+credit: photographie, avant 1897
+pour: stanislas-de-guaita
+
+= portrait-westcott
+commons: William Wynn Westcott PNG.png
+legende: William Wynn Westcott en tenue de cérémonie
+credit: portrait, avant 1897
+pour: william-wynn-westcott
+
+= portrait-mozart
+commons: Wolfgang-amadeus-mozart 1.jpg
+legende: Mozart, portrait posthume par Barbara Krafft
+credit: Barbara Krafft, 1819 — Gesellschaft der Musikfreunde, Vienne
+pour: wolfgang-amadeus-mozart
+
+= zoroastre-parsi
+commons: Zartosht 30salegee.jpg
+legende: Zoroastre selon l’imagerie parsie du début du XXe siècle
+credit: image anonyme, 1906
+pour: zoroastre
+
+= pythagore-raphael
+commons: Cropped image of Pythagoras from Raphael's School of Athens.jpg
+legende: Pythagore dans *L’École d’Athènes* de Raphaël
+credit: Raphaël, 1509-1511 — Vatican
+pour: pythagore
+
+= salomon-simeon-solomon
+commons: King Solomon.jpg
+legende: *Le Roi Salomon*, par Simeon Solomon
+credit: Simeon Solomon, 1872 ou 1874
+pour: salomon
+
+= aboulafia-manuscrit
+commons: Abraham abulafia.jpg
+legende: Page enluminée d’un manuscrit de *La Lumière de l’intellect* d’Aboulafia
+credit: manuscrit hébreu ancien
+pour: abraham-aboulafia
+
+# ── Textes : pages de titre, manuscrits ───────────────────────────────────
+
+% Textes
+largeur: 400
+
+= arbatel-1575
+commons: Arbatel.jpg
+legende: Page de titre de l’*Arbatel*, Bâle, 1575
+credit: imprimé, 1575
+pour: arbatel
+
+= bahir-1651
+commons: Bahir.png
+legende: Page de titre du *Bahir*, Amsterdam, 1651
+credit: imprimé, 1651
+pour: sefer-ha-bahir
+
+= clavicule-pentacle
+commons: Key of Solomon Tetragrammaton.jpg
+legende: Un pentacle du Tétragramme dans un manuscrit anglais de la *Clavicule de Salomon*
+credit: manuscrit, 1572
+pour: clavicule-de-salomon, pentacle
+
+= grand-albert-titre
+commons: 483 Albert Le Grand.jpg
+legende: Page de titre des *Admirables secrets d’Albert le Grand*, Lyon
+credit: imprimé, première moitié du XIXe siècle
+pour: grand-albert
+
+= livre-des-esprits-1860
+commons: Le Livre des Esprits 2.jpg
+legende: Page de titre du *Livre des esprits*, Paris, 1860
+credit: imprimé, 1860
+pour: livre-des-esprits
+
+= abramelin-titre
+commons: Abramelin.jpg
+legende: Page de titre d’une édition allemande d’*Abramelin*, datée de 1725 mais imprimée au XIXe siècle
+credit: imprimé, XIXe siècle
+pour: livre-d-abramelin
+
+= henoch-papyrus
+commons: P. Chester Beatty XII, leaf 3, verso.jpg
+legende: Un feuillet du papyrus Chester Beatty XII, qui conserve le texte grec d’*Hénoch*
+credit: papyrus, IVe siècle — Chester Beatty Library, Dublin
+pour: livre-d-henoch
+
+= monas-1564
+commons: Monas Hieroglyphica.jpg
+legende: Page de titre de la *Monas hieroglyphica*, Anvers, 1564
+credit: imprimé, 1564
+pour: monas-hieroglyphica
+
+= papyrus-seth
+commons: Greco-Roman Set.jpg
+legende: Le dieu Seth armé d’une lance, sur un papyrus magique de Leyde
+credit: papyrus, vers 400 — Rijksmuseum van Oudheden, Leyde
+pour: papyrus-grecs-magiques
+
+= petit-albert-titre
+commons: PetitAlbertCoverPage.png
+legende: Page de titre d’une édition lyonnaise du *Petit Albert*
+credit: imprimé, XVIIIe siècle
+pour: petit-albert
+
+= picatrix-manuscrit
+commons: 17th century Picatrix title Istanbul, Hagia Sophia 2443 crop.png
+legende: Ouverture d’un manuscrit arabe de la *Ghâyat al-hakîm*
+credit: manuscrit du XVIIe siècle — bibliothèque Süleymaniye, Istanbul
+pour: picatrix
+
+= sefer-yetsirah-1562
+commons: Sepher yetzirah mantua 1562.jpg
+legende: Page de titre du *Sefer Yetsirah*, Mantoue, 1562
+credit: imprimé, 1562
+pour: sefer-yetsirah
+
+= turba-gravure
+commons: Turba phil.jpg
+legende: L’assemblée des philosophes de la *Turba*
+credit: gravure, 1752
+pour: turba-philosophorum
+
+= zohar-1558
+commons: Zohar.png
+legende: Page de titre du *Zohar*, Mantoue, 1558
+credit: imprimé, 1558
+pour: zohar
+
+= kybalion-1908
+commons: Kybalion 1908.jpg
+legende: Page de titre du *Kybalion*, Chicago, 1908
+credit: imprimé, 1908
+pour: kybalion
+
+= nag-hammadi-thomas
+commons: El Evangelio de Tomás-Gospel of Thomas- Codex II Manuscritos de Nag Hammadi-The Nag Hammadi manuscripts.png
+legende: La fin de l’*Évangile selon Thomas* dans le codex II de Nag Hammadi
+credit: papyrus copte, IVe siècle — musée copte du Caire
+pour: bibliotheque-de-nag-hammadi
+
+= temple-rose-croix
+commons: Templeofrosycross highres.png
+legende: Le Temple de la Rose-Croix, gravure du *Speculum sophicum rhodostauroticum*
+credit: Theophilus Schweighardt, 1618
+pour: rose-croix, fama-fraternitatis
+
+= court-de-gebelin-pendu
+commons: Tarot XII by Court de Gebelin.jpg
+legende: Le Pendu redressé en « Prudence », dans *Le Monde primitif* de Court de Gébelin
+credit: gravure de 1781, reproduite vers 1885
+pour: monde-primitif
+
+# ── Gravures, peintures et manuscrits ─────────────────────────────────────
+
+% Gravures, peintures et manuscrits
+
+= wright-alchimiste
+commons: Joseph Wright of Derby The Alchemist.jpg
+legende: *L’Alchimiste découvrant le phosphore*, par Joseph Wright of Derby
+credit: Joseph Wright of Derby, 1771 — Derby Museum and Art Gallery
+pour: alchimie
+largeur: 480
+
+= khunrath-table-emeraude
+commons: Smaragdtafel - Amphitheatrum sapientiae aeternae.jpg
+legende: La *Table d’émeraude* gravée sur un rocher, dans l’*Amphitheatrum* de Khunrath
+credit: Heinrich Khunrath, 1606
+pour: table-d-emeraude
+largeur: 560
+
+= khunrath-laboratoire
+commons: Amphitheatrum sapientiae aeternae - Alchemist's Laboratory.jpg
+legende: L’oratoire et le laboratoire, planche de l’*Amphitheatrum sapientiae aeternae*
+credit: Heinrich Khunrath et Hans Vredeman de Vries, 1595
+pour: amphitheatrum, heinrich-khunrath
+largeur: 560
+
+= splendor-chevalier
+commons: Knight standing on fountains - Splendor Solis (1582), f.7 - BL Harley MS 3469.jpg
+legende: Le chevalier debout sur deux fontaines, planche du *Splendor solis*
+credit: manuscrit de 1582 — British Library, Harley 3469
+pour: splendor-solis
+largeur: 400
+
+= splendor-paon
+commons: Splendor Solis 16 venus peacocks tail.jpg
+legende: La queue de paon dans le vase, planche du *Splendor solis*
+credit: manuscrit du XVIe siècle
+pour: cauda-pavonis
+largeur: 400
+
+= atalanta-emblem-21
+commons: Michael Maier Atalanta Fugiens Emblem 21.jpeg
+legende: La quadrature du cercle, emblème XXI de l’*Atalanta fugiens*
+credit: Matthäus Merian pour Michael Maier, 1617
+pour: atalanta-fugiens, pierre-philosophale
+largeur: 480
+
+= rosarium-lion-vert
+commons: Lion devouring the sun.jpg
+legende: Le lion vert dévorant le soleil, gravure du *Rosarium philosophorum*
+credit: gravure sur bois, 1550
+pour: lion-vert
+largeur: 440
+
+= chrysopee-ouroboros
+commons: Chrysopoea of Cleopatra 1.png
+legende: L’ouroboros de la *Chrysopée de Cléopâtre* : « un est le tout »
+credit: manuscrit grec, Xe ou XIe siècle — Bibliothèque Marcienne, Venise
+pour: ouroboros, chrysopee
+largeur: 400
+
+= rosarium-rebis
+commons: Fig. 10.jpg
+legende: Le Rebis, androgyne alchimique, gravure du *Rosarium philosophorum*
+credit: gravure sur bois, 1550
+pour: rebis, androgyne
+largeur: 400
+
+= portae-lucis
+commons: UBN11497 Gikatilla Portaelucis e tp ill Ten-Sephiroth c 124mb-kopie.jpg
+legende: L’homme tenant l’arbre des séphiroth, page de titre des *Portae lucis*
+credit: traduction latine de Gikatilla par Paul Ricius, Augsbourg, 1516
+pour: kabbale-chretienne, sephiroth
+largeur: 440
+
+= kircher-arbre
+commons: Kircher Tree of Life.png
+legende: L’arbre des séphiroth d’Athanasius Kircher
+credit: *Œdipus Ægyptiacus*, 1652
+pour: arbre-des-sephiroth
+largeur: 440
+
+= homme-zodiacal
+commons: Anatomical Man.jpg
+legende: L’homme zodiacal des *Très Riches Heures du duc de Berry*
+credit: frères de Limbourg, 1411-1416 — musée Condé, Chantilly
+pour: melothesie, zodiaque
+largeur: 440
+
+= cellarius-ptolemee
+commons: Cellarius Harmonia Macrocosmica - Hypothesis Ptolemaica.jpg
+legende: Le système de Ptolémée dans l’*Harmonia macrocosmica* d’Andreas Cellarius
+credit: Andreas Cellarius, 1661
+pour: cosmos-geocentrique
+largeur: 640
+
+= kepler-wallenstein
+commons: Kepler-Wallenstein-Horoskop.jpg
+legende: Le thème de Wallenstein dressé par Kepler en 1608
+credit: Johannes Kepler, 1608
+pour: theme-astral
+largeur: 374
+
+= kepler-trigone
+commons: Keplers trigon.jpg
+legende: Le trigone des grandes conjonctions de Jupiter et Saturne
+credit: Johannes Kepler, *De stella nova*, 1606
+pour: grandes-conjonctions
+largeur: 480
+
+= dendera-zodiaque
+commons: Description of Egypt. 2nd edition. 1822. Vol. 4. Pl. 21 (Dendera Circular Zodiac).jpg
+legende: Le zodiaque circulaire de Dendérah, avec ses décans
+credit: *Description de l’Égypte*, seconde édition, 1822
+pour: decans, egyptosophie
+largeur: 480
+
+= fludd-microcosme
+commons: Robert Fludd 1.gif
+legende: Le microcosme, d’après Robert Fludd
+credit: Robert Fludd, *Utriusque cosmi historia*, 1617-1621
+pour: microcosme-macrocosme, robert-fludd
+largeur: 440
+
+= leibniz-hexagrammes
+commons: Diagram of I Ching hexagrams owned by Gottfried Wilhelm Leibniz, 1701.jpg
+legende: Les soixante-quatre hexagrammes envoyés à Leibniz par le jésuite Joachim Bouvet
+credit: diagramme, 1701
+pour: yi-king
+largeur: 520
+
+= della-porta-lion
+commons: De humana physiognomonia libri IIII - NLM NIH - page 34.jpg
+legende: L’homme et le lion, dans la *Physiognomonie* de Giambattista Della Porta
+credit: Giambattista Della Porta, 1586
+pour: physiognomonie
+largeur: 400
+
+= fludd-ame-du-monde
+commons: Integrae Naturae Speculum Artisque imago.tif
+legende: Le miroir de la nature et l’image de l’art : l’âme du monde reliée à Dieu par une chaîne
+credit: Robert Fludd, *Utriusque cosmi historia*, 1617
+pour: ame-du-monde, harmonie-des-spheres
+largeur: 560
+
+= waterhouse-cercle
+commons: The Magic Circle - John William Waterhouse.jpg
+legende: *Le Cercle magique*, par John William Waterhouse
+credit: John William Waterhouse, 1886 — Tate Britain
+pour: cercle-magique
+largeur: 440
+
+= goya-aquelarre
+commons: Francisco de Goya y Lucientes - Witches Sabbath - Google Art Project.jpg
+legende: *Le Sabbat des sorcières*, par Francisco de Goya
+credit: Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid
+pour: sabbat
+largeur: 440
+
+= baldung-sorcieres
+commons: The Witches' Sabbath MET DP826749.jpg
+legende: *Les Sorcières*, gravure de Hans Baldung Grien
+credit: Hans Baldung Grien, 1510 — Metropolitan Museum of Art
+pour: sorcellerie
+largeur: 440
+
+= levi-baphomet
+commons: Baphomet by Éliphas Lévi.jpg
+legende: Le Baphomet dessiné par Éliphas Lévi pour *Dogme et rituel de la haute magie*
+credit: Éliphas Lévi, 1856
+pour: baphomet, dogme-et-rituel
+largeur: 400
+
+= waterhouse-boule
+commons: John William Waterhouse - The Crystal Ball.JPG
+legende: *La Boule de cristal*, par John William Waterhouse
+credit: John William Waterhouse, 1902
+pour: cristallomancie
+largeur: 400
+
+= collier-delphes
+commons: John Collier - Priestess of Delphi - Google Art Project.jpg
+legende: *La Prêtresse de Delphes*, par John Collier
+credit: John Collier, 1891 — Art Gallery of South Australia
+pour: oracle
+largeur: 360
+
+= botticini-hierarchies
+commons: Francesco Botticini - The Assumption of the Virgin.jpg
+legende: Les neuf chœurs des anges, dans l’*Assomption de la Vierge* de Francesco Botticini
+credit: Francesco Botticini, vers 1475-1476 — National Gallery, Londres
+pour: hierarchies-celestes, anges
+largeur: 640
+
+= michel-ange-sibylle
+commons: Michelangelo - Delphic Sibyl.jpg
+legende: La sibylle de Delphes, par Michel-Ange
+credit: Michel-Ange, vers 1509 — chapelle Sixtine
+pour: sibylles
+largeur: 440
+
+= kircher-atlantide
+commons: Atlantis Kircher Mundus subterraneus 1678.jpg
+legende: L’Atlantide entre l’Espagne et l’Amérique, dans le *Mundus subterraneus* d’Athanasius Kircher
+credit: Athanasius Kircher, 1665 (le nord est en bas)
+pour: atlantide
+largeur: 600
+
+= infernal-adrammelech
+commons: Dictionnaire infernal - Adrammelech.jpg
+legende: Adrammelech, dans le *Dictionnaire infernal* de Collin de Plancy
+credit: Louis Le Breton, 1863
+pour: demonologie
+largeur: 400
+
+= infernal-amduscias
+commons: Amduscias (Dictionnaire infernal).png
+legende: Amduscias, l’un des soixante-douze esprits de la *Goétie*, dans le *Dictionnaire infernal*
+credit: Louis Le Breton, 1863
+pour: goetie, lemegeton
+largeur: 400
+
+= agricola-baguette
+commons: De re metallica - dowsing (125711292).jpg
+legende: Prospecteurs maniant la baguette, dans le *De re metallica* de Georg Agricola
+credit: Georg Agricola, 1556
+pour: radiesthesie
+largeur: 520
+
+= figuier-baquet
+commons: T2- d637 - Fig. 339. — Le baquet de Mesmer.png
+legende: Le baquet de Mesmer
+credit: Louis Figuier, *Les Merveilles de la science*, 1868
+pour: magnetisme-animal, franz-anton-mesmer
+largeur: 440
+
+= aberdeen-phenix
+commons: Phoenix detail from Aberdeen Bestiary.jpg
+legende: Le phénix renaissant dans les flammes, *Bestiaire d’Aberdeen*
+credit: manuscrit anglais, vers 1200 — bibliothèque de l’université d’Aberdeen
+pour: phenix
+largeur: 400
+
+= blake-echelle
+commons: Blake jacobsladder.jpg
+legende: *Le Songe de Jacob*, par William Blake
+credit: William Blake, vers 1805 — British Museum
+pour: echelle-de-jacob
+largeur: 400
+
+= kells-tetramorphe
+commons: KellsFol027v4Evang.jpg
+legende: Les symboles des quatre évangélistes, *Livre de Kells*, folio 27 verso
+credit: manuscrit, vers 800 — Trinity College, Dublin
+pour: tetramorphe
+largeur: 400
+
+= fox-soeurs
+commons: Mrs. Fish and the Misses Fox LCCN2002710596 (cropped).jpg
+legende: Les sœurs Fox, qui inaugurèrent les « coups frappés » de Hydesville
+credit: gravure d’après daguerréotype, 1852 — Bibliothèque du Congrès
+pour: spiritualisme
+largeur: 400
+
+= eusapia-seance
+commons: Eusapia medium.jpg
+legende: Une séance d’Eusapia Palladino
+credit: dessin, 1895
+pour: medium
+largeur: 400
+
+= table-milan-1892
+commons: Médium et Aksakof002.jpg
+legende: Lévitation d’une table lors des séances de Milan, en 1892
+credit: photographie, 1892
+pour: tables-tournantes, metapsychique
+largeur: 400
+
+= mandragore-tacuinum
+commons: Tacuinum Sanitatis Mandrake Dog.jpg
+legende: La cueillette de la mandragore, tirée par un chien, dans un *Tacuinum sanitatis*
+credit: manuscrit, vers 1390
+pour: mandragore
+largeur: 440
+
+= derenburg-1555
+commons: Zeitung Derenburg 1555 crop.jpg
+legende: Des sorcières brûlées à Derenburg, en 1555
+credit: feuille volante, 1555
+pour: chasse-aux-sorcieres
+largeur: 560
+
+= la-voisin
+commons: Portrait de la Voisin, G.38602.jpg
+legende: Portrait de la Voisin
+credit: gravure — musée Carnavalet, Paris
+pour: affaire-des-poisons
+largeur: 400
+
+= villa-mysteres
+commons: Roman fresco Villa dei Misteri Pompeii 007.jpg
+legende: Une scène d’initiation dionysiaque, fresque de la villa des Mystères à Pompéi
+credit: fresque, Ier siècle avant notre ère
+pour: mysteres-antiques
+largeur: 640
+
+= manicheens-khocho
+commons: Manicheans.jpg
+legende: Des élus manichéens, peinture de Khotcho, dans l’oasis de Tourfan
+credit: peinture, Xe siècle
+pour: manicheisme
+largeur: 400
+
+= visconti-monde
+commons: Visconti-sforza-21-world.jpg
+legende: Le Monde du tarot Visconti-Sforza, l’un des plus anciens connus
+credit: Milan, vers 1450
+pour: tarot
+largeur: 400
+
+= wirth-bateleur
+commons: Jeu de tarot kabbalistique dit "des imagiers du Moyen-Age" - jeu de cartes, estampe - Oswald Wirth - btv1b105110785 (33 of 44).jpg
+legende: Le Bateleur du tarot d’Oswald Wirth
+credit: Oswald Wirth, 1889 — BnF
+pour: oswald-wirth
+largeur: 440
+
+= etteilla-force
+commons: Jeu de tarot divinatoire dit "Grand Etteilla" ou "tarot égyptien" - jeu de cartes, estampe - btv1b105111415 (021 of 166).jpg
+legende: La Force dans le « Grand Etteilla », tarot égyptien
+credit: édition des années 1880 — BnF
+pour: etteilla
+largeur: 440
+
+# ── Franc-maçonnerie ──────────────────────────────────────────────────────
+
+% Franc-maçonnerie
+
+= loge-reception-apprentis
+commons: Assemblée de francs-maçons pour la réception des apprentifs - estampe - btv1b84099889.jpg
+legende: Assemblée de francs-maçons pour la réception des apprentis
+credit: estampe, vers 1745 — BnF
+pour: loge
+largeur: 640
+
+= loge-entree-recipiendaire
+commons: Assemblée de francs-maçons pour la réception des Apprentifs. - Entrée du récipiendaire dans la loge - estampe - btv1b84099852.jpg
+legende: L’entrée du récipiendaire, les yeux bandés, dans la loge
+credit: estampe, vers 1745 — BnF
+pour: initiation-maconnique
+largeur: 640
+
+= loge-reception-maitres
+commons: Assemblée de Francs-Maçons pour la réception des Maîtres. ; Le Récipiendaire est couché sur le cercueil dessiné dans la Loge, le visage couvert d'un linge teint de sang. - Et tous les assistants ayant tiré... - btv1b100288667.jpg
+legende: Réception d’un maître : le récipiendaire est couché sur le cercueil tracé au sol de la loge
+credit: Jacques-Philippe Le Bas, vers 1745 — BnF
+pour: maitre-macon, legende-d-hiram
+largeur: 640
+
+= ordre-trahi-tableau
+commons: L Ordre de Francs Macons Trahi et le secret des mopses révélé img04.jpg
+legende: Le tableau de la loge, gravure de *L’Ordre des francs-maçons trahi*
+credit: gravure de 1745, édition de 1771
+pour: tableau-de-loge
+largeur: 520
+
+= ordre-trahi-titre
+commons: L Ordre de Francs Macons Trahi et le secret des mopses révélé img01.jpg
+legende: Page de titre de *L’Ordre des francs-maçons trahi et le secret des Mopses révélé*
+credit: édition d’Amsterdam, 1771
+pour: divulgations-maconniques
+largeur: 360
+
+= loge-vienne-mozart
+commons: Mozart in lodge, Vienna.jpg
+legende: Une tenue dans une loge viennoise ; on a voulu reconnaître Mozart parmi les assistants
+credit: peinture anonyme, vers 1789 — Wien Museum
+pour: tenue, wolfgang-amadeus-mozart
+largeur: 600
+
+= schinkel-reine-de-la-nuit
+commons: Karl Friedrich Schinkel Die Sternenhalle der Königin der Nacht Bühnenbild Zauberflöte Mozart.tif
+legende: L’apparition de la Reine de la Nuit, décor de Karl Friedrich Schinkel pour *La Flûte enchantée*
+credit: Karl Friedrich Schinkel, vers 1815
+pour: la-flute-enchantee
+largeur: 560
+
+= schinkel-sphinx
+commons: SchinkelDesignMagicFluteAct2Scene3.PNG
+legende: Le jardin du sphinx au clair de lune, décor de Schinkel pour *La Flûte enchantée*
+credit: Karl Friedrich Schinkel, vers 1815
+pour: egyptosophie
+largeur: 560
+
+= villalpando-temple
+commons: Aanzicht op de tempel van Salomo volgens Villalpando (blad midden), RP-P-2018-3563-2.jpg
+legende: Le Temple de Salomon restitué d’après le jésuite Villalpando
+credit: gravure, vers 1725 — Rijksmuseum
+pour: temple-de-salomon
+largeur: 640
+
+= bijou-maconnique
+commons: VM 06867 – Oval symbolic medallion – 19th century.jpg
+legende: Un bijou maçonnique peint : colonnes, outils, pavé et soleil
+credit: médaillon, vers 1850
+pour: decors-maconniques
+largeur: 360
+
+# ── Notions, symboles, sociétés ──────────────────────────────────────────
+
+% Notions, symboles, sociétés
+
+= agape-catacombe
+commons: Agape feast 02.jpg
+legende: Un banquet chrétien des premiers siècles, fresque des catacombes de Rome
+credit: fresque, IVe siècle — catacombe des Saints-Marcellin-et-Pierre
+pour: agapes
+largeur: 600
+
+= matejko-sendivogius
+commons: Alchemik Sedziwoj Matejko.JPG
+legende: *L’Alchimiste Sendivogius*, par Jan Matejko
+credit: Jan Matejko, 1867 — musée d’Art de Łódź
+pour: michel-sendivogius
+largeur: 600
+
+= codex-alep
+commons: Aleppo Codex Joshua 1 1.jpg
+legende: Le livre de Josué dans le codex d’Alep
+credit: manuscrit hébreu, Xe siècle — musée d’Israël, Jérusalem
+pour: alphabet-hebreu
+largeur: 600
+
+= amulettes-bronze
+commons: Amuletter i brons - Hallwylska museet - 98636.tif
+legende: Amulettes de bronze
+credit: musée Hallwyl, Stockholm
+pour: amulette
+largeur: 480
+
+= paracelse-azoth
+commons: Paracelsus 1567 - azoth.jpg
+legende: Paracelse, la main sur le pommeau de son épée marqué « Azoth »
+credit: gravure, 1567
+pour: azoth
+largeur: 400
+
+= berruguete-ordalie
+commons: Berruguete ordeal.jpg
+legende: Saint Dominique et les Albigeois : l’épreuve du feu, par Pedro Berruguete
+credit: Pedro Berruguete, vers 1493-1499 — musée du Prado
+pour: catharisme
+largeur: 400
+
+= della-vecchia-main
+commons: Pietro della Vecchia - A Fortune Teller Reading a Soldier's Palm.jpg
+legende: *Une diseuse de bonne aventure lisant la main d’un soldat*, par Pietro della Vecchia
+credit: Pietro della Vecchia, vers 1640
+pour: chiromancie
+largeur: 400
+
+= sapta-chakra
+commons: Sapta Chakra, 1899 (cropped).jpg
+legende: Les chakras le long du corps, dans un manuscrit du *Jogapradipika*
+credit: manuscrit indien, 1899
+pour: chakra, corps-subtils
+largeur: 400
+
+= seti-hieroglyphes
+commons: Papyrus Ani curs hiero.jpg
+legende: Hiéroglyphes d’une paroi du tombeau de Séthi Ier
+credit: Nouvel Empire, vers 1290 avant notre ère
+pour: hieroglyphes
+largeur: 480
+
+= illuminati-systeme
+commons: Minerval insignia.png
+legende: Page de titre du *Système amélioré des Illuminés* d’Adam Weishaupt
+credit: imprimé, Francfort et Leipzig, 1788
+pour: illumines-de-baviere
+largeur: 360
+
+= le-barbier-declaration
+commons: Declaration of the Rights of Man and of the Citizen in 1789.jpg
+legende: La *Déclaration des droits de l’homme et du citoyen* peinte sous l’œil de la Providence
+credit: Jean-Jacques-François Le Barbier, 1789 — musée Carnavalet
+pour: oeil-de-la-providence
+largeur: 400
+
+= chaman-youkaguir
+commons: Yukaghir shaman.jpg
+legende: Un chaman youkaguir, en Sibérie orientale
+credit: photographie de l’expédition Jesup, 1902
+pour: chamanisme
+largeur: 300
+
+= portrait-sinnett
+commons: Alfred Percy Sinnett.002.jpg
+legende: Alfred Percy Sinnett, à qui furent adressées les « lettres des Mahatmas »
+credit: photographie, début du XXe siècle
+pour: maitres-de-sagesse
+largeur: 300
+
+= hildegarde-cosmos
+commons: Hildegard von Bingen Liber Divinorum Operum.jpg
+legende: L’homme au centre du cosmos, dans le *Livre des œuvres divines* de Hildegarde de Bingen
+credit: manuscrit, XIIIe siècle — bibliothèque d’État de Lucques
+pour: mystique, microcosme-macrocosme
+largeur: 440
+
+= schnorr-ezechiel
+commons: Bible Ezechielovo vidění.JPG
+legende: La vision du char divin par le prophète Ézéchiel
+credit: Julius Schnorr von Carolsfeld, *La Bible en images*, 1860
+pour: merkavah
+largeur: 480
+
+= sarcophage-philosophe
+commons: Roman sarcophagus of a reader identified to Plotinus and disciples.jpg
+legende: Sarcophage d’un philosophe entouré de ses disciples, où l’on a voulu reconnaître Plotin
+credit: relief romain, IIIe siècle — musées du Vatican
+pour: plotin, neoplatonisme
+largeur: 560
+
+= bongo-numerorum
+commons: Bongo, Pietro – Numerorum mysteria, 1591 – BEIC 58079.jpg
+legende: Page de titre des *Numerorum mysteria* de Pietro Bongo
+credit: Bergame, 1591
+pour: arithmologie
+largeur: 400
+
+= isidore-elements
+commons: Colored four elements.jpg
+legende: Les quatre éléments et leurs qualités, d’après Isidore de Séville
+credit: *De natura rerum*, Augsbourg, 1472
+pour: quatre-elements
+largeur: 440
+
+= icone-ange-gardien
+commons: Ангел-хранитель Мстёрская икона.jpg
+legende: L’ange gardien, icône russe
+credit: icône de Mstiora, XIXe siècle
+pour: ange-gardien
+largeur: 400
+
+= hockley-sceaux
+commons: Seven Seals of Archangels.jpg
+legende: Les sceaux de sept archanges, dans un manuscrit magique de Frederick Hockley
+credit: Frederick Hockley, XIXe siècle
+pour: sigil, sceau
+largeur: 360
+
+= freemasons-hall
+commons: Freemasons.hall.london.arp.750pix.jpg
+legende: Freemasons’ Hall, siège de la Grande Loge unie d’Angleterre à Londres
+credit: photographie, 2004
+pour: grande-loge-unie-d-angleterre
+largeur: 400
+
+= crowley-mage
+commons: Aleister Crowley, Magus.png
+legende: Aleister Crowley en mage
+credit: photographie publiée en 1912
+pour: aleister-crowley
+largeur: 360
+
+= embleme-theosophique
+commons: Emb logo.png
+legende: L’emblème de la Société théosophique, avec sa devise « Il n’y a pas de religion plus haute que la vérité »
+credit: dessin, à partir de 1875
+pour: societe-theosophique
+largeur: 360

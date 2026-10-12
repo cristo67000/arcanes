@@ -1,17 +1,19 @@
-Dictionnaire construit le 2026-10-11
-519 articles, 53346 mots, 234 datés pour la frise, 119 avec figure (34 / 34 figures), 33 avec glyphe
-608500 octets de JSON
+Dictionnaire construit le 2026-10-12
+614 articles, 64409 mots, 280 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
+236 illustrations (9852 Ko) dans 220 articles, 4 planche(s)
+832580 octets de JSON
 
   courants     39
-  figures     108
-  textes       53
+  figures     128
+  textes       61
   notions      46
   alchimie     46
   kabbale      40
   astrologie   42
   divination   46
   magie        35
-  societes     27
-  symboles     37
+  societes     23
+  maconnerie   75
+  symboles     33
 
-10 article(s) que rien ne cite : acacia, alkahest, anna-kingsford, arcane, augures, chaine-d-union, decans, lotus, simon-le-magicien, triskele
+8 article(s) que rien ne cite : alkahest, anna-kingsford, arcane, augures, decans, lotus, simon-le-magicien, triskele

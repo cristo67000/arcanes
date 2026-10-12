@@ -1,3 +1,4 @@
 node_modules/
 captures/
 *.log
+build/.sources-images/

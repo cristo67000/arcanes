@@ -57,6 +57,8 @@
      * rien à défaire (voir Outils.reculer). */
     if (racine.reculsAttendus > 0) { racine.reculsAttendus -= 1; return; }
     const s = e.state || {};
+    // La visionneuse d'abord : « retour » referme l'image, pas la fiche dessous.
+    if (Illustrations.ouverte) { Illustrations.fermerSansHistorique(); return; }
     if (Editeur.ouvert && !s.editeur) Editeur.fermerSansHistorique();
     if (Fiche.ouverte) {
       if (s.fiche) Fiche.revenirA(s.fiche);
@@ -69,6 +71,7 @@
   function surTouche(e) {
     if (e.defaultPrevented || e.altKey) return;
     if (e.key === 'Escape') {
+      if (Illustrations.ouverte) { e.preventDefault(); Illustrations.fermer(); return; }
       if (Editeur.ouvert) { if (!Editeur.modifie) { e.preventDefault(); Editeur.fermer(); } return; }
       if (Fiche.ouverte) { e.preventDefault(); Fiche.fermer(); }
       return;
@@ -87,6 +90,7 @@
     appliquerReglages();
 
     Fiche.brancher();
+    Illustrations.brancher();
     Editeur.brancher();
     Carnet.brancher();
     Frise.brancher();

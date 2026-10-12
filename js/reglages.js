@@ -20,6 +20,42 @@
     return g;
   }
 
+  /* Les illustrations : combien sont rangées pour la lecture hors ligne. La
+   * ligne se met à jour seule pendant le téléchargement, sans redessiner
+   * l'écran (un menu ouvert se refermerait). */
+  let ligneImages = null;
+  function etatImages(e) {
+    if (!ligneImages || !ligneImages.texte.isConnected) return;
+    const total = e.total || (infos.manifeste && infos.manifeste.images) || 0;
+    ligneImages.texte.textContent = !('caches' in racine)
+      ? 'Ce navigateur ne garde pas les images pour la lecture hors ligne.'
+      : e.prets >= total && total
+        ? 'Toutes les illustrations sont disponibles hors ligne.'
+        : e.enCours
+          ? 'Téléchargement : ' + e.prets + ' sur ' + total + '…'
+          : 'Disponibles hors ligne : ' + e.prets + ' sur ' + total + '.';
+    ligneImages.bouton.hidden = e.enCours || !total || e.prets >= total || !('caches' in racine);
+  }
+
+  function blocImages() {
+    const b = bloc('Illustrations');
+    const m = infos.manifeste;
+    if (m && m.images) {
+      b.appendChild(element('p', 'discret', Outils.pluriel(m.images, 'image', 'images') + ' du domaine public — cartes des tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), portraits, gravures —, '
+        + Outils.humain(m.octetsImages) + '. Elles se téléchargent d’elles-mêmes après la première ouverture ; touchez une image pour l’agrandir et voir sa source.'));
+    }
+    const ligne = element('div', 'ligne-maj');
+    const t = element('span', 'discret', '');
+    const bt = bouton('bouton-discret', 'Télécharger maintenant', () => Illustrations.entretenir(true));
+    ligne.appendChild(bt);
+    ligne.appendChild(t);
+    b.appendChild(ligne);
+    ligneImages = { texte: t, bouton: bt };
+    etatImages(Illustrations.etat);
+    Illustrations.entretenir().catch(() => {});
+    return b;
+  }
+
   function bloc(titre) {
     const b = element('section', 'bloc');
     b.appendChild(element('h3', null, titre));
@@ -84,6 +120,7 @@
     zone.appendChild(affichage);
 
     zone.appendChild(blocVoix(r));
+    zone.appendChild(blocImages());
 
     const clavier = bloc('Clavier');
     clavier.classList.add('seulement-clavier');
@@ -165,6 +202,7 @@
     infos = Object.assign(infos, donnees || {});
     Installer.surChangement(() => { if (App.vue === 'reglages') dessiner(); });
     document.addEventListener('voix-changees', () => { if (App.vue === 'reglages') dessiner(); });
+    document.addEventListener('illustrations-etat', (e) => etatImages(e.detail));
   }
 
   racine.Reglages = { brancher, dessiner };

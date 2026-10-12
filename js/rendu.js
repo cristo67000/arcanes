@@ -23,13 +23,14 @@
     const source = String(texte || '');
     let pos = 0;
     let m;
-    MOTIF.lastIndex = 0;
+    // une expression par appel : l'italique se met en forme par récursion
+    const motif = new RegExp(MOTIF.source, 'g');
     const poserTexte = (parent, t) => {
       if (!t) return;
       if (surligne) parent.appendChild(Outils.surligner(t, surligne));
       else parent.appendChild(document.createTextNode(t));
     };
-    while ((m = MOTIF.exec(source)) !== null) {
+    while ((m = motif.exec(source)) !== null) {
       poserTexte(sortie, source.slice(pos, m.index));
       if (m[1]) {
         const id = m[1];
@@ -42,8 +43,10 @@
         if (Dictionnaire.parId(id)) sortie.appendChild(lien(id, libelle));
         else poserTexte(sortie, libelle);
       } else {
+        // L'italique peut contenir un renvoi : « *[[zohar|Zohar]]* », un titre
+        // qui mène à son article. On le met donc en forme à son tour.
         const i = element('i');
-        poserTexte(i, m[3]);
+        i.appendChild(fragment(m[3], surligne));
         sortie.appendChild(i);
       }
       pos = m.index + m[0].length;

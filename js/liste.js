@@ -140,7 +140,11 @@
       textes.appendChild(element('p', 'du-jour-mot', jour.n));
       if (jour.da) textes.appendChild(element('p', 'du-jour-dates', jour.da));
       haut.appendChild(textes);
-      if (jour.gl && Glyphes[jour.gl]) haut.appendChild(Glyphes.svg(jour.gl, 'glyphe-du-jour'));
+      // l'image de l'article s'il en a une (une carte, un portrait, la première
+      // vignette de sa planche), sinon son signe
+      const image = (jour.im && jour.im[0]) || (jour.pl && jour.pl[0] && jour.pl[0].im[0]);
+      if (image) haut.appendChild(Illustrations.image(image, 'image-du-jour'));
+      else if (jour.gl && Glyphes[jour.gl]) haut.appendChild(Glyphes.svg(jour.gl, 'glyphe-du-jour'));
       carte.appendChild(haut);
       carte.appendChild(element('p', 'du-jour-def', jour.defNue));
       carte.addEventListener('click', () => Fiche.ouvrir(jour.id));

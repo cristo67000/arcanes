@@ -318,7 +318,7 @@ voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale
 cat: notions
 nom: Lémurie
 alias: Lemuria, Mu, continent de Mu
-def: Continent englouti imaginé en 1864 par un zoologiste pour expliquer la présence de lémuriens à Madagascar et en Inde, puis adopté par la théosophie comme berceau d'une humanité primitive.
+def: Continent englouti imaginé en 1864 par un zoologiste pour expliquer la présence de primates apparentés à Madagascar et en Inde, puis adopté par la théosophie comme berceau d'une humanité primitive.
 texte: Le zoologiste britannique Philip Sclater propose un pont de terre disparu entre Madagascar et l'Inde, qu'il nomme Lémurie, d'après les lémuriens. L'hypothèse, raisonnable dans la science de son temps, a été abandonnée avec la tectonique des plaques, qui explique autrement la répartition des espèces.
 texte: [[helena-blavatsky]] fait de la Lémurie le continent de la troisième race-racine, êtres gigantesques et d'abord androgynes. Un autre continent fabuleux, Mu, est popularisé dans le Pacifique par James Churchward à partir de 1926.
 voir: atlantide, theosophie, doctrine-secrete
