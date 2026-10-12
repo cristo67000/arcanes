@@ -3,15 +3,17 @@
  *
  *     node build/essais_en_ligne.mjs [https://cristo67000.github.io/arcanes/]
  *
- *   1. chaque fichier que le service worker range est servi tel qu'il est dans le
- *      dépôt (empreinte SHA-256 comparée au contenu de HEAD, pas à la copie de
- *      travail, dont les fins de ligne peuvent différer) — ce n'est pas le code
- *      HTTP qui prouve la mise en ligne, c'est le contenu ;
+ *   1. chaque fichier que le service worker range, et chaque illustration de
+ *      img/, est servi tel qu'il est dans le dépôt (empreinte SHA-256 comparée au
+ *      contenu de HEAD, pas à la copie de travail, dont les fins de ligne peuvent
+ *      différer) — ce n'est pas le code HTTP qui prouve la mise en ligne, c'est
+ *      le contenu ;
  *   2. dans un Chrome neuf, l'application démarre sur le site réel, sans erreur,
  *      et son service worker prend la main ;
  *   3. le même profil est relancé avec le domaine COUPÉ (résolution de nom
  *      refusée) : l'application doit démarrer, montrer un article complet et
- *      retrouver la note écrite en ligne. C'est la seule façon d'éprouver le
+ *      retrouver la note écrite en ligne, et ses illustrations, rangées en ligne
+ *      dans leur cache à part. C'est la seule façon d'éprouver le
  *      hors-ligne du site publié ; les émulations de réseau du protocole ne
  *      coupent pas ce que répond un service worker.
  */
@@ -26,7 +28,8 @@ import { lancerChrome, fermerChrome, ouvrirOnglet } from './pilote_chrome.mjs';
 const RACINE = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const SITE = (process.argv[2] || 'https://cristo67000.github.io/arcanes/').replace(/\/?$/, '/');
 const DOMAINE = new URL(SITE).hostname;
-const ARTICLES = JSON.parse(fs.readFileSync(path.join(RACINE, 'data', 'manifeste.json'), 'utf-8')).articles;
+const MANIFESTE = JSON.parse(fs.readFileSync(path.join(RACINE, 'data', 'manifeste.json'), 'utf-8'));
+const ARTICLES = MANIFESTE.articles;
 const pause = (ms) => new Promise((r) => setTimeout(r, ms));
 let bons = 0;
 const echecs = [];
@@ -35,7 +38,8 @@ function ok(condition, message) { if (condition) bons += 1; else echecs.push(mes
 // ── 1. Le contenu servi est celui du dépôt ──────────────────────────────────
 const sw = fs.readFileSync(path.join(RACINE, 'sw.js'), 'utf-8');
 const fichiers = [...sw.slice(sw.indexOf('const FICHIERS'), sw.indexOf('];', sw.indexOf('const FICHIERS'))).matchAll(/'([^']+)'/g)]
-  .map((m) => m[1]).filter((f) => f !== './').concat(['sw.js', 'icons/apercu-1200x630.png']);
+  .map((m) => m[1]).filter((f) => f !== './').concat(['sw.js', 'icons/apercu-1200x630.png'])
+  .concat(fs.readdirSync(path.join(RACINE, 'img')).filter((f) => f.endsWith('.webp')).map((f) => 'img/' + f));
 const differents = [];
 for (const f of fichiers) {
   const reponse = await fetch(SITE + f + '?verif=' + Date.now(), { cache: 'no-store' });
@@ -82,6 +86,9 @@ try {
     const contenu = await o.evaluer("const n = (await caches.keys()).find((k) => k.startsWith('arcanes-coquille-')); return n ? (await (await caches.open(n)).keys()).length : 0");
     ok(contenu >= 38, 'en ligne : la coquille est rangée (' + contenu + ' fichiers)');
     await o.evaluer("await Store.ecrireNote({ id: 'n-essai-en-ligne', ref: 'alchimie', type: 'note', titre: '', texte: 'écrite en ligne', cree: 1, modifie: 1 }); return 1");
+    const images = await o.evaluer("const e = await Illustrations.entretenir(true); return { prets: e.prets, total: e.total, dans: (await (await caches.open('arcanes-images')).keys()).length }");
+    ok(images.total === MANIFESTE.images && images.dans === images.total,
+      'en ligne : les illustrations sont rangées pour le hors-ligne (' + images.dans + ' / ' + MANIFESTE.images + ')');
   });
   ok(erreurs1.length === 0, 'en ligne : erreurs de page : ' + erreurs1.slice(0, 3).join(' | '));
 
@@ -93,6 +100,12 @@ try {
     ok(await o.evaluer('return Dictionnaire.articles.length') === ARTICLES, 'hors ligne : ' + ARTICLES + ' articles');
     ok(await attendre(o, "Fiche.ref === 'alchimie' && document.querySelector('#fiche .figure svg') && document.querySelector('#fiche a.renvoi') && document.querySelector('#fiche .note-carte')"),
       'hors ligne : article complet (figure, renvois, note écrite en ligne)');
+    await o.evaluer("Fiche.ouvrir('arcane-mat'); return 1");
+    ok(await attendre(o, "Fiche.ref === 'arcane-mat' && document.querySelectorAll('#fiche .illustration img').length === 2 && Array.from(document.querySelectorAll('#fiche .illustration img')).every((i) => i.complete && i.naturalWidth > 0)"),
+      'hors ligne : les deux cartes du Mat s’affichent');
+    await o.evaluer("Fiche.ouvrir('arcanes-majeurs'); return 1");
+    ok(await attendre(o, "Fiche.ref === 'arcanes-majeurs' && document.querySelectorAll('#fiche .vignette img').length === 22 && Array.from(document.querySelectorAll('#fiche .vignette img')).every((i) => i.complete && i.naturalWidth > 0)"),
+      'hors ligne : la planche des vingt-deux arcanes s’affiche');
     const reponse = await o.evaluer("try { const r = await fetch('" + SITE + "inconnu-' + Date.now() + '.txt', { cache: 'no-store' }); return r.status; } catch (e) { return 'refusé'; }");
     ok(reponse === 'refusé', 'hors ligne : le domaine est bien injoignable (' + reponse + ')');
   });
