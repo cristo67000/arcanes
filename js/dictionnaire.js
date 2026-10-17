@@ -77,7 +77,7 @@
     a.cleTri = sansArticle(a.cle);
     a.cles = cles;
     a.defNue = nu(a.d);
-    a.texte = normaliser(a.defNue + ' ' + (a.t || []).map(nu).join(' '));
+    a.texte = normaliser(a.defNue + ' ' + (a.t || []).map(nu).join(' ') + ' ' + (a.re || []).map((r) => nu(r[1])).join(' '));
     const premiere = a.cleTri.charAt(0).toUpperCase();
     a.lettre = /[A-Z]/.test(premiere) ? premiere : '#';
     return a;

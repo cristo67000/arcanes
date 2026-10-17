@@ -11,8 +11,18 @@ alias: Sir Robert Moray, Murray, Robert Murray
 an: 1641
 dates: vers 1608 – 1673
 def: Soldat, diplomate et savant écossais, l'un des fondateurs de la Royal Society, dont la réception dans une loge en 1641 est la plus ancienne initiation d'un non-maçon attestée en Angleterre.
-texte: Officier au service de la France puis des Covenantaires écossais, Moray est reçu le 20 mai 1641 à Newcastle par des membres de la loge d'Édimbourg qui suivaient l'armée écossaise. Il prend pour marque de maçon un [[pentagramme]], qu'il dessinera longtemps en signature de ses lettres.
-texte: Familier de Charles II, curieux de chimie, d'[[alchimie]] et de physique, il est en 1660 l'un des fondateurs de la Royal Society, qu'il préside à ses débuts. Son cas montre qu'avant 1717, des gentilshommes savants entraient déjà dans les loges de métier (voir [[operatifs-et-speculatifs|opératifs et spéculatifs]]).
+texte: Fils d'un gentilhomme écossais, Robert Moray naît vers 1608. Il sert d'abord dans la garde écossaise des rois de France, sous Richelieu, puis devient quartier-maître général de l'armée des Covenantaires écossais lors de la guerre contre Charles Ier. C'est à ce titre qu'il est reçu le 20 mai 1641 à Newcastle, alors occupée par l'armée écossaise, par des membres de la loge d'Édimbourg qui la suivaient : le procès-verbal de la loge en garde la trace. Il prend pour marque de maçon un [[pentagramme]], qu'il dessinera toute sa vie en signature de ses lettres.
+texte: Revenu au service de la France, il est fait chevalier par Charles Ier en 1643, puis capturé en Allemagne et retenu deux ans prisonnier par les Bavarois. Diplomate entre le roi et les Écossais pendant la guerre civile, il connaît l'exil après la défaite royaliste ; à Maastricht, il se consacre à la chimie et à l'[[alchimie]], dont il laisse des notes, et entretient avec son ami Alexander Bruce une correspondance où la sagesse stoïcienne se mêle aux réflexions sur le métier de maçon.
+texte: Familier de Charles II, il rentre à Londres à la Restauration. En 1660, il est l'un des fondateurs de la Royal Society, qu'il préside à ses débuts et dont il obtient la charte royale en 1662. Curieux de tout, il correspond avec le savant hollandais Christiaan Huygens sur les horloges à pendule et observe les marées. Il meurt à Londres en 1673 et repose à l'abbaye de Westminster.
+texte: Son cas, comme celui d'[[elias-ashmole]], montre qu'avant la fondation de la Grande Loge de Londres, des gentilshommes savants entraient déjà dans les loges de métier, en Écosse surtout : l'historien David Stevenson a fait de lui l'une des figures du passage de la maçonnerie [[operatifs-et-speculatifs|opérative à la maçonnerie spéculative]].
+repere: vers 1608 — Naissance en Écosse.
+repere: années 1630 — Officier de la garde écossaise des rois de France.
+repere: 1641 — Reçu maçon à Newcastle, le 20 mai, par des membres de la loge d'Édimbourg.
+repere: 1643 — Fait chevalier par Charles Ier ; capturé en Allemagne, il reste deux ans prisonnier.
+repere: 1657 — Exilé à Maastricht, il se consacre à la chimie.
+repere: 1660 — L'un des fondateurs de la Royal Society, qu'il préside à ses débuts.
+repere: 1662 — Il obtient la charte royale de la Royal Society.
+repere: 1673 — Mort à Londres ; inhumé à l'abbaye de Westminster.
 voir: operatifs-et-speculatifs, elias-ashmole, pentagramme, franc-maconnerie
 
 @ james-anderson
@@ -22,9 +32,19 @@ alias: Anderson, pasteur Anderson
 an: 1723
 dates: vers 1679 – 1739
 def: Pasteur presbytérien écossais établi à Londres, rédacteur des Constitutions de 1723, le texte fondateur de la franc-maçonnerie moderne.
-texte: Né à Aberdeen, ministre d'une congrégation presbytérienne de Londres, Anderson est chargé par la jeune [[grande-loge-de-londres|Grande Loge de Londres]] de mettre en ordre les anciens devoirs du métier. Il en tire les *[[constitutions-d-anderson|Constitutions]]* (1723), qui joignent une histoire légendaire de l'architecture, d'Adam à la Grande-Bretagne, aux « obligations » du franc-maçon et aux règlements des loges.
-texte: Il en publie en 1738 une seconde édition augmentée, où il raconte pour la première fois la fondation de 1717. Son rôle exact, et la part qu'y eut [[jean-theophile-desaguliers]], sont discutés ; son nom est resté attaché à l'esprit de tolérance de la maçonnerie anglaise.
-voir: constitutions-d-anderson, grande-loge-de-londres, jean-theophile-desaguliers, old-charges
+texte: James Anderson naît vers 1679 à Aberdeen, fils d'un vitrier qui fut membre et maître de la loge de la ville. Maître ès arts du Marischal College en 1698, il devient pasteur presbytérien et s'installe à Londres vers 1710, où il dirige une congrégation de dissidents écossais. Il y perd une partie de ses économies dans le krach de la Compagnie des mers du Sud, en 1720.
+texte: En 1721, la jeune [[grande-loge-de-londres|Grande Loge de Londres]], présidée par le duc de Montagu, le charge de mettre en ordre les anciens devoirs du métier, les *[[old-charges|Old Charges]]*. Il en tire les *[[constitutions-d-anderson|Constitutions]]* (1723), qui joignent une histoire légendaire de l'architecture — d'Adam, qui avait la géométrie « écrite dans son cœur », à Noé, Salomon et la Grande-Bretagne — aux « obligations » du franc-maçon et aux règlements des loges.
+texte: Le premier article en est célèbre : le maçon doit obéir à la loi morale, et, s'il comprend bien l'art, il ne sera jamais « un athée stupide ni un libertin irréligieux » ; on ne l'oblige qu'à « la religion sur laquelle tous les hommes sont d'accord », laissant à chacun ses opinions particulières. Cette formule a fondé l'esprit de tolérance de la maçonnerie anglaise et les débats sur la place de Dieu dans les loges.
+texte: Grand surveillant en 1723, il publie aussi des sermons et des généalogies royales. En 1738, il donne une seconde édition augmentée des *Constitutions*, où il raconte pour la première fois la fondation de la Grande Loge en 1717 dans une taverne de Londres ; ce récit est notre seule source, et des historiens récents proposent de dater plutôt cette fondation de 1721. Son rôle exact, et la part qu'y eut [[jean-theophile-desaguliers]], restent discutés. Il meurt à Londres en 1739.
+repere: vers 1679 — Naissance à Aberdeen, fils d'un vitrier membre de la loge de la ville.
+repere: 1698 — Maître ès arts du Marischal College d'Aberdeen.
+repere: vers 1710 — Pasteur d'une congrégation presbytérienne écossaise à Londres.
+repere: 1721 — La Grande Loge le charge de mettre en ordre les anciens devoirs.
+repere: 1723 — Publication des *Constitutions*.
+repere: 1738 — Seconde édition, qui raconte la fondation de la Grande Loge en 1717.
+repere: 1739 — Mort à Londres.
+repere: 2017 — Des historiens proposent de dater de 1721 la fondation qu'il raconte.
+voir: constitutions-d-anderson, grande-loge-de-londres, jean-theophile-desaguliers, old-charges, grand-architecte-de-l-univers
 
 @ jean-theophile-desaguliers
 cat: figures
@@ -33,8 +53,19 @@ alias: John Theophilus Desaguliers, Désaguliers, Desaguliers
 an: 1719
 dates: 1683 – 1744
 def: Physicien d'origine huguenote, collaborateur de Newton à la Royal Society et troisième grand maître de la Grande Loge de Londres, l'un des véritables architectes de la maçonnerie moderne.
-texte: Né à La Rochelle, emmené tout enfant en Angleterre par son père, pasteur réfugié après la révocation de l'édit de Nantes, Désaguliers devient le démonstrateur des expériences de la Royal Society et un vulgarisateur célèbre de la physique d'[[isaac-newton]], dont il est le proche. Élu grand maître en 1719, il attire dans les loges l'aristocratie et le monde savant.
-texte: On lui attribue une grande part dans les *[[constitutions-d-anderson|Constitutions]]* de 1723 et la diffusion de la maçonnerie sur le continent : en 1731, à La Haye, il préside la réception du duc François de Lorraine, futur empereur. Il incarne l'alliance des Lumières newtoniennes et de la sociabilité maçonnique.
+texte: Jean-Théophile Désaguliers naît à La Rochelle en 1683, fils d'un pasteur protestant. Après la révocation de l'édit de Nantes, la famille s'enfuit en Angleterre, où le père ouvre une école. Le fils étudie à Oxford, devient pasteur de l'Église anglicane et donne des leçons de physique expérimentale.
+texte: Installé à Londres, il entre en 1714 à la Royal Society, que préside [[isaac-newton]], et en devient le démonstrateur des expériences. Vulgarisateur célèbre de la physique newtonienne, il donne des cours publics, écrit un *Cours de philosophie expérimentale*, étudie l'électricité — on lui doit les mots de « conducteur » et d'« isolant » —, conçoit des systèmes de ventilation et des machines à vapeur. La Royal Society lui décerne trois fois sa médaille Copley.
+texte: Élu grand maître de la Grande Loge de Londres en 1719, le troisième après sa fondation, il attire dans les loges l'aristocratie et le monde savant, et en fait un lieu de sociabilité des Lumières newtoniennes, où l'on parle de science, de tolérance et de bienfaisance. On lui attribue une grande part dans la rédaction des *[[constitutions-d-anderson|Constitutions]]* de 1723, dont il signe la dédicace, et dans la mise au point des rituels.
+texte: Il visite la loge d'Édimbourg en 1721 et contribue à la diffusion de la maçonnerie sur le continent : en 1731, à La Haye, il préside la réception du duc François de Lorraine, futur empereur, et il fréquente les premières loges de Paris. Il meurt à Londres en 1744.
+repere: 1683 — Naissance à La Rochelle, dans une famille protestante.
+repere: 1685 — La révocation de l'édit de Nantes pousse sa famille à l'exil en Angleterre.
+repere: 1714 — Membre de la Royal Society, dont il devient le démonstrateur des expériences.
+repere: 1719 — Troisième grand maître de la Grande Loge de Londres.
+repere: 1721 — Il visite la loge d'Édimbourg.
+repere: 1723 — Publication des *Constitutions*, qu'il a contribué à préparer.
+repere: 1731 — À La Haye, il préside la réception de François de Lorraine.
+repere: 1734 — *Cours de philosophie expérimentale*.
+repere: 1744 — Mort à Londres.
 voir: grande-loge-de-londres, constitutions-d-anderson, isaac-newton, james-anderson
 
 @ andrew-michael-ramsay
@@ -44,30 +75,62 @@ alias: chevalier de Ramsay, Ramsay, André-Michel de Ramsay
 an: 1736
 dates: 1686 – 1743
 def: Écrivain écossais converti au catholicisme par Fénelon, dont le discours de 1736 rattacha la franc-maçonnerie aux chevaliers des croisades et inspira les hauts grades.
-texte: Disciple et biographe de Fénelon à Cambrai, précepteur un temps du jeune prince Charles Édouard Stuart, Ramsay est un auteur à succès avec *Les Voyages de Cyrus* (1727), roman philosophique inspiré du *Télémaque*. Fait chevalier de Saint-Lazare, il entre en maçonnerie et devient grand orateur de l'ordre en France.
-texte: Son [[discours-de-ramsay|discours]] de 1736, revu en 1737, présente la maçonnerie comme une société universelle fondée par des croisés qui auraient uni l'épée et la truelle. Il ne parle pas des [[templiers]], mais son récit ouvre la voie aux grades chevaleresques et à l'[[ecossisme]] qui fleurissent dans les années suivantes.
+texte: Fils d'un boulanger calviniste d'Ayr, en Écosse, Andrew Michael Ramsay naît en 1686 et étudie à Édimbourg. En quête d'une religion du cœur, il fréquente aux Pays-Bas les milieux mystiques, puis gagne Cambrai, où l'archevêque Fénelon le convertit au catholicisme en 1710 et l'accueille comme un fils. À la mort de Fénelon, il devient le secrétaire de Mme Guyon, la grande mystique du quiétisme.
+texte: Précepteur dans de grandes familles, il est un temps, à Rome, celui du jeune prince Charles Édouard Stuart. Il publie une *Vie de Fénelon* (1723), puis un roman philosophique inspiré du *Télémaque*, *Les Voyages de Cyrus* (1727), immense succès européen, où un prince découvre la sagesse de tous les peuples. Fait chevalier de l'ordre de Saint-Lazare, il devient « le chevalier de Ramsay » ; docteur de l'université d'Oxford, membre de la Royal Society, il est reçu franc-maçon à Londres en 1730.
+texte: En France, il devient grand orateur de l'ordre. Son [[discours-de-ramsay|discours]] de décembre 1736, revu en 1737, présente la maçonnerie comme une société universelle, une « nation spirituelle » fondée par des princes et des chevaliers croisés qui auraient uni l'épée et la truelle pour rebâtir les temples de Terre sainte, et propose même d'entreprendre un dictionnaire universel des arts et des sciences. Il en adresse le texte au cardinal Fleury, en espérant son soutien ; le ministre réplique en faisant interdire les loges.
+texte: Ramsay ne parle pas des [[templiers]], mais son récit ouvre la voie aux grades chevaleresques et à l'[[ecossisme]] qui fleurissent dans les années suivantes. Il meurt à Saint-Germain-en-Laye en 1743, précepteur du fils du duc de Bouillon.
+repere: 1686 — Naissance à Ayr, en Écosse, fils d'un boulanger.
+repere: 1710 — À Cambrai, Fénelon le convertit au catholicisme.
+repere: 1715 — À la mort de Fénelon, il devient le secrétaire de Mme Guyon.
+repere: 1723 — *Vie de Fénelon* ; il est fait chevalier de Saint-Lazare.
+repere: 1724 — Précepteur à Rome du jeune Charles Édouard Stuart.
+repere: 1727 — *Les Voyages de Cyrus*.
+repere: 1730 — Reçu franc-maçon à Londres.
+repere: 1736 — Il prononce son discours sur l'origine de la maçonnerie.
+repere: 1737 — Il en adresse le texte au cardinal Fleury, qui interdit les loges.
+repere: 1743 — Mort à Saint-Germain-en-Laye.
 voir: discours-de-ramsay, ecossisme, templiers, grades-maconniques
 
 @ etienne-morin
 cat: figures
 nom: Étienne Morin
-alias: Estienne Morin, Stephen Morin
+alias: Estienne Morin, Stephen Morin, ordre du Royal Secret
 an: 1761
 dates: vers 1717 – 1771
 def: Négociant et franc-maçon français qui, muni d'une patente de 1761, répandit aux Antilles un système de vingt-cinq hauts grades d'où sortit le Rite écossais ancien et accepté.
-texte: Membre actif des loges de Bordeaux, Morin reçoit à Paris, le 27 août 1761, une patente qui le nomme grand inspecteur pour le Nouveau Monde. Capturé en mer par les Anglais l'année suivante, il gagne enfin Saint-Domingue, où il propage son « ordre du Royal Secret », puis la Jamaïque, où il meurt en 1771. Ses copies de la patente ont sans doute été enjolivées pour asseoir son autorité.
-texte: Son adjoint Henry Andrew Francken diffuse le système en Amérique du Nord. Le [[rite-de-perfection|Rite de perfection]] ainsi transmis devient en 1801, à Charleston, le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]].
-voir: rite-de-perfection, rite-ecossais-ancien-et-accepte, ecossisme
+texte: Négociant de Bordeaux, en affaires avec les Antilles, Étienne Morin est actif dès les années 1740 dans les loges bordelaises et dans les hauts grades « écossais » qui y fleurissent. Il voyage entre la France et Saint-Domingue, où il affirme avoir fondé des loges.
+texte: Le 27 août 1761, il reçoit à Paris une patente qui le nomme grand inspecteur pour le Nouveau Monde, avec pouvoir d'y établir des loges et des hauts grades. Capturé en mer par les Anglais l'année suivante, pendant la guerre de Sept Ans, il est conduit à Londres, puis gagne enfin Saint-Domingue en 1763. Il y propage un système de vingt-cinq grades, l'« ordre du Royal Secret », dont il est le chef, et nomme un adjoint, Henry Andrew Francken, fonctionnaire des douanes de la Jamaïque. Ses copies de la patente ont sans doute été enjolivées pour asseoir son autorité, et ses rivaux le contestent.
+texte: Il meurt à Kingston, en Jamaïque, en 1771. Francken a recopié les rituels des vingt-cinq grades dans des manuscrits qui nous sont parvenus, et diffusé le système en Amérique du Nord, où il fonde en 1767 une loge de perfection à Albany, dans l'État de New York.
+texte: Le [[rite-de-perfection|Rite de perfection]] ainsi transmis devient en 1801, à Charleston, en Caroline du Sud, le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] et ses trente-trois degrés, aujourd'hui le plus répandu des systèmes de hauts grades. Morin, longtemps oublié, en est le véritable fondateur.
+repere: vers 1717 — Naissance.
+repere: 1761 — Le 27 août, à Paris, il reçoit une patente de grand inspecteur pour le Nouveau Monde.
+repere: 1762 — Capturé en mer par les Anglais, il est conduit à Londres.
+repere: 1763 — Arrivé à Saint-Domingue, il y établit son « ordre du Royal Secret ».
+repere: 1767 — Son adjoint Francken fonde une loge de perfection à Albany, dans l'État de New York.
+repere: 1771 — Mort à Kingston, en Jamaïque.
+repere: 1801 — À Charleston, naissance du Suprême Conseil du Rite écossais ancien et accepté.
+voir: rite-de-perfection, rite-ecossais-ancien-et-accepte, ecossisme, grades-maconniques
 
 @ karl-gotthelf-von-hund
 cat: figures
 nom: Karl Gotthelf von Hund
-alias: baron von Hund, Hund, Eques ab Ense
+alias: baron von Hund, Hund, Eques ab Ense, supérieurs inconnus
 an: 1751
 dates: 1722 – 1776
 def: Gentilhomme saxon, fondateur de la Stricte Observance templière, qui prétendait avoir reçu à Paris la succession secrète des chevaliers du Temple.
-texte: Seigneur de Lipse, en Haute-Lusace, von Hund raconte avoir été reçu en 1743 dans l'ordre du Temple par un chevalier inconnu, que l'on a voulu identifier au prince Charles Édouard Stuart. Sur cette révélation, il fonde à partir de 1751 la [[stricte-observance|Stricte Observance templière]], dont il devient le chef sous le nom de chevalier de l'Épée, *Eques ab Ense*, et y engage sa fortune.
-texte: Incapable de produire les « supérieurs inconnus » au nom desquels il commandait, contesté au convent de Brunswick en 1775, il meurt l'année suivante. Son système, qui avait conquis une grande partie de l'Europe maçonnique, est réformé six ans plus tard au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]].
+texte: Karl Gotthelf von Hund naît en 1722 en Haute-Lusace, dans une famille noble luthérienne, et étudie le droit à Leipzig. Reçu franc-maçon à Francfort en 1742, il séjourne ensuite à Paris, où il se convertit secrètement au catholicisme. Il raconte y avoir été reçu en 1743 dans l'ordre du Temple, survivant secret des [[templiers]], par un chevalier inconnu, en présence d'un mystérieux « chevalier de la plume rouge », que l'on a voulu identifier au prince Charles Édouard Stuart.
+texte: Sur cette révélation, il fonde à partir de 1751, sur ses terres de Kittlitz, un système templier dont il devient le chef sous le nom de chevalier de l'Épée, *Eques ab Ense*. Chaque frère y reçoit un nom de chevalier, l'Europe est divisée en provinces de l'ordre, et tous jurent obéissance à des « supérieurs inconnus » au nom desquels Hund commande. Le système prend en 1764 le nom de [[stricte-observance|Stricte Observance templière]] et conquiert en dix ans une grande partie de l'Europe maçonnique ; le duc Ferdinand de Brunswick en devient le grand maître en 1772. Hund y engage sa fortune.
+texte: Mais il ne peut jamais produire les supérieurs inconnus ni les preuves de la filiation templière. Des imposteurs exploitent la crédulité générale, et le convent de Brunswick, en 1775, le met en difficulté. Il meurt l'année suivante à Meiningen et est enterré, selon son vœu, en habit de chevalier du Temple.
+texte: Son système est réformé six ans plus tard au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], qui renonce à la descendance templière sous l'influence de [[jean-baptiste-willermoz]]. Mais la légende des Templiers survivants, qu'il a popularisée, est restée l'un des mythes les plus vivaces de la [[franc-maconnerie]] et de l'ésotérisme.
+repere: 1722 — Naissance en Haute-Lusace.
+repere: 1742 — Reçu franc-maçon à Francfort.
+repere: 1743 — À Paris, il dit avoir été reçu dans l'ordre du Temple par un chevalier inconnu.
+repere: 1751 — Il commence à organiser son système templier.
+repere: 1764 — Son système prend le nom de Stricte Observance.
+repere: 1772 — Le duc Ferdinand de Brunswick devient grand maître de l'ordre.
+repere: 1775 — Au convent de Brunswick, il ne peut produire les « supérieurs inconnus ».
+repere: 1776 — Mort à Meiningen.
+repere: 1782 — Le convent de Wilhelmsbad abandonne la filiation templière.
 voir: stricte-observance, templiers, convent-de-wilhelmsbad, jean-baptiste-willermoz
 
 @ joseph-de-maistre
@@ -77,57 +140,117 @@ alias: Maistre, comte de Maistre, Josephus a Floribus
 an: 1782
 dates: 1753 – 1821
 def: Magistrat et penseur savoyard, franc-maçon du Régime écossais rectifié dans sa jeunesse, devenu le grand théoricien de la contre-révolution et du providentialisme.
-texte: Initié à Chambéry en 1774, de Maistre rejoint les loges rectifiées et la classe secrète des Grands Profès, où il découvre la doctrine de la [[reintegration]] de [[martinez-de-pasqually]] et lit avec passion [[louis-claude-de-saint-martin]]. En 1782, il adresse au duc de Brunswick, à l'occasion du [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], un mémoire où il voit dans la maçonnerie le moyen de réunir les chrétiens séparés.
-texte: La Révolution en fait l'adversaire résolu des Lumières : les *Considérations sur la France* (1796), puis *Les Soirées de Saint-Pétersbourg* (1821), lisent l'histoire comme l'œuvre de la Providence. Il y dialogue encore avec l'[[illuminisme]] de sa jeunesse, dont il garde le goût des correspondances et de la réversibilité des souffrances.
-oeuvres: Mémoire au duc de Brunswick (1782) ; Considérations sur la France (1796) ; Les Soirées de Saint-Pétersbourg (1821)
+texte: Joseph de Maistre naît à Chambéry en 1753, dans une famille de magistrats du Sénat de Savoie, alors partie du royaume de Sardaigne. Élevé dans une piété fervente, il étudie le droit à Turin et entre dans la magistrature. Initié en 1774 dans une loge de Chambéry, il rejoint les loges du [[rite-ecossais-rectifie|Régime écossais rectifié]] et la classe secrète des Grands Profès, sous le nom de *Josephus a Floribus* ; il y découvre la doctrine de la [[reintegration]] de [[martinez-de-pasqually]] et lit avec passion [[louis-claude-de-saint-martin]].
+texte: En 1782, il adresse au duc de Brunswick, à l'occasion du [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], un mémoire où il rejette la légende templière et voit dans la maçonnerie le moyen de réunir les chrétiens séparés et de retrouver le sens caché des Écritures : un « christianisme transcendant ».
+texte: La Révolution bouleverse sa vie : l'invasion de la Savoie par les armées françaises, en 1792, le jette dans l'exil. Ses *Considérations sur la France* (1796) lisent la Révolution comme un châtiment providentiel, dont les acteurs sont les instruments d'un plan qui les dépasse. Ambassadeur du roi de Sardaigne à Saint-Pétersbourg de 1803 à 1817, il y écrit *Du pape* (1819), manifeste de l'ultramontanisme, et *Les Soirées de Saint-Pétersbourg*, publiées à sa mort en 1821.
+texte: Adversaire résolu des Lumières, il dialogue encore dans les *Soirées* avec l'[[illuminisme]] de sa jeunesse : il y fait l'éloge de Saint-Martin, défend la réversibilité des souffrances, l'efficacité de la prière et du sacrifice, et le sens caché de l'histoire. Les historiens ont mis en lumière, depuis le début du XXe siècle, ce Maistre « mystique » derrière le théoricien de la contre-révolution.
+repere: 1753 — Naissance à Chambéry, en Savoie.
+repere: 1774 — Initié dans une loge de Chambéry.
+repere: 1782 — Mémoire au duc de Brunswick, pour le convent de Wilhelmsbad.
+repere: 1792 — L'invasion française de la Savoie le jette dans l'exil.
+repere: 1796 — *Considérations sur la France*.
+repere: 1803 — Ambassadeur du roi de Sardaigne à Saint-Pétersbourg.
+repere: 1819 — *Du pape*.
+repere: 1821 — Mort à Turin ; publication des *Soirées de Saint-Pétersbourg*.
+oeuvres: Mémoire au duc de Brunswick (1782) ; Considérations sur la France (1796) ; Du pape (1819) ; Les Soirées de Saint-Pétersbourg (1821)
 voir: rite-ecossais-rectifie, illuminisme, louis-claude-de-saint-martin, convent-de-wilhelmsbad
 
 @ benjamin-franklin
 cat: figures
 nom: Benjamin Franklin
-alias: Franklin
+alias: Franklin, Almanach du pauvre Richard
 an: 1731
 dates: 1706 – 1790
 def: Imprimeur, savant et homme d'État américain, franc-maçon dès 1731, éditeur des premières Constitutions maçonniques d'Amérique et Vénérable de la loge parisienne des Neuf Sœurs.
-texte: Reçu en 1731 dans la loge Saint-Jean de Philadelphie, Franklin imprime en 1734 les *[[constitutions-d-anderson|Constitutions]]* d'Anderson, premier livre maçonnique publié en Amérique, et devient la même année grand maître de Pennsylvanie. L'inventeur du paratonnerre est aussi l'un des pères de la Déclaration d'indépendance.
-texte: Ambassadeur à Paris de 1776 à 1785, il fréquente les loges et devient en 1779 le Vénérable des [[les-neuf-soeurs|Neuf Sœurs]], où il a assisté à la réception de Voltaire. En 1784, il préside la commission royale qui conclut que le [[magnetisme-animal|magnétisme animal]] de [[franz-anton-mesmer]] n'agit que par l'imagination.
+texte: Benjamin Franklin naît à Boston en 1706, quinzième enfant d'un fabricant de chandelles. Apprenti imprimeur chez son frère, il s'enfuit à dix-sept ans pour Philadelphie, où il devient imprimeur, journaliste et éditeur prospère. Son *Almanach du pauvre Richard*, à partir de 1732, mêle prédictions astrologiques parodiques, conseils de bon sens et maximes devenues proverbiales.
+texte: Reçu en 1731 dans la loge Saint-Jean de Philadelphie, Franklin imprime en 1734 les *[[constitutions-d-anderson|Constitutions]]* d'Anderson, premier livre maçonnique publié en Amérique, et devient la même année grand maître de Pennsylvanie. Il fonde aussi des clubs de discussion, une bibliothèque, une société savante, une académie.
+texte: Savant, il démontre en 1752, avec son cerf-volant, la nature électrique de la foudre et invente le paratonnerre, ce qui lui vaut une renommée européenne. Homme politique, il représente les colonies à Londres, puis participe à la rédaction de la Déclaration d'indépendance en 1776.
+texte: Ambassadeur à Paris de 1776 à 1785, il y négocie l'alliance avec la France. Il fréquente les loges et devient en 1779 le Vénérable des [[les-neuf-soeurs|Neuf Sœurs]], où il a assisté l'année précédente à la réception de Voltaire. En 1784, il préside la commission royale qui conclut que le [[magnetisme-animal|magnétisme animal]] de [[franz-anton-mesmer]] n'agit que par l'imagination. Il meurt à Philadelphie en 1790, figure emblématique des Lumières et de la maçonnerie américaine.
+repere: 1706 — Naissance à Boston.
+repere: 1723 — Il s'installe à Philadelphie.
+repere: 1731 — Reçu franc-maçon dans la loge Saint-Jean de Philadelphie.
+repere: 1732 — Premier *Almanach du pauvre Richard*.
+repere: 1734 — Il imprime les *Constitutions* d'Anderson et devient grand maître de Pennsylvanie.
+repere: 1752 — Expérience du cerf-volant sur l'électricité de la foudre.
+repere: 1776 — Déclaration d'indépendance ; il part pour la France.
+repere: 1778 — Il assiste à l'initiation de Voltaire aux Neuf Sœurs.
+repere: 1779 — Vénérable de la loge des Neuf Sœurs.
+repere: 1784 — Il préside la commission sur le magnétisme animal.
+repere: 1790 — Mort à Philadelphie.
 voir: les-neuf-soeurs, constitutions-d-anderson, franz-anton-mesmer, magnetisme-animal
 
 @ gotthold-ephraim-lessing
 cat: figures
 nom: Gotthold Ephraim Lessing
-alias: Lessing, Ernst et Falk, Ernst und Falk
+alias: Lessing, Ernst et Falk, Ernst und Falk, Nathan le Sage
 an: 1778
 dates: 1729 – 1781
 def: Écrivain et philosophe allemand des Lumières, franc-maçon, auteur des Dialogues maçonniques Ernst et Falk, qui font de la maçonnerie un idéal plutôt qu'une institution.
-texte: Reçu en 1771 dans une loge de Hambourg, Lessing est vite déçu par les cérémonies et les hauts grades. Dans *Ernst et Falk* (1778-1780), deux amis conversent : la vraie maçonnerie, dit Falk, ne réside pas dans les loges, mais dans l'effort des hommes de bien pour dépasser les frontières que tracent entre eux les nations, les religions et les classes.
-texte: Auteur de *Nathan le Sage* (1779), plaidoyer pour la tolérance entre juifs, chrétiens et musulmans, et de *L'Éducation du genre humain* (1780), qui envisage une révélation progressive et même la réincarnation, Lessing a donné à la maçonnerie allemande ses textes les plus médités.
+texte: Gotthold Ephraim Lessing naît en 1729 à Kamenz, en Saxe, fils d'un pasteur luthérien. Étudiant en théologie puis en médecine à Leipzig, il se passionne pour le théâtre, devient journaliste et critique à Berlin, où il se lie d'amitié avec le philosophe juif Moses Mendelssohn. Il renouvelle le théâtre allemand avec *Miss Sara Sampson*, *Minna von Barnhelm*, *Emilia Galotti*, et la critique avec le *Laocoon* et la *Dramaturgie de Hambourg*.
+texte: Devenu en 1770 bibliothécaire du duc de Brunswick à Wolfenbüttel, il est reçu l'année suivante dans une loge de Hambourg, mais il est vite déçu par les cérémonies et les hauts grades. Dans *Ernst et Falk* (1778-1780), deux amis conversent : la vraie maçonnerie, dit Falk, ne réside pas dans les loges, mais dans l'effort des hommes de bien pour dépasser les frontières que tracent entre eux les nations, les religions et les classes ; elle a toujours existé et existera toujours.
+texte: En publiant des fragments d'un critique de la Bible, Reimarus, il déclenche une vive querelle avec le pasteur Goeze, et la censure le réduit au silence. Il répond par le théâtre : *Nathan le Sage* (1779), plaidoyer pour la tolérance entre juifs, chrétiens et musulmans, reprend la parabole des trois anneaux. *L'Éducation du genre humain* (1780) envisage une révélation progressive, un « évangile éternel », et même la possibilité que chacun ait vécu plusieurs fois : la [[reincarnation]] fait ainsi son entrée dans la philosophie allemande.
+texte: Éprouvé par la mort de sa femme et de son fils, il meurt à Brunswick en 1781. Quatre ans plus tard, Jacobi révèle qu'il lui avait confié son adhésion au panthéisme de Spinoza, ouvrant une querelle qui marquera toute la philosophie allemande. Lessing a donné à la maçonnerie allemande ses textes les plus médités.
+repere: 1729 — Naissance à Kamenz, en Saxe, fils d'un pasteur.
+repere: 1755 — *Miss Sara Sampson*, première tragédie bourgeoise allemande.
+repere: 1767 — *Minna von Barnhelm* et *Dramaturgie de Hambourg*.
+repere: 1770 — Bibliothécaire du duc de Brunswick à Wolfenbüttel.
+repere: 1771 — Reçu franc-maçon à Hambourg.
+repere: 1774 — Il publie les fragments critiques de Reimarus sur la Bible.
+repere: 1778 — *Ernst et Falk*, premiers dialogues.
+repere: 1779 — *Nathan le Sage*.
+repere: 1780 — *L'Éducation du genre humain*.
+repere: 1781 — Mort à Brunswick.
+repere: 1785 — Jacobi révèle son spinozisme, ouvrant la « querelle du panthéisme ».
 oeuvres: Ernst et Falk, dialogues pour francs-maçons (1778-1780) ; Nathan le Sage (1779) ; L'Éducation du genre humain (1780)
-voir: franc-maconnerie, reincarnation, wolfgang-amadeus-mozart
+voir: franc-maconnerie, reincarnation, wolfgang-amadeus-mozart, johann-wolfgang-von-goethe
 
 @ wolfgang-amadeus-mozart
 cat: figures
 nom: Wolfgang Amadeus Mozart
-alias: Mozart
+alias: Mozart, Musique funèbre maçonnique
 an: 1784
 dates: 1756 – 1791
 def: Compositeur autrichien, reçu franc-maçon à Vienne en 1784, qui écrivit de la musique pour les loges et fit de La Flûte enchantée un opéra initiatique.
-texte: Mozart est initié le 14 décembre 1784 dans la loge viennoise *Zur Wohltätigkeit*, « La Bienfaisance » ; son père Leopold et son ami Joseph Haydn entrent aussi dans l'ordre. La Vienne de Joseph II compte alors des loges brillantes, comme *Zur wahren Eintracht*, où le minéralogiste Ignaz von Born étudie les mystères égyptiens. Mozart compose des cantates, des chants et la *Musique funèbre maçonnique* (1785), où reviennent les rythmes ternaires et les tonalités à trois bémols chères aux maçons.
-texte: *[[la-flute-enchantee|La Flûte enchantée]]* (1791), écrite avec le librettiste Emanuel Schikaneder, maçon lui aussi, transpose sur scène une initiation par les épreuves du silence, du feu et de l'eau, dans un décor égyptien. Mozart meurt quelques semaines après la création.
+texte: Wolfgang Amadeus Mozart naît à Salzbourg en 1756. Enfant prodige, il parcourt l'Europe avec son père, Leopold, de Paris à Londres et en Italie, puis entre au service de l'archevêque de Salzbourg. En 1781, il rompt avec lui et s'installe à Vienne comme musicien indépendant ; il y compose ses grands opéras, *L'Enlèvement au sérail*, *Les Noces de Figaro*, *Don Giovanni*.
+texte: Mozart est initié le 14 décembre 1784 dans la loge viennoise *Zur Wohltätigkeit*, « La Bienfaisance » ; son père Leopold et son ami Joseph Haydn entrent aussi dans l'ordre l'année suivante. La Vienne de Joseph II compte alors des loges brillantes, comme *Zur wahren Eintracht*, « La Vraie Concorde », que dirige le minéralogiste Ignaz von Born, auteur d'une étude sur les mystères des Égyptiens. En 1785, l'empereur réduit le nombre des loges et les place sous surveillance.
+texte: Mozart compose pour les loges des cantates, des chants et la *Musique funèbre maçonnique* (1785), où reviennent les rythmes ternaires et les tonalités à trois bémols, chères aux maçons qui honorent le nombre trois. *[[la-flute-enchantee|La Flûte enchantée]]* (1791), écrite avec le librettiste Emanuel Schikaneder, maçon lui aussi, transpose sur scène une initiation par les épreuves du silence, du feu et de l'eau, dans un décor égyptien emprunté notamment à un roman français, *Séthos*. Le prince Tamino y conquiert la sagesse auprès du grand prêtre Sarastro, et l'ouverture commence par trois accords.
+texte: Mozart meurt à Vienne le 5 décembre 1791, quelques semaines après la création de l'opéra et de sa dernière cantate maçonnique. Au XXe siècle, des milieux antimaçonniques allemands ont répandu la légende de son empoisonnement par les francs-maçons, sans aucun fondement.
+repere: 1756 — Naissance à Salzbourg.
+repere: 1762 — Débuts d'enfant prodige à travers l'Europe.
+repere: 1781 — Il s'installe à Vienne comme musicien indépendant.
+repere: 1784 — Initié le 14 décembre dans la loge *La Bienfaisance*.
+repere: 1785 — Son père et Joseph Haydn entrent à leur tour en maçonnerie ; *Musique funèbre maçonnique*.
+repere: 1786 — *Les Noces de Figaro*.
+repere: 1787 — *Don Giovanni*.
+repere: 1791 — *La Flûte enchantée*, le 30 septembre ; mort à Vienne le 5 décembre.
 oeuvres: Musique funèbre maçonnique (1785) ; Die Zauberflöte (1791) ; Petite cantate maçonnique (1791)
-voir: la-flute-enchantee, egyptosophie, initiation-maconnique
+voir: la-flute-enchantee, egyptosophie, initiation-maconnique, gotthold-ephraim-lessing
 
 @ johann-wolfgang-von-goethe
 cat: figures
 nom: Johann Wolfgang von Goethe
-alias: Goethe, Faust, Das Märchen, Le Conte
+alias: Goethe, Faust, Das Märchen, Le Conte, Les Mystères
 an: 1780
 dates: 1749 – 1832
 def: Poète et savant allemand, franc-maçon et un temps Illuminé de Bavière, dont l'œuvre est nourrie de lectures alchimiques, hermétiques et néoplatoniciennes.
-texte: Convalescent à Francfort en 1768-1769, le jeune Goethe lit, sous l'influence de la piétiste Susanne von Klettenberg, [[paracelse]], Basile Valentin et l'*Opus mago-cabbalisticum* de Welling, et fait des expériences d'[[alchimie]] : il en reste l'esprit de *Faust*. Reçu franc-maçon à Weimar le 23 juin 1780, il entre en 1783 chez les [[illumines-de-baviere|Illuminés de Bavière]].
-texte: Son *Conte* (1795), récit symbolique peuplé d'un serpent, de feux follets et de rois de métal, a été lu comme un rituel alchimique ; [[rudolf-steiner]], éditeur de ses écrits scientifiques, en tira son premier drame-mystère. Sa théorie des couleurs et sa recherche de la plante originelle prolongent la [[naturphilosophie]].
-oeuvres: Faust (1808, 1832) ; Le Conte du serpent vert et de la belle Lys (1795) ; Traité des couleurs (1810)
-voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner
+texte: Johann Wolfgang Goethe naît à Francfort en 1749, dans une famille bourgeoise aisée. Étudiant en droit à Leipzig, il tombe gravement malade en 1768 et passe sa convalescence dans la maison familiale. Sous l'influence de la piétiste Susanne von Klettenberg, amie de sa mère, il lit [[paracelse]], [[basile-valentin|Basile Valentin]] et l'*Opus mago-cabbalisticum* de Welling, et fait avec elle des expériences d'[[alchimie]] sur un petit fourneau : il en reste l'esprit de *Faust*.
+texte: Célèbre dès 1774 avec *Les Souffrances du jeune Werther*, il s'installe en 1775 à Weimar, à l'invitation du duc Charles-Auguste, dont il devient le ministre. Reçu franc-maçon dans la loge *Amalia* le 23 juin 1780, il entre en 1783 chez les [[illumines-de-baviere|Illuminés de Bavière]]. Il commence un poème, *Les Mystères*, sur une fraternité de chevaliers réunis autour d'une croix entourée de roses, resté inachevé.
+texte: Savant autant que poète, il étudie les os, les plantes — il cherche la « plante originelle » dont toutes les autres dériveraient —, la géologie et les couleurs. Son *Traité des couleurs* (1810), dirigé contre Newton, prolonge la [[naturphilosophie]] : une science qui veut saisir la nature vivante dans ses métamorphoses plutôt que la mesurer. Son *Conte du serpent vert et de la belle Lys* (1795), récit symbolique peuplé de feux follets et de rois de métal, a été lu comme un rituel alchimique ; [[rudolf-steiner]], éditeur de ses écrits scientifiques, en tira son premier drame-mystère.
+texte: *Faust*, auquel il travaille toute sa vie, met en scène le savant qui vend son âme pour connaître et jouir ; la seconde partie fait naître dans une cornue un homoncule et descendre le héros chez les mystérieuses « Mères ». Goethe meurt à Weimar en 1832. Ses poèmes maçonniques, comme *Symbolum*, sont encore lus en loge.
+repere: 1749 — Naissance à Francfort.
+repere: 1768 — Convalescent, il découvre l'alchimie auprès de Susanne von Klettenberg.
+repere: 1774 — *Les Souffrances du jeune Werther*.
+repere: 1775 — Il s'installe à Weimar.
+repere: 1780 — Reçu franc-maçon à Weimar, le 23 juin.
+repere: 1783 — Il entre chez les Illuminés de Bavière.
+repere: 1784 — Il commence *Les Mystères*, poème sur une fraternité de la croix aux roses.
+repere: 1790 — *La Métamorphose des plantes*.
+repere: 1795 — *Le Conte du serpent vert et de la belle Lys*.
+repere: 1808 — Première partie de *Faust*.
+repere: 1810 — *Traité des couleurs*.
+repere: 1832 — Mort à Weimar ; publication de la seconde partie de *Faust*.
+oeuvres: Faust (1808, 1832) ; Le Conte du serpent vert et de la belle Lys (1795) ; La Métamorphose des plantes (1790) ; Traité des couleurs (1810)
+voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner, homoncule
 
 @ augustin-barruel
 cat: figures
@@ -136,9 +259,20 @@ alias: abbé Barruel, Barruel, Mémoires pour servir à l'histoire du jacobinism
 an: 1797
 dates: 1741 – 1820
 def: Prêtre jésuite français dont les Mémoires pour servir à l'histoire du jacobinisme (1797-1798) imputèrent la Révolution à un complot des philosophes, des francs-maçons et des Illuminés.
-texte: Réfugié à Londres pendant la Révolution, l'abbé Barruel publie quatre volumes qui font de 1789 l'aboutissement d'une conjuration organisée de longue date : les philosophes contre l'Église, les francs-maçons contre les rois, les [[illumines-de-baviere|Illuminés de Bavière]] contre toute société. L'ouvrage, traduit dans toute l'Europe, connaît un succès immense.
-texte: Les historiens ont montré que les loges, où se côtoyaient nobles, prêtres et bourgeois, ne formaient aucun parti et se sont divisées comme le pays. La thèse de Barruel est pourtant la source de toutes les théories du complot maçonnique, jusqu'au XXIe siècle (voir [[antimaconnisme]]).
-oeuvres: Mémoires pour servir à l'histoire du jacobinisme (1797-1798)
+texte: Augustin Barruel naît en 1741 à Villeneuve-de-Berg, dans le Vivarais. Entré chez les jésuites, il doit quitter la France lors de leur expulsion en 1764 et enseigne en Europe centrale. Revenu après la suppression de la Compagnie, il devient un polémiste de la cause catholique : ses *Helviennes* (1781) attaquent les philosophes, et il dirige un journal ecclésiastique.
+texte: Opposé à la Constitution civile du clergé, il émigre à Londres en 1792. Il y publie en 1797 et 1798 les quatre volumes des *Mémoires pour servir à l'histoire du jacobinisme*, qui font de 1789 l'aboutissement d'une triple conjuration organisée de longue date : les philosophes contre l'Église, les francs-maçons contre les rois, les [[illumines-de-baviere|Illuminés de Bavière]] d'[[adam-weishaupt]] contre toute société. L'ouvrage, traduit dans toute l'Europe, connaît un succès immense ; la même année, l'Écossais John Robison soutient une thèse voisine.
+texte: Rentré en France en 1802, Barruel se rallie au Concordat de Napoléon et devient chanoine de Notre-Dame. En 1806, il reçoit d'un certain Simonini une lettre qui attribue le complot aux juifs ; il ne la publie pas, mais la fait circuler, et elle nourrira plus tard l'antisémitisme conspirationniste. Il meurt à Paris en 1820.
+texte: Les historiens ont montré que les loges, où se côtoyaient nobles, prêtres et bourgeois, ne formaient aucun parti et se sont divisées comme le pays pendant la Révolution. La thèse de Barruel est pourtant la source de toutes les théories du complot maçonnique, jusqu'au XXIe siècle (voir [[antimaconnisme]]).
+repere: 1741 — Naissance à Villeneuve-de-Berg, dans le Vivarais.
+repere: 1756 — Novice chez les jésuites.
+repere: 1764 — L'expulsion des jésuites le conduit en Europe centrale.
+repere: 1781 — *Les Helviennes*, contre les philosophes.
+repere: 1792 — Il émigre à Londres.
+repere: 1797 — Premiers volumes des *Mémoires pour servir à l'histoire du jacobinisme*.
+repere: 1802 — Rentré en France, il se rallie au Concordat.
+repere: 1806 — Il reçoit la lettre de Simonini, qui accuse les juifs.
+repere: 1820 — Mort à Paris.
+oeuvres: Les Helviennes (1781) ; Mémoires pour servir à l'histoire du jacobinisme (1797-1798)
 voir: antimaconnisme, illumines-de-baviere, adam-weishaupt
 
 @ laurence-dermott
@@ -148,22 +282,43 @@ alias: Dermott, Ahiman Rezon, Grande Loge des Anciens
 an: 1756
 dates: 1720 – 1791
 def: Peintre en bâtiment irlandais devenu marchand de vin à Londres, grand secrétaire de la Grande Loge des « Anciens » et auteur de son livre des constitutions, l'Ahiman Rezon.
-texte: Arrivé à Londres vers 1748, Dermott devient en 1752 grand secrétaire de la Grande Loge rivale fondée l'année précédente par des maçons qui reprochaient à celle de 1717 d'avoir altéré les anciens usages. Polémiste mordant, c'est lui qui baptise ses adversaires les « Modernes ».
-texte: Son *Ahiman Rezon* (1756), titre de fantaisie tiré de l'hébreu, sert de constitutions aux Anciens, très répandus en Irlande, dans les régiments et en Amérique. Il défend l'[[arche-royale|Arche royale]] comme le sommet de la maçonnerie. L'union de 1813 dans la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]] doit beaucoup à son héritage.
+texte: Né en Irlande en 1720, Laurence Dermott est reçu franc-maçon à Dublin en 1740 ; six ans plus tard, il devient maître de sa loge et reçoit le grade de l'[[arche-royale|Arche royale]]. Il s'installe à Londres vers 1748, où il travaille comme peintre en bâtiment, avant de faire fortune dans le commerce du vin.
+texte: À Londres, de nombreux maçons irlandais et écossais reprochent à la [[grande-loge-de-londres|Grande Loge de 1717]] d'avoir altéré les anciens usages : modification des mots de reconnaissance, abandon de certaines cérémonies, négligence des fêtes. Ils fondent en 1751 une Grande Loge rivale, qui se dit « selon les anciennes institutions ». Dermott en devient le grand secrétaire en 1752, puis le grand maître adjoint, et en est l'âme pendant plus de trente ans. Polémiste mordant, c'est lui qui baptise ses adversaires les « Modernes », nom qui leur restera.
+texte: Son *Ahiman Rezon* (1756), titre de fantaisie tiré de l'hébreu, sert de constitutions aux Anciens. Il y défend l'Arche royale comme le sommet de la maçonnerie, les diacres comme officiers de loge et une installation particulière du Vénérable. Grâce aux loges militaires, qui suivent les régiments, et à l'appui de l'aristocratie, dont le duc d'Atholl, grand maître à partir de 1771, les Anciens se répandent en Irlande, aux colonies et en Amérique, où ils dominent bientôt.
+texte: Dermott meurt à Londres en 1791. Vingt-deux ans plus tard, en 1813, les Anciens et les Modernes s'unissent dans la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]], dont les rituels doivent beaucoup à son héritage : l'Arche royale y est reconnue comme l'achèvement du grade de maître.
+repere: 1720 — Naissance en Irlande.
+repere: 1740 — Reçu franc-maçon à Dublin.
+repere: 1746 — Maître de sa loge et reçu dans l'Arche royale.
+repere: vers 1748 — Il s'installe à Londres comme peintre en bâtiment.
+repere: 1751 — Fondation de la Grande Loge des « Anciens ».
+repere: 1752 — Grand secrétaire des Anciens.
+repere: 1756 — *Ahiman Rezon*.
+repere: 1771 — Le duc d'Atholl devient grand maître des Anciens ; Dermott est son adjoint.
+repere: 1791 — Mort à Londres.
+repere: 1813 — Union des Anciens et des Modernes dans la Grande Loge unie d'Angleterre.
 oeuvres: Ahiman Rezon (1756)
-voir: grande-loge-de-londres, grande-loge-unie-d-angleterre, arche-royale
+voir: grande-loge-de-londres, grande-loge-unie-d-angleterre, arche-royale, rite-d-york
 
 @ william-preston
 cat: figures
 nom: William Preston
-alias: Preston, Illustrations of Masonry, lectures de Preston
+alias: Preston, Illustrations of Masonry, lectures de Preston, Prestonian Lecture
 an: 1772
 dates: 1742 – 1818
 def: Imprimeur écossais établi à Londres, auteur des Illustrations of Masonry (1772), dont les « lectures » fixèrent l'enseignement moral des grades anglais.
-texte: Correcteur d'imprimerie à Londres, Preston consacre sa vie à rassembler et polir les explications des symboles données en loge. Ses *Illustrations of Masonry* (1772), sans cesse rééditées, et ses conférences par questions et réponses sur chaque grade inspirent les instructions anglaises et américaines.
-texte: On lui doit le long éloge des sept arts libéraux qui accompagne le grade de [[compagnon]], et une lecture de la maçonnerie comme école de science et de vertu, typique des Lumières britanniques.
+texte: William Preston naît à Édimbourg en 1742, fils d'un homme de loi. Élève de la grande école de la ville, il apprend le latin, devient le secrétaire d'un célèbre grammairien et imprimeur, puis apprenti typographe. En 1760, il s'installe à Londres et entre chez William Strahan, l'imprimeur du roi, où il restera correcteur, puis associé, pendant près de cinquante ans.
+texte: Reçu franc-maçon dans une loge d'Écossais de Londres, il rejoint la Grande Loge des « Modernes » et la vénérable loge de l'Antiquité. Il consacre sa vie à rassembler, comparer et polir les explications des symboles données en loge, et publie en 1772 ses *Illustrations of Masonry*, sans cesse rééditées et remaniées jusqu'en 1812. Ses « lectures », conférences par questions et réponses sur chaque grade, inspirent les instructions anglaises et américaines.
+texte: Querelleur, il entraîne sa loge dans une dispute de préséance avec la Grande Loge, qui l'exclut en 1779 ; il fonde alors une grande loge rivale, avant d'être réintégré dix ans plus tard. Il crée en 1787 un ordre, les Harodim, pour enseigner ses lectures.
+texte: On lui doit le long éloge des sept arts libéraux qui accompagne le grade de [[compagnon]], et une lecture de la maçonnerie comme école de science et de vertu, typique des Lumières britanniques. Il meurt à Londres en 1818 et repose dans la cathédrale Saint-Paul. Par testament, il a fondé une conférence annuelle, la « Prestonian Lecture », toujours prononcée dans la maçonnerie anglaise.
+repere: 1742 — Naissance à Édimbourg.
+repere: 1760 — Il s'installe à Londres, chez l'imprimeur du roi William Strahan.
+repere: 1772 — *Illustrations of Masonry*.
+repere: 1779 — Exclu de la Grande Loge après une querelle de préséance.
+repere: 1787 — Il fonde l'ordre des Harodim pour enseigner ses lectures.
+repere: 1789 — Réintégré dans la Grande Loge.
+repere: 1818 — Mort à Londres ; il lègue de quoi financer une conférence annuelle.
 oeuvres: Illustrations of Masonry (1772)
-voir: compagnon, rite-emulation, grande-loge-de-londres
+voir: compagnon, rite-emulation, grande-loge-de-londres, grades-maconniques
 
 @ jean-marie-ragon
 cat: figures
@@ -172,10 +327,19 @@ alias: Ragon, Ragon de Bettignies, les Trinosophes
 an: 1841
 dates: 1781 – 1862
 def: Auteur maçonnique français, fondateur de la loge des Trinosophes, qui interpréta la franc-maçonnerie comme l'héritière des mystères antiques et de la sagesse égyptienne.
-texte: Fonctionnaire et polygraphe, Ragon fonde à Paris en 1816 la loge des Trinosophes, où il professe un cours remarqué. Dans son *Cours philosophique et interprétatif des initiations anciennes et modernes* (1841), il fait remonter les grades aux [[mysteres-antiques|mystères antiques]] d'Égypte et de Grèce, et lit les symboles comme un enseignement astronomique et moral.
-texte: Son *Orthodoxie maçonnique* (1853) et son *Tuileur général* (1861) en font l'un des auteurs les plus lus de la maçonnerie française du XIXe siècle. Il incarne le courant qui fait de la loge le conservatoire d'une sagesse universelle, entre [[egyptosophie]] et rationalisme.
+texte: Jean-Marie Ragon naît en 1781 à Bray-sur-Seine. Fonctionnaire, il est reçu franc-maçon à Bruges, alors française, au tout début du XIXe siècle, et consacre dès lors l'essentiel de son temps libre à l'histoire et à l'interprétation de la maçonnerie, dont il devient l'un des auteurs les plus prolifiques.
+texte: En 1816, il fonde à Paris, au Grand Orient, la loge des Trinosophes, « ceux qui étudient trois sciences », où il professe en 1818 un cours remarqué sur les initiations anciennes et modernes. Il en tire, bien plus tard, son *Cours philosophique et interprétatif des initiations anciennes et modernes* (1841) : il y fait remonter les grades aux [[mysteres-antiques|mystères antiques]] d'Égypte, de Perse et de Grèce, et lit les symboles comme un enseignement astronomique et moral, où la [[legende-d-hiram|légende d'Hiram]] figure la mort et la renaissance du soleil.
+texte: Il dirige des revues maçonniques et publie *Orthodoxie maçonnique* (1853), histoire critique des rites et des grades, *Maçonnerie occulte* (1853), qui touche à l'hermétisme, et un *Tuileur général* (1861) qui décrit les mots et les signes de dizaines de rites. Il s'intéresse aux rites égyptiens tout en critiquant leur prolifération de grades.
+texte: Il meurt à Paris en 1862. Il incarne le courant qui fait de la loge le conservatoire d'une sagesse universelle, entre [[egyptosophie]] et rationalisme, et ses interprétations ont été reprises par des générations d'auteurs maçonniques, jusqu'à [[oswald-wirth]].
+repere: 1781 — Naissance à Bray-sur-Seine.
+repere: 1816 — Il fonde à Paris la loge des Trinosophes.
+repere: 1818 — Il y professe un cours sur les initiations anciennes et modernes.
+repere: 1841 — *Cours philosophique et interprétatif des initiations anciennes et modernes*.
+repere: 1853 — *Orthodoxie maçonnique* et *Maçonnerie occulte*.
+repere: 1861 — *Tuileur général de la franc-maçonnerie*.
+repere: 1862 — Mort à Paris.
 oeuvres: Cours philosophique et interprétatif des initiations anciennes et modernes (1841) ; Orthodoxie maçonnique (1853) ; Tuileur général de la franc-maçonnerie (1861)
-voir: mysteres-antiques, egyptosophie, tuilage, rite-de-memphis-misraim
+voir: mysteres-antiques, egyptosophie, tuilage, rite-de-memphis-misraim, legende-d-hiram
 
 @ albert-pike
 cat: figures
@@ -184,10 +348,23 @@ alias: Pike, Morals and Dogma, Morale et dogme
 an: 1871
 dates: 1809 – 1891
 def: Avocat et général américain, souverain grand commandeur du Rite écossais pour le sud des États-Unis, dont Morals and Dogma (1871) mêle maçonnerie, kabbale et philosophie des religions.
-texte: Poète, avocat dans l'Arkansas, brigadier général de l'armée confédérée pendant la guerre de Sécession, Pike dirige de 1859 à sa mort la juridiction sud du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]]. Il en réécrit tous les rituels et publie *Morals and Dogma* (1871), commentaire des trente-deux premiers degrés.
-texte: Le livre, nourri d'[[eliphas-levi]], dont il recopie des pages entières, de [[kabbale]], d'hermétisme et de religions orientales, a fait de Pike la cible privilégiée de l'[[antimaconnisme]] : [[leo-taxil]] lui attribua des instructions secrètes sur le culte de Lucifer, une invention reprise jusqu'à aujourd'hui.
+texte: Albert Pike naît à Boston en 1809. Admis à Harvard mais trop pauvre pour y étudier, il est instituteur, puis part en 1831 pour l'Ouest et s'établit dans l'Arkansas, où il devient journaliste, avocat et poète. Il sert comme officier de cavalerie pendant la guerre contre le Mexique.
+texte: Reçu franc-maçon à Little Rock en 1850, il reçoit en 1853 les hauts grades du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] et devient en 1859 souverain grand commandeur de sa juridiction sud, fonction qu'il occupe jusqu'à sa mort. Il en réécrit tous les rituels, leur donnant une ampleur et une érudition nouvelles.
+texte: Pendant la guerre de Sécession, général de l'armée confédérée, il négocie des traités avec les nations amérindiennes du Territoire indien, dont il connaît bien les langues et les coutumes, et commande leurs troupes ; accusé d'abus, il démissionne. Gracié après la guerre, il s'installe à Washington.
+texte: Il publie en 1871 *Morals and Dogma*, commentaire de huit cents pages des trente-deux premiers degrés. Le livre, nourri d'[[eliphas-levi]], dont il recopie des pages entières, de [[kabbale]], d'hermétisme et de religions de l'Inde et de la Perse, qu'il traduit aussi, fait des grades une école de philosophie religieuse. Un passage où il évoque Lucifer, « porteur de lumière », a été inlassablement cité contre lui.
+texte: Il meurt à Washington en 1891. Pike est devenu la cible privilégiée de l'[[antimaconnisme]] : [[leo-taxil]] lui attribua la direction d'un culte luciférien, et un faux, fabriqué en 1894, lui prête une doctrine satanique encore citée sur Internet. Sa statue de Washington, l'une des rares d'un général confédéré dans la capitale, a été abattue par des manifestants en 2020.
+repere: 1809 — Naissance à Boston.
+repere: 1831 — Il part pour l'Ouest et s'établit dans l'Arkansas.
+repere: 1850 — Reçu franc-maçon à Little Rock.
+repere: 1853 — Il reçoit les hauts grades du Rite écossais.
+repere: 1859 — Souverain grand commandeur de la juridiction sud du Rite écossais.
+repere: 1861 — Général confédéré, chargé des alliances avec les nations amérindiennes.
+repere: 1871 — *Morals and Dogma*.
+repere: 1891 — Mort à Washington.
+repere: 1894 — Un faux lui prête une doctrine luciférienne.
+repere: 2020 — Sa statue de Washington est abattue par des manifestants.
 oeuvres: Morals and Dogma (1871)
-voir: rite-ecossais-ancien-et-accepte, eliphas-levi, leo-taxil, kabbale
+voir: rite-ecossais-ancien-et-accepte, eliphas-levi, leo-taxil, kabbale, antimaconnisme
 
 @ maria-deraismes
 cat: figures
@@ -196,9 +373,19 @@ alias: Deraismes
 an: 1882
 dates: 1828 – 1894
 def: Écrivaine et militante féministe française, première femme reçue dans une loge masculine en 1882 et cofondatrice de l'ordre maçonnique mixte du Droit humain.
-texte: Conférencière brillante, Maria Deraismes défend sous le Second Empire et la IIIe République les droits des femmes, la laïcité et la libre pensée. Le 14 janvier 1882, la loge *Les Libres Penseurs* du Pecq l'initie malgré les règlements de son obédience, qui suspend la loge.
-texte: Avec Georges Martin, elle fonde le 4 avril 1893 le [[droit-humain|Droit humain]], première obédience mixte, qui accueille hommes et femmes à égalité. Elle meurt l'année suivante ; l'ordre qu'elle a créé s'étend au monde entier.
-voir: droit-humain, maconnerie-d-adoption, grande-loge-feminine-de-france
+texte: Maria Deraismes naît à Paris en 1828 dans une famille de la bourgeoisie aisée, voltairienne et républicaine. Élevée avec sa sœur Anna, elle reçoit une éducation très complète, peint, écrit des pièces de théâtre et des essais. À la mort de ses parents, sa fortune lui assure l'indépendance.
+texte: Conférencière brillante, elle se fait connaître en 1866 par des conférences publiques où elle défend l'égalité des sexes, puis fonde avec Léon Richer une association pour le droit des femmes et organise en 1878, à Paris, le premier Congrès international du droit des femmes. Elle milite aussi pour la laïcité, la libre pensée et la République.
+texte: Le 14 janvier 1882, la loge *Les Libres Penseurs* du Pecq, dans la banlieue ouest de Paris, l'initie malgré les règlements de son obédience, qui suspend aussitôt la loge. L'événement fait grand bruit : jusque-là, les femmes n'étaient admises que dans la [[maconnerie-d-adoption|maçonnerie d'adoption]], placée sous la tutelle des loges masculines.
+texte: Avec le docteur Georges Martin, sénateur et franc-maçon, elle fonde le 4 avril 1893 le [[droit-humain|Droit humain]], première obédience mixte, qui accueille hommes et femmes à égalité. Elle meurt l'année suivante. L'ordre qu'elle a créé s'étend au monde entier, et une statue lui est élevée à Paris en 1898 ; fondue sous l'Occupation, elle a été refaite depuis.
+repere: 1828 — Naissance à Paris.
+repere: 1866 — Ses conférences publiques la font connaître comme oratrice.
+repere: 1870 — Elle fonde avec Léon Richer une association pour le droit des femmes.
+repere: 1878 — Elle organise à Paris le premier Congrès international du droit des femmes.
+repere: 1882 — Le 14 janvier, la loge *Les Libres Penseurs* du Pecq l'initie.
+repere: 1893 — Le 4 avril, elle fonde avec Georges Martin le Droit humain.
+repere: 1894 — Mort à Paris.
+repere: 1898 — Une statue lui est élevée à Paris.
+voir: droit-humain, maconnerie-d-adoption, grande-loge-feminine-de-france, annie-besant
 
 @ leo-taxil
 cat: figures
@@ -207,10 +394,21 @@ alias: Taxil, Gabriel Jogand-Pagès, Diana Vaughan, palladisme, mystification Ta
 an: 1885
 dates: 1854 – 1907
 def: Pamphlétaire anticlérical français qui, feignant de se convertir, publia de 1885 à 1897 de fausses révélations sur un culte satanique au sein de la franc-maçonnerie, avant d'avouer la mystification.
-texte: Gabriel Jogand-Pagès, dit Léo Taxil, s'est fait connaître par des pamphlets contre l'Église, et brièvement par une initiation maçonnique interrompue. En 1885, il annonce sa conversion et publie *Les Mystères de la franc-maçonnerie dévoilés*, puis toute une littérature sur le « palladisme », un prétendu rite luciférien dirigé par [[albert-pike]] où l'on adorerait le [[baphomet|Baphomet]]. Il invente une ex-grande prêtresse repentie, Diana Vaughan, dont les mémoires bouleversent les milieux catholiques.
-texte: Le 19 avril 1897, devant une salle comble à la Société de géographie, il révèle que tout était faux, pour se moquer de la crédulité de ses lecteurs. L'aveu n'a pas empêché ses inventions de circuler dans l'[[antimaconnisme]] et le [[satanisme]] imaginaire.
+texte: Gabriel Jogand-Pagès naît à Marseille en 1854 dans une famille catholique. Élève rebelle des jésuites, envoyé en maison de correction, il devient journaliste républicain et anticlérical sous le nom de Léo Taxil. Installé à Paris, il ouvre en 1879 une librairie anticléricale et publie des pamphlets à succès, comme *À bas la calotte !* ou *Les Amours secrètes de Pie IX*, qui lui valent des procès. Reçu apprenti franc-maçon en 1881, il est exclu de sa loge quelques mois plus tard.
+texte: En 1885, il annonce sa conversion au catholicisme et publie des *Révélations complètes sur la franc-maçonnerie*, puis *Les Mystères de la franc-maçonnerie dévoilés*. Le contexte s'y prête : le pape Léon XIII vient de condamner la maçonnerie dans une encyclique, et il reçoit Taxil en audience. Avec des complices, Taxil invente le « palladisme », un prétendu rite luciférien dirigé depuis les États-Unis par [[albert-pike]], où l'on adorerait le [[baphomet|Baphomet]] ; *Le Diable au XIXe siècle*, signé d'un docteur Bataille, décrit des cérémonies démoniaques à travers le monde. Il invente aussi une ex-grande prêtresse repentie, Diana Vaughan, dont les *Mémoires* bouleversent les milieux catholiques.
+texte: Le 19 avril 1897, devant une salle comble à la Société de géographie, alors qu'on attendait l'apparition de Diana Vaughan, il révèle que tout était faux et qu'il voulait se moquer de la crédulité de ses lecteurs et de l'Église. La salle manque de le lyncher. Il retourne ensuite à l'anonymat et meurt à Sceaux en 1907.
+texte: L'aveu n'a pas empêché ses inventions de circuler dans l'[[antimaconnisme]] et le [[satanisme]] imaginaire : le palladisme, le Lucifer d'Albert Pike et Diana Vaughan reparaissent régulièrement dans les théories du complot. Umberto Eco en a fait un personnage du *Cimetière de Prague* (2010).
+repere: 1854 — Naissance à Marseille.
+repere: 1879 — Il ouvre à Paris une librairie anticléricale.
+repere: 1881 — Reçu apprenti franc-maçon, il est exclu de sa loge quelques mois plus tard.
+repere: 1885 — Il annonce sa conversion et commence ses « révélations ».
+repere: 1887 — Reçu en audience par le pape Léon XIII.
+repere: 1892 — *Le Diable au XIXe siècle*, sous le nom du docteur Bataille.
+repere: 1895 — Début des *Mémoires* de la prétendue Diana Vaughan.
+repere: 1897 — Le 19 avril, il avoue publiquement la mystification.
+repere: 1907 — Mort à Sceaux.
 oeuvres: Les Mystères de la franc-maçonnerie dévoilés (1886) ; Le Diable au XIXe siècle (1892-1894, sous le nom du docteur Bataille)
-voir: antimaconnisme, albert-pike, baphomet, satanisme
+voir: antimaconnisme, albert-pike, baphomet, satanisme, jules-doinel
 
 @ rudyard-kipling
 cat: figures
@@ -219,22 +417,41 @@ alias: Kipling, The Mother-Lodge, L'Homme qui voulut être roi
 an: 1886
 dates: 1865 – 1936
 def: Écrivain britannique né en Inde, reçu franc-maçon à Lahore en 1886, qui a célébré la fraternité des loges coloniales et fait de la maçonnerie le ressort de L'Homme qui voulut être roi.
-texte: Kipling est initié le 5 avril 1886, avant l'âge requis, dans la loge *Hope and Perseverance* de Lahore, qui comptait des hindous, des musulmans, des sikhs, des juifs et des chrétiens ; il en devient secrétaire. Son poème *The Mother-Lodge* (1896) chante cette égalité où le soldat côtoie le négociant et le brahmane le comptable.
-texte: Dans *L'Homme qui voulut être roi* (1888), deux aventuriers se font passer pour des dieux auprès d'un peuple d'Afghanistan qui connaît, à leur stupeur, les signes maçonniques ; la nouvelle est devenue un film célèbre. Kipling a parsemé son œuvre de symboles et de références maçonniques.
-oeuvres: L'Homme qui voulut être roi (1888) ; The Mother-Lodge (1896) ; Kim (1901)
+texte: Rudyard Kipling naît à Bombay en 1865, fils d'un artiste qui enseigne à l'école d'art de la ville. Envoyé en Angleterre à six ans, il y connaît une enfance malheureuse, puis revient en Inde à seize ans comme journaliste à Lahore. Ses nouvelles sur la vie des Anglais en Inde le rendent vite célèbre.
+texte: Il est initié le 5 avril 1886, par dispense, avant l'âge requis, dans la loge *Hope and Perseverance* de Lahore, qui comptait des hindous, des musulmans, des sikhs, des juifs et des chrétiens ; il en devient le secrétaire. Son poème *The Mother-Lodge* (1896) chante cette égalité où le soldat côtoie le négociant et le brahmane le comptable, réunis au-delà des barrières de caste et de religion.
+texte: Dans *L'Homme qui voulut être roi* (1888), deux aventuriers anglais se font passer pour des dieux auprès d'un peuple d'Afghanistan qui connaît, à leur stupeur, les signes maçonniques ; la nouvelle a été adaptée au cinéma par John Huston en 1975. *Kim* (1901) mêle un lama tibétain et le « Grand Jeu » des espions. Kipling a parsemé son œuvre de symboles et de références maçonniques.
+texte: Prix Nobel de littérature en 1907, il perd son fils unique sur le front en 1915. Il s'engage alors dans la commission des sépultures de guerre, choisit l'inscription des cimetières militaires et participe en 1922 à la fondation d'une loge qui réunit ceux qui y travaillent. Il meurt à Londres en 1936 ; ses cendres reposent à l'abbaye de Westminster.
+repere: 1865 — Naissance à Bombay.
+repere: 1882 — Journaliste à Lahore.
+repere: 1886 — Initié le 5 avril dans la loge *Hope and Perseverance* de Lahore.
+repere: 1888 — *L'Homme qui voulut être roi*.
+repere: 1894 — *Le Livre de la jungle*.
+repere: 1896 — *The Mother-Lodge*.
+repere: 1901 — *Kim*.
+repere: 1907 — Prix Nobel de littérature.
+repere: 1915 — Son fils John est tué au front.
+repere: 1922 — Il participe à la fondation d'une loge liée aux cimetières militaires de la Grande Guerre.
+repere: 1936 — Mort à Londres.
+oeuvres: L'Homme qui voulut être roi (1888) ; Le Livre de la jungle (1894) ; The Mother-Lodge (1896) ; Kim (1901)
 voir: franc-maconnerie, fils-de-la-veuve, loge
 
 @ jules-boucher
 cat: figures
 nom: Jules Boucher
-alias: Boucher, La Symbolique maçonnique
+alias: Boucher, La Symbolique maçonnique, Manuel de magie pratique
 an: 1948
 dates: 1902 – 1955
 def: Occultiste et franc-maçon français, auteur de La Symbolique maçonnique (1948), longtemps le manuel le plus lu des maçons français sur le sens des symboles.
-texte: Martiniste, alchimiste amateur, auteur d'un *Manuel de magie pratique* (1941), Boucher entre en maçonnerie et met sa culture ésotérique au service de l'explication des symboles : pierres, outils, colonnes, nombres, couleurs. *La Symbolique maçonnique* rapproche le travail de la loge de l'[[alchimie]] et de la [[kabbale]], dans la lignée d'[[oswald-wirth]] et de [[rene-guenon]].
-texte: Le livre, sans cesse réédité, a beaucoup fait pour l'image d'une maçonnerie ésotérique en France ; les historiens lui reprochent d'avoir projeté sur les rituels des significations que leurs auteurs ne leur donnaient pas.
+texte: Jules Boucher naît en 1902. Passionné d'ésotérisme dès sa jeunesse, il fréquente les milieux occultistes parisiens de l'entre-deux-guerres, s'intéresse à l'[[alchimie]] dans le sillage de [[fulcanelli]], entre dans des ordres [[martinisme|martinistes]] et pratique la magie cérémonielle.
+texte: Son *Manuel de magie pratique* (1941) est l'un des premiers manuels modernes en français : il y présente la magie comme une discipline de la volonté et de l'imagination, avec ses instruments, ses cercles et ses rituels, dans la lignée d'[[eliphas-levi]] et de [[papus]].
+texte: Franc-maçon, il met sa culture ésotérique au service de l'explication des symboles : pierres, outils, colonnes, nombres, couleurs, voyages et épreuves. *La Symbolique maçonnique* (1948) rapproche le travail de la loge de l'[[alchimie]], de la [[kabbale]] et de l'hermétisme, dans la lignée d'[[oswald-wirth]] et de [[rene-guenon]]. Il meurt en 1955.
+texte: Le livre, sans cesse réédité, a beaucoup fait pour l'image d'une maçonnerie ésotérique en France ; les historiens lui reprochent d'avoir projeté sur les rituels du XVIIIe siècle des significations que leurs auteurs ne leur donnaient pas.
+repere: 1902 — Naissance.
+repere: 1941 — *Manuel de magie pratique*.
+repere: 1948 — *La Symbolique maçonnique*.
+repere: 1955 — Mort.
 oeuvres: Manuel de magie pratique (1941) ; La Symbolique maçonnique (1948)
-voir: oswald-wirth, rene-guenon, pierre-brute, martinisme
+voir: oswald-wirth, rene-guenon, pierre-brute, martinisme, magie-ceremonielle
 
 # ── Textes ──────────────────────────────────────────────────────────────────
 

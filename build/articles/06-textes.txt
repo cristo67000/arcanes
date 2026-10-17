@@ -28,7 +28,7 @@ nom: Asclépius
 alias: Asclepius, Discours parfait, Logos teleios
 an: 250
 def: Traité hermétique connu en latin pendant tout le Moyen Âge, qui célèbre la grandeur de l'homme et décrit comment les prêtres égyptiens animaient les statues des dieux.
-texte: L'original grec, intitulé *Discours parfait*, est perdu ; il en reste une traduction latine ancienne, longtemps attribuée à Apulée, et un fragment copte trouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]]. Hermès y enseigne à son disciple Asclépius que l'homme est « un grand miracle », intermédiaire entre les dieux et le monde.
+texte: L'original grec, intitulé *Discours parfait*, est perdu ; il en reste une traduction latine ancienne, longtemps attribuée à [[apulee|Apulée]], et un fragment copte trouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]]. Hermès y enseigne à son disciple Asclépius que l'homme est « un grand miracle », intermédiaire entre les dieux et le monde.
 texte: Deux passages ont frappé les lecteurs : celui où les Égyptiens attirent par des rites les esprits divins dans leurs statues, qui deviennent vivantes et prophétisent — saint Augustin le condamne comme idolâtrie, les magiciens de la Renaissance y voient le modèle des [[talisman|talismans]] — et la « lamentation » qui annonce l'abandon de l'Égypte par les dieux.
 voir: corpus-hermetique, hermetisme, talisman, egyptosophie
 
@@ -49,7 +49,7 @@ alias: Oracles chaldéens, Chaldean Oracles, Julien le Chaldéen, Julien le Thé
 an: 170
 def: Poème grec du IIe siècle, présenté comme une révélation divine, qui décrit une hiérarchie de puissances divines et les rites permettant à l'âme de remonter vers le Père.
 texte: Selon la tradition, les *Oracles* ont été obtenus sous Marc Aurèle par Julien le Théurge, qui les aurait reçus des dieux par l'intermédiaire de l'âme de Platon, avec l'aide de son père, Julien le Chaldéen. Ils ne nous sont parvenus qu'en fragments cités par les philosophes. On y trouve un Père suprême, un Intellect, une déesse Hécate qui unit les mondes, et l'idée que l'âme, revêtue d'un « véhicule » lumineux, peut être purifiée par des rites.
-texte: Les néoplatoniciens, de [[porphyre]] à [[proclus]], les tiennent pour une Écriture sacrée et y fondent la [[theurgie]]. Au XVe siècle, Gémiste Pléthon les attribue à [[zoroastre]] et à ses mages, et la Renaissance les lit comme l'un des plus anciens témoins de la [[prisca-theologia]].
+texte: Les néoplatoniciens, de [[porphyre]] à [[proclus]], les tiennent pour une Écriture sacrée et y fondent la [[theurgie]]. Au XVe siècle, [[gemiste-plethon|Gémiste Pléthon]] les attribue à [[zoroastre]] et à ses mages, et la Renaissance les lit comme l'un des plus anciens témoins de la [[prisca-theologia]].
 voir: theurgie, neoplatonisme, zoroastre, prisca-theologia
 
 @ papyrus-grecs-magiques
@@ -183,8 +183,8 @@ alias: Petite Clé de Salomon, Lesser Key of Solomon, Goétie, Ars Goetia, Ars N
 an: 1650
 dates: manuscrits du XVIIe siècle
 def: Grimoire anglais du XVIIe siècle en cinq parties, dont la première, la Goétie, décrit soixante-douze démons et la manière de les contraindre.
-texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *Art notoire* censé donner la science par la prière.
-texte: La liste des démons rejoint celle que le médecin Jean Wier avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
+texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *[[ars-notoria|Art notoire]]* censé donner la science par la prière.
+texte: La liste des démons rejoint celle que le médecin [[jean-wier|Jean Wier]] avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
 voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau
 
 @ livre-d-abramelin
@@ -223,7 +223,7 @@ nom: Petit Albert
 alias: Secrets merveilleux de la magie naturelle et cabalistique du Petit Albert, main de gloire
 an: 1668
 def: Grimoire populaire publié en 1668, qui mêle recettes domestiques, magie naturelle et talismans, et doit sa réputation sulfureuse à la recette de la « main de gloire ».
-texte: Malgré son titre, le *Petit Albert* n'a rien à voir avec [[albert-le-grand]]. On y trouve de quoi faire pousser les cheveux, guérir les chevaux, gagner au jeu, se faire aimer, et des [[talisman|talismans]] planétaires inspirés de [[paracelse]]. La recette la plus célèbre est celle de la « main de gloire », main de pendu préparée qui servirait de chandelier aux voleurs pour endormir les habitants d'une maison.
+texte: Malgré son titre, le *Petit Albert* n'a rien à voir avec [[albert-le-grand]]. On y trouve de quoi faire pousser les cheveux, guérir les chevaux, gagner au jeu, se faire aimer, et des [[talisman|talismans]] planétaires inspirés de [[paracelse]]. La recette la plus célèbre est celle de la « [[main-de-gloire|main de gloire]] », main de pendu préparée qui servirait de chandelier aux voleurs pour endormir les habitants d'une maison.
 texte: Comme le [[grand-albert|Grand Albert]], il est diffusé par les colporteurs et devient un objet de crainte et de fascination dans les campagnes françaises.
 voir: grand-albert, grimoire, talisman, sorcellerie
 
@@ -537,3 +537,68 @@ def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle scienc
 texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
 texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
 voir: fulcanelli, societe-thule, alchimie, ariosophie
+
+# ── Textes ajoutés en 1.2 ───────────────────────────────────────────────────
+
+@ la-cite-du-soleil
+cat: textes
+nom: La Cité du Soleil
+alias: Civitas Solis, Città del Sole, Cité du Soleil
+dates: écrite en 1602, publiée en 1623
+an: 1602
+def: Utopie de Tommaso Campanella, écrite en prison en 1602, qui décrit une cité gouvernée par un prêtre-philosophe selon la science, une religion naturelle et l'influence des astres.
+texte: *La Cité du Soleil* se présente comme un dialogue entre un chevalier de l'ordre de Saint-Jean et un capitaine génois, qui raconte avoir découvert, sur une île lointaine, une cité bâtie sur une colline et entourée de sept enceintes concentriques, portant les noms des sept planètes. Les murs, peints à l'intérieur comme à l'extérieur, montrent toute la science du monde : figures de géométrie, cartes, minéraux, plantes, animaux, arts mécaniques, inventeurs et législateurs. Les enfants apprennent en se promenant le long de cette encyclopédie murale, véritable [[art-de-la-memoire|art de la mémoire]] de pierre.
+texte: La cité est gouvernée par un prêtre-philosophe, le Soleil, assisté de trois princes : Puissance, qui commande à la guerre, Sagesse, qui veille sur les sciences, et Amour, qui règle la génération, l'éducation, la nourriture et le vêtement. Les biens sont communs, comme dans la *République* de Platon, le travail n'occupe que quatre heures par jour, et les unions sont fixées par les magistrats à l'heure choisie par les astrologues, pour engendrer les meilleurs enfants. Les habitants adorent Dieu sous la forme du Soleil, image de sa puissance, de sa sagesse et de son amour, dans un temple circulaire dont la coupole figure le ciel étoilé.
+texte: Écrite en prison à Naples par [[tommaso-campanella]], vers 1602, publiée en latin à Francfort en 1623, puis révisée à Paris en 1637, l'œuvre appartient à la lignée des utopies de la Renaissance, après celle de Thomas More. [[frances-yates]] y a vu une cité magique, où l'image du monde peinte sur les murs devait attirer les influences célestes et rendre heureux ses habitants : un rêve de réforme universelle par la science, la [[magie-naturelle|magie naturelle]] et l'[[astrologie]], qui annonce les projets des [[rose-croix|Rose-Croix]].
+repere: 1602 — Campanella écrit son utopie dans sa prison de Naples.
+repere: 1623 — Première édition, en latin, à Francfort.
+repere: 1637 — Édition révisée à Paris.
+voir: tommaso-campanella, art-de-la-memoire, astrologie, magie-naturelle, rose-croix
+
+@ zanoni
+cat: textes
+nom: Zanoni
+alias: Bulwer-Lytton, gardien du seuil, Mejnour
+dates: 1842
+an: 1842
+def: Roman d'Edward Bulwer-Lytton paru en 1842, dont le héros est un Rose-Croix immortel, et qui popularisa l'idée d'un « gardien du seuil » de l'initiation.
+texte: Dans la préface, l'auteur raconte avoir reçu d'un vieil homme, rencontré dans une librairie de Londres spécialisée dans les sciences occultes, un manuscrit chiffré qu'il aurait déchiffré et mis en forme. Le roman suit Zanoni, beau et mystérieux étranger, membre d'une fraternité rosicrucienne immémoriale qui a percé le secret de l'immortalité, et son vieux compagnon Mejnour, sage austère et sans passions. À Naples, à la fin du XVIIIe siècle, Zanoni s'éprend d'une jeune chanteuse, Viola Pisani.
+texte: Un jeune Anglais, Glyndon, veut lui aussi être initié. Mejnour le soumet aux épreuves, mais Glyndon, impatient, boit l'élixir défendu et voit surgir le « gardien du seuil », un spectre terrifiant qui le poursuivra : l'image des forces que libère l'initiation chez celui qui n'est pas purifié. Zanoni, lui, renonce à l'immortalité par amour ; la fin se passe à Paris sous la Terreur, où il se livre au bourreau pour sauver Viola, le jour même de la chute de Robespierre.
+texte: [[edward-bulwer-lytton]], homme politique et romancier très lu, s'intéressait de près à l'occultisme et reçut [[eliphas-levi]] à Londres en 1854. *Zanoni* a fourni à l'ésotérisme moderne plusieurs de ses images : la fraternité invisible des adeptes, l'épreuve initiatique et son « gardien du seuil », repris par [[helena-blavatsky]] et par [[rudolf-steiner]]. Le roman a été lu comme un véritable livre d'initiation par des générations d'occultistes.
+repere: 1842 — Publication de *Zanoni*.
+repere: 1854 — Bulwer-Lytton reçoit Éliphas Lévi à Londres.
+repere: 1871 — Bulwer-Lytton publie *La Race future*, qui invente la force du « vril ».
+voir: edward-bulwer-lytton, rose-croix, initiation, elixir-de-longue-vie, maitres-de-sagesse
+
+@ aradia
+cat: textes
+nom: Aradia
+alias: Aradia ou l'Évangile des sorcières, Aradia, or the Gospel of the Witches, Leland, Maddalena
+dates: 1899
+an: 1899
+def: Livre de l'écrivain américain Charles Godfrey Leland, paru en 1899, qui prétend transcrire l'évangile secret des sorcières de Toscane, adoratrices de Diane, et qui inspira la wicca.
+texte: Charles Godfrey Leland, journaliste et folkloriste américain installé en Europe, passionné par les traditions des Tsiganes et des campagnes italiennes, dit avoir reçu en 1897 d'une informatrice florentine, Maddalena, qu'il présente comme une sorcière, le manuscrit d'un « évangile des sorcières ». Il le publie à Londres en 1899, en italien et en traduction anglaise, accompagné de ses commentaires.
+texte: Le texte raconte que Diane, déesse de la Lune, unie à son frère Lucifer, dieu de la lumière, eut une fille, Aradia, qu'elle envoya sur la terre pour enseigner la [[sorcellerie]] aux paysans pauvres, opprimés par les seigneurs et par l'Église, afin qu'ils puissent se défendre et se venger. Aradia ordonne à ses fidèles de se réunir à la pleine lune, nus, pour adorer Diane, partager un repas de gâteaux et de vin, et apprendre les incantations ; le livre rapporte aussi des conjurations et des recettes de la magie populaire toscane.
+texte: L'authenticité du texte reste discutée : invention de Leland, création de son informatrice, ou écho d'une véritable tradition populaire, mêlée de souvenirs savants ? Les historiens penchent pour un mélange. Quoi qu'il en soit, *Aradia* a joué un grand rôle dans la naissance de la [[wicca]] : la « Charge de la Déesse », texte central du rituel de [[gerald-gardner]] récrit par Doreen Valiente, en reprend des passages, et la figure d'Aradia est devenue l'une des divinités du [[neopaganisme]].
+repere: 1886 — À Florence, Leland rencontre son informatrice, Maddalena.
+repere: 1897 — Il dit recevoir d'elle le manuscrit de l'évangile des sorcières.
+repere: 1899 — Publication d'*Aradia* à Londres.
+repere: années 1950 — La « Charge de la Déesse » de la wicca en reprend des passages.
+voir: wicca, sorcellerie, sabbat, neopaganisme, gerald-gardner, margaret-murray
+
+@ ars-notoria
+cat: textes
+nom: Ars notoria
+alias: Art notoire, Ars notoria Salomonis, notae, Liber florum
+dates: XIIe – XIIIe siècle
+an: 1200
+def: Traité médiéval de magie rituelle attribué à Salomon, qui promettait d'acquérir en peu de temps tous les savoirs par des prières, des mots mystérieux et la contemplation de figures.
+texte: L'*Art notoire* apparaît en latin vers la fin du XIIe siècle et circule dans de nombreux manuscrits, souvent richement illustrés. Il se présente comme une révélation faite au roi [[salomon]] par un ange, qui lui enseigna en une nuit toute la sagesse. Son but n'est ni de faire de l'or ni d'invoquer des démons, mais d'obtenir la connaissance : maîtriser en quelques semaines les arts libéraux, la philosophie et la théologie, acquérir une mémoire infaillible et l'éloquence.
+texte: La méthode associe des prières, mêlées de mots étranges dits chaldéens, grecs ou hébreux, des jeûnes et des purifications, à la contemplation de « notes » : des figures complexes, faites de cercles, de lettres et d'entrelacs, propres à chaque discipline, qu'il faut regarder en récitant les oraisons à des jours et à des heures déterminés. Pratique d'étudiants et de clercs, l'Art notoire était une magie savante et pieuse, aux frontières de la prière.
+texte: L'Église ne l'entendit pas ainsi. Thomas d'Aquin le condamne comme une superstition qui suppose un pacte tacite avec les démons, et la faculté de théologie de Paris le range en 1398 parmi les pratiques défendues. Au XIVe siècle, un moine bénédictin, Jean de Morigny, raconte comment l'Art notoire l'a conduit à des visions démoniaques, puis compose un livre de prières destiné à le remplacer. Le texte a continué de circuler jusqu'à l'époque moderne ; il est traduit en anglais en 1657 et appartient à la vaste littérature de la [[magie-ceremonielle|magie cérémonielle]] placée sous le nom de Salomon, à côté de la *[[clavicule-de-salomon|Clavicule]]*.
+repere: fin du XIIe siècle — Premières versions latines de l'*Art notoire*.
+repere: vers 1270 — Thomas d'Aquin condamne l'Art notoire.
+repere: vers 1310 — Jean de Morigny compose un livre de prières pour le remplacer.
+repere: 1398 — La faculté de théologie de Paris le range parmi les pratiques défendues.
+repere: 1657 — Traduction anglaise de Robert Turner.
+voir: salomon, clavicule-de-salomon, magie-ceremonielle, art-de-la-memoire, anges, grimoire

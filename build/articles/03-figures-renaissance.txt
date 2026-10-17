@@ -4,14 +4,26 @@
 @ marsile-ficin
 cat: figures
 nom: Marsile Ficin
-alias: Marsilio Ficino, Ficino, académie platonicienne de Florence, Careggi
+alias: Marsilio Ficino, Ficino, académie platonicienne de Florence, Careggi, amour platonique
 dates: 1433 – 1499
 an: 1433
 def: Philosophe et médecin florentin, traducteur de Platon, de Plotin et du Corpus Hermeticum, qui fit renaître le platonisme et fonda la magie astrale de la Renaissance.
-texte: Protégé de Cosme de Médicis, qui lui donne une villa à Careggi, Ficin consacre sa vie à rendre accessibles en latin les textes de la sagesse antique. Cosme lui fait interrompre la traduction de Platon pour celle du [[corpus-hermetique|Corpus Hermeticum]], achevée en 1463 : Hermès, plus ancien, devait passer en premier. Suivent Platon (publié en 1484), [[plotin]] (1492), [[jamblique]], [[proclus]] et le [[pseudo-denys]]. Dans sa *Théologie platonicienne*, il défend l'immortalité de l'âme et l'accord du platonisme et du christianisme ; il devient prêtre en 1473.
-texte: Dans le troisième livre de son traité *[[de-vita|De vita]]* (1489), Ficin, mélancolique né sous Saturne, explique comment capter les influences bénéfiques des astres par les plantes, les parfums, les couleurs, les pierres, la musique et les images : c'est la première théorie savante de la magie astrale à la Renaissance, fondée sur l'[[ame-du-monde|esprit du monde]] qui relie les astres et les corps. Sa généalogie de la sagesse antique, la [[prisca-theologia]], a orienté tout l'ésotérisme ultérieur.
-oeuvres: Traduction du Corpus Hermeticum (1463, imprimée en 1471) ; Théologie platonicienne (1482) ; De vita libri tres (1489) ; traduction de Plotin (1492)
-voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte
+texte: Né en 1433 à Figline, près de Florence, Marsile Ficin est le fils du médecin de Cosme de Médicis, le maître de la ville. Il étudie la médecine et la philosophie, apprend le grec, et Cosme, qui rêve de faire revivre à Florence l'Académie de Platon, lui donne en 1462 une villa à Careggi et des manuscrits grecs. Ficin y consacre sa vie à rendre accessibles en latin les textes de la sagesse antique, entouré d'un cercle d'amis — poètes, humanistes, le jeune Laurent de Médicis, plus tard [[pic-de-la-mirandole|Pic de la Mirandole]] — qu'on appellera l'Académie platonicienne de Florence.
+texte: Cosme lui fait interrompre la traduction de Platon pour celle du [[corpus-hermetique|Corpus Hermeticum]], achevée en 1463 : Hermès, plus ancien, devait passer en premier. Suivent Platon tout entier (publié en 1484), [[plotin]] (1492), [[jamblique]], [[proclus]], [[porphyre]] et le [[pseudo-denys]]. Son commentaire du *Banquet*, *De l'amour*, fait de l'amour la force qui relie toutes choses et l'âme à Dieu : c'est l'origine de l'expression « amour platonique ». Dans sa *Théologie platonicienne*, il défend l'immortalité de l'âme et l'accord du platonisme et du christianisme ; il devient prêtre en 1473.
+texte: Dans le troisième livre de son traité *[[de-vita|De vita]]* (1489), consacré à la santé des savants, Ficin, mélancolique né sous Saturne, explique comment capter les influences bénéfiques des astres par les plantes, les parfums, les couleurs, les pierres, la musique et les images. Un « esprit du monde », souffle subtil qui relie l'[[ame-du-monde|âme du monde]] et les corps, transmet ces influences ; l'esprit humain, de même nature, peut s'y accorder. Ficin chante les hymnes orphiques en s'accompagnant de la lyre pour attirer les vertus du Soleil ou de Jupiter. C'est la première théorie savante de la magie astrale à la Renaissance, et Ficin doit publier une apologie pour se défendre d'avoir pratiqué la magie défendue.
+texte: Sa généalogie de la sagesse antique, la [[prisca-theologia]] — de Zoroastre et d'Hermès à Orphée, Pythagore et Platon —, a orienté tout l'ésotérisme ultérieur, de [[cornelius-agrippa|Corneille Agrippa]] à [[giordano-bruno|Giordano Bruno]]. Il meurt à Careggi en 1499. En 1964, l'historienne [[frances-yates]] a placé ses traductions et sa magie à l'origine de ce qu'elle appelait la « tradition hermétique » de la Renaissance.
+repere: 1433 — Naissance à Figline, près de Florence ; son père est le médecin de Cosme de Médicis.
+repere: 1462 — Cosme lui donne une villa à Careggi et des manuscrits grecs de Platon.
+repere: 1463 — Il achève la traduction latine du *Corpus Hermeticum*.
+repere: 1469 — Il achève la traduction de Platon et son commentaire du *Banquet*, *De l'amour*.
+repere: 1473 — Ordonné prêtre.
+repere: 1482 — Publication de la *Théologie platonicienne*.
+repere: 1484 — Publication de sa traduction de Platon.
+repere: 1489 — *De vita* ; il doit défendre son livre contre des accusations de magie.
+repere: 1492 — Publication de sa traduction de Plotin.
+repere: 1499 — Mort à Careggi.
+oeuvres: Traduction du Corpus Hermeticum (1463, imprimée en 1471) ; De l'amour (1469) ; Théologie platonicienne (1482) ; De vita libri tres (1489) ; traduction de Plotin (1492)
+voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte, harmonie-des-spheres
 
 @ pic-de-la-mirandole
 cat: figures
@@ -20,46 +32,97 @@ alias: Jean Pic de la Mirandole, Giovanni Pico della Mirandola, Pico, 900 conclu
 dates: 1463 – 1494
 an: 1463
 def: Philosophe italien, prodige de l'humanisme, qui voulut concilier toutes les doctrines et fit entrer la kabbale juive dans la pensée chrétienne.
-texte: En 1486, à vingt-trois ans, Pic publie *Neuf cents conclusions* tirées de toutes les philosophies et propose de les soutenir publiquement à Rome devant les savants du monde entier. Le discours d'ouverture, connu plus tard comme *[[discours-sur-la-dignite-de-l-homme|Discours sur la dignité de l'homme]]*, célèbre l'homme libre de choisir sa place dans l'univers. Le pape Innocent VIII interdit la dispute et fait condamner treize thèses, dont celle-ci : « Aucune science ne nous assure davantage de la divinité du Christ que la magie et la kabbale. »
-texte: Grâce au converti Flavius Mithridate, qui lui traduit des textes hébreux, Pic est le premier chrétien à étudier la [[kabbale]] à fond et à soutenir qu'elle confirme les mystères chrétiens : c'est l'acte de naissance de la [[kabbale-chretienne|kabbale chrétienne]]. Proche de [[marsile-ficin]], il meurt à trente et un ans à Florence ; une étude de ses restes, en 2008, a conforté l'hypothèse d'un empoisonnement à l'arsenic.
-oeuvres: Neuf cents conclusions (1486) ; Discours sur la dignité de l'homme (1486) ; Heptaplus (1489)
-voir: kabbale-chretienne, discours-sur-la-dignite-de-l-homme, marsile-ficin, jean-reuchlin, prisca-theologia
+texte: Né en 1463 au château de la Mirandole, en Émilie, dans une famille de seigneurs, Jean Pic étudie le droit canon à Bologne dès quatorze ans, puis la philosophie à Ferrare, à Padoue, où un philosophe juif, Elia del Medigo, l'initie à Averroès, et à Paris. En 1484, il arrive à Florence le jour même, raconte Ficin, où paraît la traduction de Platon. Doué d'une mémoire prodigieuse, il apprend le grec, l'hébreu, l'araméen et l'arabe.
+texte: En 1486, à vingt-trois ans, il publie à Rome *Neuf cents conclusions* tirées de toutes les philosophies — scolastiques, platoniciens, arabes, kabbalistes, Hermès, Zoroastre, Orphée — et propose de les soutenir publiquement devant les savants du monde entier, dont il offre de payer le voyage. Le discours d'ouverture, connu plus tard comme *[[discours-sur-la-dignite-de-l-homme|Discours sur la dignité de l'homme]]*, célèbre l'homme, seul être sans place fixe dans l'univers, libre de devenir ange ou bête. Le pape Innocent VIII interdit la dispute et fait condamner treize thèses, dont celle-ci : « Aucune science ne nous assure davantage de la divinité du Christ que la magie et la kabbale. » Pic s'enfuit en France, où il est arrêté et enfermé quelque temps à Vincennes, avant que Laurent de Médicis obtienne qu'il revienne à Florence.
+texte: Grâce au converti Flavius Mithridate, qui lui traduit en latin des milliers de pages de textes hébreux, Pic est le premier chrétien à étudier la [[kabbale]] en profondeur et à soutenir qu'elle confirme les mystères chrétiens : c'est l'acte de naissance de la [[kabbale-chretienne|kabbale chrétienne]]. Il distingue la [[magie-naturelle|magie naturelle]], qui « marie le ciel à la terre » en accomplissant les œuvres de la nature, de la magie démoniaque, qu'il condamne.
+texte: Ses dernières années sont marquées par l'influence de Savonarole. Son *Heptaplus* (1489) lit la Genèse selon sept sens ; ses *Disputes contre l'astrologie divinatoire*, publiées après sa mort, nient que les astres déterminent les événements terrestres, et [[johannes-kepler|Kepler]] s'en souviendra. Pic meurt à trente et un ans à Florence, le jour où l'armée du roi de France Charles VIII entre dans la ville. Une étude de ses restes, en 2008, a conforté l'hypothèse d'un empoisonnement à l'arsenic.
+repere: 1463 — Naissance au château de la Mirandole, en Émilie.
+repere: 1477 — À quatorze ans, il étudie le droit canon à Bologne.
+repere: 1484 — À Florence, il rencontre Marsile Ficin.
+repere: 1486 — Il publie à Rome ses *Neuf cents conclusions* et prépare le discours qui doit les introduire.
+repere: 1487 — Le pape Innocent VIII condamne treize thèses, puis l'ensemble.
+repere: 1488 — Arrêté en France, il est enfermé quelque temps au donjon de Vincennes.
+repere: 1489 — *Heptaplus*, lecture kabbalistique de la Genèse.
+repere: 1494 — Mort à Florence, le jour où l'armée de Charles VIII entre dans la ville.
+repere: 1496 — Publication posthume de ses *Disputes contre l'astrologie divinatoire*.
+repere: 2008 — L'étude de ses restes conforte l'hypothèse d'un empoisonnement à l'arsenic.
+oeuvres: Neuf cents conclusions (1486) ; Discours sur la dignité de l'homme (1486, publié en 1496) ; Heptaplus (1489) ; De l'être et de l'un (1491) ; Disputes contre l'astrologie divinatoire (1496)
+voir: kabbale-chretienne, discours-sur-la-dignite-de-l-homme, marsile-ficin, jean-reuchlin, prisca-theologia, magie-naturelle
 
 @ jean-reuchlin
 cat: figures
 nom: Jean Reuchlin
-alias: Johannes Reuchlin, Capnion, De arte cabalistica
+alias: Johannes Reuchlin, Capnion, De arte cabalistica, De verbo mirifico
 dates: 1455 – 1522
 an: 1455
 def: Humaniste allemand, premier grand hébraïsant chrétien, qui fit de la kabbale une science chrétienne et défendit les livres juifs contre ceux qui voulaient les brûler.
-texte: Juriste et diplomate, Reuchlin publie en 1506 une grammaire hébraïque qui ouvre aux chrétiens l'étude de la langue de l'Ancien Testament. Dans *De verbo mirifico* (1494), il soutient que le nom de Jésus, en hébreu, s'obtient en insérant la lettre *shin* au cœur du [[tetragramme|Tétragramme]] divin : le Nom imprononçable devient prononçable dans le Christ. Son *[[de-arte-cabalistica|De arte cabalistica]]* (1517) expose la kabbale sous forme de dialogue.
-texte: Lorsque le converti Johannes Pfefferkorn obtient de l'empereur la confiscation des livres juifs, Reuchlin rend un avis contraire (1510). La querelle qui s'ensuit met l'Europe savante en émoi et inspire aux humanistes une satire célèbre, les *Lettres des hommes obscurs*.
-oeuvres: De verbo mirifico (1494) ; Rudiments de l'hébreu (1506) ; De arte cabalistica (1517)
-voir: kabbale-chretienne, de-arte-cabalistica, tetragramme, pic-de-la-mirandole
+texte: Né à Pforzheim en 1455, Johannes Reuchlin étudie à Fribourg, à Paris et à Bâle, où il apprend le grec, puis le droit à Orléans et à Poitiers. Juriste et diplomate au service du comte de Wurtemberg, il voyage en Italie, où il rencontre [[marsile-ficin|Ficin]] puis, en 1490, [[pic-de-la-mirandole|Pic de la Mirandole]], qui lui communique sa passion pour la [[kabbale]]. Il apprend l'hébreu auprès du médecin juif de l'empereur, puis d'un savant rabbin à Rome. Les humanistes l'appellent Capnion, traduction grecque de son nom, « petite fumée ».
+texte: En 1506, il publie une grammaire et un dictionnaire hébreux qui ouvrent aux chrétiens l'étude de la langue de l'Ancien Testament. Dans *De verbo mirifico* (1494), il soutient que le nom de Jésus, en hébreu, s'obtient en insérant la lettre *shin* au cœur du [[tetragramme|Tétragramme]] divin : le Nom imprononçable devient prononçable dans le Christ. Son *[[de-arte-cabalistica|De arte cabalistica]]* (1517), dédié au pape Léon X, expose la kabbale sous forme d'un dialogue entre un juif, un pythagoricien et un musulman : Pythagore, selon lui, avait puisé sa sagesse chez les kabbalistes.
+texte: En 1509, le converti Johannes Pfefferkorn obtient de l'empereur Maximilien la confiscation des livres juifs. Consulté, Reuchlin rend en 1510 un avis contraire : le Talmud et la kabbale doivent être conservés et étudiés. Les dominicains de Cologne l'attaquent, l'inquisiteur Hochstraten lui fait un procès qui dure dix ans, et l'Europe savante se divise. Les partisans de Reuchlin répliquent par une satire restée célèbre, les *Lettres des hommes obscurs*, qui ridiculise ses adversaires dans un latin de cuisine. Rome finit par condamner son livre en 1520.
+texte: Grand-oncle de Melanchthon, Reuchlin refuse pourtant de suivre Luther. Il termine sa vie professeur de grec et d'hébreu à Ingolstadt puis à Tübingen, et meurt en 1522. Son œuvre a fondé, après Pic, la [[kabbale-chretienne|kabbale chrétienne]] allemande, que reprendront [[cornelius-agrippa|Agrippa]] et les théosophes.
+repere: 1455 — Naissance à Pforzheim.
+repere: 1482 — Voyage en Italie à la suite du comte de Wurtemberg ; il rencontre Ficin.
+repere: 1490 — Second voyage en Italie : il rencontre Pic de la Mirandole.
+repere: 1492 — Il commence l'hébreu auprès du médecin juif de l'empereur.
+repere: 1494 — *De verbo mirifico*.
+repere: 1506 — *Rudiments de l'hébreu*, grammaire et dictionnaire.
+repere: 1510 — Il s'oppose à la confiscation des livres juifs.
+repere: 1515 — Première partie des *Lettres des hommes obscurs*, satire écrite par ses partisans.
+repere: 1517 — *De arte cabalistica*, dédié au pape Léon X.
+repere: 1520 — Rome condamne son *Miroir des yeux* au terme d'un long procès.
+repere: 1522 — Mort à Stuttgart.
+oeuvres: De verbo mirifico (1494) ; Rudiments de l'hébreu (1506) ; Miroir des yeux (1511) ; De arte cabalistica (1517)
+voir: kabbale-chretienne, de-arte-cabalistica, tetragramme, pic-de-la-mirandole, pythagore
 
 @ jean-tritheme
 cat: figures
 nom: Jean Trithème
-alias: Johannes Trithemius, Trithemius, Tritheme, Steganographia, abbé de Sponheim
+alias: Johannes Trithemius, Trithemius, Tritheme, Steganographia, abbé de Sponheim, Polygraphie
 dates: 1462 – 1516
 an: 1462
 def: Abbé bénédictin allemand, bibliophile et historien, auteur d'un traité de magie angélique qui se révéla être un manuel de cryptographie.
-texte: Abbé de Sponheim à vingt et un ans, Trithème fait de son monastère une bibliothèque célèbre, puis devient abbé de Saint-Jacques de Würzburg. Historien et polygraphe, il est aussi un connaisseur réputé de la magie : il échange avec [[cornelius-agrippa]], qui lui dédie la première version de sa *Philosophie occulte*, et passe pour avoir eu [[paracelse]] parmi ses élèves.
-texte: Sa *[[steganographia|Steganographia]]*, écrite vers 1499 et imprimée en 1606, semble enseigner à transmettre des messages à distance grâce à des anges ; elle est mise à l'Index. Dans les années 1990, deux chercheurs ont montré, chacun de son côté, que son troisième livre, réputé purement magique, cache lui aussi un système de chiffrement. Sa *Polygraphie* (1518) est le premier livre imprimé consacré à la cryptographie.
-oeuvres: Steganographia (vers 1499, imprimée en 1606) ; Polygraphia (1518)
-voir: steganographia, cornelius-agrippa, anges, magie-ceremonielle
+texte: Johannes Heidenberg naît en 1462 à Trittenheim, sur la Moselle, dont il tirera son nom. Enfant pauvre, il apprend à lire malgré un beau-père hostile, étudie à Heidelberg et, surpris en 1482 par une tempête de neige, se réfugie à l'abbaye bénédictine de Sponheim, où il prend l'habit. Un an plus tard, à vingt et un ans, il en est élu abbé. Il fait de ce monastère pauvre une bibliothèque célèbre de près de deux mille volumes, que les savants viennent visiter de toute l'Europe.
+texte: Historien et polygraphe, il écrit une bibliographie de près de mille auteurs ecclésiastiques, un éloge des copistes et des chroniques, dans lesquelles il n'hésite pas à inventer des sources. Il est aussi un connaisseur réputé de la magie : en 1499, une lettre où il décrit sa *Stéganographie*, art de transmettre des messages à distance grâce à des esprits, tombe entre de mauvaises mains et lui vaut une réputation de nécromancien. En 1505, ses moines se révoltent contre son autorité ; il devient l'année suivante abbé de Saint-Jacques de Würzburg.
+texte: L'empereur Maximilien le consulte sur la magie et les sorcières, et Trithème lui répond par un traité qui distingue la magie naturelle, licite, de la sorcellerie, qu'il faut combattre durement. Dans un autre traité, il soutient que sept anges planétaires gouvernent tour à tour l'histoire du monde, par périodes de trois cent cinquante-quatre ans. Il échange avec [[cornelius-agrippa]], qui lui dédie la première version de sa *Philosophie occulte*, et passe pour avoir eu [[paracelse]] parmi ses élèves. La légende raconte qu'il fit apparaître devant Maximilien l'ombre de sa première épouse défunte.
+texte: Sa *[[steganographia|Steganographia]]*, imprimée en 1606, est mise à l'Index. Ses deux premiers livres cachent, sous l'apparence d'invocations d'anges, des procédés de chiffrement ; le troisième passait pour purement magique jusqu'à ce que, dans les années 1990, deux chercheurs montrent chacun de son côté qu'il dissimule lui aussi un code. Sa *Polygraphie*, publiée en 1518, est le premier livre imprimé consacré à la cryptographie : Trithème est ainsi l'un des fondateurs de cette science.
+repere: 1462 — Naissance à Trittenheim, sur la Moselle.
+repere: 1482 — Surpris par une tempête de neige, il entre à l'abbaye de Sponheim.
+repere: 1483 — Élu abbé de Sponheim, à vingt et un ans.
+repere: 1499 — Une lettre décrivant sa *Stéganographie* le fait passer pour un magicien.
+repere: 1506 — Après une révolte de ses moines, il devient abbé de Saint-Jacques de Würzburg.
+repere: 1508 — Il répond aux questions de l'empereur Maximilien sur la magie et les sorcières.
+repere: 1510 — [[cornelius-agrippa|Corneille Agrippa]] lui dédie la première version de sa *Philosophie occulte*.
+repere: 1516 — Mort à Würzburg.
+repere: 1518 — Publication de la *Polygraphie*, premier livre imprimé de cryptographie.
+repere: 1606 — Première édition de la *Steganographia*.
+repere: 1998 — Le mathématicien Jim Reeds publie le déchiffrement du troisième livre, après Thomas Ernst.
+oeuvres: Des écrivains ecclésiastiques (1494) ; Steganographia (vers 1499, imprimée en 1606) ; Polygraphia (1518)
+voir: steganographia, cornelius-agrippa, anges, magie-ceremonielle, paracelse
 
 @ cornelius-agrippa
 cat: figures
 nom: Corneille Agrippa
-alias: Heinrich Cornelius Agrippa, Agrippa von Nettesheim, Cornelius Agrippa, Agrippa
+alias: Heinrich Cornelius Agrippa, Agrippa von Nettesheim, Cornelius Agrippa, Agrippa, De occulta philosophia
 dates: 1486 – 1535
 an: 1486
 def: Savant allemand de la Renaissance, auteur du De occulta philosophia, la grande synthèse de la magie savante, avant d'en proclamer la vanité.
-texte: Né à Cologne, Agrippa mène une vie errante de soldat, de juriste, de médecin et de professeur, en France, en Italie, en Suisse et aux Pays-Bas. À Metz, en 1519, il défend avec succès une femme accusée de sorcellerie. Dès 1510, il compose le *[[de-occulta-philosophia|De occulta philosophia]]*, qu'il publie remanié en 1533 : le traité rassemble tout ce que la Renaissance savait de la [[magie-naturelle]], de la magie céleste et de la magie cérémonielle, avec des tables de [[carre-magique|carrés magiques]], de sceaux et d'alphabets.
-texte: Paradoxalement, il publie en 1530 un pamphlet sceptique, *De l'incertitude et de la vanité des sciences*, qui n'épargne pas la magie. La légende en fait un sorcier suivi d'un chien noir démoniaque, modèle du Faust de la légende ; un *Quatrième livre de philosophie occulte*, rituel de conjuration paru après sa mort, lui est faussement attribué.
-oeuvres: De occulta philosophia (rédigé en 1510, publié en 1531-1533) ; De l'incertitude et de la vanité des sciences (1530)
-voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman
+texte: Né à Cologne en 1486, dans une famille de petite noblesse au service de l'empereur, Agrippa étudie dans sa ville natale puis sert Maximilien comme soldat et secrétaire. Sa vie sera errante : juriste, médecin, professeur, soldat, il passe en France, en Angleterre, en Italie, en Suisse et aux Pays-Bas, toujours à court d'argent et toujours en querelle. En 1509, à Dole, ses leçons sur la kabbale de [[jean-reuchlin|Reuchlin]] le font accuser d'hérésie par un franciscain.
+texte: En 1510, il rend visite à l'abbé [[jean-tritheme|Trithème]], à Würzburg, et lui dédie la première version du *[[de-occulta-philosophia|De occulta philosophia]]*. En Italie, où il passe sept ans, il commente à Pavie le *Pimandre* d'Hermès et fréquente les kabbalistes. Avocat de la ville de Metz, il obtient en 1519 la libération d'une paysanne accusée de sorcellerie parce que sa mère avait été brûlée. Médecin de Louise de Savoie, mère de François Ier, il perd sa faveur en refusant de lui faire des prédictions astrologiques ; il devient ensuite historiographe de Marguerite d'Autriche aux Pays-Bas.
+texte: Il publie en 1530 un pamphlet sceptique, *De l'incertitude et de la vanité des sciences*, qui n'épargne aucun savoir, pas même la magie, puis, à partir de 1531, le *De occulta philosophia* remanié et augmenté. Ses trois livres correspondent aux trois mondes : le monde élémentaire, objet de la [[magie-naturelle|magie naturelle]] — vertus des plantes, des pierres, des animaux, [[sympathie-universelle|sympathies]] et antipathies ; le monde céleste, objet de la magie mathématique — nombres, [[carre-magique|carrés magiques]] des planètes, sceaux et images astrologiques ; le monde intellectuel, objet de la magie cérémonielle — noms divins, [[anges]], [[kabbale]], alphabets secrets. C'est la grande somme de la magie savante de la Renaissance. Il avait écrit dès sa jeunesse un éloge de la supériorité des femmes.
+texte: Emprisonné un temps pour dettes à Bruxelles, puis arrêté en France pour avoir médit de la reine mère, il meurt à Grenoble en 1535. Sa légende le fait suivre d'un chien noir démoniaque, que son disciple [[jean-wier|Jean Wier]], l'adversaire des procès de sorcellerie, décrit comme un chien bien ordinaire. Un *Quatrième livre de philosophie occulte*, rituel de conjuration paru après sa mort, lui est faussement attribué.
+texte: Agrippa est devenu le magicien type : le Faust de Marlowe veut l'égaler, le héros de *Frankenstein* se perd dans la lecture de ses livres. Son traité, recopié en anglais par [[francis-barrett|Francis Barrett]] dans *The Magus* en 1801, a nourri toute la magie cérémonielle moderne, de la [[golden-dawn|Golden Dawn]] aux occultistes d'aujourd'hui.
+repere: 1486 — Naissance à Cologne.
+repere: 1509 — À Dole, ses leçons sur la kabbale le font accuser d'hérésie.
+repere: 1510 — Il rend visite à l'abbé Trithème et lui dédie la première version du *De occulta philosophia*.
+repere: 1515 — À Pavie, il commente le *Pimandre* d'Hermès.
+repere: 1519 — Avocat de la ville de Metz, il obtient la libération d'une femme accusée de sorcellerie.
+repere: 1524 — Médecin de Louise de Savoie, mère de François Ier, à Lyon.
+repere: 1530 — *De l'incertitude et de la vanité des sciences*.
+repere: 1533 — Édition complète du *De occulta philosophia*, à Cologne.
+repere: 1535 — Mort à Grenoble.
+repere: 1563 — Son disciple Jean Wier publie *Des illusions des démons*, contre la chasse aux sorcières.
+oeuvres: De la noblesse et de la préexcellence du sexe féminin (1529) ; De l'incertitude et de la vanité des sciences (1530) ; De occulta philosophia (rédigé en 1510, publié en 1531-1533)
+voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman, intelligences-planetaires
 
 @ paracelse
 cat: figures
@@ -68,21 +131,46 @@ alias: Paracelsus, Theophrastus von Hohenheim, Théophraste Bombast de Hohenheim
 dates: 1493 – 1541
 an: 1493
 def: Médecin et philosophe suisse, réformateur radical de la médecine, qui fonda la thérapeutique sur la chimie et une philosophie de la nature mêlant alchimie, astrologie et foi chrétienne.
-texte: Né près d'Einsiedeln, fils de médecin, Paracelse parcourt l'Europe comme chirurgien militaire et médecin itinérant. Nommé à Bâle en 1527, il enseigne en allemand plutôt qu'en latin et brûle publiquement un manuel de médecine classique ; il doit fuir la ville l'année suivante. Il meurt à Salzbourg en 1541. Contre la médecine des humeurs héritée de Galien, il soutient que chaque maladie a sa cause spécifique et son remède, et que l'[[alchimie]] doit servir à préparer des médicaments, non à faire de l'or : c'est la [[iatrochimie]]. « C'est la dose qui fait le poison », écrit-il.
-texte: Sa philosophie unit le [[microcosme-macrocosme|microcosme et le macrocosme]] : l'homme contient en lui les astres et les éléments. Il ajoute aux quatre éléments les [[tria-prima|trois principes]], sel, soufre et mercure, et décrit l'[[archee|archée]], force vitale qui gouverne chaque organisme. On lui doit aussi un traité sur les esprits des éléments — nymphes, sylphes, pygmées et salamandres —, source des [[elementaux]] de l'occultisme.
-oeuvres: Paragranum (1530) ; Grande Chirurgie (1536) ; Astronomia magna (1537-1538) ; Liber de nymphis, sylphis, pygmaeis et salamandris (publié en 1566)
+texte: Theophrastus Bombast von Hohenheim naît en 1493 près d'Einsiedeln, en Suisse, fils d'un médecin. Sa mère meurt tôt et son père s'installe en 1502 à Villach, en Carinthie, ville de mines où l'enfant découvre la métallurgie et les maladies des mineurs. Il dit avoir été reçu docteur à Ferrare, ce qu'aucun document ne confirme. Le nom de Paracelse, qu'il adopte vers 1529, signifie peut-être « au-delà de Celse », le grand médecin romain.
+texte: Pendant plus de dix ans, il parcourt l'Europe comme chirurgien militaire et médecin itinérant, apprenant, dit-il, auprès des barbiers, des bourreaux, des alchimistes et des vieilles femmes autant que dans les livres. En 1527, après avoir soigné le grand imprimeur Froben, il est nommé médecin de la ville de Bâle et professeur ; il enseigne en allemand plutôt qu'en latin et jette au feu de la Saint-Jean un manuel de médecine classique. Brouillé avec les médecins et les magistrats, il doit fuir la ville l'année suivante.
+texte: Il reprend une vie errante, en Alsace, en Bavière, en Suisse, au Tyrol, soignant la peste, écrivant sans relâche sur la médecine, la nature et la théologie, et se heurtant partout aux autorités. Il ne connaît le succès de librairie qu'avec sa *Grande Chirurgie*, en 1536. Il meurt à Salzbourg en 1541, à quarante-sept ans. Presque toutes ses œuvres sont publiées après sa mort.
+texte: Contre la médecine des humeurs héritée de Galien, il soutient que chaque maladie a sa cause spécifique et son remède, et que l'[[alchimie]] doit servir à préparer des médicaments, non à faire de l'or : c'est la [[iatrochimie]]. Il emploie des remèdes minéraux, mercure, antimoine, arsenic, à doses contrôlées : « C'est la dose qui fait le poison. » Il décrit le premier les maladies des mineurs, l'une des origines de la médecine du travail.
+texte: Sa philosophie unit le [[microcosme-macrocosme|microcosme et le macrocosme]] : l'homme contient en lui les astres et les éléments, et le médecin doit lire la « lumière de la nature ». Il ajoute aux quatre éléments les [[tria-prima|trois principes]], sel, soufre et mercure, décrit l'[[archee|archée]], force vitale qui gouverne chaque organisme, et reprend la doctrine des [[signatures]]. Son traité sur les esprits des éléments — nymphes, sylphes, pygmées et salamandres — est la source des [[elementaux]] de l'occultisme. Ses disciples, les [[paracelsisme|paracelsiens]], domineront la chimie médicale et la philosophie de la nature pendant un siècle.
+repere: 1493 — Naissance près d'Einsiedeln, en Suisse.
+repere: 1502 — Sa famille s'installe à Villach, en Carinthie, ville de mines.
+repere: vers 1516 — Il dit avoir reçu le titre de docteur à Ferrare.
+repere: 1527 — Médecin de la ville de Bâle et professeur ; il brûle publiquement un manuel de médecine classique.
+repere: 1528 — Brouillé avec les autorités, il fuit Bâle.
+repere: 1530 — *Paragranum*, manifeste de sa médecine.
+repere: 1536 — *La Grande Chirurgie*, son seul grand succès de librairie.
+repere: 1541 — Mort à Salzbourg.
+repere: 1589 — Johann Huser commence l'édition de ses œuvres complètes.
+oeuvres: Paragranum (1530) ; Opus paramirum (1531) ; Grande Chirurgie (1536) ; Astronomia magna (1537-1538) ; Liber de nymphis, sylphis, pygmaeis et salamandris (publié en 1566)
 voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie
 
 @ guillaume-postel
 cat: figures
 nom: Guillaume Postel
-alias: Postel, Mère Jeanne
+alias: Postel, Mère Jeanne, restitution de toutes choses
 dates: 1510 – 1581
 an: 1510
 def: Orientaliste et visionnaire français, premier traducteur latin du Zohar, qui rêva d'une concorde universelle entre les religions sous l'égide du roi de France.
-texte: Lecteur royal de langues orientales à Paris dès 1539, Postel voyage à Constantinople et en Orient, rapporte des manuscrits arabes et hébreux et publie la première grammaire arabe imprimée en France. Il traduit en latin le *[[sefer-yetsirah|Sefer Yetsirah]]*, imprimé en 1552, et une grande partie du *[[zohar|Zohar]]*, restée manuscrite. Pour lui, la [[kabbale]] contient la vérité primitive qui permettra de réconcilier juifs, chrétiens et musulmans.
-texte: À Venise, il rencontre une religieuse, la « Mère Jeanne », en qui il voit la Nouvelle Ève, incarnation féminine du Christ, et se dit lui-même transformé par l'esprit de cette femme. Jugé fou plutôt qu'hérétique, il passe les dix-huit dernières années de sa vie reclus au prieuré de Saint-Martin-des-Champs, à Paris, où il continue d'écrire et de recevoir.
-voir: kabbale-chretienne, zohar, sefer-yetsirah
+texte: Né en 1510 à Barenton, en Normandie, Guillaume Postel perd très jeune ses parents, emportés par la peste. Il étudie à Paris comme domestique d'autres étudiants et apprend seul le grec et l'hébreu. En 1535, il accompagne l'ambassade que François Ier envoie à Constantinople pour sceller l'alliance avec les Ottomans ; il y apprend l'arabe et le turc et rapporte des manuscrits. Il publie un recueil des alphabets de douze langues et la première grammaire arabe imprimée en France, et devient en 1539 lecteur royal de langues orientales, au collège qui deviendra le Collège de France.
+texte: Disgracié en 1543, il entre chez les jésuites à Rome, auprès d'Ignace de Loyola, qui le renvoie au bout d'un an : ses idées sur la monarchie universelle du roi de France inquiètent. Car Postel a un grand dessein, exposé dans *De la concorde du monde* (1544) : réconcilier juifs, chrétiens et musulmans par la raison et par la vérité primitive que contient, selon lui, la [[kabbale]], et réunir l'humanité sous un seul roi, celui de France, héritier du premier roi du monde.
+texte: À Venise, en 1547, aumônier d'un hôpital, il rencontre une religieuse âgée, la « Mère Jeanne », en qui il voit la Nouvelle Ève, incarnation féminine du Christ, mère du monde. Après sa mort, il dit avoir reçu en lui son esprit, au point d'être « immué », transformé. Il traduit en latin le *[[sefer-yetsirah|Sefer Yetsirah]]*, imprimé en 1552, et une grande partie du *[[zohar|Zohar]]*, restée manuscrite ; il est aussi le premier à traduire en latin l'Évangile apocryphe de Jacques.
+texte: En 1555, l'Inquisition de Venise le juge fou plutôt qu'hérétique ; il est enfermé à Rome jusqu'en 1559, quand la foule force les prisons à la mort du pape Paul IV. Revenu à Paris, il est assigné à résidence au prieuré de Saint-Martin-des-Champs, où il passe les dix-huit dernières années de sa vie, rétractant ses erreurs, écrivant et recevant les savants qui viennent le consulter. Il meurt en 1581.
+texte: Oublié puis redécouvert, Postel a été rendu à l'histoire par les travaux de François Secret dans les années 1960, qui ont montré la place de la [[kabbale-chretienne|kabbale chrétienne]] dans la Renaissance française. Son rêve d'une concorde des religions et d'une « restitution de toutes choses » annonce l'universalisme de bien des ésotéristes.
+repere: 1510 — Naissance à Barenton, en Normandie.
+repere: 1535 — Il accompagne l'ambassade de France à Constantinople et y apprend l'arabe.
+repere: 1538 — Il publie les alphabets de douze langues, puis une grammaire arabe.
+repere: 1539 — François Ier le nomme lecteur royal de langues orientales.
+repere: 1544 — *De la concorde du monde* ; il entre chez les jésuites, qui le renvoient l'année suivante.
+repere: 1547 — À Venise, il rencontre la « Mère Jeanne ».
+repere: 1552 — Il publie sa traduction latine du *Sefer Yetsirah*.
+repere: 1555 — L'Inquisition de Venise le déclare fou ; il est emprisonné à Rome jusqu'en 1559.
+repere: vers 1563 — Assigné à résidence au prieuré de Saint-Martin-des-Champs, à Paris.
+repere: 1581 — Mort à Paris.
+voir: kabbale-chretienne, zohar, sefer-yetsirah, kabbale
 
 @ nostradamus
 cat: figures
@@ -91,22 +179,51 @@ alias: Michel de Nostredame, Nostredame, Centuries, Prophéties
 dates: 1503 – 1566
 an: 1503
 def: Médecin et astrologue provençal, auteur d'almanachs et de quatrains prophétiques obscurs, les Centuries, dont les interprétations n'ont jamais cessé depuis le XVIe siècle.
-texte: Né à Saint-Rémy-de-Provence, Michel de Nostredame soigne les malades de la peste et publie un traité de recettes de confitures et de fards. À partir de 1550, il fait paraître chaque année un almanach de prédictions, puis, en 1555, les premiers de ses *Prophéties* : des quatrains rimés, groupés par centaines (d'où le nom de « Centuries »), écrits dans une langue volontairement énigmatique. Catherine de Médicis le consulte, et Charles IX le nomme médecin ordinaire en 1564.
-texte: La réputation des Centuries vient de leur obscurité même : sans dates ni noms clairs, les quatrains ont été rapportés après coup à la Révolution, à Napoléon, à Hitler ou aux attentats de 2001, mais n'ont jamais permis d'annoncer un événement avant qu'il se produise. Nostradamus était d'abord un astrologue de son temps, qui travaillait avec des éphémérides et des chroniques historiques.
-voir: astrologie, divination, ephemerides
+texte: Michel de Nostredame naît en 1503 à Saint-Rémy-de-Provence, dans une famille de marchands juifs convertis au christianisme une génération plus tôt. Il étudie à Avignon, puis s'inscrit en 1529 à la faculté de médecine de Montpellier. Il s'établit à Agen, s'y marie, puis perd sa femme et ses deux enfants ; il mène ensuite une vie errante d'apothicaire et de médecin, soignant les malades de la peste à Aix-en-Provence en 1546. En 1547, il se fixe à Salon-de-Provence, où il épouse une riche veuve.
+texte: Il publie un traité de recettes de confitures et de fards, et, à partir de 1550, un almanach annuel de prédictions qui le rend célèbre. En 1555 paraissent à Lyon les premières de ses *Prophéties* : des quatrains rimés, groupés par centaines (d'où le nom de « Centuries »), écrits dans une langue volontairement énigmatique, mêlée de latin, de mots rares et d'anagrammes, sans ordre chronologique. L'édition complète, posthume, en compte près de mille.
+texte: Catherine de Médicis le fait venir à la cour en 1556 pour dresser l'horoscope de ses enfants. En 1559, le roi Henri II meurt d'un coup de lance reçu dans l'œil lors d'un tournoi ; on y rapporte aussitôt un quatrain sur un « vieux lion » vaincu en « champ bellique », ce qui assure sa réputation. Lors de son tour de France, en 1564, Charles IX passe à Salon et le nomme conseiller et médecin ordinaire. Il meurt deux ans plus tard.
+texte: La réputation des Centuries vient de leur obscurité même : sans dates ni noms clairs, les quatrains ont été rapportés après coup à la Révolution, à Napoléon, à Hitler ou aux attentats de 2001, mais n'ont jamais permis d'annoncer un événement avant qu'il se produise. Les deux camps de la Seconde Guerre mondiale en ont tiré des tracts de propagande. Les historiens ont retrouvé ses sources : chroniques, recueils de prophéties médiévales, auteurs latins. Ses contemporains se moquaient déjà de ses erreurs de calcul astrologique : Nostradamus était d'abord un astrologue de son temps, habile à envelopper ses prédictions de mystère.
+repere: 1503 — Naissance à Saint-Rémy-de-Provence.
+repere: 1529 — Il s'inscrit à la faculté de médecine de Montpellier.
+repere: 1546 — Il combat la peste à Aix-en-Provence.
+repere: 1547 — Installation à Salon-de-Provence.
+repere: 1550 — Il commence à publier chaque année un almanach de prédictions.
+repere: 1555 — Première édition des *Prophéties*, à Lyon.
+repere: 1556 — Catherine de Médicis le fait venir à la cour.
+repere: 1559 — La mort d'Henri II dans un tournoi assure sa réputation de prophète.
+repere: 1564 — Charles IX le nomme conseiller et médecin ordinaire.
+repere: 1566 — Mort à Salon-de-Provence.
+repere: 1568 — Édition posthume des dix Centuries.
+oeuvres: Traité des fardements et confitures (1555) ; Les Prophéties (1555, édition complète en 1568) ; almanachs annuels (à partir de 1550)
+voir: astrologie, divination, ephemerides, voyance
 
 @ john-dee
 cat: figures
 nom: John Dee
-alias: Dee, docteur Dee, Mortlake, Monas
+alias: Dee, docteur Dee, Mortlake, Monas, Enoch
 dates: 1527 – 1608 ou 1609
 an: 1527
 def: Mathématicien, astrologue et conseiller d'Élisabeth Ire, qui chercha dans des conversations avec les anges, au moyen d'une pierre de vision, la clé de la connaissance universelle.
-texte: Esprit encyclopédique, Dee réunit à Mortlake, près de Londres, l'une des plus grandes bibliothèques d'Angleterre, enseigne la navigation aux explorateurs, écrit une célèbre préface à la traduction anglaise d'Euclide (1570) et forge l'idée d'un « empire britannique ». Astrologue de la reine, il choisit la date de son couronnement en 1559. Sa *[[monas-hieroglyphica|Monas hieroglyphica]]* (1564) condense en un seul signe toute la sagesse cosmique.
-texte: À partir de 1582, déçu des limites du savoir humain, il entreprend avec le voyant [[edward-kelley]] des séances où des anges, vus dans une pierre de cristal ou un miroir d'obsidienne, leur dictent une langue et un système magique, la [[magie-enochienne|magie énochienne]]. Les deux hommes parcourent la Pologne et la Bohême, jusqu'à la cour de l'empereur Rodolphe II. Dee meurt pauvre et oublié ; son miroir est conservé au British Museum.
-oeuvres: Propaedeumata aphoristica (1558) ; Monas hieroglyphica (1564) ; préface à l'Euclide anglais (1570)
+texte: Né à Londres en 1527, fils d'un officier de la maison d'Henri VIII d'origine galloise, John Dee étudie à Cambridge et devient en 1546 l'un des premiers membres du Trinity College, où un scarabée volant qu'il fabrique pour une pièce d'Aristophane lui vaut déjà une réputation de magicien. Il étudie à Louvain avec le cosmographe Gemma Frisius et Mercator ; ses leçons sur Euclide attirent les foules à Paris en 1550.
+texte: Sous Marie Tudor, il est arrêté en 1555 pour avoir dressé l'horoscope de la reine et de sa sœur Élisabeth, puis libéré. Devenu l'astrologue d'Élisabeth Ire, il choisit la date de son couronnement en 1559. Esprit encyclopédique, il réunit à Mortlake, près de Londres, la plus grande bibliothèque d'Angleterre, plus de trois mille livres et manuscrits ; il enseigne la navigation aux explorateurs qui cherchent le passage du Nord-Ouest, écrit une célèbre préface à la traduction anglaise d'Euclide (1570), qui célèbre les mathématiques comme clé de tous les arts, et forge l'idée d'un « empire britannique ». Sa *[[monas-hieroglyphica|Monas hieroglyphica]]* (1564) condense en un seul signe toute la sagesse cosmique.
+texte: Déçu des limites du savoir humain, il cherche à partir de 1581 à consulter directement les anges. Avec le voyant [[edward-kelley]], à partir de 1582, il tient des séances où des anges, vus dans une pierre de cristal ou un miroir d'obsidienne, leur dictent une langue, des tables de lettres et un système magique, la [[magie-enochienne|magie énochienne]]. Dee note tout scrupuleusement. En 1583, les deux hommes partent avec leurs familles pour la Pologne et la Bohême, jusqu'à la cour de l'empereur [[rodolphe-ii|Rodolphe II]], puis chez le seigneur de Rosenberg, à Třeboň.
+texte: Revenu en Angleterre en 1589, Dee trouve sa bibliothèque pillée. Il obtient la direction d'un collège à Manchester, mais les accusations de sorcellerie le poursuivent, et le roi Jacques Ier, auteur d'un traité de démonologie, ne le protège pas. Il meurt pauvre et oublié à Mortlake, en 1608 ou 1609.
+texte: En 1659, Méric Casaubon publie une partie de ses journaux de séances pour discréditer à la fois Dee et les enthousiastes religieux ; d'autres manuscrits, retrouvés dans le tiroir secret d'un coffre, passent à [[elias-ashmole]]. Le système énochien a été repris par la [[golden-dawn|Golden Dawn]] et par [[aleister-crowley]]. Son miroir d'obsidienne, venu du Mexique aztèque, est conservé au British Museum. [[frances-yates]] a fait de lui la figure centrale de la « philosophie occulte » de l'âge élisabéthain.
+repere: 1527 — Naissance à Londres.
+repere: 1546 — Membre fondateur du Trinity College de Cambridge.
+repere: 1550 — Ses leçons sur Euclide attirent les foules à Paris.
+repere: 1555 — Arrêté pour avoir dressé l'horoscope de la reine Marie, puis libéré.
+repere: 1559 — Il choisit par l'astrologie la date du couronnement d'Élisabeth Ire.
+repere: 1564 — *Monas hieroglyphica*, publiée à Anvers.
+repere: 1570 — Préface mathématique à la traduction anglaise d'Euclide.
+repere: 1582 — Début des séances avec Edward Kelley.
+repere: 1583 — Départ pour la Pologne et la Bohême.
+repere: 1589 — Retour en Angleterre ; il trouve sa bibliothèque pillée.
+repere: 1608 ou 1609 — Mort à Mortlake, dans la pauvreté.
+repere: 1659 — Méric Casaubon publie ses journaux de séances pour le discréditer.
+oeuvres: Propaedeumata aphoristica (1558) ; Monas hieroglyphica (1564) ; préface à l'Euclide anglais (1570) ; General and Rare Memorials pertayning to the Perfect Arte of Navigation (1577)
 schema: monade-hieroglyphique
-voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie
+voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie, elias-ashmole
 
 @ edward-kelley
 cat: figures
@@ -115,31 +232,67 @@ alias: Edward Kelly, Talbot, Kelley
 dates: 1555 – 1597 ou 1598
 an: 1555
 def: Alchimiste et voyant anglais, compagnon de John Dee, qui servit d'intermédiaire dans ses conversations avec les anges, puis fit carrière d'alchimiste à la cour de Bohême.
-texte: Kelley entre au service de [[john-dee]] en 1582 comme « scryeur » : c'est lui qui voit les anges dans la pierre et rapporte leurs paroles, que Dee note scrupuleusement. Une rumeur tenace, invérifiable, prétend qu'il avait eu les oreilles coupées pour faux en écriture. En 1587, il annonce que les anges ordonnent aux deux hommes de partager leurs épouses, ce qui précipite leur séparation.
-texte: Resté en Bohême, Kelley prétend posséder une poudre de projection et devient alchimiste de l'empereur Rodolphe II, qui l'anoblit. Incapable de produire l'or promis, il est emprisonné et meurt captif, peut-être en tentant de s'évader. Le débat sur sa sincérité n'a jamais été tranché.
-voir: john-dee, magie-enochienne, cristallomancie, transmutation
+texte: Né à Worcester en 1555, Edward Kelley a peut-être été clerc de notaire ; une rumeur tenace, rapportée plus tard et invérifiable, prétend qu'il avait eu les oreilles coupées pour faux en écriture. Il se présente en 1582 à [[john-dee]] sous le nom d'Edward Talbot et entre à son service comme « scryeur » : c'est lui qui voit les anges dans la pierre de cristal et rapporte leurs paroles, que Dee note scrupuleusement.
+texte: Pendant sept ans, Kelley transmet ainsi une langue inconnue, l'énochien, des invocations et des tables de lettres, souvent dictées à l'envers, lettre par lettre. Son caractère est orageux : il menace souvent de tout arrêter, doute de la nature des esprits, se querelle avec Dee. Il prétend aussi posséder une poudre de projection et un livre alchimique trouvés, dit-on, dans les ruines d'une abbaye.
+texte: En Bohême, en 1587, il annonce que les anges ordonnent aux deux hommes de partager leurs épouses ; Dee obéit, après bien des scrupules, et un pacte est signé. Peu après, leurs chemins se séparent. Resté en Bohême, Kelley devient l'alchimiste de l'empereur [[rodolphe-ii|Rodolphe II]], qui l'anoblit et lui donne des terres ; la reine Élisabeth elle-même tente de le faire revenir en Angleterre.
+texte: Incapable de produire l'or promis, et compromis dans un duel où il a tué un homme, il est emprisonné en 1591 au château de Křivoklát, libéré, puis de nouveau incarcéré au château de Most, où il meurt vers 1597, peut-être des suites d'une chute en tentant de s'évader. On lui attribue des traités sur la pierre philosophale, publiés au siècle suivant.
+texte: Escroc habile ou médium sincère ? Le débat n'a jamais été tranché. Sans lui, pourtant, il n'y aurait pas de [[magie-enochienne|magie énochienne]], que la [[golden-dawn|Golden Dawn]] puis [[aleister-crowley]] ont reprise. Prague garde son souvenir dans la légende de la « maison de Faust ».
+repere: 1555 — Naissance à Worcester.
+repere: 1582 — Il se présente à John Dee sous le nom d'Edward Talbot et devient son voyant.
+repere: 1583 — Départ avec Dee pour la Pologne et la Bohême.
+repere: 1587 — Les anges ordonnent, selon lui, le partage des épouses ; un pacte est signé à Třeboň.
+repere: 1589 — Séparé de Dee, il reste en Bohême, où l'empereur Rodolphe II l'anoblit.
+repere: 1591 — Emprisonné au château de Křivoklát.
+repere: 1597 — De nouveau prisonnier, au château de Most, il meurt peu après.
+voir: john-dee, magie-enochienne, cristallomancie, transmutation, alchimie
 
 @ giordano-bruno
 cat: figures
 nom: Giordano Bruno
-alias: Bruno, le Nolain, Nolanus, univers infini
+alias: Bruno, le Nolain, Nolanus, univers infini, Campo de' Fiori
 dates: 1548 – 1600
 an: 1548
 def: Philosophe italien, ancien dominicain, qui défendit un univers infini peuplé de mondes innombrables, pratiqua l'art de la mémoire et la magie, et fut brûlé par l'Inquisition.
-texte: Né à Nola, près de Naples, Bruno quitte l'ordre dominicain et mène une vie errante à Genève, Toulouse, Paris, Londres, Wittenberg et Prague. Il pousse la révolution de Copernic bien au-delà de ce que pensait l'astronome : l'univers est infini, les étoiles sont des soleils entourés de planètes, et une âme divine anime le tout. Il développe un [[art-de-la-memoire|art de la mémoire]] fondé sur des images magiques et des roues combinatoires inspirées de [[raymond-lulle]], et écrit sur les liens magiques qui unissent les êtres.
-texte: Livré à l'Inquisition romaine, il refuse de se rétracter et meurt sur le bûcher, au Campo de' Fiori, le 17 février 1600. L'historienne [[frances-yates]] a fait de lui un mage hermétiste, ce que d'autres spécialistes jugent excessif ; il est en tout cas devenu un symbole de la liberté de pensée.
-voir: art-de-la-memoire, hermetisme, raymond-lulle, frances-yates, ame-du-monde
+texte: Filippo Bruno naît en 1548 à Nola, près de Naples, et entre à dix-sept ans chez les Dominicains de Naples, où il prend le nom de Giordano. Esprit brillant et indocile, il est soupçonné d'hérésie et quitte son couvent en 1576. Commence alors une longue errance : Genève, où les calvinistes l'excommunient ; Toulouse, où il enseigne ; Paris, où le roi Henri III, intrigué par sa mémoire prodigieuse, le prend sous sa protection. Il y publie *Des ombres des idées*, traité de l'[[art-de-la-memoire|art de la mémoire]].
+texte: À Londres, de 1583 à 1585, hôte de l'ambassadeur de France, il publie ses grands dialogues italiens. Il y pousse la révolution de Copernic bien au-delà de ce que pensait l'astronome : l'univers est infini, les étoiles sont des soleils entourés de planètes peut-être habitées, et une âme divine anime le tout ; il n'y a ni centre ni circonférence. Dans *L'Expulsion de la bête triomphante*, il fait l'éloge de la religion des anciens Égyptiens, qui adoraient le divin présent dans la nature.
+texte: Il passe ensuite par Paris, Wittenberg, Prague, Helmstedt et Francfort, où il publie de grands poèmes latins. Son art de la mémoire, fondé sur des images magiques, des sceaux et des roues combinatoires inspirées de [[raymond-lulle]], doit permettre à l'esprit de s'unir aux formes du monde. Dans *Des liens en général*, il décrit la manière dont le magicien, comme l'amant ou l'orateur, lie les âmes par l'imagination.
+texte: Invité à Venise en 1591 par un patricien, Giovanni Mocenigo, qui veut apprendre ses secrets, il est dénoncé par lui l'année suivante et livré à l'Inquisition. Transféré à Rome, il subit un procès de sept ans, refuse de se rétracter et meurt sur le bûcher, au Campo de' Fiori, le 17 février 1600. Selon un témoin, il aurait dit à ses juges : « Vous éprouvez peut-être plus de crainte à prononcer cette sentence que moi à la recevoir. »
+texte: En 1889, une statue lui est élevée sur le lieu de son supplice, et il devient un symbole de la liberté de pensée. L'historienne [[frances-yates]], en 1964, a fait de lui un mage hermétiste qui voulait restaurer la religion égyptienne ; d'autres spécialistes jugent cette lecture trop exclusive et insistent sur le philosophe de la nature. Bruno reste, en tout cas, l'un des esprits les plus audacieux de la Renaissance.
+repere: 1548 — Naissance à Nola, près de Naples.
+repere: 1565 — Il entre chez les Dominicains de Naples.
+repere: 1576 — Soupçonné d'hérésie, il quitte son couvent.
+repere: 1582 — À Paris, *Des ombres des idées*, dédié au roi Henri III.
+repere: 1584 — À Londres, *Le Banquet des Cendres* et *De l'infini, de l'univers et des mondes*.
+repere: 1586 — Il enseigne à Wittenberg.
+repere: 1591 — Poèmes latins publiés à Francfort ; il rentre en Italie à l'invitation d'un patricien vénitien.
+repere: 1592 — Dénoncé par son hôte, il est arrêté par l'Inquisition de Venise.
+repere: 1593 — Transféré à Rome, où son procès dure sept ans.
+repere: 1600 — Brûlé vif au Campo de' Fiori, le 17 février.
+repere: 1889 — Une statue lui est élevée sur le lieu de son supplice.
+repere: 1964 — [[frances-yates|Frances Yates]] publie *Giordano Bruno et la tradition hermétique*.
+oeuvres: Des ombres des idées (1582) ; Le Banquet des Cendres (1584) ; De l'infini, de l'univers et des mondes (1584) ; L'Expulsion de la bête triomphante (1584) ; Des fureurs héroïques (1585)
+voir: art-de-la-memoire, hermetisme, raymond-lulle, frances-yates, ame-du-monde, egyptosophie
 
 @ isaac-louria
 cat: figures
 nom: Isaac Louria
-alias: Isaac Luria, l'Ari, Ari, kabbale lourianique, Safed
+alias: Isaac Luria, l'Ari, Ari, kabbale lourianique, Safed, Hayyim Vital
 dates: 1534 – 1572
 an: 1534
 def: Kabbaliste de Safed, en Galilée, dont l'enseignement sur la contraction de Dieu, la brisure des vases et la réparation du monde renouvela la kabbale.
-texte: Né à Jérusalem, élevé en Égypte, Isaac Louria s'installe à Safed en 1570, où vit une brillante communauté de kabbalistes après l'expulsion des juifs d'Espagne. Il y meurt deux ans plus tard, emporté par une épidémie, à trente-huit ans. Il n'a presque rien écrit ; son disciple Hayyim Vital met par écrit son enseignement, notamment dans *L'Arbre de vie*.
-texte: Le mythe lourianique raconte que Dieu, pour faire place au monde, s'est d'abord retiré en lui-même : c'est le [[tsimtsoum]]. La lumière qu'il a ensuite émise dans des réceptacles les a fait éclater : c'est la [[chevirat-ha-kelim|brisure des vases]], dont les éclats, mêlés d'étincelles divines, forment les puissances du mal. L'homme, par la prière et l'accomplissement des commandements, doit relever ces étincelles : c'est le [[tikkoun]], la réparation du monde.
-voir: tsimtsoum, chevirat-ha-kelim, tikkoun, kabbale, adam-kadmon
+texte: Isaac Louria naît à Jérusalem en 1534, d'un père venu d'Europe centrale et d'une mère séfarade. Orphelin de père, il est emmené enfant au Caire, chez un oncle fermier des impôts, dont il épousera la fille. Il fait du commerce, étudie le Talmud auprès des plus grands maîtres égyptiens, puis se retire pendant plusieurs années dans une maison au bord du Nil pour étudier le *[[zohar|Zohar]]* dans la solitude ; la légende dit que le prophète Élie venait l'y instruire.
+texte: En 1570, il s'installe à Safed, en Galilée, où vit depuis l'expulsion des juifs d'Espagne une brillante communauté de kabbalistes. Il y suit brièvement les leçons de [[moise-cordovero|Moïse Cordovero]], qui meurt la même année, puis réunit autour de lui une trentaine de disciples. Son enseignement est oral, souvent donné en plein air : il mène ses élèves sur les tombes des maîtres anciens de Galilée, où il pratique des méditations, les « unifications », pour entrer en contact avec les âmes des défunts, et il dit connaître les vies antérieures de chacun. On l'appelle « l'Ari », le Lion, d'après les initiales de son titre.
+texte: Il meurt deux ans plus tard, en 1572, emporté par une épidémie, à trente-huit ans. Il n'a presque rien écrit ; son principal disciple, Hayyim Vital, met par écrit son enseignement, notamment dans *L'Arbre de vie*, qui ne sera imprimé qu'à la fin du XVIIIe siècle.
+texte: Le mythe lourianique raconte que Dieu, l'[[ein-sof|Infini]], pour faire place au monde, s'est d'abord retiré en lui-même : c'est le [[tsimtsoum]]. Dans l'espace vide, il émet une lumière qui forme l'[[adam-kadmon|homme primordial]], puis la verse dans des réceptacles ; trop faibles, ceux-ci éclatent : c'est la [[chevirat-ha-kelim|brisure des vases]]. Leurs éclats, mêlés d'étincelles divines, tombent et forment les [[qlipoth|écorces]], puissances du mal. L'homme, par la prière, l'intention mystique et l'accomplissement des commandements, doit relever ces étincelles : c'est le [[tikkoun]], la réparation du monde, qui hâtera la venue du Messie. Les âmes elles-mêmes transmigrent de corps en corps jusqu'à leur réparation.
+texte: La kabbale lourianique devient en un siècle la doctrine dominante de la mystique juive. Elle prépare le mouvement messianique de [[sabbatai-tsevi|Sabbataï Tsevi]] en 1665, puis nourrit le [[hassidisme|hassidisme]]. La *[[kabbala-denudata|Kabbala denudata]]* de [[knorr-von-rosenroth|Knorr von Rosenroth]] en fait connaître des textes aux chrétiens. [[gershom-scholem]] a lu ce mythe de l'exil divin comme une réponse au traumatisme de l'expulsion d'Espagne, interprétation discutée depuis.
+repere: 1534 — Naissance à Jérusalem.
+repere: vers 1540 — Après la mort de son père, sa mère l'emmène au Caire.
+repere: années 1560 — Retiré au bord du Nil, il étudie le *Zohar* dans la solitude.
+repere: 1570 — Il s'installe à Safed et réunit des disciples.
+repere: 1572 — Mort à Safed, lors d'une épidémie, à trente-huit ans.
+repere: 1677 — La *Kabbala denudata* fait connaître aux chrétiens des textes lourianiques.
+repere: 1782 — Première édition imprimée de *L'Arbre de vie*, la somme de Hayyim Vital.
+voir: tsimtsoum, chevirat-ha-kelim, tikkoun, kabbale, adam-kadmon, qlipoth, reincarnation
 
 @ heinrich-khunrath
 cat: figures
@@ -148,32 +301,64 @@ alias: Khunrath, Amphitheatrum, oratoire-laboratoire
 dates: 1560 – 1605
 an: 1560
 def: Médecin et alchimiste allemand, auteur de l'Amphithéâtre de la sagesse éternelle, dont les gravures unissent alchimie, kabbale chrétienne et prière.
-texte: Disciple de [[paracelse]], Khunrath exerce comme médecin à Hambourg et à Dresde et séjourne en Bohême. Son *[[amphitheatrum|Amphithéâtre de la sagesse éternelle]]* (1595, édition augmentée en 1609) est célèbre pour ses grandes planches circulaires : l'une montre l'alchimiste à genoux dans une pièce qui est à la fois oratoire et laboratoire : la prière et le travail du fourneau n'y font qu'un.
-texte: Pour Khunrath, l'œuvre alchimique est inséparable de la prière et de la contemplation des Écritures et de la nature ; le Christ est la vraie [[pierre-philosophale]]. Il annonce la sensibilité des manifestes [[rose-croix]].
-voir: amphitheatrum, alchimie, kabbale-chretienne, pierre-philosophale, emblemes
+texte: Né à Leipzig en 1560, Heinrich Khunrath étudie la médecine et soutient en 1588 à Bâle des thèses inspirées de [[paracelse]]. Il exerce comme médecin à Hambourg, à Dresde et en Bohême, où il fréquente la cour de l'empereur [[rodolphe-ii|Rodolphe II]] et le seigneur de Rosenberg, protecteur des alchimistes. Il meurt pauvre à quarante-cinq ans, en 1605.
+texte: Son *[[amphitheatrum|Amphithéâtre de la sagesse éternelle]]*, publié en 1595 puis dans une édition posthume augmentée en 1609, se présente comme une sagesse à la fois « chrétienne-kabbalistique, divine-magique et physique-chimique ». Il est célèbre pour ses grandes planches gravées, souvent circulaires. L'une montre l'alchimiste à genoux dans une vaste salle qui est à la fois oratoire et laboratoire, avec cette devise : la prière et le travail du fourneau n'y font qu'un. Une autre place le Christ au cœur d'une rose de lumière ; une troisième montre la citadelle de la Sagesse, aux vingt et une entrées dont une seule mène au but.
+texte: Pour Khunrath, Dieu se révèle à la fois dans l'Écriture et dans le grand livre de la nature, et l'œuvre alchimique est inséparable de la prière et de la contemplation ; le Christ est la vraie [[pierre-philosophale]], et la pierre des philosophes est son image dans la nature. Il mêle à l'alchimie la [[kabbale-chretienne|kabbale chrétienne]] et la méditation des noms divins.
+texte: L'*Amphithéâtre* est condamné en 1625 par la faculté de théologie de Paris. Mais Khunrath annonce la sensibilité des manifestes [[rose-croix]] et de la [[theosophie-chretienne|théosophie chrétienne]], et ses gravures ont fasciné les ésotéristes jusqu'à [[carl-gustav-jung]], qui en reproduit plusieurs.
+repere: 1560 — Naissance à Leipzig.
+repere: 1588 — Docteur en médecine à Bâle, avec des thèses inspirées de Paracelse.
+repere: vers 1591 — Il séjourne en Bohême, auprès de Rodolphe II et du seigneur de Rosenberg.
+repere: 1595 — Première édition de l'*Amphithéâtre de la sagesse éternelle*.
+repere: 1605 — Mort à Dresde.
+repere: 1609 — Édition posthume de l'*Amphithéâtre*, avec ses grandes planches gravées.
+repere: 1625 — La faculté de théologie de Paris condamne l'ouvrage.
+voir: amphitheatrum, alchimie, kabbale-chretienne, pierre-philosophale, emblemes, la-rose
 
 @ michael-maier
 cat: figures
 nom: Michael Maier
-alias: Michel Maïer, Maier, Atalanta fugiens
+alias: Michel Maïer, Maier, Atalanta fugiens, Symbola aureae mensae
 dates: 1568 – 1622
 an: 1568
 def: Médecin et alchimiste allemand, médecin de l'empereur Rodolphe II, auteur de l'Atalante fugitive, recueil d'emblèmes alchimiques accompagnés de musique.
-texte: Maier, nommé comte palatin par Rodolphe II, publie à partir de 1614 une série d'ouvrages où il lit les mythes grecs et égyptiens comme des allégories de l'œuvre alchimique. Son *[[atalanta-fugiens|Atalanta fugiens]]* (1617) réunit cinquante emblèmes : chacun associe une gravure, une devise, une épigramme, un commentaire et une fugue à trois voix, pour que l'œil, l'oreille et l'esprit reçoivent ensemble l'enseignement.
-texte: Maier fut aussi le principal défenseur savant des [[rose-croix|Rose-Croix]], dans sa *Themis aurea* (1618) et d'autres traités, bien qu'il n'ait jamais prétendu en faire partie.
-oeuvres: Arcana arcanissima (1614) ; Atalanta fugiens (1617) ; Symbola aureae mensae (1617) ; Themis aurea (1618)
-voir: atalanta-fugiens, emblemes, rose-croix, alchimie
+texte: Né à Rendsburg, dans le Holstein, en 1568, Michael Maier étudie à Rostock, à Francfort-sur-l'Oder et à Padoue, et devient docteur en médecine à Bâle en 1596. Médecin à Rostock, il se tourne vers l'alchimie et gagne en 1609 Prague, où l'empereur [[rodolphe-ii|Rodolphe II]], grand protecteur des sciences secrètes, fait de lui son médecin et le nomme comte palatin.
+texte: À la mort de l'empereur, en 1612, il passe en Angleterre, où il offre au roi Jacques Ier une carte de vœux de Noël en forme de rose et fréquente sans doute [[robert-fludd]]. De retour en Allemagne, il publie en quelques années, chez l'éditeur de Bry à Oppenheim, une série d'ouvrages où il lit les mythes grecs et égyptiens comme des allégories de l'œuvre alchimique, rassemble les douze sages de l'alchimie, un par nation, et en raconte la vie. Il entre ensuite au service du landgrave Maurice de Hesse et meurt à Magdebourg en 1622, en pleine guerre de Trente Ans.
+texte: Son *[[atalanta-fugiens|Atalanta fugiens]]* (1617) réunit cinquante emblèmes : chacun associe une gravure, une devise, une épigramme, un commentaire et une fugue à trois voix, pour que l'œil, l'oreille et l'esprit reçoivent ensemble l'enseignement. Le titre renvoie au mythe d'Atalante, la coureuse invincible que dépasse Hippomène en jetant devant elle des pommes d'or : Atalante figure le mercure volatil, Hippomène le soufre qui le fixe ; les trois voix de chaque fugue sont Atalante qui fuit, Hippomène qui la poursuit et la pomme qui la retarde.
+texte: Maier fut aussi le principal défenseur savant des [[rose-croix|Rose-Croix]], dans le *Silence après les clameurs* (1617) et la *Themis aurea* (1618), consacrée aux lois de la Fraternité, bien qu'il n'ait jamais prétendu en faire partie. Ses livres d'[[emblemes]], parmi les plus beaux de l'alchimie, ont été abondamment reproduits par les ésotéristes et commentés par [[carl-gustav-jung]].
+repere: 1568 — Naissance à Rendsburg, dans le Holstein.
+repere: 1596 — Docteur en médecine à Bâle.
+repere: 1609 — Médecin de l'empereur Rodolphe II, à Prague.
+repere: 1612 — Après la mort de l'empereur, il passe en Angleterre.
+repere: 1614 — *Arcana arcanissima*, lecture alchimique des mythes.
+repere: 1617 — *Atalanta fugiens*, *Symbola aureae mensae* et *Silentium post clamores*.
+repere: 1618 — *Themis aurea*, sur les lois de la Fraternité de la Rose-Croix.
+repere: 1622 — Mort à Magdebourg.
+oeuvres: Arcana arcanissima (1614) ; Atalanta fugiens (1617) ; Symbola aureae mensae (1617) ; Silentium post clamores (1617) ; Themis aurea (1618)
+voir: atalanta-fugiens, emblemes, rose-croix, alchimie, marie-la-juive, robert-fludd
 
 @ robert-fludd
 cat: figures
 nom: Robert Fludd
-alias: Fludd, Robertus de Fluctibus
+alias: Fludd, Robertus de Fluctibus, Mosaicall Philosophy
 dates: 1574 – 1637
 an: 1574
 def: Médecin et philosophe anglais, défenseur des Rose-Croix, qui représenta dans de grandes gravures l'harmonie du macrocosme et du microcosme.
-texte: Membre du collège des médecins de Londres, Fludd publie à Oppenheim, de 1617 à 1621, une histoire « des deux mondes », le grand et le petit, illustrée par l'atelier de Johann Theodor de Bry. On y voit le monocorde du monde, dont la corde tendue par la main de Dieu relie la Terre aux cieux selon les intervalles de la musique, et l'homme inscrit dans les cercles du cosmos. Il prend la défense des [[rose-croix|Rose-Croix]] dès 1616.
-texte: Fludd polémique avec Kepler, Mersenne et Gassendi, qui lui reprochent de mêler la Bible, la kabbale et la physique : ces querelles marquent le moment où la science moderne se sépare de la philosophie occulte. Il défend aussi l'« onguent armaire », qui guérirait une blessure à distance en soignant l'arme qui l'a faite.
-voir: microcosme-macrocosme, harmonie-des-spheres, rose-croix, michael-maier, sympathie-universelle
+texte: Né en 1574 dans le Kent, fils d'un haut fonctionnaire d'Élisabeth Ire, Robert Fludd étudie à Oxford, puis voyage six ans sur le continent, en France, en Espagne, en Italie et en Allemagne, où il découvre la médecine de [[paracelse]]. Docteur en médecine en 1605, il doit s'y reprendre à plusieurs fois pour être admis au Collège des médecins de Londres, qui se méfie de ses idées ; il y entre en 1609 et devient un praticien réputé. Il est l'ami de William Harvey, dont il sera l'un des premiers à soutenir la découverte de la circulation du sang.
+texte: Dès 1616, il prend la défense des [[rose-croix|Rose-Croix]], dont il souhaite rejoindre la Fraternité. De 1617 à 1621, il publie à Oppenheim, chez l'éditeur de Bry, une histoire « des deux mondes », le grand et le petit, illustrée d'après ses dessins. On y voit la création comme un dialogue de la lumière et des ténèbres, le monocorde du monde, dont la corde tendue par la main de Dieu relie la Terre aux cieux selon les intervalles de la musique, l'homme inscrit dans les cercles du cosmos, et les arts — musique, géométrie, art de la guerre, [[art-de-la-memoire|art de la mémoire]] — comme autant de « singes » de la nature.
+texte: Fludd polémique avec les grands savants de son temps. [[johannes-kepler|Kepler]], dans *L'Harmonie du monde* (1619), oppose à ses figures « hiéroglyphiques » des proportions mathématiques vérifiables ; le père Mersenne le dénonce comme magicien ; Gassendi le réfute. Ces querelles marquent le moment où la science moderne se sépare de la philosophie occulte. Fludd défend aussi l'« onguent armaire », qui guérirait une blessure à distance en soignant l'arme qui l'a faite, par la [[sympathie-universelle|sympathie universelle]].
+texte: Il meurt à Londres en 1637. Sa *Philosophie mosaïque*, publiée après sa mort, fonde toute la science de la nature sur la Bible. Ses gravures, parmi les plus célèbres de l'ésotérisme, ont été souvent reproduites ; [[frances-yates]] a même cru reconnaître dans son théâtre de la mémoire le plan du théâtre du Globe de Shakespeare.
+repere: 1574 — Naissance dans le Kent.
+repere: 1598 — Maître ès arts à Oxford, il part six ans sur le continent.
+repere: 1605 — Docteur en médecine.
+repere: 1609 — Admis au Collège des médecins de Londres.
+repere: 1616 — Il prend la défense des Rose-Croix.
+repere: 1617 — Début de la publication de l'*Histoire des deux mondes*, à Oppenheim.
+repere: 1619 — Kepler critique ses figures dans *L'Harmonie du monde*.
+repere: 1623 — Le père Mersenne l'attaque comme magicien.
+repere: 1631 — Querelle de l'onguent armaire avec le pasteur William Foster.
+repere: 1637 — Mort à Londres.
+oeuvres: Apologia compendiaria Fraternitatem de Rosea Cruce (1616) ; Utriusque cosmi historia (1617-1621) ; Philosophia moysaica (1638)
+voir: microcosme-macrocosme, harmonie-des-spheres, rose-croix, michael-maier, sympathie-universelle, art-de-la-memoire
 
 @ jakob-boehme
 cat: figures
@@ -182,10 +367,22 @@ alias: Jacob Böhme, Jacob Boehme, Böhme, le cordonnier de Görlitz, philosophe
 dates: 1575 – 1624
 an: 1575
 def: Cordonnier et mystique de Görlitz, en Lusace, dont les visions sur la naissance de Dieu et de la nature fondèrent la théosophie chrétienne.
-texte: En 1600, Boehme est saisi d'une illumination en contemplant le reflet du soleil sur un plat d'étain : il croit voir le fond de toutes choses. Il met douze ans à l'écrire ; son premier livre, *[[aurore-naissante|L'Aurore naissante]]* (1612), circule en manuscrit et lui vaut l'interdiction d'écrire par le pasteur de la ville. Il reprend pourtant la plume et compose une vingtaine de traités, dont *De la signature des choses* et le *Mysterium magnum*.
-texte: Sa pensée part d'un abîme sans fond, l'*Ungrund*, d'où Dieu se manifeste à lui-même à travers sept « qualités » ou forces, dans un jeu de colère et d'amour, de ténèbres et de lumière. La nature est la manifestation visible de cette vie divine, et chaque chose en porte la [[signatures|signature]]. Lu dans toute l'Europe, Boehme a inspiré la [[theosophie-chretienne|théosophie]], les piétistes, [[louis-claude-de-saint-martin]], Hegel et Schelling.
-oeuvres: L'Aurore naissante (1612) ; De la signature des choses (1622) ; Mysterium magnum (1623) ; Le Chemin vers le Christ (1624)
-voir: theosophie-chretienne, aurore-naissante, sophia, signatures, louis-claude-de-saint-martin
+texte: Né en 1575 près de Görlitz, en Haute-Lusace, dans une famille de paysans luthériens, Jakob Boehme garde d'abord les troupeaux, puis apprend le métier de cordonnier. Maître cordonnier à Görlitz en 1599, il s'y marie et y élève quatre fils. Il n'a pas fait d'études, mais lit la Bible, les écrits de [[paracelse]] et des mystiques allemands.
+texte: En 1600, en contemplant le reflet du soleil sur un plat d'étain, il est saisi d'une illumination : il croit voir, en un instant, le fond de toutes choses. Il met douze ans à l'écrire ; son premier livre, *[[aurore-naissante|L'Aurore naissante]]* (1612), circule en manuscrit. Le premier pasteur de la ville le dénonce en chaire, et le conseil lui interdit d'écrire. Boehme se tait cinq ans, puis, encouragé par un cercle d'amis, médecins, nobles et lettrés, reprend la plume en 1619 et compose en cinq ans une vingtaine de traités, dont *De la signature des choses* et le *Mysterium magnum*.
+texte: Sa pensée part d'un abîme sans fond, l'*Ungrund*, d'où Dieu se manifeste à lui-même à travers sept « qualités » ou forces, dans un jeu de colère et d'amour, de ténèbres et de lumière, de feu et de douceur. La nature est la manifestation visible de cette vie divine, et chaque chose en porte la [[signatures|signature]], que l'homme régénéré peut lire. La Sagesse divine, [[sophia]], est la vierge éternelle à laquelle Adam était uni avant sa chute, qui l'a divisé en homme et femme ; le Christ la restitue à l'âme.
+texte: En 1624, l'impression de son petit livre *Le Chemin vers le Christ*, seul publié de son vivant, ranime la persécution. Examiné à Dresde par des théologiens qui ne le condamnent pas, il revient malade à Görlitz et y meurt en novembre ; ses dernières paroles auraient été : « Maintenant, je vais au paradis. »
+texte: Lu dans toute l'Europe, Boehme a fondé la [[theosophie-chretienne|théosophie chrétienne]] : ses disciples se réunissent aux Pays-Bas autour de Johann Georg Gichtel, qui publie ses œuvres complètes en 1682, et en Angleterre, où il inspire [[jane-lead|Jane Lead]] et William Law. [[louis-claude-de-saint-martin]] le traduit en français. Les romantiques allemands, Schelling et Hegel, qui voyait en lui le « premier philosophe allemand », lui doivent beaucoup.
+repere: 1575 — Naissance près de Görlitz, en Haute-Lusace.
+repere: 1599 — Maître cordonnier à Görlitz ; il s'y marie.
+repere: 1600 — Le reflet du soleil sur un plat d'étain lui donne une illumination.
+repere: 1612 — Il met par écrit *L'Aurore naissante*.
+repere: 1613 — Dénoncé par le premier pasteur de la ville, il reçoit l'interdiction d'écrire.
+repere: 1619 — Il reprend la plume, encouragé par un cercle d'amis.
+repere: 1624 — *Le Chemin vers le Christ*, seul livre imprimé de son vivant ; mort à Görlitz.
+repere: 1682 — Johann Georg Gichtel publie ses œuvres complètes à Amsterdam.
+repere: 1800 — [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]] traduit *L'Aurore naissante* en français.
+oeuvres: L'Aurore naissante (1612) ; Les Trois Principes de l'essence divine (1619) ; De la signature des choses (1622) ; Mysterium magnum (1623) ; Le Chemin vers le Christ (1624)
+voir: theosophie-chretienne, aurore-naissante, sophia, signatures, louis-claude-de-saint-martin, androgyne
 
 @ johann-valentin-andreae
 cat: figures
@@ -194,9 +391,21 @@ alias: Andreae, Andreä, Christianopolis
 dates: 1586 – 1654
 an: 1586
 def: Théologien luthérien du Wurtemberg, membre du cercle de Tübingen d'où sortirent les manifestes rose-croix, et auteur reconnu des Noces chymiques de Christian Rosenkreutz.
-texte: Petit-fils d'un célèbre théologien, Andreae fréquente à Tübingen un cercle d'amis — dont le médecin Tobias Hess — qui rêvent d'une réforme générale du savoir et de la chrétienté. De ce milieu sortent la *[[fama-fraternitatis|Fama Fraternitatis]]* et la *[[confessio-fraternitatis|Confessio]]*. Andreae reconnaît dans son autobiographie avoir écrit, jeune, les *[[noces-chymiques|Noces chymiques]]*, parues en 1616.
-texte: Devant l'agitation provoquée par les manifestes, il qualifie la Rose-Croix de « jeu » (*ludibrium*) et propose d'autres projets de sociétés chrétiennes. Sa *Christianopolis* (1619) décrit une cité idéale gouvernée par la piété et la science. Le rôle exact qu'il a joué dans la rédaction des manifestes reste discuté.
-voir: rose-croix, noces-chymiques, fama-fraternitatis, christian-rosenkreutz
+texte: Né en 1586 à Herrenberg, dans le Wurtemberg, petit-fils de l'un des théologiens qui fixèrent la doctrine luthérienne, Johann Valentin Andreae est le fils d'un pasteur qui s'intéresse à l'alchimie. Étudiant à Tübingen à partir de 1601, il doit quitter l'université après une affaire de libelle et voyage en Suisse, en France, en Italie et en Autriche ; Genève et sa discipline calviniste l'impressionnent durablement.
+texte: À Tübingen, il fréquente un cercle d'amis — le médecin Tobias Hess, le juriste Christoph Besold — qui rêvent d'une réforme générale du savoir et de la chrétienté, nourrie de Paracelse et des prophéties. De ce milieu sortent la *[[fama-fraternitatis|Fama Fraternitatis]]*, imprimée en 1614, et la *[[confessio-fraternitatis|Confessio]]* (1615). Andreae reconnaît dans son autobiographie avoir écrit, jeune, les *[[noces-chymiques|Noces chymiques]]*, parues en 1616 ; le rôle exact qu'il a joué dans la rédaction des manifestes reste discuté, et beaucoup d'historiens voient en Hess leur principal inspirateur.
+texte: Devant l'agitation provoquée par les manifestes, il qualifie la Rose-Croix de « jeu » (*ludibrium*), sans renier les idéaux de réforme qu'elle portait, et propose d'autres projets de sociétés chrétiennes. Sa *Christianopolis* (1619) décrit une cité idéale, sur une île, gouvernée par la piété et la science, avec ses laboratoires et ses ateliers.
+texte: Pasteur, puis surintendant à Calw, il y fonde une institution charitable pour les pauvres et les orphelins. En 1634, pendant la guerre de Trente Ans, les troupes impériales incendient la ville : il perd sa bibliothèque et ses collections. Prédicateur de la cour à Stuttgart, puis abbé luthérien de Bebenhausen et d'Adelberg, il meurt en 1654. Ses projets de société savante et chrétienne ont inspiré Comenius et le cercle de Samuel Hartlib en Angleterre, et les *Noces chymiques* ont été commentées par [[rudolf-steiner]].
+repere: 1586 — Naissance à Herrenberg, dans le Wurtemberg.
+repere: 1601 — Étudiant à Tübingen.
+repere: 1614 — Parution à Cassel de la *Fama Fraternitatis* ; il est ordonné pasteur.
+repere: 1616 — Publication des *Noces chymiques* à Strasbourg.
+repere: 1619 — *Christianopolis*, description d'une cité chrétienne idéale.
+repere: 1620 — Surintendant à Calw.
+repere: 1634 — Calw est incendiée ; il perd sa bibliothèque.
+repere: 1639 — Prédicateur de la cour à Stuttgart.
+repere: 1654 — Mort à Stuttgart.
+oeuvres: Noces chymiques de Christian Rosenkreutz (1616) ; Christianopolis (1619) ; Mythologia christiana (1619) ; autobiographie (publiée en 1849)
+voir: rose-croix, noces-chymiques, fama-fraternitatis, christian-rosenkreutz, confessio-fraternitatis
 
 @ christian-rosenkreutz
 cat: figures
@@ -205,42 +414,85 @@ alias: Christian Rose-Croix, frère C.R.C., C.R.C., Rosencreutz
 dates: figure légendaire (1378 – 1484 selon la légende)
 an: 1378
 def: Fondateur légendaire de la Fraternité de la Rose-Croix, dont la vie, la mort et la découverte du tombeau sont racontées dans les manifestes du XVIIe siècle.
-texte: Selon la *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), le frère C.R.C., gentilhomme allemand né en 1378, voyage en Orient — à Damas, en Arabie, à Fès — où il reçoit des sages une science de la nature et des correspondances. De retour en Allemagne, il fonde avec quelques compagnons une fraternité secrète de médecins qui soignent gratuitement et se retrouvent chaque année. Il meurt à cent six ans, en 1484, et son tombeau, caché dans une crypte à sept côtés éclairée d'un soleil intérieur, est découvert en 1604.
-texte: Les *[[noces-chymiques|Noces chymiques]]* (1616) racontent son voyage initiatique, en sept jours, vers les noces d'un roi et d'une reine. Les historiens tiennent Christian Rosenkreutz pour un personnage de fiction ; les ordres rosicruciens modernes en font un véritable maître, voire un être réincarné.
+texte: Selon la *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), le frère C.R.C. naît en 1378 dans une famille noble mais pauvre d'Allemagne et grandit dans un cloître, où il apprend le grec et le latin. Jeune homme, il part pour la Terre sainte avec un frère du couvent, qui meurt en chemin à Chypre. Il gagne alors Damas et l'Arabie, où les sages de « Damcar » l'accueillent comme s'ils l'attendaient et lui enseignent la physique et les mathématiques ; il y traduit en latin un mystérieux « livre M ». Il passe par l'Égypte, puis à Fès, où il apprend la magie et la [[kabbale]] et découvre l'harmonie du monde entier.
+texte: Les savants d'Espagne refusent ses enseignements. De retour en Allemagne, il fonde avec trois, puis huit compagnons une fraternité secrète, dont les règles sont simples : soigner les malades gratuitement, ne porter aucun habit distinctif, se retrouver chaque année dans la maison du Saint-Esprit, se choisir un successeur, garder le secret pendant cent ans. Il meurt à cent six ans, en 1484.
+texte: Son tombeau est découvert en 1604 par un frère qui restaure la maison : derrière une porte qui porte l'inscription « Dans cent vingt ans, je m'ouvrirai », une crypte à sept côtés, éclairée d'un soleil intérieur, abrite son corps intact, un livre à la main, entouré de miroirs, de cloches, de lampes et de livres. C'est cette découverte qui décide la Fraternité à se faire connaître.
+texte: Les *[[noces-chymiques|Noces chymiques]]* (1616) racontent son voyage initiatique, en sept jours de Pâques 1459, vers le château où se célèbrent les noces d'un roi et d'une reine : épreuves, pesée des âmes, mort et résurrection des époux royaux au terme d'opérations alchimiques, jusqu'à sa nomination comme chevalier de la Pierre d'or.
+texte: Les historiens tiennent Christian Rosenkreutz pour un personnage de fiction, dont le nom rappelle la rose et la croix du sceau de Luther et les armes de la famille d'[[johann-valentin-andreae|Andreae]]. Les ordres rosicruciens modernes en font un véritable maître ; [[rudolf-steiner]] lui consacre des conférences, et d'autres l'identifient au [[comte-de-saint-germain|comte de Saint-Germain]].
+repere: 1378 — Naissance du frère C.R.C., selon la *Fama*.
+repere: 1459 — Date du voyage raconté dans les *Noces chymiques*.
+repere: 1484 — Mort à cent six ans, selon la *Fama*.
+repere: 1604 — Découverte légendaire de son tombeau.
+repere: 1614 — La *Fama Fraternitatis* révèle son histoire.
+repere: 1616 — Publication des *Noces chymiques*.
 voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose
 
 @ basile-valentin
 cat: figures
 nom: Basile Valentin
-alias: Basilius Valentinus, Douze Clefs, Char triomphal de l'antimoine
+alias: Basilius Valentinus, Douze Clefs, Char triomphal de l'antimoine, Johann Thölde
 dates: auteur supposé du XVe siècle ; œuvres publiées à partir de 1599
 an: 1599
 def: Moine bénédictin imaginaire, présenté comme un alchimiste du XVe siècle, sous le nom duquel parurent à partir de 1599 des traités alchimiques très influents.
-texte: Les *Douze Clefs de philosophie* (1599) et le *Char triomphal de l'antimoine* (1604) sont publiés par Johann Thölde, fonctionnaire des salines de Thuringe, qui les présente comme l'œuvre d'un moine d'Erfurt du XVe siècle ; aucun moine de ce nom n'a été retrouvé, et les historiens voient en Thölde ou dans son entourage les véritables auteurs. Ces textes, marqués par [[paracelse]], décrivent la préparation de remèdes à base d'[[antimoine]].
-texte: Les douze gravures des *Clefs*, très commentées, représentent les étapes du [[grand-oeuvre|Grand Œuvre]] : le loup qui dévore le roi, le dragon, le coq et le renard. C'est dans un traité attribué à Basile Valentin qu'apparaît l'acrostiche [[vitriol|V.I.T.R.I.O.L.]]
-voir: antimoine, vitriol, grand-oeuvre, lion-vert, alchimie
+texte: En 1599, Johann Thölde, fonctionnaire des salines de Frankenhausen, en Thuringe, publie un traité sur la grande pierre des anciens, qui contient les *Douze Clefs de philosophie*, puis en 1604 le *Char triomphal de l'antimoine*. Il les présente comme l'œuvre de Basile Valentin, moine bénédictin de l'abbaye Saint-Pierre d'Erfurt au XVe siècle, dont les manuscrits auraient été retrouvés cachés dans un pilier d'église.
+texte: Aucun moine de ce nom n'a été retrouvé dans les registres, et les textes citent des notions inconnues avant [[paracelse]], comme les [[tria-prima|trois principes]], ou la syphilis, apparue en Europe à la fin du XVe siècle. Les historiens voient en Thölde ou dans son entourage les véritables auteurs. Le nom même, « roi puissant » en grec et en latin, semble un symbole plus qu'un patronyme.
+texte: Ces textes, marqués par la médecine paracelsienne, décrivent la préparation de remèdes chimiques, en particulier à base d'[[antimoine]], métal que le *Char triomphal* célèbre comme le plus puissant des purgatifs et des médicaments. Ils ont nourri la longue « querelle de l'antimoine » qui divisa la faculté de médecine de Paris : interdit en 1566, le remède ne fut autorisé qu'un siècle plus tard, après que Louis XIV, malade, en eut été guéri.
+texte: Les douze gravures des *Clefs*, très commentées, représentent les étapes du [[grand-oeuvre|Grand Œuvre]] par des images saisissantes : le loup gris qui dévore le roi, image de l'antimoine qui purifie l'or ; les deux escrimeurs ; le dragon ; le coq et le renard. C'est dans *L'Azoth des philosophes*, attribué lui aussi à Basile Valentin, qu'apparaît l'acrostiche [[vitriol|V.I.T.R.I.O.L.]], « Visite l'intérieur de la terre, en rectifiant tu trouveras la pierre cachée ».
+texte: Isaac Newton a recopié ses traités, et [[eugene-canseliet]] a donné en 1956 une traduction commentée des *Douze Clefs*, devenue une référence pour l'alchimie contemporaine.
+repere: XVe siècle — Époque où il aurait vécu, moine à Erfurt, selon ses éditeurs.
+repere: 1566 — La faculté de médecine de Paris interdit l'antimoine.
+repere: 1599 — Johann Thölde publie les *Douze Clefs de philosophie*.
+repere: 1604 — *Le Char triomphal de l'antimoine*.
+repere: 1666 — L'antimoine est autorisé de nouveau, après la guérison de Louis XIV.
+repere: 1956 — [[eugene-canseliet|Eugène Canseliet]] publie une traduction commentée des *Douze Clefs*.
+voir: antimoine, vitriol, grand-oeuvre, lion-vert, alchimie, paracelsisme
 
 @ michel-sendivogius
 cat: figures
 nom: Michel Sendivogius
-alias: Michał Sędziwój, Sendivogius, Novum lumen chymicum, nitre aérien
+alias: Michał Sędziwój, Sendivogius, Novum lumen chymicum, nitre aérien, Cosmopolite
 dates: 1566 – 1636
 an: 1566
 def: Alchimiste polonais de la cour de Rodolphe II, auteur de la Nouvelle Lumière chimique, qui voyait dans un « nitre » contenu dans l'air l'aliment caché de la vie.
-texte: Diplomate au service du roi de Pologne et de l'empereur, Sendivogius passe pour avoir réussi des transmutations devant témoins, avec une poudre qu'il aurait héritée de l'alchimiste écossais Alexander Seton. Son *Novum lumen chymicum* (1604), publié anonymement, devient l'un des traités les plus lus du XVIIe siècle ; Newton l'annote.
-texte: Il y décrit une substance, le « nitre aérien », présente dans l'air et dans la rosée, qui nourrit la vie et la combustion. Certains historiens des sciences y ont vu une intuition de l'oxygène, découvert plus d'un siècle et demi plus tard ; d'autres mettent en garde contre cette lecture rétrospective.
-voir: alchimie, rosee, mercure-philosophique, isaac-newton
+texte: Né en 1566 dans une famille noble de Petite-Pologne, Michał Sędziwój étudie à Leipzig, à Vienne et peut-être à Cambridge, puis entre au service du roi de Pologne Sigismond III et de l'empereur [[rodolphe-ii|Rodolphe II]], dont il devient conseiller. Diplomate, homme d'affaires, entrepreneur de mines et de forges, il est aussi l'un des alchimistes les plus célèbres de son temps.
+texte: En 1603, il aide l'alchimiste écossais [[alexander-seton|Alexander Seton]], dit le Cosmopolite, emprisonné et torturé à Dresde par l'électeur de Saxe qui voulait son secret, à s'évader. Seton meurt peu après, lui laissant, dit la légende, un reste de sa poudre de projection ; Sendivogius épouse sa veuve. Il passe pour avoir réussi des transmutations devant témoins, notamment devant Rodolphe II à Prague. Sa réputation lui vaut aussi des ennuis : en 1605, un aventurier qui convoite son secret le retient prisonnier dans le Wurtemberg.
+texte: Son *Novum lumen chymicum* (1604), publié à Prague sous un anagramme de son nom, devient l'un des traités les plus lus du XVIIe siècle : plus de cinquante éditions et traductions. Il y décrit une substance, le « nitre aérien », sel caché présent dans l'air et dans la [[rosee|rosée]], qui nourrit la vie et la combustion ; c'est l'« eau qui ne mouille pas les mains », la matière de la pierre. Certains historiens des sciences y ont vu une intuition de l'oxygène, découvert plus d'un siècle et demi plus tard ; d'autres mettent en garde contre cette lecture rétrospective.
+texte: Il sert ensuite l'empereur Ferdinand II et meurt en 1636 en Silésie. [[isaac-newton]] a annoté son traité, et le peintre polonais Jan Matejko l'a représenté en 1867 réalisant une transmutation devant le roi Sigismond III. On lui attribue aussi le projet d'une « Société des philosophes inconnus », dont le nom sera repris par l'illuminisme.
+repere: 1566 — Naissance en Petite-Pologne.
+repere: années 1590 — Il fréquente la cour de l'empereur Rodolphe II, à Prague.
+repere: 1603 — Il fait évader de Dresde l'alchimiste Alexander Seton.
+repere: 1604 — *Novum lumen chymicum*, publié à Prague sous un anagramme.
+repere: 1605 — Un aventurier le retient prisonnier dans le Wurtemberg pour lui arracher son secret.
+repere: 1636 — Mort en Silésie.
+repere: 1867 — Jan Matejko le peint réalisant une transmutation devant Sigismond III.
+oeuvres: Novum lumen chymicum (1604) ; Tractatus de sulphure (1616)
+voir: alchimie, rosee, mercure-philosophique, isaac-newton, projection
 
 @ athanasius-kircher
 cat: figures
 nom: Athanase Kircher
-alias: Athanasius Kircher, Kircher, Œdipe égyptien
+alias: Athanasius Kircher, Kircher, Œdipe égyptien, Musaeum Kircherianum
 dates: 1602 – 1680
 an: 1602
 def: Jésuite allemand, savant universel du Collège romain, qui crut déchiffrer les hiéroglyphes égyptiens comme des symboles d'une sagesse divine.
-texte: Professeur à Rome, Kircher écrit sur le magnétisme, la musique, l'optique, les volcans, la Chine et la langue des origines, et réunit un musée de curiosités. Dans son *Œdipe égyptien* (1652-1654), il interprète les [[hieroglyphes]] non comme une écriture mais comme des emblèmes philosophiques, et rattache l'Égypte à l'[[hermetisme]], à la [[kabbale]] et à Platon.
-texte: Ses lectures ont été balayées par le déchiffrement de Champollion, mais son œuvre, abondamment illustrée, a nourri l'imaginaire ésotérique, de l'[[egyptosophie]] à l'[[arbre-des-sephiroth|arbre kabbalistique]], dont il popularise une représentation.
-voir: hieroglyphes, egyptosophie, kabbale-chretienne, hermetisme
+texte: Né en 1602 à Geisa, près de Fulda, dernier de neuf enfants, Athanase Kircher entre chez les jésuites en 1618. La guerre de Trente Ans bouscule ses études ; il enseigne les mathématiques et les langues orientales à Würzburg, fuit en 1631 l'armée suédoise pour Avignon, où il se lie avec le savant Peiresc, puis s'installe en 1633 à Rome, au Collège romain, où il passera le reste de sa vie.
+texte: Son œuvre est encyclopédique : une quarantaine d'ouvrages, souvent monumentaux, sur le magnétisme, la lumière et l'ombre — il décrit une lanterne magique —, la musique, les volcans, la Chine, l'arche de Noé, la tour de Babel. En 1638, il se fait descendre dans le cratère du Vésuve pour observer le feu souterrain. Il réunit au Collège romain un célèbre musée de curiosités, de machines et d'antiquités. Il est l'un des premiers à montrer que le copte descend de la langue des anciens Égyptiens, intuition juste qui servira à Champollion.
+texte: Dans son *Œdipe égyptien* (1652-1654), il interprète les [[hieroglyphes]] non comme une écriture, mais comme des emblèmes philosophiques qui cachent une sagesse divine, et il « traduit » les inscriptions des obélisques que Bernin dresse sur les places de Rome. Il rattache l'Égypte à l'[[hermetisme]], à la [[kabbale]], à Platon et aux sagesses de la Chine et du Mexique, dans une vaste [[prisca-theologia]].
+texte: Il y publie aussi une représentation de l'[[arbre-des-sephiroth|arbre des séphiroth]] avec ses vingt-deux sentiers, qui deviendra, à travers les occultistes du XIXe siècle et la [[golden-dawn|Golden Dawn]], le modèle de la [[kabbale-hermetique|kabbale hermétique]]. Son *Grand Art du savoir* reprend la combinatoire de [[raymond-lulle]].
+texte: Kircher meurt à Rome en 1680. Le déchiffrement de Champollion, en 1822, ruine ses lectures des hiéroglyphes ; mais son œuvre, abondamment illustrée, a nourri l'imaginaire ésotérique, de l'[[egyptosophie]] aux romans d'Umberto Eco, et fait de lui le symbole du dernier savant qui prétendait tout connaître.
+repere: 1602 — Naissance à Geisa, près de Fulda.
+repere: 1618 — Novice chez les jésuites.
+repere: 1631 — Fuyant l'armée suédoise, il quitte Würzburg pour Avignon.
+repere: 1633 — Il s'installe à Rome, au Collège romain.
+repere: 1636 — *Prodromus coptus*, qui rattache le copte à l'égyptien ancien.
+repere: 1638 — Il descend dans le cratère du Vésuve.
+repere: 1651 — Il ouvre au Collège romain un musée de curiosités.
+repere: 1652 — Début de la publication de l'*Œdipe égyptien*.
+repere: 1665 — *Le Monde souterrain*.
+repere: 1680 — Mort à Rome.
+repere: 1822 — Champollion déchiffre les hiéroglyphes et ruine ses interprétations.
+oeuvres: Prodromus coptus (1636) ; Ars magna lucis et umbrae (1646) ; Musurgia universalis (1650) ; Œdipus Aegyptiacus (1652-1654) ; Mundus subterraneus (1665) ; Ars magna sciendi (1669)
+voir: hieroglyphes, egyptosophie, kabbale-chretienne, hermetisme, arbre-des-sephiroth, raymond-lulle
 
 @ knorr-von-rosenroth
 cat: figures
@@ -249,20 +501,40 @@ alias: Knorr von Rosenroth, Knorr, Kabbala denudata
 dates: 1636 – 1689
 an: 1636
 def: Érudit et poète allemand, éditeur de la Kabbala denudata, qui donna aux chrétiens la plus vaste traduction latine de textes kabbalistiques.
-texte: Conseiller du comte palatin de Sulzbach, Knorr von Rosenroth étudie l'hébreu avec des rabbins et publie entre 1677 et 1684 les deux volumes de la *[[kabbala-denudata|Kabbala denudata]]*, « la kabbale dévoilée » : des parties du [[zohar|Zohar]], des textes de la kabbale de [[isaac-louria|Louria]] et un lexique, traduits en latin. Il est aidé par François-Mercure van Helmont, fils du célèbre chimiste.
-texte: Pour Knorr, la kabbale doit faciliter la conversion des juifs en montrant l'accord de leur tradition avec le christianisme. Son recueil est resté pendant deux siècles la principale source des chrétiens sur la kabbale ; la [[golden-dawn|Golden Dawn]] en a fait traduire une partie en anglais par [[samuel-liddell-mathers|Mathers]].
-voir: kabbala-denudata, kabbale-chretienne, zohar, isaac-louria
+texte: Né en 1636 en Silésie, fils d'un pasteur luthérien, Christian Knorr von Rosenroth étudie à Leipzig et à Wittenberg, puis voyage aux Pays-Bas, en France et en Angleterre. À Amsterdam, il étudie l'hébreu et la kabbale auprès de rabbins et de savants. Il s'établit à Sulzbach, dans le Haut-Palatinat, à la cour du comte palatin Christian Auguste, prince tolérant qui accueille juifs, catholiques et protestants, et devient son conseiller en 1668.
+texte: Entre 1677 et 1684, il publie les deux gros volumes de la *[[kabbala-denudata|Kabbala denudata]]*, « la kabbale dévoilée » : des parties du *[[zohar|Zohar]]* — notamment les deux « assemblées » où Siméon bar Yohaï décrit les visages de Dieu —, des textes de la kabbale de [[isaac-louria|Louria]], un vaste lexique des termes kabbalistiques, des commentaires du philosophe anglais Henry More et un essai de « kabbale chrétienne » de François-Mercure van Helmont, fils du célèbre chimiste, qui fut son principal collaborateur.
+texte: Pour Knorr, la kabbale, bien comprise, montre l'accord de la tradition juive et du christianisme, et doit faciliter la conversion des juifs ; il soutient aussi l'impression à Sulzbach d'une édition hébraïque du Zohar. Poète, il compose des cantiques dont l'un, *Morgenglanz der Ewigkeit*, « Splendeur matinale de l'éternité », est encore chanté dans les églises luthériennes. Il traduit aussi Boèce et des savants anglais. Il meurt à Sulzbach en 1689.
+texte: Son recueil est resté pendant deux siècles la principale source des chrétiens sur la [[kabbale]]. Leibniz le connaissait ; en 1887, [[samuel-liddell-mathers|Mathers]] en traduit en anglais trois livres sous le titre *The Kabbalah Unveiled*, qui devient la base de la [[kabbale-hermetique|kabbale hermétique]] de la [[golden-dawn|Golden Dawn]].
+repere: 1636 — Naissance en Silésie.
+repere: 1668 — Conseiller du comte palatin de Sulzbach.
+repere: 1677 — Premier volume de la *Kabbala denudata*.
+repere: 1684 — Second volume ; il publie aussi le cantique *Morgenglanz der Ewigkeit*.
+repere: 1689 — Mort à Sulzbach.
+repere: 1887 — Mathers traduit en anglais une partie de son recueil, *The Kabbalah Unveiled*.
+voir: kabbala-denudata, kabbale-chretienne, zohar, isaac-louria, adam-kadmon
 
 @ elias-ashmole
 cat: figures
 nom: Elias Ashmole
-alias: Ashmole, Ashmolean
+alias: Ashmole, Ashmolean, Theatrum chemicum Britannicum
 dates: 1617 – 1692
 an: 1617
 def: Antiquaire, astrologue et alchimiste anglais, l'un des premiers francs-maçons dont l'initiation soit attestée, fondateur du musée Ashmolean d'Oxford.
-texte: Ashmole note dans son journal qu'il a été reçu franc-maçon le 16 octobre 1646 à Warrington, dans une loge composée en majorité de gentilshommes qui n'étaient pas des bâtisseurs : c'est l'un des plus anciens témoignages d'une [[franc-maconnerie]] « spéculative ». Passionné d'[[astrologie]] et d'[[alchimie]], il publie en 1652 le *Theatrum chemicum Britannicum*, anthologie de poèmes alchimiques anglais.
-texte: Il réunit d'importantes collections de manuscrits, dont ceux de [[john-dee]], et les donne en 1683 à l'université d'Oxford avec le cabinet de curiosités de la famille Tradescant : c'est l'origine du premier musée public d'Angleterre.
-voir: franc-maconnerie, alchimie, astrologie, john-dee
+texte: Né à Lichfield en 1617, fils d'un sellier, Elias Ashmole est enfant de chœur de la cathédrale, puis devient homme de loi. Royaliste pendant la guerre civile, il sert l'armée du roi comme fonctionnaire des finances et de l'artillerie. Après la défaite, il se retire dans le Cheshire, et c'est là qu'il note dans son journal, le 16 octobre 1646, avoir été reçu franc-maçon à Warrington, dans une loge composée en majorité de gentilshommes qui n'étaient pas des bâtisseurs. C'est l'un des plus anciens témoignages d'une [[franc-maconnerie]] « spéculative » en Angleterre ; en 1682, il note encore sa présence à une loge tenue à Londres, au Hall de la compagnie des maçons.
+texte: Passionné d'[[astrologie]], il fréquente les astrologues de Londres, dont William Lilly, son ami. Il se plonge dans l'[[alchimie]] : un vieil adepte, William Backhouse, l'adopte comme « fils » et lui révèle, dit-il, la vraie matière de la pierre. Il publie en 1652 le *Theatrum chemicum Britannicum*, anthologie de poèmes alchimiques anglais, dont la préface défend la sagesse des anciens.
+texte: À la Restauration, il est récompensé de sa fidélité : héraut d'armes, contrôleur des accises, l'un des premiers membres de la Royal Society. Érudit, il publie en 1672 une histoire monumentale de l'ordre de la Jarretière. Son mariage avec une riche veuve, lady Mainwaring, lui avait assuré l'aisance.
+texte: Il réunit d'importantes collections de manuscrits, dont ceux de [[john-dee]], retrouvés dans le tiroir secret d'un coffre, et acquiert, après un long procès avec la veuve du collectionneur, le cabinet de curiosités de la famille Tradescant. Il donne le tout à l'université d'Oxford, qui ouvre en 1683 l'Ashmolean Museum, premier musée public d'Angleterre. Il meurt à Londres en 1692 ; ses manuscrits, conservés à la bibliothèque Bodléienne, sont une mine pour l'histoire de l'ésotérisme.
+repere: 1617 — Naissance à Lichfield, fils d'un sellier.
+repere: 1646 — Reçu franc-maçon à Warrington, le 16 octobre.
+repere: 1652 — *Theatrum chemicum Britannicum*.
+repere: 1653 — Le vieil alchimiste William Backhouse l'adopte comme « fils ».
+repere: 1660 — Héraut d'armes à la Restauration.
+repere: 1661 — L'un des premiers membres de la Royal Society.
+repere: 1672 — Histoire de l'ordre de la Jarretière.
+repere: 1682 — Il assiste à une loge tenue au Hall des maçons de Londres.
+repere: 1683 — Ouverture à Oxford de l'Ashmolean Museum.
+repere: 1692 — Mort à Londres.
+voir: franc-maconnerie, alchimie, astrologie, john-dee, operatifs-et-speculatifs, robert-moray
 
 @ eirenee-philalethe
 cat: figures
@@ -271,17 +543,286 @@ alias: Eirenaeus Philalethes, Irénée Philalèthe, Philalèthe, George Starkey,
 dates: pseudonyme de George Starkey (1628 – 1665)
 an: 1628
 def: Pseudonyme sous lequel l'alchimiste américain George Starkey publia des traités célèbres, dont l'Entrée ouverte au palais fermé du roi, lus par Boyle et Newton.
-texte: George Starkey, né aux Bermudes et formé à Harvard, s'installe à Londres en 1650. Il y fait circuler des traités qu'il attribue à un mystérieux adepte, Eyrénée Philalèthe (« l'ami pacifique de la vérité »), qui aurait réussi la [[pierre-philosophale]] à vingt-trois ans. *L'Entrée ouverte au palais fermé du roi* (publiée en 1667) devient l'un des classiques de l'[[alchimie]].
-texte: Les historiens William Newman et Lawrence Principe ont montré que Starkey était aussi un chimiste de laboratoire rigoureux, dont les carnets décrivent de véritables expériences, et qu'il a fortement influencé Robert Boyle. [[isaac-newton]] a recopié et annoté ses traités.
-voir: alchimie, isaac-newton, mercure-philosophique, pierre-philosophale
+texte: George Starkey naît en 1628 aux Bermudes, fils d'un pasteur écossais. Il étudie à Harvard, où il se passionne pour la philosophie naturelle et la chimie de [[jan-baptist-van-helmont|Van Helmont]], et exerce la médecine à Boston. En 1650, il s'installe à Londres, où il entre dans le cercle du réformateur Samuel Hartlib et devient l'ami et le professeur de chimie du jeune Robert Boyle.
+texte: Il fait alors circuler des traités qu'il attribue à un mystérieux adepte de la Nouvelle-Angleterre, Eyrénée Philalèthe (« l'ami pacifique de la vérité »), qui aurait réussi la [[pierre-philosophale]] à vingt-trois ans et lui aurait confié quelques fragments de son secret. *L'Entrée ouverte au palais fermé du roi*, publiée à Amsterdam en 1667, devient l'un des classiques de l'[[alchimie]] ; d'autres traités suivent, dont des commentaires de l'alchimiste anglais George Ripley.
+texte: Sous son propre nom, Starkey publie des livres de médecine chimique dans l'esprit de Van Helmont. Toujours endetté, plusieurs fois emprisonné, querelleur, il meurt en 1665 de la grande peste de Londres, contractée, dit-on, en disséquant le corps d'un pestiféré.
+texte: Les historiens William Newman et Lawrence Principe ont montré, en étudiant ses carnets de laboratoire, que Starkey était aussi un expérimentateur rigoureux, qui pesait ses matières et notait ses échecs. Son « mercure des sages », préparé avec un régule d'antimoine — les « colombes de Diane » de ses traités —, renvoie à des opérations bien réelles. [[isaac-newton]] a recopié et annoté ses traités plus que ceux de tout autre auteur. On a longtemps confondu Eyrénée Philalèthe avec un autre « Philalèthe », l'alchimiste gallois Thomas Vaughan.
+repere: 1628 — Naissance aux Bermudes.
+repere: 1646 — Diplômé de Harvard.
+repere: 1650 — Il s'installe à Londres et rencontre Robert Boyle.
+repere: 1654 — *The Marrow of Alchemy*, premier écrit publié sous le nom de Philalèthe.
+repere: 1665 — Mort de la peste à Londres.
+repere: 1667 — Publication à Amsterdam de l'*Entrée ouverte au palais fermé du roi*.
+repere: 2002 — William Newman et Lawrence Principe publient *Alchemy Tried in the Fire*, fondé sur ses carnets.
+voir: alchimie, isaac-newton, mercure-philosophique, pierre-philosophale, antimoine
 
 @ isaac-newton
 cat: figures
 nom: Isaac Newton
-alias: Newton, Newton alchimiste
+alias: Newton, Newton alchimiste, Principia
 dates: 1643 – 1727
 an: 1643
 def: Physicien et mathématicien anglais, fondateur de la mécanique classique, qui consacra aussi des décennies à l'alchimie, à la théologie et à l'interprétation des prophéties.
-texte: Newton a laissé plus d'un million de mots sur l'[[alchimie]] : copies de traités, dont ceux d'[[eirenee-philalethe|Eyrénée Philalèthe]] et de [[michel-sendivogius|Sendivogius]], notes de lecture, index des termes alchimiques et comptes rendus d'expériences menées dans son laboratoire de Cambridge. Il cherchait dans l'alchimie les forces actives de la matière que sa mécanique ne pouvait expliquer.
-texte: Ces manuscrits, longtemps tenus cachés par ses héritiers, sont dispersés aux enchères en 1936 ; l'économiste John Maynard Keynes en achète une partie et conclut que Newton fut « non le premier de l'âge de la raison, mais le dernier des magiciens ». Les historiens nuancent aujourd'hui la formule : l'alchimie de Newton était une recherche expérimentale sérieuse, menée dans l'esprit de son temps.
-voir: alchimie, eirenee-philalethe, prisca-theologia
+texte: Isaac Newton naît à Woolsthorpe, dans le Lincolnshire, le jour de Noël 1642 selon le calendrier anglais de l'époque, soit le 4 janvier 1643 selon le nôtre. Il n'a pas connu son père et grandit chez sa grand-mère. Logé chez un apothicaire pendant ses études à Grantham, il y découvre la chimie. Étudiant au Trinity College de Cambridge, il profite de la fermeture de l'université pendant la peste, en 1665 et 1666, pour jeter les bases du calcul infinitésimal, de sa théorie des couleurs et de la gravitation.
+texte: Professeur à Cambridge en 1669, il achète la même année des fourneaux, de la verrerie et une grande collection d'ouvrages d'alchimie. Pendant près de trente ans, il travaille dans un laboratoire installé dans le jardin de son collège, recopie et annote des traités, dont ceux d'[[eirenee-philalethe|Eyrénée Philalèthe]], de [[michel-sendivogius|Sendivogius]] et de [[basile-valentin|Basile Valentin]], dresse un index des termes alchimiques et note ses expériences. Il a laissé plus d'un million de mots sur l'[[alchimie]]. Il y cherchait les « principes actifs » de la matière, la vie cachée des métaux qui « végètent », comme dans l'[[arbre-de-diane|arbre de Diane]], que la mécanique ne pouvait expliquer.
+texte: Ses *Principes mathématiques de la philosophie naturelle* (1687) fondent la mécanique classique et la gravitation universelle ; son *Optique* (1704) s'achève sur des « questions » où il évoque les forces qui agissent entre les particules et un éther subtil. Il croyait que les Anciens connaissaient déjà la gravitation et le système du monde, sous le voile des mythes : une forme de [[prisca-theologia]].
+texte: Théologien secret, il rejette la Trinité, consacre des années à la chronologie des royaumes anciens, au plan du [[temple-de-salomon|Temple de Salomon]] et à l'interprétation des prophéties de Daniel et de l'Apocalypse ; dans une note, il estime que la fin du monde ne saurait survenir avant 2060. En 1693, une grave crise nerveuse, peut-être liée aux vapeurs de mercure de son laboratoire, interrompt ses travaux. Directeur de la Monnaie royale, président de la Royal Society, anobli, il meurt en 1727 et repose à l'abbaye de Westminster.
+texte: Ces manuscrits, longtemps tenus cachés par ses héritiers, sont dispersés aux enchères en 1936 ; l'économiste John Maynard Keynes en achète une partie et conclut que Newton fut « non le premier de l'âge de la raison, mais le dernier des magiciens ». Les historiens nuancent aujourd'hui la formule : l'alchimie de Newton était une recherche expérimentale sérieuse, menée dans l'esprit de son temps, que William Newman a reconstituée en refaisant certaines de ses expériences.
+repere: 1643 — Naissance à Woolsthorpe, dans le Lincolnshire.
+repere: 1665 — Pendant la peste, il pose les bases du calcul, de l'optique et de la gravitation.
+repere: 1669 — Professeur à Cambridge ; il achète ses premiers fourneaux et livres d'alchimie.
+repere: 1687 — *Principes mathématiques de la philosophie naturelle*.
+repere: 1693 — Une grave crise nerveuse interrompt ses travaux.
+repere: 1696 — Il quitte Cambridge pour la Monnaie royale, à Londres.
+repere: 1704 — *Optique*.
+repere: 1727 — Mort à Londres ; inhumé à l'abbaye de Westminster.
+repere: 1936 — Vente aux enchères de ses manuscrits ; Keynes en achète une partie.
+repere: 2019 — William Newman publie *Newton the Alchemist*.
+voir: alchimie, eirenee-philalethe, prisca-theologia, michel-sendivogius, temple-de-salomon
+
+# ── Figures ajoutées en 1.2 ─────────────────────────────────────────────────
+
+@ jerome-cardan
+cat: figures
+nom: Jérôme Cardan
+alias: Girolamo Cardano, Cardano, Cardanus, De la subtilité, horoscope du Christ
+dates: 1501 – 1576
+an: 1501
+def: Médecin, mathématicien et astrologue italien de la Renaissance, esprit encyclopédique et inquiet, qui fit scandale en dressant l'horoscope du Christ.
+texte: Girolamo Cardano naît à Pavie en 1501, fils naturel d'un juriste versé en géométrie, ami de Léonard de Vinci. Enfant chétif, il étudie la médecine à Pavie et à Padoue, mais le collège des médecins de Milan refuse longtemps de l'admettre à cause de sa naissance illégitime. Il connaît la pauvreté, vit un temps du jeu — il écrira le premier traité sur le calcul des chances aux dés —, puis devient l'un des médecins les plus célèbres d'Europe : en 1552, il va jusqu'en Écosse soigner l'archevêque de Saint Andrews.
+texte: Mathématicien de génie, il publie en 1545 *Le Grand Art*, où il donne la résolution des équations du troisième et du quatrième degré, au prix d'une querelle avec Tartaglia, qui lui avait confié sa méthode. Ses encyclopédies, *De la subtilité* (1550) et *De la variété des choses* (1557), mêlent physique, mécanique, merveilles de la nature, [[demonologie|démons]] et [[magie-naturelle|magie naturelle]]. Il invente un système de suspension qui porte encore son nom.
+texte: Astrologue réputé, il publie des recueils d'horoscopes de personnages illustres et commente le *[[tetrabiblos|Tétrabible]]* de Ptolémée. En 1552, il prédit une longue vie au jeune roi Édouard VI d'Angleterre, qui meurt l'année suivante. Dans son commentaire, il ose dresser l'horoscope du Christ, comme si sa vie dépendait des astres : le scandale le poursuivra. Il s'intéresse aussi à la lecture des lignes du front, la métoposcopie, et raconte dans son autobiographie, *Ma vie*, ses rêves prémonitoires et l'esprit familier qui, comme celui de son père, le guidait.
+texte: Sa vieillesse est assombrie : son fils aîné est exécuté en 1560 pour avoir empoisonné sa femme, et l'Inquisition l'arrête en 1570 à Bologne, puis lui interdit d'enseigner et de publier. Il finit sa vie à Rome, pensionné par le pape, et y meurt en 1576 ; la légende veut qu'il se soit laissé mourir de faim pour accomplir sa propre prédiction.
+repere: 1501 — Naissance à Pavie.
+repere: 1526 — Docteur en médecine à Padoue.
+repere: 1539 — Il est enfin admis au collège des médecins de Milan.
+repere: 1545 — *Le Grand Art*, où il publie la résolution des équations du troisième degré.
+repere: 1550 — *De la subtilité*.
+repere: 1552 — Voyage en Écosse ; il dresse l'horoscope du jeune Édouard VI.
+repere: 1554 — Commentaire du *Tétrabible*, avec l'horoscope du Christ.
+repere: 1560 — Son fils aîné est exécuté pour avoir empoisonné sa femme.
+repere: 1570 — Arrêté par l'Inquisition à Bologne.
+repere: 1576 — Mort à Rome.
+oeuvres: Le Grand Art (1545) ; De la subtilité (1550) ; De la variété des choses (1557) ; Ma vie (écrite en 1575-1576)
+voir: astrologie, theme-astral, magie-naturelle, physiognomonie, tetrabiblos
+
+@ giambattista-della-porta
+cat: figures
+nom: Giambattista della Porta
+alias: Della Porta, Jean-Baptiste Porta, Magia naturalis, Magie naturelle, académie des Secrets
+dates: 1535 – 1615
+an: 1535
+def: Savant napolitain, auteur de la Magie naturelle, recueil de secrets de la nature et des arts qui fit de la magie une science expérimentale, et pionnier de l'optique, de la cryptographie et de la physiognomonie.
+texte: Giambattista della Porta naît en 1535 près de Naples, dans une famille noble. Instruit chez lui, avec son frère, par des précepteurs, il voyage en Italie, en France et en Espagne pour recueillir des secrets auprès des savants et des artisans. À vingt-trois ans, en 1558, il publie *Magie naturelle*, en quatre livres, qu'il reprendra en 1589 en vingt livres.
+texte: La [[magie-naturelle|magie naturelle]], pour lui, est la partie pratique de la philosophie de la nature : elle produit des effets étonnants en connaissant les [[sympathie-universelle|sympathies]] et les antipathies des choses. Son livre est un trésor de recettes et d'expériences : distillation, parfums, cosmétiques, cuisine, teintures, aimants, encres invisibles, illusions d'optique. Il y décrit la chambre noire munie d'une lentille, qui projette les images du dehors. Le succès est européen.
+texte: Chez lui se réunit une « académie des Secrets », où l'on n'est admis qu'en apportant un secret inconnu ; soupçonnée de magie, elle doit fermer sur ordre de Rome. Della Porta publie aussi un traité de cryptographie, une *Physionomie humaine* (1586) dont les gravures comparent des visages d'hommes à des têtes d'animaux pour en déduire les caractères — l'une des sources de la [[physiognomonie]] moderne —, une *Phytognomonica* sur les [[signatures]] des plantes, des traités d'optique, et une quinzaine de comédies.
+texte: Membre en 1610 de l'Académie des Lynx, à Rome, aux côtés de Galilée, il revendique l'invention de la lunette astronomique. Il meurt à Naples en 1615. Son œuvre marque la transition entre la magie de la Renaissance et la science expérimentale : chez lui, le merveilleux devient objet d'expérience.
+repere: 1535 — Naissance près de Naples.
+repere: 1558 — *Magie naturelle*, en quatre livres.
+repere: 1563 — Traité de cryptographie, *Des notes secrètes des lettres*.
+repere: années 1570 — Soupçonnée de magie, son académie des Secrets doit fermer.
+repere: 1586 — *De la physionomie humaine*.
+repere: 1588 — *Phytognomonica*, sur les signatures des plantes.
+repere: 1589 — Édition augmentée de la *Magie naturelle*, en vingt livres.
+repere: 1610 — Membre de l'Académie des Lynx, à Rome.
+repere: 1615 — Mort à Naples.
+oeuvres: Magie naturelle (1558, augmentée en 1589) ; De la physionomie humaine (1586) ; Phytognomonica (1588)
+voir: magie-naturelle, physiognomonie, signatures, sympathie-universelle, steganographia
+
+@ tommaso-campanella
+cat: figures
+nom: Tommaso Campanella
+alias: Campanella, La Cité du Soleil, Civitas Solis
+dates: 1568 – 1639
+an: 1568
+def: Moine dominicain calabrais, philosophe de la nature et prophète, qui passa vingt-sept ans en prison, écrivit La Cité du Soleil et pratiqua la magie astrale pour protéger le pape Urbain VIII.
+texte: Fils d'un cordonnier, Giovan Domenico Campanella naît en 1568 à Stilo, en Calabre, et entre à quatorze ans chez les Dominicains sous le nom de Tommaso. Lecteur passionné du philosophe Telesio, qui fonde la connaissance sur les sens, il publie en 1591 *La Philosophie démontrée par les sens*. Ses idées lui valent plusieurs procès ; on l'accuse même d'avoir un démon familier.
+texte: En 1599, persuadé par des signes astrologiques et prophétiques que de grands bouleversements approchent, il prend part en Calabre à un complot contre la domination espagnole, qui veut fonder une république théocratique. Trahi, arrêté, torturé pendant trente-six heures, il simule la folie pour échapper à la mort, et reste vingt-sept ans en prison à Naples.
+texte: C'est en prison qu'il écrit l'essentiel de son œuvre, dont *La [[la-cite-du-soleil|Cité du Soleil]]* (1602), utopie où une cité aux sept enceintes concentriques, peintes de toute la science du monde comme une [[art-de-la-memoire|mémoire]] murale, est gouvernée par un prêtre-philosophe, le Soleil, assisté de Puissance, Sagesse et Amour ; les biens y sont communs et les naissances réglées selon les astres. Il y écrit aussi *Du sens des choses et de la magie*, qui prête à toute la nature une sensibilité, et une *Apologie de Galilée*.
+texte: Libéré en 1626, il gagne Rome, où il devient l'astrologue du pape Urbain VIII, effrayé par des éclipses qui annonçaient sa mort : en 1628, dans une chambre close tendue de blanc, avec des flambeaux figurant les planètes, des parfums, des pierres et de la musique, Campanella pratique avec lui des rites de magie astrale inspirés de [[marsile-ficin]]. Menacé de nouveau, il se réfugie à Paris en 1634, sous la protection de Richelieu et de Louis XIII, célèbre la naissance du futur Louis XIV et meurt à Paris en 1639.
+repere: 1568 — Naissance à Stilo, en Calabre, fils d'un cordonnier.
+repere: 1582 — Il entre chez les Dominicains.
+repere: 1591 — *La Philosophie démontrée par les sens*.
+repere: 1599 — Il prend part à un complot contre l'Espagne en Calabre ; arrêté, torturé, il simule la folie.
+repere: 1602 — En prison, il écrit *La Cité du Soleil*.
+repere: 1616 — Il écrit une *Apologie de Galilée*.
+repere: 1626 — Libéré après vingt-sept ans de prison.
+repere: 1628 — À Rome, il pratique avec Urbain VIII des rites pour conjurer les éclipses.
+repere: 1634 — Il se réfugie à Paris, sous la protection de Richelieu.
+repere: 1639 — Mort à Paris.
+oeuvres: La Philosophie démontrée par les sens (1591) ; La Cité du Soleil (écrite en 1602, publiée en 1623) ; Du sens des choses et de la magie (1620) ; Apologie de Galilée (1622)
+voir: la-cite-du-soleil, magie-naturelle, astrologie, marsile-ficin, sympathie-universelle
+
+@ jean-wier
+cat: figures
+nom: Jean Wier
+alias: Johann Weyer, Johannes Wierus, Wierus, Des illusions des démons, Pseudomonarchia daemonum
+dates: 1515 – 1588
+an: 1515
+def: Médecin brabançon, disciple de Corneille Agrippa, qui contesta la réalité des crimes des sorcières et réclama qu'on les soigne au lieu de les brûler.
+texte: Né à Grave, dans le Brabant, en 1515 ou 1516, dans une famille de marchands, Jean Wier entre jeune au service de [[cornelius-agrippa|Corneille Agrippa]], dont il est le disciple et le secrétaire à Bonn et à Anvers. Il étudie ensuite la médecine à Paris et à Orléans, devient médecin de la ville d'Arnhem, puis, en 1550, médecin du duc de Clèves, prince humaniste et tolérant, à Düsseldorf.
+texte: En 1563, il publie à Bâle *Des illusions des démons*, l'un des premiers grands réquisitoires contre la [[chasse-aux-sorcieres|chasse aux sorcières]]. Wier ne nie pas l'existence du diable ; mais les femmes accusées de [[sorcellerie]], le plus souvent de vieilles femmes mélancoliques et ignorantes, sont selon lui les victimes des illusions que le démon leur met en tête, non ses complices : leurs aveux décrivent des choses impossibles, obtenues sous la torture. Il faut les soigner et les instruire, non les brûler. Les vrais coupables sont les magiciens savants, qui pratiquent sciemment les arts défendus.
+texte: À l'édition de 1577, il ajoute un catalogue de soixante-neuf démons, avec leurs rangs et leurs pouvoirs, tiré d'un grimoire, la *Pseudomonarchie des démons*, pour montrer la folie des magiciens : ironie de l'histoire, cette liste deviendra l'une des sources de la *[[goetie|Goétie]]* et de la [[demonologie]] des occultistes.
+texte: Le livre fait scandale. En 1580, [[jean-bodin|Jean Bodin]] le réfute avec violence dans sa *Démonomanie des sorciers*, et accuse Wier d'être lui-même un sorcier. Wier meurt en 1588 à Tecklenburg. Son œuvre, lue en Angleterre et aux Pays-Bas, a contribué au lent recul des procès de sorcellerie ; on a même vu en lui l'un des pères de la psychiatrie.
+repere: 1515 ou 1516 — Naissance à Grave, dans le Brabant.
+repere: vers 1532 — Disciple et secrétaire de Corneille Agrippa.
+repere: 1545 — Médecin de la ville d'Arnhem.
+repere: 1550 — Médecin du duc de Clèves.
+repere: 1563 — *Des illusions des démons*.
+repere: 1577 — Il ajoute à son livre la *Pseudomonarchie des démons*.
+repere: 1580 — Jean Bodin le réfute dans *La Démonomanie des sorciers*.
+repere: 1588 — Mort à Tecklenburg.
+oeuvres: Des illusions des démons (1563) ; Pseudomonarchie des démons (1577) ; Des lamies (1577)
+voir: chasse-aux-sorcieres, sorcellerie, demonologie, cornelius-agrippa, jean-bodin, goetie
+
+@ jean-bodin
+cat: figures
+nom: Jean Bodin
+alias: Bodin, Démonomanie des sorciers, Les Six Livres de la République, Colloque des sept sages
+dates: 1529 ou 1530 – 1596
+an: 1530
+def: Juriste et penseur politique angevin, théoricien de la souveraineté, qui fut aussi l'un des grands théoriciens de la répression de la sorcellerie avec sa Démonomanie des sorciers.
+texte: Jean Bodin naît à Angers en 1529 ou 1530. Novice chez les Carmes dans sa jeunesse, il étudie et enseigne le droit à Toulouse, puis devient avocat à Paris. Il publie une *Méthode pour la connaissance facile de l'histoire* (1566), où il explique le caractère des peuples par les climats, et une réponse à un conseiller du roi où il montre que la hausse des prix vient de l'afflux de l'or et de l'argent d'Amérique : c'est l'une des premières analyses de l'inflation.
+texte: *Les Six Livres de la République* (1576) fondent la théorie moderne de la souveraineté, puissance absolue et perpétuelle de l'État. Député aux états généraux de Blois la même année, il plaide pour la paix religieuse. Il sert ensuite le duc d'Alençon, frère du roi, puis devient procureur du roi à Laon.
+texte: En 1578, il participe à Ribemont au procès d'une femme accusée de [[sorcellerie]], Jeanne Harvillier, qui est brûlée vive. Deux ans plus tard, il publie *De la démonomanie des sorciers* : il y décrit le pacte avec le diable, le [[sabbat]], les métamorphoses, défend l'usage de la torture et réclame les peines les plus sévères. Il y attaque violemment [[jean-wier]], qui voulait soigner les sorcières plutôt que les punir. Traduit dans plusieurs langues, le livre devient l'un des manuels de la [[chasse-aux-sorcieres|chasse aux sorcières]]. Bodin y confie qu'un esprit bienveillant guide l'un de ses amis, en qui l'on a reconnu Bodin lui-même.
+texte: Paradoxe : le même homme écrit vers 1588 un *Colloque des sept sages*, dialogue entre un catholique, un luthérien, un calviniste, un juif, un musulman, un païen et un adepte de la religion naturelle, qui plaide pour la tolérance ; resté manuscrit, il ne paraît qu'au XIXe siècle. Bodin meurt à Laon en 1596, de la peste.
+repere: 1529 ou 1530 — Naissance à Angers.
+repere: 1566 — *Méthode pour la connaissance facile de l'histoire*.
+repere: 1568 — Il explique la hausse des prix par l'afflux de l'argent d'Amérique.
+repere: 1576 — *Les Six Livres de la République* ; député aux états généraux de Blois.
+repere: 1578 — Il participe au procès de Jeanne Harvillier, brûlée vive pour sorcellerie.
+repere: 1580 — *De la démonomanie des sorciers*.
+repere: vers 1588 — Il écrit le *Colloque des sept sages*, plaidoyer pour la tolérance resté inédit.
+repere: 1596 — Mort à Laon.
+oeuvres: Les Six Livres de la République (1576) ; De la démonomanie des sorciers (1580) ; Colloque des sept sages (vers 1588, publié en 1857)
+voir: chasse-aux-sorcieres, sorcellerie, sabbat, demonologie, jean-wier
+
+@ johannes-kepler
+cat: figures
+nom: Johannes Kepler
+alias: Kepler, Jean Kepler, Harmonices mundi, L'Harmonie du monde, Mysterium cosmographicum
+dates: 1571 – 1630
+an: 1571
+def: Astronome allemand, découvreur des lois du mouvement des planètes, qui chercha l'harmonie géométrique et musicale du monde et voulut réformer l'astrologie.
+texte: Johannes Kepler naît en 1571 à Weil der Stadt, dans le Wurtemberg, dans une famille pauvre ; une variole d'enfance affaiblit sa vue. Étudiant en théologie luthérienne à Tübingen, il découvre auprès de son maître Michael Maestlin le système de Copernic. Professeur de mathématiques à Graz en 1594, il doit aussi publier des calendriers astrologiques, dont les prédictions — un hiver rigoureux, une invasion turque — se réalisent et le font connaître.
+texte: Dans *Le Mystère cosmographique* (1596), il croit découvrir le plan de Dieu : les cinq polyèdres réguliers de [[platon]], emboîtés, déterminent les distances des six planètes au Soleil. Il rejoint en 1600 Tycho Brahe à Prague et lui succède l'année suivante comme mathématicien de l'empereur [[rodolphe-ii|Rodolphe II]]. En étudiant les observations de Tycho sur Mars, il découvre que les planètes décrivent des ellipses et non des cercles : *L'Astronomie nouvelle* (1609) ruine deux mille ans de cosmologie.
+texte: Kepler reste pourtant astrologue, et le revendique. Il dresse des horoscopes, dont celui du général Wallenstein, et plaide dans *Tertius interveniens* (1610) pour une [[astrologie]] réformée, débarrassée des superstitions : les astres n'agissent pas directement, mais l'âme humaine perçoit les configurations harmonieuses des planètes, les [[aspects]], comme on perçoit les accords en musique ; il invente même de nouveaux aspects.
+texte: De 1615 à 1621, il défend sa mère, accusée de sorcellerie, qui finit par être libérée. Dans *L'Harmonie du monde* (1619), où il énonce sa troisième loi, il retrouve l'[[harmonie-des-spheres|harmonie des sphères]] des pythagoriciens : chaque planète chante une mélodie selon les variations de sa vitesse, la Terre répétant mi, fa, mi — *miseria*, *fames*, misère et famine. Il y polémique avec [[robert-fludd]], dont il rejette les figures symboliques au nom des mathématiques. Il meurt à Ratisbonne en 1630.
+repere: 1571 — Naissance à Weil der Stadt, dans le Wurtemberg.
+repere: 1594 — Professeur de mathématiques à Graz, où il publie des calendriers astrologiques.
+repere: 1596 — *Le Mystère cosmographique*.
+repere: 1600 — Il rejoint Tycho Brahe à Prague.
+repere: 1601 — Mathématicien de l'empereur Rodolphe II.
+repere: 1609 — *L'Astronomie nouvelle*, qui établit les orbites elliptiques.
+repere: 1610 — *Tertius interveniens*, plaidoyer pour une astrologie réformée.
+repere: 1615 — Sa mère est accusée de sorcellerie ; il la défend pendant six ans.
+repere: 1619 — *L'Harmonie du monde*.
+repere: 1627 — *Tables rudolphines*.
+repere: 1630 — Mort à Ratisbonne.
+oeuvres: Le Mystère cosmographique (1596) ; L'Astronomie nouvelle (1609) ; Tertius interveniens (1610) ; L'Harmonie du monde (1619)
+voir: harmonie-des-spheres, astrologie, aspects, robert-fludd, rodolphe-ii, pythagorisme
+
+@ jean-baptiste-morin
+cat: figures
+nom: Jean-Baptiste Morin
+alias: Morin de Villefranche, Morinus, Astrologia gallica
+dates: 1583 – 1656
+an: 1583
+def: Médecin, mathématicien et astrologue français, professeur au Collège royal, dont l'Astrologia gallica voulut faire de l'astrologie une science rationnelle.
+texte: Jean-Baptiste Morin naît en 1583 à Villefranche-en-Beaujolais. Docteur en médecine d'Avignon en 1613, il entre au service d'un évêque, qui l'envoie étudier les mines d'Europe centrale, puis devient médecin et astrologue de grands seigneurs. En 1630, il obtient la chaire de mathématiques du Collège royal, à Paris, qu'il occupe jusqu'à sa mort.
+texte: Savant combatif, il défend l'immobilité de la Terre contre les coperniciens, polémique avec le philosophe Gassendi et propose une méthode pour déterminer les longitudes en mer par la position de la Lune, qu'une commission rejette en 1634, mais qui lui vaut une pension. Il est consulté comme astrologue par les grands, de Richelieu à Mazarin ; la tradition veut qu'il ait observé, caché derrière un rideau, la naissance du futur Louis XIV en 1638 pour en dresser l'horoscope.
+texte: Son grand œuvre, l'*Astrologia gallica*, en vingt-six livres, n'est publié qu'après sa mort, en 1661, à La Haye, grâce au soutien de la reine de Pologne, Marie-Louise de Gonzague. Morin y veut fonder l'[[astrologie]] sur des principes rationnels, dans l'esprit de la philosophie de son temps : il rejette une grande partie des traditions arabes et élabore une théorie des « déterminations », où le sens d'une planète dépend des [[maisons]] qu'elle occupe et qu'elle gouverne dans le [[theme-astral|thème]].
+texte: Il meurt à Paris en 1656. Traduit en partie en français à la fin du XIXe siècle, son système a beaucoup influencé l'astrologie française du XXe siècle, qui voit en lui son grand théoricien classique.
+repere: 1583 — Naissance à Villefranche-en-Beaujolais.
+repere: 1613 — Docteur en médecine à Avignon.
+repere: 1630 — Professeur de mathématiques au Collège royal, à Paris.
+repere: 1634 — Une commission rejette sa méthode de détermination des longitudes.
+repere: 1638 — Selon la tradition, il observe en secret la naissance du futur Louis XIV.
+repere: 1656 — Mort à Paris.
+repere: 1661 — Publication posthume de l'*Astrologia gallica*, à La Haye.
+repere: 1897 — Une traduction française d'une partie de son œuvre relance son influence.
+oeuvres: Astrologia gallica (1661)
+voir: astrologie, theme-astral, maisons, dignites, jerome-cardan
+
+@ jan-baptist-van-helmont
+cat: figures
+nom: Jan Baptist van Helmont
+alias: Van Helmont, Helmont, Jean-Baptiste van Helmont, gaz, archée
+dates: 1580 – 1644
+an: 1580
+def: Médecin et chimiste flamand, disciple critique de Paracelse, inventeur du mot « gaz », qui affirma avoir réalisé une transmutation et dut affronter l'Inquisition.
+texte: Jan Baptist van Helmont naît à Bruxelles en 1580, dans une famille noble. Déçu par l'enseignement de l'université de Louvain, il devient pourtant docteur en médecine en 1599, voyage en Europe, puis épouse en 1609 une riche héritière et se retire sur ses terres de Vilvorde, près de Bruxelles, pour se consacrer à ses recherches au laboratoire.
+texte: Disciple critique de [[paracelse]], il rejette la médecine des humeurs et cherche les causes des maladies dans les processus chimiques du corps. Chaque organisme est gouverné par un principe vital, l'[[archee|archée]], et la digestion se fait par des ferments. Expérimentateur, il fait pousser pendant cinq ans un saule dans un pot de terre pesée, et conclut que l'arbre est fait d'eau. Il étudie les vapeurs qui se dégagent du charbon qui brûle ou du moût qui fermente, et leur donne un nom tiré du « chaos » des Grecs : le gaz. Il cherche aussi l'[[alkahest]], le dissolvant universel annoncé par Paracelse.
+texte: Van Helmont affirme aussi avoir réalisé une [[transmutation]] : en 1618, un inconnu lui aurait donné un quart de grain d'une poudre avec laquelle il aurait changé huit onces de mercure en or. Le témoignage, venant d'un savant aussi exigeant, a beaucoup compté pour les alchimistes.
+texte: En 1621, il publie un traité sur la guérison « magnétique » des plaies, l'onguent armaire, qu'il explique par des forces naturelles et non par le démon ; il y compare au passage les miracles des reliques à des effets naturels. La faculté de théologie de Louvain le condamne, l'Inquisition le poursuit pendant près de vingt ans, et il est assigné à résidence en 1634. Il meurt à Vilvorde en 1644. Son fils, François-Mercure, publie ses œuvres en 1648 ; la médecine helmontienne a profondément marqué la chimie anglaise, d'[[eirenee-philalethe|Eyrénée Philalèthe]] à Robert Boyle.
+repere: 1580 — Naissance à Bruxelles.
+repere: 1599 — Docteur en médecine à Louvain.
+repere: 1609 — Il se retire à Vilvorde pour se consacrer à ses recherches.
+repere: 1618 — Il dit avoir changé du mercure en or avec une poudre reçue d'un inconnu.
+repere: 1621 — Traité sur la guérison magnétique des plaies, qui le brouille avec l'Inquisition.
+repere: 1634 — Arrêté, il est assigné à résidence.
+repere: 1644 — Mort à Vilvorde.
+repere: 1648 — Son fils publie ses œuvres, l'*Origine de la médecine*.
+voir: paracelse, archee, iatrochimie, transmutation, alchimie, eirenee-philalethe
+
+@ alexander-seton
+cat: figures
+nom: Alexander Seton
+alias: Seton, le Cosmopolite, Cosmopolita, Sethon
+dates: mort en 1604
+an: 1602
+def: Alchimiste écossais, dit le Cosmopolite, qui parcourut l'Europe en réalisant, selon des témoins, des transmutations, avant d'être torturé par l'électeur de Saxe qui voulait son secret.
+texte: On ne sait presque rien des origines d'Alexander Seton, sinon qu'il était écossais, peut-être originaire des environs d'Édimbourg. Il apparaît en 1602 en Hollande, où un pilote qui l'avait hébergé raconta l'avoir vu changer du plomb en or. Commence alors un voyage à travers l'Europe, marqué de transmutations publiques dont plusieurs témoins ont laissé le récit, à une époque où les princes se disputaient les alchimistes.
+texte: À Bâle, en 1603, il opère devant deux savants, le médecin Jakob Zwinger et un professeur de Fribourg, Wolfgang Dienheim, d'abord sceptique, qui rapporta qu'avec un peu de poudre jetée sur du plomb fondu on obtint de l'or. On le retrouve à Strasbourg, à Cologne, à Hambourg, à Munich, où il épouse une jeune femme, toujours prompt à disparaître après ses démonstrations, comme un « cosmopolite » sans patrie.
+texte: Sa réputation le perd. L'électeur de Saxe, Christian II, l'attire à Dresde et, faute de lui arracher son secret par la persuasion, le fait emprisonner et torturer, sur le chevalet et par le feu. À la fin de 1603, l'alchimiste polonais [[michel-sendivogius]] soudoie les gardes et le fait évader. Brisé, Seton meurt peu après, à Cracovie, au début de 1604, laissant, dit la légende, le reste de sa poudre de [[projection]] à son libérateur, qui épouse sa veuve.
+texte: Seton est devenu l'un des grands exemples des alchimistes « adeptes » qui auraient réussi la [[pierre-philosophale]] ; les historiens lisent ces récits de [[transmutation]] comme des tours de main habiles ou des témoignages embellis. Son surnom de Cosmopolite a été donné à la *Nouvelle Lumière chimique* de Sendivogius, qu'on lui attribua parfois.
+repere: 1602 — En Hollande, il réalise devant témoins sa première transmutation connue.
+repere: 1603 — À Bâle, il opère devant deux savants qui en témoignent.
+repere: 1603 — Emprisonné et torturé à Dresde, il est délivré par Michel Sendivogius.
+repere: 1604 — Mort à Cracovie, des suites de ses blessures.
+voir: michel-sendivogius, transmutation, pierre-philosophale, projection, alchimie
+
+@ jane-lead
+cat: figures
+nom: Jane Lead
+alias: Jane Leade, Société philadelphienne, Philadelphiens, Sophia
+dates: 1624 – 1704
+an: 1624
+def: Mystique et théosophe anglaise, disciple de Boehme, qui disait recevoir les révélations de la Sagesse divine, Sophia, et fonda la Société philadelphienne.
+texte: Jane Ward naît en 1624 dans le Norfolk, dans une famille de la petite noblesse. À quinze ans, au milieu d'une fête de Noël, une voix intérieure la détourne des plaisirs du monde. Elle épouse en 1644 un marchand, William Lead, dont elle a quatre filles. Veuve en 1670 et ruinée, elle a en avril de cette année une vision : une femme de lumière lui apparaît et lui dit être « l'éternelle Vierge-Sagesse de Dieu ». Dès lors, [[sophia]] ne cesse de lui parler.
+texte: Elle rejoint à Londres le cercle du médecin et théosophe John Pordage, disciple anglais de [[jakob-boehme]], et vit dans sa maison. Elle tient le journal de ses visions, qu'elle publie sous le titre de *Jardin des sources*, et une série de livres où elle décrit les mondes spirituels, le paradis intérieur et les étapes de la renaissance de l'âme. Elle annonce le retour prochain du Christ et une Église de l'amour fraternel, « Philadelphie », qui dépassera toutes les confessions.
+texte: Elle professe aussi la « restitution de toutes choses » : à la fin des temps, toutes les créatures, même les damnés et les démons, seront sauvées. En 1697, avec le médecin Francis Lee, qui épouse sa fille, elle fonde la Société philadelphienne, qui tient des réunions publiques à Londres. Traduits en allemand et en néerlandais, ses écrits ont un écho plus grand encore sur le continent, où ils nourrissent les piétistes radicaux.
+texte: Devenue aveugle, elle continue de dicter ses visions et meurt à Londres en 1704. Elle est l'une des grandes figures féminines de la [[theosophie-chretienne|théosophie chrétienne]], et la plus importante des visionnaires de Sophia.
+repere: 1624 — Naissance dans le Norfolk.
+repere: 1644 — Elle épouse un marchand, William Lead.
+repere: 1670 — Veuve, elle a en avril une vision de la Sagesse divine, Sophia.
+repere: vers 1674 — Elle rejoint le cercle du théosophe John Pordage.
+repere: 1681 — Premier livre, *The Heavenly Cloud Now Breaking*.
+repere: vers 1695 — Ses écrits sont traduits en allemand et en néerlandais.
+repere: 1697 — Fondation de la Société philadelphienne.
+repere: 1704 — Mort à Londres.
+voir: sophia, jakob-boehme, theosophie-chretienne, mystique, androgyne
+
+@ rodolphe-ii
+cat: figures
+nom: Rodolphe II
+alias: Rodolphe II de Habsbourg, Rudolf II, l'empereur alchimiste, Prague magique
+dates: 1552 – 1612
+an: 1552
+def: Empereur germanique installé à Prague, protecteur des astronomes, des alchimistes et des artistes, dont la cour fut la capitale européenne des sciences secrètes.
+texte: Fils de l'empereur Maximilien II, Rodolphe naît à Vienne en 1552 et passe huit ans de sa jeunesse en Espagne, à la cour austère de son oncle Philippe II. Élu empereur en 1576, il installe en 1583 sa cour à Prague, qu'il ne quittera presque plus. Mélancolique, solitaire, peu doué pour la politique, il se passionne pour les arts, les sciences et les secrets de la nature.
+texte: Dans son château, il réunit une immense chambre des merveilles : tableaux, sculptures, horloges et automates, instruments scientifiques, pierres précieuses, coraux, cornes de licorne et racines de [[mandragore]]. Le peintre Arcimboldo le représente en Vertumne, dieu des saisons, le visage composé de fruits et de légumes. Il achète, dit-on, le mystérieux manuscrit Voynich, qu'on croyait de Roger Bacon.
+texte: Prague devient la capitale européenne des sciences secrètes. L'empereur reçoit [[john-dee]] et [[edward-kelley]], fait de Kelley son alchimiste, accueille [[michel-sendivogius]], [[michael-maier]], et d'innombrables souffleurs ; il installe un laboratoire au château. Il protège les astronomes Tycho Brahe et [[johannes-kepler]], qui lui dédie ses *Tables rudolphines*. La légende de la « ruelle d'or », où auraient travaillé ses alchimistes, est plus tardive : y logeaient surtout des gardes et des orfèvres.
+texte: Son règne s'achève mal. Pendant la longue guerre contre les Turcs, son frère Matthias lui enlève une à une ses couronnes ; en 1609, Rodolphe accorde aux protestants de Bohême la liberté religieuse par la *Lettre de Majesté*, mais il doit abdiquer la couronne de Bohême en 1611 et meurt l'année suivante à Prague. Sa cour a laissé l'image d'une « Prague magique » chère aux écrivains, de Gustav Meyrink à Angelo Maria Ripellino.
+repere: 1552 — Naissance à Vienne.
+repere: 1563 — Il est envoyé à la cour d'Espagne, chez son oncle Philippe II.
+repere: 1576 — Empereur du Saint-Empire.
+repere: 1583 — Il installe sa cour à Prague.
+repere: 1584 — Il reçoit John Dee et Edward Kelley.
+repere: vers 1590 — Arcimboldo le peint en Vertumne, dieu des saisons.
+repere: 1599 — Tycho Brahe devient son astronome.
+repere: 1609 — *Lettre de Majesté*, qui accorde la liberté religieuse aux protestants de Bohême.
+repere: 1611 — Son frère Matthias le force à abdiquer la couronne de Bohême.
+repere: 1612 — Mort à Prague.
+repere: 1627 — Kepler publie les *Tables rudolphines*, qui portent son nom.
+voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie

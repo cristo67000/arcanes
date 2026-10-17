@@ -129,6 +129,24 @@ for (const a of dico.articles) {
 ok(vues.size === images.length, 'chaque image paraît dans au moins un article (' + vues.size + ' / ' + images.length + ')');
 ok(sw.includes("const IMAGES = 'arcanes-images'") && lire('js/illustrations.js').includes("const CACHE = 'arcanes-images'"), 'la page et le service worker partagent le cache des images');
 
+// ── Les repères et les liens « Pour aller plus loin » ───────────────────────
+const avecReperes = dico.articles.filter((a) => a.re);
+ok(avecReperes.length >= 150, 'des biographies ont leurs repères (' + avecReperes.length + ')');
+ok(avecReperes.every((a) => a.re.length >= 2 && a.re.every((r) => r.length === 2 && r[0] && r[1])), 'chaque repère a une date et un fait');
+ok(dico.articles.filter((a) => a.c === 'figures').every((a) => a.re), 'chaque figure a ses repères');
+const adresses = new Set();
+let liensBons = true;
+for (const a of dico.articles) {
+  for (const l of a.li || []) {
+    if (!(l.length === 3 && l[0] && l[1] && /^https:\/\/[^\s"<>]+$/.test(l[2]))) liensBons = false;
+    adresses.add(l[2]);
+  }
+}
+ok(liensBons, 'chaque lien extérieur a sa source, son libellé et une adresse https');
+ok(dico.articles.filter((a) => a.li).length >= 500, 'la plupart des articles mènent ailleurs (' + adresses.size + ' adresses)');
+ok(!liste.some((f) => f.includes('liens')), 'les sources des liens ne sont pas dans la coquille');
+ok(lire('confidentialite.html').includes('Pour aller plus loin'), 'la page de confidentialité parle des liens extérieurs');
+
 console.log(bons + ' épreuve(s) statique(s) réussie(s)');
 if (echecs.length) {
   console.log(echecs.length + ' ÉCHEC(S) :');

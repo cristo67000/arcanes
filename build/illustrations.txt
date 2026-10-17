@@ -1483,3 +1483,250 @@ legende: L’emblème de la Société théosophique, avec sa devise « Il n’y 
 credit: dessin, à partir de 1875
 pour: societe-theosophique
 largeur: 360
+
+# ── Portraits ajoutés en 1.2 ───────────────────────────────────────────────
+
+% Portraits ajoutés en 1.2
+largeur: 360
+
+= portrait-apulee
+commons: Apuleius-Kontorniat.jpg
+legende: Apulée, portrait imaginaire sur un médaillon contorniate
+credit: médaillon de la seconde moitié du IVe siècle, dessin publié par J. J. Bernoulli
+pour: apulee
+
+= portrait-philon
+commons: PhiloThevet.jpg
+legende: Philon d’Alexandrie, portrait imaginaire d’André Thevet
+credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
+pour: philon-d-alexandrie
+
+= portrait-porphyre
+commons: Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg
+legende: Porphyre, portrait imaginaire d’André Thevet
+credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
+pour: porphyre
+
+= portrait-platon
+commons: Plato Pio-Clemetino Inv305.jpg
+legende: Hermès de Platon, copie romaine d’un original grec du IVe siècle av. J.-C.
+credit: Rome, musées du Vatican, musée Pio-Clementino
+pour: platon
+
+= portrait-pierre-d-abano
+commons: Pietro d'Abano.jpg
+legende: Pierre d’Abano, portrait imaginaire du studiolo d’Urbino
+credit: Juste de Gand et Pedro Berruguete, vers 1476
+pour: pierre-d-abano
+
+= portrait-joachim
+commons: Joachim von Fiore in seinem Studierzimmer, Holzschnitt 1516.jpg
+legende: Joachim de Flore dans son cabinet d’étude
+credit: gravure sur bois, 1516
+pour: joachim-de-flore
+
+= portrait-plethon
+commons: Benozzo Gozzoli, Pletone, Cappella dei Magi.jpg
+legende: Gémiste Pléthon, figuré selon la tradition dans le cortège des Mages
+credit: Benozzo Gozzoli, chapelle des Mages du palais Medici-Riccardi, Florence, vers 1460
+pour: gemiste-plethon
+
+= portrait-agrippa
+commons: Agrippa von Nettesheim.jpg
+legende: Corneille Agrippa
+credit: gravure sur bois, XVIe siècle
+pour: cornelius-agrippa
+
+= portrait-cardan
+commons: Mathematician Girolamo Cardano, half-length portrait in oval, facing right, with text below LCCN92518239.jpg
+legende: Jérôme Cardan
+credit: gravure, XVIe siècle — Library of Congress
+pour: jerome-cardan
+recadrer: 0.31 0.09 0.63 0.41
+
+= portrait-della-porta
+commons: Portret van Giovanni Battista della Porta Portretten van beroemde Italianen in ovalen (serietitel), RP-P-1909-4734 (cropped).jpg
+legende: Giambattista della Porta
+credit: gravure, fin du XVIIIe ou début du XIXe siècle — Rijksmuseum
+pour: giambattista-della-porta
+
+= portrait-campanella
+commons: Cozza Tommaso Campanella.jpg
+legende: Tommaso Campanella
+credit: Francesco Cozza, XVIIe siècle
+pour: tommaso-campanella
+
+= portrait-wier
+commons: Johann Weyer.png
+legende: Jean Wier, à l’âge de soixante ans
+credit: gravure sur bois de 1577, retouchée
+pour: jean-wier
+
+= portrait-bodin
+commons: Jean Bodin.jpg
+legende: Jean Bodin
+credit: gravure de François Stuerhelt, avant 1620
+pour: jean-bodin
+
+= portrait-kepler
+commons: JKepler.jpg
+legende: Johannes Kepler, d’après un portrait de 1610
+credit: copie d’August Köhler, 1910
+pour: johannes-kepler
+
+= portrait-morin
+commons: Jean-Baptiste Morin b1583.jpg
+legende: Jean-Baptiste Morin de Villefranche
+credit: gravure ancienne
+pour: jean-baptiste-morin
+
+= portrait-rodolphe-ii
+commons: Joseph Heintz d. Ä. 002.jpg
+legende: L’empereur Rodolphe II
+credit: Joseph Heintz l’Ancien, 1594
+pour: rodolphe-ii
+
+= portrait-bruno
+commons: Giordano Bruno. Caterina Piotti-Pirola sculp.jpg
+legende: Giordano Bruno, portrait gravé
+credit: Caterina Piotti Pirola, 1837
+pour: giordano-bruno
+recadrer: 0.17 0.2 0.83 0.68
+
+= portrait-kelley
+commons: Ebenezer Sibly - Edwḍ Kelly, a Magician. in the Act of invoking the Spirit of a Deceased Person.jpg
+legende: Edward Kelley évoquant l’esprit d’un mort dans un cimetière, selon la légende
+credit: gravure d’Ames d’après Ebenezer Sibly, 1807
+pour: edward-kelley
+
+= portrait-oetinger
+commons: F-c-oetinger-by-eger1775.jpg
+legende: Friedrich Christoph Oetinger
+credit: Georg Adam Eger, 1775
+pour: friedrich-christoph-oetinger
+
+= portrait-lavater
+commons: Johann Kaspar Lavater.jpg
+legende: Johann Kaspar Lavater
+credit: August Friedrich Oelenhainz, XVIIIe siècle
+pour: johann-kaspar-lavater
+
+= portrait-puysegur
+commons: Armand de Chastelet, marquis de Puysegur (1751-1825).jpg
+legende: Le marquis de Puységur
+credit: école française, XVIIIe siècle
+pour: puysegur
+
+= portrait-preston
+commons: William Preston 1812.jpeg
+legende: William Preston
+credit: frontispice de la douzième édition des *Illustrations of Masonry*, 1812
+pour: william-preston
+
+= portrait-baader
+commons: Franz Xaver von Baader.jpg
+legende: Franz von Baader
+credit: portrait gravé, XIXe siècle
+pour: franz-von-baader
+
+= portrait-novalis
+commons: Novalis-1.jpg
+legende: Novalis
+credit: Franz Gareis, vers 1799
+pour: novalis
+
+= portrait-blake
+commons: William Blake by Thomas Phillips.jpg
+legende: William Blake
+credit: Thomas Phillips, 1807 — Londres, National Portrait Gallery
+pour: william-blake
+
+= portrait-barrett
+commons: Francis Barrett author picture.png
+legende: Francis Barrett, en frontispice de *The Magus*
+credit: gravure, 1801
+pour: francis-barrett
+
+= portrait-bulwer-lytton
+commons: Edward George Earle Lytton Bulwer Lytton, 1st Baron Lytton by Henry William Pickersgill.jpg
+legende: Edward Bulwer-Lytton
+credit: Henry William Pickersgill, vers 1831
+pour: edward-bulwer-lytton
+
+= portrait-hugo
+commons: Victor Hugo by Étienne Carjat 1876 - full.jpg
+legende: Victor Hugo
+credit: photographie d’Étienne Carjat, 1876
+pour: victor-hugo
+
+= portrait-soeurs-fox
+commons: Fox sisters.jpeg
+legende: Les sœurs Fox
+credit: image du XIXe siècle
+pour: soeurs-fox
+
+= portrait-home
+commons: Daniel Dunglas Home.jpg
+legende: Daniel Dunglas Home
+credit: photographie, XIXe siècle
+pour: daniel-dunglas-home
+
+= portrait-huysmans
+commons: Huysmans - photo André Taponier.jpg
+legende: Joris-Karl Huysmans
+credit: photographie de Frédéric Boissonnas et André Taponier, vers 1900
+pour: joris-karl-huysmans
+
+= portrait-taxil
+commons: Léo Taxil par H. Demare.png
+legende: Léo Taxil caricaturé par Henri Demare
+credit: Henri Demare, 1889
+pour: leo-taxil
+
+= portrait-maitre-philippe
+commons: Nizier Anthelme Philippe.jpg
+legende: Maître Philippe de Lyon
+credit: photographie, fin du XIXe siècle
+pour: maitre-philippe
+
+= portrait-sabbatai
+commons: Brockhaus and Efron Jewish Encyclopedia e13 783-0.jpg
+legende: Sabbataï Tsevi, gravure ancienne
+credit: reproduite dans l’*Encyclopédie juive* de Brockhaus et Efron, vers 1910
+pour: sabbatai-tsevi
+
+= portrait-flammarion
+commons: Camille Flammarion by Eugène Pirou.jpg
+legende: Camille Flammarion
+credit: photographie d’Eugène Pirou, 1883
+pour: camille-flammarion
+
+= portrait-palladino
+commons: Eusapia Palladino.jpg
+legende: Eusapia Palladino
+credit: photographie de Baldi, 1893
+pour: eusapia-palladino
+
+= portrait-richet
+commons: Charles Robert Richet nobel.jpg
+legende: Charles Richet
+credit: photographie, vers 1913
+pour: charles-richet
+
+= portrait-cayce
+commons: Cayce 1910.jpg
+legende: Edgar Cayce en 1910
+credit: photographie parue dans le *New York Times*, 1910
+pour: edgar-cayce
+
+= portrait-yeats
+commons: William Butler Yeats by George Charles Beresford.jpg
+legende: William Butler Yeats
+credit: photographie de George Charles Beresford, 1911
+pour: william-butler-yeats
+
+= portrait-yates
+commons: Frances Yates 1924.jpg
+legende: Frances Yates en 1924
+credit: photographie, 1924
+pour: frances-yates

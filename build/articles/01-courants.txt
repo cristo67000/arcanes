@@ -42,7 +42,7 @@ an: 130
 dates: IIe – IVe siècles
 def: Ensemble de mouvements religieux des premiers siècles chrétiens selon lesquels le monde matériel est l'œuvre d'un dieu inférieur, et le salut une connaissance qui libère l'étincelle divine prisonnière en l'homme.
 texte: Les gnostiques de l'Antiquité forment des écoles diverses — séthiens, valentiniens, disciples de [[basilide]] — mais partagent un récit. Au-dessus de tout règne un Dieu inconnaissable, entouré du [[plerome]], la plénitude de ses [[eon|éons]]. À la suite d'une faute, souvent celle de [[sophia]], naît un [[demiurge]] ignorant qui façonne le monde matériel et s'y croit le seul dieu. Des parcelles de lumière divine ont été enfermées dans les corps humains ; un révélateur, le Christ pour les gnostiques chrétiens, vient leur rappeler leur origine.
-texte: Combattus par les Pères de l'Église — Irénée de Lyon écrit vers 180 son *Contre les hérésies* —, les gnostiques ne nous étaient longtemps connus que par leurs adversaires. La découverte en 1945 des manuscrits coptes de la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] a donné accès à leurs propres textes et renouvelé leur étude.
+texte: Combattus par les Pères de l'Église — Irénée de Lyon écrit vers 180 son *Contre les hérésies*, qui en fait remonter l'origine à [[simon-le-magicien|Simon le Magicien]] —, les gnostiques ne nous étaient longtemps connus que par leurs adversaires. La découverte en 1945 des manuscrits coptes de la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] a donné accès à leurs propres textes et renouvelé leur étude.
 attention: Le gnosticisme, ensemble de mouvements antiques, ne se confond pas avec la [[gnose]], notion plus large qui désigne une connaissance salvatrice à toutes les époques.
 voir: gnose, valentin, basilide, demiurge, archonte, pistis-sophia, manicheisme
 
@@ -142,7 +142,7 @@ an: 1560
 dates: 1560 – 1700
 def: Mouvement médical, chimique et religieux issu des écrits de Paracelse, qui prône une médecine fondée sur les remèdes chimiques et une philosophie de la nature lue à la lumière de la Bible.
 texte: [[paracelse]] meurt en 1541 presque sans rien avoir publié ; ses manuscrits sont édités à partir des années 1560 et suscitent un mouvement européen. Ses disciples soignent par des remèdes minéraux préparés selon l'art des alchimistes — c'est la [[iatrochimie]] —, expliquent la matière par les [[tria-prima|trois principes]] (sel, soufre, mercure) et voient dans la nature un livre écrit par Dieu, à déchiffrer par la doctrine des [[signatures]].
-texte: Combattu par la faculté de médecine de Paris, défenseure de Galien, le paracelsisme triomphe à la cour de l'empereur Rodolphe II et dans plusieurs cours allemandes. Il nourrit la [[theosophie-chretienne|théosophie]] de [[jakob-boehme]], les manifestes [[rose-croix]] et la chimie naissante.
+texte: Combattu par la faculté de médecine de Paris, défenseure de Galien, le paracelsisme triomphe à la cour de l'empereur [[rodolphe-ii|Rodolphe II]] et dans plusieurs cours allemandes. Il nourrit la [[theosophie-chretienne|théosophie]] de [[jakob-boehme]], les manifestes [[rose-croix]] et la chimie naissante.
 voir: paracelse, iatrochimie, tria-prima, spagyrie, archee, signatures
 
 @ theosophie-chretienne
@@ -153,7 +153,7 @@ an: 1612
 dates: XVIIe – XIXe siècles
 def: Courant de spéculation mystique issu de Jakob Boehme, qui prétend connaître par illumination les mystères de Dieu, de la création et de la nature, en interprétant la Bible.
 texte: Le mot grec *theosophia*, « sagesse de Dieu », désigne à partir du XVIIe siècle un courant précis : celui des disciples de [[jakob-boehme]]. Le théosophe ne se contente pas de s'unir à Dieu, comme le mystique ; il veut comprendre la vie intérieure de la divinité, la genèse du monde, la chute de Lucifer et d'Adam, et l'avenir de la nature, en s'appuyant sur une révélation intérieure et sur une lecture symbolique de l'Écriture.
-texte: Après Boehme, cette tradition passe par Johann Georg Gichtel, John Pordage et Jane Leade en Angleterre, Friedrich Christoph Oetinger en Allemagne, puis [[louis-claude-de-saint-martin]] et [[karl-von-eckartshausen]]. Elle influence la philosophie romantique allemande et la [[naturphilosophie]].
+texte: Après Boehme, cette tradition passe par Johann Georg Gichtel, John Pordage et Jane Leade en Angleterre, Friedrich Christoph [[friedrich-christoph-oetinger|Oetinger]] en Allemagne, puis [[louis-claude-de-saint-martin]] et [[karl-von-eckartshausen]]. Elle influence la philosophie romantique allemande et la [[naturphilosophie]].
 attention: À ne pas confondre avec la [[theosophie]] de la Société théosophique, fondée en 1875, qui emprunte surtout à l'hindouisme et au bouddhisme.
 voir: jakob-boehme, aurore-naissante, louis-claude-de-saint-martin, sophia, illuminisme
 
@@ -188,7 +188,7 @@ an: 1779
 dates: depuis 1779
 def: Doctrine de Franz Anton Mesmer selon laquelle un fluide invisible baigne l'univers et les corps vivants, et dont la bonne circulation, rétablie par le magnétiseur, guérit les maladies.
 texte: Arrivé à Paris en 1778, [[franz-anton-mesmer]] soigne ses patients autour d'un « baquet » d'où sortent des tiges de fer, provoquant des crises convulsives qu'il juge salutaires. En 1784, une commission royale où siègent Lavoisier et Benjamin Franklin conclut que le fluide n'existe pas et que les effets observés viennent de l'imagination. La même année, le marquis de [[puysegur]] découvre le « somnambulisme magnétique » : un sommeil provoqué pendant lequel le sujet parle, se diagnostique et semble voir à distance.
-texte: Le magnétisme connaît une immense vogue au XIXe siècle. Il donne naissance à l'hypnose, que le médecin écossais James Braid nomme en 1843 en la débarrassant du fluide, et prépare le [[spiritisme]] : les somnambules annonçaient déjà des communications avec les esprits. Les occultistes, d'[[eliphas-levi]] à [[papus]], identifient le fluide de Mesmer à la [[lumiere-astrale]].
+texte: Le magnétisme connaît une immense vogue au XIXe siècle. Il donne naissance à l'[[hypnose|hypnose]], que le médecin écossais James Braid nomme en 1843 en la débarrassant du fluide, et prépare le [[spiritisme]] : les somnambules annonçaient déjà des communications avec les esprits. Les occultistes, d'[[eliphas-levi]] à [[papus]], identifient le fluide de Mesmer à la [[lumiere-astrale]].
 voir: franz-anton-mesmer, puysegur, lumiere-astrale, od, spiritisme, nouvelle-pensee
 
 @ naturphilosophie
@@ -198,7 +198,7 @@ alias: philosophie de la nature romantique, philosophie romantique de la nature
 an: 1797
 dates: 1797 – 1850
 def: Philosophie de la nature du romantisme allemand, qui voit dans l'univers un organisme vivant, traversé de polarités et d'analogies, où l'esprit se reconnaît.
-texte: Inaugurée par Schelling avec ses *Idées pour une philosophie de la nature* (1797), elle s'oppose à la science mécaniste : la nature n'est pas une machine mais l'esprit encore endormi. Le magnétisme, l'électricité, la chimie et la vie y sont des manifestations d'une même force, organisée en couples de contraires. Franz von Baader, lecteur de [[jakob-boehme]] et de [[louis-claude-de-saint-martin]], en donne une version théosophique.
+texte: Inaugurée par Schelling avec ses *Idées pour une philosophie de la nature* (1797), elle s'oppose à la science mécaniste : la nature n'est pas une machine mais l'esprit encore endormi. Le magnétisme, l'électricité, la chimie et la vie y sont des manifestations d'une même force, organisée en couples de contraires. [[franz-von-baader|Franz von Baader]], lecteur de [[jakob-boehme]] et de [[louis-claude-de-saint-martin]], en donne une version théosophique, tandis que des poètes comme [[novalis|Novalis]] en font une poésie de la nature.
 texte: Proche de l'ésotérisme par sa vision d'une nature vivante et de [[correspondances]] universelles, la Naturphilosophie a pourtant stimulé de véritables découvertes, comme celle de l'électromagnétisme par Hans Christian Ørsted en 1820, nourri de la pensée de Schelling.
 voir: theosophie-chretienne, correspondances, magnetisme-animal, ame-du-monde, johann-wolfgang-von-goethe
 
@@ -210,7 +210,7 @@ an: 1857
 dates: depuis 1857
 def: Doctrine codifiée par Allan Kardec selon laquelle les esprits des morts peuvent communiquer avec les vivants par l'intermédiaire de médiums, et l'âme progresse de vie en vie par la réincarnation.
 texte: La vogue des [[tables-tournantes]], venue d'Amérique, gagne la France en 1853 : dans les salons, on interroge les esprits par des coups frappés. Un pédagogue lyonnais, Hippolyte Léon Denizard Rivail, recueille et classe leurs réponses et publie en 1857, sous le nom d'[[allan-kardec]], *[[livre-des-esprits|Le Livre des Esprits]]*. La doctrine qu'il en tire se veut à la fois science expérimentale, philosophie et morale : l'âme survit à la mort, revêtue d'un [[perisprit]] ; elle se [[reincarnation|réincarne]] pour progresser ; la charité est la loi suprême.
-texte: Le spiritisme connaît un succès considérable, de Victor Hugo, qui interroge les tables à Jersey, aux milieux populaires et ouvriers. Il décline en France après la Première Guerre mondiale mais reste très vivant au Brésil, où il compte des millions de fidèles. Les occultistes, comme [[eliphas-levi]] et [[papus]], le jugeaient naïf : selon eux, les « esprits » n'étaient que des reflets de la [[lumiere-astrale]].
+texte: Le spiritisme connaît un succès considérable, de [[victor-hugo|Victor Hugo]], qui interroge les tables à Jersey, aux milieux populaires et ouvriers. Il décline en France après la Première Guerre mondiale mais reste très vivant au Brésil, où il compte des millions de fidèles. Les occultistes, comme [[eliphas-levi]] et [[papus]], le jugeaient naïf : selon eux, les « esprits » n'étaient que des reflets de la [[lumiere-astrale]].
 attention: Le spiritisme français, réincarnationniste, se distingue du [[spiritualisme]] anglo-saxon, qui le plus souvent ne l'est pas.
 voir: allan-kardec, medium, tables-tournantes, perisprit, spiritualisme, metapsychique
 
@@ -221,8 +221,8 @@ alias: spiritualism, modern spiritualism, spiritualisme anglo-saxon, sœurs Fox,
 an: 1848
 dates: depuis 1848
 def: Mouvement religieux né aux États-Unis en 1848, fondé sur la croyance que les morts communiquent avec les vivants par l'intermédiaire de médiums.
-texte: En mars 1848, à Hydesville, dans l'État de New York, deux jeunes sœurs, Kate et Margaret Fox, affirment correspondre par des coups frappés avec l'esprit d'un colporteur assassiné. L'affaire déclenche une vague de séances dans toute l'Amérique puis en Europe : coups, [[tables-tournantes|tables qui tournent]], [[ecriture-automatique|écriture automatique]], apparitions d'[[ectoplasme|ectoplasmes]]. En 1888, Margaret Fox reconnaît publiquement la fraude, avant de se rétracter l'année suivante.
-texte: Le spiritualisme se dote d'églises, de journaux et de médiums professionnels, et attire des savants qui veulent étudier ses phénomènes, d'où la Society for Psychical Research, fondée à Londres en 1882. Il nourrit la [[theosophie]] : [[helena-blavatsky]] et [[henry-steel-olcott]] se rencontrent en 1874 dans une ferme du Vermont réputée hantée.
+texte: En mars 1848, à Hydesville, dans l'État de New York, deux jeunes sœurs, [[soeurs-fox|Kate et Margaret Fox]], affirment correspondre par des coups frappés avec l'esprit d'un colporteur assassiné. L'affaire déclenche une vague de séances dans toute l'Amérique puis en Europe : coups, [[tables-tournantes|tables qui tournent]], [[ecriture-automatique|écriture automatique]], apparitions d'[[ectoplasme|ectoplasmes]]. En 1888, Margaret Fox reconnaît publiquement la fraude, avant de se rétracter l'année suivante.
+texte: Le spiritualisme se dote d'églises, de journaux et de médiums professionnels, et attire des savants qui veulent étudier ses phénomènes, d'où la [[society-for-psychical-research|Society for Psychical Research]], fondée à Londres en 1882. Il nourrit la [[theosophie]] : [[helena-blavatsky]] et [[henry-steel-olcott]] se rencontrent en 1874 dans une ferme du Vermont réputée hantée.
 attention: En philosophie, le « spiritualisme » est simplement la doctrine qui affirme l'existence de l'esprit comme réalité distincte de la matière ; c'est un tout autre sens.
 voir: spiritisme, medium, tables-tournantes, metapsychique, theosophie
 
@@ -300,7 +300,7 @@ alias: parapsychologie, recherche psychique, psychical research, psi, télépath
 an: 1882
 dates: depuis 1882
 def: Étude des phénomènes attribués aux médiums et aux facultés supposées de l'esprit — télépathie, clairvoyance, action à distance —, menée avec les méthodes de la science.
-texte: La Society for Psychical Research est fondée à Londres en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste Charles Richet, prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
+texte: La [[society-for-psychical-research|Society for Psychical Research]] est fondée à Londres en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste [[charles-richet|Charles Richet]], prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
 texte: Plus d'un siècle de recherches n'a pas produit de résultat que la communauté scientifique tienne pour établi : les effets annoncés disparaissent quand on renforce les contrôles ou qu'on répète les expériences. La métapsychique a en revanche démasqué bien des fraudes de médiums.
 voir: spiritualisme, medium, ectoplasme, voyance, tables-tournantes
 
@@ -333,7 +333,7 @@ alias: wiccan, wiccans, sorcellerie moderne, witchcraft
 an: 1954
 dates: depuis 1954
 def: Religion néo-païenne fondée en Angleterre par Gerald Gardner, qui célèbre une Déesse et un Dieu, les cycles de la nature, et pratique une magie rituelle en petits groupes appelés covens.
-texte: [[gerald-gardner]] affirme en 1954, dans *Witchcraft Today*, avoir été initié dans un groupe de sorcières héritières d'une religion païenne survivante, thèse que l'historienne Margaret Murray avait popularisée et que les historiens ont depuis réfutée. La wicca qu'il fait connaître emprunte en réalité à la [[franc-maconnerie]], à la [[golden-dawn|Golden Dawn]], à [[aleister-crowley]] et au folklore anglais.
+texte: [[gerald-gardner]] affirme en 1954, dans *Witchcraft Today*, avoir été initié dans un groupe de sorcières héritières d'une religion païenne survivante, thèse que l'historienne [[margaret-murray|Margaret Murray]] avait popularisée et que les historiens ont depuis réfutée. La wicca qu'il fait connaître emprunte en réalité à la [[franc-maconnerie]], à la [[golden-dawn|Golden Dawn]], à [[aleister-crowley]], à l'*[[aradia|Aradia]]* de Charles Godfrey Leland et au folklore anglais.
 texte: Les wiccans honorent la Déesse, liée à la Lune, et le Dieu cornu, lié au Soleil et à la végétation ; ils se réunissent aux pleines lunes et aux huit grandes fêtes de l'année, tracent un [[cercle-magique]] et suivent une règle, le *Wiccan Rede* : « Si cela ne nuit à personne, fais ce que tu veux. » Très répandue dans le monde anglophone, la wicca a donné naissance à de nombreuses branches, dont certaines, féministes, ne célèbrent que la Déesse.
 voir: gerald-gardner, sorcellerie, neopaganisme, cercle-magique, sabbat
 
@@ -345,7 +345,7 @@ an: 1792
 dates: depuis le XVIIIe siècle
 def: Mouvement moderne qui se réclame des druides de la Gaule et de la Bretagne antiques, dont il reconstitue ou invente les rites et la sagesse.
 texte: Les druides de l'Antiquité ne nous sont connus que par quelques auteurs grecs et romains, comme César : ils n'écrivaient pas leur enseignement, qui portait sur l'immortalité de l'âme, les astres et la nature. Le néo-druidisme naît au XVIIIe siècle dans les milieux antiquaires britanniques, qui voient dans les monuments mégalithiques (pourtant bien plus anciens) des temples druidiques ; le poète gallois Iolo Morganwg crée en 1792 une assemblée de bardes, la Gorsedd, en s'appuyant sur des textes qu'il a lui-même fabriqués.
-texte: Aujourd'hui, le druidisme regroupe des associations culturelles bretonnes, galloises et cornouaillaises et des groupes religieux néo-païens, qui célèbrent les solstices à Stonehenge ou dans les forêts.
+texte: Aujourd'hui, le druidisme regroupe des associations culturelles bretonnes, galloises et cornouaillaises et des groupes religieux néo-païens, qui célèbrent les solstices à Stonehenge ou dans les forêts, sous des emblèmes comme le [[triskele|triskèle]].
 voir: neopaganisme, wicca
 
 @ soufisme
@@ -397,7 +397,7 @@ alias: ariosophes, occultisme völkisch, armanisme, guido von list, lanz von lie
 an: 1900
 dates: 1900 – 1945
 def: Courant occultiste autrichien et allemand du début du XXe siècle, qui mêlait théosophie, mythologie germanique et racisme, et prétendait révéler la sagesse secrète d'anciens Aryens.
-texte: Guido von List, écrivain viennois, invente vers 1900 une religion germanique primitive, l'« armanisme », dont les prêtres auraient caché leur savoir dans les [[runes]], l'héraldique et les légendes. Jörg Lanz von Liebenfels fonde en 1907 un « Ordre du Nouveau Temple » et une revue, *Ostara*, où il prêche une hiérarchie des races. Tous deux reprennent à la [[theosophie]] les idées de races-racines et de cycles, en les détournant vers le nationalisme.
+texte: [[guido-von-list|Guido von List]], écrivain viennois, invente vers 1900 une religion germanique primitive, l'« armanisme », dont les prêtres auraient caché leur savoir dans les [[runes]], l'héraldique et les légendes. Jörg Lanz von Liebenfels fonde en 1907 un « Ordre du Nouveau Temple » et une revue, *Ostara*, où il prêche une hiérarchie des races. Tous deux reprennent à la [[theosophie]] les idées de races-racines et de cycles, en les détournant vers le nationalisme.
 texte: Leurs idées circulent dans les milieux völkisch d'où sortira le nazisme, notamment par la [[societe-thule|Société Thulé]]. Les historiens, à la suite de Nicholas Goodrick-Clarke (*Les Racines occultistes du nazisme*, 1985), ont montré que leur influence réelle sur les dirigeants nazis fut limitée, bien moindre que ne le prétendent les récits sensationnels.
 voir: societe-thule, runes, svastika, theosophie
 
@@ -408,8 +408,8 @@ alias: sataniste, satanistes, église de Satan, eglise de satan, luciférisme, l
 an: 1966
 dates: XIXe siècle ; organisé depuis 1966
 def: Ensemble de représentations et de mouvements qui font de Satan une figure positive, qu'elle soit symbole de révolte et de liberté ou objet de culte.
-texte: Pendant des siècles, le « satanisme » est surtout une accusation : les inquisiteurs l'attribuent aux sorcières, les polémistes à leurs adversaires. Au XIXe siècle, les romantiques font de Satan un héros prométhéen ; Huysmans décrit des messes noires dans *Là-bas* (1891) ; le journaliste Léo Taxil invente de toutes pièces un culte satanique franc-maçon, avant d'avouer la mystification en 1897.
-texte: Le satanisme organisé naît en 1966, quand Anton LaVey fonde à San Francisco l'Église de Satan. Pour lui, Satan n'est pas un être réel mais le symbole de l'affirmation de soi contre la morale chrétienne. D'autres groupes, plus rares, rendent un culte à Satan comme entité. Les grandes « paniques sataniques » des années 1980, qui dénonçaient des réseaux criminels de sectes, n'ont jamais été étayées par les enquêtes.
+texte: Pendant des siècles, le « satanisme » est surtout une accusation : les inquisiteurs l'attribuent aux sorcières, les polémistes à leurs adversaires. Au XIXe siècle, les romantiques font de Satan un héros prométhéen ; [[joris-karl-huysmans|Huysmans]] décrit des messes noires dans *Là-bas* (1891) ; le journaliste Léo Taxil invente de toutes pièces un culte satanique franc-maçon, avant d'avouer la mystification en 1897.
+texte: Le satanisme organisé naît en 1966, quand [[anton-lavey|Anton LaVey]] fonde à San Francisco l'Église de Satan. Pour lui, Satan n'est pas un être réel mais le symbole de l'affirmation de soi contre la morale chrétienne. D'autres groupes, plus rares, rendent un culte à Satan comme entité. Les grandes « paniques sataniques » des années 1980, qui dénonçaient des réseaux criminels de sectes, n'ont jamais été étayées par les enquêtes.
 voir: messe-noire, baphomet, demonologie, sorcellerie
 
 @ quatrieme-voie
@@ -431,3 +431,21 @@ def: Image de l'Égypte ancienne comme patrie d'une sagesse secrète et de myst�
 texte: Le mot a été proposé par l'égyptologue Erik Hornung, dans un livre de 1999 traduit sous le titre *L'Égypte ésotérique*. Dès l'Antiquité, Hérodote, Platon et Plutarque présentent l'Égypte comme le pays des prêtres savants ; l'[[hermetisme]] place ses révélations dans la bouche d'[[hermes-trismegiste]], double grec du dieu Thot. La Renaissance cherche dans les [[hieroglyphes]] des symboles philosophiques, et [[athanasius-kircher]] croit les déchiffrer.
 texte: Au XVIIIe siècle, la [[franc-maconnerie]] invente des rites « égyptiens », de [[cagliostro]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], et [[court-de-gebelin]] voit dans le [[tarot]] le *Livre de Thot*. Le déchiffrement des hiéroglyphes par Champollion en 1822 révèle une tout autre Égypte, mais l'Égypte rêvée continue de vivre dans l'[[occultisme]], la [[theosophie]] et les spéculations sur les [[pyramides]].
 voir: hieroglyphes, hermes-trismegiste, mysteres-antiques, pyramides, rite-de-memphis-misraim
+
+@ hassidisme
+cat: courants
+nom: Hassidisme
+alias: hassidim, hassid, Baal Shem Tov, Besht, tsaddik, Loubavitch, Habad
+dates: depuis le XVIIIe siècle
+an: 1740
+def: Mouvement de renouveau religieux juif né en Podolie au XVIIIe siècle autour du Baal Shem Tov, qui mit la kabbale à la portée de tous par la joie, la prière fervente et la figure du maître, le tsaddik.
+texte: Le hassidisme, du mot hébreu *hassid*, « pieux », naît vers 1740 en Podolie, dans l'actuelle Ukraine, autour d'Israël ben Eliézer, dit le Baal Shem Tov, « le maître du bon Nom ». Guérisseur et faiseur d'amulettes, comme d'autres *baal shem* de son temps, il enseigne que Dieu est présent partout, jusque dans les actes les plus humbles, et que la ferveur, la joie et l'attachement à Dieu, la *devekout*, valent plus que l'érudition. Il ne laisse aucun écrit ; ses disciples rapportent ses paroles et ses récits.
+texte: Le mouvement reprend, en les simplifiant, les idées de la [[kabbale]] d'[[isaac-louria]] : chaque acte accompli avec une intention juste relève les étincelles divines dispersées dans le monde et contribue au [[tikkoun]]. Mais il les détourne de l'attente messianique, encore marquée par la catastrophe de [[sabbatai-tsevi]], vers la vie intérieure de chacun. Au centre de la communauté se tient le *tsaddik*, le juste, maître spirituel qui relie ses fidèles à Dieu et dont la cour attire des foules.
+texte: Après la mort du fondateur en 1760, son disciple Dov Baer de Mezeritch organise le mouvement, qui gagne rapidement la Pologne, l'Ukraine, la Biélorussie et la Hongrie. Les autorités rabbiniques traditionnelles, conduites par le Gaon de Vilna, l'excommunient en 1772, l'accusant de mépriser l'étude ; la querelle se calme au XIXe siècle. Des dynasties se forment, comme celle de Loubavitch, dont le fondateur, Schneour Zalman, expose une doctrine savante dans le *Tanya* (1797), ou celle de Bratslav, autour des contes mystiques de Nahman.
+texte: Décimé par la Shoah, le hassidisme s'est reconstitué en Israël et aux États-Unis, où ses communautés comptent aujourd'hui des centaines de milliers de fidèles. Le philosophe Martin Buber a fait connaître ses récits à l'Europe, et [[gershom-scholem]] en a montré la place dans l'histoire de la mystique juive.
+repere: vers 1740 — Le Baal Shem Tov commence à enseigner en Podolie.
+repere: 1760 — Mort du Baal Shem Tov.
+repere: 1772 — Le Gaon de Vilna fait excommunier les hassidim.
+repere: 1797 — Schneour Zalman publie le *Tanya*, fondement de la doctrine de Loubavitch.
+repere: 1906 — Martin Buber publie les récits de Nahman de Bratslav.
+voir: kabbale, isaac-louria, tikkoun, sabbatai-tsevi, gershom-scholem, mystique

@@ -10,7 +10,7 @@ dates: depuis la Mésopotamie ; horoscopes depuis le Ve siècle av. J.-C.
 def: Art d'interpréter les positions des astres pour connaître le caractère et le destin des personnes, des peuples et des événements, en supposant une correspondance entre le ciel et la Terre.
 texte: Les devins de Mésopotamie observent les cieux comme un livre de présages destinés aux rois. Au Ve siècle avant notre ère apparaissent les premiers horoscopes individuels et le [[zodiaque]] de douze signes. L'astrologie dite « horoscopique », qui combine les [[planetes|planètes]], les signes, les [[maisons|maisons]] et l'[[ascendant]], naît dans l'Égypte hellénistique ; [[claude-ptolemee|Ptolémée]] en donne la synthèse dans son *[[tetrabiblos|Tétrabible]]*. Transmise aux savants arabes, elle revient en Europe au XIIe siècle, s'enseigne dans les universités, guide la médecine et conseille les princes.
 texte: Distinguée de l'astronomie au XVIIe siècle, l'astrologie perd sa place dans le savoir officiel quand la cosmologie de Copernic et de Newton ruine l'idée de sphères célestes agissant sur la Terre. Elle renaît à la fin du XIXe siècle grâce à la [[theosophie]], puis sous une forme psychologique au XXe, et se répand dans la presse avec l'[[horoscope]] des signes solaires.
-texte: Les tests scientifiques menés depuis le XXe siècle — comme l'expérience en double aveugle publiée dans la revue *Nature* en 1985 — n'ont pas montré que des astrologues puissent associer un thème astral à une personnalité mieux que le hasard, et aucun mécanisme physique connu ne pourrait expliquer de telles influences. L'astrologie reste un fait culturel et historique majeur, au cœur de l'ésotérisme.
+texte: Les tests scientifiques menés depuis le XXe siècle — comme l'expérience en double aveugle publiée dans la revue *Nature* en 1985 — n'ont pas montré que des astrologues puissent associer un thème astral à une personnalité mieux que le hasard ; l'« effet Mars » que le statisticien [[michel-gauquelin|Michel Gauquelin]] croyait avoir découvert chez les champions sportifs n'a pas résisté aux vérifications. Aucun mécanisme physique connu ne pourrait expliquer de telles influences. L'astrologie reste un fait culturel et historique majeur, au cœur de l'ésotérisme.
 schema: zodiaque
 voir: zodiaque, planetes, theme-astral, maisons, aspects, tetrabiblos, claude-ptolemee
 
@@ -19,7 +19,7 @@ cat: astrologie
 nom: Zodiaque
 alias: signes du zodiaque, signes astrologiques, écliptique, zodiaque tropical, zodiaque sidéral
 def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée par l'astrologie en douze signes de trente degrés.
-texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse.
+texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
 voir: astrologie, triplicites, precession, belier, melothesie, dignites
@@ -289,7 +289,7 @@ nom: Maisons astrologiques
 alias: maisons, maison astrologique, domification, Placidus, cuspide
 def: Les douze secteurs du ciel, comptés à partir de l'ascendant, qui correspondent dans un thème aux grands domaines de la vie.
 texte: Alors que les signes dépendent de la course annuelle du Soleil, les maisons dépendent de la rotation quotidienne de la Terre : elles divisent le ciel local au moment de la naissance. La première maison, celle de l'[[ascendant]], est la personne elle-même ; la deuxième, ses biens ; la troisième, ses frères et ses échanges ; la quatrième, le foyer ; la cinquième, les enfants et les plaisirs ; la sixième, la santé et le travail ; la septième, le conjoint et les adversaires ; la huitième, la mort et les héritages ; la neuvième, les voyages et la religion ; la dixième, la carrière ; la onzième, les amis ; la douzième, les épreuves cachées.
-texte: Il existe de nombreuses méthodes pour tracer les maisons — égales, de Regiomontanus, de Placidus… —, qui donnent des résultats différents, sujet de débats sans fin entre astrologues.
+texte: Il existe de nombreuses méthodes pour tracer les maisons — égales, de Regiomontanus, de Placidus… —, qui donnent des résultats différents, sujet de débats sans fin entre astrologues. Au XVIIe siècle, [[jean-baptiste-morin|Morin de Villefranche]] fonde sur elles sa théorie des « déterminations ».
 schema: maisons-astrologiques
 voir: theme-astral, ascendant, zodiaque, aspects
 
@@ -309,7 +309,7 @@ nom: Aspects
 alias: aspect, conjonction, opposition, carré, trigone, sextile, orbe
 def: Angles que forment entre elles les planètes dans le zodiaque, auxquels l'astrologie attribue une relation harmonieuse ou tendue.
 texte: Les aspects majeurs, fixés par [[claude-ptolemee|Ptolémée]], sont la conjonction (planètes au même endroit), le sextile (60 degrés), le carré (90), le trigone (120) et l'opposition (180). Le trigone et le sextile passent pour harmonieux, le carré et l'opposition pour tendus, la conjonction pour neutre. Une tolérance de quelques degrés, l'« orbe », est admise.
-texte: Ces angles correspondent aux polygones inscrits dans le cercle du zodiaque — triangle, carré, hexagone — et rappellent les rapports musicaux de l'[[harmonie-des-spheres|harmonie des sphères]]. Kepler, qui pratiquait l'astrologie, a proposé d'y ajouter des aspects mineurs.
+texte: Ces angles correspondent aux polygones inscrits dans le cercle du zodiaque — triangle, carré, hexagone — et rappellent les rapports musicaux de l'[[harmonie-des-spheres|harmonie des sphères]]. [[johannes-kepler|Kepler]], qui pratiquait l'astrologie, a proposé d'y ajouter des aspects mineurs.
 schema: aspects
 voir: theme-astral, harmonie-des-spheres, grandes-conjonctions
 
@@ -348,7 +348,7 @@ nom: Horoscope
 alias: horoscopes, horoscope du jour, astrologie des signes solaires
 def: À l'origine, l'ascendant d'un thème, puis le thème astral entier ; aujourd'hui, surtout les prévisions publiées dans la presse pour chacun des douze signes solaires.
 texte: Le mot grec *hôroskopos* désignait le degré du zodiaque qui se lève à l'heure de la naissance. Il a ensuite nommé le [[theme-astral|thème astral]] lui-même, puis toute prédiction astrologique.
-texte: L'horoscope des journaux, classé par signe solaire, naît en 1930 : un quotidien britannique demande à l'astrologue R. H. Naylor le thème de la princesse Margaret, qui vient de naître, et le succès est tel qu'il devient une rubrique. Les astrologues eux-mêmes jugent ces prévisions, valables pour un douzième de l'humanité, très éloignées de leur pratique.
+texte: L'horoscope des journaux, classé par signe solaire, naît en 1930 : un quotidien britannique demande à l'astrologue R. H. Naylor le thème de la princesse Margaret, qui vient de naître, et le succès est tel qu'il devient une rubrique. Dès la fin du XIXe siècle, l'astrologue théosophe [[alan-leo|Alan Leo]] avait vendu par correspondance des horoscopes assemblés à partir de paragraphes types. Les astrologues eux-mêmes jugent ces prévisions, valables pour un douzième de l'humanité, très éloignées de leur pratique.
 voir: theme-astral, ascendant, astrologie, zodiaque
 
 @ astrologie-mondiale
@@ -366,7 +366,7 @@ nom: Grandes conjonctions
 alias: grande conjonction, conjonction de Jupiter et Saturne, étoile de Bethléem, déluge de 1524
 def: Rencontres de Jupiter et de Saturne dans le ciel, environ tous les vingt ans, dont l'astrologie a fait les marqueurs des grands tournants de l'histoire.
 texte: Jupiter et Saturne, les deux planètes les plus lentes connues des anciens, se rejoignent tous les vingt ans environ. Ces conjonctions restent pendant deux siècles dans les signes d'un même élément, puis passent à l'élément suivant : chaque changement annoncerait une ère nouvelle, une religion, un empire. Albumasar en tire au IXe siècle une véritable chronologie astrologique.
-texte: La conjonction de 1524 dans les Poissons fit annoncer un nouveau déluge et provoqua une vague de pamphlets et de peurs en Europe. Kepler suggéra que l'étoile de Bethléem avait été une triple conjonction de Jupiter et de Saturne survenue en l'an 7 avant notre ère.
+texte: La conjonction de 1524 dans les Poissons fit annoncer un nouveau déluge et provoqua une vague de pamphlets et de peurs en Europe. [[johannes-kepler|Kepler]] suggéra que l'étoile de Bethléem avait été une triple conjonction de Jupiter et de Saturne survenue en l'an 7 avant notre ère.
 voir: astrologie-mondiale, jupiter, saturne, aspects
 
 @ precession

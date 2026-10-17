@@ -8,7 +8,7 @@ alias: cabale, cabbale, kabbala, kabbalah, qabbalah, kabbaliste, kabbalistes, ca
 an: 1180
 dates: depuis le XIIe siècle
 def: Tradition mystique et ésotérique du judaïsme, née en Provence et en Espagne au Moyen Âge, qui interprète l'Écriture comme le reflet de la vie intérieure de Dieu et des dix puissances par lesquelles il se manifeste.
-texte: Le mot hébreu *qabbalah* signifie « réception », c'est-à-dire tradition reçue. Après des courants plus anciens comme la mystique de la [[merkavah|Merkavah]] et le *[[sefer-yetsirah|Sefer Yetsirah]]*, la kabbale proprement dite apparaît en Provence vers 1180 avec le *[[sefer-ha-bahir|Bahir]]*, se développe en Catalogne, à Gérone, puis en Castille, où naît le *[[zohar|Zohar]]* à la fin du XIIIe siècle. Après l'expulsion des juifs d'Espagne en 1492, elle refleurit à Safed, en Galilée, avec Moïse Cordovero et [[isaac-louria]].
+texte: Le mot hébreu *qabbalah* signifie « réception », c'est-à-dire tradition reçue. Après des courants plus anciens comme la mystique de la [[merkavah|Merkavah]] et le *[[sefer-yetsirah|Sefer Yetsirah]]*, la kabbale proprement dite apparaît en Provence vers 1180 avec le *[[sefer-ha-bahir|Bahir]]*, se développe en Catalogne, à Gérone, puis en Castille, où naît le *[[zohar|Zohar]]* à la fin du XIIIe siècle. Après l'expulsion des juifs d'Espagne en 1492, elle refleurit à Safed, en Galilée, avec [[moise-cordovero|Moïse Cordovero]] et [[isaac-louria]].
 texte: Elle enseigne que le Dieu infini et caché, l'[[ein-sof|Ein Sof]], se révèle par dix [[sephiroth|séphiroth]], qui forment l'[[arbre-des-sephiroth|arbre de vie]] et dont l'harmonie dépend aussi des actes humains. Les historiens distinguent une kabbale « théosophique », qui spécule sur ces puissances divines, une kabbale « extatique », comme celle d'[[abraham-aboulafia]], qui recherche l'union par la méditation des noms divins, et une kabbale « pratique », qui use des noms et des lettres pour des amulettes et des guérisons.
 texte: Depuis la Renaissance, des chrétiens se sont approprié la kabbale — c'est la [[kabbale-chretienne|kabbale chrétienne]] —, puis les occultistes, qui en ont fait la grille de toutes les [[correspondances]] : c'est la [[kabbale-hermetique|kabbale hermétique]]. L'étude historique de la kabbale doit beaucoup à [[gershom-scholem]].
 schema: arbre-sephiroth
@@ -208,7 +208,7 @@ cat: kabbale
 nom: Tikkoun
 alias: tikkun, tikkoun olam, réparation, restauration du monde
 def: Réparation du monde : selon la kabbale lourianique, œuvre par laquelle l'homme, par la prière et les commandements, relève les étincelles divines dispersées et rétablit l'harmonie originelle.
-texte: Après la [[chevirat-ha-kelim|brisure des vases]], chaque acte accompli avec la bonne intention libère une étincelle prisonnière et la fait remonter vers sa source. Quand toutes les étincelles auront été relevées, viendra le Messie. Ce mythe donne à chaque geste religieux une portée cosmique ; il a nourri le messianisme de Sabbataï Tsevi au XVIIe siècle et le hassidisme.
+texte: Après la [[chevirat-ha-kelim|brisure des vases]], chaque acte accompli avec la bonne intention libère une étincelle prisonnière et la fait remonter vers sa source. Quand toutes les étincelles auront été relevées, viendra le Messie. Ce mythe donne à chaque geste religieux une portée cosmique ; il a nourri le messianisme de [[sabbatai-tsevi|Sabbataï Tsevi]] au XVIIe siècle et le [[hassidisme|hassidisme]].
 texte: L'expression *tikkoun olam*, « réparation du monde », a pris dans le judaïsme contemporain le sens d'un engagement pour la justice sociale.
 voir: chevirat-ha-kelim, tsimtsoum, isaac-louria, shekhina
 
@@ -348,7 +348,7 @@ nom: Arithmologie
 alias: symbolique des nombres, mystique des nombres, théologie arithmétique, dyade, triade, décade
 def: Réflexion philosophique et religieuse sur les propriétés et la signification symbolique des nombres, héritée des pythagoriciens.
 texte: Pour les pythagoriciens et leurs héritiers, chaque nombre de la décade a une nature propre : la [[monade]] est l'unité, principe de tout ; la dyade, la division et la matière ; la triade, le premier nombre complet, avec un commencement, un milieu et une fin ; la tétrade, la solidité et la justice ; la décade, la totalité. Nicomaque de Gérase et le traité *Théologie arithmétique* exposent ces spéculations.
-texte: Philon d'Alexandrie, les Pères de l'Église, puis les penseurs du Moyen Âge et de la Renaissance appliquent cette symbolique à la Bible et à la création, « ordonnée selon le nombre, le poids et la mesure ».
+texte: [[philon-d-alexandrie|Philon d'Alexandrie]], les Pères de l'Église, puis les penseurs du Moyen Âge et de la Renaissance appliquent cette symbolique à la Bible et à la création, « ordonnée selon le nombre, le poids et la mesure ».
 voir: pythagorisme, monade, tetractys, numerologie, isopsephie
 
 @ nombre-d-or

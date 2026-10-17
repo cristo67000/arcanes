@@ -4,7 +4,8 @@
  *
  * De haut en bas : la catégorie, la vedette, les dates, le signe ; la
  * définition ; les illustrations ; le corps de l'article, où chaque renvoi
- * ouvre l'article cité, avec sa figure et sa planche ; les œuvres ; la mise en garde ; « voir aussi » et « cité dans » ;
+ * ouvre l'article cité, avec sa figure et sa planche ; les repères ; les œuvres ; la mise en garde ;
+ * « voir aussi » et « cité dans » ; les liens vers d'autres sites ;
  * les notes de la personne ; enfin l'article précédent et le suivant dans
  * l'ordre alphabétique, pour feuilleter.
  *
@@ -213,6 +214,46 @@
     return fig;
   }
 
+  /* La chronologie d'une vie ou d'une histoire : la date, puis le fait. */
+  function blocReperes(a, surligne) {
+    if (!a.re || !a.re.length) return null;
+    const bloc = element('section', 'reperes');
+    bloc.appendChild(element('h3', 'rubrique', 'Repères'));
+    const liste = element('ol', 'reperes-liste');
+    for (const [date, fait] of a.re) {
+      const li = element('li');
+      li.appendChild(element('span', 'repere-date', date));
+      li.appendChild(Rendu.paragraphe(fait, 'repere-fait', surligne));
+      liste.appendChild(li);
+    }
+    bloc.appendChild(liste);
+    return bloc;
+  }
+
+  /* « Pour aller plus loin » : des pages d'autres sites, ouvertes dans le
+   * navigateur. Rien n'est contacté tant qu'on ne touche pas un lien. */
+  function blocLiens(a) {
+    if (!a.li || !a.li.length) return null;
+    const bloc = element('section', 'ailleurs');
+    bloc.appendChild(element('h3', 'rubrique', 'Pour aller plus loin'));
+    const ul = element('ul', 'ailleurs-liste');
+    for (const [source, libelle, adresse] of a.li) {
+      const li = element('li');
+      const lien = element('a', 'ailleurs-lien');
+      lien.href = adresse;
+      lien.target = '_blank';
+      lien.rel = 'noopener noreferrer';
+      lien.appendChild(element('span', 'ailleurs-source', source));
+      lien.appendChild(element('span', 'ailleurs-titre', libelle));
+      lien.setAttribute('aria-label', source + ' : ' + libelle + ' (site extérieur, nouvel onglet)');
+      li.appendChild(lien);
+      ul.appendChild(li);
+    }
+    bloc.appendChild(ul);
+    bloc.appendChild(element('p', 'discret ailleurs-note', 'Sites extérieurs : il faut une connexion pour les ouvrir.'));
+    return bloc;
+  }
+
   function dessinerNotes(a) {
     const bloc = element('section', 'mes-notes');
     bloc.id = 'mes-notes';
@@ -341,6 +382,9 @@
     for (const reste of insertions) texte.appendChild(reste);
     corps.appendChild(texte);
 
+    const reperes = blocReperes(a, surligne);
+    if (reperes) corps.appendChild(reperes);
+
     if (a.oe && a.oe.length) {
       const oe = element('section', 'oeuvres');
       oe.appendChild(element('h3', 'rubrique', 'Œuvres principales'));
@@ -371,6 +415,8 @@
     const cites = (a.ci || []).filter((id) => !(a.v || []).includes(id));
     const ci = puces('Cité dans', cites);
     if (ci) corps.appendChild(ci);
+    const ailleurs = blocLiens(a);
+    if (ailleurs) corps.appendChild(ailleurs);
 
     corps.appendChild(dessinerNotes(a));
     const nav = feuilleter(a);

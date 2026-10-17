@@ -4,26 +4,58 @@
 @ aleister-crowley
 cat: figures
 nom: Aleister Crowley
-alias: Crowley, Edward Alexander Crowley, la Bête 666, To Mega Therion, Frater Perdurabo
+alias: Crowley, Edward Alexander Crowley, la Bête 666, To Mega Therion, Frater Perdurabo, Magick
 dates: 1875 – 1947
 an: 1875
 def: Occultiste, poète et alpiniste britannique, fondateur de Thelema, dont la provocation et l'œuvre magique ont marqué tout l'ésotérisme du XXe siècle.
-texte: Élevé dans une famille de la secte puritaine des Frères de Plymouth, Crowley se rebelle contre sa mère, qui l'appelle « la Bête ». Étudiant à Cambridge, il entre en 1898 à la [[golden-dawn|Golden Dawn]], dont il apprend les rituels auprès de [[samuel-liddell-mathers]] avant de rompre avec lui. Alpiniste, il participe aux premières tentatives sur le K2 (1902) et le Kangchenjunga (1905). En 1904, au Caire, il reçoit le *[[livre-de-la-loi|Livre de la Loi]]*, fondement de [[thelema|Thelema]].
-texte: Il fonde l'[[a-a|A∴A∴]] en 1907, prend la tête de l'[[oto|Ordo Templi Orientis]] et installe en 1920 à Cefalù, en Sicile, une « abbaye de Thélème » dont Mussolini l'expulse en 1923. La presse britannique le surnomme « l'homme le plus méchant du monde ». Ses livres — *Magick* (1929), *Le Livre de Thoth* (1944), qui accompagne le [[tarot-de-thoth|tarot]] peint par Lady Frieda Harris — font de la [[magie]] une discipline de la volonté et de la conscience. Il meurt dans la pauvreté à Hastings.
-oeuvres: Le Livre de la Loi (1904) ; Magick en théorie et en pratique (1929) ; Le Livre de Thoth (1944)
+texte: Edward Alexander Crowley naît en 1875 à Leamington, dans une riche famille de brasseurs. Son père, prédicateur de la secte puritaine des Frères de Plymouth, meurt quand il a onze ans ; l'enfant se rebelle contre une éducation religieuse étouffante et contre sa mère, qui l'appelle « la Bête ». Héritier d'une fortune, il étudie à Cambridge sans passer de diplôme, publie des poèmes, joue aux échecs et pratique l'alpinisme avec audace.
+texte: En 1898, il entre à la [[golden-dawn|Golden Dawn]], dont il apprend les rituels auprès d'Allan Bennett et de [[samuel-liddell-mathers]], et prend son parti lors de l'éclatement de l'ordre en 1900. Il voyage au Mexique, en Inde, où il étudie le yoga, participe en 1902 à la première tentative sur le K2 et dirige en 1905 une expédition au Kangchenjunga qui tourne au drame. En avril 1904, au Caire, avec sa femme Rose, il dit recevoir sous la dictée d'une entité, Aiwass, le *[[livre-de-la-loi|Livre de la Loi]]*, fondement de [[thelema|Thelema]] : « Fais ce que tu veux sera le tout de la Loi. »
+texte: Il fonde en 1907 son propre ordre, l'[[a-a|A∴A∴]], publie dans sa revue *The Equinox* les rituels secrets de la Golden Dawn, et prend la tête de la branche britannique de l'[[oto|Ordo Templi Orientis]], dont il deviendra le chef mondial ; il y introduit sa [[magie-sexuelle|magie sexuelle]]. En 1920, il installe à Cefalù, en Sicile, une « abbaye de Thélème » où l'on pratique la magie, le yoga et les drogues ; après la mort d'un jeune disciple, la presse britannique se déchaîne contre « l'homme le plus méchant du monde », et Mussolini l'expulse en 1923.
+texte: Ruiné, il erre en Tunisie, en France, en Allemagne et au Portugal, où il met en scène avec le poète Fernando Pessoa sa fausse disparition. Ses livres — *Magick en théorie et en pratique* (1929), ses *Confessions*, *Le Livre de Thoth* (1944), qui accompagne le [[tarot-de-thoth|tarot]] peint pour lui par Lady Frieda Harris — font de la [[magie]] une discipline de la volonté et de la conscience, qu'il écrit « magick » pour la distinguer de la prestidigitation. Il meurt dans la pauvreté à Hastings en 1947.
+texte: Méprisé de son vivant, Crowley est devenu une icône de la contre-culture : son visage figure sur la pochette d'un album des Beatles, et son influence s'étend de la [[wicca]], dont le fondateur l'a rencontré, à la [[magie-du-chaos|magie du chaos]] et à de nombreux groupes thélémites. Les historiens voient en lui l'un des inventeurs de l'ésotérisme moderne, et l'un de ses provocateurs les plus calculés.
+repere: 1875 — Naissance à Leamington, dans une riche famille de brasseurs.
+repere: 1887 — Mort de son père, prédicateur des Frères de Plymouth.
+repere: 1898 — Il entre dans la Golden Dawn.
+repere: 1902 — Première tentative d'ascension du K2.
+repere: 1904 — Au Caire, il reçoit le *Livre de la Loi*.
+repere: 1905 — Expédition au Kangchenjunga, qui tourne au drame.
+repere: 1907 — Il fonde l'A∴A∴.
+repere: 1909 — Il lance la revue *The Equinox*.
+repere: 1912 — Il prend la tête de la branche britannique de l'OTO.
+repere: 1920 — Il fonde l'abbaye de Thélème à Cefalù.
+repere: 1923 — Mussolini l'expulse d'Italie.
+repere: 1929 — *Magick en théorie et en pratique*.
+repere: 1944 — *Le Livre de Thoth*.
+repere: 1947 — Mort à Hastings.
+oeuvres: Le Livre de la Loi (1904) ; Le Livre des mensonges (1913) ; Magick en théorie et en pratique (1929) ; Confessions (1929) ; Le Livre de Thoth (1944)
 voir: thelema, livre-de-la-loi, oto, a-a, tarot-de-thoth, golden-dawn, magie-sexuelle
 
 @ rudolf-steiner
 cat: figures
 nom: Rudolf Steiner
-alias: Steiner, Goetheanum, pédagogie Steiner, Waldorf
+alias: Steiner, Goetheanum, pédagogie Steiner, Waldorf, biodynamie
 dates: 1861 – 1925
 an: 1861
 def: Philosophe et ésotériste autrichien, d'abord dirigeant de la Société théosophique en Allemagne, fondateur de l'anthroposophie.
-texte: Né dans l'actuelle Croatie, Steiner étudie à Vienne et édite à Weimar les écrits scientifiques de Goethe. Sa *Philosophie de la liberté* (1894) défend une pensée capable de saisir directement le spirituel. En 1902, il devient secrétaire général de la section allemande de la [[societe-theosophique|Société théosophique]], puis la quitte pour fonder l'[[anthroposophie]] en 1913. Dans *Théosophie* (1904) et *La Science de l'occulte* (1910), il décrit les [[corps-subtils|membres subtils]] de l'homme, l'évolution cosmique et la lecture des [[annales-akashiques|annales akashiques]].
-texte: À Dornach, en Suisse, il fait construire le Goetheanum, temple de bois incendié en 1922 et remplacé par un bâtiment de béton. Il fonde la première école Waldorf à Stuttgart en 1919 et donne en 1924 le cours d'où sort l'agriculture biodynamique. Il laisse plus de six mille conférences.
-oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; La Science de l'occulte (1910)
-voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure
+texte: Rudolf Steiner naît en 1861 à Kraljevec, alors en Hongrie, aujourd'hui en Croatie, fils d'un employé des chemins de fer autrichiens. Il étudie les sciences à l'École polytechnique de Vienne. Recommandé par un spécialiste de Goethe, il est chargé à vingt-deux ans d'éditer les écrits scientifiques du poète, puis travaille à Weimar, de 1890 à 1897, aux archives Goethe-Schiller. Il en retient l'idée d'une science qui saisit la nature vivante par l'observation et l'intuition.
+texte: Docteur en philosophie, il publie en 1894 sa *Philosophie de la liberté*, qui défend une pensée capable de saisir directement le spirituel. À Berlin, il dirige une revue littéraire et enseigne dans une université populaire ouvrière. En 1902, il devient secrétaire général de la section allemande de la [[societe-theosophique|Société théosophique]], avec Marie von Sivers, sa future épouse. Dans *Théosophie* (1904), *Comment acquérir des connaissances sur les mondes supérieurs* et *La Science de l'occulte* (1910), il décrit les [[corps-subtils|membres subtils]] de l'homme, la réincarnation, l'évolution cosmique à travers des planètes successives et la lecture des [[annales-akashiques|annales akashiques]].
+texte: Son ésotérisme, centré sur le Christ, s'éloigne de l'orientalisme de la Société théosophique ; quand Annie Besant présente le jeune Krishnamurti comme le nouvel instructeur du monde, Steiner rompt et fonde en 1913 l'[[anthroposophie]]. À Dornach, en Suisse, il fait construire le Goetheanum, temple de bois à double coupole, incendié dans la nuit du 31 décembre 1922 et remplacé par un bâtiment de béton.
+texte: Ses dernières années sont d'une fécondité étonnante. Il fonde en 1919 la première école Waldorf, à Stuttgart, pour les enfants des ouvriers d'une fabrique de cigarettes ; il inspire une médecine anthroposophique, un art du mouvement, l'eurythmie, une Église, la Communauté des chrétiens, et donne en 1924 le cours aux agriculteurs d'où sort l'agriculture biodynamique. Il meurt à Dornach en 1925, laissant plus de six mille conférences.
+texte: Les écoles Waldorf, la biodynamie et les produits qui s'en réclament se sont répandus dans le monde entier. Ses idées sur les races et ses prétentions à une « science spirituelle » sont aussi l'objet de vives critiques.
+repere: 1861 — Naissance à Kraljevec, aujourd'hui en Croatie.
+repere: 1883 — Il commence à éditer les écrits scientifiques de Goethe.
+repere: 1890 — Il travaille aux archives Goethe-Schiller de Weimar.
+repere: 1894 — *Philosophie de la liberté*.
+repere: 1902 — Secrétaire général de la section allemande de la Société théosophique.
+repere: 1904 — *Théosophie*.
+repere: 1910 — *La Science de l'occulte*.
+repere: 1913 — Fondation de la Société anthroposophique ; première pierre du Goetheanum.
+repere: 1919 — Première école Waldorf, à Stuttgart.
+repere: 1922 — Incendie du premier Goetheanum, dans la nuit de la Saint-Sylvestre.
+repere: 1924 — Cours aux agriculteurs, d'où naît l'agriculture biodynamique.
+repere: 1925 — Mort à Dornach.
+oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; Comment acquérir des connaissances sur les mondes supérieurs (1904-1905) ; La Science de l'occulte (1910)
+voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques
 
 @ dion-fortune
 cat: figures
@@ -32,43 +64,89 @@ alias: Violet Firth, Violet Mary Firth, Fraternity of the Inner Light, Fraternit
 dates: 1890 – 1946
 an: 1890
 def: Occultiste et romancière britannique, fondatrice de la Fraternité de la lumière intérieure, qui rapprocha la magie de la psychologie.
-texte: Violet Firth s'intéresse d'abord à la psychanalyse, puis entre dans une branche de la [[golden-dawn|Golden Dawn]] dirigée par Moina Mathers. Elle fonde en 1924 sa propre Fraternité de la lumière intérieure et prend pour nom de plume sa devise magique, *Deo non fortuna*. Sa *Cabale mystique* (1935) reste l'une des introductions les plus lues à la [[kabbale-hermetique|kabbale hermétique]].
-texte: Ses romans, comme *La Prêtresse de la mer* (1938), mettent en scène une magie de la polarité entre le masculin et le féminin, qui influencera la [[wicca]]. En 1940, elle organise une méditation collective pour protéger magiquement la Grande-Bretagne de l'invasion.
-oeuvres: Autodéfense psychique (1930) ; La Cabale mystique (1935) ; La Prêtresse de la mer (1938)
-voir: golden-dawn, kabbale-hermetique, magie-ceremonielle, egregore
+texte: Violet Mary Firth naît en 1890 à Llandudno, au pays de Galles, dans une famille aisée adepte de la Christian Science. Elle publie des poèmes dès l'adolescence. Élève d'une école d'horticulture, elle y subit une crise nerveuse qu'elle attribuera à une agression psychique de la directrice : l'expérience lui inspirera plus tard son *Autodéfense psychique* (1930).
+texte: Pour comprendre ce qui lui est arrivé, elle étudie la psychanalyse de Freud et de Jung et exerce comme psychothérapeute dans une clinique londonienne. Elle rencontre un occultiste irlandais, Theodore Moriarty, qui lui servira de modèle pour le héros de ses nouvelles, le docteur Taverner. En 1919, elle est initiée dans une branche de la [[golden-dawn|Golden Dawn]] dirigée par Moina Mathers, avec qui elle finit par se brouiller.
+texte: Elle fonde en 1924 sa propre Communauté, puis Fraternité, de la lumière intérieure, entre Londres et Glastonbury, où elle s'installe au pied du Tor, et prend pour nom de plume sa devise magique, *Deo non fortuna*. Sa *Cabale mystique* (1935) reste l'une des introductions les plus lues à la [[kabbale-hermetique|kabbale hermétique]] : l'arbre des séphiroth y devient une carte de la psyché autant que du cosmos.
+texte: Ses romans, comme *Le Taureau ailé*, *Le Dieu au pied de chèvre* ou *La Prêtresse de la mer* (1938), mettent en scène une magie de la polarité entre le masculin et le féminin et le culte de la Grande Déesse, qui influenceront la [[wicca]]. Au début de la Seconde Guerre mondiale, elle organise par lettres hebdomadaires des méditations collectives pour protéger magiquement la Grande-Bretagne de l'invasion.
+texte: Elle meurt de leucémie à Londres en 1946 et repose à Glastonbury. Son œuvre, qui relie la magie à la psychologie, a marqué toute la « tradition occidentale des mystères » et la spiritualité féminine contemporaine.
+repere: 1890 — Naissance à Llandudno, au pays de Galles.
+repere: 1919 — Initiée dans une branche de la Golden Dawn.
+repere: 1924 — Elle fonde la Communauté de la lumière intérieure.
+repere: 1930 — *Autodéfense psychique*.
+repere: 1935 — *La Cabale mystique*.
+repere: 1938 — *La Prêtresse de la mer*.
+repere: 1939 — Elle organise des méditations collectives pour protéger la Grande-Bretagne.
+repere: 1946 — Mort à Londres.
+oeuvres: Autodéfense psychique (1930) ; La Cabale mystique (1935) ; La Prêtresse de la mer (1938) ; Magie lunaire (publié en 1956)
+voir: golden-dawn, kabbale-hermetique, magie-ceremonielle, egregore, wicca
 
 @ israel-regardie
 cat: figures
 nom: Israel Regardie
-alias: Regardie, Francis Israel Regardie
+alias: Regardie, Francis Israel Regardie, Le Pilier du milieu
 dates: 1907 – 1985
 an: 1907
 def: Occultiste anglo-américain, secrétaire d'Aleister Crowley, qui publia les rituels et l'enseignement secrets de la Golden Dawn.
-texte: Né à Londres, émigré aux États-Unis, le jeune Regardie devient en 1928 le secrétaire de [[aleister-crowley]] à Paris. Il publie ensuite *L'Arbre de vie* (1932), exposé clair de la [[magie-ceremonielle|magie cérémonielle]], et entre dans la Stella Matutina, héritière de la [[golden-dawn|Golden Dawn]].
-texte: Jugeant l'ordre décadent, il publie entre 1937 et 1940 l'ensemble de ses rituels et documents d'enseignement, rompant le serment du secret. Ce geste a permis la survie et la diffusion du système de la Golden Dawn. Devenu psychothérapeute, il a aussi rapproché la magie des méthodes de la psychologie.
-voir: golden-dawn, aleister-crowley, magie-ceremonielle, rituel-du-pentagramme
+texte: Israel Regudy naît à Londres en 1907 dans une famille juive pauvre venue de Russie, qui émigre aux États-Unis en 1921. Étudiant en art à Washington, il se passionne pour la théosophie, l'hébreu et le yoga, découvre les livres d'[[aleister-crowley]] et lui écrit. En 1928, il le rejoint à Paris et devient son secrétaire pendant plusieurs années.
+texte: Il publie en 1932 *Un jardin de grenades*, sur la [[kabbale-hermetique|kabbale hermétique]], et *L'Arbre de vie*, exposé clair et méthodique de la [[magie-ceremonielle|magie cérémonielle]]. Brouillé avec Crowley, il entre en 1934 dans la Stella Matutina, héritière de la [[golden-dawn|Golden Dawn]].
+texte: Jugeant l'ordre décadent et ses chefs indignes, il publie entre 1937 et 1940, en quatre volumes, l'ensemble de ses rituels et documents d'enseignement, rompant le serment du secret. On le lui a reproché ; mais ce geste a permis la survie et la diffusion du système de la Golden Dawn, qui sans lui aurait disparu avec ses derniers temples.
+texte: Devenu psychothérapeute, formé aux méthodes de Wilhelm Reich, il exerce à Los Angeles et rapproche la magie des méthodes de la psychologie : *Le Pilier du milieu* (1938) présente le rituel comme une technique d'équilibre psychique. Il écrit une biographie compréhensive de Crowley, *L'Œil dans le triangle* (1970), et aide dans les années 1980 à la renaissance de temples de la Golden Dawn. Il meurt en 1985 à Sedona, en Arizona.
+repere: 1907 — Naissance à Londres.
+repere: 1921 — Sa famille émigre aux États-Unis.
+repere: 1928 — Secrétaire d'Aleister Crowley, à Paris.
+repere: 1932 — *Un jardin de grenades* et *L'Arbre de vie*.
+repere: 1934 — Il entre dans la Stella Matutina.
+repere: 1937 — Début de la publication des rituels secrets de la Golden Dawn.
+repere: 1938 — *Le Pilier du milieu*.
+repere: 1970 — *L'Œil dans le triangle*, biographie de Crowley.
+repere: 1985 — Mort à Sedona, en Arizona.
+voir: golden-dawn, aleister-crowley, magie-ceremonielle, rituel-du-pentagramme, kabbale-hermetique
 
 @ austin-osman-spare
 cat: figures
 nom: Austin Osman Spare
-alias: Spare, Zos Kia, sigillisation
+alias: Spare, Zos Kia, sigillisation, Le Livre du plaisir
 dates: 1886 – 1956
 an: 1886
 def: Peintre et dessinateur anglais, inventeur d'une méthode magique fondée sur les sigils, qui annonce la magie du chaos.
-texte: Fils d'un policier londonien, Spare expose à la Royal Academy à dix-sept ans et passe pour un prodige. Il fréquente brièvement l'[[a-a|A∴A∴]] de [[aleister-crowley]] mais refuse toute organisation. Dans *Le Livre du plaisir* (1913), il expose sa méthode : écrire un désir, en fondre les lettres en un dessin abstrait, le [[sigil|sigil]], puis l'oublier ; projeté dans l'inconscient dans un état de vacuité, il se réaliserait de lui-même.
-texte: Spare vit ensuite dans la pauvreté, dans le sud de Londres, entouré de chats, dessinant les gens du quartier et des visions de corps et de visages emmêlés. Redécouvert dans les années 1970, il est devenu l'ancêtre revendiqué de la [[magie-du-chaos|magie du chaos]].
+texte: Fils d'un policier londonien, Austin Osman Spare naît en 1886 et grandit dans le sud de Londres. Il quitte l'école à treize ans pour travailler dans un atelier de vitrail, obtient une bourse d'études d'art et expose à la Royal Academy à dix-sept ans. La presse voit en lui un prodige, un nouvel Aubrey Beardsley ; ses premiers livres de dessins, *Earth: Inferno* (1905) et *A Book of Satyrs* (1907), mêlent virtuosité graphique et visions grotesques. Il disait avoir été initié enfant à la sorcellerie par une vieille voisine, Mrs Paterson.
+texte: Il fréquente brièvement l'[[a-a|A∴A∴]] d'[[aleister-crowley]] mais refuse toute organisation. Dans *Le Livre du plaisir* (1913), il expose sa méthode : écrire un désir, en fondre les lettres en un dessin abstrait, le [[sigil|sigil]], puis l'oublier ; projeté dans l'inconscient dans un état de vacuité, obtenu par l'épuisement ou l'extase, il se réaliserait de lui-même. Il y développe aussi une philosophie personnelle, où *Kia* désigne la liberté absolue et *Zos* le corps et l'esprit qui l'éprouvent.
+texte: Après avoir été peintre officiel de la Grande Guerre et avoir dirigé des revues d'art, il quitte les milieux artistiques et vit dans la pauvreté, dans le sud de Londres, entouré de chats, vendant pour quelques livres dans les pubs des pastels des gens du quartier et des visions de corps et de visages emmêlés. En 1941, une bombe détruit son logement et le blesse ; il se remet au travail et connaît un regain de succès après la guerre. Il meurt à Londres en 1956.
+texte: Son ami l'occultiste Kenneth Grant le fait redécouvrir dans les années 1970. Spare est devenu l'ancêtre revendiqué de la [[magie-du-chaos|magie du chaos]], qui a fait de la sigillisation l'une de ses techniques de base, et un artiste dont les musées exposent aujourd'hui les œuvres.
+repere: 1886 — Naissance à Londres, fils d'un policier.
+repere: 1904 — À dix-sept ans, il expose à la Royal Academy.
+repere: 1905 — *Earth: Inferno*, premier livre de dessins.
+repere: 1909 — Il entre brièvement dans l'A∴A∴ de Crowley.
+repere: 1913 — *Le Livre du plaisir*, où il expose la méthode des sigils.
+repere: 1919 — Peintre officiel de guerre.
+repere: 1927 — *L'Anathème de Zos*.
+repere: 1941 — Son logement est détruit par une bombe pendant le Blitz.
+repere: 1956 — Mort à Londres.
+repere: 1975 — Kenneth Grant le fait redécouvrir.
 voir: sigil, magie-du-chaos, aleister-crowley
 
 @ georges-gurdjieff
 cat: figures
 nom: Georges Gurdjieff
-alias: G. I. Gurdjieff, Gurdjieff, Georges Ivanovitch Gurdjieff, Prieuré d'Avon
+alias: G. I. Gurdjieff, Gurdjieff, Georges Ivanovitch Gurdjieff, Prieuré d'Avon, mouvements
 dates: vers 1872 – 1949
 an: 1872
 def: Maître spirituel d'origine arménienne et grecque, fondateur de l'enseignement de la Quatrième Voie, qui voulait éveiller l'homme de son sommeil.
-texte: Né à Alexandropol, aux confins de l'Empire russe, Gurdjieff dit avoir parcouru l'Asie centrale et le Moyen-Orient pendant vingt ans à la recherche d'une connaissance perdue, auprès de confréries soufies et de monastères ; ses *Rencontres avec des hommes remarquables* racontent ces voyages sur un mode légendaire. Il commence à enseigner à Moscou vers 1912 et rencontre [[piotr-ouspensky]] en 1915.
-texte: Après la Révolution, il gagne Tiflis, Constantinople, puis la France, où il ouvre en 1922 un Institut pour le développement harmonieux de l'homme au prieuré d'Avon, près de Fontainebleau ; la romancière Katherine Mansfield y meurt en 1923. Il enseigne ensuite à Paris jusqu'à sa mort. Son grand livre, *Récits de Belzébuth à son petit-fils*, paraît en 1950.
-voir: quatrieme-voie, piotr-ouspensky, enneagramme
+texte: Georges Ivanovitch Gurdjieff naît à Alexandropol, aux confins de l'Empire russe, vers 1872 — les dates proposées vont de 1866 à 1877 —, d'un père grec, conteur et poète populaire, et d'une mère arménienne. Il grandit à Kars, où le doyen de la cathédrale l'instruit. Jeune homme, il part avec un groupe de « chercheurs de vérité » à travers l'Asie centrale, le Moyen-Orient et l'Égypte, à la recherche d'une connaissance perdue, auprès de confréries soufies et de monastères ; ses *Rencontres avec des hommes remarquables* racontent ces voyages sur un mode légendaire, impossible à vérifier.
+texte: Il commence à enseigner à Moscou et à Saint-Pétersbourg vers 1912 et rencontre en 1915 [[piotr-ouspensky]], qui deviendra son élève le plus brillant. Son enseignement, la [[quatrieme-voie|Quatrième Voie]], affirme que l'homme ordinaire est une machine endormie, qui réagit sans conscience ; par le « travail sur soi », le « rappel de soi » et l'effort conscient, il peut s'éveiller et se doter d'une âme. Gurdjieff y mêle une cosmologie fondée sur la loi de trois et la loi de sept, que résume l'[[enneagramme]], des danses sacrées, les « mouvements », et une musique composée avec Thomas de Hartmann.
+texte: Fuyant la Révolution, il gagne avec ses disciples le Caucase, Tiflis, Constantinople, Berlin, puis la France, où il ouvre en 1922 l'Institut pour le développement harmonieux de l'homme au prieuré d'Avon, près de Fontainebleau : on y travaille la terre, on y danse et on y subit les épreuves imposées par le maître. La romancière Katherine Mansfield y meurt en 1923. Les démonstrations des « mouvements » à Paris et à New York font sensation.
+texte: En 1924, un grave accident de voiture l'amène à se consacrer à l'écriture : ses *Récits de Belzébuth à son petit-fils*, vaste satire cosmique de l'humanité, paraissent après sa mort, en 1950. Il ferme le Prieuré en 1932 et enseigne à Paris, dans son appartement, jusqu'à sa mort à Neuilly en 1949, entouré d'élèves comme René Daumal, Jeanne de Salzmann et Pamela Travers. Sa fondation poursuit son enseignement ; Louis Pauwels lui consacre un livre, et Peter Brook un film.
+repere: vers 1872 — Naissance à Alexandropol, d'un père grec et d'une mère arménienne.
+repere: 1912 — Il commence à enseigner à Moscou.
+repere: 1915 — Il rencontre Piotr Ouspensky.
+repere: 1919 — Il fonde à Tiflis un premier institut.
+repere: 1922 — Il ouvre l'Institut pour le développement harmonieux de l'homme, au prieuré d'Avon.
+repere: 1923 — Mort de Katherine Mansfield au Prieuré ; démonstrations des « mouvements » à Paris.
+repere: 1924 — Grave accident de voiture ; il se consacre à l'écriture.
+repere: 1932 — Fermeture du Prieuré.
+repere: 1949 — Mort à Neuilly-sur-Seine.
+repere: 1950 — *Récits de Belzébuth à son petit-fils*.
+voir: quatrieme-voie, piotr-ouspensky, enneagramme, soufisme
 
 @ piotr-ouspensky
 cat: figures
@@ -77,8 +155,22 @@ alias: P. D. Ouspensky, Ouspensky, Ouspenski, Tertium Organum
 dates: 1878 – 1947
 an: 1878
 def: Journaliste et philosophe russe, disciple de Gurdjieff, dont il exposa l'enseignement dans Fragments d'un enseignement inconnu.
-texte: Auteur de *Tertium Organum* (1912), réflexion sur la quatrième dimension et la conscience, Ouspensky rencontre [[georges-gurdjieff]] à Moscou en 1915 et devient son élève le plus brillant. Il s'en sépare en 1924, tout en continuant à enseigner son système à Londres puis aux États-Unis.
-texte: *Fragments d'un enseignement inconnu*, publié en 1949 après sa mort, donne de la [[quatrieme-voie|Quatrième Voie]] l'exposé le plus clair et le plus lu.
+texte: Piotr Demianovitch Ouspensky naît à Moscou en 1878. Renvoyé du lycée, il devient journaliste et se passionne pour la quatrième dimension, la conscience et l'occultisme. *La Quatrième Dimension* (1909) puis *Tertium Organum* (1912), qui prétend fonder un « troisième organon » de la pensée après ceux d'Aristote et de Bacon, le rendent célèbre. Il écrit aussi sur le symbolisme du tarot. En 1913, il part pour l'Inde, Ceylan et l'Égypte « à la recherche du miraculeux ».
+texte: En 1915, à Moscou, il rencontre [[georges-gurdjieff]] et devient son élève le plus brillant. Il le suit pendant la Révolution, puis s'en sépare peu à peu, tout en continuant à enseigner son « système ». Installé à Londres en 1921, il y réunit des groupes d'élèves où se pressent médecins, écrivains et aristocrates, et rompt définitivement avec Gurdjieff en 1924. Il publie *Un nouveau modèle de l'univers* (1931), où il développe notamment l'idée de l'éternel retour de chaque vie.
+texte: En 1941, pendant la guerre, il part pour les États-Unis, où il enseigne près de New York. Revenu en Angleterre en 1947, malade, il semble inviter ses élèves à abandonner le système et à « recommencer » par eux-mêmes ; il meurt quelques mois plus tard.
+texte: *Fragments d'un enseignement inconnu*, publié en 1949 avec l'accord de Gurdjieff, reconstitue fidèlement l'enseignement reçu à Moscou et à Saint-Pétersbourg : c'est l'exposé de la [[quatrieme-voie|Quatrième Voie]] le plus clair et le plus lu. Ses élèves, comme Maurice Nicoll et John G. Bennett, ont fondé à leur tour des écoles.
+repere: 1878 — Naissance à Moscou.
+repere: 1909 — *La Quatrième Dimension*.
+repere: 1912 — *Tertium Organum*.
+repere: 1913 — Voyage en Inde « à la recherche du miraculeux ».
+repere: 1915 — Il rencontre Gurdjieff à Moscou.
+repere: 1921 — Il s'installe à Londres, où il enseigne le « système ».
+repere: 1924 — Rupture définitive avec Gurdjieff.
+repere: 1931 — *Un nouveau modèle de l'univers*.
+repere: 1941 — Il part pour les États-Unis.
+repere: 1947 — Retour en Angleterre et mort.
+repere: 1949 — *Fragments d'un enseignement inconnu*.
+oeuvres: Tertium Organum (1912) ; Un nouveau modèle de l'univers (1931) ; Fragments d'un enseignement inconnu (1949)
 voir: georges-gurdjieff, quatrieme-voie, enneagramme
 
 @ rene-guenon
@@ -88,10 +180,24 @@ alias: Guénon, Abd al-Wâhid Yahyâ, Abdel Wahed Yahia, Palingénius
 dates: 1886 – 1951
 an: 1886
 def: Penseur français, fondateur du traditionalisme, pour qui toutes les religions authentiques transmettent une même tradition primordiale dont le monde moderne s'est détourné.
-texte: Né à Blois, Guénon fréquente d'abord les milieux de l'[[occultisme]] parisien autour de [[papus]] et devient évêque de l'[[eglise-gnostique|Église gnostique]]. Il rompt avec eux, entre dans le soufisme en 1912 et publie à partir de 1921 une série d'ouvrages : *Introduction générale à l'étude des doctrines hindoues*, *Le Théosophisme* et *L'Erreur spirite*, qui dénoncent la [[theosophie]] et le [[spiritisme]], *Le Roi du monde*, *La Crise du monde moderne*, *Le Symbolisme de la croix*.
-texte: Installé au Caire en 1930, il s'y marie et vit en musulman sous le nom d'Abd al-Wâhid Yahyâ. *[[regne-de-la-quantite|Le Règne de la quantité et les signes des temps]]* (1945) et *Aperçus sur l'initiation* (1946) achèvent de fixer sa doctrine de la [[tradition-primordiale]], de l'[[initiation]] et des [[cycles-cosmiques]]. Son influence est grande dans certains milieux maçonniques, soufis et catholiques.
-oeuvres: Le Théosophisme (1921) ; Le Roi du monde (1927) ; La Crise du monde moderne (1927) ; Le Règne de la quantité et les signes des temps (1945) ; Aperçus sur l'initiation (1946)
-voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola
+texte: René Guénon naît à Blois en 1886, dans une famille catholique. De santé fragile, élève brillant en mathématiques, il vient en 1904 à Paris préparer les grandes écoles, mais abandonne ses études pour les milieux de l'[[occultisme]]. Il fréquente l'école de [[papus]], entre dans l'[[ordre-martiniste|Ordre martiniste]] et dans des rites maçonniques égyptiens, devient évêque de l'[[eglise-gnostique|Église gnostique]] sous le nom de Palingénius et fonde la revue *La Gnose*.
+texte: Il rompt bientôt avec ces milieux, qu'il juge confus et sans véritable filiation. En 1912, il reçoit l'initiation soufie du peintre suédois Ivan Aguéli, converti à l'islam, et devient franc-maçon à la Grande Loge de France ; il épouse la même année une catholique. Professeur de philosophie, il voit sa thèse sur les doctrines hindoues refusée par la Sorbonne, et la publie en 1921 sous le titre d'*Introduction générale à l'étude des doctrines hindoues*.
+texte: Suivent, dans les années 1920, des livres qui dénoncent la [[theosophie]] et le [[spiritisme]] comme des contrefaçons modernes, *Le Théosophisme* et *L'Erreur spirite*, et d'autres qui exposent sa doctrine : *Le Roi du monde*, sur le centre spirituel caché de l'humanité, *La Crise du monde moderne*, *Le Symbolisme de la croix*, *Les États multiples de l'être*. Pour Guénon, toutes les religions authentiques sont les formes d'une même [[tradition-primordiale|tradition primordiale]], d'origine non humaine ; seul un rattachement régulier à l'une d'elles permet l'[[initiation]] véritable, et le monde moderne, matérialiste et individualiste, marque la fin d'un cycle.
+texte: Veuf en 1928, il part en 1930 pour Le Caire pour quelques mois et n'en revient jamais. Il y vit en musulman sous le nom d'Abd al-Wâhid Yahyâ, épouse en 1934 la fille d'un cheikh, élève quatre enfants et entretient une immense correspondance. *[[regne-de-la-quantite|Le Règne de la quantité et les signes des temps]]* (1945) et *Aperçus sur l'initiation* (1946) achèvent de fixer sa doctrine des [[cycles-cosmiques|cycles cosmiques]] et de l'initiation. Il meurt au Caire en 1951.
+texte: Fondateur du [[traditionalisme]], il a inspiré des penseurs comme Frithjof Schuon et Ananda Coomaraswamy, des historiens des religions, des milieux maçonniques, soufis et catholiques, mais aussi, par l'intermédiaire de [[julius-evola]], une partie de l'extrême droite. Il reste l'un des auteurs ésotériques les plus lus en France.
+repere: 1886 — Naissance à Blois.
+repere: 1904 — À Paris, il découvre les milieux occultistes.
+repere: 1909 — Évêque de l'Église gnostique ; il fonde la revue *La Gnose*.
+repere: 1912 — Il reçoit l'initiation soufie et devient franc-maçon à la Grande Loge de France.
+repere: 1921 — *Introduction générale à l'étude des doctrines hindoues* et *Le Théosophisme*.
+repere: 1927 — *Le Roi du monde* et *La Crise du monde moderne*.
+repere: 1930 — Il part pour Le Caire, où il passera le reste de sa vie.
+repere: 1934 — Il épouse la fille d'un cheikh égyptien.
+repere: 1945 — *Le Règne de la quantité et les signes des temps*.
+repere: 1946 — *Aperçus sur l'initiation*.
+repere: 1951 — Mort au Caire.
+oeuvres: Le Théosophisme (1921) ; L'Erreur spirite (1923) ; Le Roi du monde (1927) ; La Crise du monde moderne (1927) ; Le Symbolisme de la croix (1931) ; Le Règne de la quantité et les signes des temps (1945) ; Aperçus sur l'initiation (1946)
+voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha
 
 @ julius-evola
 cat: figures
@@ -100,9 +206,21 @@ alias: Evola, groupe d'Ur, Révolte contre le monde moderne
 dates: 1898 – 1974
 an: 1898
 def: Penseur italien, peintre dadaïste dans sa jeunesse, qui fit du traditionalisme une doctrine politique radicalement antimoderne et raciste, proche du fascisme.
-texte: Après une période d'avant-garde artistique, Evola anime à Rome, de 1927 à 1929, le groupe d'Ur, qui pratique la [[magie]] et l'[[alchimie]] comme disciplines de réalisation de soi ; il publie *La Tradition hermétique* (1931). Lecteur de [[rene-guenon]], il expose dans *Révolte contre le monde moderne* (1934) une vision de l'histoire comme déclin d'une humanité « solaire » et guerrière.
-texte: Il met sa pensée au service du fascisme et du nazisme, publie des écrits racistes et antisémites, et collabore avec des institutions SS. Paralysé par un bombardement à Vienne en 1945, il reste après la guerre une référence pour l'extrême droite européenne. Les historiens étudient son œuvre comme l'un des points de rencontre entre ésotérisme et idéologies autoritaires.
-voir: traditionalisme, rene-guenon, ariosophie, magie-sexuelle
+texte: Giulio Cesare Evola naît à Rome en 1898 dans une famille noble d'origine sicilienne. Officier d'artillerie pendant la Grande Guerre, il devient au lendemain du conflit l'un des représentants du dadaïsme en Italie, peintre et poète en correspondance avec Tristan Tzara. Une crise existentielle le pousse ensuite vers la philosophie : il publie des essais sur l'« idéalisme magique » et l'« individu absolu ».
+texte: De 1927 à 1929, il anime à Rome le groupe d'Ur, avec le pythagoricien Arturo Reghini, qui pratique la [[magie]] et l'[[alchimie]] comme disciplines de réalisation de soi et publie des monographies sur ces sujets. Il expose dans *La Tradition hermétique* (1931) une alchimie toute spirituelle, voie de régénération de l'homme. Lecteur et correspondant de [[rene-guenon]], il en tire dans *Révolte contre le monde moderne* (1934) une vision de l'histoire comme déclin d'une humanité primordiale, « solaire », virile et guerrière, au profit de civilisations « lunaires » et matérialistes. Il écrit aussi sur le Graal, le bouddhisme et la sexualité.
+texte: Il met sa pensée au service du fascisme et du nazisme, qu'il critique pourtant de l'extérieur comme trop plébéiens. Il publie des écrits racistes et antisémites, dont une doctrine « spirituelle » de la race saluée par Mussolini, préface une édition italienne des faux *Protocoles des sages de Sion* et collabore avec des institutions SS. En 1945, à Vienne, une bombe le blesse alors qu'il marche pendant un bombardement : il reste paralysé des jambes.
+texte: Après la guerre, jugé en 1951 comme inspirateur de groupes néofascistes, il est acquitté. Ses livres, comme *Chevaucher le tigre* (1961), font de lui une référence pour l'extrême droite européenne, jusqu'à aujourd'hui. Il meurt à Rome en 1974. Les historiens étudient son œuvre comme l'un des principaux points de rencontre entre l'ésotérisme et les idéologies autoritaires.
+repere: 1898 — Naissance à Rome.
+repere: 1917 — Officier d'artillerie pendant la Grande Guerre.
+repere: 1920 — Peintre et poète dadaïste.
+repere: 1927 — Il anime le groupe d'Ur, à Rome.
+repere: 1931 — *La Tradition hermétique*.
+repere: 1934 — *Révolte contre le monde moderne*.
+repere: 1941 — *Synthèse de doctrine de la race*, saluée par Mussolini.
+repere: 1945 — Blessé à Vienne lors d'un bombardement, il reste paralysé des jambes.
+repere: 1951 — Jugé comme inspirateur de groupes néofascistes, il est acquitté.
+repere: 1974 — Mort à Rome.
+voir: traditionalisme, rene-guenon, ariosophie, magie-sexuelle, graal
 
 @ carl-gustav-jung
 cat: figures
@@ -111,22 +229,45 @@ alias: Jung, C. G. Jung, inconscient collectif, archétypes, synchronicité, Liv
 dates: 1875 – 1961
 an: 1875
 def: Psychiatre suisse, fondateur de la psychologie analytique, qui vit dans l'alchimie, la gnose et les symboles religieux des expressions de l'inconscient collectif.
-texte: Collaborateur de Freud, Jung rompt avec lui en 1913 et traverse une période de visions qu'il consigne dans le *Livre rouge*, publié seulement en 2009. Il élabore la notion d'un inconscient collectif peuplé d'archétypes, images universelles qui se retrouvent dans les mythes, les rêves et les religions, et décrit le chemin de l'« individuation », par lequel la personne réalise sa totalité.
-texte: Dans *Psychologie et alchimie* (1944) et *Mysterium conjunctionis* (1955-1956), il lit les textes de l'[[alchimie]] comme une projection, sur la matière, de ce processus intérieur : la [[nigredo]] est la confrontation à l'ombre, les [[noces-chymiques|noces]] du roi et de la reine l'union des contraires. Il s'intéresse aussi au [[yi-king|Yi King]], à l'[[astrologie]] et forge avec le physicien Wolfgang Pauli la notion de « synchronicité », coïncidence chargée de sens. Son influence sur le [[new-age|New Age]] et sur la lecture moderne des symboles est considérable.
-oeuvres: Psychologie et alchimie (1944) ; Aiôn (1951) ; Synchronicité (1952) ; Mysterium conjunctionis (1955-1956)
-voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king
+texte: Carl Gustav Jung naît en 1875 à Kesswil, en Suisse, fils d'un pasteur réformé. Étudiant en médecine à Bâle, il consacre sa thèse (1902) aux phénomènes dits occultes, à partir des séances spirites où sa jeune cousine servait de médium. Psychiatre à la clinique du Burghölzli, à Zurich, il s'y fait connaître par ses expériences d'association de mots.
+texte: En 1907, il rencontre Freud, qui voit en lui son héritier ; il rompt avec lui en 1913, refusant de réduire la libido à la sexualité. Commence une période de visions et de dialogues intérieurs, qu'il consigne et illustre dans le *Livre rouge*, publié seulement en 2009 ; il en sort ses *Sept Sermons aux morts*, signés « Basilide ». Il élabore la notion d'un inconscient collectif peuplé d'archétypes — l'ombre, l'anima, le vieux sage, le soi —, images universelles qui se retrouvent dans les mythes, les rêves et les religions, et décrit le chemin de l'« individuation », par lequel la personne réalise sa totalité.
+texte: En 1928, un sinologue lui fait découvrir un texte alchimique chinois, *Le Secret de la fleur d'or*. Jung réunit alors une grande bibliothèque d'alchimie et lit les textes de l'[[alchimie]] occidentale comme une projection, sur la matière, de ce processus intérieur : la [[nigredo]] est la confrontation à l'ombre, les [[noces-chymiques|noces]] du roi et de la reine l'union des contraires. *Psychologie et alchimie* (1944) et *Mysterium conjunctionis* (1955-1956) développent cette lecture, qui a renouvelé l'intérêt pour l'alchimie.
+texte: Aux rencontres d'Eranos, à Ascona, il côtoie des historiens des religions comme [[gershom-scholem]], [[henry-corbin|Henry Corbin]] et Mircea Eliade. Il s'intéresse au [[yi-king|Yi King]], à l'[[astrologie]], aux [[mandala|mandalas]], aux soucoupes volantes, et forge avec le physicien Wolfgang Pauli la notion de « synchronicité », coïncidence chargée de sens. Ses déclarations ambiguës des années 1930 sur une « psychologie juive » lui ont été reprochées. Il meurt en 1961 à Küsnacht, au bord du lac de Zurich.
+texte: Son influence sur le [[new-age|New Age]], la psychologie populaire et la lecture moderne des symboles est considérable : les historiens parlent d'une « psychologisation » de l'ésotérisme, où les dieux et les esprits deviennent des puissances de l'âme.
+repere: 1875 — Naissance à Kesswil, en Suisse, fils d'un pasteur.
+repere: 1902 — Thèse de médecine sur les phénomènes dits occultes.
+repere: 1907 — Il rencontre Freud.
+repere: 1913 — Rupture avec Freud ; début des visions consignées dans le *Livre rouge*.
+repere: 1916 — *Sept Sermons aux morts*.
+repere: 1921 — *Types psychologiques*.
+repere: 1929 — Commentaire du *Secret de la fleur d'or*, texte alchimique chinois.
+repere: 1933 — Premières conférences aux rencontres d'Eranos, à Ascona.
+repere: 1944 — *Psychologie et alchimie*.
+repere: 1952 — *Synchronicité*, avec Wolfgang Pauli.
+repere: 1955 — *Mysterium conjunctionis*.
+repere: 1961 — Mort à Küsnacht.
+repere: 2009 — Publication du *Livre rouge*.
+oeuvres: Types psychologiques (1921) ; Psychologie et alchimie (1944) ; Aiôn (1951) ; Synchronicité (1952) ; Mysterium conjunctionis (1955-1956) ; Ma vie (1962)
+voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide
 
 @ fulcanelli
 cat: figures
 nom: Fulcanelli
-alias: Les Demeures philosophales, Le Mystère des cathédrales
+alias: Les Demeures philosophales, Le Mystère des cathédrales, cabale phonétique
 dates: auteur anonyme, actif dans les années 1920
 an: 1926
 def: Pseudonyme d'un alchimiste français dont l'identité reste inconnue, auteur du Mystère des cathédrales, qui lit dans la sculpture gothique un enseignement alchimique.
-texte: *[[mystere-des-cathedrales|Le Mystère des cathédrales]]* paraît en 1926, préfacé par [[eugene-canseliet]], qui se présente comme le disciple de l'auteur ; *Les Demeures philosophales* suivent en 1930. Fulcanelli y soutient que les bâtisseurs gothiques ont caché dans les portails de Notre-Dame de Paris et d'Amiens, dans les demeures de la Renaissance et dans les cadrans solaires, les étapes du [[grand-oeuvre|Grand Œuvre]], selon une « cabale phonétique » où les mots se lisent par leurs sonorités.
-texte: Son identité a suscité toutes les hypothèses : l'illustrateur des livres, Julien Champagne, le libraire Pierre Dujols, des savants et même Canseliet lui-même. *Le Matin des magiciens* a raconté qu'il aurait averti en 1937 des chercheurs français des dangers de l'énergie atomique. Aucune preuve ne permet de trancher.
+texte: *[[mystere-des-cathedrales|Le Mystère des cathédrales]]* paraît à Paris en 1926, en tirage limité, illustré par le peintre Julien Champagne et préfacé par [[eugene-canseliet]], qui se présente comme le disciple de l'auteur : celui-ci, dit-il, a atteint le but du [[grand-oeuvre|Grand Œuvre]] et a disparu. *Les Demeures philosophales* suivent en 1930 ; un troisième livre annoncé ne paraît jamais. Le pseudonyme évoque Vulcain, dieu du feu.
+texte: Fulcanelli soutient que les bâtisseurs gothiques ont caché dans les portails de Notre-Dame de Paris et d'Amiens les étapes de l'œuvre alchimique : les médaillons du portail central de Notre-Dame, la figure de l'Alchimie sur le trumeau, se lisent comme un traité de pierre. *Les Demeures philosophales* étendent cette lecture aux hôtels de la Renaissance, aux cadrans solaires, aux caissons sculptés d'un château et à une croix du Pays basque, à Hendaye, qui annoncerait la fin d'un cycle du monde.
+texte: Sa méthode est une « cabale phonétique », la « langue des oiseaux », où les mots se lisent par leurs sonorités : l'« art gothique » serait l'« art goth », c'est-à-dire l'argot des initiés. Écrits dans une langue somptueuse et érudite, ses livres ont connu un immense succès et fait de lui la plus grande légende de l'alchimie au XXe siècle.
+texte: Son identité a suscité toutes les hypothèses : l'illustrateur Julien Champagne, le libraire ésotériste Pierre Dujols, un savant physicien, René Schwaller de Lubicz, voire Canseliet lui-même, ou un groupe. *Le Matin des magiciens* a raconté qu'il aurait averti en 1937 un jeune chimiste, Jacques Bergier, des dangers de l'énergie atomique ; Canseliet affirma l'avoir revu, rajeuni, en Espagne en 1954. Aucune preuve ne permet de trancher.
+repere: 1926 — *Le Mystère des cathédrales*, publié par les soins d'Eugène Canseliet.
+repere: 1930 — *Les Demeures philosophales*.
+repere: 1937 — Selon Jacques Bergier, un inconnu, peut-être Fulcanelli, le met en garde contre l'énergie atomique.
+repere: 1954 — Canseliet dit l'avoir revu, rajeuni, en Espagne.
+repere: 1960 — *Le Matin des magiciens* popularise sa légende.
 oeuvres: Le Mystère des cathédrales (1926) ; Les Demeures philosophales (1930)
-voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens
+voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel
 
 @ eugene-canseliet
 cat: figures
@@ -135,64 +276,128 @@ alias: Canseliet
 dates: 1899 – 1982
 an: 1899
 def: Alchimiste français, disciple et éditeur de Fulcanelli, qui consacra sa vie à la pratique et à l'enseignement de l'alchimie traditionnelle.
-texte: Canseliet dit avoir rencontré [[fulcanelli]] à quinze ans, à Marseille, et avoir réalisé sous sa direction, en 1922, à Sarcelles, une transmutation en or. Il préface et publie les livres de son maître, puis écrit les siens, dont *Deux logis alchimiques* (1945) et *L'Alchimie expliquée sur ses textes classiques* (1972).
-texte: Installé à Savignies, dans l'Oise, il poursuit au laboratoire la [[voie-seche|voie sèche]], donne des entretiens et attire de nombreux visiteurs. Il incarne, au XXe siècle, la figure de l'alchimiste opératif, attaché aux textes anciens et à la discrétion.
-voir: fulcanelli, mystere-des-cathedrales, alchimie, voie-seche, rosee
+texte: Eugène Canseliet naît à Sarcelles en 1899 et grandit à Marseille. Il dit y avoir rencontré, à quinze ans, l'homme qu'il appellera son maître, [[fulcanelli]], qui l'aurait pris sous sa direction. Installé à Paris après la guerre, il fréquente le peintre Julien Champagne et les cercles alchimiques de la capitale.
+texte: Selon son témoignage, il réalise en 1922, à l'usine à gaz de Sarcelles, sous la direction de son maître et devant deux témoins, une transmutation de plomb en or. Il publie en 1926 *Le Mystère des cathédrales*, puis en 1930 *Les Demeures philosophales*, qu'il préface et dont il défendra toute sa vie l'authenticité et le secret.
+texte: Il écrit ensuite ses propres livres, dont *Deux logis alchimiques* (1945), *Alchimie* (1964), *L'Alchimie expliquée sur ses textes classiques* (1972), et donne des éditions commentées de classiques, comme les *Douze Clefs* de [[basile-valentin]] ou le *[[mutus-liber|Mutus Liber]]*. Il affirme avoir revu Fulcanelli en 1954, en Espagne, dans un château, rajeuni et changé.
+texte: Installé à Savignies, dans l'Oise, il poursuit au laboratoire la [[voie-seche|voie sèche]], travaillant surtout au printemps, quand la [[rosee|rosée]] et les énergies célestes sont les plus favorables, donne des entretiens, apparaît à la télévision et reçoit de nombreux visiteurs. Il meurt à Savignies en 1982. Il incarne, au XXe siècle, la figure de l'alchimiste opératif, attaché aux textes anciens, à la patience et à la discrétion.
+repere: 1899 — Naissance à Sarcelles.
+repere: 1915 — À Marseille, il dit avoir rencontré Fulcanelli.
+repere: 1922 — Il affirme avoir réalisé une transmutation à l'usine à gaz de Sarcelles.
+repere: 1926 — Il publie *Le Mystère des cathédrales*.
+repere: 1945 — *Deux logis alchimiques*.
+repere: 1954 — Il affirme avoir revu Fulcanelli en Espagne.
+repere: 1956 — Traduction commentée des *Douze Clefs* de Basile Valentin.
+repere: 1967 — Commentaire du *Mutus Liber*.
+repere: 1972 — *L'Alchimie expliquée sur ses textes classiques*.
+repere: 1982 — Mort à Savignies, dans l'Oise.
+oeuvres: Deux logis alchimiques (1945) ; Alchimie (1964) ; L'Alchimie expliquée sur ses textes classiques (1972)
+voir: fulcanelli, mystere-des-cathedrales, alchimie, voie-seche, rosee, mutus-liber
 
 @ schwaller-de-lubicz
 cat: figures
 nom: René Schwaller de Lubicz
-alias: Schwaller de Lubicz, Isha Schwaller de Lubicz, Le Temple de l'homme
+alias: Schwaller de Lubicz, Isha Schwaller de Lubicz, Le Temple de l'homme, Les Veilleurs
 dates: 1887 – 1961
 an: 1887
 def: Peintre, alchimiste et égyptologue autodidacte français, qui chercha dans le temple de Louxor la preuve d'une science sacrée égyptienne.
-texte: Élève de Matisse, René Schwaller anime après la Première Guerre mondiale un groupe ésotérique, les Veilleurs, puis une communauté en Suisse. De 1937 à 1951, il étudie avec sa femme Isha le temple de Louxor et conclut, dans *Le Temple de l'homme* (1957), que ses proportions reproduisent celles du corps humain et cachent une pensée symbolique très élaborée.
-texte: Les égyptologues ont rejeté ses conclusions, mais ses livres ont nourri l'[[egyptosophie]] contemporaine et les théories sur une civilisation perdue.
-voir: egyptosophie, nombre-d-or, alchimie, pyramides
+texte: René Adolphe Schwaller naît en 1887 à Asnières, dans une famille d'origine alsacienne, et apprend d'abord le métier de pharmacien. Venu à Paris, il étudie la peinture auprès de Matisse et fréquente les milieux théosophiques. Après la Première Guerre mondiale, il fonde un groupe ésotérique et politique, les Veilleurs ; le poète lituanien Oscar Milosz lui transmet le nom de Lubicz, qu'il ajoute au sien.
+texte: Il mène ensuite des recherches alchimiques et scientifiques dans une communauté installée en Suisse, puis sur la Côte d'Azur, et épouse en 1927 Jeanne Germain, qui prend le nom d'Isha et devient sa collaboratrice ; elle racontera l'initiation égyptienne dans des romans, *Her-Bak*. Il se disait proche de [[fulcanelli]].
+texte: De 1937 à 1951, il étudie avec Isha, l'architecte Alexandre Varille et le dessinateur Clément Robichon le temple de Louxor, qu'il mesure et relève en détail. Il conclut, dans *Le Temple de l'homme* (1957), que le plan du temple reproduit les proportions du corps humain, que ses chambres correspondent aux organes, et que l'Égypte pharaonique possédait une pensée symbolique très élaborée, fondée sur le [[nombre-d-or|nombre d'or]] et la géométrie sacrée. Il suggère aussi que le Sphinx de Gizeh aurait été érodé par l'eau, ce qui le vieillirait de plusieurs millénaires.
+texte: Il passe ses dernières années à Grasse, où il meurt en 1961. Les égyptologues ont rejeté ses conclusions, qui projettent sur l'Égypte une philosophie moderne ; mais ses livres ont nourri l'[[egyptosophie]] contemporaine, les théories sur une civilisation perdue et le goût pour la géométrie sacrée.
+repere: 1887 — Naissance à Asnières.
+repere: vers 1910 — Il étudie la peinture auprès de Matisse.
+repere: 1919 — Il fonde le groupe des Veilleurs ; Milosz lui transmet le nom de Lubicz.
+repere: 1927 — Il épouse Isha, qui sera sa collaboratrice.
+repere: 1937 — Début de quinze ans d'étude du temple de Louxor.
+repere: 1957 — *Le Temple de l'homme*.
+repere: 1961 — Mort à Grasse.
+oeuvres: Le Temple de l'homme (1957) ; Le Roi de la théocratie pharaonique (1961)
+voir: egyptosophie, nombre-d-or, alchimie, pyramides, sphinx
 
 @ alice-bailey
 cat: figures
 nom: Alice Bailey
-alias: Alice A. Bailey, Bailey, le Tibétain, Djwal Khul, Lucis Trust, Grande Invocation
+alias: Alice A. Bailey, Bailey, le Tibétain, Djwal Khul, Lucis Trust, Grande Invocation, École arcane
 dates: 1880 – 1949
 an: 1880
 def: Écrivaine théosophe anglo-américaine, qui publia vingt-quatre livres dictés, selon elle, par un maître tibétain, et annonça l'ère nouvelle.
-texte: Née à Manchester, Alice Bailey découvre la [[theosophie]] en Californie et dit recevoir à partir de 1919 l'enseignement télépathique d'un [[maitres-de-sagesse|Maître]], Djwal Khul, dit « le Tibétain ». Elle quitte la [[societe-theosophique|Société théosophique]] en 1920 et fonde avec son mari l'École arcane et le Lucis Trust.
-texte: Ses livres décrivent une hiérarchie spirituelle qui guide l'humanité, sept « rayons » qui colorent les âmes et les nations, et le retour prochain du Christ comme instructeur mondial. Elle emploie l'expression de « Nouvel Âge » : son œuvre est l'une des sources directes du [[new-age|New Age]].
+texte: Alice La Trobe-Bateman naît à Manchester en 1880 dans une famille aisée et pieuse ; orpheline jeune, élevée dans un christianisme évangélique, elle raconte avoir reçu à quinze ans la visite d'un mystérieux homme enturbanné, qu'elle identifiera plus tard à l'un des [[maitres-de-sagesse|Maîtres]] de la théosophie. Missionnaire auprès des soldats britanniques en Inde, elle épouse un futur pasteur et le suit aux États-Unis, où le couple se sépare ; seule avec trois filles, elle travaille un temps dans une conserverie de sardines.
+texte: En Californie, en 1915, elle découvre la [[theosophie]]. En 1919, elle dit recevoir l'enseignement télépathique d'un Maître, Djwal Khul, dit « le Tibétain », qui lui dicte ses livres. Elle quitte la [[societe-theosophique|Société théosophique]], épouse en 1921 Foster Bailey, et fonde avec lui une maison d'édition, le Lucis Trust, et en 1923 une école d'enseignement par correspondance, l'École arcane.
+texte: Ses vingt-quatre livres, dont un *Traité sur le feu cosmique* et un *Traité sur la magie blanche*, décrivent une hiérarchie spirituelle de Maîtres qui guide l'humanité, sept « rayons » qui colorent les âmes et les nations, la méditation de groupe et le retour prochain du Christ comme instructeur mondial. Elle répand une prière, la « Grande Invocation », encore récitée dans le monde entier.
+texte: Elle emploie l'expression de « Nouvel Âge » et annonce l'[[ere-du-verseau|ère du Verseau]] : son œuvre est l'une des sources directes du [[new-age|New Age]]. Certains passages de ses livres sur les races et sur les juifs lui ont été vivement reprochés. Elle meurt à New York en 1949 ; le Lucis Trust poursuit son œuvre.
+repere: 1880 — Naissance à Manchester.
+repere: 1895 — Elle dit avoir reçu la visite d'un mystérieux maître enturbanné.
+repere: 1915 — Elle découvre la théosophie en Californie.
+repere: 1919 — Premiers messages du « Tibétain ».
+repere: 1921 — Elle épouse Foster Bailey.
+repere: 1923 — Fondation de l'École arcane.
+repere: 1937 — Elle diffuse la « Grande Invocation ».
+repere: 1949 — Mort à New York.
+oeuvres: Initiation humaine et solaire (1922) ; Traité sur le feu cosmique (1925) ; Traité sur la magie blanche (1934)
 voir: theosophie, maitres-de-sagesse, new-age, ere-du-verseau
 
 @ max-heindel
 cat: figures
 nom: Max Heindel
-alias: Carl Louis von Grasshoff, Heindel, Rosicrucian Fellowship
+alias: Carl Louis von Grasshoff, Heindel, Rosicrucian Fellowship, Cosmogonie des Rose-Croix
 dates: 1865 – 1919
 an: 1865
 def: Occultiste et astrologue d'origine danoise, fondateur aux États-Unis de la Rosicrucian Fellowship, qui diffusa une version chrétienne de la théosophie.
-texte: Ingénieur naval installé aux États-Unis, Heindel découvre la [[theosophie]] à Los Angeles, puis suit à Berlin en 1907 des conférences de [[rudolf-steiner]]. Il dit avoir reçu d'un frère aîné de la Rose-Croix l'enseignement qu'il publie dans la *Cosmogonie des Rose-Croix* (1909), qui reprend largement la cosmologie de Steiner.
-texte: Il fonde la même année la [[rosicrucian-fellowship|Rosicrucian Fellowship]], installée à Oceanside, en Californie, qui enseigne par correspondance une [[astrologie]] spirituelle et la guérison par la prière.
+texte: Carl Louis Fredrik Grasshoff naît en 1865 à Aarhus, au Danemark. Ingénieur, il navigue comme mécanicien en chef sur des paquebots, puis s'installe aux États-Unis, à New York, puis à Los Angeles, où il découvre la [[theosophie]] et l'[[astrologie]] et devient en 1904 vice-président de la loge théosophique locale. Il souffre d'une grave maladie de cœur.
+texte: En 1907, il part pour l'Allemagne et suit à Berlin des conférences de [[rudolf-steiner]]. Il dit y avoir rencontré un « frère aîné » de la Rose-Croix, qui l'aurait conduit dans un temple caché près de la frontière de Bohême pour lui transmettre un enseignement. Celui-ci paraît en 1909 sous le titre de *Cosmogonie des Rose-Croix* ; il reprend si largement la cosmologie de Steiner que les anthroposophes l'ont accusé de plagiat.
+texte: Il fonde la même année la [[rosicrucian-fellowship|Rosicrucian Fellowship]], dont il installe le siège en 1911 à Oceanside, en Californie, sur une colline qu'il nomme le mont Ecclesia. L'association enseigne par correspondance un christianisme ésotérique, la [[reincarnation]], le végétarisme, une astrologie spirituelle dont elle publie les éphémérides, et la guérison par la prière à distance. Avec sa seconde épouse, Augusta Foss, il écrit des manuels d'astrologie très diffusés.
+texte: Il meurt à Oceanside en 1919 ; Augusta poursuit son œuvre, et la Rosicrucian Fellowship existe toujours, avec des centres dans de nombreux pays.
+repere: 1865 — Naissance à Aarhus, au Danemark.
+repere: 1904 — Vice-président de la loge théosophique de Los Angeles.
+repere: 1907 — En Allemagne, il suit les conférences de Rudolf Steiner.
+repere: 1909 — *Cosmogonie des Rose-Croix* ; fondation de la Rosicrucian Fellowship.
+repere: 1911 — Installation du siège à Oceanside, en Californie.
+repere: 1919 — Mort à Oceanside.
+oeuvres: Cosmogonie des Rose-Croix (1909) ; Le Message des astres ; Astrologie scientifique simplifiée
 voir: rosicrucian-fellowship, rose-croix, rudolf-steiner, astrologie
 
 @ harvey-spencer-lewis
 cat: figures
 nom: Harvey Spencer Lewis
-alias: H. Spencer Lewis, Spencer Lewis, Lewis
+alias: H. Spencer Lewis, Spencer Lewis, Lewis, Imperator
 dates: 1883 – 1939
 an: 1883
 def: Publicitaire et occultiste américain, fondateur de l'AMORC, le plus grand des ordres rosicruciens modernes.
-texte: Lewis dit avoir été initié en 1909 à Toulouse par une ancienne fraternité rosicrucienne. Il fonde à New York, en 1915, l'Ancien et mystique ordre de la Rose-Croix, l'[[amorc|AMORC]], qu'il installe ensuite à San José, en Californie, avec un parc et un musée égyptien.
-texte: Publicitaire de métier, il recrute par des annonces dans la presse et diffuse son enseignement par des cours envoyés par la poste, ce qui fait de l'AMORC une organisation mondiale. Son fils Ralph lui succède.
-voir: amorc, rose-croix, egyptosophie
+texte: Harvey Spencer Lewis naît en 1883 dans le New Jersey, dans une famille méthodiste. Illustrateur et publicitaire à New York, il s'intéresse très tôt aux phénomènes psychiques et fonde en 1904 un institut de recherches psychiques. Il raconte avoir été initié en 1909 à Toulouse par une ancienne fraternité rosicrucienne, qui l'aurait chargé de réveiller l'ordre en Amérique.
+texte: Il fonde à New York, en 1915, l'Ancien et mystique ordre de la Rose-Croix, l'[[amorc|AMORC]], dont il prend le titre d'*Imperator*. L'année suivante, il prétend réaliser publiquement une transmutation de zinc en or. L'ordre s'installe en 1927 à San José, en Californie, où il aménage un parc de style égyptien, un musée égyptien, encore ouvert, et un planétarium.
+texte: Publicitaire de métier, il recrute par des annonces dans la presse et diffuse son enseignement par des monographies envoyées par la poste, ce qui fait de l'AMORC une organisation mondiale. Son enseignement mêle la tradition rosicrucienne, une Égypte idéalisée — Akhenaton y devient un grand maître —, le mysticisme, le développement personnel et la réincarnation. Il écrit aussi une *Vie mystique de Jésus* et, sous pseudonyme, un livre sur le continent perdu de la [[lemurie|Lémurie]].
+texte: Il meurt à San José en 1939 ; son fils Ralph lui succède. L'AMORC revendique aujourd'hui des membres dans le monde entier, notamment en France, où il est très implanté.
+repere: 1883 — Naissance dans le New Jersey.
+repere: 1904 — Il fonde à New York un institut de recherches psychiques.
+repere: 1909 — Il dit avoir été initié à Toulouse par des Rose-Croix.
+repere: 1915 — Fondation de l'AMORC à New York.
+repere: 1916 — Il prétend réaliser publiquement une transmutation de zinc en or.
+repere: 1927 — L'ordre s'installe à San José, en Californie.
+repere: 1939 — Mort à San José.
+voir: amorc, rose-croix, egyptosophie, lemurie
 
 @ gerald-gardner
 cat: figures
 nom: Gerald Gardner
-alias: Gardner, gardnérien, wicca gardnérienne
+alias: Gardner, gardnérien, wicca gardnérienne, Witchcraft Today
 dates: 1884 – 1964
 an: 1884
 def: Fonctionnaire colonial britannique retraité, fondateur de la wicca, qu'il présenta comme la survivance d'une ancienne religion de sorcières.
-texte: Ancien douanier en Malaisie, passionné d'archéologie et d'armes anciennes, Gardner s'installe en 1936 près de la New Forest et dit y avoir été initié, en 1939, dans un coven de sorcières. Il rencontre [[aleister-crowley]] en 1947 et entre dans l'[[oto|Ordo Templi Orientis]].
-texte: Après l'abrogation en 1951 de la vieille loi anglaise contre la sorcellerie, il publie *Witchcraft Today* (1954), dirige un musée de la sorcellerie sur l'île de Man et initie des disciples, dont Doreen Valiente, qui récrit une partie des rituels. Sa [[wicca]] s'est répandue dans le monde entier.
-voir: wicca, sorcellerie, neopaganisme, cercle-magique
+texte: Gerald Brosseau Gardner naît en 1884 près de Liverpool, dans une riche famille de marchands de bois. Asthmatique, il passe une partie de son enfance à voyager avec sa gouvernante, puis part à seize ans pour Ceylan, où il travaille dans une plantation de thé. Il fait ensuite carrière en Malaisie, comme planteur puis fonctionnaire des douanes, se passionne pour l'archéologie, les armes anciennes et les religions locales, et publie un ouvrage de référence sur le kriss malais.
+texte: Retraité en 1936, il s'installe en Angleterre, près de la New Forest. Il fréquente un groupe rosicrucien local et dit y avoir été initié, en 1939, dans un coven de sorcières qui aurait conservé une religion préchrétienne, selon la thèse de l'historienne [[margaret-murray|Margaret Murray]]. Les historiens doutent de l'existence de ce coven ou de son ancienneté. Il rencontre [[aleister-crowley]] en 1947, entre dans l'[[oto|Ordo Templi Orientis]] et emprunte à sa magie une partie de ses rituels.
+texte: Après l'abrogation en 1951 de la vieille loi anglaise contre la sorcellerie, il publie *Witchcraft Today* (1954), préfacé par Margaret Murray, dirige un musée de la magie et de la sorcellerie sur l'île de Man et initie des disciples, dont la poétesse Doreen Valiente, qui récrit une partie des rituels, notamment la célèbre « Charge de la Déesse ». Il recherche la publicité, ce qui provoque des tensions dans ses groupes.
+texte: Il meurt en 1964, en mer, au retour d'un voyage au Liban. Sa [[wicca]], religion de la Déesse et du Dieu cornu, des sabbats saisonniers et du [[cercle-magique|cercle magique]], s'est répandue dans le monde entier et a donné naissance à de nombreux courants du [[neopaganisme]].
+repere: 1884 — Naissance près de Liverpool.
+repere: 1900 — Planteur de thé à Ceylan.
+repere: 1936 — Retraité, il s'installe près de la New Forest.
+repere: 1939 — Il dit avoir été initié dans un coven de sorcières.
+repere: 1947 — Il rencontre Aleister Crowley.
+repere: 1951 — Abrogation de la loi anglaise contre la sorcellerie.
+repere: 1953 — Il initie Doreen Valiente.
+repere: 1954 — *Witchcraft Today*.
+repere: 1964 — Mort en mer, au retour d'un voyage au Liban.
+oeuvres: Witchcraft Today (1954) ; The Meaning of Witchcraft (1959)
+voir: wicca, sorcellerie, neopaganisme, cercle-magique, sabbat
 
 @ jiddu-krishnamurti
 cat: figures
@@ -201,44 +406,88 @@ alias: Krishnamurti, Ordre de l'Étoile d'Orient
 dates: 1895 – 1986
 an: 1895
 def: Penseur indien, désigné enfant par la Société théosophique comme futur instructeur du monde, qui rejeta ce rôle et enseigna une liberté sans maître ni doctrine.
-texte: En 1909, sur la plage d'Adyar, le théosophe Charles Leadbeater remarque un garçon de quatorze ans, fils d'un employé de la [[societe-theosophique|Société théosophique]], et voit en lui le futur véhicule de l'« Instructeur du monde ». [[annie-besant]] l'élève, le fait instruire en Angleterre et crée pour lui l'Ordre de l'Étoile d'Orient (1911).
-texte: En 1929, devant des milliers de membres réunis aux Pays-Bas, Krishnamurti dissout l'ordre : « La vérité est un pays sans chemin. » Il passe le reste de sa vie à donner des conférences à travers le monde, invitant chacun à observer sa pensée sans s'en remettre à aucune autorité spirituelle.
-voir: societe-theosophique, annie-besant, theosophie
+texte: Jiddu Krishnamurti naît en 1895 à Madanapalle, dans le sud de l'Inde, dans une famille de brahmanes. Sa mère meurt quand il a dix ans. Son père, employé retraité, travaille pour la [[societe-theosophique|Société théosophique]] à Adyar. En 1909, sur la plage, le théosophe [[charles-webster-leadbeater|Charles Leadbeater]] remarque ce garçon frêle et rêveur et voit en lui le futur véhicule de l'« Instructeur du monde ». [[annie-besant]] l'adopte avec son frère Nityananda, le fait instruire en Angleterre et crée pour lui en 1911 l'Ordre de l'Étoile d'Orient, qui compte bientôt des dizaines de milliers de membres.
+texte: En 1922, à Ojai, en Californie, il traverse une crise spirituelle, faite de douleurs et de visions, qu'il appellera « le processus ». La mort de son frère, en 1925, ébranle sa confiance dans les promesses des théosophes. En 1929, devant des milliers de membres réunis à Ommen, aux Pays-Bas, il dissout l'ordre : « La vérité est un pays sans chemin. » Aucune organisation, aucune croyance, aucun maître ne peut y conduire.
+texte: Il passe le reste de sa vie à donner des conférences et des entretiens à travers le monde, invitant chacun à observer sa pensée sans s'en remettre à aucune autorité spirituelle : l'observateur est l'observé, et la liberté commence quand cesse la dépendance psychologique. Il fonde des écoles en Inde et en Angleterre, dialogue avec le physicien David Bohm, et ses livres, comme *La Première et Dernière Liberté*, préfacé par Aldous Huxley, sont traduits dans de nombreuses langues.
+texte: Il meurt à Ojai en 1986. Paradoxe souvent relevé : l'homme qui refusait d'être un maître a été l'un des plus écoutés du XXe siècle, et une figure majeure de la rencontre entre l'Inde et l'Occident.
+repere: 1895 — Naissance à Madanapalle, dans le sud de l'Inde.
+repere: 1909 — Leadbeater le remarque sur la plage d'Adyar.
+repere: 1911 — Fondation pour lui de l'Ordre de l'Étoile d'Orient.
+repere: 1922 — À Ojai, en Californie, il traverse la crise qu'il appellera « le processus ».
+repere: 1925 — Mort de son frère Nityananda.
+repere: 1929 — À Ommen, aux Pays-Bas, il dissout l'Ordre de l'Étoile.
+repere: 1954 — *La Première et Dernière Liberté*, préfacé par Aldous Huxley.
+repere: 1969 — Il fonde l'école de Brockwood Park, en Angleterre.
+repere: 1986 — Mort à Ojai.
+voir: societe-theosophique, annie-besant, theosophie, maitres-de-sagesse
 
 @ robert-ambelain
 cat: figures
 nom: Robert Ambelain
-alias: Ambelain
+alias: Ambelain, Dans l'ombre des cathédrales
 dates: 1907 – 1997
 an: 1907
 def: Écrivain et occultiste français, figure majeure du martinisme et de la franc-maçonnerie égyptienne au XXe siècle, auteur de nombreux ouvrages de kabbale, d'astrologie et de magie.
-texte: Initié dans plusieurs ordres martinistes et gnostiques, Ambelain réactive sous l'Occupation des loges et des rites interdits par le régime de Vichy. Il dirige ensuite l'[[ordre-martiniste|Ordre martiniste initiatique]], est consacré évêque d'une Église gnostique et devient grand hiérophante du [[rite-de-memphis-misraim|rite de Memphis-Misraïm]].
-texte: Ses livres — *Le Martinisme* (1946), *La Kabbale pratique* (1951) — et ses essais sur les origines du christianisme ont été très lus. Il a contribué à la remise en usage des opérations théurgiques des [[elus-coens]].
-voir: martinisme, ordre-martiniste, rite-de-memphis-misraim, elus-coens, eglise-gnostique
+texte: Robert Ambelain naît à Paris en 1907. Autodidacte, il publie dans les années 1930 des ouvrages d'[[astrologie]], puis en 1939 *Dans l'ombre des cathédrales*, qui prolonge la lecture alchimique de l'art gothique de [[fulcanelli]], dont il soutiendra plus tard qu'il n'était autre que le peintre Julien Champagne.
+texte: Sous l'Occupation, alors que le régime de Vichy interdit la franc-maçonnerie et poursuit ses membres, il réactive clandestinement des loges et des rites, notamment le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], dont le grand maître, Constant Chevillon, est assassiné par la Milice en 1944. Initié dans plusieurs ordres [[martinisme|martinistes]] et gnostiques, il entreprend de ranimer les opérations théurgiques des [[elus-coens]] de Martinez de Pasqually.
+texte: Après la guerre, il dirige l'[[ordre-martiniste|Ordre martiniste initiatique]], est consacré évêque d'une Église gnostique et devient grand hiérophante du rite de Memphis-Misraïm. Il publie *Le Martinisme* (1946), *La Kabbale pratique* (1951), des traités de magie et d'astrologie, et une histoire des sociétés initiatiques.
+texte: Dans les années 1970, il se fait connaître du grand public par une série d'essais iconoclastes sur les origines du christianisme, *Jésus ou le mortel secret des Templiers*, *La Vie secrète de saint Paul*, *Les Lourds Secrets du Golgotha*, puis par des livres sur les arcanes de l'histoire. Il meurt à Paris en 1997. Ses ouvrages ont formé des générations d'occultistes et de maçons « égyptiens » français.
+repere: 1907 — Naissance à Paris.
+repere: 1939 — *Dans l'ombre des cathédrales*.
+repere: 1943 — Sous l'Occupation, il réveille clandestinement des loges de Memphis-Misraïm.
+repere: 1946 — *Le Martinisme* ; il est sacré évêque d'une Église gnostique.
+repere: 1951 — *La Kabbale pratique*.
+repere: 1970 — *Jésus ou le mortel secret des Templiers*.
+repere: 1997 — Mort à Paris.
+oeuvres: Dans l'ombre des cathédrales (1939) ; Le Martinisme (1946) ; La Kabbale pratique (1951) ; Jésus ou le mortel secret des Templiers (1970)
+voir: martinisme, ordre-martiniste, rite-de-memphis-misraim, elus-coens, eglise-gnostique, fulcanelli
 
 @ gershom-scholem
 cat: figures
 nom: Gershom Scholem
-alias: Scholem, Les Grands Courants de la mystique juive
+alias: Scholem, Gerhard Scholem, Les Grands Courants de la mystique juive
 dates: 1897 – 1982
 an: 1897
 def: Historien israélien né à Berlin, fondateur de l'étude scientifique de la kabbale, qui en fit un objet d'histoire à part entière.
-texte: Issu d'une famille juive assimilée, ami de Walter Benjamin, Scholem émigre en Palestine en 1923 et enseigne à l'Université hébraïque de Jérusalem. Contre une tradition savante qui méprisait la [[kabbale]] comme une superstition, il en reconstitue l'histoire à partir des manuscrits : la mystique de la [[merkavah|Merkavah]], le *Bahir*, le *[[zohar|Zohar]]*, dont il attribue l'essentiel à [[moise-de-leon]], la kabbale d'[[isaac-louria]] et le messianisme de Sabbataï Tsevi.
-texte: *Les Grands Courants de la mystique juive* (1941) reste un classique. Scholem participe aux rencontres d'Eranos, en Suisse, aux côtés de [[carl-gustav-jung]] et d'Henry Corbin. Ses thèses ont depuis été discutées et nuancées, notamment par Moshe Idel.
-oeuvres: Les Grands Courants de la mystique juive (1941) ; Sabbataï Tsevi (1957) ; Les Origines de la kabbale (1962)
-voir: kabbale, zohar, moise-de-leon, isaac-louria
+texte: Gerhard Scholem naît à Berlin en 1897 dans une famille juive assimilée d'imprimeurs. Adolescent, il se tourne vers le sionisme, apprend l'hébreu et le Talmud et s'oppose à la guerre ; l'un de ses frères, député communiste, mourra à Buchenwald. En 1915 commence son amitié avec Walter Benjamin, qui durera jusqu'à la mort de celui-ci. Il étudie les mathématiques, la philosophie et les langues sémitiques, et soutient en 1922 à Munich une thèse sur le *Sefer ha-Bahir*, l'un des premiers textes de la [[kabbale]].
+texte: En 1923, il émigre en Palestine, où il prend le prénom de Gershom. Bibliothécaire, puis professeur à l'Université hébraïque de Jérusalem, il y crée l'étude scientifique de la mystique juive. Contre une tradition savante qui méprisait la kabbale comme une superstition, il en reconstitue l'histoire à partir des manuscrits : la mystique de la [[merkavah|Merkavah]], le *Bahir*, le *[[zohar|Zohar]]*, dont il attribue l'essentiel à [[moise-de-leon]], la kabbale d'[[isaac-louria]] et le messianisme de [[sabbatai-tsevi|Sabbataï Tsevi]], dont il fait la matrice paradoxale de la modernité juive.
+texte: *Les Grands Courants de la mystique juive* (1941) reste un classique, comme son monumental *Sabbataï Tsevi* (1957). Il participe aux rencontres d'Eranos, en Suisse, aux côtés de [[carl-gustav-jung]], d'[[henry-corbin|Henry Corbin]] et de Mircea Eliade, et y fait connaître la kabbale à un public européen. Il reçoit en 1958 le prix Israël et préside l'Académie israélienne des sciences.
+texte: Il meurt à Jérusalem en 1982. Ses thèses ont depuis été discutées et nuancées, notamment par Moshe Idel, qui insiste davantage sur l'expérience mystique et la continuité des traditions ; mais c'est lui qui a fait de la kabbale un objet d'histoire, et son œuvre a ouvert la voie aux études universitaires sur l'ésotérisme.
+repere: 1897 — Naissance à Berlin.
+repere: 1915 — Début de son amitié avec Walter Benjamin.
+repere: 1922 — Thèse de doctorat sur le *Sefer ha-Bahir*.
+repere: 1923 — Il émigre à Jérusalem.
+repere: 1933 — Professeur de mystique juive à l'Université hébraïque.
+repere: 1941 — *Les Grands Courants de la mystique juive*.
+repere: 1949 — Première participation aux rencontres d'Eranos.
+repere: 1957 — *Sabbataï Tsevi*.
+repere: 1958 — Prix Israël.
+repere: 1982 — Mort à Jérusalem.
+oeuvres: Les Grands Courants de la mystique juive (1941) ; Sabbataï Tsevi (1957) ; La Kabbale et sa symbolique (1960) ; Les Origines de la kabbale (1962)
+voir: kabbale, zohar, moise-de-leon, isaac-louria, sefer-ha-bahir, abraham-aboulafia
 
 @ frances-yates
 cat: figures
 nom: Frances Yates
-alias: Yates, Frances A. Yates, thèse de Yates
+alias: Yates, Frances A. Yates, thèse de Yates, Institut Warburg
 dates: 1899 – 1981
 an: 1899
 def: Historienne britannique de l'Institut Warburg, qui révéla l'importance de l'hermétisme et de la magie dans la culture de la Renaissance.
-texte: Dans *Giordano Bruno et la tradition hermétique* (1964), Frances Yates soutient que [[giordano-bruno]] fut avant tout un mage hermétiste et que la « tradition hermétique » a joué un rôle central dans la pensée de la Renaissance, jusqu'à préparer la révolution scientifique. Suivent *L'Art de la mémoire* (1966) et *La Lumière des Rose-Croix* (1972).
-texte: La « thèse de Yates » sur l'origine hermétique de la science a été largement critiquée, mais ses livres ont rendu légitime l'étude universitaire de l'[[esoterisme]] et ouvert un champ de recherche qui n'a cessé de croître depuis.
-oeuvres: Giordano Bruno et la tradition hermétique (1964) ; L'Art de la mémoire (1966) ; La Lumière des Rose-Croix (1972)
-voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme
+texte: Frances Amelia Yates naît en 1899 à Southsea, près de Portsmouth, fille d'un ingénieur des constructions navales. Instruite surtout à la maison, elle étudie le français à l'University College de Londres et se fait d'abord connaître par des travaux sur l'humaniste John Florio, traducteur de Montaigne, et sur le théâtre élisabéthain.
+texte: En 1941, elle entre à l'Institut Warburg, transféré de Hambourg à Londres pour fuir le nazisme, et qui étudie la survie de l'Antiquité dans la culture européenne. Elle y passe toute sa carrière. Après un livre sur les académies françaises du XVIe siècle, elle publie en 1964 *Giordano Bruno et la tradition hermétique*, qui soutient que [[giordano-bruno]] fut avant tout un mage hermétiste et que la « tradition hermétique », issue des traductions de [[marsile-ficin]], a joué un rôle central dans la pensée de la Renaissance, jusqu'à préparer la révolution scientifique.
+texte: Suivent *L'Art de la mémoire* (1966), qui ressuscite une discipline oubliée, de l'Antiquité à [[robert-fludd]], *Le Théâtre du monde* (1969), *La Lumière des Rose-Croix* (1972) et *La Philosophie occulte à l'époque élisabéthaine* (1979). Faite dame de l'Empire britannique en 1977, elle meurt en 1981.
+texte: La « thèse de Yates » sur l'origine hermétique de la science moderne a été largement critiquée par les historiens des sciences, et l'on juge aujourd'hui qu'elle a exagéré l'unité de la « tradition hermétique ». Mais ses livres, écrits avec clarté et passion, ont rendu légitime l'étude universitaire de l'[[esoterisme]] et ouvert un champ de recherche qui n'a cessé de croître depuis.
+repere: 1899 — Naissance à Southsea, en Angleterre.
+repere: 1934 — Premier livre, sur l'humaniste John Florio.
+repere: 1941 — Elle entre à l'Institut Warburg de Londres.
+repere: 1964 — *Giordano Bruno et la tradition hermétique*.
+repere: 1966 — *L'Art de la mémoire*.
+repere: 1972 — *La Lumière des Rose-Croix*.
+repere: 1977 — Faite dame de l'Empire britannique.
+repere: 1979 — *La Philosophie occulte à l'époque élisabéthaine*.
+repere: 1981 — Mort près de Londres.
+oeuvres: Giordano Bruno et la tradition hermétique (1964) ; L'Art de la mémoire (1966) ; La Lumière des Rose-Croix (1972) ; La Philosophie occulte à l'époque élisabéthaine (1979)
+voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme, john-dee
 
 @ antoine-faivre
 cat: figures
@@ -247,7 +496,321 @@ alias: Faivre
 dates: 1934 – 2021
 an: 1934
 def: Historien français, titulaire à partir de 1979 de la première chaire universitaire consacrée à l'histoire des courants ésotériques, qui donna à ce domaine sa définition la plus discutée.
-texte: Germaniste, spécialiste de [[karl-von-eckartshausen]] et de la [[theosophie-chretienne|théosophie chrétienne]], Antoine Faivre est élu en 1979 à l'École pratique des hautes études, à Paris, sur une chaire d'histoire des courants ésotériques et mystiques dans l'Europe moderne et contemporaine.
-texte: Dans *Accès de l'ésotérisme occidental* (1986) et le petit *L'Ésotérisme* de la collection « Que sais-je ? » (1992), il définit l'[[esoterisme]] non comme une doctrine mais comme une « forme de pensée » reconnaissable à quelques traits : les [[correspondances]], la nature vivante, l'[[imagination-creatrice|imagination]] et les médiations, l'expérience de la transmutation, auxquelles s'ajoutent la pratique de la concordance et la transmission. Cette définition a servi de base au développement international du domaine.
-oeuvres: Accès de l'ésotérisme occidental (1986) ; L'Ésotérisme (1992)
-voir: esoterisme, correspondances, theosophie-chretienne, frances-yates
+texte: Né à Reims en 1934, Antoine Faivre est germaniste de formation. Ses thèses portent sur [[karl-von-eckartshausen]] et la [[theosophie-chretienne|théosophie chrétienne]] au XVIIIe siècle, et sur Kirchberger, correspondant de [[louis-claude-de-saint-martin]]. Il enseigne la littérature allemande à l'université, publie *L'Ésotérisme au XVIIIe siècle* (1973) et des éditions de textes.
+texte: En 1979, il est élu à l'École pratique des hautes études, à Paris, sur une chaire d'histoire des courants ésotériques et mystiques dans l'Europe moderne et contemporaine, qui prolonge celle de l'historien François Secret. C'est la première chaire universitaire au monde consacrée à ce champ ; il l'occupe jusqu'en 2002. Il dirige des collections, des revues, et participe à la fondation d'une société européenne pour l'étude de l'ésotérisme.
+texte: Dans *Accès de l'ésotérisme occidental* (1986) et le petit *L'Ésotérisme* de la collection « Que sais-je ? » (1992), il définit l'[[esoterisme]] non comme une doctrine cachée mais comme une « forme de pensée » reconnaissable à quelques traits : les [[correspondances]] entre toutes les parties de l'univers, la nature vivante, l'[[imagination-creatrice|imagination]] et les médiations qui permettent de connaître les mondes invisibles, l'expérience de la transmutation de soi, auxquelles s'ajoutent la pratique de la concordance entre traditions et la transmission de maître à disciple.
+texte: Cette définition, critiquée depuis pour son étroitesse par des historiens qui préfèrent étudier l'ésotérisme comme un ensemble de savoirs rejetés par la culture dominante, a servi de base au développement international du domaine. Antoine Faivre meurt en 2021, considéré comme le fondateur de l'étude universitaire de l'ésotérisme occidental.
+repere: 1934 — Naissance à Reims.
+repere: 1969 — Thèse sur Karl von Eckartshausen et la théosophie chrétienne.
+repere: 1973 — *L'Ésotérisme au XVIIIe siècle*.
+repere: 1979 — Élu à l'École pratique des hautes études, sur la chaire d'histoire des courants ésotériques.
+repere: 1986 — *Accès de l'ésotérisme occidental*, qui propose sa définition de l'ésotérisme.
+repere: 1992 — *L'Ésotérisme*, dans la collection « Que sais-je ? ».
+repere: 2002 — Il quitte sa chaire.
+repere: 2021 — Mort.
+oeuvres: L'Ésotérisme au XVIIIe siècle (1973) ; Accès de l'ésotérisme occidental (1986) ; L'Ésotérisme (1992) ; Philosophie de la nature (1996)
+voir: esoterisme, correspondances, theosophie-chretienne, frances-yates, karl-von-eckartshausen
+
+# ── Figures ajoutées en 1.2 ─────────────────────────────────────────────────
+
+@ william-butler-yeats
+cat: figures
+nom: William Butler Yeats
+alias: Yeats, W. B. Yeats, Une vision, A Vision, Demon est Deus inversus
+dates: 1865 – 1939
+an: 1865
+def: Poète irlandais, prix Nobel, membre de la Golden Dawn pendant trente ans, dont l'œuvre et le système du monde, Une vision, sont nourris de magie, de folklore et d'écriture automatique.
+texte: William Butler Yeats naît à Dublin en 1865, fils d'un peintre. Il passe son enfance entre Londres et le comté de Sligo, dont il recueille les contes de fées et les croyances paysannes. Jeune homme, il fonde avec des amis une Société hermétique à Dublin, rencontre [[helena-blavatsky]] à Londres et entre dans la section ésotérique de la [[societe-theosophique|Société théosophique]], dont il est exclu pour avoir voulu mener des expériences de magie.
+texte: En 1890, il est initié dans la [[golden-dawn|Golden Dawn]], sous la devise *Demon est Deus inversus*, « le démon est Dieu renversé ». Il y restera plus de trente ans, pratiquant la magie rituelle, la visualisation des symboles, l'évocation. En 1900, il prend la tête des membres londoniens révoltés contre [[samuel-liddell-mathers|Mathers]]. Avec Maud Gonne, l'actrice et militante qu'il aime sans retour, il rêve de fonder un ordre des mystères celtiques. Ses poèmes de jeunesse, autour de la rose mystique, sont imprégnés de symbolisme rosicrucien ; il publie aussi, en 1893, une édition des œuvres de [[william-blake]].
+texte: En 1917, il épouse Georgie Hyde-Lees, elle-même membre de la Golden Dawn. Quelques jours après le mariage, elle commence une écriture automatique que des « instructeurs » invisibles lui dicteraient. Pendant des années, le couple en tire un système du monde, exposé dans *Une vision* (1925) : les vingt-huit phases de la Lune figurent les types humains, et l'histoire se déroule en cycles de deux mille ans, figurés par des « gyres » qui s'interpénètrent. Le poème « Le Second Avènement », avec ses vers fameux sur le monde qui se défait, en est issu.
+texte: Prix Nobel de littérature en 1923, sénateur de l'État libre d'Irlande, il meurt en 1939 à Roquebrune-Cap-Martin, sur la Côte d'Azur, et repose depuis 1948 en Irlande, au pied du Ben Bulben. Il est le plus grand poète de langue anglaise du XXe siècle à avoir fait de la magie une part essentielle de son œuvre.
+repere: 1865 — Naissance à Dublin.
+repere: 1885 — Il fonde avec des amis une Société hermétique à Dublin.
+repere: 1888 — Il entre dans la section ésotérique de la Société théosophique.
+repere: 1890 — Initié dans la Golden Dawn.
+repere: 1893 — *Le Crépuscule celtique* ; édition de l'œuvre de William Blake.
+repere: 1900 — Il prend la tête des membres londoniens de la Golden Dawn contre Mathers.
+repere: 1917 — Il épouse Georgie Hyde-Lees, dont l'écriture automatique lui inspire un système du monde.
+repere: 1923 — Prix Nobel de littérature.
+repere: 1925 — *Une vision*.
+repere: 1939 — Mort à Roquebrune-Cap-Martin.
+voir: golden-dawn, ecriture-automatique, cycles-cosmiques, william-blake, samuel-liddell-mathers, la-rose
+
+@ camille-flammarion
+cat: figures
+nom: Camille Flammarion
+alias: Flammarion, La Pluralité des mondes habités, Lumen, L'Inconnu et les problèmes psychiques
+dates: 1842 – 1925
+an: 1842
+def: Astronome et grand vulgarisateur français, ami d'Allan Kardec, qui consacra une part de sa vie à l'étude des phénomènes psychiques et de la survie après la mort.
+texte: Camille Flammarion naît en 1842 en Haute-Marne. Apprenti graveur à Paris, il entre à seize ans comme calculateur à l'Observatoire de Paris ; il en est renvoyé quand son premier livre, *La Pluralité des mondes habités* (1862), qui affirme que la vie peuple l'univers, connaît un succès retentissant. Il devient le plus grand vulgarisateur de l'astronomie de son temps : son *Astronomie populaire* (1880) se vend à des centaines de milliers d'exemplaires, il fonde la Société astronomique de France en 1887 et installe un observatoire à Juvisy. Il est aussi l'un des grands défenseurs des « canaux » de Mars.
+texte: Très jeune, il fréquente le cercle d'[[allan-kardec]] et se révèle médium : il écrit des messages signés « Galilée ». En 1869, il prononce le discours sur la tombe de Kardec, où il affirme que le [[spiritisme]] n'est pas une religion, mais une science. Il prend pourtant ses distances avec l'hypothèse des esprits, qu'il juge non démontrée, tout en restant convaincu de la réalité de certains phénomènes.
+texte: Il étudie pendant des décennies les cas de télépathie, de prémonition et d'apparitions au moment de la mort, qu'il recueille par milliers auprès de ses lecteurs : *L'Inconnu et les problèmes psychiques* (1900), *Les Forces naturelles inconnues* (1907), qui relate ses séances avec la médium [[eusapia-palladino]], et *La Mort et son mystère* (1920-1922). Il préside en 1923 la [[society-for-psychical-research|Society for Psychical Research]].
+texte: Ses romans philosophiques, comme *Lumen*, où une âme voyage le long des rayons lumineux à travers le temps et les mondes, ou *Uranie*, expriment sa foi en une immortalité cosmique, l'âme poursuivant son évolution de planète en planète. Il meurt à Juvisy en 1925.
+repere: 1842 — Naissance en Haute-Marne.
+repere: 1858 — Calculateur à l'Observatoire de Paris.
+repere: 1861 — Il fréquente le cercle d'Allan Kardec et écrit en médium.
+repere: 1862 — *La Pluralité des mondes habités*.
+repere: 1869 — Il prononce le discours sur la tombe de Kardec.
+repere: 1880 — *Astronomie populaire*.
+repere: 1887 — Fondation de la Société astronomique de France.
+repere: 1898 — Séances avec la médium Eusapia Palladino.
+repere: 1900 — *L'Inconnu et les problèmes psychiques*.
+repere: 1920 — Début de la publication de *La Mort et son mystère*.
+repere: 1923 — Président de la Society for Psychical Research.
+repere: 1925 — Mort à Juvisy.
+voir: spiritisme, allan-kardec, metapsychique, eusapia-palladino, reincarnation
+
+@ charles-richet
+cat: figures
+nom: Charles Richet
+alias: Richet, métapsychique, ectoplasme, Traité de métapsychique
+dates: 1850 – 1935
+an: 1850
+def: Physiologiste français, prix Nobel de médecine, qui forgea les mots « métapsychique » et « ectoplasme » et consacra une partie de sa vie à l'étude des médiums.
+texte: Charles Richet naît à Paris en 1850, fils d'un célèbre chirurgien. Étudiant en médecine, il publie dès 1875 une étude sur le « somnambulisme provoqué » qui contribue à faire reconnaître l'[[hypnose]] par la science officielle. Professeur de physiologie à la faculté de médecine de Paris, il découvre en 1902, avec Paul Portier, l'anaphylaxie, réaction violente de l'organisme à une substance déjà rencontrée, ce qui lui vaut le prix Nobel de médecine en 1913.
+texte: Esprit curieux de tout, pionnier de l'aviation, il étudie aussi pendant des décennies les phénomènes paranormaux. Il expérimente sur la suggestion mentale avec des cartes, en recourant au calcul des probabilités, et assiste à des centaines de séances. En 1894, sur son île de la Méditerranée, il étudie la médium napolitaine [[eusapia-palladino]] avec des savants anglais de la [[society-for-psychical-research|Society for Psychical Research]], qu'il présidera en 1905. Il forge le mot « [[ectoplasme]] » pour la substance que les médiums émettraient, et celui de « [[metapsychique|métapsychique]] » pour la science qu'il veut fonder.
+texte: En 1905, à Alger, il assiste aux séances de la villa Carmen, où une jeune médium fait apparaître le « fantôme » d'un guerrier, Bien Boa, qu'on photographie ; un cocher affirmera plus tard avoir joué le rôle. Richet reste convaincu que certains phénomènes sont réels, sans croire aux esprits : son *Traité de métapsychique* (1922) les range en phénomènes « subjectifs », comme la télépathie, et « objectifs », comme les matérialisations. Il est l'un des fondateurs de l'Institut métapsychique international.
+texte: Il meurt à Paris en 1935. Son œuvre a aussi une face sombre : partisan de l'eugénisme, il a défendu dans *La Sélection humaine* des idées racistes. Il reste l'exemple d'un grand savant qui a cru pouvoir faire entrer le paranormal dans le laboratoire.
+repere: 1850 — Naissance à Paris.
+repere: 1875 — Il étudie le « somnambulisme provoqué ».
+repere: 1887 — Professeur de physiologie à la faculté de médecine de Paris.
+repere: 1894 — Sur son île de la Méditerranée, il étudie Eusapia Palladino avec des savants anglais.
+repere: 1902 — Il découvre l'anaphylaxie.
+repere: 1905 — Président de la Society for Psychical Research ; séances de la villa Carmen, à Alger.
+repere: 1913 — Prix Nobel de médecine.
+repere: 1919 — Il participe à la fondation de l'Institut métapsychique international.
+repere: 1922 — *Traité de métapsychique*.
+repere: 1935 — Mort à Paris.
+voir: metapsychique, ectoplasme, eusapia-palladino, medium, hypnose, society-for-psychical-research
+
+@ eusapia-palladino
+cat: figures
+nom: Eusapia Palladino
+alias: Eusapia, Palladino, Paladino
+dates: 1854 – 1918
+an: 1854
+def: Médium napolitaine, illettrée, qui fit léviter des tables devant les plus grands savants d'Europe, fut plusieurs fois prise à tricher, mais laissa plusieurs enquêteurs perplexes.
+texte: Eusapia Palladino naît en 1854 dans les Pouilles, dans une famille de paysans ; orpheline très jeune, elle est placée comme domestique à Naples. Adolescente, lors de séances de spiritisme, on découvre qu'en sa présence les tables se soulèvent. Illettrée, impulsive, rusée, elle devient médium professionnelle.
+texte: En 1888, un spirite napolitain met au défi le célèbre criminologue Cesare Lombroso de venir l'observer ; Lombroso, d'abord sceptique, se déclare convaincu en 1891. Commence alors une carrière européenne exceptionnelle : à Milan, en 1892, devant l'astronome Schiaparelli et [[charles-richet]] ; à Varsovie ; sur l'île de Richet, en 1894, devant les savants anglais Oliver Lodge et Frederic Myers ; à Paris, de 1905 à 1908, où Pierre et Marie Curie, Henri Bergson et d'autres assistent à ses séances. Dans la pénombre, les tables lévitent, des objets se déplacent, des mains invisibles touchent les assistants, un souffle froid passe, le rideau du cabinet se gonfle.
+texte: Mais Eusapia triche quand on la contrôle mal : elle dégage une main ou un pied pour produire les phénomènes. Des enquêteurs de la [[society-for-psychical-research|Society for Psychical Research]] la surprennent à Cambridge en 1895, et des professeurs américains en 1910. Pourtant, en 1908, à Naples, trois enquêteurs expérimentés de la même Société, dont deux prestidigitateurs avertis, concluent après onze séances rigoureusement contrôlées à des phénomènes qu'ils ne peuvent expliquer.
+texte: Elle meurt à Naples en 1918. Son cas, le plus étudié de l'histoire de la [[metapsychique|métapsychique]], reste discuté : fraudeuse habile ou médium mêlant phénomènes et tricherie, elle a mis à l'épreuve, pendant trente ans, les méthodes de la science face au paranormal.
+repere: 1854 — Naissance dans les Pouilles.
+repere: 1891 — Le criminologue Cesare Lombroso se déclare convaincu par ses séances.
+repere: 1892 — Séances de Milan, avec Schiaparelli et Charles Richet.
+repere: 1895 — À Cambridge, des enquêteurs la surprennent à tricher.
+repere: 1905 — À Paris, Pierre et Marie Curie assistent à ses séances.
+repere: 1908 — À Naples, trois enquêteurs concluent à des phénomènes inexpliqués.
+repere: 1910 — Aux États-Unis, elle est de nouveau prise en flagrant délit de fraude.
+repere: 1918 — Mort à Naples.
+voir: medium, metapsychique, charles-richet, society-for-psychical-research, camille-flammarion, ectoplasme
+
+@ theodor-reuss
+cat: figures
+nom: Theodor Reuss
+alias: Reuss, Carl Kellner, Ordo Templi Orientis, Peregrinus
+dates: 1855 – 1923
+an: 1855
+def: Chanteur, journaliste et occultiste allemand, collectionneur de rites maçonniques, fondateur avec Carl Kellner de l'Ordo Templi Orientis, dont il confia la branche anglaise à Aleister Crowley.
+texte: Albert Karl Theodor Reuss naît à Augsbourg en 1855. Chanteur, il tient un petit rôle lors de la création de *Parsifal* à Bayreuth en 1882. Il vit longtemps à Londres comme journaliste et y devient franc-maçon ; on l'accuse d'avoir espionné les milieux socialistes pour la police allemande. Collectionneur infatigable de rites et de patentes, il se fait transmettre ou s'attribue des chartes du [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], d'un rite swedenborgien et d'un rite écossais, et prétend réveiller l'ordre des [[illumines-de-baviere|Illuminés]].
+texte: Avec un riche industriel viennois passionné d'occultisme et de yoga, Carl Kellner, il conçoit le projet d'une « académie » maçonnique qui transmettrait, au sommet de ses grades, un secret présenté comme la clé de toute la tradition : une [[magie-sexuelle|magie sexuelle]] inspirée notamment de [[paschal-beverly-randolph|Randolph]]. C'est l'[[oto|Ordo Templi Orientis]], « ordre des templiers d'Orient », que Reuss organise au début du XXe siècle et dont il prend seul la tête après la mort de Kellner, en 1905. Il en publie la revue, *Oriflamme*.
+texte: En 1912, selon un récit célèbre, il rend visite à [[aleister-crowley]], qui aurait dévoilé sans le savoir le secret de l'ordre dans l'un de ses livres, et lui confie la direction de sa branche britannique. Il traduit ensuite en allemand la « messe gnostique » de Crowley. Pendant la guerre, réfugié en Suisse, il organise en 1917 à Ascona, sur la colline du Monte Verità, haut lieu de la contre-culture, un congrès international pour la paix et la vie nouvelle.
+texte: Il meurt à Munich en 1923. Sa succession, disputée, revient finalement à Crowley, qui fait de l'OTO l'instrument de [[thelema|Thelema]]. Reuss est l'un des grands passeurs entre la franc-maçonnerie marginale, l'occultisme et la magie sexuelle du XXe siècle.
+repere: 1855 — Naissance à Augsbourg.
+repere: 1882 — Chanteur, il participe à la création de *Parsifal* à Bayreuth.
+repere: 1902 — Il obtient des patentes de rites maçonniques et lance la revue *Oriflamme*.
+repere: 1905 — Mort de Carl Kellner ; Reuss prend seul la tête de l'OTO.
+repere: 1912 — Il confie à Aleister Crowley la branche britannique de l'OTO.
+repere: 1917 — Il organise à Ascona, sur le Monte Verità, un congrès international.
+repere: 1923 — Mort à Munich.
+voir: oto, aleister-crowley, magie-sexuelle, rite-de-memphis-misraim, thelema, paschal-beverly-randolph
+
+@ guido-von-list
+cat: figures
+nom: Guido von List
+alias: List, Guido List, runes Armanen, armanisme, wotanisme
+dates: 1848 – 1919
+an: 1848
+def: Écrivain et occultiste viennois, inventeur d'un système de runes et d'une prétendue religion des anciens Germains, l'un des fondateurs de l'ariosophie qui inspira le nazisme.
+texte: Guido List naît à Vienne en 1848 dans une famille de commerçants. Amoureux des montagnes et des forêts du Danube, passionné par le passé germanique, il devient journaliste et écrit des romans historiques exaltant les anciens Germains, comme *Carnuntum* (1888). Il s'attribue plus tard la particule nobiliaire.
+texte: En 1902, une opération de la cataracte le laisse aveugle pendant près d'un an. Il dit avoir reçu, pendant cette nuit, la révélation du sens secret des [[runes]]. *Le Secret des runes* (1908) expose un alphabet de dix-huit runes, dites « Armanen », qu'il tire d'un poème de l'Edda et qui ne correspond à aucun alphabet historique. List imagine une ancienne caste de prêtres-rois germaniques, les Armanen, gardiens d'une sagesse secrète qui aurait survécu, cachée, dans le blason, les noms de lieux, les légendes et même la [[kabbale]], qu'il tient pour un vol fait aux Germains.
+texte: Une société se fonde en 1908 pour diffuser ses idées, soutenue par des notables viennois, et il crée en 1911 un ordre ésotérique, le Haut Ordre des Armanen. Sa doctrine mêle le culte de Wotan, la [[theosophie]], la [[reincarnation]] et un racisme virulent, qui oppose les « Aryens » aux autres peuples : c'est l'[[ariosophie]], que développe aussi Lanz von Liebenfels. Il fait du [[svastika]] un symbole sacré des Germains.
+texte: Il meurt à Berlin en 1919. Ses idées passent par la [[societe-thule|société Thulé]] dans les milieux d'où sortira le nazisme ; la SS reprendra ses runes, dont la rune de la victoire. Les historiens, comme Nicholas Goodrick-Clarke, ont montré dans son œuvre l'une des racines occultistes de l'idéologie nazie.
+repere: 1848 — Naissance à Vienne.
+repere: 1888 — *Carnuntum*, roman de l'Antiquité germanique.
+repere: 1902 — Rendu provisoirement aveugle par une opération, il dit recevoir la révélation des runes.
+repere: 1908 — *Le Secret des runes* ; une société se fonde pour diffuser ses idées.
+repere: 1911 — Il fonde le Haut Ordre des Armanen.
+repere: 1919 — Mort à Berlin.
+repere: 1985 — Nicholas Goodrick-Clarke publie *Les Racines occultistes du nazisme*.
+voir: ariosophie, runes, svastika, societe-thule, neopaganisme, theosophie
+
+@ margaret-murray
+cat: figures
+nom: Margaret Murray
+alias: Murray, Margaret Alice Murray, culte des sorcières, Dieu cornu
+dates: 1863 – 1963
+an: 1863
+def: Égyptologue britannique, qui soutint que les sorcières des procès européens étaient les fidèles d'une ancienne religion païenne, thèse rejetée par les historiens mais à l'origine de la wicca.
+texte: Margaret Alice Murray naît en 1863 à Calcutta, dans une famille britannique. Infirmière, elle vient tard aux études : en 1894, elle suit à l'University College de Londres l'enseignement de l'égyptologue Flinders Petrie, qui fait d'elle son assistante. Elle fouille en Égypte, enseigne l'égyptologie pendant des décennies, et dirige en 1908 à Manchester le démaillotage public d'une momie. Militante des droits des femmes, elle est l'une des premières femmes à faire carrière dans l'archéologie britannique.
+texte: Pendant la Première Guerre mondiale, privée de fouilles, elle se plonge dans les procès de sorcellerie. Dans *Le Culte des sorcières en Europe occidentale* (1921), elle soutient que les accusées n'étaient pas des victimes imaginaires, mais les fidèles d'une ancienne religion de la fertilité, antérieure au christianisme, organisée en « covens » de treize membres et vouée à un dieu cornu, que les juges chrétiens avaient pris pour le diable. *Le Dieu des sorcières* (1931) développe cette idée, et elle rédige l'article « Sorcellerie » de l'*Encyclopædia Britannica*, qui fait autorité pendant des décennies.
+texte: Les historiens ont montré qu'elle avait sélectionné et parfois déformé ses sources, en ne retenant des aveux obtenus sous la torture que ce qui servait sa thèse ; on ne connaît aucune trace d'une religion païenne organisée survivant jusqu'à l'époque moderne. Mais sa théorie a eu une postérité immense : [[gerald-gardner]], dont elle préface *Witchcraft Today* en 1954, présente la [[wicca]] comme la survivance de ce culte, et le [[neopaganisme]] y a trouvé son mythe fondateur.
+texte: Présidente de la Folklore Society, elle publie à cent ans ses souvenirs, *Mes cent premières années*, et meurt à Londres en 1963.
+repere: 1863 — Naissance à Calcutta.
+repere: 1894 — Elle étudie l'égyptologie à Londres auprès de Flinders Petrie.
+repere: 1908 — À Manchester, elle dirige le démaillotage public d'une momie.
+repere: 1921 — *Le Culte des sorcières en Europe occidentale*.
+repere: 1929 — Elle rédige l'article « Sorcellerie » de l'*Encyclopædia Britannica*.
+repere: 1931 — *Le Dieu des sorcières*.
+repere: 1953 — Présidente de la Folklore Society.
+repere: 1954 — Elle préface *Witchcraft Today* de Gerald Gardner.
+repere: 1963 — Mort à Londres, à cent ans.
+voir: wicca, sorcellerie, sabbat, chasse-aux-sorcieres, gerald-gardner, neopaganisme
+
+@ alexandra-david-neel
+cat: figures
+nom: Alexandra David-Néel
+alias: David-Néel, Alexandra David, Lhassa, Mystiques et magiciens du Tibet, tulpa
+dates: 1868 – 1969
+an: 1868
+def: Exploratrice, orientaliste et écrivaine française, première Européenne à entrer à Lhassa, dont les livres firent connaître en Occident le bouddhisme et les pratiques spirituelles du Tibet.
+texte: Alexandra David naît en 1868 à Saint-Mandé, près de Paris. Rebelle dès l'enfance, elle fréquente les milieux anarchistes, entre à la [[societe-theosophique|Société théosophique]] et étudie les langues orientales au musée Guimet et au Collège de France. Elle mène d'abord une carrière de chanteuse d'opéra, jusqu'à Hanoï et Tunis, où elle épouse en 1904 un ingénieur des chemins de fer, Philippe Néel, qui financera ses voyages.
+texte: En 1911, elle part pour l'Inde, pour dix-huit mois pense-t-elle : elle n'en reviendra que quatorze ans plus tard. Au Sikkim, elle rencontre en 1912 le treizième dalaï-lama, puis vit deux ans en ermite dans une grotte à près de quatre mille mètres, auprès d'un maître ; elle y adopte un jeune lama, Yongden, qui l'accompagnera toute sa vie. Expulsée par les Britanniques pour être entrée sans autorisation au Tibet, elle passe par le Japon, la Corée et la Chine, étudie au monastère de Kumbum, puis, déguisée en mendiante, traverse le pays à pied et entre en 1924 à Lhassa, alors interdite aux étrangers : elle est la première Européenne à y parvenir.
+texte: Revenue en France, elle publie *Voyage d'une Parisienne à Lhassa* (1927), qui la rend célèbre, puis *Mystiques et magiciens du Tibet* (1929), où elle décrit les pratiques des ascètes : le *toumo*, qui permet de supporter le froid nu dans la neige par la chaleur intérieure, les coureurs *loung-gom-pa*, qui franchissent d'immenses distances en transe, et les *tulpa*, êtres créés par la seule force de l'esprit — elle dit en avoir fait apparaître un. Elle s'installe à Digne, dans une maison qu'elle nomme « forteresse de la méditation ».
+texte: Infatigable, elle repart en Chine en 1937, en pleine guerre, et y reste jusqu'en 1946. Elle meurt à Digne en 1969, à près de cent un ans, après avoir fait renouveler son passeport à cent ans. Ses livres ont joué un rôle majeur dans la fascination occidentale pour le Tibet et le bouddhisme.
+repere: 1868 — Naissance à Saint-Mandé.
+repere: 1904 — Elle épouse à Tunis Philippe Néel.
+repere: 1911 — Départ pour l'Inde.
+repere: 1912 — Elle rencontre le treizième dalaï-lama.
+repere: 1914 — Ermite au Sikkim ; elle adopte le jeune lama Yongden.
+repere: 1924 — Déguisée en mendiante, elle entre à Lhassa.
+repere: 1927 — *Voyage d'une Parisienne à Lhassa*.
+repere: 1929 — *Mystiques et magiciens du Tibet*.
+repere: 1937 — Nouveau séjour en Chine, jusqu'en 1946.
+repere: 1969 — Mort à Digne.
+voir: theosophie, agartha, egregore, voyage-astral, kundalini
+
+@ edgar-cayce
+cat: figures
+nom: Edgar Cayce
+alias: Cayce, le prophète endormi, lectures, readings
+dates: 1877 – 1945
+an: 1877
+def: Voyant américain, dit « le prophète endormi », qui donnait en état de transe des diagnostics médicaux et des récits de vies antérieures, notamment en Atlantide.
+texte: Edgar Cayce naît en 1877 dans une ferme du Kentucky. Chrétien fervent, il lit la Bible tout entière chaque année, mais quitte l'école tôt et travaille comme vendeur puis photographe. En 1900, il perd la voix ; un hypnotiseur le plonge en transe, et Cayce, endormi, décrit lui-même la cause de son mal et le remède, et guérit. Dès lors, il donne en état de sommeil hypnotique des « lectures » pour des malades qu'il ne voit pas, souvent à distance : diagnostics, conseils de régime, massages, remèdes simples, comme les cataplasmes d'huile de ricin.
+texte: Un article du *New York Times* le fait connaître en 1910. Ses séances sont sténographiées : plus de quatorze mille lectures sont conservées. À partir de 1923, sous l'influence d'un de ses clients versé dans la [[theosophie]], ses lectures changent de nature : elles décrivent les vies antérieures des consultants, en Égypte ancienne, en Perse et surtout en [[atlantide|Atlantide]], civilisation technologique engloutie dont il annonce la réapparition, et parlent des [[annales-akashiques|annales akashiques]], du [[karma]] et de la [[reincarnation]], qui déconcertent ce lecteur assidu de la Bible.
+texte: Il s'installe en 1925 à Virginia Beach, en Virginie, où il ouvre un hôpital, fermé par la crise de 1929, et fonde en 1931 une association pour la recherche et l'illumination, qui conserve et étudie ses lectures. Une biographie, *Il y a une rivière* (1942), le rend célèbre dans tout le pays ; submergé de demandes pendant la guerre, épuisé, il meurt en 1945.
+texte: Ses prédictions sur les bouleversements de la Terre ne se sont pas réalisées. Mais Cayce a profondément marqué les médecines dites holistiques et le [[new-age|New Age]], qui lui doit une bonne part de son imaginaire de l'Atlantide et de la réincarnation.
+repere: 1877 — Naissance dans une ferme du Kentucky.
+repere: 1901 — Sous [[hypnose|hypnose]], il diagnostique lui-même la cause de son extinction de voix.
+repere: 1910 — Un article du *New York Times* le fait connaître.
+repere: 1923 — Ses lectures commencent à parler de vies antérieures.
+repere: 1925 — Il s'installe à Virginia Beach.
+repere: 1931 — Fondation de son association pour la recherche et l'illumination.
+repere: 1942 — Une biographie le rend célèbre.
+repere: 1945 — Mort à Virginia Beach.
+voir: voyance, atlantide, reincarnation, annales-akashiques, new-age, hypnose
+
+@ alan-leo
+cat: figures
+nom: Alan Leo
+alias: William Frederick Allan, Leo, Modern Astrology, astrologie moderne
+dates: 1860 – 1917
+an: 1860
+def: Astrologue britannique et théosophe, souvent appelé le père de l'astrologie moderne, qui fit de l'horoscope une lecture du caractère et de l'âme plutôt qu'une prédiction.
+texte: William Frederick Allan naît à Londres en 1860 dans une famille modeste ; abandonné par son père, il travaille très jeune comme commis et représentant. Un herboriste de Manchester l'initie à l'[[astrologie]]. En 1890, il entre à la [[societe-theosophique|Société théosophique]], rencontre [[helena-blavatsky]] et fonde avec un ami un magazine d'astrologie, qui devient en 1895 *Modern Astrology* ; il prend le nom d'Alan Leo, d'après son signe solaire.
+texte: Pour attirer les abonnés, il leur propose un horoscope personnel pour un shilling. Devant l'afflux des demandes, il organise une véritable entreprise : une équipe d'astrologues calcule les thèmes et assemble les interprétations à partir de paragraphes types. C'est la naissance de l'astrologie de masse, centrée sur le signe solaire, qui annonce les rubriques d'[[horoscope]] des journaux.
+texte: Leo publie une série de manuels, dont *L'Astrologie pour tous* (1899) et *L'Astrologie ésotérique* (1913), qui renouvellent la discipline sous l'influence de la [[theosophie]] : le [[theme-astral|thème astral]] décrit le caractère et le [[karma]] de l'âme, son chemin d'évolution d'une vie à l'autre, plutôt que des événements à prédire. Poursuivi deux fois pour divination, il est acquitté en 1914, puis condamné à une amende en 1917 ; il fonde la même période une loge astrologique au sein de la Société théosophique.
+texte: Il meurt en 1917. Sa veuve, Bessie, poursuit son œuvre. L'astrologie psychologique et spirituelle du XXe siècle, de Dane Rudhyar aux astrologues contemporains, est directement issue de sa réforme.
+repere: 1860 — Naissance à Londres.
+repere: 1890 — Il entre à la Société théosophique et fonde un magazine d'astrologie.
+repere: 1895 — Le magazine devient *Modern Astrology*.
+repere: 1899 — *L'Astrologie pour tous*.
+repere: 1913 — *L'Astrologie ésotérique*.
+repere: 1914 — Poursuivi pour divination, il est acquitté.
+repere: 1915 — Il fonde une loge astrologique au sein de la Société théosophique.
+repere: 1917 — Condamné à une amende pour divination ; il meurt quelques mois plus tard.
+voir: astrologie, theme-astral, horoscope, theosophie, karma, zodiaque
+
+@ michel-gauquelin
+cat: figures
+nom: Michel Gauquelin
+alias: Gauquelin, effet Mars, secteurs de Gauquelin, Françoise Gauquelin
+dates: 1928 – 1991
+an: 1928
+def: Psychologue et statisticien français, qui crut avoir découvert, dans les naissances de champions sportifs, un « effet Mars » réhabilitant une part de l'astrologie, thèse vivement discutée.
+texte: Michel Gauquelin naît à Paris en 1928. Passionné d'astrologie dès l'enfance, il étudie la psychologie et les statistiques à la Sorbonne et entreprend de vérifier, avec sa femme Françoise, statisticienne, les affirmations des astrologues sur de grands nombres de naissances. Le résultat est d'abord négatif : ni les signes du zodiaque ni les [[aspects]] ne montrent d'effet.
+texte: Mais il croit découvrir autre chose. Dans les dates et heures de naissance de plusieurs milliers de champions sportifs, la planète Mars se trouverait plus souvent qu'au hasard juste après son lever ou juste après sa culmination ; de même Saturne chez les scientifiques et les médecins, Jupiter chez les acteurs et les hommes politiques, la Lune chez les écrivains. Il publie ces résultats en 1955 dans *L'Influence des astres*, et parle d'une hérédité planétaire entre parents et enfants.
+texte: L'« effet Mars » déclenche une longue polémique. Un comité belge d'étude des phénomènes réputés paranormaux retrouve l'effet en 1967, mais en conteste l'interprétation ; une vérification américaine, à la fin des années 1970, tourne au scandale entre sceptiques. Des statisticiens montrent ensuite que la sélection des champions pouvait créer l'effet, et une vaste étude française, publiée en 1996 sur plus de mille sportifs, ne le retrouve pas.
+texte: Gauquelin, qui rejetait l'[[astrologie]] traditionnelle tout en défendant ses propres résultats, se suicide à Paris en 1991. Son œuvre reste la tentative la plus sérieuse de tester statistiquement une influence des astres, et l'exemple d'une controverse scientifique exemplaire.
+repere: 1928 — Naissance à Paris.
+repere: 1955 — *L'Influence des astres*, où il croit mettre en évidence l'« effet Mars ».
+repere: 1967 — Un comité belge entreprend de vérifier ses résultats.
+repere: 1979 — Une vérification américaine tourne à la polémique.
+repere: 1991 — Mort à Paris.
+repere: 1996 — Une étude française portant sur plus de mille sportifs ne retrouve pas l'effet Mars.
+voir: astrologie, mars, theme-astral, aspects, planetes
+
+@ henry-corbin
+cat: figures
+nom: Henry Corbin
+alias: Corbin, monde imaginal, mundus imaginalis, En islam iranien
+dates: 1903 – 1978
+an: 1903
+def: Philosophe et orientaliste français, spécialiste de la philosophie islamique et du soufisme persan, qui fit connaître Sohrawardî et forgea la notion de « monde imaginal ».
+texte: Henry Corbin naît à Paris en 1903 dans une famille protestante. Il étudie la philosophie médiévale auprès d'Étienne Gilson, puis l'arabe, le persan et le turc. Bibliothécaire à la Bibliothèque nationale, il reçoit en 1928 de son maître, l'islamologue Louis Massignon, un livre de [[sohrawardi]] : il y voit un destin. Philosophe autant qu'orientaliste, il est aussi le premier traducteur de Heidegger en français.
+texte: De 1939 à 1945, à Istanbul, il étudie les manuscrits de la philosophie de l'illumination ; en 1946, il fonde à Téhéran un département d'iranologie. Directeur d'études à l'École pratique des hautes études à partir de 1954, il partage sa vie entre Paris et Téhéran et devient l'un des grands passeurs de la pensée iranienne. Il édite et traduit Sohrawardî, [[avicenne]], [[ibn-arabi]] et les penseurs chiites, et participe pendant trente ans aux rencontres d'Eranos, en Suisse.
+texte: Ses livres — *Avicenne et le récit visionnaire* (1954), *L'Imagination créatrice dans le soufisme d'Ibn Arabî* (1958), *Terre céleste et corps de résurrection* (1960), *En islam iranien* (1971-1972) — défendent une « gnose » où l'imagination n'est pas la faculté de l'irréel, mais l'organe de perception d'un monde intermédiaire entre l'esprit et la matière : le [[imagination-creatrice|monde imaginal]], *mundus imaginalis*, où se produisent les visions des prophètes et des mystiques.
+texte: Il fonde en 1974 une Université Saint-Jean de Jérusalem, cercle de recherche sur l'ésotérisme des religions du Livre, et meurt à Paris en 1978. Son œuvre a profondément marqué l'étude de l'ésotérisme, la psychologie archétypale de James Hillman et, plus largement, tous ceux qui cherchent à penser la réalité de l'imaginaire.
+repere: 1903 — Naissance à Paris.
+repere: 1928 — Louis Massignon lui fait découvrir l'œuvre de Sohrawardî.
+repere: 1938 — Il traduit Heidegger en français, le premier.
+repere: 1939 — Séjour à Istanbul, jusqu'en 1945, pour étudier les manuscrits de Sohrawardî.
+repere: 1946 — Il fonde à Téhéran un département d'iranologie.
+repere: 1949 — Premières conférences aux rencontres d'Eranos.
+repere: 1954 — Directeur d'études à l'École pratique des hautes études ; *Avicenne et le récit visionnaire*.
+repere: 1958 — *L'Imagination créatrice dans le soufisme d'Ibn Arabî*.
+repere: 1971 — *En islam iranien*.
+repere: 1974 — Il fonde l'Université Saint-Jean de Jérusalem.
+repere: 1978 — Mort à Paris.
+voir: imagination-creatrice, sohrawardi, ibn-arabi, avicenne, soufisme, carl-gustav-jung
+
+@ maria-de-naglowska
+cat: figures
+nom: Maria de Naglowska
+alias: Naglowska, la Sophiale de Montparnasse, La Flèche, Le Mystère de la pendaison
+dates: 1883 – 1936
+an: 1883
+def: Occultiste d'origine russe, figure de Montparnasse dans les années 1930, qui enseigna une magie sexuelle et annonça l'âge du Troisième Terme de la Trinité, celui de la femme.
+texte: Maria de Naglowska naît en 1883 à Saint-Pétersbourg, dans une famille noble. Élevée à l'institut Smolny, la grande école des jeunes filles de l'aristocratie, elle rompt avec les siens pour épouser un violoniste juif et mène une vie errante de journaliste et d'enseignante entre Berlin, la Suisse et l'Italie, où elle fréquente les milieux ésotériques romains.
+texte: En 1929, elle s'installe à Paris. À Montparnasse, elle donne chaque semaine des conférences très suivies, que fréquentent, dit-on, des surréalistes, et fonde en 1930 un journal, *La Flèche*, « organe d'action magique ». En 1931, elle publie *Magia sexualis*, compilation des enseignements de [[paschal-beverly-randolph]], qui fait connaître celui-ci en Europe. Autour d'elle se forme une confrérie de la Flèche d'or.
+texte: Sa propre doctrine, exposée dans *La Lumière du sexe* (1932) et *Le Mystère de la pendaison* (1934), annonce l'avènement d'un nouvel âge, celui du « Troisième Terme de la Trinité » : après le Père et le Fils viendrait l'Esprit, qui est féminin, la Mère. La [[magie-sexuelle|magie sexuelle]], conduite par la femme et marquée par des rites de passage audacieux, dont une pendaison rituelle, doit permettre de dépasser le dualisme du bien et du mal et de réconcilier l'esprit et la chair.
+texte: Elle quitte Paris en 1935 et meurt à Zurich l'année suivante. Oubliée, elle a été redécouverte à la fin du XXe siècle comme l'une des rares femmes à avoir fondé un enseignement magique original, à la croisée de l'occultisme, de l'idée joachimite des trois âges et des avant-gardes de l'entre-deux-guerres.
+repere: 1883 — Naissance à Saint-Pétersbourg, dans une famille noble.
+repere: 1929 — Elle s'installe à Paris, où elle donne des conférences à Montparnasse.
+repere: 1930 — Elle fonde le journal *La Flèche*.
+repere: 1931 — *Magia sexualis*, d'après les écrits de Randolph.
+repere: 1932 — *La Lumière du sexe*.
+repere: 1934 — *Le Mystère de la pendaison*.
+repere: 1936 — Mort à Zurich.
+voir: magie-sexuelle, paschal-beverly-randolph, joachim-de-flore, sophia, occultisme
+
+@ anton-lavey
+cat: figures
+nom: Anton LaVey
+alias: Anton Szandor LaVey, Howard Stanton Levey, Église de Satan, Bible satanique
+dates: 1930 – 1997
+an: 1930
+def: Occultiste et showman américain, fondateur en 1966 de l'Église de Satan et auteur de la Bible satanique, qui fit de Satan le symbole d'un individualisme athée.
+texte: Howard Stanton Levey naît à Chicago en 1930 et grandit en Californie. Il racontera avoir été dompteur de fauves dans un cirque, organiste de cabaret et photographe de la police ; une enquête journalistique a montré en 1991 qu'une bonne part de cette biographie était inventée. Au début des années 1960, sous le nom d'Anton LaVey, il donne à San Francisco des conférences sur l'occultisme dans sa maison peinte en noir.
+texte: Dans la nuit de Walpurgis, le 30 avril 1966, il se rase le crâne et fonde l'Église de Satan, proclamant l'« an un » d'une ère nouvelle. Ses cérémonies spectaculaires — un mariage, un baptême satanique, des messes où une femme nue sert d'autel — attirent la presse et quelques célébrités d'Hollywood. En 1969, il publie *La Bible satanique*, qui se vend à des centaines de milliers d'exemplaires.
+texte: Le [[satanisme]] de LaVey est athée : Satan n'est pas un être réel, mais le symbole de l'orgueil, du plaisir, de l'intérêt personnel et de la révolte contre la morale chrétienne de la culpabilité. Les rituels sont une forme de psychodrame, une « magie » qui agit sur l'esprit de l'opérateur. Il emprunte autant à Nietzsche et à la romancière Ayn Rand qu'à la [[magie-ceremonielle|magie cérémonielle]] et à l'imagerie de la [[messe-noire|messe noire]].
+texte: En 1975, une scission donne naissance au Temple de Set, qui croit, lui, à l'existence d'une entité. LaVey meurt à San Francisco en 1997. Son Église existe toujours ; les sociologues des religions y voient la première organisation satanique publique et durable, très éloignée des cultes sataniques imaginaires qu'on lui a souvent prêtés.
+repere: 1930 — Naissance à Chicago.
+repere: 1966 — Le 30 avril, nuit de Walpurgis, il fonde à San Francisco l'Église de Satan.
+repere: 1967 — Il célèbre publiquement un mariage et un baptême sataniques.
+repere: 1969 — *La Bible satanique*.
+repere: 1975 — Une scission donne naissance au Temple de Set.
+repere: 1991 — Une enquête journalistique démonte une grande partie de sa biographie légendaire.
+repere: 1997 — Mort à San Francisco.
+voir: satanisme, messe-noire, magie-ceremonielle, baphomet, aleister-crowley

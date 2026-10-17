@@ -155,7 +155,7 @@ cat: alchimie
 nom: Quintessence
 alias: cinquième essence, quinta essentia, éther, aether
 def: Cinquième élément, incorruptible, dont seraient faits les cieux selon Aristote ; les alchimistes ont cru l'extraire des choses terrestres par la distillation.
-texte: Aristote distingue des quatre éléments terrestres un cinquième, l'éther, matière des astres, qui ne connaît ni naissance ni corruption et se meut en cercle. Au XIVe siècle, le franciscain Jean de Roquetaillade enseigne qu'on peut obtenir sur terre un équivalent de ce « ciel » en distillant le vin à de nombreuses reprises : l'eau-de-vie ainsi obtenue, qui conserve les chairs, serait la quintessence, capable de préserver le corps de la corruption.
+texte: Aristote distingue des quatre éléments terrestres un cinquième, l'éther, matière des astres, qui ne connaît ni naissance ni corruption et se meut en cercle. Au XIVe siècle, le franciscain [[jean-de-roquetaillade|Jean de Roquetaillade]] enseigne qu'on peut obtenir sur terre un équivalent de ce « ciel » en distillant le vin à de nombreuses reprises : l'eau-de-vie ainsi obtenue, qui conserve les chairs, serait la quintessence, capable de préserver le corps de la corruption.
 texte: Le mot a ensuite désigné l'extrait le plus pur et le plus actif de toute substance, puis, dans la langue courante, ce qu'il y a de meilleur et d'essentiel en quelque chose.
 voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme
 
@@ -435,3 +435,17 @@ def: Selon Paracelse, principe vital qui gouverne chaque organisme et agit en lu
 texte: Pour [[paracelse]], chaque organe, chaque être possède son archée, sorte d'esprit artisan qui dirige la nutrition, la croissance et la guérison. Dans l'estomac, il trie les aliments, garde ce qui nourrit et rejette le poison : l'alchimie se fait d'abord dans le corps.
 texte: Jean-Baptiste van Helmont développe la notion et parle d'une pluralité d'archées. Elle annonce les doctrines vitalistes de la médecine des XVIIIe et XIXe siècles.
 voir: paracelse, iatrochimie, paracelsisme
+
+@ arbre-de-diane
+cat: alchimie
+nom: Arbre de Diane
+alias: arbre philosophique, végétation des métaux, arbre d'argent, Diane
+dates: XVIIe siècle
+an: 1675
+def: Cristallisation d'argent en forme d'arbre ramifié, obtenue en mettant du mercure dans une solution d'argent, où les alchimistes voyaient la preuve que les métaux croissent et « végètent ».
+texte: Si l'on verse quelques gouttes de mercure dans une solution d'argent dissous dans l'eau-forte, on voit lentement pousser, en quelques heures, de fines branches brillantes, semblables à un petit arbre couvert de givre. Les chimistes du XVIIe siècle ont appelé cette figure l'« arbre de Diane », du nom de la déesse de la Lune, qui désigne l'argent en [[alchimie]] ; le chimiste français Nicolas Lémery en donne la recette dans son *Cours de chymie* (1675). On peut faire de même un « arbre de Saturne » avec le plomb.
+texte: Pour les alchimistes, ces cristallisations étaient bien plus qu'une curiosité : elles montraient que les métaux sont vivants, qu'ils naissent, croissent et mûrissent dans la terre comme des plantes, jusqu'à devenir or. [[isaac-newton]] a étudié de près cette « végétation des métaux », qu'il considérait comme la manifestation d'un esprit actif présent dans la matière, et la science moderne a été longue à se défaire de cette vision d'une nature tout entière animée.
+texte: La chimie explique aujourd'hui le phénomène par une réaction d'oxydoréduction, où le mercure remplace l'argent en solution, et par la croissance des cristaux en forme d'arborescences ramifiées, comme le givre. L'expérience reste une démonstration spectaculaire dans les cours de chimie.
+repere: années 1670 — Newton étudie la « végétation des métaux ».
+repere: 1675 — Nicolas Lémery donne la recette de l'arbre de Diane dans son *Cours de chymie*.
+voir: alchimie, isaac-newton, mercure-principe, transmutation, lune

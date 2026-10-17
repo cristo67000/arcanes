@@ -90,7 +90,7 @@ nom: Harmonie des sphères
 alias: musique des sphères, musica mundana, harmonie céleste
 def: Idée d'origine pythagoricienne selon laquelle les mouvements des astres produisent une musique, ou du moins obéissent aux mêmes rapports de nombres que les accords musicaux.
 texte: Les pythagoriciens découvrent que l'octave, la quinte et la quarte répondent aux rapports simples 2/1, 3/2 et 4/3 entre les longueurs des cordes. Ils en concluent que les planètes, tournant à des distances proportionnées, émettent des sons accordés que nous n'entendons pas, parce que nous les entendons depuis toujours. [[platon]], dans le mythe d'Er, place une sirène sur chaque sphère céleste.
-texte: Boèce distingue la musique du monde, celle du corps et de l'âme humains, et la musique des instruments. Johannes Kepler, en 1619, cherche encore dans *L'Harmonie du monde* les accords des planètes — et y énonce sa troisième loi du mouvement planétaire. [[robert-fludd]] en a donné l'image du monocorde cosmique.
+texte: Boèce distingue la musique du monde, celle du corps et de l'âme humains, et la musique des instruments. [[johannes-kepler|Johannes Kepler]], en 1619, cherche encore dans *L'Harmonie du monde* les accords des planètes — et y énonce sa troisième loi du mouvement planétaire. [[robert-fludd]] en a donné l'image du monocorde cosmique.
 schema: cosmos-geocentrique
 voir: pythagorisme, pythagore, tetractys, robert-fludd, planetes
 
@@ -163,7 +163,7 @@ cat: notions
 nom: Imagination créatrice
 alias: imaginatio, imaginal, monde imaginal, mundus imaginalis, imagination active
 def: Faculté de l'âme qui, selon l'ésotérisme, ne se contente pas d'inventer des fictions mais perçoit et façonne des réalités intermédiaires entre l'esprit et la matière.
-texte: Pour [[paracelse]], l'*imaginatio* est une force réelle : l'imagination d'une femme enceinte marque l'enfant, celle du magicien agit à distance. La [[philosophie-occulte]] en fait l'organe de la magie. L'orientaliste Henry Corbin, à partir d'[[ibn-arabi]] et de la philosophie iranienne, parle d'un « monde imaginal » (*mundus imaginalis*), réel quoique non matériel, perçu par une imagination active.
+texte: Pour [[paracelse]], l'*imaginatio* est une force réelle : l'imagination d'une femme enceinte marque l'enfant, celle du magicien agit à distance. La [[philosophie-occulte]] en fait l'organe de la magie. L'orientaliste [[henry-corbin|Henry Corbin]], à partir d'[[ibn-arabi]] et de la philosophie iranienne, parle d'un « monde imaginal » (*mundus imaginalis*), réel quoique non matériel, perçu par une imagination active.
 texte: [[antoine-faivre]] retient l'imagination, avec les médiations — anges, symboles, intermédiaires —, parmi les traits fondamentaux de l'ésotérisme. Corbin insistait pour distinguer l'« imaginal » de l'« imaginaire », qui désigne en français l'irréel.
 voir: ibn-arabi, esoterisme, paracelse, voyage-astral
 
@@ -200,7 +200,7 @@ cat: notions
 nom: Aura
 alias: aura humaine, effet Kirlian, photographie Kirlian
 def: Halo lumineux et coloré que certains disent percevoir autour des êtres vivants, considéré comme le reflet de leurs corps subtils, de leur santé et de leurs émotions.
-texte: Les théosophes Annie Besant et Charles Leadbeater ont décrit dans *Les Formes-pensées* (1901) les couleurs de l'aura selon les sentiments : rose pour l'affection, vert pour la sympathie, brun-gris pour l'égoïsme. En 1911, un médecin londonien, Walter Kilner, prétend la rendre visible à travers des écrans colorés.
+texte: Les théosophes Annie Besant et [[charles-webster-leadbeater|Charles Leadbeater]] ont décrit dans *Les Formes-pensées* (1901) les couleurs de l'aura selon les sentiments : rose pour l'affection, vert pour la sympathie, brun-gris pour l'égoïsme. En 1911, un médecin londonien, Walter Kilner, prétend la rendre visible à travers des écrans colorés.
 texte: La « photographie Kirlian », mise au point en URSS en 1939, montre des halos lumineux autour des doigts ou des feuilles placés dans un champ électrique ; les physiciens l'expliquent par une décharge électrique dont l'aspect dépend surtout de l'humidité. Aucune expérience contrôlée n'a montré qu'une personne puisse percevoir l'aura d'autrui.
 voir: corps-subtils, od, chakra, voyance
 
@@ -209,8 +209,8 @@ cat: notions
 nom: Chakras
 alias: chakra, cakra, roues, centres d'énergie, muladhara, sahasrara, anahata, ajna
 def: Dans les traditions tantriques de l'Inde, centres d'énergie subtile disposés le long de la colonne vertébrale ; l'ésotérisme occidental et le New Age en ont fait un système très populaire.
-texte: Le mot sanskrit *cakra* signifie « roue ». Les textes tantriques décrivent un réseau de canaux subtils et, selon les écoles, de quatre à sept centres ou davantage, représentés comme des lotus d'un nombre de pétales déterminé, chacun associé à une syllabe, à un élément et à une divinité. Le système le plus connu compte six centres, du périnée au front, et un septième au sommet du crâne, le lotus aux mille pétales.
-texte: L'Occident l'a découvert par la [[theosophie]], par *La Puissance du serpent* de John Woodroffe (1919) et par *Les Chakras* de Charles Leadbeater (1927). Le [[new-age|New Age]] a associé à chaque chakra une couleur de l'arc-en-ciel, des pierres, des glandes et des émotions, ce qui ne figure pas dans les textes indiens.
+texte: Le mot sanskrit *cakra* signifie « roue ». Les textes tantriques décrivent un réseau de canaux subtils et, selon les écoles, de quatre à sept centres ou davantage, représentés comme des [[lotus]] d'un nombre de pétales déterminé, chacun associé à une syllabe, à un élément et à une divinité. Le système le plus connu compte six centres, du périnée au front, et un septième au sommet du crâne, le lotus aux mille pétales.
+texte: L'Occident l'a découvert par la [[theosophie]], par *La Puissance du serpent* de John Woodroffe (1919) et par *Les Chakras* de [[charles-webster-leadbeater|Charles Leadbeater]] (1927). Le [[new-age|New Age]] a associé à chaque chakra une couleur de l'arc-en-ciel, des pierres, des glandes et des émotions, ce qui ne figure pas dans les textes indiens.
 schema: chakras
 voir: kundalini, tantrisme, corps-subtils, aura
 
@@ -256,7 +256,7 @@ nom: Annales akashiques
 alias: archives akashiques, akasha, chronique de l'Akasha, mémoire de l'univers
 def: Selon la théosophie et l'anthroposophie, mémoire cosmique où serait inscrit tout ce qui s'est jamais produit, et que les clairvoyants pourraient consulter.
 texte: Le sanskrit *âkâsha* désigne l'espace ou l'éther, cinquième élément de la philosophie indienne. Les théosophes en font une substance subtile qui enregistre toute pensée et tout événement. [[rudolf-steiner]] publie de 1904 à 1908 des articles intitulés *Chronique de l'Akasha*, où il dit y lire l'histoire de l'[[atlantide|Atlantide]] et de la [[lemurie|Lémurie]].
-texte: Le médium américain Edgar Cayce disait y puiser les vies antérieures de ses consultants. La notion rejoint la [[lumiere-astrale]] d'Éliphas Lévi, qui conserverait le reflet de toutes choses.
+texte: Le médium américain [[edgar-cayce|Edgar Cayce]] disait y puiser les vies antérieures de ses consultants. La notion rejoint la [[lumiere-astrale]] d'Éliphas Lévi, qui conserverait le reflet de toutes choses.
 voir: lumiere-astrale, rudolf-steiner, theosophie, voyance, atlantide
 
 @ egregore
@@ -265,7 +265,7 @@ nom: Égrégore
 alias: egregore, égrégores, entité collective
 def: Dans l'ésotérisme moderne, entité psychique qui naîtrait des pensées, des émotions et des rites d'un groupe, et agirait à son tour sur ses membres.
 texte: Le mot vient du grec *egrêgoroi*, « veilleurs », nom donné aux anges déchus du *[[livre-d-henoch|Livre d'Hénoch]]* ; [[eliphas-levi]] l'emploie encore en ce sens. Dans l'occultisme et la franc-maçonnerie du XXe siècle, il prend le sens d'une sorte d'âme collective : un ordre, une loge, une nation ou une religion auraient leur égrégore, nourri par la ferveur de ceux qui y participent.
-texte: Pour ceux qui y croient, l'égrégore explique la force qui se dégage d'un rituel pratiqué depuis longtemps, mais aussi l'emprise d'un groupe sur ses membres. Le mot est passé dans le langage courant pour désigner l'esprit d'un collectif.
+texte: Pour ceux qui y croient, l'égrégore explique la force qui se dégage d'un rituel pratiqué depuis longtemps, mais aussi l'emprise d'un groupe sur ses membres. Le mot est passé dans le langage courant pour désigner l'esprit d'un collectif. Au Tibet, [[alexandra-david-neel|Alexandra David-Néel]] a décrit une notion voisine, le *tulpa*, être qu'un esprit concentré parviendrait à faire exister.
 voir: initiation, magie-ceremonielle, dion-fortune, livre-d-henoch
 
 @ maitres-de-sagesse
@@ -311,7 +311,7 @@ nom: Atlantide
 alias: Atlantis, Atlantes, continent englouti
 def: Île légendaire décrite par Platon, puissance maritime engloutie en un jour et une nuit, devenue pour l'ésotérisme moderne le berceau d'une civilisation et d'une sagesse perdues.
 texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
-texte: L'Atlantide renaît avec *Atlantis* d'Ignatius Donnelly (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'Edgar Cayce. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
+texte: L'Atlantide renaît avec *Atlantis* d'Ignatius Donnelly (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
 voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale
 
 @ lemurie
@@ -347,7 +347,7 @@ nom: Médium
 alias: médiums, médiumnité, mediumnité, voyant, canal, channeling
 def: Personne qui se dit capable de servir d'intermédiaire entre les vivants et les esprits des morts, par la parole, l'écriture ou des phénomènes physiques.
 texte: Le mot latin *medium* (« intermédiaire ») s'impose avec le [[spiritualisme]] américain et le [[spiritisme]]. [[allan-kardec]] distingue les médiums à effets physiques — coups frappés, déplacement d'objets, [[ectoplasme|matérialisations]] — et les médiums à effets intellectuels, qui parlent, écrivent ou dessinent sous l'influence des esprits.
-texte: Certains médiums du XIXe siècle, comme Daniel Dunglas Home, qui passait pour léviter, ou l'Italienne Eusapia Palladino, ont été étudiés par des savants ; beaucoup ont été surpris en train de tricher. Le [[new-age|New Age]] a renouvelé la pratique sous le nom de « canalisation ».
+texte: Certains médiums du XIXe siècle, comme [[daniel-dunglas-home|Daniel Dunglas Home]], qui passait pour léviter, ou l'Italienne [[eusapia-palladino|Eusapia Palladino]], ont été étudiés par des savants ; beaucoup ont été surpris en train de tricher. Le [[new-age|New Age]] a renouvelé la pratique sous le nom de « canalisation ».
 voir: spiritisme, spiritualisme, tables-tournantes, ectoplasme, ecriture-automatique, metapsychique
 
 @ tables-tournantes
@@ -355,7 +355,7 @@ cat: notions
 nom: Tables tournantes
 alias: table tournante, guéridon, typtologie, coups frappés, tables parlantes
 def: Pratique très en vogue au milieu du XIXe siècle, où des personnes assises autour d'une table, les mains posées sur elle, obtiennent qu'elle bouge et frappe des coups interprétés comme des messages d'esprits.
-texte: Venue des États-Unis, la mode gagne l'Europe en 1853. On convient d'un code — un coup pour oui, deux pour non, ou un nombre de coups par lettre de l'alphabet — et l'on interroge la table. À Jersey, en exil, Victor Hugo et sa famille dialoguent ainsi pendant deux ans avec Shakespeare, Molière, Jésus ou « l'Ombre du sépulcre ».
+texte: Venue des États-Unis, la mode gagne l'Europe en 1853. On convient d'un code — un coup pour oui, deux pour non, ou un nombre de coups par lettre de l'alphabet — et l'on interroge la table. À Jersey, en exil, [[victor-hugo|Victor Hugo]] et sa famille dialoguent ainsi pendant deux ans avec Shakespeare, Molière, Jésus ou « l'Ombre du sépulcre ».
 texte: Dès 1853, le physicien Michael Faraday montre par une expérience ingénieuse que ce sont les participants qui, sans le savoir, poussent la table par de petits mouvements involontaires ; le chimiste Chevreul arrive à la même conclusion pour le pendule et la baguette. Ce phénomène, dit « idéomoteur », explique aussi les messages du [[ouija]].
 voir: spiritisme, spiritualisme, medium, ouija, pendule
 
@@ -364,7 +364,7 @@ cat: notions
 nom: Ectoplasme
 alias: ectoplasmes, matérialisation, matérialisations
 def: Substance que certains médiums du début du XXe siècle étaient censés exsuder de leur corps pendant les séances, et qui prenait forme de membres ou de visages.
-texte: Le mot est forgé par le physiologiste Charles Richet en 1894. Les séances de « matérialisation », dans une pénombre rouge, montrent le médium en transe d'où s'échappe une matière blanchâtre, qui se modèle en mains ou en visages ; des photographies célèbres en témoignent.
+texte: Le mot est forgé par le physiologiste [[charles-richet|Charles Richet]] en 1894. Les séances de « matérialisation », dans une pénombre rouge, montrent le médium en transe d'où s'échappe une matière blanchâtre, qui se modèle en mains ou en visages ; des photographies célèbres en témoignent.
 texte: Les enquêtes ont montré, dans tous les cas examinés de près, l'usage de gaze, de papier mâché, de mousseline ou de découpures de journaux, avalés puis régurgités. L'ectoplasme reste un motif majeur de l'imaginaire des fantômes.
 voir: medium, spiritualisme, metapsychique
 
@@ -422,3 +422,22 @@ texte: Autour de la Terre tournent, de la plus proche à la plus lointaine, les 
 texte: Ce cosmos ordonné donne son cadre à l'[[astrologie]], aux [[hierarchies-celestes|hiérarchies des anges]], qu'on fait correspondre aux sphères, à la descente de l'âme qui revêt à chaque étage une qualité, et à la [[harmonie-des-spheres|musique des sphères]]. Dante y fait voyager son poète à travers le Paradis. Copernic, en 1543, place le Soleil au centre, et la physique de Newton fait disparaître les sphères.
 schema: cosmos-geocentrique
 voir: claude-ptolemee, harmonie-des-spheres, planetes, hierarchies-celestes, poimandres
+
+@ hypnose
+cat: notions
+nom: Hypnose
+alias: hypnotisme, sommeil magnétique, suggestion, Braid, Charcot, école de Nancy
+dates: depuis le XIXe siècle
+an: 1843
+def: État de conscience particulier, provoqué par un opérateur ou par soi-même, où l'attention se concentre et la suggestibilité augmente ; issue du magnétisme animal, l'hypnose a nourri à la fois la psychologie et l'occultisme.
+texte: L'hypnose naît du [[magnetisme-animal|magnétisme animal]]. En 1784, le marquis de [[puysegur]] découvre que certains sujets magnétisés tombent dans un « somnambulisme » où ils parlent, agissent et semblent plus lucides qu'à l'état de veille. Au début du XIXe siècle, l'abbé Faria, à Paris, montre qu'il suffit d'un ordre, « Dormez ! », pour provoquer ce « sommeil lucide » : tout vient du sujet, et non d'un fluide.
+texte: En 1843, le chirurgien écossais James Braid forge le mot « hypnotisme », du grec *hypnos*, le sommeil, et l'explique par la fixation de l'attention. Dans les années 1880, la question passionne la médecine française : à la Salpêtrière, Jean-Martin Charcot voit dans l'hypnose un symptôme de l'hystérie, tandis qu'à Nancy, Hippolyte Bernheim y voit l'effet de la suggestion, présente chez tous. Le jeune Freud, qui suit les deux écoles, en tire une partie de sa méthode, avant de la remplacer par la libre association.
+texte: L'occultisme s'en empare à son tour. Magnétiseurs et spirites font des somnambules des voyants, capables de voir à distance ou de converser avec les morts ; à la fin du XIXe siècle, le colonel Albert de Rochas prétend, par l'hypnose, faire revivre à ses sujets leurs vies antérieures, inaugurant la « régression » qui reste en vogue dans certains milieux de la [[reincarnation]]. Les spectacles d'hypnotiseurs, très populaires, entretiennent l'image d'un pouvoir mystérieux de la volonté.
+texte: La recherche contemporaine a dissipé une grande part de ce mystère : l'hypnose est un état de concentration et de dissociation de l'attention, dont l'imagerie cérébrale observe les effets, et qui n'accorde aucun pouvoir paranormal. Elle est aujourd'hui employée en médecine, notamment contre la douleur et l'anxiété, et en psychothérapie.
+repere: 1784 — Puységur découvre le somnambulisme magnétique.
+repere: 1819 — L'abbé Faria publie *De la cause du sommeil lucide*.
+repere: 1843 — James Braid forge le mot « hypnotisme ».
+repere: 1882 — Charcot présente l'hypnose à l'Académie des sciences comme un état de l'hystérie.
+repere: 1886 — Bernheim publie *De la suggestion*.
+repere: 1911 — Albert de Rochas publie *Les Vies successives*.
+voir: magnetisme-animal, puysegur, franz-anton-mesmer, medium, voyance, ecriture-automatique

@@ -62,7 +62,7 @@ cat: magie
 nom: Magie sexuelle
 alias: sexualité sacrée, magie de l'amour, Eulis, Maria de Naglowska
 def: Ensemble de pratiques qui utilisent l'acte sexuel et le désir comme moyens d'atteindre des états de conscience particuliers ou de produire des effets magiques.
-texte: L'Américain [[paschal-beverly-randolph]] en est le premier théoricien moderne, au milieu du XIXe siècle : l'union des époux, accomplie avec une intention commune, ouvrirait l'accès aux mondes spirituels. Ses idées passent à l'[[oto|Ordo Templi Orientis]], dont [[aleister-crowley]] réserve la magie sexuelle aux plus hauts grades. À Paris, dans les années 1930, l'occultiste russe Maria de Naglowska enseigne une « messe d'or » mêlant sexualité et rédemption.
+texte: L'Américain [[paschal-beverly-randolph]] en est le premier théoricien moderne, au milieu du XIXe siècle : l'union des époux, accomplie avec une intention commune, ouvrirait l'accès aux mondes spirituels. Ses idées passent à l'[[oto|Ordo Templi Orientis]], dont [[aleister-crowley]] réserve la magie sexuelle aux plus hauts grades. À Paris, dans les années 1930, l'occultiste russe [[maria-de-naglowska|Maria de Naglowska]] enseigne une « messe d'or » mêlant sexualité et rédemption.
 texte: L'ésotérisme occidental a aussi largement puisé, souvent sans les comprendre, dans le [[tantrisme]] indien. Les historiens étudient ces pratiques comme un chapitre de l'histoire de la sexualité moderne ; certains groupes s'en sont servis pour justifier des abus.
 voir: paschal-beverly-randolph, oto, aleister-crowley, tantrisme, julius-evola
 
@@ -200,7 +200,7 @@ nom: Chasse aux sorcières
 alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus maleficarum, Salem
 def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
 texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
-texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin Jean Wier en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
+texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin [[jean-wier|Jean Wier]] en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
 voir: sorcellerie, sabbat, demonologie, affaire-des-poisons
 
 @ demonologie
@@ -208,7 +208,7 @@ cat: magie
 nom: Démonologie
 alias: démonologue, démons, démon, diable, Dictionnaire infernal, Collin de Plancy, hiérarchie infernale
 def: Étude et classement des démons, de leur nature, de leurs noms, de leurs pouvoirs et de leurs relations avec les hommes, développée par les théologiens et les magiciens.
-texte: La tradition chrétienne voit dans les démons des anges déchus, révoltés avec Lucifer. Les démonologues de la Renaissance, comme le juriste Jean Bodin (*De la démonomanie des sorciers*, 1580), décrivent leurs ruses et justifient la répression de la sorcellerie. D'autres, comme le médecin Jean Wier (*Des illusions des démons*, 1563), expliquent par la maladie les cas de possession et publient une liste de démons pour en montrer l'absurdité.
+texte: La tradition chrétienne voit dans les démons des anges déchus, révoltés avec Lucifer. Les démonologues de la Renaissance, comme le juriste [[jean-bodin|Jean Bodin]] (*De la démonomanie des sorciers*, 1580), décrivent leurs ruses et justifient la répression de la sorcellerie. D'autres, comme le médecin [[jean-wier|Jean Wier]] (*Des illusions des démons*, 1563), expliquent par la maladie les cas de possession et publient une liste de démons pour en montrer l'absurdité.
 texte: Les grimoires dressent des hiérarchies infernales, avec rois, ducs et marquis. Au XIXe siècle, le *Dictionnaire infernal* de Jacques Collin de Plancy (1818, illustré en 1863) devient une référence populaire. La [[goetie]] et la littérature fantastique puisent abondamment dans cette tradition.
 voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet
 
@@ -218,7 +218,7 @@ nom: Anges
 alias: ange, angélologie, archanges, archange, Michel, Gabriel, Raphaël, Uriel, magie angélique
 def: Êtres spirituels, messagers de Dieu selon les religions juive, chrétienne et musulmane, que l'ésotérisme a classés, nommés et invoqués.
 texte: Le mot grec *angelos* signifie « messager ». La Bible nomme trois archanges, Michel, Gabriel et Raphaël ; le *[[livre-d-henoch|Livre d'Hénoch]]* en ajoute d'autres, dont Uriel. Le [[pseudo-denys]] les répartit en neuf chœurs, les [[hierarchies-celestes|hiérarchies célestes]]. La kabbale associe des anges aux [[sephiroth|séphiroth]], aux lettres et aux soixante-douze noms divins du [[shem-ha-meforash|Shem ha-Meforash]].
-texte: La magie angélique, qui prétend obtenir des anges la connaissance ou la protection, traverse les siècles, de l'*Art notoire* médiéval aux conversations de [[john-dee]] et à l'[[ange-gardien|ange gardien]] d'[[livre-d-abramelin|Abramelin]]. [[emanuel-swedenborg]] décrit les sociétés angéliques qu'il dit avoir visitées. Les anges connaissent un vif regain de popularité dans le [[new-age|New Age]].
+texte: La magie angélique, qui prétend obtenir des anges la connaissance ou la protection, traverse les siècles, de l'*[[ars-notoria|Art notoire]]* médiéval aux conversations de [[john-dee]] et à l'[[ange-gardien|ange gardien]] d'[[livre-d-abramelin|Abramelin]]. [[emanuel-swedenborg]] décrit les sociétés angéliques qu'il dit avoir visitées. Les anges connaissent un vif regain de popularité dans le [[new-age|New Age]].
 schema: hierarchies-celestes
 voir: hierarchies-celestes, ange-gardien, magie-enochienne, shem-ha-meforash, pseudo-denys, demonologie
 
@@ -283,7 +283,7 @@ nom: Messe noire
 alias: messes noires, messe satanique, abbé Guibourg
 def: Parodie de la messe catholique célébrée en l'honneur du Diable ou à des fins magiques, plus souvent imaginée par les accusateurs et les romanciers que réellement pratiquée.
 texte: Au Moyen Âge, on accusait certains prêtres de dire des messes pour faire mourir un ennemi. L'[[affaire-des-poisons|affaire des Poisons]], sous Louis XIV, livre le témoignage le plus célèbre : selon les aveux recueillis, l'abbé Guibourg aurait célébré des messes sur le corps nu d'une femme, peut-être Madame de Montespan, avec des sacrifices d'enfants — des témoignages obtenus sous la menace de la torture, dont l'exactitude reste discutée.
-texte: Huysmans décrit une messe noire dans *Là-bas* (1891), qui fixe pour longtemps l'image romanesque du rituel. Le [[satanisme]] moderne en a parfois fait une cérémonie de provocation.
+texte: [[joris-karl-huysmans|Huysmans]] décrit une messe noire dans *Là-bas* (1891), qui fixe pour longtemps l'image romanesque du rituel. Le [[satanisme]] moderne en a parfois fait une cérémonie de provocation.
 voir: satanisme, affaire-des-poisons, sorcellerie, envoutement
 
 @ affaire-des-poisons
@@ -324,3 +324,16 @@ def: Mots incompréhensibles, noms étrangers ou suites de voyelles employés da
 texte: Les [[papyrus-grecs-magiques|papyrus grecs magiques]] sont remplis de ces *voces magicae* : noms divins hébreux déformés comme IAO, palindromes comme *Ablanathanalba*, suites des sept voyelles grecques chantées dans un ordre précis, ou noms des « lettres éphésiennes », formules réputées protectrices. Les [[oracles-chaldaiques|Oracles chaldaïques]] interdisaient de traduire les « noms barbares », dont la puissance se perdrait.
 texte: [[jamblique]] explique que ces noms, transmis par les dieux, agissent par leur son, même pour qui ne les comprend pas. La tradition s'est prolongée dans les grimoires, avec leurs noms hébreux et leurs formules latines déformées.
 voir: papyrus-grecs-magiques, amulette, abracadabra, theurgie
+
+@ main-de-gloire
+cat: magie
+nom: Main de gloire
+alias: main de pendu, Hand of Glory, mandegloire, chandelle de pendu
+dates: XVIe – XIXe siècle
+def: Main desséchée d'un pendu, servant de chandelier, à laquelle la croyance populaire prêtait le pouvoir de plonger les habitants d'une maison dans le sommeil pour permettre aux voleurs d'y entrer.
+texte: La main de gloire est l'un des objets les plus macabres du folklore magique européen. Selon la recette donnée par le *[[petit-albert|Petit Albert]]*, on prend la main droite ou gauche d'un pendu, on l'enveloppe dans un linceul, on la presse pour en extraire le sang, puis on la fait macérer avec du sel, du salpêtre et du poivre long, avant de la sécher au soleil des jours caniculaires ou au four. On y fixe une chandelle faite de graisse de pendu et de cire vierge. Allumée, elle paralyse ceux qui la voient, et les voleurs peuvent piller la maison en toute tranquillité ; dans les traditions anglaises, seul le lait pouvait l'éteindre.
+texte: Les pendus étaient depuis l'Antiquité des sources d'ingrédients magiques : la corde, les ongles, la graisse. Le nom même de « main de gloire » semble venir d'une déformation de [[mandragore]], plante qui, selon la légende, poussait au pied des gibets, nourrie de la semence des pendus : on disait « mandegloire ». Les deux croyances se sont mêlées.
+texte: Des procès du XVIIe siècle mentionnent des voleurs accusés d'avoir utilisé une main de gloire, et un musée de Whitby, dans le Yorkshire, en conserve un spécimen. L'objet a fasciné les écrivains romantiques : Gérard de Nerval en a tiré un conte, *La Main enchantée*, et elle reparaît dans les romans fantastiques jusqu'à aujourd'hui.
+repere: XVIIIe siècle — Le *Petit Albert* donne la recette de la main de gloire.
+repere: 1832 — Gérard de Nerval publie *La Main enchantée*.
+voir: petit-albert, mandragore, amulette, sorcellerie, grimoire

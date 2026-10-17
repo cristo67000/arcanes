@@ -201,6 +201,25 @@ try {
   await js("document.querySelector('#fiche .f-lien[data-ref=\"venerable-maitre\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
   await attendre("Fiche.ref === 'venerable-maitre'", 3000, 'toucher le Vénérable dans le plan ouvre son article');
   ok(await js("return Array.from(document.querySelectorAll('#filtres .filtre')).some((b) => /Franc-maçonnerie/.test(b.textContent))"), 'la franc-maçonnerie a son filtre');
+
+  // ── Les repères et les liens « Pour aller plus loin » ─────────────────────
+  await js("Fiche.ouvrir('paracelse'); return 1");
+  await attendre("Fiche.ref === 'paracelse' && document.querySelector('#fiche .reperes-liste')", 3000, 'les repères de Paracelse');
+  ok(await js("return document.querySelectorAll('#fiche .reperes-liste li').length === Dictionnaire.parId('paracelse').re.length"), 'chaque repère de Paracelse est affiché');
+  ok(await js("return Array.from(document.querySelectorAll('#fiche .reperes-liste li')).every((li) => li.querySelector('.repere-date').textContent && !/\\[\\[|\\]\\]|\\*/.test(li.textContent))"), 'les repères ont leur date et aucune balise visible');
+  ok(await js("return document.querySelectorAll('#fiche .ailleurs-lien').length === Dictionnaire.parId('paracelse').li.length"), 'chaque lien extérieur de Paracelse est affiché');
+  ok(await js("return Array.from(document.querySelectorAll('#fiche .ailleurs-lien')).every((a) => a.target === '_blank' && a.rel === 'noopener noreferrer' && a.href.startsWith('https://'))"), 'les liens extérieurs s’ouvrent à part, sans transmettre la page d’origine');
+  r = await chercher('paragranum');
+  ok(r.includes('paracelse'), 'la recherche lit aussi les repères');
+  await chercher('');
+  await js("Fiche.ouvrir('martinez-de-pasqually'); return 1");
+  await attendre("Fiche.ref === 'martinez-de-pasqually' && document.querySelector('#fiche .reperes-liste')", 3000, 'les repères de Martinez de Pasqually');
+  ok(await js("return document.querySelectorAll('#fiche .reperes-liste a.renvoi').length === 2"), 'les renvois des repères sont des liens');
+  await js("document.querySelector('#fiche .reperes-liste a.renvoi').click(); return 1");
+  await attendre("Fiche.ref !== 'martinez-de-pasqually'", 3000, 'un renvoi des repères ouvre son article');
+  await js("Fiche.ouvrir('alchimie'); return 1");
+  await attendre("Fiche.ref === 'alchimie'", 3000, 'fiche Alchimie');
+  ok(await js("return !document.querySelector('#fiche .reperes') === !Dictionnaire.parId('alchimie').re"), 'un article sans repères n’a pas de section vide');
   await js('Fiche.fermer(); return 1');
   await attendre('!Fiche.ouverte', 3000, 'fermeture');
   await pause(500);

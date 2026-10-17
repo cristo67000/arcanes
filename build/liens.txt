@@ -1,0 +1,700 @@
+# Les liens « Pour aller plus loin » : des pages d'autres sites, au bas de chaque fiche.
+#
+#     node build/construire.mjs          les rattache aux articles (data/dictionnaire.json)
+#     node build/verifier_liens.mjs      vérifie en ligne que chaque adresse répond
+#
+# Une ligne par article : « id: lien | lien | … », ou « id: - » quand aucune page
+# n'en vaut la peine (mieux vaut rien qu'une page à côté du sujet). Un lien :
+#
+#   wp Titre                      Wikipédia en français (titre exact de la page)
+#   en Title                      Wikipedia en anglais, faute de page française
+#   ws Titre                      Wikisource en français (« Auteur:… » ou un texte)
+#   bnf 11918578x                 notice de la BnF (data.bnf.fr), sans « cb »
+#   gallica bpt6k… = libellé      un document numérisé de Gallica
+#   ia identifiant = libellé      un document numérisé de l'Internet Archive
+#   url https://… = libellé       toute autre page
+#
+# Les pages Wikipédia ont été choisies une à une (titre, homonymies écartées) ;
+# Wikisource et la BnF viennent de Wikidata, pour les figures et les textes, et
+# seulement quand l'élément est celui de la page française. Les liens vers des
+# œuvres numérisées ne visent que le domaine public.
+
+alambic: wp Alambic
+albedo: wp Albédo (alchimie)
+alchimie: wp Alchimie
+alkahest: wp Alkahest
+antimoine: wp Antimoine
+archee: -
+athanor: wp Athanor (four)
+azoth: wp Azoth
+bain-marie: wp Bain-marie
+calcination: wp Calcination
+cauda-pavonis: -
+chrysopee: wp Chrysopée
+citrinitas: wp Grand œuvre (alchimie) | en Citrinitas
+distillation: wp Distillation
+elixir-de-longue-vie: wp Élixir de longue vie
+grand-oeuvre: wp Grand œuvre (alchimie)
+homoncule: wp Homoncule (alchimie)
+iatrochimie: wp Iatrochimie
+lion-vert: -
+materia-prima: en Prima materia
+mercure-philosophique: wp Mercure philosophique
+mercure-principe: wp Principes (alchimie)
+neidan: wp Neidan
+nigredo: wp Nigredo
+oeuf-philosophique: -
+operations-alchimiques: en Magnum opus (alchemy)
+or-potable: wp Or potable
+pierre-philosophale: wp Pierre philosophale
+projection: en Projection (alchemy)
+putrefaction: -
+quatre-elements: wp Quatre éléments
+quintessence: wp Quintessence (philosophie)
+rebis: en Rebis
+rosee: -
+rubedo: wp Rubedo (alchimie)
+sel: wp Principes (alchimie)
+solve-et-coagula: -
+souffleur: -
+soufre: wp Principes (alchimie)
+spagyrie: wp Spagyrie
+sublimation: -
+transmutation: -
+tria-prima: wp Principes (alchimie)
+vitriol: wp Vitriol
+voie-humide: -
+voie-seche: -
+ascendant: wp Ascendant (astrologie)
+aspects: wp Aspect (astrologie)
+astrologie: wp Astrologie
+astrologie-chinoise: wp Astrologie chinoise
+astrologie-mondiale: wp Astrologie mondiale
+astrologie-vedique: wp Astrologie indienne
+balance: wp Balance (astrologie)
+belier: wp Bélier (astrologie)
+cancer: wp Cancer (astrologie)
+capricorne: wp Capricorne (astrologie)
+decans: wp Décan
+dignites: wp Dignités planétaires
+ephemerides: wp Éphéméride (astronomie)
+gemeaux: wp Gémeaux (astrologie)
+grandes-conjonctions: wp Grande conjonction
+heures-planetaires: en Planetary hours
+horoscope: wp Astrologie populaire
+jupiter: -
+lion: wp Lion (astrologie)
+lune: -
+maisons: wp Maison (astrologie)
+mars: -
+melothesie: wp Homme zodiacal
+mercure: -
+neptune: -
+noeuds-lunaires: wp Nœud lunaire
+planetes: -
+pluton: -
+poissons: wp Poissons (astrologie)
+precession: wp Précession des équinoxes
+sagittaire: wp Sagittaire (astrologie)
+saturne: -
+scorpion: wp Scorpion (astrologie)
+soleil: -
+taureau: wp Taureau (astrologie)
+theme-astral: wp Thème astrologique
+triplicites: en Triplicity
+uranus: -
+venus: -
+verseau: wp Verseau (astrologie)
+vierge: wp Vierge (astrologie)
+zodiaque: wp Zodiaque
+anthroposophie: wp Anthroposophie
+ariosophie: wp Mysticisme nazi
+catharisme: wp Catharisme
+chamanisme: wp Chamanisme
+druidisme: wp Néodruidisme
+egyptosophie: -
+esoterisme: wp Ésotérisme
+gnose: wp Gnose
+gnosticisme: wp Gnosticisme
+hermetisme: wp Hermétisme
+illuminisme: wp Illuminisme
+magnetisme-animal: wp Magnétisme animal
+manicheisme: wp Manichéisme (religion)
+martinisme: wp Martinisme
+metapsychique: wp Métapsychique
+mysteres-antiques: wp Culte à mystères
+naturphilosophie: wp Naturphilosophie
+neopaganisme: wp Néopaganisme
+neoplatonisme: wp Néoplatonisme
+new-age: wp New Age
+nouvelle-pensee: wp Nouvelle Pensée
+occultisme: wp Occultisme
+orphisme: wp Orphisme
+paracelsisme: -
+philosophie-occulte: -
+prisca-theologia: wp Philosophie éternelle
+pythagorisme: wp École pythagoricienne
+quatrieme-voie: -
+sabeens-de-harran: en Harranians
+satanisme: en Satanism
+soufisme: wp Soufisme
+spiritisme: wp Spiritisme
+spiritualisme: wp Spiritualisme moderne anglo-saxon
+tantrisme: wp Tantrisme
+thelema: wp Thelema
+theosophie: wp Théosophie
+theosophie-chretienne: wp Théosophie
+traditionalisme: wp Pérennialisme (spiritualité)
+wicca: wp Wicca
+arcane-amoureux: wp L'Amoureux
+arcane-bateleur: wp Le Bateleur
+arcane-chariot: wp Le Chariot
+arcane-diable: wp Le Diable
+arcane-empereur: wp L'Empereur (tarot)
+arcane-etoile: wp L'Étoile (tarot)
+arcane-force: wp La Force (tarot)
+arcane-hermite: wp L'Ermite
+arcane-imperatrice: wp L'Impératrice
+arcane-jugement: wp Le Jugement (tarot)
+arcane-justice: -
+arcane-lune: wp La Lune
+arcane-maison-dieu: wp La Maison Dieu
+arcane-mat: wp Le Mat
+arcane-monde: wp Le Monde (tarot)
+arcane-pape: wp Le Pape (tarot)
+arcane-papesse: wp La Papesse
+arcane-pendu: wp Le Pendu (tarot)
+arcane-roue-de-fortune: wp La Roue de Fortune
+arcane-sans-nom: wp La Mort (tarot)
+arcane-soleil: wp Le Soleil (tarot)
+arcane-temperance: wp Tempérance (tarot)
+arcanes-majeurs: wp Tarot divinatoire
+arcanes-mineurs: wp Tarot divinatoire
+augures: wp Augure
+cartomancie: wp Cartomancie
+chiromancie: wp Chiromancie
+cristallomancie: wp Boule de cristal
+divination: wp Divination
+geomancie: wp Géomancie
+jeu-lenormand: wp Marie-Anne Lenormand
+necromancie: wp Nécromancie
+oniromancie: wp Oniromancie
+oracle: wp Oracle (divination)
+ouija: wp Ouija
+pendule: -
+physiognomonie: wp Physiognomonie
+radiesthesie: wp Radiesthésie
+runes: wp Rune
+sibylles: wp Sibylle
+tarot: wp Tarot
+tarot-de-marseille: wp Tarot de Marseille
+tarot-de-thoth: en Thoth Tarot
+tarot-rider-waite: wp Tarot Rider-Waite
+voyance: wp Voyance
+yi-king: wp Yi Jing
+abraham-aboulafia: wp Abraham Aboulafia | bnf 12065834d
+adam-weishaupt: wp Adam Weishaupt | bnf 12069667s
+albert-le-grand: wp Albert le Grand | ws Auteur:Albert le Grand | bnf 12030001d
+albert-pike: wp Albert Pike | bnf 126713767
+aleister-crowley: wp Aleister Crowley | bnf 11898235p
+alice-bailey: wp Alice Bailey | bnf 11889882w
+allan-kardec: wp Allan Kardec | ws Auteur:Allan Kardec | bnf 118884758
+andrew-michael-ramsay: wp Andrew Michael Ramsay | ws Auteur:André-Michel de Ramsay | bnf 11921111f
+anna-kingsford: wp Anna Kingsford | bnf 12007317p
+annie-besant: wp Annie Besant | ws Auteur:Annie Besant | bnf 11891773x
+antoine-faivre: wp Antoine Faivre | bnf 11902182s
+apollonius-de-tyane: wp Apollonios de Tyane | bnf 12042094x
+arnaud-de-villeneuve: wp Arnaud de Villeneuve (médecin) | bnf 120195246
+arthur-edward-waite: wp Arthur Edward Waite | ws Auteur:Arthur Edward Waite | bnf 11928783n
+athanasius-kircher: wp Athanasius Kircher | bnf 119097824
+augustin-barruel: wp Augustin Barruel | ws Auteur:Augustin Barruel | bnf 118903758
+austin-osman-spare: wp Austin Osman Spare | bnf 129733031
+basile-valentin: wp Basile Valentin | bnf 118904804
+basilide: wp Basilide
+benjamin-franklin: wp Benjamin Franklin | ws Auteur:Benjamin Franklin | bnf 119034658
+cagliostro: wp Joseph Balsamo | bnf 11894773n
+christian-rosenkreutz: wp Christian Rosenkreutz
+claude-ptolemee: wp Claude Ptolémée | ws Auteur:Ptolémée | bnf 11920750r
+comte-de-saint-germain: wp Comte de Saint-Germain | bnf 14550787f
+cornelius-agrippa: wp Henri-Corneille Agrippa de Nettesheim | ws Auteur:Henri Corneille Agrippa | bnf 11888193c
+court-de-gebelin: wp Antoine Court de Gébelin | ws Auteur:Antoine Court de Gébelin | bnf 118979670
+dion-fortune: wp Dion Fortune | bnf 119031701
+dom-pernety: wp Antoine-Joseph Pernety | ws Auteur:Antoine-Joseph Pernety | bnf 11919170p
+edouard-schure: wp Édouard Schuré | ws Auteur:Édouard Schuré | bnf 119241622
+edward-kelley: wp Edward Kelley | bnf 133292932
+eirenee-philalethe: wp George Starkey (Eyrénée Philalèthe) | bnf 13007056w
+elias-ashmole: wp Elias Ashmole | bnf 13475035k
+eliphas-levi: wp Éliphas Lévi | ws Auteur:Éliphas Lévi | bnf 118975447
+emanuel-swedenborg: wp Emanuel Swedenborg | ws Auteur:Emanuel Swedenborg | bnf 11925817d
+etienne-morin: wp Étienne Morin | bnf 16221106b
+etteilla: wp Etteilla | bnf 118885161
+eugene-canseliet: wp Eugène Canseliet | bnf 118950400
+fabre-d-olivet: wp Antoine Fabre d'Olivet | bnf 119021029
+frances-yates: wp Frances Yates | bnf 12028830x
+franz-anton-mesmer: wp Franz-Anton Mesmer | ws Auteur:Frédéric-Antoine Mesmer | bnf 12185091m
+fulcanelli: wp Fulcanelli | bnf 11903722t
+georges-gurdjieff: wp Georges Gurdjieff | bnf 13894837b
+gerald-gardner: wp Gerald Gardner | bnf 145195172
+gershom-scholem: wp Gershom Scholem | bnf 11924110t
+giordano-bruno: wp Giordano Bruno | ws Auteur:Giordano Bruno | bnf 11894377x
+gotthold-ephraim-lessing: wp Gotthold Ephraim Lessing | ws Auteur:Gotthold Ephraim Lessing | bnf 11912703h
+guillaume-postel: wp Guillaume Postel | bnf 12078540f
+harvey-spencer-lewis: wp Harvey Spencer Lewis | bnf 11912891w
+heinrich-khunrath: wp Heinrich Khunrath | bnf 13006542b
+helena-blavatsky: wp Helena Blavatsky | ws Auteur:Helena Blavatsky | bnf 11892330s
+henry-steel-olcott: wp Henry Steel Olcott | bnf 11918066x
+hermes-trismegiste: wp Hermès Trismégiste | ws Auteur:Hermès Trismégiste | bnf 12057248q
+ibn-arabi: wp Ibn Arabi | ws Auteur:Ibn Arabî | bnf 11908141n
+isaac-louria: wp Isaac Louria | bnf 12650084c
+isaac-newton: wp Isaac Newton | ws Auteur:Isaac Newton | bnf 119176085
+israel-regardie: wp Israel Regardie | bnf 12251103c
+jabir-ibn-hayyan: wp Jabir ibn Hayyan | ws Auteur:Jabir ibn Hayyan | bnf 11903785q
+jakob-boehme: wp Jakob Böhme | ws Auteur:Jakob Böhme | bnf 11891910k
+jamblique: wp Jamblique | ws Auteur:Jamblique | bnf 11908535t
+james-anderson: wp James Anderson (franc-maçon) | ws Auteur:James Anderson (1679-1739) | bnf 12536112n
+jean-baptiste-willermoz: wp Jean-Baptiste Willermoz | bnf 11929219d
+jean-marie-ragon: wp Jean-Marie Ragon | bnf 119210266
+jean-reuchlin: wp Johannes Reuchlin | bnf 12359330x
+jean-theophile-desaguliers: wp Jean-Théophile Désaguliers | bnf 13609727r
+jean-tritheme: wp Johannes Trithemius | bnf 11927120v
+jiddu-krishnamurti: wp Jiddu Krishnamurti | bnf 119101110
+johann-valentin-andreae: wp Johann Valentin Andreae | ws Auteur:Johann Valentin Andreae | bnf 12445626h
+johann-wolfgang-von-goethe: wp Johann Wolfgang von Goethe | ws Auteur:Johann Wolfgang von Goethe | bnf 11905269k
+john-dee: wp John Dee | bnf 119854464
+joseph-de-maistre: wp Joseph de Maistre | ws Auteur:Joseph de Maistre | bnf 11914022b
+josephin-peladan: wp Joséphin Peladan | ws Auteur:Joséphin Péladan | bnf 119189474
+jules-boucher: wp Jules Boucher (écrivain) | bnf 118931565
+jules-doinel: wp Jules Doinel | ws Auteur:Jules Doinel | bnf 12206346c
+julius-evola: wp Julius Evola | bnf 118862590
+karl-gotthelf-von-hund: wp Karl Gotthelf von Hund | bnf 17074130r
+karl-von-eckartshausen: wp Karl von Eckartshausen | bnf 121221730
+knorr-von-rosenroth: wp Christian Knorr von Rosenroth | bnf 120781096
+laurence-dermott: wp Laurence Dermott | bnf 13542943h
+leo-taxil: wp Léo Taxil | ws Auteur:Léo Taxil | bnf 12181141c
+louis-claude-de-saint-martin: wp Louis-Claude de Saint-Martin | ws Auteur:Louis-Claude de Saint-Martin | bnf 119233820
+mademoiselle-lenormand: wp Marie-Anne Lenormand | ws Auteur:Marie-Anne Lenormand | bnf 120791261
+mani: wp Mani (prophète) | bnf 119477129
+maria-deraismes: wp Maria Deraismes | ws Auteur:Maria Deraismes | bnf 11899662x
+marie-la-juive: wp Marie la Juive
+marsile-ficin: wp Marsile Ficin | ws Auteur:Marsile Ficin | bnf 11902728n
+martinez-de-pasqually: wp Martinès de Pasqually | ws Auteur:Martinès de Pasqually | bnf 119148665
+max-heindel: wp Max Heindel | bnf 11907142r
+michael-maier: wp Michael Maier | bnf 133206187
+michel-sendivogius: wp Michael Sendivogius | bnf 11924410n
+moise-de-leon: wp Moïse de León | bnf 120671448
+nicolas-flamel: wp Nicolas Flamel | ws Auteur:Nicolas Flamel | bnf 119028743
+nostradamus: wp Nostradamus | ws Auteur:Nostradamus | bnf 11887127b
+orphee: wp Orphée
+oswald-wirth: wp Oswald Wirth | bnf 11929307p
+pamela-colman-smith: wp Pamela Colman Smith | bnf 14594461q
+papus: wp Papus | ws Auteur:Papus | bnf 15461390n
+paracelse: wp Paracelse | ws Auteur:Paracelse | bnf 119185789
+paschal-beverly-randolph: wp Paschal Beverly Randolph | bnf 12193301c
+pic-de-la-mirandole: wp Jean Pic de la Mirandole | ws Auteur:Jean Pic de la Mirandole | bnf 12128375p
+piotr-ouspensky: wp Piotr Ouspenski | bnf 11918303v
+platon: wp Platon | ws Auteur:Platon | bnf 11920019p
+plotin: wp Plotin | ws Auteur:Plotin | bnf 11887296f
+porphyre: wp Porphyre de Tyr | ws Auteur:Porphyre de Tyr | bnf 120084710
+proclus: wp Proclus | ws Auteur:Proclus | bnf 11920678v
+pseudo-denys: wp Pseudo-Denys l'Aréopagite | ws Auteur:Pseudo-Denys l’Aréopagite | bnf 120910205
+puysegur: wp Amand Marie Jacques de Chastenet de Puységur | bnf 119208056
+pythagore: wp Pythagore | ws Auteur:Pythagore | bnf 11920816v
+raymond-lulle: wp Raymond Lulle | bnf 119211014
+rene-guenon: wp René Guénon | ws Auteur:René Guénon | bnf 11906145j
+robert-ambelain: wp Robert Ambelain | bnf 11888626m
+robert-fludd: wp Robert Fludd | ws Auteur:Robert Fludd | bnf 119029851
+robert-moray: wp Robert Moray | bnf 15039249j
+roger-bacon: wp Roger Bacon | bnf 118898132
+rudolf-steiner: wp Rudolf Steiner | ws Auteur:Rudolf Steiner | bnf 11925493d
+rudyard-kipling: wp Rudyard Kipling | ws Auteur:Rudyard Kipling | bnf 13091505s
+saint-yves-d-alveydre: wp Alexandre Saint-Yves d'Alveydre | bnf 11923411r
+salomon: wp Salomon (roi d'Israël) | ws Auteur:Salomon | bnf 12095820b
+samuel-liddell-mathers: wp Samuel Liddell MacGregor Mathers | bnf 17046628f
+schwaller-de-lubicz: wp René Adolphe Schwaller de Lubicz | bnf 11924175d
+simon-le-magicien: wp Simon le Magicien | bnf 12889418t
+stanislas-de-guaita: wp Stanislas de Guaita | ws Auteur:Stanislas de Guaita | bnf 11906091f
+valentin: wp Valentin (gnostique) | bnf 12214625z
+william-preston: wp William Preston (écrivain) | bnf 12075841w
+william-wynn-westcott: wp William Wynn Westcott | bnf 135933883
+wolfgang-amadeus-mozart: wp Wolfgang Amadeus Mozart | ws Auteur:Wolfgang Amadeus Mozart | bnf 14027233b
+zoroastre: wp Zoroastre | bnf 11974948r
+zosime-de-panopolis: wp Zosime de Panopolis | bnf 131977216
+adam-kadmon: wp Adam Kadmon
+alphabet-hebreu: wp Alphabet hébreu
+arbre-des-sephiroth: wp Arbre de Vie (Kabbale)
+arithmologie: wp Arithmologie
+binah: wp Sephiroth (Kabbale)
+carre-magique: wp Carré magique (mathématiques)
+chevirat-ha-kelim: wp Kabbale lourianique
+daat: wp Sephiroth (Kabbale)
+ein-sof: wp En Sof
+gematrie: wp Gematria
+golem: wp Golem
+gueboura: wp Sephiroth (Kabbale)
+hesed: wp Hessed
+hod: wp Sephiroth (Kabbale)
+hokhmah: wp Chokmah
+isopsephie: wp Isopséphie
+kabbale: wp Kabbale
+kabbale-chretienne: wp Kabbale chrétienne
+kabbale-hermetique: en Hermetic Qabalah
+keter: wp Kether
+malkhout: wp Sephiroth (Kabbale)
+merkavah: wp Merkabah
+monade: wp Monade (philosophie)
+netsah: wp Sephiroth (Kabbale)
+nombre-d-or: wp Nombre d'or
+notarikon: wp Notarikon
+numerologie: wp Numérologie
+qlipoth: wp Qliphoth
+quatre-mondes: en Four Worlds
+sentiers: wp Arbre de Vie (Kabbale)
+sephiroth: wp Sephiroth (Kabbale)
+shekhina: wp Shekhina
+shem-ha-meforash: wp Shem HaMephorash
+temourah: wp Temura
+tetractys: wp Tetractys
+tetragramme: wp YHWH
+tiferet: wp Sephiroth (Kabbale)
+tikkoun: wp Tikkoun Olam
+tsimtsoum: wp Tsimtsoum
+yesod: wp Sephiroth (Kabbale)
+acacia: -
+affaire-des-fiches: wp Affaire des fiches (France)
+agapes: wp Agapes
+antimaconnisme: wp Antimaçonnisme
+apprenti: wp Grade maçonnique
+arche-royale: wp Sainte Arche royale
+batterie: -
+cabinet-de-reflexion: wp Cabinet de réflexion
+chaine-d-union: wp Chaîne d'union
+chevalier-kadosh: wp Chevalier Kadosh
+chevalier-rose-croix: wp Souverain Prince Rose-Croix
+compagnon: wp Grade maçonnique
+compas-et-equerre: -
+convent: -
+convent-de-wilhelmsbad: -
+decors-maconniques: -
+droit-humain: wp Ordre maçonnique mixte international « le Droit humain »
+ecossisme: wp Écossisme
+etoile-flamboyante: -
+fils-de-la-veuve: wp Mythes maçonniques
+franc-maconnerie: wp Franc-maçonnerie
+gants-blancs: -
+glnf: wp Grande Loge nationale française
+grades-maconniques: wp Grade maçonnique
+grand-architecte-de-l-univers: wp Grand Architecte de l'Univers
+grand-orient-de-france: wp Grand Orient de France
+grande-loge-de-france: wp Grande Loge de France
+grande-loge-de-londres: wp Première Grande Loge d'Angleterre
+grande-loge-feminine-de-france: wp Grande Loge féminine de France
+grande-loge-unie-d-angleterre: wp Grande Loge unie d'Angleterre
+initiation-maconnique: -
+landmarks: en Masonic Landmarks
+legende-d-hiram: wp Légende d'Hiram
+les-neuf-soeurs: wp Neuf Sœurs
+loge: wp Loge maçonnique
+maconnerie-d-adoption: wp Maçonnerie d'adoption
+maillet: -
+maitre-macon: wp Grade maçonnique
+mots-signes-attouchements: -
+niveau-et-perpendiculaire: -
+obedience: wp Obédience maçonnique
+officiers-de-loge: wp Officiers de loge maçonnique
+operatifs-et-speculatifs: wp Histoire de la franc-maçonnerie
+orient: -
+outils-maconniques: -
+pave-mosaique: -
+philalethes: wp Philalèthes
+pierre-brute: -
+pierre-cubique: -
+planche: -
+prince-hall: wp Franc-maçonnerie Prince Hall
+profane: wp Profane
+regularite: wp Régularité maçonnique
+rite-d-york: wp Rite d'York
+rite-de-memphis-misraim: wp Rites maçonniques égyptiens
+rite-de-perfection: wp Ordre du royal secret
+rite-ecossais-ancien-et-accepte: wp Rite écossais ancien et accepté
+rite-ecossais-rectifie: wp Rite écossais rectifié
+rite-emulation: wp Rite émulation
+rite-francais: wp Rite français
+rite-schroder: -
+rite-suedois: wp Rite suédois
+sagesse-force-beaute: -
+secret-maconnique: wp Secret maçonnique
+stricte-observance: wp Stricte observance templière
+surveillants: wp Officiers de loge maçonnique
+tableau-de-loge: wp Tableau de loge
+tablier: -
+temple-maconnique: wp Temple maçonnique
+temps-maconnique: wp Calendrier maçonnique
+tenue: -
+trois-grandes-lumieres: -
+trois-points: -
+tuilage: -
+venerable-maitre: wp Officiers de loge maçonnique
+abracadabra: wp Abracadabra
+affaire-des-poisons: wp Affaire des poisons
+amulette: wp Amulette
+ange-gardien: wp Ange gardien
+anges: wp Ange
+carre-sator: wp Carré Sator
+cercle-magique: wp Cercle magique
+chasse-aux-sorcieres: wp Chasse aux sorcières
+demonologie: wp Démonologie
+elementaux: wp Élémentaire (esprit)
+envoutement: wp Envoûtement
+evocation: en Evocation
+goetie: wp Goétie
+grimoire: wp Grimoire
+hierarchies-celestes: wp Hiérarchie céleste
+instruments-magiques: -
+intelligences-planetaires: -
+magie: wp Magie (surnaturel)
+magie-ceremonielle: en Ceremonial magic
+magie-du-chaos: wp Magie du Chaos
+magie-enochienne: wp Magie énochienne
+magie-naturelle: wp Magia naturalis
+magie-sexuelle: wp Magie sexuelle
+mandragore: wp Mandragore
+messe-noire: wp Messe noire
+miroir-magique: wp Miroir magique
+pentacle: wp Pentacle
+rituel-du-pentagramme: en Lesser ritual of the pentagram
+sabbat: wp Sabbat (sorcellerie)
+sceau: -
+sigil: wp Sigil (magie)
+sorcellerie: wp Sorcellerie
+talisman: wp Talisman
+theurgie: wp Théurgie
+voces-magicae: wp Ephesia grammata | en Voces magicae
+agartha: wp Agartha
+ame-du-monde: wp Anima mundi
+annales-akashiques: wp Annales akashiques
+arcane: -
+archonte: wp Archonte (gnose)
+art-de-la-memoire: wp Méthode des loci | wp L'Art de la mémoire
+atlantide: wp Atlantide
+aura: wp Aura (parapsychologie)
+chakra: wp Chakra
+corps-subtils: wp Corps subtils
+correspondances: wp Analogies et correspondances
+cosmos-geocentrique: wp Géocentrisme
+cycles-cosmiques: -
+demiurge: wp Démiurge
+ecriture-automatique: wp Écriture automatique
+ectoplasme: wp Ectoplasme (parapsychologie)
+egregore: wp Égrégore
+emanation: wp Émanatisme
+eon: en Aeon (Gnosticism)
+ere-du-verseau: wp Ère du Verseau
+exoterique: wp Exotérisme
+harmonie-des-spheres: wp Harmonie des sphères
+imagination-creatrice: wp Henry Corbin
+initiation: wp Initiation
+karma: wp Karma
+kundalini: wp Kundalini
+lemurie: wp Lémurie
+lumiere-astrale: -
+maitres-de-sagesse: en Ascended master
+medium: wp Médium (spiritisme)
+metempsycose: wp Métempsycose
+microcosme-macrocosme: wp Microcosme
+mystique: wp Mystique
+occulte: -
+od: en Odic force
+perisprit: wp Périsprit
+plerome: wp Plérôme
+reincarnation: wp Réincarnation
+reintegration: -
+signatures: wp Théorie des signatures
+sophia: wp Sophia (philosophie)
+sympathie-universelle: -
+synarchie: wp Synarchie
+tables-tournantes: wp Table tournante (spiritisme)
+tradition-primordiale: wp Tradition primordiale
+voyage-astral: wp Voyage astral
+a-a: wp Astrum Argentum
+amorc: wp Antiquus Mysticusque Ordo Rosae Crucis
+compagnonnage: wp Compagnonnage
+eglise-gnostique: wp Église gnostique de France
+elus-coens: wp Élus Coëns
+fraternite-hermetique-de-louxor: wp Fraternité Hermétique de Louxor
+golden-dawn: wp Ordre hermétique de l'Aube dorée
+illumines-d-avignon: wp Illuminés d'Avignon
+illumines-de-baviere: wp Illuminés de Bavière
+lectorium-rosicrucianum: wp École de la Rose-Croix d'Or
+ordre-de-la-rose-croix-catholique: wp Rose-Croix esthétique
+ordre-du-temple-solaire: wp Ordre du Temple solaire
+ordre-kabbalistique-de-la-rose-croix: -
+ordre-martiniste: wp Ordre martiniste
+oto: wp Ordo Templi Orientis
+rose-croix: wp Rose-Croix
+rose-croix-d-or: en Order of the Golden and Rosy Cross
+rosicrucian-fellowship: wp Rosicrucian Fellowship
+societas-rosicruciana: wp Societas Rosicruciana in Anglia
+societe-anthroposophique: wp Société anthroposophique universelle
+societe-theosophique: wp Société théosophique
+societe-thule: wp Société Thulé
+templiers: wp Ordre du Temple
+aigle-bicephale: wp Aigle à deux têtes
+androgyne: -
+arbre-cosmique: wp Arbre du Monde
+baphomet: wp Baphomet
+caducee: wp Caducée
+colonnes-jakin-et-boaz: wp Jakin et Boaz
+croix-ansee: wp Ânkh
+echelle-de-jacob: wp Échelle de Jacob (Bible)
+emblemes: wp Livre d'emblèmes
+enneagramme: wp Ennéagramme
+fleur-de-vie: wp Fleur de vie
+graal: wp Graal
+hexagramme: wp Étoile de David
+hieroglyphes: wp Écriture hiéroglyphique égyptienne
+la-rose: en Rose symbolism
+labyrinthe: wp Labyrinthe
+lotus: -
+mandala: wp Mandala
+oeil-de-la-providence: wp Œil de la Providence
+oeuf-cosmique: wp Œuf cosmique
+ouroboros: wp Ouroboros
+pelican: -
+pentagramme: wp Pentagramme
+phenix: wp Phénix
+pyramides: wp Pyramidologie
+serpent: wp Serpents dans la mythologie
+sphinx: wp Sphinx
+svastika: wp Svastika
+temple-de-salomon: wp Temple de Salomon
+tetramorphe: wp Tétramorphe
+triskele: wp Triskèle
+vesica-piscis: wp Vesica piscis
+yin-et-yang: wp Yin et yang
+amphitheatrum: ia BIUSante_pharma_res005272 = édition de 1609, avec les planches
+arbatel: wp Arbatel | ia cu31924006718757 = traduction anglaise de Robert Turner (1655), qui contient l’Arbatel
+arcanes-celestes: wp Arcane Cœlestia | ia bub_gb_Aci1CZPKjqUC = traduction de J.-F.-E. Le Boys des Guays, un volume de 1850
+asclepius: wp Hermetica | en Asclepius (treatise) | ws Hermès Trismégiste (trad. Ménard)/Discours d’initiation ou Asclèpios = Asclèpios, traduction de Louis Ménard (1866)
+atalanta-fugiens: wp Atalanta Fugiens (livre) | ia atalantafugiensh00maie = édition originale (1618), avec les gravures
+aurore-naissante: -
+bibliotheque-de-nag-hammadi: wp Bibliothèque de Nag Hammadi | bnf 133198569
+bulle-in-eminenti: wp In eminenti apostolatus specula | ws In eminenti apostolatus specula = le texte et ses traductions | bnf 13514003n
+clavicule-de-salomon: wp Clavicula Salomonis | ia b24884431 = traduction anglaise de Mathers (1889)
+confessio-fraternitatis: en Confessio Fraternitatis
+constitutions-d-anderson: wp Constitutions d'Anderson | bnf 12651382r | ws Constitutions d’Anderson = traduction française, texte intégral
+corpus-hermetique: wp Hermetica | ws Hermès Trismégiste (trad. Ménard) = traduction de Louis Ménard (1866), texte intégral
+de-arte-cabalistica: en De Arte Cabalistica | ia b13135004_0001 = édition originale (1517), en latin
+de-occulta-philosophia: en Three Books of Occult Philosophy | bnf 12399057z | ia DeOccultaPhilosophiaLoc1533 = édition de 1533, en latin
+de-vita: en De vita libri tres | ia ita-bnc-in2-00001718-001 = édition de Florence (1489), en latin
+des-erreurs-et-de-la-verite: ia deserreursetdela00sain = édition originale (1775)
+discours-de-ramsay: wp Discours de Ramsay | ws Discours de Ramsay
+discours-sur-la-dignite-de-l-homme: en Oration on the Dignity of Man
+divulgations-maconniques: -
+doctrine-secrete: wp La Doctrine secrète | bnf 11948793c | ia secretdoctrinesy01blav = The Secret Doctrine, tome I (1888), en anglais
+dogme-et-rituel: en Dogme et Rituel de la Haute Magie | ia b24884340_0001 = tome I, le Dogme (édition de 1861) | ia b24884340_0002 = tome II, le Rituel (édition de 1861)
+fama-fraternitatis: en Fama Fraternitatis | ws Fama Fraternitatis
+grand-albert: wp Grand Albert
+isis-devoilee: en Isis Unveiled | ia cu31924092304587 = Isis Unveiled (1877), en anglais
+kabbala-denudata: ia bub_gb_oDUgg6Xh8LgC = premier volume (1677), en latin
+kybalion: wp Le Kybalion | ia kybalionstudyofh00init = édition originale (1908), en anglais
+la-flute-enchantee: wp La Flûte enchantée | bnf 13915321b
+lemegeton: wp Lemegeton
+les-grands-inities: -
+livre-d-abramelin: wp Le livre d'Abramelin le Mage | ia sacred-magic-abramelin = traduction anglaise de Mathers (1900)
+livre-d-henoch: wp Livre d'Hénoch | ws Livre d’Hénoch = les traductions françaises en ligne
+livre-de-la-loi: wp The Book of the Law
+livre-des-esprits: wp Le Livre des Esprits | ws Le Livre des Esprits | bnf 30010955b
+livre-des-figures-hieroglyphiques: ia b2177772x = Albert Poisson, Nicolas Flamel (1893), qui réimprime le Livre des figures
+manuscrit-regius: wp Anciens devoirs
+masonry-dissected: ia bim_eighteenth-century_masonry-dissected-being_prichard-samuel_1730 = édition originale (1730), en anglais
+matin-des-magiciens: wp Le Matin des magiciens
+monas-hieroglyphica: wp Monas Hieroglyphica | ia monashieroglyphi00deej = édition de Francfort (1591), en latin
+monde-primitif: ia mondeprimitifana08cour = Le Monde primitif, tome VIII (1781), avec l’essai sur le tarot
+mutus-liber: wp Mutus Liber
+mystere-des-cathedrales: -
+noces-chymiques: wp Les Noces chymiques de Christian Rosenkreutz | ws Les Noces chymiques de Christian Rosenkreutz = traduction française, texte intégral
+old-charges: wp Anciens devoirs
+oracles-chaldaiques: wp Oracles chaldaïques
+papyrus-grecs-magiques: wp Papyrus grecs magiques
+petit-albert: wp Petit Albert (grimoire) | ia b33016306 = édition de 1765
+picatrix: wp Picatrix
+pistis-sophia: wp Pistis Sophia | bnf 11984040q | ia pistissophia00mead = traduction anglaise de G. R. S. Mead (1896)
+poimandres: wp Pimandre | ws Hermès Trismégiste (trad. Ménard)/Poimandrès = Poimandrès, traduction de Louis Ménard (1866)
+regne-de-la-quantite: wp Le Règne de la Quantité et les Signes des Temps
+rosaire-des-philosophes: en Rosary of the Philosophers | bnf 13189195c
+secret-des-secrets: wp Secretum secretorum | bnf 11975064r | ia SecretumSecretorumBologna1501 = édition latine de Bologne (1501)
+sefer-ha-bahir: wp Sefer HaBahir | bnf 135053594
+sefer-yetsirah: wp Sefer Yetsirah | ia sepheryetzirahb00rittgoog = traduction anglaise de W. W. Westcott (1893)
+splendor-solis: wp Splendor Solis | ia cu31924012366021 = édition anglaise de 1920, avec les vingt-deux peintures
+steganographia: en Steganographia | ia SteganographiaBSB1608 = édition de 1608, en latin
+table-d-emeraude: wp Table d'émeraude
+tetrabiblos: wp Tetrabiblos | bnf 12008452q | ia ptolemystetrabi00procgoog = traduction anglaise de J. M. Ashmand (1822)
+traite-de-la-reintegration: en Treatise on the Reintegration of Beings
+turba-philosophorum: wp Turba philosophorum | ia alchemyturbaphil00waitrich = traduction anglaise d’A. E. Waite (1896)
+zohar: wp Sefer HaZohar | bnf 120084145
+carl-gustav-jung: wp Carl Gustav Jung | bnf 11909239m
+
+# ── Articles ajoutés en 1.2 ──
+philon-d-alexandrie: wp Philon d'Alexandrie | ws Auteur:Philon d’Alexandrie | bnf 11919600w
+apulee: wp Apulée | ws Auteur:Apulée | bnf 125686918 | ws Les Métamorphoses (Apulée) = Les Métamorphoses, traductions françaises en ligne
+bolos-de-mendes: wp Bolos de Mendès
+al-kindi: wp Al-Kindi | bnf 12109766n
+avicenne: wp Avicenne | ws Auteur:Avicenne | bnf 11889658g
+sohrawardi: wp Shihab al-Din Sohrawardi | bnf 119257352
+joachim-de-flore: wp Joachim de Flore | bnf 12042583n
+jean-de-roquetaillade: wp Jean de Roquetaillade | bnf 12474383w
+pierre-d-abano: wp Pietro d'Abano | bnf 120722556
+gemiste-plethon: wp Gémiste Pléthon | bnf 11904541s
+moise-cordovero: wp Moïse Cordovero | bnf 119904015
+sabbatai-tsevi: wp Sabbataï Tsevi | bnf 11940520p
+jerome-cardan: wp Jérôme Cardan | ws Auteur:Jérôme Cardan | bnf 11895137c
+giambattista-della-porta: wp Giambattista della Porta | ws Auteur:Giambattista della Porta | bnf 12110400x | ia hin-wel-all-00002756-001 = Magie naturelle, en quatre livres (1560), en latin | ia bub_gb_tJjiSRaYziMC = Magie naturelle, en vingt livres (1589), en latin
+tommaso-campanella: wp Tommaso Campanella | ws Auteur:Tommaso Campanella | bnf 11894959n
+jean-wier: wp Jean Wier | bnf 11929170w | ia depraestigiisdae00weye = De praestigiis daemonum, édition originale (1563), en latin
+jean-bodin: wp Jean Bodin | ws Auteur:Jean Bodin | bnf 119999518 | ia delademonomanied00bodi = De la démonomanie des sorciers, édition originale (1580)
+johannes-kepler: wp Johannes Kepler | bnf 11909597m | ia ioanniskepplerih00kepl = L’Harmonie du monde, édition originale (1619), en latin
+jean-baptiste-morin: wp Jean-Baptiste Morin de Villefranche | bnf 11916881j | ia ned-kbn-all-00004541-001 = Astrologia gallica, édition originale (1661), en latin
+jan-baptist-van-helmont: wp Jean-Baptiste Van Helmont | bnf 12432439c
+alexander-seton: wp Le Cosmopolite | bnf 126390457
+jane-lead: wp Jane Leade | bnf 13013349p
+rodolphe-ii: wp Rodolphe II (empereur du Saint-Empire) | bnf 13168504p
+friedrich-christoph-oetinger: wp Friedrich Christoph Oetinger | bnf 12359699q
+johann-kaspar-lavater: wp Johann Kaspar Lavater | ws Auteur:Johann Caspar Lavater | bnf 119114023 | ia essaisurlaphysio01lava = Essai sur la physiognomonie, tome I (1781)
+franz-von-baader: wp Franz Xaver von Baader | bnf 12358341b
+novalis: wp Novalis | ws Auteur:Novalis | bnf 11917917z
+william-blake: wp William Blake | ws Auteur:William Blake | bnf 118922028
+francis-barrett: wp Francis Barrett | ia b22006795 = The Magus, édition originale (1801)
+hoene-wronski: wp Josef Hoëné-Wronski | ws Auteur:Josef Hoëné-Wronski | bnf 12215353m
+soeurs-fox: wp Sœurs Fox
+daniel-dunglas-home: wp Daniel Dunglas Home | bnf 13010768b
+victor-hugo: wp Victor Hugo | ws Auteur:Victor Hugo | bnf 11907966z
+edward-bulwer-lytton: wp Edward Bulwer-Lytton | ws Auteur:Edward Bulwer-Lytton | bnf 11913705f
+joris-karl-huysmans: wp Joris-Karl Huysmans | ws Auteur:Joris-Karl Huysmans | bnf 119081184
+maitre-philippe: wp Nizier Anthelme Philippe | bnf 11919578j
+charles-webster-leadbeater: wp Charles Webster Leadbeater | bnf 11911825v
+william-butler-yeats: wp William Butler Yeats | ws Auteur:William Butler Yeats | bnf 11929497r
+camille-flammarion: wp Camille Flammarion | ws Auteur:Camille Flammarion | bnf 11902882q
+charles-richet: wp Charles Richet | ws Auteur:Charles Robert Richet | bnf 11921904c
+eusapia-palladino: wp Eusapia Palladino | bnf 11984389w
+theodor-reuss: wp Theodor Reuss | bnf 120421768
+guido-von-list: wp Guido von List | bnf 12750012p
+margaret-murray: wp Margaret Alice Murray | bnf 12490128n
+alexandra-david-neel: wp Alexandra David-Néel | bnf 118988042
+edgar-cayce: wp Edgar Cayce | bnf 121701459
+alan-leo: wp Alan Leo | bnf 12067743k
+michel-gauquelin: wp Michel Gauquelin | bnf 11904367x
+henry-corbin: wp Henry Corbin | bnf 11897644h
+maria-de-naglowska: wp Maria de Naglowska | bnf 11917357j
+anton-lavey: wp Anton Szandor LaVey | bnf 145315929
+la-cite-du-soleil: wp La Cité du Soleil | ws La Cité du Soleil | bnf 14402567j
+zanoni: wp Zanoni | ia zanonibyauthorof01lyttuoft = édition originale (1842), tome I, en anglais
+aradia: en Aradia, or the Gospel of the Witches | ia aradiaorgospelof00lela = édition originale (1899), en anglais
+ars-notoria: wp Art notoire
+hassidisme: wp Hassidisme
+hypnose: wp Hypnose
+society-for-psychical-research: wp Society for Psychical Research
+haruspicine: wp Haruspice
+bibliomancie: wp Bibliomancie
+tasseographie: wp Cafédomancie | wp Tasséographie
+main-de-gloire: wp Main de gloire
+arbre-de-diane: wp Arbre de Diane (chimie)

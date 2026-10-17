@@ -3299,6 +3299,566 @@
     "societe-theosophique"
    ],
    "sig": "Emb logo.png||360|74"
+  },
+  "portrait-apulee": {
+   "f": "img/portrait-apulee.webp",
+   "v": "1eeb8b93d2",
+   "w": 360,
+   "h": 353,
+   "l": "Apulée, portrait imaginaire sur un médaillon contorniate",
+   "cr": "médaillon de la seconde moitié du IVe siècle, dessin publié par J. J. Bernoulli",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Apuleius-Kontorniat.jpg",
+   "pour": [
+    "apulee"
+   ],
+   "sig": "Apuleius-Kontorniat.jpg||360|74"
+  },
+  "portrait-philon": {
+   "f": "img/portrait-philon.webp",
+   "v": "04657d22b7",
+   "w": 360,
+   "h": 436,
+   "l": "Philon d’Alexandrie, portrait imaginaire d’André Thevet",
+   "cr": "André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:PhiloThevet.jpg",
+   "pour": [
+    "philon-d-alexandrie"
+   ],
+   "sig": "PhiloThevet.jpg||360|74"
+  },
+  "portrait-porphyre": {
+   "f": "img/portrait-porphyre.webp",
+   "v": "6411e1eee9",
+   "w": 360,
+   "h": 436,
+   "l": "Porphyre, portrait imaginaire d’André Thevet",
+   "cr": "André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+   "pour": [
+    "porphyre"
+   ],
+   "sig": "Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg||360|74"
+  },
+  "portrait-platon": {
+   "f": "img/portrait-platon.webp",
+   "v": "666907d7ce",
+   "w": 360,
+   "h": 546,
+   "l": "Hermès de Platon, copie romaine d’un original grec du IVe siècle av. J.-C.",
+   "cr": "Rome, musées du Vatican, musée Pio-Clementino",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plato_Pio-Clemetino_Inv305.jpg",
+   "pour": [
+    "platon"
+   ],
+   "sig": "Plato Pio-Clemetino Inv305.jpg||360|74"
+  },
+  "portrait-pierre-d-abano": {
+   "f": "img/portrait-pierre-d-abano.webp",
+   "v": "ae82d02e01",
+   "w": 360,
+   "h": 643,
+   "l": "Pierre d’Abano, portrait imaginaire du studiolo d’Urbino",
+   "cr": "Juste de Gand et Pedro Berruguete, vers 1476",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pietro_d%27Abano.jpg",
+   "pour": [
+    "pierre-d-abano"
+   ],
+   "sig": "Pietro d'Abano.jpg||360|74"
+  },
+  "portrait-joachim": {
+   "f": "img/portrait-joachim.webp",
+   "v": "a6880937c6",
+   "w": 360,
+   "h": 398,
+   "l": "Joachim de Flore dans son cabinet d’étude",
+   "cr": "gravure sur bois, 1516",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Joachim_von_Fiore_in_seinem_Studierzimmer,_Holzschnitt_1516.jpg",
+   "pour": [
+    "joachim-de-flore"
+   ],
+   "sig": "Joachim von Fiore in seinem Studierzimmer, Holzschnitt 1516.jpg||360|74"
+  },
+  "portrait-plethon": {
+   "f": "img/portrait-plethon.webp",
+   "v": "64e084ced3",
+   "w": 248,
+   "h": 350,
+   "l": "Gémiste Pléthon, figuré selon la tradition dans le cortège des Mages",
+   "cr": "Benozzo Gozzoli, chapelle des Mages du palais Medici-Riccardi, Florence, vers 1460",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Benozzo_Gozzoli,_Pletone,_Cappella_dei_Magi.jpg",
+   "pour": [
+    "gemiste-plethon"
+   ],
+   "sig": "Benozzo Gozzoli, Pletone, Cappella dei Magi.jpg||360|74"
+  },
+  "portrait-agrippa": {
+   "f": "img/portrait-agrippa.webp",
+   "v": "14b89036c2",
+   "w": 360,
+   "h": 439,
+   "l": "Corneille Agrippa",
+   "cr": "gravure sur bois, XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Agrippa_von_Nettesheim.jpg",
+   "pour": [
+    "cornelius-agrippa"
+   ],
+   "sig": "Agrippa von Nettesheim.jpg||360|74"
+  },
+  "portrait-cardan": {
+   "f": "img/portrait-cardan.webp",
+   "v": "18a724a639",
+   "w": 360,
+   "h": 488,
+   "l": "Jérôme Cardan",
+   "cr": "gravure, XVIe siècle — Library of Congress",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mathematician_Girolamo_Cardano,_half-length_portrait_in_oval,_facing_right,_with_text_below_LCCN92518239.jpg",
+   "pour": [
+    "jerome-cardan"
+   ],
+   "sig": "Mathematician Girolamo Cardano, half-length portrait in oval, facing right, with text below LCCN92518239.jpg|0.31 0.09 0.63 0.41|360|74"
+  },
+  "portrait-della-porta": {
+   "f": "img/portrait-della-porta.webp",
+   "v": "778f82f18a",
+   "w": 360,
+   "h": 438,
+   "l": "Giambattista della Porta",
+   "cr": "gravure, fin du XVIIIe ou début du XIXe siècle — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Portret_van_Giovanni_Battista_della_Porta_Portretten_van_beroemde_Italianen_in_ovalen_(serietitel),_RP-P-1909-4734_(cropped).jpg",
+   "pour": [
+    "giambattista-della-porta"
+   ],
+   "sig": "Portret van Giovanni Battista della Porta Portretten van beroemde Italianen in ovalen (serietitel), RP-P-1909-4734 (cropped).jpg||360|74"
+  },
+  "portrait-campanella": {
+   "f": "img/portrait-campanella.webp",
+   "v": "149e530be7",
+   "w": 360,
+   "h": 495,
+   "l": "Tommaso Campanella",
+   "cr": "Francesco Cozza, XVIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Cozza_Tommaso_Campanella.jpg",
+   "pour": [
+    "tommaso-campanella"
+   ],
+   "sig": "Cozza Tommaso Campanella.jpg||360|74"
+  },
+  "portrait-wier": {
+   "f": "img/portrait-wier.webp",
+   "v": "4b552a2a48",
+   "w": 360,
+   "h": 497,
+   "l": "Jean Wier, à l’âge de soixante ans",
+   "cr": "gravure sur bois de 1577, retouchée",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Johann_Weyer.png",
+   "pour": [
+    "jean-wier"
+   ],
+   "sig": "Johann Weyer.png||360|74"
+  },
+  "portrait-bodin": {
+   "f": "img/portrait-bodin.webp",
+   "v": "c8098aa15d",
+   "w": 360,
+   "h": 453,
+   "l": "Jean Bodin",
+   "cr": "gravure de François Stuerhelt, avant 1620",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean_Bodin.jpg",
+   "pour": [
+    "jean-bodin"
+   ],
+   "sig": "Jean Bodin.jpg||360|74"
+  },
+  "portrait-kepler": {
+   "f": "img/portrait-kepler.webp",
+   "v": "b05712ca18",
+   "w": 360,
+   "h": 517,
+   "l": "Johannes Kepler, d’après un portrait de 1610",
+   "cr": "copie d’August Köhler, 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+   "pour": [
+    "johannes-kepler"
+   ],
+   "sig": "JKepler.jpg||360|74"
+  },
+  "portrait-morin": {
+   "f": "img/portrait-morin.webp",
+   "v": "1919b70d0b",
+   "w": 360,
+   "h": 510,
+   "l": "Jean-Baptiste Morin de Villefranche",
+   "cr": "gravure ancienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Morin_b1583.jpg",
+   "pour": [
+    "jean-baptiste-morin"
+   ],
+   "sig": "Jean-Baptiste Morin b1583.jpg||360|74"
+  },
+  "portrait-rodolphe-ii": {
+   "f": "img/portrait-rodolphe-ii.webp",
+   "v": "00ecd73d47",
+   "w": 360,
+   "h": 468,
+   "l": "L’empereur Rodolphe II",
+   "cr": "Joseph Heintz l’Ancien, 1594",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Joseph_Heintz_d._%C3%84._002.jpg",
+   "pour": [
+    "rodolphe-ii"
+   ],
+   "sig": "Joseph Heintz d. Ä. 002.jpg||360|74"
+  },
+  "portrait-bruno": {
+   "f": "img/portrait-bruno.webp",
+   "v": "9727ca7668",
+   "w": 360,
+   "h": 394,
+   "l": "Giordano Bruno, portrait gravé",
+   "cr": "Caterina Piotti Pirola, 1837",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Giordano_Bruno._Caterina_Piotti-Pirola_sculp.jpg",
+   "pour": [
+    "giordano-bruno"
+   ],
+   "sig": "Giordano Bruno. Caterina Piotti-Pirola sculp.jpg|0.17 0.2 0.83 0.68|360|74"
+  },
+  "portrait-kelley": {
+   "f": "img/portrait-kelley.webp",
+   "v": "046219a54e",
+   "w": 360,
+   "h": 466,
+   "l": "Edward Kelley évoquant l’esprit d’un mort dans un cimetière, selon la légende",
+   "cr": "gravure d’Ames d’après Ebenezer Sibly, 1807",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ebenezer_Sibly_-_Edw%E1%B8%8D_Kelly,_a_Magician._in_the_Act_of_invoking_the_Spirit_of_a_Deceased_Person.jpg",
+   "pour": [
+    "edward-kelley"
+   ],
+   "sig": "Ebenezer Sibly - Edwḍ Kelly, a Magician. in the Act of invoking the Spirit of a Deceased Person.jpg||360|74"
+  },
+  "portrait-oetinger": {
+   "f": "img/portrait-oetinger.webp",
+   "v": "3794bc9a93",
+   "w": 360,
+   "h": 477,
+   "l": "Friedrich Christoph Oetinger",
+   "cr": "Georg Adam Eger, 1775",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:F-c-oetinger-by-eger1775.jpg",
+   "pour": [
+    "friedrich-christoph-oetinger"
+   ],
+   "sig": "F-c-oetinger-by-eger1775.jpg||360|74"
+  },
+  "portrait-lavater": {
+   "f": "img/portrait-lavater.webp",
+   "v": "955a742742",
+   "w": 338,
+   "h": 412,
+   "l": "Johann Kaspar Lavater",
+   "cr": "August Friedrich Oelenhainz, XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Johann_Kaspar_Lavater.jpg",
+   "pour": [
+    "johann-kaspar-lavater"
+   ],
+   "sig": "Johann Kaspar Lavater.jpg||360|74"
+  },
+  "portrait-puysegur": {
+   "f": "img/portrait-puysegur.webp",
+   "v": "ed659db67f",
+   "w": 360,
+   "h": 447,
+   "l": "Le marquis de Puységur",
+   "cr": "école française, XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Armand_de_Chastelet,_marquis_de_Puysegur_(1751-1825).jpg",
+   "pour": [
+    "puysegur"
+   ],
+   "sig": "Armand de Chastelet, marquis de Puysegur (1751-1825).jpg||360|74"
+  },
+  "portrait-preston": {
+   "f": "img/portrait-preston.webp",
+   "v": "538f80c229",
+   "w": 325,
+   "h": 389,
+   "l": "William Preston",
+   "cr": "frontispice de la douzième édition des *Illustrations of Masonry*, 1812",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Preston_1812.jpeg",
+   "pour": [
+    "william-preston"
+   ],
+   "sig": "William Preston 1812.jpeg||360|74"
+  },
+  "portrait-baader": {
+   "f": "img/portrait-baader.webp",
+   "v": "1eff44aba2",
+   "w": 257,
+   "h": 350,
+   "l": "Franz von Baader",
+   "cr": "portrait gravé, XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Franz_Xaver_von_Baader.jpg",
+   "pour": [
+    "franz-von-baader"
+   ],
+   "sig": "Franz Xaver von Baader.jpg||360|74"
+  },
+  "portrait-novalis": {
+   "f": "img/portrait-novalis.webp",
+   "v": "3fc31614fa",
+   "w": 360,
+   "h": 440,
+   "l": "Novalis",
+   "cr": "Franz Gareis, vers 1799",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Novalis-1.jpg",
+   "pour": [
+    "novalis"
+   ],
+   "sig": "Novalis-1.jpg||360|74"
+  },
+  "portrait-blake": {
+   "f": "img/portrait-blake.webp",
+   "v": "b07a6adf91",
+   "w": 360,
+   "h": 462,
+   "l": "William Blake",
+   "cr": "Thomas Phillips, 1807 — Londres, National Portrait Gallery",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Blake_by_Thomas_Phillips.jpg",
+   "pour": [
+    "william-blake"
+   ],
+   "sig": "William Blake by Thomas Phillips.jpg||360|74"
+  },
+  "portrait-barrett": {
+   "f": "img/portrait-barrett.webp",
+   "v": "f364319f58",
+   "w": 360,
+   "h": 469,
+   "l": "Francis Barrett, en frontispice de *The Magus*",
+   "cr": "gravure, 1801",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Francis_Barrett_author_picture.png",
+   "pour": [
+    "francis-barrett"
+   ],
+   "sig": "Francis Barrett author picture.png||360|74"
+  },
+  "portrait-bulwer-lytton": {
+   "f": "img/portrait-bulwer-lytton.webp",
+   "v": "b975952568",
+   "w": 360,
+   "h": 461,
+   "l": "Edward Bulwer-Lytton",
+   "cr": "Henry William Pickersgill, vers 1831",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Edward_George_Earle_Lytton_Bulwer_Lytton,_1st_Baron_Lytton_by_Henry_William_Pickersgill.jpg",
+   "pour": [
+    "edward-bulwer-lytton"
+   ],
+   "sig": "Edward George Earle Lytton Bulwer Lytton, 1st Baron Lytton by Henry William Pickersgill.jpg||360|74"
+  },
+  "portrait-hugo": {
+   "f": "img/portrait-hugo.webp",
+   "v": "d86bf7a23f",
+   "w": 360,
+   "h": 443,
+   "l": "Victor Hugo",
+   "cr": "photographie d’Étienne Carjat, 1876",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+   "pour": [
+    "victor-hugo"
+   ],
+   "sig": "Victor Hugo by Étienne Carjat 1876 - full.jpg||360|74"
+  },
+  "portrait-soeurs-fox": {
+   "f": "img/portrait-soeurs-fox.webp",
+   "v": "87c0acb713",
+   "w": 283,
+   "h": 428,
+   "l": "Les sœurs Fox",
+   "cr": "image du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fox_sisters.jpeg",
+   "pour": [
+    "soeurs-fox"
+   ],
+   "sig": "Fox sisters.jpeg||360|74"
+  },
+  "portrait-home": {
+   "f": "img/portrait-home.webp",
+   "v": "9f58dfd76b",
+   "w": 319,
+   "h": 241,
+   "l": "Daniel Dunglas Home",
+   "cr": "photographie, XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Daniel_Dunglas_Home.jpg",
+   "pour": [
+    "daniel-dunglas-home"
+   ],
+   "sig": "Daniel Dunglas Home.jpg||360|74"
+  },
+  "portrait-huysmans": {
+   "f": "img/portrait-huysmans.webp",
+   "v": "9f2ac5b67a",
+   "w": 360,
+   "h": 269,
+   "l": "Joris-Karl Huysmans",
+   "cr": "photographie de Frédéric Boissonnas et André Taponier, vers 1900",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Huysmans_-_photo_Andr%C3%A9_Taponier.jpg",
+   "pour": [
+    "joris-karl-huysmans"
+   ],
+   "sig": "Huysmans - photo André Taponier.jpg||360|74"
+  },
+  "portrait-taxil": {
+   "f": "img/portrait-taxil.webp",
+   "v": "a899893c5d",
+   "w": 360,
+   "h": 407,
+   "l": "Léo Taxil caricaturé par Henri Demare",
+   "cr": "Henri Demare, 1889",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:L%C3%A9o_Taxil_par_H._Demare.png",
+   "pour": [
+    "leo-taxil"
+   ],
+   "sig": "Léo Taxil par H. Demare.png||360|74"
+  },
+  "portrait-maitre-philippe": {
+   "f": "img/portrait-maitre-philippe.webp",
+   "v": "7441faa559",
+   "w": 300,
+   "h": 437,
+   "l": "Maître Philippe de Lyon",
+   "cr": "photographie, fin du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nizier_Anthelme_Philippe.jpg",
+   "pour": [
+    "maitre-philippe"
+   ],
+   "sig": "Nizier Anthelme Philippe.jpg||360|74"
+  },
+  "portrait-sabbatai": {
+   "f": "img/portrait-sabbatai.webp",
+   "v": "1cf79969b2",
+   "w": 360,
+   "h": 446,
+   "l": "Sabbataï Tsevi, gravure ancienne",
+   "cr": "reproduite dans l’*Encyclopédie juive* de Brockhaus et Efron, vers 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Brockhaus_and_Efron_Jewish_Encyclopedia_e13_783-0.jpg",
+   "pour": [
+    "sabbatai-tsevi"
+   ],
+   "sig": "Brockhaus and Efron Jewish Encyclopedia e13 783-0.jpg||360|74"
+  },
+  "portrait-flammarion": {
+   "f": "img/portrait-flammarion.webp",
+   "v": "2fab7e7ad5",
+   "w": 360,
+   "h": 482,
+   "l": "Camille Flammarion",
+   "cr": "photographie d’Eugène Pirou, 1883",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Camille_Flammarion_by_Eug%C3%A8ne_Pirou.jpg",
+   "pour": [
+    "camille-flammarion"
+   ],
+   "sig": "Camille Flammarion by Eugène Pirou.jpg||360|74"
+  },
+  "portrait-palladino": {
+   "f": "img/portrait-palladino.webp",
+   "v": "832649f819",
+   "w": 360,
+   "h": 480,
+   "l": "Eusapia Palladino",
+   "cr": "photographie de Baldi, 1893",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Eusapia_Palladino.jpg",
+   "pour": [
+    "eusapia-palladino"
+   ],
+   "sig": "Eusapia Palladino.jpg||360|74"
+  },
+  "portrait-richet": {
+   "f": "img/portrait-richet.webp",
+   "v": "9323f8ac4c",
+   "w": 280,
+   "h": 396,
+   "l": "Charles Richet",
+   "cr": "photographie, vers 1913",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Charles_Robert_Richet_nobel.jpg",
+   "pour": [
+    "charles-richet"
+   ],
+   "sig": "Charles Robert Richet nobel.jpg||360|74"
+  },
+  "portrait-cayce": {
+   "f": "img/portrait-cayce.webp",
+   "v": "6596b30b5a",
+   "w": 360,
+   "h": 508,
+   "l": "Edgar Cayce en 1910",
+   "cr": "photographie parue dans le *New York Times*, 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Cayce_1910.jpg",
+   "pour": [
+    "edgar-cayce"
+   ],
+   "sig": "Cayce 1910.jpg||360|74"
+  },
+  "portrait-yeats": {
+   "f": "img/portrait-yeats.webp",
+   "v": "77bf296983",
+   "w": 360,
+   "h": 514,
+   "l": "William Butler Yeats",
+   "cr": "photographie de George Charles Beresford, 1911",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Butler_Yeats_by_George_Charles_Beresford.jpg",
+   "pour": [
+    "william-butler-yeats"
+   ],
+   "sig": "William Butler Yeats by George Charles Beresford.jpg||360|74"
+  },
+  "portrait-yates": {
+   "f": "img/portrait-yates.webp",
+   "v": "982d05964a",
+   "w": 360,
+   "h": 353,
+   "l": "Frances Yates en 1924",
+   "cr": "photographie, 1924",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Frances_Yates_1924.jpg",
+   "pour": [
+    "frances-yates"
+   ],
+   "sig": "Frances Yates 1924.jpg||360|74"
   }
  },
  "planches": {

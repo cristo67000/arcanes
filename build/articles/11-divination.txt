@@ -6,7 +6,7 @@ cat: divination
 nom: Divination
 alias: arts divinatoires, mancie, mancies, devin, devins, présages, oracles
 def: Ensemble des pratiques qui prétendent connaître l'avenir, le caché ou la volonté des dieux en interprétant des signes : astres, cartes, songes, entrailles, tirages au sort.
-texte: Toutes les civilisations ont pratiqué la divination. Les Romains distinguaient la divination « naturelle », par l'inspiration, les transes et les rêves, de la divination « artificielle », par l'interprétation de signes : vol des oiseaux, entrailles des victimes, éclairs. Les noms savants des techniques se forment avec le suffixe grec *-mancie* : [[chiromancie]], [[cartomancie]], [[oniromancie]], [[geomancie]], [[necromancie]].
+texte: Toutes les civilisations ont pratiqué la divination. Les Romains distinguaient la divination « naturelle », par l'inspiration, les transes et les rêves, de la divination « artificielle », par l'interprétation de signes : vol des oiseaux, entrailles des victimes, éclairs. Les noms savants des techniques se forment avec le suffixe grec *-mancie* : [[chiromancie]], [[cartomancie]], [[oniromancie]], [[geomancie]], [[necromancie]]. On consulte aussi des livres ouverts au hasard : c'est la [[bibliomancie]].
 texte: Le christianisme a condamné la divination comme une curiosité coupable ou un commerce avec les démons, sans jamais la faire disparaître. Les historiens y voient un moyen de prendre des décisions et d'apaiser l'incertitude ; les psychologues expliquent sa force persuasive par l'« effet Barnum », la tendance à se reconnaître dans des descriptions vagues. Aucune étude contrôlée n'a montré qu'une méthode divinatoire prévoie l'avenir mieux que le hasard.
 voir: astrologie, tarot, cartomancie, oracle, yi-king, geomancie, voyance
 
@@ -18,7 +18,7 @@ glyphe: pentagramme
 an: 1440
 dates: depuis le XVe siècle
 def: Jeu de soixante-dix-huit cartes, né dans les cours d'Italie du Nord au XVe siècle pour jouer, devenu à partir de la fin du XVIIIe siècle un instrument de divination et un livre de symboles ésotériques.
-texte: Le tarot apparaît vers 1440 à Milan et à Ferrare : on ajoute aux quatre enseignes du jeu de cartes ordinaire (bâtons, coupes, épées, deniers) une série de vingt-deux cartes illustrées, les « triomphes » ou atouts, et une figure supplémentaire par enseigne. Les plus anciens jeux connus, peints pour les ducs de Milan, les Visconti et les Sforza, montrent l'Amour, la Mort, la Roue de Fortune, le Monde. Pendant trois siècles, le tarot n'est qu'un jeu, encore pratiqué en France.
+texte: Le tarot apparaît vers 1440 à Milan et à Ferrare : on ajoute aux quatre enseignes du jeu de cartes ordinaire (bâtons, coupes, épées, deniers) une série de vingt-deux cartes illustrées, les « triomphes » ou atouts, que les occultistes du XIXe siècle appelleront « [[arcane|arcanes]] », et une figure supplémentaire par enseigne. Les plus anciens jeux connus, peints pour les ducs de Milan, les Visconti et les Sforza, montrent l'Amour, la Mort, la Roue de Fortune, le Monde. Pendant trois siècles, le tarot n'est qu'un jeu, encore pratiqué en France.
 texte: En 1781, [[court-de-gebelin]] affirme que le tarot est un livre égyptien de sagesse. [[etteilla]] en fait un jeu divinatoire, [[eliphas-levi]] le relie à la [[kabbale]] et aux lettres hébraïques, et la [[golden-dawn|Golden Dawn]] l'intègre à son système de [[correspondances]]. Le XXe siècle voit naître des centaines de jeux nouveaux, dont le [[tarot-rider-waite|Rider-Waite]] (1909) et le [[tarot-de-thoth|tarot de Thoth]] (1944).
 texte: On distingue les vingt-deux [[arcanes-majeurs|arcanes majeurs]] et les cinquante-six [[arcanes-mineurs|arcanes mineurs]]. Le tirage dispose les cartes selon des schémas, dont la croix celtique, chaque position ayant un sens (passé, obstacle, avenir…).
 schema: arcanes-majeurs
@@ -127,7 +127,7 @@ cat: divination
 nom: Physiognomonie
 alias: physiognomoniste, lecture du visage, métoposcopie, Lavater
 def: Art de connaître le caractère d'une personne d'après les traits de son visage et la forme de son corps, souvent comparés à ceux des animaux.
-texte: Un traité attribué à Aristote affirmait déjà que l'homme au nez de lion est courageux comme le lion. Giambattista Della Porta publie en 1586 une physiognomonie illustrée de comparaisons entre visages humains et têtes d'animaux. Le pasteur suisse Johann Kaspar Lavater en fait au XVIIIe siècle un immense succès européen ; la métoposcopie lit, elle, les rides du front.
+texte: Un traité attribué à Aristote affirmait déjà que l'homme au nez de lion est courageux comme le lion. Giambattista Della Porta publie en 1586 une physiognomonie illustrée de comparaisons entre visages humains et têtes d'animaux. Le pasteur suisse [[johann-kaspar-lavater|Johann Kaspar Lavater]] en fait au XVIIIe siècle un immense succès européen ; la métoposcopie lit, elle, les rides du front.
 texte: Au XIXe siècle, la phrénologie, qui prétend lire les facultés dans les bosses du crâne, et les théories criminologiques de Lombroso en sont les héritières. Ces doctrines, sans fondement scientifique, ont nourri des préjugés et des classements racistes.
 voir: chiromancie, secret-des-secrets, divination
 
@@ -172,7 +172,7 @@ cat: divination
 nom: Augures et haruspices
 alias: augure, auspices, haruspice, haruspicine, extispicine, vol des oiseaux, hépatoscopie
 def: Prêtres de la Rome antique chargés d'interpréter la volonté des dieux, les augures d'après le vol et le chant des oiseaux, les haruspices d'après les entrailles des victimes.
-texte: Les augures, collège romain, observaient le ciel dans un espace découpé, le *templum*, et y lisaient les signes favorables ou défavorables : aucune décision publique ne se prenait sans « prendre les auspices ». Les haruspices, venus d'Étrurie, examinaient le foie des animaux sacrifiés ; un modèle de foie en bronze trouvé à Plaisance porte les noms des dieux qui gouvernent chacune de ses régions, comme une carte du ciel.
+texte: Les augures, collège romain, observaient le ciel dans un espace découpé, le *templum*, et y lisaient les signes favorables ou défavorables : aucune décision publique ne se prenait sans « prendre les auspices ». Les [[haruspicine|haruspices]], venus d'Étrurie, examinaient le foie des animaux sacrifiés ; un modèle de foie en bronze trouvé à Plaisance porte les noms des dieux qui gouvernent chacune de ses régions, comme une carte du ciel.
 texte: Cicéron, lui-même augure, rapporte le mot de Caton, qui s'étonnait que deux haruspices puissent se croiser sans rire. Le mot « inaugurer » vient de cette pratique.
 voir: divination, oracle, microcosme-macrocosme
 
@@ -230,3 +230,49 @@ def: Faculté que s'attribuent certaines personnes de percevoir l'avenir, le pas
 texte: La voyance se pratique sous de nombreuses formes : par les cartes, la boule de cristal, le contact d'un objet appartenant au consultant, ou par une inspiration directe. Les somnambules du [[magnetisme-animal|magnétisme]] passaient pour voir à travers les corps ; les médiums du spiritisme, pour recevoir des messages des morts.
 texte: La [[metapsychique]] a tenté de mesurer ces facultés, sans résultat probant. Les sceptiques décrivent les techniques de « lecture à froid » qui permettent de produire des affirmations justes en apparence à partir d'indices et de généralités. La voyance est aujourd'hui une activité commerciale importante, encadrée dans certains pays.
 voir: divination, metapsychique, medium, cristallomancie, cartomancie
+
+@ haruspicine
+cat: divination
+nom: Haruspicine
+alias: haruspice, haruspices, hépatoscopie, foie de Plaisance, discipline étrusque
+dates: Antiquité
+an: -600
+def: Art divinatoire des Étrusques, repris par Rome, qui lisait la volonté des dieux dans les entrailles, et surtout le foie, des animaux sacrifiés.
+texte: Les haruspices étaient des devins étrusques, spécialistes de la « discipline étrusque », consignée dans des livres sacrés : les livres haruspicaux, sur les entrailles, les livres fulguraux, sur la foudre, et les livres rituels. Après le sacrifice d'un mouton, l'haruspice examinait le foie de l'animal, sa forme, sa couleur, ses anomalies, pour savoir si les dieux approuvaient une entreprise. L'art venait sans doute de Mésopotamie, où l'on a retrouvé des modèles de foie en argile couverts d'inscriptions divinatoires.
+texte: Le célèbre foie de Plaisance, maquette en bronze découverte en 1877 en Émilie et datée du IIe ou du Ier siècle avant notre ère, est divisé en cases portant chacune le nom d'un dieu étrusque : le foie était une image du ciel, et chaque partie de l'organe répondait à une région du cosmos. Ce système de [[correspondances]] entre le microcosme et le macrocosme fait de l'haruspicine l'une des plus anciennes expressions de cette pensée.
+texte: Rome, qui avait ses propres [[augures]], faisait appel aux haruspices étrusques pour les prodiges graves. L'empereur Claude, savant étruscologue, organise leur collège ; selon Suétone, c'est l'haruspice Spurinna qui avertit Jules César de se garder des ides de Mars. Cicéron, dans son traité *De la divination*, se moque pourtant de cette science : deux haruspices, disait Caton, ne pouvaient se croiser sans rire. Les empereurs chrétiens interdisent la pratique à la fin du IVe siècle.
+repere: VIe siècle av. J.-C. — L'haruspicine est pratiquée dans les cités étrusques.
+repere: IIe – Ier siècle av. J.-C. — Fonte du foie de bronze de Plaisance.
+repere: 44 av. J.-C. — L'haruspice Spurinna aurait averti César de se garder des ides de Mars.
+repere: 47 — L'empereur Claude organise le collège des haruspices.
+repere: 1877 — Découverte du foie de Plaisance.
+voir: divination, augures, correspondances, microcosme-macrocosme, oracle
+
+@ bibliomancie
+cat: divination
+nom: Bibliomancie
+alias: sorts virgiliens, sortes Virgilianae, sorts des saints, sortes biblicae, divination par les livres
+dates: Antiquité – aujourd'hui
+def: Divination qui consiste à ouvrir un livre au hasard, le plus souvent un texte sacré ou vénéré, et à lire dans le premier passage rencontré une réponse à sa question.
+texte: Dans l'Antiquité romaine, on consultait les vers de Virgile, et parfois d'Homère, en ouvrant le livre au hasard : ce sont les « sorts virgiliens ». L'*Histoire Auguste* raconte que le jeune Hadrien, inquiet de savoir s'il serait adopté par l'empereur Trajan, tomba sur un passage de l'*Énéide* qui annonçait un roi venu d'ailleurs. Les chrétiens firent de même avec la Bible : ce sont les « sorts des saints ». Dans les *Confessions*, Augustin raconte sa conversion : entendant une voix d'enfant chanter « Prends, lis », il ouvre les épîtres de Paul et y trouve la réponse qu'il cherchait.
+texte: Malgré les condamnations répétées des conciles, qui y voyaient une [[divination]] superstitieuse, la pratique se maintient au Moyen Âge, parfois même lors de l'élection des évêques. Rabelais en fait dans le *Tiers Livre* un épisode savoureux : Panurge, qui se demande s'il doit se marier, consulte les sorts virgiliens, dont chaque vers semble lui promettre un mariage malheureux.
+texte: La bibliomancie a traversé les siècles et les cultures : on consulte de la même manière le Coran, le recueil du poète persan Hafez, encore très pratiqué en Iran, ou le [[yi-king|Yi King]], dont les hexagrammes renvoient à des textes. Elle repose sur l'idée, commune à bien des formes de divination, que le hasard n'existe pas et qu'un livre sacré contient la réponse à toutes les questions.
+repere: IIe siècle — Selon l'*Histoire Auguste*, Hadrien consulte les sorts virgiliens.
+repere: 386 — Augustin se convertit en ouvrant au hasard les épîtres de Paul.
+repere: 506 — Le concile d'Agde condamne les « sorts des saints ».
+repere: 1546 — Rabelais met en scène les sorts virgiliens dans le *Tiers Livre*.
+voir: divination, oracle, yi-king, sibylles
+
+@ tasseographie
+cat: divination
+nom: Tasséographie
+alias: marc de café, lecture du marc de café, feuilles de thé, cafédomancie, tasse
+dates: depuis le XVIIe siècle
+def: Divination qui interprète les figures formées par le marc de café ou les feuilles de thé au fond d'une tasse.
+texte: La lecture du marc de café est née au Proche-Orient, avec le café turc, épais et non filtré, qui laisse au fond de la tasse un dépôt abondant. Après avoir bu, on retourne la tasse sur sa soucoupe et on la laisse refroidir ; le devin lit ensuite les formes dessinées par le marc sur les parois : un oiseau annonce une nouvelle, un poisson une chance, une bague un mariage, un chemin un voyage. La pratique, souvent familiale et féminine, reste très vivante en Turquie, en Grèce, au Liban et dans les Balkans.
+texte: Elle se répand en Europe avec le café au XVIIe et au XVIIIe siècle. À Paris, sous la Révolution et l'Empire, [[mademoiselle-lenormand]] lit aussi bien le marc de café que les cartes. En Grande-Bretagne et en Irlande, où l'on boit du thé, ce sont les feuilles restées au fond de la tasse que l'on interprète, et des manuels illustrés en codifient les symboles au début du XXe siècle.
+texte: Comme les autres arts de la [[voyance]], la tasséographie repose sur l'interprétation de formes vagues, où l'esprit reconnaît ce qu'il cherche ; elle relève aujourd'hui surtout du jeu, de la convivialité et de la tradition.
+repere: XVIe siècle — Le café se répand dans l'Empire ottoman.
+repere: XVIIIe siècle — La lecture du marc de café gagne l'Europe.
+repere: années 1790 — Mademoiselle Lenormand lit le marc de café à Paris.
+voir: divination, voyance, cartomancie, mademoiselle-lenormand

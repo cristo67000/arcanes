@@ -190,8 +190,8 @@ alias: Ordre hermétique de l'Aube dorée, Hermetic Order of the Golden Dawn, Au
 an: 1888
 dates: 1888 – vers 1903 ; ordres dérivés ensuite
 def: Ordre magique fondé à Londres en 1888, qui a réuni en un seul système la kabbale, le tarot, l'astrologie, l'alchimie et la magie cérémonielle, et a façonné tout l'occultisme moderne.
-texte: Fondé par [[william-wynn-westcott]], [[samuel-liddell-mathers]] et William Robert Woodman, membres de la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], l'ordre s'appuie sur un manuscrit chiffré et sur des lettres d'une adepte allemande, probablement inventées. Il organise ses grades sur l'[[arbre-des-sephiroth|arbre des séphiroth]], du Néophyte, à la base, aux grades du Second Ordre, qui s'ouvre en 1892 avec un rituel dans le caveau de [[christian-rosenkreutz]], où l'on pratique la magie.
-texte: La Golden Dawn attire des écrivains et des artistes : le poète W. B. Yeats, l'actrice Florence Farr, les romanciers Arthur Machen et Algernon Blackwood, [[arthur-edward-waite]], [[pamela-colman-smith]] et [[aleister-crowley]]. Les conflits autour de Mathers la font éclater en 1900-1903 en plusieurs ordres, dont la Stella Matutina. Les rituels publiés par [[israel-regardie]] ont permis à son système, du [[rituel-du-pentagramme]] aux [[sentiers|sentiers]] du tarot, de devenir la base de la magie occidentale contemporaine.
+texte: Fondé par [[william-wynn-westcott]], [[samuel-liddell-mathers]] et William Robert Woodman, membres de la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], plusieurs fois conférenciers à la Société hermétique d'[[anna-kingsford|Anna Kingsford]], l'ordre s'appuie sur un manuscrit chiffré et sur des lettres d'une adepte allemande, probablement inventées. Il organise ses grades sur l'[[arbre-des-sephiroth|arbre des séphiroth]], du Néophyte, à la base, aux grades du Second Ordre, qui s'ouvre en 1892 avec un rituel dans le caveau de [[christian-rosenkreutz]], où l'on pratique la magie.
+texte: La Golden Dawn attire des écrivains et des artistes : le poète [[william-butler-yeats|W. B. Yeats]], l'actrice Florence Farr, les romanciers Arthur Machen et Algernon Blackwood, [[arthur-edward-waite]], [[pamela-colman-smith]] et [[aleister-crowley]]. Les conflits autour de Mathers la font éclater en 1900-1903 en plusieurs ordres, dont la Stella Matutina. Les rituels publiés par [[israel-regardie]] ont permis à son système, du [[rituel-du-pentagramme]] aux [[sentiers|sentiers]] du tarot, de devenir la base de la magie occidentale contemporaine.
 schema: arbre-sephiroth
 voir: samuel-liddell-mathers, william-wynn-westcott, kabbale-hermetique, magie-ceremonielle, israel-regardie, a-a
 
@@ -213,7 +213,7 @@ alias: OTO, O.T.O., Ordre du Temple de l'Orient, Messe gnostique
 an: 1906
 dates: depuis le début du XXe siècle
 def: Ordre initiatique fondé en Allemagne au début du XXe siècle par Carl Kellner et Theodor Reuss, que dirigea Aleister Crowley et qui est devenu l'organisation principale de Thelema.
-texte: L'industriel Carl Kellner et l'occultiste Theodor Reuss conçoivent un ordre de hauts grades maçonniques qui transmettrait, dans ses degrés supérieurs, un secret de [[magie-sexuelle]]. [[aleister-crowley]] y entre en 1910, prend la tête de la section britannique et, en 1925, celle de l'ordre entier ; il le refond selon les principes de [[thelema|Thelema]] et lui donne un rite public, la Messe gnostique.
+texte: L'industriel Carl Kellner et l'occultiste [[theodor-reuss|Theodor Reuss]] conçoivent un ordre de hauts grades maçonniques qui transmettrait, dans ses degrés supérieurs, un secret de [[magie-sexuelle]]. [[aleister-crowley]] y entre en 1910, prend la tête de la section britannique et, en 1925, celle de l'ordre entier ; il le refond selon les principes de [[thelema|Thelema]] et lui donne un rite public, la Messe gnostique.
 texte: Presque éteint à la mort de Crowley, l'ordre est relancé aux États-Unis dans les années 1970 et compte aujourd'hui des loges dans de nombreux pays.
 voir: aleister-crowley, thelema, magie-sexuelle, a-a, eglise-gnostique
 
@@ -304,3 +304,22 @@ def: Groupe néo-templier et apocalyptique fondé en 1984, responsable de la mor
 texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
 texte: En octobre 1994, cinquante-trois personnes meurent en Suisse et au Québec, dans des incendies volontaires et des assassinats présentés comme un « transit » vers l'étoile Sirius ; seize autres en 1995 dans le Vercors, cinq en 1997 au Québec. Cette tragédie a profondément marqué la perception des groupes ésotériques et la lutte contre les dérives sectaires en France.
 voir: templiers, rose-croix
+
+@ society-for-psychical-research
+cat: societes
+nom: Society for Psychical Research
+alias: SPR, Société pour la recherche psychique, recherche psychique, Myers, télépathie
+dates: depuis 1882
+an: 1882
+def: Société savante fondée à Londres en 1882 pour étudier scientifiquement les phénomènes dits paranormaux — télépathie, apparitions, médiums —, qui forgea le mot « télépathie » et démasqua de nombreuses fraudes.
+texte: La Society for Psychical Research est fondée à Londres en 1882 par des universitaires de Cambridge, dont le philosophe Henry Sidgwick, son premier président, et les écrivains Frederic Myers et Edmund Gurney. Ils veulent examiner « sans préjugé ni parti pris » les faits allégués par le [[spiritisme]] et le magnétisme, avec les méthodes de la science. Myers forge dès 1882 le mot « télépathie ».
+texte: Ses enquêtes sont considérables. *Les Fantômes des vivants* (1886) rassemblent des centaines de témoignages d'apparitions au moment d'une mort ; un « recensement des hallucinations » interroge dix-sept mille personnes. La Société met aussi à l'épreuve les [[medium|médiums]] et les prodiges : en 1885, le rapport de Richard Hodgson déclare frauduleux les phénomènes de [[helena-blavatsky]], et plusieurs médiums célèbres sont surpris à tricher. D'autres, comme Leonora Piper aux États-Unis ou [[eusapia-palladino]] à Naples, résistent davantage à l'examen.
+texte: Elle a compté parmi ses présidents des philosophes et des savants de premier plan : William James, Henri Bergson, [[charles-richet]], le physicien Oliver Lodge. Une société sœur naît aux États-Unis en 1885. Ses *Proceedings* sont une mine pour l'histoire de la [[metapsychique|métapsychique]] et de la parapsychologie.
+texte: La Society for Psychical Research existe toujours. Son histoire montre à la fois le sérieux avec lequel une partie de l'élite intellectuelle a pris ces questions à la fin du XIXe siècle, et la difficulté d'obtenir, dans ce domaine, des preuves qui résistent à la critique.
+repere: 1882 — Fondation à Londres ; Frederic Myers forge le mot « télépathie ».
+repere: 1885 — Le rapport Hodgson déclare frauduleux les phénomènes de Blavatsky ; fondation d'une société sœur américaine.
+repere: 1886 — *Les Fantômes des vivants*.
+repere: 1905 — Charles Richet préside la Société.
+repere: 1908 — Une enquête à Naples sur Eusapia Palladino conclut à des phénomènes inexpliqués.
+repere: 1913 — Henri Bergson préside la Société.
+voir: metapsychique, spiritisme, medium, helena-blavatsky, charles-richet, eusapia-palladino

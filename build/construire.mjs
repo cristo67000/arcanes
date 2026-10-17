@@ -18,16 +18,23 @@
  *     def: Une phrase.              la définition courte : liste, quiz, cartes
  *     texte: Un paragraphe…         le corps de l'article ; un « texte: » par
  *       suite du paragraphe           paragraphe, autant qu'il en faut
+ *     repere: 1527 — Un fait.       (facultatif) une date de la vie ou de l'histoire,
+ *                                   pour la chronologie « Repères » ; un
+ *                                   « repere: » par date, dans l'ordre
  *     oeuvres: Titre (1614) ; …     (facultatif) œuvres ou éditions principales
  *     attention: …                  (facultatif) « à ne pas confondre »
  *     schema: nom                   (facultatif) une figure de js/figures/*.js
  *     voir: id, id                  articles voisins
  *
- * Dans « def », « texte » et « attention » :
+ * Dans « def », « texte », « repere » et « attention » :
  *
  *     [[id]]           renvoi vers un article, affiché sous le nom de l'article
  *     [[id|texte]]     renvoi affiché sous un autre texte (« [[kabbale|kabbalistes]] »)
  *     *titre*          italique, pour les titres d'œuvres et les mots étrangers
+ *
+ * Les liens vers d'autres sites (« Pour aller plus loin ») ne sont pas dans
+ * les articles mais dans build/liens.txt, une ligne par article : voir l'en-tête
+ * de ce fichier.
  *
  * Le script échoue à la moindre incohérence — identifiant en double, renvoi
  * vers un article qui n'existe pas, italique mal fermée, définition absente :
@@ -88,7 +95,7 @@ function enMinuscule(a) {
     && !/^\p{Lu}{2}/u.test(a.nom);
 }
 
-const CLES = new Set(['cat', 'nom', 'alias', 'dates', 'an', 'glyphe', 'def', 'texte', 'oeuvres',
+const CLES = new Set(['cat', 'nom', 'alias', 'dates', 'an', 'glyphe', 'def', 'texte', 'repere', 'oeuvres',
   'attention', 'schema', 'voir']);
 
 const erreurs = [];
@@ -132,7 +139,7 @@ function lireFichier(fichier, articles) {
     if (ligne.startsWith('@ ')) {
       const id = ligne.slice(2).trim();
       if (!/^[a-z0-9][a-z0-9-]*$/.test(id)) erreur(lieu, 'identifiant invalide « ' + id + ' »');
-      article = { id, cat: null, nom: null, al: [], dates: '', an: null, gl: '', def: '', textes: [],
+      article = { id, cat: null, nom: null, al: [], dates: '', an: null, gl: '', def: '', textes: [], reperes: [],
         oeuvres: '', attention: '', schema: '', voir: [], lieu, fichier: nom };
       articles.push(article);
       champ = null;
@@ -172,6 +179,10 @@ function lireFichier(fichier, articles) {
       case 'texte':
         article.textes.push(valeur);
         champ = { cible: article, cle: 'textes', indice: article.textes.length - 1 };
+        break;
+      case 'repere':
+        article.reperes.push(valeur);
+        champ = { cible: article, cle: 'reperes', indice: article.reperes.length - 1 };
         break;
       case 'oeuvres': article.oeuvres = valeur; champ = { cible: article, cle: 'oeuvres' }; break;
       case 'attention': article.attention = valeur; champ = { cible: article, cle: 'attention' }; break;
@@ -225,6 +236,109 @@ function nu(texte, noms) {
   return texte
     .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (tout, id, libelle) => libelle || noms.get(id) || id)
     .replace(/\*/g, '');
+}
+
+// ── Les repères ─────────────────────────────────────────────────────────────
+
+/* « 1527 — Nommé médecin de la ville de Bâle. » : la date, un tiret cadratin
+ * entouré d'espaces, le fait. La date reste courte (« vers 1460 », « 1608 ou
+ * 1609 », « 205 av. J.-C. ») et les repères vont dans l'ordre : une année qui
+ * recule trahit une faute de frappe. */
+function anneeDe(date) {
+  if (/si[eè]cle/.test(date)) return null;
+  // « 17 janvier 1382 » : l'année est le nombre le plus long, pas le premier
+  const nombres = date.match(/\d{1,4}/g);
+  if (!nombres) return null;
+  const n = nombres.reduce((a, b) => (b.length > a.length ? b : a));
+  return /av\.\s?J\.-C\./.test(date) ? -parseInt(n, 10) : parseInt(n, 10);
+}
+
+function lireReperes(a, lieu, ids, liens) {
+  const sortie = [];
+  let avant = null;
+  for (const r of a.reperes) {
+    const m = /^(.+?) — (.+)$/.exec(r);
+    if (!m) { erreur(lieu, 'repère sans « date — fait » : « ' + r.slice(0, 50) + ' »'); continue; }
+    const [, date, fait] = m;
+    if (date.length > 28) erreur(lieu, 'date de repère trop longue « ' + date + ' »');
+    if (!/\d|si[eè]cle/.test(date)) erreur(lieu, 'date de repère sans année « ' + date + ' »');
+    if (!/[.!?»)]$/.test(fait)) avertir(lieu, 'repère sans point final « ' + fait.slice(-30) + ' »');
+    for (const id of analyser(fait, lieu, ids)) liens.add(id);
+    const an = anneeDe(date);
+    if (an !== null && avant !== null && an < avant) erreur(lieu, 'repères dans le désordre : « ' + date + ' » après ' + avant);
+    if (an !== null) avant = an;
+    sortie.push([typographie(date), typographie(fait)]);
+  }
+  return sortie;
+}
+
+// ── Les liens vers d'autres sites ───────────────────────────────────────────
+
+/* build/liens.txt : « id: lien | lien | … ». Chaque lien est une sorte, une
+ * valeur et, pour certaines sortes, « = libellé ». Le résultat, dans le JSON :
+ * [source, libellé, adresse], dans l'ordre du fichier. */
+const SORTES = {
+  wp: (v) => ['Wikipédia', v, 'https://fr.wikipedia.org/wiki/' + titreUrl(v)],
+  en: (v) => ['Wikipedia (en anglais)', v, 'https://en.wikipedia.org/wiki/' + titreUrl(v)],
+  ws: (v, l) => ['Wikisource', l || (/^Auteur:/.test(v) ? 'les textes de l’auteur' : v + ', texte intégral'),
+    'https://fr.wikisource.org/wiki/' + titreUrl(v)],
+  bnf: (v) => ['BnF', 'notice, œuvres et éditions', 'https://data.bnf.fr/ark:/12148/cb' + v],
+  gallica: (v, l) => ['Gallica (BnF)', l, 'https://gallica.bnf.fr/ark:/12148/' + v],
+  ia: (v, l) => ['Internet Archive', l, 'https://archive.org/details/' + v],
+  url: (v, l) => [new URL(v).hostname.replace(/^www\./, ''), l, v],
+};
+const AVEC_LIBELLE = new Set(['gallica', 'ia', 'url']);
+const VALEURS = {
+  bnf: /^\d{8}[0-9bcdfghjkmnpqrstvwxz]$/,
+  gallica: /^bpt6k[0-9a-z]+(\/f\d+(\.item)?)?$|^btv1b[0-9a-z]+(\/f\d+(\.item)?)?$/,
+  ia: /^[A-Za-z0-9._-]+$/,
+  url: /^https:\/\/[^\s]+$/,
+};
+
+/* Titre de page wiki → chemin d'adresse : espaces en soulignés, le reste
+ * encodé sauf ce que les wikis laissent lisible. */
+function titreUrl(titre) {
+  return encodeURIComponent(titre.replace(/ /g, '_')).replace(/%2F/g, '/').replace(/%3A/g, ':')
+    .replace(/%2C/g, ',').replace(/%28/g, '(').replace(/%29/g, ')');
+}
+
+function lireLiens(ids) {
+  const fichier = path.join(ICI, 'liens.txt');
+  const resultat = new Map();
+  if (!fs.existsSync(fichier)) return resultat;
+  const lignes = fs.readFileSync(fichier, 'utf-8').replace(/\r\n?/g, '\n').split('\n');
+  lignes.forEach((ligne, i) => {
+    const lieu = 'liens.txt:' + (i + 1);
+    if (!ligne.trim() || ligne.startsWith('#')) return;
+    const m = /^([a-z0-9-]+):\s*(.*)$/.exec(ligne);
+    if (!m) { erreur(lieu, 'ligne incomprise « ' + ligne.slice(0, 60) + ' »'); return; }
+    const [, id, reste] = m;
+    if (!ids.has(id)) { erreur(lieu, 'article inexistant « ' + id + ' »'); return; }
+    if (resultat.has(id)) { erreur(lieu, 'deuxième ligne pour « ' + id + ' »'); return; }
+    if (reste.trim() === '-') { resultat.set(id, []); return; }
+    const liste = [];
+    for (const morceau of reste.split(' | ')) {
+      const mm = /^([a-z]+) (.+)$/.exec(morceau.trim());
+      if (!mm || !SORTES[mm[1]]) { erreur(lieu, 'lien incompris « ' + morceau + ' »'); continue; }
+      const [, sorte, brut] = mm;
+      let valeur = brut.trim();
+      let libelle = '';
+      const k = valeur.indexOf(' = ');
+      if (k >= 0 && (AVEC_LIBELLE.has(sorte) || sorte === 'ws')) {
+        libelle = valeur.slice(k + 3).trim();
+        valeur = valeur.slice(0, k).trim();
+      } else if (AVEC_LIBELLE.has(sorte)) {
+        erreur(lieu, 'lien « ' + sorte + ' » sans « = libellé »'); continue;
+      }
+      if (VALEURS[sorte] && !VALEURS[sorte].test(valeur)) { erreur(lieu, 'valeur « ' + sorte + ' » invalide « ' + valeur + ' »'); continue; }
+      const [source, l, adresse] = SORTES[sorte](valeur, typographie(libelle));
+      liste.push([source, l, adresse]);
+    }
+    const adresses = liste.map((x) => x[2]);
+    if (new Set(adresses).size !== adresses.length) erreur(lieu, 'lien en double');
+    resultat.set(id, liste);
+  });
+  return resultat;
 }
 
 // ── Les illustrations ───────────────────────────────────────────────────────
@@ -315,6 +429,7 @@ function main() {
     for (const champ of [a.def, a.attention].concat(a.textes)) {
       for (const id of analyser(champ, lieu, ids)) liens.add(id);
     }
+    a.reperesLus = lireReperes(a, lieu, ids, liens);
     if (liens.has(a.id)) erreur(lieu, 'l’article se cite lui-même');
     for (const v of a.voir) {
       if (!ids.has(v)) erreur(lieu, 'voir : article inexistant « ' + v + ' »');
@@ -334,6 +449,7 @@ function main() {
     if (corps.length < 200) avertir(lieu, 'article court (' + corps.length + ' signes)');
   }
   const illustrations = lireIllustrations(ids);
+  const liensExterieurs = lireLiens(ids);
   for (const p of PORTES) if (!ids.has(p)) erreur('PORTES', 'article inexistant « ' + p + ' »');
   for (const id of NOMS_PROPRES) if (!ids.has(id)) erreur('NOMS_PROPRES', 'article inexistant « ' + id + ' »');
   for (const nomFigure of Object.keys(figures)) {
@@ -360,12 +476,14 @@ function main() {
       if (a.dates) o.da = typographie(a.dates);
       if (a.an !== null) o.an = a.an;
       if (a.gl) o.gl = a.gl;
+      if (a.reperesLus.length) o.re = a.reperesLus;
       if (a.oeuvres) o.oe = a.oeuvres.split(/\s;\s/).map((s) => typographie(s.trim())).filter(Boolean);
       if (a.attention) o.at = typographie(a.attention);
       if (a.schema) o.sc = a.schema;
       if (a.voir.length) o.v = a.voir;
       if (illustrations.parArticle.has(a.id)) o.im = illustrations.parArticle.get(a.id);
       if (illustrations.planches.has(a.id)) o.pl = illustrations.planches.get(a.id);
+      if (liensExterieurs.has(a.id) && liensExterieurs.get(a.id).length) o.li = liensExterieurs.get(a.id);
       if (enMinuscule(a)) o.mn = 1;
       const par = cites.get(a.id);
       if (par && par.size) o.ci = Array.from(par).sort((x, y) => cleTri(noms.get(x)).localeCompare(cleTri(noms.get(y)), 'fr'));
@@ -394,6 +512,9 @@ function main() {
       + articles.filter((a) => a.an !== null).length + ' datés pour la frise, '
       + articles.filter((a) => a.schema).length + ' avec figure (' + figuresUtilisees.size + ' / ' + Object.keys(figures).length + ' figures), '
       + articles.filter((a) => a.gl).length + ' avec glyphe',
+    articles.filter((a) => a.reperesLus.length).length + ' avec des repères (' + articles.reduce((n, a) => n + a.reperesLus.length, 0) + '), '
+      + articles.filter((a) => (liensExterieurs.get(a.id) || []).length).length + ' avec des liens extérieurs ('
+      + Array.from(liensExterieurs.values()).reduce((n, l) => n + l.length, 0) + ')',
     illustrations.nombre + ' illustrations (' + Math.round(illustrations.octets / 1024) + ' Ko) dans '
       + illustrations.parArticle.size + ' articles, ' + illustrations.planches.size + ' planche(s)',
     Buffer.byteLength(json) + ' octets de JSON',
