@@ -240,6 +240,24 @@ mark.trouve { background: var(--surligne); color: inherit; border-radius: 3px; b
   background: var(--carte); border: 1px solid var(--trait); border-top: 4px solid var(--cc, var(--accent));
   border-radius: var(--rayon); box-shadow: var(--ombre); cursor: pointer;
 }
+.carte-installation {
+  margin: .3rem 0 1rem; padding: .85rem 1rem 1rem;
+  background: var(--carte); border: 1px solid var(--trait); border-left: 4px solid var(--accent);
+  border-radius: var(--rayon); box-shadow: var(--ombre);
+}
+.entete-installation { display: flex; align-items: flex-start; gap: .6rem; }
+.entete-installation > div { flex: 1; min-width: 0; }
+.entete-installation p { margin: 0; }
+.carte-installation-titre { font: 600 1.15rem var(--serif); }
+.carte-installation-fermer {
+  flex: none; width: 2.75rem; height: 2.75rem; margin: -.55rem -.65rem 0 0;
+  border: 0; border-radius: 50%; background: none; color: var(--encre-legere); cursor: pointer;
+}
+.carte-installation-fermer:hover { color: var(--accent); }
+.installation { display: grid; gap: .6rem; margin-top: .7rem; }
+.bloc .installation { margin-top: 0; }
+.installation p, .installation .marche-a-suivre { margin: 0; }
+a.bouton-principal { text-align: center; text-decoration: none; }
 .du-jour-haut { display: flex; align-items: flex-start; justify-content: space-between; gap: .8rem; }
 .du-jour-titre { margin: 0; font-size: .72rem; text-transform: uppercase; letter-spacing: .08em; color: var(--cc, var(--accent)); font-weight: 700; }
 .du-jour-mot { margin: .2rem 0 0; font: 600 1.65rem/1.15 var(--serif); }

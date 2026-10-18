@@ -97,6 +97,7 @@
     Quiz.brancher();
     Reglages.brancher({ manifeste: donnees.manifeste });
     Liste.brancher();
+    Installer.brancherAccueil(document.getElementById('carte-installation'));
 
     for (const b of document.querySelectorAll('#onglets button')) {
       b.addEventListener('click', () => {

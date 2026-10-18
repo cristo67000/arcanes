@@ -4,12 +4,30 @@
  *
  * Une application web installable l'est déjà techniquement — le navigateur
  * propose « Ajouter à l'écran d'accueil » quelque part dans son menu. Encore
- * faut-il le savoir. D'où un bouton explicite, dans deux cas :
+ * faut-il le savoir. D'où un bouton explicite, dans les Réglages et sur une
+ * carte de l'accueil des téléphones.
  *
- *   Android, Chrome, Edge   `beforeinstallprompt` est émis ; on le retient et
- *                           on le déclenche au clic.
- *   iOS, Safari             rien ne se déclenche par programme ; on explique
- *                           le geste : Partager, puis « Sur l'écran d'accueil ».
+ * Mais une application web n'a pas de « version d'Android » : c'est le
+ * navigateur qui, au moment de l'installation, fabrique pour elle une petite
+ * application Android (un « WebAPK »). Tout dépend donc du navigateur :
+ *
+ *   Chrome            le WebAPK est fabriqué et signé par Google, pour une
+ *                     version d'Android récente : Play Protect l'accepte.
+ *                     `beforeinstallprompt` est émis ; on le retient et on le
+ *                     déclenche au clic.
+ *   Samsung Internet  le WebAPK est fabriqué par le serveur de Samsung, qui
+ *                     déclare une version d'Android ancienne (targetSdk trop
+ *                     bas) : depuis Android 14, Play Protect le bloque —
+ *                     « Appli non sécurisée bloquée… conçue pour une version
+ *                     plus ancienne d'Android ». Défaut connu, non corrigé par
+ *                     Samsung (SamsungInternet/support, ticket 123, 2026).
+ *   iPhone (Safari)   rien ne se déclenche par programme ; on explique le
+ *                     geste : Partager, puis « Sur l'écran d'accueil ».
+ *
+ * D'où la règle : sur Samsung Internet, on ne déclenche JAMAIS l'installation
+ * du navigateur ; on propose d'ouvrir Arcanes dans Chrome (lien d'intention
+ * Android), ou, à défaut, un simple raccourci sur l'écran d'accueil.
+ * Les autres navigateurs Android gardent leur invite, avec Chrome conseillé.
  *
  * Déjà installée, l'application n'affiche rien de tout cela.
  */
@@ -17,9 +35,15 @@
 
   const { element, bouton } = Outils;
   const ADRESSE = 'https://cristo67000.github.io/arcanes/';
+  const PLAY_CHROME = 'https://play.google.com/store/apps/details?id=com.android.chrome';
+  // La carte de l'accueil, une fois refermée, revient au bout d'un mois.
+  // Préférence de cet appareil seulement : elle n'a pas sa place dans une sauvegarde.
+  const CLE_CARTE = 'arcanes-carte-installation';
+  const UN_MOIS = 30 * 86400000;
 
   let invite = null;
   let ecouteur = null;
+  let carte = null;
 
   function estInstallee() {
     return racine.matchMedia('(display-mode: standalone)').matches
@@ -32,21 +56,72 @@
     return /iPad|iPhone|iPod/.test(ua) || (/Macintosh/.test(ua) && racine.navigator.maxTouchPoints > 1);
   }
 
-  function prevenir() { if (ecouteur) ecouteur(); }
+  /* Le navigateur, pour l'installation : 'chrome', 'samsung', 'android' (un
+   * autre navigateur Android), 'apple' ou 'autre' (ordinateur). */
+  function navigateur() {
+    const ua = racine.navigator.userAgent;
+    if (estApple()) return 'apple';
+    if (!/Android/i.test(ua)) return 'autre';
+    if (/SamsungBrowser/i.test(ua)) return 'samsung';
+    if (/MiuiBrowser|HuaweiBrowser|HeyTapBrowser|OppoBrowser|VivoBrowser|UCBrowser|YaBrowser|OPR\/|Opera|EdgA|Firefox|DuckDuckGo|Brave|; wv\)/i.test(ua)) return 'android';
+    return /Chrome\/\d/.test(ua) ? 'chrome' : 'android';
+  }
+
+  /* Un lien qui rouvre la page dans Chrome (intention Android) ; sans Chrome,
+   * le Play Store propose de l'installer. */
+  function lienChrome() {
+    const schema = racine.location.protocol.replace(':', '');
+    return 'intent://' + racine.location.host + racine.location.pathname
+      + '#Intent;scheme=' + schema + ';package=com.android.chrome;S.browser_fallback_url='
+      + encodeURIComponent(PLAY_CHROME) + ';end';
+  }
+
+  function lien(classe, texte, adresse) {
+    const a = element('a', classe, texte);
+    a.href = adresse;
+    return a;
+  }
+
+  function prevenir() {
+    dessinerCarte();
+    if (ecouteur) ecouteur();
+  }
 
   racine.addEventListener('beforeinstallprompt', (e) => {
     e.preventDefault();
+    // Samsung Internet : son installation est bloquée par Play Protect.
+    if (navigateur() === 'samsung') { invite = null; return; }
     invite = e;
     prevenir();
   });
   racine.addEventListener('appinstalled', () => { invite = null; prevenir(); });
 
-  function dessinerInstallation(bloc, zone) {
-    zone.textContent = '';
-    if (estInstallee()) { bloc.hidden = true; return; }
+  function etapes(liste) {
+    const ol = element('ol', 'marche-a-suivre');
+    for (const t of liste) ol.appendChild(element('li', null, t));
+    return ol;
+  }
+
+  /* Le contenu du bloc d'installation, selon le navigateur. Renvoie null s'il
+   * n'y a rien à proposer. `compact` : pour la carte de l'accueil. */
+  function contenu(compact) {
+    if (estInstallee()) return null;
+    const nav = navigateur();
+    const boite = element('div', 'installation');
+    if (nav === 'samsung') {
+      const p = element('p');
+      p.appendChild(element('strong', null, 'Installez Arcanes avec Chrome.'));
+      p.appendChild(document.createTextNode(' Samsung Internet fabrique une version de l’appli prévue pour un Android ancien, que Google Play Protect bloque (« Appli non sécurisée bloquée »). Celle de Chrome est conforme.'));
+      boite.appendChild(p);
+      boite.appendChild(lien('bouton-principal', 'Ouvrir dans Chrome', lienChrome()));
+      if (!compact) {
+        boite.appendChild(element('p', 'discret', 'Puis, dans Chrome : menu ⋮ › « Ajouter à l’écran d’accueil » › « Installer ».'));
+        boite.appendChild(element('p', 'discret', 'Sans Chrome : menu ≡ de Samsung Internet › « Ajouter la page à » › « Écran d’accueil ». Vous obtenez un simple raccourci, qui ouvre Arcanes dans le navigateur, sans installation ni blocage.'));
+      }
+      return boite;
+    }
     if (invite) {
-      bloc.hidden = false;
-      zone.appendChild(element('p', 'discret', 'Installée, l’application s’ouvre comme les autres depuis l’écran d’accueil et fonctionne sans réseau.'));
+      if (!compact) boite.appendChild(element('p', 'discret', 'Installée, l’application s’ouvre comme les autres depuis l’écran d’accueil et fonctionne sans réseau.'));
       const b = bouton('bouton-principal', 'Installer Arcanes', async () => {
         b.disabled = true;
         try {
@@ -58,19 +133,74 @@
         }
         prevenir();
       });
-      zone.appendChild(b);
-      return;
-    }
-    if (estApple()) {
-      bloc.hidden = false;
-      const marche = element('ol', 'marche-a-suivre');
-      for (const etape of ['Touchez le bouton Partager de Safari (le carré et sa flèche).', 'Choisissez « Sur l’écran d’accueil ».', 'Confirmez avec « Ajouter ».']) {
-        marche.appendChild(element('li', null, etape));
+      boite.appendChild(b);
+      if (nav === 'android' && !compact) {
+        const p = element('p', 'discret', 'Si Google Play Protect bloquait l’installation, ouvrez plutôt Arcanes dans Chrome : ');
+        p.appendChild(lien(null, 'ouvrir dans Chrome', lienChrome()));
+        p.appendChild(document.createTextNode('.'));
+        boite.appendChild(p);
       }
-      zone.appendChild(marche);
-      return;
+      return boite;
     }
-    bloc.hidden = true;
+    if (nav === 'apple') {
+      boite.appendChild(etapes(['Touchez le bouton Partager de Safari (le carré et sa flèche).', 'Choisissez « Sur l’écran d’accueil ».', 'Confirmez avec « Ajouter ».']));
+      return boite;
+    }
+    if (nav === 'chrome') {
+      boite.appendChild(etapes(['Touchez le menu ⋮ de Chrome, en haut à droite.', 'Choisissez « Ajouter à l’écran d’accueil », puis « Installer ».']));
+      return boite;
+    }
+    if (nav === 'android') {
+      boite.appendChild(element('p', null, 'Pour installer Arcanes, Chrome est conseillé : l’application qu’il fabrique est signée par Google et acceptée par Play Protect.'));
+      boite.appendChild(lien('bouton-principal', 'Ouvrir dans Chrome', lienChrome()));
+      return boite;
+    }
+    return null;
+  }
+
+  /* Pour les Réglages : `bloc` est masqué s'il n'y a rien à proposer. */
+  function dessinerInstallation(bloc, zone) {
+    zone.textContent = '';
+    const c = contenu(false);
+    bloc.hidden = !c;
+    if (c) zone.appendChild(c);
+  }
+
+  function carteRefermee() {
+    try {
+      const quand = Number(racine.localStorage.getItem(CLE_CARTE));
+      return quand > 0 && Date.now() - quand < UN_MOIS;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  /* La carte de l'accueil : seulement sur téléphone, refermable. */
+  function dessinerCarte() {
+    if (!carte) return;
+    carte.textContent = '';
+    const c = navigateur() !== 'autre' && !carteRefermee() ? contenu(true) : null;
+    carte.hidden = !c;
+    if (!c) return;
+    const entete = element('div', 'entete-installation');
+    const textes = element('div');
+    textes.appendChild(element('p', 'carte-installation-titre', 'Installer Arcanes'));
+    textes.appendChild(element('p', 'discret', 'Sur l’écran d’accueil, hors ligne, comme une appli.'));
+    entete.appendChild(textes);
+    const fermer = bouton('carte-installation-fermer', '✕', () => {
+      try { racine.localStorage.setItem(CLE_CARTE, String(Date.now())); } catch (e) { /* navigation privée */ }
+      carte.hidden = true;
+      carte.textContent = '';
+    });
+    fermer.setAttribute('aria-label', 'Masquer');
+    entete.appendChild(fermer);
+    carte.appendChild(entete);
+    carte.appendChild(c);
+  }
+
+  function brancherAccueil(conteneur) {
+    carte = conteneur;
+    dessinerCarte();
   }
 
   function dessinerPartage(zone) {
@@ -91,7 +221,7 @@
   }
 
   racine.Installer = {
-    dessinerInstallation, dessinerPartage, estInstallee, estApple, ADRESSE,
+    dessinerInstallation, dessinerPartage, brancherAccueil, estInstallee, estApple, navigateur, lienChrome, ADRESSE,
     surChangement: (f) => { ecouteur = f; },
   };
 
