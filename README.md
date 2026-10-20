@@ -1,6 +1,6 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble près de **sept
+Une application web progressive (PWA), hors ligne, qui rassemble près de **huit
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
 l'Antiquité à nos jours, **textes** (Corpus Hermeticum, Zohar, manifestes
@@ -8,14 +8,26 @@ rose-croix…), **notions**, **alchimie**, **kabbale et nombres**, **astrologie*
 **tarot et divination** (les vingt-deux arcanes majeurs ont chacun leur
 article), **magie**, **ordres et sociétés**, **franc-maçonnerie** (la loge, ses
 officiers et ses usages, les grades, les rites, les obédiences, les figures et
-les textes), **symboles**.
+les textes), **symboles**, et ses **lieux** — de Montségur et Rennes-le-Château
+à Delphes, Éleusis, Glastonbury ou Adyar.
 
-- des **biographies développées** pour près de deux cents figures, chacune
+- des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
-- plus de **deux cent soixante-dix illustrations** du domaine public : les
-  cartes des tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909),
-  des portraits, des gravures alchimiques et maçonniques, des pages de titre ;
-  touchées, elles s'agrandissent et donnent leur source ;
+- une **carte des lieux** (près de cinquante), dessinée par l'application
+  elle-même et donc hors ligne : on la déplace au doigt, on touche un point, on
+  lit l'article ; « **Me situer** », facultatif, range les lieux du plus proche
+  au plus lointain, et « **Itinéraire** » ouvre l'application de cartes du
+  téléphone (Plans, Google Maps, OpenStreetMap) avec la seule destination ;
+  chaque fiche de lieu a son plan de situation et ses coordonnées ;
+- des **extraits d'œuvres** du domaine public sous une trentaine d'articles —
+  Hermès Trismégiste traduit par Ménard, Platon, Apulée, Rabelais, Cazotte,
+  Ramsay, Kardec, Michelet, Baudelaire, Hugo, Nerval, Balzac, Huysmans, Éliphas
+  Lévi, Papus, Péladan, René Guénon… —, avec le lien vers le livre numérisé par
+  **Gallica** quand la BnF le possède ;
+- plus de **trois cents illustrations** du domaine public : les cartes des
+  tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), des
+  portraits, des gravures alchimiques et maçonniques, des photographies
+  anciennes des lieux ; touchées, elles s'agrandissent et donnent leur source ;
 - **« Pour aller plus loin »** : sous la plupart des articles, des liens vers
   Wikipédia, Wikisource, la BnF ou Internet Archive, où lire les textes
   eux-mêmes — ils ne s'ouvrent que si on les touche, et demandent une connexion ;
@@ -34,7 +46,9 @@ les textes), **symboles**.
   empattements ou non ; la sauvegarde dans un fichier.
 
 Rien n'est envoyé nulle part : pas de compte, pas de serveur, pas de mesure
-d'audience, `connect-src 'self'`. Voir `confidentialite.html`.
+d'audience, `connect-src 'self'`. La carte ne charge aucune tuile ; la position,
+si on la demande, reste en mémoire le temps de la visite et ne quitte jamais
+l'appareil. Voir `confidentialite.html`.
 
 ## L'esprit du dictionnaire
 
@@ -43,17 +57,28 @@ Wouter Hanegraaff, Frances Yates…) : ce que ses courants ont cru, écrit et
 pratiqué, sans se prononcer sur la vérité de leurs doctrines. Quand une pratique
 prétend à des effets vérifiables, l'article dit ce qu'en ont conclu les études.
 Les textes sont **originaux** : aucune source tierce n'est recopiée, il n'y a
-donc pas de question de licence. Les dates anciennes sont souvent approximatives
-et le disent (« vers »).
+donc pas de question de licence. Seuls les **extraits**, présentés comme tels,
+sont des citations d'œuvres du domaine public, recopiées des transcriptions de
+Wikisource (ou du Projet Gutenberg) et accompagnées de leur référence. Les dates
+anciennes sont souvent approximatives et le disent (« vers »).
 
 Les liens extérieurs sont rangés à part, dans `build/liens.txt` (une ligne par
 article, le format est en tête du fichier). `node build/verifier_liens.mjs`
 interroge chaque adresse — page manquante, homonymie, redirection, document
 retiré — et échoue au moindre lien mort ; à relancer avant chaque version.
 
+Gallica refuse les robots ; ses cotes (dans les extraits) sont donc vérifiées
+dans le catalogue ouvert de la BnF, data.bnf.fr, qui doit connaître le document
+comme reproduction numérique d'une édition.
+
 Les illustrations viennent de Wikimedia Commons et sont toutes dans le domaine
 public ou sous CC0 : `build/illustrer.py` refuse toute autre licence. Leur
 provenance, leur légende et leur crédit sont dans `build/illustrations.txt`.
+
+Le fond de la carte vient de Natural Earth (domaine public) : `node
+build/fond_de_carte.mjs` télécharge une fois les couches dans
+`build/.sources-carte/` (hors du dépôt), les projette en Mercator, les simplifie
+(finement sur l'Europe et la Méditerranée) et écrit `data/carte.json`.
 
 ## Structure
 
@@ -64,7 +89,9 @@ js/         un module par écran ou par rôle — voir l'en-tête de chacun
 js/glyphes.js   les signes (planètes, zodiaque, éléments) dessinés au trait
 js/figure.js    le moteur des figures ; js/figures/*.js, les 36 figures
 js/illustrations.js  les images, la visionneuse, leur cache hors ligne
-data/       dictionnaire.json, manifeste.json — produits par build/construire.mjs
+js/carte.js     la carte des lieux, le plan de situation des fiches, la position
+data/       dictionnaire.json, manifeste.json — produits par build/construire.mjs ;
+            carte.json, le fond de carte — produit par build/fond_de_carte.mjs
 img/        les illustrations en WebP — produites par build/illustrer.py
 icons/      icônes, image d'aperçu (build/generer-icones.py)
 build/      les sources des articles (articles/*.txt) et les outils
@@ -106,6 +133,9 @@ voir: hermetisme, corpus-hermetique
 `[[id]]` renvoie à un article ; un nom commun s'y écrit en minuscule au milieu
 d'une phrase (règle dans `construire.mjs`, liste des noms propres à garder).
 `schema: arbre-sephiroth/keter` place une figure en mettant un élément en avant.
+Un lieu porte `geo: 42.8756, 1.8322` (d'après Wikidata) et `lieu: Ariège,
+Occitanie, France` ; un extrait s'écrit `extrait: le passage…` suivi de
+`source: Auteur, *Titre*, date, chapitre | gallica bpt6k… | ws Page Wikisource`.
 Les `repere:` s'écrivent « date — fait. », dans l'ordre chronologique : la
 construction le vérifie.
 
@@ -113,9 +143,9 @@ construction le vérifie.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens (1 680)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, repères, liens, révision, hors-ligne (100)
-node build/verifier_liens.mjs      # chaque lien « Pour aller plus loin » répond (en ligne, ~900 adresses)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits (1 886)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, position, extraits, révision, hors-ligne (120)
+node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 050 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
 ```

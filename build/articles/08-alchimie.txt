@@ -32,7 +32,9 @@ alias: pierre des philosophes, lapis philosophorum, la Pierre, poudre de project
 def: Substance que les alchimistes cherchaient à produire, capable de transmuter les métaux vils en or, et souvent aussi de guérir toutes les maladies et de prolonger la vie.
 texte: Malgré son nom, la pierre est généralement décrite comme une poudre, lourde, rouge et brillante, ou comme une « teinture » : il suffirait d'en jeter une petite quantité, enrobée de cire, sur du plomb ou du mercure en fusion pour les changer en or — c'est la [[projection]]. Une pierre « au blanc », moins parfaite, ne donne que de l'argent. Plus la pierre est « multipliée », par répétition des opérations, plus son pouvoir s'accroît.
 texte: La pierre est aussi la « médecine » des métaux et des hommes : la tradition lui attribue le pouvoir de rétablir la santé, d'où l'[[elixir-de-longue-vie|élixir de longue vie]]. Pour les alchimistes chrétiens, comme [[heinrich-khunrath]], le Christ est la vraie pierre ; pour [[carl-gustav-jung]], elle figure le Soi, la totalité de la personne.
-voir: grand-oeuvre, transmutation, projection, elixir-de-longue-vie, chrysopee, rubedo
+extrait: La Pierre Philosophale parfaite est une poudre rouge qui a la propriété de transformer toutes les impuretés de la nature. ¶ On croit généralement qu’elle ne peut servir, d’après les alchimistes, qu’à changer du plomb ou du mercure en or. C’est une erreur. La théorie alchimique dérive de sources bien trop spéculatives pour localiser ainsi ses effets. L’évolution étant une des grandes lois de la nature, ainsi que l’enseignait il y a plusieurs siècles l’hermétisme, la Pierre Philosophale fait évoluer rapidement ce que les formes naturelles mettent de longues années à produire, voilà pourquoi elle agit, disent les adeptes, sur les règnes végétal et animal aussi bien que sur le règne minéral et peut s’appeler médecine des trois règnes.
+source: Papus, *La Pierre philosophale*, 1889, chap. II | gallica bpt6k97563565 | ws La Pierre philosophale/II
+voir: grand-oeuvre, transmutation, projection, elixir-de-longue-vie, chrysopee, rubedo, magistere
 
 @ elixir-de-longue-vie
 cat: alchimie
@@ -59,7 +61,7 @@ alias: chrysopoeia, argyropée, argyropee, fabrication de l'or, Chrysopée de Cl
 def: Art de faire de l'or, et, par extension, la transmutation des métaux en or ; on appelle argyropée la fabrication de l'argent.
 texte: Les deux mots viennent du grec *chrysos*, l'or, et *argyros*, l'argent. La *Chrysopée de Cléopâtre*, feuillet d'un manuscrit grec de l'alchimie antique, porte l'un des plus anciens dessins d'[[ouroboros]], le serpent qui se mord la queue, entouré des mots « Un est le Tout ».
 texte: Les alchimistes plus spirituels méprisaient parfois la chrysopée, recherche de l'or pour lui-même, qu'ils laissaient aux [[souffleur|souffleurs]] ; d'autres la tenaient pour la preuve matérielle de la réussite de l'œuvre.
-voir: transmutation, pierre-philosophale, ouroboros, souffleur
+voir: transmutation, pierre-philosophale, ouroboros, souffleur, porte-alchimique
 
 @ spagyrie
 cat: alchimie

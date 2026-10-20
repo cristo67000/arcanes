@@ -698,3 +698,120 @@ bibliomancie: wp Bibliomancie
 tasseographie: wp Cafédomancie | wp Tasséographie
 main-de-gloire: wp Main de gloire
 arbre-de-diane: wp Arbre de Diane (chimie)
+
+# ── Version 1.3 : les lieux, leurs figures, les nouvelles notions ──────────
+# Titres vérifiés un à un (existence, homonymie, redirection) ; « - » quand
+# aucune page ne traite vraiment du sujet.
+
+montsegur: wp Château de Montségur
+rennes-le-chateau: wp Rennes-le-Château | wp Affaire de Rennes-le-Château
+rennes-les-bains: wp Rennes-les-Bains
+bugarach: wp Pech de Bugarach
+queribus: wp Château de Quéribus
+peyrepertuse: wp Château de Peyrepertuse
+grotte-de-lombrives: wp Grotte de Lombrives
+notre-dame-de-paris: wp Cathédrale Notre-Dame de Paris
+tour-saint-jacques: wp Tour Saint-Jacques
+maison-de-nicolas-flamel: wp Maison de Nicolas Flamel
+cathedrale-de-chartres: wp Cathédrale Notre-Dame de Chartres
+hotel-lallemant: wp Hôtel Lallemant
+croix-d-hendaye: -
+carnac: wp Alignements de Carnac
+gisors: wp Château de Gisors
+chinon: wp Forteresse royale de Chinon
+pere-lachaise: wp Cimetière du Père-Lachaise
+glastonbury: wp Glastonbury Tor | wp Abbaye de Glastonbury
+stonehenge: wp Stonehenge
+chapelle-de-rosslyn: wp Chapelle de Rosslyn
+boleskine-house: en Boleskine House
+abbaye-de-theleme: en Abbey of Thelema
+bomarzo: wp Jardins de Bomarzo
+villa-de-careggi: wp Villa Medicea di Careggi
+porte-alchimique: en Porta Alchemica
+antre-de-la-sibylle: wp Sibylle de Cumes
+quinta-da-regaleira: wp Palais de la Regaleira | wp Puits initiatique du palais de la Regaleira
+couvent-du-christ: wp Couvent de l'ordre du Christ
+montserrat: wp Abbaye de Montserrat
+externsteine: wp Externsteine
+wewelsburg: wp Wewelsburg
+chateau-de-prague: wp Château de Prague | wp Ruelle d'Or
+chateau-de-heidelberg: wp Château de Heidelberg
+goetheanum: wp Goetheanum
+monte-verita: wp Monte Verità | wp Cercle Eranos
+delphes: wp Delphes | wp Temple d'Apollon (Delphes)
+eleusis: wp Mystères d'Éleusis | wp Sanctuaire d'Éleusis
+samothrace: wp Sanctuaire des Grands Dieux de Samothrace
+alexandrie: wp Alexandrie | wp Bibliothèque d'Alexandrie
+hermopolis: wp Hermopolis Magna
+gizeh: wp Nécropole de Gizeh
+dendera: wp Zodiaque de Dendérah | wp Temple d'Hathor (Dendérah)
+harran: wp Harran
+adyar: en Theosophical Society Adyar
+salem: wp Procès des sorcières de Salem
+saint-jacques-de-compostelle: wp Cathédrale de Saint-Jacques-de-Compostelle
+broceliande: wp Brocéliande | wp Fontaine de Barenton
+otto-rahn: wp Otto Rahn | bnf 11921036h
+antonin-gadal: wp Antonin Gadal
+deodat-roche: wp Déodat Roché
+napoleon-peyrat: wp Napoléon Peyrat | ws Auteur:Napoléon Peyrat | bnf 12510842n
+esclarmonde-de-foix: wp Esclarmonde de Foix (dame de L'Isle-Jourdain)
+guilhabert-de-castres: wp Guilhabert de Castres
+maurice-magre: wp Maurice Magre
+berenger-sauniere: wp Bérenger Saunière
+henri-boudet: wp Henri Boudet | ws Auteur:Henri Boudet | bnf 11893191p
+pierre-plantard: wp Pierre Plantard
+gerard-de-sede: wp Gérard de Sède
+wolfram-von-eschenbach: wp Wolfram von Eschenbach
+chretien-de-troyes: wp Chrétien de Troyes | ws Auteur:Chrétien de Troyes
+hugues-de-payns: wp Hugues de Payns
+jacques-de-molay: wp Jacques de Molay
+bernard-de-clairvaux: wp Bernard de Clairvaux | ws Auteur:Bernard de Clairvaux
+francois-rabelais: wp François Rabelais | ws Auteur:François Rabelais | bnf 11920939s
+gerard-de-nerval: wp Gérard de Nerval | ws Auteur:Gérard de Nerval | bnf 11887103b
+karl-maria-wiligut: wp Karl Maria Wiligut
+jorg-lanz-von-liebenfels: wp Jörg Lanz von Liebenfels
+rudolf-von-sebottendorf: wp Rudolf von Sebottendorf
+joseph-antoine-boullan: wp Joseph-Antoine Boullan
+albert-poisson: wp Albert Poisson
+grillot-de-givry: wp Émile-Jules Grillot de Givry
+louis-pauwels: wp Louis Pauwels
+jacques-bergier: wp Jacques Bergier
+hierophante: wp Hiérophante
+mystagogue: wp Mystagogie
+mystes-et-epoptes: wp Mystères d'Éleusis
+neophyte: -
+adepte: wp Adepte
+thaumaturge: wp Thaumaturgie
+parfaits: wp Femmes cathares
+consolamentum: wp Consolamentum
+dualisme: wp Dualisme (religion)
+langue-des-oiseaux: wp Langue des oiseaux
+art-royal: -
+magistere: -
+palingenesie: wp Palingénésie
+apocatastase: wp Apocatastase
+anamnese: wp Réminiscence (philosophie)
+pneuma: wp Pneuma
+syzygie: wp Syzygie (ésotérisme)
+hierogamie: wp Hiérogamie
+omphalos: wp Omphalos
+archetype: wp Archétype (psychologie analytique)
+synchronicite: wp Synchronicité
+psychopompe: wp Psychopompe
+extase: wp Extase
+telepathie: wp Télépathie
+poltergeist: wp Poltergeist
+mantra: wp Mantra
+vril: wp Société du Vril
+incube-et-succube: wp Incube | wp Succube
+soleil-noir: wp Soleil noir (symbole nazi)
+abraxas: en Abraxas
+prieure-de-sion: wp Prieuré de Sion
+ahnenerbe: wp Ahnenerbe
+croisade-contre-le-graal: -
+la-vraie-langue-celtique: -
+parzival: wp Parzival
+conte-du-graal: wp Perceval ou le Conte du Graal
+le-roi-du-monde: wp Le Roi du monde
+les-demeures-philosophales: -
+dossiers-secrets: wp Dossiers secrets d'Henri Lobineau

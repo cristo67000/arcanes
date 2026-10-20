@@ -13,7 +13,8 @@
  *   id, c (catégorie), n (vedette), d (définition courte), t (paragraphes),
  *   al (autres noms), da (dates à afficher), an (année pour la frise),
  *   gl (signe), oe (œuvres), at (« à ne pas confondre »), sc (figure),
- *   v (voir aussi), ci (articles qui le citent)
+ *   v (voir aussi), ci (articles qui le citent), g ([latitude, longitude]),
+ *   lo (où est le lieu), ex (extraits : [paragraphes, référence, liens])
  *
  * Les textes portent deux balises : [[id]] ou [[id|libellé]] pour un renvoi,
  * *mots* pour l'italique. `rendu.js` les met en forme ; `nu()` les retire.
@@ -77,7 +78,8 @@
     a.cleTri = sansArticle(a.cle);
     a.cles = cles;
     a.defNue = nu(a.d);
-    a.texte = normaliser(a.defNue + ' ' + (a.t || []).map(nu).join(' ') + ' ' + (a.re || []).map((r) => nu(r[1])).join(' '));
+    a.texte = normaliser(a.defNue + ' ' + (a.t || []).map(nu).join(' ') + ' ' + (a.re || []).map((r) => nu(r[1])).join(' ')
+      + ' ' + (a.lo || '') + ' ' + (a.ex || []).map((x) => nu(x[0].join(' '))).join(' '));
     const premiere = a.cleTri.charAt(0).toUpperCase();
     a.lettre = /[A-Z]/.test(premiere) ? premiere : '#';
     return a;

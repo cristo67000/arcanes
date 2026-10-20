@@ -3,7 +3,7 @@
  * Service worker.
  *
  * Tout ce qu'il faut à l'application — pages, feuilles de style, scripts,
- * figures, icônes et le dictionnaire lui-même (huit cents Ko) — est rangé d'un
+ * figures, icônes, le dictionnaire lui-même et le fond de la carte — est rangé d'un
  * seul bloc, dans un cache propre à la version : « cache d'abord », et hors
  * ligne dès le premier lancement. Les illustrations (une dizaine de Mo) ont
  * leur cache à part, qui survit aux versions : voir plus bas.
@@ -17,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.2.1';
+const VERSION = 'v1.3.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -44,6 +44,7 @@ const FICHIERS = [
   'js/illustrations.js',
   'js/voix.js',
   'js/editeur.js',
+  'js/carte.js',
   'js/fiche.js',
   'js/liste.js',
   'js/frise.js',
@@ -61,6 +62,7 @@ const FICHIERS = [
   'icons/icon-maskable-512.png',
   'data/manifeste.json',
   'data/dictionnaire.json',
+  'data/carte.json',
 ];
 
 /* La marque des requêtes d'installation : `cache: 'reload'` court-circuite le

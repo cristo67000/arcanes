@@ -8,6 +8,10 @@
  * Wikisource, on interroge plutôt l'API du wiki : la page existe, n'est pas
  * une page d'homonymie, et le titre demandé est bien le titre final (une
  * redirection silencieuse vers un autre sujet passerait sinon inaperçue).
+ * Gallica refuse les robots (une page de vérification s'interpose) : ses
+ * cotes sont vérifiées dans le catalogue de la BnF, data.bnf.fr, qui doit
+ * connaître le document comme reproduction numérique d'une édition.
+ * Les liens des extraits (la source du passage cité) sont vérifiés aussi.
  * Rien n'est modifié : le script rend un rapport et un code de sortie.
  */
 import fs from 'node:fs';
@@ -21,9 +25,10 @@ const filtre = process.argv[2] || null;
 const dico = JSON.parse(fs.readFileSync(path.join(RACINE, 'data', 'dictionnaire.json'), 'utf-8'));
 const parAdresse = new Map();
 for (const a of dico.articles) {
-  for (const [, , adresse] of a.li || []) {
+  const liens = (a.li || []).concat(...(a.ex || []).map((x) => x[2]));
+  for (const [, , adresse] of liens) {
     if (!parAdresse.has(adresse)) parAdresse.set(adresse, []);
-    parAdresse.get(adresse).push(a.id);
+    if (!parAdresse.get(adresse).includes(a.id)) parAdresse.get(adresse).push(a.id);
   }
 }
 
@@ -81,6 +86,31 @@ async function verifierWiki(hote, adresses) {
   return echecs;
 }
 
+/* Gallica : la cote, sans la page (« /f12.item »), doit figurer dans
+ * data.bnf.fr comme reproduction numérique d'une édition. */
+async function verifierGallica(adresses) {
+  const echecs = [];
+  for (const u of adresses) {
+    const ark = /ark:\/12148\/([0-9a-z]+)/.exec(u)[1];
+    const requete = 'PREFIX rdarelationships: <http://rdvocab.info/RDARelationshipsWEMI/> '
+      + 'ASK { { ?m rdarelationships:electronicReproduction <https://gallica.bnf.fr/ark:/12148/' + ark + '> } UNION '
+      + '{ ?m rdarelationships:electronicReproduction <http://gallica.bnf.fr/ark:/12148/' + ark + '> } }';
+    try {
+      const r = await fetch('https://data.bnf.fr/sparql', {
+        method: 'POST',
+        headers: { 'User-Agent': AGENT, 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({ query: requete, format: 'application/sparql-results+json' }),
+      });
+      const d = await r.json();
+      if (!d.boolean) echecs.push([u, 'inconnu de data.bnf.fr']);
+    } catch (e) {
+      echecs.push([u, String(e.message || e)]);
+    }
+    await attendre(300);
+  }
+  return echecs;
+}
+
 async function verifierAutres(adresses) {
   const echecs = [];
   let suivant = 0;
@@ -119,7 +149,8 @@ for (const [s, adresses] of groupes) {
   const e = s === 'wp' ? await verifierWiki('fr.wikipedia.org', adresses)
     : s === 'en' ? await verifierWiki('en.wikipedia.org', adresses)
       : s === 'ws' ? await verifierWiki('fr.wikisource.org', adresses)
-        : await verifierAutres(adresses);
+        : s === 'gallica' ? await verifierGallica(adresses)
+          : await verifierAutres(adresses);
   console.log(e.length ? e.length + ' échec(s)' : 'toutes bonnes');
   echecs.push(...e);
 }

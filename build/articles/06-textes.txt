@@ -10,6 +10,8 @@ dates: IIe – IIIe siècles ; traduit par Ficin en 1463
 def: Recueil de dix-sept traités grecs attribués à Hermès Trismégiste, composés dans l'Égypte romaine, qui enseignent la connaissance de Dieu, du monde et de l'homme.
 texte: Ces traités, de longueur et d'inspiration variées, se présentent comme des dialogues entre [[hermes-trismegiste|Hermès]] et ses disciples, Tat, Asclépius ou Ammon. Ils ont été réunis par des copistes byzantins, peut-être au XIe siècle. Le premier, le *[[poimandres|Poimandrès]]*, raconte la création du monde et la chute de l'homme ; d'autres enseignent que Dieu est bon, que le monde est son image et que l'homme peut devenir divin par la connaissance, ou décrivent une renaissance spirituelle.
 texte: En 1462, un moine rapporte de Macédoine un manuscrit à Florence ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
+extrait: Et voilà pourquoi, seul de tous les êtres qui vivent sur la terre, l’homme est double, mortel par le corps, immortel par sa propre essence. Immortel et souverain de toutes choses, il est soumis à la destinée qui régit ce qui est mortel ; supérieur à l’harmonie du monde, il est captif dans ses liens ; mâle et femelle comme son père et supérieur au sommeil, il est dominé par le sommeil.
+source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
 voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose
 
 @ poimandres
@@ -20,6 +22,8 @@ an: 150
 def: Premier traité du Corpus Hermeticum, récit d'une révélation où l'Intellect divin montre à Hermès la création du monde, la chute de l'homme et le chemin de sa remontée.
 texte: Le narrateur, plongé dans une méditation, voit apparaître un être immense, Poimandrès, l'Intellect souverain, qui lui fait voir l'origine de toutes choses : une lumière, puis une obscurité humide, d'où naît le monde ordonné. L'Homme primordial, créé à l'image de Dieu, se penche à travers les sphères des planètes, voit son reflet dans la Nature, s'en éprend et s'unit à elle : il devient double, immortel par l'esprit, mortel par le corps.
 texte: À la mort, l'âme remonte à travers les sept sphères en rendant à chacune le vice qu'elle en avait reçu, jusqu'à se fondre en Dieu. Ce récit, proche des cosmogonies [[gnosticisme|gnostiques]] et de la Genèse, est l'un des textes fondateurs de l'[[hermetisme]].
+extrait: Je réfléchissais un jour sur les êtres ; ma pensée planait dans les hauteurs, et toutes mes sensations corporelles étaient engourdies comme dans le lourd sommeil qui suit la satiété, les excès ou la fatigue. Il me sembla qu’un être immense, sans limites déterminées, m’appelait par mon nom et me disait : Que veux-tu entendre et voir, que veux-tu apprendre et connaître ? — Qui donc es-tu, répondis-je ? — Je suis, dit-il, Poimandrès (le pasteur de l’homme), l’intelligence souveraine. Je sais ce que tu désires, et partout je suis avec toi.
+source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
 voir: corpus-hermetique, hermetisme, gnose, adam-kadmon, microcosme-macrocosme
 
 @ asclepius
@@ -30,6 +34,8 @@ an: 250
 def: Traité hermétique connu en latin pendant tout le Moyen Âge, qui célèbre la grandeur de l'homme et décrit comment les prêtres égyptiens animaient les statues des dieux.
 texte: L'original grec, intitulé *Discours parfait*, est perdu ; il en reste une traduction latine ancienne, longtemps attribuée à [[apulee|Apulée]], et un fragment copte trouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]]. Hermès y enseigne à son disciple Asclépius que l'homme est « un grand miracle », intermédiaire entre les dieux et le monde.
 texte: Deux passages ont frappé les lecteurs : celui où les Égyptiens attirent par des rites les esprits divins dans leurs statues, qui deviennent vivantes et prophétisent — saint Augustin le condamne comme idolâtrie, les magiciens de la Renaissance y voient le modèle des [[talisman|talismans]] — et la « lamentation » qui annonce l'abandon de l'Égypte par les dieux.
+extrait: Ignores-tu, ô Asclèpios, que l’Égypte est l’image du ciel, ou plutôt, qu’elle est la projection ici-bas de toute l’ordonnance des choses célestes ? S’il faut dire la vérité, notre terre est le temple du monde. (…) Alors, cette terre sanctifiée par tant de chapelles et de temples sera couverte de tombeaux et de morts. Égypte, Égypte ! il ne restera de tes religions que de vagues récits que la postérité ne croira plus, des mots gravés sur la pierre et racontant la piété.
+source: Hermès Trismégiste, *Discours d’initiation ou Asclèpios*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Discours d’initiation ou Asclèpios
 voir: corpus-hermetique, hermetisme, talisman, egyptosophie
 
 @ table-d-emeraude
@@ -195,7 +201,7 @@ an: 1608
 def: Grimoire présenté comme la transmission, par un juif de Worms au XVe siècle, de la magie du sage égyptien Abramelin, dont le but est d'entrer en relation avec son saint ange gardien.
 texte: Le livre raconte qu'Abraham de Worms, après de longs voyages, reçut d'un sage nommé Abramelin une méthode qu'il transmet à son fils. Les manuscrits allemands les plus anciens datent du début du XVIIe siècle. La méthode exige une retraite de six mois (dix-huit dans la version allemande) de prière et de purification croissantes, au terme de laquelle apparaît l'[[ange-gardien|ange gardien]] ; le magicien peut ensuite commander les démons grâce à des carrés de lettres.
 texte: [[samuel-liddell-mathers]] traduit en 1898 un manuscrit français de la bibliothèque de l'Arsenal. [[aleister-crowley]] achète en Écosse le manoir de Boleskine pour y accomplir l'opération, qu'il n'achève pas, et l'« obtention de la connaissance et de la conversation du saint ange gardien » devient le cœur de la magie thélémite.
-voir: ange-gardien, grimoire, carre-magique, magie-ceremonielle, samuel-liddell-mathers
+voir: ange-gardien, grimoire, carre-magique, magie-ceremonielle, samuel-liddell-mathers, boleskine-house
 
 @ arbatel
 cat: textes
@@ -316,7 +322,7 @@ an: 1614
 def: Premier manifeste de la Rose-Croix, publié à Cassel en 1614, qui révèle l'existence d'une fraternité secrète fondée par Christian Rosenkreutz et appelle à une réforme générale du savoir.
 texte: Après avoir circulé en manuscrit, la *Fama Fraternitatis* paraît en allemand en 1614. Elle raconte la vie de [[christian-rosenkreutz]], la fondation de sa fraternité de médecins et la découverte, en 1604, de son tombeau. Elle invite les savants d'Europe à se faire connaître, en annonçant une nouvelle ère de connaissance de la nature et de Dieu, contre le pape et l'astrologie des charlatans.
 texte: Le manifeste déclenche une véritable fièvre : des centaines d'écrits répondent, demandent à entrer dans la fraternité, la défendent ou la dénoncent. Personne ne semble pourtant l'avoir jamais rencontrée.
-voir: rose-croix, christian-rosenkreutz, confessio-fraternitatis, noces-chymiques, johann-valentin-andreae
+voir: rose-croix, christian-rosenkreutz, confessio-fraternitatis, noces-chymiques, johann-valentin-andreae, chateau-de-heidelberg
 
 @ confessio-fraternitatis
 cat: textes
@@ -456,6 +462,8 @@ an: 1857
 def: Ouvrage d'Allan Kardec publié en 1857, fondement de la doctrine spirite, rédigé sous forme de questions posées aux esprits et de leurs réponses.
 texte: La première édition comprend plus de cinq cents questions ; la deuxième, de 1860, plus de mille. Elles portent sur Dieu, la création, l'âme, la vie après la mort, la [[reincarnation]], les relations des esprits avec les vivants, la morale et l'avenir de l'humanité. [[allan-kardec|Kardec]] présente les réponses comme recueillies par plusieurs [[medium|médiums]] et vérifiées par recoupement.
 texte: Plusieurs fois réédité chaque année au XIXe siècle, le livre a fait du [[spiritisme]] une doctrine organisée.
+extrait: 1. Qu’est-ce que Dieu ? ¶ « Dieu est l’intelligence suprême, cause première de toutes choses. » ¶ 2. Que doit-on entendre par l’infini ? ¶ « Ce qui n’a ni commencement ni fin : l’inconnu ; tout ce qui est inconnu est infini. » ¶ 3. Pourrait-on dire que Dieu c’est l’infini ? ¶ « Définition incomplète. Pauvreté de la langue des hommes qui est insuffisante pour définir les choses qui sont au-dessus de leur intelligence. »
+source: Allan Kardec, *Le Livre des Esprits*, 2e édition, 1860, livre I, chap. I | gallica bpt6k322467k = l’édition de 1862 numérisée | ws Le Livre des Esprits/Livre premier/Chapitre I
 voir: allan-kardec, spiritisme, medium, perisprit
 
 @ isis-devoilee
@@ -514,9 +522,9 @@ nom: Le Mystère des cathédrales
 alias: Mystère des cathédrales
 an: 1926
 def: Livre de l'alchimiste anonyme Fulcanelli, publié en 1926, qui interprète les sculptures des cathédrales gothiques comme un livre de pierre de l'alchimie.
-texte: [[fulcanelli]] y décrit le portail central de Notre-Dame de Paris, dont les médaillons montreraient les opérations de l'œuvre, celui d'Amiens, la croix d'Hendaye et quelques maisons de Bourges. Il joue sur l'argot des bâtisseurs et la « langue des oiseaux », une lecture des mots par leurs sonorités : « gothique » viendrait de l'« art goth », l'argot.
+texte: [[fulcanelli]] y décrit le portail central de [[notre-dame-de-paris|Notre-Dame de Paris]], dont les médaillons montreraient les opérations de l'œuvre, celui d'Amiens, l'[[hotel-lallemant|hôtel Lallemant]] de Bourges et, dans la réédition de 1957, la [[croix-d-hendaye|croix d'Hendaye]]. Il joue sur l'argot des bâtisseurs et la « [[langue-des-oiseaux|langue des oiseaux]] », une lecture des mots par leurs sonorités : « gothique » viendrait de l'« art goth », l'argot.
 texte: Les historiens de l'art ne retiennent pas ses interprétations, mais le livre a connu un succès durable et profondément marqué la vision populaire des cathédrales comme lieux de savoirs cachés.
-voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre
+voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre, les-demeures-philosophales, notre-dame-de-paris
 
 @ regne-de-la-quantite
 cat: textes
@@ -536,7 +544,7 @@ an: 1960
 def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle science, ésotérisme et histoire secrète, et lança en France la vogue du « réalisme fantastique ».
 texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
 texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
-voir: fulcanelli, societe-thule, alchimie, ariosophie
+voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril
 
 # ── Textes ajoutés en 1.2 ───────────────────────────────────────────────────
 

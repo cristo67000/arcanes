@@ -2,9 +2,11 @@
 /*
  * La fiche d'un article : ce qu'on voit en touchant une entrée.
  *
- * De haut en bas : la catégorie, la vedette, les dates, le signe ; la
- * définition ; les illustrations ; le corps de l'article, où chaque renvoi
- * ouvre l'article cité, avec sa figure et sa planche ; les repères ; les œuvres ; la mise en garde ;
+ * De haut en bas : la catégorie, la vedette, les dates ou le lieu, le signe ;
+ * la définition ; les illustrations ; pour un lieu, son plan de situation et
+ * l'itinéraire ; le corps de l'article, où chaque renvoi ouvre l'article cité,
+ * avec sa figure et sa planche ; les extraits d'œuvres ; les repères ; les
+ * œuvres ; la mise en garde ;
  * « voir aussi » et « cité dans » ; les liens vers d'autres sites ;
  * les notes de la personne ; enfin l'article précédent et le suivant dans
  * l'ordre alphabétique, pour feuilleter.
@@ -230,6 +232,36 @@
     return bloc;
   }
 
+  /* Les extraits : des passages d'œuvres du domaine public, recopiés tels
+   * quels, avec leur source et le lien vers le livre numérisé. */
+  function blocExtraits(a, surligne) {
+    if (!a.ex || !a.ex.length) return null;
+    const bloc = element('section', 'extraits');
+    bloc.appendChild(element('h3', 'rubrique', a.ex.length > 1 ? 'Extraits' : 'Extrait'));
+    for (const [paragraphes, reference, liens] of a.ex) {
+      const fig = element('figure', 'extrait');
+      const citation = element('blockquote', 'extrait-texte');
+      for (const p of paragraphes) citation.appendChild(Rendu.paragraphe(p, null, surligne));
+      fig.appendChild(citation);
+      const legende = element('figcaption', 'extrait-source');
+      legende.appendChild(Rendu.fragment(reference));
+      const rang = element('span', 'extrait-liens');
+      for (const [source, libelle, adresse] of liens) {
+        const lien = element('a', 'extrait-lien', source + ' ↗');
+        lien.href = adresse;
+        lien.target = '_blank';
+        lien.rel = 'noopener noreferrer';
+        lien.title = libelle;
+        lien.setAttribute('aria-label', source + ' : ' + libelle + ' (site extérieur, nouvel onglet)');
+        rang.appendChild(lien);
+      }
+      legende.appendChild(rang);
+      fig.appendChild(legende);
+      bloc.appendChild(fig);
+    }
+    return bloc;
+  }
+
   /* « Pour aller plus loin » : des pages d'autres sites, ouvertes dans le
    * navigateur. Rien n'est contacté tant qu'on ne touche pas un lien. */
   function blocLiens(a) {
@@ -332,6 +364,7 @@
     bloc.appendChild(titre);
     const dates = a.da || (typeof a.an === 'number' && a.c !== 'figures' ? Dictionnaire.annee(a.an) : '');
     if (dates) bloc.appendChild(element('p', 'article-dates', dates));
+    if (a.lo) bloc.appendChild(element('p', 'article-lieu', a.lo));
     ligne.appendChild(bloc);
     if (a.gl && Glyphes[a.gl]) ligne.appendChild(Glyphes.svg(a.gl, 'glyphe-titre'));
     tete.appendChild(ligne);
@@ -367,6 +400,10 @@
     const images = Illustrations.bloc(a);
     if (images) corps.appendChild(images);
 
+    // Un lieu : où il est, et comment s'y rendre
+    const situer = Carte.blocFiche(a);
+    if (situer) corps.appendChild(situer);
+
     // Le corps de l'article ; la figure après le premier paragraphe, la planche
     // de vignettes après le suivant (ou à la place de la figure s'il n'y en a pas)
     const texte = element('div', 'article-texte');
@@ -381,6 +418,9 @@
     });
     for (const reste of insertions) texte.appendChild(reste);
     corps.appendChild(texte);
+
+    const extraits = blocExtraits(a, surligne);
+    if (extraits) corps.appendChild(extraits);
 
     const reperes = blocReperes(a, surligne);
     if (reperes) corps.appendChild(reperes);
@@ -467,6 +507,10 @@
     document.addEventListener('notes-changees', () => { if (etat.ouverte) dessiner(false); });
     document.addEventListener('perso-change', () => { if (etat.ouverte) dessiner(false); });
     document.addEventListener('reglages-changes', () => { if (etat.ouverte) dessiner(false); });
+    document.addEventListener('position-change', () => {
+      const a = etat.ouverte ? Dictionnaire.parId(etat.pile[etat.pile.length - 1]) : null;
+      if (a && a.g) dessiner(false);
+    });
     document.addEventListener('voix-changees', () => { if (etat.ouverte && !Voix.enLecture(etat.pile[etat.pile.length - 1])) dessiner(false); });
   }
 

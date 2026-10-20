@@ -50,7 +50,17 @@
   --c-societes: #57682a;
   --c-maconnerie: #2b5591;
   --c-symboles: #866433;
+  --c-lieux: #2e7240;
   --c-perso: #6b6577;
+
+  /* la carte des lieux */
+  --mer: #dbe4e2;
+  --terre: #f4ecd9;
+  --cote: #bfae8c;
+  --frontiere: #b9a98a;
+  --fleuve: #a9c0c6;
+  --ville: #6f6680;
+  --position: #2368c4;
 
   /* les éléments, dans les figures */
   --el-feu: #f2c7b0;
@@ -102,7 +112,15 @@
     --c-societes: #b8cf7a;
     --c-maconnerie: #93b6ec;
     --c-symboles: #dbbd88;
+    --c-lieux: #85d39a;
     --c-perso: #aaa3b8;
+    --mer: #0e1522;
+    --terre: #221d31;
+    --cote: #4a4163;
+    --frontiere: #4d4467;
+    --fleuve: #2b4458;
+    --ville: #a59cb8;
+    --position: #6aa8ff;
     --el-feu: #5a2e22;
     --el-terre: #4a4228;
     --el-air: #263d52;
@@ -146,7 +164,15 @@
   --c-societes: #b8cf7a;
   --c-maconnerie: #93b6ec;
   --c-symboles: #dbbd88;
+  --c-lieux: #85d39a;
   --c-perso: #aaa3b8;
+  --mer: #0e1522;
+  --terre: #221d31;
+  --cote: #4a4163;
+  --frontiere: #4d4467;
+  --fleuve: #2b4458;
+  --ville: #a59cb8;
+  --position: #6aa8ff;
   --el-feu: #5a2e22;
   --el-terre: #4a4228;
   --el-air: #263d52;

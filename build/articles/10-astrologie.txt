@@ -22,7 +22,7 @@ def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée 
 texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
-voir: astrologie, triplicites, precession, belier, melothesie, dignites
+voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera
 
 @ belier
 cat: astrologie

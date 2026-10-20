@@ -24,6 +24,17 @@
  *     oeuvres: Titre (1614) ; …     (facultatif) œuvres ou éditions principales
  *     attention: …                  (facultatif) « à ne pas confondre »
  *     schema: nom                   (facultatif) une figure de js/figures/*.js
+ *     geo: 42.8756, 1.8322          (facultatif ; obligatoire pour un lieu) latitude et
+ *                                   longitude en degrés décimaux, quatre décimales
+ *                                   au moins : l'article paraît sur la carte
+ *     lieu: Ariège, France          (avec geo) où il se trouve, en clair
+ *     extrait: Un passage cité…     (facultatif) un extrait d'une œuvre du domaine
+ *                                   public, recopié tel quel ; « ¶ » sépare deux
+ *                                   paragraphes, « // » deux vers, « (…) » marque
+ *                                   une coupure. Toujours suivi de sa source :
+ *     source: René Guénon, *Le Théosophisme*, 1921, chap. I | gallica bd6t5924664v | ws Titre
+ *                                   la référence (le titre en italique), puis des
+ *                                   liens comme dans build/liens.txt, sans libellé
  *     voir: id, id                  articles voisins
  *
  * Dans « def », « texte », « repere » et « attention » :
@@ -62,6 +73,7 @@ const CATEGORIES = [
   { id: 'societes',   nom: 'Ordres et sociétés' },
   { id: 'maconnerie', nom: 'Franc-maçonnerie' },
   { id: 'symboles',   nom: 'Symboles' },
+  { id: 'lieux',      nom: 'Lieux' },
 ];
 const ID_CATEGORIES = new Set(CATEGORIES.map((c) => c.id));
 
@@ -96,7 +108,7 @@ function enMinuscule(a) {
 }
 
 const CLES = new Set(['cat', 'nom', 'alias', 'dates', 'an', 'glyphe', 'def', 'texte', 'repere', 'oeuvres',
-  'attention', 'schema', 'voir']);
+  'attention', 'schema', 'geo', 'lieu', 'extrait', 'source', 'voir']);
 
 const erreurs = [];
 const avertissements = [];
@@ -140,7 +152,7 @@ function lireFichier(fichier, articles) {
       const id = ligne.slice(2).trim();
       if (!/^[a-z0-9][a-z0-9-]*$/.test(id)) erreur(lieu, 'identifiant invalide « ' + id + ' »');
       article = { id, cat: null, nom: null, al: [], dates: '', an: null, gl: '', def: '', textes: [], reperes: [],
-        oeuvres: '', attention: '', schema: '', voir: [], lieu, fichier: nom };
+        oeuvres: '', attention: '', schema: '', geo: null, lo: '', extraits: [], voir: [], lieu, fichier: nom };
       articles.push(article);
       champ = null;
       return;
@@ -187,6 +199,26 @@ function lireFichier(fichier, articles) {
       case 'oeuvres': article.oeuvres = valeur; champ = { cible: article, cle: 'oeuvres' }; break;
       case 'attention': article.attention = valeur; champ = { cible: article, cle: 'attention' }; break;
       case 'schema': article.schema = valeur; break;
+      case 'geo': {
+        const g = /^(-?\d{1,2}\.\d{4,}),\s*(-?\d{1,3}\.\d{4,})$/.exec(valeur);
+        if (!g) { erreur(lieu, 'coordonnées illisibles « ' + valeur + ' » (« 42.8756, 1.8322 »)'); break; }
+        const [lat, lon] = [parseFloat(g[1]), parseFloat(g[2])];
+        if (Math.abs(lat) > 78 || Math.abs(lon) > 180) erreur(lieu, 'coordonnées hors de la carte « ' + valeur + ' »');
+        article.geo = [lat, lon];
+        break;
+      }
+      case 'lieu': article.lo = valeur; break;
+      case 'extrait':
+        article.extraits.push({ texte: valeur, source: '', lieu });
+        champ = { cible: article.extraits[article.extraits.length - 1], cle: 'texte' };
+        break;
+      case 'source': {
+        const dernier = article.extraits[article.extraits.length - 1];
+        if (!dernier || dernier.source) { erreur(lieu, '« source: » sans « extrait: » juste avant'); break; }
+        dernier.source = valeur;
+        champ = { cible: dernier, cle: 'source' };
+        break;
+      }
       case 'voir': article.voir = valeur.split(',').map((s) => s.trim()).filter(Boolean); break;
       default: break;
     }
@@ -272,6 +304,35 @@ function lireReperes(a, lieu, ids, liens) {
   return sortie;
 }
 
+// ── Les extraits ────────────────────────────────────────────────────────────
+
+/* Un extrait est un passage recopié d'une œuvre du domaine public : pas de
+ * renvoi dedans (ce n'est pas notre texte), une source qui dit d'où il vient,
+ * le titre de l'œuvre en italique, et au moins un lien vers le document.
+ * Dans le JSON : [paragraphes, référence, liens]. */
+function lireExtraits(a) {
+  const sortie = [];
+  for (const ex of a.extraits) {
+    const lieu = ex.lieu + ' (' + a.id + ')';
+    if (/\[\[|\]\]/.test(ex.texte)) erreur(lieu, 'un renvoi dans un extrait');
+    if ((ex.texte.match(/\*/g) || []).length % 2) erreur(lieu, 'italique mal fermée dans un extrait');
+    const long = ex.texte.replace(/\*/g, '').length;
+    if (long < 120) erreur(lieu, 'extrait trop court (' + long + ')');
+    if (long > 1500) avertir(lieu, 'extrait long (' + long + ')');
+    if (/^[«"“]/.test(ex.texte.trim())) erreur(lieu, 'l’extrait s’écrit sans guillemets autour : la mise en page les pose');
+    if (!ex.source) { erreur(lieu, 'extrait sans « source: »'); continue; }
+    const [reference, ...morceaux] = ex.source.split(' | ');
+    if (!/\*[^*]+\*/.test(reference)) erreur(lieu, 'la source d’un extrait donne le titre en italique : « ' + reference + ' »');
+    if ((reference.match(/\*/g) || []).length % 2) erreur(lieu, 'italique mal fermée dans la source');
+    const liens = morceaux.map((m) => lireLien(m, lieu, LIBELLES_SOURCE)).filter(Boolean);
+    if (!liens.length) erreur(lieu, 'la source d’un extrait mène au document (gallica, ws, ia…)');
+    // « // » sépare deux vers : la fiche les pose sur deux lignes
+    const paragraphes = ex.texte.split(/\s*¶\s*/).map((p) => typographie(p).replace(/\s*\/\/\s*/g, '\n'));
+    sortie.push([paragraphes, typographie(reference.trim()), liens]);
+  }
+  return sortie;
+}
+
 // ── Les liens vers d'autres sites ───────────────────────────────────────────
 
 /* build/liens.txt : « id: lien | lien | … ». Chaque lien est une sorte, une
@@ -290,7 +351,7 @@ const SORTES = {
 const AVEC_LIBELLE = new Set(['gallica', 'ia', 'url']);
 const VALEURS = {
   bnf: /^\d{8}[0-9bcdfghjkmnpqrstvwxz]$/,
-  gallica: /^bpt6k[0-9a-z]+(\/f\d+(\.item)?)?$|^btv1b[0-9a-z]+(\/f\d+(\.item)?)?$/,
+  gallica: /^(bpt6k|btv1b|bd6t)[0-9a-z]+(\/f\d+(\.item)?)?$/,
   ia: /^[A-Za-z0-9._-]+$/,
   url: /^https:\/\/[^\s]+$/,
 };
@@ -301,6 +362,30 @@ function titreUrl(titre) {
   return encodeURIComponent(titre.replace(/ /g, '_')).replace(/%2F/g, '/').replace(/%3A/g, ':')
     .replace(/%2C/g, ',').replace(/%28/g, '(').replace(/%29/g, ')');
 }
+
+/* Un lien « sorte valeur [= libellé] » → [source, libellé, adresse], ou null
+ * (l'erreur est notée). `defauts` donne un libellé aux sortes qui en exigent un. */
+function lireLien(morceau, lieu, defauts) {
+  const mm = /^([a-z]+) (.+)$/.exec(morceau.trim());
+  if (!mm || !SORTES[mm[1]]) { erreur(lieu, 'lien incompris « ' + morceau + ' »'); return null; }
+  const [, sorte, brut] = mm;
+  let valeur = brut.trim();
+  let libelle = '';
+  const k = valeur.indexOf(' = ');
+  if (k >= 0 && (AVEC_LIBELLE.has(sorte) || sorte === 'ws')) {
+    libelle = valeur.slice(k + 3).trim();
+    valeur = valeur.slice(0, k).trim();
+  } else if (AVEC_LIBELLE.has(sorte) && !(defauts && defauts[sorte])) {
+    erreur(lieu, 'lien « ' + sorte + ' » sans « = libellé »'); return null;
+  }
+  if (!libelle && defauts && defauts[sorte]) libelle = defauts[sorte];
+  if (VALEURS[sorte] && !VALEURS[sorte].test(valeur)) { erreur(lieu, 'valeur « ' + sorte + ' » invalide « ' + valeur + ' »'); return null; }
+  return SORTES[sorte](valeur, typographie(libelle));
+}
+
+/* Les liens de la source d'un extrait mènent au document lui-même : d'où
+ * leur libellé par défaut. */
+const LIBELLES_SOURCE = { gallica: 'le livre numérisé', ia: 'le livre numérisé', ws: 'le texte transcrit' };
 
 function lireLiens(ids) {
   const fichier = path.join(ICI, 'liens.txt');
@@ -318,21 +403,8 @@ function lireLiens(ids) {
     if (reste.trim() === '-') { resultat.set(id, []); return; }
     const liste = [];
     for (const morceau of reste.split(' | ')) {
-      const mm = /^([a-z]+) (.+)$/.exec(morceau.trim());
-      if (!mm || !SORTES[mm[1]]) { erreur(lieu, 'lien incompris « ' + morceau + ' »'); continue; }
-      const [, sorte, brut] = mm;
-      let valeur = brut.trim();
-      let libelle = '';
-      const k = valeur.indexOf(' = ');
-      if (k >= 0 && (AVEC_LIBELLE.has(sorte) || sorte === 'ws')) {
-        libelle = valeur.slice(k + 3).trim();
-        valeur = valeur.slice(0, k).trim();
-      } else if (AVEC_LIBELLE.has(sorte)) {
-        erreur(lieu, 'lien « ' + sorte + ' » sans « = libellé »'); continue;
-      }
-      if (VALEURS[sorte] && !VALEURS[sorte].test(valeur)) { erreur(lieu, 'valeur « ' + sorte + ' » invalide « ' + valeur + ' »'); continue; }
-      const [source, l, adresse] = SORTES[sorte](valeur, typographie(libelle));
-      liste.push([source, l, adresse]);
+      const l = lireLien(morceau, lieu);
+      if (l) liste.push(l);
     }
     const adresses = liste.map((x) => x[2]);
     if (new Set(adresses).size !== adresses.length) erreur(lieu, 'lien en double');
@@ -440,6 +512,10 @@ function main() {
       cites.get(id).add(a.id);
     }
     a.liens = liens;
+    a.extraitsLus = lireExtraits(a);
+    if (a.cat === 'lieux' && !a.geo) erreur(lieu, 'un lieu sans « geo: »');
+    if (a.geo && !a.lo) erreur(lieu, '« geo: » sans « lieu: »');
+    if (a.lo && !a.geo) erreur(lieu, '« lieu: » sans « geo: »');
 
     const def = nu(a.def, noms);
     if (def.length < 40) erreur(lieu, 'définition trop courte (' + def.length + ')');
@@ -480,6 +556,9 @@ function main() {
       if (a.oeuvres) o.oe = a.oeuvres.split(/\s;\s/).map((s) => typographie(s.trim())).filter(Boolean);
       if (a.attention) o.at = typographie(a.attention);
       if (a.schema) o.sc = a.schema;
+      if (a.geo) o.g = a.geo;
+      if (a.lo) o.lo = typographie(a.lo);
+      if (a.extraitsLus.length) o.ex = a.extraitsLus;
       if (a.voir.length) o.v = a.voir;
       if (illustrations.parArticle.has(a.id)) o.im = illustrations.parArticle.get(a.id);
       if (illustrations.planches.has(a.id)) o.pl = illustrations.planches.get(a.id);
@@ -499,6 +578,8 @@ function main() {
     format: 1, construit: aujourdhui, articles: articles.length,
     figures: Object.keys(figures).length, mots, octets: Buffer.byteLength(json),
     images: illustrations.nombre, octetsImages: illustrations.octets,
+    lieux: articles.filter((a) => a.geo).length,
+    extraits: articles.reduce((n, a) => n + a.extraitsLus.length, 0),
   };
   fs.writeFileSync(path.join(RACINE, 'data', 'manifeste.json'), JSON.stringify(manifeste) + '\n', 'utf-8');
 
@@ -515,6 +596,8 @@ function main() {
     articles.filter((a) => a.reperesLus.length).length + ' avec des repères (' + articles.reduce((n, a) => n + a.reperesLus.length, 0) + '), '
       + articles.filter((a) => (liensExterieurs.get(a.id) || []).length).length + ' avec des liens extérieurs ('
       + Array.from(liensExterieurs.values()).reduce((n, l) => n + l.length, 0) + ')',
+    articles.filter((a) => a.geo).length + ' sur la carte, '
+      + articles.reduce((n, a) => n + a.extraitsLus.length, 0) + ' extraits dans ' + articles.filter((a) => a.extraitsLus.length).length + ' articles',
     illustrations.nombre + ' illustrations (' + Math.round(illustrations.octets / 1024) + ' Ko) dans '
       + illustrations.parArticle.size + ' articles, ' + illustrations.planches.size + ' planche(s)',
     Buffer.byteLength(json) + ' octets de JSON',

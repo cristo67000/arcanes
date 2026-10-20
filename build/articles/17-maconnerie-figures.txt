@@ -497,6 +497,8 @@ dates: décembre 1736 ; version de 1737
 def: Discours prononcé à Paris en 1736 par le chevalier de Ramsay, qui fait naître la franc-maçonnerie aux croisades et lui assigne une mission universelle.
 texte: Prononcé en décembre 1736 dans une loge parisienne, puis remanié pour une assemblée générale que le cardinal de Fleury, hostile, empêcha de se tenir en mars 1737, le discours de [[andrew-michael-ramsay]] présente la maçonnerie comme une société de vertu, de secret et de goût pour les beaux-arts, appelée à réunir les hommes de toutes les nations.
 texte: Il en situe l'origine au temps des croisades, où des princes et des chevaliers auraient fait vœu de rebâtir les temples de la Terre sainte, avant de transmettre leur institution aux loges d'Écosse. Ce récit chevaleresque inspira les grades écossais (voir [[ecossisme]]) et, bientôt, la légende templière de la [[stricte-observance|Stricte Observance]].
+extrait: Du temps des guerres saintes dans la Palestine, plusieurs Princes, Seigneurs et Citoyens entrèrent en Société, firent vœu de rétablir les temples des Chrétiens dans la Terre Sainte, et s’engagèrent par serment à employer leurs talens et leurs biens pour ramener l’Architecture à primitive institution. Ils convinrent de plusieurs signes anciens, de mots symboliques tirés du fond de la religion, pour se distinguer des Infidèles, et se reconnoître d’avec les Sarasins. On ne communiquoit ces signes et ces paroles qu’à ceux qui promettoient solemnellement et souvent même au pieds des Autels de ne jamais les révéler.
+source: Andrew Michael Ramsay, *Discours* prononcé à la loge de Paris, 1737 (texte imprimé en 1744) | ws Discours de Ramsay
 voir: andrew-michael-ramsay, ecossisme, stricte-observance, templiers
 
 @ masonry-dissected
@@ -551,6 +553,8 @@ alias: Temple de Jérusalem, premier Temple, Saint des saints, Villalpando
 def: Le sanctuaire que le roi Salomon fit bâtir à Jérusalem selon la Bible, détruit par les Babyloniens en 587 avant notre ère, devenu le modèle symbolique de la loge maçonnique et de bien des spéculations ésotériques.
 texte: Le premier livre des Rois en détaille les dimensions, les matériaux venus du Liban, les deux [[colonnes-jakin-et-boaz|colonnes de bronze]] coulées par Hiram, la mer d'airain et le Saint des saints où reposait l'arche d'alliance. Rebâti au retour de l'exil, agrandi par Hérode, le Temple est détruit par les Romains en 70 de notre ère. Les archéologues n'ont retrouvé aucun vestige sûr de l'édifice de [[salomon]].
 texte: Les théologiens y ont vu une image du cosmos, du corps humain ou de l'Église ; le jésuite Villalpando en publie en 1604 une restitution monumentale, et [[isaac-newton]] en étudie les mesures pour y chercher la clé des prophéties. Les [[templiers]] tiraient leur nom de son emplacement ; la [[franc-maconnerie]] en a fait le chantier mythique de ses ouvriers (voir [[legende-d-hiram|légende d'Hiram]]) et l'image de l'homme à reconstruire.
+geo: 31.7780, 35.2354
+lieu: Jérusalem
 voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique
 
 @ compagnonnage

@@ -156,7 +156,7 @@ alias: oracles, Delphes, Pythie, oracle de Delphes, Dodone, Ammon
 def: Réponse donnée par une divinité à une question posée par un fidèle, et lieu où elle était rendue, comme Delphes, sanctuaire d'Apollon.
 texte: À Delphes, la Pythie, assise sur un trépied, rendait les réponses d'Apollon dans un état de transe ; des prêtres les mettaient en vers. Les cités et les rois venaient la consulter avant une guerre ou la fondation d'une colonie, et ses réponses ambiguës sont restées proverbiales. À Dodone, on interprétait le bruissement d'un chêne sacré ; dans l'oasis de Siwa, l'oracle d'Ammon reçut Alexandre le Grand.
 texte: Les oracles déclinent à l'époque romaine, ce que Plutarque tente d'expliquer, et disparaissent avec le christianisme. On appelle aujourd'hui « oracles » des jeux de cartes divinatoires qui ne suivent pas la structure du tarot.
-voir: sibylles, divination, oniromancie, oracles-chaldaiques
+voir: sibylles, divination, oniromancie, oracles-chaldaiques, delphes, antre-de-la-sibylle
 
 @ sibylles
 cat: divination
@@ -165,7 +165,7 @@ alias: sibylle, oracles sibyllins, livres sibyllins, sibylle de Cumes
 def: Prophétesses inspirées de l'Antiquité, dont les oracles, recueillis dans des livres, furent lus par les chrétiens comme des annonces du Christ.
 texte: Les Anciens comptaient jusqu'à dix sibylles, de Delphes, d'Érythrée, de Cumes… À Rome, les *Livres sibyllins*, achetés selon la légende par le roi Tarquin, étaient gardés au Capitole et consultés en cas de crise. Des *Oracles sibyllins* rédigés par des juifs et des chrétiens imitent leur style pour annoncer le vrai Dieu.
 texte: Le christianisme médiéval associe les sibylles aux prophètes de l'Ancien Testament : le chant du *Dies irae* les invoque, et Michel-Ange les peint au plafond de la chapelle Sixtine.
-voir: oracle, divination, prisca-theologia
+voir: oracle, divination, prisca-theologia, antre-de-la-sibylle
 
 @ augures
 cat: divination

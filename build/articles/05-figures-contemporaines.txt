@@ -28,7 +28,7 @@ repere: 1929 — *Magick en théorie et en pratique*.
 repere: 1944 — *Le Livre de Thoth*.
 repere: 1947 — Mort à Hastings.
 oeuvres: Le Livre de la Loi (1904) ; Le Livre des mensonges (1913) ; Magick en théorie et en pratique (1929) ; Confessions (1929) ; Le Livre de Thoth (1944)
-voir: thelema, livre-de-la-loi, oto, a-a, tarot-de-thoth, golden-dawn, magie-sexuelle
+voir: thelema, livre-de-la-loi, oto, a-a, tarot-de-thoth, golden-dawn, magie-sexuelle, boleskine-house, abbaye-de-theleme
 
 @ rudolf-steiner
 cat: figures
@@ -55,7 +55,7 @@ repere: 1922 — Incendie du premier Goetheanum, dans la nuit de la Saint-Sylves
 repere: 1924 — Cours aux agriculteurs, d'où naît l'agriculture biodynamique.
 repere: 1925 — Mort à Dornach.
 oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; Comment acquérir des connaissances sur les mondes supérieurs (1904-1905) ; La Science de l'occulte (1910)
-voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques
+voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum
 
 @ dion-fortune
 cat: figures
@@ -197,6 +197,8 @@ repere: 1945 — *Le Règne de la quantité et les signes des temps*.
 repere: 1946 — *Aperçus sur l'initiation*.
 repere: 1951 — Mort au Caire.
 oeuvres: Le Théosophisme (1921) ; L'Erreur spirite (1923) ; Le Roi du monde (1927) ; La Crise du monde moderne (1927) ; Le Symbolisme de la croix (1931) ; Le Règne de la quantité et les signes des temps (1945) ; Aperçus sur l'initiation (1946)
+extrait: La doctrine hindoue enseigne que la durée d’un cycle humain, auquel elle donne le nom de Manvantara, se divise en quatre âges, qui marquent autant de phases d’un obscurcissement graduel de la spiritualité primordiale ; ce sont ces mêmes périodes que les traditions de l’antiquité occidentale, de leur côté, désignaient comme les âges d’or, d’argent, d’airain et de fer. Nous sommes présentement dans le quatrième âge, le Kali-Yuga ou « âge sombre », et nous y sommes, dit-on, depuis déjà plus de six mille ans, c’est-à-dire depuis une époque bien antérieure à toutes celles qui sont connues de l’histoire « classique ».
+source: René Guénon, *La Crise du monde moderne*, 1927, chap. I, « L’âge sombre » (texte de l’édition revue de 1946) | ws La Crise du monde moderne/Chapitre 1
 voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha
 
 @ julius-evola
@@ -248,7 +250,7 @@ repere: 1955 — *Mysterium conjunctionis*.
 repere: 1961 — Mort à Küsnacht.
 repere: 2009 — Publication du *Livre rouge*.
 oeuvres: Types psychologiques (1921) ; Psychologie et alchimie (1944) ; Aiôn (1951) ; Synchronicité (1952) ; Mysterium conjunctionis (1955-1956) ; Ma vie (1962)
-voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide
+voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide, archetype, synchronicite, monte-verita
 
 @ fulcanelli
 cat: figures
@@ -257,17 +259,17 @@ alias: Les Demeures philosophales, Le Mystère des cathédrales, cabale phonéti
 dates: auteur anonyme, actif dans les années 1920
 an: 1926
 def: Pseudonyme d'un alchimiste français dont l'identité reste inconnue, auteur du Mystère des cathédrales, qui lit dans la sculpture gothique un enseignement alchimique.
-texte: *[[mystere-des-cathedrales|Le Mystère des cathédrales]]* paraît à Paris en 1926, en tirage limité, illustré par le peintre Julien Champagne et préfacé par [[eugene-canseliet]], qui se présente comme le disciple de l'auteur : celui-ci, dit-il, a atteint le but du [[grand-oeuvre|Grand Œuvre]] et a disparu. *Les Demeures philosophales* suivent en 1930 ; un troisième livre annoncé ne paraît jamais. Le pseudonyme évoque Vulcain, dieu du feu.
-texte: Fulcanelli soutient que les bâtisseurs gothiques ont caché dans les portails de Notre-Dame de Paris et d'Amiens les étapes de l'œuvre alchimique : les médaillons du portail central de Notre-Dame, la figure de l'Alchimie sur le trumeau, se lisent comme un traité de pierre. *Les Demeures philosophales* étendent cette lecture aux hôtels de la Renaissance, aux cadrans solaires, aux caissons sculptés d'un château et à une croix du Pays basque, à Hendaye, qui annoncerait la fin d'un cycle du monde.
-texte: Sa méthode est une « cabale phonétique », la « langue des oiseaux », où les mots se lisent par leurs sonorités : l'« art gothique » serait l'« art goth », c'est-à-dire l'argot des initiés. Écrits dans une langue somptueuse et érudite, ses livres ont connu un immense succès et fait de lui la plus grande légende de l'alchimie au XXe siècle.
-texte: Son identité a suscité toutes les hypothèses : l'illustrateur Julien Champagne, le libraire ésotériste Pierre Dujols, un savant physicien, René Schwaller de Lubicz, voire Canseliet lui-même, ou un groupe. *Le Matin des magiciens* a raconté qu'il aurait averti en 1937 un jeune chimiste, Jacques Bergier, des dangers de l'énergie atomique ; Canseliet affirma l'avoir revu, rajeuni, en Espagne en 1954. Aucune preuve ne permet de trancher.
+texte: *[[mystere-des-cathedrales|Le Mystère des cathédrales]]* paraît à Paris en 1926, en tirage limité, illustré par le peintre Julien Champagne et préfacé par [[eugene-canseliet]], qui se présente comme le disciple de l'auteur : celui-ci, dit-il, a atteint le but du [[grand-oeuvre|Grand Œuvre]] et a disparu. *[[les-demeures-philosophales|Les Demeures philosophales]]* suivent en 1930 ; un troisième livre annoncé ne paraît jamais. Le pseudonyme évoque Vulcain, dieu du feu.
+texte: Fulcanelli soutient que les bâtisseurs gothiques ont caché dans les portails de [[notre-dame-de-paris|Notre-Dame de Paris]] et d'Amiens les étapes de l'œuvre alchimique : les médaillons du portail central de Notre-Dame, la figure de l'Alchimie sur le trumeau, se lisent comme un traité de pierre. *Les Demeures philosophales* étendent cette lecture aux hôtels de la Renaissance, comme l'[[hotel-lallemant|hôtel Lallemant]] de Bourges, aux cadrans solaires et aux caissons sculptés d'un château ; un chapitre ajouté en 1957 au *Mystère des cathédrales* fait d'une [[croix-d-hendaye|croix d'Hendaye]], au Pays basque, l'annonce de la fin d'un cycle du monde.
+texte: Sa méthode est une « cabale phonétique », la « [[langue-des-oiseaux|langue des oiseaux]] », où les mots se lisent par leurs sonorités : l'« art gothique » serait l'« art goth », c'est-à-dire l'argot des initiés. Écrits dans une langue somptueuse et érudite, ses livres ont connu un immense succès et fait de lui la plus grande légende de l'alchimie au XXe siècle.
+texte: Son identité a suscité toutes les hypothèses : l'illustrateur Julien Champagne, le libraire ésotériste Pierre Dujols, un savant physicien, René Schwaller de Lubicz, voire Canseliet lui-même, ou un groupe. *Le Matin des magiciens* a raconté qu'il aurait averti en 1937 un jeune chimiste, [[jacques-bergier|Jacques Bergier]], des dangers de l'énergie atomique ; Canseliet affirma l'avoir revu, rajeuni, en Espagne en 1954. Aucune preuve ne permet de trancher.
 repere: 1926 — *Le Mystère des cathédrales*, publié par les soins d'Eugène Canseliet.
 repere: 1930 — *Les Demeures philosophales*.
 repere: 1937 — Selon Jacques Bergier, un inconnu, peut-être Fulcanelli, le met en garde contre l'énergie atomique.
 repere: 1954 — Canseliet dit l'avoir revu, rajeuni, en Espagne.
 repere: 1960 — *Le Matin des magiciens* popularise sa légende.
 oeuvres: Le Mystère des cathédrales (1926) ; Les Demeures philosophales (1930)
-voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel
+voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel, les-demeures-philosophales, croix-d-hendaye, hotel-lallemant, langue-des-oiseaux
 
 @ eugene-canseliet
 cat: figures

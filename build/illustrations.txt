@@ -51,7 +51,7 @@ pour: arcane-empereur
 
 = conver-05
 commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (097 of 132).jpg
-pour: arcane-pape
+pour: arcane-pape, hierophante
 
 = conver-06
 commons: Jeu de tarot à enseignes italiennes de Marseille, dit "tarot Conver" - jeu de cartes, estampe - btv1b10520316w (099 of 132).jpg
@@ -189,7 +189,7 @@ pour: arcane-empereur
 = rws-05
 commons: RWS1909 - 05 Hierophant.jpeg
 legende: Rider-Waite-Smith, 1909 : *The Hierophant* (V)
-pour: arcane-pape
+pour: arcane-pape, hierophante
 
 = rws-06
 commons: RWS1909 - 06 Lovers.jpeg
@@ -1730,3 +1730,256 @@ commons: Frances Yates 1924.jpg
 legende: Frances Yates en 1924
 credit: photographie, 1924
 pour: frances-yates
+
+# ── Version 1.3 : les lieux, quelques figures et notions nouvelles ──────────
+# Photographies anciennes ou versées au domaine public par leurs auteurs,
+# gravures, peintures et manuscrits.
+
+% Lieux de France
+largeur: 440
+
+= lieu-montsegur
+commons: Montsegur1.JPG
+legende: Le château de Montségur sur son pog
+credit: photographie d’Emeraude, 2001, versée au domaine public
+pour: montsegur
+
+= lieu-rennes-fouilles
+commons: Fouilles interdites.jpg
+legende: Rennes-le-Château : « fouilles interdites »
+credit: photographie d’Ulysse034, 2005, versée au domaine public
+pour: rennes-le-chateau
+
+= lieu-lombrives
+commons: Ussat-les-Bains - vue intérieure d'une des salles de la grotte de Lombrives - btv1b10576007d (1 of 2).jpg
+legende: Une salle de la grotte de Lombrives
+credit: photographie, vers 1900 — BnF
+pour: grotte-de-lombrives
+
+= lieu-notre-dame-portail
+commons: Notre Dame de Paris main gate.jpg
+legende: Notre-Dame de Paris : le portail du Jugement dernier
+credit: photographie de Jebulon, 2010
+pour: notre-dame-de-paris
+
+= lieu-tour-saint-jacques
+commons: Tour de St. Jacques - La Boucherie, à Paris, by Francois Alphonse Fortier (Getty 1044CF).jpg
+legende: La tour Saint-Jacques, l’une des premières photographies de Paris
+credit: François-Alphonse Fortier, années 1840 — J. Paul Getty Museum
+pour: tour-saint-jacques
+
+= lieu-maison-flamel
+commons: Atget - Maison de Nicolas Flamel - écrivain, juré et alchimiste - 1407 - R. de Montmorency 51, btv1b10517302s.jpeg
+legende: La maison de Nicolas Flamel, 51 rue de Montmorency
+credit: photographie d’Eugène Atget — BnF
+pour: maison-de-nicolas-flamel
+
+= lieu-carnac
+commons: Carnac Alignements du Menec.jpg
+legende: Les alignements du Ménec, à Carnac
+credit: Auguste Desperet, vers 1850
+pour: carnac
+
+= lieu-gisors
+commons: Gravure ruines du Château Gisors.jpg
+legende: Les ruines du château de Gisors
+credit: gravure parue dans *La France illustrée* de Victor Adolphe Malte-Brun, 1882
+pour: gisors
+
+= lieu-chinon
+commons: Albert Robida - Chinon au XVe siècle.jpg
+legende: Chinon au XVe siècle, restitution d’Albert Robida
+credit: Albert Robida, 1890
+pour: chinon
+
+% Lieux d’Europe et de la Méditerranée
+largeur: 440
+
+= lieu-glastonbury
+commons: Descending Glastonbury Tor.jpg
+legende: Glastonbury Tor et la tour Saint-Michel
+credit: photographie de Tony Grist, 2010, versée au domaine public
+pour: glastonbury
+
+= lieu-stonehenge
+commons: Stonehenge - Mabbett postcard - obverse.jpg
+legende: Stonehenge
+credit: carte postale de Mabbett, Salisbury, vers 1907
+pour: stonehenge
+
+= lieu-rosslyn
+commons: Roslin Chapel, South Porch MET DP107956.jpg
+legende: La chapelle de Rosslyn, le porche sud
+credit: photographie de Roger Fenton, 1856 — Metropolitan Museum of Art
+pour: chapelle-de-rosslyn
+
+= lieu-cefalu
+commons: Abbey of Thelema 01.jpg
+legende: La villa de Cefalù qu’Aleister Crowley nomma abbaye de Thélème
+credit: photographie d’Erik Albers, 2017
+pour: abbaye-de-theleme
+
+= lieu-porte-alchimique
+commons: Piazza Vittorio Porta magica 9511-02.JPG
+legende: La Porte alchimique, piazza Vittorio Emanuele, à Rome
+credit: photographie de Lalupa, 2005, versée au domaine public
+pour: porte-alchimique
+
+= lieu-regaleira
+commons: Portugal, Sintra, Quinta da Regaleira (52593863981).jpg
+legende: La Quinta da Regaleira, à Sintra
+credit: photographie de Lark Ascending, 2019, versée au domaine public
+pour: quinta-da-regaleira
+
+= lieu-externsteine
+commons: Kurt Hielscher Deutschland 1924 Externsteine Kreuzabnahme.jpg
+legende: Externsteine : le relief de la Descente de croix
+credit: photographie de Kurt Hielscher, 1924
+pour: externsteine
+
+= lieu-wewelsburg
+commons: Die Weserrenaissance (Sonnen) - 128 - Wewelsburg, Nordostansicht.jpg
+legende: Le château de Wewelsburg
+credit: photographie d’Albert Ludorff, avant 1915
+pour: wewelsburg
+
+= lieu-prague
+commons: Entrance to Castle, Prague, Bohemia, Austro-Hungary WDL2628.png
+legende: L’entrée du château de Prague
+credit: photochrome, vers 1890-1900 — Library of Congress
+pour: chateau-de-prague
+
+= lieu-heidelberg
+commons: Hortus Palatinus und Heidelberger Schloss von Jacques Fouquiere.jpg
+legende: Le château de Heidelberg et l’*Hortus Palatinus*
+credit: Jacques Fouquières, 1620
+pour: chateau-de-heidelberg
+largeur: 480
+
+= lieu-goetheanum
+commons: Goetheanum - Aquarell von Hermann Linde.jpg
+legende: Le premier Goetheanum, l’édifice de bois détruit en 1922
+credit: aquarelle de Hermann Linde, avant 1923
+pour: goetheanum
+
+= lieu-delphes
+commons: Kastri (Delphi) and the Phaedriades by Paul des Granges (1869) - crop.jpg
+legende: Delphes au pied des roches Phédriades
+credit: photographie de Paul des Granges, 1869
+pour: delphes
+largeur: 480
+
+= lieu-eleusis
+commons: Telesterion at Eleusis, view from S.jpg
+legende: Les ruines du Télestérion d’Éleusis
+credit: photographie de Furius, 2022
+pour: eleusis
+
+= relief-eleusis
+commons: Great Eleusinian Relief.jpg
+legende: Déméter, Coré et le jeune Triptolème : le grand relief d’Éleusis
+credit: relief de marbre, Ve siècle av. J.-C. — Musée national archéologique d’Athènes
+pour: mystes-et-epoptes
+
+= lieu-samothrace
+commons: Victoire de Samothrace - Musee du Louvre - 20190812.jpg
+legende: La Victoire de Samothrace
+credit: photographie de Shonagon, 2018 — musée du Louvre
+pour: samothrace
+
+= lieu-hermopolis
+commons: Achmouneyn (Hermopolis Magna). Plan, élévation et détails du portique du temple (NYPL b14212718-1268147).jpg
+legende: Le portique du temple d’Hermopolis, relevé par les savants de l’expédition d’Égypte
+credit: *Description de l’Égypte*, 1809 — New York Public Library
+pour: hermopolis
+largeur: 480
+
+= lieu-dendera
+commons: Dendera zodiac, Louvre.jpg
+legende: Le zodiaque de Dendérah
+credit: photographie de Neithsabes, 2006, versée au domaine public — musée du Louvre
+pour: dendera
+
+= lieu-salem
+commons: Examination of a Witch - Tompkins Matteson (cropped).jpg
+legende: *Examen d’une sorcière*, scène imaginée du procès de Salem
+credit: Tompkins Harrison Matteson, 1853
+pour: salem
+
+% Figures
+largeur: 400
+
+= portrait-sauniere
+commons: Pastoor Saunières, gestorven in 1917, de man die naar men zegt wist waar in kasteel, SFA002011574.jpg
+legende: L’abbé Bérenger Saunière
+credit: photographie, avant 1917 — Nationaal Archief, fonds Spaarnestad
+pour: berenger-sauniere
+
+= portrait-rabelais
+commons: Portrait of Rabelais MET DP813999.jpg
+legende: François Rabelais
+credit: gravure de Félix Bracquemond, 1868 — Metropolitan Museum of Art
+pour: francois-rabelais
+
+= portrait-nerval
+commons: Félix Nadar 1820-1910 portraits Gérard de Nerval.jpg
+legende: Gérard de Nerval
+credit: photographie de Nadar, vers 1854-1855
+pour: gerard-de-nerval
+
+= portrait-bernard
+commons: K105354-Bernard of Clairvaux (British Library) (cropped).jpg
+legende: Bernard de Clairvaux
+credit: enluminure du XVe siècle — British Library
+pour: bernard-de-clairvaux
+
+= portrait-molay
+commons: Jacques de Molay, grand maître des Templiers - Fleury François Richard - MBA Lyon 2014.jpg
+legende: *Jacques de Molay, grand maître des Templiers*
+credit: Fleury François Richard, 1806 — musée des Beaux-Arts de Lyon
+pour: jacques-de-molay
+
+= portrait-payns
+commons: Hugues de Payens (Versailles).jpg
+legende: Hugues de Payns, portrait imaginé au XIXe siècle
+credit: Henri Lehmann, 1841 — château de Versailles
+pour: hugues-de-payns
+
+= portrait-wolfram
+commons: Codex Manesse 149v Wolfram von Eschenbach (cropped).jpg
+legende: Wolfram von Eschenbach dans le Codex Manesse
+credit: Codex Manesse, vers 1305-1315 — bibliothèque universitaire de Heidelberg
+pour: wolfram-von-eschenbach, parzival
+
+= portrait-boullan
+commons: Abbé Boullan.jpg
+legende: L’abbé Boullan
+credit: photographie, XIXe siècle
+pour: joseph-antoine-boullan
+
+% Notions
+largeur: 420
+
+= cauchemar-fussli
+commons: John Henry Fuseli - The NightmareFXD.jpg
+legende: *Le Cauchemar*
+credit: Johann Heinrich Füssli, 1781 — Detroit Institute of Arts
+pour: incube-et-succube
+
+= abraxas-gemmes
+commons: Jacob van Werden - 'Ioannis Macarii canonici ariensis Abraxas, seu, Apistopistus', Gems Table 1.jpg
+legende: Gemmes gnostiques d’Abraxas
+credit: gravure de Jacob van Werden pour l’*Abraxas seu Apistopistus* de Jean L’Heureux, 1657
+pour: abraxas
+
+= pesee-hounefer
+commons: El pesado del corazón en el Papiro de Hunefer.jpg
+legende: Anubis conduit le défunt et pèse son cœur
+credit: papyrus de Hounefer, vers 1275 av. J.-C. — British Museum
+pour: psychopompe
+
+= tambour-tedworth
+commons: Devil and Drum from Saducismus Triumphatus.png
+legende: Le diable et le « tambour de Tedworth »
+credit: frontispice du *Saducismus Triumphatus* de Joseph Glanvill, édition de 1700
+pour: poltergeist

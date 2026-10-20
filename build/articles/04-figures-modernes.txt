@@ -26,6 +26,8 @@ repere: 1766 — Kant publie *Rêves d'un visionnaire*, essai ironique sur ses p
 repere: 1772 — Mort à Londres.
 repere: 1787 — Fondation à Londres de l'Église de la Nouvelle Jérusalem.
 oeuvres: Arcanes célestes (1749-1756) ; Du ciel et de l'enfer (1758) ; La Sagesse angélique sur le divin amour et la divine sagesse (1763) ; La Vraie Religion chrétienne (1771)
+extrait: La vie d’Emmanuel Swedenborg fut scindée en deux parts, reprit le pasteur. De 1688 à 1745, le baron Emmanuel de Swedenborg apparut dans le monde comme un homme du plus vaste savoir, estimé, chéri pour ses vertus, toujours irréprochable, constamment utile. Tout en remplissant de hautes fonctions en Suède, il a publié de 1709 à 1740, sur la minéralogie, la physique, les mathématiques et l’astronomie, des livres nombreux et solides qui ont éclairé le monde savant. (…) Enfin, il ne s’est pas occupé d’une science sans lui faire faire un progrès.
+source: Honoré de Balzac, *Séraphîta*, 1835, chap. III (le pasteur Becker parle) | ws Séraphîta
 voir: correspondances, arcanes-celestes, illuminisme, anges, spiritisme
 
 @ martinez-de-pasqually
@@ -120,7 +122,9 @@ repere: 1786 — Acquitté, il est expulsé de France.
 repere: 1789 — Arrêté à Rome par l'Inquisition.
 repere: 1791 — Condamné à mort, peine commuée en prison à vie.
 repere: 1795 — Mort dans la forteresse de San Leo.
-voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption
+extrait: Sa femme, qui était fort belle et d’une intelligence élevée, l’avait suivi dans tous ses voyages. Elle présida à ce fameux souper où assistèrent la plupart des philosophes du temps, et dans lequel on fit apparaître plusieurs personnages morts depuis peu de temps : selon le système de Cagliostro, il n’y a pas de morts. Aussi avait-on mis douze couverts, quoiqu’il n’y eût que six invités : d’Alembert, Diderot, Voltaire, le duc de Choiseul, l’abbé de Voisenon et on ne sait quel autre, vinrent s’asseoir, quoique morts, aux places qui leur avaient été destinées, et causèrent avec les conviés, de omni re scibili et quibusdam aliis. ¶ Vers cette époque, Cagliostro fonda la célèbre loge égyptienne, laissant à sa femme le soin d’en établir une autre en faveur de son sexe, laquelle fut mise sous l’invocation d’Isis.
+source: Gérard de Nerval, *Les Illuminés*, 1852, « Cagliostro » | gallica bpt6k108403r | ws Les Illuminés (1852)/Cagliostro
+voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval
 
 @ comte-de-saint-germain
 cat: figures
@@ -358,6 +362,8 @@ repere: 1860 — *Histoire de la magie*.
 repere: 1861 — *La Clef des grands mystères* ; reçu franc-maçon, il quitte vite la loge.
 repere: 1875 — Mort à Paris.
 oeuvres: Dogme et rituel de la haute magie (1854-1856) ; Histoire de la magie (1860) ; La Clef des grands mystères (1861) ; La Science des esprits (1865) ; Le Grand Arcane (publié en 1898)
+extrait: Depuis trop longtemps on confond la magie avec les prestiges des charlatans, avec les hallucinations des malades, et avec les crimes de certains malfaiteurs exceptionnels. (…) ¶ La magie ne saurait être ce que la font ceux qui ne la connaissent pas. Il n’appartient d’ailleurs à personne de la faire ceci ou cela ; elle est ce qu’elle est, elle est par elle-même, comme les mathématiques, car c’est la science exacte et absolue de la nature et de ses lois. ¶ La magie est la science des anciens mages ; et la religion chrétienne, qui a imposé silence aux oracles menteurs, et fait cesser tous les prestiges des faux dieux, révère elle-même ces mages qui vinrent de l’Orient, guidés par une étoile, pour adorer le Sauveur du monde dans son berceau.
+source: Éliphas Lévi, *Histoire de la magie*, 1860, introduction | gallica bpt6k75611x | ia histoiredelamagi21013gut = le texte du Projet Gutenberg
 voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique
 
 @ allan-kardec
@@ -370,7 +376,7 @@ def: Pédagogue lyonnais qui, sous le pseudonyme d'Allan Kardec, codifia la doct
 texte: Hippolyte Léon Denizard Rivail naît à Lyon en 1804, dans une famille de magistrats. Il fait ses études à Yverdon, en Suisse, dans l'institut du grand pédagogue Pestalozzi, dont il adopte les méthodes. Installé à Paris, il ouvre une école, publie des manuels d'arithmétique, de grammaire et de comptabilité et des projets de réforme de l'enseignement, et épouse en 1832 une institutrice, Amélie Boudet. Il s'intéresse aussi depuis longtemps au [[magnetisme-animal|magnétisme animal]].
 texte: En 1855, d'abord sceptique, il assiste à des séances de [[tables-tournantes]], venues d'Amérique, chez des amis dont les filles servent de médiums. Il y voit des phénomènes à étudier avec méthode et entreprend d'interroger les esprits sur Dieu, l'âme, la vie future et la morale. Un esprit lui apprend qu'il a été druide dans une vie antérieure, sous le nom d'Allan Kardec, qu'il adopte pour signer ses livres.
 texte: *[[livre-des-esprits|Le Livre des Esprits]]*, publié le 18 avril 1857, rassemble plus de mille questions et réponses. Kardec fonde l'année suivante la *Revue spirite* et la Société parisienne des études spirites, puis publie *Le Livre des médiums* (1861), *L'Évangile selon le spiritisme* (1864), *Le Ciel et l'Enfer* (1865) et *La Genèse* (1868). Sa doctrine, le [[spiritisme]], enseigne l'existence de Dieu, la survie de l'âme revêtue d'un [[perisprit]], la [[reincarnation]] comme moyen de progrès, la communication avec les esprits par les [[medium|médiums]] et une morale de la charité : « Hors la charité point de salut. »
-texte: Le succès est rapide, en France et à l'étranger, malgré l'hostilité de l'Église : en 1861, l'évêque de Barcelone fait brûler publiquement trois cents ouvrages spirites. Kardec meurt subitement à Paris en 1869. Sa tombe au cimetière du Père-Lachaise, en forme de dolmen, porte la devise : « Naître, mourir, renaître encore et progresser sans cesse, telle est la loi. » C'est l'une des plus fleuries de Paris.
+texte: Le succès est rapide, en France et à l'étranger, malgré l'hostilité de l'Église : en 1861, l'évêque de Barcelone fait brûler publiquement trois cents ouvrages spirites. Kardec meurt subitement à Paris en 1869. Sa tombe au cimetière du [[pere-lachaise|Père-Lachaise]], en forme de dolmen, porte la devise : « Naître, mourir, renaître encore et progresser sans cesse, telle est la loi. » C'est l'une des plus fleuries de Paris.
 texte: Si le spiritisme kardéciste a décliné en France, il compte des millions d'adeptes au Brésil, où la Fédération spirite est fondée en 1884, et où il a inspiré hôpitaux, œuvres charitables et médiums célèbres.
 repere: 1804 — Naissance à Lyon.
 repere: 1815 — Élève de Pestalozzi à Yverdon, en Suisse.
@@ -538,7 +544,7 @@ def: Poète et occultiste lorrain, fondateur de l'Ordre kabbalistique de la Rose
 texte: Stanislas de Guaita naît en 1861 au château d'Alteville, en Lorraine, dans une famille noble d'origine italienne. Au lycée de Nancy, il se lie d'amitié avec Maurice Barrès. Il étudie la chimie et le droit, puis s'installe à Paris, où il publie des recueils de poèmes dans le goût symboliste, *La Muse noire*, *Rosa mystica*.
 texte: En 1884, la lecture du *Vice suprême* de [[josephin-peladan|Péladan]] lui fait découvrir [[eliphas-levi]], et il se consacre dès lors à l'[[occultisme]]. Il réunit une bibliothèque occulte célèbre, engage [[oswald-wirth]] comme secrétaire et fonde en 1888, avec Péladan et [[papus]], l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], qui délivre après examen des grades de bachelier, de licencié et de docteur en kabbale.
 texte: Ses *Essais de sciences maudites* — *Au seuil du mystère* (1886), *Le Temple de Satan* (1891), *La Clef de la magie noire* (1897) — étudient la sorcellerie, la magie noire, l'[[envoutement]] et les forces de la [[lumiere-astrale|lumière astrale]], pour mieux les combattre, dans une langue riche et érudite. Le troisième volume, *Le Problème du mal*, est resté inachevé.
-texte: Il est l'un des protagonistes de la « guerre des envoûtements ». En 1887, avec Wirth, il enquête sur l'abbé Boullan, prêtre défroqué de Lyon accusé de pratiques sexuelles rituelles, et un « tribunal » de rosicruciens le condamne. Quand Boullan meurt en 1893, l'écrivain [[joris-karl-huysmans|Huysmans]], qui s'en était inspiré pour *Là-bas*, et le journaliste Jules Bois accusent Guaita de l'avoir tué par magie : un duel au pistolet s'ensuit, sans blessé.
+texte: Il est l'un des protagonistes de la « guerre des envoûtements ». En 1887, avec Wirth, il enquête sur l'abbé [[joseph-antoine-boullan|Boullan]], prêtre défroqué de Lyon accusé de pratiques sexuelles rituelles, et un « tribunal » de rosicruciens le condamne. Quand Boullan meurt en 1893, l'écrivain [[joris-karl-huysmans|Huysmans]], qui s'en était inspiré pour *Là-bas*, et le journaliste Jules Bois accusent Guaita de l'avoir tué par magie : un duel au pistolet s'ensuit, sans blessé.
 texte: Usant de morphine, Guaita meurt à trente-six ans, en 1897, au château d'Alteville. Sa bibliothèque est dispersée aux enchères ; son ordre lui survit, et ses livres restent des classiques de l'occultisme français.
 repere: 1861 — Naissance au château d'Alteville, en Lorraine.
 repere: 1884 — La lecture du *Vice suprême* de Péladan lui fait découvrir Éliphas Lévi.
@@ -549,7 +555,7 @@ repere: 1891 — *Le Temple de Satan*.
 repere: 1893 — Accusé d'avoir tué l'abbé Boullan par envoûtement, il se bat en duel avec Jules Bois.
 repere: 1897 — Mort au château d'Alteville, à trente-six ans.
 oeuvres: Au seuil du mystère (1886) ; Le Temple de Satan (1891) ; La Clef de la magie noire (1897)
-voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme
+voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme, joseph-antoine-boullan
 
 @ josephin-peladan
 cat: figures
@@ -974,7 +980,7 @@ repere: 1866 — Fait baron Lytton.
 repere: 1871 — *La Race future*, qui invente le « vril ».
 repere: 1873 — Mort à Torquay.
 repere: 1960 — *Le Matin des magiciens* fait du vril une légende nazie.
-voir: zanoni, eliphas-levi, rose-croix, agartha, matin-des-magiciens, ariosophie
+voir: zanoni, eliphas-levi, rose-croix, agartha, matin-des-magiciens, ariosophie, vril
 
 @ joris-karl-huysmans
 cat: figures
@@ -984,8 +990,8 @@ dates: 1848 – 1907
 an: 1848
 def: Écrivain français, auteur d'À rebours et de Là-bas, roman du satanisme et de la messe noire, avant de revenir au catholicisme et de lire le symbolisme des cathédrales.
 texte: Charles-Marie-Georges Huysmans naît à Paris en 1848, fils d'un peintre néerlandais. Fonctionnaire au ministère de l'Intérieur pendant plus de trente ans, il commence sa carrière littéraire dans le sillage de Zola et du naturalisme, puis rompt avec lui en 1884 avec *À rebours*, portrait d'un esthète solitaire, des Esseintes, qui devient la bible de la décadence.
-texte: À la fin des années 1880, il se plonge dans l'étude du satanisme pour un roman sur Gilles de Rais, compagnon de Jeanne d'Arc devenu assassin d'enfants et accusé de sorcellerie. Il fréquente les milieux occultistes parisiens et se lie avec un prêtre défroqué de Lyon, l'abbé Boullan, qui se dit en guerre magique contre les rosicruciens de [[stanislas-de-guaita]]. *Là-bas* (1891) suit l'écrivain Durtal, double de Huysmans, qui découvre le Paris occulte et assiste, guidé par une femme du monde, à une [[messe-noire|messe noire]] célébrée par un chanoine sacrilège. Le livre fait scandale et fixe pour longtemps l'image du [[satanisme]] fin de siècle.
-texte: Quand Boullan meurt en 1893, Huysmans accuse les rosicruciens de l'avoir tué par [[envoutement]], ce qui vaut à son ami Jules Bois un duel avec Guaita. Mais Huysmans, lui, a déjà entamé un autre chemin : une retraite à la Trappe d'Igny, en 1892, le ramène à la foi catholique. *En route* (1895) raconte cette conversion, et *La Cathédrale* (1898) déchiffre le symbolisme de Chartres — ses pierres, ses couleurs, ses animaux et ses plantes — comme un grand livre de théologie.
+texte: À la fin des années 1880, il se plonge dans l'étude du satanisme pour un roman sur Gilles de Rais, compagnon de Jeanne d'Arc devenu assassin d'enfants et accusé de sorcellerie. Il fréquente les milieux occultistes parisiens et se lie avec un prêtre défroqué de Lyon, l'abbé [[joseph-antoine-boullan|Boullan]], qui se dit en guerre magique contre les rosicruciens de [[stanislas-de-guaita]]. *Là-bas* (1891) suit l'écrivain Durtal, double de Huysmans, qui découvre le Paris occulte et assiste, guidé par une femme du monde, à une [[messe-noire|messe noire]] célébrée par un chanoine sacrilège. Le livre fait scandale et fixe pour longtemps l'image du [[satanisme]] fin de siècle.
+texte: Quand Boullan meurt en 1893, Huysmans accuse les rosicruciens de l'avoir tué par [[envoutement]], ce qui vaut à son ami Jules Bois un duel avec Guaita. Mais Huysmans, lui, a déjà entamé un autre chemin : une retraite à la Trappe d'Igny, en 1892, le ramène à la foi catholique. *En route* (1895) raconte cette conversion, et *La Cathédrale* (1898) déchiffre le symbolisme de [[cathedrale-de-chartres|Chartres]] — ses pierres, ses couleurs, ses animaux et ses plantes — comme un grand livre de théologie.
 texte: Devenu oblat de l'abbaye bénédictine de Ligugé, il meurt à Paris en 1907, d'un cancer, en acceptant ses souffrances comme une expiation. Son itinéraire, de la décadence au satanisme et du satanisme à la mystique, résume les inquiétudes spirituelles de la fin du XIXe siècle.
 repere: 1848 — Naissance à Paris, d'un père peintre néerlandais.
 repere: 1884 — *À rebours*, bible de la décadence.
@@ -1017,7 +1023,7 @@ repere: 1887 — Premier procès pour exercice illégal de la médecine.
 repere: 1895 — Papus devient son disciple.
 repere: 1901 — Présenté à Nicolas II, il séjourne à la cour de Russie.
 repere: 1905 — Mort à L'Arbresle, près de Lyon.
-voir: papus, martinisme, ordre-martiniste, mystique
+voir: papus, martinisme, ordre-martiniste, mystique, thaumaturge
 
 @ charles-webster-leadbeater
 cat: figures

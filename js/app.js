@@ -2,7 +2,7 @@
 /*
  * Le chef d'orchestre : les réglages, les onglets, l'historique.
  *
- * Cinq onglets (Dictionnaire, Frise, Révision, Carnet, Réglages), une fiche et
+ * Six onglets (Dictionnaire, Frise, Carte, Révision, Carnet, Réglages), une fiche et
  * un éditeur qui s'ouvrent par-dessus. Ce module tient les réglages en
  * mémoire (les autres modules les lisent par `App.reglages`), les applique au
  * document — thème, taille du texte, police —, aiguille le geste « retour »
@@ -12,7 +12,7 @@
 
   let reglages = Object.assign({}, Store.DEFAUTS);
   let vue = 'dictionnaire';
-  const VUES = ['dictionnaire', 'frise', 'quiz', 'carnet', 'reglages'];
+  const VUES = ['dictionnaire', 'frise', 'carte', 'quiz', 'carnet', 'reglages'];
   const TAILLES = [14.5, 16, 18, 20.5];
 
   /* Le thème « automatique » retire l'attribut : c'est alors la préférence du
@@ -45,6 +45,7 @@
       else b.removeAttribute('aria-current');
     }
     if (nom === 'frise') Frise.montrer();
+    if (nom === 'carte') Carte.montrer();
     if (nom === 'quiz') Quiz.montrer();
     if (nom === 'carnet') Carnet.dessiner();
     if (nom === 'reglages') Reglages.dessiner();
@@ -94,6 +95,7 @@
     Editeur.brancher();
     Carnet.brancher();
     Frise.brancher();
+    Carte.brancher();
     Quiz.brancher();
     Reglages.brancher({ manifeste: donnees.manifeste });
     Liste.brancher();

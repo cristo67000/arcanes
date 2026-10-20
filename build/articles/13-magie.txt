@@ -37,7 +37,7 @@ alias: théurge, theurgie, art hiératique, opérations théurgiques
 def: Pratique rituelle destinée à unir l'âme aux dieux ou à Dieu, en faisant « œuvre divine », par opposition à la magie qui chercherait des effets terrestres.
 texte: Le mot grec signifie « œuvre divine ». Il apparaît avec les [[oracles-chaldaiques|Oracles chaldaïques]] et devient, chez [[jamblique]] et [[proclus]], le sommet de la vie philosophique : l'âme ne peut remonter seule vers les dieux, elle a besoin des rites, des symboles, des pierres, des plantes et des noms que les dieux eux-mêmes ont semés dans le monde.
 texte: Les auteurs de la Renaissance distinguent la théurgie, permise parce qu'elle s'adresse aux bons anges, de la [[goetie|goétie]], qui s'adresse aux démons. Au XVIIIe siècle, [[martinez-de-pasqually]] appelle théurgie les opérations des [[elus-coens|Élus Coëns]] ; la [[golden-dawn|Golden Dawn]] reprend le mot pour sa propre pratique.
-voir: jamblique, proclus, oracles-chaldaiques, elus-coens, goetie, magie-ceremonielle
+voir: jamblique, proclus, oracles-chaldaiques, elus-coens, goetie, magie-ceremonielle, thaumaturge
 
 @ goetie
 cat: magie
@@ -165,6 +165,8 @@ alias: évoquer, invocation, invoquer, conjuration, conjurer, adjuration
 def: Opération magique par laquelle on appelle un esprit à se manifester hors de soi ; on la distingue de l'invocation, où l'on appelle une puissance divine à descendre en soi.
 texte: Dans l'évocation, le magicien, protégé par son [[cercle-magique|cercle]], ordonne à un ange ou à un démon d'apparaître, souvent dans un triangle, un miroir ou une fumée d'encens, puis le congédie par une formule de renvoi. La conjuration est la formule par laquelle on le contraint au nom des noms divins.
 texte: La distinction entre évocation et invocation a été précisée par la [[golden-dawn|Golden Dawn]] et [[aleister-crowley]] : on évoque ce qui est inférieur à soi, on invoque ce qui est supérieur. [[eliphas-levi]] raconte son évocation d'Apollonius à Londres, en 1854, comme une expérience troublante dont il déconseille la répétition.
+extrait: Un peu rassuré par mes réflexions, je me rassois sur mes reins, je me piète ; je prononce l’évocation d’une voix claire et soutenue ; et, en grossissant le son, j’appelle, à trois reprises et à très-courts intervalles, Béelzébuth. ¶ Un frisson courait dans toutes mes veines, et mes cheveux se hérissaient sur ma tête. ¶ À peine avais-je fini, une fenêtre s’ouvre à deux battants vis-à-vis de moi, au haut de la voûte : un torrent de lumière plus éblouissante que celle du jour fond par cette ouverture ; une tête de chameau horrible, autant par sa grosseur que par sa forme, se présente à la fenêtre ; surtout elle avait des oreilles démesurées. L’odieux fantôme ouvre la gueule, et, d’un ton assorti au reste de l’apparition, me répond : Che vuoi ?
+source: Jacques Cazotte, *Le Diable amoureux*, 1772 | gallica btv1b8613368c = l’édition originale numérisée | ws Le Diable amoureux/02
 voir: cercle-magique, goetie, necromancie, magie-ceremonielle, theurgie
 
 @ envoutement
@@ -183,7 +185,9 @@ alias: sorcier, sorcière, sorciers, sorcières, maléfice, maleficium, witchcra
 def: Pouvoir de nuire par des moyens occultes que l'on prête à certaines personnes ; dans l'Europe moderne, crime imaginaire d'alliance avec le Diable, puni de mort.
 texte: Dans de nombreuses sociétés, le malheur — maladie, mort du bétail, mauvaise récolte — est attribué à l'action malveillante d'un voisin doté de pouvoirs. L'Europe médiévale connaît des guérisseurs, des devins et des « jeteurs de sorts ». À partir du XVe siècle, les théologiens et les juges construisent une figure nouvelle : la sorcière qui a fait un pacte avec Satan, vole la nuit vers le [[sabbat]] et tue par maléfice. C'est l'origine de la [[chasse-aux-sorcieres|chasse aux sorcières]].
 texte: Au XXe siècle, le mot change de sens : la [[wicca]] et des courants féministes revendiquent l'héritage des « sorcières » comme figure de liberté et de savoir féminin. Les historiens soulignent que les victimes des procès n'appartenaient pas, pour l'essentiel, à une religion païenne survivante.
-voir: chasse-aux-sorcieres, sabbat, demonologie, wicca, envoutement
+extrait: Sprenger dit (avant 1500) : « Il faut dire l’hérésie des sorcières, et non des sorciers ; ceux-ci sont peu de chose. » — Et un autre sous Louis XIII : « Pour un sorcier, dix mille sorcières. » ¶ « Nature les fait sorcières. » — C’est le génie propre à la Femme et son tempérament. Elle naît Fée. Par le retour régulier de l’exaltation, elle naît Sibylle. Par l’amour, elle est Magicienne. Par sa finesse, sa malice (souvent fantasque et bienfaisante), elle est Sorcière et fait le sort, du moins endort, trompe les maux.
+source: Jules Michelet, *La Sorcière*, 1862, introduction | gallica bpt6k57265106 = l’édition de 1878 numérisée | ws La Sorcière/Introduction
+voir: chasse-aux-sorcieres, sabbat, demonologie, wicca, envoutement, grillot-de-givry, salem
 
 @ sabbat
 cat: magie
@@ -192,6 +196,8 @@ alias: sabbat des sorcières, sabbats, nuit de Walpurgis, balai, onguent des sor
 def: Assemblée nocturne où, selon les démonologues et les juges des XVe-XVIIe siècles, les sorcières rendaient un culte au Diable, présent sous la forme d'un bouc.
 texte: Les procès décrivent le vol nocturne sur un balai ou un animal, après s'être enduit d'un onguent ; l'arrivée dans un lieu désert ; l'hommage au Diable, souvent par un baiser obscène ; les danses à rebours, les festins, les orgies et la préparation de poisons. Le mot, pris au sabbat juif, trahit l'hostilité antijuive de ceux qui l'ont imaginé.
 texte: Les historiens y voient pour l'essentiel une construction des démonologues, que la torture faisait confirmer par les accusés. L'historien Carlo Ginzburg a cependant montré, avec les *benandanti* du Frioul, qui disaient combattre en esprit les sorciers pour protéger les récoltes, que des croyances populaires en des voyages extatiques ont été réinterprétées par les juges.
+extrait: Sabbat. C’est l’assemblée des démons, des sorciers et des sorcières dans leurs orgies nocturnes. Nous devons donner ici les relations des démonomanes sur ce sujet. On s’occupe au sabbat, disent-ils, à faire ou à méditer le mal, à donner des craintes et des frayeurs, à préparer les maléfices, à accomplir des mystères abominables. Le sabbat se fait dans un carrefour ou dans quelque lieu désert et sauvage, auprès d’un lac, d’un étang, d’un marais, parce qu’on y produit la grêle et qu’on y fabrique des orages. (…) Les nuits ordinaires de la convocation du sabbat sont celles du mercredi au jeudi et du vendredi au samedi.
+source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Sabbat » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Sabbat
 voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet
 
 @ chasse-aux-sorcieres
@@ -201,7 +207,7 @@ alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus malefic
 def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
 texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
 texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin [[jean-wier|Jean Wier]] en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
-voir: sorcellerie, sabbat, demonologie, affaire-des-poisons
+voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem
 
 @ demonologie
 cat: magie
@@ -210,7 +216,7 @@ alias: démonologue, démons, démon, diable, Dictionnaire infernal, Collin de P
 def: Étude et classement des démons, de leur nature, de leurs noms, de leurs pouvoirs et de leurs relations avec les hommes, développée par les théologiens et les magiciens.
 texte: La tradition chrétienne voit dans les démons des anges déchus, révoltés avec Lucifer. Les démonologues de la Renaissance, comme le juriste [[jean-bodin|Jean Bodin]] (*De la démonomanie des sorciers*, 1580), décrivent leurs ruses et justifient la répression de la sorcellerie. D'autres, comme le médecin [[jean-wier|Jean Wier]] (*Des illusions des démons*, 1563), expliquent par la maladie les cas de possession et publient une liste de démons pour en montrer l'absurdité.
 texte: Les grimoires dressent des hiérarchies infernales, avec rois, ducs et marquis. Au XIXe siècle, le *Dictionnaire infernal* de Jacques Collin de Plancy (1818, illustré en 1863) devient une référence populaire. La [[goetie]] et la littérature fantastique puisent abondamment dans cette tradition.
-voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet
+voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet, incube-et-succube
 
 @ anges
 cat: magie

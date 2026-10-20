@@ -94,7 +94,7 @@ alias: labyrinthes, chemin de Jérusalem, labyrinthe de Chartres, Minotaure, fil
 def: Construction ou tracé aux chemins sinueux, symbole du parcours difficile qui mène au centre, à soi-même ou à Dieu, et de l'épreuve initiatique.
 texte: Le mythe grec raconte que Dédale construisit en Crète le labyrinthe où le roi Minos enferma le Minotaure, et que Thésée en sortit grâce au fil d'Ariane. Les cathédrales gothiques, comme Chartres vers 1200, tracent sur leur sol de grands labyrinthes à chemin unique, que l'on parcourait en prière : on les appelait parfois « chemins de Jérusalem ».
 texte: Pour l'ésotérisme, le labyrinthe figure l'[[initiation]] : un chemin qui semble s'éloigner du but et qui pourtant y conduit, une mort symbolique au centre suivie d'un retour transformé.
-voir: initiation, mandala, mysteres-antiques
+voir: initiation, mandala, mysteres-antiques, bomarzo, cathedrale-de-chartres
 
 @ mandala
 cat: symboles
@@ -186,7 +186,7 @@ alias: sphinge, énigme du sphinx, savoir oser vouloir se taire
 def: Créature à corps de lion et tête humaine, gardien des secrets en Égypte et en Grèce, devenu chez les occultistes le symbole des quatre vertus du mage : savoir, oser, vouloir et se taire.
 texte: Le grand sphinx de Gizeh, sculpté il y a plus de quatre mille cinq cents ans, figure un roi en lion couché. Le sphinx grec, femelle et ailé, pose à Œdipe son énigme : quel être marche à quatre pattes le matin, à deux à midi, à trois le soir ? L'homme.
 texte: [[eliphas-levi]] compose un sphinx des quatre vivants du [[tetramorphe]] — taureau, lion, aigle et homme — et en tire la devise du mage : « Savoir, oser, vouloir, se taire. » Le sphinx couronne la [[arcane-roue-de-fortune|Roue de Fortune]] du tarot.
-voir: tetramorphe, egyptosophie, arcane-roue-de-fortune, eliphas-levi
+voir: tetramorphe, egyptosophie, arcane-roue-de-fortune, eliphas-levi, gizeh
 
 @ serpent
 cat: symboles
@@ -276,9 +276,11 @@ cat: symboles
 nom: Graal
 alias: Saint-Graal, saint Graal, Perceval, Parzival, Parsifal, quête du Graal
 def: Objet mystérieux des romans arthuriens, d'abord un plat, puis la coupe de la Cène ou une pierre tombée du ciel, devenu le symbole d'une quête spirituelle et d'un secret caché.
-texte: Dans le *Conte du Graal* de Chrétien de Troyes, vers 1180, le jeune Perceval voit passer au château du Roi Pêcheur un « graal », un plat d'or, sans oser demander à qui il sert. Robert de Boron en fait la coupe où Joseph d'Arimathie recueillit le sang du Christ ; Wolfram von Eschenbach, dans son *Parzival*, une pierre tombée du ciel. Wagner en tire *Parsifal* (1882).
-texte: L'ésotérisme moderne s'en est emparé : [[josephin-peladan]] place sa Rose-Croix sous le signe du Graal, [[rene-guenon]] y voit un symbole du centre spirituel, [[julius-evola]] lui consacre un livre, et Otto Rahn le cherche chez les [[catharisme|cathares]] de Montségur. Les récits contemporains d'une descendance secrète du Christ n'ont aucune base historique.
-voir: catharisme, templiers, josephin-peladan, tradition-primordiale
+texte: Dans le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]], vers 1180, le jeune Perceval voit passer au château du Roi Pêcheur un « graal », un plat d'or, sans oser demander à qui il sert. Robert de Boron en fait la coupe où Joseph d'Arimathie recueillit le sang du Christ ; [[wolfram-von-eschenbach|Wolfram von Eschenbach]], dans son *[[parzival|Parzival]]*, une pierre tombée du ciel. Wagner en tire *Parsifal* (1882).
+texte: L'ésotérisme moderne s'en est emparé : [[josephin-peladan]] place sa Rose-Croix sous le signe du Graal, [[rene-guenon]] y voit un symbole du centre spirituel, [[julius-evola]] lui consacre un livre, et [[otto-rahn|Otto Rahn]] le cherche chez les [[catharisme|cathares]] de [[montsegur|Montségur]]. Les récits contemporains d'une descendance secrète du Christ n'ont aucune base historique.
+extrait: Le Cycle étant breton, peut-on voir dans la conception de cette Massénie un avatar de l’esprit druidique ? ¶ L’idée initiatique du Saint-Graal a-t-elle été rapportée de Palestine par des croisés ? ¶ (…) N’était-ce pas là un refuge offert aux Albigeois, aux Cathares, aux Parfaits, à tous ces mystiques dissidents qui s’étaient séparés de l’Église pour chercher l’Évangile.
+source: Joséphin Péladan, *Le Secret des troubadours. De Parsifal à Don Quichotte*, 1906, chap. II | gallica bd6t53938446f | ws Le Secret des troubadours (Péladan)/3
+voir: catharisme, templiers, josephin-peladan, tradition-primordiale, glastonbury, montserrat, broceliande
 
 @ oeuf-cosmique
 cat: symboles
@@ -296,7 +298,7 @@ alias: pyramide, grande pyramide, Khéops, pyramidologie, pouvoir des pyramides
 def: Monuments funéraires des pharaons d'Égypte, dont la Grande Pyramide de Gizeh a été chargée depuis le XIXe siècle de secrets mathématiques, prophétiques ou énergétiques.
 texte: La Grande Pyramide, tombeau du roi Khéops, est bâtie vers 2560 avant notre ère. En 1864, l'astronome écossais Charles Piazzi Smyth, à la suite de l'éditeur John Taylor, croit y découvrir une unité de mesure divine, le « pouce pyramidal », et une chronologie prophétique de l'humanité : c'est la « pyramidologie ». Au XXe siècle, la mode du « pouvoir des pyramides » prétend qu'une forme pyramidale conserve les aliments et aiguise les lames de rasoir.
 texte: Les égyptologues ont montré, notamment par la découverte du village et des tombes des ouvriers, comment les Égyptiens construisirent ces monuments. Les théories ésotériques qui leur prêtent une origine perdue ou extraterrestre ne reposent sur aucune preuve.
-voir: egyptosophie, nombre-d-or, schwaller-de-lubicz, oeil-de-la-providence
+voir: egyptosophie, nombre-d-or, schwaller-de-lubicz, oeil-de-la-providence, gizeh
 
 @ hieroglyphes
 cat: symboles
@@ -314,7 +316,7 @@ alias: emblème, livres d'emblèmes, emblématique, Alciat, emblèmes alchimique
 def: Genre littéraire et artistique de la Renaissance qui associe une devise, une image et un poème pour exprimer une idée morale ou philosophique ; l'alchimie et la Rose-Croix en ont fait un langage secret.
 texte: Le premier livre d'emblèmes est publié en 1531 par le juriste italien André Alciat. Chaque emblème comprend un titre ou une devise, une gravure et un court poème qui en donne la clé. Le genre connaît un immense succès dans toute l'Europe, nourri par l'idée que les [[hieroglyphes]] égyptiens enseignaient par images.
 texte: Les alchimistes s'en emparent pour dire sans dire : l'*[[atalanta-fugiens|Atalanta fugiens]]* de [[michael-maier]], l'*[[amphitheatrum|Amphithéâtre]]* de Khunrath, le *[[mutus-liber|Mutus liber]]* et le *[[splendor-solis|Splendor solis]]* forment le grand corpus de l'iconographie alchimique, que l'on commente encore aujourd'hui.
-voir: atalanta-fugiens, hieroglyphes, splendor-solis, mutus-liber, rosaire-des-philosophes
+voir: atalanta-fugiens, hieroglyphes, splendor-solis, mutus-liber, rosaire-des-philosophes, albert-poisson, grillot-de-givry
 
 @ aigle-bicephale
 cat: symboles

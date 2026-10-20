@@ -32,7 +32,7 @@ alias: gnosis, connaissance salvatrice
 def: Connaissance intérieure et révélée qui, selon ceux qui s'en réclament, sauve celui qui la reçoit en lui faisant découvrir son origine divine.
 texte: Le mot grec *gnôsis* signifie simplement « connaissance ». Dans les premiers siècles de notre ère, il désigne une connaissance d'un genre particulier : non pas un savoir appris, mais une révélation qui transforme. Celui qui sait d'où il vient, où il est tombé et où il retourne est sauvé par ce savoir même. Cette idée se trouve dans les mouvements que l'on appelle [[gnosticisme|gnostiques]], dans l'[[hermetisme]] et, sous d'autres formes, dans le [[manicheisme]].
 texte: Le mot a connu une seconde vie. Les théosophes chrétiens comme [[jakob-boehme]] parlent de « gnose » pour une connaissance de Dieu et de la nature fondée sur l'illumination ; au XIXe siècle, [[jules-doinel]] fonde une Église gnostique ; [[rene-guenon]] emploie le terme pour la connaissance métaphysique pure. Les historiens distinguent donc la gnose, attitude religieuse qui traverse les siècles, du gnosticisme, ensemble de mouvements datés de l'Antiquité.
-voir: gnosticisme, plerome, demiurge, sophia, bibliotheque-de-nag-hammadi, eglise-gnostique
+voir: gnosticisme, plerome, demiurge, sophia, bibliotheque-de-nag-hammadi, eglise-gnostique, pneuma, syzygie
 
 @ gnosticisme
 cat: courants
@@ -67,7 +67,7 @@ def: Dernière grande école de la philosophie grecque, fondée par Plotin, qui 
 texte: Pour [[plotin]], tout procède de l'Un, au-delà de l'être et de la pensée, comme la lumière rayonne du soleil sans l'appauvrir. De l'Un émane l'Intellect, où résident les Idées ; de l'Intellect, l'[[ame-du-monde|Âme]], qui anime le cosmos ; au plus bas, la matière. L'âme humaine, descendue dans un corps, peut remonter à sa source par la purification, la philosophie et la contemplation, jusqu'à l'union avec l'Un.
 texte: Les successeurs de Plotin — [[porphyre]], [[jamblique]], [[proclus]] — donnent une place croissante aux rites, aux dieux et aux démons intermédiaires : c'est la [[theurgie]]. Fermée à Athènes en 529, l'école lègue à la pensée chrétienne, juive et musulmane le schéma de l'[[emanation]] et de la remontée de l'âme, notamment par le [[pseudo-denys]]. [[marsile-ficin]] traduit Plotin en 1492 : le néoplatonisme devient l'un des fondements de l'ésotérisme de la Renaissance.
 schema: emanation-plotin
-voir: plotin, emanation, theurgie, ame-du-monde, oracles-chaldaiques, platon
+voir: plotin, emanation, theurgie, ame-du-monde, oracles-chaldaiques, platon, villa-de-careggi
 
 @ pythagorisme
 cat: courants
@@ -100,7 +100,9 @@ an: -600
 def: Cultes initiatiques de l'Antiquité grecque et romaine, réservés à ceux qui avaient reçu une initiation secrète promettant un sort heureux après la mort.
 texte: Les plus célèbres sont les mystères d'Éleusis, près d'Athènes, consacrés à Déméter et à sa fille Perséphone, célébrés pendant près de deux mille ans. Viennent ensuite ceux de Dionysos, d'Isis et Osiris, de Cybèle et Attis, et de Mithra, très répandus dans l'armée romaine. Le secret a été si bien gardé que nous ignorons presque tout de ce qui était montré aux initiés ; on sait seulement qu'ils en sortaient transformés, « avec de meilleures espérances ».
 texte: Les mystères ont fourni à l'ésotérisme moderne son modèle de l'[[initiation]] : une mort symbolique suivie d'une renaissance, sous la conduite d'un maître, au sein d'une communauté qui garde un secret. La [[franc-maconnerie]] du XVIIIe siècle s'en est réclamée, et les écrivains de l'[[occultisme]] y ont vu le dépôt d'une sagesse égyptienne perdue.
-voir: initiation, orphisme, egyptosophie, franc-maconnerie
+extrait: Sans doute, ami lecteur, votre curiosité va s’enquérir de ce qui se dit, de ce qui se fit ensuite. Je le dirais, s’il était permis de le dire ; vous l’apprendriez, s’il était permis de l’apprendre. Mais il y aurait crime au même degré pour les oreilles confidentes et pour la bouche révélatrice. (…) Écoutez et croyez, car ce que je dis est vrai. J’ai touché aux portes du trépas ; mon pied s’est posé sur le seuil de Proserpine. Au retour, j’ai traversé tous les éléments. Dans la profondeur de la nuit, j’ai vu rayonner le soleil. Dieux de l’enfer, dieux de l’Empyrée, tous ont été vus par moi face à face, et adorés de près.
+source: Apulée, *L’Âne d’or ou les Métamorphoses*, livre XI, trad. sous la direction de Désiré Nisard, 1865 | gallica bpt6k282077x | ws L’Âne d’or ou les Métamorphoses/XI
+voir: initiation, orphisme, egyptosophie, franc-maconnerie, eleusis, samothrace, hierophante
 
 @ sabeens-de-harran
 cat: courants
@@ -111,7 +113,7 @@ dates: IXe – XIe siècles
 def: Communauté païenne de la ville de Harran, en haute Mésopotamie, qui se réclamait d'Hermès et transmit au monde arabe une part de l'héritage astrologique et hermétique grec.
 texte: À l'époque abbasside, les habitants de Harran, restés fidèles au culte des astres, se font reconnaître comme « Sabéens », l'un des peuples du Livre mentionnés par le Coran, pour échapper à la conversion. Ils honorent Hermès et Agathodémon comme leurs prophètes. Le plus célèbre d'entre eux, Thâbit ibn Qurra, mathématicien et traducteur à Bagdad, a composé un traité sur les images astrologiques.
 texte: Leur réputation de savants adorateurs des planètes a nourri, dans la littérature arabe puis latine, l'idée d'une magie astrale d'origine hermétique : le [[picatrix|Picatrix]] décrit longuement leurs prières aux planètes. Les historiens restent prudents sur ce que fut réellement leur religion, connue surtout par des témoignages extérieurs.
-voir: hermetisme, picatrix, talisman, astrologie
+voir: hermetisme, picatrix, talisman, astrologie, harran
 
 @ philosophie-occulte
 cat: courants
@@ -212,7 +214,7 @@ def: Doctrine codifiée par Allan Kardec selon laquelle les esprits des morts pe
 texte: La vogue des [[tables-tournantes]], venue d'Amérique, gagne la France en 1853 : dans les salons, on interroge les esprits par des coups frappés. Un pédagogue lyonnais, Hippolyte Léon Denizard Rivail, recueille et classe leurs réponses et publie en 1857, sous le nom d'[[allan-kardec]], *[[livre-des-esprits|Le Livre des Esprits]]*. La doctrine qu'il en tire se veut à la fois science expérimentale, philosophie et morale : l'âme survit à la mort, revêtue d'un [[perisprit]] ; elle se [[reincarnation|réincarne]] pour progresser ; la charité est la loi suprême.
 texte: Le spiritisme connaît un succès considérable, de [[victor-hugo|Victor Hugo]], qui interroge les tables à Jersey, aux milieux populaires et ouvriers. Il décline en France après la Première Guerre mondiale mais reste très vivant au Brésil, où il compte des millions de fidèles. Les occultistes, comme [[eliphas-levi]] et [[papus]], le jugeaient naïf : selon eux, les « esprits » n'étaient que des reflets de la [[lumiere-astrale]].
 attention: Le spiritisme français, réincarnationniste, se distingue du [[spiritualisme]] anglo-saxon, qui le plus souvent ne l'est pas.
-voir: allan-kardec, medium, tables-tournantes, perisprit, spiritualisme, metapsychique
+voir: allan-kardec, medium, tables-tournantes, perisprit, spiritualisme, metapsychique, poltergeist
 
 @ spiritualisme
 cat: courants
@@ -247,6 +249,8 @@ def: Doctrine de la Société théosophique, fondée en 1875 par Helena Blavatsk
 texte: [[helena-blavatsky]] expose cette doctrine dans *[[isis-devoilee|Isis dévoilée]]* (1877) puis *[[doctrine-secrete|La Doctrine secrète]]* (1888), qu'elle dit inspirées par des [[maitres-de-sagesse|Maîtres]] vivant au Tibet. Le cosmos y évolue par grands cycles ; l'homme est fait de sept principes, du corps physique à l'esprit pur ; l'humanité traverse une série de « races-racines », dont celles de la [[lemurie|Lémurie]] et de l'[[atlantide|Atlantide]] ; l'âme progresse par la [[reincarnation]] selon la loi du [[karma]].
 texte: La [[societe-theosophique|Société théosophique]], installée en Inde à partir de 1879, a puissamment contribué à faire connaître en Occident l'hindouisme et le bouddhisme, à travers une lecture très libre. Elle a donné naissance à de nombreux mouvements, de l'[[anthroposophie]] de [[rudolf-steiner]] aux enseignements d'[[alice-bailey]], et fourni une grande partie du vocabulaire du [[new-age|New Age]].
 attention: À ne pas confondre avec la [[theosophie-chretienne|théosophie chrétienne]] de Jakob Boehme et de ses disciples.
+extrait: En effet, bien antérieurement à la création de la Société dite Théosophique, le vocable de théosophie servait de dénomination commune à des doctrines assez diverses, mais appartenant cependant toutes à un même type, ou du moins procédant d’un même ensemble de tendances ; il convient donc de lui garder la signification qu’il a historiquement. (…) Telles sont, par exemple, des doctrines comme celles de Jacob Bœhme, de Gichtel, de William Law, de Jane Lead, de Swedenborg, de Louis-Claude de Saint-Martin, d’Eckartshausen ; nous ne prétendons pas donner une liste complète, nous nous bornons à citer quelques noms parmi les plus connus.
+source: René Guénon, *Le Théosophisme, histoire d’une pseudo-religion*, 1921, avant-propos | gallica bd6t5924664v | ws Le Théosophisme, histoire d'une pseudo-religion/Avant-propos
 voir: helena-blavatsky, societe-theosophique, doctrine-secrete, maitres-de-sagesse, karma, corps-subtils
 
 @ anthroposophie
@@ -258,7 +262,7 @@ dates: depuis 1913
 def: Doctrine fondée par Rudolf Steiner, qui se présente comme une « science de l'esprit » capable de connaître les mondes spirituels par un développement méthodique des facultés humaines.
 texte: Secrétaire général de la section allemande de la [[societe-theosophique|Société théosophique]], [[rudolf-steiner]] rompt avec elle en 1913, notamment parce qu'il refuse de reconnaître dans le jeune [[jiddu-krishnamurti]] un nouveau messie, et fonde la [[societe-anthroposophique|Société anthroposophique]]. Sa doctrine garde le cadre théosophique — [[corps-subtils]], [[reincarnation]], [[karma]], [[annales-akashiques]] — mais place au centre le Christ, dont la mort sur le Golgotha serait l'événement décisif de l'évolution cosmique.
 texte: L'anthroposophie est surtout connue par ses applications : la pédagogie des écoles Steiner-Waldorf, l'agriculture biodynamique, une médecine dite anthroposophique, l'eurythmie et une architecture, celle du Goetheanum de Dornach, en Suisse. Ces pratiques reposent sur les visions de Steiner et non sur des preuves expérimentales, ce qui leur vaut de vives critiques.
-voir: rudolf-steiner, societe-anthroposophique, theosophie, corps-subtils, annales-akashiques
+voir: rudolf-steiner, societe-anthroposophique, theosophie, corps-subtils, annales-akashiques, goetheanum
 
 @ traditionalisme
 cat: courants
@@ -280,7 +284,9 @@ dates: depuis 1904
 def: Religion et philosophie fondées par Aleister Crowley, dont la loi tient en une phrase : « Fais ce que tu voudras sera le tout de la Loi ».
 texte: Le mot grec *thelêma* signifie « volonté ». En avril 1904, au Caire, [[aleister-crowley]] dit avoir reçu sous la dictée d'une entité nommée Aiwass le *[[livre-de-la-loi|Livre de la Loi]]*, qui proclame l'avènement d'un nouvel âge, l'« éon d'Horus ». La formule centrale, qui reprend l'abbaye de Thélème de Rabelais, ne prône pas le caprice : chacun doit découvrir sa « vraie volonté », sa raison d'être, et la suivre. « L'amour est la loi, l'amour soumis à la volonté. »
 texte: Crowley organise sa religion au sein de l'[[a-a|A∴A∴]] et de l'[[oto|Ordo Templi Orientis]], pour lequel il compose une messe, la Messe gnostique. Thelema a profondément influencé la [[magie]] du XXe siècle, la [[wicca]], la [[magie-du-chaos]] et la contre-culture.
-voir: aleister-crowley, livre-de-la-loi, oto, a-a, magie-ceremonielle
+extrait: Toute leur vie estoit employee non par loix, statuz ou reigles, mais selon leur vouloir & franc arbitre. Se leuoient du lict quand bon leur sembloit : beuuoient, mangeoient, trauailloient, dormoient quand le desir leur venoit. Nul ne les esueilloit, nul ne les parforceoit ny à boyre, ny à manger, ny à faire chose aultre quelconques. Ainsi l’auoit estably Gargantua. En leur reigle n’estoit que ceste clause. Fay ce que vouldras.
+source: François Rabelais, *Gargantua*, chap. LVII (édition Marty-Laveaux, 1868, s longs modernisés) | gallica btv1b86000209 = l’édition de 1535 numérisée | ws Les Œuvres de François Rabelais (Éditions Marty-Laveaux)/Gargantua/57
+voir: aleister-crowley, livre-de-la-loi, oto, a-a, magie-ceremonielle, abbaye-de-theleme, francois-rabelais
 
 @ nouvelle-pensee
 cat: courants
@@ -302,7 +308,7 @@ dates: depuis 1882
 def: Étude des phénomènes attribués aux médiums et aux facultés supposées de l'esprit — télépathie, clairvoyance, action à distance —, menée avec les méthodes de la science.
 texte: La [[society-for-psychical-research|Society for Psychical Research]] est fondée à Londres en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste [[charles-richet|Charles Richet]], prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
 texte: Plus d'un siècle de recherches n'a pas produit de résultat que la communauté scientifique tienne pour établi : les effets annoncés disparaissent quand on renforce les contrôles ou qu'on répète les expériences. La métapsychique a en revanche démasqué bien des fraudes de médiums.
-voir: spiritualisme, medium, ectoplasme, voyance, tables-tournantes
+voir: spiritualisme, medium, ectoplasme, voyance, tables-tournantes, telepathie, poltergeist
 
 @ new-age
 cat: courants
@@ -345,8 +351,8 @@ an: 1792
 dates: depuis le XVIIIe siècle
 def: Mouvement moderne qui se réclame des druides de la Gaule et de la Bretagne antiques, dont il reconstitue ou invente les rites et la sagesse.
 texte: Les druides de l'Antiquité ne nous sont connus que par quelques auteurs grecs et romains, comme César : ils n'écrivaient pas leur enseignement, qui portait sur l'immortalité de l'âme, les astres et la nature. Le néo-druidisme naît au XVIIIe siècle dans les milieux antiquaires britanniques, qui voient dans les monuments mégalithiques (pourtant bien plus anciens) des temples druidiques ; le poète gallois Iolo Morganwg crée en 1792 une assemblée de bardes, la Gorsedd, en s'appuyant sur des textes qu'il a lui-même fabriqués.
-texte: Aujourd'hui, le druidisme regroupe des associations culturelles bretonnes, galloises et cornouaillaises et des groupes religieux néo-païens, qui célèbrent les solstices à Stonehenge ou dans les forêts, sous des emblèmes comme le [[triskele|triskèle]].
-voir: neopaganisme, wicca
+texte: Aujourd'hui, le druidisme regroupe des associations culturelles bretonnes, galloises et cornouaillaises et des groupes religieux néo-païens, qui célèbrent les solstices à [[stonehenge|Stonehenge]] ou dans les forêts, sous des emblèmes comme le [[triskele|triskèle]].
+voir: neopaganisme, wicca, carnac, stonehenge, broceliande
 
 @ soufisme
 cat: courants
@@ -368,7 +374,7 @@ dates: depuis le VIe siècle
 def: Ensemble de traditions indiennes, hindoues et bouddhistes, qui visent la libération par des rites, des formules, des diagrammes et des techniques du corps, transmis par initiation.
 texte: Les tantras sont des textes qui se présentent comme une révélation nouvelle, adaptée à l'âge sombre. Ils enseignent l'usage de formules sacrées (*mantra*), de diagrammes cosmiques (*yantra* et [[mandala|mandalas]]), de gestes (*mudrâ*) et d'une physiologie subtile faite de canaux et de centres d'énergie, les [[chakra|chakras]], que parcourt la [[kundalini]]. Le bouddhisme tibétain en est en grande partie issu.
 texte: L'Occident a découvert le tantrisme à travers la [[theosophie]], puis les ouvrages de l'orientaliste John Woodroffe, publiés dans les années 1910. Il l'a souvent réduit à une technique sexuelle, ce qui ne correspond qu'à une part minoritaire de traditions avant tout rituelles et ascétiques.
-voir: chakra, kundalini, mandala, magie-sexuelle
+voir: chakra, kundalini, mandala, magie-sexuelle, mantra
 
 @ chamanisme
 cat: courants
@@ -377,7 +383,7 @@ alias: chaman, chamane, shaman, néo-chamanisme, neochamanisme
 def: Ensemble de pratiques religieuses où un spécialiste, le chamane, entre en transe pour voyager dans le monde des esprits, afin de guérir, de deviner ou de protéger sa communauté.
 texte: Le mot vient de la langue des Toungouses de Sibérie, où les explorateurs russes l'ont recueilli au XVIIe siècle. L'historien des religions Mircea Eliade, dans *Le Chamanisme et les techniques archaïques de l'extase* (1951), en a fait une catégorie universelle, retrouvée en Asie, dans les Amériques et ailleurs : le chamane monte au ciel ou descend aux enfers par l'arbre ou l'axe du monde, aidé d'esprits auxiliaires souvent animaux.
 texte: Depuis les années 1960, un « néo-chamanisme » occidental, popularisé par les livres de Carlos Castaneda et par l'anthropologue Michael Harner, propose des stages de voyage chamanique au son du tambour. Les peuples autochtones dénoncent souvent ces emprunts comme une appropriation de leurs traditions.
-voir: new-age, arbre-cosmique, neopaganisme
+voir: new-age, arbre-cosmique, neopaganisme, psychopompe, extase
 
 @ catharisme
 cat: courants
@@ -386,9 +392,9 @@ alias: cathares, cathare, albigeois, bonshommes, parfaits
 an: 1160
 dates: XIIe – XIVe siècles
 def: Mouvement chrétien dissident du Moyen Âge, implanté surtout en Languedoc et en Italie, qui opposait le Dieu bon, créateur des âmes, au mauvais principe, auteur du monde visible.
-texte: Les « bons hommes » et « bonnes femmes », comme ils se nommaient eux-mêmes, rejettent les sacrements de l'Église romaine et ne connaissent qu'un rite, le *consolament*, imposition des mains qui fait du croyant un « parfait » astreint à une vie d'ascèse. L'Église lance contre eux la croisade des Albigeois (1209-1229), puis l'Inquisition ; Montségur tombe en 1244, et le dernier parfait connu est brûlé en 1321.
-texte: Au XIXe siècle, l'historien Napoléon Peyrat puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand Otto Rahn cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ».
-voir: manicheisme, gnose, graal, eglise-gnostique
+texte: Les « bons hommes » et « bonnes femmes », comme ils se nommaient eux-mêmes, rejettent les sacrements de l'Église romaine et ne connaissent qu'un rite, le [[consolamentum|consolament]], imposition des mains qui fait du croyant un « [[parfaits|parfait]] » astreint à une vie d'ascèse. L'Église lance contre eux la croisade des Albigeois (1209-1229), puis l'Inquisition ; [[montsegur|Montségur]] tombe en 1244, et le dernier parfait connu est brûlé en 1321.
+texte: Au XIXe siècle, l'historien [[napoleon-peyrat|Napoléon Peyrat]] puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand [[otto-rahn|Otto Rahn]] cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ».
+voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur
 
 @ ariosophie
 cat: courants
@@ -399,7 +405,7 @@ dates: 1900 – 1945
 def: Courant occultiste autrichien et allemand du début du XXe siècle, qui mêlait théosophie, mythologie germanique et racisme, et prétendait révéler la sagesse secrète d'anciens Aryens.
 texte: [[guido-von-list|Guido von List]], écrivain viennois, invente vers 1900 une religion germanique primitive, l'« armanisme », dont les prêtres auraient caché leur savoir dans les [[runes]], l'héraldique et les légendes. Jörg Lanz von Liebenfels fonde en 1907 un « Ordre du Nouveau Temple » et une revue, *Ostara*, où il prêche une hiérarchie des races. Tous deux reprennent à la [[theosophie]] les idées de races-racines et de cycles, en les détournant vers le nationalisme.
 texte: Leurs idées circulent dans les milieux völkisch d'où sortira le nazisme, notamment par la [[societe-thule|Société Thulé]]. Les historiens, à la suite de Nicholas Goodrick-Clarke (*Les Racines occultistes du nazisme*, 1985), ont montré que leur influence réelle sur les dirigeants nazis fut limitée, bien moindre que ne le prétendent les récits sensationnels.
-voir: societe-thule, runes, svastika, theosophie
+voir: societe-thule, runes, svastika, theosophie, karl-maria-wiligut, jorg-lanz-von-liebenfels, rudolf-von-sebottendorf, ahnenerbe
 
 @ satanisme
 cat: courants
@@ -430,7 +436,7 @@ alias: egyptomanie, égyptomanie, egypte ésotérique, sagesse égyptienne, egyp
 def: Image de l'Égypte ancienne comme patrie d'une sagesse secrète et de mystères initiatiques, construite par les Grecs puis par l'ésotérisme occidental, distincte de l'Égypte connue des égyptologues.
 texte: Le mot a été proposé par l'égyptologue Erik Hornung, dans un livre de 1999 traduit sous le titre *L'Égypte ésotérique*. Dès l'Antiquité, Hérodote, Platon et Plutarque présentent l'Égypte comme le pays des prêtres savants ; l'[[hermetisme]] place ses révélations dans la bouche d'[[hermes-trismegiste]], double grec du dieu Thot. La Renaissance cherche dans les [[hieroglyphes]] des symboles philosophiques, et [[athanasius-kircher]] croit les déchiffrer.
 texte: Au XVIIIe siècle, la [[franc-maconnerie]] invente des rites « égyptiens », de [[cagliostro]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], et [[court-de-gebelin]] voit dans le [[tarot]] le *Livre de Thot*. Le déchiffrement des hiéroglyphes par Champollion en 1822 révèle une tout autre Égypte, mais l'Égypte rêvée continue de vivre dans l'[[occultisme]], la [[theosophie]] et les spéculations sur les [[pyramides]].
-voir: hieroglyphes, hermes-trismegiste, mysteres-antiques, pyramides, rite-de-memphis-misraim
+voir: hieroglyphes, hermes-trismegiste, mysteres-antiques, pyramides, rite-de-memphis-misraim, hermopolis, dendera
 
 @ hassidisme
 cat: courants

@@ -34,7 +34,8 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-courants { --cc: var(--c-courants); } .cat-figures { --cc: var(--c-figures); } .cat-textes { --cc: var(--c-textes); }
 .cat-notions { --cc: var(--c-notions); } .cat-alchimie { --cc: var(--c-alchimie); } .cat-kabbale { --cc: var(--c-kabbale); }
 .cat-astrologie { --cc: var(--c-astrologie); } .cat-divination { --cc: var(--c-divination); } .cat-magie { --cc: var(--c-magie); }
-.cat-societes { --cc: var(--c-societes); } .cat-maconnerie { --cc: var(--c-maconnerie); } .cat-symboles { --cc: var(--c-symboles); } .cat-perso { --cc: var(--c-perso); }
+.cat-societes { --cc: var(--c-societes); } .cat-maconnerie { --cc: var(--c-maconnerie); } .cat-symboles { --cc: var(--c-symboles); }
+.cat-lieux { --cc: var(--c-lieux); } .cat-perso { --cc: var(--c-perso); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));
@@ -343,6 +344,8 @@ a.bouton-principal { text-align: center; text-decoration: none; }
 .titre-bloc { min-width: 0; }
 .article-nom { margin: 0; font: 600 2.05rem/1.12 var(--serif); overflow-wrap: anywhere; letter-spacing: -.005em; }
 .article-dates { margin: .3rem 0 0; color: var(--encre-legere); font-size: .95rem; }
+.article-lieu { margin: .3rem 0 0; color: var(--encre-douce); font-size: .95rem; }
+.article-lieu::before { content: ""; display: inline-block; width: .55rem; height: .55rem; margin-right: .4rem; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); background: var(--c-lieux); vertical-align: .05rem; }
 
 .definition {
   margin: .9rem 0 .2rem; padding: .85rem 1rem; border-radius: var(--rayon);
@@ -463,6 +466,42 @@ body.visionneuse-ouverte { overflow: hidden; }
 @media (max-width: 420px) {
   .reperes-liste li { grid-template-columns: 1fr; gap: 0; }
 }
+
+/* Les extraits : la page d'un livre ancien, entre deux filets */
+.extraits { margin: 1.1rem 0; }
+.extrait { margin: 0 0 .9rem; padding: .9rem 1rem .75rem 1.15rem; border-radius: var(--rayon); background: var(--carte); border: 1px solid var(--trait); border-left: 3px solid var(--or); }
+.extrait-texte { margin: 0; quotes: "«\0a0" "\0a0»"; }
+.extrait-texte p { margin: 0 0 .55rem; font: italic 1.02rem/1.55 var(--serif); color: var(--encre-douce); hyphens: auto; white-space: pre-line; }
+.extrait-texte p:first-child::before { content: open-quote; }
+.extrait-texte p:last-child::after { content: close-quote; }
+.extrait-source { margin: .2rem 0 0; font-size: .86rem; color: var(--encre-legere); line-height: 1.4; }
+.extrait-source::before { content: "— "; }
+.extrait-liens { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .45rem; }
+.extrait-lien {
+  display: inline-flex; align-items: center; min-height: 2rem; padding: .15rem .65rem; border-radius: 999px;
+  border: 1px solid var(--trait-fort); font: 600 .78rem var(--sans); color: var(--accent); text-decoration: none;
+}
+.extrait-lien:hover, .extrait-lien:focus-visible { border-color: var(--accent); }
+
+/* Un lieu : son plan de situation, ses coordonnées, l'itinéraire */
+.situer { margin: 1rem 0; }
+.plan-situation {
+  position: relative; display: block; width: 100%; height: 12rem; padding: 0; overflow: hidden; cursor: pointer;
+  border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--mer); color: inherit;
+}
+.plan-situation > .discret { display: block; padding: 1rem; }
+.plan-situation:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.plan-legende {
+  position: absolute; right: .5rem; bottom: .45rem; padding: .1rem .5rem; border-radius: 999px;
+  background: var(--carte); color: var(--encre-douce); font-size: .74rem; box-shadow: var(--ombre);
+}
+.coordonnees { display: flex; align-items: center; gap: .4rem; flex-wrap: wrap; margin: .5rem 0 0; font-size: .92rem; color: var(--encre-douce); }
+.coordonnees .epingle { width: 1.1rem; height: 1.1rem; color: var(--c-lieux); }
+.coordonnees-texte { font-variant-numeric: tabular-nums; }
+.distance-fiche { margin: .1rem 0 0; }
+.itineraire { display: flex; flex-wrap: wrap; gap: .45rem; margin: .6rem 0 0; }
+.itineraire .bouton-principal { flex: 1 1 100%; }
+.itineraire .bouton-discret { flex: 1 1 auto; text-align: center; text-decoration: none; color: var(--encre); font-size: .92rem; display: inline-flex; align-items: center; justify-content: center; }
 
 /* Pour aller plus loin : des liens vers d'autres sites */
 .ailleurs { margin: 0 0 1rem; }
@@ -799,14 +838,16 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
   height: calc(4.1rem + env(safe-area-inset-bottom)); padding-bottom: env(safe-area-inset-bottom);
   background: var(--carte); border-top: 1px solid var(--trait);
 }
-/* Cinq onglets sur un téléphone de 360 points : 72 points chacun, sans marge
- * intérieure, sinon « Dictionnaire » ne tient pas. */
+/* Six onglets sur un téléphone de 360 points, sans marge intérieure :
+ * « Dictionnaire » prend un peu plus de place que les autres (74 points
+ * contre 57), sinon il ne tient pas. */
 #onglets button {
   position: relative; flex: 1; max-width: 8.5rem; min-width: 0; padding: 0 1px;
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem;
   border: 0; background: transparent; color: var(--encre-legere); cursor: pointer;
   font-size: .68rem; letter-spacing: -.01em;
 }
+#onglets button[data-vue="dictionnaire"] { flex: 1.3; }
 #onglets button span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 #onglets button[aria-current="true"] { color: var(--accent); font-weight: 600; }
 #onglets button::before {
@@ -826,3 +867,78 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }
+
+/* ————— Carte des lieux ————— */
+
+.intro-carte { margin: -.3rem 0 .8rem; }
+.carte-cadre { position: relative; height: min(62vh, 32rem); min-height: 17rem; border-radius: var(--rayon); overflow: hidden; border: 1px solid var(--trait); background: var(--mer); }
+.carte-attente { padding: 1rem; margin: 0; }
+.carte-boite { position: absolute; inset: 0; overflow: hidden; background: var(--mer); user-select: none; -webkit-user-select: none; }
+.carte-boite.interactive { touch-action: none; cursor: grab; }
+.carte-boite.interactive:active { cursor: grabbing; }
+.carte-boite:focus-visible { outline: 3px solid var(--accent); outline-offset: -3px; }
+.carte-fond, .carte-dessus { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.carte-dessus { pointer-events: none; overflow: visible; }
+.c-mer { fill: var(--mer); }
+.c-terre { fill: var(--terre); stroke: var(--cote); stroke-width: 1; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
+.c-lac { fill: var(--mer); stroke: var(--cote); stroke-width: .6; vector-effect: non-scaling-stroke; }
+.c-fleuve { fill: none; stroke: var(--fleuve); stroke-width: 1; vector-effect: non-scaling-stroke; stroke-linecap: round; stroke-linejoin: round; }
+.c-frontiere { fill: none; stroke: var(--frontiere); stroke-width: 1; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; }
+.c-ville { fill: var(--ville); }
+.c-nom-ville { font: .69rem system-ui, sans-serif; fill: var(--ville); paint-order: stroke; stroke: var(--terre); stroke-width: 3px; stroke-linejoin: round; }
+.c-lieu .c-point { fill: var(--cc, var(--c-lieux)); stroke: var(--carte); stroke-width: 2; }
+.c-lieu .c-halo { fill: var(--cc, var(--c-lieux)); opacity: 0; }
+.c-lieu.choisi .c-point { stroke-width: 2.5; transform: scale(1.35); }
+.c-lieu.choisi .c-halo { opacity: .22; }
+.c-nom-lieu { font: 600 .78rem system-ui, sans-serif; fill: var(--encre); paint-order: stroke; stroke: var(--terre); stroke-width: 3.5px; stroke-linejoin: round; }
+.c-nom-lieu.choisi { fill: var(--accent); }
+.c-villes .cache, .c-noms .cache { display: none; }
+.c-ici { fill: var(--position); stroke: #fff; stroke-width: 2.5; }
+.c-precision { fill: var(--position); opacity: .14; stroke: var(--position); stroke-width: 1; stroke-opacity: .5; }
+
+.bouton-carte {
+  display: inline-flex; align-items: center; justify-content: center; gap: .35rem;
+  min-width: 2.75rem; height: 2.75rem; padding: 0 .6rem; border-radius: 10px; border: 1px solid var(--trait-fort);
+  background: var(--carte); color: var(--encre); font-size: 1.3rem; line-height: 1; cursor: pointer; box-shadow: var(--ombre);
+}
+.bouton-carte:hover { border-color: var(--accent); color: var(--accent); }
+.bouton-carte:active { transform: scale(.96); }
+.bouton-carte .icone { width: 1.3rem; height: 1.3rem; }
+.carte-zoom { position: absolute; top: .55rem; right: .55rem; display: flex; flex-direction: column; gap: .35rem; }
+.bouton-situer { position: absolute; left: .55rem; bottom: .55rem; font-size: .9rem; font-weight: 600; padding: 0 .85rem 0 .65rem; }
+.bouton-situer.actif { color: var(--position); }
+.bouton-situer.cherche .icone { animation: tourne 1.2s linear infinite; }
+@keyframes tourne { to { transform: rotate(360deg); } }
+.carte-credit { position: absolute; right: .4rem; bottom: .2rem; margin: 0; font-size: .62rem; color: var(--encre-legere); pointer-events: none; }
+
+#carte-choix { margin: .7rem 0 0; }
+.choix-lieu { padding: .8rem 1rem 1rem; border-radius: var(--rayon); background: var(--carte); border: 1px solid var(--trait); border-left: 4px solid var(--cc, var(--c-lieux)); box-shadow: var(--ombre); }
+.choix-tete { display: flex; align-items: center; justify-content: space-between; }
+.choix-fermer { width: 2.6rem; height: 2.6rem; border: 0; background: transparent; color: var(--encre-legere); font-size: 1rem; cursor: pointer; border-radius: 50%; }
+.choix-fermer:hover { color: var(--accent); }
+.choix-corps { display: flex; align-items: flex-start; justify-content: space-between; gap: .8rem; }
+.choix-nom { margin: .35rem 0 0; font: 600 1.45rem/1.15 var(--serif); }
+.choix-lieu-texte { margin: .2rem 0 0; }
+.image-choix { flex: none; width: auto; height: auto; max-width: 5.5rem; max-height: 5.5rem; border-radius: 6px; box-shadow: var(--ombre); }
+.choix-def { margin: .55rem 0 .7rem; color: var(--encre-douce); font: 1rem/1.5 var(--texte); }
+.choix-actions .bouton-principal { width: 100%; }
+.choix-itineraire .bouton-principal { background: var(--carte); color: var(--accent); border: 1px solid var(--accent); }
+.choix-itineraire .bouton-principal:hover { background: var(--accent-clair); }
+
+.position-etat { margin: .6rem 0 0; font-size: .84rem; }
+.position-etat .lien-discret { padding: 0 .2rem; min-height: 0; font-size: .84rem; }
+.carte-tete-liste { margin-top: .8rem; }
+.carte-tete-liste .discret { margin: 0 0 .4rem; }
+.segments-tri button { flex: 1 1 auto; font-size: .88rem; }
+.lieux-pays { margin-top: 1rem; }
+.lieux-liste { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: .35rem; }
+.lieu-ligne {
+  display: flex; align-items: center; gap: .65rem; width: 100%; min-height: 3.1rem; padding: .5rem .8rem;
+  border: 1px solid var(--trait); border-radius: 10px; background: var(--carte); text-align: left; cursor: pointer;
+}
+.lieu-ligne:hover { border-color: var(--accent); }
+.lieu-ligne:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.lieu-textes { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.lieu-nom { font: 600 1.02rem/1.25 var(--serif); }
+.lieu-sous { font-size: .8rem; color: var(--encre-legere); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lieu-distance { flex: none; font-size: .85rem; font-weight: 600; color: var(--encre-douce); font-variant-numeric: tabular-nums; }

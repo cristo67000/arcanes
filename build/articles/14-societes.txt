@@ -24,7 +24,7 @@ texte: Les maçons se réunissent en [[loge|loges]], lors de [[tenue|tenues]] ri
 texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]]. Son secret supposé a nourri, dès le XVIIIe siècle, un [[antimaconnisme]] tenace.
 texte: Elle a compté parmi ses membres Montesquieu, Voltaire, [[benjamin-franklin]], [[wolfgang-amadeus-mozart|Mozart]], [[gotthold-ephraim-lessing|Lessing]], [[johann-wolfgang-von-goethe|Goethe]], [[joseph-de-maistre]] ou [[rudyard-kipling|Kipling]], et une grande part des élites politiques des XVIIIe et XIXe siècles, des deux côtés de l'Atlantique. Exclue en principe des femmes, elle s'est ouverte à elles par la [[maconnerie-d-adoption|maçonnerie d'adoption]], puis par des obédiences mixtes et féminines ; aux États-Unis, la [[prince-hall|maçonnerie de Prince Hall]] est née de la ségrégation.
 schema: plan-de-loge
-voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage
+voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal
 
 @ grades-maconniques
 cat: maconnerie
@@ -43,9 +43,9 @@ alias: ordre du Temple, chevaliers du Temple, Jacques de Molay, néo-templiers, 
 an: 1120
 dates: 1120 – 1312 ; mythe depuis le XVIIIe siècle
 def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1312 après un procès retentissant, devenu dans l'imaginaire ésotérique le gardien de secrets transmis à des sociétés ultérieures.
-texte: Fondé par Hugues de Payns pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître Jacques de Molay est brûlé à Paris en 1314.
+texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
 texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
-voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors
 
 @ rite-ecossais-ancien-et-accepte
 cat: maconnerie
@@ -226,7 +226,7 @@ dates: depuis 1875
 def: Organisation fondée à New York en 1875 par Helena Blavatsky et Henry Olcott, établie ensuite à Adyar, en Inde, qui a diffusé dans le monde entier la théosophie et les religions orientales.
 texte: La Société se donne trois buts : former un noyau de fraternité universelle sans distinction de race, de croyance, de sexe ou de caste ; encourager l'étude comparée des religions, des philosophies et des sciences ; étudier les lois inexpliquées de la nature et les pouvoirs latents de l'homme. Sa devise est : « Il n'y a pas de religion plus élevée que la vérité. » Son sceau réunit un serpent qui se mord la queue, deux triangles entrelacés, une croix ansée et un svastika.
 texte: Installée en Inde en 1879, à Adyar, près de Madras, à partir de 1882, la Société se divise à plusieurs reprises, notamment après la mort de [[helena-blavatsky]]. Sous la présidence d'[[annie-besant]], elle atteint son apogée dans les années 1920. Elle a profondément influencé l'ésotérisme du XXe siècle, mais aussi le renouveau hindou et bouddhiste et le mouvement national indien.
-voir: theosophie, helena-blavatsky, henry-steel-olcott, annie-besant, ouroboros, hexagramme
+voir: theosophie, helena-blavatsky, henry-steel-olcott, annie-besant, ouroboros, hexagramme, adyar
 
 @ societe-anthroposophique
 cat: societes
@@ -292,7 +292,7 @@ dates: 1918 – 1925
 def: Association nationaliste et antisémite fondée à Munich en 1918, mêlant études germaniques et occultisme völkisch, dans l'orbite de laquelle naquit le parti nazi.
 texte: Fondée par Rudolf von Sebottendorf, la Société Thulé — du nom d'une île mythique du Grand Nord — se présente comme un cercle d'études de l'antiquité germanique. Elle prolonge l'[[ariosophie]] et combat activement la révolution de 1918-1919 à Munich. Plusieurs futurs dirigeants nazis gravitent autour d'elle, et elle soutient la fondation du Parti ouvrier allemand, qui deviendra le parti nazi.
 texte: La Société disparaît dès le milieu des années 1920. Des livres à sensation, comme *[[matin-des-magiciens|Le Matin des magiciens]]*, en ont fait l'organisation occulte secrète qui aurait dirigé le nazisme, thèse que les historiens rejettent.
-voir: ariosophie, svastika, matin-des-magiciens, runes
+voir: ariosophie, svastika, matin-des-magiciens, runes, rudolf-von-sebottendorf
 
 @ ordre-du-temple-solaire
 cat: societes

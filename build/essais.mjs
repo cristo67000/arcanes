@@ -5,7 +5,8 @@
  *
  * Elle ouvre l'application à la taille d'un téléphone et fait ce que ferait une
  * personne : chercher, ouvrir un article, suivre un renvoi, toucher une figure,
- * écrire une note et un article, réviser, parcourir la frise, changer les
+ * parcourir la carte des lieux, lire un extrait, écrire une note et un
+ * article, réviser, parcourir la frise, changer les
  * réglages, sauvegarder — puis coupe le serveur et vérifie que l'application se
  * relance hors ligne. Elle échoue à la moindre erreur de page, exception ou
  * violation de la politique de sécurité.
@@ -223,6 +224,69 @@ try {
   await js('Fiche.fermer(); return 1');
   await attendre('!Fiche.ouverte', 3000, 'fermeture');
   await pause(500);
+
+  // ── La carte des lieux ────────────────────────────────────────────────────
+  await js("App.aller('carte'); return 1");
+  await attendre("document.querySelector('#carte-cadre .carte-fond') && document.querySelectorAll('#carte-liste .lieu-ligne').length", 8000, 'la carte des lieux se dessine');
+  const nLieux = await js('return Carte.lieux().length');
+  ok(nLieux === MANIFESTE.lieux, 'la carte connaît tous les lieux (' + nLieux + ', manifeste : ' + MANIFESTE.lieux + ')');
+  ok(await js("return document.querySelectorAll('#carte-cadre .c-lieu').length") === nLieux, 'chaque lieu a son point sur la carte');
+  ok(await js("return document.querySelectorAll('#carte-liste .lieu-ligne').length") === nLieux, 'chaque lieu est dans la liste');
+  ok(await js("return document.querySelectorAll('#carte-cadre .c-nom-lieu:not(.cache)').length") >= 5, 'des noms de lieux sont affichés sur la carte');
+  ok(await js("return document.querySelectorAll('#carte-cadre .c-nom-ville:not(.cache)').length") >= 5, 'des villes servent de repères');
+  await js("document.querySelector('#carte-liste .lieu-ligne[data-ref=\"montsegur\"]').click(); return 1");
+  await attendre("!document.getElementById('carte-choix').hidden && /Montségur/.test(document.querySelector('#carte-choix .choix-nom').textContent)", 3000, 'le lieu choisi s’affiche sous la carte');
+  await pause(600);
+  ok(await js("return !!document.querySelector('#carte-cadre .c-lieu.choisi')"), 'le point du lieu choisi est mis en avant');
+  const itineraires = await js("return Array.from(document.querySelectorAll('#carte-choix .itineraire a')).map((a) => a.href)");
+  ok(itineraires.some((h) => h.startsWith('https://www.google.com/maps/dir/?api=1&destination=42.87560')) && itineraires.some((h) => h.startsWith('https://www.openstreetmap.org/directions')),
+    'l’itinéraire mène au lieu par Google Maps et OpenStreetMap');
+  ok(itineraires.every((h) => !/origin|saddr|43\.6/.test(h)), 'les liens d’itinéraire ne portent que la destination');
+  const vueAvant = await js("return document.querySelector('#carte-cadre .carte-fond').getAttribute('viewBox')");
+  await js("document.querySelector('.carte-zoom .plus').click(); return 1");
+  await pause(300);
+  ok(await js("return document.querySelector('#carte-cadre .carte-fond').getAttribute('viewBox')") !== vueAvant, 'le bouton « + » grossit la carte');
+  // La position, simulée : le navigateur de l'épreuve n'en a pas
+  await js("Object.defineProperty(navigator, 'geolocation', { configurable: true, value: { getCurrentPosition: (succes) => setTimeout(() => succes({ coords: { latitude: 43.6045, longitude: 1.444, accuracy: 800 } }), 50) } }); document.querySelector('.bouton-situer').click(); return 1");
+  await attendre("Carte.position && document.querySelector('#carte-cadre .c-ici')", 4000, 'la position s’affiche sur la carte');
+  const proches = await js("return Array.from(document.querySelectorAll('#carte-liste .lieu-ligne')).slice(0, 3).map((b) => b.getAttribute('data-ref'))");
+  ok(proches[0] === 'montsegur', 'depuis Toulouse, le lieu le plus proche est Montségur (' + proches.join(', ') + ')');
+  ok(await js("return /\\d+ km/.test(document.querySelector('#carte-liste .lieu-distance').textContent)"), 'la liste donne les distances');
+  await js("Array.from(document.querySelectorAll('#carte-position button')).find((b) => /oublier/i.test(b.textContent)).click(); return 1");
+  await attendre("Carte.position === null && !document.querySelector('#carte-cadre .c-ici')", 2000, 'la position s’oublie d’un geste');
+  // La fiche d'un lieu : le plan de situation, les coordonnées, le retour à la carte
+  await js("Fiche.ouvrir('rennes-le-chateau'); return 1");
+  await attendre("Fiche.ref === 'rennes-le-chateau' && document.querySelector('#fiche .situer .carte-fond')", 4000, 'le plan de situation dans la fiche d’un lieu');
+  ok(await js("return /42° 55′/.test(document.querySelector('#fiche .coordonnees-texte').textContent)"), 'la fiche donne les coordonnées en degrés');
+  ok(await js("return document.querySelector('#fiche .article-lieu').textContent === 'Aude, Occitanie, France'"), 'la fiche dit où se trouve le lieu');
+  await js("document.querySelector('#fiche .plan-situation').click(); return 1");
+  await attendre("!Fiche.ouverte && App.vue === 'carte' && Carte.principale.choisi === 'rennes-le-chateau'", 4000, 'toucher le plan ouvre la carte sur le lieu');
+  await pause(500);
+
+  // ── Les extraits d'œuvres ─────────────────────────────────────────────────
+  await js("Fiche.ouvrir('poimandres'); return 1");
+  await attendre("Fiche.ref === 'poimandres' && document.querySelector('#fiche .extrait')", 3000, 'l’extrait du Poimandrès');
+  ok(await js("return /Je réfléchissais un jour sur les êtres/.test(document.querySelector('#fiche .extrait-texte').textContent)"), 'l’extrait cite le texte');
+  ok(await js("return Array.from(document.querySelectorAll('#fiche .extrait-lien')).some((a) => a.href.startsWith('https://gallica.bnf.fr/ark:/12148/') && a.target === '_blank' && a.rel === 'noopener noreferrer')"),
+    'l’extrait mène au livre numérisé de Gallica, à part');
+  ok(await js("return !!document.querySelector('#fiche .extrait-source i')"), 'la source de l’extrait donne le titre en italique');
+  await js("Fiche.ouvrir('correspondances'); return 1");
+  await attendre("Fiche.ref === 'correspondances' && document.querySelector('#fiche .extrait')", 3000, 'le sonnet de Baudelaire');
+  ok(await js("return document.querySelector('#fiche .extrait-texte p').textContent.split('\\n').length === 4"), 'les vers du sonnet vont à la ligne');
+  r = await chercher('seuil de Proserpine');
+  ok(r.includes('mysteres-antiques'), 'la recherche lit aussi les extraits');
+  await chercher('');
+  await js('Fiche.fermer(); return 1');
+  await attendre('!Fiche.ouverte', 3000, 'fermeture');
+  await pause(500);
+
+  // Six onglets sur un téléphone de 360 points
+  await onglet.envoyer('Emulation.setDeviceMetricsOverride', { width: 360, height: 740, deviceScaleFactor: 1, mobile: true });
+  await pause(400);
+  ok(await js("return Array.from(document.querySelectorAll('#onglets button span')).every((s) => s.scrollWidth <= s.clientWidth + 1)"), 'les six onglets tiennent sur un téléphone de 360 points');
+  ok(await js('return document.documentElement.scrollWidth <= 360'), 'l’onglet « Carte » ne déborde pas en largeur à 360 points');
+  await onglet.envoyer('Emulation.setDeviceMetricsOverride', { width: 400, height: 820, deviceScaleFactor: 1, mobile: true });
+  await pause(300);
 
   // ── Notes et article à soi ────────────────────────────────────────────────
   await js("Fiche.ouvrir('tarot'); return 1");

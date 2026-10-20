@@ -1,0 +1,247 @@
+# Les lieux de France : le pays cathare et le Razès, le Paris des alchimistes,
+# les cathédrales, les mégalithes et les châteaux des templiers.
+#
+# Chaque lieu porte « geo: » (latitude, longitude, d'après Wikidata) et « lieu: »
+# (le département, la région, le pays : le dernier terme range le lieu sur la carte).
+
+@ montsegur
+cat: lieux
+nom: Montségur
+alias: château de Montségur, pog de Montségur, siège de Montségur, champ des brûlés, prat dels cremats
+lieu: Ariège, Occitanie, France
+geo: 42.8756, 1.8325
+def: Forteresse de l'Ariège, dernier grand refuge de l'Église cathare, prise en 1244 après dix mois de siège, et devenue le haut lieu des légendes du trésor des cathares et du Graal.
+texte: Sur un piton calcaire de 1 207 mètres, le « pog », le seigneur Raymond de Péreille relève vers 1204, à la demande des responsables cathares, un village fortifié tombé en ruine. Après la croisade des Albigeois, l'évêque [[guilhabert-de-castres|Guilhabert de Castres]] en fait le refuge de l'Église [[catharisme|cathare]] : quelques centaines de personnes y vivent, bonshommes et bonnes femmes, croyants, chevaliers faydits dépossédés de leurs terres, sous la garde militaire de Pierre-Roger de Mirepoix.
+texte: En mai 1242, des hommes de la garnison massacrent à Avignonet les inquisiteurs Guillaume Arnaud et Étienne de Saint-Thibéry. L'armée royale met le siège devant la place l'année suivante ; la forteresse capitule le 2 mars 1244. Les défenseurs ont la vie sauve, mais plus de deux cents [[parfaits]] qui refusent d'abjurer sont brûlés au pied de la montagne, au lieu qu'on appelle depuis le « champ des brûlés ». D'après des dépositions faites ensuite devant l'Inquisition, quelques parfaits avaient mis à l'abri, pendant le siège, le trésor de leur Église — de l'argent, semble-t-il.
+texte: Les ruines visibles aujourd'hui sont celles du château rebâti par les seigneurs de Lévis après la conquête. L'imaginaire moderne s'est pourtant fixé ici : le pasteur [[napoleon-peyrat|Napoléon Peyrat]] en fait au XIXe siècle le sanctuaire héroïque des Albigeois, [[otto-rahn|Otto Rahn]] y reconnaît le château du Graal du *Parzival* de Wolfram, d'autres croient le donjon orienté vers le soleil levant des solstices, comme un temple solaire. Ces lectures n'ont aucun appui historique, mais elles ont fait de Montségur l'un des lieux les plus visités de l'ésotérisme français.
+repere: vers 1204 — Raymond de Péreille relève le castrum à la demande des cathares.
+repere: 1232 — Guilhabert de Castres y établit l'Église cathare.
+repere: 1242 — Massacre des inquisiteurs à Avignonet par des hommes de la garnison.
+repere: 1243 — L'armée royale met le siège devant la forteresse.
+repere: 1244 — Capitulation le 2 mars ; plus de deux cents cathares sont brûlés.
+repere: 1870 — Napoléon Peyrat publie son *Histoire des Albigeois*.
+repere: 1933 — Otto Rahn y voit le château du Graal dans *Croisade contre le Graal*.
+repere: 2026 — Inscription au patrimoine mondial de l'UNESCO, avec les forteresses royales du Languedoc.
+voir: catharisme, guilhabert-de-castres, esclarmonde-de-foix, otto-rahn, graal, grotte-de-lombrives
+
+@ rennes-le-chateau
+cat: lieux
+nom: Rennes-le-Château
+alias: affaire de Rennes-le-Château, trésor de Rennes, énigme de Rennes, tour Magdala, villa Béthanie, Terribilis est locus iste
+lieu: Aude, Occitanie, France
+geo: 42.9272, 2.2636
+def: Village de l'Aude dont le curé, l'abbé Saunière, dépensa des sommes considérables vers 1900 ; une légende de trésor, puis une mystification, en ont fait le centre d'une énigme ésotérique connue dans le monde entier.
+texte: Perché au-dessus de la haute vallée de l'Aude, dans le Razès, le village compte à peine deux cents habitants quand l'abbé [[berenger-sauniere|Bérenger Saunière]] y est nommé en 1885. Le curé restaure son église, dédiée à Marie-Madeleine, et l'orne d'un décor saint-sulpicien foisonnant : un diable soutient le bénitier de l'entrée, sous l'inscription *Terribilis est locus iste*, « ce lieu est redoutable », tirée de la Genèse. Il fait bâtir la villa Béthanie, un jardin, un belvédère et la tour Magdala, qui abrite sa bibliothèque.
+texte: L'évêque de Carcassonne, inquiet de ces dépenses, découvre que le curé sollicite dans toute la France des honoraires pour des messes qu'il ne célèbre pas : Saunière est suspendu en 1910 et meurt en 1917. En 1956, Noël Corbu, qui a repris le domaine pour en faire un hôtel-restaurant, lance dans la presse régionale l'histoire d'un trésor caché, celui de Blanche de Castille. [[pierre-plantard|Pierre Plantard]] et Philippe de Chérisey fabriquent ensuite de faux parchemins et des « dossiers secrets » glissés dans les collections de la Bibliothèque nationale, que [[gerard-de-sede|Gérard de Sède]] met en récit dans *L'Or de Rennes* (1967).
+texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]], secret du peintre Poussin et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
+repere: 1885 — Bérenger Saunière est nommé curé du village.
+repere: 1897 — L'église restaurée reçoit la visite de l'évêque de Carcassonne.
+repere: 1901 — Début de la construction de la villa Béthanie et de la tour Magdala.
+repere: 1910 — Saunière est suspendu pour trafic de messes.
+repere: 1917 — Mort de l'abbé Saunière.
+repere: 1956 — Noël Corbu lance la légende du trésor dans la presse.
+repere: 1965 — La commune interdit les fouilles.
+repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
+repere: 1982 — *L'Énigme sacrée* lie le village à une descendance du Christ.
+repere: 2003 — Le *Da Vinci Code* reprend la légende du prieuré de Sion.
+voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion
+
+@ rennes-les-bains
+cat: lieux
+nom: Rennes-les-Bains
+alias: station thermale de Rennes-les-Bains, cromleck de Rennes-les-Bains, fauteuil du Diable
+lieu: Aude, Occitanie, France
+geo: 42.9189, 2.3189
+def: Petite station thermale de l'Aude, voisine de Rennes-le-Château, dont le curé, l'abbé Boudet, crut lire dans les rochers et les noms de lieux les vestiges d'un immense cromlech celtique.
+texte: Les sources chaudes de la vallée de la Sals sont fréquentées depuis l'Antiquité : on y a trouvé des monnaies et des fragments romains. Au XIXe siècle, la station accueille des curistes venus de tout le Languedoc. Son curé de 1872 à 1914, [[henri-boudet|Henri Boudet]], publie en 1886 *La Vraie Langue celtique et le cromleck de Rennes-les-Bains*, où il fait de l'anglais la survivance de la langue primitive de l'humanité et voit dans les blocs de grès dispersés sur les collines un cercle de pierres de plusieurs kilomètres de tour.
+texte: Les géologues n'y reconnaissent que des rochers abandonnés par l'érosion, et les linguistes une étymologie de fantaisie. Mais depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris de l'ampleur, le livre de Boudet est lu comme un message chiffré, la clé d'un trésor que connaîtrait aussi son confrère Saunière. Les rochers baptisés « fauteuil du Diable » ou « source de la Madeleine » sont devenus des étapes d'un pèlerinage où se croisent chercheurs de trésors, géomètres du sacré et simples promeneurs.
+voir: henri-boudet, rennes-le-chateau, berenger-sauniere, bugarach, druidisme
+
+@ bugarach
+cat: lieux
+nom: Pic de Bugarach
+alias: Bugarach, pech de Bugarach, montagne inversée, fin du monde de 2012
+lieu: Aude, Occitanie, France
+geo: 42.8636, 2.3792
+def: Sommet des Corbières (1 230 m), dont les couches géologiques renversées ont nourri les rumeurs les plus diverses, jusqu'à celle qui en fit en 2012 un refuge contre la fin du monde.
+texte: Point culminant des Corbières, le pic domine le village de Bugarach, à quelques kilomètres de [[rennes-les-bains|Rennes-les-Bains]]. Les géologues expliquent sa curiosité, des roches plus anciennes posées sur des plus récentes, par un chevauchement qui a retourné une écaille de terrain lors de la formation des Pyrénées : d'où son surnom de « montagne à l'envers ».
+texte: À partir des années 1960, des milieux attirés par l'affaire de [[rennes-le-chateau|Rennes-le-Château]] et par le [[new-age|New Age]] lui prêtent une cavité secrète, une base d'extraterrestres, des vibrations particulières. En 2012, une rumeur venue d'internet, appuyée sur une lecture fantaisiste du calendrier maya, fait du pic le seul lieu épargné par la fin du monde annoncée pour le 21 décembre : la préfecture ferme alors l'accès au sommet, et les journalistes du monde entier sont plus nombreux que les croyants.
+voir: rennes-les-bains, rennes-le-chateau, new-age, ere-du-verseau
+
+@ queribus
+cat: lieux
+nom: Château de Quéribus
+alias: Quéribus, citadelle du vertige, forteresses royales du Languedoc
+lieu: Aude, Occitanie, France
+geo: 42.8367, 2.6217
+def: Forteresse des Corbières perchée sur un éperon rocheux, l'un des derniers refuges des cathares, prise en 1255, onze ans après Montségur.
+texte: Le château couronne un piton de 728 mètres, d'où la vue porte de la Méditerranée aux Pyrénées. Après la chute de [[montsegur|Montségur]] en 1244, des [[parfaits]] et des chevaliers faydits s'y réfugient autour de son seigneur, Chabert de Barbaira. En 1255, il est pris par les troupes du roi : on considère souvent cette reddition comme la fin de la résistance armée du Languedoc, sinon du [[catharisme]], qui survit dans la clandestinité jusqu'au début du XIVe siècle.
+texte: Devenu forteresse royale à la frontière de l'Aragon, il est profondément remanié. Sa salle haute, une salle gothique dont la voûte retombe sur un pilier central, a été lue par des auteurs ésotériques comme un observatoire solaire, la lumière du solstice frappant un point précis : comme à Montségur, l'hypothèse ne repose sur rien. Il fait partie, depuis 2026, des forteresses royales du Languedoc inscrites au patrimoine mondial.
+repere: 1255 — Le château tombe aux mains des troupes royales.
+repere: 2026 — Inscription au patrimoine mondial de l'UNESCO.
+voir: montsegur, peyrepertuse, catharisme, parfaits
+
+@ peyrepertuse
+cat: lieux
+nom: Château de Peyrepertuse
+alias: Peyrepertuse, Duilhac, citadelle du vertige
+lieu: Aude, Occitanie, France
+geo: 42.8708, 2.5554
+def: Immense forteresse des Corbières étirée sur une crête de calcaire, passée au roi de France en 1240 et associée dans l'imaginaire populaire aux châteaux cathares.
+texte: Bâtie sur une arête de près de trois cents mètres de long, la forteresse appartient au début du XIIIe siècle aux seigneurs de Peyrepertuse, vassaux du roi d'Aragon, qui protègent des [[catharisme|cathares]]. Guillaume de Peyrepertuse se soumet au roi de France en 1240. Saint Louis fait alors élever, sur le point le plus haut, le donjon de San Jordi, auquel on accède par un escalier taillé dans le roc.
+texte: Comme [[queribus|Quéribus]], Peyrepertuse fut surtout, après la croisade, une forteresse royale tenant la frontière de l'Aragon jusqu'au traité des Pyrénées de 1659. Le tourisme l'a rangée parmi les « châteaux cathares », et les amateurs d'énigmes l'ont reliée aux légendes du Razès voisin. Elle fait partie, depuis 2026, des forteresses royales du Languedoc inscrites au patrimoine mondial.
+repere: 1240 — Guillaume de Peyrepertuse se soumet au roi de France.
+repere: 1659 — Le traité des Pyrénées éloigne la frontière : la forteresse perd son rôle.
+repere: 2026 — Inscription au patrimoine mondial de l'UNESCO.
+voir: queribus, montsegur, catharisme
+
+@ grotte-de-lombrives
+cat: lieux
+nom: Grotte de Lombrives
+alias: Lombrives, cathédrale de Lombrives, Ussat-les-Bains, Sabarthès, spoulgas
+lieu: Ariège, Occitanie, France
+geo: 42.8233, 1.6164
+def: Vaste grotte de la vallée de l'Ariège, près d'Ussat-les-Bains, où des auteurs modernes ont placé, sans preuve, un sanctuaire secret des cathares et la cachette de leur trésor.
+texte: Dans les montagnes du Sabarthès, la grotte développe plusieurs kilomètres de galeries ; sa plus grande salle est surnommée la « cathédrale ». Les grottes fortifiées de la région, les *spoulgas*, ont servi de refuge à des époques diverses, et des registres d'Inquisition mentionnent des cathares cachés dans des grottes du pays de Foix.
+texte: Au XIXe siècle, [[napoleon-peyrat|Napoléon Peyrat]] raconte que cinq cents cathares y furent emmurés vivants, un épisode qu'aucun document n'atteste. Dans les années 1930, l'instituteur [[antonin-gadal|Antonin Gadal]], d'Ussat, fait visiter les grottes comme les lieux d'initiation des parfaits, et [[otto-rahn|Otto Rahn]], qu'il guide, y cherche le [[graal|Graal]]. Le [[lectorium-rosicrucianum|Lectorium Rosicrucianum]] honore aujourd'hui encore ces grottes, où il se rend en pèlerinage.
+voir: antonin-gadal, otto-rahn, catharisme, montsegur, lectorium-rosicrucianum
+
+@ notre-dame-de-paris
+cat: lieux
+nom: Notre-Dame de Paris
+alias: cathédrale Notre-Dame de Paris, portail du Jugement dernier, portail de l'Alchimie, alchimie de Notre-Dame
+lieu: Paris, Île-de-France, France
+geo: 48.8530, 2.3498
+def: Cathédrale gothique de Paris, élevée à partir de 1163, où des lecteurs ésotériques, de Victor Hugo à Fulcanelli, ont cru lire un livre de pierre de l'alchimie.
+texte: Commencée sous l'évêque Maurice de Sully en 1163, la cathédrale est pour l'essentiel achevée au milieu du XIVe siècle. Sur le portail central, celui du Jugement dernier, une femme assise tenant une échelle, sur le trumeau, figure la Philosophie ou la Théologie ; les médaillons du soubassement représentent les vertus et les vices, selon un programme courant dans l'art gothique.
+texte: Dès le XVIIe siècle, des auteurs hermétiques prétendent que les sculpteurs y ont caché le [[grand-oeuvre|Grand Œuvre]]. [[victor-hugo|Victor Hugo]], dans *Notre-Dame de Paris* (1831), fait de l'archidiacre Claude Frollo un alchimiste et écrit que les hermétiques trouvent dans les symboles du grand portail « un abrégé satisfaisant de leur science ». En 1926, [[fulcanelli]] développe cette lecture dans *[[mystere-des-cathedrales|Le Mystère des cathédrales]]* : la femme du trumeau serait l'Alchimie, et chaque médaillon une opération de l'œuvre. Les historiens de l'art n'y voient pas d'alchimie, mais le livre a changé le regard de nombreux visiteurs.
+texte: L'incendie du 15 avril 2019 a détruit la flèche et la charpente ; la cathédrale a rouvert après cinq ans de restauration, en décembre 2024.
+repere: 1163 — Début de la construction sous l'évêque Maurice de Sully.
+repere: 1831 — *Notre-Dame de Paris*, de Victor Hugo.
+repere: 1926 — *Le Mystère des cathédrales*, de Fulcanelli.
+repere: 2019 — Incendie de la flèche et de la charpente.
+repere: 2024 — Réouverture après la restauration.
+extrait: Il est certain encore que l’archidiacre s’était épris d’une passion singulière pour le portail symbolique de Notre-Dame, cette page de grimoire écrite en pierre par l’évêque Guillaume de Paris, lequel a sans doute été damné pour avoir attaché un si infernal frontispice au saint poëme que chante éternellement le reste de l’édifice. (…) Mais, ce que tout le monde avait pu remarquer, c’étaient les interminables heures qu’il employait souvent, assis sur le parapet du parvis, à contempler les sculptures du portail, examinant tantôt les vierges folles avec leurs lampes renversées, tantôt les vierges sages avec leurs lampes droites ; d’autres fois calculant l’angle du regard de ce corbeau qui tient au portail de gauche et qui regarde dans l’église un point mystérieux où est certainement cachée la pierre philosophale, si elle n’est pas dans la cave de Nicolas Flamel.
+source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre IV, chap. V | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre quatrième
+voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques
+
+@ tour-saint-jacques
+cat: lieux
+nom: Tour Saint-Jacques
+alias: Saint-Jacques-de-la-Boucherie, tour Saint-Jacques de Paris
+lieu: Paris, Île-de-France, France
+geo: 48.8578, 2.3488
+def: Clocher gothique flamboyant, seul reste de l'église Saint-Jacques-de-la-Boucherie, où fut inhumé Nicolas Flamel, et que la légende alchimique a associé à son œuvre.
+texte: L'église Saint-Jacques-de-la-Boucherie était la paroisse de [[nicolas-flamel|Nicolas Flamel]], écrivain public et libraire juré, qui y finança un portail et y fut enterré en 1418 ; sa pierre tombale, retrouvée chez un fruitier qui s'en servait comme planche à hacher, est aujourd'hui au musée de Cluny. La tour, élevée de 1509 à 1523, est la seule partie de l'église épargnée par la démolition après la Révolution.
+texte: Pour les alchimistes qui firent de Flamel, à partir du XVIIe siècle, l'homme qui avait trouvé la [[pierre-philosophale|pierre philosophale]], les sculptures de l'église et de son portail renfermaient ses secrets, comme les figures qu'il avait fait peindre au charnier des Innocents. La tour, que surmonte une statue de saint Jacques entourée des symboles des quatre évangélistes, servit aussi, dit-on, à Pascal pour vérifier ses expériences sur la pesanteur de l'air ; une statue du savant la garde.
+repere: 1418 — Nicolas Flamel est inhumé dans l'église Saint-Jacques-de-la-Boucherie.
+repere: 1523 — Achèvement de la tour.
+repere: 1797 — L'église est vendue et démolie ; la tour est conservée.
+extrait: Il n’est pas jusqu’aux hermétiques qui ne trouvent dans les symboles du grand portail un abrégé satisfaisant de leur science, dont l’église de Saint-Jacques-de-la-Boucherie était un hiéroglyphe si complet. Ainsi, l’abbaye romane, l’église philosophale, l’art gothique, l’art saxon, le lourd pilier rond qui rappelle Grégoire VII, le symbolisme hermétique par lequel Nicolas Flamel préludait à Luther, l’unité papale, le schisme, Saint-Germain-des-Prés, Saint-Jacques-de-la-Boucherie, tout est fondu, combiné, amalgamé dans Notre-Dame.
+source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre III, chap. I | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre troisième
+voir: nicolas-flamel, maison-de-nicolas-flamel, livre-des-figures-hieroglyphiques, saint-jacques-de-compostelle, notre-dame-de-paris
+
+@ maison-de-nicolas-flamel
+cat: lieux
+nom: Maison de Nicolas Flamel
+alias: 51 rue de Montmorency, maison au Grand Pignon, auberge Nicolas Flamel
+lieu: Paris, Île-de-France, France
+geo: 48.8636, 2.3531
+def: Maison de pierre élevée en 1407 rue de Montmorency, à Paris, par Nicolas Flamel pour y loger gratuitement des laboureurs, l'une des plus anciennes de la ville.
+texte: Sa façade porte encore, gravée, l'inscription par laquelle les occupants devaient dire chaque jour une prière pour les morts, en échange d'un logis gratuit : [[nicolas-flamel|Flamel]] et sa femme Pernelle, sans enfants, consacrèrent leur fortune à des fondations pieuses de ce genre. Des figures d'anges et les initiales du bienfaiteur ornaient les piliers du rez-de-chaussée.
+texte: Les historiens expliquent la richesse de Flamel par son métier de libraire et d'écrivain juré, et par des placements immobiliers. La légende alchimique, née deux siècles après sa mort, y voit au contraire le fruit de la [[transmutation]] : ses fondations auraient été payées avec l'or de la [[pierre-philosophale|pierre philosophale]]. La maison, devenue restaurant, est l'une des étapes favorites des promenades consacrées au « Paris des alchimistes ».
+repere: 1407 — Nicolas Flamel fait construire la maison.
+repere: 1418 — Mort de Nicolas Flamel.
+voir: nicolas-flamel, tour-saint-jacques, livre-des-figures-hieroglyphiques, pierre-philosophale
+
+@ cathedrale-de-chartres
+cat: lieux
+nom: Cathédrale de Chartres
+alias: Notre-Dame de Chartres, labyrinthe de Chartres, Vierge noire, Notre-Dame-de-Sous-Terre, Virgini pariturae
+lieu: Eure-et-Loir, Centre-Val de Loire, France
+geo: 48.4478, 1.4878
+def: Cathédrale gothique reconstruite après l'incendie de 1194, célèbre pour ses vitraux et son labyrinthe, que l'ésotérisme moderne a lue comme un temple de savoirs anciens.
+texte: Bâtie pour l'essentiel entre 1194 et 1220, la cathédrale garde la plupart de ses vitraux du XIIIe siècle et, dans la nef, un grand [[labyrinthe]] dallé à chemin unique, que les fidèles parcouraient en prière. Elle était l'un des grands pèlerinages de la Vierge, dont elle conserve une relique, le voile de Marie, et une statue vénérée dans la crypte, Notre-Dame-de-Sous-Terre.
+texte: Au XVIIe siècle, des érudits locaux affirment que les [[druidisme|druides]] honoraient à cet endroit une « Vierge qui doit enfanter », *Virgini pariturae* : la légende, sans fondement, fera de Chartres un sanctuaire celtique christianisé. [[joris-karl-huysmans|Huysmans]], dans *La Cathédrale* (1898), en déchiffre longuement le symbolisme chrétien. Au XXe siècle, des auteurs y cherchent des proportions secrètes, le [[nombre-d-or|nombre d'or]], des courants telluriques ou l'héritage des [[templiers]], autant d'hypothèses que l'histoire de l'art ne retient pas.
+repere: 1194 — Un incendie détruit la cathédrale romane ; la reconstruction commence.
+repere: 1260 — Consécration de la nouvelle cathédrale.
+repere: 1898 — *La Cathédrale*, de Huysmans.
+repere: 1979 — Inscription au patrimoine mondial de l'UNESCO.
+extrait: Songez que Chartres est le premier oratoire que Notre-Dame ait eu en France. Il se relie aux temps messianiques, car bien avant que la fille de Joachim ne fût née, les Druides avaient instauré, dans la grotte qui est devenue notre crypte, un autel à la « Vierge qui devait enfanter » « Virgini Pariturae ». Ils ont eu, par une sorte de grâce, l’intuition d’un Sauveur dont la Mère serait sans tache : il semble donc qu’à Chartres, plus que dans tout autre lieu, il y ait de très vieux liens d’amitié avec Marie ; l’on comprend dès lors que Satan se soit entêté à les rompre.
+source: Joris-Karl Huysmans, *La Cathédrale*, 1898, chap. III (l’abbé Plomb parle) | gallica bpt6k663741 = l’édition originale numérisée | ws La Cathédrale (Huysmans)/III
+voir: labyrinthe, druidisme, joris-karl-huysmans, notre-dame-de-paris, nombre-d-or
+
+@ hotel-lallemant
+cat: lieux
+nom: Hôtel Lallemant
+alias: hôtel Lallemant de Bourges, caissons de l'hôtel Lallemant
+lieu: Bourges, Cher, Centre-Val de Loire, France
+geo: 47.0851, 2.3983
+def: Demeure d'une famille de marchands de Bourges, bâtie entre 1495 et 1518, dont le plafond à caissons sculptés d'une petite salle passe depuis Fulcanelli pour un traité d'alchimie.
+texte: Les Lallemant, riches marchands et officiers du roi, font élever leur hôtel après le grand incendie qui ravage Bourges en 1487, à cheval sur l'ancien rempart gallo-romain. Une petite salle porte un plafond à caissons sculptés : un vase d'où sortent des flammes, une sirène, un enfant tenant un livre, des coquilles, des chiffres et des devises ; sur les corniches de la cour, des personnages que les commentateurs ont baptisés le souffleur ou l'alchimiste au matras.
+texte: [[fulcanelli]] consacre à l'hôtel plusieurs pages du *[[mystere-des-cathedrales|Mystère des cathédrales]]* et des *Demeures philosophales* : chaque caisson montrerait une étape du [[grand-oeuvre|Grand Œuvre]]. L'historien de l'alchimie Robert Halleux admet qu'une bonne partie de ces images se prête à une lecture alchimique, sans qu'elle soit décisive. L'hôtel abrite aujourd'hui un musée des arts décoratifs.
+voir: fulcanelli, mystere-des-cathedrales, alchimie, emblemes
+
+@ croix-d-hendaye
+cat: lieux
+nom: Croix d'Hendaye
+alias: croix cyclique d'Hendaye, cyclique d'Hendaye, croix de l'église Saint-Vincent
+lieu: Hendaye, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France
+geo: 43.3589, -1.7744
+def: Croix de pierre du XVIIe siècle, près de l'église d'Hendaye, que Fulcanelli présenta comme l'annonce chiffrée d'une catastrophe qui clôturerait un cycle du monde.
+texte: Venue de l'ancien cimetière, la croix se dresse sur le parvis de l'église Saint-Vincent d'Hendaye, à la frontière espagnole ; elle est inscrite aux monuments historiques. Son socle porte sur ses faces un soleil, une lune, une étoile et un écusson divisé en quatre où figure la lettre A ; la croix elle-même porte l'inscription *O crux ave spes unica*, « salut, ô croix, unique espérance », tirée d'un hymne liturgique.
+texte: Dans un chapitre ajouté à la réédition de 1957 du *[[mystere-des-cathedrales|Mystère des cathédrales]]*, [[fulcanelli]] y lit un monument « cyclique » : les symboles du socle annonceraient un embrasement de l'hémisphère nord, la fin d'un âge du monde, et désigneraient le lieu où se trouverait le salut. Ces pages ont fait de la modeste croix basque un objet de pèlerinage et de spéculation pour les amateurs d'eschatologie et de [[cycles-cosmiques|cycles cosmiques]].
+voir: fulcanelli, mystere-des-cathedrales, cycles-cosmiques
+
+@ carnac
+cat: lieux
+nom: Carnac
+alias: alignements de Carnac, Ménec, Kermario, Kerlescan, menhirs de Carnac, celtomanie
+lieu: Morbihan, Bretagne, France
+geo: 47.5933, -3.0797
+def: Ensemble de près de trois mille menhirs alignés sur plusieurs kilomètres, élevés au néolithique, que la celtomanie du XIXe siècle attribua aux druides.
+texte: Les alignements du Ménec, de Kermario et de Kerlescan comptent ensemble près de trois mille pierres dressées, en files parallèles, élevées entre le Ve et le IIIe millénaire avant notre ère par des populations néolithiques, bien avant l'arrivée des Celtes. Leur usage, cérémoniel, funéraire ou astronomique, reste discuté.
+texte: Au XVIIIe et au XIXe siècle, les érudits celtomanes comme Théophile de La Tour d'Auvergne ou Jacques Cambry en font des temples druidiques ; les néodruides y célèbrent leurs fêtes. On a voulu y voir aussi un calendrier solaire, une ligne d'énergie tellurique, l'œuvre de géants ou un vestige de l'[[atlantide|Atlantide]]. Les fouilles et les datations ont rendu les menhirs à leurs véritables bâtisseurs, mais le site reste l'un des plus visités par les amateurs de mystères préhistoriques.
+repere: vers 4500 av. J.-C. — Les premiers alignements sont dressés.
+repere: 1805 — Jacques Cambry décrit les « monuments celtiques » de Carnac.
+voir: druidisme, neopaganisme, stonehenge, atlantide
+
+@ gisors
+cat: lieux
+nom: Château de Gisors
+alias: Gisors, trésor des templiers de Gisors, Roger Lhomoy, orme de Gisors
+lieu: Eure, Normandie, France
+geo: 49.2808, 1.7745
+def: Forteresse normande du Vexin où un gardien affirma en 1946 avoir vu une crypte remplie de coffres : le livre de Gérard de Sède en fit le refuge du trésor des templiers.
+texte: Le château, élevé à partir du XIe siècle par les ducs de Normandie, gardait la frontière entre le domaine du roi de France et la Normandie anglaise ; devant ses murs fut coupé en 1188, selon les chroniques, un orme sous lequel les deux rois se rencontraient. Les [[templiers]] l'eurent en garde quelques années, au XIIe siècle, pendant un litige entre les deux couronnes.
+texte: En 1946, Roger Lhomoy, gardien du château, creuse en secret sous le donjon et affirme avoir découvert une chapelle souterraine contenant des sarcophages et trente coffres. Les fouilles officielles ne trouvent rien. En 1962, [[gerard-de-sede|Gérard de Sède]] publie son récit dans *Les Templiers sont parmi nous* ; c'est en commentant ce livre que [[pierre-plantard|Pierre Plantard]] entre en scène et commence à élaborer la légende du [[prieure-de-sion|prieuré de Sion]], qu'il transportera ensuite à [[rennes-le-chateau|Rennes-le-Château]].
+repere: 1188 — L'« orme de Gisors » est abattu lors d'une entrevue des rois de France et d'Angleterre.
+repere: 1946 — Roger Lhomoy dit avoir vu une crypte sous le donjon.
+repere: 1962 — *Les Templiers sont parmi nous*, de Gérard de Sède.
+voir: templiers, gerard-de-sede, pierre-plantard, prieure-de-sion, chinon
+
+@ chinon
+cat: lieux
+nom: Forteresse de Chinon
+alias: Chinon, graffiti des templiers, tour du Coudray, parchemin de Chinon
+lieu: Indre-et-Loire, Centre-Val de Loire, France
+geo: 47.1681, 0.2361
+def: Château royal du Val de Loire où furent détenus en 1308 le grand maître du Temple et des dignitaires de l'ordre, et dont les graffiti ont été lus comme un message secret.
+texte: En 1308, pendant le procès des [[templiers]], le grand maître [[jacques-de-molay|Jacques de Molay]] et quatre dignitaires sont enfermés dans la tour du Coudray, où des cardinaux envoyés par le pape Clément V les interrogent. Le procès-verbal de ces auditions, le « parchemin de Chinon », retrouvé en 2001 dans les archives du Vatican par l'historienne Barbara Frale, montre que le pape leur accorda l'absolution, sans pour autant sauver l'ordre.
+texte: Les murs de la tour portent des graffiti gravés dans la pierre : croix, cœurs, figures et signes divers. Les auteurs ésotériques y ont vu un message chiffré laissé par les templiers à leurs successeurs ; les historiens les attribuent à des prisonniers de diverses époques, sans pouvoir les dater avec certitude.
+repere: 1308 — Jacques de Molay et des dignitaires du Temple sont interrogés à Chinon.
+repere: 2001 — Redécouverte du parchemin de Chinon aux archives vaticanes.
+voir: templiers, jacques-de-molay, gisors, baphomet
+
+@ pere-lachaise
+cat: lieux
+nom: Cimetière du Père-Lachaise
+alias: Père-Lachaise, tombe d'Allan Kardec, dolmen d'Allan Kardec
+lieu: Paris, Île-de-France, France
+geo: 48.8611, 2.3942
+def: Grand cimetière parisien ouvert en 1804, où le dolmen funéraire d'Allan Kardec, fondateur du spiritisme, est l'une des tombes les plus fleuries de Paris.
+texte: [[allan-kardec|Allan Kardec]], mort en 1869, repose sous un dolmen de granit élevé en 1870 par ses disciples, en souvenir de la Gaule druidique dont il se croyait la réincarnation d'un ancien prêtre ; sur la dalle, sa devise : « Naître, mourir, renaître encore et progresser sans cesse, telle est la loi. » Des fidèles venus de France et surtout du Brésil, où le [[spiritisme]] est très répandu, y déposent des fleurs, posent la main sur le buste et y prient.
+texte: Le cimetière abrite aussi les tombes de [[papus]], de la cartomancienne [[mademoiselle-lenormand|Mademoiselle Lenormand]], de [[gerard-de-nerval|Gérard de Nerval]] et de nombreux francs-maçons dont les monuments portent l'[[compas-et-equerre|équerre et le compas]], des pyramides, des colonnes brisées ou un [[oeil-de-la-providence|œil dans un triangle]] : une promenade symbolique que guides et curieux pratiquent volontiers.
+repere: 1804 — Ouverture du cimetière.
+repere: 1870 — Le dolmen d'Allan Kardec est inauguré.
+voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation

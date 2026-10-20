@@ -1,0 +1,401 @@
+# Les lieux hors de France : îles Britanniques, pays germaniques, Italie,
+# péninsule Ibérique, Grèce, Égypte et Proche-Orient, et quelques lieux lointains.
+
+@ glastonbury
+cat: lieux
+nom: Glastonbury
+alias: Glastonbury Tor, abbaye de Glastonbury, Avalon, tombe d'Arthur, Chalice Well, zodiaque de Glastonbury
+lieu: Somerset, Angleterre, Royaume-Uni
+geo: 51.1444, -2.6986
+def: Petite ville du Somerset dominée par une colline, le Tor, que la légende identifie à l'île d'Avalon et où se croisent le roi Arthur, le Graal et la spiritualité du New Age.
+texte: Le Tor, colline isolée au milieu d'anciens marais, porte les ruines d'une église dédiée à saint Michel, dont seule la tour subsiste. Au pied s'étendait l'une des plus riches abbayes d'Angleterre : en 1191, ses moines annoncent la découverte des tombes du roi Arthur et de la reine Guenièvre, avec une croix de plomb qui nommerait le lieu *insula Avalonia*. Une légende plus tardive y fait débarquer Joseph d'Arimathie, porteur du [[graal|Graal]], dont le bâton aurait fleuri en une aubépine.
+texte: Au XXe siècle, Glastonbury devient un centre de l'ésotérisme anglais : [[dion-fortune|Dion Fortune]] s'installe au pied du Tor dans les années 1920, Katharine Maltwood croit discerner en 1929 dans le paysage un immense zodiaque formé par les champs et les chemins, et l'eau rougie par le fer de Chalice Well passe pour le sang du Christ. Ville des boutiques de cristaux et des cercles de déesse, elle est aujourd'hui l'une des capitales du [[new-age|New Age]] et du [[neopaganisme|néopaganisme]].
+repere: 1191 — Les moines annoncent la découverte de la tombe du roi Arthur.
+repere: 1539 — Dissolution de l'abbaye ; le dernier abbé est exécuté sur le Tor.
+repere: 1929 — Katharine Maltwood décrit le « zodiaque de Glastonbury ».
+voir: graal, dion-fortune, stonehenge, new-age, neopaganisme
+
+@ stonehenge
+cat: lieux
+nom: Stonehenge
+alias: cromlech de Stonehenge, Salisbury, solstice d'été, Ancient Order of Druids
+lieu: Wiltshire, Angleterre, Royaume-Uni
+geo: 51.1789, -1.8261
+def: Monument mégalithique de la plaine de Salisbury, élevé entre 3000 et 1500 avant notre ère et orienté sur les solstices, que le XVIIIe siècle attribua aux druides.
+texte: Le monument a été remanié pendant plus d'un millénaire : un fossé circulaire vers 3000 avant notre ère, puis, vers 2500, le cercle de grands blocs de grès surmontés de linteaux et les « pierres bleues » apportées des collines du pays de Galles, à plus de deux cents kilomètres. Son axe est aligné sur le lever du soleil au solstice d'été et son coucher au solstice d'hiver ; on y voit un sanctuaire, un lieu funéraire et un calendrier rituel.
+texte: En 1740, l'antiquaire William Stukeley en fait un temple des [[druidisme|druides]], qu'il croit héritiers de la religion patriarcale : l'idée, fausse — le monument est bien antérieur aux Celtes —, inspire le renouveau druidique. Des druides modernes y célèbrent le solstice depuis le début du XXe siècle, avant que des festivals libres n'y attirent des milliers de personnes ; l'accès au cercle, interdit en 1985, est de nouveau ouvert pour les solstices depuis 2000.
+repere: vers 3000 av. J.-C. — Creusement du fossé circulaire.
+repere: vers 2500 av. J.-C. — Érection du grand cercle de pierres.
+repere: 1740 — William Stukeley attribue le monument aux druides.
+repere: 1986 — Inscription au patrimoine mondial de l'UNESCO.
+voir: druidisme, carnac, neopaganisme, glastonbury
+
+@ chapelle-de-rosslyn
+cat: lieux
+nom: Chapelle de Rosslyn
+alias: Rosslyn, Roslin, pilier de l'Apprenti, Sinclair, Saint-Clair
+lieu: Midlothian, Écosse, Royaume-Uni
+geo: 55.8554, -3.1599
+def: Chapelle écossaise fondée en 1446 par William Sinclair, couverte de sculptures, que les légendes maçonniques et templières ont transformée en reliquaire de secrets.
+texte: William Sinclair, comte d'Orkney, fonde en 1446 une collégiale à Roslin, près d'Édimbourg ; seul le chœur est achevé. Sa pierre est couverte de sculptures : anges musiciens, hommes verts, scènes bibliques, danse macabre, et le « pilier de l'Apprenti », qu'un apprenti aurait sculpté en l'absence de son maître, qui l'aurait tué de jalousie — un récit qui rappelle la [[legende-d-hiram|légende d'Hiram]].
+texte: Au XVIIIe siècle, William St Clair de Roslin devient le premier grand maître de la Grande Loge d'Écosse, ce qui nourrit l'idée d'un lien ancien entre la famille et la [[franc-maconnerie]]. À la fin du XXe siècle, des best-sellers font de la chapelle la cachette du trésor des [[templiers]], du [[graal|Graal]] ou de la tête du Christ, et y voient du maïs américain sculpté avant Christophe Colomb ; le *Da Vinci Code* y place son dénouement. Les historiens rappellent que l'ordre du Temple avait disparu plus d'un siècle avant la fondation.
+repere: 1446 — William Sinclair fonde la collégiale.
+repere: 1736 — Un Sinclair de Roslin devient le premier grand maître de la Grande Loge d'Écosse.
+voir: templiers, franc-maconnerie, legende-d-hiram, graal
+
+@ boleskine-house
+cat: lieux
+nom: Boleskine House
+alias: Boleskine, Loch Ness, opération d'Abramelin
+lieu: Highland, Écosse, Royaume-Uni
+geo: 57.2653, -4.4748
+def: Manoir des bords du loch Ness acheté en 1899 par Aleister Crowley pour y accomplir l'opération magique du Livre d'Abramelin, devenu un lieu de légende du satanisme populaire.
+texte: [[aleister-crowley|Crowley]] choisit cette maison isolée, au sud-est du loch Ness, parce qu'elle répond aux conditions du *[[livre-d-abramelin|Livre d'Abramelin]]* : une demeure retirée, avec une terrasse ouverte au nord, pour une retraite de six mois destinée à obtenir la « connaissance et la conversation » de son [[ange-gardien|ange gardien]]. Rappelé à Paris par les querelles de la [[golden-dawn|Golden Dawn]], il abandonne l'opération ; la rumeur prétend que les démons qu'il avait évoqués hantèrent la maison.
+texte: Le guitariste de Led Zeppelin, Jimmy Page, admirateur de Crowley, en est propriétaire de 1970 à 1992. Ravagé par des incendies en 2015 et en 2019, le manoir est en cours de restauration par une fondation.
+repere: 1899 — Aleister Crowley achète la maison.
+repere: 1900 — Il abandonne l'opération d'Abramelin pour rejoindre Paris.
+repere: 2015 — Un premier incendie ravage le manoir.
+voir: aleister-crowley, livre-d-abramelin, ange-gardien, golden-dawn
+
+@ abbaye-de-theleme
+cat: lieux
+nom: Abbaye de Thélème (Cefalù)
+alias: abbaye de Thélème, Cefalù, villa Santa Barbara, Abbey of Thelema
+lieu: Cefalù, Sicile, Italie
+geo: 38.0316, 14.0271
+def: Petite villa de Cefalù, en Sicile, où Aleister Crowley établit de 1920 à 1923 une communauté vouée à la loi de Thélème, avant d'être expulsé par le gouvernement de Mussolini.
+texte: En 1920, [[aleister-crowley|Crowley]] et sa compagne Leah Hirsig louent une maison au-dessus de Cefalù et la baptisent « abbaye de Thélème », d'après l'abbaye utopique de [[francois-rabelais|Rabelais]], dont la règle tenait en une phrase : « Fais ce que voudras ». Les disciples y mènent une vie rythmée par les adorations solaires, la [[magie-sexuelle|magie sexuelle]], la drogue et la pratique du journal magique ; Crowley couvre les murs de peintures érotiques et démoniaques.
+texte: En 1923, la mort d'un jeune disciple, Raoul Loveday, d'une infection contractée sur place, déchaîne la presse britannique, qui présente Crowley comme « l'homme le plus méchant du monde ». Le gouvernement fasciste l'expulse d'Italie la même année. Le cinéaste Kenneth Anger, admirateur de Crowley, viendra en 1955 dégager les peintures sous la chaux.
+repere: 1920 — Crowley fonde l'abbaye à Cefalù.
+repere: 1923 — Mort de Raoul Loveday ; Crowley est expulsé d'Italie.
+repere: 1955 — Kenneth Anger fait réapparaître les peintures murales.
+voir: aleister-crowley, thelema, livre-de-la-loi, francois-rabelais, magie-sexuelle
+
+@ bomarzo
+cat: lieux
+nom: Bomarzo
+alias: Sacro Bosco, parc des Monstres, bois sacré de Bomarzo, Vicino Orsini
+lieu: Latium, Italie
+geo: 42.4916, 12.2476
+def: Jardin de la Renaissance où le prince Vicino Orsini fit sculpter dans le rocher, à partir de 1552, des géants, des monstres et une maison penchée, lu depuis comme un parcours initiatique.
+texte: Au fond d'un vallon, le « bois sacré » de Pier Francesco Orsini, dit Vicino, mêle des sculptures colossales taillées dans les blocs de pierre volcanique : un ogre dont la bouche ouverte porte l'inscription « toute pensée s'envole », un éléphant écrasant un soldat, une tortue géante, des sirènes, un dragon, un petit temple, et une maison volontairement penchée, où l'on perd l'équilibre. Des inscriptions invitent le visiteur à s'émerveiller.
+texte: Oublié pendant des siècles, le jardin est redécouvert au milieu du XXe siècle, notamment par Salvador Dalí. Les commentateurs y ont cherché une lecture du roman allégorique *Le Songe de Poliphile*, un chemin alchimique, une descente aux enfers ou une [[initiation]] ; d'autres y voient surtout le caprice d'un prince lettré en deuil de sa femme. Aucune clé n'a été laissée par son créateur.
+repere: 1552 — Vicino Orsini commence l'aménagement du bois sacré.
+repere: 1585 — Mort de Vicino Orsini.
+voir: initiation, emblemes, labyrinthe
+
+@ villa-de-careggi
+cat: lieux
+nom: Villa de Careggi
+alias: Careggi, Académie platonicienne, villa médicéenne de Careggi
+lieu: Florence, Toscane, Italie
+geo: 43.8079, 11.2503
+def: Villa des Médicis aux portes de Florence, où Cosme l'Ancien installa Marsile Ficin pour traduire Platon et les écrits d'Hermès : le berceau de l'Académie platonicienne de la Renaissance.
+texte: Cosme de Médicis, qui avait entendu à Florence le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]] célébrer Platon, confie au jeune [[marsile-ficin|Marsile Ficin]] la traduction des dialogues et lui offre une maison près de sa villa de Careggi. En 1463, il lui demande d'interrompre Platon pour traduire d'abord le *[[corpus-hermetique|Corpus Hermeticum]]*, récemment arrivé de Macédoine, qu'il veut lire avant de mourir.
+texte: Autour de Ficin se réunit un cercle d'amis lettrés, l'« Académie platonicienne », où l'on célèbre l'anniversaire de Platon par un banquet. [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et Laurent le Magnifique le fréquentent. Cosme meurt à Careggi en 1464, Laurent en 1492. C'est ici que s'élabore la synthèse de l'[[neoplatonisme|néoplatonisme]], de l'[[hermetisme|hermétisme]] et du christianisme qui marque tout l'ésotérisme occidental.
+repere: 1463 — Ficin traduit le *Corpus Hermeticum* à la demande de Cosme de Médicis.
+repere: 1464 — Mort de Cosme l'Ancien à Careggi.
+repere: 1492 — Mort de Laurent le Magnifique à Careggi.
+voir: marsile-ficin, corpus-hermetique, neoplatonisme, pic-de-la-mirandole, prisca-theologia
+
+@ porte-alchimique
+cat: lieux
+nom: Porte alchimique
+alias: Porta magica, Porta alchemica, porte magique de Rome, Massimiliano Palombara
+lieu: Rome, Latium, Italie
+geo: 41.8954, 12.5038
+def: Porte de pierre couverte de symboles et d'inscriptions alchimiques, vestige de la villa du marquis Palombara à Rome, élevée vers 1680.
+texte: Le marquis Massimiliano Palombara, membre du cercle hermétique qui gravitait autour de la reine Christine de Suède, fait graver vers 1680 l'une des portes de sa villa du quartier de l'Esquilin. Son encadrement porte les signes des planètes et des métaux, un sceau hexagonal, et des sentences latines : « le dragon gardien des Hespérides », « qui sait brûler par l'eau et laver par le feu fait de la terre un ciel ».
+texte: La légende raconte qu'un pèlerin, après avoir cherché une herbe capable de faire de l'or, disparut en laissant des paillettes du précieux métal et un papier couvert d'énigmes, que le marquis fit graver dans l'espoir qu'un jour quelqu'un les déchiffrerait. La villa a disparu ; la porte, remontée dans un jardin public, est flanquée de deux statues du dieu égyptien Bès, ajoutées au XIXe siècle.
+voir: alchimie, pierre-philosophale, chrysopee, emblemes
+
+@ antre-de-la-sibylle
+cat: lieux
+nom: Antre de la Sibylle
+alias: Cumes, antre de la sibylle de Cumes, Sibylle de Cumes
+lieu: Cumes, Campanie, Italie
+geo: 40.8479, 14.0532
+def: Long couloir taillé dans le tuf de l'acropole de Cumes, près de Naples, que l'on identifie depuis 1932 à la grotte où la Sibylle rendait ses oracles selon Virgile.
+texte: Cumes, la plus ancienne colonie grecque d'Italie, abritait selon la tradition la plus célèbre des [[sibylles]], celle qui vendit au roi Tarquin les Livres sibyllins conservés au Capitole, et qui, dans l'*Énéide* de Virgile, conduit Énée aux Enfers. Virgile évoque « l'antre immense » percé de cent ouvertures d'où sortent ses réponses.
+texte: En 1932, l'archéologue Amedeo Maiuri dégage une galerie trapézoïdale de plus de cent mètres, éclairée par des ouvertures latérales et terminée par une petite salle : il y reconnaît l'antre de la Sibylle. Les archéologues discutent aujourd'hui sa fonction première, militaire ou religieuse, mais la galerie, d'une beauté saisissante, reste le lieu de l'[[oracle]] le plus évocateur d'Occident.
+repere: vers 20 av. J.-C. — Dans l'*Énéide*, Virgile conduit Énée chez la Sibylle de Cumes.
+repere: 1932 — Amedeo Maiuri dégage la galerie.
+voir: sibylles, oracle, delphes, divination
+
+@ quinta-da-regaleira
+cat: lieux
+nom: Quinta da Regaleira
+alias: Regaleira, puits initiatique, Sintra, Carvalho Monteiro
+lieu: Sintra, Portugal
+geo: 38.7964, -9.3960
+def: Palais et jardins de Sintra construits au début du XXe siècle pour un millionnaire passionné d'ésotérisme, célèbres pour leur « puits initiatique » à escalier spirale.
+texte: António Augusto Carvalho Monteiro, enrichi au Brésil, fait bâtir de 1904 à 1910 par l'architecte italien Luigi Manini un palais néogothique et manuélin entouré d'un parc escarpé, peuplé de grottes, de tours, de chapelles et de bassins. Collectionneur de livres rares, il y fait inscrire des symboles empruntés à l'[[alchimie]], à la [[franc-maconnerie]], aux [[templiers]] et à l'ordre du Christ.
+texte: Le « puits initiatique », qui ne contenait jamais d'eau, descend sur vingt-sept mètres par un escalier en spirale à neuf paliers, que l'on rapproche des neuf cercles de l'*Enfer* de Dante ; au fond, une rose des vents en mosaïque, et des souterrains qui débouchent sur une cascade. Le visiteur descend dans l'obscurité et remonte à la lumière, comme l'initié du [[cabinet-de-reflexion|cabinet de réflexion]].
+repere: 1904 — Début de la construction par Luigi Manini.
+repere: 1995 — Le paysage culturel de Sintra est inscrit au patrimoine mondial de l'UNESCO.
+voir: initiation, cabinet-de-reflexion, franc-maconnerie, couvent-du-christ
+
+@ couvent-du-christ
+cat: lieux
+nom: Couvent du Christ (Tomar)
+alias: Tomar, Convento de Cristo, ordre du Christ, charola de Tomar, fenêtre manuéline
+lieu: Tomar, Portugal
+geo: 39.6036, -8.4193
+def: Château des templiers portugais fondé en 1160, devenu le siège de l'ordre du Christ, qui leur succéda : le seul lieu où l'ordre du Temple se prolongea sans rupture.
+texte: Le grand maître portugais Gualdim Pais fonde en 1160 le château de Tomar, avec sa rotonde, la *charola*, imitée du Saint-Sépulcre de Jérusalem. Quand le pape supprime les [[templiers]] en 1312, le roi Denis du Portugal obtient la création d'un nouvel ordre, l'ordre du Christ (1319), qui reçoit leurs biens et une partie de leurs membres.
+texte: Gouverné au XVe siècle par Henri le Navigateur, l'ordre finance les grandes découvertes : sa croix rouge orne les voiles des caravelles. Le couvent s'agrandit de cloîtres et de la célèbre fenêtre manuéline de la salle du chapitre, couverte de cordages, de coraux et de sphères armillaires. Cette continuité, réelle, a nourri les spéculations néotemplières sur une survivance secrète de l'ordre.
+repere: 1160 — Gualdim Pais fonde le château templier.
+repere: 1319 — Création de l'ordre du Christ, héritier des templiers portugais.
+repere: 1983 — Inscription au patrimoine mondial de l'UNESCO.
+voir: templiers, quinta-da-regaleira, chinon
+
+@ montserrat
+cat: lieux
+nom: Montserrat
+alias: abbaye de Montserrat, Moreneta, Montsalvat, Himmler à Montserrat
+lieu: Catalogne, Espagne
+geo: 41.5932, 1.8371
+def: Montagne de Catalogne aux rochers dentelés et abbaye bénédictine de la Vierge noire, que des romantiques identifièrent au Montsalvat, le château du Graal.
+texte: L'abbaye bénédictine, fondée au XIe siècle, garde une statue de la Vierge noircie par le temps, la Moreneta, l'un des grands pèlerinages d'Espagne. Les flèches de rocher qui l'entourent ont frappé l'imagination des voyageurs : depuis le XIXe siècle, on a voulu y reconnaître le Montsalvat du *Parzival* de Wolfram et du *Parsifal* de Wagner, demeure des chevaliers du [[graal|Graal]].
+texte: En octobre 1940, de passage en Espagne, Heinrich Himmler visite le monastère ; selon le récit d'un moine, il aurait cherché à savoir si le Graal y était caché, dans le sillage des recherches d'[[otto-rahn|Otto Rahn]]. L'épisode, embelli par la suite, a fait de Montserrat une étape des récits sur l'occultisme nazi.
+repere: 1025 — Fondation du monastère bénédictin.
+repere: 1940 — Visite de Heinrich Himmler au monastère.
+voir: graal, otto-rahn, montsegur, ariosophie
+
+@ externsteine
+cat: lieux
+nom: Externsteine
+alias: rochers des Externsteine, Irminsul, Teutoburger Wald
+lieu: Rhénanie-du-Nord-Westphalie, Allemagne
+geo: 51.8689, 8.9175
+def: Groupe de rochers de grès de la forêt de Teutberg, sculpté au Moyen Âge, dont les mouvements völkisch firent un sanctuaire solaire des anciens Germains.
+texte: Ces piliers de grès hauts de près de quarante mètres portent un grand relief de la Descente de croix, sculpté au XIIe siècle, une chapelle creusée dans le roc et une ouverture circulaire au sommet d'un des rochers. Le site était alors un lieu de pèlerinage chrétien lié à l'abbaye de Paderborn.
+texte: En 1929, le pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'Irminsul. Himmler y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
+repere: 1929 — Wilhelm Teudt en fait un sanctuaire solaire germanique.
+repere: 1934 — Fouilles menées à la demande de Himmler.
+voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme
+
+@ wewelsburg
+cat: lieux
+nom: Wewelsburg
+alias: château de Wewelsburg, soleil noir, salle des Obergruppenführer, Niederhagen
+lieu: Rhénanie-du-Nord-Westphalie, Allemagne
+geo: 51.6068, 8.6514
+def: Château triangulaire de Westphalie dont Himmler voulut faire le centre idéologique de la SS ; le « soleil noir » de son pavement est devenu un emblème néonazi.
+texte: Bâti au début du XVIIe siècle pour les princes-évêques de Paderborn, le château est loué par Heinrich Himmler en 1934 pour y installer une école de la SS. Sous l'influence de [[karl-maria-wiligut|Karl Maria Wiligut]], il devient un lieu de cérémonie et le cœur d'un projet démesuré, que la guerre interrompt : une salle à colonnes au pavement orné d'une roue solaire à douze rayons, et sous elle une crypte circulaire. Les travaux sont faits par les détenus du camp de concentration de Niederhagen, ouvert à proximité, où plus de mille deux cents d'entre eux meurent.
+texte: La SS fait sauter le château en mars 1945. Reconstruit, il abrite une auberge de jeunesse et un musée qui documente l'idéologie et les crimes de la SS. La roue du pavement, baptisée après la guerre « soleil noir » par des auteurs ésotériques, est devenue un signe de ralliement de l'extrême droite.
+repere: 1934 — Himmler loue le château pour la SS.
+repere: 1939 — Ouverture du camp de concentration de Niederhagen.
+repere: 1945 — La SS fait sauter le château.
+repere: 2010 — Ouverture de l'exposition sur l'idéologie et la terreur de la SS.
+voir: karl-maria-wiligut, ahnenerbe, soleil-noir, ariosophie, externsteine
+
+@ chateau-de-prague
+cat: lieux
+nom: Château de Prague
+alias: Prague magique, ruelle d'Or, Hradschin, cabinet de curiosités de Rodolphe II
+lieu: Prague, Tchéquie
+geo: 50.0900, 14.4000
+def: Résidence de l'empereur Rodolphe II, qui y réunit à la fin du XVIe siècle alchimistes, astrologues et savants : le cœur de la « Prague magique ».
+texte: Installé à Prague en 1583, [[rodolphe-ii|Rodolphe II]] fait du château le centre d'une cour savante et étrange. Il y entasse ses collections, tableaux, automates, objets naturels et curiosités, et y accueille [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]], [[michael-maier|Michael Maier]], [[michel-sendivogius|Michel Sendivogius]], l'astronome Tycho Brahe et [[johannes-kepler|Kepler]]. Une tour du château, la Mihulka, aurait abrité des laboratoires.
+texte: La ruelle d'Or, une rangée de minuscules maisons adossées au rempart, passe pour avoir logé les alchimistes de l'empereur ; elle abritait en fait des gardes et des orfèvres. Dans la ville basse, la synagogue Vieille-Nouvelle est liée à la légende du [[golem]] du rabbin Loew. Le XIXe et le XXe siècle, avec le roman *Le Golem* de Gustav Meyrink (1915), ont fixé l'image d'une capitale de l'occulte.
+repere: 1583 — Rodolphe II fait de Prague sa résidence.
+repere: 1584 — John Dee et Edward Kelley arrivent à la cour.
+repere: 1612 — Mort de Rodolphe II.
+voir: rodolphe-ii, john-dee, edward-kelley, golem, michael-maier
+
+@ chateau-de-heidelberg
+cat: lieux
+nom: Château de Heidelberg
+alias: Heidelberg, Hortus Palatinus, jardin palatin, Frédéric V, roi d'un hiver
+lieu: Bade-Wurtemberg, Allemagne
+geo: 49.4106, 8.7158
+def: Résidence des électeurs palatins dont le jardin, l'Hortus Palatinus, et la cour de Frédéric V ont été rattachés par l'historienne Frances Yates à l'essor des manifestes rose-croix.
+texte: En 1613, l'électeur palatin Frédéric V épouse Élisabeth Stuart, fille du roi d'Angleterre. L'ingénieur Salomon de Caus dessine pour eux sur la colline un jardin en terrasses, l'*Hortus Palatinus*, peuplé de grottes, de statues parlantes et de jeux d'eau, qu'on surnomme la huitième merveille du monde. En 1619, Frédéric accepte la couronne de Bohême ; vaincu à la Montagne Blanche l'année suivante, il n'aura été que le « roi d'un hiver ».
+texte: Dans *La Lumière des Rose-Croix* (1972), [[frances-yates|Frances Yates]] soutient que les manifestes de la [[rose-croix]], parus à partir de 1614, expriment les espérances d'un milieu protestant et hermétiste qui voyait en Frédéric le champion d'une réforme universelle. La thèse a été discutée, mais elle a renouvelé l'histoire du mouvement. Le château, ruiné par les troupes de Louis XIV en 1689 et 1693, est l'un des hauts lieux du romantisme allemand.
+repere: 1613 — Mariage de Frédéric V et d'Élisabeth Stuart.
+repere: 1614 — Début de l'aménagement de l'*Hortus Palatinus* ; parution de la *Fama Fraternitatis*.
+repere: 1620 — Défaite de la Montagne Blanche.
+repere: 1689 — Les troupes françaises dévastent le château.
+voir: rose-croix, fama-fraternitatis, frances-yates, johann-valentin-andreae
+
+@ goetheanum
+cat: lieux
+nom: Goetheanum
+alias: Dornach, premier Goetheanum, second Goetheanum
+lieu: Dornach, Soleure, Suisse
+geo: 47.4861, 7.6203
+def: Siège de la Société anthroposophique à Dornach, près de Bâle, dessiné par Rudolf Steiner : un premier édifice de bois incendié en 1922, puis le grand bâtiment de béton achevé en 1928.
+texte: [[rudolf-steiner|Rudolf Steiner]] fait commencer en 1913 un premier Goetheanum, construction de bois à deux coupoles entrecroisées, sculptée et peinte par des bénévoles venus de toute l'Europe pendant la guerre, pour y jouer ses drames-mystères et les pièces de Goethe. Dans la nuit du Nouvel An 1922-1923, un incendie, probablement criminel, le détruit entièrement.
+texte: Steiner dessine aussitôt un second édifice, en béton, aux formes sculptées sans angle droit, achevé en 1928, trois ans après sa mort. Siège de la [[societe-anthroposophique|Société anthroposophique]] et de l'École de science de l'esprit, le Goetheanum accueille des congrès, des représentations d'eurythmie et le *Faust* de Goethe joué en entier. Il est l'un des monuments importants de l'architecture expressionniste.
+repere: 1913 — Pose de la première pierre du premier Goetheanum.
+repere: 1923 — L'édifice de bois brûle dans la nuit du Nouvel An.
+repere: 1928 — Achèvement du second Goetheanum, en béton.
+voir: rudolf-steiner, anthroposophie, societe-anthroposophique
+
+@ monte-verita
+cat: lieux
+nom: Monte Verità
+alias: Ascona, mont de la Vérité, Eranos, Olga Fröbe-Kapteyn
+lieu: Ascona, Tessin, Suisse
+geo: 46.1589, 8.7629
+def: Colline d'Ascona, au bord du lac Majeur, où une colonie végétarienne et naturiste attira dès 1900 artistes, anarchistes et théosophes, près du lieu des futures rencontres d'Eranos.
+texte: En 1900, un fils d'industriel belge, Henri Oedenkoven, la pianiste Ida Hofmann et quelques amis fondent sur la colline une communauté qui refuse la civilisation industrielle : végétarisme, bains de soleil, vêtements amples, travail de la terre, liberté des mœurs. Écrivains comme Hermann Hesse, danseurs comme Rudolf Laban et Mary Wigman, psychanalystes, anarchistes et théosophes y passent, et la colline devient un laboratoire des « réformes de la vie ».
+texte: À quelques kilomètres, Olga Fröbe-Kapteyn, proche des milieux théosophiques, crée en 1933 les rencontres d'Eranos, qui réunissent chaque été [[carl-gustav-jung|Jung]], Mircea Eliade, [[gershom-scholem|Gershom Scholem]], [[henry-corbin|Henry Corbin]] et bien d'autres autour de l'histoire des religions et des symboles : elles ont profondément marqué l'étude universitaire de l'ésotérisme.
+repere: 1900 — Fondation de la colonie du Monte Verità.
+repere: 1933 — Premières rencontres d'Eranos, à Ascona.
+voir: carl-gustav-jung, henry-corbin, gershom-scholem, theosophie, new-age
+
+@ delphes
+cat: lieux
+nom: Delphes
+alias: sanctuaire d'Apollon, Pythie, omphalos, Connais-toi toi-même, oracle de Delphes
+lieu: Phocide, Grèce
+geo: 38.4823, 22.5013
+def: Sanctuaire d'Apollon sur les pentes du Parnasse, siège de l'oracle le plus célèbre de la Grèce antique, que les Grecs tenaient pour le centre du monde.
+texte: Selon le mythe, deux aigles lâchés par Zeus aux extrémités du monde se rencontrèrent à Delphes, que marquait l'*omphalos*, la pierre du nombril. Dans le temple d'Apollon, la Pythie, assise sur un trépied, rendait au nom du dieu des réponses que des prêtres mettaient en forme : cités et particuliers venaient la consulter avant une guerre, une fondation ou une décision grave. Sur le temple étaient gravées des maximes, dont « Connais-toi toi-même ».
+texte: Plutarque, prêtre d'Apollon à Delphes, s'interroge déjà au IIe siècle sur le déclin des [[oracle|oracles]]. Le sanctuaire est fermé à la fin du IVe siècle, sous les empereurs chrétiens. Les fouilles de l'École française d'Athènes, à partir de 1892, l'ont dégagé ; Delphes demeure, pour l'ésotérisme moderne, le symbole d'une sagesse antique et de la connaissance de soi.
+repere: 1892 — Début de la « grande fouille » de l'École française d'Athènes.
+repere: 1987 — Inscription au patrimoine mondial de l'UNESCO.
+voir: oracle, sibylles, antre-de-la-sibylle, eleusis, divination
+
+@ eleusis
+cat: lieux
+nom: Éleusis
+alias: mystères d'Éleusis, Télestérion, sanctuaire de Déméter, Éleusis
+lieu: Attique, Grèce
+geo: 38.0411, 23.5380
+def: Sanctuaire de Déméter et de sa fille Coré, près d'Athènes, où se célébrèrent pendant près de mille ans les mystères les plus réputés de l'Antiquité.
+texte: Chaque automne, après une procession partie d'Athènes par la Voie sacrée, les candidats, les mystes, entraient de nuit dans le Télestérion, une grande salle hérissée de colonnes. Ce qu'ils y voyaient restait secret, sous peine de mort ; on sait seulement que l'[[hierophante|hiérophante]] y montrait des objets sacrés à la lueur des torches, et que l'initié du degré supérieur, l'épopte, recevait une vision. Les initiés en revenaient, disait-on, avec une meilleure espérance pour l'après-vie.
+texte: Les [[mysteres-antiques|mystères]] d'Éleusis s'éteignent à la fin du IVe siècle, quand l'empereur Théodose interdit les cultes païens, et le sanctuaire est ravagé par les Goths d'Alaric en 396. Ils sont restés pour l'ésotérisme moderne le modèle même de l'[[initiation]], et la franc-maçonnerie, comme l'occultisme, a souvent prétendu en être l'héritière.
+repere: 392 — L'empereur Théodose interdit les cultes païens.
+repere: 396 — Le sanctuaire est ravagé par les Goths d'Alaric.
+voir: mysteres-antiques, hierophante, mystes-et-epoptes, initiation, orphisme
+
+@ samothrace
+cat: lieux
+nom: Samothrace
+alias: sanctuaire des Grands Dieux, Cabires, mystères de Samothrace, Victoire de Samothrace
+lieu: Macédoine-Orientale-et-Thrace, Grèce
+geo: 40.5008, 25.5301
+def: Île de l'Égée du Nord dont le sanctuaire des Grands Dieux, les Cabires, accueillait des mystères réputés protéger les marins, rivaux de ceux d'Éleusis.
+texte: Les divinités du sanctuaire, appelées simplement les « Grands Dieux » et souvent confondues avec les Cabires, restent mal connues : un culte d'origine préhellénique, associé à une grande déesse mère. À la différence d'Éleusis, les mystères étaient ouverts toute l'année, aux esclaves comme aux étrangers, et l'initiation promettait la protection en mer. Le futur Philippe II de Macédoine y aurait rencontré Olympias, la mère d'Alexandre.
+texte: En 1863, le consul français Charles Champoiseau y découvre la Victoire de Samothrace, aujourd'hui au Louvre. Les érudits de la Renaissance et les occultistes du XIXe siècle ont fait des Cabires les dépositaires d'une sagesse primordiale, une idée qui doit plus aux spéculations sur les [[mysteres-antiques|mystères antiques]] qu'aux fouilles.
+repere: 1863 — Découverte de la Victoire de Samothrace.
+repere: 1938 — Début des fouilles américaines de Karl Lehmann.
+voir: mysteres-antiques, eleusis, initiation
+
+@ alexandrie
+cat: lieux
+nom: Alexandrie
+alias: Alexandrie d'Égypte, Bibliothèque d'Alexandrie, Sérapéum, Musée d'Alexandrie
+lieu: Alexandrie, Égypte
+geo: 31.1981, 29.9192
+def: Ville fondée par Alexandre le Grand en 331 avant notre ère, capitale intellectuelle du monde grec, où se sont mêlés philosophie grecque, religion égyptienne et judaïsme : le creuset de l'hermétisme, de la gnose et du néoplatonisme.
+texte: Sous les Ptolémées, le Musée et la Bibliothèque font d'Alexandrie le centre du savoir antique ; on y traduit en grec la Bible hébraïque, et le culte de Sérapis y unit dieux grecs et égyptiens. [[philon-d-alexandrie|Philon]] y lit Moïse en platonicien ; au IIe siècle, les gnostiques [[valentin|Valentin]] et [[basilide|Basilide]] y enseignent, et c'est dans l'Égypte de langue grecque que sont rédigés les traités du *[[corpus-hermetique|Corpus Hermeticum]]* et les premiers textes de l'[[alchimie]].
+texte: [[plotin|Plotin]] y suit l'enseignement d'Ammonios Saccas avant de fonder le [[neoplatonisme|néoplatonisme]] à Rome ; la philosophe Hypatie y est massacrée par une foule chrétienne en 415. La disparition de la Bibliothèque, dont on ignore les circonstances exactes, est devenue le symbole d'un savoir perdu, que bien des ésotéristes ont rêvé de retrouver.
+repere: 331 av. J.-C. — Fondation de la ville par Alexandre le Grand.
+repere: 391 — Destruction du Sérapéum.
+repere: 415 — Assassinat de la philosophe Hypatie.
+voir: hermetisme, corpus-hermetique, gnose, neoplatonisme, philon-d-alexandrie, hermopolis
+
+@ hermopolis
+cat: lieux
+nom: Hermopolis
+alias: Hermopolis Magna, Khemenou, Achmounein, Ogdoade, Thot, Touna el-Gebel
+lieu: Moyenne-Égypte, Égypte
+geo: 27.7744, 30.8011
+def: Ville de Moyenne-Égypte consacrée à Thot, dieu de l'écriture et du savoir, que les Grecs identifièrent à Hermès : la patrie symbolique d'Hermès Trismégiste.
+texte: Les Égyptiens l'appelaient Khemenou, la « ville des Huit », d'après les huit divinités primordiales, l'Ogdoade, qui avaient selon ses prêtres présidé à la naissance du monde. Thot, à tête d'ibis ou de babouin, maître des écritures sacrées et de la magie, y avait son grand temple ; les Grecs, qui reconnaissaient en lui leur Hermès, baptisèrent la ville Hermopolis.
+texte: Le titre de « trois fois grand », porté par Thot dans les inscriptions, est à l'origine du nom d'[[hermes-trismegiste|Hermès Trismégiste]]. Dans la nécropole voisine de Touna el-Gebel, des galeries renferment des millions d'ibis et de babouins momifiés, offerts au dieu, et le tombeau du prêtre Pétosiris mêle au IVe siècle avant notre ère l'art égyptien et l'art grec, à l'image de la culture d'où sortira l'[[hermetisme|hermétisme]].
+voir: hermes-trismegiste, hermetisme, alexandrie, hieroglyphes, egyptosophie
+
+@ gizeh
+cat: lieux
+nom: Plateau de Gizeh
+alias: Gizeh, pyramides de Gizeh, grande pyramide, Sphinx de Gizeh, salle des archives
+lieu: Gizeh, Égypte
+geo: 29.9792, 31.1342
+def: Plateau désertique aux portes du Caire, où se dressent les trois grandes pyramides et le Sphinx, objets depuis deux siècles de toutes les spéculations ésotériques.
+texte: Les pyramides de Khéops, Khéphren et Mykérinos, élevées vers 2600-2500 avant notre ère, et le Sphinx, taillé dans le roc du plateau, forment la nécropole des rois de la IVe dynastie. Les fouilles du village des ouvriers et des papyrus de chantier retrouvés au bord de la mer Rouge ont éclairé la manière dont elles furent bâties.
+texte: L'ésotérisme en a fait un livre de pierre : la « [[pyramides|pyramidologie]] » y cherche des mesures divines et une chronologie prophétique, des occultistes y placent des salles d'initiation, [[edgar-cayce|Edgar Cayce]] annonce sous le [[sphinx|Sphinx]] une « salle des archives » laissée par les Atlantes, et d'autres auteurs y voient l'œuvre d'une civilisation perdue ou venue d'ailleurs. Aucune de ces théories ne repose sur les données archéologiques.
+repere: vers 2560 av. J.-C. — Construction de la Grande Pyramide pour le roi Khéops.
+repere: 1864 — Charles Piazzi Smyth publie sa pyramidologie.
+voir: pyramides, sphinx, egyptosophie, edgar-cayce, atlantide
+
+@ dendera
+cat: lieux
+nom: Dendérah
+alias: temple d'Hathor, zodiaque de Dendérah, Dendera
+lieu: Haute-Égypte, Égypte
+geo: 26.1417, 32.6703
+def: Temple de la déesse Hathor en Haute-Égypte, dont le plafond portait un zodiaque circulaire, transporté à Paris en 1821, qui fut au cœur d'une querelle sur l'âge du monde.
+texte: Le temple actuel, l'un des mieux conservés d'Égypte, date de l'époque des derniers Ptolémées et des empereurs romains. Sur le toit, une chapelle consacrée à Osiris portait un plafond sculpté d'un disque où les figures du [[zodiaque]] grec se mêlent aux constellations égyptiennes et aux décans.
+texte: Découpé et transporté en France en 1821, le zodiaque passionne l'opinion : des savants héritiers de Dupuis, pour qui toutes les religions dérivent de l'astronomie, lui prêtent des milliers d'années, ce qui contredisait la chronologie biblique. En 1822, Champollion lit dans un cartouche voisin le titre d'un empereur romain : le zodiaque date du Ier siècle avant notre ère. Il est conservé au Louvre ; une copie a été posée dans le temple.
+repere: 1821 — Le zodiaque est découpé et transporté à Paris.
+repere: 1822 — Champollion en établit l'époque romaine.
+voir: zodiaque, astrologie, decans, egyptosophie, hieroglyphes
+
+@ harran
+cat: lieux
+nom: Harran
+alias: Carrhes, temple de Sîn, maisons en ruche
+lieu: Şanlıurfa, Turquie
+geo: 36.8708, 39.0250
+def: Ville antique de haute Mésopotamie, centre du culte du dieu lunaire Sîn, où les Sabéens maintinrent jusqu'au XIe siècle une religion des astres placée sous le patronage d'Hermès.
+texte: Étape d'Abraham et de sa famille selon la Genèse, Harran abrite dès le IIe millénaire avant notre ère le grand temple de Sîn, dieu de la Lune, que restaure encore le dernier roi de Babylone, Nabonide. Les Romains l'appellent Carrhes : c'est là que Crassus est vaincu par les Parthes en 53 avant notre ère.
+texte: Restée païenne longtemps après la christianisation de la région, la ville est le foyer des [[sabeens-de-harran|Sabéens]], adorateurs des planètes qui se réclament d'Hermès et transmettent aux savants de Bagdad l'héritage astrologique grec. Détruite par les Mongols au XIIIe siècle, Harran n'est plus qu'un village aux maisons de terre coiffées de coupoles en ruche, au milieu des ruines d'une grande mosquée et d'une citadelle.
+repere: 53 av. J.-C. — Défaite de Crassus face aux Parthes à Carrhes.
+repere: 1271 — La ville est détruite par les Mongols.
+voir: sabeens-de-harran, hermetisme, picatrix, astrologie
+
+@ adyar
+cat: lieux
+nom: Adyar
+alias: Adyar, Chennai, Madras, siège de la Société théosophique, banian d'Adyar
+lieu: Chennai, Tamil Nadu, Inde
+geo: 13.0102, 80.2703
+def: Domaine au bord d'un estuaire de Chennai (Madras), où la Société théosophique a son siège international depuis 1882.
+texte: [[helena-blavatsky|Helena Blavatsky]] et [[henry-steel-olcott|Henry Steel Olcott]], arrivés en Inde en 1879, installent en 1882 le siège de la [[societe-theosophique|Société théosophique]] dans une propriété au bord de l'eau, qui s'agrandit en un vaste parc où se dressent des temples de plusieurs religions et un immense banian. C'est là que se tiennent ses congrès internationaux.
+texte: En 1909, [[charles-webster-leadbeater|Charles Leadbeater]] remarque sur la plage voisine un jeune garçon, [[jiddu-krishnamurti|Jiddu Krishnamurti]], en qui il voit le futur instructeur du monde ; [[annie-besant|Annie Besant]], présidente de la Société, l'élève comme tel avant qu'il ne rompe en 1929. La Société d'Adyar, aujourd'hui encore l'une des branches principales du mouvement théosophique, y garde une bibliothèque de manuscrits orientaux réputée.
+repere: 1882 — La Société théosophique s'installe à Adyar.
+repere: 1909 — Leadbeater remarque le jeune Krishnamurti sur la plage.
+voir: societe-theosophique, helena-blavatsky, henry-steel-olcott, annie-besant, jiddu-krishnamurti
+
+@ salem
+cat: lieux
+nom: Salem
+alias: sorcières de Salem, procès de Salem, Witch House, Tituba
+lieu: Massachusetts, États-Unis
+geo: 42.5168, -70.8985
+def: Port de Nouvelle-Angleterre où le procès des « sorcières » de 1692 fit pendre dix-neuf personnes ; la ville est devenue un lieu de mémoire et un centre du néopaganisme américain.
+texte: Au début de 1692, dans le village voisin de Salem Village, des jeunes filles sont prises de convulsions ; on accuse l'esclave Tituba et deux femmes marginales de les avoir ensorcelées. La panique s'étend : plus de cent cinquante personnes sont emprisonnées, dix-neuf sont pendues et un homme, Giles Corey, est écrasé sous des pierres pour avoir refusé de plaider. Le tribunal admettait les « preuves spectrales », les visions des accusatrices.
+texte: Dès 1697, la colonie fait jeûner ses habitants en signe de repentir ; les condamnés sont réhabilités au fil des siècles, la dernière en 2022. Le procès, que la pièce d'Arthur Miller *Les Sorcières de Salem* (1953) a rendu universel, est devenu l'emblème de la [[chasse-aux-sorcieres|chasse aux sorcières]]. Salem attire chaque automne des foules pour Halloween, et des [[wicca|wiccans]] s'y sont installés depuis les années 1970.
+repere: 1692 — Procès des sorcières : dix-neuf personnes sont pendues.
+repere: 1953 — *Les Sorcières de Salem*, d'Arthur Miller.
+voir: chasse-aux-sorcieres, sorcellerie, wicca, demonologie
+
+@ saint-jacques-de-compostelle
+cat: lieux
+nom: Saint-Jacques-de-Compostelle
+alias: Compostelle, chemin de Saint-Jacques, pèlerinage de Flamel, maître Canches
+lieu: Galice, Espagne
+geo: 42.8806, -8.5444
+def: Grand pèlerinage chrétien de Galice, sur le tombeau supposé de l'apôtre Jacques, où la légende de Nicolas Flamel fit trouver la clé du livre d'Abraham le Juif.
+texte: Depuis la découverte du tombeau attribué à l'apôtre Jacques au IXe siècle, des pèlerins venus de toute l'Europe convergent vers la cathédrale de Compostelle, la coquille au chapeau. Le chemin, avec ses étapes et ses épreuves, a souvent servi d'image au voyage intérieur.
+texte: Le *[[livre-des-figures-hieroglyphiques|Livre des figures hiéroglyphiques]]*, attribué à [[nicolas-flamel|Nicolas Flamel]], raconte qu'il partit en pèlerinage à Compostelle pour comprendre un mystérieux manuscrit, le livre d'Abraham le Juif, et qu'au retour, à León, un médecin juif converti, maître Canches, lui en révéla le sens. Les alchimistes ont fait du « chemin de Saint-Jacques » un symbole du [[grand-oeuvre|Grand Œuvre]], et [[fulcanelli]] y voit la voie que suit l'artiste.
+repere: IXe siècle — Découverte du tombeau attribué à l'apôtre Jacques.
+repere: 1612 — Le *Livre des figures hiéroglyphiques* raconte le pèlerinage de Flamel.
+repere: 1985 — La vieille ville est inscrite au patrimoine mondial de l'UNESCO.
+voir: nicolas-flamel, livre-des-figures-hieroglyphiques, tour-saint-jacques, grand-oeuvre
+
+@ broceliande
+cat: lieux
+nom: Brocéliande
+alias: forêt de Paimpont, fontaine de Barenton, tombeau de Merlin, Val sans retour, Viviane
+lieu: Ille-et-Vilaine, Bretagne, France
+geo: 48.0389, -2.2469
+def: Forêt légendaire des romans arthuriens, où vivaient Merlin et la fée Viviane, que la tradition situe dans la forêt de Paimpont, en Bretagne, autour de la fontaine de Barenton.
+texte: Dès le XIIe siècle, le poète Wace évoque la fontaine de Barenton, dans la forêt de Brocéliande, dont l'eau, versée sur un perron, fait tomber la pluie ; les romans de la Table ronde y placent les amours de Merlin et de Viviane, qui l'enferme dans une prison d'air. Au XVe siècle, les usages de la forêt rédigés pour les seigneurs de Montfort situent la fontaine dans la forêt de Paimpont.
+texte: Au XIXe siècle, les romantiques et les celtomanes fixent la carte du mythe : tombeau de Merlin, Val sans retour, château de Comper où serait née Viviane. Les habitants de Concoret allaient en procession à la fontaine pour obtenir la pluie, un rite encore attesté au XIXe siècle. Brocéliande est aujourd'hui un lieu de pèlerinage pour les néodruides, les néopaïens et les amateurs de légende arthurienne.
+voir: graal, druidisme, neopaganisme, carnac, glastonbury

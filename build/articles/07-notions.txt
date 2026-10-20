@@ -27,7 +27,7 @@ alias: mysticisme, mystiques, expérience mystique, union mystique
 def: Expérience d'union directe et intime avec le divin ou l'absolu, et ensemble des doctrines et des pratiques qui y conduisent.
 texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : Maître Eckhart, Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
 texte: [[antoine-faivre]] distingue la mystique de l'ésotérisme : le mystique tend à dépasser toutes les images et tous les intermédiaires pour s'unir à Dieu, tandis que l'ésotériste s'attache aux symboles, aux [[correspondances]] et aux êtres intermédiaires, et cherche à connaître autant qu'à s'unir. Les deux attitudes se mêlent souvent chez les mêmes auteurs.
-voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne
+voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase
 
 @ initiation
 cat: notions
@@ -36,7 +36,7 @@ alias: initié, initiés, initiatique, rite de passage, rites initiatiques, init
 def: Ensemble de rites et d'enseignements par lesquels une personne est admise dans un groupe ou un état nouveau, souvent vécu comme une mort et une renaissance symboliques.
 texte: L'ethnologue Arnold van Gennep a montré en 1909 que les rites de passage suivent un même schéma : séparation, épreuves dans un état intermédiaire, puis réintégration sous un statut nouveau. Les [[mysteres-antiques|mystères]] de l'Antiquité, les confréries de métiers, la [[franc-maconnerie]] et la plupart des ordres ésotériques organisent ainsi l'entrée de leurs membres, puis leur progression par [[grades-maconniques|grades]].
 texte: Pour les ésotéristes, l'initiation n'est pas seulement l'entrée dans une société : elle transmet une influence spirituelle et éveille des facultés cachées. [[rene-guenon]] insiste sur la nécessité d'une initiation « régulière », transmise par une chaîne ininterrompue, et oppose l'initiation à la [[mystique]], qui serait passive. L'initiation se double presque toujours d'un secret, qui protège moins un savoir qu'une expérience.
-voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore
+voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore, hierophante, mystes-et-epoptes, neophyte
 
 @ correspondances
 cat: notions
@@ -46,6 +46,8 @@ def: Idée selon laquelle toutes les parties de l'univers, visibles et invisible
 texte: Pour [[antoine-faivre]], c'est le premier trait de la pensée ésotérique. Les correspondances unissent les planètes aux métaux, aux jours, aux couleurs, aux plantes et aux organes ; elles unissent le [[microcosme-macrocosme|microcosme et le macrocosme]] ; elles unissent aussi le monde à l'Écriture, que l'on peut lire comme un second livre de la nature. La formule de la [[table-d-emeraude|Table d'émeraude]], « ce qui est en bas est comme ce qui est en haut », en est l'expression la plus célèbre.
 texte: [[emanuel-swedenborg]] a donné à la notion une forme systématique, et Baudelaire l'a rendue célèbre par son sonnet *Correspondances* (1857) : « La Nature est un temple où de vivants piliers / Laissent parfois sortir de confuses paroles. » L'[[astrologie]], la [[magie-naturelle]], la doctrine des [[signatures]] et l'[[alchimie]] reposent sur cette pensée analogique.
 schema: planetes-septenaire
+extrait: La Nature est un temple où de vivants piliers // Laissent parfois sortir de confuses paroles ; // L’homme y passe à travers des forêts de symboles // Qui l’observent avec des regards familiers. ¶ Comme de longs échos qui de loin se confondent, // Dans une ténébreuse et profonde unité, // Vaste comme la nuit et comme la clarté, // Les parfums, les couleurs et les sons se répondent. ¶ Il est des parfums frais comme des chairs d’enfants, // Doux comme les hautbois, verts comme les prairies, // — Et d’autres, corrompus, riches et triomphants, ¶ Ayant l’expansion des choses infinies, // Comme l’ambre, le musc, le benjoin et l’encens, // Qui chantent les transports de l’esprit et des sens.
+source: Charles Baudelaire, « Correspondances », *Les Fleurs du mal*, 1857 | gallica bpt6k70861t = l’édition originale numérisée | ws Les Fleurs du mal (éd. 1857)/Correspondances
 voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme
 
 @ microcosme-macrocosme
@@ -129,7 +131,7 @@ alias: éons, aiôn, aion, éon d'Horus
 def: Dans le gnosticisme, chacune des puissances divines émanées du Dieu suprême et formant le plérôme ; plus largement, un très long âge du monde.
 texte: Le grec *aiôn* signifie « durée », « éternité ». Les gnostiques l'emploient pour les entités spirituelles qui composent le [[plerome]], souvent groupées par couples masculin-féminin, les « syzygies » : l'Abîme et le Silence, l'Intellect et la Vérité, le Verbe et la Vie… La dernière, [[sophia]], est à l'origine de la chute.
 texte: Le mot a gardé le sens d'ère cosmique : [[aleister-crowley]] annonce en 1904 la fin de l'« éon d'Osiris » et le début de l'« éon d'Horus », l'âge de l'enfant couronné.
-voir: plerome, gnosticisme, sophia, thelema
+voir: plerome, gnosticisme, sophia, thelema, syzygie
 
 @ archonte
 cat: notions
@@ -156,7 +158,7 @@ alias: réintégration des êtres, apocatastase, restauration universelle
 def: Retour de l'homme, et de tous les êtres déchus, dans l'état de pureté et de puissance qu'ils possédaient avant la chute.
 texte: Le terme est au centre de la doctrine de [[martinez-de-pasqually]], exposée dans son *[[traite-de-la-reintegration|Traité de la réintégration des êtres]]* : l'homme a été émané par Dieu dans un corps glorieux, avec pour mission de contenir les esprits rebelles ; tombé à son tour dans la matière, il doit recouvrer sa dignité par la purification, la prière et la [[theurgie]].
 texte: L'idée rejoint l'apocatastase enseignée par le théologien Origène au IIIe siècle, le rétablissement final de toutes choses en Dieu. Elle est le fil conducteur de l'[[illuminisme]] et du [[martinisme]].
-voir: martinez-de-pasqually, traite-de-la-reintegration, martinisme, illuminisme, rite-ecossais-rectifie
+voir: martinez-de-pasqually, traite-de-la-reintegration, martinisme, illuminisme, rite-ecossais-rectifie, apocatastase, palingenesie
 
 @ imagination-creatrice
 cat: notions
@@ -174,6 +176,8 @@ alias: grand agent magique, agent universel, astral, plan astral
 def: Selon Éliphas Lévi et l'occultisme, fluide universel et invisible qui baigne toutes choses, garde l'empreinte des images et des pensées, et que la volonté du mage peut diriger.
 texte: [[eliphas-levi]] décrit la lumière astrale comme le « grand agent magique », double à la fois vital et lumineux de toute la nature, qu'il identifie au fluide de [[franz-anton-mesmer|Mesmer]], à l'[[od]] de Reichenbach et au serpent de la Genèse. Elle conserve les reflets de tout ce qui a été, ce qui expliquerait la [[voyance]], les visions et les apparitions des séances spirites.
 texte: La [[theosophie]] reprend le terme et parle d'un « plan astral », monde des émotions et des désirs où séjournerait l'âme après la mort. L'adjectif « astral », qui désignait d'abord ce qui relève des astres, en a reçu ce sens nouveau.
+extrait: Comment tout cela est-il possible ? C’est qu’il existe un agent mixte, un agent naturel et divin, corporel et spirituel, un médiateur plastique universel, un réceptacle commun des vibrations du mouvement et des images de la forme, un fluide et une force qu’on pourrait appeler en quelque manière l’*imagination de la nature*. Par cette force tous les appareils nerveux communiquent secrètement ensemble ; de là naissent la sympathie et l’antipathie ; de là viennent les rêves ; par là se produisent les phénomènes de seconde vue et de vision extranaturelle. Cet agent universel des œuvres de la nature, c’est l’*od* des hébreux et du chevalier de Richembach, c’est la lumière astrale des martinistes, et nous préférons, comme plus explicite, cette dernière appellation.
+source: Éliphas Lévi, *Histoire de la magie*, 1860, introduction | gallica bpt6k75611x | ia histoiredelamagi21013gut = le texte du Projet Gutenberg
 voir: eliphas-levi, magnetisme-animal, od, corps-subtils, annales-akashiques
 
 @ od
@@ -239,7 +243,7 @@ alias: réincarnation, vies antérieures, renaissance, transmigration
 def: Croyance selon laquelle l'âme, après la mort, revient vivre dans un nouveau corps, et traverse ainsi une série d'existences.
 texte: La croyance se trouve dans les religions de l'Inde, chez certains philosophes grecs, sous le nom de [[metempsycose]], et dans plusieurs courants de la [[kabbale]] sous celui de *guilgoul*. Les Églises chrétiennes l'ont rejetée.
 texte: Le XIXe siècle la réintroduit en Occident sous une forme nouvelle : pour le [[spiritisme]] d'[[allan-kardec]] et pour la [[theosophie]], l'âme progresse de vie en vie, sans retour en arrière ni passage par des corps d'animaux, jusqu'à la perfection. Cette réincarnation « évolutionniste » est devenue une croyance répandue en Europe, souvent sans lien avec une religion particulière.
-voir: metempsycose, karma, spiritisme, theosophie, annales-akashiques
+voir: metempsycose, karma, spiritisme, theosophie, annales-akashiques, palingenesie
 
 @ metempsycose
 cat: notions
@@ -294,6 +298,8 @@ def: Doctrines qui conçoivent l'histoire du monde comme une succession d'âges 
 texte: L'hindouisme distingue quatre âges, ou *yugas*, dont les durées sont dans le rapport 4, 3, 2, 1 : l'âge parfait, puis deux âges intermédiaires, puis le *Kali-yuga*, âge sombre et de discorde, qui aurait commencé selon la tradition en 3102 avant notre ère. Le poète grec Hésiode décrit de même une race d'or, d'argent, de bronze, des héros, puis de fer, la nôtre. Les Grecs parlent aussi d'une « grande année » au terme de laquelle les astres reviennent à leur position initiale.
 texte: La [[theosophie]] reprend ces cycles en y mêlant l'évolution des races-racines. [[rene-guenon]] en fait la clé de la crise moderne : nous vivons la fin du Kali-yuga, avant un retour à l'âge d'or.
 schema: cycles-yugas
+extrait: Ô Solon, Solon, vous autres Grecs vous serez toujours enfants ; il n’y a pas de vieillards parmi vous. — Et pourquoi cela ? répondit Solon. — Vous êtes tous, dit le prêtre, jeunes d’intelligence ; vous ne possédez aucune vieille tradition ni aucune science vénérable par son antiquité. En voici la raison. Le genre humain a subi et subira plusieurs destructions, les plus grandes par le feu et l’eau, et les moindres par mille autres causes.
+source: Platon, *Timée*, 22b-c, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
 voir: tradition-primordiale, regne-de-la-quantite, ere-du-verseau, precession
 
 @ ere-du-verseau
@@ -312,6 +318,8 @@ alias: Atlantis, Atlantes, continent englouti
 def: Île légendaire décrite par Platon, puissance maritime engloutie en un jour et une nuit, devenue pour l'ésotérisme moderne le berceau d'une civilisation et d'une sagesse perdues.
 texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
 texte: L'Atlantide renaît avec *Atlantis* d'Ignatius Donnelly (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
+extrait: Ces livres nous apprennent quelle puissante armée Athènes a détruite, armée qui, venue à travers la mer Atlantique, envahissait insolemment l’Europe et l’Asie ; car cette mer était alors navigable, et il y avait au devant du détroit, que vous appelez les Colonnes d’Hercule, une île plus grande que la Libye et l’Asie. (…) Dans la suite de grands tremblements de terre et des inondations engloutirent, en un seul jour et en une nuit fatale, tout ce qu’il y avait chez vous de guerriers ; l’île atlantide disparut sous la mer ; aussi depuis ce temps la mer est-elle devenue inaccessible et a-t-elle cessé d’être navigable par la quantité de limon que l’île abîmée a laissé à sa place.
+source: Platon, *Timée*, 24e-25d, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
 voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale
 
 @ lemurie

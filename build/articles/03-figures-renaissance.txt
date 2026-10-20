@@ -23,7 +23,7 @@ repere: 1489 — *De vita* ; il doit défendre son livre contre des accusations 
 repere: 1492 — Publication de sa traduction de Plotin.
 repere: 1499 — Mort à Careggi.
 oeuvres: Traduction du Corpus Hermeticum (1463, imprimée en 1471) ; De l'amour (1469) ; Théologie platonicienne (1482) ; De vita libri tres (1489) ; traduction de Plotin (1492)
-voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte, harmonie-des-spheres
+voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte, harmonie-des-spheres, villa-de-careggi
 
 @ pic-de-la-mirandole
 cat: figures
@@ -825,4 +825,4 @@ repere: 1609 — *Lettre de Majesté*, qui accorde la liberté religieuse aux pr
 repere: 1611 — Son frère Matthias le force à abdiquer la couronne de Bohême.
 repere: 1612 — Mort à Prague.
 repere: 1627 — Kepler publie les *Tables rudolphines*, qui portent son nom.
-voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie
+voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie, chateau-de-prague

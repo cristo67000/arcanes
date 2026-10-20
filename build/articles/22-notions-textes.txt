@@ -1,0 +1,390 @@
+# Notions, symboles, textes et sociétés ajoutés avec la carte des lieux :
+# le vocabulaire des mystères et de l'initiation, le catharisme, quelques
+# notions de la gnose et de la psychologie des profondeurs, la métapsychique,
+# les légendes modernes du Graal et de Rennes-le-Château.
+
+# ── Le vocabulaire des mystères et de l'initiation ─────────────────────────
+
+@ hierophante
+cat: notions
+nom: Hiérophante
+alias: hiérophantes, hierophant, grand hiérophante
+def: Le grand prêtre des mystères d'Éleusis, « celui qui montre les choses sacrées » ; par extension, le maître qui révèle les secrets d'un culte ou préside à une initiation.
+texte: À [[eleusis|Éleusis]], la charge revenait à vie à un membre de la famille des Eumolpides, réputée descendre du roi Eumolpe, à qui Déméter elle-même aurait enseigné ses rites. La nuit de l'initiation, il apparaissait dans le Télestérion illuminé et montrait aux initiés les objets sacrés, d'une voix dont on vantait la beauté ; il devait abandonner son nom propre en prenant sa fonction.
+texte: Le mot désigne ensuite tout maître des [[mysteres-antiques|mystères]]. Dans les rituels de la [[golden-dawn|Golden Dawn]], le Hiérophante est l'officier qui préside la cérémonie d'admission ; [[arthur-edward-waite|Waite]] donne ce nom au cinquième arcane du tarot, [[arcane-pape|le Pape]], dans son jeu de 1909.
+voir: eleusis, mysteres-antiques, mystagogue, mystes-et-epoptes, arcane-pape, initiation
+
+@ mystagogue
+cat: notions
+nom: Mystagogue
+alias: mystagogie, mystagogues, catéchèses mystagogiques
+def: Celui qui conduit un candidat dans les mystères et lui en explique le sens ; dans l'Église ancienne, le prêtre qui instruisait les nouveaux baptisés du sens des sacrements.
+texte: Dans les [[mysteres-antiques|cultes à mystères]] grecs, le mystagogue accompagne le futur initié, le prépare et le présente, comme un parrain. Le mot passe au christianisme : au IVe siècle, les *Catéchèses mystagogiques* attribuées à Cyrille de Jérusalem dévoilent aux nouveaux baptisés, après la nuit de Pâques, le sens caché des rites qu'ils viennent de vivre.
+texte: Par extension, on appelle mystagogue celui qui se donne pour guide vers une connaissance secrète, parfois avec ironie : les occultistes de la fin du XIXe siècle, de [[josephin-peladan|Péladan]] à [[papus]], ont été souvent qualifiés ainsi par leurs contemporains.
+voir: hierophante, mystes-et-epoptes, initiation, mysteres-antiques
+
+@ mystes-et-epoptes
+cat: notions
+nom: Mystes et époptes
+alias: myste, mystes, épopte, époptes, époptie, petits mystères, grands mystères
+def: Les deux degrés des initiés d'Éleusis : le myste, admis aux mystères mais les yeux voilés, et l'épopte, « celui qui a vu », admis l'année suivante à la contemplation suprême.
+texte: Le candidat recevait au printemps une première purification, aux petits mystères d'Agra, près d'Athènes ; à l'automne, il entrait comme myste — le mot évoque les yeux ou la bouche fermés — dans le sanctuaire d'[[eleusis|Éleusis]]. Un an plus tard, il pouvait revenir pour l'époptie, la vision, dont la nature est restée secrète.
+texte: Les philosophes ont repris ce vocabulaire : chez Platon, l'âme qui s'élève jusqu'au Beau connaît une « époptie », et les néoplatoniciens parlent de la contemplation de l'Un comme d'une initiation. La distinction entre un premier degré qui purifie et un second qui illumine se retrouve dans bien des systèmes de [[grades-maconniques|grades]] modernes.
+voir: eleusis, hierophante, mystagogue, mysteres-antiques, initiation
+
+@ neophyte
+cat: notions
+nom: Néophyte
+alias: néophytes, grade de néophyte, 0=0
+def: Celui qui vient d'être admis dans une religion ou une société initiatique ; dans l'Église ancienne, le nouveau baptisé, et dans la Golden Dawn, le premier grade.
+texte: Le mot grec signifie « nouvellement planté ». Dans l'Église des premiers siècles, il désigne le baptisé de l'année, qui porte une robe blanche pendant la semaine de Pâques ; saint Paul recommande de ne pas choisir un évêque parmi eux.
+texte: Les sociétés initiatiques modernes en ont fait un grade : dans la [[golden-dawn|Golden Dawn]], la cérémonie de Néophyte, notée 0=0, fait passer le candidat de l'obscurité à la lumière, avant les grades rattachés aux séphiroth de l'[[arbre-des-sephiroth|arbre de vie]]. Dans la langue courante, le néophyte est le débutant, avec une nuance d'enthousiasme.
+voir: initiation, golden-dawn, grades-maconniques, adepte
+
+@ adepte
+cat: notions
+nom: Adepte
+alias: adeptes, adeptus, Adeptus Minor, Adeptus Major, Adeptus Exemptus
+def: Dans l'alchimie, celui qui a réussi le Grand Œuvre ; dans les ordres rose-croix, le titre des degrés supérieurs ; dans la langue courante, le partisan d'une doctrine.
+texte: Le latin *adeptus* signifie « celui qui a obtenu ». Les alchimistes réservaient ce nom aux rares artistes parvenus à la [[pierre-philosophale|pierre philosophale]], comme [[nicolas-flamel|Flamel]] ou le Cosmopolite, [[alexander-seton|Alexander Seton]], par opposition aux [[souffleur|souffleurs]] qui ne faisaient que brûler leur bien ; [[fulcanelli]] passa pour le dernier d'entre eux.
+texte: La [[rose-croix-d-or|Rose-Croix d'or]] du XVIIIe siècle, puis la [[golden-dawn|Golden Dawn]], nomment leurs degrés supérieurs *Adeptus Minor*, *Adeptus Major* et *Adeptus Exemptus*. La [[theosophie|théosophie]] appelle adeptes les maîtres cachés qui guideraient l'humanité. Le mot a fini par désigner tout fidèle d'une doctrine ou d'une pratique.
+voir: pierre-philosophale, grand-oeuvre, neophyte, maitres-de-sagesse, rose-croix-d-or
+
+@ thaumaturge
+cat: notions
+nom: Thaumaturge
+alias: thaumaturges, thaumaturgie, faiseur de miracles, rois thaumaturges, toucher royal
+def: Celui qui accomplit des prodiges, des guérisons ou des miracles ; le titre de saints, de mages et de rois réputés guérir par leur seule puissance.
+texte: Grégoire, évêque de Néocésarée au IIIe siècle, reçut le surnom de Thaumaturge pour les prodiges qu'on lui prêtait. L'Antiquité tardive connaissait aussi des « hommes divins » païens, comme [[apollonius-de-tyane|Apollonius de Tyane]], que ses partisans opposaient au Christ. Du Moyen Âge au XVIIIe siècle, les rois de France et d'Angleterre passaient pour guérir les écrouelles en les touchant, une croyance étudiée par l'historien Marc Bloch dans *Les Rois thaumaturges* (1924).
+texte: Le XIXe siècle eut ses thaumaturges, magnétiseurs et guérisseurs, comme le zouave Jacob ou [[maitre-philippe|Maître Philippe]] de Lyon. La [[theurgie]] désigne autre chose : l'art d'agir avec les dieux par des rites, plutôt que le pouvoir personnel de faire des miracles.
+voir: apollonius-de-tyane, maitre-philippe, theurgie, magnetisme-animal
+
+# ── Le catharisme ───────────────────────────────────────────────────────────
+
+@ parfaits
+cat: notions
+nom: Parfaits
+alias: parfait, parfaite, parfaites, bons hommes, bonnes femmes, bonshommes, perfecti, hérétiques revêtus
+def: Les membres du clergé cathare, hommes et femmes, qui avaient reçu le consolament et menaient une vie d'ascèse, de prière et de prédication.
+texte: Ils se nommaient eux-mêmes « bons hommes » et « bonnes femmes » ou « bons chrétiens » ; le nom de *perfecti*, « hérétiques accomplis », vient des inquisiteurs. Après un noviciat, le croyant recevait le [[consolamentum]] et s'engageait à ne plus manger de viande, d'œufs ni de laitage, à ne plus mentir, ni jurer, ni tuer, et à vivre dans la chasteté. Ils allaient par deux, prêchaient, travaillaient de leurs mains et vivaient en communautés.
+texte: Pendant la répression, ils deviennent clandestins ; ceux qui refusent d'abjurer sont brûlés, comme les plus de deux cents de [[montsegur|Montségur]] en 1244. Le dernier connu, Guillaume Bélibaste, meurt sur le bûcher en 1321. Les auteurs ésotériques du XXe siècle ont fait des parfaits des initiés détenteurs d'une gnose secrète, une image que les sources n'appuient pas.
+voir: catharisme, consolamentum, montsegur, dualisme, esclarmonde-de-foix
+
+@ consolamentum
+cat: notions
+nom: Consolamentum
+alias: consolament, consolation, endura
+def: L'unique sacrement des cathares, une imposition des mains qui conférait le Saint-Esprit, faisait du croyant un « bon chrétien » et pouvait être reçu à l'article de la mort.
+texte: Le rite, décrit par un rituel occitan conservé à Lyon, se déroule devant l'assemblée : le célébrant pose le livre des Évangiles sur la tête du candidat, et les bons hommes présents lui imposent les mains en récitant le Notre-Père et le début de l'Évangile de Jean. Il remet les péchés et engage à la vie des [[parfaits]].
+texte: Les simples croyants le recevaient sur leur lit de mort, après avoir conclu avec l'Église une promesse, la *convenenza*. Certains mourants, une fois consolés, cessaient de s'alimenter pour ne pas retomber dans le péché : c'est l'*endura*, dont l'importance a été exagérée par les auteurs du XIXe siècle et par [[deodat-roche|Déodat Roché]], qui voyait dans le consolament une [[initiation]].
+voir: catharisme, parfaits, dualisme, deodat-roche
+
+@ dualisme
+cat: notions
+nom: Dualisme
+alias: dualiste, dualistes, deux principes, dualisme absolu, dualisme mitigé
+def: Doctrine qui explique le monde par l'opposition de deux principes premiers, le bien et le mal, la lumière et les ténèbres, l'esprit et la matière.
+texte: Le [[zoroastre|zoroastrisme]] oppose Ahura Mazda à l'esprit mauvais ; le [[manicheisme|manichéisme]] décrit le monde comme le mélange de la lumière et des ténèbres, qu'il faut séparer. Les gnostiques attribuent la création du monde visible à un [[demiurge]] ignorant ou mauvais. Au Moyen Âge, les bogomiles de Bulgarie, puis les [[catharisme|cathares]], professent que le monde visible est l'œuvre du mal : les uns, « absolus », tenaient pour deux principes éternels, les autres, « mitigés », pour un ange déchu soumis à Dieu.
+texte: L'ésotérisme moderne a souvent opposé ce dualisme à des doctrines de l'unité : la [[kabbale]], le [[neoplatonisme|néoplatonisme]] ou l'hermétisme, pour lesquels le mal n'est qu'une privation ou un éloignement. En philosophie, le mot désigne aussi la distinction de l'âme et du corps.
+voir: catharisme, manicheisme, gnose, demiurge, zoroastre
+
+# ── Le langage secret et le Grand Œuvre ────────────────────────────────────
+
+@ langue-des-oiseaux
+cat: notions
+nom: Langue des oiseaux
+alias: cabale phonétique, langue verte, gaie science, argot des initiés
+def: Langage secret supposé des initiés, fondé sur les sonorités des mots, les jeux de sens et les calembours, que Fulcanelli et ses lecteurs ont appliqué à la lecture des symboles.
+texte: Le thème est ancien : Salomon comprend le langage des oiseaux, le héros Siegfried aussi, après avoir goûté le sang du dragon, et le poète persan Attâr fait du *Langage des oiseaux* l'allégorie du voyage mystique. [[rene-guenon|René Guénon]] y voit le symbole d'une langue sacrée, celle de la communication avec les états supérieurs de l'être.
+texte: Chez [[fulcanelli]], la « langue des oiseaux », ou « cabale phonétique », est une méthode de lecture : les mots se décomposent par les sons, « art gothique » devient « argotique », l'argot devenant la langue cachée des bâtisseurs. Ses disciples, puis les chercheurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]], ont fait de ces calembours une clé universelle, que les linguistes tiennent pour un pur jeu.
+voir: fulcanelli, mystere-des-cathedrales, notarikon, la-vraie-langue-celtique
+
+@ art-royal
+cat: notions
+nom: Art royal
+alias: ars regia, l'Art royal, art sacerdotal
+def: Nom donné à l'alchimie, art des rois et des sages, puis par les francs-maçons à la franc-maçonnerie elle-même, comme travail de construction de l'homme.
+texte: Les alchimistes appelaient leur discipline l'« art sacré » ou l'« art royal » : le métal parfait, l'or, est le roi des métaux, et les traités mettent en scène un roi qui meurt et renaît au cours du [[grand-oeuvre|Grand Œuvre]]. Le mot souligne aussi la noblesse d'un savoir réservé à ceux qui en sont dignes.
+texte: Dès les *[[constitutions-d-anderson|Constitutions d'Anderson]]* (1723), les francs-maçons parlent de leur « art royal », la géométrie et l'architecture, qu'auraient pratiqué les rois bâtisseurs, de Salomon aux souverains d'Angleterre. Le mot désigne aujourd'hui, dans la [[franc-maconnerie]], le travail symbolique sur soi, la [[pierre-brute|pierre brute]] qu'on taille.
+voir: alchimie, grand-oeuvre, franc-maconnerie, pierre-brute
+
+@ magistere
+cat: alchimie
+nom: Magistère
+alias: magistère au blanc, magistère au rouge, magisterium
+def: Dans l'alchimie, l'œuvre accomplie, la pierre au blanc ou au rouge ; chez Paracelse et les spagyristes, toute préparation qui concentre la vertu d'une substance.
+texte: Les alchimistes parlent du « magistère au blanc », qui transmue en argent, et du « magistère au rouge », qui transmue en or et guérit les maladies : le mot désigne alors la [[pierre-philosophale|pierre philosophale]] elle-même, chef-d'œuvre du maître. Le « grand magistère » est un autre nom du [[grand-oeuvre|Grand Œuvre]].
+texte: [[paracelse|Paracelse]] et la [[spagyrie]] appellent magistère une préparation qui extrait d'une plante ou d'un minéral sa vertu sans en séparer les principes, à côté des teintures, des élixirs et des arcanes. Le mot a gardé ce sens dans la pharmacie ancienne, où l'on parlait du magistère de bismuth.
+voir: pierre-philosophale, grand-oeuvre, spagyrie, paracelse, rubedo
+
+# ── Notions de la gnose et des philosophies anciennes ──────────────────────
+
+@ palingenesie
+cat: notions
+nom: Palingénésie
+alias: palingénésie des plantes, renaissance, régénération, Charles Bonnet, Ballanche
+def: Renaissance ou régénération : celle du monde après sa destruction chez les stoïciens, de l'âme chez les chrétiens, et celle d'une plante recréée de ses cendres chez les alchimistes.
+texte: Les stoïciens appelaient ainsi le recommencement du monde après l'embrasement qui clôt chaque cycle ; le Nouveau Testament emploie le mot pour la régénération du baptême et le renouvellement final. Au XVIIe siècle, des alchimistes, [[athanasius-kircher|Kircher]] parmi eux, prétendent faire réapparaître dans une fiole la forme d'une rose à partir de ses cendres : la « palingénésie des plantes » devait prouver que la forme survit à la destruction de la matière.
+texte: Le naturaliste genevois Charles Bonnet publie en 1769 une *Palingénésie philosophique*, où les êtres vivants renaîtront à un état supérieur ; Pierre-Simon Ballanche, lecteur de [[louis-claude-de-saint-martin|Saint-Martin]], en fait une philosophie de l'histoire, l'humanité progressant par épreuves et expiations. Le mot se rapproche alors de la [[reincarnation]] et de la [[reintegration|réintégration]].
+voir: reincarnation, reintegration, cycles-cosmiques, transmutation
+
+@ apocatastase
+cat: notions
+nom: Apocatastase
+alias: apokatastasis, restauration finale, salut universel, Origène
+def: Le rétablissement final de toutes choses dans leur état premier, y compris, selon Origène, le salut des démons et du diable lui-même.
+texte: Le mot grec, qui désignait le retour des astres à leur position initiale, apparaît dans les Actes des Apôtres pour le « rétablissement de toutes choses ». Origène, au IIIe siècle, en tire l'idée que toutes les créatures spirituelles, après des purifications successives, retourneront à Dieu, de sorte que l'enfer ne serait pas éternel. La doctrine est condamnée au concile de Constantinople de 553.
+texte: Elle n'a cessé de resurgir chez les mystiques et les théosophes : Jakob Böhme, les piétistes, [[jane-lead|Jane Lead]] et [[friedrich-christoph-oetinger|Oetinger]] en Allemagne, et en France la doctrine martiniste de la [[reintegration|réintégration]], qui annonce le retour de l'homme et de l'univers à l'unité perdue.
+voir: reintegration, cycles-cosmiques, gnose, jane-lead, plerome
+
+@ anamnese
+cat: notions
+nom: Anamnèse
+alias: réminiscence, ressouvenir, mémoire de l'âme
+def: Chez Platon, la réminiscence : apprendre, c'est se souvenir des vérités que l'âme a contemplées avant sa naissance ; par extension, l'éveil d'une connaissance oubliée.
+texte: Dans le *Ménon*, Socrate fait retrouver à un jeune esclave ignorant une démonstration de géométrie, en ne lui posant que des questions : il en conclut que l'âme possédait déjà ce savoir. Le *Phédon* et le *Phèdre* rattachent cette mémoire à une vie antérieure de l'âme parmi les Idées, avant sa chute dans un corps.
+texte: La [[gnose]] reprend le thème sous la forme de l'éveil : l'âme, endormie dans la matière, se souvient de son origine divine à l'appel du messager céleste. L'ésotérisme moderne a souvent compris l'[[initiation]] comme une anamnèse plutôt qu'un apprentissage, retrouvaille d'une [[tradition-primordiale|tradition primordiale]] oubliée. Dans la liturgie chrétienne, l'anamnèse est la partie de la messe qui fait mémoire de la passion et de la résurrection.
+extrait: Ainsi l’âme étant immortelle, étant d’ailleurs née plusieurs fois, et ayant vu ce qui se passe dans ce monde et dans l’autre et toutes choses, il n’est rien qu’elle n’ait appris. C’est pourquoi il n’est pas surprenant qu’à l’égard de la vertu et de tout le reste, elle soit en état de se ressouvenir de ce qu’elle a su antérieurement ; car, comme tout se tient, et que l’âme a tout appris, rien n’empêche qu’en se rappelant une seule chose, ce que les hommes appellent apprendre, on ne trouve de soi-même tout le reste, pourvu qu’on ait du courage, et qu’on ne se lasse point de chercher. En effet ce qu’on nomme chercher et apprendre n’est absolument que se ressouvenir.
+source: Platon, *Ménon*, 81c-d, trad. Victor Cousin (*Œuvres de Platon*, t. VI) | ws Ménon (trad. Cousin)
+voir: platon, gnose, initiation, metempsycose
+
+@ pneuma
+cat: notions
+nom: Pneuma
+alias: pneumatiques, souffle, esprit, spiritus, pneumatikoi
+def: Le souffle, l'esprit : pour les stoïciens, le principe igné qui anime le monde ; pour les gnostiques, l'étincelle divine que portent seulement certains hommes, les « spirituels ».
+texte: Les médecins grecs appelaient *pneuma* l'air subtil qui circule dans les artères et porte la vie ; les stoïciens en font un souffle chaud répandu dans tout l'univers, qui en assure la cohésion, une [[ame-du-monde|âme du monde]]. Le latin *spiritus* le traduit, et les « esprits » vitaux et animaux de la médecine ancienne, ou les *spiritus* de [[marsile-ficin|Ficin]], en descendent.
+texte: Les gnostiques valentiniens divisent les hommes en trois natures : les hyliques, enfermés dans la matière, les psychiques, capables de foi, et les pneumatiques, porteurs d'une semence spirituelle qui les destine au [[plerome|plérôme]]. L'idée d'un corps de souffle, intermédiaire entre l'âme et le corps, se prolonge dans les doctrines des [[corps-subtils|corps subtils]].
+voir: gnose, corps-subtils, ame-du-monde, plerome, valentin
+
+@ syzygie
+cat: notions
+nom: Syzygie
+alias: syzygies, couple d'éons, conjonction
+def: Union de deux termes complémentaires : chez les gnostiques, le couple masculin-féminin d'éons qui peuple le plérôme ; en astronomie, l'alignement du Soleil, de la Lune et de la Terre.
+texte: Dans le système de [[valentin|Valentin]], le Père inconnaissable, l'Abîme, forme avec le Silence le premier couple ; d'eux naissent d'autres paires, Intellect et Vérité, Logos et Vie, jusqu'à trente [[eon|éons]]. Le drame cosmique commence quand le dernier éon, [[sophia|Sophia]], veut connaître le Père sans son conjoint et engendre seule.
+texte: [[carl-gustav-jung|Jung]] reprend le mot pour désigner le couple intérieur de l'anima et de l'animus, image des contraires que la psyché doit unir. En astronomie, la syzygie désigne la nouvelle et la pleine lune, quand les trois astres sont alignés.
+voir: eon, plerome, valentin, sophia, hierogamie
+
+@ hierogamie
+cat: notions
+nom: Hiérogamie
+alias: hieros gamos, mariage sacré, noces sacrées
+def: Le mariage sacré, union rituelle ou mythique d'un dieu et d'une déesse, ou d'un roi et d'une prêtresse, qui assure la fécondité du monde et figure l'union des contraires.
+texte: À Sumer, des textes évoquent l'union du roi et de la déesse Inanna ; en Grèce, celle de Zeus et d'Héra était célébrée par des fêtes. Le thème parcourt les mythologies comme l'union du ciel et de la terre, dont naît toute vie.
+texte: L'[[alchimie]] en a fait l'une de ses images centrales : les [[noces-chymiques|noces chymiques]] du roi et de la reine, du soleil et de la lune, du [[soufre]] et du [[mercure-principe|mercure]], engendrent l'[[androgyne]] ou le [[rebis]]. La [[kabbale]] décrit l'union du Saint, béni soit-il, et de la [[shekhina|Shekhina]], le tantrisme celle de Shiva et de Shakti, et la [[magie-sexuelle|magie sexuelle]] moderne prétend reproduire rituellement ce mariage.
+voir: noces-chymiques, androgyne, rebis, shekhina, magie-sexuelle
+
+@ omphalos
+cat: symboles
+nom: Omphalos
+alias: nombril du monde, centre du monde, pierre de Delphes
+def: La pierre sacrée de Delphes, « nombril » de la Terre, et plus largement tout lieu tenu pour le centre du monde, où communiquent le ciel, la terre et le monde souterrain.
+texte: À [[delphes|Delphes]], une pierre conique couverte d'un réseau de bandelettes marquait le point où les deux aigles de Zeus s'étaient rejoints. Bien des cultures ont leur centre du monde : le rocher du Temple à Jérusalem, la Kaaba, le mont Meru de l'Inde, ou l'axe autour duquel tourne le monde.
+texte: L'historien des religions Mircea Eliade a fait du « symbolisme du centre » une clé de lecture des religions. [[rene-guenon|René Guénon]] voit dans l'omphalos le signe d'un centre spirituel primordial, dont *[[le-roi-du-monde|Le Roi du monde]]* poursuit la trace à travers les traditions. Le thème rejoint celui de l'[[arbre-cosmique|arbre cosmique]] et de la montagne sacrée.
+voir: delphes, arbre-cosmique, le-roi-du-monde, agartha, tradition-primordiale
+
+# ── Psychologie des profondeurs et métapsychique ───────────────────────────
+
+@ archetype
+cat: notions
+nom: Archétype
+alias: archétypes, archetypus, inconscient collectif, image primordiale
+def: Modèle premier dont les choses sont les copies : chez les platoniciens, l'Idée divine ; chez Jung, une structure universelle de la psyché qui s'exprime dans les mythes, les rêves et les symboles.
+texte: Le mot grec signifie « empreinte première ». [[philon-d-alexandrie|Philon]] et le *[[corpus-hermetique|Corpus Hermeticum]]* parlent de la forme archétype, modèle du monde dans l'intellect divin ; les platoniciens de la Renaissance et les théosophes chrétiens appellent monde archétype le plus élevé des trois mondes.
+texte: [[carl-gustav-jung|Jung]] adopte le mot en 1919 pour désigner les formes héritées de l'inconscient collectif : l'ombre, l'anima, le vieux sage, la grande mère, le soi, qui donnent leur forme aux images des religions, de l'[[alchimie]] et des contes. Cette psychologisation des symboles a profondément marqué le [[new-age|New Age]] et la lecture contemporaine du tarot ou de l'astrologie.
+voir: carl-gustav-jung, synchronicite, platon, microcosme-macrocosme
+
+@ synchronicite
+cat: notions
+nom: Synchronicité
+alias: synchronicités, coïncidence significative, principe de relations acausales
+def: Notion forgée par Carl Gustav Jung pour désigner la coïncidence, chargée de sens pour celui qui la vit, entre un état intérieur et un événement extérieur sans lien de cause.
+texte: [[carl-gustav-jung|Jung]] raconte qu'une patiente lui décrivait un rêve où on lui offrait un scarabée d'or quand un insecte semblable vint frapper à la vitre : la coïncidence aurait débloqué la cure. Il expose en 1952, dans un ouvrage commun avec le physicien Wolfgang Pauli, l'idée d'un principe d'ordre « acausal » reliant la psyché et la matière, qui expliquerait selon lui l'efficacité apparente du [[yi-king|Yi King]] et de l'[[astrologie]].
+texte: La notion a connu un succès immense dans le [[new-age|New Age]], où les coïncidences deviennent des signes. Les psychologues expliquent ces expériences par notre tendance à remarquer ce qui fait sens et à oublier tout le reste, et par la sous-estimation des probabilités.
+voir: carl-gustav-jung, archetype, yi-king, correspondances
+
+@ psychopompe
+cat: notions
+nom: Psychopompe
+alias: guide des âmes, conducteur des âmes, Hermès psychopompe
+def: Le conducteur des âmes des morts vers l'au-delà, rôle que tiennent Hermès, Anubis, l'archange Michel ou les Walkyries, et, dans les rites chamaniques, le chaman lui-même.
+texte: En Grèce, [[hermes-trismegiste|Hermès]], messager des dieux, mène les ombres des défunts jusqu'au fleuve des Enfers ; en Égypte, Anubis, à tête de chacal, guide le mort et assiste à la pesée de son cœur. Le christianisme confie ce rôle à l'archange Michel, peseur des âmes, et les Walkyries de la mythologie nordique emportent les guerriers tombés vers le Valhalla.
+texte: Dans le [[chamanisme]], le chaman accompagne l'âme du défunt dans l'autre monde. [[carl-gustav-jung|Jung]] appelle psychopompe la figure intérieure, le vieux sage ou l'anima, qui guide le moi vers l'inconscient.
+voir: hermes-trismegiste, chamanisme, anges, carl-gustav-jung
+
+@ extase
+cat: notions
+nom: Extase
+alias: ravissement, transe, sortie de soi, techniques de l'extase
+def: État où l'esprit semble sortir de lui-même, suspendu dans la contemplation de Dieu, de l'Un ou d'un monde invisible, au point que les sens cessent d'agir.
+texte: Selon son disciple Porphyre, [[plotin|Plotin]] atteignit quatre fois l'union avec l'Un ; les mystiques chrétiens, de Paul enlevé au troisième ciel à Thérèse d'Avila, décrivent des ravissements où l'âme est saisie. Les mystères antiques, les danses des derviches, les transes de possession ou les visions des chamanes en offrent d'autres formes.
+texte: Mircea Eliade définit en 1951 le [[chamanisme]] comme une « technique archaïque de l'extase ». Le XIXe siècle observe des extases chez les somnambules du [[magnetisme-animal|magnétisme]] et les [[medium|médiums]] ; la psychologie et les neurosciences étudient aujourd'hui ces états modifiés de conscience sans trancher sur ce qu'ils révèlent.
+voir: mystique, chamanisme, plotin, voyage-astral, medium
+
+@ telepathie
+cat: notions
+nom: Télépathie
+alias: transmission de pensée, perception extrasensorielle, ESP, suggestion mentale
+def: Communication supposée d'une pensée, d'une image ou d'une émotion d'un esprit à un autre, sans passer par les sens.
+texte: Le mot est forgé en 1882 par Frederic Myers, l'un des fondateurs de la [[society-for-psychical-research|Society for Psychical Research]], qui recueille avec ses collègues, dans *Phantasms of the Living* (1886), des centaines de récits d'apparitions au moment d'une mort. Dans les années 1930, Joseph Banks Rhine mène aux États-Unis des expériences de devinette de cartes et parle de « perception extrasensorielle ».
+texte: Les expériences de la [[metapsychique]] et de la parapsychologie, jusqu'aux protocoles « ganzfeld » des années 1970, ont produit des résultats parfois troublants, mais aucun ne s'est révélé reproductible de façon contrôlée ; la communauté scientifique ne reconnaît pas l'existence de la télépathie. Pendant la guerre froide, les services américains et soviétiques ont financé des programmes de recherche, abandonnés faute de résultats.
+voir: metapsychique, society-for-psychical-research, voyance, medium
+
+@ poltergeist
+cat: notions
+nom: Poltergeist
+alias: esprit frappeur, esprits frappeurs, maison hantée, psychokinèse spontanée
+def: Phénomènes de bruits, de coups, de déplacements et de jets d'objets inexpliqués dans une maison, attribués à un esprit tapageur, souvent autour d'un adolescent.
+texte: Le mot allemand signifie « esprit tapageur ». Les récits sont anciens : en Angleterre, le « tambour de Tedworth » trouble une maison en 1662 ; c'est par des coups frappés dans une ferme de Hydesville, en 1848, que naît le [[spiritisme]] des [[soeurs-fox|sœurs Fox]]. Les spirites y voient l'action d'esprits de défunts, les parapsychologues une « psychokinèse spontanée récurrente » émanant d'une personne vivante.
+texte: Les enquêtes ont souvent découvert une supercherie, d'ordinaire celle d'un enfant ou d'un adolescent, comme l'avouèrent plus tard les sœurs Fox elles-mêmes. Aucun cas n'a été établi dans des conditions de contrôle. Le cinéma, de *Poltergeist* (1982) à *Conjuring 2* (2016), a fait du thème un genre à part entière.
+voir: spiritisme, soeurs-fox, metapsychique, medium, tables-tournantes
+
+@ mantra
+cat: notions
+nom: Mantra
+alias: mantras, om, aum, Om mani padme hum, méditation transcendantale
+def: Formule sacrée de l'Inde, syllabe ou phrase répétée à voix haute ou intérieurement, dont le son lui-même est tenu pour efficace : instrument de prière, de méditation et de rituel.
+texte: Les hymnes du Véda sont des mantras, que les brahmanes devaient prononcer sans la moindre erreur ; la syllabe *om*, ou *aum*, passe pour le son primordial d'où procède l'univers. Le bouddhisme tibétain répète et grave partout *Om mani padme hum* ; le [[tantrisme]] attribue aux syllabes germes, les *bija*, le pouvoir d'éveiller les divinités et les énergies du corps.
+texte: L'Occident découvre les mantras par la [[theosophie|théosophie]], puis, dans les années 1960, par la méditation transcendantale de Maharishi Mahesh Yogi, qui attire les Beatles. On les a rapprochés des [[voces-magicae|noms barbares]] de la magie antique et du [[shem-ha-meforash|grand nom divin]] de la kabbale, qui supposent eux aussi une puissance du son.
+voir: tantrisme, chakra, voces-magicae, theosophie
+
+@ vril
+cat: notions
+nom: Vril
+alias: Vril-ya, société du Vril, Vril-Gesellschaft, La Race future
+def: Énergie universelle imaginée par Edward Bulwer-Lytton dans un roman de 1871, devenue après-guerre le nom d'une société secrète nazie qui n'a jamais existé.
+texte: Dans *La Race future* (*The Coming Race*, 1871), [[edward-bulwer-lytton|Bulwer-Lytton]] imagine un peuple souterrain, les Vril-ya, qui maîtrise une force fluide capable de guérir, de détruire et d'actionner leurs machines : le vril. Le roman, lu par les théosophes, nourrit l'idée d'une énergie occulte que des initiés sauraient manier ; un fortifiant britannique en tira son nom, le Bovril.
+texte: En 1947, l'ingénieur Willy Ley évoque un petit groupe berlinois qui aurait cherché le vril ; *[[matin-des-magiciens|Le Matin des magiciens]]* (1960) en fait une « société du Vril » occulte à l'origine du nazisme. Des auteurs néonazis y ont ajouté des médiums, des soucoupes volantes et des voyages vers les étoiles. Aucun document n'atteste l'existence d'une telle société.
+voir: edward-bulwer-lytton, matin-des-magiciens, ariosophie, agartha, societe-thule
+
+# ── Magie et symboles ───────────────────────────────────────────────────────
+
+@ incube-et-succube
+cat: magie
+nom: Incube et succube
+alias: incube, incubes, succube, succubes, démonialité
+def: Démons qui, selon les théologiens et les démonologues, s'unissent la nuit aux humains endormis, l'incube sous une forme masculine, le succube sous une forme féminine.
+texte: Saint Augustin rapporte que bien des gens dignes de foi attestent les assauts de démons lascifs, que les Gaulois appelaient *dusii*. Les théologiens médiévaux, Thomas d'Aquin compris, expliquent que le démon, sans corps propre, peut prendre l'apparence d'une femme pour recueillir une semence qu'il transmet ensuite sous l'apparence d'un homme ; le *Marteau des sorcières* (1486) fait de ce commerce l'un des crimes des sorcières.
+texte: Au XVIIe siècle, le franciscain Ludovico Maria Sinistrari consacre au sujet un traité, *De la démonialité*, publié seulement en 1875. Les médecins rapprochent aujourd'hui ces récits de la paralysie du sommeil, où le dormeur, à demi éveillé, sent un poids sur sa poitrine et voit une présence dans la chambre.
+extrait: Succubes, démons qui prennent des figures de femmes. (…) Hector de Boëce, dans son histoire d’Écosse, rapporte qu’un jeune homme d’une extrême beauté était poursuivi par une jeune démone, qui passait à travers sa porte fermée et venait lui offrir de l’épouser. Il s’en plaignit à son évêque, qui le fit jeûner, prier et se confesser, et la beauté d’enfer cessa de lui rendre visite.
+source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Succubes » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Succubes
+voir: demonologie, sorcellerie, chasse-aux-sorcieres, sabbat
+
+@ soleil-noir
+cat: symboles
+nom: Soleil noir
+alias: sol niger, Schwarze Sonne, soleil de la Mélancolie
+def: Image alchimique de la matière à l'œuvre au noir, reprise par la poésie de la mélancolie, puis devenue, sous la forme d'une roue à douze rayons, un emblème néonazi.
+texte: Dans l'[[alchimie]], le *sol niger* figure la [[nigredo]], la putréfaction par laquelle commence le [[grand-oeuvre|Grand Œuvre]] : la planche du *[[splendor-solis|Splendor Solis]]* montre un soleil noir se couchant sur un paysage désolé. [[gerard-de-nerval|Nerval]], dans « El Desdichado », célèbre « le Soleil noir de la Mélancolie », que reprendra la psychanalyste Julia Kristeva.
+texte: Le nom a été donné après la guerre à la roue à douze rayons en forme de croix gammées incrustée dans le pavement du château de [[wewelsburg|Wewelsburg]], par des cercles ésotériques néonazis, puis par un roman à succès de 1991. Le symbole, qui n'avait sans doute pas ce nom pour la SS, est devenu un signe de ralliement de l'extrême droite.
+voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie
+
+@ abraxas
+cat: symboles
+nom: Abraxas
+alias: Abrasax, pierres d'Abraxas, anguipède
+def: Nom divin des gnostiques basilidiens et de la magie antique, dont les lettres grecques valent 365, gravé sur des pierres où figure un dieu à tête de coq et aux jambes de serpents.
+texte: Selon Irénée de Lyon, les disciples de [[basilide|Basilide]] nommaient Abraxas le chef des trois cent soixante-cinq cieux : par l'[[isopsephie|isopsephie]], les lettres de son nom donnent ce total, celui des jours de l'année. Le nom se retrouve dans les [[papyrus-grecs-magiques|papyrus magiques grecs]] et sur des milliers de gemmes gravées de l'Empire romain, portées en [[amulette|amulettes]], où un dieu cuirassé à tête de coq, aux jambes de serpents, brandit un fouet et un bouclier.
+texte: Les antiquaires de la Renaissance ont baptisé « abraxas » toutes ces pierres. [[carl-gustav-jung|Jung]], dans ses *Sept Sermons aux morts*, et Hermann Hesse, dans *Demian* (1919), ont fait d'Abraxas le dieu qui unit le bien et le mal.
+voir: basilide, gnose, isopsephie, amulette, papyrus-grecs-magiques
+
+# ── Sociétés ────────────────────────────────────────────────────────────────
+
+@ prieure-de-sion
+cat: societes
+nom: Prieuré de Sion
+alias: Prieuré de Sion, grands maîtres du prieuré, mérovingiens
+def: Association fondée en 1956 par Pierre Plantard, présentée ensuite par de faux documents comme un ordre secret millénaire gardien de la descendance des Mérovingiens et du Christ.
+texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent en Haute-Savoie les statuts d'une modeste association de ce nom, qui publie un bulletin local. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, Léonard de Vinci, Isaac Newton, Victor Hugo, Claude Debussy ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
+texte: *L'Énigme sacrée* (1982) y ajoute une descendance de Jésus et de Marie-Madeleine, et le *Da Vinci Code* (2003) présente l'existence du prieuré comme un fait. Plantard reconnut lui-même en 1993, sous serment, avoir tout inventé ; les historiens ont démonté la supercherie pièce par pièce. Le prieuré reste l'exemple type d'une société secrète imaginaire devenue un mythe mondial.
+repere: 1956 — Pierre Plantard dépose les statuts de l'association.
+repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale.
+repere: 1982 — *L'Énigme sacrée* en fait le gardien d'une descendance du Christ.
+repere: 1993 — Plantard reconnaît la supercherie sous serment.
+voir: pierre-plantard, dossiers-secrets, rennes-le-chateau, gerard-de-sede, templiers
+
+@ ahnenerbe
+cat: societes
+nom: Ahnenerbe
+alias: Das Ahnenerbe, héritage des ancêtres, Wolfram Sievers, Hermann Wirth
+def: Institut de recherche de la SS fondé en 1935 par Himmler pour démontrer la grandeur préhistorique de la « race nordique », devenu un instrument de propagande puis de crimes.
+texte: Créée en 1935 par Heinrich Himmler, l'historien amateur Herman Wirth et le ministre Walther Darré, la « Société d'étude de l'héritage des ancêtres » emploie des archéologues, des linguistes et des folkloristes pour retrouver dans les runes, les mégalithes, les contes et les rites populaires les traces d'une civilisation nordique originelle. Elle finance des fouilles, comme aux [[externsteine|Externsteine]], et des expéditions, dont celle d'Ernst Schäfer au Tibet en 1938-1939.
+texte: Intégrée à la SS, elle participe pendant la guerre au pillage des biens culturels et à des expériences sur des détenus des camps : à Dachau, les essais du médecin Sigmund Rascher, et à Strasbourg, la constitution par August Hirt d'une collection de squelettes de déportés juifs assassinés au camp de Natzweiler-Struthof. Son secrétaire général, Wolfram Sievers, est condamné à mort et exécuté en 1948.
+repere: 1935 — Fondation par Himmler, Herman Wirth et Walther Darré.
+repere: 1938 — Expédition d'Ernst Schäfer au Tibet.
+repere: 1943 — Assassinat à Natzweiler-Struthof des déportés destinés à la collection de squelettes de Strasbourg.
+repere: 1948 — Exécution de Wolfram Sievers.
+voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn
+
+# ── Textes ──────────────────────────────────────────────────────────────────
+
+@ croisade-contre-le-graal
+cat: textes
+nom: Croisade contre le Graal
+alias: Kreuzzug gegen den Gral
+an: 1933
+def: Livre d'Otto Rahn paru en 1933, qui fait des cathares les gardiens du Graal et de Montségur le château du Parzival de Wolfram von Eschenbach.
+texte: [[otto-rahn|Otto Rahn]] y soutient que [[wolfram-von-eschenbach|Wolfram]] a transposé dans le *[[parzival|Parzival]]* une histoire réelle : Montsalvage, le château du [[graal|Graal]], serait [[montsegur|Montségur]], le roi Anfortas un seigneur du Languedoc, et la croisade des Albigeois la destruction d'une religion de la lumière, héritière des druides et des manichéens, par l'Église romaine. Les troubadours auraient chanté cette foi en langage voilé.
+texte: Traduit en français dès 1934, le livre passe d'abord inaperçu ; il est redécouvert après la guerre, réédité avec une préface de René Nelli, et devient l'une des sources du « catharisme ésotérique » et des récits sur la quête nazie du Graal. Les historiens du catharisme et de la littérature médiévale rejettent ses identifications, fondées sur des ressemblances de noms.
+voir: otto-rahn, montsegur, parzival, graal, catharisme
+
+@ la-vraie-langue-celtique
+cat: textes
+nom: La Vraie Langue celtique
+alias: La Vraie Langue celtique et le cromleck de Rennes-les-Bains, cromleck de Rennes-les-Bains
+an: 1886
+def: Livre de l'abbé Henri Boudet paru en 1886, qui fait de l'anglais la langue primitive de l'humanité et voit dans les rochers de Rennes-les-Bains un immense cercle de pierres.
+texte: L'abbé [[henri-boudet|Boudet]] y part d'une idée répandue au XIXe siècle, la recherche de la langue d'avant Babel, pour soutenir que les Celtes l'ont conservée et que l'anglais en est le témoin le plus pur : les noms de lieux, de peuples et de dieux s'expliqueraient par des mots anglais décomposés. Le dernier chapitre décrit autour de [[rennes-les-bains|Rennes-les-Bains]] un « cromleck » formé par les blocs de grès des collines, accompagné d'une carte et de gravures.
+texte: Imprimé à Carcassonne, le livre fut accueilli avec indifférence. Depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris son essor, il est lu comme un livre à clé : jeux de mots codés, indications d'un trésor, géométrie cachée du paysage. Les linguistes n'y voient qu'une étymologie fantaisiste, proche des spéculations de [[court-de-gebelin|Court de Gébelin]] et de la [[langue-des-oiseaux|langue des oiseaux]].
+voir: henri-boudet, rennes-les-bains, rennes-le-chateau, langue-des-oiseaux, druidisme
+
+@ parzival
+cat: textes
+nom: Parzival
+alias: Parsifal, Perceval allemand, Munsalvaesche, Montsalvage, lapsit exillis
+an: 1205
+def: Roman en vers de Wolfram von Eschenbach, composé vers 1200-1210, où le Graal est une pierre merveilleuse gardée par des chevaliers dans le château de Munsalvaesche.
+texte: Le poème raconte l'histoire du père du héros, Gahmuret, puis celle de Parzival, jeune homme naïf élevé loin du monde, qui échoue d'abord à poser au roi Anfortas, blessé et souffrant, la question qui le guérirait, avant de devenir, après une longue errance, roi du [[graal|Graal]]. Son demi-frère païen, Feirefiz, né d'une reine d'Orient, reçoit le baptême à la fin du récit.
+texte: Le Graal y est une pierre, *lapsit exillis*, qui procure nourriture et jeunesse et sur laquelle une inscription désigne ses serviteurs ; ses gardiens, les *templeisen*, rappellent les [[templiers]]. Wagner en tire *Parsifal* (1882). [[otto-rahn|Otto Rahn]] y lit une histoire codée des cathares, et les traditionalistes un symbole du centre spirituel caché.
+voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers
+
+@ conte-du-graal
+cat: textes
+nom: Le Conte du Graal
+alias: Perceval ou le Conte du Graal, Perceval, Roi Pêcheur, lance qui saigne
+an: 1180
+def: Dernier roman, inachevé, de Chrétien de Troyes, écrit vers 1180, où paraît pour la première fois le Graal, dans le château mystérieux du Roi Pêcheur.
+texte: [[chretien-de-troyes|Chrétien]] le dédie à Philippe d'Alsace, comte de Flandre, qui lui en aurait fourni le sujet dans un livre. Le jeune Perceval, élevé dans la forêt, devient chevalier ; reçu chez le Roi Pêcheur, il voit passer un jeune homme portant une lance dont la pointe saigne, puis une demoiselle portant un « graal » d'or orné de pierres précieuses, sans oser demander à qui l'on sert. Le roman, qui suit ensuite les aventures de Gauvain, s'interrompt après neuf mille vers.
+texte: Le silence de Perceval et le mystère du cortège ont appelé quatre continuations en vers, puis les romans en prose qui font du [[graal|Graal]] la coupe de la Cène. Folkloristes, théologiens, celtisants et ésotéristes y ont cherché un rite d'initiation, un mythe celtique ou un symbole chrétien ; la critique moderne souligne que Chrétien a voulu ce mystère.
+voir: chretien-de-troyes, graal, parzival, wolfram-von-eschenbach
+
+@ le-roi-du-monde
+cat: textes
+nom: Le Roi du monde
+alias: Roi du Monde, Agarttha, Melchisédech
+an: 1927
+def: Livre de René Guénon paru en 1927 sur l'existence, attestée selon lui par toutes les traditions, d'un centre spirituel suprême et caché, gouverné par un chef à la fois roi et prêtre.
+texte: [[rene-guenon|Guénon]] part des récits de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]] et du voyageur polonais Ferdynand Ossendowski sur un royaume souterrain d'Asie centrale, l'[[agartha|Agarttha]], qu'il refuse de prendre à la lettre. Il y voit l'image d'un centre spirituel réel mais non localisable, gardien de la [[tradition-primordiale|tradition primordiale]], dont le chef, le « roi du monde », serait figuré dans la Bible par Melchisédech, à la fois roi et prêtre.
+texte: Il rapproche ce centre de bien des symboles : l'[[omphalos]], la montagne polaire, le [[graal|Graal]], l'île primordiale. Le livre, l'un des plus lus de Guénon, a nourri à la fois la réflexion traditionaliste sur les centres spirituels et une abondante littérature sur les souterrains mystérieux et les maîtres cachés.
+voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos
+
+@ les-demeures-philosophales
+cat: textes
+nom: Les Demeures philosophales
+alias: Demeures philosophales
+an: 1930
+def: Second livre de Fulcanelli, paru en 1930, qui étend l'interprétation alchimique de l'art aux demeures civiles, aux cadrans solaires et aux plafonds sculptés de la Renaissance.
+texte: Après les cathédrales, [[fulcanelli]] lit dans les maisons des « philosophes » les étapes du [[grand-oeuvre|Grand Œuvre]] : l'[[hotel-lallemant|hôtel Lallemant]] de Bourges, les caissons sculptés de la galerie du château de Dampierre-sur-Boutonne, un cadran solaire du palais de Holyrood à Édimbourg, une salamandre de Lisieux. Les deux volumes, illustrés par Julien Champagne, mêlent l'histoire, les légendes, l'étymologie et la [[langue-des-oiseaux|langue des oiseaux]].
+texte: Préfacé comme le premier par [[eugene-canseliet|Eugène Canseliet]], le livre est un classique de la littérature alchimique du XXe siècle. Les historiens de l'art y voient surtout la mode des rébus et des devises de la Renaissance, que Fulcanelli relit à la lumière de l'alchimie.
+voir: fulcanelli, mystere-des-cathedrales, hotel-lallemant, eugene-canseliet, grand-oeuvre
+
+@ dossiers-secrets
+cat: textes
+nom: Dossiers secrets d'Henri Lobineau
+alias: dossiers secrets, Henri Lobineau, Le Serpent rouge
+an: 1967
+def: Ensemble de documents dactylographiés déposés à la Bibliothèque nationale dans les années 1960 sous des noms d'emprunt par Pierre Plantard et ses amis, pour donner corps au mythe du prieuré de Sion.
+texte: Ces brochures, attribuées à un « Henri Lobineau » et à d'autres auteurs imaginaires, contiennent des généalogies faisant descendre [[pierre-plantard|Pierre Plantard]] du roi mérovingien Dagobert II, des listes de grands maîtres du [[prieure-de-sion|prieuré de Sion]], des coupures de presse, les « parchemins » attribués à l'abbé [[berenger-sauniere|Saunière]] et un poème en prose, *Le Serpent rouge*. Leur dépôt légal leur donnait l'apparence de sources officielles.
+texte: Repris par [[gerard-de-sede|Gérard de Sède]], puis par les auteurs de *L'Énigme sacrée*, ils sont à l'origine de tout le mythe moderne de [[rennes-le-chateau|Rennes-le-Château]]. Philippe de Chérisey a reconnu avoir fabriqué les parchemins, et Plantard lui-même a avoué la supercherie. Ils restent consultables à la Bibliothèque nationale de France, témoins d'une des mystifications les plus réussies du XXe siècle.
+voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede

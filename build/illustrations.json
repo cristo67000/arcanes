@@ -66,7 +66,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Jeu_de_tarot_%C3%A0_enseignes_italiennes_de_Marseille,_dit_%22tarot_Conver%22_-_jeu_de_cartes,_estampe_-_btv1b10520316w_(097_of_132).jpg",
    "pour": [
-    "arcane-pape"
+    "arcane-pape",
+    "hierophante"
    ],
    "sig": "Jeu de tarot à enseignes italiennes de Marseille, dit \"tarot Conver\" - jeu de cartes, estampe - btv1b10520316w (097 of 132).jpg||440|74"
   },
@@ -484,7 +485,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:RWS1909_-_05_Hierophant.jpeg",
    "pour": [
-    "arcane-pape"
+    "arcane-pape",
+    "hierophante"
    ],
    "sig": "RWS1909 - 05 Hierophant.jpeg||440|74"
   },
@@ -3859,6 +3861,553 @@
     "frances-yates"
    ],
    "sig": "Frances Yates 1924.jpg||360|74"
+  },
+  "lieu-montsegur": {
+   "f": "img/lieu-montsegur.webp",
+   "v": "2e3947d7af",
+   "w": 440,
+   "h": 330,
+   "l": "Le château de Montségur sur son pog",
+   "cr": "photographie d’Emeraude, 2001, versée au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Montsegur1.JPG",
+   "pour": [
+    "montsegur"
+   ],
+   "sig": "Montsegur1.JPG||440|74"
+  },
+  "lieu-rennes-fouilles": {
+   "f": "img/lieu-rennes-fouilles.webp",
+   "v": "fe2b19b0fe",
+   "w": 440,
+   "h": 330,
+   "l": "Rennes-le-Château : « fouilles interdites »",
+   "cr": "photographie d’Ulysse034, 2005, versée au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fouilles_interdites.jpg",
+   "pour": [
+    "rennes-le-chateau"
+   ],
+   "sig": "Fouilles interdites.jpg||440|74"
+  },
+  "lieu-lombrives": {
+   "f": "img/lieu-lombrives.webp",
+   "v": "3838dd5c79",
+   "w": 440,
+   "h": 288,
+   "l": "Une salle de la grotte de Lombrives",
+   "cr": "photographie, vers 1900 — BnF",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ussat-les-Bains_-_vue_int%C3%A9rieure_d%27une_des_salles_de_la_grotte_de_Lombrives_-_btv1b10576007d_(1_of_2).jpg",
+   "pour": [
+    "grotte-de-lombrives"
+   ],
+   "sig": "Ussat-les-Bains - vue intérieure d'une des salles de la grotte de Lombrives - btv1b10576007d (1 of 2).jpg||440|74"
+  },
+  "lieu-notre-dame-portail": {
+   "f": "img/lieu-notre-dame-portail.webp",
+   "v": "5bd0e523b0",
+   "w": 440,
+   "h": 584,
+   "l": "Notre-Dame de Paris : le portail du Jugement dernier",
+   "cr": "photographie de Jebulon, 2010",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Paris_main_gate.jpg",
+   "pour": [
+    "notre-dame-de-paris"
+   ],
+   "sig": "Notre Dame de Paris main gate.jpg||440|74"
+  },
+  "lieu-tour-saint-jacques": {
+   "f": "img/lieu-tour-saint-jacques.webp",
+   "v": "0d274f2a5f",
+   "w": 440,
+   "h": 575,
+   "l": "La tour Saint-Jacques, l’une des premières photographies de Paris",
+   "cr": "François-Alphonse Fortier, années 1840 — J. Paul Getty Museum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Tour_de_St._Jacques_-_La_Boucherie,_%C3%A0_Paris,_by_Francois_Alphonse_Fortier_(Getty_1044CF).jpg",
+   "pour": [
+    "tour-saint-jacques"
+   ],
+   "sig": "Tour de St. Jacques - La Boucherie, à Paris, by Francois Alphonse Fortier (Getty 1044CF).jpg||440|74"
+  },
+  "lieu-maison-flamel": {
+   "f": "img/lieu-maison-flamel.webp",
+   "v": "9dc2bad045",
+   "w": 440,
+   "h": 541,
+   "l": "La maison de Nicolas Flamel, 51 rue de Montmorency",
+   "cr": "photographie d’Eugène Atget — BnF",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Atget_-_Maison_de_Nicolas_Flamel_-_%C3%A9crivain,_jur%C3%A9_et_alchimiste_-_1407_-_R._de_Montmorency_51,_btv1b10517302s.jpeg",
+   "pour": [
+    "maison-de-nicolas-flamel"
+   ],
+   "sig": "Atget - Maison de Nicolas Flamel - écrivain, juré et alchimiste - 1407 - R. de Montmorency 51, btv1b10517302s.jpeg||440|74"
+  },
+  "lieu-carnac": {
+   "f": "img/lieu-carnac.webp",
+   "v": "4fcc65aa4e",
+   "w": 440,
+   "h": 280,
+   "l": "Les alignements du Ménec, à Carnac",
+   "cr": "Auguste Desperet, vers 1850",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Carnac_Alignements_du_Menec.jpg",
+   "pour": [
+    "carnac"
+   ],
+   "sig": "Carnac Alignements du Menec.jpg||440|74"
+  },
+  "lieu-gisors": {
+   "f": "img/lieu-gisors.webp",
+   "v": "bac1a19386",
+   "w": 440,
+   "h": 320,
+   "l": "Les ruines du château de Gisors",
+   "cr": "gravure parue dans *La France illustrée* de Victor Adolphe Malte-Brun, 1882",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gravure_ruines_du_Ch%C3%A2teau_Gisors.jpg",
+   "pour": [
+    "gisors"
+   ],
+   "sig": "Gravure ruines du Château Gisors.jpg||440|74"
+  },
+  "lieu-chinon": {
+   "f": "img/lieu-chinon.webp",
+   "v": "211bf49159",
+   "w": 440,
+   "h": 280,
+   "l": "Chinon au XVe siècle, restitution d’Albert Robida",
+   "cr": "Albert Robida, 1890",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Albert_Robida_-_Chinon_au_XVe_si%C3%A8cle.jpg",
+   "pour": [
+    "chinon"
+   ],
+   "sig": "Albert Robida - Chinon au XVe siècle.jpg||440|74"
+  },
+  "lieu-glastonbury": {
+   "f": "img/lieu-glastonbury.webp",
+   "v": "7922f035be",
+   "w": 440,
+   "h": 330,
+   "l": "Glastonbury Tor et la tour Saint-Michel",
+   "cr": "photographie de Tony Grist, 2010, versée au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Descending_Glastonbury_Tor.jpg",
+   "pour": [
+    "glastonbury"
+   ],
+   "sig": "Descending Glastonbury Tor.jpg||440|74"
+  },
+  "lieu-stonehenge": {
+   "f": "img/lieu-stonehenge.webp",
+   "v": "106e0cd257",
+   "w": 440,
+   "h": 281,
+   "l": "Stonehenge",
+   "cr": "carte postale de Mabbett, Salisbury, vers 1907",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Stonehenge_-_Mabbett_postcard_-_obverse.jpg",
+   "pour": [
+    "stonehenge"
+   ],
+   "sig": "Stonehenge - Mabbett postcard - obverse.jpg||440|74"
+  },
+  "lieu-rosslyn": {
+   "f": "img/lieu-rosslyn.webp",
+   "v": "3473cb4b17",
+   "w": 440,
+   "h": 369,
+   "l": "La chapelle de Rosslyn, le porche sud",
+   "cr": "photographie de Roger Fenton, 1856 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Roslin_Chapel,_South_Porch_MET_DP107956.jpg",
+   "pour": [
+    "chapelle-de-rosslyn"
+   ],
+   "sig": "Roslin Chapel, South Porch MET DP107956.jpg||440|74"
+  },
+  "lieu-cefalu": {
+   "f": "img/lieu-cefalu.webp",
+   "v": "ac786b165b",
+   "w": 440,
+   "h": 293,
+   "l": "La villa de Cefalù qu’Aleister Crowley nomma abbaye de Thélème",
+   "cr": "photographie d’Erik Albers, 2017",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_01.jpg",
+   "pour": [
+    "abbaye-de-theleme"
+   ],
+   "sig": "Abbey of Thelema 01.jpg||440|74"
+  },
+  "lieu-porte-alchimique": {
+   "f": "img/lieu-porte-alchimique.webp",
+   "v": "39e8d342b1",
+   "w": 440,
+   "h": 330,
+   "l": "La Porte alchimique, piazza Vittorio Emanuele, à Rome",
+   "cr": "photographie de Lalupa, 2005, versée au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Piazza_Vittorio_Porta_magica_9511-02.JPG",
+   "pour": [
+    "porte-alchimique"
+   ],
+   "sig": "Piazza Vittorio Porta magica 9511-02.JPG||440|74"
+  },
+  "lieu-regaleira": {
+   "f": "img/lieu-regaleira.webp",
+   "v": "3dc6618db1",
+   "w": 440,
+   "h": 307,
+   "l": "La Quinta da Regaleira, à Sintra",
+   "cr": "photographie de Lark Ascending, 2019, versée au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portugal,_Sintra,_Quinta_da_Regaleira_(52593863981).jpg",
+   "pour": [
+    "quinta-da-regaleira"
+   ],
+   "sig": "Portugal, Sintra, Quinta da Regaleira (52593863981).jpg||440|74"
+  },
+  "lieu-externsteine": {
+   "f": "img/lieu-externsteine.webp",
+   "v": "747309ffe7",
+   "w": 440,
+   "h": 578,
+   "l": "Externsteine : le relief de la Descente de croix",
+   "cr": "photographie de Kurt Hielscher, 1924",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kurt_Hielscher_Deutschland_1924_Externsteine_Kreuzabnahme.jpg",
+   "pour": [
+    "externsteine"
+   ],
+   "sig": "Kurt Hielscher Deutschland 1924 Externsteine Kreuzabnahme.jpg||440|74"
+  },
+  "lieu-wewelsburg": {
+   "f": "img/lieu-wewelsburg.webp",
+   "v": "b4df843589",
+   "w": 440,
+   "h": 298,
+   "l": "Le château de Wewelsburg",
+   "cr": "photographie d’Albert Ludorff, avant 1915",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Die_Weserrenaissance_(Sonnen)_-_128_-_Wewelsburg,_Nordostansicht.jpg",
+   "pour": [
+    "wewelsburg"
+   ],
+   "sig": "Die Weserrenaissance (Sonnen) - 128 - Wewelsburg, Nordostansicht.jpg||440|74"
+  },
+  "lieu-prague": {
+   "f": "img/lieu-prague.webp",
+   "v": "90e6eaafac",
+   "w": 440,
+   "h": 329,
+   "l": "L’entrée du château de Prague",
+   "cr": "photochrome, vers 1890-1900 — Library of Congress",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Entrance_to_Castle,_Prague,_Bohemia,_Austro-Hungary_WDL2628.png",
+   "pour": [
+    "chateau-de-prague"
+   ],
+   "sig": "Entrance to Castle, Prague, Bohemia, Austro-Hungary WDL2628.png||440|74"
+  },
+  "lieu-heidelberg": {
+   "f": "img/lieu-heidelberg.webp",
+   "v": "dd023e0746",
+   "w": 480,
+   "h": 313,
+   "l": "Le château de Heidelberg et l’*Hortus Palatinus*",
+   "cr": "Jacques Fouquières, 1620",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_Palatinus_und_Heidelberger_Schloss_von_Jacques_Fouquiere.jpg",
+   "pour": [
+    "chateau-de-heidelberg"
+   ],
+   "sig": "Hortus Palatinus und Heidelberger Schloss von Jacques Fouquiere.jpg||480|74"
+  },
+  "lieu-goetheanum": {
+   "f": "img/lieu-goetheanum.webp",
+   "v": "67a735df28",
+   "w": 440,
+   "h": 260,
+   "l": "Le premier Goetheanum, l’édifice de bois détruit en 1922",
+   "cr": "aquarelle de Hermann Linde, avant 1923",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Goetheanum_-_Aquarell_von_Hermann_Linde.jpg",
+   "pour": [
+    "goetheanum"
+   ],
+   "sig": "Goetheanum - Aquarell von Hermann Linde.jpg||440|74"
+  },
+  "lieu-delphes": {
+   "f": "img/lieu-delphes.webp",
+   "v": "c38d2b9eca",
+   "w": 480,
+   "h": 375,
+   "l": "Delphes au pied des roches Phédriades",
+   "cr": "photographie de Paul des Granges, 1869",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kastri_(Delphi)_and_the_Phaedriades_by_Paul_des_Granges_(1869)_-_crop.jpg",
+   "pour": [
+    "delphes"
+   ],
+   "sig": "Kastri (Delphi) and the Phaedriades by Paul des Granges (1869) - crop.jpg||480|74"
+  },
+  "lieu-eleusis": {
+   "f": "img/lieu-eleusis.webp",
+   "v": "e63819f47c",
+   "w": 440,
+   "h": 293,
+   "l": "Les ruines du Télestérion d’Éleusis",
+   "cr": "photographie de Furius, 2022",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Telesterion_at_Eleusis,_view_from_S.jpg",
+   "pour": [
+    "eleusis"
+   ],
+   "sig": "Telesterion at Eleusis, view from S.jpg||440|74"
+  },
+  "relief-eleusis": {
+   "f": "img/relief-eleusis.webp",
+   "v": "652d3aaa52",
+   "w": 440,
+   "h": 572,
+   "l": "Déméter, Coré et le jeune Triptolème : le grand relief d’Éleusis",
+   "cr": "relief de marbre, Ve siècle av. J.-C. — Musée national archéologique d’Athènes",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Great_Eleusinian_Relief.jpg",
+   "pour": [
+    "mystes-et-epoptes"
+   ],
+   "sig": "Great Eleusinian Relief.jpg||440|74"
+  },
+  "lieu-samothrace": {
+   "f": "img/lieu-samothrace.webp",
+   "v": "ac19d01e25",
+   "w": 440,
+   "h": 584,
+   "l": "La Victoire de Samothrace",
+   "cr": "photographie de Shonagon, 2018 — musée du Louvre",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg",
+   "pour": [
+    "samothrace"
+   ],
+   "sig": "Victoire de Samothrace - Musee du Louvre - 20190812.jpg||440|74"
+  },
+  "lieu-hermopolis": {
+   "f": "img/lieu-hermopolis.webp",
+   "v": "9cdd3b743b",
+   "w": 480,
+   "h": 354,
+   "l": "Le portique du temple d’Hermopolis, relevé par les savants de l’expédition d’Égypte",
+   "cr": "*Description de l’Égypte*, 1809 — New York Public Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Achmouneyn_(Hermopolis_Magna)._Plan,_%C3%A9l%C3%A9vation_et_d%C3%A9tails_du_portique_du_temple_(NYPL_b14212718-1268147).jpg",
+   "pour": [
+    "hermopolis"
+   ],
+   "sig": "Achmouneyn (Hermopolis Magna). Plan, élévation et détails du portique du temple (NYPL b14212718-1268147).jpg||480|74"
+  },
+  "lieu-dendera": {
+   "f": "img/lieu-dendera.webp",
+   "v": "48425f5117",
+   "w": 440,
+   "h": 330,
+   "l": "Le zodiaque de Dendérah",
+   "cr": "photographie de Neithsabes, 2006, versée au domaine public — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dendera_zodiac,_Louvre.jpg",
+   "pour": [
+    "dendera"
+   ],
+   "sig": "Dendera zodiac, Louvre.jpg||440|74"
+  },
+  "lieu-salem": {
+   "f": "img/lieu-salem.webp",
+   "v": "e982e85652",
+   "w": 440,
+   "h": 398,
+   "l": "*Examen d’une sorcière*, scène imaginée du procès de Salem",
+   "cr": "Tompkins Harrison Matteson, 1853",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Examination_of_a_Witch_-_Tompkins_Matteson_(cropped).jpg",
+   "pour": [
+    "salem"
+   ],
+   "sig": "Examination of a Witch - Tompkins Matteson (cropped).jpg||440|74"
+  },
+  "portrait-sauniere": {
+   "f": "img/portrait-sauniere.webp",
+   "v": "20b85badc9",
+   "w": 400,
+   "h": 509,
+   "l": "L’abbé Bérenger Saunière",
+   "cr": "photographie, avant 1917 — Nationaal Archief, fonds Spaarnestad",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pastoor_Sauni%C3%A8res,_gestorven_in_1917,_de_man_die_naar_men_zegt_wist_waar_in_kasteel,_SFA002011574.jpg",
+   "pour": [
+    "berenger-sauniere"
+   ],
+   "sig": "Pastoor Saunières, gestorven in 1917, de man die naar men zegt wist waar in kasteel, SFA002011574.jpg||400|74"
+  },
+  "portrait-rabelais": {
+   "f": "img/portrait-rabelais.webp",
+   "v": "06c6005cf7",
+   "w": 400,
+   "h": 509,
+   "l": "François Rabelais",
+   "cr": "gravure de Félix Bracquemond, 1868 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Portrait_of_Rabelais_MET_DP813999.jpg",
+   "pour": [
+    "francois-rabelais"
+   ],
+   "sig": "Portrait of Rabelais MET DP813999.jpg||400|74"
+  },
+  "portrait-nerval": {
+   "f": "img/portrait-nerval.webp",
+   "v": "32543d9972",
+   "w": 400,
+   "h": 555,
+   "l": "Gérard de Nerval",
+   "cr": "photographie de Nadar, vers 1854-1855",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_G%C3%A9rard_de_Nerval.jpg",
+   "pour": [
+    "gerard-de-nerval"
+   ],
+   "sig": "Félix Nadar 1820-1910 portraits Gérard de Nerval.jpg||400|74"
+  },
+  "portrait-bernard": {
+   "f": "img/portrait-bernard.webp",
+   "v": "8977a827d6",
+   "w": 400,
+   "h": 374,
+   "l": "Bernard de Clairvaux",
+   "cr": "enluminure du XVe siècle — British Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:K105354-Bernard_of_Clairvaux_(British_Library)_(cropped).jpg",
+   "pour": [
+    "bernard-de-clairvaux"
+   ],
+   "sig": "K105354-Bernard of Clairvaux (British Library) (cropped).jpg||400|74"
+  },
+  "portrait-molay": {
+   "f": "img/portrait-molay.webp",
+   "v": "4912b62b3e",
+   "w": 400,
+   "h": 305,
+   "l": "*Jacques de Molay, grand maître des Templiers*",
+   "cr": "Fleury François Richard, 1806 — musée des Beaux-Arts de Lyon",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacques_de_Molay,_grand_ma%C3%AEtre_des_Templiers_-_Fleury_Fran%C3%A7ois_Richard_-_MBA_Lyon_2014.jpg",
+   "pour": [
+    "jacques-de-molay"
+   ],
+   "sig": "Jacques de Molay, grand maître des Templiers - Fleury François Richard - MBA Lyon 2014.jpg||400|74"
+  },
+  "portrait-payns": {
+   "f": "img/portrait-payns.webp",
+   "v": "f298762bdc",
+   "w": 400,
+   "h": 742,
+   "l": "Hugues de Payns, portrait imaginé au XIXe siècle",
+   "cr": "Henri Lehmann, 1841 — château de Versailles",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hugues_de_Payens_(Versailles).jpg",
+   "pour": [
+    "hugues-de-payns"
+   ],
+   "sig": "Hugues de Payens (Versailles).jpg||400|74"
+  },
+  "portrait-wolfram": {
+   "f": "img/portrait-wolfram.webp",
+   "v": "2dea16b789",
+   "w": 400,
+   "h": 564,
+   "l": "Wolfram von Eschenbach dans le Codex Manesse",
+   "cr": "Codex Manesse, vers 1305-1315 — bibliothèque universitaire de Heidelberg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Manesse_149v_Wolfram_von_Eschenbach_(cropped).jpg",
+   "pour": [
+    "wolfram-von-eschenbach",
+    "parzival"
+   ],
+   "sig": "Codex Manesse 149v Wolfram von Eschenbach (cropped).jpg||400|74"
+  },
+  "portrait-boullan": {
+   "f": "img/portrait-boullan.webp",
+   "v": "b2779dc29f",
+   "w": 374,
+   "h": 540,
+   "l": "L’abbé Boullan",
+   "cr": "photographie, XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abb%C3%A9_Boullan.jpg",
+   "pour": [
+    "joseph-antoine-boullan"
+   ],
+   "sig": "Abbé Boullan.jpg||400|74"
+  },
+  "cauchemar-fussli": {
+   "f": "img/cauchemar-fussli.webp",
+   "v": "6bb0bc3646",
+   "w": 420,
+   "h": 340,
+   "l": "*Le Cauchemar*",
+   "cr": "Johann Heinrich Füssli, 1781 — Detroit Institute of Arts",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_NightmareFXD.jpg",
+   "pour": [
+    "incube-et-succube"
+   ],
+   "sig": "John Henry Fuseli - The NightmareFXD.jpg||420|74"
+  },
+  "abraxas-gemmes": {
+   "f": "img/abraxas-gemmes.webp",
+   "v": "1ca5009888",
+   "w": 420,
+   "h": 655,
+   "l": "Gemmes gnostiques d’Abraxas",
+   "cr": "gravure de Jacob van Werden pour l’*Abraxas seu Apistopistus* de Jean L’Heureux, 1657",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacob_van_Werden_-_%27Ioannis_Macarii_canonici_ariensis_Abraxas,_seu,_Apistopistus%27,_Gems_Table_1.jpg",
+   "pour": [
+    "abraxas"
+   ],
+   "sig": "Jacob van Werden - 'Ioannis Macarii canonici ariensis Abraxas, seu, Apistopistus', Gems Table 1.jpg||420|74"
+  },
+  "pesee-hounefer": {
+   "f": "img/pesee-hounefer.webp",
+   "v": "af4c1d5091",
+   "w": 420,
+   "h": 264,
+   "l": "Anubis conduit le défunt et pèse son cœur",
+   "cr": "papyrus de Hounefer, vers 1275 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:El_pesado_del_coraz%C3%B3n_en_el_Papiro_de_Hunefer.jpg",
+   "pour": [
+    "psychopompe"
+   ],
+   "sig": "El pesado del corazón en el Papiro de Hunefer.jpg||420|74"
+  },
+  "tambour-tedworth": {
+   "f": "img/tambour-tedworth.webp",
+   "v": "8e4df709a2",
+   "w": 397,
+   "h": 377,
+   "l": "Le diable et le « tambour de Tedworth »",
+   "cr": "frontispice du *Saducismus Triumphatus* de Joseph Glanvill, édition de 1700",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Devil_and_Drum_from_Saducismus_Triumphatus.png",
+   "pour": [
+    "poltergeist"
+   ],
+   "sig": "Devil and Drum from Saducismus Triumphatus.png||420|74"
   }
  },
  "planches": {

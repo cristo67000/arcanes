@@ -171,7 +171,10 @@
     ap.appendChild(element('p', null, 'Arcanes ' + (MiseAJour.version || '') + ' — dictionnaire encyclopédique de l’ésotérisme.'));
     if (m) {
       ap.appendChild(element('p', 'discret', Outils.pluriel(m.articles, 'article', 'articles') + ', ' + m.mots.toLocaleString('fr-FR')
-        + ' mots, ' + Outils.pluriel(m.figures, 'figure', 'figures') + ' ; édition du ' + Outils.dateLisible(m.construit) + '.'));
+        + ' mots, ' + Outils.pluriel(m.figures, 'figure', 'figures')
+        + (m.lieux ? ', ' + Outils.pluriel(m.lieux, 'lieu', 'lieux') + ' sur la carte' : '')
+        + (m.extraits ? ', ' + Outils.pluriel(m.extraits, 'extrait', 'extraits') + ' d’œuvres anciennes' : '')
+        + ' ; édition du ' + Outils.dateLisible(m.construit) + '.'));
     }
     const ligne = element('div', 'ligne-maj');
     const etatMaj = element('span', 'discret', '');
@@ -187,7 +190,7 @@
     ligne.appendChild(etatMaj);
     ap.appendChild(ligne);
     ap.appendChild(element('h4', null, 'L’esprit de ce dictionnaire'));
-    ap.appendChild(element('p', 'discret', 'Arcanes décrit l’ésotérisme comme le font les historiens : ce que ses courants ont cru, écrit et pratiqué, d’où ils viennent et ce qu’ils sont devenus. Il ne se prononce pas sur la vérité de leurs doctrines ; quand une pratique prétend à des effets vérifiables — divination, astrologie, guérison —, il dit ce qu’en ont conclu les études. Les articles sont originaux ; les dates anciennes sont souvent approximatives.'));
+    ap.appendChild(element('p', 'discret', 'Arcanes décrit l’ésotérisme comme le font les historiens : ce que ses courants ont cru, écrit et pratiqué, d’où ils viennent et ce qu’ils sont devenus. Il ne se prononce pas sur la vérité de leurs doctrines ; quand une pratique prétend à des effets vérifiables — divination, astrologie, guérison —, il dit ce qu’en ont conclu les études. Les articles sont originaux ; les extraits cités sous certains d’entre eux viennent d’œuvres du domaine public, avec leur source. Les dates anciennes sont souvent approximatives.'));
     ap.appendChild(element('p', 'discret', 'Une erreur, un oubli ? Écrivez à cristo67apps@gmail.com.'));
     const lien = element('a', null, 'Confidentialité : rien n’est envoyé nulle part');
     lien.href = 'confidentialite.html';

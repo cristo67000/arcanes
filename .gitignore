@@ -3,3 +3,4 @@ captures/
 *.log
 build/.sources-images/
 build/.atelier/
+build/.sources-carte/

@@ -147,6 +147,32 @@ ok(dico.articles.filter((a) => a.li).length >= 500, 'la plupart des articles mè
 ok(!liste.some((f) => f.includes('liens')), 'les sources des liens ne sont pas dans la coquille');
 ok(lire('confidentialite.html').includes('Pour aller plus loin'), 'la page de confidentialité parle des liens extérieurs');
 
+// ── La carte des lieux ──────────────────────────────────────────────────────
+ok(liste.includes('data/carte.json') && liste.includes('js/carte.js'), 'le fond de carte et son module sont dans la coquille');
+const carte = JSON.parse(lire('data/carte.json'));
+ok(carte.projection === 'mercator' && carte.taille > 0 && carte.cadre.length === 4, 'le fond de carte dit sa projection et son cadre');
+for (const couche of ['terre', 'lacs', 'fleuves', 'frontieres']) {
+  ok(typeof carte.couches[couche] === 'string' && /^M\d/.test(carte.couches[couche]) && !/[^Mlz0-9 -]/.test(carte.couches[couche]), 'la couche « ' + couche + ' » est un chemin SVG relatif');
+}
+ok(carte.villes.length >= 300 && carte.villes.every((v) => v.length === 4 && v[0] && v[3] >= 1 && v[3] <= 5), 'les villes de repère ont un nom, une position et un rang (' + carte.villes.length + ')');
+const lieux = dico.articles.filter((a) => a.g);
+ok(lieux.length >= 40, 'des lieux sont sur la carte (' + lieux.length + ')');
+ok(lieux.length === meta.lieux, 'le manifeste compte les lieux');
+ok(lieux.every((a) => a.g.length === 2 && Math.abs(a.g[0]) <= carte.latMax && Math.abs(a.g[1]) <= 180 && a.lo), 'chaque lieu a des coordonnées sur la carte et sa localisation');
+ok(dico.articles.filter((a) => a.c === 'lieux').every((a) => a.g), 'chaque article de la catégorie « Lieux » est sur la carte');
+const doublons = lieux.filter((a, i) => lieux.some((b, j) => j < i && b.g[0] === a.g[0] && b.g[1] === a.g[1]));
+ok(doublons.length === 0, 'deux lieux ne partagent pas les mêmes coordonnées (' + doublons.map((a) => a.id).join(', ') + ')');
+ok(index.includes('data-vue="carte"') && index.includes('id="vue-carte"'), 'l’onglet « Carte » est dans la page');
+ok(/connect-src 'self'/.test(index) && !/tile|openstreetmap\.org\/[^"]*\.png/.test(index), 'la carte ne charge aucune tuile : la politique de sécurité reste fermée');
+ok(lire('confidentialite.html').includes('Me situer'), 'la page de confidentialité parle de la position');
+
+// ── Les extraits ────────────────────────────────────────────────────────────
+const extraits = dico.articles.flatMap((a) => (a.ex || []).map((x) => [a.id, x]));
+ok(extraits.length >= 20 && extraits.length === meta.extraits, 'des extraits d’œuvres sont cités (' + extraits.length + ')');
+ok(extraits.every(([, [p, ref, li]]) => p.length && p.every((t) => t.length > 20 && !/\/\/|¶|\[\[/.test(t)) && /\*[^*]+\*/.test(ref) && li.length), 'chaque extrait a son texte, sa référence avec le titre et ses liens');
+ok(extraits.every(([, [, , li]]) => li.every((l) => l.length === 3 && /^https:\/\/(gallica\.bnf\.fr|fr\.wikisource\.org|archive\.org)\//.test(l[2]))), 'les extraits mènent au livre : Gallica, Wikisource ou l’Internet Archive');
+ok(extraits.filter(([, [, , li]]) => li.some((l) => l[2].includes('gallica.bnf.fr'))).length >= 15, 'la plupart des extraits mènent à Gallica');
+
 console.log(bons + ' épreuve(s) statique(s) réussie(s)');
 if (echecs.length) {
   console.log(echecs.length + ' ÉCHEC(S) :');

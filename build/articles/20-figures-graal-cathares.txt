@@ -1,0 +1,218 @@
+# Figures : le pays cathare et ses légendes, le Graal, l'affaire de Rennes-le-Château.
+
+@ otto-rahn
+cat: figures
+nom: Otto Rahn
+alias: Rahn, Croisade contre le Graal, La Cour de Lucifer, Kreuzzug gegen den Gral
+dates: 1904 – 1939
+an: 1904
+def: Écrivain allemand qui chercha le Graal chez les cathares de Montségur, puis entra dans l'état-major personnel de Himmler, avant de mourir dans la montagne tyrolienne à trente-quatre ans.
+texte: Otto Rahn naît en 1904 à Michelstadt, en Hesse, fils d'un juriste. Étudiant en droit et en philologie à Giessen, Fribourg et Heidelberg, il se passionne pour les troubadours, les cathares et le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], dont il croit que l'auteur a caché sous des noms transparents des lieux et des personnages réels du Languedoc.
+texte: En 1931, il s'installe à Ussat-les-Bains, dans l'Ariège. Guidé par l'instituteur [[antonin-gadal|Antonin Gadal]], il explore les grottes du Sabarthès, comme [[grotte-de-lombrives|Lombrives]], fréquente [[deodat-roche|Déodat Roché]] et [[maurice-magre|Maurice Magre]], et tente sans succès de tenir un hôtel. Il en tire *[[croisade-contre-le-graal|Croisade contre le Graal]]* (1933), où le château de [[montsegur|Montségur]] devient le Montsalvage de Wolfram, les [[parfaits]] les gardiens du [[graal|Graal]], et la croisade des Albigeois une guerre de Rome contre une religion de lumière venue du fond des âges.
+texte: Le livre, peu vendu, attire l'attention de Heinrich Himmler. Rahn travaille pour lui à partir de 1935 et entre à la SS l'année suivante, dans l'état-major personnel du Reichsführer, qui offre à Hitler son second livre, *La Cour de Lucifer* (1937), récit d'un voyage à la recherche des « hérétiques » d'Europe, de plus en plus imprégné de mythologie nordique et d'antisémitisme. Sanctionné en 1937, pour des raisons que ses biographes discutent, il est affecté quelques mois à la garde du camp de concentration de Dachau. Il quitte la SS en février 1939 et meurt le mois suivant sur les pentes du Wilder Kaiser, dans le Tyrol, sans doute un suicide.
+texte: Sa fin a nourri une légende : on l'a dit mort en « parfait » par une *endura* volontaire, résistant secret au nazisme, ou au contraire survivant sous un autre nom. Les historiens voient en lui un romantique tombé au service d'un régime qui récupérait ses rêveries ; il reste, par ses livres traduits et réédités, l'un des inventeurs du « Montségur du Graal ».
+repere: 1904 — Naissance à Michelstadt, en Hesse.
+repere: 1922 — Études de droit, puis de philologie, à Giessen, Fribourg et Heidelberg.
+repere: 1931 — Il s'installe à Ussat-les-Bains et explore les grottes du Sabarthès.
+repere: 1933 — *Croisade contre le Graal*.
+repere: 1936 — Il entre à la SS, dans l'état-major personnel de Himmler.
+repere: 1937 — *La Cour de Lucifer* ; sanctionné, il est affecté à la garde du camp de Dachau.
+repere: 1939 — Il quitte la SS en février et meurt le 13 mars dans le Tyrol.
+oeuvres: Croisade contre le Graal (1933) ; La Cour de Lucifer (1937)
+voir: montsegur, croisade-contre-le-graal, antonin-gadal, graal, catharisme, ahnenerbe
+
+@ antonin-gadal
+cat: figures
+nom: Antonin Gadal
+alias: Gadal, patriarche du Sabarthès, Ussat-les-Bains
+dates: 1877 – 1962
+an: 1877
+def: Instituteur de l'Ariège qui fit des grottes du Sabarthès les sanctuaires initiatiques des cathares, guida Otto Rahn et transmit à la fin de sa vie son « héritage » à la Rose-Croix d'or hollandaise.
+texte: Antonin Gadal naît en 1877 à Tarascon-sur-Ariège. Instituteur, ancien combattant de la Grande Guerre, il préside le syndicat d'initiative d'Ussat-les-Bains et ouvre au public les grottes des environs, dont [[grotte-de-lombrives|Lombrives]]. Disciple de l'érudit local Adolphe Garrigou et lecteur de [[napoleon-peyrat|Napoléon Peyrat]], il est convaincu que les [[parfaits]] y célébraient leurs initiations et que leur sagesse, gnose chrétienne et secret du [[graal|Graal]], n'a jamais tout à fait disparu.
+texte: Dans les années 1930, il guide [[otto-rahn|Otto Rahn]], qui puise dans ses récits la matière de *Croisade contre le Graal*. Après la guerre, il publie *Sur le chemin du Saint-Graal* et se présente comme le gardien d'une tradition. En 1954, il rencontre Jan van Rijckenborgh et Catharose de Petri, fondateurs de la Rose-Croix d'or des Pays-Bas, en qui il reconnaît les continuateurs des cathares ; il voit même en Catharose de Petri une réincarnation d'[[esclarmonde-de-foix|Esclarmonde de Foix]]. Ensemble, ils proclament l'union des courants du Graal, des cathares et de la Rose-Croix.
+texte: Il meurt en 1962 à Ussat. Le [[lectorium-rosicrucianum|Lectorium Rosicrucianum]] entretient sa mémoire, organise des pèlerinages dans les grottes et a élevé un monument près d'Ussat. Les historiens du catharisme tiennent ses interprétations pour de la légende, mais son rôle dans la naissance du « catharisme ésotérique » du XXe siècle est considérable.
+repere: 1877 — Naissance à Tarascon-sur-Ariège.
+repere: 1931 — Il accueille et guide Otto Rahn dans les grottes du Sabarthès.
+repere: 1954 — Rencontre avec Jan van Rijckenborgh et Catharose de Petri.
+repere: 1962 — Mort à Ussat-les-Bains.
+oeuvres: Sur le chemin du Saint-Graal (1960)
+voir: grotte-de-lombrives, otto-rahn, lectorium-rosicrucianum, catharisme, esclarmonde-de-foix
+
+@ deodat-roche
+cat: figures
+nom: Déodat Roché
+alias: Roché, Cahiers d'études cathares, Tau Théodotos
+dates: 1877 – 1978
+an: 1877
+def: Magistrat audois, évêque de l'Église gnostique puis anthroposophe, qui consacra sa longue vie à présenter le catharisme comme une gnose chrétienne proche de l'enseignement de Rudolf Steiner.
+texte: Déodat Roché naît en 1877 à Arques, dans l'Aude, à quelques kilomètres de [[rennes-le-chateau|Rennes-le-Château]]. Étudiant à Toulouse, il fréquente les milieux de [[papus]], entre dans l'[[ordre-martiniste|Ordre martiniste]] et dans l'[[eglise-gnostique|Église gnostique]] de [[jules-doinel|Jules Doinel]], qui le sacre évêque de Carcassonne en 1903 sous le nom de Théodotos. Avocat puis magistrat, il est aussi franc-maçon au Grand Orient.
+texte: En 1922, il rencontre [[rudolf-steiner|Rudolf Steiner]] à Dornach et devient anthroposophe. Il lit désormais le [[catharisme]] comme un christianisme ésotérique, héritier du [[manicheisme|manichéisme]] et proche de l'[[anthroposophie]] : le dualisme cathare serait une doctrine de la lutte de l'esprit contre la matière, et le [[consolamentum]] une initiation. Révoqué par le régime de Vichy en 1941 parce que franc-maçon, il fonde après la guerre la Société du souvenir et des études cathares et, en 1948, les *Cahiers d'études cathares*, où écrivent aussi bien des poètes que l'historien René Nelli.
+texte: Il meurt à Arques en 1978, à cent ans. Sa maison abrite une exposition consacrée au catharisme. Les historiens ont depuis renouvelé l'étude des cathares à partir des sources inquisitoriales, loin de ses lectures spirituelles, mais il a largement contribué à faire du Languedoc une terre d'élection pour l'ésotérisme.
+repere: 1877 — Naissance à Arques, dans l'Aude.
+repere: 1903 — Sacré évêque gnostique de Carcassonne.
+repere: 1922 — Il rencontre Rudolf Steiner à Dornach.
+repere: 1941 — Révoqué de la magistrature par le régime de Vichy.
+repere: 1948 — Fondation des *Cahiers d'études cathares*.
+repere: 1978 — Mort à Arques, à cent ans.
+oeuvres: Le Catharisme (1937) ; Études manichéennes et cathares (1952) ; L'Église romaine et les cathares albigeois (1957)
+voir: catharisme, anthroposophie, eglise-gnostique, rudolf-steiner, consolamentum
+
+@ napoleon-peyrat
+cat: figures
+nom: Napoléon Peyrat
+alias: Peyrat, Histoire des Albigeois, Napol le Pyrénéen
+dates: 1809 – 1881
+an: 1809
+def: Pasteur protestant et poète ariégeois, auteur d'une Histoire des Albigeois qui créa l'image romantique des cathares, martyrs de la liberté de conscience et gardiens d'une sagesse perdue.
+texte: Napoléon Peyrat naît en 1809 aux Bordes-sur-Arize, dans l'Ariège. Formé à la faculté de théologie protestante de Montauban, il devient pasteur à Saint-Germain-en-Laye. Historien des persécutions protestantes, auteur d'une *Histoire des pasteurs du Désert* (1842), il voit dans les [[catharisme|cathares]] les ancêtres spirituels des protestants, victimes comme eux de l'intolérance de l'Église romaine.
+texte: Son *Histoire des Albigeois* (1870-1872), d'une grande puissance lyrique, fixe pour longtemps l'image romantique du pays cathare. Il fait de [[montsegur|Montségur]] le sanctuaire de la résistance, d'[[esclarmonde-de-foix|Esclarmonde de Foix]] une diaconesse qui aurait fondé la citadelle et reposerait dans une crypte du pic, de la [[grotte-de-lombrives|grotte de Lombrives]] le lieu d'un emmurement de centaines de cathares. Il est aussi l'un des premiers à employer le mot « Occitanie ».
+texte: Ces récits, sans fondement documentaire, ont été repris par les régionalistes occitans comme par les ésotéristes, d'[[antonin-gadal|Antonin Gadal]] à [[otto-rahn|Otto Rahn]]. Peyrat meurt en 1881 à Saint-Germain-en-Laye. Les historiens lui reconnaissent une intuition réelle du sérieux religieux des cathares, et le tiennent en même temps pour le principal fondateur de leur mythe moderne.
+repere: 1809 — Naissance aux Bordes-sur-Arize, dans l'Ariège.
+repere: 1842 — *Histoire des pasteurs du Désert*.
+repere: 1847 — Pasteur titulaire à Saint-Germain-en-Laye.
+repere: 1870 — Premier volume de l'*Histoire des Albigeois*.
+repere: 1881 — Mort à Saint-Germain-en-Laye.
+oeuvres: Histoire des pasteurs du Désert (1842) ; Histoire des Albigeois (1870-1872)
+voir: catharisme, montsegur, esclarmonde-de-foix, grotte-de-lombrives, antonin-gadal
+
+@ esclarmonde-de-foix
+cat: figures
+nom: Esclarmonde de Foix
+alias: Esclarmonde, la Grande Esclarmonde, dame de Pamiers
+dates: vers 1151 – vers 1215
+an: 1151
+def: Sœur du comte de Foix devenue parfaite cathare après son veuvage, figure historique bien réelle dont le XIXe siècle fit l'héroïne légendaire de Montségur et la gardienne du Graal.
+texte: Fille du comte Roger-Bernard Ier de Foix, Esclarmonde épouse Jourdain de L'Isle-Jourdain, dont elle a plusieurs enfants. Veuve, elle reçoit en 1204 à Fanjeaux, avec d'autres dames de la noblesse, le [[consolamentum]] des mains de [[guilhabert-de-castres|Guilhabert de Castres]] : elle devient une « bonne femme », une [[parfaits|parfaite]], et dirige une maison de religieuses cathares. En 1207, au colloque de Pamiers où s'affrontent catholiques et cathares, un moine lui lance qu'elle ferait mieux d'aller filer sa quenouille.
+texte: On perd ensuite sa trace ; elle meurt sans doute vers 1215. [[napoleon-peyrat|Napoléon Peyrat]] en fait au XIXe siècle la fondatrice de [[montsegur|Montségur]] et une prêtresse inspirée, endormie dans le cœur du pic. Joséphin Péladan, puis les cercles du « catharisme ésotérique », y ajoutent la garde du [[graal|Graal]] ; [[antonin-gadal|Antonin Gadal]] croit la reconnaître réincarnée en une rosicrucienne hollandaise. Elle est devenue une figure du féminisme et du régionalisme occitans.
+repere: 1204 — Elle reçoit le consolamentum à Fanjeaux.
+repere: 1207 — Elle assiste au colloque de Pamiers.
+repere: vers 1215 — Mort probable.
+voir: catharisme, guilhabert-de-castres, montsegur, parfaits, napoleon-peyrat
+
+@ guilhabert-de-castres
+cat: figures
+nom: Guilhabert de Castres
+alias: Guilhabert, évêque cathare du Toulousain
+dates: vers 1165 – vers 1240
+an: 1165
+def: Évêque cathare du Toulousain, le principal responsable de l'Église cathare pendant la croisade des Albigeois, qui fit de Montségur son refuge en 1232.
+texte: Diacre de la communauté cathare de Fanjeaux, Guilhabert de Castres est l'un des orateurs des grands débats publics qui opposent, au début du XIIIe siècle, les prédicateurs catholiques — dont saint Dominique — aux bons hommes, comme à Montréal en 1207. Il donne le [[consolamentum]] à des dames de la noblesse, parmi lesquelles [[esclarmonde-de-foix|Esclarmonde de Foix]].
+texte: Devenu évêque du Toulousain dans les années 1220, il réorganise l'Église [[catharisme|cathare]] pendant et après la croisade, ordonne des diacres et maintient la vie des communautés malgré la persécution. En 1232, il demande à Raymond de Péreille d'accueillir à [[montsegur|Montségur]] le siège de l'Église, qui devient le refuge des [[parfaits]]. Il y meurt sans doute vers 1240, quelques années avant la chute de la forteresse.
+repere: 1207 — Il débat à Montréal contre les prédicateurs catholiques.
+repere: 1232 — Il fait de Montségur le refuge de l'Église cathare.
+repere: vers 1240 — Mort probable à Montségur.
+voir: catharisme, montsegur, esclarmonde-de-foix, consolamentum, parfaits
+
+@ maurice-magre
+cat: figures
+nom: Maurice Magre
+alias: Magre, Magiciens et illuminés, Le Sang de Toulouse
+dates: 1877 – 1941
+an: 1877
+def: Poète et romancier toulousain, théosophe et opiomane, qui popularisa dans l'entre-deux-guerres l'image d'un catharisme mystique venu de l'Inde.
+texte: Né à Toulouse en 1877, Maurice Magre connaît le succès à Paris comme poète, dramaturge et romancier. Passionné d'occultisme et de bouddhisme, proche de la [[societe-theosophique|théosophie]], il voit dans les [[catharisme|cathares]] les héritiers d'une sagesse orientale, venue de l'Inde par les manichéens, et dans les [[parfaits]] des sortes de bouddhistes d'Occident.
+texte: Son essai *Magiciens et illuminés* (1930) consacre des chapitres à Apollonius, aux Rose-Croix, aux cathares et aux grands mystiques, et son roman *Le Sang de Toulouse* (1931) célèbre la résistance du Languedoc. Il rencontre [[otto-rahn|Otto Rahn]] dans l'Ariège et l'encourage dans ses recherches. Il meurt à Nice en 1941. Son œuvre, aujourd'hui peu lue, a beaucoup fait pour la vision mystique du pays cathare.
+repere: 1877 — Naissance à Toulouse.
+repere: 1930 — *Magiciens et illuminés*.
+repere: 1931 — *Le Sang de Toulouse*.
+repere: 1941 — Mort à Nice.
+oeuvres: Magiciens et illuminés (1930) ; Le Sang de Toulouse (1931)
+voir: catharisme, otto-rahn, theosophie, parfaits
+
+@ berenger-sauniere
+cat: figures
+nom: Bérenger Saunière
+alias: abbé Saunière, Saunière, curé de Rennes-le-Château
+dates: 1852 – 1917
+an: 1852
+def: Curé de Rennes-le-Château de 1885 à sa suspension en 1910, dont les dépenses somptuaires, financées par un trafic de messes, ont donné naissance à la légende d'un trésor.
+texte: François-Bérenger Saunière naît en 1852 à Montazels, dans la haute vallée de l'Aude, aîné d'une famille de notables. Ordonné prêtre en 1879, il est nommé en 1885 à [[rennes-le-chateau|Rennes-le-Château]], paroisse pauvre et isolée. Monarchiste ardent, il se signale dès la première année par ses sermons contre la République.
+texte: Il restaure l'église avec l'aide de dons et la couvre d'un décor éclatant, puis, à partir de 1901, fait construire la villa Béthanie, un jardin avec une ménagerie et la tour Magdala, où il reçoit largement. Pour financer ces travaux, il fait paraître des annonces dans des revues catholiques et reçoit de toute la France des milliers d'honoraires de messes, bien plus qu'il n'en peut dire. Poursuivi par son évêque pour ce trafic, il refuse de justifier ses comptes et est suspendu en 1910. Il meurt en 1917, laissant ses biens à sa servante, Marie Dénarnaud.
+texte: Le mystère de sa fortune n'en était guère un, mais la légende, lancée en 1956 par l'hôtelier qui avait repris le domaine, lui prête la découverte de parchemins codés et d'un trésor, des liens avec les Habsbourg, la cantatrice Emma Calvé et les milieux occultistes parisiens, aucune de ces rencontres n'étant attestée. Il est aujourd'hui le personnage central d'une énigme qui attire chaque année des dizaines de milliers de visiteurs.
+repere: 1852 — Naissance à Montazels, dans l'Aude.
+repere: 1879 — Ordination sacerdotale.
+repere: 1885 — Nommé curé de Rennes-le-Château.
+repere: 1901 — Début de la construction de la villa Béthanie et de la tour Magdala.
+repere: 1910 — Suspendu par l'évêché pour trafic de messes.
+repere: 1917 — Mort à Rennes-le-Château.
+voir: rennes-le-chateau, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion
+
+@ henri-boudet
+cat: figures
+nom: Henri Boudet
+alias: abbé Boudet, Boudet, La Vraie Langue celtique
+dates: 1837 – 1915
+an: 1837
+def: Curé de Rennes-les-Bains pendant quarante-deux ans, auteur d'un livre étrange sur la langue primitive de l'humanité et un prétendu cromlech, lu depuis comme la clé de l'énigme de Rennes.
+texte: Jean-Jacques Henri Boudet naît en 1837 à Quillan, dans l'Aude. Curé de [[rennes-les-bains|Rennes-les-Bains]] de 1872 à 1914, érudit, membre de la Société des arts et des sciences de Carcassonne, il publie en 1886 *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*. Il y soutient que les noms de lieux du pays s'expliquent par l'anglais, survivance de la langue que parlaient les premiers hommes avant Babel, et que les rochers des environs forment un immense cercle de pierres celtique.
+texte: L'ouvrage, illustré d'une carte dessinée par son frère Edmond, passa inaperçu. Depuis les années 1960, il est lu comme un cryptogramme : on y cherche le chemin d'un trésor, la géométrie secrète du paysage ou la clé des parchemins de [[berenger-sauniere|Saunière]], que Boudet aurait connu et peut-être financé. Les historiens y voient l'œuvre d'un prêtre érudit, imprégné des théories celtomanes et de la quête d'une langue primitive, très répandues au XIXe siècle. Il meurt en 1915 à Axat.
+repere: 1837 — Naissance à Quillan, dans l'Aude.
+repere: 1872 — Nommé curé de Rennes-les-Bains.
+repere: 1886 — *La Vraie Langue celtique et le cromleck de Rennes-les-Bains*.
+repere: 1915 — Mort à Axat.
+oeuvres: La Vraie Langue celtique et le cromleck de Rennes-les-Bains (1886)
+voir: rennes-les-bains, la-vraie-langue-celtique, rennes-le-chateau, berenger-sauniere, druidisme
+
+@ pierre-plantard
+cat: figures
+nom: Pierre Plantard
+alias: Plantard, Pierre Plantard de Saint-Clair, Dossiers secrets d'Henri Lobineau
+dates: 1920 – 2000
+an: 1920
+def: Mystificateur français qui fonda en 1956 un « prieuré de Sion », fabriqua avec un complice des documents généalogiques le disant héritier des Mérovingiens et transforma l'affaire de Rennes-le-Château en mythe.
+texte: Pierre Plantard naît à Paris en 1920 dans une famille modeste. Sacristain dans sa jeunesse, militant d'extrême droite dans les années 1930, il fonde sous l'Occupation de petits groupements antisémites et une revue, *Vaincre*, que la police juge l'œuvre d'un « illuminé ». Condamné pour abus de confiance, il fait de la prison en 1953.
+texte: En 1956, il dépose en Haute-Savoie les statuts d'une association, le [[prieure-de-sion|prieuré de Sion]], qu'il présentera plus tard comme un ordre secret millénaire. Avec son ami Philippe de Chérisey, il fabrique de faux parchemins et des généalogies qui font de lui un descendant du roi mérovingien Dagobert II, et les fait déposer à la Bibliothèque nationale sous des noms d'emprunt : ce sont les « [[dossiers-secrets|dossiers secrets d'Henri Lobineau]] ». Il fournit à [[gerard-de-sede|Gérard de Sède]] la matière de *L'Or de Rennes* (1967), puis inspire les auteurs de *L'Énigme sacrée* (1982).
+texte: En 1993, il désigne l'homme d'affaires Roger-Patrice Pelat, ami du président Mitterrand, comme ancien grand maître du prieuré ; un juge qui enquête sur Pelat fait perquisitionner chez lui, et Plantard reconnaît sous serment avoir tout inventé. Il meurt en 2000. Sa supercherie, révélée de son vivant, continue d'alimenter romans, documentaires et théories du complot.
+repere: 1920 — Naissance à Paris.
+repere: 1942 — Il publie la revue *Vaincre* et fonde le groupe Alpha Galates.
+repere: 1956 — Il dépose les statuts du prieuré de Sion.
+repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale ; *L'Or de Rennes*.
+repere: 1993 — Il reconnaît sous serment avoir inventé le prieuré.
+repere: 2000 — Mort à Colombes.
+voir: prieure-de-sion, dossiers-secrets, gerard-de-sede, rennes-le-chateau, gisors
+
+@ gerard-de-sede
+cat: figures
+nom: Gérard de Sède
+alias: de Sède, L'Or de Rennes, Les Templiers sont parmi nous
+dates: 1921 – 2004
+an: 1921
+def: Journaliste et écrivain, ancien surréaliste, dont les livres sur Gisors, les cathares et Rennes-le-Château, écrits avec l'aide de Pierre Plantard, ont lancé le mystère moderne du Razès.
+texte: Né à Paris en 1921, Gérard de Sède participe pendant la guerre au groupe surréaliste de *La Main à plume* et à la Résistance, puis devient journaliste. En 1962, il raconte l'histoire du gardien de Gisors, Roger Lhomoy, qui disait avoir vu une crypte remplie de coffres : *Les Templiers sont parmi nous* lui vaut le contact de [[pierre-plantard|Pierre Plantard]].
+texte: Il publie ensuite *Le Trésor cathare* (1966), puis *L'Or de Rennes* (1967), où il reproduit les faux parchemins fabriqués par Plantard et Chérisey et révèle au grand public le mystère de l'abbé [[berenger-sauniere|Saunière]] et le [[prieure-de-sion|prieuré de Sion]]. Le livre, réédité sous le titre *Le Trésor maudit de Rennes-le-Château*, connaît un grand succès. Brouillé avec Plantard, il dénonce en 1988 les « impostures » de l'affaire, tout en continuant de croire à un secret véritable. Il meurt en 2004.
+repere: 1921 — Naissance à Paris.
+repere: 1943 — Il participe aux publications surréalistes de *La Main à plume*.
+repere: 1962 — *Les Templiers sont parmi nous*.
+repere: 1967 — *L'Or de Rennes*.
+repere: 1988 — Il dénonce les impostures de l'affaire de Rennes.
+repere: 2004 — Mort à Désertines, dans l'Allier.
+oeuvres: Les Templiers sont parmi nous (1962) ; Le Trésor cathare (1966) ; L'Or de Rennes (1967) ; Rennes-le-Château, le dossier, les impostures, les phantasmes, les hypothèses (1988)
+voir: rennes-le-chateau, gisors, pierre-plantard, prieure-de-sion, templiers
+
+@ wolfram-von-eschenbach
+cat: figures
+nom: Wolfram von Eschenbach
+alias: Wolfram, Parzival, Kyot
+dates: vers 1170 – vers 1220
+an: 1170
+def: Chevalier et poète allemand, auteur du Parzival, qui fit du Graal une pierre tombée du ciel gardée par des chevaliers, les « templistes ».
+texte: Chevalier pauvre de Franconie, Wolfram von Eschenbach se dit illettré, ce qui est sans doute une coquetterie. Vers 1200-1210, il compose le *[[parzival|Parzival]]*, long roman en vers qui reprend le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]] en l'achevant et en le transformant. Il prétend tenir l'histoire d'un certain Kyot le Provençal, qui l'aurait trouvée dans un manuscrit arabe à Tolède : la plupart des spécialistes y voient une fiction.
+texte: Chez Wolfram, le [[graal|Graal]] est une pierre, *lapsit exillis*, qui nourrit, rajeunit et désigne par une inscription ceux qui la serviront ; ses gardiens, les *templeisen*, évoquent les [[templiers]]. Le roman a inspiré le *Parsifal* de Wagner (1882) et les lectures ésotériques, d'[[otto-rahn|Otto Rahn]], qui place le château du Graal à [[montsegur|Montségur]], aux traditionalistes qui y lisent un symbole du centre spirituel.
+repere: vers 1200 — Il compose le *Parzival*.
+repere: vers 1215 — Il compose le *Willehalm*.
+oeuvres: Parzival (vers 1200-1210) ; Willehalm (vers 1215) ; Titurel
+voir: parzival, graal, chretien-de-troyes, otto-rahn, templiers
+
+@ chretien-de-troyes
+cat: figures
+nom: Chrétien de Troyes
+alias: Chrétien, Perceval, roman arthurien
+dates: vers 1135 – vers 1185
+an: 1135
+def: Poète champenois, le premier grand romancier de la littérature française, dont le Conte du Graal, inachevé, a fait entrer le Graal dans la littérature européenne.
+texte: On sait peu de chose de sa vie : il écrit pour Marie de Champagne, puis pour Philippe d'Alsace, comte de Flandre. Ses romans en vers, *Érec et Énide*, *Cligès*, *Lancelot ou le Chevalier de la charrette*, *Yvain ou le Chevalier au lion*, créent le roman de chevalerie arthurien et la figure du chevalier en quête.
+texte: Son dernier roman, *[[conte-du-graal|Perceval ou le Conte du Graal]]*, vers 1180, reste inachevé. Le jeune Perceval y voit passer au château du Roi Pêcheur une lance qui saigne et un « graal », un plat précieux, sans oser demander à qui l'on en sert. Ce silence et cette énigme ont suscité les continuations, les réécritures de Robert de Boron et de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], puis un millénaire de spéculations sur la nature du [[graal|Graal]].
+repere: vers 1170 — *Érec et Énide*.
+repere: vers 1180 — *Perceval ou le Conte du Graal*, resté inachevé.
+oeuvres: Érec et Énide ; Lancelot ou le Chevalier de la charrette ; Yvain ou le Chevalier au lion ; Perceval ou le Conte du Graal
+voir: conte-du-graal, graal, wolfram-von-eschenbach, parzival
