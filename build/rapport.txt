@@ -1,22 +1,26 @@
-Dictionnaire construit le 2026-10-20
-789 articles, 122273 mots, 373 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
-258 avec des repères (1804), 711 avec des liens extérieurs (1039)
-48 sur la carte, 28 extraits dans 28 articles
-315 illustrations (11703 Ko) dans 301 articles, 4 planche(s)
-1587959 octets de JSON
+Dictionnaire construit le 2026-10-22
+944 articles, 143523 mots, 403 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
+340 avec des repères (2053), 862 avec des liens extérieurs (1196)
+67 sur la carte, 62 extraits dans 60 articles
+403 illustrations (14982 Ko) dans 392 articles, 4 planche(s)
+1898265 octets de JSON
 
   courants     40
-  figures     205
-  textes       72
+  figures     240
+  textes       78
   notions      72
   alchimie     48
-  kabbale      40
+  kabbale      34
   astrologie   42
   divination   49
-  magie        37
-  societes     26
-  maconnerie   75
-  symboles     36
-  lieux        47
+  magie        39
+  societes     29
+  maconnerie   78
+  symboles     46
+  nombres      25
+  astronomie   16
+  pierres      34
+  echecs       11
+  lieux        63
 
 0 article(s) que rien ne cite : 

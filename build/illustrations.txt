@@ -1302,7 +1302,7 @@ largeur: 560
 commons: SchinkelDesignMagicFluteAct2Scene3.PNG
 legende: Le jardin du sphinx au clair de lune, décor de Schinkel pour *La Flûte enchantée*
 credit: Karl Friedrich Schinkel, vers 1815
-pour: egyptosophie
+pour: egyptosophie, sarastro
 largeur: 560
 
 = villalpando-temple
@@ -1983,3 +1983,585 @@ commons: Devil and Drum from Saducismus Triumphatus.png
 legende: Le diable et le « tambour de Tedworth »
 credit: frontispice du *Saducismus Triumphatus* de Joseph Glanvill, édition de 1700
 pour: poltergeist
+
+% Symboles, légendes et textes ajoutés en 1.4
+
+= soleil-noir-splendor
+commons: Splendor Solis. Image 19 - The dark sun.jpg
+legende: Le soleil noir se couchant sur une terre désolée, planche du *Splendor solis*
+credit: manuscrit du XVIe siècle
+pour: soleil-noir
+
+= croix-hendaye
+commons: Hendaya - Cruz.jpg
+legende: La croix d’Hendaye, sur le parvis de l’église Saint-Vincent
+credit: photographie de Zarateman, 2019
+pour: croix-d-hendaye
+
+= dame-licorne
+commons: (Toulouse) Mon seul désir (La Dame à la licorne) - Musée de Cluny Paris.jpg
+legende: « À mon seul désir », tapisserie de *La Dame à la licorne*
+credit: tapisserie, vers 1500 — musée de Cluny, Paris
+pour: licorne
+largeur: 560
+
+= hippogriffe-dore
+commons: Orlando Furioso 4.jpg
+legende: L’enchanteur Atlante sur l’hippogriffe, devant son château
+credit: Gustave Doré pour le *Roland furieux*, 1879
+pour: hippogriffe
+
+= uccello-dragon
+commons: Saint George and the Dragon by Paolo Uccello (London) 01.jpg
+legende: *Saint Georges et le dragon*, de Paolo Uccello
+credit: Paolo Uccello, vers 1470 — National Gallery, Londres
+pour: dragon
+largeur: 560
+
+= basilic-aldrovandi
+commons: Basilisk (1640).png
+legende: Le basilic, gravure de l’*Histoire des serpents et des dragons*
+credit: Ulisse Aldrovandi, *Serpentum et draconum historia*, 1640
+pour: basilic
+largeur: 560
+
+= menorah-titus
+commons: Menorah (Arc de Titus, Rome).jpg
+legende: La menorah du Temple emportée par les soldats romains, relief de l’arc de Titus
+credit: arc de Titus, Rome, vers 81 — photographie de Gunnar Bach Pedersen
+pour: menorah
+
+= tissot-arche
+commons: James Jacques Joseph Tissot - The Ark Passes Over the Jordan - Google Art Project.jpg
+legende: *L’Arche passe le Jourdain*, de James Tissot
+credit: James Tissot, vers 1896-1902 — Jewish Museum, New York
+pour: arche-d-alliance
+largeur: 560
+
+= piero-constantin
+commons: Piero della Francesca - 4. Vision of Constantine - WGA17508.jpg
+legende: *Le Songe de Constantin*, fresque de Piero della Francesca
+credit: Piero della Francesca, 1452-1466 — basilique Saint-François, Arezzo
+pour: constantin, chrisme
+
+= sainte-lance-vienne
+commons: Heilige Lanze Wien Schatzkammer 1.jpg
+legende: La sainte lance du Saint-Empire, au trésor impérial de Vienne
+credit: pièce carolingienne, VIIIe-IXe siècle — photographie d’Andreas Praefcke, 2009
+pour: sainte-lance
+largeur: 320
+
+= melencolia-durer
+commons: Melencolia I MET DP815743.jpg
+legende: *Melencolia I*, gravure d’Albrecht Dürer
+credit: Albrecht Dürer, 1514 — Metropolitan Museum of Art, New York
+pour: melencolia
+largeur: 440
+
+= bergers-arcadie
+commons: Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg
+legende: *Les Bergers d’Arcadie*, de Nicolas Poussin
+credit: Nicolas Poussin, vers 1638 — musée du Louvre
+pour: les-bergers-d-arcadie
+largeur: 560
+
+= blocksberg-praetorius
+commons: Praetorius Blocksberg.jpg
+legende: Le sabbat des sorcières sur le Brocken, frontispice de Johannes Praetorius
+credit: *Blockes-Berges Verrichtung*, 1668
+pour: walpurgis
+
+= vaudoises-champion
+commons: Champion des dames Vaudoises.JPG
+legende: Deux « vaudoises » volant sur un balai et un bâton, en marge du *Champion des dames*
+credit: manuscrit du poème de Martin Le Franc, 1451 — Bibliothèque nationale de France
+pour: sorciere
+
+= quatre-sergents
+commons: Exécution des quatre sergents de La Rochelle.jpg
+legende: L’exécution des quatre sergents de La Rochelle, place de Grève, en 1822
+credit: gravure du XIXe siècle
+pour: charbonnerie
+largeur: 520
+
+= legende-doree-toussaint
+commons: Légende dorée - BNF Vélins689 (Tous les saints le roi et la reine).jpg
+legende: La fête de tous les saints, enluminure d’une *Légende dorée* de la fin du XVe siècle
+credit: Maître de la Chronique scandaleuse, vers 1493 — Bibliothèque nationale de France
+pour: legende-doree
+
+= voragine-prechant
+commons: Jacques de Voragine prêchant - Légende dorée BNF Fr244 f1.jpg
+legende: Jacques de Voragine prêchant, en tête d’un manuscrit de la *Légende dorée*
+credit: Maître de Jacques de Besançon, vers 1480-1490 — BnF, Français 244
+pour: jacques-de-voragine
+largeur: 520
+
+= carte-enfer
+commons: Sandro Botticelli - La Carte de l'Enfer.jpg
+legende: La carte de l’Enfer de Dante, par Sandro Botticelli
+credit: Sandro Botticelli, vers 1480-1495 — Bibliothèque apostolique vaticane
+pour: divine-comedie
+largeur: 560
+
+= poliphile-elephant
+commons: Elefant.hypnero.jpg
+legende: L’éléphant portant un obélisque, gravure du *Songe de Poliphile*
+credit: Alde Manuce, Venise, 1499
+pour: songe-de-poliphile
+
+= durer-bete
+commons: The Beast with Seven Heads and the Beast with Lamb's Horns, from the Apocalypse series MET DP816930.jpg
+legende: La Bête à sept têtes et la Bête aux cornes d’agneau, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, *Apocalypse*, gravure sur bois de 1498 — Metropolitan Museum of Art
+pour: nombre-de-la-bete
+
+= vitruve
+commons: Da Vinci Vitruve Luc Viatour.jpg
+legende: L’homme de Vitruve inscrit dans le cercle et le carré, de Léonard de Vinci
+credit: Léonard de Vinci, vers 1490 — Gallerie dell’Accademia, Venise
+pour: geometrie-sacree
+
+= pectoral-aaron
+commons: Aäron wordt het borstschild (hoshen) aangedaan, RP-P-OB-44.900.jpg
+legende: Aaron revêtu du pectoral aux douze pierres
+credit: gravure, vers 1700 — Rijksmuseum, Amsterdam
+pour: pectoral-du-grand-pretre
+largeur: 360
+
+% Jeu d’échecs
+
+= echecs-alphonse
+commons: Men playing chess, Alfonso X's Book of Chess, Dice and Tables.jpg
+legende: Une partie d’échecs dans le *Livre des jeux* d’Alphonse X de Castille
+credit: *Libro de los juegos*, 1283 — bibliothèque de l’Escurial
+pour: jeu-d-echecs
+largeur: 560
+
+= echiquier-manesse
+commons: Meister der Manessischen Liederhandschrift 004.jpg
+legende: Le margrave Otton IV de Brandebourg jouant aux échecs
+credit: Codex Manesse, vers 1305-1340 — bibliothèque universitaire de Heidelberg
+pour: echiquier
+
+= schachzabelbuch
+commons: King and queen playing chess - Das Schachzabelbuch (15th C), f.5v - BL Add MS 11616.jpg
+legende: Le roi et la reine jouant aux échecs, dans une version allemande du livre de Jacques de Cessoles
+credit: *Schachzabelbuch*, XVe siècle — British Library, Add MS 11616
+pour: jeu-des-echecs-moralise, jacques-de-cessoles
+
+= tenniel-reine-rouge
+commons: Tenniel red queen with alice.jpg
+legende: Alice et la Reine rouge
+credit: John Tenniel pour *De l’autre côté du miroir*, 1871
+pour: de-l-autre-cote-du-miroir
+
+= lewis-carroll
+commons: LewisCarrollSelfPhoto.jpg
+legende: Lewis Carroll, autoportrait photographique
+credit: Charles Lutwidge Dodgson, 1857
+pour: lewis-carroll
+
+% Astronomie
+
+= urania-grande-ourse
+commons: Sidney Hall - Urania's Mirror - Ursa Major.jpg
+legende: La Grande Ourse, carte du *Miroir d’Uranie*
+credit: Sidney Hall, 1825
+pour: grande-ourse
+largeur: 560
+
+= urania-petite-ourse
+commons: Sidney Hall - Urania's Mirror - Draco and Ursa Minor.jpg
+legende: Le Dragon et la Petite Ourse, carte du *Miroir d’Uranie*
+credit: Sidney Hall, 1825
+pour: petite-ourse
+
+= urania-orion
+commons: Sidney Hall - Urania's Mirror - Orion (best currently available version - 2014).jpg
+legende: Orion, carte du *Miroir d’Uranie*
+credit: Sidney Hall, 1825
+pour: orion
+
+= urania-serpentaire
+commons: Sidney Hall - Urania's Mirror - Taurus Poniatowski, Serpentarius, Scutum Sobiesky, and Serpens.jpg
+legende: Le Serpentaire, ou Ophiuchus, et le Serpent, carte du *Miroir d’Uranie*
+credit: Sidney Hall, 1825
+pour: ophiuchus
+largeur: 560
+
+= pleiades-nasa
+commons: Pleiades large.jpg
+legende: L’amas des Pléiades
+credit: NASA, ESA, AURA/Caltech, observatoire du mont Palomar
+pour: pleiades
+largeur: 480
+
+= sirius-hubble
+commons: Sirius A and B Hubble photo.jpg
+legende: Sirius et sa petite compagne, la naine blanche Sirius B, vues par le télescope Hubble
+credit: NASA, ESA, H. Bond et M. Barstow, 2005
+pour: sirius
+largeur: 360
+
+= bayeux-comete
+commons: Bayeux Tapestry scene32 Halley comet.jpg
+legende: La comète de 1066, celle de Halley, sur la tapisserie de Bayeux
+credit: broderie, vers 1070 — musée de la Tapisserie, Bayeux
+pour: comete
+largeur: 480
+
+= durer-ciel-boreal
+commons: Albrecht Dürer, The Northern Celestial Hemisphere, 1515, NGA 43181.jpg
+legende: L’hémisphère céleste boréal et ses constellations, gravure d’Albrecht Dürer
+credit: Albrecht Dürer, 1515 — National Gallery of Art, Washington
+pour: constellation
+largeur: 480
+
+% Pierres et lieux d’énergie
+
+= amethyste
+commons: Amethyst (GeoDIL number - 2522).jpg
+legende: Cristaux d’améthyste
+credit: photographie de Darla Sondrol, 2002 — GeoDIL
+pour: amethyste
+
+= obsidienne
+commons: Obsidian (GeoDIL number - 413).jpg
+legende: Un éclat d’obsidienne
+credit: photographie de Mike Davis, 2001 — GeoDIL
+pour: obsidienne
+
+= turquoise
+commons: Turquoise (GeoDIL number - 557).jpg
+legende: Turquoise brute
+credit: photographie de Shannon Heinle, 2001 — GeoDIL
+pour: turquoise
+
+= cristal-de-roche
+commons: Rock Crystal (GeoDIL number - 2523).jpg
+legende: Cristaux de roche
+credit: photographie de Darla Sondrol, 2002 — GeoDIL
+pour: cristal-de-roche
+largeur: 480
+
+= emeraude
+commons: Béryl var. émeraude sur gangue (Muzo Mine Boyaca - Colombie) 10.jpg
+legende: Émeraude sur sa gangue, de la mine de Muzo, en Colombie
+credit: photographie de Géry Parent, 2010
+pour: emeraude
+largeur: 480
+
+= aimant
+commons: Siberian lodestone with armature, photo-1.JPG
+legende: Une pierre d’aimant de Sibérie dans son armature
+credit: photographie d’Alf van Beem, 2011
+pour: aimant
+largeur: 320
+
+= lapidaire-alphonse
+commons: Lapidario.jpg
+legende: Une page du *Lapidaire* d’Alphonse X de Castille
+credit: manuscrit, XIIIe siècle — bibliothèque de l’Escurial
+pour: lapidaire
+
+= sedona
+commons: Cathedral Rock (25270326947).jpg
+legende: Cathedral Rock, l’un des « vortex » de Sedona
+credit: forêt nationale de Coconino, 2018
+pour: sedona
+largeur: 480
+
+= mont-shasta
+commons: Mount Shasta 1923.jpg
+legende: Le mont Shasta en 1923
+credit: Service des forêts des États-Unis, 1923
+pour: mont-shasta
+largeur: 520
+
+= avebury-stukeley
+commons: Houghton Arc 855.214 - Stukely, the Druid temple of Abury.jpg
+legende: Le « temple druidique » d’Avebury, restitué par William Stukeley
+credit: William Stukeley, *Abury*, 1743 — bibliothèque Houghton, Harvard
+pour: avebury
+largeur: 560
+
+% Figures ajoutées en 1.4
+
+= rene-anjou
+commons: Diptyque Matheron - portrait de René d'Anjou.jpg
+legende: René d’Anjou, volet du diptyque Matheron
+credit: Nicolas Froment, 1474 — musée du Louvre
+pour: rene-d-anjou
+
+= leonard-sanguine
+commons: Leonardo da Vinci - presumed self-portrait - WGA12798.jpg
+legende: Portrait présumé de Léonard de Vinci, à la sanguine
+credit: Léonard de Vinci, vers 1512 — Bibliothèque royale de Turin
+pour: leonard-de-vinci
+
+= durer-1500
+commons: Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg
+legende: Autoportrait d’Albrecht Dürer à vingt-huit ans
+credit: Albrecht Dürer, 1500 — Alte Pinakothek, Munich
+pour: albrecht-durer
+
+= parmesan-miroir
+commons: Parmigianino - Self-portrait in a Convex Mirror - WGA17031.jpg
+legende: *Autoportrait au miroir convexe*
+credit: le Parmesan, vers 1524 — Kunsthistorisches Museum, Vienne
+pour: parmesan
+
+= dante-botticelli
+commons: Sandro Botticelli - Portrait of Dante - WGA02802.jpg
+legende: Portrait de Dante attribué à Sandro Botticelli
+credit: vers 1495 — collection particulière
+pour: dante
+
+= rossetti-carroll
+commons: Dante Gabriel Rossetti 001.jpg
+legende: Dante Gabriel Rossetti photographié par Lewis Carroll
+credit: Lewis Carroll, 7 octobre 1863
+pour: dante-gabriel-rossetti
+
+= garibaldi
+commons: Garibaldi (1866).jpg
+legende: Giuseppe Garibaldi
+credit: photographie des frères Alinari, vers 1866
+pour: giuseppe-garibaldi
+
+= mazzini
+commons: Portrait of Mazzini (4670403).jpg
+legende: Giuseppe Mazzini
+credit: photographie, vers 1850
+pour: giuseppe-mazzini
+largeur: 320
+
+= buonarroti
+commons: Filippo Buonarotti - Jeanron.jpg
+legende: Filippo Buonarroti, par Philippe-Auguste Jeanron
+credit: Philippe-Auguste Jeanron, 1830
+pour: filippo-buonarroti
+
+= wagner
+commons: Richard Wagner. Franz Hanfstaengl, München, 1871.jpg
+legende: Richard Wagner
+credit: photographie de Franz Hanfstaengl, Munich, 1871
+pour: richard-wagner
+
+= louis-ii
+commons: König Ludwig II. von Bayern in Generalsuniform mit dem Krönungsmantel.jpg
+legende: Louis II de Bavière en manteau du couronnement
+credit: Ferdinand von Piloty, 1865
+pour: louis-ii-de-baviere
+
+= poussin-autoportrait
+commons: Poussin - Autoportrait, 1650, INV 7302 ; MR 2329.jpg
+legende: Autoportrait de Nicolas Poussin
+credit: Nicolas Poussin, 1650 — musée du Louvre
+pour: nicolas-poussin
+
+= bosch-jardin
+commons: Garden delights.jpg
+legende: *Le Jardin des délices*, triptyque de Jérôme Bosch
+credit: Jérôme Bosch, vers 1490-1510 — musée du Prado, Madrid
+pour: jerome-bosch
+largeur: 600
+
+= botticelli-venus
+commons: Sandro Botticelli 046.jpg
+legende: *La Naissance de Vénus*, de Sandro Botticelli
+credit: Sandro Botticelli, vers 1485 — galerie des Offices, Florence
+pour: sandro-botticelli
+largeur: 560
+
+= leblanc
+commons: Maurice Leblanc - photographie Henri Manuel.jpg
+legende: Maurice Leblanc
+credit: photographie d’Henri Manuel, vers 1910
+pour: maurice-leblanc
+
+= tycho-brahe
+commons: Porträtt av Tycho Brahe - Skoklosters slott - 90153.tif
+legende: Tycho Brahe
+credit: portrait anonyme, 1596 — château de Skokloster
+pour: tycho-brahe
+
+% Personnages légendaires
+
+= galaad-watts
+commons: George Frederick Watts, 1860-62, Sir Galahad, oil on canvas, 191.8 x 107 cm, Harvard Art Museums, Fogg Museum.jpg
+legende: *Sir Galahad*, de George Frederic Watts
+credit: George Frederic Watts, 1860-1862 — Fogg Museum, Harvard
+pour: galaad
+
+= perceval-chateau
+commons: Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg
+legende: Perceval accueilli au château du Graal, où passe le vase sacré
+credit: manuscrit du *Conte du Graal*, vers 1330 — BnF, Français 12577
+pour: perceval
+largeur: 560
+
+= graal-procession
+commons: Grail-procession-bnf-fr-12577-f74v-1330.jpg
+legende: La lance et le graal portés devant la table du roi
+credit: manuscrit du *Conte du Graal*, vers 1330 — BnF, Français 12577
+pour: roi-pecheur
+largeur: 560
+
+= merlin-burne-jones
+commons: The Beguiling of Merlin by Edward Burne-Jones.jpg
+legende: *L’Enchantement de Merlin*, d’Edward Burne-Jones
+credit: Edward Burne-Jones, 1874 — Lady Lever Art Gallery, Port Sunlight
+pour: merlin
+
+= melusine-bain
+commons: Bookofmelusine.jpg
+legende: Raymondin surprend Mélusine au bain, gravure du *Livre de Mélusine*
+credit: atelier d’Adam Steinschaber, Genève, 1478
+pour: melusine
+
+= pretre-jean-ortelius
+commons: Prester John map.jpg
+legende: Le royaume du Prêtre Jean en Éthiopie, carte d’Abraham Ortelius
+credit: Abraham Ortelius, 1573
+pour: pretre-jean
+largeur: 520
+
+= faust-rembrandt
+commons: A Scholar in His Study ('Faust') MET DP814791.jpg
+legende: *Faust*, eau-forte de Rembrandt
+credit: Rembrandt, vers 1652 — Metropolitan Museum of Art, New York
+pour: faust
+
+= longin-gravure
+commons: Longinus steekt Christus met zijn speer en de ledematen van de misdadigers worden gebroken, RP-P-OB-21.716.jpg
+legende: Longin perce de sa lance le flanc du Christ
+credit: gravure sur bois, 1506 — Rijksmuseum, Amsterdam
+pour: longin
+
+= lupin-gousse
+commons: Arsene Lupin 1907 French edition.jpg
+legende: Arsène Lupin, en couverture d’une édition de Pierre Lafitte
+credit: Henri Goussé, vers 1910
+pour: arsene-lupin
+
+= lohengrin-crane
+commons: Lohengrin by Walter Crane (1895).jpg
+legende: Lohengrin et le cygne, par Walter Crane
+credit: Walter Crane, 1895
+pour: lohengrin
+
+= joseph-savoldo
+commons: Giovanni Girolamo Savoldo - Christ with Joseph of Arimathea - 1952.512 - Cleveland Museum of Art.tiff
+legende: Joseph d’Arimathie soutenant le Christ mort, de Savoldo
+credit: Giovanni Girolamo Savoldo, 1525 — Cleveland Museum of Art
+pour: joseph-d-arimathie
+largeur: 560
+
+% Villes et lieux ajoutés en 1.4
+
+= paris-stryge
+commons: Meryon - Le Stryge (The vampire), 1866,1013.578.jpg
+legende: *Le Stryge*, une chimère de Notre-Dame veillant sur Paris
+credit: Charles Meryon, eau-forte, 1853 — British Museum
+pour: paris
+
+= londres-hollar
+commons: 1647 Long view of London From Bankside - Wenceslaus Hollar (cropped).jpg
+legende: Londres vue de la rive sud de la Tamise
+credit: Wenceslas Hollar, 1647
+pour: londres
+largeur: 600
+
+= nuremberg-1561
+commons: Himmelserscheinung über Nürnberg vom 14. April 1561.jpg
+legende: Le « combat céleste » observé au-dessus de Nuremberg le 14 avril 1561
+credit: feuille volante de Hans Glaser, 1561 — bibliothèque centrale de Zurich
+pour: nuremberg
+
+= venise-barbari
+commons: (Venice) View of Venice by Jacopo de' Barbari - Museo Correr.jpg
+legende: Venise à vol d’oiseau
+credit: Jacopo de’ Barbari, 1500 — musée Correr, Venise
+pour: venise
+largeur: 600
+
+= carcassonne-trutat
+commons: (Carcassonne (Aude). Remparts de la cité) - Fonds Trutat - 51Fi478.jpg
+legende: Les remparts de la Cité de Carcassonne
+credit: photographie d’Eugène Trutat, fin du XIXe siècle
+pour: carcassonne
+largeur: 520
+
+= milan-visconti
+commons: Visconti-sforza-04-emperor.jpg
+legende: L’Empereur, carte du tarot Visconti-Sforza peint pour les ducs de Milan
+credit: attribué à Bonifacio Bembo, vers 1450
+pour: milan
+largeur: 340
+
+= rouen-monet
+commons: Claude Monet - Rouen Cathedral, Facade (Sunset).JPG
+legende: La cathédrale de Rouen au soleil couchant, de Claude Monet
+credit: Claude Monet, 1892-1894 — musée Marmottan Monet, Paris
+pour: rouen
+
+= lyon-1550
+commons: Plan scénographique de la ville de Lyon sous les règnes de François 1er et de Henri II.jpg
+legende: Lyon vers 1550, d’après le plan scénographique
+credit: copie de Maurille-Antoine Moithey, XVIIIe siècle
+pour: lyon
+largeur: 560
+
+= turin-suaire
+commons: Secundo Pia Turinske platno 1898.jpg
+legende: Le visage du saint Suaire en négatif, révélé par la photographie de Secondo Pia
+credit: Secondo Pia, 1898
+pour: turin
+
+= vienne-affiche
+commons: Zauberflöte-Theaterzettel1791.jpg
+legende: L’affiche de la création de *La Flûte enchantée*, Vienne, 30 septembre 1791
+credit: Theater auf der Wieden, 1791
+pour: vienne
+
+= prague-orloj
+commons: Prague Astronomical Clock, Prague Orloj picture-001.JPG
+legende: L’horloge astronomique de la place de la Vieille-Ville
+credit: photographie d’Alf van Beem, 2012
+pour: prague
+
+= florence-catena
+commons: Francesco Rosselli (attribution). Pianta della Catena, 1470.jpg
+legende: Florence vers 1470, la « carte de la chaîne »
+credit: attribuée à Francesco Rosselli, vers 1470
+pour: florence
+largeur: 600
+
+= bayreuth
+commons: Wagner Theatre in Bayreuth.jpg
+legende: Le Festspielhaus de Bayreuth
+credit: gravure publiée par Gustav Kobbé, 1896
+pour: bayreuth
+largeur: 560
+
+= etretat-monet
+commons: Claude Monet, Aiguille & Porte d’Aval, Etretat - Sunset (c.1883-85).jpg
+legende: L’Aiguille et la Porte d’Aval au soleil couchant, de Claude Monet
+credit: Claude Monet, vers 1883-1885
+pour: etretat
+largeur: 600
+
+= lusignan-mars
+commons: Les Très Riches Heures du duc de Berry mars.jpg
+legende: Le mois de mars des *Très Riches Heures* : au fond, le château de Lusignan, et Mélusine en dragon au-dessus d’une tour
+credit: frères de Limbourg et Barthélemy d’Eyck, 1412-1416 et vers 1440 — musée Condé, Chantilly
+pour: lusignan
+
+= vezelay-tympan
+commons: Vézelay Narthex Tympan central 220608 01.jpg
+legende: Le grand tympan de Vézelay : le Christ envoie ses apôtres aux peuples de la terre
+credit: photographie de Vassil, 2008
+pour: vezelay
+largeur: 560

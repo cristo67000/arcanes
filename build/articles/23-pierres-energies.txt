@@ -1,0 +1,349 @@
+# Pierres et lieux d'énergie : les vertus prêtées aux pierres, des lapidaires
+# antiques à la lithothérapie, et les lieux réputés chargés d'énergie.
+# Comme ailleurs, le dictionnaire décrit les croyances et dit ce qu'en ont
+# conclu les études quand elles prétendent à des effets vérifiables.
+
+# ── Les doctrines ───────────────────────────────────────────────────────────
+
+@ lithotherapie
+cat: pierres
+nom: Lithothérapie
+alias: soin par les pierres, soin par les cristaux, cristallothérapie, crystal healing, vertus des pierres
+def: Pratique qui prête aux pierres et aux cristaux des « vibrations » capables de soigner le corps et l'esprit, héritière des vertus médicinales que leur attribuaient les lapidaires anciens.
+texte: L'idée que les pierres agissent sur la santé est très ancienne : les médecins grecs et romains en prescrivaient en poudre ou en amulettes, et les [[lapidaire|lapidaires]] du Moyen Âge détaillent les vertus de chacune, souvent liées à sa couleur, à une planète ou à un signe du [[zodiaque]]. Pline l'Ancien, au Ier siècle, rapporte ces croyances tout en se moquant des « mensonges des mages ». La médecine savante les abandonne à partir du XVIIe siècle.
+texte: La lithothérapie moderne naît dans le [[new-age|New Age]] des années 1970 et 1980 : on pose des cristaux sur les [[chakra|chakras]], on porte des pierres choisies selon leur couleur ou selon sa date de naissance, on « recharge » les cristaux au soleil ou à la lune. Ses partisans invoquent la piézoélectricité du quartz, réelle, mais sans rapport avec les effets allégués. Une expérience de 2001 menée à l'université Goldsmiths de [[londres|Londres]] a montré que des participants ressentaient les mêmes sensations avec de faux cristaux qu'avec de vrais : les effets observés relèvent de la suggestion. La lithothérapie n'est reconnue par aucune autorité de santé.
+voir: lapidaire, cristal-de-roche, amethyste, pierres-de-naissance, chakra, new-age, jade, turquoise
+
+@ lapidaire
+cat: pierres
+nom: Lapidaire
+alias: lapidaires, lapidaire médiéval, Liber lapidum, Marbode, livre des pierres
+def: Traité qui décrit les pierres précieuses et leurs vertus, médicinales, magiques ou morales, genre florissant de l'Antiquité tardive au XVIe siècle.
+texte: Le genre remonte à l'Antiquité : un poème grec attribué à Orphée, les *Lithika*, et surtout le livre XXXVII de l'*Histoire naturelle* de Pline. Au Moyen Âge, l'évêque Marbode de Rennes compose vers 1090 un *Liber lapidum* en vers latins, traduit et imité dans toutes les langues ; l'abbesse Hildegarde de Bingen consacre aux pierres un livre de sa *Physica*, [[albert-le-grand|Albert le Grand]] un traité des minéraux, et le roi Alphonse X de Castille fait traduire de l'arabe un lapidaire astrologique où chaque pierre dépend d'un degré du zodiaque.
+texte: Les lapidaires mêlent l'observation, la tradition médicale et la [[magie-naturelle|magie naturelle]] : la pierre agit par sa « vertu occulte », que lui imprime un astre. Il existe aussi des lapidaires chrétiens, qui lisent les douze pierres de la Jérusalem céleste comme des symboles des apôtres et des vertus. La minéralogie moderne, à partir de la Renaissance, sépare peu à peu la description des pierres de leurs pouvoirs supposés.
+voir: lithotherapie, pierres-de-naissance, albert-le-grand, magie-naturelle, talisman, etoiles-beheniennes
+
+@ pectoral-du-grand-pretre
+cat: pierres
+nom: Pectoral du grand prêtre
+alias: pectoral d'Aaron, pectoral du jugement, Urim et Thummim, douze pierres
+def: Pièce d'étoffe ornée de douze pierres gravées des noms des tribus d'Israël, que le grand prêtre portait sur la poitrine selon l'Exode, et où certains voient l'origine des pierres de naissance.
+texte: L'Exode décrit ce « pectoral du jugement », tissé d'or, de pourpre et de fin lin, sur lequel sont serties quatre rangées de trois pierres, chacune gravée du nom d'une tribu. Il contenait aussi les mystérieux Urim et Thummim, instruments d'[[oracle]] par lesquels le grand prêtre consultait Dieu. L'identification des douze pierres hébraïques reste incertaine : les traductions grecques et latines les ont rendues par des noms de gemmes qui ne correspondent pas toujours aux minéraux d'origine.
+texte: Flavius Josèphe et Philon d'Alexandrie rapprochent déjà ces douze pierres des douze mois et des signes du [[zodiaque]]. L'Apocalypse donne à son tour douze pierres pour fondations à la Jérusalem céleste. Ces listes ont nourri les lapidaires chrétiens, la symbolique maçonnique des hauts grades et, au XIXe et au XXe siècle, l'invention des [[pierres-de-naissance|pierres de naissance]].
+extrait: Tu feras le pectoral du jugement, artistement travaillé ; tu le feras du même travail que l'éphod, tu le feras d'or, de fil bleu, pourpre et cramoisi, et de fin lin retors. Il sera carré et double ; sa longueur sera d'un empan, et sa largeur d'un empan. Tu y enchâsseras une garniture de pierres, quatre rangées de pierres : première rangée, une sardoine, une topaze, une émeraude ; seconde rangée, une escarboucle, un saphir, un diamant ; troisième rangée, une opale, une agate, une améthyste ; quatrième rangée, une chrysolithe, un onyx, un jaspe. Ces pierres seront enchâssées dans leurs montures d'or. Il y en aura douze, d'après les noms des fils d'Israël ; elles seront gravées comme des cachets, chacune avec le nom de l'une des douze tribus.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Exode, chap. XXVIII, versets 15-21 | ws Bible Segond 1910/Exode
+voir: pierres-de-naissance, douze, lapidaire, temple-de-salomon, oracle
+
+@ pierres-de-naissance
+cat: pierres
+nom: Pierres de naissance
+alias: pierre de naissance, pierres zodiacales, pierres du mois, birthstones
+def: Pierres associées à chaque mois ou à chaque signe du zodiaque, réputées porter chance à ceux qui sont nés sous lui ; leur liste actuelle a été fixée par des joailliers au XXe siècle.
+texte: L'idée vient des douze pierres du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] et de la Jérusalem céleste, que des commentateurs ont rapprochées des mois de l'année et des signes du [[zodiaque]]. L'usage de porter la pierre de son mois apparaît en Europe à l'époque moderne, sans qu'aucune liste ne fasse autorité : les correspondances varient selon les auteurs et les pays.
+texte: En 1912, l'association des joailliers américains publie une liste standard — grenat pour janvier, améthyste pour février, aigue-marine pour mars, diamant pour avril, émeraude pour mai… —, révisée depuis à plusieurs reprises, qui est devenue un argument de vente. Les astrologues et la [[lithotherapie|lithothérapie]] proposent leurs propres listes par signe.
+repere: Ier siècle — Flavius Josèphe rapproche les douze pierres du pectoral des douze mois et des signes du zodiaque.
+repere: 1912 — Les joailliers américains fixent une liste standard des pierres du mois.
+voir: pectoral-du-grand-pretre, zodiaque, lithotherapie, douze, cornaline, jade, turquoise
+
+# ── Les pierres ─────────────────────────────────────────────────────────────
+
+@ cristal-de-roche
+cat: pierres
+nom: Cristal de roche
+alias: quartz, quartz hyalin, boule de cristal, cristal, pierre de vision
+def: Quartz transparent, que les Anciens prenaient pour de la glace pétrifiée, taillé en boules de divination et devenu au XXe siècle la pierre emblématique de la lithothérapie.
+texte: Le mot grec *krystallos* désignait la glace : Pline croit que le cristal de roche est une eau gelée si fort qu'elle ne fond plus. Sa transparence en a fait un instrument de vision. On regardait dans une boule de cristal pour y voir l'avenir ou des esprits, une forme de [[cristallomancie]] ; [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]] conversaient avec les anges dans une « pierre de vision ». Les reliquaires médiévaux enchâssent du cristal pour montrer les reliques, et l'on attribuait au cristal le pouvoir d'étancher la soif ou d'allumer le feu au soleil.
+texte: En 1880, Pierre et Jacques Curie découvrent la piézoélectricité du quartz, qui produit une tension quand on le comprime : la propriété fait aujourd'hui battre les montres. Le [[new-age|New Age]] en a tiré l'idée d'une pierre qui « amplifie » les énergies et les intentions, et le quartz est devenu dans les années 1980 le cristal par excellence de la [[lithotherapie|lithothérapie]], sans qu'aucune étude n'ait confirmé ces effets.
+voir: cristallomancie, john-dee, lithotherapie, amethyste, obsidienne
+
+@ amethyste
+cat: pierres
+nom: Améthyste
+alias: améthystes, quartz violet, pierre des évêques
+def: Quartz violet dont le nom grec signifie « qui n'est pas ivre », réputé protéger de l'ivresse, pierre des anneaux épiscopaux et, pour la lithothérapie, de la paix intérieure.
+texte: Les Grecs croyaient que boire dans une coupe d'améthyste ou porter la pierre préservait de l'ivresse ; Pline rapporte ce pouvoir parmi les « vanités des mages ». La gracieuse légende de la nymphe Améthyste, changée en pierre pour échapper à Bacchus, n'est pas antique : elle a été inventée par le poète Rémy Belleau en 1576. Neuvième pierre du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] dans la traduction grecque, l'améthyste orne au Moyen Âge les anneaux des évêques, symbole de sobriété et d'humilité.
+texte: La [[lithotherapie|lithothérapie]] lui prête un pouvoir calmant et la rattache au [[chakra]] couronne, au sommet du crâne. Les géodes d'améthyste, souvent venues du Brésil ou d'Uruguay, sont devenues un objet de décoration et de méditation.
+voir: lithotherapie, cristal-de-roche, lapidaire, pectoral-du-grand-pretre
+
+@ obsidienne
+cat: pierres
+nom: Obsidienne
+alias: miroir d'obsidienne, verre volcanique, miroir de John Dee, Tezcatlipoca
+def: Verre volcanique noir et brillant, dont les Aztèques faisaient des miroirs sacrés ; John Dee en possédait un, conservé aujourd'hui au British Museum.
+texte: Née de la lave refroidie brutalement, l'obsidienne a servi dès la préhistoire à tailler des lames d'une finesse extrême. En Mésoamérique, elle est liée au dieu Tezcatlipoca, le « miroir fumant », et les prêtres aztèques polissaient des miroirs d'obsidienne pour la divination.
+texte: Un de ces miroirs, rapporté en Europe après la conquête du Mexique, a appartenu à [[john-dee|John Dee]], qui s'en serait servi pour ses séances de [[cristallomancie]] ; il est passé ensuite dans la collection de l'écrivain Horace Walpole et se trouve au British Museum. La [[lithotherapie|lithothérapie]] présente l'obsidienne comme une pierre de protection, qui « absorbe » les énergies négatives.
+voir: john-dee, cristallomancie, miroir-magique, lithotherapie
+
+@ lapis-lazuli
+cat: pierres
+nom: Lapis-lazuli
+alias: lapis, lazurite, outremer, saphir des Anciens
+def: Pierre d'un bleu profond semé de paillettes d'or, extraite depuis six mille ans dans les montagnes d'Afghanistan, pierre royale des Égyptiens et des Sumériens et source du bleu outremer.
+texte: Les mines du Badakhshan, dans le nord de l'Afghanistan, fournissent le lapis-lazuli au Proche-Orient dès le IVe millénaire avant notre ère : il orne les bijoux des tombes royales d'Ur et le masque de Toutânkhamon. Les textes sumériens racontent que la déesse Inanna, descendant aux Enfers, portait des parures de lapis. Le « saphir » des Anciens, bleu piqueté d'or, désignait sans doute cette pierre.
+texte: Broyé et purifié, le lapis donne le bleu outremer, plus cher que l'or au Moyen Âge, réservé au manteau de la Vierge. Les lapidaires lui prêtent le pouvoir de chasser la mélancolie ; la [[lithotherapie|lithothérapie]] l'associe à la gorge et à l'intuition.
+voir: lithotherapie, lapidaire, saphir, egyptosophie
+
+@ jade
+cat: pierres
+nom: Jade
+alias: néphrite, jadéite, pierre de l'ijada, yu
+def: Pierre verte, très dure, vénérée en Chine comme l'image des vertus du sage et en Mésoamérique comme plus précieuse que l'or ; son nom vient d'une pierre censée guérir les reins.
+texte: En Chine, le jade (*yu*) est travaillé depuis le néolithique. Les textes confucéens comparent ses qualités — douceur, dureté, transparence — aux vertus de l'homme accompli, et les princes de la dynastie Han se faisaient ensevelir dans des costumes de plaques de jade cousues de fil d'or, qu'on croyait capables de préserver le corps. Les Olmèques, puis les Mayas, en faisaient des masques funéraires et des offrandes.
+texte: Les Espagnols, découvrant que les Aztèques posaient la pierre sur les flancs pour soigner les douleurs, l'appelèrent *piedra de ijada*, « pierre du flanc » : d'où le mot jade, et son autre nom, néphrite, du grec *nephros*, le rein. On sait depuis 1863 que deux minéraux distincts, la néphrite et la jadéite, se cachent sous ce nom.
+voir: lithotherapie, lapidaire, amulette, talisman
+
+@ turquoise
+cat: pierres
+nom: Turquoise
+alias: pierre turque, turquoises, firouzeh
+def: Pierre bleu-vert opaque, venue de Perse par la Turquie, réputée changer de couleur pour avertir d'un danger et protéger les cavaliers des chutes.
+texte: Les meilleures turquoises viennent de Nichapour, en Perse, où on l'appelle *firouzeh*, la « victorieuse » ; le nom français rappelle qu'elle arrivait en Europe par les marchands turcs. Les Égyptiens l'exploitaient au Sinaï, les Aztèques en faisaient des mosaïques, et les Navajos et les Pueblos d'Amérique du Nord l'associent au ciel et à l'eau.
+texte: Les lapidaires de la Renaissance assurent qu'elle pâlit quand son propriétaire est malade ou menacé, qu'elle protège de la chute de cheval et qu'elle doit être reçue en cadeau pour agir. La couleur de la turquoise varie en effet avec la lumière, la chaleur et l'humidité, ce qui a pu entretenir la croyance.
+voir: lapidaire, amulette, lithotherapie
+
+@ ambre
+cat: pierres
+nom: Ambre
+alias: ambre jaune, succin, elektron, route de l'ambre, colliers d'ambre
+def: Résine fossile dorée, que les Grecs appelaient « elektron » et qu'ils croyaient formée des larmes des sœurs de Phaéton ; son pouvoir d'attirer les brindilles est à l'origine du mot électricité.
+texte: Selon la légende rapportée par Ovide, les Héliades, sœurs de Phaéton foudroyé, changées en peupliers au bord du fleuve Éridan, pleurent des larmes d'ambre. Les Grecs avaient remarqué que l'ambre frotté attire les corps légers : le philosophe Thalès en tirait que la pierre avait une âme, et le mot grec *elektron* a donné, au XVIIe siècle, le nom de l'électricité. L'ambre de la Baltique a circulé dès l'âge du bronze par une « route de l'ambre » jusqu'à la Méditerranée.
+texte: Pline le décrit comme une résine d'arbre, ce qu'il est, et rapporte qu'on le suspendait au cou des enfants comme [[amulette]]. L'usage a survécu dans les colliers d'ambre censés calmer les douleurs des premières dents : aucune étude n'a confirmé cet effet, et les autorités de santé mettent en garde contre les risques d'étranglement et d'étouffement.
+voir: amulette, lapidaire, lithotherapie, corail
+
+@ hematite
+cat: pierres
+nom: Hématite
+alias: pierre de sang, oligiste, sanguine
+def: Minerai de fer brillant comme un métal noir, dont la poussière est rouge sang, d'où son nom grec ; les Anciens la croyaient capable d'arrêter les hémorragies.
+texte: Le grec *haima*, le sang, lui a donné son nom : rayée ou broyée, l'hématite laisse une trace rouge, et c'est l'un des premiers pigments de la peinture préhistorique, la sanguine. Pline lui prête la vertu de soigner les yeux injectés de sang et d'arrêter les saignements, selon le vieux principe des [[signatures]], qui fait correspondre la couleur d'une substance aux maux qu'elle guérit.
+texte: Les Babyloniens taillaient dans l'hématite des sceaux-cylindres, les Égyptiens des amulettes. L'astrologie la rattache à [[mars|Mars]], planète du fer et du sang. La [[lithotherapie|lithothérapie]] en fait une pierre d'« ancrage », et on la vend en bracelets prétendument magnétiques, alors qu'elle ne l'est presque pas.
+voir: signatures, mars, lapidaire, aimant
+
+@ cornaline
+cat: pierres
+nom: Cornaline
+alias: cornalines, agate rouge, aqiq
+def: Calcédoine rouge-orangé translucide, gravée depuis l'Antiquité en sceaux et en amulettes, de l'Égypte des pharaons à l'islam.
+texte: Les Égyptiens la plaçaient dans les tombes en amulettes, notamment en forme de nœud d'Isis, et les Romains la gravaient en intailles pour en faire des sceaux, car la cire ne colle pas à sa surface. Les lapidaires médiévaux lui attribuent le pouvoir d'apaiser la colère et d'arrêter le sang.
+texte: Dans le monde musulman, la cornaline du Yémen, l'*aqiq*, est la pierre des bagues sigillaires, et des traditions en recommandent le port. On y grave des versets ou des noms divins, comme talismans de protection.
+voir: amulette, talisman, lapidaire, sceau
+
+@ aimant
+cat: pierres
+nom: Aimant
+alias: magnétite, pierre d'aimant, magnes, magnétisme, pierre héracléenne
+def: Pierre de fer qui attire le fer, nommée d'après la Magnésie ; ses propriétés mystérieuses ont nourri la philosophie naturelle, la médecine magique et le magnétisme animal.
+texte: Pline rapporte la légende du berger Magnès, dont les clous des sandales et le bout du bâton restèrent collés à une pierre du mont Ida. Thalès voyait dans l'aimant une pierre douée d'âme. Au Moyen Âge, il sert à la boussole et passe pour réconcilier les époux, déceler l'adultère ou guérir ; on croyait aussi que l'ail ou le diamant lui faisaient perdre sa force.
+texte: [[paracelse|Paracelse]] soigne par l'aimant, et la « cure magnétique » des blessures, qui traitait l'arme plutôt que la plaie, divise les savants du XVIIe siècle. En 1600, William Gilbert fait de la Terre un immense aimant. C'est en appliquant des aimants à ses malades que [[franz-anton-mesmer|Mesmer]] commence, en 1774, la carrière qui le mène au [[magnetisme-animal|magnétisme animal]] ; les bracelets aimantés d'aujourd'hui n'ont montré aucune efficacité dans les essais cliniques.
+repere: 1600 — William Gilbert, *De magnete*.
+repere: 1774 — Mesmer soigne par les aimants, avant de théoriser le magnétisme animal.
+voir: magnetisme-animal, franz-anton-mesmer, paracelse, sympathie-universelle, hematite
+
+@ diamant
+cat: pierres
+nom: Diamant
+alias: diamants, adamas, diamant maudit, diamant Hope, Koh-i-Noor
+def: La plus dure des pierres, dont le nom grec signifie « invincible », symbole d'incorruptibilité et de pureté, et héros de légendes de diamants maudits.
+texte: Les Grecs appelaient *adamas* l'indomptable, et Pline rapporte qu'on ne pouvait briser le diamant qu'en le trempant dans le sang chaud d'un bouc. Les lapidaires lui prêtent le pouvoir de rendre invincible, de chasser les cauchemars et les démons, et de démasquer le poison. Les diamants viennent alors tous de l'Inde, jusqu'aux découvertes du Brésil au XVIIIe siècle et d'Afrique du Sud au XIXe.
+texte: Les grands diamants traînent des légendes : le Koh-i-Noor porterait malheur aux hommes qui le possèdent, et le diamant Hope, aujourd'hui à Washington, aurait causé la ruine de ses propriétaires, une réputation forgée au début du XXe siècle par la presse et les marchands. En alchimie et en mystique, le diamant figure le corps glorieux et l'esprit purifié.
+voir: lapidaire, emeraude, rubis, saphir
+
+@ emeraude
+cat: pierres
+nom: Émeraude
+alias: émeraudes, smaragdus, émeraude du Graal, pierre de Lucifer
+def: Pierre verte précieuse, consacrée à Vénus, qui a donné son nom à la Table d'émeraude d'Hermès et dont une légende fait la matière du Graal.
+texte: Les Égyptiens exploitaient les mines du désert oriental, qu'on a appelées les mines de Cléopâtre. Pline écrit qu'aucune couleur ne repose mieux la vue et que Néron regardait les combats de gladiateurs à travers une émeraude. Les lapidaires lui prêtent le pouvoir de révéler la vérité et l'infidélité, et l'astrologie la rattache à [[venus|Vénus]].
+texte: La *[[table-d-emeraude|Table d'émeraude]]* serait, selon sa légende, gravée sur une émeraude trouvée dans le tombeau d'Hermès. Un poème allemand du XIIIe siècle raconte qu'une émeraude tomba du front de Lucifer lors de sa chute : taillée en coupe, elle serait devenue le [[graal|Graal]]. [[otto-rahn|Otto Rahn]] a repris cette légende pour faire du Graal une pierre des cathares.
+voir: table-d-emeraude, graal, venus, lapidaire, otto-rahn
+
+@ rubis
+cat: pierres
+nom: Rubis
+alias: rubis, escarboucle, carbuncle, pierre de feu
+def: Pierre d'un rouge ardent, la « reine des gemmes » en Inde, souvent confondue au Moyen Âge avec l'escarboucle, pierre fabuleuse qui brillait dans la nuit.
+texte: En Inde, le rubis est le seigneur des pierres, lié au soleil, et les traités sanskrits l'estiment au-dessus du diamant. Les récits médiévaux parlent d'une escarboucle, *carbunculus*, « petit charbon », qui éclairait les ténèbres comme une lampe : elle orne la tête des dragons et les palais des romans de chevalerie. Le nom recouvrait alors tous les grenats, spinelles et rubis rouges.
+texte: Les lapidaires promettent au porteur d'un rubis la santé, la joie et la protection contre la peste. La plupart des grands « rubis » des couronnes européennes, comme celui du Prince Noir dans la couronne d'Angleterre, sont en réalité des spinelles.
+voir: lapidaire, diamant, saphir, dragon
+
+@ saphir
+cat: pierres
+nom: Saphir
+alias: saphirs, pierre des cardinaux, pierre céleste
+def: Pierre bleue de la famille du rubis, symbole du ciel et de la sagesse divine, que les cardinaux portaient en anneau et qu'une tradition juive identifie aux tables de la Loi.
+texte: Le mot vient de l'hébreu *sappir*, qui désignait plutôt le [[lapis-lazuli]]. Dans l'Exode, le trône de Dieu repose sur un pavement « comme de saphir », et une tradition rabbinique veut que les tables de la Loi aient été taillées dans cette pierre. L'Église en fait la pierre des anneaux des cardinaux.
+texte: Les lapidaires lui prêtent le pouvoir de protéger de l'envie, de guérir les maux d'yeux et de rendre chaste. La couleur du saphir, celle du ciel, l'associe dans la symbolique chrétienne à la contemplation.
+voir: lapidaire, rubis, lapis-lazuli, diamant
+
+@ corail
+cat: pierres
+nom: Corail
+alias: coraux, corail rouge, cornicello, branche de corail
+def: Squelette rouge d'un animal marin, que les Anciens croyaient né du sang de Méduse, porté depuis l'Antiquité comme amulette contre le mauvais œil.
+texte: Ovide raconte que les algues touchées par la tête sanglante de Méduse, que Persée avait posée sur le rivage, durcirent en corail. Pline rapporte qu'on en suspendait des branches au cou des enfants pour les protéger. Au Moyen Âge, on le croyait capable de pâlir quand son porteur tombait malade et de chasser les orages.
+texte: L'Italie du Sud a gardé le *cornicello*, petite corne de corail portée contre le mauvais œil, et les tableaux de la Renaissance montrent souvent l'Enfant Jésus portant une branche de corail en collier.
+voir: amulette, ambre, lapidaire
+
+@ bezoard
+cat: pierres
+nom: Bézoard
+alias: bézoards, pierre de bézoard, pad-zahr, contrepoison
+def: Concrétion formée dans l'estomac de certains animaux, que l'on croyait capable de neutraliser tous les poisons ; Ambroise Paré en démontra l'inefficacité en 1567.
+texte: Le mot vient du persan *pad-zahr*, « contrepoison ». Les médecins arabes, puis ceux de l'Europe de la Renaissance, prescrivaient ces boules de poils et de sels formées dans l'estomac des chèvres sauvages ou des gazelles, enchâssées dans l'or et payées à prix d'or par les princes, qui craignaient l'empoisonnement.
+texte: En 1567, Ambroise Paré propose au roi Charles IX une expérience : un cuisinier condamné à mort accepte de prendre un poison, puis du bézoard, contre la promesse de sa grâce. Il meurt dans d'atroces douleurs. Cette expérience, rapportée par Paré, est l'un des premiers essais d'un remède sur un sujet humain. Le bézoard resta pourtant en usage jusqu'au XVIIIe siècle.
+repere: 1563 — Garcia de Orta décrit les bézoards de l'Inde dans ses *Colloques des simples*.
+repere: 1567 — Ambroise Paré éprouve le bézoard sur un condamné.
+voir: crapaudine, amulette, lapidaire
+
+@ crapaudine
+cat: pierres
+nom: Crapaudine
+alias: pierre de crapaud, toadstone, borax
+def: Pierre qu'on croyait trouver dans la tête des crapauds, montée en bague pour déceler et combattre le poison ; il s'agissait de dents fossiles de poissons.
+texte: Les lapidaires médiévaux et ceux de la Renaissance décrivent une pierre brune ou grise, ronde et bombée, qu'il fallait arracher à un vieux crapaud vivant. Portée au doigt, elle chauffait ou changeait de couleur en présence de poison ; on la plaçait aussi sur les morsures. Shakespeare y fait allusion : le crapaud, laid et venimeux, « porte un joyau précieux dans sa tête ».
+texte: Les crapaudines des collections anciennes sont des dents fossiles de *Lepidotes*, un poisson de l'ère secondaire, aux dents arrondies comme des boutons. L'exemple montre comment les fossiles, avant d'être compris, ont été intégrés aux croyances magiques.
+voir: bezoard, pierre-de-foudre, amulette, lapidaire
+
+@ pierre-de-foudre
+cat: pierres
+nom: Pierre de foudre
+alias: céraunie, pierres de tonnerre, pierre de tonnerre, ceraunia
+def: Nom donné aux haches de pierre préhistoriques, qu'on croyait tombées du ciel avec la foudre et qu'on gardait pour protéger les maisons de l'orage.
+texte: Dans toute l'Europe, les paysans qui trouvaient dans leurs champs des haches de pierre polie les prenaient pour des « pierres de tonnerre », projetées par la foudre. On les plaçait sous le seuil, dans les murs ou dans les fondations pour éloigner l'orage, on les suspendait au cou des enfants ou on les plongeait dans l'eau donnée au bétail malade.
+texte: Au XVIe siècle, Michele Mercati, conservateur des collections du Vatican, devine qu'il s'agit d'outils fabriqués par les hommes d'avant l'usage du métal ; il faut attendre le XIXe siècle et Jacques Boucher de Perthes pour que la science admette l'antiquité de l'homme. Les pierres de foudre restent un bel exemple d'objet préhistorique christianisé par la croyance populaire.
+voir: crapaudine, amulette, druidisme, carnac
+
+# ── Les lieux et les énergies ───────────────────────────────────────────────
+
+@ hauts-lieux-energetiques
+cat: pierres
+nom: Hauts lieux énergétiques
+alias: lieux d'énergie, lieux de force, lieux sacrés, chakras de la Terre, lieux vibratoires
+def: Lieux que des traditions anciennes et des courants contemporains disent chargés d'une énergie particulière, tellurique ou cosmique, qu'ils associent aux sanctuaires, aux mégalithes et aux cathédrales.
+texte: Toutes les religions ont leurs lieux sacrés : sources, montagnes, grottes, carrefours où l'on se sent plus près du divin. À partir des années 1920, des [[radiesthesie|radiesthésistes]] prétendent mesurer au [[pendule]] l'énergie de ces lieux, notamment en [[unites-bovis|unités Bovis]], et affirment que les églises, les menhirs et les cathédrales ont été bâtis sur des points privilégiés, au croisement de [[courants-telluriques|courants telluriques]] ou de [[lignes-ley|lignes ley]].
+texte: Le [[new-age|New Age]] a dressé des listes de « chakras de la Terre », qui varient d'un auteur à l'autre et placent volontiers le mont [[mont-shasta|Shasta]], [[glastonbury|Glastonbury]], les [[pyramides]] de Gizeh ou le mont Kailash parmi les centres énergétiques de la planète. Des lieux comme [[sedona|Sedona]], [[avebury|Avebury]], [[cathedrale-de-chartres|Chartres]], [[vezelay|Vézelay]] ou le [[bugarach|Bugarach]] attirent ainsi pèlerins et curieux. Aucune mesure physique n'a mis en évidence ces énergies, mais le sentiment d'être dans un lieu chargé de sens, lui, est bien réel.
+voir: geobiologie, lignes-ley, courants-telluriques, unites-bovis, radiesthesie, sedona
+
+@ geobiologie
+cat: pierres
+nom: Géobiologie
+alias: géobiologie radiesthésique, rayons telluriques, ondes nocives, Erdstrahlen, maison saine
+def: Pratique issue de la radiesthésie qui prétend détecter dans le sol des rayonnements et des réseaux d'énergie nuisibles à la santé, et conseiller l'emplacement des lits et des maisons.
+texte: En 1929, le baron allemand Gustav von Pohl prétend avoir montré, en parcourant avec une baguette la petite ville de Vilsbiburg, que les personnes mortes d'un cancer dormaient au-dessus de « rayons terrestres » nocifs, liés aux veines d'eau souterraines. Après la guerre, des médecins radiesthésistes allemands décrivent des réseaux d'énergie quadrillant toute la surface de la Terre, comme le [[reseau-hartmann|réseau Hartmann]], et la pratique se répand en Europe sous le nom de géobiologie.
+texte: Le géobiologue arpente la maison avec une baguette ou un [[pendule]], repère les « points géopathogènes » et conseille de déplacer le lit, de poser des appareils correcteurs ou des [[cristal-de-roche|cristaux]]. Les expériences contrôlées n'ont jamais montré que des radiesthésistes détectent ces zones mieux que le hasard, et aucun lien n'a été établi entre un lieu de sommeil et le cancer. À ne pas confondre avec la géobiologie scientifique, qui étudie les interactions entre la vie et la géologie de la Terre.
+repere: 1929 — Gustav von Pohl lie les cancers de Vilsbiburg à des « rayons terrestres ».
+repere: années 1950 — Des médecins allemands, Manfred Curry puis Ernst Hartmann, décrivent les réseaux qui portent leur nom.
+voir: reseau-hartmann, radiesthesie, courants-telluriques, unites-bovis, ondes-de-forme
+
+@ reseau-hartmann
+cat: pierres
+nom: Réseau Hartmann
+alias: réseau Curry, réseaux telluriques, grille Hartmann, nœuds Hartmann
+def: Quadrillage d'énergie tellurique qui couvrirait toute la surface de la Terre, décrit dans les années 1950 par le médecin allemand Ernst Hartmann, et dont aucun instrument n'a jamais montré l'existence.
+texte: Selon Ernst Hartmann (1915-1992), un réseau de « murs » invisibles, orientés nord-sud et est-ouest et espacés de deux mètres environ, quadrille le sol ; leurs croisements, les nœuds, seraient nocifs pour qui dort au-dessus. Le médecin Manfred Curry décrit à la même époque un second réseau, en diagonale. Ces réseaux ne sont perçus que par les [[radiesthesie|radiesthésistes]], avec une baguette ou un [[pendule]].
+texte: La [[geobiologie|géobiologie]] en a fait l'une de ses notions centrales, et des fabricants vendent des boîtiers prétendument capables de les neutraliser. Aucune mesure physique n'a détecté ces réseaux, et les tests où des radiesthésistes doivent les retrouver les yeux bandés donnent des résultats conformes au hasard.
+voir: geobiologie, radiesthesie, courants-telluriques, pendule
+
+@ lignes-ley
+cat: pierres
+nom: Lignes ley
+alias: ley lines, leys, alignements, Alfred Watkins, The Old Straight Track
+def: Alignements de sites anciens repérés au début du XXe siècle par l'Anglais Alfred Watkins comme d'anciens chemins, réinterprétés depuis les années 1960 comme des lignes d'énergie de la Terre.
+texte: En 1921, Alfred Watkins, homme d'affaires et antiquaire de Hereford, remarque sur une carte que des tumulus, des pierres dressées, des églises et des gués s'alignent en lignes droites. Dans *The Old Straight Track* (1925), il y voit le tracé de chemins préhistoriques, jalonnés de repères visibles de l'un à l'autre, qu'il appelle *leys*.
+texte: Dans les années 1960, le mouvement anglais des « mystères de la Terre » transforme ces alignements en lignes d'énergie, voire en routes pour soucoupes volantes ; *The View over Atlantis* (1969) de John Michell les rapproche des veines du dragon du [[feng-shui]]. La « ligne de saint Michel », qui traverserait l'Angleterre de la Cornouailles à [[avebury|Avebury]] et à [[glastonbury|Glastonbury]], en est l'exemple le plus célèbre. Les archéologues et les statisticiens ont montré qu'avec assez de sites, on trouve toujours des alignements dus au hasard, entre des monuments d'époques très différentes.
+repere: 1921 — Alfred Watkins remarque l'alignement des sites anciens.
+repere: 1925 — *The Old Straight Track*.
+repere: 1969 — *The View over Atlantis*, de John Michell, en fait des lignes d'énergie.
+voir: hauts-lieux-energetiques, avebury, glastonbury, stonehenge, feng-shui, courants-telluriques
+
+@ courants-telluriques
+cat: pierres
+nom: Courants telluriques
+alias: wouivre, vouivre, énergie tellurique, courants de la Terre, cheminée cosmo-tellurique
+def: Courants électriques réels qui parcourent l'écorce terrestre, dont le nom a été repris par l'ésotérisme pour désigner une énergie mystérieuse de la Terre, la « wouivre ».
+texte: En géophysique, les courants telluriques sont de faibles courants électriques induits dans le sol par les variations du champ magnétique terrestre ; on les mesure pour prospecter le sous-sol. Leur nom a fait fortune ailleurs : dans *Les Mystères de la cathédrale de Chartres* (1966), Louis Charpentier affirme que les bâtisseurs choisissaient les lieux où montait de la terre un courant vital, qu'il appelle la wouivre, d'après le serpent fabuleux des légendes de Franche-Comté.
+texte: Cette énergie tellurique, distincte de l'électricité des géophysiciens, est devenue un lieu commun des livres sur les [[hauts-lieux-energetiques|hauts lieux énergétiques]], de la [[geobiologie|géobiologie]] et des visites « énergétiques » des cathédrales. Aucune mesure n'en a confirmé l'existence.
+repere: 1966 — Louis Charpentier popularise la « wouivre » dans *Les Mystères de la cathédrale de Chartres*.
+repere: 1969 — John Michell, *The View Over Atlantis*, assimile les lignes ley aux « veines du dragon ».
+voir: geobiologie, hauts-lieux-energetiques, cathedrale-de-chartres, dragon, lignes-ley
+
+@ unites-bovis
+cat: pierres
+nom: Unités Bovis
+alias: échelle de Bovis, biomètre de Bovis, unité Bovis, André Bovis
+def: Échelle graduée imaginée dans les années 1930 par le radiesthésiste André Bovis pour mesurer au pendule l'« énergie vitale » des lieux, des aliments et des personnes.
+texte: André Bovis (1871-1947), quincaillier et radiesthésiste niçois, construit un « biomètre », une règle graduée au-dessus de laquelle on promène un [[pendule]] : là où il change de mouvement se lit le taux vibratoire de l'objet étudié. Il affirme aussi qu'une pyramide de carton orientée conserve les aliments, une idée qui annonce le « pouvoir des [[pyramides]] » des années 1970.
+texte: Ses successeurs ont étendu l'échelle, notée en « unités Bovis », pour classer les sources, les églises et les [[hauts-lieux-energetiques|hauts lieux]] : on lit volontiers qu'un lieu sain dépasse 6 500 unités et qu'une cathédrale atteint plusieurs dizaines de milliers. Ces valeurs dépendent entièrement de celui qui tient le pendule et n'ont aucun équivalent physique.
+voir: radiesthesie, pendule, hauts-lieux-energetiques, ondes-de-forme, pyramides
+
+@ ondes-de-forme
+cat: pierres
+nom: Ondes de forme
+alias: ondes de formes, vert négatif, émissions dues aux formes, Chaumery, Bélizal
+def: Rayonnements que, selon des radiesthésistes français des années 1930, toute forme géométrique émettrait, et dont certains, comme le « vert négatif », seraient dangereux.
+texte: Léon de Chaumery et Antoine de Bélizal, radiesthésistes, publient en 1939 un *Essai de radiesthésie vibratoire* où ils affirment que les formes — sphères, pyramides, cônes, figures dessinées — émettent des ondes perceptibles au [[pendule]], classées comme les couleurs du spectre. L'une d'elles, le « vert négatif », serait à la fois l'onde de la vie et celle de la mort, capable de momifier ou de nuire.
+texte: Ces idées ont inspiré des fabricants d'objets censés protéger des ondes, des amateurs de [[pyramides]] et de [[geometrie-sacree|géométrie sacrée]], et le thème du rayonnement mortel des tombes égyptiennes. Elles n'ont jamais reçu de confirmation expérimentale.
+repere: 1939 — Chaumery et Bélizal publient leur *Essai de radiesthésie vibratoire*.
+repere: 1959 — Le Tchèque Karel Drbal fait breveter une pyramide censée réaffûter les lames de rasoir.
+voir: radiesthesie, unites-bovis, pyramides, geometrie-sacree, orgone
+
+@ orgone
+cat: pierres
+nom: Orgone
+alias: énergie d'orgone, accumulateur d'orgone, orgonite, cloudbuster, Wilhelm Reich
+def: Énergie vitale universelle que le psychanalyste Wilhelm Reich crut découvrir vers 1940 et recueillir dans des boîtes, les accumulateurs d'orgone ; ses travaux finirent par une condamnation.
+texte: Élève dissident de Freud, Wilhelm Reich (1897-1957) relie la névrose à la répression sexuelle, puis croit observer dans des préparations biologiques une énergie bleutée qu'il appelle orgone, présente dans l'atmosphère et dans les corps. Installé aux États-Unis, il construit des « accumulateurs », cabines de bois et de métal où le patient s'assoit pour se recharger, et un « cloudbuster » censé faire pleuvoir.
+texte: L'administration américaine interdit en 1954 la vente des accumulateurs comme dispositifs médicaux frauduleux ; Reich, ayant passé outre, est condamné et meurt en prison en 1957, et une partie de ses livres est brûlée. L'orgone a survécu dans la contre-culture et dans l'« orgonite », mélange de résine, de métal et de cristaux vendu aujourd'hui comme protection contre les ondes. Aucune expérience n'a confirmé l'existence de cette énergie.
+repere: 1940 — Wilhelm Reich construit ses premiers accumulateurs d'orgone.
+repere: 1954 — La justice américaine interdit les accumulateurs.
+repere: 1957 — Reich meurt en prison.
+voir: magnetisme-animal, od, corps-subtils, new-age
+
+@ feng-shui
+cat: pierres
+nom: Feng shui
+alias: fengshui, géomancie chinoise, kanyu, veines du dragon, qi, luopan
+def: Art chinois d'implanter les tombes, les maisons et les villes en accord avec la circulation du souffle vital, le qi, dans le paysage ; il a été adopté en Occident comme une décoration intérieure énergétique.
+texte: « Vent et eau » : le nom vient d'une formule du *Livre des funérailles* attribué à Guo Pu, au IVe siècle, selon laquelle le souffle « chevauche le vent et se disperse, et s'arrête au contact de l'eau ». Le maître de feng shui lit le relief, les cours d'eau et les « veines du [[dragon]] », et se sert d'une boussole savante, le *luopan*, où s'inscrivent les trigrammes du [[yi-king|Yi King]], les cinq éléments et les cycles du calendrier. On cherche un site adossé à une montagne et ouvert sur une eau, protégé par le dragon vert à l'est et le tigre blanc à l'ouest.
+texte: Toujours vivant en Chine, à Hong Kong ou à Singapour, où l'on consulte des maîtres pour bâtir des tours de bureaux, le feng shui gagne l'Occident dans les années 1970 et devient, sous une forme simplifiée, un art d'arranger les meubles et les couleurs pour faire circuler les énergies. Les anthropologues y voient un savoir sur le paysage chargé de cosmologie, les sceptiques une [[geomancie|géomancie]] sans fondement vérifiable.
+voir: yi-king, dragon, astrologie-chinoise, lignes-ley, hauts-lieux-energetiques
+
+@ sedona
+cat: pierres
+nom: Sedona
+alias: vortex de Sedona, Bell Rock, Cathedral Rock, convergence harmonique
+lieu: Arizona, États-Unis
+geo: 34.8697, -111.7610
+def: Petite ville d'Arizona au milieu de rochers rouges, présentée depuis les années 1980 comme le siège de « vortex » d'énergie et devenue une capitale du New Age.
+texte: Les formations de grès rouge qui entourent Sedona — Bell Rock, Cathedral Rock, le canyon Boynton — ont servi de décor à de nombreux westerns. Au début des années 1980, des médiums et des auteurs du [[new-age|New Age]] y désignent des « vortex », des points où l'énergie de la Terre jaillirait en tourbillon, favorables à la méditation et à la guérison.
+texte: En août 1987, la « convergence harmonique » organisée par l'écrivain José Argüelles, qui annonçait une transformation spirituelle d'après une lecture du calendrier maya, attire des milliers de personnes sur les rochers de Sedona. La ville vit depuis d'un tourisme spirituel : boutiques de [[cristal-de-roche|cristaux]], lectures d'[[aura]], promenades guidées vers les vortex, dont aucune mesure n'a jamais détecté l'énergie.
+repere: 1980 — La médium Page Bryant désigne les premiers « vortex » de Sedona.
+repere: 1987 — La « convergence harmonique » attire des milliers de personnes.
+voir: hauts-lieux-energetiques, new-age, mont-shasta, cristal-de-roche
+
+@ mont-shasta
+cat: pierres
+nom: Mont Shasta
+alias: Shasta, Lémuriens du mont Shasta, Telos, I AM, Guy Ballard
+lieu: Californie, États-Unis
+geo: 41.4092, -122.1949
+def: Volcan de Californie (4 322 m), sacré pour les peuples amérindiens, où des légendes modernes placent une cité de survivants de la Lémurie et des rencontres avec les Maîtres ascensionnés.
+texte: Le mont Shasta tient une place importante dans les traditions des peuples amérindiens de la région. À partir des années 1880, une allusion romanesque y place des rescapés de la [[lemurie|Lémurie]], et la légende grossit jusqu'à décrire, en 1925, un village lémurien caché dans la montagne. [[harvey-spencer-lewis|Harvey Spencer Lewis]], fondateur de l'[[amorc|AMORC]], publie en 1931 un livre sur la Lémurie qui la popularise.
+texte: En 1930, Guy Ballard affirme avoir rencontré sur les pentes du Shasta le [[comte-de-saint-germain|comte de Saint-Germain]], devenu un Maître ascensionné, qui l'aurait initié : il fonde le mouvement « I AM », qui compta des dizaines de milliers de fidèles dans les années 1930. Le Shasta passe aujourd'hui pour l'un des « chakras de la Terre » et accueille une foule de groupes spirituels, qui y cherchent la cité souterraine de Telos.
+repere: 1930 — Guy Ballard dit y avoir rencontré le comte de Saint-Germain.
+repere: 1931 — Harvey Spencer Lewis publie *Lemuria, the Lost Continent of the Pacific*.
+voir: lemurie, comte-de-saint-germain, maitres-de-sagesse, harvey-spencer-lewis, hauts-lieux-energetiques
+
+@ avebury
+cat: pierres
+nom: Avebury
+alias: cromlech d'Avebury, temple serpent, Silbury Hill, ligne de saint Michel
+lieu: Wiltshire, Angleterre, Royaume-Uni
+geo: 51.4286, -1.8544
+def: Le plus grand cercle de pierres d'Europe, élevé vers 2600 avant notre ère dans le Wiltshire, que William Stukeley décrivit comme un temple druidique en forme de serpent.
+texte: Un immense fossé circulaire enferme un cercle d'une centaine de pierres et deux cercles plus petits ; le village d'Avebury s'est bâti au milieu, en partie avec les pierres brisées au Moyen Âge et à l'époque moderne. Une avenue de pierres le relie à d'autres monuments, et la colline artificielle de Silbury Hill, la plus haute d'Europe, se dresse tout près.
+texte: En 1743, l'antiquaire William Stukeley y voit un « temple serpent » des [[druidisme|druides]], le cercle figurant le corps d'un serpent traversé par les avenues. Au XXe siècle, Avebury devient un haut lieu des [[lignes-ley|lignes ley]] et de la radiesthésie : la « ligne de saint Michel » le traverserait. Les fouilles l'ont rendu au néolithique, deux mille ans avant les druides.
+repere: vers 2600 av. J.-C. — Construction du grand cercle.
+repere: 1743 — William Stukeley publie *Abury, a Temple of the British Druids*.
+repere: 1986 — Inscription au patrimoine mondial de l'UNESCO, avec Stonehenge.
+voir: stonehenge, lignes-ley, druidisme, hauts-lieux-energetiques, carnac

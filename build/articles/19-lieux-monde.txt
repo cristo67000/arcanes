@@ -8,12 +8,12 @@ alias: Glastonbury Tor, abbaye de Glastonbury, Avalon, tombe d'Arthur, Chalice W
 lieu: Somerset, Angleterre, Royaume-Uni
 geo: 51.1444, -2.6986
 def: Petite ville du Somerset dominée par une colline, le Tor, que la légende identifie à l'île d'Avalon et où se croisent le roi Arthur, le Graal et la spiritualité du New Age.
-texte: Le Tor, colline isolée au milieu d'anciens marais, porte les ruines d'une église dédiée à saint Michel, dont seule la tour subsiste. Au pied s'étendait l'une des plus riches abbayes d'Angleterre : en 1191, ses moines annoncent la découverte des tombes du roi Arthur et de la reine Guenièvre, avec une croix de plomb qui nommerait le lieu *insula Avalonia*. Une légende plus tardive y fait débarquer Joseph d'Arimathie, porteur du [[graal|Graal]], dont le bâton aurait fleuri en une aubépine.
+texte: Le Tor, colline isolée au milieu d'anciens marais, porte les ruines d'une église dédiée à saint Michel, dont seule la tour subsiste. Au pied s'étendait l'une des plus riches abbayes d'Angleterre : en 1191, ses moines annoncent la découverte des tombes du roi Arthur et de la reine Guenièvre, avec une croix de plomb qui nommerait le lieu *insula Avalonia*. Une légende plus tardive y fait débarquer [[joseph-d-arimathie|Joseph d'Arimathie]], porteur du [[graal|Graal]], dont le bâton aurait fleuri en une aubépine.
 texte: Au XXe siècle, Glastonbury devient un centre de l'ésotérisme anglais : [[dion-fortune|Dion Fortune]] s'installe au pied du Tor dans les années 1920, Katharine Maltwood croit discerner en 1929 dans le paysage un immense zodiaque formé par les champs et les chemins, et l'eau rougie par le fer de Chalice Well passe pour le sang du Christ. Ville des boutiques de cristaux et des cercles de déesse, elle est aujourd'hui l'une des capitales du [[new-age|New Age]] et du [[neopaganisme|néopaganisme]].
 repere: 1191 — Les moines annoncent la découverte de la tombe du roi Arthur.
 repere: 1539 — Dissolution de l'abbaye ; le dernier abbé est exécuté sur le Tor.
 repere: 1929 — Katharine Maltwood décrit le « zodiaque de Glastonbury ».
-voir: graal, dion-fortune, stonehenge, new-age, neopaganisme
+voir: graal, dion-fortune, stonehenge, new-age, neopaganisme, joseph-d-arimathie
 
 @ stonehenge
 cat: lieux
@@ -28,7 +28,7 @@ repere: vers 3000 av. J.-C. — Creusement du fossé circulaire.
 repere: vers 2500 av. J.-C. — Érection du grand cercle de pierres.
 repere: 1740 — William Stukeley attribue le monument aux druides.
 repere: 1986 — Inscription au patrimoine mondial de l'UNESCO.
-voir: druidisme, carnac, neopaganisme, glastonbury
+voir: druidisme, carnac, neopaganisme, glastonbury, merlin
 
 @ chapelle-de-rosslyn
 cat: lieux
@@ -82,7 +82,7 @@ texte: Au fond d'un vallon, le « bois sacré » de Pier Francesco Orsini, dit V
 texte: Oublié pendant des siècles, le jardin est redécouvert au milieu du XXe siècle, notamment par Salvador Dalí. Les commentateurs y ont cherché une lecture du roman allégorique *Le Songe de Poliphile*, un chemin alchimique, une descente aux enfers ou une [[initiation]] ; d'autres y voient surtout le caprice d'un prince lettré en deuil de sa femme. Aucune clé n'a été laissée par son créateur.
 repere: 1552 — Vicino Orsini commence l'aménagement du bois sacré.
 repere: 1585 — Mort de Vicino Orsini.
-voir: initiation, emblemes, labyrinthe
+voir: initiation, emblemes, labyrinthe, songe-de-poliphile
 
 @ villa-de-careggi
 cat: lieux
@@ -91,12 +91,12 @@ alias: Careggi, Académie platonicienne, villa médicéenne de Careggi
 lieu: Florence, Toscane, Italie
 geo: 43.8079, 11.2503
 def: Villa des Médicis aux portes de Florence, où Cosme l'Ancien installa Marsile Ficin pour traduire Platon et les écrits d'Hermès : le berceau de l'Académie platonicienne de la Renaissance.
-texte: Cosme de Médicis, qui avait entendu à Florence le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]] célébrer Platon, confie au jeune [[marsile-ficin|Marsile Ficin]] la traduction des dialogues et lui offre une maison près de sa villa de Careggi. En 1463, il lui demande d'interrompre Platon pour traduire d'abord le *[[corpus-hermetique|Corpus Hermeticum]]*, récemment arrivé de Macédoine, qu'il veut lire avant de mourir.
+texte: Cosme de Médicis, qui avait entendu à [[florence|Florence]] le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]] célébrer Platon, confie au jeune [[marsile-ficin|Marsile Ficin]] la traduction des dialogues et lui offre une maison près de sa villa de Careggi. En 1463, il lui demande d'interrompre Platon pour traduire d'abord le *[[corpus-hermetique|Corpus Hermeticum]]*, récemment arrivé de Macédoine, qu'il veut lire avant de mourir.
 texte: Autour de Ficin se réunit un cercle d'amis lettrés, l'« Académie platonicienne », où l'on célèbre l'anniversaire de Platon par un banquet. [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et Laurent le Magnifique le fréquentent. Cosme meurt à Careggi en 1464, Laurent en 1492. C'est ici que s'élabore la synthèse de l'[[neoplatonisme|néoplatonisme]], de l'[[hermetisme|hermétisme]] et du christianisme qui marque tout l'ésotérisme occidental.
 repere: 1463 — Ficin traduit le *Corpus Hermeticum* à la demande de Cosme de Médicis.
 repere: 1464 — Mort de Cosme l'Ancien à Careggi.
 repere: 1492 — Mort de Laurent le Magnifique à Careggi.
-voir: marsile-ficin, corpus-hermetique, neoplatonisme, pic-de-la-mirandole, prisca-theologia
+voir: marsile-ficin, corpus-hermetique, neoplatonisme, pic-de-la-mirandole, prisca-theologia, florence
 
 @ porte-alchimique
 cat: lieux
@@ -130,7 +130,7 @@ lieu: Sintra, Portugal
 geo: 38.7964, -9.3960
 def: Palais et jardins de Sintra construits au début du XXe siècle pour un millionnaire passionné d'ésotérisme, célèbres pour leur « puits initiatique » à escalier spirale.
 texte: António Augusto Carvalho Monteiro, enrichi au Brésil, fait bâtir de 1904 à 1910 par l'architecte italien Luigi Manini un palais néogothique et manuélin entouré d'un parc escarpé, peuplé de grottes, de tours, de chapelles et de bassins. Collectionneur de livres rares, il y fait inscrire des symboles empruntés à l'[[alchimie]], à la [[franc-maconnerie]], aux [[templiers]] et à l'ordre du Christ.
-texte: Le « puits initiatique », qui ne contenait jamais d'eau, descend sur vingt-sept mètres par un escalier en spirale à neuf paliers, que l'on rapproche des neuf cercles de l'*Enfer* de Dante ; au fond, une rose des vents en mosaïque, et des souterrains qui débouchent sur une cascade. Le visiteur descend dans l'obscurité et remonte à la lumière, comme l'initié du [[cabinet-de-reflexion|cabinet de réflexion]].
+texte: Le « puits initiatique », qui ne contenait jamais d'eau, descend sur vingt-sept mètres par un escalier en spirale à neuf paliers, que l'on rapproche des neuf cercles de l'*Enfer* de [[dante|Dante]] ; au fond, une rose des vents en mosaïque, et des souterrains qui débouchent sur une cascade. Le visiteur descend dans l'obscurité et remonte à la lumière, comme l'initié du [[cabinet-de-reflexion|cabinet de réflexion]].
 repere: 1904 — Début de la construction par Luigi Manini.
 repere: 1995 — Le paysage culturel de Sintra est inscrit au patrimoine mondial de l'UNESCO.
 voir: initiation, cabinet-de-reflexion, franc-maconnerie, couvent-du-christ
@@ -156,8 +156,8 @@ alias: abbaye de Montserrat, Moreneta, Montsalvat, Himmler à Montserrat
 lieu: Catalogne, Espagne
 geo: 41.5932, 1.8371
 def: Montagne de Catalogne aux rochers dentelés et abbaye bénédictine de la Vierge noire, que des romantiques identifièrent au Montsalvat, le château du Graal.
-texte: L'abbaye bénédictine, fondée au XIe siècle, garde une statue de la Vierge noircie par le temps, la Moreneta, l'un des grands pèlerinages d'Espagne. Les flèches de rocher qui l'entourent ont frappé l'imagination des voyageurs : depuis le XIXe siècle, on a voulu y reconnaître le Montsalvat du *Parzival* de Wolfram et du *Parsifal* de Wagner, demeure des chevaliers du [[graal|Graal]].
-texte: En octobre 1940, de passage en Espagne, Heinrich Himmler visite le monastère ; selon le récit d'un moine, il aurait cherché à savoir si le Graal y était caché, dans le sillage des recherches d'[[otto-rahn|Otto Rahn]]. L'épisode, embelli par la suite, a fait de Montserrat une étape des récits sur l'occultisme nazi.
+texte: L'abbaye bénédictine, fondée au XIe siècle, garde une statue de la Vierge noircie par le temps, la Moreneta, l'un des grands pèlerinages d'Espagne. Les flèches de rocher qui l'entourent ont frappé l'imagination des voyageurs : depuis le XIXe siècle, on a voulu y reconnaître le Montsalvat du *Parzival* de Wolfram et du *Parsifal* de [[richard-wagner|Wagner]], demeure des chevaliers du [[graal|Graal]].
+texte: En octobre 1940, de passage en Espagne, [[heinrich-himmler|Heinrich Himmler]] visite le monastère ; selon le récit d'un moine, il aurait cherché à savoir si le Graal y était caché, dans le sillage des recherches d'[[otto-rahn|Otto Rahn]]. L'épisode, embelli par la suite, a fait de Montserrat une étape des récits sur l'occultisme nazi.
 repere: 1025 — Fondation du monastère bénédictin.
 repere: 1940 — Visite de Heinrich Himmler au monastère.
 voir: graal, otto-rahn, montsegur, ariosophie
@@ -170,7 +170,7 @@ lieu: Rhénanie-du-Nord-Westphalie, Allemagne
 geo: 51.8689, 8.9175
 def: Groupe de rochers de grès de la forêt de Teutberg, sculpté au Moyen Âge, dont les mouvements völkisch firent un sanctuaire solaire des anciens Germains.
 texte: Ces piliers de grès hauts de près de quarante mètres portent un grand relief de la Descente de croix, sculpté au XIIe siècle, une chapelle creusée dans le roc et une ouverture circulaire au sommet d'un des rochers. Le site était alors un lieu de pèlerinage chrétien lié à l'abbaye de Paderborn.
-texte: En 1929, le pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'Irminsul. Himmler y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
+texte: En 1929, le pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'Irminsul. [[heinrich-himmler|Himmler]] y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
 repere: 1929 — Wilhelm Teudt en fait un sanctuaire solaire germanique.
 repere: 1934 — Fouilles menées à la demande de Himmler.
 voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme
@@ -182,13 +182,13 @@ alias: château de Wewelsburg, soleil noir, salle des Obergruppenführer, Nieder
 lieu: Rhénanie-du-Nord-Westphalie, Allemagne
 geo: 51.6068, 8.6514
 def: Château triangulaire de Westphalie dont Himmler voulut faire le centre idéologique de la SS ; le « soleil noir » de son pavement est devenu un emblème néonazi.
-texte: Bâti au début du XVIIe siècle pour les princes-évêques de Paderborn, le château est loué par Heinrich Himmler en 1934 pour y installer une école de la SS. Sous l'influence de [[karl-maria-wiligut|Karl Maria Wiligut]], il devient un lieu de cérémonie et le cœur d'un projet démesuré, que la guerre interrompt : une salle à colonnes au pavement orné d'une roue solaire à douze rayons, et sous elle une crypte circulaire. Les travaux sont faits par les détenus du camp de concentration de Niederhagen, ouvert à proximité, où plus de mille deux cents d'entre eux meurent.
+texte: Bâti au début du XVIIe siècle pour les princes-évêques de Paderborn, le château est loué par [[heinrich-himmler|Heinrich Himmler]] en 1934 pour y installer une école de la SS. Sous l'influence de [[karl-maria-wiligut|Karl Maria Wiligut]], il devient un lieu de cérémonie et le cœur d'un projet démesuré, que la guerre interrompt : une salle à colonnes au pavement orné d'une roue solaire à douze rayons, et sous elle une crypte circulaire. Les travaux sont faits par les détenus du camp de concentration de Niederhagen, ouvert à proximité, où plus de mille deux cents d'entre eux meurent.
 texte: La SS fait sauter le château en mars 1945. Reconstruit, il abrite une auberge de jeunesse et un musée qui documente l'idéologie et les crimes de la SS. La roue du pavement, baptisée après la guerre « soleil noir » par des auteurs ésotériques, est devenue un signe de ralliement de l'extrême droite.
 repere: 1934 — Himmler loue le château pour la SS.
 repere: 1939 — Ouverture du camp de concentration de Niederhagen.
 repere: 1945 — La SS fait sauter le château.
 repere: 2010 — Ouverture de l'exposition sur l'idéologie et la terreur de la SS.
-voir: karl-maria-wiligut, ahnenerbe, soleil-noir, ariosophie, externsteine
+voir: karl-maria-wiligut, ahnenerbe, soleil-noir, ariosophie, externsteine, heinrich-himmler
 
 @ chateau-de-prague
 cat: lieux
@@ -197,12 +197,12 @@ alias: Prague magique, ruelle d'Or, Hradschin, cabinet de curiosités de Rodolph
 lieu: Prague, Tchéquie
 geo: 50.0900, 14.4000
 def: Résidence de l'empereur Rodolphe II, qui y réunit à la fin du XVIe siècle alchimistes, astrologues et savants : le cœur de la « Prague magique ».
-texte: Installé à Prague en 1583, [[rodolphe-ii|Rodolphe II]] fait du château le centre d'une cour savante et étrange. Il y entasse ses collections, tableaux, automates, objets naturels et curiosités, et y accueille [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]], [[michael-maier|Michael Maier]], [[michel-sendivogius|Michel Sendivogius]], l'astronome Tycho Brahe et [[johannes-kepler|Kepler]]. Une tour du château, la Mihulka, aurait abrité des laboratoires.
+texte: Installé à [[prague|Prague]] en 1583, [[rodolphe-ii|Rodolphe II]] fait du château le centre d'une cour savante et étrange. Il y entasse ses collections, tableaux, automates, objets naturels et curiosités, et y accueille [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]], [[michael-maier|Michael Maier]], [[michel-sendivogius|Michel Sendivogius]], l'astronome [[tycho-brahe|Tycho Brahe]] et [[johannes-kepler|Kepler]]. Une tour du château, la Mihulka, aurait abrité des laboratoires.
 texte: La ruelle d'Or, une rangée de minuscules maisons adossées au rempart, passe pour avoir logé les alchimistes de l'empereur ; elle abritait en fait des gardes et des orfèvres. Dans la ville basse, la synagogue Vieille-Nouvelle est liée à la légende du [[golem]] du rabbin Loew. Le XIXe et le XXe siècle, avec le roman *Le Golem* de Gustav Meyrink (1915), ont fixé l'image d'une capitale de l'occulte.
 repere: 1583 — Rodolphe II fait de Prague sa résidence.
 repere: 1584 — John Dee et Edward Kelley arrivent à la cour.
 repere: 1612 — Mort de Rodolphe II.
-voir: rodolphe-ii, john-dee, edward-kelley, golem, michael-maier
+voir: rodolphe-ii, john-dee, edward-kelley, golem, michael-maier, prague
 
 @ chateau-de-heidelberg
 cat: lieux
@@ -308,7 +308,7 @@ geo: 27.7744, 30.8011
 def: Ville de Moyenne-Égypte consacrée à Thot, dieu de l'écriture et du savoir, que les Grecs identifièrent à Hermès : la patrie symbolique d'Hermès Trismégiste.
 texte: Les Égyptiens l'appelaient Khemenou, la « ville des Huit », d'après les huit divinités primordiales, l'Ogdoade, qui avaient selon ses prêtres présidé à la naissance du monde. Thot, à tête d'ibis ou de babouin, maître des écritures sacrées et de la magie, y avait son grand temple ; les Grecs, qui reconnaissaient en lui leur Hermès, baptisèrent la ville Hermopolis.
 texte: Le titre de « trois fois grand », porté par Thot dans les inscriptions, est à l'origine du nom d'[[hermes-trismegiste|Hermès Trismégiste]]. Dans la nécropole voisine de Touna el-Gebel, des galeries renferment des millions d'ibis et de babouins momifiés, offerts au dieu, et le tombeau du prêtre Pétosiris mêle au IVe siècle avant notre ère l'art égyptien et l'art grec, à l'image de la culture d'où sortira l'[[hermetisme|hermétisme]].
-voir: hermes-trismegiste, hermetisme, alexandrie, hieroglyphes, egyptosophie
+voir: hermes-trismegiste, hermetisme, alexandrie, hieroglyphes, egyptosophie, huit
 
 @ gizeh
 cat: lieux
@@ -387,7 +387,7 @@ texte: Le *[[livre-des-figures-hieroglyphiques|Livre des figures hiéroglyphique
 repere: IXe siècle — Découverte du tombeau attribué à l'apôtre Jacques.
 repere: 1612 — Le *Livre des figures hiéroglyphiques* raconte le pèlerinage de Flamel.
 repere: 1985 — La vieille ville est inscrite au patrimoine mondial de l'UNESCO.
-voir: nicolas-flamel, livre-des-figures-hieroglyphiques, tour-saint-jacques, grand-oeuvre
+voir: nicolas-flamel, livre-des-figures-hieroglyphiques, tour-saint-jacques, grand-oeuvre, vezelay
 
 @ broceliande
 cat: lieux
@@ -396,6 +396,6 @@ alias: forêt de Paimpont, fontaine de Barenton, tombeau de Merlin, Val sans ret
 lieu: Ille-et-Vilaine, Bretagne, France
 geo: 48.0389, -2.2469
 def: Forêt légendaire des romans arthuriens, où vivaient Merlin et la fée Viviane, que la tradition situe dans la forêt de Paimpont, en Bretagne, autour de la fontaine de Barenton.
-texte: Dès le XIIe siècle, le poète Wace évoque la fontaine de Barenton, dans la forêt de Brocéliande, dont l'eau, versée sur un perron, fait tomber la pluie ; les romans de la Table ronde y placent les amours de Merlin et de Viviane, qui l'enferme dans une prison d'air. Au XVe siècle, les usages de la forêt rédigés pour les seigneurs de Montfort situent la fontaine dans la forêt de Paimpont.
+texte: Dès le XIIe siècle, le poète Wace évoque la fontaine de Barenton, dans la forêt de Brocéliande, dont l'eau, versée sur un perron, fait tomber la pluie ; les romans de la Table ronde y placent les amours de [[merlin|Merlin]] et de Viviane, qui l'enferme dans une prison d'air. Au XVe siècle, les usages de la forêt rédigés pour les seigneurs de Montfort situent la fontaine dans la forêt de Paimpont.
 texte: Au XIXe siècle, les romantiques et les celtomanes fixent la carte du mythe : tombeau de Merlin, Val sans retour, château de Comper où serait née Viviane. Les habitants de Concoret allaient en procession à la fontaine pour obtenir la pluie, un rite encore attesté au XIXe siècle. Brocéliande est aujourd'hui un lieu de pèlerinage pour les néodruides, les néopaïens et les amateurs de légende arthurienne.
 voir: graal, druidisme, neopaganisme, carnac, glastonbury

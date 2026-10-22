@@ -39,7 +39,7 @@ cat: maconnerie
 nom: Orient
 alias: l'Orient, Orient éternel, passer à l'Orient éternel, à l'Orient de Paris, Grand Orient
 def: Dans la loge, le côté est, où siège le Vénérable et d'où vient symboliquement la lumière ; par extension, la ville où se trouve une loge.
-texte: La lumière se lève à l'est : c'est donc à l'Orient que siègent le [[venerable-maitre|Vénérable Maître]], l'orateur, le secrétaire et les invités de marque, sur une estrade élevée de quelques marches. Les maçons datent leurs documents « à l'Orient de Lyon » ou « de Paris » pour désigner la ville de leur loge, et une [[obedience]] qui rassemble les loges d'un pays peut s'appeler « Grand Orient ».
+texte: La lumière se lève à l'est : c'est donc à l'Orient que siègent le [[venerable-maitre|Vénérable Maître]], l'orateur, le secrétaire et les invités de marque, sur une estrade élevée de quelques marches. Les maçons datent leurs documents « à l'Orient de [[lyon|Lyon]] » ou « de Paris » pour désigner la ville de leur loge, et une [[obedience]] qui rassemble les loges d'un pays peut s'appeler « Grand Orient ».
 texte: Un maçon qui meurt « passe à l'Orient éternel ». L'image rejoint celle de l'[[initiation]] comme passage des ténèbres à la lumière, et l'orientation des églises, dont le chœur est tourné vers le soleil levant.
 schema: plan-de-loge/orient
 voir: temple-maconnique, venerable-maitre, grand-orient-de-france, initiation
@@ -98,7 +98,7 @@ nom: Convent
 alias: convents, assemblée générale maçonnique, convent des Gaules, convent de Lausanne
 def: Assemblée des délégués des loges d'une obédience, ordinairement annuelle ; et, dans l'histoire, congrès réunissant des maçons de plusieurs pays pour réformer un rite.
 texte: Le mot, emprunté au latin *conventus*, « réunion », désigne aujourd'hui l'assemblée générale d'une [[obedience]] : les députés des loges y votent le budget, les modifications de la constitution et élisent les responsables. C'est au convent du [[grand-orient-de-france|Grand Orient de France]] de 1877 que fut supprimée l'obligation de croire en Dieu et en l'immortalité de l'âme.
-texte: Au XVIIIe siècle, les grands convents furent des moments de refondation : le convent des Gaules à Lyon (1778), où [[jean-baptiste-willermoz]] prépara le [[rite-ecossais-rectifie|Régime rectifié]], le [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), ceux des [[philalethes|Philalèthes]] à Paris (1785 et 1787). Celui de Lausanne réunit en 1875 les Suprêmes Conseils du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]].
+texte: Au XVIIIe siècle, les grands convents furent des moments de refondation : le convent des Gaules à [[lyon|Lyon]] (1778), où [[jean-baptiste-willermoz]] prépara le [[rite-ecossais-rectifie|Régime rectifié]], le [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), ceux des [[philalethes|Philalèthes]] à Paris (1785 et 1787). Celui de Lausanne réunit en 1875 les Suprêmes Conseils du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]].
 voir: obedience, convent-de-wilhelmsbad, philalethes, grand-orient-de-france
 
 @ regularite
@@ -184,10 +184,10 @@ nom: Légende d'Hiram
 alias: Hiram, Hiram Abif, Hiram Abi, Hiram de Tyr, Adoniram, Jubelas, Jubelos, Jubelum, mot perdu, mauvais compagnons, cinq points de la maîtrise
 def: Récit central du grade de maître : l'architecte du Temple de Salomon, assassiné par trois compagnons qui voulaient lui arracher le mot des maîtres, est retrouvé grâce à une branche d'acacia.
 texte: La Bible mentionne un Hiram, fils d'une veuve de la tribu de Nephtali et d'un père tyrien, habile à travailler le bronze, que le roi de Tyr envoie à [[salomon]] pour fondre les colonnes et les ustensiles du Temple. La légende maçonnique, attestée pour la première fois en 1730 dans *[[masonry-dissected|Masonry Dissected]]*, en fait l'architecte en chef. Trois mauvais compagnons — Jubela, Jubelo et Jubelum dans la tradition anglo-américaine — l'attendent aux portes du sud, de l'ouest et de l'est pour obtenir le mot des maîtres ; devant son refus, ils le frappent d'une règle, d'une équerre ou d'un levier, puis d'un maillet.
-texte: Ils l'enterrent hors de la ville et plantent une branche d'[[acacia]] sur la tombe. Les maîtres envoyés à sa recherche le découvrent, et, le mot étant perdu avec lui, conviennent d'un mot de remplacement ; ils relèvent le corps par les « cinq points parfaits de la maîtrise ». On a lu dans ce récit la mort d'Osiris, le sacrifice du Christ, la mort initiatique ou la transmission d'une parole perdue que les hauts grades prétendent retrouver.
+texte: Ils l'enterrent hors de la ville et plantent une branche d'[[acacia]] sur la tombe. Les maîtres envoyés à sa recherche le découvrent, et, le mot étant perdu avec lui, conviennent d'un mot de remplacement ; ils relèvent le corps par les « cinq points parfaits de la maîtrise ». On a lu dans ce récit la mort d'Osiris, le sacrifice du Christ, la mort initiatique ou la transmission d'une [[parole-perdue|parole perdue]] que les hauts grades prétendent retrouver.
 extrait: Adoniram, qui passait près d’eux, l’entendit ; il s’éloigna en rugissant de douleur. Plus loin, il avisa un groupe d’ouvriers qui l’accablaient de mépris, de calomnies et de malédictions. Il fut rejoint par le Syrien Phanor, qui lui dit : ¶ — Tu es grand ; la fortune t’a trahi ; mais elle n’a pas eu les maçons pour complices. ¶ Amrou le Phénicien le rejoignit à son tour et lui dit : ¶ — Tu es grand, et tu serais vainqueur, si chacun eût fait son devoir comme les charpentiers. ¶ Et le Juif Méthousaël lui dit : ¶ — Les mineurs ont fait leur devoir ; mais ce sont ces ouvriers étrangers qui, par leur ignorance, ont compromis l’entreprise.
 source: Gérard de Nerval, *Voyage en Orient*, « Histoire de la reine du Matin et de Soliman, prince des génies », chap. VI (édition de 1884) | ws Voyage en Orient (Nerval)/Les conteurs/VI
-voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval
+voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval, parole-perdue
 
 @ fils-de-la-veuve
 cat: maconnerie
@@ -262,7 +262,7 @@ def: Le carrelage de carreaux noirs et blancs alternés qui couvre le sol de la 
 texte: Il rappellerait le pavement du parvis du [[temple-de-salomon|Temple de Salomon]]. Ses carreaux noirs et blancs disent l'alternance du jour et de la nuit, du bien et du mal, de l'esprit et de la matière, que le maçon doit apprendre à traverser sans s'y perdre ; dans certains rites, on ne le foule pas pendant les travaux.
 texte: Il est souvent entouré de la houppe dentelée, la corde à nœuds de la [[chaine-d-union|chaîne d'union]], et accueille en son centre le [[tableau-de-loge|tableau de loge]]. Le damier est devenu l'un des emblèmes les plus reconnaissables de la maçonnerie, jusque sur les tabliers et les façades des temples.
 schema: plan-de-loge/pave
-voir: temple-maconnique, tableau-de-loge, chaine-d-union, yin-et-yang
+voir: temple-maconnique, tableau-de-loge, chaine-d-union, yin-et-yang, echiquier
 
 @ outils-maconniques
 cat: maconnerie
@@ -388,7 +388,7 @@ nom: Opératifs et spéculatifs
 alias: maçonnerie opérative, maçonnerie spéculative, maçons acceptés, acceptation, statuts Schaw, maçons de métier, francs-maçons acceptés
 def: Distinction entre les maçons de métier, tailleurs de pierre et bâtisseurs, et les francs-maçons « acceptés », étrangers au métier, qui en firent une société philosophique.
 texte: Les loges de maçons opératifs du Moyen Âge et de la Renaissance réglaient le travail, l'apprentissage et l'entraide ; en Écosse, les statuts rédigés en 1598 et 1599 par William Schaw, maître des travaux du roi, les organisent, et les procès-verbaux des loges commencent en 1599. On y voit entrer des hommes étrangers au métier : un gentilhomme, John Boswell, assiste à une réunion de la loge d'Édimbourg en 1600 ; [[robert-moray]] est reçu en 1641, [[elias-ashmole]] en 1646 en Angleterre.
-texte: Au début du XVIIIe siècle, ces « acceptés » l'emportent : les loges de Londres qui forment la [[grande-loge-de-londres|Grande Loge]] sont des cercles de gentilshommes, et l'on parle de maçonnerie « spéculative », qui ne bâtit plus que l'homme et la société. Les historiens discutent encore la part de continuité entre les deux, que la légende maçonnique, avec ses *[[old-charges|Old Charges]]*, fait remonter à Euclide et au Temple de Salomon.
+texte: Au début du XVIIIe siècle, ces « acceptés » l'emportent : les loges de [[londres|Londres]] qui forment la [[grande-loge-de-londres|Grande Loge]] sont des cercles de gentilshommes, et l'on parle de maçonnerie « spéculative », qui ne bâtit plus que l'homme et la société. Les historiens discutent encore la part de continuité entre les deux, que la légende maçonnique, avec ses *[[old-charges|Old Charges]]*, fait remonter à Euclide et au Temple de Salomon.
 voir: old-charges, robert-moray, elias-ashmole, grande-loge-de-londres, compagnonnage
 
 @ antimaconnisme
@@ -398,7 +398,7 @@ alias: anti-maçonnisme, complot maçonnique, complot judéo-maçonnique, condam
 def: Hostilité à la franc-maçonnerie, religieuse, politique ou complotiste, qui l'accuse depuis le XVIIIe siècle d'impiété, de subversion ou de gouverner le monde en secret.
 texte: L'Église catholique condamne la maçonnerie dès 1738 par la bulle *[[bulle-in-eminenti|In eminenti]]*, pour son secret et pour le mélange des confessions qu'elle pratique ; une dizaine de textes pontificaux suivront, dont l'encyclique *Humanum genus* de Léon XIII (1884). Après la Révolution, l'abbé [[augustin-barruel]] fait des loges les ateliers d'un complot contre le trône et l'autel, thèse reprise sous mille formes jusqu'aux théories conspirationnistes d'aujourd'hui.
 texte: À la fin du XIXe siècle, [[leo-taxil]] mystifie les catholiques avec un prétendu culte maçonnique de Lucifer. Au XXe siècle, l'accusation de complot « judéo-maçonnique » sert les régimes autoritaires : la maçonnerie est interdite dans l'Italie fasciste, l'Allemagne nazie et l'Espagne franquiste ; en France, la loi de Vichy du 13 août 1940 dissout les « sociétés secrètes », publie les noms de milliers de maçons au *Journal officiel* et les écarte de la fonction publique. L'Église a réaffirmé en 1983 et en 2023 l'incompatibilité de l'appartenance maçonnique avec la foi catholique.
-voir: bulle-in-eminenti, augustin-barruel, leo-taxil, illumines-de-baviere, secret-maconnique
+voir: bulle-in-eminenti, augustin-barruel, leo-taxil, illumines-de-baviere, secret-maconnique, sainte-vehme, carbonarisme
 
 # ── Les rites ───────────────────────────────────────────────────────────────
 
@@ -421,7 +421,7 @@ alias: Émulation, rite anglais, Emulation Lodge of Improvement, rite de style �
 an: 1823
 dates: depuis 1823
 def: Le rituel des trois grades symboliques pratiqué dans la plupart des loges anglaises, transmis de mémoire depuis 1823 par la loge d'instruction Emulation.
-texte: Après l'union des « Anciens » et des « Modernes » en 1813, une loge de réconciliation harmonise les cérémonies de la nouvelle [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]]. L'*Emulation Lodge of Improvement*, fondée à Londres en 1823, enseigne depuis lors ce rituel mot pour mot, par la répétition, sans l'imprimer officiellement ; d'autres « styles » voisins coexistent en Angleterre.
+texte: Après l'union des « Anciens » et des « Modernes » en 1813, une loge de réconciliation harmonise les cérémonies de la nouvelle [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]]. L'*Emulation Lodge of Improvement*, fondée à [[londres|Londres]] en 1823, enseigne depuis lors ce rituel mot pour mot, par la répétition, sans l'imprimer officiellement ; d'autres « styles » voisins coexistent en Angleterre.
 texte: Le rite ne comporte que les trois grades d'[[apprenti]], de [[compagnon]] et de [[maitre-macon|maître]], complétés par l'[[arche-royale|Arche royale]]. Il est pratiqué en France par la [[glnf|Grande Loge nationale française]] et par plusieurs autres obédiences.
 schema: rites-maconniques/emulation
 voir: grande-loge-unie-d-angleterre, arche-royale, rite-francais, rite-schroder, glnf
@@ -444,7 +444,7 @@ dates: attestée depuis 1743
 def: Grade maçonnique où l'on retrouve, dans les souterrains du Temple de Jérusalem en reconstruction, la parole perdue à la mort d'Hiram.
 texte: Le grade apparaît en Irlande et en Angleterre au début des années 1740 : une procession de maçons de Youghal en porte l'emblème en 1743. Son récit se situe au retour de l'exil de Babylone, lors de la reconstruction du Temple par Zorobabel : des ouvriers découvrent une voûte enfouie et, dans ses profondeurs, le nom sacré que la [[legende-d-hiram|légende d'Hiram]] disait perdu.
 texte: Défendue par les « Anciens », l'Arche royale fut reconnue lors de l'union de 1813 comme l'achèvement du grade de maître ; elle se pratique dans des « chapitres » distincts des loges. Elle forme, avec ses voûtes, ses lettres hébraïques et son nom divin, l'un des grades les plus marqués par la [[kabbale-chretienne|kabbale chrétienne]].
-voir: legende-d-hiram, rite-emulation, rite-d-york, tetragramme
+voir: legende-d-hiram, rite-emulation, rite-d-york, tetragramme, parole-perdue
 
 @ rite-suedois
 cat: maconnerie
@@ -477,7 +477,7 @@ alias: Stricte Observance, SO, supérieurs inconnus, Hund, néotemplarisme maço
 an: 1751
 dates: des années 1750 à 1782
 def: Système maçonnique allemand fondé par le baron von Hund, qui faisait de la franc-maçonnerie l'héritière secrète de l'ordre du Temple et exigeait l'obéissance à des « supérieurs inconnus ».
-texte: [[karl-gotthelf-von-hund]] affirme avoir été reçu en 1743, à Paris, dans un ordre templier par des chefs dont il ne peut dire les noms. À partir des années 1750, il organise en Allemagne des loges dont les membres, après les grades bleus, deviennent chevaliers sous un nom latin et prêtent obéissance aux « supérieurs inconnus ». Le système gagne une grande partie de la maçonnerie allemande, puis la Suisse, la Russie et, en France, Strasbourg et Lyon.
+texte: [[karl-gotthelf-von-hund]] affirme avoir été reçu en 1743, à Paris, dans un ordre templier par des chefs dont il ne peut dire les noms. À partir des années 1750, il organise en Allemagne des loges dont les membres, après les grades bleus, deviennent chevaliers sous un nom latin et prêtent obéissance aux « supérieurs inconnus ». Le système gagne une grande partie de la maçonnerie allemande, puis la Suisse, la Russie et, en France, Strasbourg et [[lyon|Lyon]].
 texte: Faute de voir paraître ces supérieurs et de prouver la filiation templière, le mouvement se divise. Au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), il renonce à se dire héritier des [[templiers]] et adopte la réforme lyonnaise de [[jean-baptiste-willermoz]], d'où sort le [[rite-ecossais-rectifie|Régime écossais rectifié]].
 voir: karl-gotthelf-von-hund, templiers, convent-de-wilhelmsbad, rite-ecossais-rectifie
 
@@ -508,7 +508,7 @@ cat: maconnerie
 nom: Écossisme
 alias: maçonnerie écossaise, grades écossais, maître écossais, Scots Master, maître écossais de Saint-André, rite écossais
 def: Ensemble des grades « écossais » apparus dans les années 1730 au-dessus de celui de maître, et des rites qui s'en réclament, sans lien réel avec l'Écosse.
-texte: Un grade de « maître écossais » est attesté à Londres dès 1733. En France, dans les années 1740, les « Écossais » se disent les dépositaires d'un savoir supérieur, en particulier de la parole perdue avec Hiram ; l'Écosse est le pays mythique d'une maçonnerie chevaleresque remontant aux croisades, telle que l'esquissait le [[discours-de-ramsay|discours de Ramsay]], et le refuge des Stuarts exilés.
+texte: Un grade de « maître écossais » est attesté à [[londres|Londres]] dès 1733. En France, dans les années 1740, les « Écossais » se disent les dépositaires d'un savoir supérieur, en particulier de la [[parole-perdue|parole perdue]] avec Hiram ; l'Écosse est le pays mythique d'une maçonnerie chevaleresque remontant aux croisades, telle que l'esquissait le [[discours-de-ramsay|discours de Ramsay]], et le refuge des Stuarts exilés.
 texte: De cette nébuleuse naissent le [[rite-de-perfection|Rite de perfection]], le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]], le [[rite-ecossais-rectifie|Régime écossais rectifié]], dont le quatrième grade est celui de maître écossais de Saint-André, et les grades de Saint-André du [[rite-suedois|rite suédois]]. « Écossais » finit par désigner, en France, les rites à hauts grades, par opposition au [[rite-francais|Rite français]].
 voir: discours-de-ramsay, rite-de-perfection, rite-ecossais-ancien-et-accepte, grades-maconniques
 
@@ -519,7 +519,7 @@ alias: Souverain Prince Rose-Croix, 18e degré, dix-huitième degré, chapitre R
 an: 1760
 dates: attesté vers 1760
 def: Haut grade maçonnique, dix-huitième du Rite écossais ancien et accepté et quatrième ordre du Rite français, centré sur la recherche de la parole perdue et sur les vertus de foi, d'espérance et de charité.
-texte: Apparu en France vers 1760, le grade place le candidat dans un monde en ruine, après la mort du Christ : il doit retrouver la parole perdue, qui se révèle être l'inscription de la croix, INRI. Les maçons hermétistes la lisent *Igne Natura Renovatur Integra*, « par le feu la nature est renouvelée tout entière ». Son bijou montre un [[pelican|pélican]] nourrissant ses petits de son sang au pied d'une croix ornée d'une [[la-rose|rose]].
+texte: Apparu en France vers 1760, le grade place le candidat dans un monde en ruine, après la mort du Christ : il doit retrouver la [[parole-perdue|parole perdue]], qui se révèle être l'inscription de la croix, INRI. Les maçons hermétistes la lisent *Igne Natura Renovatur Integra*, « par le feu la nature est renouvelée tout entière ». Son bijou montre un [[pelican|pélican]] nourrissant ses petits de son sang au pied d'une croix ornée d'une [[la-rose|rose]].
 texte: Le grade n'a aucun lien historique avec les [[rose-croix|Rose-Croix]] du XVIIe siècle, dont il emprunte le nom et l'aura. Les chapitres célèbrent chaque année, le Jeudi saint, une « Cène mystique ». Christianisme, alchimie et philanthropie s'y mêlent diversement selon les obédiences.
 schema: degres-maconniques
 voir: rite-ecossais-ancien-et-accepte, rose-croix, pelican, rite-francais, chevalier-kadosh
@@ -532,7 +532,7 @@ def: Le trentième degré du Rite écossais ancien et accepté, grade chevaleres
 texte: *Kadosh* signifie « saint » ou « consacré » en hébreu. Le grade, apparu en France au milieu du XVIIIe siècle, met en scène la condamnation des [[templiers]] : le candidat est appelé à combattre l'ignorance, le fanatisme et la tyrannie, autrefois figurés par le pape et le roi qui abattirent l'ordre. Son « échelle mystérieuse » à deux montants et sept degrés fait correspondre vertus et arts libéraux.
 texte: Ce grade, qui a nourri au XIXe siècle la réputation révolutionnaire de la maçonnerie, est conféré en aréopage, au-delà du [[chevalier-rose-croix|Chevalier Rose-Croix]]. Son bijou est l'[[aigle-bicephale|aigle à deux têtes]] ; ses couleurs, le noir et le blanc.
 schema: degres-maconniques
-voir: rite-ecossais-ancien-et-accepte, templiers, chevalier-rose-croix, aigle-bicephale
+voir: rite-ecossais-ancien-et-accepte, templiers, chevalier-rose-croix, aigle-bicephale, sainte-vehme
 
 # ── Obédiences ──────────────────────────────────────────────────────────────
 
@@ -545,7 +545,7 @@ dates: 1717 – 1813
 def: La première obédience maçonnique, formée selon la tradition le 24 juin 1717 par quatre loges de Londres, d'où vient toute la franc-maçonnerie moderne.
 texte: Selon le récit qu'en donne [[james-anderson]] en 1738, quatre loges réunies à la taverne de l'Oie et du Gril élisent ce jour-là un grand maître, Anthony Sayer. Les premiers documents datent en fait de 1721, quand le duc de Montagu devient le premier grand maître noble, et des historiens ont récemment proposé de dater la fondation de cette année-là. [[jean-theophile-desaguliers]], grand maître en 1719, et les *[[constitutions-d-anderson|Constitutions]]* de 1723 lui donnent son esprit : tolérance religieuse, sociabilité savante, loyauté envers la dynastie de Hanovre.
 texte: En 1751, des maçons, irlandais pour beaucoup, lui reprochent d'avoir altéré les anciens usages et fondent une Grande Loge rivale, celle des « Anciens », dont [[laurence-dermott]] est l'âme ; la première, par dérision, devient celle des « Modernes ». Les deux s'unissent en 1813 dans la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]].
-voir: grande-loge-unie-d-angleterre, constitutions-d-anderson, james-anderson, jean-theophile-desaguliers, laurence-dermott
+voir: grande-loge-unie-d-angleterre, constitutions-d-anderson, james-anderson, jean-theophile-desaguliers, laurence-dermott, londres
 
 @ grande-loge-unie-d-angleterre
 cat: maconnerie
@@ -554,7 +554,7 @@ alias: GLUA, UGLE, United Grand Lodge of England, Anciens et Modernes, union de 
 an: 1813
 dates: depuis 1813
 def: L'obédience anglaise née en 1813 de l'union des Grandes Loges des « Anciens » et des « Modernes », qui se considère comme la mère de la franc-maçonnerie régulière.
-texte: L'union est scellée le 27 décembre 1813 sous la présidence du duc de Sussex, fils du roi George III. L'acte d'union définit la maçonnerie « pure et ancienne » comme les trois grades symboliques, y compris l'[[arche-royale|Arche royale]] ; une loge de réconciliation unifie les rituels, d'où sortira le [[rite-emulation|rite Émulation]]. Son siège, Freemasons' Hall, est à Londres, dans Great Queen Street.
+texte: L'union est scellée le 27 décembre 1813 sous la présidence du duc de Sussex, fils du roi George III. L'acte d'union définit la maçonnerie « pure et ancienne » comme les trois grades symboliques, y compris l'[[arche-royale|Arche royale]] ; une loge de réconciliation unifie les rituels, d'où sortira le [[rite-emulation|rite Émulation]]. Son siège, Freemasons' Hall, est à [[londres|Londres]], dans Great Queen Street.
 texte: En 1929, elle fixe les principes de la [[regularite|régularité]] — croyance en un Être suprême, Livre de la Loi sacrée, exclusion des femmes et de la politique — au nom desquels elle reconnaît ou non les obédiences étrangères. Elle a rompu avec le [[grand-orient-de-france|Grand Orient de France]] en 1878 et reconnaît en France la [[glnf|Grande Loge nationale française]].
 voir: grande-loge-de-londres, regularite, rite-emulation, arche-royale
 
@@ -633,7 +633,7 @@ alias: Wilhelmsbad, convent de 1782, Ferdinand de Brunswick
 an: 1782
 dates: 16 juillet – 1er septembre 1782
 def: Congrès maçonnique international réuni en 1782 près de Hanau, qui mit fin à la légende de la filiation templière de la Stricte Observance et consacra le Régime écossais rectifié.
-texte: Convoqué par le duc Ferdinand de Brunswick, grand maître de la [[stricte-observance|Stricte Observance]], le convent réunit les délégués de nombreuses provinces pour trancher la crise du système : ses « supérieurs inconnus » ne se sont jamais montrés. [[jean-baptiste-willermoz]], venu de Lyon, y fait adopter la réforme du convent des Gaules de 1778 : les maçons ne sont plus les successeurs des [[templiers]], mais leurs héritiers spirituels, sous le nom de Chevaliers bienfaisants de la Cité sainte.
+texte: Convoqué par le duc Ferdinand de Brunswick, grand maître de la [[stricte-observance|Stricte Observance]], le convent réunit les délégués de nombreuses provinces pour trancher la crise du système : ses « supérieurs inconnus » ne se sont jamais montrés. [[jean-baptiste-willermoz]], venu de [[lyon|Lyon]], y fait adopter la réforme du convent des Gaules de 1778 : les maçons ne sont plus les successeurs des [[templiers]], mais leurs héritiers spirituels, sous le nom de Chevaliers bienfaisants de la Cité sainte.
 texte: Le convent consacre ainsi le [[rite-ecossais-rectifie|Régime écossais rectifié]] et la diffusion discrète de la doctrine des [[elus-coens|Élus Coëns]]. Il fut aussi un terrain de recrutement pour les [[illumines-de-baviere|Illuminés de Bavière]], et [[joseph-de-maistre]] y fit parvenir un mémoire resté célèbre.
 voir: stricte-observance, rite-ecossais-rectifie, jean-baptiste-willermoz, joseph-de-maistre
 

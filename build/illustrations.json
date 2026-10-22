@@ -2944,7 +2944,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:SchinkelDesignMagicFluteAct2Scene3.PNG",
    "pour": [
-    "egyptosophie"
+    "egyptosophie",
+    "sarastro"
    ],
    "sig": "SchinkelDesignMagicFluteAct2Scene3.PNG||560|74"
   },
@@ -4408,6 +4409,1240 @@
     "poltergeist"
    ],
    "sig": "Devil and Drum from Saducismus Triumphatus.png||420|74"
+  },
+  "soleil-noir-splendor": {
+   "f": "img/soleil-noir-splendor.webp",
+   "v": "b70439c618",
+   "w": 400,
+   "h": 425,
+   "l": "Le soleil noir se couchant sur une terre désolée, planche du *Splendor solis*",
+   "cr": "manuscrit du XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Splendor_Solis._Image_19_-_The_dark_sun.jpg",
+   "pour": [
+    "soleil-noir"
+   ],
+   "sig": "Splendor Solis. Image 19 - The dark sun.jpg||400|74"
+  },
+  "croix-hendaye": {
+   "f": "img/croix-hendaye.webp",
+   "v": "8450042999",
+   "w": 400,
+   "h": 553,
+   "l": "La croix d’Hendaye, sur le parvis de l’église Saint-Vincent",
+   "cr": "photographie de Zarateman, 2019",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Hendaya_-_Cruz.jpg",
+   "pour": [
+    "croix-d-hendaye"
+   ],
+   "sig": "Hendaya - Cruz.jpg||400|74"
+  },
+  "dame-licorne": {
+   "f": "img/dame-licorne.webp",
+   "v": "beae18011b",
+   "w": 560,
+   "h": 452,
+   "l": "« À mon seul désir », tapisserie de *La Dame à la licorne*",
+   "cr": "tapisserie, vers 1500 — musée de Cluny, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:(Toulouse)_Mon_seul_d%C3%A9sir_(La_Dame_%C3%A0_la_licorne)_-_Mus%C3%A9e_de_Cluny_Paris.jpg",
+   "pour": [
+    "licorne"
+   ],
+   "sig": "(Toulouse) Mon seul désir (La Dame à la licorne) - Musée de Cluny Paris.jpg||560|74"
+  },
+  "hippogriffe-dore": {
+   "f": "img/hippogriffe-dore.webp",
+   "v": "f55b67f421",
+   "w": 400,
+   "h": 501,
+   "l": "L’enchanteur Atlante sur l’hippogriffe, devant son château",
+   "cr": "Gustave Doré pour le *Roland furieux*, 1879",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Orlando_Furioso_4.jpg",
+   "pour": [
+    "hippogriffe"
+   ],
+   "sig": "Orlando Furioso 4.jpg||400|74"
+  },
+  "uccello-dragon": {
+   "f": "img/uccello-dragon.webp",
+   "v": "039187394a",
+   "w": 560,
+   "h": 430,
+   "l": "*Saint Georges et le dragon*, de Paolo Uccello",
+   "cr": "Paolo Uccello, vers 1470 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint_George_and_the_Dragon_by_Paolo_Uccello_(London)_01.jpg",
+   "pour": [
+    "dragon"
+   ],
+   "sig": "Saint George and the Dragon by Paolo Uccello (London) 01.jpg||560|74"
+  },
+  "basilic-aldrovandi": {
+   "f": "img/basilic-aldrovandi.webp",
+   "v": "2f206fa850",
+   "w": 560,
+   "h": 241,
+   "l": "Le basilic, gravure de l’*Histoire des serpents et des dragons*",
+   "cr": "Ulisse Aldrovandi, *Serpentum et draconum historia*, 1640",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Basilisk_(1640).png",
+   "pour": [
+    "basilic"
+   ],
+   "sig": "Basilisk (1640).png||560|74"
+  },
+  "menorah-titus": {
+   "f": "img/menorah-titus.webp",
+   "v": "abdfafb032",
+   "w": 400,
+   "h": 610,
+   "l": "La menorah du Temple emportée par les soldats romains, relief de l’arc de Titus",
+   "cr": "arc de Titus, Rome, vers 81 — photographie de Gunnar Bach Pedersen",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Menorah_(Arc_de_Titus,_Rome).jpg",
+   "pour": [
+    "menorah"
+   ],
+   "sig": "Menorah (Arc de Titus, Rome).jpg||400|74"
+  },
+  "tissot-arche": {
+   "f": "img/tissot-arche.webp",
+   "v": "9a83895553",
+   "w": 560,
+   "h": 434,
+   "l": "*L’Arche passe le Jourdain*, de James Tissot",
+   "cr": "James Tissot, vers 1896-1902 — Jewish Museum, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:James_Jacques_Joseph_Tissot_-_The_Ark_Passes_Over_the_Jordan_-_Google_Art_Project.jpg",
+   "pour": [
+    "arche-d-alliance"
+   ],
+   "sig": "James Jacques Joseph Tissot - The Ark Passes Over the Jordan - Google Art Project.jpg||560|74"
+  },
+  "piero-constantin": {
+   "f": "img/piero-constantin.webp",
+   "v": "af52e48f21",
+   "w": 400,
+   "h": 714,
+   "l": "*Le Songe de Constantin*, fresque de Piero della Francesca",
+   "cr": "Piero della Francesca, 1452-1466 — basilique Saint-François, Arezzo",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_4._Vision_of_Constantine_-_WGA17508.jpg",
+   "pour": [
+    "constantin",
+    "chrisme"
+   ],
+   "sig": "Piero della Francesca - 4. Vision of Constantine - WGA17508.jpg||400|74"
+  },
+  "sainte-lance-vienne": {
+   "f": "img/sainte-lance-vienne.webp",
+   "v": "963eca0ef8",
+   "w": 320,
+   "h": 674,
+   "l": "La sainte lance du Saint-Empire, au trésor impérial de Vienne",
+   "cr": "pièce carolingienne, VIIIe-IXe siècle — photographie d’Andreas Praefcke, 2009",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Heilige_Lanze_Wien_Schatzkammer_1.jpg",
+   "pour": [
+    "sainte-lance"
+   ],
+   "sig": "Heilige Lanze Wien Schatzkammer 1.jpg||320|74"
+  },
+  "melencolia-durer": {
+   "f": "img/melencolia-durer.webp",
+   "v": "55baa9e072",
+   "w": 440,
+   "h": 568,
+   "l": "*Melencolia I*, gravure d’Albrecht Dürer",
+   "cr": "Albrecht Dürer, 1514 — Metropolitan Museum of Art, New York",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Melencolia_I_MET_DP815743.jpg",
+   "pour": [
+    "melencolia"
+   ],
+   "sig": "Melencolia I MET DP815743.jpg||440|74"
+  },
+  "bergers-arcadie": {
+   "f": "img/bergers-arcadie.webp",
+   "v": "8d2a8ea0a3",
+   "w": 560,
+   "h": 399,
+   "l": "*Les Bergers d’Arcadie*, de Nicolas Poussin",
+   "cr": "Nicolas Poussin, vers 1638 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nicolas_Poussin_-_Et_in_Arcadia_ego_(deuxi%C3%A8me_version).jpg",
+   "pour": [
+    "les-bergers-d-arcadie"
+   ],
+   "sig": "Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg||560|74"
+  },
+  "blocksberg-praetorius": {
+   "f": "img/blocksberg-praetorius.webp",
+   "v": "e2d7aa137b",
+   "w": 400,
+   "h": 526,
+   "l": "Le sabbat des sorcières sur le Brocken, frontispice de Johannes Praetorius",
+   "cr": "*Blockes-Berges Verrichtung*, 1668",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Praetorius_Blocksberg.jpg",
+   "pour": [
+    "walpurgis"
+   ],
+   "sig": "Praetorius Blocksberg.jpg||400|74"
+  },
+  "vaudoises-champion": {
+   "f": "img/vaudoises-champion.webp",
+   "v": "8dcdf5088c",
+   "w": 400,
+   "h": 542,
+   "l": "Deux « vaudoises » volant sur un balai et un bâton, en marge du *Champion des dames*",
+   "cr": "manuscrit du poème de Martin Le Franc, 1451 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Champion_des_dames_Vaudoises.JPG",
+   "pour": [
+    "sorciere"
+   ],
+   "sig": "Champion des dames Vaudoises.JPG||400|74"
+  },
+  "quatre-sergents": {
+   "f": "img/quatre-sergents.webp",
+   "v": "a1a5465724",
+   "w": 520,
+   "h": 403,
+   "l": "L’exécution des quatre sergents de La Rochelle, place de Grève, en 1822",
+   "cr": "gravure du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ex%C3%A9cution_des_quatre_sergents_de_La_Rochelle.jpg",
+   "pour": [
+    "charbonnerie"
+   ],
+   "sig": "Exécution des quatre sergents de La Rochelle.jpg||520|74"
+  },
+  "legende-doree-toussaint": {
+   "f": "img/legende-doree-toussaint.webp",
+   "v": "d017ca6a25",
+   "w": 400,
+   "h": 579,
+   "l": "La fête de tous les saints, enluminure d’une *Légende dorée* de la fin du XVe siècle",
+   "cr": "Maître de la Chronique scandaleuse, vers 1493 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:L%C3%A9gende_dor%C3%A9e_-_BNF_V%C3%A9lins689_(Tous_les_saints_le_roi_et_la_reine).jpg",
+   "pour": [
+    "legende-doree"
+   ],
+   "sig": "Légende dorée - BNF Vélins689 (Tous les saints le roi et la reine).jpg||400|74"
+  },
+  "voragine-prechant": {
+   "f": "img/voragine-prechant.webp",
+   "v": "a5b056f069",
+   "w": 520,
+   "h": 457,
+   "l": "Jacques de Voragine prêchant, en tête d’un manuscrit de la *Légende dorée*",
+   "cr": "Maître de Jacques de Besançon, vers 1480-1490 — BnF, Français 244",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacques_de_Voragine_pr%C3%AAchant_-_L%C3%A9gende_dor%C3%A9e_BNF_Fr244_f1.jpg",
+   "pour": [
+    "jacques-de-voragine"
+   ],
+   "sig": "Jacques de Voragine prêchant - Légende dorée BNF Fr244 f1.jpg||520|74"
+  },
+  "carte-enfer": {
+   "f": "img/carte-enfer.webp",
+   "v": "a7543571e3",
+   "w": 560,
+   "h": 391,
+   "l": "La carte de l’Enfer de Dante, par Sandro Botticelli",
+   "cr": "Sandro Botticelli, vers 1480-1495 — Bibliothèque apostolique vaticane",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg",
+   "pour": [
+    "divine-comedie"
+   ],
+   "sig": "Sandro Botticelli - La Carte de l'Enfer.jpg||560|74"
+  },
+  "poliphile-elephant": {
+   "f": "img/poliphile-elephant.webp",
+   "v": "8e52fd4818",
+   "w": 400,
+   "h": 636,
+   "l": "L’éléphant portant un obélisque, gravure du *Songe de Poliphile*",
+   "cr": "Alde Manuce, Venise, 1499",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Elefant.hypnero.jpg",
+   "pour": [
+    "songe-de-poliphile"
+   ],
+   "sig": "Elefant.hypnero.jpg||400|74"
+  },
+  "durer-bete": {
+   "f": "img/durer-bete.webp",
+   "v": "ee9c81d905",
+   "w": 400,
+   "h": 536,
+   "l": "La Bête à sept têtes et la Bête aux cornes d’agneau, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, *Apocalypse*, gravure sur bois de 1498 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Beast_with_Seven_Heads_and_the_Beast_with_Lamb%27s_Horns,_from_the_Apocalypse_series_MET_DP816930.jpg",
+   "pour": [
+    "nombre-de-la-bete"
+   ],
+   "sig": "The Beast with Seven Heads and the Beast with Lamb's Horns, from the Apocalypse series MET DP816930.jpg||400|74"
+  },
+  "vitruve": {
+   "f": "img/vitruve.webp",
+   "v": "b6f60c72c9",
+   "w": 400,
+   "h": 544,
+   "l": "L’homme de Vitruve inscrit dans le cercle et le carré, de Léonard de Vinci",
+   "cr": "Léonard de Vinci, vers 1490 — Gallerie dell’Accademia, Venise",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+   "pour": [
+    "geometrie-sacree"
+   ],
+   "sig": "Da Vinci Vitruve Luc Viatour.jpg||400|74"
+  },
+  "pectoral-aaron": {
+   "f": "img/pectoral-aaron.webp",
+   "v": "758e095040",
+   "w": 360,
+   "h": 561,
+   "l": "Aaron revêtu du pectoral aux douze pierres",
+   "cr": "gravure, vers 1700 — Rijksmuseum, Amsterdam",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:A%C3%A4ron_wordt_het_borstschild_(hoshen)_aangedaan,_RP-P-OB-44.900.jpg",
+   "pour": [
+    "pectoral-du-grand-pretre"
+   ],
+   "sig": "Aäron wordt het borstschild (hoshen) aangedaan, RP-P-OB-44.900.jpg||360|74"
+  },
+  "echecs-alphonse": {
+   "f": "img/echecs-alphonse.webp",
+   "v": "4307640a62",
+   "w": 560,
+   "h": 327,
+   "l": "Une partie d’échecs dans le *Livre des jeux* d’Alphonse X de Castille",
+   "cr": "*Libro de los juegos*, 1283 — bibliothèque de l’Escurial",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Men_playing_chess,_Alfonso_X%27s_Book_of_Chess,_Dice_and_Tables.jpg",
+   "pour": [
+    "jeu-d-echecs"
+   ],
+   "sig": "Men playing chess, Alfonso X's Book of Chess, Dice and Tables.jpg||560|74"
+  },
+  "echiquier-manesse": {
+   "f": "img/echiquier-manesse.webp",
+   "v": "9d67a3e529",
+   "w": 400,
+   "h": 605,
+   "l": "Le margrave Otton IV de Brandebourg jouant aux échecs",
+   "cr": "Codex Manesse, vers 1305-1340 — bibliothèque universitaire de Heidelberg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Meister_der_Manessischen_Liederhandschrift_004.jpg",
+   "pour": [
+    "echiquier"
+   ],
+   "sig": "Meister der Manessischen Liederhandschrift 004.jpg||400|74"
+  },
+  "schachzabelbuch": {
+   "f": "img/schachzabelbuch.webp",
+   "v": "3452a83284",
+   "w": 400,
+   "h": 553,
+   "l": "Le roi et la reine jouant aux échecs, dans une version allemande du livre de Jacques de Cessoles",
+   "cr": "*Schachzabelbuch*, XVe siècle — British Library, Add MS 11616",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:King_and_queen_playing_chess_-_Das_Schachzabelbuch_(15th_C),_f.5v_-_BL_Add_MS_11616.jpg",
+   "pour": [
+    "jeu-des-echecs-moralise",
+    "jacques-de-cessoles"
+   ],
+   "sig": "King and queen playing chess - Das Schachzabelbuch (15th C), f.5v - BL Add MS 11616.jpg||400|74"
+  },
+  "tenniel-reine-rouge": {
+   "f": "img/tenniel-reine-rouge.webp",
+   "v": "d4c7eaccb0",
+   "w": 400,
+   "h": 497,
+   "l": "Alice et la Reine rouge",
+   "cr": "John Tenniel pour *De l’autre côté du miroir*, 1871",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tenniel_red_queen_with_alice.jpg",
+   "pour": [
+    "de-l-autre-cote-du-miroir"
+   ],
+   "sig": "Tenniel red queen with alice.jpg||400|74"
+  },
+  "lewis-carroll": {
+   "f": "img/lewis-carroll.webp",
+   "v": "0e163a7c36",
+   "w": 400,
+   "h": 566,
+   "l": "Lewis Carroll, autoportrait photographique",
+   "cr": "Charles Lutwidge Dodgson, 1857",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:LewisCarrollSelfPhoto.jpg",
+   "pour": [
+    "lewis-carroll"
+   ],
+   "sig": "LewisCarrollSelfPhoto.jpg||400|74"
+  },
+  "urania-grande-ourse": {
+   "f": "img/urania-grande-ourse.webp",
+   "v": "d1c785fd5e",
+   "w": 560,
+   "h": 393,
+   "l": "La Grande Ourse, carte du *Miroir d’Uranie*",
+   "cr": "Sidney Hall, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Ursa_Major.jpg",
+   "pour": [
+    "grande-ourse"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Ursa Major.jpg||560|74"
+  },
+  "urania-petite-ourse": {
+   "f": "img/urania-petite-ourse.webp",
+   "v": "4c2597d968",
+   "w": 400,
+   "h": 569,
+   "l": "Le Dragon et la Petite Ourse, carte du *Miroir d’Uranie*",
+   "cr": "Sidney Hall, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Draco_and_Ursa_Minor.jpg",
+   "pour": [
+    "petite-ourse"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Draco and Ursa Minor.jpg||400|74"
+  },
+  "urania-orion": {
+   "f": "img/urania-orion.webp",
+   "v": "bd04890cb1",
+   "w": 400,
+   "h": 575,
+   "l": "Orion, carte du *Miroir d’Uranie*",
+   "cr": "Sidney Hall, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Orion_(best_currently_available_version_-_2014).jpg",
+   "pour": [
+    "orion"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Orion (best currently available version - 2014).jpg||400|74"
+  },
+  "urania-serpentaire": {
+   "f": "img/urania-serpentaire.webp",
+   "v": "f17c723cd3",
+   "w": 560,
+   "h": 394,
+   "l": "Le Serpentaire, ou Ophiuchus, et le Serpent, carte du *Miroir d’Uranie*",
+   "cr": "Sidney Hall, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Taurus_Poniatowski,_Serpentarius,_Scutum_Sobiesky,_and_Serpens.jpg",
+   "pour": [
+    "ophiuchus"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Taurus Poniatowski, Serpentarius, Scutum Sobiesky, and Serpens.jpg||560|74"
+  },
+  "pleiades-nasa": {
+   "f": "img/pleiades-nasa.webp",
+   "v": "af6e531337",
+   "w": 480,
+   "h": 346,
+   "l": "L’amas des Pléiades",
+   "cr": "NASA, ESA, AURA/Caltech, observatoire du mont Palomar",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pleiades_large.jpg",
+   "pour": [
+    "pleiades"
+   ],
+   "sig": "Pleiades large.jpg||480|74"
+  },
+  "sirius-hubble": {
+   "f": "img/sirius-hubble.webp",
+   "v": "48ec232d3b",
+   "w": 360,
+   "h": 393,
+   "l": "Sirius et sa petite compagne, la naine blanche Sirius B, vues par le télescope Hubble",
+   "cr": "NASA, ESA, H. Bond et M. Barstow, 2005",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sirius_A_and_B_Hubble_photo.jpg",
+   "pour": [
+    "sirius"
+   ],
+   "sig": "Sirius A and B Hubble photo.jpg||360|74"
+  },
+  "bayeux-comete": {
+   "f": "img/bayeux-comete.webp",
+   "v": "823349bb3c",
+   "w": 480,
+   "h": 500,
+   "l": "La comète de 1066, celle de Halley, sur la tapisserie de Bayeux",
+   "cr": "broderie, vers 1070 — musée de la Tapisserie, Bayeux",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene32_Halley_comet.jpg",
+   "pour": [
+    "comete"
+   ],
+   "sig": "Bayeux Tapestry scene32 Halley comet.jpg||480|74"
+  },
+  "durer-ciel-boreal": {
+   "f": "img/durer-ciel-boreal.webp",
+   "v": "24cf85f6b4",
+   "w": 480,
+   "h": 511,
+   "l": "L’hémisphère céleste boréal et ses constellations, gravure d’Albrecht Dürer",
+   "cr": "Albrecht Dürer, 1515 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Northern_Celestial_Hemisphere,_1515,_NGA_43181.jpg",
+   "pour": [
+    "constellation"
+   ],
+   "sig": "Albrecht Dürer, The Northern Celestial Hemisphere, 1515, NGA 43181.jpg||480|74"
+  },
+  "amethyste": {
+   "f": "img/amethyste.webp",
+   "v": "2a75602719",
+   "w": 400,
+   "h": 327,
+   "l": "Cristaux d’améthyste",
+   "cr": "photographie de Darla Sondrol, 2002 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Amethyst_(GeoDIL_number_-_2522).jpg",
+   "pour": [
+    "amethyste"
+   ],
+   "sig": "Amethyst (GeoDIL number - 2522).jpg||400|74"
+  },
+  "obsidienne": {
+   "f": "img/obsidienne.webp",
+   "v": "b0e7217039",
+   "w": 400,
+   "h": 322,
+   "l": "Un éclat d’obsidienne",
+   "cr": "photographie de Mike Davis, 2001 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Obsidian_(GeoDIL_number_-_413).jpg",
+   "pour": [
+    "obsidienne"
+   ],
+   "sig": "Obsidian (GeoDIL number - 413).jpg||400|74"
+  },
+  "turquoise": {
+   "f": "img/turquoise.webp",
+   "v": "e30c1655c7",
+   "w": 400,
+   "h": 283,
+   "l": "Turquoise brute",
+   "cr": "photographie de Shannon Heinle, 2001 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Turquoise_(GeoDIL_number_-_557).jpg",
+   "pour": [
+    "turquoise"
+   ],
+   "sig": "Turquoise (GeoDIL number - 557).jpg||400|74"
+  },
+  "cristal-de-roche": {
+   "f": "img/cristal-de-roche.webp",
+   "v": "b30b318081",
+   "w": 480,
+   "h": 205,
+   "l": "Cristaux de roche",
+   "cr": "photographie de Darla Sondrol, 2002 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Rock_Crystal_(GeoDIL_number_-_2523).jpg",
+   "pour": [
+    "cristal-de-roche"
+   ],
+   "sig": "Rock Crystal (GeoDIL number - 2523).jpg||480|74"
+  },
+  "emeraude": {
+   "f": "img/emeraude.webp",
+   "v": "51de9b3650",
+   "w": 480,
+   "h": 319,
+   "l": "Émeraude sur sa gangue, de la mine de Muzo, en Colombie",
+   "cr": "photographie de Géry Parent, 2010",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:B%C3%A9ryl_var._%C3%A9meraude_sur_gangue_(Muzo_Mine_Boyaca_-_Colombie)_10.jpg",
+   "pour": [
+    "emeraude"
+   ],
+   "sig": "Béryl var. émeraude sur gangue (Muzo Mine Boyaca - Colombie) 10.jpg||480|74"
+  },
+  "aimant": {
+   "f": "img/aimant.webp",
+   "v": "93ea46341b",
+   "w": 320,
+   "h": 578,
+   "l": "Une pierre d’aimant de Sibérie dans son armature",
+   "cr": "photographie d’Alf van Beem, 2011",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Siberian_lodestone_with_armature,_photo-1.JPG",
+   "pour": [
+    "aimant"
+   ],
+   "sig": "Siberian lodestone with armature, photo-1.JPG||320|74"
+  },
+  "lapidaire-alphonse": {
+   "f": "img/lapidaire-alphonse.webp",
+   "v": "965b4ed3a7",
+   "w": 400,
+   "h": 535,
+   "l": "Une page du *Lapidaire* d’Alphonse X de Castille",
+   "cr": "manuscrit, XIIIe siècle — bibliothèque de l’Escurial",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lapidario.jpg",
+   "pour": [
+    "lapidaire"
+   ],
+   "sig": "Lapidario.jpg||400|74"
+  },
+  "sedona": {
+   "f": "img/sedona.webp",
+   "v": "ab51e08366",
+   "w": 480,
+   "h": 320,
+   "l": "Cathedral Rock, l’un des « vortex » de Sedona",
+   "cr": "forêt nationale de Coconino, 2018",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Cathedral_Rock_(25270326947).jpg",
+   "pour": [
+    "sedona"
+   ],
+   "sig": "Cathedral Rock (25270326947).jpg||480|74"
+  },
+  "mont-shasta": {
+   "f": "img/mont-shasta.webp",
+   "v": "618a63777b",
+   "w": 520,
+   "h": 335,
+   "l": "Le mont Shasta en 1923",
+   "cr": "Service des forêts des États-Unis, 1923",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mount_Shasta_1923.jpg",
+   "pour": [
+    "mont-shasta"
+   ],
+   "sig": "Mount Shasta 1923.jpg||520|74"
+  },
+  "avebury-stukeley": {
+   "f": "img/avebury-stukeley.webp",
+   "v": "220f87568b",
+   "w": 560,
+   "h": 336,
+   "l": "Le « temple druidique » d’Avebury, restitué par William Stukeley",
+   "cr": "William Stukeley, *Abury*, 1743 — bibliothèque Houghton, Harvard",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Houghton_Arc_855.214_-_Stukely,_the_Druid_temple_of_Abury.jpg",
+   "pour": [
+    "avebury"
+   ],
+   "sig": "Houghton Arc 855.214 - Stukely, the Druid temple of Abury.jpg||560|74"
+  },
+  "rene-anjou": {
+   "f": "img/rene-anjou.webp",
+   "v": "ff4785bffc",
+   "w": 400,
+   "h": 532,
+   "l": "René d’Anjou, volet du diptyque Matheron",
+   "cr": "Nicolas Froment, 1474 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Diptyque_Matheron_-_portrait_de_Ren%C3%A9_d%27Anjou.jpg",
+   "pour": [
+    "rene-d-anjou"
+   ],
+   "sig": "Diptyque Matheron - portrait de René d'Anjou.jpg||400|74"
+  },
+  "leonard-sanguine": {
+   "f": "img/leonard-sanguine.webp",
+   "v": "8f305ae7dd",
+   "w": 400,
+   "h": 623,
+   "l": "Portrait présumé de Léonard de Vinci, à la sanguine",
+   "cr": "Léonard de Vinci, vers 1512 — Bibliothèque royale de Turin",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_presumed_self-portrait_-_WGA12798.jpg",
+   "pour": [
+    "leonard-de-vinci"
+   ],
+   "sig": "Leonardo da Vinci - presumed self-portrait - WGA12798.jpg||400|74"
+  },
+  "durer-1500": {
+   "f": "img/durer-1500.webp",
+   "v": "e49c51f045",
+   "w": 400,
+   "h": 553,
+   "l": "Autoportrait d’Albrecht Dürer à vingt-huit ans",
+   "cr": "Albrecht Dürer, 1500 — Alte Pinakothek, Munich",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_1500_self-portrait_(High_resolution_and_detail).jpg",
+   "pour": [
+    "albrecht-durer"
+   ],
+   "sig": "Albrecht Dürer - 1500 self-portrait (High resolution and detail).jpg||400|74"
+  },
+  "parmesan-miroir": {
+   "f": "img/parmesan-miroir.webp",
+   "v": "76175078a2",
+   "w": 400,
+   "h": 397,
+   "l": "*Autoportrait au miroir convexe*",
+   "cr": "le Parmesan, vers 1524 — Kunsthistorisches Museum, Vienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Parmigianino_-_Self-portrait_in_a_Convex_Mirror_-_WGA17031.jpg",
+   "pour": [
+    "parmesan"
+   ],
+   "sig": "Parmigianino - Self-portrait in a Convex Mirror - WGA17031.jpg||400|74"
+  },
+  "dante-botticelli": {
+   "f": "img/dante-botticelli.webp",
+   "v": "24a0e8a78b",
+   "w": 400,
+   "h": 598,
+   "l": "Portrait de Dante attribué à Sandro Botticelli",
+   "cr": "vers 1495 — collection particulière",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Portrait_of_Dante_-_WGA02802.jpg",
+   "pour": [
+    "dante"
+   ],
+   "sig": "Sandro Botticelli - Portrait of Dante - WGA02802.jpg||400|74"
+  },
+  "rossetti-carroll": {
+   "f": "img/rossetti-carroll.webp",
+   "v": "2fe31fdb99",
+   "w": 400,
+   "h": 478,
+   "l": "Dante Gabriel Rossetti photographié par Lewis Carroll",
+   "cr": "Lewis Carroll, 7 octobre 1863",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_001.jpg",
+   "pour": [
+    "dante-gabriel-rossetti"
+   ],
+   "sig": "Dante Gabriel Rossetti 001.jpg||400|74"
+  },
+  "garibaldi": {
+   "f": "img/garibaldi.webp",
+   "v": "ac03fbf169",
+   "w": 400,
+   "h": 490,
+   "l": "Giuseppe Garibaldi",
+   "cr": "photographie des frères Alinari, vers 1866",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Garibaldi_(1866).jpg",
+   "pour": [
+    "giuseppe-garibaldi"
+   ],
+   "sig": "Garibaldi (1866).jpg||400|74"
+  },
+  "mazzini": {
+   "f": "img/mazzini.webp",
+   "v": "3504ee8b24",
+   "w": 320,
+   "h": 596,
+   "l": "Giuseppe Mazzini",
+   "cr": "photographie, vers 1850",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mazzini_(4670403).jpg",
+   "pour": [
+    "giuseppe-mazzini"
+   ],
+   "sig": "Portrait of Mazzini (4670403).jpg||320|74"
+  },
+  "buonarroti": {
+   "f": "img/buonarroti.webp",
+   "v": "d7ee2db3e5",
+   "w": 400,
+   "h": 480,
+   "l": "Filippo Buonarroti, par Philippe-Auguste Jeanron",
+   "cr": "Philippe-Auguste Jeanron, 1830",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Filippo_Buonarotti_-_Jeanron.jpg",
+   "pour": [
+    "filippo-buonarroti"
+   ],
+   "sig": "Filippo Buonarotti - Jeanron.jpg||400|74"
+  },
+  "wagner": {
+   "f": "img/wagner.webp",
+   "v": "c2ec4929d7",
+   "w": 400,
+   "h": 519,
+   "l": "Richard Wagner",
+   "cr": "photographie de Franz Hanfstaengl, Munich, 1871",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Richard_Wagner._Franz_Hanfstaengl,_M%C3%BCnchen,_1871.jpg",
+   "pour": [
+    "richard-wagner"
+   ],
+   "sig": "Richard Wagner. Franz Hanfstaengl, München, 1871.jpg||400|74"
+  },
+  "louis-ii": {
+   "f": "img/louis-ii.webp",
+   "v": "fc0ec5a5e9",
+   "w": 400,
+   "h": 600,
+   "l": "Louis II de Bavière en manteau du couronnement",
+   "cr": "Ferdinand von Piloty, 1865",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:K%C3%B6nig_Ludwig_II._von_Bayern_in_Generalsuniform_mit_dem_Kr%C3%B6nungsmantel.jpg",
+   "pour": [
+    "louis-ii-de-baviere"
+   ],
+   "sig": "König Ludwig II. von Bayern in Generalsuniform mit dem Krönungsmantel.jpg||400|74"
+  },
+  "poussin-autoportrait": {
+   "f": "img/poussin-autoportrait.webp",
+   "v": "a77f1a6c69",
+   "w": 400,
+   "h": 523,
+   "l": "Autoportrait de Nicolas Poussin",
+   "cr": "Nicolas Poussin, 1650 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Poussin_-_Autoportrait,_1650,_INV_7302_;_MR_2329.jpg",
+   "pour": [
+    "nicolas-poussin"
+   ],
+   "sig": "Poussin - Autoportrait, 1650, INV 7302 ; MR 2329.jpg||400|74"
+  },
+  "bosch-jardin": {
+   "f": "img/bosch-jardin.webp",
+   "v": "34c04808e9",
+   "w": 600,
+   "h": 321,
+   "l": "*Le Jardin des délices*, triptyque de Jérôme Bosch",
+   "cr": "Jérôme Bosch, vers 1490-1510 — musée du Prado, Madrid",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Garden_delights.jpg",
+   "pour": [
+    "jerome-bosch"
+   ],
+   "sig": "Garden delights.jpg||600|74"
+  },
+  "botticelli-venus": {
+   "f": "img/botticelli-venus.webp",
+   "v": "4cea3bdbed",
+   "w": 560,
+   "h": 361,
+   "l": "*La Naissance de Vénus*, de Sandro Botticelli",
+   "cr": "Sandro Botticelli, vers 1485 — galerie des Offices, Florence",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_046.jpg",
+   "pour": [
+    "sandro-botticelli"
+   ],
+   "sig": "Sandro Botticelli 046.jpg||560|74"
+  },
+  "leblanc": {
+   "f": "img/leblanc.webp",
+   "v": "59c287461d",
+   "w": 400,
+   "h": 533,
+   "l": "Maurice Leblanc",
+   "cr": "photographie d’Henri Manuel, vers 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Maurice_Leblanc_-_photographie_Henri_Manuel.jpg",
+   "pour": [
+    "maurice-leblanc"
+   ],
+   "sig": "Maurice Leblanc - photographie Henri Manuel.jpg||400|74"
+  },
+  "tycho-brahe": {
+   "f": "img/tycho-brahe.webp",
+   "v": "0a788467da",
+   "w": 400,
+   "h": 493,
+   "l": "Tycho Brahe",
+   "cr": "portrait anonyme, 1596 — château de Skokloster",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif",
+   "pour": [
+    "tycho-brahe"
+   ],
+   "sig": "Porträtt av Tycho Brahe - Skoklosters slott - 90153.tif||400|74"
+  },
+  "galaad-watts": {
+   "f": "img/galaad-watts.webp",
+   "v": "3cd49ff233",
+   "w": 400,
+   "h": 743,
+   "l": "*Sir Galahad*, de George Frederic Watts",
+   "cr": "George Frederic Watts, 1860-1862 — Fogg Museum, Harvard",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:George_Frederick_Watts,_1860-62,_Sir_Galahad,_oil_on_canvas,_191.8_x_107_cm,_Harvard_Art_Museums,_Fogg_Museum.jpg",
+   "pour": [
+    "galaad"
+   ],
+   "sig": "George Frederick Watts, 1860-62, Sir Galahad, oil on canvas, 191.8 x 107 cm, Harvard Art Museums, Fogg Museum.jpg||400|74"
+  },
+  "perceval-chateau": {
+   "f": "img/perceval-chateau.webp",
+   "v": "06e0ae4d8e",
+   "w": 560,
+   "h": 256,
+   "l": "Perceval accueilli au château du Graal, où passe le vase sacré",
+   "cr": "manuscrit du *Conte du Graal*, vers 1330 — BnF, Français 12577",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg",
+   "pour": [
+    "perceval"
+   ],
+   "sig": "Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg||560|74"
+  },
+  "graal-procession": {
+   "f": "img/graal-procession.webp",
+   "v": "a1b050f892",
+   "w": 560,
+   "h": 308,
+   "l": "La lance et le graal portés devant la table du roi",
+   "cr": "manuscrit du *Conte du Graal*, vers 1330 — BnF, Français 12577",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Grail-procession-bnf-fr-12577-f74v-1330.jpg",
+   "pour": [
+    "roi-pecheur"
+   ],
+   "sig": "Grail-procession-bnf-fr-12577-f74v-1330.jpg||560|74"
+  },
+  "merlin-burne-jones": {
+   "f": "img/merlin-burne-jones.webp",
+   "v": "8ecc0b60de",
+   "w": 400,
+   "h": 528,
+   "l": "*L’Enchantement de Merlin*, d’Edward Burne-Jones",
+   "cr": "Edward Burne-Jones, 1874 — Lady Lever Art Gallery, Port Sunlight",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Beguiling_of_Merlin_by_Edward_Burne-Jones.jpg",
+   "pour": [
+    "merlin"
+   ],
+   "sig": "The Beguiling of Merlin by Edward Burne-Jones.jpg||400|74"
+  },
+  "melusine-bain": {
+   "f": "img/melusine-bain.webp",
+   "v": "3d98372c99",
+   "w": 400,
+   "h": 554,
+   "l": "Raymondin surprend Mélusine au bain, gravure du *Livre de Mélusine*",
+   "cr": "atelier d’Adam Steinschaber, Genève, 1478",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bookofmelusine.jpg",
+   "pour": [
+    "melusine"
+   ],
+   "sig": "Bookofmelusine.jpg||400|74"
+  },
+  "pretre-jean-ortelius": {
+   "f": "img/pretre-jean-ortelius.webp",
+   "v": "aa82c75c07",
+   "w": 520,
+   "h": 445,
+   "l": "Le royaume du Prêtre Jean en Éthiopie, carte d’Abraham Ortelius",
+   "cr": "Abraham Ortelius, 1573",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Prester_John_map.jpg",
+   "pour": [
+    "pretre-jean"
+   ],
+   "sig": "Prester John map.jpg||520|74"
+  },
+  "faust-rembrandt": {
+   "f": "img/faust-rembrandt.webp",
+   "v": "a7a6c42ae7",
+   "w": 400,
+   "h": 526,
+   "l": "*Faust*, eau-forte de Rembrandt",
+   "cr": "Rembrandt, vers 1652 — Metropolitan Museum of Art, New York",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:A_Scholar_in_His_Study_(%27Faust%27)_MET_DP814791.jpg",
+   "pour": [
+    "faust"
+   ],
+   "sig": "A Scholar in His Study ('Faust') MET DP814791.jpg||400|74"
+  },
+  "longin-gravure": {
+   "f": "img/longin-gravure.webp",
+   "v": "598a45c4f9",
+   "w": 400,
+   "h": 470,
+   "l": "Longin perce de sa lance le flanc du Christ",
+   "cr": "gravure sur bois, 1506 — Rijksmuseum, Amsterdam",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Longinus_steekt_Christus_met_zijn_speer_en_de_ledematen_van_de_misdadigers_worden_gebroken,_RP-P-OB-21.716.jpg",
+   "pour": [
+    "longin"
+   ],
+   "sig": "Longinus steekt Christus met zijn speer en de ledematen van de misdadigers worden gebroken, RP-P-OB-21.716.jpg||400|74"
+  },
+  "lupin-gousse": {
+   "f": "img/lupin-gousse.webp",
+   "v": "58adc4b956",
+   "w": 400,
+   "h": 615,
+   "l": "Arsène Lupin, en couverture d’une édition de Pierre Lafitte",
+   "cr": "Henri Goussé, vers 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arsene_Lupin_1907_French_edition.jpg",
+   "pour": [
+    "arsene-lupin"
+   ],
+   "sig": "Arsene Lupin 1907 French edition.jpg||400|74"
+  },
+  "lohengrin-crane": {
+   "f": "img/lohengrin-crane.webp",
+   "v": "aa34e4d973",
+   "w": 400,
+   "h": 652,
+   "l": "Lohengrin et le cygne, par Walter Crane",
+   "cr": "Walter Crane, 1895",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lohengrin_by_Walter_Crane_(1895).jpg",
+   "pour": [
+    "lohengrin"
+   ],
+   "sig": "Lohengrin by Walter Crane (1895).jpg||400|74"
+  },
+  "joseph-savoldo": {
+   "f": "img/joseph-savoldo.webp",
+   "v": "4f868ec1ea",
+   "w": 560,
+   "h": 304,
+   "l": "Joseph d’Arimathie soutenant le Christ mort, de Savoldo",
+   "cr": "Giovanni Girolamo Savoldo, 1525 — Cleveland Museum of Art",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Giovanni_Girolamo_Savoldo_-_Christ_with_Joseph_of_Arimathea_-_1952.512_-_Cleveland_Museum_of_Art.tiff",
+   "pour": [
+    "joseph-d-arimathie"
+   ],
+   "sig": "Giovanni Girolamo Savoldo - Christ with Joseph of Arimathea - 1952.512 - Cleveland Museum of Art.tiff||560|74"
+  },
+  "paris-stryge": {
+   "f": "img/paris-stryge.webp",
+   "v": "a6b2da8855",
+   "w": 400,
+   "h": 521,
+   "l": "*Le Stryge*, une chimère de Notre-Dame veillant sur Paris",
+   "cr": "Charles Meryon, eau-forte, 1853 — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Meryon_-_Le_Stryge_(The_vampire),_1866,1013.578.jpg",
+   "pour": [
+    "paris"
+   ],
+   "sig": "Meryon - Le Stryge (The vampire), 1866,1013.578.jpg||400|74"
+  },
+  "londres-hollar": {
+   "f": "img/londres-hollar.webp",
+   "v": "faab0754cb",
+   "w": 600,
+   "h": 412,
+   "l": "Londres vue de la rive sud de la Tamise",
+   "cr": "Wenceslas Hollar, 1647",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1647_Long_view_of_London_From_Bankside_-_Wenceslaus_Hollar_(cropped).jpg",
+   "pour": [
+    "londres"
+   ],
+   "sig": "1647 Long view of London From Bankside - Wenceslaus Hollar (cropped).jpg||600|74"
+  },
+  "nuremberg-1561": {
+   "f": "img/nuremberg-1561.webp",
+   "v": "592ce8d3ac",
+   "w": 400,
+   "h": 450,
+   "l": "Le « combat céleste » observé au-dessus de Nuremberg le 14 avril 1561",
+   "cr": "feuille volante de Hans Glaser, 1561 — bibliothèque centrale de Zurich",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Himmelserscheinung_%C3%BCber_N%C3%BCrnberg_vom_14._April_1561.jpg",
+   "pour": [
+    "nuremberg"
+   ],
+   "sig": "Himmelserscheinung über Nürnberg vom 14. April 1561.jpg||400|74"
+  },
+  "venise-barbari": {
+   "f": "img/venise-barbari.webp",
+   "v": "c8e26d07fe",
+   "w": 600,
+   "h": 298,
+   "l": "Venise à vol d’oiseau",
+   "cr": "Jacopo de’ Barbari, 1500 — musée Correr, Venise",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:(Venice)_View_of_Venice_by_Jacopo_de%27_Barbari_-_Museo_Correr.jpg",
+   "pour": [
+    "venise"
+   ],
+   "sig": "(Venice) View of Venice by Jacopo de' Barbari - Museo Correr.jpg||600|74"
+  },
+  "carcassonne-trutat": {
+   "f": "img/carcassonne-trutat.webp",
+   "v": "3dd6d0f6ca",
+   "w": 520,
+   "h": 429,
+   "l": "Les remparts de la Cité de Carcassonne",
+   "cr": "photographie d’Eugène Trutat, fin du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:(Carcassonne_(Aude)._Remparts_de_la_cit%C3%A9)_-_Fonds_Trutat_-_51Fi478.jpg",
+   "pour": [
+    "carcassonne"
+   ],
+   "sig": "(Carcassonne (Aude). Remparts de la cité) - Fonds Trutat - 51Fi478.jpg||520|74"
+  },
+  "milan-visconti": {
+   "f": "img/milan-visconti.webp",
+   "v": "aad98e5b4c",
+   "w": 340,
+   "h": 684,
+   "l": "L’Empereur, carte du tarot Visconti-Sforza peint pour les ducs de Milan",
+   "cr": "attribué à Bonifacio Bembo, vers 1450",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Visconti-sforza-04-emperor.jpg",
+   "pour": [
+    "milan"
+   ],
+   "sig": "Visconti-sforza-04-emperor.jpg||340|74"
+  },
+  "rouen-monet": {
+   "f": "img/rouen-monet.webp",
+   "v": "f39d551c9c",
+   "w": 400,
+   "h": 624,
+   "l": "La cathédrale de Rouen au soleil couchant, de Claude Monet",
+   "cr": "Claude Monet, 1892-1894 — musée Marmottan Monet, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG",
+   "pour": [
+    "rouen"
+   ],
+   "sig": "Claude Monet - Rouen Cathedral, Facade (Sunset).JPG||400|74"
+  },
+  "lyon-1550": {
+   "f": "img/lyon-1550.webp",
+   "v": "e8f1182c67",
+   "w": 560,
+   "h": 478,
+   "l": "Lyon vers 1550, d’après le plan scénographique",
+   "cr": "copie de Maurille-Antoine Moithey, XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plan_sc%C3%A9nographique_de_la_ville_de_Lyon_sous_les_r%C3%A8gnes_de_Fran%C3%A7ois_1er_et_de_Henri_II.jpg",
+   "pour": [
+    "lyon"
+   ],
+   "sig": "Plan scénographique de la ville de Lyon sous les règnes de François 1er et de Henri II.jpg||560|74"
+  },
+  "turin-suaire": {
+   "f": "img/turin-suaire.webp",
+   "v": "d33f852a22",
+   "w": 400,
+   "h": 534,
+   "l": "Le visage du saint Suaire en négatif, révélé par la photographie de Secondo Pia",
+   "cr": "Secondo Pia, 1898",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Secundo_Pia_Turinske_platno_1898.jpg",
+   "pour": [
+    "turin"
+   ],
+   "sig": "Secundo Pia Turinske platno 1898.jpg||400|74"
+  },
+  "vienne-affiche": {
+   "f": "img/vienne-affiche.webp",
+   "v": "ead35aed4d",
+   "w": 400,
+   "h": 726,
+   "l": "L’affiche de la création de *La Flûte enchantée*, Vienne, 30 septembre 1791",
+   "cr": "Theater auf der Wieden, 1791",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Zauberfl%C3%B6te-Theaterzettel1791.jpg",
+   "pour": [
+    "vienne"
+   ],
+   "sig": "Zauberflöte-Theaterzettel1791.jpg||400|74"
+  },
+  "prague-orloj": {
+   "f": "img/prague-orloj.webp",
+   "v": "800b7549fe",
+   "w": 400,
+   "h": 533,
+   "l": "L’horloge astronomique de la place de la Vieille-Ville",
+   "cr": "photographie d’Alf van Beem, 2012",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Prague_Astronomical_Clock,_Prague_Orloj_picture-001.JPG",
+   "pour": [
+    "prague"
+   ],
+   "sig": "Prague Astronomical Clock, Prague Orloj picture-001.JPG||400|74"
+  },
+  "florence-catena": {
+   "f": "img/florence-catena.webp",
+   "v": "38d28fcecf",
+   "w": 600,
+   "h": 260,
+   "l": "Florence vers 1470, la « carte de la chaîne »",
+   "cr": "attribuée à Francesco Rosselli, vers 1470",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Francesco_Rosselli_(attribution)._Pianta_della_Catena,_1470.jpg",
+   "pour": [
+    "florence"
+   ],
+   "sig": "Francesco Rosselli (attribution). Pianta della Catena, 1470.jpg||600|74"
+  },
+  "bayreuth": {
+   "f": "img/bayreuth.webp",
+   "v": "8913ca4eaf",
+   "w": 560,
+   "h": 304,
+   "l": "Le Festspielhaus de Bayreuth",
+   "cr": "gravure publiée par Gustav Kobbé, 1896",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Wagner_Theatre_in_Bayreuth.jpg",
+   "pour": [
+    "bayreuth"
+   ],
+   "sig": "Wagner Theatre in Bayreuth.jpg||560|74"
+  },
+  "etretat-monet": {
+   "f": "img/etretat-monet.webp",
+   "v": "f0a0a2781a",
+   "w": 600,
+   "h": 272,
+   "l": "L’Aiguille et la Porte d’Aval au soleil couchant, de Claude Monet",
+   "cr": "Claude Monet, vers 1883-1885",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Aiguille_%26_Porte_d%E2%80%99Aval,_Etretat_-_Sunset_(c.1883-85).jpg",
+   "pour": [
+    "etretat"
+   ],
+   "sig": "Claude Monet, Aiguille & Porte d’Aval, Etretat - Sunset (c.1883-85).jpg||600|74"
+  },
+  "lusignan-mars": {
+   "f": "img/lusignan-mars.webp",
+   "v": "c28c24c8be",
+   "w": 400,
+   "h": 646,
+   "l": "Le mois de mars des *Très Riches Heures* : au fond, le château de Lusignan, et Mélusine en dragon au-dessus d’une tour",
+   "cr": "frères de Limbourg et Barthélemy d’Eyck, 1412-1416 et vers 1440 — musée Condé, Chantilly",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_mars.jpg",
+   "pour": [
+    "lusignan"
+   ],
+   "sig": "Les Très Riches Heures du duc de Berry mars.jpg||400|74"
+  },
+  "vezelay-tympan": {
+   "f": "img/vezelay-tympan.webp",
+   "v": "3f7f01b9aa",
+   "w": 560,
+   "h": 386,
+   "l": "Le grand tympan de Vézelay : le Christ envoie ses apôtres aux peuples de la terre",
+   "cr": "photographie de Vassil, 2008",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:V%C3%A9zelay_Narthex_Tympan_central_220608_01.jpg",
+   "pour": [
+    "vezelay"
+   ],
+   "sig": "Vézelay Narthex Tympan central 220608 01.jpg||560|74"
   }
  },
  "planches": {

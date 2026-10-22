@@ -18,11 +18,11 @@ glyphe: pentagramme
 an: 1440
 dates: depuis le XVe siècle
 def: Jeu de soixante-dix-huit cartes, né dans les cours d'Italie du Nord au XVe siècle pour jouer, devenu à partir de la fin du XVIIIe siècle un instrument de divination et un livre de symboles ésotériques.
-texte: Le tarot apparaît vers 1440 à Milan et à Ferrare : on ajoute aux quatre enseignes du jeu de cartes ordinaire (bâtons, coupes, épées, deniers) une série de vingt-deux cartes illustrées, les « triomphes » ou atouts, que les occultistes du XIXe siècle appelleront « [[arcane|arcanes]] », et une figure supplémentaire par enseigne. Les plus anciens jeux connus, peints pour les ducs de Milan, les Visconti et les Sforza, montrent l'Amour, la Mort, la Roue de Fortune, le Monde. Pendant trois siècles, le tarot n'est qu'un jeu, encore pratiqué en France.
+texte: Le tarot apparaît vers 1440 à [[milan|Milan]] et à Ferrare : on ajoute aux quatre enseignes du jeu de cartes ordinaire (bâtons, coupes, épées, deniers) une série de vingt-deux cartes illustrées, les « triomphes » ou atouts, que les occultistes du XIXe siècle appelleront « [[arcane|arcanes]] », et une figure supplémentaire par enseigne. Les plus anciens jeux connus, peints pour les ducs de Milan, les Visconti et les Sforza, montrent l'Amour, la Mort, la Roue de Fortune, le Monde. Pendant trois siècles, le tarot n'est qu'un jeu, encore pratiqué en France.
 texte: En 1781, [[court-de-gebelin]] affirme que le tarot est un livre égyptien de sagesse. [[etteilla]] en fait un jeu divinatoire, [[eliphas-levi]] le relie à la [[kabbale]] et aux lettres hébraïques, et la [[golden-dawn|Golden Dawn]] l'intègre à son système de [[correspondances]]. Le XXe siècle voit naître des centaines de jeux nouveaux, dont le [[tarot-rider-waite|Rider-Waite]] (1909) et le [[tarot-de-thoth|tarot de Thoth]] (1944).
 texte: On distingue les vingt-deux [[arcanes-majeurs|arcanes majeurs]] et les cinquante-six [[arcanes-mineurs|arcanes mineurs]]. Le tirage dispose les cartes selon des schémas, dont la croix celtique, chaque position ayant un sens (passé, obstacle, avenir…).
 schema: arcanes-majeurs
-voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin
+voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin, milan
 
 @ arcanes-majeurs
 cat: divination
@@ -31,7 +31,7 @@ alias: atouts, triomphes, trionfi, lames majeures, 22 arcanes
 def: Les vingt-deux cartes illustrées du tarot, numérotées de I à XXI plus le Mat, sans numéro, auxquelles l'ésotérisme attribue un sens symbolique profond.
 texte: Dans l'ordre du [[tarot-de-marseille|tarot de Marseille]] : le [[arcane-bateleur|Bateleur]] (I), la [[arcane-papesse|Papesse]] (II), l'[[arcane-imperatrice|Impératrice]] (III), l'[[arcane-empereur|Empereur]] (IV), le [[arcane-pape|Pape]] (V), l'[[arcane-amoureux|Amoureux]] (VI), le [[arcane-chariot|Chariot]] (VII), la [[arcane-justice|Justice]] (VIII), l'[[arcane-hermite|Hermite]] (IX), la [[arcane-roue-de-fortune|Roue de Fortune]] (X), la [[arcane-force|Force]] (XI), le [[arcane-pendu|Pendu]] (XII), l'[[arcane-sans-nom|arcane sans nom]] (XIII), [[arcane-temperance|Tempérance]] (XIIII), le [[arcane-diable|Diable]] (XV), la [[arcane-maison-dieu|Maison Dieu]] (XVI), l'[[arcane-etoile|Étoile]] (XVII), la [[arcane-lune|Lune]] (XVIII), le [[arcane-soleil|Soleil]] (XVIIII), le [[arcane-jugement|Jugement]] (XX), le [[arcane-monde|Monde]] (XXI) et le [[arcane-mat|Mat]].
 texte: À l'origine, ces images reprennent des thèmes familiers de l'art de la fin du Moyen Âge : les vertus, les âges de la vie, les puissances temporelles et spirituelles, les astres, la Mort et le Jugement dernier, dans une progression qui va de l'homme vers le ciel. [[eliphas-levi]] les associe aux vingt-deux lettres de l'[[alphabet-hebreu|alphabet hébreu]] ; la [[golden-dawn|Golden Dawn]] les place sur les [[sentiers|sentiers]] de l'arbre des séphiroth, en inversant la Force et la Justice. Pour beaucoup d'auteurs, leur suite décrit le chemin initiatique de l'âme.
-voir: tarot, arcanes-mineurs, alphabet-hebreu, sentiers, arcane-mat
+voir: tarot, arcanes-mineurs, alphabet-hebreu, sentiers, arcane-mat, vingt-deux
 
 @ arcanes-mineurs
 cat: divination
@@ -49,7 +49,7 @@ nom: Tarot de Marseille
 alias: tarot de Marseille, tarot Conver, Nicolas Conver, Jean Dodal, Jean Noblet
 an: 1650
 def: Modèle de tarot gravé sur bois, fixé au XVIIe siècle et produit en masse au XVIIIe, notamment à Marseille, devenu la référence du tarot en France.
-texte: Les cartiers de Lyon, de Paris puis de Marseille impriment un modèle de tarot aux figures colorées au pochoir, d'un dessin populaire et vigoureux. Parmi les jeux les plus anciens figurent ceux de Jean Noblet (vers 1650) et de Jean Dodal (vers 1701) ; celui de Nicolas Conver, cartier à Marseille, daté de 1760, est le plus reproduit. Le nom de « tarot de Marseille », employé en 1869 par le collectionneur Romain Merlin, ne s'impose qu'au XXe siècle.
+texte: Les cartiers de [[lyon|Lyon]], de Paris puis de Marseille impriment un modèle de tarot aux figures colorées au pochoir, d'un dessin populaire et vigoureux. Parmi les jeux les plus anciens figurent ceux de Jean Noblet (vers 1650) et de Jean Dodal (vers 1701) ; celui de Nicolas Conver, cartier à Marseille, daté de 1760, est le plus reproduit. Le nom de « tarot de Marseille », employé en 1869 par le collectionneur Romain Merlin, ne s'impose qu'au XXe siècle.
 texte: Les occultistes français, d'[[eliphas-levi]] à [[oswald-wirth]] et [[papus]], ont commenté ce modèle, et le tarologue Paul Marteau en publie en 1930 une édition qui a longtemps fait autorité. Des « restaurations » récentes prétendent retrouver ses couleurs et ses détails d'origine.
 voir: tarot, arcanes-majeurs, oswald-wirth, cartomancie
 
@@ -59,7 +59,7 @@ nom: Tarot Rider-Waite
 alias: Rider-Waite-Smith, Smith-Waite, tarot Waite, RWS
 an: 1909
 def: Tarot conçu en 1909 par Arthur Edward Waite et dessiné par Pamela Colman Smith, dont toutes les cartes sont illustrées de scènes, devenu le plus répandu du monde.
-texte: Publié à Londres par l'éditeur William Rider & Son, ce jeu applique les enseignements de la [[golden-dawn|Golden Dawn]] : la Force devient le numéro VIII et la Justice le XI, la Papesse devient la Grande Prêtresse, le Pape le Hiérophante. Surtout, [[pamela-colman-smith]] illustre chacune des cinquante-six cartes mineures d'une scène humaine — un homme qui porte dix bâtons, trois épées plantées dans un cœur —, ce qui les rend aussi parlantes que les arcanes majeurs.
+texte: Publié à [[londres|Londres]] par l'éditeur William Rider & Son, ce jeu applique les enseignements de la [[golden-dawn|Golden Dawn]] : la Force devient le numéro VIII et la Justice le XI, la Papesse devient la Grande Prêtresse, le Pape le Hiérophante. Surtout, [[pamela-colman-smith]] illustre chacune des cinquante-six cartes mineures d'une scène humaine — un homme qui porte dix bâtons, trois épées plantées dans un cœur —, ce qui les rend aussi parlantes que les arcanes majeurs.
 texte: La plupart des tarots modernes en reprennent les compositions. [[arthur-edward-waite]] l'accompagne de *La Clef illustrée du tarot* (1910).
 voir: arthur-edward-waite, pamela-colman-smith, golden-dawn, tarot, arcanes-mineurs
 
@@ -111,7 +111,7 @@ def: Classique chinois, utilisé comme manuel de divination et livre de sagesse,
 texte: Chaque hexagramme superpose six traits, pleins (yang) ou brisés (yin), soit deux trigrammes de trois traits ; il en existe huit trigrammes et soixante-quatre hexagrammes. On obtient l'hexagramme en manipulant des tiges d'achillée ou en jetant trois pièces, puis on lit le texte qui lui est attaché, ainsi que les commentaires des traits « mutants », qui se transforment en leur contraire et donnent un second hexagramme.
 texte: Le noyau du livre remonte au début du Ier millénaire avant notre ère ; ses commentaires, attribués à Confucius, en ont fait un classique de la philosophie chinoise, fondé sur l'alternance du [[yin-et-yang|yin et du yang]]. La traduction allemande de Richard Wilhelm (1924), préfacée dans sa version anglaise par [[carl-gustav-jung]], l'a fait connaître en Occident, où il a inspiré la contre-culture et des artistes comme John Cage. Leibniz y voyait une préfiguration de son calcul binaire.
 schema: trigrammes
-voir: yin-et-yang, geomancie, divination, carl-gustav-jung
+voir: yin-et-yang, geomancie, divination, carl-gustav-jung, echiquier
 
 @ chiromancie
 cat: divination
@@ -193,7 +193,7 @@ alias: radiesthésiste, sourcier, baguette de sourcier, rhabdomancie, pendule
 def: Pratique qui prétend détecter, à l'aide d'une baguette ou d'un pendule, des sources, des objets cachés ou des renseignements, en captant des « radiations » invisibles.
 texte: Les sourciers, qui cherchent l'eau avec une baguette fourchue, sont décrits dès le XVIe siècle dans les mines allemandes. Le mot « radiesthésie » est créé en 1930 par l'abbé Bouly : l'opérateur serait sensible aux ondes émises par les corps. Le [[pendule]] sert aussi à interroger, au-dessus d'une carte ou d'une liste, sur une personne disparue, une maladie ou un choix.
 texte: Dès 1854, le chimiste Chevreul a montré que les mouvements de la baguette et du pendule viennent de mouvements musculaires involontaires de celui qui les tient. Les tests contrôlés, comme ceux menés en Allemagne dans les années 1980, n'ont pas montré que les sourciers trouvent l'eau mieux que le hasard.
-voir: pendule, tables-tournantes, divination
+voir: pendule, tables-tournantes, divination, orgone
 
 @ pendule
 cat: divination

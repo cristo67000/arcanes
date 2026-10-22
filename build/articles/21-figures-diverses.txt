@@ -10,7 +10,7 @@ dates: vers 1070 – 1136
 an: 1070
 def: Chevalier champenois, fondateur et premier maître de l'ordre du Temple, qui obtint en 1129 au concile de Troyes la reconnaissance de sa règle.
 texte: Seigneur de Payns, près de Troyes, vassal du comte de Champagne, Hugues part pour la Terre sainte au début du XIIe siècle. Vers 1120, à Jérusalem, il fonde avec Geoffroy de Saint-Omer et quelques compagnons une communauté de chevaliers qui font vœu de pauvreté, de chasteté et d'obéissance et se consacrent à la protection des pèlerins. Le roi Baudouin II les loge dans l'ancienne mosquée al-Aqsa, que les croisés croient bâtie sur le [[temple-de-salomon|Temple de Salomon]] : d'où leur nom de [[templiers]].
-texte: En 1127, il gagne l'Occident pour chercher des recrues et des donations. En janvier 1129, le concile de Troyes approuve la règle de l'ordre, inspirée par [[bernard-de-clairvaux|Bernard de Clairvaux]], qui écrit peu après l'*Éloge de la nouvelle milice*. Hugues meurt en Orient en 1136. L'imaginaire ésotérique a fait de ses neuf premières années, passées sur l'esplanade du Temple, le temps d'une fouille secrète d'où les templiers auraient tiré le [[graal|Graal]], l'arche d'alliance ou des documents cachés — une légende sans appui dans les sources.
+texte: En 1127, il gagne l'Occident pour chercher des recrues et des donations. En janvier 1129, le concile de Troyes approuve la règle de l'ordre, inspirée par [[bernard-de-clairvaux|Bernard de Clairvaux]], qui écrit peu après l'*Éloge de la nouvelle milice*. Hugues meurt en Orient en 1136. L'imaginaire ésotérique a fait de ses neuf premières années, passées sur l'esplanade du Temple, le temps d'une fouille secrète d'où les templiers auraient tiré le [[graal|Graal]], l'[[arche-d-alliance|arche d'alliance]] ou des documents cachés — une légende sans appui dans les sources.
 repere: vers 1120 — Il fonde à Jérusalem la communauté des pauvres chevaliers du Christ.
 repere: 1129 — Le concile de Troyes approuve la règle de l'ordre.
 repere: 1136 — Mort en Orient.
@@ -40,14 +40,14 @@ dates: 1090 – 1153
 an: 1090
 def: Abbé cistercien, la plus grande autorité spirituelle de l'Europe du XIIe siècle, qui patronna l'ordre du Temple, prêcha la deuxième croisade et combattit les hérétiques du Midi.
 texte: Né près de Dijon en 1090, Bernard entre à l'abbaye de Cîteaux et fonde en 1115 celle de Clairvaux, qu'il dirige jusqu'à sa mort. Mystique de l'amour divin, commentateur du *Cantique des cantiques*, dévot de la Vierge, conseiller des papes et des rois, il fait de l'ordre cistercien l'un des plus puissants de la chrétienté.
-texte: Au concile de Troyes, en 1129, il soutient la fondation des [[templiers]] de [[hugues-de-payns|Hugues de Payns]], dont la règle s'inspire de la sienne, et leur adresse l'*Éloge de la nouvelle milice*, qui justifie le moine-soldat. Il prêche la deuxième croisade à Vézelay en 1146 et parcourt le Languedoc en 1145 pour ramener les hérétiques, sans grand succès. [[rene-guenon|René Guénon]], qui lui consacre une étude en 1929, voit en lui le maître spirituel du Temple et l'un des derniers grands représentants d'un christianisme encore initiatique.
+texte: Au concile de Troyes, en 1129, il soutient la fondation des [[templiers]] de [[hugues-de-payns|Hugues de Payns]], dont la règle s'inspire de la sienne, et leur adresse l'*Éloge de la nouvelle milice*, qui justifie le moine-soldat. Il prêche la deuxième croisade à [[vezelay|Vézelay]] en 1146 et parcourt le Languedoc en 1145 pour ramener les hérétiques, sans grand succès. [[rene-guenon|René Guénon]], qui lui consacre une étude en 1929, voit en lui le maître spirituel du Temple et l'un des derniers grands représentants d'un christianisme encore initiatique.
 repere: 1115 — Fondation de l'abbaye de Clairvaux.
 repere: 1129 — Il soutient la règle des templiers au concile de Troyes.
 repere: 1146 — Il prêche la deuxième croisade à Vézelay.
 repere: 1153 — Mort à Clairvaux.
 repere: 1174 — Canonisation.
 oeuvres: Éloge de la nouvelle milice (vers 1130) ; Sermons sur le Cantique des cantiques ; Traité de l'amour de Dieu
-voir: templiers, hugues-de-payns, catharisme, rene-guenon
+voir: templiers, hugues-de-payns, catharisme, rene-guenon, vezelay, divine-comedie
 
 @ francois-rabelais
 cat: figures
@@ -56,7 +56,7 @@ alias: Rabelais, Gargantua, Pantagruel, abbaye de Thélème, Fais ce que voudras
 dates: vers 1490 – 1553
 an: 1490
 def: Moine, médecin et écrivain de la Renaissance, dont l'abbaye de Thélème, à la devise « Fais ce que voudras », a inspiré la Thélème d'Aleister Crowley et bien des lectures initiatiques.
-texte: Né près de Chinon, à la Devinière, François Rabelais est d'abord franciscain, puis bénédictin, avant d'étudier la médecine à Montpellier et d'exercer à l'Hôtel-Dieu de Lyon. Humaniste, helléniste, ami des évangéliques, il publie en 1532 *Pantagruel*, puis *Gargantua* (1534 ou 1535), suivis du *Tiers Livre* et du *Quart Livre*, condamnés par la Sorbonne pour leur liberté de ton.
+texte: Né près de Chinon, à la Devinière, François Rabelais est d'abord franciscain, puis bénédictin, avant d'étudier la médecine à Montpellier et d'exercer à l'Hôtel-Dieu de [[lyon|Lyon]]. Humaniste, helléniste, ami des évangéliques, il publie en 1532 *Pantagruel*, puis *Gargantua* (1534 ou 1535), suivis du *Tiers Livre* et du *Quart Livre*, condamnés par la Sorbonne pour leur liberté de ton.
 texte: À la fin de *Gargantua*, le géant fonde pour le moine Jean une abbaye à rebours des couvents : pas de murs, pas d'horloge, des hommes et des femmes bien nés, instruits et libres, dont la règle tient en une clause : « Fais ce que voudras ». Le *Cinquième Livre*, posthume, mène les héros à l'oracle de la Dive Bouteille, qui répond d'un seul mot : « Trinch », « bois ».
 texte: Les ésotéristes ont lu ces pages comme des allégories cachées : [[josephin-peladan|Péladan]] publie en 1905 *La Clef de Rabelais*, d'autres y trouvent de l'alchimie, de la kabbale ou la « langue des oiseaux » chère à [[fulcanelli]]. [[aleister-crowley|Aleister Crowley]] reprend l'abbaye et sa devise pour fonder sa religion de [[thelema|Thélème]] et baptiser sa communauté de [[abbaye-de-theleme|Cefalù]].
 repere: 1532 — *Pantagruel* ; médecin à l'Hôtel-Dieu de Lyon.
@@ -85,7 +85,7 @@ repere: 1852 — *Les Illuminés*.
 repere: 1854 — *Les Filles du feu* et *Les Chimères*.
 repere: 1855 — Il se pend à Paris ; *Aurélia* paraît la même année.
 oeuvres: Voyage en Orient (1851) ; Les Illuminés (1852) ; Les Filles du feu (1854) ; Les Chimères (1854) ; Aurélia (1855)
-voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo
+voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo, faust
 
 @ karl-maria-wiligut
 cat: figures
@@ -95,13 +95,13 @@ dates: 1866 – 1946
 an: 1866
 def: Officier autrichien, occultiste racialiste interné pour démence, qui devint sous le nom de Weisthor le conseiller ésotérique de Himmler et dessina les rituels et emblèmes de la SS.
 texte: Né à Vienne en 1866, officier de carrière de l'armée austro-hongroise, Karl Maria Wiligut publie avant la Grande Guerre des écrits où il se dit l'héritier d'une tradition familiale remontant à des rois germaniques préhistoriques, gardiens d'une religion « irministe » que le christianisme aurait persécutée. Proche des milieux de l'[[ariosophie]] et de l'Ordre du Nouveau Temple de [[jorg-lanz-von-liebenfels|Lanz von Liebenfels]], il est interné en 1924, à la demande de sa femme, dans un asile de Salzbourg, d'où il sort en 1927.
-texte: Installé à Munich, il est présenté à Heinrich Himmler en 1933, entre à la SS sous le nom de Weisthor et dirige un service consacré à la préhistoire. Il dessine l'anneau à tête de mort de la SS, conçoit des cérémonies de mariage et de solstice, et inspire le projet de [[wewelsburg|Wewelsburg]]. Sa santé mentale et son passé d'interné finissant par être connus, il est mis à la retraite en 1939. Il meurt en 1946. Il incarne, pour les historiens, la part la plus délirante de l'ésotérisme nazi.
+texte: Installé à Munich, il est présenté à [[heinrich-himmler|Heinrich Himmler]] en 1933, entre à la SS sous le nom de Weisthor et dirige un service consacré à la préhistoire. Il dessine l'anneau à tête de mort de la SS, conçoit des cérémonies de mariage et de solstice, et inspire le projet de [[wewelsburg|Wewelsburg]]. Sa santé mentale et son passé d'interné finissant par être connus, il est mis à la retraite en 1939. Il meurt en 1946. Il incarne, pour les historiens, la part la plus délirante de l'ésotérisme nazi.
 repere: 1866 — Naissance à Vienne.
 repere: 1924 — Interné dans un asile de Salzbourg, jusqu'en 1927.
 repere: 1933 — Il entre à la SS sous le nom de Weisthor.
 repere: 1939 — Mis à la retraite par Himmler.
 repere: 1946 — Mort à Arolsen.
-voir: ariosophie, wewelsburg, ahnenerbe, soleil-noir, guido-von-list
+voir: ariosophie, wewelsburg, ahnenerbe, soleil-noir, guido-von-list, heinrich-himmler
 
 @ jorg-lanz-von-liebenfels
 cat: figures
@@ -142,7 +142,7 @@ alias: abbé Boullan, Boullan, docteur Johannès, guerre des envoûtements
 dates: 1824 – 1893
 an: 1824
 def: Prêtre défroqué, chef d'une secte mystique lyonnaise, que Stanislas de Guaita accusa de magie noire et dont la mort déclencha la « guerre des envoûtements » et des duels entre occultistes.
-texte: Prêtre et docteur en théologie, Joseph-Antoine Boullan fonde en 1859 avec une religieuse, Adèle Chevalier, une « Œuvre de la réparation des âmes », qui prétend guérir les possédés par des remèdes étranges. Condamné pour escroquerie, interdit par l'Église, il rejoint à Lyon la secte du prophète Vintras, l'Œuvre de la Miséricorde, dont il prend la tête en 1875. Il y enseigne des « unions de vie » où la sexualité deviendrait rédemptrice, et combat les sorts par des rites de son invention.
+texte: Prêtre et docteur en théologie, Joseph-Antoine Boullan fonde en 1859 avec une religieuse, Adèle Chevalier, une « Œuvre de la réparation des âmes », qui prétend guérir les possédés par des remèdes étranges. Condamné pour escroquerie, interdit par l'Église, il rejoint à [[lyon|Lyon]] la secte du prophète Vintras, l'Œuvre de la Miséricorde, dont il prend la tête en 1875. Il y enseigne des « unions de vie » où la sexualité deviendrait rédemptrice, et combat les sorts par des rites de son invention.
 texte: En 1887, [[stanislas-de-guaita|Stanislas de Guaita]] et [[oswald-wirth|Oswald Wirth]], qui l'ont approché, le déclarent coupable de magie noire et le « condamnent » ; Boullan se dit dès lors attaqué par leurs envoûtements et y répond par des contre-sorts. [[joris-karl-huysmans|Huysmans]], qui le fréquente, en fait le docteur Johannès de *Là-bas* (1891). Quand Boullan meurt subitement en janvier 1893, le journaliste Jules Bois accuse Guaita de l'avoir tué par magie : Guaita et Papus se battent en duel avec Bois, sans victime. L'affaire fit la joie de la presse parisienne.
 repere: 1859 — Il fonde l'Œuvre de la réparation des âmes avec Adèle Chevalier.
 repere: 1875 — Il prend la tête de la secte vintrasienne de Lyon.
@@ -175,7 +175,7 @@ dates: 1874 – 1929
 an: 1874
 def: Occultiste et érudit français, traducteur de Paracelse, dont le Musée des sorciers, mages et alchimistes (1929) reste un recueil d'images de référence sur la magie et l'alchimie.
 texte: Lettré, musicien, Émile-Jules Grillot de Givry fréquente les milieux occultistes parisiens et publie des méditations mystiques, *Le Grand Œuvre* (1907), et un essai sur Lourdes comme lieu initiatique. Il entreprend la première traduction française des œuvres de [[paracelse|Paracelse]], dont paraissent deux volumes.
-texte: Son ouvrage majeur, *Le Musée des sorciers, mages et alchimistes*, paru l'année de sa mort, réunit plus de trois cents gravures, manuscrits et tableaux classés par thèmes — les sorcières et le [[sabbat]], les démons, la [[kabbale]], l'[[astrologie]], la [[chiromancie]], l'[[alchimie]] — accompagnés d'un commentaire précis. Traduit en anglais sous le titre *Witchcraft, Magic and Alchemy*, il a fourni leurs images à des générations d'ouvrages sur l'occulte.
+texte: Son ouvrage majeur, *Le Musée des sorciers, mages et alchimistes*, paru l'année de sa mort, réunit plus de trois cents gravures, manuscrits et tableaux classés par thèmes — les [[sorciere|sorcières]] et le [[sabbat]], les démons, la [[kabbale]], l'[[astrologie]], la [[chiromancie]], l'[[alchimie]] — accompagnés d'un commentaire précis. Traduit en anglais sous le titre *Witchcraft, Magic and Alchemy*, il a fourni leurs images à des générations d'ouvrages sur l'occulte.
 repere: 1907 — *Le Grand Œuvre*.
 repere: 1913 — Premier volume de sa traduction de Paracelse.
 repere: 1929 — *Le Musée des sorciers, mages et alchimistes* ; mort la même année.

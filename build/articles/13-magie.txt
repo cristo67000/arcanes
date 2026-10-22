@@ -46,7 +46,7 @@ alias: goetia, goétie, goétique, Ars Goetia
 def: Magie qui invoque les démons, considérée comme la forme basse et dangereuse de la magie ; par extension, la première partie du Lemegeton, qui décrit soixante-douze esprits infernaux.
 texte: Le grec *goêteia* désignait la sorcellerie, l'art des charlatans et des enchanteurs. La Renaissance l'oppose à la [[theurgie]] : le goète commande aux démons, ou croit les commander, au péril de son âme.
 texte: La *Goétie* du *[[lemegeton|Lemegeton]]* énumère soixante-douze démons, leurs sceaux, leurs fonctions et la manière de les contraindre à apparaître dans un triangle placé hors du [[cercle-magique|cercle]] du magicien. Elle reste très utilisée par certains courants de la magie contemporaine.
-voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau
+voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau, soixante-douze
 
 @ magie-enochienne
 cat: magie
@@ -55,7 +55,7 @@ alias: énochien, enochien, langue énochienne, langue angélique, clés énochi
 def: Système magique reçu par John Dee et Edward Kelley de 1582 à 1589 au cours de conversations avec des anges, comprenant une langue, un alphabet, des appels et de grandes tables de lettres.
 texte: Les anges, vus par [[edward-kelley]] dans une pierre de vision, dictent lettre par lettre des tables carrées, un alphabet de vingt et une lettres et quarante-huit « appels » ou « clés » dans une langue dite angélique, celle qu'Adam aurait parlée et qu'Hénoch aurait connue. [[john-dee]] note tout dans ses journaux, conservés aujourd'hui à la British Library.
 texte: Redécouverte par la [[golden-dawn|Golden Dawn]], la magie énochienne devient l'un des piliers de la magie moderne ; [[aleister-crowley]] explore en 1909, dans le désert algérien, les trente « Aethyrs » décrits par les appels. Les linguistes ont relevé que la grammaire de la langue énochienne est très proche de celle de l'anglais.
-voir: john-dee, edward-kelley, livre-d-henoch, anges, cristallomancie, golden-dawn
+voir: john-dee, edward-kelley, livre-d-henoch, anges, cristallomancie, golden-dawn, echecs-enochiens
 
 @ magie-sexuelle
 cat: magie
@@ -164,7 +164,7 @@ nom: Évocation
 alias: évoquer, invocation, invoquer, conjuration, conjurer, adjuration
 def: Opération magique par laquelle on appelle un esprit à se manifester hors de soi ; on la distingue de l'invocation, où l'on appelle une puissance divine à descendre en soi.
 texte: Dans l'évocation, le magicien, protégé par son [[cercle-magique|cercle]], ordonne à un ange ou à un démon d'apparaître, souvent dans un triangle, un miroir ou une fumée d'encens, puis le congédie par une formule de renvoi. La conjuration est la formule par laquelle on le contraint au nom des noms divins.
-texte: La distinction entre évocation et invocation a été précisée par la [[golden-dawn|Golden Dawn]] et [[aleister-crowley]] : on évoque ce qui est inférieur à soi, on invoque ce qui est supérieur. [[eliphas-levi]] raconte son évocation d'Apollonius à Londres, en 1854, comme une expérience troublante dont il déconseille la répétition.
+texte: La distinction entre évocation et invocation a été précisée par la [[golden-dawn|Golden Dawn]] et [[aleister-crowley]] : on évoque ce qui est inférieur à soi, on invoque ce qui est supérieur. [[eliphas-levi]] raconte son évocation d'Apollonius à [[londres|Londres]], en 1854, comme une expérience troublante dont il déconseille la répétition.
 extrait: Un peu rassuré par mes réflexions, je me rassois sur mes reins, je me piète ; je prononce l’évocation d’une voix claire et soutenue ; et, en grossissant le son, j’appelle, à trois reprises et à très-courts intervalles, Béelzébuth. ¶ Un frisson courait dans toutes mes veines, et mes cheveux se hérissaient sur ma tête. ¶ À peine avais-je fini, une fenêtre s’ouvre à deux battants vis-à-vis de moi, au haut de la voûte : un torrent de lumière plus éblouissante que celle du jour fond par cette ouverture ; une tête de chameau horrible, autant par sa grosseur que par sa forme, se présente à la fenêtre ; surtout elle avait des oreilles démesurées. L’odieux fantôme ouvre la gueule, et, d’un ton assorti au reste de l’apparition, me répond : Che vuoi ?
 source: Jacques Cazotte, *Le Diable amoureux*, 1772 | gallica btv1b8613368c = l’édition originale numérisée | ws Le Diable amoureux/02
 voir: cercle-magique, goetie, necromancie, magie-ceremonielle, theurgie
@@ -183,7 +183,7 @@ cat: magie
 nom: Sorcellerie
 alias: sorcier, sorcière, sorciers, sorcières, maléfice, maleficium, witchcraft
 def: Pouvoir de nuire par des moyens occultes que l'on prête à certaines personnes ; dans l'Europe moderne, crime imaginaire d'alliance avec le Diable, puni de mort.
-texte: Dans de nombreuses sociétés, le malheur — maladie, mort du bétail, mauvaise récolte — est attribué à l'action malveillante d'un voisin doté de pouvoirs. L'Europe médiévale connaît des guérisseurs, des devins et des « jeteurs de sorts ». À partir du XVe siècle, les théologiens et les juges construisent une figure nouvelle : la sorcière qui a fait un pacte avec Satan, vole la nuit vers le [[sabbat]] et tue par maléfice. C'est l'origine de la [[chasse-aux-sorcieres|chasse aux sorcières]].
+texte: Dans de nombreuses sociétés, le malheur — maladie, mort du bétail, mauvaise récolte — est attribué à l'action malveillante d'un voisin doté de pouvoirs. L'Europe médiévale connaît des guérisseurs, des devins et des « jeteurs de sorts ». À partir du XVe siècle, les théologiens et les juges construisent une figure nouvelle : la [[sorciere|sorcière]] qui a fait un pacte avec Satan, vole la nuit vers le [[sabbat]] et tue par maléfice. C'est l'origine de la [[chasse-aux-sorcieres|chasse aux sorcières]].
 texte: Au XXe siècle, le mot change de sens : la [[wicca]] et des courants féministes revendiquent l'héritage des « sorcières » comme figure de liberté et de savoir féminin. Les historiens soulignent que les victimes des procès n'appartenaient pas, pour l'essentiel, à une religion païenne survivante.
 extrait: Sprenger dit (avant 1500) : « Il faut dire l’hérésie des sorcières, et non des sorciers ; ceux-ci sont peu de chose. » — Et un autre sous Louis XIII : « Pour un sorcier, dix mille sorcières. » ¶ « Nature les fait sorcières. » — C’est le génie propre à la Femme et son tempérament. Elle naît Fée. Par le retour régulier de l’exaltation, elle naît Sibylle. Par l’amour, elle est Magicienne. Par sa finesse, sa malice (souvent fantasque et bienfaisante), elle est Sorcière et fait le sort, du moins endort, trompe les maux.
 source: Jules Michelet, *La Sorcière*, 1862, introduction | gallica bpt6k57265106 = l’édition de 1878 numérisée | ws La Sorcière/Introduction
@@ -198,7 +198,7 @@ texte: Les procès décrivent le vol nocturne sur un balai ou un animal, après 
 texte: Les historiens y voient pour l'essentiel une construction des démonologues, que la torture faisait confirmer par les accusés. L'historien Carlo Ginzburg a cependant montré, avec les *benandanti* du Frioul, qui disaient combattre en esprit les sorciers pour protéger les récoltes, que des croyances populaires en des voyages extatiques ont été réinterprétées par les juges.
 extrait: Sabbat. C’est l’assemblée des démons, des sorciers et des sorcières dans leurs orgies nocturnes. Nous devons donner ici les relations des démonomanes sur ce sujet. On s’occupe au sabbat, disent-ils, à faire ou à méditer le mal, à donner des craintes et des frayeurs, à préparer les maléfices, à accomplir des mystères abominables. Le sabbat se fait dans un carrefour ou dans quelque lieu désert et sauvage, auprès d’un lac, d’un étang, d’un marais, parce qu’on y produit la grêle et qu’on y fabrique des orages. (…) Les nuits ordinaires de la convocation du sabbat sont celles du mercredi au jeudi et du vendredi au samedi.
 source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Sabbat » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Sabbat
-voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet
+voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet, walpurgis, sorciere
 
 @ chasse-aux-sorcieres
 cat: magie
@@ -207,7 +207,7 @@ alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus malefic
 def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
 texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
 texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin [[jean-wier|Jean Wier]] en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
-voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem
+voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem, sorciere
 
 @ demonologie
 cat: magie
@@ -234,7 +234,7 @@ nom: Hiérarchies célestes
 alias: neuf chœurs des anges, chœurs angéliques, séraphins, chérubins, trônes, dominations, vertus, puissances, principautés
 def: Classement des anges en neuf chœurs répartis en trois triades, établi vers l'an 500 par le Pseudo-Denys et devenu classique dans le christianisme.
 texte: La première triade, la plus proche de Dieu, comprend les Séraphins, les Chérubins et les Trônes ; la deuxième, les Dominations, les Vertus et les Puissances ; la troisième, les Principautés, les Archanges et les Anges. Chaque chœur reçoit la lumière du précédent et la transmet au suivant.
-texte: Dante place les neuf chœurs dans les neuf ciels du *Paradis*, et la magie de la Renaissance les fait correspondre aux sphères célestes et aux [[sephiroth|séphiroth]]. Le schéma a fourni le modèle de nombreuses hiérarchies ésotériques ultérieures, y compris démoniaques.
+texte: [[dante|Dante]] place les neuf chœurs dans les neuf ciels du *Paradis*, et la magie de la Renaissance les fait correspondre aux sphères célestes et aux [[sephiroth|séphiroth]]. Le schéma a fourni le modèle de nombreuses hiérarchies ésotériques ultérieures, y compris démoniaques.
 schema: hierarchies-celestes
 voir: anges, pseudo-denys, cosmos-geocentrique, emanation
 

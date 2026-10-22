@@ -9,10 +9,10 @@ an: 200
 dates: IIe – IIIe siècles ; traduit par Ficin en 1463
 def: Recueil de dix-sept traités grecs attribués à Hermès Trismégiste, composés dans l'Égypte romaine, qui enseignent la connaissance de Dieu, du monde et de l'homme.
 texte: Ces traités, de longueur et d'inspiration variées, se présentent comme des dialogues entre [[hermes-trismegiste|Hermès]] et ses disciples, Tat, Asclépius ou Ammon. Ils ont été réunis par des copistes byzantins, peut-être au XIe siècle. Le premier, le *[[poimandres|Poimandrès]]*, raconte la création du monde et la chute de l'homme ; d'autres enseignent que Dieu est bon, que le monde est son image et que l'homme peut devenir divin par la connaissance, ou décrivent une renaissance spirituelle.
-texte: En 1462, un moine rapporte de Macédoine un manuscrit à Florence ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
+texte: En 1462, un moine rapporte de Macédoine un manuscrit à [[florence|Florence]] ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
 extrait: Et voilà pourquoi, seul de tous les êtres qui vivent sur la terre, l’homme est double, mortel par le corps, immortel par sa propre essence. Immortel et souverain de toutes choses, il est soumis à la destinée qui régit ce qui est mortel ; supérieur à l’harmonie du monde, il est captif dans ses liens ; mâle et femelle comme son père et supérieur au sommeil, il est dominé par le sommeil.
 source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
-voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose
+voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose, florence
 
 @ poimandres
 cat: textes
@@ -109,7 +109,7 @@ def: Bref traité hébreu de l'Antiquité tardive qui explique la création du m
 texte: Attribué par la tradition au patriarche Abraham, le *Livre de la formation* est sans doute composé entre le IIIe et le VIe siècle. Dieu y crée le monde par dix *sefirot* — un mot qui désigne ici des nombres ou des dimensions — et par les vingt-deux lettres, réparties en trois « mères » (*alef*, *mem*, *shin*), sept « doubles » et douze « simples ». Chaque lettre correspond à un élément, une planète ou un signe du zodiaque, à un jour, un mois et une partie du corps.
 texte: Commenté par les philosophes juifs dès le Xe siècle, il devient un texte fondateur de la [[kabbale]], qui fera de ses sefirot les puissances divines de l'[[arbre-des-sephiroth|arbre des séphiroth]]. [[guillaume-postel]] le traduit en latin en 1552, et ses correspondances entre lettres et astres structurent la [[kabbale-hermetique|kabbale hermétique]] et le [[tarot]] des occultistes.
 schema: alphabet-hebreu
-voir: kabbale, alphabet-hebreu, sephiroth, golem, tarot
+voir: kabbale, alphabet-hebreu, sephiroth, golem, tarot, vingt-deux, dix
 
 @ sefer-ha-bahir
 cat: textes
@@ -191,7 +191,7 @@ dates: manuscrits du XVIIe siècle
 def: Grimoire anglais du XVIIe siècle en cinq parties, dont la première, la Goétie, décrit soixante-douze démons et la manière de les contraindre.
 texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *[[ars-notoria|Art notoire]]* censé donner la science par la prière.
 texte: La liste des démons rejoint celle que le médecin [[jean-wier|Jean Wier]] avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
-voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau
+voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau, soixante-douze
 
 @ livre-d-abramelin
 cat: textes
@@ -519,12 +519,20 @@ voir: thelema, aleister-crowley, oto, egyptosophie
 @ mystere-des-cathedrales
 cat: textes
 nom: Le Mystère des cathédrales
-alias: Mystère des cathédrales
+alias: Mystère des cathédrales, Le Mystère des cathédrales et l'interprétation ésotérique des symboles hermétiques du Grand Œuvre
 an: 1926
+dates: 1926 ; réédition augmentée en 1957
 def: Livre de l'alchimiste anonyme Fulcanelli, publié en 1926, qui interprète les sculptures des cathédrales gothiques comme un livre de pierre de l'alchimie.
-texte: [[fulcanelli]] y décrit le portail central de [[notre-dame-de-paris|Notre-Dame de Paris]], dont les médaillons montreraient les opérations de l'œuvre, celui d'Amiens, l'[[hotel-lallemant|hôtel Lallemant]] de Bourges et, dans la réédition de 1957, la [[croix-d-hendaye|croix d'Hendaye]]. Il joue sur l'argot des bâtisseurs et la « [[langue-des-oiseaux|langue des oiseaux]] », une lecture des mots par leurs sonorités : « gothique » viendrait de l'« art goth », l'argot.
-texte: Les historiens de l'art ne retiennent pas ses interprétations, mais le livre a connu un succès durable et profondément marqué la vision populaire des cathédrales comme lieux de savoirs cachés.
-voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre, les-demeures-philosophales, notre-dame-de-paris
+texte: Publié à Paris en 1926 chez Jean Schemit, avec une préface d'[[eugene-canseliet|Eugène Canseliet]] et des planches du peintre Julien Champagne, le livre s'ouvre sur un souvenir d'enfance : l'émotion d'un garçon de sept ans devant une cathédrale. Pour [[fulcanelli]], la cathédrale gothique n'est pas seulement un monument de la foi chrétienne : c'est le « sanctuaire de la Tradition, de la Science et de l'Art », un livre d'images où les bâtisseurs, héritiers des philosophes, ont gravé dans la pierre les secrets du [[grand-oeuvre|Grand Œuvre]].
+texte: Il lit ainsi le grand portail de [[notre-dame-de-paris|Notre-Dame de Paris]] : la femme assise au pied du trumeau, tenant un sceptre et une échelle à neuf échelons, serait l'Alchimie elle-même, et les médaillons des vertus et des vices montreraient les matières et les opérations de l'œuvre. Il étudie de même le portail d'Amiens, puis, à Bourges, l'[[hotel-lallemant|hôtel Lallemant]] et la maison de Jacques Cœur. Tout au long, il joue sur l'argot des bâtisseurs et sur la « [[langue-des-oiseaux|langue des oiseaux]] », une lecture des mots par leurs sonorités : l'art « gothique » serait l'art « goth », l'argot, langue secrète des initiés.
+texte: La réédition de 1957 ajoute un chapitre sur la [[croix-d-hendaye|croix d'Hendaye]], où l'auteur annonce la fin d'un cycle du monde. Les historiens de l'art et de l'alchimie, comme Robert Halleux ou Didier Kahn, ne retiennent pas ces interprétations, qui prêtent aux sculpteurs médiévaux un savoir qu'aucun document n'atteste. Mais le livre, réédité sans cesse et popularisé par *Le Matin des magiciens*, a profondément marqué l'image populaire des cathédrales comme lieux de savoirs cachés, et l'on cherche encore sur les portails de Notre-Dame les figures qu'il décrit.
+repere: 1926 — Première édition, chez Jean Schemit, à Paris.
+repere: 1957 — Réédition augmentée du chapitre sur la croix d'Hendaye.
+extrait: La plus forte impression de notre prime jeunesse, — nous avions sept ans, — celle dont nous gardons encore un souvenir vivace, fut l'émotion que provoqua, en notre âme d'enfant, la vue d'une cathédrale gothique. Nous en fûmes, sur-le-champ, transporté, extasié, frappé d'admiration, incapable de nous arracher à l'attrait du merveilleux, à la magie du splendide, de l'immense, du vertigineux que dégageait cette œuvre plus divine qu'humaine. ¶ Depuis, la vision s'est transformée, mais l'impression demeure. Et si l'accoutumance a modifié le caractère prime-sautier et pathétique du premier contact, nous n'avons jamais pu nous défendre d'une sorte de ravissement devant ces beaux livres d'images dressés sur nos parvis, et qui développent jusqu'au ciel leurs feuillets de pierre sculptés.
+source: Fulcanelli, *Le Mystère des cathédrales*, Jean Schemit, 1926, chap. I (texte de la première édition) | bnf 11903722t
+extrait: Pour nous, art gothique n'est qu'une déformation orthographique du mot argotique, dont l'assonance est parfaite, conformément à la loi phonétique qui régit, dans toutes les langues et sans tenir compte de l'orthographe, la cabale traditionnelle. La cathédrale est une œuvre d'art goth ou d'argot. Or, les dictionnaires définissent l'argot comme étant « un langage particulier à tous les individus qui ont intérêt à se communiquer leurs pensées sans être compris de ceux qui les entourent ». C'est donc bien une cabale parlée. Les argotiers, ceux qui utilisent ce langage, sont descendants hermétiques des argo-nautes, lesquels montaient le navire Argo, parlaient la langue argotique, — notre langue verte, — en voguant vers les rives fortunées de Colchos pour y conquérir la fameuse Toison d'or.
+source: Fulcanelli, *Le Mystère des cathédrales*, Jean Schemit, 1926, chap. III (texte de la première édition) | bnf 11903722t
+voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre, les-demeures-philosophales, notre-dame-de-paris, langue-des-oiseaux, croix-d-hendaye
 
 @ regne-de-la-quantite
 cat: textes
@@ -570,7 +578,7 @@ alias: Bulwer-Lytton, gardien du seuil, Mejnour
 dates: 1842
 an: 1842
 def: Roman d'Edward Bulwer-Lytton paru en 1842, dont le héros est un Rose-Croix immortel, et qui popularisa l'idée d'un « gardien du seuil » de l'initiation.
-texte: Dans la préface, l'auteur raconte avoir reçu d'un vieil homme, rencontré dans une librairie de Londres spécialisée dans les sciences occultes, un manuscrit chiffré qu'il aurait déchiffré et mis en forme. Le roman suit Zanoni, beau et mystérieux étranger, membre d'une fraternité rosicrucienne immémoriale qui a percé le secret de l'immortalité, et son vieux compagnon Mejnour, sage austère et sans passions. À Naples, à la fin du XVIIIe siècle, Zanoni s'éprend d'une jeune chanteuse, Viola Pisani.
+texte: Dans la préface, l'auteur raconte avoir reçu d'un vieil homme, rencontré dans une librairie de [[londres|Londres]] spécialisée dans les sciences occultes, un manuscrit chiffré qu'il aurait déchiffré et mis en forme. Le roman suit Zanoni, beau et mystérieux étranger, membre d'une fraternité rosicrucienne immémoriale qui a percé le secret de l'immortalité, et son vieux compagnon Mejnour, sage austère et sans passions. À Naples, à la fin du XVIIIe siècle, Zanoni s'éprend d'une jeune chanteuse, Viola Pisani.
 texte: Un jeune Anglais, Glyndon, veut lui aussi être initié. Mejnour le soumet aux épreuves, mais Glyndon, impatient, boit l'élixir défendu et voit surgir le « gardien du seuil », un spectre terrifiant qui le poursuivra : l'image des forces que libère l'initiation chez celui qui n'est pas purifié. Zanoni, lui, renonce à l'immortalité par amour ; la fin se passe à Paris sous la Terreur, où il se livre au bourreau pour sauver Viola, le jour même de la chute de Robespierre.
 texte: [[edward-bulwer-lytton]], homme politique et romancier très lu, s'intéressait de près à l'occultisme et reçut [[eliphas-levi]] à Londres en 1854. *Zanoni* a fourni à l'ésotérisme moderne plusieurs de ses images : la fraternité invisible des adeptes, l'épreuve initiatique et son « gardien du seuil », repris par [[helena-blavatsky]] et par [[rudolf-steiner]]. Le roman a été lu comme un véritable livre d'initiation par des générations d'occultistes.
 repere: 1842 — Publication de *Zanoni*.
@@ -585,7 +593,7 @@ alias: Aradia ou l'Évangile des sorcières, Aradia, or the Gospel of the Witche
 dates: 1899
 an: 1899
 def: Livre de l'écrivain américain Charles Godfrey Leland, paru en 1899, qui prétend transcrire l'évangile secret des sorcières de Toscane, adoratrices de Diane, et qui inspira la wicca.
-texte: Charles Godfrey Leland, journaliste et folkloriste américain installé en Europe, passionné par les traditions des Tsiganes et des campagnes italiennes, dit avoir reçu en 1897 d'une informatrice florentine, Maddalena, qu'il présente comme une sorcière, le manuscrit d'un « évangile des sorcières ». Il le publie à Londres en 1899, en italien et en traduction anglaise, accompagné de ses commentaires.
+texte: Charles Godfrey Leland, journaliste et folkloriste américain installé en Europe, passionné par les traditions des Tsiganes et des campagnes italiennes, dit avoir reçu en 1897 d'une informatrice florentine, Maddalena, qu'il présente comme une [[sorciere|sorcière]], le manuscrit d'un « évangile des sorcières ». Il le publie à [[londres|Londres]] en 1899, en italien et en traduction anglaise, accompagné de ses commentaires.
 texte: Le texte raconte que Diane, déesse de la Lune, unie à son frère Lucifer, dieu de la lumière, eut une fille, Aradia, qu'elle envoya sur la terre pour enseigner la [[sorcellerie]] aux paysans pauvres, opprimés par les seigneurs et par l'Église, afin qu'ils puissent se défendre et se venger. Aradia ordonne à ses fidèles de se réunir à la pleine lune, nus, pour adorer Diane, partager un repas de gâteaux et de vin, et apprendre les incantations ; le livre rapporte aussi des conjurations et des recettes de la magie populaire toscane.
 texte: L'authenticité du texte reste discutée : invention de Leland, création de son informatrice, ou écho d'une véritable tradition populaire, mêlée de souvenirs savants ? Les historiens penchent pour un mélange. Quoi qu'il en soit, *Aradia* a joué un grand rôle dans la naissance de la [[wicca]] : la « Charge de la Déesse », texte central du rituel de [[gerald-gardner]] récrit par Doreen Valiente, en reprend des passages, et la figure d'Aradia est devenue l'une des divinités du [[neopaganisme]].
 repere: 1886 — À Florence, Leland rencontre son informatrice, Maddalena.

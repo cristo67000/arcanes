@@ -22,7 +22,7 @@ def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée 
 texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
-voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera
+voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze
 
 @ belier
 cat: astrologie
@@ -164,7 +164,7 @@ def: Pour l'astrologie traditionnelle, les sept astres qui se déplacent parmi l
 texte: Le mot grec *planêtês* signifie « errant » : les planètes, à la différence des étoiles fixes, changent de place dans le ciel. Rangées par durée de révolution décroissante, de Saturne à la Lune, elles forment l'« ordre chaldéen », qui est aussi celui de leurs sphères dans le [[cosmos-geocentrique|cosmos géocentrique]]. Chacune gouverne un jour de la semaine, un métal, une couleur, des plantes, des organes : c'est la grande table des [[correspondances]].
 texte: L'astrologie distingue des planètes bénéfiques (Jupiter, la grande, et Vénus, la petite), maléfiques (Saturne, la grande, et Mars, la petite), et neutres ou variables (Mercure). Les [[alchimie|alchimistes]] désignent les métaux par les signes des planètes : or du Soleil, argent de la Lune, vif-argent de Mercure, cuivre de Vénus, fer de Mars, étain de Jupiter, plomb de Saturne.
 schema: planetes-septenaire
-voir: soleil, lune, mercure, venus, mars, jupiter, saturne, heures-planetaires, dignites
+voir: soleil, lune, mercure, venus, mars, jupiter, saturne, heures-planetaires, dignites, sept
 
 @ soleil
 cat: astrologie
@@ -376,7 +376,7 @@ alias: précession, grande année, année platonicienne, Hipparque
 def: Lent déplacement du point de l'équinoxe de printemps le long du zodiaque, d'environ un degré en soixante-douze ans, dû à l'oscillation de l'axe de la Terre.
 texte: L'astronome grec Hipparque découvre au IIe siècle avant notre ère que les étoiles se décalent peu à peu par rapport au point de l'équinoxe. Nous savons aujourd'hui que l'axe de rotation de la Terre décrit un cône, comme une toupie, en près de 26 000 ans. Le point du printemps, qui était dans la constellation du Bélier au temps d'Hipparque, se trouve aujourd'hui dans celle des Poissons.
 texte: Cette « grande année » a été rapprochée de celle de [[platon]] et a donné naissance aux ères astrologiques, dont l'[[ere-du-verseau|ère du Verseau]]. Elle explique aussi le décalage entre les signes du zodiaque tropical et les constellations.
-voir: ere-du-verseau, zodiaque, cycles-cosmiques, astrologie-vedique
+voir: ere-du-verseau, zodiaque, cycles-cosmiques, astrologie-vedique, soixante-douze
 
 @ ephemerides
 cat: astrologie
@@ -394,7 +394,7 @@ alias: noeuds lunaires, tête du dragon, queue du dragon, Rahu, Ketu, nœud nord
 def: Les deux points où l'orbite de la Lune croise le chemin apparent du Soleil ; les éclipses ne peuvent se produire qu'à leur voisinage.
 texte: Les astrologues médiévaux appellent « tête du dragon » le nœud ascendant et « queue du dragon » le nœud descendant, imaginant un dragon qui avale le Soleil ou la Lune lors des éclipses. Dans l'astrologie indienne, ce sont Rahu et Ketu, la tête et le corps d'un démon tranché par le dieu Vishnou, comptés comme des planètes invisibles.
 texte: Les nœuds font le tour du zodiaque en dix-huit ans et demi, en sens inverse des planètes. L'astrologie moderne en a fait l'axe de la « destinée karmique » d'une personne.
-voir: lune, astrologie-vedique, ephemerides
+voir: lune, astrologie-vedique, ephemerides, dragon
 
 @ heures-planetaires
 cat: astrologie
@@ -404,7 +404,7 @@ def: Système qui attribue chaque heure du jour à une planète, selon l'ordre c
 texte: On découpe le jour (du lever au coucher du soleil) et la nuit en douze heures chacun, et l'on donne ces heures aux planètes dans l'ordre de leurs sphères : Saturne, Jupiter, Mars, Soleil, Vénus, Mercure, Lune, puis de nouveau Saturne. La planète de la première heure donne son nom au jour. Après le jour de Saturne vient ainsi celui du Soleil, puis celui de la Lune, de Mars, de Mercure, de Jupiter et de Vénus : c'est l'ordre de notre semaine.
 texte: En français, lundi, mardi, mercredi, jeudi et vendredi gardent les noms de la Lune, de Mars, de Mercure, de Jupiter et de Vénus ; samedi et dimanche ont pris des noms chrétiens, mais l'anglais garde *Saturday* et *Sunday*. La magie choisit le jour et l'heure de la planète pour consacrer un [[talisman]] ; l'heptagramme planétaire résume ce cycle.
 schema: heptagramme-planetes
-voir: planetes, talisman, clavicule-de-salomon, intelligences-planetaires
+voir: planetes, talisman, clavicule-de-salomon, intelligences-planetaires, sept
 
 @ melothesie
 cat: astrologie

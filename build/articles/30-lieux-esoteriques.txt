@@ -1,0 +1,244 @@
+# Villes et lieux chargés d'histoire ésotérique, en France et en Europe.
+# Le point de la carte est un lieu emblématique de la ville.
+
+@ paris
+cat: lieux
+nom: Paris
+alias: Lutèce, Paris ésotérique, Paris occulte, capitale de l'occultisme
+lieu: Paris, Île-de-France, France
+geo: 48.8566, 2.3522
+def: La capitale française, où se croisent l'alchimie de Nicolas Flamel et des portails de Notre-Dame, les loges du XVIIIe siècle, le magnétisme de Mesmer et l'occultisme de la Belle Époque.
+texte: Le Paris médiéval est celui de [[nicolas-flamel|Nicolas Flamel]], dont la [[maison-de-nicolas-flamel|maison]] de 1407 existe encore, de la [[tour-saint-jacques|tour Saint-Jacques]] et du portail de [[notre-dame-de-paris|Notre-Dame]], que les hermétistes lisent comme un livre d'alchimie. En 1623, des placards affichés dans la ville annoncent la présence des [[rose-croix|Rose-Croix]] « invisibles » et provoquent une panique ; quelques années plus tard, l'[[affaire-des-poisons|affaire des Poisons]] révèle messes noires et devineresses jusqu'à la cour de Louis XIV.
+texte: Au XVIIIe siècle, la ville se couvre de loges : la loge des [[les-neuf-soeurs|Neuf Sœurs]] reçoit Voltaire en 1778, le [[grand-orient-de-france|Grand Orient de France]] naît en 1773 ; [[franz-anton-mesmer|Mesmer]] magnétise autour de son baquet, [[cagliostro|Cagliostro]] fonde ses loges égyptiennes avant l'affaire du Collier. Au XIXe siècle, Paris devient la capitale de l'occultisme : [[eliphas-levi|Éliphas Lévi]], [[allan-kardec|Allan Kardec]], [[papus]], [[stanislas-de-guaita|Stanislas de Guaita]] et les salons de la Rose+Croix de [[josephin-peladan|Péladan]]. [[fulcanelli|Fulcanelli]] y publie en 1926 *Le Mystère des cathédrales*, et l'on vient encore saluer la tombe de Kardec au [[pere-lachaise|Père-Lachaise]].
+repere: 1407 — Nicolas Flamel fait construire sa maison de la rue de Montmorency.
+repere: 1623 — Les placards des Rose-Croix sont affichés dans Paris.
+repere: 1778 — Voltaire est reçu à la loge des Neuf Sœurs ; Mesmer arrive à Paris.
+repere: 1892 — Premier Salon de la Rose+Croix de Péladan.
+repere: 1926 — *Le Mystère des cathédrales* de Fulcanelli.
+voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme
+
+@ londres
+cat: lieux
+nom: Londres
+alias: London, Londres ésotérique, Goose and Gridiron
+lieu: Grand Londres, Angleterre, Royaume-Uni
+geo: 51.5138, -0.0983
+def: La capitale britannique, berceau de la franc-maçonnerie moderne en 1717, ville de John Dee, de Newton et de Blake, et foyer de l'occultisme victorien, de la Golden Dawn à la théosophie.
+texte: C'est dans une taverne voisine de la cathédrale Saint-Paul, l'Oie et le Gril, que quatre loges fondent en 1717 la [[grande-loge-de-londres|Grande Loge de Londres]], dont les [[constitutions-d-anderson|Constitutions d'Anderson]] paraissent en 1723 : la [[franc-maconnerie]] moderne est née. Un siècle plus tôt, [[john-dee|John Dee]] réunissait à Mortlake, au bord de la Tamise, la plus grande bibliothèque d'Angleterre, et le British Museum conserve son miroir d'obsidienne. [[isaac-newton|Newton]], directeur de la Monnaie, y poursuivit en secret ses travaux d'alchimie ; [[emanuel-swedenborg|Swedenborg]] y mourut et [[william-blake|William Blake]] y vit ses anges.
+texte: L'Angleterre victorienne fait de Londres un centre de l'occultisme : la [[society-for-psychical-research|Society for Psychical Research]] y est fondée en 1882, la [[golden-dawn|Golden Dawn]] y ouvre son temple Isis-Urania en 1888, [[helena-blavatsky|Helena Blavatsky]] y meurt en 1891, et [[aleister-crowley|Aleister Crowley]] y commence sa carrière. Exilés et révolutionnaires, comme [[giuseppe-mazzini|Mazzini]] et la famille Rossetti, y ont trouvé refuge.
+repere: 1717 — Fondation de la Grande Loge de Londres.
+repere: 1723 — Les *Constitutions* d'Anderson.
+repere: 1882 — Fondation de la Society for Psychical Research.
+repere: 1888 — La Golden Dawn ouvre son premier temple.
+voir: grande-loge-de-londres, constitutions-d-anderson, john-dee, golden-dawn, william-blake, dante-gabriel-rossetti
+
+@ nuremberg
+cat: lieux
+nom: Nuremberg
+alias: Nürnberg, Nuremberg ésotérique, ville de Dürer
+lieu: Bavière, Allemagne
+geo: 49.4579, 11.0759
+def: Ville impériale de Franconie, patrie de Dürer et des astronomes de la Renaissance, gardienne des joyaux du Saint-Empire et de la sainte lance, puis ville des congrès du parti nazi et du procès de ses chefs.
+texte: Au XVe siècle, Nuremberg est l'une des villes les plus riches d'Europe : l'empereur Sigismond lui confie en 1424 les joyaux impériaux, couronne, globe et [[sainte-lance|sainte lance]], qu'elle garde jusqu'en 1796. L'astronome Regiomontanus y installe en 1471 un observatoire et une imprimerie, Martin Behaim y fait en 1492 le plus ancien globe terrestre conservé, et la *Chronique* de Hartmann Schedel y paraît en 1493 ; [[albrecht-durer|Albrecht Dürer]] y naît, y grave sa *[[melencolia|Melencolia I]]* et y dresse les premières cartes imprimées du ciel. Un tract de 1561 y décrit une bataille de globes et de croix dans le ciel, que les amateurs d'ovnis citent encore et où les historiens voient un halo solaire.
+texte: Le régime nazi en fait la ville de ses congrès, où sont proclamées en 1935 les lois raciales, et Hitler y ramène de [[vienne|Vienne]] les joyaux impériaux en 1938. C'est à Nuremberg que les principaux dirigeants nazis sont jugés en 1945 et 1946. La ville des *Maîtres chanteurs* de [[richard-wagner|Wagner]] porte ainsi les deux visages du rêve germanique.
+repere: 1424 — Les joyaux du Saint-Empire sont confiés à Nuremberg.
+repere: 1471 — Regiomontanus y installe son observatoire.
+repere: 1514 — Dürer grave *Melencolia I*.
+repere: 1935 — Les lois raciales de Nuremberg.
+repere: 1945-1946 — Procès des dirigeants nazis.
+voir: albrecht-durer, sainte-lance, melencolia, vienne, heinrich-himmler
+
+@ venise
+cat: lieux
+nom: Venise
+alias: Venezia, la Sérénissime, Venise ésotérique, lion de saint Marc
+lieu: Vénétie, Italie
+geo: 45.4344, 12.3397
+def: La Sérénissime, ville des imprimeurs du *Songe de Poliphile*, où Giordano Bruno fut arrêté, où Casanova jouait les kabbalistes et où Wagner mourut.
+texte: Capitale de l'imprimerie à la Renaissance, Venise publie les classiques grecs d'Alde Manuce et, en 1499, le *[[songe-de-poliphile|Songe de Poliphile]]*, avec ses hiéroglyphes et ses jardins énigmatiques. En 1592, le philosophe [[giordano-bruno|Giordano Bruno]], invité par le patricien Mocenigo qui voulait apprendre de lui l'art de la mémoire, est dénoncé à l'Inquisition et livré à Rome, où il sera brûlé. Le lion ailé de saint Marc, emblème de la ville, est le symbole de l'évangéliste dans le [[tetramorphe|tétramorphe]].
+texte: Venise et Raguse inventent l'isolement des navires suspects de peste, porté à quarante jours, la [[quarante|quarantaine]]. Au XVIIIe siècle, Giacomo Casanova y séduit des patriciens crédules avec une « kabbale » numérique de son invention, avant d'être enfermé sous les Plombs pour libertinage et magie, d'où il s'évade en 1756. [[richard-wagner|Richard Wagner]] meurt au palais Vendramin en 1883.
+repere: 1499 — *Le Songe de Poliphile* sort des presses d'Alde Manuce.
+repere: 1592 — Arrestation de Giordano Bruno.
+repere: 1756 — Casanova s'évade des Plombs.
+repere: 1883 — Mort de Wagner au palais Vendramin.
+voir: songe-de-poliphile, giordano-bruno, quarante, richard-wagner, art-de-la-memoire
+
+@ carcassonne
+cat: lieux
+nom: Carcassonne
+alias: Cité de Carcassonne, Carcasona, Trencavel
+lieu: Aude, Occitanie, France
+geo: 43.2064, 2.3638
+def: Cité fortifiée du Languedoc, prise par les croisés en 1209 au début de la croisade contre les Albigeois, siège de l'Inquisition, restaurée au XIXe siècle et porte du pays cathare.
+texte: En août 1209, l'armée de la croisade contre les [[catharisme|cathares]] assiège Carcassonne ; le vicomte Raymond-Roger Trencavel, venu négocier, est retenu prisonnier et meurt dans un cachot, et la ville passe à Simon de Montfort. L'Inquisition s'y installe, avec sa prison, le « Mur » ; au début du XIVe siècle, le franciscain Bernard Délicieux y soulève la population contre les inquisiteurs. Les [[parfaits]] traqués dans la région finissent sur les bûchers ou à [[montsegur|Montségur]].
+texte: La Cité, ruinée, est sauvée et restaurée à partir de 1853 par Viollet-le-Duc, qui lui donne ses toits pointus ; elle est inscrite au patrimoine mondial en 1997. Au XXe siècle, Carcassonne devient un foyer du néo-catharisme : le poète Joë Bousquet y reçoit écrivains et surréalistes, [[deodat-roche|Déodat Roché]], qui vit tout près, y anime des études cathares. À quarante kilomètres, [[rennes-le-chateau|Rennes-le-Château]] attire les chercheurs de trésor.
+repere: 1209 — Siège et prise de la ville par les croisés.
+repere: 1303 — Bernard Délicieux soulève Carcassonne contre l'Inquisition.
+repere: 1853 — Viollet-le-Duc commence la restauration de la Cité.
+repere: 1997 — Inscription au patrimoine mondial.
+voir: catharisme, parfaits, montsegur, deodat-roche, rennes-le-chateau, queribus
+
+@ milan
+cat: lieux
+nom: Milan
+alias: Milano, Mediolanum, Cène de Léonard, tarots Visconti-Sforza
+lieu: Lombardie, Italie
+geo: 45.4640, 9.1906
+def: La capitale de la Lombardie, ville des Visconti et des Sforza, où furent peints les plus anciens tarots conservés et où Léonard de Vinci peignit *La Cène*.
+texte: Les ducs de Milan, Filippo Maria Visconti puis Francesco Sforza, font peindre vers le milieu du XVe siècle les plus anciens jeux de [[tarot]] qui nous soient parvenus, les tarots Visconti-Sforza, enluminés à la feuille d'or, dont les atouts annoncent les [[arcanes-majeurs|arcanes majeurs]]. Ludovic Sforza appelle [[leonard-de-vinci|Léonard de Vinci]], qui peint de 1495 à 1498 *La Cène* au réfectoire du couvent Santa Maria delle Grazie ; la bibliothèque Ambrosienne garde son *Codex Atlanticus*.
+texte: Le savant et astrologue [[jerome-cardan|Jérôme Cardan]] enseigne à Milan au XVIe siècle. La cathédrale, commencée en 1386, conserve un clou de la Croix, que l'archevêque va chercher chaque année sous les voûtes dans une nacelle. Pendant la peste de 1630, on accuse des « oigneurs » de répandre la maladie par des onguents : ils sont torturés et exécutés, un épisode que Manzoni a raconté.
+repere: 1386 — Début de la construction de la cathédrale.
+repere: vers 1450 — Les tarots Visconti-Sforza.
+repere: 1495-1498 — *La Cène* de Léonard de Vinci.
+repere: 1630 — Procès des « oigneurs » pendant la peste.
+voir: leonard-de-vinci, tarot, tarot-de-marseille, jerome-cardan, arcanes-majeurs
+
+@ rouen
+cat: lieux
+nom: Rouen
+alias: Rouen ésotérique, ville aux cent clochers, Gargouille, Échiquier de Normandie
+lieu: Seine-Maritime, Normandie, France
+geo: 49.4402, 1.0950
+def: La capitale de la Normandie, où Jeanne d'Arc fut brûlée, où saint Romain vainquit la Gargouille, et dont Maurice Leblanc fit le centre des énigmes d'Arsène Lupin.
+texte: La légende veut que l'évêque saint Romain ait délivré la ville d'un [[dragon]], la Gargouille, avec l'aide d'un condamné : en mémoire, le chapitre de la cathédrale pouvait chaque année, à l'Ascension, gracier un prisonnier, le « privilège de la Fierte ». En 1431, Jeanne d'Arc est jugée et brûlée sur la place du Vieux-Marché ; on l'accusait d'hérésie et l'on avait cherché en elle une [[sorciere|sorcière]]. Le parlement de Normandie, héritier de l'[[echiquier|Échiquier]], juge aux XVIe et XVIIe siècles de nombreux procès de [[sorcellerie]], où les hommes furent plus nombreux que les femmes, et l'affaire des possédées de Louviers.
+texte: Rouen a vu naître Flaubert, auteur de *La Tentation de saint Antoine*, et [[maurice-leblanc|Maurice Leblanc]], qui place autour d'elle, entre Seine et pays de Caux, les secrets d'[[arsene-lupin|Arsène Lupin]] ; [[marcel-duchamp|Marcel Duchamp]] y fit ses études, et [[nicolas-poussin|Poussin]] est né aux Andelys tout proches. Son Gros-Horloge montre depuis le XVIe siècle les jours de la semaine sous la figure des dieux planétaires.
+repere: 1431 — Procès et supplice de Jeanne d'Arc.
+repere: 1515 — L'Échiquier de Normandie devient le parlement de Rouen.
+repere: 1864 — Naissance de Maurice Leblanc.
+extrait: C'est Guillaume le Conquérant, duc de *Normandie*, roi d'Angleterre, dont l'étendard est percé à la façon d'une aiguille ! ¶ C'est à *Rouen* que les Anglais brûlent Jeanne d'Arc, maîtresse du secret ! (…) ¶ L'hypothèse se précise. Le champ se rétrécit. Rouen, les rives de la Seine, le pays de Caux… il semble vraiment que toutes les routes convergent de ce côté. (…) ¶ Rouen, Dieppe, Le Havre… les trois sommets du triangle, les trois grandes villes qui occupent les trois pointes. Au centre, le pays de Caux.
+source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. VIII, éd. Lafitte, 1912 | ws L’Aiguille creuse/VIII
+voir: maurice-leblanc, arsene-lupin, etretat, dragon, echiquier, sorcellerie
+
+@ lyon
+cat: lieux
+nom: Lyon
+alias: Lugdunum, Lyon mystique, Lyon ésotérique, capitale du martinisme
+lieu: Métropole de Lyon, Auvergne-Rhône-Alpes, France
+geo: 45.7578, 4.8322
+def: La « ville mystique » de l'ésotérisme français : patrie de Willermoz et du Rite écossais rectifié, étape de Saint-Martin et de Cagliostro, ville natale de Kardec et de Péladan, et cité du guérisseur Maître Philippe.
+texte: Au XVIIIe siècle, le négociant en soieries [[jean-baptiste-willermoz|Jean-Baptiste Willermoz]] fait de Lyon un centre de l'[[illuminisme]] : il y accueille les [[elus-coens|Élus coëns]] de [[martinez-de-pasqually|Martinès de Pasqually]], y réunit en 1778 le convent des Gaules d'où sort le [[rite-ecossais-rectifie|Rite écossais rectifié]], tandis que [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]] y écrit *Des erreurs et de la vérité* (1775). En 1784, [[cagliostro|Cagliostro]] y fonde la loge mère de son rite égyptien, La Sagesse triomphante.
+texte: Le XIXe siècle confirme cette réputation : [[allan-kardec|Allan Kardec]] et [[josephin-peladan|Joséphin Péladan]] y sont nés, le guérisseur [[maitre-philippe|Maître Philippe]] y soigne les foules et reçoit [[papus]], et la ville illumine ses fenêtres chaque 8 décembre en l'honneur de la Vierge. On dit volontiers que Lyon, avec Turin et [[prague|Prague]], forme un « triangle de magie blanche », une formule du folklore ésotérique moderne.
+repere: 1775 — Saint-Martin publie *Des erreurs et de la vérité*.
+repere: 1778 — Convent des Gaules.
+repere: 1784 — Cagliostro fonde à Lyon la loge mère du rite égyptien.
+repere: 1905 — Mort de Maître Philippe.
+voir: jean-baptiste-willermoz, rite-ecossais-rectifie, martinisme, maitre-philippe, cagliostro, turin
+
+@ turin
+cat: lieux
+nom: Turin
+alias: Torino, Turin ésotérique, saint Suaire, triangle magique
+lieu: Piémont, Italie
+geo: 45.0733, 7.6854
+def: La capitale du Piémont, qui conserve le saint Suaire et le premier musée égyptien d'Europe, et que le folklore ésotérique place au croisement d'un triangle de magie blanche et d'un triangle de magie noire.
+texte: La cathédrale garde depuis 1578 le saint Suaire, linceul portant l'empreinte d'un homme crucifié, vénéré comme celui du Christ ; la datation par le carbone 14, en 1988, l'a situé entre 1260 et 1390, sans faire taire les débats. Le Musée égyptien, fondé en 1824 avec la collection de Bernardino Drovetti, est le plus ancien du genre : Champollion y étudia les papyrus, et il a nourri l'[[egyptosophie|égyptosophie]] de toute l'Europe.
+texte: Première capitale de l'Italie unifiée en 1861, Turin a une réputation de ville magique : on y montre l'église de la Grande Mère de Dieu, dont une statue désignerait la cachette du [[graal]], et l'on dit qu'elle forme avec [[lyon|Lyon]] et [[prague|Prague]] un triangle de magie blanche, avec [[londres|Londres]] et San Francisco un triangle de magie noire. Ces légendes urbaines datent pour l'essentiel du XXe siècle.
+repere: 1578 — Le saint Suaire arrive à Turin.
+repere: 1824 — Fondation du Musée égyptien.
+repere: 1861 — Turin, capitale de l'Italie unifiée.
+repere: 1988 — Datation du Suaire par le carbone 14.
+voir: egyptosophie, graal, lyon, prague, giuseppe-garibaldi
+
+@ vienne
+cat: lieux
+nom: Vienne
+alias: Wien, Vienne (Autriche), Vienne ésotérique, Hofburg
+lieu: Vienne, Autriche
+geo: 48.2083, 16.3725
+def: La capitale autrichienne, où l'on garde la sainte lance du Saint-Empire, où fut créée *La Flûte enchantée*, et où se formèrent Mesmer, Steiner et les ariosophes.
+texte: Le trésor impérial de la Hofburg conserve la [[sainte-lance|sainte lance]] et les joyaux du Saint-Empire, revenus de [[nuremberg|Nuremberg]] en 1946. La Vienne des Lumières est maçonnique : la loge « À la vraie concorde » du savant Ignaz von Born réunit l'élite de la ville, et [[wolfgang-amadeus-mozart|Mozart]], initié en 1784, y crée en 1791 *[[la-flute-enchantee|La Flûte enchantée]]*, avant que Joseph II ne restreigne les loges. [[franz-anton-mesmer|Mesmer]] y commence ses cures magnétiques dans les années 1770.
+texte: Au tournant du XXe siècle, la ville de Freud est aussi celle de [[rudolf-steiner|Rudolf Steiner]], qui y étudie, et des ariosophes [[guido-von-list|Guido von List]] et [[jorg-lanz-von-liebenfels|Jörg Lanz von Liebenfels]], dont le racisme mystique influence le jeune Hitler, qui vit à Vienne de 1908 à 1913.
+repere: 1784 — Mozart est initié à la franc-maçonnerie.
+repere: 1791 — Création de *La Flûte enchantée*.
+repere: 1908 — Guido von List publie sa doctrine des runes.
+repere: 1946 — Retour à Vienne des joyaux impériaux.
+voir: sainte-lance, la-flute-enchantee, wolfgang-amadeus-mozart, franz-anton-mesmer, guido-von-list, sarastro
+
+@ prague
+cat: lieux
+nom: Prague
+alias: Praha, Prague magique, ville aux cent tours, Golem
+lieu: Prague, Tchéquie
+geo: 50.0875, 14.4214
+def: La « Prague magique » de l'empereur Rodolphe II, des alchimistes et des astronomes, du rabbin Loew et de son Golem, de l'horloge astronomique et des romans fantastiques.
+texte: Quand [[rodolphe-ii|Rodolphe II]] y installe sa cour en 1583, Prague devient la capitale européenne des sciences occultes : [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]] y évoquent les anges, [[michel-sendivogius|Sendivogius]] y fait ses projections, [[tycho-brahe|Tycho Brahe]] et [[johannes-kepler|Kepler]] y observent le ciel, et l'empereur réunit au [[chateau-de-prague|château]] ses collections de merveilles. Le rabbin Judah Loew, le Maharal, mort en 1609, est devenu dans la légende le créateur du [[golem]] qui défendait le ghetto.
+texte: L'horloge astronomique de la place de la Vieille-Ville, mise en place en 1410, montre le Soleil, la Lune et le zodiaque, et fait défiler les apôtres. Au XXe siècle, le roman *Le Golem* de Gustav Meyrink (1915) a fixé l'image d'une ville de brumes et de mystères, et l'on montre encore une maison de [[faust|Faust]].
+repere: 1410 — L'horloge astronomique est installée.
+repere: 1583 — Rodolphe II installe sa cour à Prague.
+repere: 1609 — Mort du rabbin Loew.
+repere: 1915 — *Le Golem* de Gustav Meyrink.
+voir: rodolphe-ii, chateau-de-prague, golem, tycho-brahe, john-dee, turin
+
+@ florence
+cat: lieux
+nom: Florence
+alias: Firenze, Florence des Médicis, Académie platonicienne, Florence ésotérique
+lieu: Florence, Toscane, Italie
+geo: 43.7714, 11.2542
+def: La ville des Médicis, où Marsile Ficin traduisit le *Corpus hermeticum* et fit renaître Platon, et où Botticelli peignit les mythes du néoplatonisme : le berceau de l'hermétisme de la Renaissance.
+texte: En 1439, le concile de Florence amène en Italie le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]], qui enthousiasme Cosme de Médicis pour Platon. Cosme confie au jeune [[marsile-ficin|Marsile Ficin]] la [[villa-de-careggi|villa de Careggi]] et, en 1463, lui fait traduire d'abord le *[[corpus-hermetique|Corpus hermeticum]]*, tenu pour plus ancien que Platon. Autour de Ficin, l'« Académie platonicienne » réunit [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et les artistes, comme [[sandro-botticelli|Botticelli]].
+texte: [[dante|Dante]] était né à Florence deux siècles plus tôt. En 1497, le prédicateur Savonarole y fait brûler sur un « bûcher des vanités » livres, tableaux et parures, avant d'être brûlé à son tour l'année suivante. [[leonard-de-vinci|Léonard de Vinci]] y fit son apprentissage.
+repere: 1439 — Concile de Florence ; venue de Gémiste Pléthon.
+repere: 1463 — Ficin traduit le *Corpus hermeticum*.
+repere: 1497 — Le « bûcher des vanités » de Savonarole.
+voir: marsile-ficin, villa-de-careggi, corpus-hermetique, sandro-botticelli, dante, hermetisme
+
+@ bayreuth
+cat: lieux
+nom: Bayreuth
+alias: Festspielhaus, colline verte, festival de Bayreuth, Wahnfried
+lieu: Bavière, Allemagne
+geo: 49.9600, 11.5797
+def: La petite ville de Franconie où Wagner fit bâtir le théâtre de ses drames, lieu d'un festival devenu pèlerinage, où *Parsifal* fut longtemps seul autorisé à être joué.
+texte: [[richard-wagner|Wagner]] pose en 1872 la première pierre du Festspielhaus, sur la « colline verte », grâce à l'argent de [[louis-ii-de-baviere|Louis II]] ; le théâtre, à l'orchestre caché sous la scène, est inauguré en 1876 par *L'Anneau du Nibelung*. *Parsifal*, « festival scénique sacré » sur le [[graal]], y est créé en 1882 et ne devait être joué nulle part ailleurs : l'exclusivité dura jusqu'à la fin de 1913, malgré une représentation donnée à New York en 1903. Wagner repose dans le jardin de sa villa, Wahnfried.
+texte: Les symbolistes, comme [[josephin-peladan|Péladan]] en 1888, y viennent comme on va à un sanctuaire. Le gendre de Wagner, le théoricien raciste Houston Stewart Chamberlain, s'y installe, et sa belle-fille Winifred accueille Hitler, faisant du festival une vitrine du régime nazi ; il ne rouvre qu'en 1951.
+repere: 1872 — Première pierre du Festspielhaus.
+repere: 1876 — Inauguration avec *L'Anneau du Nibelung*.
+repere: 1882 — Création de *Parsifal*.
+repere: 1951 — Réouverture du festival après la guerre.
+voir: richard-wagner, louis-ii-de-baviere, graal, perceval, lohengrin
+
+@ etretat
+cat: lieux
+nom: Étretat
+alias: Aiguille d'Étretat, Aiguille creuse, Porte d'Aval, Manneporte, Clos Lupin
+lieu: Seine-Maritime, Normandie, France
+geo: 49.7064, 0.1948
+def: Station de la côte d'Albâtre, aux falaises percées d'arches, dont Maurice Leblanc fit, avec *L'Aiguille creuse*, la cachette du trésor des rois de France.
+texte: Les falaises de craie d'Étretat, avec la Porte d'Aval, la Manneporte et l'aiguille de plus de cinquante mètres qui se dresse dans la mer, ont attiré au XIXe siècle les peintres, de Courbet à Monet, et les écrivains, comme Maupassant. En 1909, [[maurice-leblanc|Maurice Leblanc]] imagine dans *L'Aiguille creuse* que l'aiguille est vide, aménagée depuis l'époque de César en forteresse secrète, et qu'[[arsene-lupin|Arsène Lupin]] y a caché les trésors des rois de France.
+texte: Leblanc s'installe en 1918 dans une villa d'Étretat, le Clos Lupin, devenue un musée. Le roman a donné à la falaise une aura ésotérique et a nourri les mythes du « secret des rois », repris par les inventeurs du mystère de [[rennes-le-chateau|Rennes-le-Château]]. En 1927, l'avion de Nungesser et Coli, *L'Oiseau blanc*, fut aperçu pour la dernière fois au-dessus d'Étretat.
+repere: 1909 — *L'Aiguille creuse*.
+repere: 1918 — Leblanc s'installe au Clos Lupin.
+repere: 1927 — *L'Oiseau blanc* disparaît après avoir survolé Étretat.
+extrait: À quarante ou cinquante mètres de cette arche imposante qu'on appelle la Porte d'Aval et qui s'élance du haut de la falaise, ainsi que la branche colossale d'un arbre, pour prendre racine dans les rocs sous-marins, s'érige un cône calcaire démesuré ; et ce cône n'est qu'un bonnet d'écorce pointu posé sur du vide.
+source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
+voir: arsene-lupin, maurice-leblanc, rouen, rennes-le-chateau
+
+@ lusignan
+cat: lieux
+nom: Lusignan
+alias: château de Lusignan, forteresse de Mélusine, Lusignan en Poitou
+lieu: Vienne, Nouvelle-Aquitaine, France
+geo: 46.4372, 0.1278
+def: Bourg du Poitou dont le château, berceau de la puissante famille de Lusignan, passait pour avoir été bâti par la fée Mélusine ; il n'en reste que quelques vestiges.
+texte: La famille de Lusignan, l'une des plus puissantes du Poitou, a donné des rois à Jérusalem et à Chypre à partir de la fin du XIIe siècle. Le *Roman de [[melusine|Mélusine]]*, écrit en 1393 pour le duc de Berry, attribue la construction de son château à la fée serpente, qui revenait crier sur les tours à la mort de chaque seigneur. Les *Très Riches Heures du duc de Berry* montrent, au mois de mars, le château avec un dragon ailé, Mélusine, volant au-dessus d'une tour.
+texte: Pris et repris pendant les guerres de Religion, le château est rasé en 1575 sur l'ordre du duc de Montpensier ; il n'en reste que des fondations dans un jardin public. Le bourg a gardé sa légende et ses « mélusines », gâteaux à l'effigie de la fée.
+repere: 1393 — Jean d'Arras écrit le *Roman de Mélusine*.
+repere: vers 1412-1416 — Le château et Mélusine dans les *Très Riches Heures du duc de Berry*.
+repere: 1575 — Le château est rasé.
+voir: melusine, dragon, elementaux, serpent
+
+@ vezelay
+cat: lieux
+nom: Vézelay
+alias: basilique de Vézelay, colline éternelle, Sainte-Marie-Madeleine de Vézelay, chemin de lumière
+lieu: Yonne, Bourgogne-Franche-Comté, France
+geo: 47.4664, 3.7483
+def: Colline de Bourgogne couronnée par la basilique de la Madeleine, grand pèlerinage du Moyen Âge, où saint Bernard prêcha la croisade, et dont la nef s'illumine selon le cours du soleil.
+texte: Au XIe siècle, l'abbaye de Vézelay affirme posséder les reliques de Marie-Madeleine, et le pape les reconnaît en 1050 : les pèlerins affluent, et Vézelay devient l'un des départs du chemin de [[saint-jacques-de-compostelle|Saint-Jacques-de-Compostelle]]. [[bernard-de-clairvaux|Bernard de Clairvaux]] y prêche la deuxième croisade en 1146, et Richard Cœur de Lion et Philippe Auguste s'y retrouvent en 1190 avant la troisième. Le déclin vient en 1279, quand Saint-Maximin, en Provence, prétend avoir retrouvé le vrai corps de la sainte.
+texte: Le grand tympan roman montre le Christ envoyant ses apôtres évangéliser les peuples de la terre, jusqu'aux êtres fabuleux des confins. À midi, au solstice d'été, le soleil traversant les fenêtres hautes dessine sur le sol de la nef une ligne de taches lumineuses qui mène au chœur, le « chemin de lumière ». Ce jeu de lumière, la beauté du lieu et sa colline en font un [[hauts-lieux-energetiques|haut lieu]] pour les amateurs de géobiologie et d'énergies telluriques ; la basilique est inscrite au patrimoine mondial depuis 1979.
+repere: 1050 — Le pape reconnaît les reliques de Marie-Madeleine à Vézelay.
+repere: 1146 — Saint Bernard y prêche la deuxième croisade.
+repere: 1279 — Saint-Maximin revendique les reliques de la sainte.
+repere: 1979 — Inscription au patrimoine mondial.
+voir: hauts-lieux-energetiques, bernard-de-clairvaux, saint-jacques-de-compostelle, legende-doree, geobiologie

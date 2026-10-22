@@ -1,30 +1,43 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble près de **huit
+Une application web progressive (PWA), hors ligne, qui rassemble plus de **neuf
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
-l'Antiquité à nos jours, **textes** (Corpus Hermeticum, Zohar, manifestes
-rose-croix…), **notions**, **alchimie**, **kabbale et nombres**, **astrologie**,
+l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, et sans
+complaisance jusqu'à Himmler), personnages de légende (Merlin, Perceval, Galaad,
+Mélusine, Faust, Sarastro, Arsène Lupin…), **textes** (Corpus Hermeticum, Zohar,
+manifestes rose-croix, *Légende dorée*, *Divine Comédie*, *Songe de Poliphile*,
+*Le Serpent vert*…), **notions**, **alchimie**, **kabbale**, **astrologie**,
 **tarot et divination** (les vingt-deux arcanes majeurs ont chacun leur
-article), **magie**, **ordres et sociétés**, **franc-maçonnerie** (la loge, ses
-officiers et ses usages, les grades, les rites, les obédiences, les figures et
-les textes), **symboles**, et ses **lieux** — de Montségur et Rennes-le-Château
-à Delphes, Éleusis, Glastonbury ou Adyar.
+article), **magie**, **ordres et sociétés** (de la Sainte-Vehme aux carbonari),
+**franc-maçonnerie** (la loge, ses officiers et ses usages, les grades, les
+rites, les obédiences, Jakin, Boaz et la parole perdue, les figures et les
+textes), **symboles** (licorne, dragon, basilic, menorah, arche d'alliance,
+*Melencolia I*…), quatre rubriques nouvelles — **symbolisme des nombres** (de
+zéro à soixante-douze, et le nombre de la Bête), **astronomie** (Grande et
+Petite Ourse, Orion, les Pléiades, Sirius, la Voie lactée…), **pierres et lieux
+d'énergie** (lithothérapie, lapidaires, géobiologie, lignes ley, Sedona…, avec
+ce qu'en disent les études) et **jeu d'échecs** —, et ses **lieux** — de
+Montségur et Rennes-le-Château à Paris, Londres, Venise, Prague, Rouen ou
+Étretat.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
-- une **carte des lieux** (près de cinquante), dessinée par l'application
+- une **carte des lieux** (près de soixante-dix), dessinée par l'application
   elle-même et donc hors ligne : on la déplace au doigt, on touche un point, on
   lit l'article ; « **Me situer** », facultatif, range les lieux du plus proche
   au plus lointain, et « **Itinéraire** » ouvre l'application de cartes du
   téléphone (Plans, Google Maps, OpenStreetMap) avec la seule destination ;
   chaque fiche de lieu a son plan de situation et ses coordonnées ;
-- des **extraits d'œuvres** du domaine public sous une trentaine d'articles —
-  Hermès Trismégiste traduit par Ménard, Platon, Apulée, Rabelais, Cazotte,
-  Ramsay, Kardec, Michelet, Baudelaire, Hugo, Nerval, Balzac, Huysmans, Éliphas
-  Lévi, Papus, Péladan, René Guénon… —, avec le lien vers le livre numérisé par
-  **Gallica** quand la BnF le possède ;
-- plus de **trois cents illustrations** du domaine public : les cartes des
+- des **extraits d'œuvres** du domaine public sous une soixantaine d'articles —
+  Hermès Trismégiste traduit par Ménard, Platon, Pline traduit par Littré,
+  Apulée, la Bible de Segond, saint Augustin, la *Légende dorée*, Dante, l'Arioste,
+  le *Songe de Poliphile*, Léonard de Vinci, Vasari, Rabelais, Cazotte, Ramsay,
+  Goethe traduit par Nerval et par Porchat, Walter Scott, Kardec, Michelet,
+  Baudelaire, Hugo, Nerval, Balzac, Huysmans, Éliphas Lévi, Papus, Péladan,
+  Oswald Wirth, Maurice Leblanc, Fulcanelli, René Guénon… —, avec le lien vers le
+  livre numérisé par **Gallica**, Wikisource ou l'Internet Archive ;
+- plus de **quatre cents illustrations** du domaine public : les cartes des
   tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), des
   portraits, des gravures alchimiques et maçonniques, des photographies
   anciennes des lieux ; touchées, elles s'agrandissent et donnent leur source ;
@@ -36,7 +49,7 @@ les textes), **symboles**, et ses **lieux** — de Montségur et Rennes-le-Chât
 - **36 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
   Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
   d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
-- une **frise chronologique** de plus de deux cents dates ;
+- une **frise chronologique** de plus de quatre cents dates ;
 - une **révision** : quatre choix (définition → article, article → définition,
   « lequel est le plus ancien ? ») ou cartes à retourner ;
 - un **carnet** : favoris, articles à revoir, notes, articles écrits soi-même ;
@@ -145,7 +158,7 @@ construction le vérifie.
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
 node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits (1 886)
 node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, position, extraits, révision, hors-ligne (120)
-node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 050 adresses)
+node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 250 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
 ```

@@ -45,7 +45,7 @@ def: Dans la kabbale, les dix puissances ou attributs par lesquels le Dieu cach�
 texte: Dans le *[[sefer-yetsirah|Sefer Yetsirah]]*, le mot désigne dix nombres primordiaux. La kabbale médiévale en fait dix aspects de la divinité, qui émanent de l'[[ein-sof|Ein Sof]] : [[keter|Couronne]], [[hokhmah|Sagesse]], [[binah|Intelligence]], [[hesed|Grâce]], [[gueboura|Rigueur]], [[tiferet|Beauté]], [[netsah|Victoire]], [[hod|Splendeur]], [[yesod|Fondement]] et [[malkhout|Royauté]]. Elles forment un organisme : un arbre, un homme primordial, un système de canaux où circule la lumière divine.
 texte: On les répartit en trois colonnes : à droite la miséricorde, à gauche la rigueur, au centre l'équilibre. Le juste, par ses actes, contribue à l'union des séphiroth, notamment à celle de Tiferet et de Malkhout, le roi et sa [[shekhina]]. Les kabbalistes discutent pour savoir si elles sont l'essence même de Dieu ou seulement ses instruments.
 schema: arbre-sephiroth
-voir: arbre-des-sephiroth, ein-sof, kabbale, shekhina, emanation, sentiers
+voir: arbre-des-sephiroth, ein-sof, kabbale, shekhina, emanation, sentiers, dix
 
 @ arbre-des-sephiroth
 cat: kabbale
@@ -238,7 +238,7 @@ def: Les vingt-deux canaux qui relient les séphiroth sur l'arbre de vie, associ
 texte: Le *[[sefer-yetsirah|Sefer Yetsirah]]* commence par ces mots : « Par trente-deux voies merveilleuses de sagesse… » : dix nombres et vingt-deux lettres. Sur l'[[arbre-des-sephiroth|arbre]], chaque lettre devient un sentier qui unit deux séphiroth.
 texte: La [[golden-dawn|Golden Dawn]] attribue à chaque sentier un [[arcanes-majeurs|arcane majeur]] du tarot, un signe du zodiaque, une planète ou un élément. Le « travail des sentiers » (*pathworking*), visualisation guidée où l'on parcourt en imagination le paysage symbolique d'un sentier, est l'une des pratiques les plus répandues de la magie contemporaine.
 schema: arbre-sephiroth
-voir: arbre-des-sephiroth, alphabet-hebreu, kabbale-hermetique, arcanes-majeurs, imagination-creatrice
+voir: arbre-des-sephiroth, alphabet-hebreu, kabbale-hermetique, arcanes-majeurs, imagination-creatrice, vingt-deux
 
 @ tetragramme
 cat: kabbale
@@ -247,7 +247,7 @@ alias: tétragramme, YHWH, IHVH, JHVH, Yahvé, Jéhovah, Nom ineffable, Pentagra
 def: Nom divin de quatre lettres hébraïques, YHWH, que le judaïsme ne prononce pas, et auquel la kabbale et la magie attribuent une puissance créatrice.
 texte: Les quatre lettres *yod*, *hé*, *vav*, *hé* forment le nom propre de Dieu dans la Bible hébraïque. Depuis l'Antiquité, on le remplace à la lecture par *Adonaï*, « Seigneur » ; seul le grand prêtre le prononçait au Temple, au jour du Grand Pardon. La lecture « Jéhovah », apparue au Moyen Âge, mêle les consonnes du nom aux voyelles d'*Adonaï*.
 texte: Pour les kabbalistes, chaque lettre du nom correspond à un niveau de l'être, voire à l'un des [[quatre-mondes]]. [[jean-reuchlin]] forme le nom de Jésus en y ajoutant la lettre *shin* : YHSVH, le « Pentagrammaton ». Les occultistes rapprochent les quatre lettres des quatre éléments et des quatre enseignes du tarot.
-voir: shem-ha-meforash, jean-reuchlin, quatre-mondes, alphabet-hebreu, tetractys
+voir: shem-ha-meforash, jean-reuchlin, quatre-mondes, alphabet-hebreu, tetractys, parole-perdue
 
 @ shem-ha-meforash
 cat: kabbale
@@ -256,7 +256,7 @@ alias: Schemhamphorash, Shemhamphorash, soixante-douze noms, 72 noms de Dieu, 72
 def: Le « Nom explicite » de Dieu, formé selon la kabbale de soixante-douze noms de trois lettres tirés de trois versets de l'Exode.
 texte: Les versets 19 à 21 du chapitre 14 de l'Exode, qui racontent le passage de la mer Rouge, comptent chacun soixante-douze lettres en hébreu. En les écrivant l'un sous l'autre, le premier de droite à gauche, le deuxième en sens inverse, le troisième de nouveau à l'endroit, et en lisant par colonnes, on obtient soixante-douze groupes de trois lettres : les noms secrets de Dieu.
 texte: La magie de la Renaissance en a tiré soixante-douze anges, chacun préposé à cinq degrés du zodiaque ; [[athanasius-kircher]] en publie un célèbre tableau. Les soixante-douze esprits de la *[[lemegeton|Goétie]]* en sont le pendant démoniaque.
-voir: tetragramme, anges, lemegeton, notarikon
+voir: tetragramme, anges, lemegeton, notarikon, soixante-douze
 
 @ gematrie
 cat: kabbale
@@ -266,7 +266,7 @@ def: Méthode d'interprétation qui donne à chaque lettre hébraïque une valeu
 texte: Les lettres hébraïques servaient aussi de chiffres : *alef* vaut 1, *bet* 2, jusqu'à *tav*, 400. Deux mots de même valeur passent pour secrètement liés. Le Talmud remarque ainsi que *yayin*, « vin », et *sod*, « secret », valent tous deux 70 : « quand le vin entre, le secret sort ». *Ahavah*, « amour », et *ehad*, « un », valent 13.
 texte: Utilisée dans le commentaire biblique dès l'Antiquité, la gématrie devient un outil majeur de la [[kabbale]] et de la [[kabbale-chretienne|kabbale chrétienne]]. Elle repose sur la conviction que l'Écriture, dictée par Dieu, n'a rien d'arbitraire jusque dans ses lettres. Son équivalent grec est l'[[isopsephie]].
 schema: alphabet-hebreu
-voir: isopsephie, notarikon, temourah, alphabet-hebreu, numerologie
+voir: isopsephie, notarikon, temourah, alphabet-hebreu, numerologie, nombre-de-la-bete
 
 @ notarikon
 cat: kabbale
@@ -293,7 +293,7 @@ alias: isopséphie, nombre de la bête, 666, Abraxas
 def: Équivalent grec de la gématrie : calcul de la valeur numérique des mots d'après celle des lettres grecques, et rapprochement des mots de même valeur.
 texte: Les Grecs notaient eux aussi les nombres par des lettres. Les gnostiques de [[basilide]] remarquent que le nom d'Abraxas vaut 365, le nombre des jours de l'année ; on a fait la même observation pour une graphie du nom de Mithra.
 texte: Le « nombre de la bête », 666, dans l'Apocalypse de Jean, est l'énigme la plus célèbre de ce genre : la plupart des historiens y lisent le nom de l'empereur Néron, écrit en lettres hébraïques. [[aleister-crowley]] s'est approprié ce nombre par provocation.
-voir: gematrie, basilide, numerologie, arithmologie
+voir: gematrie, basilide, numerologie, arithmologie, nombre-de-la-bete
 
 @ alphabet-hebreu
 cat: kabbale
@@ -303,7 +303,7 @@ def: Les vingt-deux lettres de l'écriture hébraïque, que la tradition juive t
 texte: Selon le *[[sefer-yetsirah|Sefer Yetsirah]]*, Dieu a créé le monde en gravant, combinant et pesant les vingt-deux lettres. Il les répartit en trois « mères » — *alef*, *mem*, *shin* —, liées à l'air, à l'eau et au feu ; sept « doubles », qui avaient deux prononciations et correspondent aux sept planètes ; et douze « simples », qui correspondent aux douze signes du zodiaque. Chaque lettre a aussi une valeur numérique, base de la [[gematrie]].
 texte: [[eliphas-levi]] associe chaque lettre à l'un des [[arcanes-majeurs|arcanes majeurs]] du tarot ; la [[golden-dawn|Golden Dawn]] propose une autre correspondance, en commençant par le Mat. [[fabre-d-olivet]] prétendait retrouver le sens « hiéroglyphique » de chaque lettre.
 schema: alphabet-hebreu
-voir: sefer-yetsirah, gematrie, sentiers, arcanes-majeurs, tetragramme
+voir: sefer-yetsirah, gematrie, sentiers, arcanes-majeurs, tetragramme, vingt-deux
 
 @ quatre-mondes
 cat: kabbale
@@ -321,8 +321,8 @@ nom: Golem
 alias: golem de Prague, Maharal, Rabbi Loew, emet
 def: Dans la légende juive, être humanoïde façonné dans l'argile et animé par la puissance des noms divins, à la manière dont Dieu créa Adam.
 texte: Le mot hébreu désigne une matière informe. Le Talmud rapporte qu'un sage créa un homme, qui ne pouvait parler ; au Moyen Âge, les commentaires du *[[sefer-yetsirah|Sefer Yetsirah]]* décrivent des rites de combinaison des lettres pour animer une figure d'argile. On inscrit sur son front le mot *emet*, « vérité » ; en effaçant la première lettre, il reste *met*, « mort », et la créature retombe en poussière.
-texte: La légende la plus connue, attachée au XIXe siècle à Rabbi Loew de Prague, savant du XVIe siècle, fait du golem un protecteur de la communauté juive qui échappe à son maître. Le roman de Gustav Meyrink (1915) et le cinéma en ont fait un mythe moderne.
-voir: sefer-yetsirah, homoncule, alphabet-hebreu, kabbale
+texte: La légende la plus connue, attachée au XIXe siècle à Rabbi Loew de [[prague|Prague]], savant du XVIe siècle, fait du golem un protecteur de la communauté juive qui échappe à son maître. Le roman de Gustav Meyrink (1915) et le cinéma en ont fait un mythe moderne.
+voir: sefer-yetsirah, homoncule, alphabet-hebreu, kabbale, prague
 
 @ merkavah
 cat: kabbale
@@ -334,57 +334,57 @@ texte: [[gershom-scholem]] a montré que cette mystique, longtemps négligée, �
 voir: kabbale, anges, tetramorphe, gershom-scholem
 
 @ numerologie
-cat: kabbale
+cat: nombres
 nom: Numérologie
 alias: numerologie, numérologue, chemin de vie, nombre d'expression, nombres maîtres
 def: Pratique divinatoire moderne qui attribue un sens aux nombres tirés du nom et de la date de naissance d'une personne pour décrire sa personnalité et son destin.
 texte: La numérologie réduit le nom et la date de naissance à des chiffres de 1 à 9, en additionnant leurs composants jusqu'à n'en garder qu'un, sauf les « nombres maîtres » 11 et 22. Chaque chiffre a une signification : 1 l'initiative, 2 la coopération, 7 la vie intérieure… On calcule ainsi un « chemin de vie » et un « nombre d'expression ».
 texte: Elle se réclame de [[pythagore]] et de la [[kabbale]], mais sous sa forme actuelle elle date du début du XXe siècle, aux États-Unis. Aucune étude n'a montré de lien entre ces nombres et la personnalité. Elle se distingue de l'[[arithmologie]] antique, réflexion philosophique sur les nombres.
-voir: arithmologie, gematrie, pythagore, divination
+voir: arithmologie, gematrie, pythagore, divination, sept, douze
 
 @ arithmologie
-cat: kabbale
+cat: nombres
 nom: Arithmologie
 alias: symbolique des nombres, mystique des nombres, théologie arithmétique, dyade, triade, décade
 def: Réflexion philosophique et religieuse sur les propriétés et la signification symbolique des nombres, héritée des pythagoriciens.
 texte: Pour les pythagoriciens et leurs héritiers, chaque nombre de la décade a une nature propre : la [[monade]] est l'unité, principe de tout ; la dyade, la division et la matière ; la triade, le premier nombre complet, avec un commencement, un milieu et une fin ; la tétrade, la solidité et la justice ; la décade, la totalité. Nicomaque de Gérase et le traité *Théologie arithmétique* exposent ces spéculations.
 texte: [[philon-d-alexandrie|Philon d'Alexandrie]], les Pères de l'Église, puis les penseurs du Moyen Âge et de la Renaissance appliquent cette symbolique à la Bible et à la création, « ordonnée selon le nombre, le poids et la mesure ».
-voir: pythagorisme, monade, tetractys, numerologie, isopsephie
+voir: pythagorisme, monade, tetractys, numerologie, isopsephie, un, deux, trois, quatre
 
 @ nombre-d-or
-cat: kabbale
+cat: nombres
 nom: Nombre d'or
 alias: section dorée, divine proportion, proportion dorée, phi, 1,618
 def: Proportion mathématique d'environ 1,618, dite aussi « divine proportion », à laquelle on a prêté depuis le XIXe siècle une présence universelle dans la nature et dans l'art.
-texte: Euclide définit le partage d'une ligne en « extrême et moyenne raison » : le tout est à la grande partie ce que la grande partie est à la petite. Le rapport vaut (1 + √5) / 2, environ 1,618. En 1509, le moine mathématicien Luca Pacioli lui consacre un traité, *De divina proportione*, illustré par Léonard de Vinci. Le rapport de deux termes successifs de la suite de Fibonacci s'en approche.
+texte: Euclide définit le partage d'une ligne en « extrême et moyenne raison » : le tout est à la grande partie ce que la grande partie est à la petite. Le rapport vaut (1 + √5) / 2, environ 1,618. En 1509, le moine mathématicien Luca Pacioli lui consacre un traité, *De divina proportione*, illustré par [[leonard-de-vinci|Léonard de Vinci]]. Le rapport de deux termes successifs de la suite de Fibonacci s'en approche.
 texte: Au XIXe siècle, Adolf Zeising affirme le retrouver partout, du corps humain aux temples grecs ; le diplomate roumain Matila Ghyka popularise en France, dans les années 1930, l'idée d'une harmonie cachée de l'univers. Les mathématiciens et les historiens de l'art ont montré que beaucoup de ces affirmations relèvent de mesures choisies après coup.
 voir: arithmologie, pyramides, schwaller-de-lubicz, pentagramme
 
 @ tetractys
-cat: kabbale
+cat: nombres
 nom: Tétractys
 alias: tetraktys, tétraktys, quaternaire, décade sacrée
 def: Figure sacrée des pythagoriciens : un triangle de dix points disposés en quatre rangées de un, deux, trois et quatre, symbole de l'harmonie du monde.
 texte: Les pythagoriciens juraient « par celui qui nous a transmis la tétractys, source de la nature éternelle ». Elle montre que 1 + 2 + 3 + 4 = 10, la décade parfaite. Ses rangées donnent les rapports des accords musicaux — 2/1 l'octave, 3/2 la quinte, 4/3 la quarte — et figurent le point, la ligne, la surface et le volume.
 texte: Les kabbalistes chrétiens ont rempli la tétractys des lettres du [[tetragramme|Tétragramme]], disposées de façon croissante : la figure devient un symbole de Dieu. La Golden Dawn la rapproche de l'arbre des séphiroth, qui compte lui aussi dix degrés.
 schema: tetractys
-voir: pythagorisme, arithmologie, harmonie-des-spheres, tetragramme, monade
+voir: pythagorisme, arithmologie, harmonie-des-spheres, tetragramme, monade, dix, quatre
 
 @ monade
-cat: kabbale
+cat: nombres
 nom: Monade
 alias: monas, l'Un, unité
 def: L'Unité, principe premier d'où procèdent tous les nombres et toutes choses, selon les pythagoriciens et les néoplatoniciens ; le mot a reçu ensuite des sens philosophiques et ésotériques variés.
 texte: Pour les pythagoriciens, la monade n'est pas encore un nombre mais la source des nombres, figurée par le point. Les néoplatoniciens l'identifient à l'Un d'où tout émane. Le symbole du cercle avec un point en son centre, qui est aussi celui du Soleil et de l'or, en est l'image.
 texte: [[giordano-bruno]] écrit un traité *De la monade* (1591), [[john-dee]] condense tout l'univers dans sa *[[monas-hieroglyphica|Monade hiéroglyphique]]*, et Leibniz, dans sa *Monadologie* (1714), appelle monades les substances simples dont l'univers est composé, chacune reflétant le tout.
-voir: arithmologie, tetractys, monas-hieroglyphica, pythagorisme, neoplatonisme
+voir: arithmologie, tetractys, monas-hieroglyphica, pythagorisme, neoplatonisme, un
 
 @ carre-magique
-cat: kabbale
+cat: nombres
 nom: Carré magique
 alias: carrés magiques, kamea, kamée, carrés planétaires, Lo Shu, sceau de Saturne
 def: Tableau de nombres dont les lignes, les colonnes et les diagonales ont la même somme ; la magie de la Renaissance en associa un à chaque planète pour fabriquer des talismans.
 texte: Le plus ancien connu est le Lo Shu chinois, de trois cases sur trois, dont chaque ligne vaut 15 ; la légende dit qu'il apparut sur la carapace d'une tortue. Les mathématiciens arabes en étudient de nombreux. [[cornelius-agrippa]] publie sept carrés, de trois à neuf cases de côté, attribués aux planètes dans l'ordre chaldéen : Saturne (3 × 3), Jupiter, Mars, le Soleil, Vénus, Mercure et la Lune (9 × 9).
-texte: Gravés sur une plaque du métal de la planète, ils servent de [[talisman|talismans]] ; on trace aussi sur eux les [[sceau|sceaux]] des intelligences planétaires, en reliant les nombres qui correspondent aux lettres d'un nom. La gravure *Melencolia I* de Dürer (1514) montre un carré de Jupiter, planète censée tempérer la mélancolie saturnienne ; ses deux cases centrales du bas donnent la date, 1514.
+texte: Gravés sur une plaque du métal de la planète, ils servent de [[talisman|talismans]] ; on trace aussi sur eux les [[sceau|sceaux]] des intelligences planétaires, en reliant les nombres qui correspondent aux lettres d'un nom. La gravure *Melencolia I* de [[albrecht-durer|Dürer]] (1514) montre un carré de Jupiter, planète censée tempérer la mélancolie saturnienne ; ses deux cases centrales du bas donnent la date, 1514.
 schema: sceau-de-saturne
-voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator
+voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator, melencolia, cavalier-echecs

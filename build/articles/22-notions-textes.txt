@@ -56,7 +56,7 @@ nom: Thaumaturge
 alias: thaumaturges, thaumaturgie, faiseur de miracles, rois thaumaturges, toucher royal
 def: Celui qui accomplit des prodiges, des guérisons ou des miracles ; le titre de saints, de mages et de rois réputés guérir par leur seule puissance.
 texte: Grégoire, évêque de Néocésarée au IIIe siècle, reçut le surnom de Thaumaturge pour les prodiges qu'on lui prêtait. L'Antiquité tardive connaissait aussi des « hommes divins » païens, comme [[apollonius-de-tyane|Apollonius de Tyane]], que ses partisans opposaient au Christ. Du Moyen Âge au XVIIIe siècle, les rois de France et d'Angleterre passaient pour guérir les écrouelles en les touchant, une croyance étudiée par l'historien Marc Bloch dans *Les Rois thaumaturges* (1924).
-texte: Le XIXe siècle eut ses thaumaturges, magnétiseurs et guérisseurs, comme le zouave Jacob ou [[maitre-philippe|Maître Philippe]] de Lyon. La [[theurgie]] désigne autre chose : l'art d'agir avec les dieux par des rites, plutôt que le pouvoir personnel de faire des miracles.
+texte: Le XIXe siècle eut ses thaumaturges, magnétiseurs et guérisseurs, comme le zouave Jacob ou [[maitre-philippe|Maître Philippe]] de [[lyon|Lyon]]. La [[theurgie]] désigne autre chose : l'art d'agir avec les dieux par des rites, plutôt que le pouvoir personnel de faire des miracles.
 voir: apollonius-de-tyane, maitre-philippe, theurgie, magnetisme-animal
 
 # ── Le catharisme ───────────────────────────────────────────────────────────
@@ -75,7 +75,7 @@ cat: notions
 nom: Consolamentum
 alias: consolament, consolation, endura
 def: L'unique sacrement des cathares, une imposition des mains qui conférait le Saint-Esprit, faisait du croyant un « bon chrétien » et pouvait être reçu à l'article de la mort.
-texte: Le rite, décrit par un rituel occitan conservé à Lyon, se déroule devant l'assemblée : le célébrant pose le livre des Évangiles sur la tête du candidat, et les bons hommes présents lui imposent les mains en récitant le Notre-Père et le début de l'Évangile de Jean. Il remet les péchés et engage à la vie des [[parfaits]].
+texte: Le rite, décrit par un rituel occitan conservé à [[lyon|Lyon]], se déroule devant l'assemblée : le célébrant pose le livre des Évangiles sur la tête du candidat, et les bons hommes présents lui imposent les mains en récitant le Notre-Père et le début de l'Évangile de Jean. Il remet les péchés et engage à la vie des [[parfaits]].
 texte: Les simples croyants le recevaient sur leur lit de mort, après avoir conclu avec l'Église une promesse, la *convenenza*. Certains mourants, une fois consolés, cessaient de s'alimenter pour ne pas retomber dans le péché : c'est l'*endura*, dont l'importance a été exagérée par les auteurs du XIXe siècle et par [[deodat-roche|Déodat Roché]], qui voyait dans le consolament une [[initiation]].
 voir: catharisme, parfaits, dualisme, deodat-roche
 
@@ -278,7 +278,7 @@ alias: sol niger, Schwarze Sonne, soleil de la Mélancolie
 def: Image alchimique de la matière à l'œuvre au noir, reprise par la poésie de la mélancolie, puis devenue, sous la forme d'une roue à douze rayons, un emblème néonazi.
 texte: Dans l'[[alchimie]], le *sol niger* figure la [[nigredo]], la putréfaction par laquelle commence le [[grand-oeuvre|Grand Œuvre]] : la planche du *[[splendor-solis|Splendor Solis]]* montre un soleil noir se couchant sur un paysage désolé. [[gerard-de-nerval|Nerval]], dans « El Desdichado », célèbre « le Soleil noir de la Mélancolie », que reprendra la psychanalyste Julia Kristeva.
 texte: Le nom a été donné après la guerre à la roue à douze rayons en forme de croix gammées incrustée dans le pavement du château de [[wewelsburg|Wewelsburg]], par des cercles ésotériques néonazis, puis par un roman à succès de 1991. Le symbole, qui n'avait sans doute pas ce nom pour la SS, est devenu un signe de ralliement de l'extrême droite.
-voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie
+voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie, melencolia
 
 @ abraxas
 cat: symboles
@@ -296,26 +296,26 @@ cat: societes
 nom: Prieuré de Sion
 alias: Prieuré de Sion, grands maîtres du prieuré, mérovingiens
 def: Association fondée en 1956 par Pierre Plantard, présentée ensuite par de faux documents comme un ordre secret millénaire gardien de la descendance des Mérovingiens et du Christ.
-texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent en Haute-Savoie les statuts d'une modeste association de ce nom, qui publie un bulletin local. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, Léonard de Vinci, Isaac Newton, Victor Hugo, Claude Debussy ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
+texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent en Haute-Savoie les statuts d'une modeste association de ce nom, qui publie un bulletin local. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, [[leonard-de-vinci|Léonard de Vinci]], Isaac Newton, Victor Hugo, Claude Debussy ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
 texte: *L'Énigme sacrée* (1982) y ajoute une descendance de Jésus et de Marie-Madeleine, et le *Da Vinci Code* (2003) présente l'existence du prieuré comme un fait. Plantard reconnut lui-même en 1993, sous serment, avoir tout inventé ; les historiens ont démonté la supercherie pièce par pièce. Le prieuré reste l'exemple type d'une société secrète imaginaire devenue un mythe mondial.
 repere: 1956 — Pierre Plantard dépose les statuts de l'association.
 repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale.
 repere: 1982 — *L'Énigme sacrée* en fait le gardien d'une descendance du Christ.
 repere: 1993 — Plantard reconnaît la supercherie sous serment.
-voir: pierre-plantard, dossiers-secrets, rennes-le-chateau, gerard-de-sede, templiers
+voir: pierre-plantard, dossiers-secrets, rennes-le-chateau, gerard-de-sede, templiers, rene-d-anjou, sandro-botticelli, les-bergers-d-arcadie
 
 @ ahnenerbe
 cat: societes
 nom: Ahnenerbe
 alias: Das Ahnenerbe, héritage des ancêtres, Wolfram Sievers, Hermann Wirth
 def: Institut de recherche de la SS fondé en 1935 par Himmler pour démontrer la grandeur préhistorique de la « race nordique », devenu un instrument de propagande puis de crimes.
-texte: Créée en 1935 par Heinrich Himmler, l'historien amateur Herman Wirth et le ministre Walther Darré, la « Société d'étude de l'héritage des ancêtres » emploie des archéologues, des linguistes et des folkloristes pour retrouver dans les runes, les mégalithes, les contes et les rites populaires les traces d'une civilisation nordique originelle. Elle finance des fouilles, comme aux [[externsteine|Externsteine]], et des expéditions, dont celle d'Ernst Schäfer au Tibet en 1938-1939.
+texte: Créée en 1935 par [[heinrich-himmler|Heinrich Himmler]], l'historien amateur Herman Wirth et le ministre Walther Darré, la « Société d'étude de l'héritage des ancêtres » emploie des archéologues, des linguistes et des folkloristes pour retrouver dans les runes, les mégalithes, les contes et les rites populaires les traces d'une civilisation nordique originelle. Elle finance des fouilles, comme aux [[externsteine|Externsteine]], et des expéditions, dont celle d'Ernst Schäfer au Tibet en 1938-1939.
 texte: Intégrée à la SS, elle participe pendant la guerre au pillage des biens culturels et à des expériences sur des détenus des camps : à Dachau, les essais du médecin Sigmund Rascher, et à Strasbourg, la constitution par August Hirt d'une collection de squelettes de déportés juifs assassinés au camp de Natzweiler-Struthof. Son secrétaire général, Wolfram Sievers, est condamné à mort et exécuté en 1948.
 repere: 1935 — Fondation par Himmler, Herman Wirth et Walther Darré.
 repere: 1938 — Expédition d'Ernst Schäfer au Tibet.
 repere: 1943 — Assassinat à Natzweiler-Struthof des déportés destinés à la collection de squelettes de Strasbourg.
 repere: 1948 — Exécution de Wolfram Sievers.
-voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn
+voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn, heinrich-himmler
 
 # ── Textes ──────────────────────────────────────────────────────────────────
 
@@ -336,7 +336,7 @@ alias: La Vraie Langue celtique et le cromleck de Rennes-les-Bains, cromleck de 
 an: 1886
 def: Livre de l'abbé Henri Boudet paru en 1886, qui fait de l'anglais la langue primitive de l'humanité et voit dans les rochers de Rennes-les-Bains un immense cercle de pierres.
 texte: L'abbé [[henri-boudet|Boudet]] y part d'une idée répandue au XIXe siècle, la recherche de la langue d'avant Babel, pour soutenir que les Celtes l'ont conservée et que l'anglais en est le témoin le plus pur : les noms de lieux, de peuples et de dieux s'expliqueraient par des mots anglais décomposés. Le dernier chapitre décrit autour de [[rennes-les-bains|Rennes-les-Bains]] un « cromleck » formé par les blocs de grès des collines, accompagné d'une carte et de gravures.
-texte: Imprimé à Carcassonne, le livre fut accueilli avec indifférence. Depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris son essor, il est lu comme un livre à clé : jeux de mots codés, indications d'un trésor, géométrie cachée du paysage. Les linguistes n'y voient qu'une étymologie fantaisiste, proche des spéculations de [[court-de-gebelin|Court de Gébelin]] et de la [[langue-des-oiseaux|langue des oiseaux]].
+texte: Imprimé à [[carcassonne|Carcassonne]], le livre fut accueilli avec indifférence. Depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris son essor, il est lu comme un livre à clé : jeux de mots codés, indications d'un trésor, géométrie cachée du paysage. Les linguistes n'y voient qu'une étymologie fantaisiste, proche des spéculations de [[court-de-gebelin|Court de Gébelin]] et de la [[langue-des-oiseaux|langue des oiseaux]].
 voir: henri-boudet, rennes-les-bains, rennes-le-chateau, langue-des-oiseaux, druidisme
 
 @ parzival
@@ -346,8 +346,8 @@ alias: Parsifal, Perceval allemand, Munsalvaesche, Montsalvage, lapsit exillis
 an: 1205
 def: Roman en vers de Wolfram von Eschenbach, composé vers 1200-1210, où le Graal est une pierre merveilleuse gardée par des chevaliers dans le château de Munsalvaesche.
 texte: Le poème raconte l'histoire du père du héros, Gahmuret, puis celle de Parzival, jeune homme naïf élevé loin du monde, qui échoue d'abord à poser au roi Anfortas, blessé et souffrant, la question qui le guérirait, avant de devenir, après une longue errance, roi du [[graal|Graal]]. Son demi-frère païen, Feirefiz, né d'une reine d'Orient, reçoit le baptême à la fin du récit.
-texte: Le Graal y est une pierre, *lapsit exillis*, qui procure nourriture et jeunesse et sur laquelle une inscription désigne ses serviteurs ; ses gardiens, les *templeisen*, rappellent les [[templiers]]. Wagner en tire *Parsifal* (1882). [[otto-rahn|Otto Rahn]] y lit une histoire codée des cathares, et les traditionalistes un symbole du centre spirituel caché.
-voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers
+texte: Le Graal y est une pierre, *lapsit exillis*, qui procure nourriture et jeunesse et sur laquelle une inscription désigne ses serviteurs ; ses gardiens, les *templeisen*, rappellent les [[templiers]]. [[richard-wagner|Wagner]] en tire *Parsifal* (1882). [[otto-rahn|Otto Rahn]] y lit une histoire codée des cathares, et les traditionalistes un symbole du centre spirituel caché.
+voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers, kyot, lohengrin, perceval, pretre-jean
 
 @ conte-du-graal
 cat: textes
@@ -355,9 +355,9 @@ nom: Le Conte du Graal
 alias: Perceval ou le Conte du Graal, Perceval, Roi Pêcheur, lance qui saigne
 an: 1180
 def: Dernier roman, inachevé, de Chrétien de Troyes, écrit vers 1180, où paraît pour la première fois le Graal, dans le château mystérieux du Roi Pêcheur.
-texte: [[chretien-de-troyes|Chrétien]] le dédie à Philippe d'Alsace, comte de Flandre, qui lui en aurait fourni le sujet dans un livre. Le jeune Perceval, élevé dans la forêt, devient chevalier ; reçu chez le Roi Pêcheur, il voit passer un jeune homme portant une lance dont la pointe saigne, puis une demoiselle portant un « graal » d'or orné de pierres précieuses, sans oser demander à qui l'on sert. Le roman, qui suit ensuite les aventures de Gauvain, s'interrompt après neuf mille vers.
+texte: [[chretien-de-troyes|Chrétien]] le dédie à Philippe d'Alsace, comte de Flandre, qui lui en aurait fourni le sujet dans un livre. Le jeune [[perceval|Perceval]], élevé dans la forêt, devient chevalier ; reçu chez le [[roi-pecheur|Roi Pêcheur]], il voit passer un jeune homme portant une lance dont la pointe saigne, puis une demoiselle portant un « graal » d'or orné de pierres précieuses, sans oser demander à qui l'on sert. Le roman, qui suit ensuite les aventures de Gauvain, s'interrompt après neuf mille vers.
 texte: Le silence de Perceval et le mystère du cortège ont appelé quatre continuations en vers, puis les romans en prose qui font du [[graal|Graal]] la coupe de la Cène. Folkloristes, théologiens, celtisants et ésotéristes y ont cherché un rite d'initiation, un mythe celtique ou un symbole chrétien ; la critique moderne souligne que Chrétien a voulu ce mystère.
-voir: chretien-de-troyes, graal, parzival, wolfram-von-eschenbach
+voir: chretien-de-troyes, graal, parzival, wolfram-von-eschenbach, perceval, roi-pecheur, galaad
 
 @ le-roi-du-monde
 cat: textes
@@ -367,17 +367,21 @@ an: 1927
 def: Livre de René Guénon paru en 1927 sur l'existence, attestée selon lui par toutes les traditions, d'un centre spirituel suprême et caché, gouverné par un chef à la fois roi et prêtre.
 texte: [[rene-guenon|Guénon]] part des récits de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]] et du voyageur polonais Ferdynand Ossendowski sur un royaume souterrain d'Asie centrale, l'[[agartha|Agarttha]], qu'il refuse de prendre à la lettre. Il y voit l'image d'un centre spirituel réel mais non localisable, gardien de la [[tradition-primordiale|tradition primordiale]], dont le chef, le « roi du monde », serait figuré dans la Bible par Melchisédech, à la fois roi et prêtre.
 texte: Il rapproche ce centre de bien des symboles : l'[[omphalos]], la montagne polaire, le [[graal|Graal]], l'île primordiale. Le livre, l'un des plus lus de Guénon, a nourri à la fois la réflexion traditionaliste sur les centres spirituels et une abondante littérature sur les souterrains mystérieux et les maîtres cachés.
-voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos
+voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos, pretre-jean
 
 @ les-demeures-philosophales
 cat: textes
 nom: Les Demeures philosophales
-alias: Demeures philosophales
+alias: Demeures philosophales, Les Demeures philosophales et le symbolisme hermétique dans ses rapports avec l'art sacré et l'ésotérisme du Grand Œuvre
 an: 1930
+dates: 1930 ; réédition en 1960
 def: Second livre de Fulcanelli, paru en 1930, qui étend l'interprétation alchimique de l'art aux demeures civiles, aux cadrans solaires et aux plafonds sculptés de la Renaissance.
-texte: Après les cathédrales, [[fulcanelli]] lit dans les maisons des « philosophes » les étapes du [[grand-oeuvre|Grand Œuvre]] : l'[[hotel-lallemant|hôtel Lallemant]] de Bourges, les caissons sculptés de la galerie du château de Dampierre-sur-Boutonne, un cadran solaire du palais de Holyrood à Édimbourg, une salamandre de Lisieux. Les deux volumes, illustrés par Julien Champagne, mêlent l'histoire, les légendes, l'étymologie et la [[langue-des-oiseaux|langue des oiseaux]].
-texte: Préfacé comme le premier par [[eugene-canseliet|Eugène Canseliet]], le livre est un classique de la littérature alchimique du XXe siècle. Les historiens de l'art y voient surtout la mode des rébus et des devises de la Renaissance, que Fulcanelli relit à la lumière de l'alchimie.
-voir: fulcanelli, mystere-des-cathedrales, hotel-lallemant, eugene-canseliet, grand-oeuvre
+texte: Après les cathédrales, [[fulcanelli]] cherche les étapes du [[grand-oeuvre|Grand Œuvre]] dans les maisons, les cheminées et les tombeaux où les « philosophes » auraient laissé leur signature. Il visite le manoir de la Salamandre à Lisieux, la maison d'Adam et Ève au Mans, la maison de l'Homme des bois à Thiers, la cheminée « alchimique » de Coulonges-sur-l'Autize, le tombeau du duc François II de Bretagne à Nantes, la chapelle de Figeac, le porche de Saint-Hilaire de Melle, l'obélisque de Dammartin-sur-Tigeaux et le cadran solaire du palais de Holyrood, à Édimbourg.
+texte: La pièce maîtresse du livre est la galerie haute du château de Dampierre-sur-Boutonne, en Saintonge, dont le plafond, sculpté vers 1550, porte quatre-vingt-treize caissons ornés d'emblèmes et de devises latines : Fulcanelli les commente un par un, comme les pages d'un traité d'alchimie. Le livre s'attarde aussi sur la [[langue-des-oiseaux|langue des oiseaux]], qu'il définit comme un langage fondé sur l'assonance et indifférent à l'orthographe, et se clôt par une mise en garde contre les dangers d'un progrès scientifique sans limites.
+texte: Préfacé comme le premier par [[eugene-canseliet|Eugène Canseliet]] et illustré par Julien Champagne, le livre est un classique de la littérature alchimique du XXe siècle. Les historiens de l'art y voient surtout la mode des rébus, des [[emblemes|emblèmes]] et des devises de la Renaissance, que Fulcanelli relit à la lumière de l'alchimie. Le manoir de la Salamandre, que Canseliet croyait détruit en 1944, avait en réalité été démonté vers 1906 et remonté à [[etretat|Étretat]], où il est devenu un hôtel. Aucune transcription libre du texte de 1930 n'étant disponible, Arcanes n'en donne pas d'extrait.
+repere: 1930 — Première édition, chez Jean Schemit.
+repere: 1960 — Nouvelle édition.
+voir: fulcanelli, mystere-des-cathedrales, emblemes, eugene-canseliet, grand-oeuvre, langue-des-oiseaux, etretat
 
 @ dossiers-secrets
 cat: textes
@@ -387,4 +391,4 @@ an: 1967
 def: Ensemble de documents dactylographiés déposés à la Bibliothèque nationale dans les années 1960 sous des noms d'emprunt par Pierre Plantard et ses amis, pour donner corps au mythe du prieuré de Sion.
 texte: Ces brochures, attribuées à un « Henri Lobineau » et à d'autres auteurs imaginaires, contiennent des généalogies faisant descendre [[pierre-plantard|Pierre Plantard]] du roi mérovingien Dagobert II, des listes de grands maîtres du [[prieure-de-sion|prieuré de Sion]], des coupures de presse, les « parchemins » attribués à l'abbé [[berenger-sauniere|Saunière]] et un poème en prose, *Le Serpent rouge*. Leur dépôt légal leur donnait l'apparence de sources officielles.
 texte: Repris par [[gerard-de-sede|Gérard de Sède]], puis par les auteurs de *L'Énigme sacrée*, ils sont à l'origine de tout le mythe moderne de [[rennes-le-chateau|Rennes-le-Château]]. Philippe de Chérisey a reconnu avoir fabriqué les parchemins, et Plantard lui-même a avoué la supercherie. Ils restent consultables à la Bibliothèque nationale de France, témoins d'une des mystifications les plus réussies du XXe siècle.
-voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede
+voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede, rene-d-anjou, les-bergers-d-arcadie

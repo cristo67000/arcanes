@@ -51,6 +51,10 @@
   --c-maconnerie: #2b5591;
   --c-symboles: #866433;
   --c-lieux: #2e7240;
+  --c-nombres: #7a5900;
+  --c-astronomie: #0d6a82;
+  --c-pierres: #8a3c9e;
+  --c-echecs: #36414b;
   --c-perso: #6b6577;
 
   /* la carte des lieux */
@@ -113,6 +117,10 @@
     --c-maconnerie: #93b6ec;
     --c-symboles: #dbbd88;
     --c-lieux: #85d39a;
+    --c-nombres: #e2bd52;
+    --c-astronomie: #6fcce4;
+    --c-pierres: #d59ae6;
+    --c-echecs: #c3ccd5;
     --c-perso: #aaa3b8;
     --mer: #0e1522;
     --terre: #221d31;
@@ -165,6 +173,10 @@
   --c-maconnerie: #93b6ec;
   --c-symboles: #dbbd88;
   --c-lieux: #85d39a;
+  --c-nombres: #e2bd52;
+  --c-astronomie: #6fcce4;
+  --c-pierres: #d59ae6;
+  --c-echecs: #c3ccd5;
   --c-perso: #aaa3b8;
   --mer: #0e1522;
   --terre: #221d31;

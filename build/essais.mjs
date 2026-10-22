@@ -250,7 +250,8 @@ try {
   await js("Object.defineProperty(navigator, 'geolocation', { configurable: true, value: { getCurrentPosition: (succes) => setTimeout(() => succes({ coords: { latitude: 43.6045, longitude: 1.444, accuracy: 800 } }), 50) } }); document.querySelector('.bouton-situer').click(); return 1");
   await attendre("Carte.position && document.querySelector('#carte-cadre .c-ici')", 4000, 'la position s’affiche sur la carte');
   const proches = await js("return Array.from(document.querySelectorAll('#carte-liste .lieu-ligne')).slice(0, 3).map((b) => b.getAttribute('data-ref'))");
-  ok(proches[0] === 'montsegur', 'depuis Toulouse, le lieu le plus proche est Montségur (' + proches.join(', ') + ')');
+  // Carcassonne (86 km) devance de peu Montségur (87 km)
+  ok(proches[0] === 'carcassonne' && proches.includes('montsegur'), 'depuis Toulouse, les lieux les plus proches sont Carcassonne puis Montségur (' + proches.join(', ') + ')');
   ok(await js("return /\\d+ km/.test(document.querySelector('#carte-liste .lieu-distance').textContent)"), 'la liste donne les distances');
   await js("Array.from(document.querySelectorAll('#carte-position button')).find((b) => /oublier/i.test(b.textContent)).click(); return 1");
   await attendre("Carte.position === null && !document.querySelector('#carte-cadre .c-ici')", 2000, 'la position s’oublie d’un geste');

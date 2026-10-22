@@ -99,7 +99,7 @@ def: Dixième arcane majeur : une roue que font tourner des animaux montant et d
 texte: La roue de Fortune est un thème médiéval : la déesse aveugle fait tourner la roue où les hommes montent au pouvoir puis en tombent, avec les mots « je régnerai, je règne, j'ai régné, je suis sans règne ». Dans le tarot de Marseille, des créatures mi-animales, mi-humaines y remplacent les rois, et un sphinx immobile siège au sommet.
 texte: [[eliphas-levi]] y voit les forces de l'univers — le sphinx, Hermanubis et Typhon — et inscrit sur la roue les lettres du mot TARO. La Golden Dawn lui attribue [[jupiter|Jupiter]]. En divination, elle annonce un changement, une chance, un tournant.
 schema: arcanes-majeurs/10
-voir: arcanes-majeurs, cycles-cosmiques, sphinx
+voir: arcanes-majeurs, cycles-cosmiques, sphinx, dix
 
 @ arcane-force
 cat: divination
@@ -129,7 +129,7 @@ def: Treizième arcane majeur, laissé sans nom dans le tarot de Marseille : un 
 texte: Les jeux italiens nommaient la carte « la Mort ». Le tarot de Marseille lui laisse son seul numéro, comme si l'on évitait de prononcer le mot. Le squelette fauche des têtes couronnées et d'autres non : la mort frappe les rois comme les humbles, thème des danses macabres de la fin du Moyen Âge.
 texte: Les occultistes et les tarologues insistent sur la transformation plus que sur la mort physique : la fin d'un cycle, le dépouillement, la condition d'une renaissance, comme la [[nigredo]] des alchimistes. La Golden Dawn lui attribue le [[scorpion|Scorpion]].
 schema: arcanes-majeurs/13
-voir: arcanes-majeurs, nigredo, arcane-jugement
+voir: arcanes-majeurs, nigredo, arcane-jugement, treize
 
 @ arcane-temperance
 cat: divination
@@ -219,4 +219,4 @@ def: Arcane majeur sans numéro : un vagabond qui marche, son baluchon sur l'ép
 texte: Le Mat n'a pas de numéro. Au jeu de tarot, il sert d'« Excuse » : on peut le jouer à tout moment, sans suivre. Son nom ancien, « mat », signifie fou. Le vagabond, vêtu en bouffon, avance sans regarder où il va ; le chien le mord ou le pousse.
 texte: Faute de numéro, les occultistes ont discuté de sa place : [[eliphas-levi]] le met entre le XX et le XXI, avec la lettre *shin* ; la Golden Dawn en fait l'arcane 0, au début de la série, avec la lettre *alef* et l'élément air. Il figure tantôt l'insensé qui ignore tout, tantôt le sage qui a tout dépassé. En divination, il signifie le départ, l'imprévu, la liberté, l'imprudence.
 schema: arcanes-majeurs/0
-voir: arcanes-majeurs, arcane-bateleur, arcane-monde, tarot
+voir: arcanes-majeurs, arcane-bateleur, arcane-monde, tarot, fou-echecs, zero

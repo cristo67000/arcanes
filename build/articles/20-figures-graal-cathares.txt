@@ -9,7 +9,7 @@ an: 1904
 def: Écrivain allemand qui chercha le Graal chez les cathares de Montségur, puis entra dans l'état-major personnel de Himmler, avant de mourir dans la montagne tyrolienne à trente-quatre ans.
 texte: Otto Rahn naît en 1904 à Michelstadt, en Hesse, fils d'un juriste. Étudiant en droit et en philologie à Giessen, Fribourg et Heidelberg, il se passionne pour les troubadours, les cathares et le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], dont il croit que l'auteur a caché sous des noms transparents des lieux et des personnages réels du Languedoc.
 texte: En 1931, il s'installe à Ussat-les-Bains, dans l'Ariège. Guidé par l'instituteur [[antonin-gadal|Antonin Gadal]], il explore les grottes du Sabarthès, comme [[grotte-de-lombrives|Lombrives]], fréquente [[deodat-roche|Déodat Roché]] et [[maurice-magre|Maurice Magre]], et tente sans succès de tenir un hôtel. Il en tire *[[croisade-contre-le-graal|Croisade contre le Graal]]* (1933), où le château de [[montsegur|Montségur]] devient le Montsalvage de Wolfram, les [[parfaits]] les gardiens du [[graal|Graal]], et la croisade des Albigeois une guerre de Rome contre une religion de lumière venue du fond des âges.
-texte: Le livre, peu vendu, attire l'attention de Heinrich Himmler. Rahn travaille pour lui à partir de 1935 et entre à la SS l'année suivante, dans l'état-major personnel du Reichsführer, qui offre à Hitler son second livre, *La Cour de Lucifer* (1937), récit d'un voyage à la recherche des « hérétiques » d'Europe, de plus en plus imprégné de mythologie nordique et d'antisémitisme. Sanctionné en 1937, pour des raisons que ses biographes discutent, il est affecté quelques mois à la garde du camp de concentration de Dachau. Il quitte la SS en février 1939 et meurt le mois suivant sur les pentes du Wilder Kaiser, dans le Tyrol, sans doute un suicide.
+texte: Le livre, peu vendu, attire l'attention de [[heinrich-himmler|Heinrich Himmler]]. Rahn travaille pour lui à partir de 1935 et entre à la SS l'année suivante, dans l'état-major personnel du Reichsführer, qui offre à Hitler son second livre, *La Cour de Lucifer* (1937), récit d'un voyage à la recherche des « hérétiques » d'Europe, de plus en plus imprégné de mythologie nordique et d'antisémitisme. Sanctionné en 1937, pour des raisons que ses biographes discutent, il est affecté quelques mois à la garde du camp de concentration de Dachau. Il quitte la SS en février 1939 et meurt le mois suivant sur les pentes du Wilder Kaiser, dans le Tyrol, sans doute un suicide.
 texte: Sa fin a nourri une légende : on l'a dit mort en « parfait » par une *endura* volontaire, résistant secret au nazisme, ou au contraire survivant sous un autre nom. Les historiens voient en lui un romantique tombé au service d'un régime qui récupérait ses rêveries ; il reste, par ses livres traduits et réédités, l'un des inventeurs du « Montségur du Graal ».
 repere: 1904 — Naissance à Michelstadt, en Hesse.
 repere: 1922 — Études de droit, puis de philologie, à Giessen, Fribourg et Heidelberg.
@@ -19,7 +19,7 @@ repere: 1936 — Il entre à la SS, dans l'état-major personnel de Himmler.
 repere: 1937 — *La Cour de Lucifer* ; sanctionné, il est affecté à la garde du camp de Dachau.
 repere: 1939 — Il quitte la SS en février et meurt le 13 mars dans le Tyrol.
 oeuvres: Croisade contre le Graal (1933) ; La Cour de Lucifer (1937)
-voir: montsegur, croisade-contre-le-graal, antonin-gadal, graal, catharisme, ahnenerbe
+voir: montsegur, croisade-contre-le-graal, antonin-gadal, graal, catharisme, ahnenerbe, heinrich-himmler
 
 @ antonin-gadal
 cat: figures
@@ -45,7 +45,7 @@ alias: Roché, Cahiers d'études cathares, Tau Théodotos
 dates: 1877 – 1978
 an: 1877
 def: Magistrat audois, évêque de l'Église gnostique puis anthroposophe, qui consacra sa longue vie à présenter le catharisme comme une gnose chrétienne proche de l'enseignement de Rudolf Steiner.
-texte: Déodat Roché naît en 1877 à Arques, dans l'Aude, à quelques kilomètres de [[rennes-le-chateau|Rennes-le-Château]]. Étudiant à Toulouse, il fréquente les milieux de [[papus]], entre dans l'[[ordre-martiniste|Ordre martiniste]] et dans l'[[eglise-gnostique|Église gnostique]] de [[jules-doinel|Jules Doinel]], qui le sacre évêque de Carcassonne en 1903 sous le nom de Théodotos. Avocat puis magistrat, il est aussi franc-maçon au Grand Orient.
+texte: Déodat Roché naît en 1877 à Arques, dans l'Aude, à quelques kilomètres de [[rennes-le-chateau|Rennes-le-Château]]. Étudiant à Toulouse, il fréquente les milieux de [[papus]], entre dans l'[[ordre-martiniste|Ordre martiniste]] et dans l'[[eglise-gnostique|Église gnostique]] de [[jules-doinel|Jules Doinel]], qui le sacre évêque de [[carcassonne|Carcassonne]] en 1903 sous le nom de Théodotos. Avocat puis magistrat, il est aussi franc-maçon au Grand Orient.
 texte: En 1922, il rencontre [[rudolf-steiner|Rudolf Steiner]] à Dornach et devient anthroposophe. Il lit désormais le [[catharisme]] comme un christianisme ésotérique, héritier du [[manicheisme|manichéisme]] et proche de l'[[anthroposophie]] : le dualisme cathare serait une doctrine de la lutte de l'esprit contre la matière, et le [[consolamentum]] une initiation. Révoqué par le régime de Vichy en 1941 parce que franc-maçon, il fonde après la guerre la Société du souvenir et des études cathares et, en 1948, les *Cahiers d'études cathares*, où écrivent aussi bien des poètes que l'historien René Nelli.
 texte: Il meurt à Arques en 1978, à cent ans. Sa maison abrite une exposition consacrée au catharisme. Les historiens ont depuis renouvelé l'étude des cathares à partir des sources inquisitoriales, loin de ses lectures spirituelles, mais il a largement contribué à faire du Languedoc une terre d'élection pour l'ésotérisme.
 repere: 1877 — Naissance à Arques, dans l'Aude.
@@ -144,7 +144,7 @@ alias: abbé Boudet, Boudet, La Vraie Langue celtique
 dates: 1837 – 1915
 an: 1837
 def: Curé de Rennes-les-Bains pendant quarante-deux ans, auteur d'un livre étrange sur la langue primitive de l'humanité et un prétendu cromlech, lu depuis comme la clé de l'énigme de Rennes.
-texte: Jean-Jacques Henri Boudet naît en 1837 à Quillan, dans l'Aude. Curé de [[rennes-les-bains|Rennes-les-Bains]] de 1872 à 1914, érudit, membre de la Société des arts et des sciences de Carcassonne, il publie en 1886 *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*. Il y soutient que les noms de lieux du pays s'expliquent par l'anglais, survivance de la langue que parlaient les premiers hommes avant Babel, et que les rochers des environs forment un immense cercle de pierres celtique.
+texte: Jean-Jacques Henri Boudet naît en 1837 à Quillan, dans l'Aude. Curé de [[rennes-les-bains|Rennes-les-Bains]] de 1872 à 1914, érudit, membre de la Société des arts et des sciences de [[carcassonne|Carcassonne]], il publie en 1886 *[[la-vraie-langue-celtique|La Vraie Langue celtique et le cromleck de Rennes-les-Bains]]*. Il y soutient que les noms de lieux du pays s'expliquent par l'anglais, survivance de la langue que parlaient les premiers hommes avant Babel, et que les rochers des environs forment un immense cercle de pierres celtique.
 texte: L'ouvrage, illustré d'une carte dessinée par son frère Edmond, passa inaperçu. Depuis les années 1960, il est lu comme un cryptogramme : on y cherche le chemin d'un trésor, la géométrie secrète du paysage ou la clé des parchemins de [[berenger-sauniere|Saunière]], que Boudet aurait connu et peut-être financé. Les historiens y voient l'œuvre d'un prêtre érudit, imprégné des théories celtomanes et de la quête d'une langue primitive, très répandues au XIXe siècle. Il meurt en 1915 à Axat.
 repere: 1837 — Naissance à Quillan, dans l'Aude.
 repere: 1872 — Nommé curé de Rennes-les-Bains.
@@ -196,12 +196,12 @@ alias: Wolfram, Parzival, Kyot
 dates: vers 1170 – vers 1220
 an: 1170
 def: Chevalier et poète allemand, auteur du Parzival, qui fit du Graal une pierre tombée du ciel gardée par des chevaliers, les « templistes ».
-texte: Chevalier pauvre de Franconie, Wolfram von Eschenbach se dit illettré, ce qui est sans doute une coquetterie. Vers 1200-1210, il compose le *[[parzival|Parzival]]*, long roman en vers qui reprend le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]] en l'achevant et en le transformant. Il prétend tenir l'histoire d'un certain Kyot le Provençal, qui l'aurait trouvée dans un manuscrit arabe à Tolède : la plupart des spécialistes y voient une fiction.
+texte: Chevalier pauvre de Franconie, Wolfram von Eschenbach se dit illettré, ce qui est sans doute une coquetterie. Vers 1200-1210, il compose le *[[parzival|Parzival]]*, long roman en vers qui reprend le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]] en l'achevant et en le transformant. Il prétend tenir l'histoire d'un certain [[kyot|Kyot]] le Provençal, qui l'aurait trouvée dans un manuscrit arabe à Tolède : la plupart des spécialistes y voient une fiction.
 texte: Chez Wolfram, le [[graal|Graal]] est une pierre, *lapsit exillis*, qui nourrit, rajeunit et désigne par une inscription ceux qui la serviront ; ses gardiens, les *templeisen*, évoquent les [[templiers]]. Le roman a inspiré le *Parsifal* de Wagner (1882) et les lectures ésotériques, d'[[otto-rahn|Otto Rahn]], qui place le château du Graal à [[montsegur|Montségur]], aux traditionalistes qui y lisent un symbole du centre spirituel.
 repere: vers 1200 — Il compose le *Parzival*.
 repere: vers 1215 — Il compose le *Willehalm*.
 oeuvres: Parzival (vers 1200-1210) ; Willehalm (vers 1215) ; Titurel
-voir: parzival, graal, chretien-de-troyes, otto-rahn, templiers
+voir: parzival, graal, chretien-de-troyes, otto-rahn, templiers, lohengrin, perceval
 
 @ chretien-de-troyes
 cat: figures
@@ -215,4 +215,4 @@ texte: Son dernier roman, *[[conte-du-graal|Perceval ou le Conte du Graal]]*, ve
 repere: vers 1170 — *Érec et Énide*.
 repere: vers 1180 — *Perceval ou le Conte du Graal*, resté inachevé.
 oeuvres: Érec et Énide ; Lancelot ou le Chevalier de la charrette ; Yvain ou le Chevalier au lion ; Perceval ou le Conte du Graal
-voir: conte-du-graal, graal, wolfram-von-eschenbach, parzival
+voir: conte-du-graal, graal, wolfram-von-eschenbach, parzival, perceval

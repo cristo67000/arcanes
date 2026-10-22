@@ -815,3 +815,160 @@ conte-du-graal: wp Perceval ou le Conte du Graal
 le-roi-du-monde: wp Le Roi du monde
 les-demeures-philosophales: -
 dossiers-secrets: wp Dossiers secrets d'Henri Lobineau
+
+# ── Rubriques et articles ajoutés en 1.4 ──
+lithotherapie: wp Lithothérapie
+lapidaire: en Lapidary (text)
+pectoral-du-grand-pretre: wp Pectoral du grand-prêtre
+pierres-de-naissance: en Birthstone
+cristal-de-roche: wp Quartz (minéral)
+amethyste: wp Améthyste
+obsidienne: wp Obsidienne
+lapis-lazuli: wp Lapis-lazuli
+jade: wp Jade
+turquoise: wp Turquoise (minéral)
+ambre: wp Ambre
+hematite: wp Hématite
+cornaline: wp Cornaline
+aimant: wp Magnétite
+diamant: wp Diamant
+emeraude: wp Émeraude
+rubis: wp Rubis
+saphir: wp Saphir
+corail: wp Corail rouge
+bezoard: wp Bézoard
+crapaudine: wp Crapaudine (minéralogie)
+pierre-de-foudre: wp Pierre de foudre
+hauts-lieux-energetiques: -
+geobiologie: wp Géobiologie (pseudoscience)
+reseau-hartmann: wp Réseau Hartmann
+lignes-ley: wp Alignement de sites | wp The Old Straight Track
+courants-telluriques: wp Courant tellurique
+unites-bovis: -
+ondes-de-forme: -
+orgone: wp Orgone
+feng-shui: wp Feng shui
+sedona: wp Sedona
+mont-shasta: wp Mont Shasta
+avebury: wp Avebury
+grande-ourse: wp Grande Ourse
+petite-ourse: wp Petite Ourse
+etoile-polaire: wp Étoile polaire
+constellation: wp Constellation
+orion: wp Orion (constellation)
+pleiades: wp Pléiades (astronomie)
+sirius: wp Sirius
+voie-lactee: wp Voie lactée
+etoiles-royales: wp Étoile royale
+etoiles-beheniennes: en Behenian fixed star
+ecliptique: wp Écliptique
+equinoxes-et-solstices: wp Équinoxe | wp Solstice
+eclipse: wp Éclipse
+comete: wp Comète
+astrolabe: wp Astrolabe
+ophiuchus: wp Ophiuchus
+zero: wp Zéro
+un: wp 1 (nombre)
+deux: wp 2 (nombre)
+trois: wp 3 (nombre)
+quatre: wp 4 (nombre)
+cinq: wp 5 (nombre)
+six: wp 6 (nombre)
+sept: wp 7 (nombre)
+huit: wp 8 (nombre)
+neuf: wp 9 (nombre)
+dix: wp 10 (nombre)
+douze: wp 12 (nombre)
+treize: wp 13 (nombre)
+vingt-deux: wp 22 (nombre)
+trente-trois: wp 33 (nombre)
+quarante: wp 40 (nombre)
+soixante-douze: wp 72 (nombre)
+nombre-de-la-bete: wp Nombre de la Bête
+geometrie-sacree: wp Géométrie sacrée
+jeu-d-echecs: wp Échecs
+chaturanga: wp Chaturanga
+echiquier: wp Échiquier
+roi-echecs: wp Roi (échecs)
+dame-echecs: wp Dame (échecs)
+fou-echecs: wp Fou (échecs)
+cavalier-echecs: wp Cavalier (échecs)
+tour-echecs: wp Tour (échecs)
+pion-echecs: wp Pion (échecs)
+jeu-des-echecs-moralise: wp Jacques de Cessoles
+jacques-de-cessoles: wp Jacques de Cessoles
+legende-de-sissa: wp Problème de l'échiquier de Sissa
+echecs-enochiens: en Enochian chess
+de-l-autre-cote-du-miroir: wp De l'autre côté du miroir
+lewis-carroll: wp Lewis Carroll
+marcel-duchamp: wp Marcel Duchamp
+licorne: wp Licorne
+hippogriffe: wp Hippogriffe
+dragon: wp Dragon
+basilic: wp Basilic (mythologie)
+menorah: wp Menorah
+arche-d-alliance: wp Arche d'alliance
+chrisme: wp Chrisme
+sainte-lance: wp Sainte Lance
+melencolia: wp Melencolia I
+les-bergers-d-arcadie: wp Et in Arcadia ego (Poussin)
+walpurgis: wp Nuit de Walpurgis
+sorciere: wp Sorcière
+parole-perdue: -
+jakin: wp Jakin et Boaz
+boaz: wp Jakin et Boaz
+sainte-vehme: wp Vehme
+carbonarisme: wp Carbonarisme
+charbonnerie: wp Carbonarisme | wp Quatre sergents de La Rochelle
+legende-doree: wp La Légende dorée | ws La Légende dorée
+le-serpent-vert: en The Green Snake and the Beautiful Lily
+divine-comedie: wp Divine Comédie | ws La Divine Comédie (Lamennais 1863)
+songe-de-poliphile: wp Hypnerotomachia Poliphili | ws Le Songe de Poliphile (éd. Popelin, 1883)
+rene-d-anjou: wp René d'Anjou
+leonard-de-vinci: wp Léonard de Vinci
+albrecht-durer: wp Albrecht Dürer
+parmesan: wp Parmigianino
+dante: wp Dante Alighieri
+dante-gabriel-rossetti: wp Dante Gabriel Rossetti
+giuseppe-garibaldi: wp Giuseppe Garibaldi
+giuseppe-mazzini: wp Giuseppe Mazzini
+filippo-buonarroti: wp Philippe Buonarroti
+richard-wagner: wp Richard Wagner
+louis-ii-de-baviere: wp Louis II (roi de Bavière)
+heinrich-himmler: wp Heinrich Himmler
+constantin: wp Constantin Ier (empereur romain)
+nicolas-poussin: wp Nicolas Poussin
+jerome-bosch: wp Jérôme Bosch
+sandro-botticelli: wp Sandro Botticelli
+maurice-leblanc: wp Maurice Leblanc
+jacques-de-voragine: wp Jacques de Voragine
+tycho-brahe: wp Tycho Brahe
+galaad: en Galahad
+perceval: wp Perceval
+roi-pecheur: wp Roi pêcheur
+joseph-d-arimathie: wp Joseph d'Arimathie
+kyot: en Kyot
+lohengrin: wp Lohengrin
+merlin: wp Merlin
+melusine: wp Mélusine (fée)
+pretre-jean: wp Royaume du prêtre Jean
+sarastro: wp La Flûte enchantée
+faust: wp Faust
+longin: wp Longin le centurion
+arsene-lupin: wp Arsène Lupin
+paris: wp Paris
+londres: wp Londres
+nuremberg: wp Nuremberg
+venise: wp Venise
+carcassonne: wp Cité de Carcassonne
+milan: wp Milan
+rouen: wp Rouen
+lyon: wp Lyon
+turin: wp Turin
+vienne: wp Vienne (Autriche)
+prague: wp Prague
+florence: wp Florence
+bayreuth: wp Festival de Bayreuth
+etretat: wp Étretat
+lusignan: wp Château de Lusignan
+vezelay: wp Basilique Sainte-Marie-Madeleine de Vézelay

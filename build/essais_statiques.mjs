@@ -170,7 +170,8 @@ ok(lire('confidentialite.html').includes('Me situer'), 'la page de confidentiali
 const extraits = dico.articles.flatMap((a) => (a.ex || []).map((x) => [a.id, x]));
 ok(extraits.length >= 20 && extraits.length === meta.extraits, 'des extraits d’œuvres sont cités (' + extraits.length + ')');
 ok(extraits.every(([, [p, ref, li]]) => p.length && p.every((t) => t.length > 20 && !/\/\/|¶|\[\[/.test(t)) && /\*[^*]+\*/.test(ref) && li.length), 'chaque extrait a son texte, sa référence avec le titre et ses liens');
-ok(extraits.every(([, [, , li]]) => li.every((l) => l.length === 3 && /^https:\/\/(gallica\.bnf\.fr|fr\.wikisource\.org|archive\.org)\//.test(l[2]))), 'les extraits mènent au livre : Gallica, Wikisource ou l’Internet Archive');
+// data.bnf.fr : la notice de la BnF, quand aucune numérisation libre n'existe (Fulcanelli)
+ok(extraits.every(([, [, , li]]) => li.every((l) => l.length === 3 && /^https:\/\/(gallica\.bnf\.fr|fr\.wikisource\.org|archive\.org|data\.bnf\.fr)\//.test(l[2]))), 'les extraits mènent au livre : Gallica, Wikisource, l’Internet Archive ou la notice de la BnF');
 ok(extraits.filter(([, [, , li]]) => li.some((l) => l[2].includes('gallica.bnf.fr'))).length >= 15, 'la plupart des extraits mènent à Gallica');
 
 console.log(bons + ' épreuve(s) statique(s) réussie(s)');

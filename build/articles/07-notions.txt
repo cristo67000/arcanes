@@ -216,7 +216,7 @@ def: Dans les traditions tantriques de l'Inde, centres d'énergie subtile dispos
 texte: Le mot sanskrit *cakra* signifie « roue ». Les textes tantriques décrivent un réseau de canaux subtils et, selon les écoles, de quatre à sept centres ou davantage, représentés comme des [[lotus]] d'un nombre de pétales déterminé, chacun associé à une syllabe, à un élément et à une divinité. Le système le plus connu compte six centres, du périnée au front, et un septième au sommet du crâne, le lotus aux mille pétales.
 texte: L'Occident l'a découvert par la [[theosophie]], par *La Puissance du serpent* de John Woodroffe (1919) et par *Les Chakras* de [[charles-webster-leadbeater|Charles Leadbeater]] (1927). Le [[new-age|New Age]] a associé à chaque chakra une couleur de l'arc-en-ciel, des pierres, des glandes et des émotions, ce qui ne figure pas dans les textes indiens.
 schema: chakras
-voir: kundalini, tantrisme, corps-subtils, aura
+voir: kundalini, tantrisme, corps-subtils, aura, sept
 
 @ kundalini
 cat: notions
@@ -338,7 +338,7 @@ alias: Agarttha, Agharti, Asgartha, Shambhala, Roi du monde, terre creuse
 def: Royaume souterrain légendaire, situé sous l'Asie, où un souverain spirituel, le Roi du monde, garderait la sagesse primordiale de l'humanité.
 texte: Le mot apparaît dans les livres de l'écrivain Louis Jacolliot sur l'Inde, dans les années 1870. [[saint-yves-d-alveydre]] le développe dans *Mission de l'Inde* : l'Agartha abriterait des millions d'habitants, des bibliothèques de pierre et un pontife suprême. En 1922, le voyageur Ferdinand Ossendowski rapporte de Mongolie des récits sur l'« Agharti » et le Roi du monde, que [[rene-guenon]] commente dans *Le Roi du monde* (1927).
 texte: On rapproche souvent l'Agartha de Shambhala, royaume mythique du bouddhisme tibétain, associé au cycle du Kâlachakra. La légende nourrit aussi les théories de la « terre creuse ».
-voir: saint-yves-d-alveydre, tradition-primordiale, synarchie, maitres-de-sagesse
+voir: saint-yves-d-alveydre, tradition-primordiale, synarchie, maitres-de-sagesse, pretre-jean
 
 @ synarchie
 cat: notions
@@ -427,7 +427,7 @@ nom: Sphères célestes
 alias: cosmos géocentrique, géocentrisme, sphères, premier mobile, empyrée, ciel des fixes, système de Ptolémée
 def: Représentation de l'univers, dominante de l'Antiquité au XVIIe siècle, où la Terre immobile occupe le centre de sphères emboîtées portant la Lune, le Soleil, les planètes et les étoiles fixes.
 texte: Autour de la Terre tournent, de la plus proche à la plus lointaine, les sphères de la Lune, de Mercure, de Vénus, du Soleil, de Mars, de Jupiter et de Saturne, puis celle des étoiles fixes. Le Moyen Âge y ajoute un « premier mobile », qui entraîne tout le ciel dans sa rotation quotidienne, et au-delà l'empyrée, séjour de Dieu et des bienheureux. Sous la Lune, tout naît et meurt ; au-dessus, tout est parfait et incorruptible.
-texte: Ce cosmos ordonné donne son cadre à l'[[astrologie]], aux [[hierarchies-celestes|hiérarchies des anges]], qu'on fait correspondre aux sphères, à la descente de l'âme qui revêt à chaque étage une qualité, et à la [[harmonie-des-spheres|musique des sphères]]. Dante y fait voyager son poète à travers le Paradis. Copernic, en 1543, place le Soleil au centre, et la physique de Newton fait disparaître les sphères.
+texte: Ce cosmos ordonné donne son cadre à l'[[astrologie]], aux [[hierarchies-celestes|hiérarchies des anges]], qu'on fait correspondre aux sphères, à la descente de l'âme qui revêt à chaque étage une qualité, et à la [[harmonie-des-spheres|musique des sphères]]. [[dante|Dante]] y fait voyager son poète à travers le Paradis. Copernic, en 1543, place le Soleil au centre, et la physique de Newton fait disparaître les sphères.
 schema: cosmos-geocentrique
 voir: claude-ptolemee, harmonie-des-spheres, planetes, hierarchies-celestes, poimandres
 

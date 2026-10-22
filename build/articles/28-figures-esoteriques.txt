@@ -1,0 +1,293 @@
+# Figures historiques que l'ésotérisme a revendiquées ou qui l'ont fréquenté :
+# princes, artistes, révolutionnaires, astronomes et, sans complaisance, les
+# dignitaires nazis qui ont mêlé l'occultisme à leurs crimes.
+
+@ rene-d-anjou
+cat: figures
+nom: René d'Anjou
+alias: le bon roi René, René Ier, roi René, duc d'Anjou, comte de Provence
+dates: 1409 – 1480
+an: 1409
+def: Prince lettré du XVe siècle, duc d'Anjou, comte de Provence et roi de Naples, mécène et écrivain allégorique, que les documents du Prieuré de Sion ont rangé parmi leurs « grands maîtres ».
+texte: Fils de Yolande d'Aragon, René naît au château d'Angers et cumule les titres : duc de Bar et de Lorraine, duc d'Anjou, comte de Provence, roi de Naples de 1435 à 1442, puis roi de Sicile et de Jérusalem en titre. Chassé de Naples, il vit entre l'Anjou et la Provence, où il meurt à Aix. Poète et peintre amateur, il compose le *Livre du cœur d'amour épris*, roman allégorique où le Cœur, chevalier, part en quête de la dame Douce Merci, et un traité des tournois ; il fonde l'ordre de chevalerie du Croissant en 1448.
+texte: Sa piété le rattache aux légendes de la Provence chrétienne : il fait fouiller en 1448 l'église des Saintes-Maries-de-la-Mer, où l'on « découvre » les reliques des saintes venues de Palestine, et il offre à la cathédrale d'Angers une urne réputée provenir des noces de Cana. Au XXe siècle, les *[[dossiers-secrets|Dossiers secrets]]* du [[prieure-de-sion|Prieuré de Sion]] en ont fait un grand maître de l'ordre, une affirmation sans aucun fondement, reprise par les auteurs de l'*Énigme sacrée* et du *Da Vinci Code*.
+repere: 1409 — Naissance au château d'Angers.
+repere: 1448 — Il fonde l'ordre du Croissant et fait fouiller les Saintes-Maries-de-la-Mer.
+repere: 1457 — *Le Livre du cœur d'amour épris*.
+repere: 1480 — Mort à Aix-en-Provence.
+voir: prieure-de-sion, dossiers-secrets, legende-doree, graal, sandro-botticelli, leonard-de-vinci
+
+@ leonard-de-vinci
+cat: figures
+nom: Léonard de Vinci
+alias: Leonardo da Vinci, Léonard, Vinci, homme de Vitruve, Cène
+dates: 1452 – 1519
+an: 1452
+def: Peintre, ingénieur et savant de la Renaissance italienne, auteur de *La Joconde* et de *La Cène*, que l'occultisme de la Belle Époque a vénéré comme un mage et que les romans à mystères ont chargé de secrets codés.
+texte: Né à Vinci, en Toscane, formé à [[florence|Florence]] dans l'atelier de Verrocchio, Léonard passe dix-sept ans à [[milan|Milan]] au service de Ludovic Sforza, où il peint *La Cène* (1495-1498) ; il finit sa vie en France, au Clos Lucé, près d'Amboise, invité de François Ier. Ses carnets, écrits en miroir, mêlent anatomie, mécanique, hydraulique, optique et projets d'architecture ; son dessin de l'homme inscrit dans un cercle et un carré, d'après Vitruve, est devenu l'emblème de la [[geometrie-sacree|géométrie sacrée]] et du [[microcosme-macrocosme|microcosme]].
+texte: Léonard s'est moqué des nécromants et des alchimistes qui veulent faire de l'or. C'est pourtant comme un initié que l'a célébré [[josephin-peladan|Joséphin Péladan]], qui traduisit ses textes en 1907 et vit dans ses visages ambigus l'idéal de l'[[androgyne]]. Les *[[dossiers-secrets|Dossiers secrets]]* l'ont fait grand maître du [[prieure-de-sion|Prieuré de Sion]], et le roman *Da Vinci Code* (2003) a prétendu lire dans *La Cène* la présence de Marie-Madeleine et un secret sur la descendance du Christ : les historiens de l'art rejettent ces lectures.
+repere: 1452 — Naissance à Vinci, en Toscane.
+repere: 1495-1498 — *La Cène*, à Milan.
+repere: 1516 — Il s'installe en France, au Clos Lucé.
+repere: 1519 — Mort à Amboise.
+extrait: Mais cette nigromantie, étendard et vraie bannière claquante au vent, entraîne une folle multitude qui atteste sans cesse avec clameur les infinis effets d'un tel art ; et les livres remplis de ces choses affirment que les esprits incarnés apparaissent et parlent, sans langue, sans instrument organique nécessaire au langage ; et non seulement parlent, mais soulèvent des poids très lourds, font tempêter et pleuvoir ; et que les hommes se changent en chats, loups et autres bêtes, bien que parmi elles le plus bête est celui qui affirme de telles choses ! (…) ¶ Si la magie n'est pas restée parmi les hommes leur étant si nécessaire, c'est qu'elle n'a jamais existé et n'existera jamais.
+source: Léonard de Vinci, *Textes choisis*, trad. Joséphin Péladan, Mercure de France, 1907, fragment sur la nécromancie | ia texteschoisispen00leon
+voir: milan, florence, josephin-peladan, prieure-de-sion, geometrie-sacree, androgyne
+
+@ albrecht-durer
+cat: figures
+nom: Albrecht Dürer
+alias: Dürer, Albert Durer, AD
+dates: 1471 – 1528
+an: 1471
+def: Peintre et graveur de Nuremberg, maître de la Renaissance allemande, auteur de *Melencolia I*, de l'*Apocalypse* gravée et des premières cartes imprimées du ciel étoilé.
+texte: Fils d'un orfèvre de [[nuremberg|Nuremberg]], Dürer voyage deux fois en Italie et rapporte au nord la science des proportions et de la perspective. Ses gravures sur bois de l'*Apocalypse* (1498) le rendent célèbre dans toute l'Europe ; ses trois « gravures de maître », *Le Chevalier, la Mort et le Diable* (1513), *Saint Jérôme dans sa cellule* et *[[melencolia|Melencolia I]]* (1514), sont parmi les images les plus commentées de l'art occidental. Il publie aussi des traités de géométrie et des proportions du corps humain.
+texte: Ami de l'humaniste Willibald Pirckheimer, traducteur des *Hiéroglyphes* d'Horapollon, il dessine pour l'empereur Maximilien un arc de triomphe chargé d'[[hieroglyphes|hiéroglyphes]] et d'[[emblemes|emblèmes]]. En 1515, il grave avec deux savants les premières cartes imprimées des deux hémisphères célestes, où les [[constellation|constellations]] prennent la figure de leurs mythes. *Melencolia I*, avec son [[carre-magique|carré magique]] et son polyèdre, a fait de lui, pour les lecteurs ésotériques, un initié de la philosophie occulte de son temps.
+repere: 1471 — Naissance à Nuremberg.
+repere: 1498 — L'*Apocalypse*, gravée sur bois.
+repere: 1514 — *Melencolia I*.
+repere: 1515 — Cartes des hémisphères célestes.
+repere: 1528 — Mort à Nuremberg.
+voir: melencolia, nuremberg, carre-magique, constellation, emblemes
+
+@ parmesan
+cat: figures
+nom: Le Parmesan
+alias: Parmigianino, Francesco Mazzola, Mazzuoli, le Parmigianin
+dates: 1503 – 1540
+an: 1503
+def: Peintre maniériste italien, l'un des plus raffinés de la Renaissance, dont Vasari raconte qu'il abandonna la peinture pour l'alchimie et mourut ruiné à trente-sept ans.
+texte: Né à Parme, Francesco Mazzola peint dès vingt ans des fresques sur le mythe de Diane et Actéon au château de Fontanellato, puis, à Rome, son étonnant *Autoportrait au miroir convexe* (1524). Après le sac de Rome de 1527, il revient en Émilie et peint *La Madone au long cou*, chef-d'œuvre du maniérisme, aux proportions étirées. Il est l'un des premiers graveurs à l'eau-forte d'Italie.
+texte: Chargé de décorer l'église de la Steccata à Parme, il ne termine pas les travaux et la confrérie lui intente un procès : Vasari en accuse l'alchimie, qui l'aurait obsédé jusqu'à sa mort à Casalmaggiore. Au XXe siècle, l'historien de l'art Maurizio Fagiolo dell'Arco a lu ses tableaux et ses dessins comme des allégories hermétiques ; le peintre est devenu la figure même de l'artiste dévoré par le rêve de la [[pierre-philosophale|pierre philosophale]].
+repere: 1503 — Naissance à Parme.
+repere: 1524 — *Autoportrait au miroir convexe*.
+repere: 1531 — Commande des fresques de la Steccata, à Parme.
+repere: 1540 — Mort à Casalmaggiore.
+extrait: Francesco commença vers cette époque à abandonner ses travaux de la Steccata, ou du moins à les traîner tellement en longueur qu'il était évident qu'il ne marchait plus qu'à contre-cœur. Il avait jeté de côté la peinture pour se livrer à l'étude de l'alchimie, avec l'espoir de devenir bientôt riche en congelant le mercure. Au lieu de chercher de belles inventions avec ses pinceaux et ses couleurs, il s'alambiquait le cerveau depuis le matin jusqu'au soir à manipuler du charbon, du bois, des cornues et d'autres semblables babioles qui lui faisaient dépenser en un jour plus qu'il ne gagnait dans une semaine à la chapelle de la Steccata.
+source: Giorgio Vasari, *Vies des peintres, sculpteurs et architectes*, « Francesco Mazzuoli », trad. Léopold Leclanché, Tessier, 1841 | ws Vies des peintres, sculpteurs et architectes/tome 6/Francesco Mazzuoli
+voir: alchimie, souffleur, pierre-philosophale, miroir-magique
+
+@ dante
+cat: figures
+nom: Dante
+alias: Dante Alighieri, Durante degli Alighieri, le poète florentin, Fidèles d'Amour
+dates: 1265 – 1321
+an: 1265
+def: Poète florentin, auteur de la *Divine Comédie* et de la *Vita Nova*, que certains interprètes ont fait membre d'une confrérie secrète, les « Fidèles d'Amour », et dépositaire d'un ésotérisme chrétien.
+texte: Né à [[florence|Florence]], Dante aime dès l'enfance Béatrice Portinari, morte en 1290, qu'il célèbre dans la *Vita Nova*. Engagé dans les luttes politiques de sa ville, il est condamné à l'exil en 1302 et ne reverra jamais Florence ; il compose en exil la *[[divine-comedie|Divine Comédie]]*, des traités sur la langue et sur la monarchie, et meurt à Ravenne. Il appartient au cercle des poètes du « doux style nouveau », qui chantaient la dame comme un reflet du divin.
+texte: Au XIXe siècle, Gabriele Rossetti lit dans ce langage amoureux un jargon secret de sectaires hostiles à la papauté ; au XXe, Luigi Valli parle des « Fidèles d'Amour » comme d'une société initiatique, et [[rene-guenon|René Guénon]] consacre en 1925 *L'Ésotérisme de Dante* à ses liens supposés avec les [[templiers]] et l'[[hermetisme|hermétisme]]. Le poème est bâti sur les nombres [[trois]], [[neuf]] et [[dix]], et Béatrice, dit la *Vita Nova*, est un neuf, un miracle dont la racine est la Trinité.
+repere: 1265 — Naissance à Florence.
+repere: 1290 — Mort de Béatrice Portinari.
+repere: 1302 — Condamné à l'exil.
+repere: 1321 — Mort à Ravenne, peu après avoir achevé le *Paradis*.
+voir: divine-comedie, florence, neuf, rene-guenon, templiers, dante-gabriel-rossetti
+
+@ dante-gabriel-rossetti
+cat: figures
+nom: Dante Gabriel Rossetti
+alias: Rossetti, Gabriel Charles Dante Rossetti, préraphaélites, Gabriele Rossetti
+dates: 1828 – 1882
+an: 1828
+def: Peintre et poète anglais, cofondateur de la confrérie préraphaélite, traducteur de Dante, fils d'un exilé italien qui voyait dans la poésie de Dante un langage secret.
+texte: Son père, Gabriele Rossetti, ancien carbonaro réfugié à [[londres|Londres]] et professeur d'italien au King's College, consacre sa vie à démontrer que [[dante|Dante]] et les poètes d'amour du Moyen Âge appartenaient à une société secrète opposée à l'Église. Le fils, baptisé du nom du poète, fonde en 1848 la confrérie préraphaélite avec John Everett Millais et William Holman Hunt, publie en 1861 une traduction de la *Vita Nova* et peint *Beata Beatrix*, où son épouse défunte, Elizabeth Siddal, prend les traits de Béatrice en extase.
+texte: Après la mort d'Elizabeth Siddal en 1862, Rossetti fréquente les séances [[spiritisme|spirites]] pour communiquer avec elle ; il fait exhumer son cercueil en 1869 pour en retirer les poèmes qu'il y avait enfermés. Ses figures de femmes hiératiques, Proserpine ou Astarté, ont inspiré les symbolistes, de Péladan à [[william-butler-yeats|Yeats]].
+repere: 1828 — Naissance à Londres.
+repere: 1848 — Fondation de la confrérie préraphaélite.
+repere: 1861 — Traduction de la *Vita Nova*.
+repere: 1882 — Mort à Birchington-on-Sea.
+voir: dante, divine-comedie, carbonarisme, spiritisme, londres
+
+@ giuseppe-garibaldi
+cat: figures
+nom: Giuseppe Garibaldi
+alias: Garibaldi, le héros des deux mondes, chemises rouges, expédition des Mille
+dates: 1807 – 1882
+an: 1807
+def: Révolutionnaire et général italien, artisan de l'unité de l'Italie, franc-maçon de premier plan, qui fut grand maître de plusieurs obédiences italiennes.
+texte: Né à Nice, marin, Garibaldi s'affilie à la Jeune Italie de [[giuseppe-mazzini|Mazzini]], doit fuir après un complot manqué et combat douze ans en Amérique du Sud, où il forme la légion des « chemises rouges ». Revenu en Italie, il défend la république romaine en 1849, puis conquiert en 1860 la Sicile et Naples avec l'expédition des Mille, qu'il remet au roi Victor-Emmanuel II : l'unité italienne est faite.
+texte: Initié à la [[franc-maconnerie]] en 1844 à Montevideo, d'abord dans une loge irrégulière, puis dans une loge du [[grand-orient-de-france|Grand Orient de France]], il devient le symbole du lien entre la maçonnerie italienne et le *Risorgimento* : le Grand Orient d'Italie le proclame « premier franc-maçon d'Italie », il en est un temps le grand maître, et il est nommé en 1881 grand hiérophante du [[rite-de-memphis-misraim|Rite de Memphis-Misraïm]]. Anticlérical, il voyait dans la papauté l'ennemie de la liberté.
+repere: 1807 — Naissance à Nice.
+repere: 1844 — Initiation maçonnique à Montevideo.
+repere: 1860 — Expédition des Mille.
+repere: 1881 — Grand hiérophante du Rite de Memphis-Misraïm.
+repere: 1882 — Mort dans l'île de Caprera.
+voir: giuseppe-mazzini, carbonarisme, rite-de-memphis-misraim, franc-maconnerie, turin
+
+@ giuseppe-mazzini
+cat: figures
+nom: Giuseppe Mazzini
+alias: Mazzini, Jeune Italie, Giovine Italia, Dieu et le Peuple
+dates: 1805 – 1872
+an: 1805
+def: Patriote et penseur italien, fondateur de la Jeune Italie, qui donna au combat pour l'unité de l'Italie la forme d'une religion du peuple et du progrès.
+texte: Né à Gênes, Mazzini entre dans le [[carbonarisme]] en 1827, est arrêté et s'exile ; il fonde à Marseille en 1831 la Jeune Italie, société politique qui veut une Italie unie et républicaine, puis la Jeune Europe. Sa devise, « Dieu et le Peuple », résume une foi presque mystique : l'humanité progresse sous la loi de Dieu, et chaque nation a une mission. Triumvir de l'éphémère république romaine en 1849, il passe l'essentiel de sa vie en exil, à [[londres|Londres]] surtout.
+texte: Les loges italiennes l'ont honoré comme un maître, et la littérature [[antimaconnisme|antimaçonnique]] l'a fait chef occulte des révolutions européennes ; son appartenance réelle à la franc-maçonnerie reste discutée par les historiens. Sa pensée religieuse, sans Église ni dogme, l'apparente aux spiritualités du progrès de son siècle.
+repere: 1827 — Il entre chez les carbonari.
+repere: 1831 — Fondation de la Jeune Italie.
+repere: 1849 — Triumvir de la république romaine.
+repere: 1872 — Mort à Pise.
+voir: carbonarisme, giuseppe-garibaldi, filippo-buonarroti, antimaconnisme
+
+@ filippo-buonarroti
+cat: figures
+nom: Filippo Buonarroti
+alias: Philippe Buonarroti, Buonarroti, Sublimes Maîtres Parfaits, Conspiration des Égaux
+dates: 1761 – 1837
+an: 1761
+def: Révolutionnaire italien naturalisé français, compagnon de Babeuf, qui consacra sa vie à organiser des sociétés secrètes hiérarchisées, empruntant leurs formes à la franc-maçonnerie.
+texte: Descendant de la famille de Michel-Ange, né à Pise, Buonarroti rejoint la Révolution française, devient citoyen français et participe en 1796 à la Conspiration des Égaux de Gracchus Babeuf, dont il publie l'histoire en 1828. Libéré après des années de détention, il vit à Genève, à Bruxelles puis à Paris.
+texte: Il crée ou anime des sociétés secrètes emboîtées les unes dans les autres, comme les Sublimes Maîtres Parfaits, où seuls les grades supérieurs connaissaient le but révolutionnaire, et cherche à fédérer les [[carbonarisme|carbonari]] et les ventes de la [[charbonnerie|Charbonnerie]]. Les auteurs antimaçonniques ont vu en lui la preuve d'un complot des loges ; les historiens y voient l'un des inventeurs de la conspiration révolutionnaire moderne, qui inspira Blanqui.
+repere: 1796 — Conspiration des Égaux.
+repere: 1828 — *Conspiration pour l'égalité dite de Babeuf*.
+repere: 1837 — Mort à Paris.
+voir: carbonarisme, charbonnerie, giuseppe-mazzini, illumines-de-baviere
+
+@ richard-wagner
+cat: figures
+nom: Richard Wagner
+alias: Wagner, Parsifal, Lohengrin, Bayreuth, L'Anneau du Nibelung
+dates: 1813 – 1883
+an: 1813
+def: Compositeur allemand qui a fait de l'opéra un drame sacré, nourri des mythes germaniques et des légendes du Graal ; son œuvre a été lue comme une initiation, et son antisémitisme a été récupéré par le nazisme.
+texte: Né à Leipzig, révolutionnaire en 1849, exilé, Wagner trouve en 1864 un protecteur en [[louis-ii-de-baviere|Louis II de Bavière]] et fait bâtir à [[bayreuth|Bayreuth]] un théâtre consacré à ses œuvres, inauguré en 1876 avec *L'Anneau du Nibelung*. Il puise dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram]] le sujet de *[[lohengrin|Lohengrin]]* (1850) et de *Parsifal* (1882), « festival scénique sacré » où le chaste fou rapporte la [[sainte-lance|sainte lance]] au château du [[graal]], Montsalvat. Il meurt à [[venise|Venise]] en 1883.
+texte: Lecteur de Schopenhauer et du bouddhisme, il voulait une « œuvre d'art totale » qui remplace la religion. [[josephin-peladan|Péladan]] et les symbolistes ont fait de lui un mage, les théosophes ont commenté ses drames comme des mystères. Son pamphlet antisémite *Le Judaïsme dans la musique* (1850) et l'usage que le régime nazi fit de Bayreuth ont lourdement pesé sur sa réception.
+repere: 1813 — Naissance à Leipzig.
+repere: 1850 — *Lohengrin* ; pamphlet antisémite *Le Judaïsme dans la musique*.
+repere: 1876 — Inauguration du Festspielhaus de Bayreuth.
+repere: 1882 — *Parsifal*.
+repere: 1883 — Mort à Venise.
+voir: parzival, graal, lohengrin, perceval, bayreuth, louis-ii-de-baviere
+
+@ louis-ii-de-baviere
+cat: figures
+nom: Louis II de Bavière
+alias: Ludwig II, le roi fou, le roi cygne, Neuschwanstein
+dates: 1845 – 1886
+an: 1845
+def: Roi de Bavière, protecteur de Wagner, qui fit bâtir des châteaux de rêve inspirés des légendes du Graal et du chevalier au cygne, et mourut noyé dans des circonstances jamais éclaircies.
+texte: Monté sur le trône à dix-huit ans, Louis II appelle aussitôt [[richard-wagner|Wagner]] à Munich et finance ses œuvres. Il se retire dans des châteaux qu'il fait construire comme des décors : Neuschwanstein, dont les salles sont peintes des légendes de [[lohengrin|Lohengrin]], de [[perceval|Parsifal]] et du [[graal]], Linderhof et sa grotte de Vénus, Herrenchiemsee, réplique de Versailles. Il s'identifiait au chevalier au cygne et au roi du Graal.
+texte: Déclaré aliéné par une commission de médecins en juin 1886, il est retrouvé noyé quelques jours plus tard dans le lac de Starnberg avec son psychiatre ; la thèse du suicide, de l'accident ou du meurtre divise toujours. Son mythe de roi solitaire et visionnaire a fasciné les poètes, de Verlaine à Apollinaire.
+repere: 1864 — Avènement ; il appelle Wagner à Munich.
+repere: 1869 — Début de la construction de Neuschwanstein.
+repere: 1886 — Mort dans le lac de Starnberg.
+voir: richard-wagner, lohengrin, graal, bayreuth
+
+@ heinrich-himmler
+cat: figures
+nom: Heinrich Himmler
+alias: Himmler, Reichsführer-SS, SS
+dates: 1900 – 1945
+an: 1900
+def: Chef de la SS et de la police du Troisième Reich, principal organisateur de la Shoah, qui entoura son ordre de rites païens et de recherches pseudo-historiques et occultes.
+texte: Reichsführer-SS à partir de 1929, chef de toutes les polices allemandes en 1936, Himmler dirige l'appareil de terreur nazi : les camps de concentration, les Einsatzgruppen et les centres d'extermination relèvent de son autorité, et il a la charge de mettre en œuvre la Shoah, l'assassinat de près de six millions de Juifs d'Europe, ainsi que le génocide des Roms. Arrêté par les Britanniques en mai 1945, il se suicide au cyanure.
+texte: Hostile au christianisme, il veut faire de la SS un ordre de chevaliers germaniques : il installe au château de [[wewelsburg|Wewelsburg]] un centre de cérémonies, fonde en 1935 l'[[ahnenerbe|Ahnenerbe]], institut chargé de prouver le passé aryen, fait du mystique [[karl-maria-wiligut|Karl Maria Wiligut]] son conseiller pour les runes et les rituels, et engage [[otto-rahn|Otto Rahn]] dans son état-major. Il se voulait l'héritier, peut-être la réincarnation, du roi Henri l'Oiseleur, dont il honorait la tombe à Quedlinburg. Ces croyances, loin d'être un folklore inoffensif, ont servi à justifier l'idéologie raciale au nom de laquelle il a organisé le génocide.
+repere: 1929 — Reichsführer-SS.
+repere: 1935 — Fondation de l'Ahnenerbe.
+repere: 1941-1945 — Il organise la Shoah.
+repere: 1945 — Suicide à Lunebourg, après son arrestation.
+voir: wewelsburg, ahnenerbe, karl-maria-wiligut, otto-rahn, ariosophie, soleil-noir
+
+@ constantin
+cat: figures
+nom: Constantin Ier
+alias: Constantin, Constantin le Grand, empereur Constantin, In hoc signo vinces, sainte Hélène
+dates: vers 272 – 337
+an: 272
+def: Empereur romain qui se rallia au christianisme après la vision qui précéda sa victoire du pont Milvius en 312, convoqua le concile de Nicée et fonda Constantinople.
+texte: Proclamé empereur par ses soldats en 306, Constantin bat son rival Maxence au pont Milvius, aux portes de Rome, en 312, après avoir fait peindre sur les boucliers un signe divin, le [[chrisme]]. L'année suivante, avec Licinius, il accorde la liberté de culte aux chrétiens. Il réunit en 325 le concile de Nicée, qui condamne l'arianisme et définit la divinité du Christ, fonde en 330 Constantinople, et ne reçoit le baptême que sur son lit de mort. Jusque vers 320, ses monnaies honorent encore le Soleil invaincu.
+texte: Sa mère Hélène, selon la tradition, retrouva à Jérusalem la vraie Croix, et la *[[legende-doree|Légende dorée]]* raconte la vision de l'empereur. Au VIIIe siècle, un faux, la *Donation de Constantin*, lui fit léguer au pape le pouvoir sur l'Occident ; l'humaniste Lorenzo Valla en démontra la fausseté en 1440. Le roman *Da Vinci Code* l'accuse d'avoir fixé le canon des Évangiles à Nicée, ce que les sources démentent.
+repere: 312 — Victoire du pont Milvius.
+repere: 325 — Concile de Nicée.
+repere: 330 — Fondation de Constantinople.
+repere: 337 — Baptême et mort près de Nicomédie.
+extrait: Et comme l'empereur, anxieux, levait les yeux au ciel pour en implorer du secours, il vit à l'orient, sur le ciel, le signe resplendissant de la croix entouré d'anges, qui lui dirent : « Constantin, ce signe te donnera la victoire ! » Et comme Constantin se demandait ce que cela signifiait, le Christ lui apparut la nuit, avec le même signe, et lui ordonna d'en faire exécuter une image, qui lui servirait d'aide dans la bataille. Alors Constantin, sûr désormais de la victoire, fit sur son front le signe de la croix, et prit dans sa main une croix d'or.
+source: Jacques de Voragine, *La Légende dorée*, « L'Invention de la sainte Croix », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/L’Invention de la sainte Croix
+voir: chrisme, sainte-lance, legende-doree, longin
+
+@ nicolas-poussin
+cat: figures
+nom: Nicolas Poussin
+alias: Poussin, Et in Arcadia ego, le peintre philosophe
+dates: 1594 – 1665
+an: 1594
+def: Peintre français classique, établi à Rome, auteur des *Bergers d'Arcadie*, dont l'affaire de Rennes-le-Château a fait le gardien d'un secret.
+texte: Né aux Andelys, en Normandie, Poussin s'installe à Rome en 1624 et y passe presque toute sa vie, à part un séjour malheureux à Paris au service de Louis XIII. Ses tableaux, médités et savants, tirés de la Bible, de l'histoire antique et de la mythologie, ont fait de lui le modèle du classicisme français et du « peintre philosophe ».
+texte: Une lettre de 1656, où l'abbé Louis Fouquet écrit à son frère, le surintendant des finances, que Poussin lui a parlé de choses que les rois auraient grand-peine à tirer de lui, et l'inscription énigmatique des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* ont été exploitées par les auteurs de l'affaire de [[rennes-le-chateau|Rennes-le-Château]], qui ont fait de lui un initié du [[prieure-de-sion|Prieuré de Sion]] ; rien dans sa vie ni dans son œuvre ne l'atteste.
+repere: 1594 — Naissance aux Andelys.
+repere: 1624 — Installation à Rome.
+repere: vers 1638 — *Les Bergers d'Arcadie*.
+repere: 1665 — Mort à Rome.
+voir: les-bergers-d-arcadie, rennes-le-chateau, prieure-de-sion, rouen
+
+@ jerome-bosch
+cat: figures
+nom: Jérôme Bosch
+alias: Hieronymus Bosch, Jheronimus van Aken, Bosch, Jardin des délices
+dates: vers 1450 – 1516
+an: 1450
+def: Peintre néerlandais aux visions fantastiques peuplées de monstres, d'hybrides et de supplices, dont le *Jardin des délices* a été lu comme un rébus alchimique ou le manifeste d'une secte.
+texte: Jheronimus van Aken travaille toute sa vie à Bois-le-Duc, dans le Brabant, dont il prend le nom ; membre d'une confrérie pieuse dédiée à la Vierge, il peint des triptyques du Jugement dernier, des tentations de saint Antoine et des satires de la folie humaine. Le *Jardin des délices*, au musée du Prado, montre le paradis, une humanité nue livrée aux plaisirs parmi des fruits géants et des globes de verre, et un enfer musical.
+texte: Ses œuvres ont été lues au XXe siècle comme un code : Wilhelm Fraenger y voit en 1947 l'œuvre d'une secte hérétique adamite, d'autres y reconnaissent les vaisseaux de verre, les fourneaux et les couleurs de l'[[alchimie]]. Les historiens rappellent que Bosch était un catholique de son temps, moraliste, qui puisait dans les proverbes, les sermons et les traités contre l'alchimie trompeuse.
+repere: vers 1450 — Naissance à Bois-le-Duc.
+repere: vers 1490-1510 — *Le Jardin des délices*.
+repere: 1516 — Mort à Bois-le-Duc.
+voir: alchimie, souffleur, emblemes, athanor
+
+@ sandro-botticelli
+cat: figures
+nom: Sandro Botticelli
+alias: Botticelli, Alessandro Filipepi, La Naissance de Vénus, Le Printemps
+dates: vers 1445 – 1510
+an: 1445
+def: Peintre florentin de la Renaissance, auteur du *Printemps* et de la *Naissance de Vénus*, dont les allégories mythologiques traduisent le néoplatonisme du cercle des Médicis.
+texte: Formé auprès de Filippo Lippi, Botticelli travaille pour les Médicis à [[florence|Florence]], où le philosophe [[marsile-ficin|Marsile Ficin]] enseigne que la beauté terrestre conduit à la beauté divine. Le *Printemps* et la *Naissance de Vénus* mettent en image ces idées : la Vénus céleste, les Grâces, le souffle des vents de l'esprit. Il illustre aussi la *[[divine-comedie|Divine Comédie]]* d'une centaine de dessins, et peint à Rome des fresques de la chapelle Sixtine.
+texte: Touché par la prédication de Savonarole, il revient à une peinture religieuse plus austère à la fin de sa vie. Les *[[dossiers-secrets|Dossiers secrets]]* l'ont placé, entre [[rene-d-anjou|René d'Anjou]] et [[leonard-de-vinci|Léonard de Vinci]], dans la liste fictive des grands maîtres du [[prieure-de-sion|Prieuré de Sion]].
+repere: vers 1480 — *Le Printemps*.
+repere: vers 1485 — *La Naissance de Vénus*.
+repere: 1510 — Mort à Florence.
+voir: florence, marsile-ficin, neoplatonisme, divine-comedie, prieure-de-sion
+
+@ maurice-leblanc
+cat: figures
+nom: Maurice Leblanc
+alias: Leblanc, le père d'Arsène Lupin, Clos Lupin
+dates: 1864 – 1941
+an: 1864
+def: Romancier normand, créateur d'Arsène Lupin, dont les énigmes historiques — l'Aiguille creuse, le secret des rois de France, les abbayes dessinant la Grande Ourse — ont inspiré les mythes de Rennes-le-Château.
+texte: Né à [[rouen|Rouen]], fils d'un armateur, Maurice Leblanc vient à Paris pour écrire ; le succès lui vient en 1905 avec le premier récit des aventures d'[[arsene-lupin|Arsène Lupin]], gentleman cambrioleur. Il installe son héros dans la Normandie de son enfance : *L'Aiguille creuse* (1909) fait de la falaise d'[[etretat|Étretat]] la cachette du trésor des rois de France, et *La Comtesse de Cagliostro* (1924) dispose les abbayes du pays de Caux selon la figure de la [[grande-ourse|Grande Ourse]].
+texte: Ces énigmes mêlant histoire, cryptographie et trésors royaux ont fasciné [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], qui ont emprunté à Leblanc plus d'un motif pour construire le mystère de [[rennes-le-chateau|Rennes-le-Château]] ; on a même prétendu que Leblanc aurait été initié à un secret, ce qu'aucun document n'appuie. Sa maison d'Étretat, le Clos Lupin, est aujourd'hui un musée.
+repere: 1864 — Naissance à Rouen.
+repere: 1905 — Première aventure d'Arsène Lupin.
+repere: 1909 — *L'Aiguille creuse*.
+repere: 1924 — *La Comtesse de Cagliostro*.
+repere: 1941 — Mort à Perpignan.
+voir: arsene-lupin, etretat, rouen, rennes-le-chateau, cagliostro
+
+@ jacques-de-voragine
+cat: figures
+nom: Jacques de Voragine
+alias: Jacopo da Varazze, Jacobus de Voragine, Voragine
+dates: vers 1228 – 1298
+an: 1228
+def: Dominicain italien, archevêque de Gênes, auteur de la *Légende dorée*, le grand recueil de vies de saints du Moyen Âge.
+texte: Né à Varazze, sur la côte ligure, il entre chez les Dominicains, devient prieur provincial de Lombardie, puis archevêque de Gênes en 1292, où il s'efforce de pacifier les factions. Prédicateur, il compose des recueils de sermons, une chronique de la ville et, vers 1261-1266, la *[[legende-doree|Légende dorée]]*, destinée à fournir aux prêcheurs des récits pour chaque fête de l'année.
+texte: Son livre, rempli de miracles, de dragons vaincus et de reliques retrouvées, fut l'un des plus copiés du Moyen Âge et la source de l'iconographie chrétienne ; il a été béatifié en 1816.
+repere: vers 1261-1266 — Il compose la *Légende dorée*.
+repere: 1292 — Archevêque de Gênes.
+repere: 1298 — Mort à Gênes.
+voir: legende-doree, dragon, longin
+
+@ tycho-brahe
+cat: figures
+nom: Tycho Brahe
+alias: Tycho, Tyge Brahe, Uraniborg, système tychonien
+dates: 1546 – 1601
+an: 1546
+def: Astronome danois, le plus grand observateur du ciel avant le télescope, qui démontra que les comètes et les « étoiles nouvelles » appartiennent au ciel, et qui fut aussi astrologue et alchimiste.
+texte: Gentilhomme danois, Tycho perd une partie du nez dans un duel et porte une prothèse de métal. Son observation de l'étoile nouvelle de 1572 et de la [[comete|comète]] de 1577, placées au-delà de la Lune, ruine l'idée aristotélicienne d'un ciel immuable. Le roi de Danemark lui donne l'île de Hven, où il bâtit Uraniborg, château-observatoire doté d'un laboratoire d'[[alchimie]] ; il y mesure les étoiles avec une précision inégalée et propose un système du monde où les planètes tournent autour du Soleil, qui tourne autour de la Terre.
+texte: Tycho dresse des horoscopes royaux et prépare des remèdes spagyriques. En 1599, il devient mathématicien impérial de [[rodolphe-ii|Rodolphe II]] à [[prague|Prague]], où il engage [[johannes-kepler|Kepler]], qui tirera de ses observations les lois du mouvement des planètes. Il meurt en 1601 ; l'hypothèse d'un empoisonnement au mercure a été écartée par l'analyse de ses restes, exhumés en 2010.
+repere: 1572 — Observation de l'étoile nouvelle de Cassiopée.
+repere: 1576 — Fondation d'Uraniborg, sur l'île de Hven.
+repere: 1599 — Mathématicien impérial à Prague.
+repere: 1601 — Mort à Prague.
+voir: johannes-kepler, rodolphe-ii, comete, astrologie, prague, astrolabe

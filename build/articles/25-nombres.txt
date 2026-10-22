@@ -1,0 +1,204 @@
+# Symbolisme des nombres : ce que les traditions ont lu dans les nombres, des
+# pythagoriciens à la kabbale, à la franc-maçonnerie et au tarot. Le champ
+# « dates » donne le chiffre, affiché sous la vedette.
+
+@ zero
+cat: nombres
+nom: Zéro
+alias: 0, sunya, vide, néant
+dates: 0
+def: Le nombre du rien, inventé comme chiffre et comme nombre en Inde au début de notre ère, symbole du vide originel, de l'infini en puissance et du néant.
+texte: Les Babyloniens notaient déjà une place vide dans leurs nombres, mais c'est en Inde que le zéro devient un nombre à part entière : le mathématicien Brahmagupta en donne les règles de calcul en 628. Son nom sanskrit, *sunya*, signifie le vide, le même mot que la vacuité des bouddhistes. Passé par les Arabes, qui l'appellent *sifr* (d'où chiffre et zéro), il est introduit en Europe par Léonard de Pise, dit Fibonacci, en 1202, et longtemps tenu pour suspect.
+texte: Le symbolisme a lié le zéro au cercle et à l'œuf, au néant d'où sort la création, à l'[[ein-sof|Ein Sof]] des kabbalistes, l'infini sans forme d'où émanent les séphiroth. Dans le tarot, le [[arcane-mat|Mat]], sans numéro ou numéroté zéro, est l'arcane du commencement et de l'errance.
+repere: 628 — Brahmagupta donne les règles du calcul avec zéro.
+repere: 1202 — Fibonacci introduit les chiffres indiens et le zéro en Europe.
+voir: un, ein-sof, arcane-mat, monade, oeuf-cosmique
+
+@ un
+cat: nombres
+nom: Un
+alias: 1, unité, l'Un, unicité
+dates: 1
+def: Le principe de tous les nombres, qui n'est pas encore un nombre pour les pythagoriciens ; il symbolise l'origine, Dieu unique, l'unité de l'être.
+texte: Pour les pythagoriciens, l'unité, la [[monade]], n'est pas un nombre mais la source des nombres, comme le point est la source des figures : elle est à la fois paire et impaire. [[plotin|Plotin]] place au sommet de tout l'Un, au-delà de l'être et de la pensée, d'où tout procède par [[emanation|émanation]] et vers quoi l'âme remonte.
+texte: Les monothéismes ont fait de l'unité le nom même de Dieu : « Écoute, Israël, le Seigneur est un », dit la prière juive, et l'islam fait de l'affirmation de l'unicité divine, le *tawhid*, le cœur de sa foi. L'ésotérisme y lit le point d'origine que l'initié cherche à retrouver au-delà de la multiplicité du monde.
+voir: monade, deux, plotin, emanation, zero
+
+@ deux
+cat: nombres
+nom: Deux
+alias: 2, dyade, dualité, binaire, couple
+dates: 2
+def: Le premier nombre de la multiplicité, celui de la dualité et des contraires — jour et nuit, masculin et féminin, bien et mal — que la pensée symbolique cherche à unir.
+texte: Les pythagoriciens appellent dyade le principe de la division et de l'illimité, et tiennent le deux pour le premier nombre féminin, opposé à l'impair masculin. Toute la pensée symbolique est faite de couples : le Soleil et la Lune, le [[soufre]] et le [[mercure-principe|mercure]] des alchimistes, le [[yin-et-yang|yin et le yang]] chinois, les deux colonnes du Temple, [[jakin|Jakin]] et [[boaz|Boaz]].
+texte: Le deux est aussi le nombre de la lutte : le [[dualisme]] des manichéens et des cathares oppose deux principes, et les traditions de l'unité voient dans la dualité une chute à dépasser, par l'union des contraires que figurent les [[noces-chymiques|noces chymiques]] et l'[[androgyne]].
+voir: un, trois, dualisme, colonnes-jakin-et-boaz, yin-et-yang, androgyne
+
+@ trois
+cat: nombres
+nom: Trois
+alias: 3, triade, ternaire, trinité, triangle
+dates: 3
+def: Le nombre qui réconcilie l'un et le deux, et qui achève ce qui a commencement, milieu et fin ; il est celui de la Trinité chrétienne, des trois principes alchimiques et des trois points des francs-maçons.
+texte: Pour les pythagoriciens, le trois est le premier nombre véritable, celui qui a un commencement, un milieu et une fin, et le triangle la première figure fermée. Les triades divines abondent : Osiris, Isis et Horus en Égypte, Brahma, Vishnou et Shiva dans l'hindouisme, et dans le christianisme la Trinité du Père, du Fils et de l'Esprit. Hermès est dit « trois fois grand », [[hermes-trismegiste|Trismégiste]].
+texte: [[paracelse|Paracelse]] fonde la chimie sur les [[tria-prima|trois principes]], le sel, le soufre et le mercure ; la kabbale répartit les séphiroth en trois piliers. La [[franc-maconnerie]] fait du trois un nombre fondateur : trois grades symboliques, trois grandes lumières, trois coups de maillet, et les [[trois-points|trois points]] en triangle de la signature maçonnique.
+voir: deux, quatre, tria-prima, trois-points, trois-grandes-lumieres, hermes-trismegiste
+
+@ quatre
+cat: nombres
+nom: Quatre
+alias: 4, quaternaire, tétrade, carré, quatre éléments
+dates: 4
+def: Le nombre de la stabilité et de l'ordre du monde matériel : quatre éléments, quatre saisons, quatre points cardinaux, et les quatre lettres du nom divin.
+texte: Le quatre est le nombre du carré et de la croix, de ce qui est solide et organisé. Empédocle répartit le monde en [[quatre-elements|quatre éléments]], la médecine en quatre humeurs, le temps en quatre saisons et la vie en quatre âges. Le prophète Ézéchiel voit quatre vivants, devenus les symboles des évangélistes, le [[tetramorphe]].
+texte: Les pythagoriciens juraient par la [[tetractys|tétractys]], triangle de dix points rangés en quatre lignes (1 + 2 + 3 + 4 = 10) : le quatre contient en germe la perfection du dix. La kabbale vénère le [[tetragramme|Tétragramme]], le nom divin de quatre lettres, et distingue [[quatre-mondes|quatre mondes]]. Le tarot a quatre couleurs, l'alchimie quatre couleurs de l'œuvre.
+voir: trois, cinq, quatre-elements, tetractys, tetragramme, tetramorphe, dix
+
+@ cinq
+cat: nombres
+nom: Cinq
+alias: 5, pentade, quinaire, pentagramme, quintessence
+dates: 5
+def: Le nombre de l'homme et de la vie, inscrit dans la main et dans le corps aux membres étendus, et celui du pentagramme et de la quintessence.
+texte: Pour les pythagoriciens, le cinq est le nombre du mariage, car il unit le premier pair au premier impair masculin (2 + 3). L'homme, avec ses cinq doigts, ses cinq sens et ses quatre membres et sa tête, s'inscrit dans une étoile à cinq branches, le [[pentagramme]], que les pythagoriciens portaient comme signe de reconnaissance et que la magie trace contre les esprits.
+texte: Au-delà des quatre éléments, la [[quintessence]], la cinquième essence, est la substance céleste incorruptible que les alchimistes cherchent à extraire. La [[franc-maconnerie]] honore l'[[etoile-flamboyante|étoile flamboyante]] à cinq branches, et le cinq est l'âge symbolique du compagnon. Le pentagone et le pentagramme portent aussi en eux le [[nombre-d-or|nombre d'or]].
+voir: quatre, six, pentagramme, quintessence, etoile-flamboyante, nombre-d-or
+
+@ six
+cat: nombres
+nom: Six
+alias: 6, hexade, sénaire, nombre parfait, hexagramme
+dates: 6
+def: Le premier nombre « parfait », égal à la somme de ses diviseurs, nombre des jours de la création et du sceau à six branches formé de deux triangles entrelacés.
+texte: Six est égal à la somme de ses diviseurs (1 + 2 + 3) : les mathématiciens grecs l'appellent parfait, comme 28 ou 496. Saint Augustin y voit la raison pour laquelle Dieu créa le monde en six jours : non parce qu'il en avait besoin, mais parce que ce nombre exprime la perfection de l'œuvre.
+texte: L'[[hexagramme]], formé de deux triangles inversés, unit le feu et l'eau, le haut et le bas, l'esprit et la matière ; il est l'étoile de David, le sceau de Salomon des grimoires, et figure le [[microcosme-macrocosme|macrocosme]] chez les hermétistes. Le [[yi-king|Yi King]] compose ses figures de six traits. Six est aussi, dans la Bible, le nombre de l'homme créé le sixième jour, auquel l'Apocalypse oppose le [[nombre-de-la-bete|nombre de la Bête]].
+extrait: Or, l'Écriture dit que la création fut achevée en six jours, non que Dieu ait eu besoin de ce temps, comme s'il n'eût pu créer tous les êtres à la fois et leur faire ensuite marquer le cours du temps par des mouvements convenables ; mais le nombre senaire exprime ici la perfection de l'ouvrage divin. Il est parmi tous les nombres le premier qui se compose de ses parties, je veux dire du sixième, du tiers et de la moitié de lui-même ; en effet, le sixième de six est un, le tiers est deux et la moitié est trois, or, un, deux et trois font six. (…) C'est dans ce nombre parfait que Dieu acheva ses ouvrages. On aurait donc tort de mépriser les explications qu'on peut tirer des nombres, et ceux qui y regardent de près reconnaissent combien elles sont considérables en plusieurs endroits de l'Écriture.
+source: saint Augustin, *La Cité de Dieu*, livre XI, chap. XXX, dans les *Œuvres complètes*, éd. Raulx, Guérin, 1869 | ws La Cité de Dieu (Augustin)/Livre XI
+voir: cinq, sept, hexagramme, nombre-de-la-bete, yi-king
+
+@ sept
+cat: nombres
+nom: Sept
+alias: 7, septénaire, hebdomade, sept planètes, sept jours
+dates: 7
+def: Le nombre sacré par excellence dans les traditions du Proche-Orient et de l'Europe : sept planètes, sept jours de la semaine, sept arts libéraux, sept sacrements, sept branches de la menorah.
+texte: Les sept astres errants visibles à l'œil nu — Soleil, Lune, Mercure, Vénus, Mars, Jupiter et Saturne — ont donné leurs noms aux sept jours de la semaine et fondé le système des correspondances : sept métaux, sept couleurs, sept notes de musique, sept [[heures-planetaires|heures planétaires]] qui reviennent. La Bible fait reposer Dieu le septième jour ; l'Apocalypse compte sept églises, sept sceaux, sept trompettes.
+texte: Le christianisme médiéval enseigne sept vertus, sept péchés capitaux, sept sacrements et sept arts libéraux ; la [[menorah]] a sept branches, et les sept étoiles de la [[grande-ourse|Grande Ourse]] veillent sur le nord. La [[theosophie|théosophie]] divise l'homme en sept principes, le tantrisme compte sept [[chakra|chakras]], et la loge maçonnique est « juste et parfaite » quand sept frères la composent.
+voir: six, huit, planetes, heures-planetaires, menorah, chakra, grande-ourse
+
+@ huit
+cat: nombres
+nom: Huit
+alias: 8, ogdoade, octave, octogone, huitième jour
+dates: 8
+def: Le nombre de l'équilibre cosmique et du renouvellement : l'octave qui recommence la gamme, le huitième jour de la résurrection, l'octogone des baptistères.
+texte: Les prêtres d'[[hermopolis|Hermopolis]] vénéraient l'Ogdoade, huit divinités primordiales d'où était sorti le monde ; les gnostiques appellent ogdoade la sphère des étoiles fixes, au-dessus des sept planètes, où l'âme libérée se rend. Le christianisme fait du dimanche, lendemain du sabbat, le « huitième jour », celui de la résurrection et de la création nouvelle : c'est pourquoi tant de baptistères sont octogonaux.
+texte: Le bouddhisme enseigne le noble sentier octuple, le Yi King compte huit trigrammes, et l'[[echiquier|échiquier]] huit cases de côté. Couché, le chiffre huit est devenu au XVIIe siècle le signe mathématique de l'infini.
+voir: sept, neuf, hermopolis, yi-king, echiquier
+
+@ neuf
+cat: nombres
+nom: Neuf
+alias: 9, ennéade, neuvaine, trois fois trois, neuf muses
+dates: 9
+def: Le carré du trois, nombre de l'achèvement d'un cycle : neuf muses, neuf chœurs des anges, neuf cercles de l'Enfer de Dante, neuf mois de la gestation.
+texte: Les prêtres d'Héliopolis vénéraient une Ennéade de neuf dieux ; les Grecs comptaient neuf Muses, le Pseudo-Denys neuf [[hierarchies-celestes|chœurs des anges]] répartis en trois triades. [[dante|Dante]] fait de Béatrice, dans la *Vita Nuova*, un « neuf », un miracle dont la racine est la Trinité, et construit sa *[[divine-comedie|Divine Comédie]]* sur des multiples de trois : neuf cercles de l'Enfer, neuf ciels du Paradis.
+texte: Le neuf a une propriété arithmétique qui a fasciné les numérologues : la somme des chiffres de ses multiples redonne toujours neuf, d'où la « preuve par neuf ». L'Église prie en neuvaines, et l'[[enneagramme|ennéagramme]] de Gurdjieff dessine dans un cercle une figure à neuf pointes.
+voir: huit, dix, trois, dante, hierarchies-celestes, enneagramme
+
+@ dix
+cat: nombres
+nom: Dix
+alias: 10, décade, dizaine, dix séphiroth, dix commandements
+dates: 10
+def: Le nombre de la totalité accomplie, qui ramène à l'unité : dix doigts, dix commandements, dix séphiroth de la kabbale, somme de la tétractys pythagoricienne.
+texte: Les pythagoriciens voyaient dans la décade le nombre parfait, contenu dans la [[tetractys|tétractys]] (1 + 2 + 3 + 4 = 10) ; Philolaos en faisait le principe de toute chose, et le maître aurait dit que dix corps célestes devaient tourner dans le ciel, quitte à inventer une « anti-Terre » pour compléter le compte. Le système décimal, enfin, suit nos dix doigts.
+texte: La Bible donne dix commandements et dix plaies d'Égypte. Le *[[sefer-yetsirah|Sefer Yetsirah]]* fonde la création sur « dix séphiroth sans rien » et vingt-deux lettres : les dix [[sephiroth]] de l'arbre de vie sont les dix émanations de la divinité. Dans le tarot, le dix est celui de la [[arcane-roue-de-fortune|Roue de fortune]], fin d'un cycle et retour à l'un.
+voir: neuf, douze, tetractys, sephiroth, sefer-yetsirah, quatre
+
+@ douze
+cat: nombres
+nom: Douze
+alias: 12, duodénaire, dodécade, douze apôtres, douze tribus, douze signes
+dates: 12
+def: Le nombre de l'ordre du cosmos et du temps : douze mois, douze signes du zodiaque, douze heures du jour et de la nuit, douze tribus d'Israël et douze apôtres.
+texte: Produit de trois par quatre, le douze unit le ciel et la terre. Il règle le temps depuis les Babyloniens, qui divisent le jour et l'année en douze parts ; le [[zodiaque]] compte douze signes, les dieux de l'Olympe sont douze, Hercule accomplit douze travaux. La Bible a ses douze tribus et le Christ ses douze apôtres ; la Jérusalem céleste de l'Apocalypse a douze portes et douze fondations de pierres précieuses.
+texte: Le roi Arthur réunit autour de la Table ronde, dans certaines versions, douze chevaliers ; il y a douze pairs de France et douze jours de Noël à l'Épiphanie. Le douze est aussi le nombre des pierres du [[pectoral-du-grand-pretre|pectoral du grand prêtre]], d'où sont nées les [[pierres-de-naissance|pierres de naissance]].
+extrait: Et il me transporta en esprit sur une grande et haute montagne. Et il me montra la ville sainte, Jérusalem, qui descendait du ciel d'auprès de Dieu, ayant la gloire de Dieu. Son éclat était semblable à celui d'une pierre très précieuse, d'une pierre de jaspe transparente comme du cristal. Elle avait une grande et haute muraille. Elle avait douze portes, et sur les portes douze anges, et des noms écrits, ceux des douze tribus des fils d'Israël : à l'orient trois portes, au nord trois portes, au midi trois portes, et à l'occident trois portes. La muraille de la ville avait douze fondements, et sur eux les douze noms des douze apôtres de l'agneau.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XXI, versets 10-14 | ws Bible Segond 1910/Apocalypse
+voir: treize, zodiaque, pectoral-du-grand-pretre, pierres-de-naissance, dix
+
+@ treize
+cat: nombres
+nom: Treize
+alias: 13, triskaïdékaphobie, vendredi 13, treize à table
+dates: 13
+def: Le nombre qui suit et brise l'ordre parfait du douze, réputé porter malheur — treize à table, vendredi 13 —, mais aussi tenu par certains pour un nombre de renouveau.
+texte: Treize convives à la Cène, dont Judas : de là, dit-on, la superstition qui interdit d'être treize à table. La mythologie nordique raconte de même que Loki, treizième invité d'un banquet des dieux, causa la mort de Balder. Le treizième arcane du tarot, sans nom, figure la [[arcane-sans-nom|Mort]], que l'ésotérisme lit comme une transformation plutôt qu'une fin.
+texte: Le « vendredi 13 » malchanceux n'est attesté qu'au XIXe et au XXe siècle ; on lui a cherché une origine dans l'arrestation des [[templiers]], le vendredi 13 octobre 1307, un rapprochement tardif. Certains immeubles n'ont pas de treizième étage ; d'autres, au contraire, jouent ce nombre à la loterie. La peur du treize porte un nom savant, la triskaïdékaphobie.
+voir: douze, arcane-sans-nom, templiers, jacques-de-molay
+
+@ vingt-deux
+cat: nombres
+nom: Vingt-deux
+alias: 22, vingt-deux lettres, vingt-deux arcanes, vingt-deux sentiers
+dates: 22
+def: Le nombre des lettres de l'alphabet hébreu, des sentiers de l'arbre de vie et des arcanes majeurs du tarot, que l'occultisme a rapprochés.
+texte: Le *[[sefer-yetsirah|Sefer Yetsirah]]* enseigne que Dieu créa le monde avec dix séphiroth et vingt-deux lettres, réparties en trois lettres « mères », sept « doubles » et douze « simples », liées aux éléments, aux planètes et aux signes du zodiaque. Sur l'[[arbre-des-sephiroth|arbre de vie]], les vingt-deux [[sentiers]] qui relient les séphiroth correspondent chacun à une lettre.
+texte: Au XIXe siècle, [[eliphas-levi|Éliphas Lévi]] rapproche les vingt-deux lettres hébraïques des vingt-deux [[arcanes-majeurs|arcanes majeurs]] du tarot, une association que reprennent [[papus]], [[oswald-wirth|Oswald Wirth]] et la [[golden-dawn|Golden Dawn]], qui en fait la base de son système d'initiation. L'Apocalypse de saint Jean, chez certains commentateurs, compte aussi vingt-deux chapitres.
+voir: alphabet-hebreu, sefer-yetsirah, arcanes-majeurs, sentiers, tarot, eliphas-levi
+
+@ trente-trois
+cat: nombres
+nom: Trente-trois
+alias: 33, trente-trois degrés, âge du Christ, 33e degré
+dates: 33
+def: L'âge traditionnel du Christ à sa mort, le nombre des chants de chaque partie de la Divine Comédie et celui des degrés du Rite écossais ancien et accepté.
+texte: La tradition chrétienne fait mourir le Christ à trente-trois ans, à la fin de sa vie publique ; le nombre est devenu celui de l'accomplissement. [[dante|Dante]] compose chacune des trois parties de sa *[[divine-comedie|Divine Comédie]]* en trente-trois chants, auxquels s'ajoute un chant d'introduction pour faire cent.
+texte: En 1801, le Suprême Conseil fondé à Charleston organise le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] en trente-trois degrés, le dernier étant celui de Souverain Grand Inspecteur général : le « 33e degré » est devenu, dans l'imaginaire, le sommet d'une hiérarchie secrète. Les colonnes vertébrales humaines comptent trente-trois vertèbres, ce que des auteurs ésotériques n'ont pas manqué de relever.
+repere: 1801 — Fondation à Charleston du Suprême Conseil, qui organise le rite en trente-trois degrés.
+repere: 1804 — Le comte de Grasse-Tilly fonde à Paris le Suprême Conseil de France.
+voir: rite-ecossais-ancien-et-accepte, grades-maconniques, dante, divine-comedie, trois
+
+@ quarante
+cat: nombres
+nom: Quarante
+alias: 40, quarantaine, carême, quarante jours
+dates: 40
+def: Le nombre de l'épreuve et de la préparation dans la Bible : quarante jours de déluge, quarante ans au désert, quarante jours de jeûne du Christ, d'où le carême et la quarantaine.
+texte: Il pleut quarante jours et quarante nuits sur l'arche de Noé ; les Hébreux errent quarante ans dans le désert ; Moïse reste quarante jours sur le Sinaï, Élie marche quarante jours vers l'Horeb, et Jésus jeûne quarante jours au désert, d'où les quarante jours du carême. Le Christ ressuscité apparaît quarante jours avant l'Ascension.
+texte: Au XIVe siècle, pour se protéger de la peste, Venise et Raguse imposent aux navires venus d'Orient un isolement, porté à quarante jours : la « quarantaine ». Le nombre désigne une durée longue et complète, celle d'une transformation, comme dans les rites de deuil ou de relevailles de bien des cultures.
+voir: sept, douze, venise
+
+@ soixante-douze
+cat: nombres
+nom: Soixante-douze
+alias: 72, soixante-douze noms, soixante-douze génies, Septante
+dates: 72
+def: Le nombre des noms divins de la kabbale, des génies de la magie salomonienne et des traducteurs légendaires de la Bible grecque, que l'on a aussi rapproché de la précession des équinoxes.
+texte: Les kabbalistes tirent de trois versets de l'Exode, de soixante-douze lettres chacun, le [[shem-ha-meforash|Shem ha-Meforash]], le grand nom divin, décomposé en soixante-douze noms de trois lettres, auxquels correspondent soixante-douze anges. La magie salomonienne de la *[[lemegeton|Petite Clavicule]]* compte soixante-douze démons, et les occultistes ont réparti soixante-douze génies sur les cinq degrés de chaque signe du zodiaque.
+texte: La légende veut que la Bible ait été traduite en grec à Alexandrie par soixante-douze savants, en soixante-douze jours : d'où le nom de Septante. Le Christ envoie soixante-douze disciples en mission selon l'Évangile de Luc. Les auteurs qui spéculent sur la [[precession|précession]] font remarquer que le point vernal recule d'un degré en soixante-douze ans environ.
+voir: shem-ha-meforash, lemegeton, precession, anges, douze
+
+@ nombre-de-la-bete
+cat: nombres
+nom: Nombre de la Bête
+alias: 666, six cent soixante-six, 616, marque de la Bête, chiffre de la Bête
+dates: 666
+def: Le nombre que l'Apocalypse donne à la Bête, « nombre d'homme » à calculer, que les commentateurs ont rapporté à Néron par la gématrie et appliqué à toutes les figures redoutées de l'histoire.
+texte: Le chapitre XIII de l'Apocalypse invite celui qui a de l'intelligence à calculer le nombre de la Bête, « car c'est un nombre d'homme ». Les historiens y lisent le plus souvent, par la [[gematrie|gématrie]], le nom de « Néron César » écrit en lettres hébraïques ; certains manuscrits anciens portent la variante 616, qui correspond à une autre graphie du même nom.
+texte: Au fil des siècles, on a appliqué le calcul au pape, à Mahomet, à Luther, à Napoléon, à Hitler ou aux codes-barres. [[aleister-crowley|Aleister Crowley]] se faisait appeler « la Bête 666 », et le nombre est devenu un emblème du satanisme et de la culture rock. Une rumeur tenace, et fausse, prétend que la pyramide du Louvre compte 666 vitres.
+extrait: Et elle fit que tous, petits et grands, riches et pauvres, libres et esclaves, reçussent une marque sur leur main droite ou sur leur front, et que personne ne pût acheter ni vendre, sans avoir la marque, le nom de la bête ou le nombre de son nom. C'est ici la sagesse. Que celui qui a de l'intelligence calcule le nombre de la bête. Car c'est un nombre d'homme, et son nombre est six cent soixante-six.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XIII, versets 16-18 | ws Bible Segond 1910/Apocalypse
+voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris
+
+@ geometrie-sacree
+cat: nombres
+nom: Géométrie sacrée
+alias: géométrie secrète des bâtisseurs, tracé régulateur, proportion divine, quadrature du cercle
+def: Ensemble de figures et de proportions — cercle, carré, triangle, nombre d'or, vesica piscis — auxquelles on attribue une valeur sacrée et que l'on croit avoir guidé les bâtisseurs de temples et de cathédrales.
+texte: Platon, dans le *Timée*, fait construire le monde au démiurge avec des triangles et des solides réguliers ; Vitruve inscrit l'homme aux membres étendus dans le cercle et le carré, figure que [[leonard-de-vinci|Léonard de Vinci]] dessine vers 1490. Le carnet de Villard de Honnecourt, au XIIIe siècle, montre comment les maîtres d'œuvre gothiques traçaient leurs plans et leurs figures par la géométrie, sans écrire leurs secrets.
+texte: Au XXe siècle, Matila Ghyka, avec *Le Nombre d'or* (1931), puis le mouvement du [[new-age|New Age]] ont fait de la géométrie sacrée une clé universelle, de la [[vesica-piscis|vesica piscis]] à la [[fleur-de-vie|fleur de vie]] et au [[nombre-d-or|nombre d'or]], retrouvé jusque dans les [[pyramides]]. Les historiens de l'architecture reconnaissent l'usage de tracés géométriques et de rapports simples chez les bâtisseurs, mais beaucoup des proportions « secrètes » découvertes après coup tiennent à la liberté de celui qui mesure.
+repere: vers 1230 — Le carnet de Villard de Honnecourt.
+repere: 1931 — Matila Ghyka, *Le Nombre d'or*.
+voir: nombre-d-or, vesica-piscis, fleur-de-vie, cathedrale-de-chartres, ondes-de-forme, pythagore

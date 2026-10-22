@@ -66,13 +66,17 @@ const CATEGORIES = [
   { id: 'textes',     nom: 'Textes et livres' },
   { id: 'notions',    nom: 'Notions et doctrines' },
   { id: 'alchimie',   nom: 'Alchimie' },
-  { id: 'kabbale',    nom: 'Kabbale et nombres' },
+  { id: 'kabbale',    nom: 'Kabbale' },
   { id: 'astrologie', nom: 'Astrologie' },
   { id: 'divination', nom: 'Tarot et divination' },
   { id: 'magie',      nom: 'Magie et rituels' },
   { id: 'societes',   nom: 'Ordres et sociétés' },
   { id: 'maconnerie', nom: 'Franc-maçonnerie' },
   { id: 'symboles',   nom: 'Symboles' },
+  { id: 'nombres',    nom: 'Symbolisme des nombres' },
+  { id: 'astronomie', nom: 'Astronomie' },
+  { id: 'pierres',    nom: 'Pierres et lieux d’énergie' },
+  { id: 'echecs',     nom: 'Jeu d’échecs' },
   { id: 'lieux',      nom: 'Lieux' },
 ];
 const ID_CATEGORIES = new Set(CATEGORIES.map((c) => c.id));
@@ -86,7 +90,8 @@ const PORTES = ['esoterisme', 'hermetisme', 'alchimie', 'kabbale', 'gnose', 'ros
  * minuscule, mais « la [[kabbale]] de [[isaac-louria]] » garde la majuscule du
  * nom propre. Les catégories de noms communs passent en minuscule, sauf les
  * noms propres de la liste ci-dessous (et les arcanes, qui sont des titres). */
-const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles', 'maconnerie']);
+const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles', 'maconnerie',
+  'nombres', 'astronomie', 'pierres', 'echecs']);
 const NOMS_PROPRES = new Set([
   'atlantide', 'lemurie', 'agartha', 'sophia', 'shekhina', 'ein-sof', 'adam-kadmon', 'keter', 'hokhmah', 'binah',
   'daat', 'hesed', 'gueboura', 'tiferet', 'netsah', 'hod', 'yesod', 'malkhout', 'shem-ha-meforash', 'grand-oeuvre',
@@ -100,7 +105,10 @@ const NOMS_PROPRES = new Set([
   'rite-de-perfection', 'philalethes', 'rite-ecossais-ancien-et-accepte', 'rite-ecossais-rectifie', 'rite-de-memphis-misraim',
   'chevalier-rose-croix', 'chevalier-kadosh', 'grande-loge-de-londres', 'grande-loge-unie-d-angleterre', 'grand-orient-de-france',
   'grande-loge-de-france', 'glnf', 'droit-humain', 'grande-loge-feminine-de-france', 'prince-hall', 'convent-de-wilhelmsbad',
-  'les-neuf-soeurs', 'temple-de-salomon',
+  'les-neuf-soeurs', 'temple-de-salomon', 'jakin', 'boaz',
+  // les astres, les lieux et les œuvres des rubriques nouvelles
+  'grande-ourse', 'petite-ourse', 'orion', 'pleiades', 'sirius', 'voie-lactee', 'ophiuchus',
+  'sedona', 'avebury', 'melencolia', 'les-bergers-d-arcadie',
 ]);
 function enMinuscule(a) {
   return CATEGORIES_COMMUNES.has(a.cat) && !NOMS_PROPRES.has(a.id) && !a.id.startsWith('arcane-')
@@ -258,7 +266,7 @@ function analyser(texte, lieu, ids) {
   });
   if (/\[\[|\]\]/.test(sansLiens)) erreur(lieu, 'crochets de renvoi mal fermés');
   if ((sansLiens.match(/\*/g) || []).length % 2) erreur(lieu, 'italique mal fermée (nombre impair d’astérisques)');
-  if (/TBD|XXX|\?\?\?|à compléter|lorem ipsum/i.test(texte)) erreur(lieu, 'marque de travail restée dans le texte');
+  if (/\bTBD\b|\bXXX\b|\?\?\?|à compléter|lorem ipsum/i.test(texte)) erreur(lieu, 'marque de travail restée dans le texte');
   if (/\s{2,}/.test(texte)) avertir(lieu, 'espaces doublées');
   return cites;
 }

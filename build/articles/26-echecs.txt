@@ -1,0 +1,175 @@
+# Jeu d'échecs : son histoire, de l'Inde à l'Europe, et ce que les moralistes,
+# les alchimistes de l'image et les occultistes y ont lu.
+
+@ jeu-d-echecs
+cat: echecs
+nom: Jeu d'échecs
+alias: échecs, jeu des rois, roi des jeux, shatranj, ajedrez, scacchi
+def: Jeu de stratégie pour deux joueurs, né en Inde vers le VIe siècle, que le Moyen Âge a lu comme un miroir de la société et que l'ésotérisme a chargé de symboles : dualité du noir et du blanc, combat des contraires, voyage du pion jusqu'à la royauté.
+texte: Le jeu naît en Inde, sous le nom de [[chaturanga]], vers le VIe siècle ; il passe en Perse, où un texte en moyen-perse raconte son arrivée à la cour du roi Khosrô Ier, puis dans le monde arabe, qui le nomme *shatranj* et en écrit les premiers traités. L'Europe le reçoit par l'Espagne et l'Italie autour de l'an mil : un poème latin du monastère d'Einsiedeln, vers 997, en donne la plus ancienne mention. Le mot « échec » vient du persan *shâh*, le roi, et « échec et mat » de *shâh mât*, que l'on traduit par « le roi est mort » ou « le roi est sans ressource ».
+texte: Le Moyen Âge en fait l'image de la société : le dominicain [[jacques-de-cessoles|Jacques de Cessoles]], vers 1300, décrit dans le *[[jeu-des-echecs-moralise|Jeu des échecs moralisé]]* chaque pièce comme un état du royaume. Le roi Alphonse X de Castille fait composer en 1283 un *Livre des jeux* dont une variante à quatre joueurs, les « échecs des quatre saisons », oppose les [[quatre-elements|quatre éléments]] et les quatre humeurs. La Mort, sur les fresques des églises du XVe siècle, joue aux échecs avec l'homme ; [[francois-rabelais|Rabelais]] reprend du *[[songe-de-poliphile|Songe de Poliphile]]* un ballet où des pièces vivantes dansent une partie.
+texte: Les lectures symboliques se nourrissent de l'[[echiquier|échiquier]], damier de lumière et de ténèbres qui rappelle le [[pave-mosaique|pavé mosaïque]] des loges, et de la promotion du [[pion-echecs|pion]] qui, parvenu au bout de sa route, devient dame : une image de l'[[initiation]] que reprendra [[lewis-carroll|Lewis Carroll]] dans *[[de-l-autre-cote-du-miroir|De l'autre côté du miroir]]*. La [[golden-dawn|Golden Dawn]] a inventé des [[echecs-enochiens|échecs énochiens]] pour la divination, et [[marcel-duchamp|Marcel Duchamp]] a quitté la peinture pour l'échiquier.
+repere: vers 600 — Le chaturanga est attesté en Inde.
+repere: vers 997 — Le poème d'Einsiedeln, plus ancienne mention des échecs en Europe.
+repere: 1283 — Le *Livre des jeux* d'Alphonse X de Castille.
+repere: vers 1300 — Jacques de Cessoles moralise le jeu.
+repere: vers 1475-1497 — En Espagne, la dame et le fou prennent leur marche moderne.
+extrait: Toujours dans l'intention de déployer sa grande pompe, voulant, en outre de ce que nous avons conté, montrer l'excessive suprématie de l'universalité de toutes ses excellentes et très-rares magnificences, elle ordonna que par l'entrée fermée de tapisseries pénétrassent trente-deux jeunes filles, dont seize, vêtues de drap d'or, avaient une d'entre elles portant un habit de Roi, une autre mise en Reine, deux en gardes du Roc ou de la Tour, deux Muets ou Secrétaires, deux Cavaliers, et les huit autres costumées uniformément. (…) ¶ Chaque fois que les officiers de l'un et de l'autre Roi trouvaient des adversaires sans gardes et sans escorte, ils les faisaient prisonniers ; les deux pièces s'entre-baisaient alors, et le vaincu sortait. C'est ainsi qu'une fameuse partie fut livrée sous la forme d'un ballet très-élégant, en la dansant et la jouant gaîment en mesure avec la musique, de façon que le Roi d'argent demeura vainqueur, à la vive allégresse et aux applaudissements de tous.
+source: Francesco Colonna, *Le Songe de Poliphile*, trad. Claudius Popelin, Liseux, 1883, t. I | ws Le Songe de Poliphile/10
+voir: chaturanga, echiquier, jeu-des-echecs-moralise, legende-de-sissa, echecs-enochiens, pave-mosaique, songe-de-poliphile
+
+@ chaturanga
+cat: echecs
+nom: Chaturanga
+alias: chatrang, shatranj, échecs indiens, quatre membres, ashtapada
+def: L'ancêtre indien du jeu d'échecs, dont le nom sanskrit, « les quatre membres », désigne les quatre corps de l'armée : infanterie, cavalerie, éléphants et chars.
+texte: Le chaturanga se joue sur l'ashtapada, un damier de huit cases sur huit qui servait déjà en Inde à des jeux de course. Ses pièces représentent l'armée indienne : le roi et son conseiller, les éléphants, les cavaliers, les chars et les fantassins. Il est attesté vers le début du VIIe siècle, et les historiens le font naître sous l'empire Gupta, vers le VIe siècle ; une variante à quatre joueurs, jouée aux dés, a existé.
+texte: Le jeu passe en Perse sous le nom de *chatrang* : un petit traité en moyen-perse raconte qu'un roi de l'Inde l'envoya au roi Khosrô Ier comme une énigme, que le sage vizir Wuzurgmihr sut résoudre, avant d'inventer en retour le jeu de trictrac. Les Arabes, après la conquête de la Perse, en font le *shatranj*. Le même quadrillage de soixante-quatre cases sert en Inde de plan rituel aux temples, le *vastu-purusha-mandala*, ce que les auteurs ésotériques ne manquent pas de rapprocher.
+voir: jeu-d-echecs, echiquier, legende-de-sissa, mandala, huit
+
+@ echiquier
+cat: echecs
+nom: Échiquier
+alias: damier, soixante-quatre cases, plateau, Échiquier de Normandie, exchequer
+def: Le plateau de soixante-quatre cases alternativement claires et sombres sur lequel se joue la partie, lu comme une image du monde partagé entre la lumière et les ténèbres.
+texte: Soixante-quatre cases, huit sur huit : les commentateurs ont rapproché ce nombre des soixante-quatre hexagrammes du *[[yi-king|Yi King]]*, des puissances de deux qu'illustre la [[legende-de-sissa|légende de Sissa]], et du [[huit]], nombre de l'équilibre. Le damier de deux couleurs, qui apparaît avec l'arrivée du jeu en Europe autour de l'an mil (le plateau indien était d'une seule couleur), a été comparé au [[pave-mosaique|pavé mosaïque]] des temples maçonniques, image de la dualité du monde où l'initié doit avancer.
+texte: Le mot a une autre histoire : en Normandie et en Angleterre, l'« échiquier » désigne au Moyen Âge la cour où l'on vérifie les comptes du roi, parce que l'on y calculait avec des jetons sur un tapis à carreaux. L'Échiquier de Normandie, siégeant à [[rouen|Rouen]], devient en 1515 le parlement de la province ; l'*Exchequer* anglais désigne encore aujourd'hui le Trésor britannique.
+voir: jeu-d-echecs, pave-mosaique, yi-king, legende-de-sissa, huit, rouen
+
+@ roi-echecs
+cat: echecs
+nom: Roi (échecs)
+alias: roi des échecs, shâh, échec et mat, mat
+def: La pièce maîtresse du jeu d'échecs, dont la capture — le mat — met fin à la partie ; elle figure le souverain, centre immobile autour duquel tout s'ordonne.
+texte: Le roi ne se déplace que d'une case et ne peut être pris : on le met « en échec », et quand il ne peut plus échapper la partie est perdue. Jacques de Cessoles en fait le modèle du souverain juste, qui doit être miséricordieux, chaste et fidèle à la vérité. Les auteurs symbolistes y voient le centre, le principe immobile qui fait mouvoir les autres pièces sans agir lui-même, comme le [[roi-pecheur|Roi pêcheur]] ou le [[le-roi-du-monde|Roi du monde]] de René Guénon.
+texte: Dans les [[echecs-enochiens|échecs énochiens]] de la Golden Dawn, le roi est Osiris ; dans l'iconographie médiévale, il porte la couronne, et la partie perdue rappelle que la mort abat les rois comme les pions.
+voir: jeu-d-echecs, dame-echecs, echiquier, roi-pecheur
+
+@ dame-echecs
+cat: echecs
+nom: Dame (échecs)
+alias: reine des échecs, fers, vizir, firzan, échecs de la dame enragée
+def: La pièce la plus puissante de l'échiquier, à l'origine un modeste conseiller du roi qui ne se déplaçait que d'une case, devenue à la fin du XVe siècle la dame ou reine toute-puissante.
+texte: Dans le jeu indien et persan, la pièce voisine du roi est son conseiller, le *fers* ou vizir, qui avance d'une seule case en diagonale. L'Europe médiévale en fait une femme, la *fierce*, puis la reine ou la dame. Vers la fin du XVe siècle, en Espagne, elle reçoit d'un coup la marche moderne, dans toutes les directions et aussi loin qu'elle veut : on parle alors d'« échecs de la dame enragée ».
+texte: Des historiens ont rapproché cette promotion soudaine du règne d'Isabelle la Catholique ou du culte de la Vierge, sans preuve décisive. Dans le symbolisme ésotérique, la dame est la puissance qui agit pour le roi, la [[shekhina|Shekhina]] ou la [[sophia|Sophia]] à côté du principe ; c'est aussi elle que devient le [[pion-echecs|pion]] arrivé au bout de l'échiquier.
+voir: roi-echecs, pion-echecs, jeu-d-echecs, de-l-autre-cote-du-miroir
+
+@ fou-echecs
+cat: echecs
+nom: Fou (échecs)
+alias: fol, alfil, éléphant, aufin, évêque, bishop
+def: La pièce qui se déplace en diagonale, éléphant dans le jeu indien, devenue le « fou » en France, l'évêque en Angleterre et le messager en Allemagne.
+texte: L'éléphant du chaturanga est devenu en arabe *al-fil*, que l'ancien français a déformé en « aufin » puis en « fol » : le fou du roi, son bouffon, a pris la place de l'éléphant que l'Europe ne connaissait pas. Les Anglais y ont vu un évêque, les Allemands un coureur, les Italiens un porte-étendard.
+texte: Le fou est le seul personnage qui reste toujours sur la même couleur, prisonnier de la lumière ou de l'ombre. Les lecteurs symbolistes l'ont rapproché du [[arcane-mat|Mat]] du tarot, le fou errant, et de la folie sacrée qui dit la vérité aux rois.
+voir: jeu-d-echecs, arcane-mat, cavalier-echecs, tour-echecs
+
+@ cavalier-echecs
+cat: echecs
+nom: Cavalier (échecs)
+alias: cavalier, chevalier, saut du cavalier, course du cavalier, knight
+def: La seule pièce du jeu d'échecs qui saute par-dessus les autres, en forme de L, image du chevalier et de ses détours.
+texte: Le cavalier représente la cavalerie de l'armée indienne et, au Moyen Âge, le chevalier : Jacques de Cessoles lui demande d'être sage, fidèle et humain envers le peuple. Sa marche oblique, deux cases dans un sens et une dans l'autre, en fait la pièce des détours et des surprises, toujours changeant de couleur.
+texte: Le problème de la « course du cavalier », qui doit visiter les soixante-quatre cases sans passer deux fois par la même, passionne les mathématiciens arabes, puis Euler en 1759. Certaines courses forment des [[carre-magique|carrés magiques]], où les numéros des cases parcourues donnent la même somme sur chaque ligne et chaque colonne : de quoi enchanter les amateurs de [[numerologie|nombres]].
+voir: jeu-d-echecs, carre-magique, fou-echecs, echiquier
+
+@ tour-echecs
+cat: echecs
+nom: Tour (échecs)
+alias: roc, rukh, char, roque, roc d'échiquier
+def: La pièce qui se déplace en ligne droite sur les rangées et les colonnes, char de guerre dans le jeu indien et persan, devenue la tour dans l'Europe médiévale.
+texte: Le char du chaturanga devient en persan *rukh*, d'où l'ancien français « roc », qui a donné le roque, le coup où le roi et la tour échangent leur place. Le « roc d'échiquier » est resté une pièce de l'héraldique, sur les blasons de bien des familles. La pièce a pris la forme d'une tour crénelée à la fin du Moyen Âge.
+texte: Jacques de Cessoles y voit les légats et vicaires du roi, qui parcourent le royaume en son nom. La tour, immobile en début de partie dans ses coins, puis toute-puissante sur les lignes ouvertes, a été lue comme une image de la forteresse intérieure, à l'égal de la [[arcane-maison-dieu|Maison-Dieu]] du tarot qu'elle rappelle.
+voir: jeu-d-echecs, roi-echecs, fou-echecs, arcane-maison-dieu
+
+@ pion-echecs
+cat: echecs
+nom: Pion (échecs)
+alias: pion, piéton, fantassin, promotion, pion qui devient dame
+def: La plus humble pièce du jeu, le fantassin, qui ne recule jamais et qui, parvenu à la dernière rangée, se transforme en une pièce plus puissante, le plus souvent une dame.
+texte: Les huit pions de chaque camp avancent d'une case à la fois et prennent en diagonale. Jacques de Cessoles leur donne à chacun un métier : le laboureur, le forgeron, le notaire, le marchand, le médecin, l'aubergiste, le gardien de la cité et le joueur ; le pion n'est pas méprisable, car la partie dépend de lui.
+texte: La promotion du pion, qui devient dame en atteignant le bout de l'échiquier, a fourni l'image d'un chemin d'[[initiation]] ou d'une [[transmutation]] : de l'état le plus bas à la royauté, par une route droite et sans retour. [[lewis-carroll|Lewis Carroll]] en a fait l'intrigue de *[[de-l-autre-cote-du-miroir|De l'autre côté du miroir]]*, où Alice, simple pion blanc, devient reine à la huitième case.
+voir: jeu-d-echecs, dame-echecs, de-l-autre-cote-du-miroir, initiation, jeu-des-echecs-moralise
+
+@ jeu-des-echecs-moralise
+cat: textes
+nom: Jeu des échecs moralisé
+alias: Liber de moribus, Livre des mœurs des hommes, Ludus scaccorum, Game and Playe of the Chesse, Jacques de Cessoles
+dates: vers 1300
+an: 1300
+def: Recueil de sermons du dominicain Jacques de Cessoles qui décrit la société comme une partie d'échecs, chaque pièce représentant un état, du roi aux artisans ; ce fut l'un des livres les plus lus du Moyen Âge.
+texte: Le *Livre des mœurs des hommes et des devoirs des nobles et des gens du peuple d'après le jeu des échecs* part d'une légende : un philosophe aurait inventé le jeu pour corriger un roi cruel, en lui montrant que le souverain dépend de tous ses sujets. Chaque pièce enseigne alors les devoirs d'un état : le roi, la reine, les juges (les fous), les chevaliers, les vicaires (les tours), et les huit pions, qui sont les métiers.
+texte: L'ouvrage, conservé dans plus d'une centaine de manuscrits, est traduit en français dès le XIVe siècle, notamment par Jean de Vignay, en allemand, en italien et en anglais : William Caxton en imprime une version en 1474, l'un des premiers livres imprimés en anglais. Il fait du jeu d'échecs une allégorie de l'ordre du monde, que la Renaissance et l'ésotérisme reprendront à leur manière.
+repere: vers 1300 — Jacques de Cessoles compose son livre.
+repere: 1474 — Caxton imprime *The Game and Playe of the Chesse*.
+voir: jeu-d-echecs, jacques-de-cessoles, pion-echecs, roi-echecs
+
+@ jacques-de-cessoles
+cat: figures
+nom: Jacques de Cessoles
+alias: Jacobus de Cessolis, Jacopo da Cessole, Cessoles
+dates: XIIIe siècle – après 1322
+an: 1300
+def: Dominicain lombard, auteur vers 1300 d'un livre de sermons qui fit du jeu d'échecs une image morale de la société.
+texte: On ne sait presque rien de sa vie : il est lombard, peut-être originaire de Cessole, dans le Piémont, et les archives de Gênes le mentionnent entre 1317 et 1322 comme vicaire de l'inquisiteur. Son *[[jeu-des-echecs-moralise|Jeu des échecs moralisé]]*, qui réunit des sermons, connut un succès immense dans toute l'Europe et fixa pour des siècles la lecture allégorique du jeu.
+repere: vers 1300 — Il compose le *Livre des mœurs des hommes* d'après le jeu des échecs.
+repere: 1317-1322 — Il est vicaire de l'inquisiteur à Gênes.
+voir: jeu-des-echecs-moralise, jeu-d-echecs
+
+@ legende-de-sissa
+cat: echecs
+nom: Légende de Sissa
+alias: grains de blé et échiquier, problème de l'échiquier, Sissa, Sessa, récompense de l'inventeur des échecs
+def: Légende de l'inventeur du jeu d'échecs qui demanda pour récompense un grain de blé sur la première case de l'échiquier, deux sur la deuxième, et ainsi de suite en doublant : une quantité qu'aucun royaume ne pouvait fournir.
+texte: Selon le récit, un roi de l'Inde voulut remercier le sage Sissa d'avoir inventé le jeu. L'inventeur ne demanda que du grain, en doublant à chaque case : le roi s'amusa de cette modestie, jusqu'à ce que ses calculateurs découvrent qu'il fallait 18 446 744 073 709 551 615 grains, soit des siècles de récoltes du monde entier. La légende circule dans le monde arabe et persan au Moyen Âge et passe en Europe avec les échecs.
+texte: Elle illustre la puissance vertigineuse de la progression géométrique, 2 multiplié par lui-même à chaque case, et fait de l'[[echiquier|échiquier]] un tableau de nombres. Les amateurs de symbolisme y lisent une leçon sur l'humilité apparente du sage, plus puissant que le roi.
+voir: echiquier, jeu-d-echecs, chaturanga, numerologie
+
+@ echecs-enochiens
+cat: echecs
+nom: Échecs énochiens
+alias: échecs rosicruciens, Enochian chess, Rosicrucian chess, échecs de la Golden Dawn
+def: Variante des échecs à quatre joueurs créée par la Golden Dawn à la fin du XIXe siècle, jouée sur des échiquiers tirés des tablettes de John Dee et utilisée pour la divination.
+texte: Le jeu est conçu par [[william-wynn-westcott|William Wynn Westcott]] et achevé par [[samuel-liddell-mathers|Samuel Liddell Mathers]]. Les quatre camps correspondent aux quatre éléments et aux quatre tablettes élémentaires de la [[magie-enochienne|magie énochienne]] de John Dee ; les pièces sont des dieux égyptiens : Osiris pour le roi, Isis pour la reine, Horus pour le cavalier, Aroueris pour le fou, Nephthys pour la tour. On jouait en équipes de deux, et l'on interrogeait la partie comme un oracle.
+texte: Le biographe de [[william-butler-yeats|Yeats]] raconte que Mathers jouait avec un partenaire invisible, un esprit, dont il déplaçait les pièces après avoir longuement fixé la chaise vide. Le poète et son épouse Georgie y jouèrent aussi dans le cadre de leur formation occulte.
+voir: golden-dawn, magie-enochienne, john-dee, jeu-d-echecs, samuel-liddell-mathers
+
+@ de-l-autre-cote-du-miroir
+cat: textes
+nom: De l'autre côté du miroir
+alias: Through the Looking-Glass, Alice de l'autre côté du miroir, De l'autre côté du miroir et ce qu'Alice y trouva
+dates: 1871
+an: 1871
+def: Roman de Lewis Carroll, suite d'*Alice au pays des merveilles*, construit comme une partie d'échecs où Alice, simple pion, traverse l'échiquier pour devenir reine.
+texte: Alice passe à travers le miroir du salon et découvre un pays découpé en cases par des ruisseaux et des haies : un immense [[echiquier|échiquier]] où les pièces sont vivantes. Pion blanc, elle avance d'une case à chaque chapitre, rencontre la Reine rouge, la Reine blanche, Humpty Dumpty et le Chevalier blanc, et devient reine à la huitième case, avant de mettre « mat » la Reine rouge. Carroll place en tête du livre le problème d'[[jeu-d-echecs|échecs]] qui en donne le plan.
+texte: Le monde inversé du miroir, la course de la Reine rouge qui court pour rester sur place, la logique du rêve ont inspiré les logiciens comme les amateurs de symboles, qui y ont vu un parcours initiatique : le passage d'un seuil, l'épreuve de l'absurde et la royauté conquise. Les illustrations de John Tenniel ont fixé l'image du livre.
+repere: 1865 — *Alice au pays des merveilles*.
+repere: 1871 — *De l'autre côté du miroir*.
+voir: lewis-carroll, pion-echecs, dame-echecs, echiquier, miroir-magique
+
+@ lewis-carroll
+cat: figures
+nom: Lewis Carroll
+alias: Charles Lutwidge Dodgson, Dodgson, l'auteur d'Alice
+dates: 1832 – 1898
+an: 1832
+def: Mathématicien et logicien d'Oxford, auteur d'*Alice au pays des merveilles* et de *De l'autre côté du miroir*, dont les jeux de logique et de miroirs ont nourri les lectures symboliques.
+texte: Charles Dodgson enseigne les mathématiques au collège de Christ Church, à Oxford ; diacre de l'Église anglicane, photographe, il invente des énigmes, des jeux de mots et des problèmes de logique. Sous le nom de Lewis Carroll, il publie en 1865 *Alice au pays des merveilles*, puis en 1871 *[[de-l-autre-cote-du-miroir|De l'autre côté du miroir]]*, construit sur une partie d'échecs.
+texte: L'un des premiers membres de la [[society-for-psychical-research|Society for Psychical Research]], fondée en 1882, il s'intéresse aux phénomènes psychiques, et une de ses lettres montre qu'il tenait pour réelle la « lecture de pensée ». Les surréalistes ont fait de lui un précurseur, et des commentateurs ont lu dans ses livres des allégories initiatiques ou kabbalistiques, des lectures qu'aucun document de l'auteur ne confirme.
+repere: 1865 — *Alice au pays des merveilles*.
+repere: 1871 — *De l'autre côté du miroir*.
+repere: 1882 — Fondation de la Society for Psychical Research, dont il est l'un des premiers membres.
+voir: de-l-autre-cote-du-miroir, jeu-d-echecs, society-for-psychical-research
+
+@ marcel-duchamp
+cat: figures
+nom: Marcel Duchamp
+alias: Duchamp, Rrose Sélavy
+dates: 1887 – 1968
+an: 1887
+def: Artiste français, inventeur du ready-made, qui délaissa la peinture pour le jeu d'échecs, et dont l'œuvre a été lue par certains critiques comme une alchimie cachée.
+texte: Né près de [[rouen|Rouen]], élève du lycée Corneille, Duchamp peint en 1911 *Les Joueurs d'échecs*, puis bouleverse l'art avec ses ready-made et *La Mariée mise à nu par ses célibataires, même*, dit le *Grand Verre* (1915-1923). Il consacre ensuite l'essentiel de son temps aux échecs : il joue pour la France à quatre olympiades entre 1928 et 1933 et publie un traité sur les finales.
+texte: Dans les années 1960, le critique Arturo Schwarz a interprété le *Grand Verre* comme une allégorie de l'[[alchimie]], la mariée et les célibataires figurant les noces du [[soufre]] et du [[mercure-principe|mercure]] ; d'autres y ont vu de la [[kabbale]] ou du [[tarot]]. Duchamp a refusé ces lectures, tout en laissant planer l'ironie.
+repere: 1911 — *Les Joueurs d'échecs*.
+repere: 1915-1923 — *Le Grand Verre*.
+repere: 1928-1933 — Il joue quatre olympiades d'échecs pour la France.
+voir: jeu-d-echecs, alchimie, noces-chymiques, rouen

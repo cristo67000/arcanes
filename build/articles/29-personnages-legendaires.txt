@@ -1,0 +1,169 @@
+# Personnages de légende et de fiction que l'ésotérisme a adoptés : chevaliers
+# du Graal, enchanteurs, fées, saints, initiés d'opéra et gentleman cambrioleur.
+# Les repères donnent les dates de leurs grandes apparitions littéraires.
+
+@ galaad
+cat: figures
+nom: Galaad
+alias: Galahad, le Bon Chevalier, Siège périlleux, chevalier élu
+dates: personnage légendaire
+def: Le chevalier parfait des romans du Graal, fils de Lancelot, seul assez pur pour contempler les mystères du vase sacré, et qui meurt dans l'extase après les avoir vus.
+texte: Galaad apparaît dans la *Quête du saint Graal*, roman en prose écrit vers 1225 dans l'esprit des moines cisterciens. Fils de Lancelot et de la fille du Roi Pêcheur, il prend place au « Siège périlleux » de la Table ronde, où tout autre périrait, tire l'épée du perron et part en quête avec [[perceval|Perceval]] et Bohort. Au château de Corbénic, puis dans la ville de Sarras, il voit à découvert ce que le [[graal]] cache, demande à quitter le monde et meurt ; une main venue du ciel emporte le vase.
+texte: Là où Perceval apprend par ses erreurs, Galaad est l'élu dès sa naissance : il incarne la chevalerie céleste opposée à la chevalerie terrestre, la grâce plutôt que l'effort. Les poètes victoriens, comme Tennyson, et les peintres préraphaélites en ont fait l'image de l'idéal chaste ; les ésotéristes y voient le terme de la quête initiatique.
+repere: vers 1225 — *La Quête du saint Graal*, en prose.
+repere: 1485 — Thomas Malory, *Le Morte d'Arthur*.
+voir: graal, perceval, joseph-d-arimathie, roi-pecheur, conte-du-graal
+
+@ perceval
+cat: figures
+nom: Perceval
+alias: Parzival, Parsifal, Peredur, le Gallois, le chaste fou
+dates: personnage légendaire
+def: Le jeune chevalier gallois du *Conte du Graal* de Chrétien de Troyes, qui voit passer le Graal sans oser poser la question qui aurait guéri le Roi Pêcheur, devenu chez Wolfram puis chez Wagner le roi du Graal.
+texte: Élevé par sa mère dans la forêt, loin de la chevalerie, Perceval part pour la cour d'Arthur, naïf et brutal. Chez le [[roi-pecheur|Roi Pêcheur]], il voit passer une lance qui saigne et un [[graal]] resplendissant, mais se tait, par peur de paraître indiscret : s'il avait demandé qui l'on servait avec le graal, le roi aurait guéri et sa terre refleuri. Le roman de [[chretien-de-troyes|Chrétien de Troyes]], vers 1181, s'interrompt avant la fin de sa quête ; ses continuateurs la poursuivent.
+texte: Dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], vers 1210, le héros finit par poser la question et devient roi du Graal ; [[richard-wagner|Wagner]] en fait dans *Parsifal* (1882) le « chaste fou » rendu sage par la compassion. Son itinéraire, de l'ignorance à la connaissance par l'épreuve et la faute, est devenu pour les ésotéristes le modèle même de l'[[initiation]].
+repere: vers 1181 — Chrétien de Troyes, *Perceval ou le Conte du Graal*.
+repere: vers 1210 — Wolfram von Eschenbach, *Parzival*.
+repere: 1882 — Wagner, *Parsifal*.
+voir: graal, conte-du-graal, parzival, roi-pecheur, galaad, kyot
+
+@ roi-pecheur
+cat: figures
+nom: Roi Pêcheur
+alias: Riche Roi Pêcheur, Anfortas, Amfortas, roi méhaigné, Terre gaste
+dates: personnage légendaire
+def: Le roi blessé des romans du Graal, gardien du vase sacré, que sa blessure condamne à pêcher sur la rivière pendant que son royaume dépérit, jusqu'à ce qu'un chevalier pose la question libératrice.
+texte: Chez [[chretien-de-troyes|Chrétien de Troyes]], le Roi Pêcheur a été blessé entre les cuisses par un javelot et ne peut plus que pêcher en barque ; c'est dans son château que [[perceval|Perceval]] voit le [[graal]]. Les romans suivants lient sa blessure à la ruine de sa terre, la « terre gaste », stérile comme lui ; Wolfram le nomme Anfortas, blessé pour avoir aimé sans permission, et [[richard-wagner|Wagner]] Amfortas, blessé par la [[sainte-lance|sainte lance]] que lui a ravie l'enchanteur Klingsor.
+texte: En 1920, Jessie Weston, dans *Du rite au roman*, rapproche le roi malade et sa terre stérile des rites de fertilité de l'Antiquité ; T. S. Eliot s'en inspire pour *La Terre vaine* (1922). [[rene-guenon|René Guénon]] et [[julius-evola|Julius Evola]] y ont vu l'image d'une tradition blessée, qui attend celui qui saura la rétablir.
+repere: vers 1181 — Le Roi Pêcheur dans le *Conte du Graal*.
+repere: 1920 — Jessie Weston, *From Ritual to Romance*.
+voir: graal, perceval, conte-du-graal, sainte-lance, galaad
+
+@ joseph-d-arimathie
+cat: figures
+nom: Joseph d'Arimathie
+alias: Joseph, saint Joseph d'Arimathie, gardien du Graal, Sainte Épine de Glastonbury
+dates: Ier siècle, personnage de l'Évangile et de la légende
+def: Le notable juif qui, selon les Évangiles, ensevelit Jésus dans son propre tombeau, et que les romans du Graal font le premier gardien du vase où fut recueilli le sang du Christ.
+texte: Les quatre Évangiles le présentent comme un homme riche, membre du conseil de Jérusalem et disciple secret de Jésus, qui obtient de Pilate le corps du crucifié et le dépose dans un tombeau neuf. Vers 1200, le poète Robert de Boron, dans son *Joseph d'Arimathie*, fait de lui le dépositaire du vase de la Cène, où il a recueilli le sang du Christ : emprisonné, il est nourri par le [[graal]], puis la compagnie du vase gagne l'Occident.
+texte: Au XIIIe siècle, les moines de [[glastonbury|Glastonbury]] le disent venu en Grande-Bretagne fonder leur abbaye ; son bâton, planté sur une colline, aurait donné l'aubépine qui fleurit à Noël. Une tradition anglaise plus tardive veut même qu'il ait amené Jésus enfant sur l'île, ce qu'évoque le poème de [[william-blake|William Blake]] devenu l'hymne *Jerusalem*.
+repere: vers 1200 — Robert de Boron, *Joseph d'Arimathie*.
+repere: XIIIe siècle — Les moines de Glastonbury revendiquent sa venue.
+voir: graal, glastonbury, galaad, longin, conte-du-graal
+
+@ kyot
+cat: figures
+nom: Kyot
+alias: Kyot le Provençal, Guiot, Flégétanis, Guiot de Provins
+dates: personnage cité par Wolfram, vers 1200
+def: Le maître provençal que Wolfram von Eschenbach donne pour source de son *Parzival*, et qui aurait trouvé à Tolède l'histoire du Graal écrite par un astronome païen ; un personnage probablement inventé.
+texte: Wolfram affirme tenir son récit de « Kyot, le maître bien connu », un Provençal qui aurait découvert à Tolède, dans un manuscrit en écriture païenne, l'histoire du [[graal]] rédigée par Flégétanis, savant descendant de Salomon qui avait lu le nom du Graal dans les étoiles. Kyot aurait ensuite cherché dans les chroniques de Bretagne, de France et d'Irlande la lignée des gardiens du vase. Wolfram reproche au passage à [[chretien-de-troyes|Chrétien de Troyes]] d'avoir mal raconté l'histoire.
+texte: La plupart des spécialistes tiennent Kyot pour une fiction destinée à justifier les écarts de Wolfram ; d'autres l'ont identifié au trouvère Guiot de Provins. Les auteurs ésotériques, d'[[otto-rahn|Otto Rahn]] aux amateurs de [[catharisme]], en ont fait le maillon qui relierait le Graal à l'astrologie arabe de Tolède, aux templiers et aux cathares.
+repere: vers 1200-1210 — Wolfram cite Kyot comme sa source dans *Parzival*.
+repere: 1933 — Otto Rahn en fait un témoin du Graal cathare.
+voir: parzival, wolfram-von-eschenbach, graal, otto-rahn, perceval
+
+@ lohengrin
+cat: figures
+nom: Lohengrin
+alias: Loherangrin, le Chevalier au cygne, Chevalier au cygne, Elsa de Brabant
+dates: personnage légendaire
+def: Le chevalier du Graal qui arrive dans une barque tirée par un cygne pour défendre une dame, à condition qu'elle ne lui demande jamais son nom ; fils de Parzival chez Wolfram, héros de l'opéra de Wagner.
+texte: La légende du chevalier au cygne circule au XIIe siècle et s'attache aux ancêtres de Godefroy de Bouillon. Wolfram von Eschenbach, à la fin de son *[[parzival|Parzival]]*, fait de Loherangrin le fils de [[perceval|Parzival]], envoyé par le [[graal]] au secours de la duchesse de Brabant : il l'épouse, mais doit repartir le jour où elle lui demande d'où il vient. Le secret du nom est la condition du lien avec le monde des hommes.
+texte: L'opéra de [[richard-wagner|Wagner]] (1850) a rendu le personnage célèbre ; [[louis-ii-de-baviere|Louis II de Bavière]] s'identifiait à lui et fit peindre sa légende aux murs de Neuschwanstein. Les interprètes symbolistes y voient l'envoyé d'un monde supérieur qui ne peut demeurer parmi ceux qui exigent des preuves.
+repere: vers 1210 — Loherangrin, fils de Parzival, dans le poème de Wolfram.
+repere: 1850 — Création de *Lohengrin* à Weimar.
+voir: parzival, perceval, richard-wagner, louis-ii-de-baviere, graal
+
+@ merlin
+cat: figures
+nom: Merlin
+alias: Merlin l'Enchanteur, Myrddin, Merlinus, Viviane, Dame du Lac
+dates: personnage légendaire
+def: L'enchanteur et prophète de la légende arthurienne, né d'un démon et d'une vierge, conseiller d'Arthur, qui aurait dressé Stonehenge et finit enchanté par la fée Viviane dans la forêt de Brocéliande.
+texte: Le clerc Geoffroy de Monmouth popularise vers 1136 les *Prophéties de Merlin* et en fait, dans son *Histoire des rois de Bretagne*, le devin qui transporte d'Irlande les pierres de [[stonehenge|Stonehenge]] et favorise la naissance d'Arthur ; il s'inspire du barde gallois Myrddin, devenu fou après une bataille. Vers 1200, Robert de Boron raconte sa naissance : les démons voulaient engendrer un Antéchrist, mais la piété de sa mère fit de l'enfant un prophète au service du bien, qui institue la Table ronde.
+texte: Les romans en prose le montrent séduit par Viviane, la Dame du Lac, à qui il enseigne ses sortilèges et qui l'enferme pour toujours dans une prison d'air, à [[broceliande|Brocéliande]]. Figure du sage, du magicien et du druide, il a été revendiqué par les néo-druides, les romantiques et le [[new-age|New Age]], et l'on montre encore son « tombeau » dans la forêt de Paimpont.
+repere: vers 1136 — Geoffroy de Monmouth, *Histoire des rois de Bretagne*.
+repere: vers 1200 — Robert de Boron, *Merlin*.
+voir: broceliande, stonehenge, druidisme, graal, melusine
+
+@ melusine
+cat: figures
+nom: Mélusine
+alias: Mélusine de Lusignan, la fée serpente, Merlusine, mélusines
+dates: personnage légendaire
+def: Fée de la légende poitevine, femme-serpent le samedi, qui épouse un seigneur à condition qu'il ne la voie jamais ce jour-là, bâtit le château de Lusignan et s'envole en dragon quand il trahit son secret.
+texte: Le *Roman de Mélusine*, écrit en 1393 par Jean d'Arras pour le duc Jean de Berry, puis mis en vers par Coudrette, raconte comment la fée, punie par sa mère Pressine, devient serpent de la taille aux pieds chaque samedi. Elle épouse Raymondin, lui apporte la richesse, fonde [[lusignan|Lusignan]] et d'autres forteresses, et donne naissance à une lignée de héros marqués d'un signe étrange. Le jour où son mari la surprend au bain, elle s'envole par la fenêtre sous la forme d'un dragon ailé ; elle revient crier sur les tours chaque fois qu'un seigneur de Lusignan va mourir.
+texte: La légende a servi la gloire de la maison de Lusignan, rois de Chypre et de Jérusalem. [[paracelse|Paracelse]] appelle « mélusines » les esprits des eaux, [[elementaux|élémentaux]] qui cherchent à s'unir aux hommes pour obtenir une âme ; les alchimistes l'ont représentée en sirène double, et [[carl-gustav-jung|Jung]] l'a lue comme une figure de l'anima.
+repere: 1393 — Jean d'Arras, *Roman de Mélusine*.
+repere: vers 1401 — Le roman en vers de Coudrette.
+voir: lusignan, elementaux, paracelse, serpent, dragon
+
+@ pretre-jean
+cat: figures
+nom: Prêtre Jean
+alias: Presbyter Johannes, royaume du Prêtre Jean, Lettre du Prêtre Jean
+dates: personnage légendaire
+def: Roi-prêtre chrétien d'un royaume fabuleux d'Orient, que l'Europe médiévale chercha pendant quatre siècles, de l'Asie à l'Éthiopie, et que des romans du Graal font gardien du vase sacré.
+texte: En 1145, l'évêque Otton de Freising rapporte qu'un roi chrétien d'Orient, Jean, prêtre et souverain, aurait vaincu les Perses et voudrait secourir Jérusalem. Vers 1165 circule une lettre attribuée à ce roi, adressée à l'empereur de Byzance : elle décrit un empire immense, peuplé de monstres et de merveilles, où coule la fontaine de jouvence. Marco Polo le cherche en Asie ; au XVe siècle, les Portugais l'identifient au négus d'Éthiopie.
+texte: Dans le *[[parzival|Parzival]]* de Wolfram, le Prêtre Jean est le fils de Feirefiz, demi-frère du héros, et de la porteuse du Graal ; un roman allemand du XIIIe siècle y fait emporter le [[graal]]. [[rene-guenon|René Guénon]], dans *[[le-roi-du-monde|Le Roi du monde]]*, y voit l'une des figures du chef caché d'un centre spirituel.
+repere: 1145 — Première mention, chez Otton de Freising.
+repere: vers 1165 — La *Lettre du Prêtre Jean* circule en Europe.
+voir: le-roi-du-monde, graal, parzival, agartha
+
+@ sarastro
+cat: figures
+nom: Sarastro
+alias: grand prêtre d'Isis et d'Osiris, Zarastro, Zoroastre
+dates: personnage d'opéra, 1791
+def: Le grand prêtre d'Isis et d'Osiris de *La Flûte enchantée* de Mozart, sage qui conduit Tamino et Pamina à travers les épreuves de l'initiation, image idéale du vénérable maître de loge.
+texte: Dans l'opéra de [[wolfgang-amadeus-mozart|Mozart]] et de son librettiste Emanuel Schikaneder, tous deux francs-maçons, Sarastro semble d'abord un tyran qui a enlevé Pamina à sa mère, la Reine de la Nuit ; il se révèle le chef d'une confrérie de sages qui règne sur le temple de la Sagesse. Il soumet le prince Tamino au silence, puis aux épreuves du feu et de l'eau, avant de l'admettre parmi les initiés. Son nom est une forme de Zoroastre, le mage de la Perse.
+texte: Les commentateurs ont reconnu dans *[[la-flute-enchantee|La Flûte enchantée]]* le rituel maçonnique : le chiffre trois, les trois accords solennels, les épreuves des éléments, empruntées au roman *Séthos* de l'abbé Terrasson (1731), qui imaginait les mystères égyptiens. On a souvent vu dans Sarastro un portrait du savant Ignaz von Born, maître de la loge viennoise « À la vraie concorde ».
+repere: 1731 — L'abbé Terrasson imagine l'initiation égyptienne dans *Séthos*.
+repere: 1791 — Création de *La Flûte enchantée* à Vienne.
+voir: la-flute-enchantee, wolfgang-amadeus-mozart, mysteres-antiques, egyptosophie, zoroastre, vienne
+
+@ faust
+cat: figures
+nom: Faust
+alias: docteur Faust, Johann Faust, Faustus, Méphistophélès, pacte faustien
+dates: vers 1480 – vers 1541 (le personnage historique)
+def: Le savant qui vend son âme au diable en échange de la connaissance et des plaisirs du monde, héros d'un livre populaire allemand de 1587, de Marlowe et de Goethe, d'après un magicien itinérant de la Renaissance.
+texte: Un certain Johann Georg Faust, astrologue et nécromancien ambulant, est mentionné dans les années 1500-1540 par des humanistes qui le traitent de charlatan ; il serait mort vers 1541. En 1587, un livre populaire imprimé à Francfort raconte la vie du docteur Faust, qui signe de son sang un pacte avec le démon Méphistophélès pour vingt-quatre ans de science et de plaisirs, avant d'être emporté en enfer. Christopher Marlowe en tire aussitôt une tragédie.
+texte: [[johann-wolfgang-von-goethe|Goethe]] consacre soixante ans à son *Faust* (1808 et 1832) : le savant las des livres se tourne vers la [[magie]], s'éprend de Marguerite, monte au [[walpurgis|sabbat du Brocken]] et finit sauvé par son élan sans repos. [[gerard-de-nerval|Gérard de Nerval]] le traduit en 1828, Berlioz et Gounod le mettent en musique. Le « pacte faustien » est devenu le nom de toute connaissance payée de son âme.
+repere: 1587 — *Historia von D. Johann Fausten*, livre populaire imprimé à Francfort.
+repere: vers 1592 — Marlowe, *La Tragique Histoire du docteur Faust*.
+repere: 1808 — Goethe, *Faust*, première partie.
+repere: 1828 — Traduction de Gérard de Nerval.
+extrait: Philosophie, jurisprudence, médecine, et toi aussi, malheureuse théologie ! je vous ai donc étudiées avec grand'peine, et maintenant me voici, pauvre fou, tout aussi sage que devant. (…) Il ne me reste plus qu'à me jeter dans la magie. Oh ! si la force de l'esprit et de la parole me dévoilait les secrets qui me restent à connaître, et que je ne fusse plus obligé de dire péniblement ce que je ne sais pas ; si enfin je pouvais connaître tout ce que le monde cache en lui-même, et, sans m'attacher davantage à des mots inutiles, voir ce que la nature contient de forces et de semences éternelles !
+source: Goethe, *Faust*, première partie, « Nuit », trad. Gérard de Nerval, 1828 | ws Faust (Goethe, trad. Nerval, 1828)
+voir: johann-wolfgang-von-goethe, walpurgis, magie, gerard-de-nerval, demonologie
+
+@ longin
+cat: figures
+nom: Longin
+alias: saint Longin, Longinus, le centurion, lance de Longin
+dates: Ier siècle, personnage de la légende chrétienne
+def: Le soldat romain qui perça de sa lance le flanc du Christ en croix, converti selon la légende et honoré comme saint ; sa lance est devenue une relique et un talisman de pouvoir.
+texte: L'Évangile de Jean parle d'un soldat qui ouvrit d'un coup de lance le côté de Jésus ; les autres Évangiles évoquent un centurion qui reconnut au pied de la croix le Fils de Dieu. Un évangile apocryphe, les *Actes de Pilate*, donne à ce soldat le nom de Longin, tiré du grec *lonchè*, la lance. La légende le dit guéri d'un mal des yeux par le sang du Christ, devenu moine en Cappadoce et martyr.
+texte: La ville de Mantoue vénère le sang du Christ qu'il y aurait apporté ; le Bernin l'a sculpté dans la basilique Saint-Pierre de Rome, les bras ouverts, à côté de la relique de la [[sainte-lance|sainte lance]]. Le personnage a nourri les légendes du Graal, où la lance qui saigne accompagne le vase, et les mythes modernes sur la « lance du destin ».
+repere: IVe-Ve siècle — Les *Actes de Pilate* lui donnent le nom de Longin.
+repere: 1638 — La statue de saint Longin par le Bernin à Saint-Pierre de Rome.
+extrait: Longin était le centurion qui avait été chargé par Pilate d'assister, avec ses soldats, à la crucifixion du Seigneur, et qui avait percé de sa lance le flanc divin. Il se convertit à la foi en voyant les signes qui suivirent la mort de Jésus, c'est-à-dire l'éclipse du soleil et le tremblement de terre. Mais on dit que ce qui contribua surtout à le convertir fut que, souffrant d'un mal d'yeux, il toucha par hasard ses yeux avec une goutte du sang du Christ, qui découlait le long de sa lance, et recouvra aussitôt la santé.
+source: Jacques de Voragine, *La Légende dorée*, « Saint Longin », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Saint Longin
+voir: sainte-lance, legende-doree, graal, joseph-d-arimathie, constantin
+
+@ arsene-lupin
+cat: figures
+nom: Arsène Lupin
+alias: Lupin, gentleman cambrioleur, Raoul d'Andrésy, Aiguille creuse
+dates: personnage de roman, depuis 1905
+def: Le gentleman cambrioleur créé par Maurice Leblanc, dont plusieurs aventures normandes sont des chasses aux trésors cryptés, du « secret des rois de France » aux abbayes dessinant la Grande Ourse.
+texte: Apparu en 1905 dans le magazine *Je sais tout*, Arsène Lupin est un voleur élégant, maître du déguisement et de l'ironie, qui ne tue pas. Dans *L'Aiguille creuse* (1909), le jeune Isidore Beautrelet découvre que Lupin a fait de l'aiguille de craie d'[[etretat|Étretat]] la cachette d'un secret transmis depuis Jules César par les rois de France ; dans *La Comtesse de Cagliostro* (1924), Lupin affronte la fille de [[cagliostro|Cagliostro]] et retrouve le trésor des moines en reportant sur la carte du pays de Caux la figure de la [[grande-ourse|Grande Ourse]].
+texte: Ces romans mêlent l'histoire secrète, les documents chiffrés, les souterrains et les sociétés occultes. Les inventeurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]] s'en sont nourris, au point que l'on a parlé d'une « clé lupinienne » du mystère.
+repere: 1905 — *L'Arrestation d'Arsène Lupin*, première aventure.
+repere: 1909 — *L'Aiguille creuse*.
+repere: 1924 — *La Comtesse de Cagliostro*.
+extrait: L'aiguille d'Étretat est creuse ! ¶ Phénomène naturel ? Excavation produite par des cataclysmes intérieurs ou par l'effort insensible de la mer qui bouillonne, de la pluie qui s'infiltre ? Ou bien œuvre surhumaine, exécutée par des humains, Gaulois, Celtes, hommes préhistoriques ? (…) ¶ Pour l'avoir connu, ce mot, César peut asservir la Gaule. Pour l'avoir connu, les Normands s'imposent au pays, et de là, plus tard, adossés à ce point d'appui, conquièrent l'île voisine, conquièrent la Sicile, conquièrent l'Orient, conquièrent le Nouveau-Monde ! ¶ Maîtres du secret, les rois d'Angleterre dominent la France, l'humilient, la dépècent, se font couronner rois à Paris. Ils le perdent, et c'est la déroute.
+source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
+voir: maurice-leblanc, etretat, rouen, cagliostro, rennes-le-chateau

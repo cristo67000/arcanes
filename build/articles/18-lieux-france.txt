@@ -22,7 +22,7 @@ repere: 1244 — Capitulation le 2 mars ; plus de deux cents cathares sont brûl
 repere: 1870 — Napoléon Peyrat publie son *Histoire des Albigeois*.
 repere: 1933 — Otto Rahn y voit le château du Graal dans *Croisade contre le Graal*.
 repere: 2026 — Inscription au patrimoine mondial de l'UNESCO, avec les forteresses royales du Languedoc.
-voir: catharisme, guilhabert-de-castres, esclarmonde-de-foix, otto-rahn, graal, grotte-de-lombrives
+voir: catharisme, guilhabert-de-castres, esclarmonde-de-foix, otto-rahn, graal, grotte-de-lombrives, carcassonne
 
 @ rennes-le-chateau
 cat: lieux
@@ -32,8 +32,8 @@ lieu: Aude, Occitanie, France
 geo: 42.9272, 2.2636
 def: Village de l'Aude dont le curé, l'abbé Saunière, dépensa des sommes considérables vers 1900 ; une légende de trésor, puis une mystification, en ont fait le centre d'une énigme ésotérique connue dans le monde entier.
 texte: Perché au-dessus de la haute vallée de l'Aude, dans le Razès, le village compte à peine deux cents habitants quand l'abbé [[berenger-sauniere|Bérenger Saunière]] y est nommé en 1885. Le curé restaure son église, dédiée à Marie-Madeleine, et l'orne d'un décor saint-sulpicien foisonnant : un diable soutient le bénitier de l'entrée, sous l'inscription *Terribilis est locus iste*, « ce lieu est redoutable », tirée de la Genèse. Il fait bâtir la villa Béthanie, un jardin, un belvédère et la tour Magdala, qui abrite sa bibliothèque.
-texte: L'évêque de Carcassonne, inquiet de ces dépenses, découvre que le curé sollicite dans toute la France des honoraires pour des messes qu'il ne célèbre pas : Saunière est suspendu en 1910 et meurt en 1917. En 1956, Noël Corbu, qui a repris le domaine pour en faire un hôtel-restaurant, lance dans la presse régionale l'histoire d'un trésor caché, celui de Blanche de Castille. [[pierre-plantard|Pierre Plantard]] et Philippe de Chérisey fabriquent ensuite de faux parchemins et des « dossiers secrets » glissés dans les collections de la Bibliothèque nationale, que [[gerard-de-sede|Gérard de Sède]] met en récit dans *L'Or de Rennes* (1967).
-texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]], secret du peintre Poussin et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
+texte: L'évêque de [[carcassonne|Carcassonne]], inquiet de ces dépenses, découvre que le curé sollicite dans toute la France des honoraires pour des messes qu'il ne célèbre pas : Saunière est suspendu en 1910 et meurt en 1917. En 1956, Noël Corbu, qui a repris le domaine pour en faire un hôtel-restaurant, lance dans la presse régionale l'histoire d'un trésor caché, celui de Blanche de Castille. [[pierre-plantard|Pierre Plantard]] et Philippe de Chérisey fabriquent ensuite de faux parchemins et des « dossiers secrets » glissés dans les collections de la Bibliothèque nationale, que [[gerard-de-sede|Gérard de Sède]] met en récit dans *L'Or de Rennes* (1967).
+texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]], secret du peintre [[nicolas-poussin|Poussin]] et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
 repere: 1885 — Bérenger Saunière est nommé curé du village.
 repere: 1897 — L'église restaurée reçoit la visite de l'évêque de Carcassonne.
 repere: 1901 — Début de la construction de la villa Béthanie et de la tour Magdala.
@@ -44,7 +44,7 @@ repere: 1965 — La commune interdit les fouilles.
 repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
 repere: 1982 — *L'Énigme sacrée* lie le village à une descendance du Christ.
 repere: 2003 — Le *Da Vinci Code* reprend la légende du prieuré de Sion.
-voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion
+voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc
 
 @ rennes-les-bains
 cat: lieux
@@ -123,7 +123,7 @@ repere: 2019 — Incendie de la flèche et de la charpente.
 repere: 2024 — Réouverture après la restauration.
 extrait: Il est certain encore que l’archidiacre s’était épris d’une passion singulière pour le portail symbolique de Notre-Dame, cette page de grimoire écrite en pierre par l’évêque Guillaume de Paris, lequel a sans doute été damné pour avoir attaché un si infernal frontispice au saint poëme que chante éternellement le reste de l’édifice. (…) Mais, ce que tout le monde avait pu remarquer, c’étaient les interminables heures qu’il employait souvent, assis sur le parapet du parvis, à contempler les sculptures du portail, examinant tantôt les vierges folles avec leurs lampes renversées, tantôt les vierges sages avec leurs lampes droites ; d’autres fois calculant l’angle du regard de ce corbeau qui tient au portail de gauche et qui regarde dans l’église un point mystérieux où est certainement cachée la pierre philosophale, si elle n’est pas dans la cave de Nicolas Flamel.
 source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre IV, chap. V | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre quatrième
-voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques
+voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques, paris
 
 @ tour-saint-jacques
 cat: lieux
@@ -139,7 +139,7 @@ repere: 1523 — Achèvement de la tour.
 repere: 1797 — L'église est vendue et démolie ; la tour est conservée.
 extrait: Il n’est pas jusqu’aux hermétiques qui ne trouvent dans les symboles du grand portail un abrégé satisfaisant de leur science, dont l’église de Saint-Jacques-de-la-Boucherie était un hiéroglyphe si complet. Ainsi, l’abbaye romane, l’église philosophale, l’art gothique, l’art saxon, le lourd pilier rond qui rappelle Grégoire VII, le symbolisme hermétique par lequel Nicolas Flamel préludait à Luther, l’unité papale, le schisme, Saint-Germain-des-Prés, Saint-Jacques-de-la-Boucherie, tout est fondu, combiné, amalgamé dans Notre-Dame.
 source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre III, chap. I | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre troisième
-voir: nicolas-flamel, maison-de-nicolas-flamel, livre-des-figures-hieroglyphiques, saint-jacques-de-compostelle, notre-dame-de-paris
+voir: nicolas-flamel, maison-de-nicolas-flamel, livre-des-figures-hieroglyphiques, saint-jacques-de-compostelle, notre-dame-de-paris, paris
 
 @ maison-de-nicolas-flamel
 cat: lieux
@@ -152,7 +152,7 @@ texte: Sa façade porte encore, gravée, l'inscription par laquelle les occupant
 texte: Les historiens expliquent la richesse de Flamel par son métier de libraire et d'écrivain juré, et par des placements immobiliers. La légende alchimique, née deux siècles après sa mort, y voit au contraire le fruit de la [[transmutation]] : ses fondations auraient été payées avec l'or de la [[pierre-philosophale|pierre philosophale]]. La maison, devenue restaurant, est l'une des étapes favorites des promenades consacrées au « Paris des alchimistes ».
 repere: 1407 — Nicolas Flamel fait construire la maison.
 repere: 1418 — Mort de Nicolas Flamel.
-voir: nicolas-flamel, tour-saint-jacques, livre-des-figures-hieroglyphiques, pierre-philosophale
+voir: nicolas-flamel, tour-saint-jacques, livre-des-figures-hieroglyphiques, pierre-philosophale, paris
 
 @ cathedrale-de-chartres
 cat: lieux
@@ -244,4 +244,4 @@ texte: [[allan-kardec|Allan Kardec]], mort en 1869, repose sous un dolmen de gra
 texte: Le cimetière abrite aussi les tombes de [[papus]], de la cartomancienne [[mademoiselle-lenormand|Mademoiselle Lenormand]], de [[gerard-de-nerval|Gérard de Nerval]] et de nombreux francs-maçons dont les monuments portent l'[[compas-et-equerre|équerre et le compas]], des pyramides, des colonnes brisées ou un [[oeil-de-la-providence|œil dans un triangle]] : une promenade symbolique que guides et curieux pratiquent volontiers.
 repere: 1804 — Ouverture du cimetière.
 repere: 1870 — Le dolmen d'Allan Kardec est inauguré.
-voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation
+voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation, paris

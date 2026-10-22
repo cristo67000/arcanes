@@ -150,7 +150,7 @@ def: Théorie antique selon laquelle toute matière est composée de feu, d'air,
 texte: Le philosophe Empédocle, au Ve siècle avant notre ère, enseigne que tout naît du mélange de quatre « racines », unies par l'Amour et séparées par la Haine. Aristote les définit par des couples de qualités : le feu est chaud et sec, l'air chaud et humide, l'eau froide et humide, la terre froide et sèche. Comme ils partagent une qualité deux à deux, ils peuvent se changer les uns dans les autres : c'est le fondement théorique de l'[[alchimie]].
 texte: La médecine leur fait correspondre quatre humeurs — sang, bile jaune, bile noire, flegme — et quatre tempéraments : sanguin, colérique, mélancolique, flegmatique. L'[[astrologie]] répartit les douze signes en quatre triplicités élémentaires, et les occultistes attribuent les éléments aux quatre enseignes du [[tarot]]. Aristote y ajoute un cinquième élément, l'éther des cieux, d'où la [[quintessence]].
 schema: quatre-elements
-voir: quintessence, tria-prima, elementaux, triplicites, arcanes-mineurs, pentagramme
+voir: quintessence, tria-prima, elementaux, triplicites, arcanes-mineurs, pentagramme, quatre
 
 @ quintessence
 cat: alchimie
@@ -159,7 +159,7 @@ alias: cinquième essence, quinta essentia, éther, aether
 def: Cinquième élément, incorruptible, dont seraient faits les cieux selon Aristote ; les alchimistes ont cru l'extraire des choses terrestres par la distillation.
 texte: Aristote distingue des quatre éléments terrestres un cinquième, l'éther, matière des astres, qui ne connaît ni naissance ni corruption et se meut en cercle. Au XIVe siècle, le franciscain [[jean-de-roquetaillade|Jean de Roquetaillade]] enseigne qu'on peut obtenir sur terre un équivalent de ce « ciel » en distillant le vin à de nombreuses reprises : l'eau-de-vie ainsi obtenue, qui conserve les chairs, serait la quintessence, capable de préserver le corps de la corruption.
 texte: Le mot a ensuite désigné l'extrait le plus pur et le plus actif de toute substance, puis, dans la langue courante, ce qu'il y a de meilleur et d'essentiel en quelque chose.
-voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme
+voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme, cinq
 
 @ nigredo
 cat: alchimie
@@ -418,7 +418,7 @@ alias: souffleurs, puffer, alchimiste charlatan
 def: Nom méprisant donné aux faux alchimistes qui, sans connaître la théorie, s'épuisaient à souffler sur leurs fourneaux dans l'espoir de faire de l'or.
 texte: Le souffleur actionne son soufflet pour attiser le feu ; le mot désigne celui qui ne cherche que l'or, se ruine et ruine ses dupes. Les alchimistes « philosophes » distinguent soigneusement leur art de cette pratique vulgaire.
 texte: La littérature a beaucoup moqué les souffleurs, du *Conte du valet du chanoine* de Chaucer au XIVe siècle à *L'Alchimiste* de Ben Jonson (1610). Leurs escroqueries ont contribué au discrédit de l'alchimie.
-voir: chrysopee, alchimie, transmutation
+voir: chrysopee, alchimie, transmutation, parmesan, jerome-bosch
 
 @ neidan
 cat: alchimie

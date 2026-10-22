@@ -1,0 +1,169 @@
+# Astronomie : le ciel que regardaient les Anciens, ses constellations et ses
+# phénomènes, avec les mythes et les spéculations qu'ils ont fait naître.
+
+@ grande-ourse
+cat: astronomie
+nom: Grande Ourse
+alias: Ursa Major, Grand Chariot, Casserole, septentrion, sept bœufs, Boisseau du Nord, Sept Sages
+def: Constellation du ciel boréal dont sept étoiles brillantes dessinent un chariot ou une casserole ; toujours visible depuis nos latitudes, elle a été lue partout comme le cœur du ciel du Nord.
+texte: Pour les Grecs, elle est la nymphe Callisto, aimée de Zeus et changée en ourse par Héra, puis placée au ciel. Les Romains voyaient dans ses sept étoiles sept bœufs de labour, *septem triones*, qui ont donné le mot septentrion, le nord ; d'autres peuples y voyaient un chariot, une charrue ou une casserole. En Inde, ce sont les Sept Sages, les *rishis* ; en Chine, le Boisseau du Nord, siège des divinités qui règlent la vie et la mort dans le taoïsme. Les Égyptiens y voyaient une cuisse de taureau ou une herminette, et leurs étoiles « qui ne connaissent pas la destruction » étaient la demeure des rois morts.
+texte: Les deux étoiles du bord du chariot montrent l'[[etoile-polaire|étoile Polaire]], à cinq fois leur distance : c'est par elle que l'on trouve le nord. Pour [[rene-guenon|René Guénon]], la Grande Ourse, tournant autour du pôle, est l'un des symboles du centre spirituel primordial, la « terre polaire » d'où serait issue la [[tradition-primordiale|tradition]]. Le chiffre sept de ses étoiles l'a associée aux sept planètes et à toutes les symboliques du [[sept|septénaire]].
+extrait: Dès le début de nos recherches, j'avais relevé sur un atlas la position exacte des sept abbayes dont j'avais inscrit les sept noms sur cette carte. Les voilà, toutes les sept, aux sept emplacements qu'elles occupent les unes à l'égard des autres. Or il m'a suffi, tout à l'heure, dès que j'ai connu le mot, de réunir les sept points par des lignes pour aboutir à cette constatation inouïe, Josine, miraculeuse, colossale, et pourtant très naturelle, que la *figure ainsi formée représente exactement la Grande Ourse*. Saisis-tu bien l'étonnante réalité ? Les sept abbayes du pays de Caux, les sept abbayes primordiales où convergeaient les richesses de la France chrétienne, étaient disposées comme les sept étoiles principales de la Grande-Ourse !
+source: Maurice Leblanc, *La Comtesse de Cagliostro*, chap. XII, feuilleton du *Journal*, 1923-1924 | ws La Comtesse de Cagliostro/Chapitre XII
+voir: petite-ourse, etoile-polaire, constellation, sept, tradition-primordiale, maurice-leblanc
+
+@ petite-ourse
+cat: astronomie
+nom: Petite Ourse
+alias: Ursa Minor, Petit Chariot, Cynosure, Phénicienne
+def: Petite constellation proche du pôle Nord céleste, dont la dernière étoile de la queue est l'étoile Polaire, guide des navigateurs depuis l'Antiquité.
+texte: Selon les Grecs, Thalès apprit aux marins à se guider sur elle, à la manière des Phéniciens, d'où son nom ancien de « Phénicienne » ; les Grecs se guidaient plutôt sur la Grande Ourse, plus brillante mais plus éloignée du pôle. Son autre nom, *Cynosure*, « queue de chien », a donné à l'anglais un mot pour désigner ce qui attire tous les regards.
+texte: Ses sept étoiles reproduisent en petit le chariot de la [[grande-ourse|Grande Ourse]]. Parce qu'elle tourne à peine, accrochée au pôle, elle a figuré l'axe immobile du monde, autour duquel tout le ciel paraît pivoter.
+voir: grande-ourse, etoile-polaire, constellation
+
+@ etoile-polaire
+cat: astronomie
+nom: Étoile Polaire
+alias: Polaris, étoile du Nord, alpha de la Petite Ourse, Thuban, pôle céleste, clou du ciel
+def: Étoile qui marque à peu près le pôle Nord céleste, point immobile autour duquel le ciel semble tourner ; par la précession, ce rôle passe au cours des millénaires d'une étoile à l'autre.
+texte: Parce que l'axe de la Terre décrit lentement un cône en vingt-six mille ans environ, la [[precession|précession]], le pôle céleste se déplace parmi les étoiles. Au temps des bâtisseurs des pyramides, vers 2800 avant notre ère, l'étoile polaire était Thuban, dans la constellation du Dragon ; Polaris ne s'est approchée du pôle qu'au cours du dernier millénaire et en sera au plus près vers 2100 ; dans douze mille ans, ce sera Véga, dans la Lyre.
+texte: Point fixe au milieu du mouvement universel, l'étoile polaire est le « clou du ciel » de nombreux peuples d'Asie du Nord, l'axe où se rattache la tente céleste, que les chamanes escaladent en esprit. [[rene-guenon|René Guénon]] et d'autres auteurs traditionalistes en font le symbole du centre suprême, du pôle spirituel et de l'origine hyperboréenne de la [[tradition-primordiale|tradition]], rejoignant le symbolisme de l'[[arbre-cosmique|arbre cosmique]] et de l'[[omphalos]].
+voir: petite-ourse, grande-ourse, precession, arbre-cosmique, tradition-primordiale
+
+@ constellation
+cat: astronomie
+nom: Constellation
+alias: constellations, astérisme, quarante-huit constellations de Ptolémée, quatre-vingt-huit constellations
+def: Groupe d'étoiles que l'imagination humaine a réunies en une figure, et, depuis 1922, chacune des quatre-vingt-huit régions du ciel délimitées par l'Union astronomique internationale.
+texte: Les étoiles d'une constellation n'ont souvent rien à voir entre elles : elles sont à des distances très différentes et ne paraissent voisines que vues de la Terre. Leurs figures sont donc des créations culturelles. Celles de l'Occident viennent de Mésopotamie et de Grèce : le poète Aratos les chante au IIIe siècle avant notre ère, et Ptolémée en recense quarante-huit dans son *Almageste*, qui fixent pour quinze siècles le ciel savant. Les navigateurs de la Renaissance ajoutent celles du ciel austral.
+texte: Les douze constellations que traverse le Soleil forment le [[zodiaque]], qu'il ne faut pas confondre avec les signes de l'[[astrologie]], décalés par la [[precession|précession]]. Chaque peuple a lu le ciel à sa façon : les Chinois y voyaient un empire, avec son palais et ses fonctionnaires, les aborigènes d'Australie des êtres de leurs récits, jusque dans les taches sombres de la [[voie-lactee|Voie lactée]].
+repere: vers 270 av. J.-C. — Aratos décrit les constellations dans ses *Phénomènes*.
+repere: vers 150 — Ptolémée recense quarante-huit constellations.
+repere: 1922 — L'Union astronomique internationale adopte les quatre-vingt-huit constellations.
+voir: zodiaque, grande-ourse, orion, ecliptique, astrologie
+
+@ orion
+cat: astronomie
+nom: Orion
+alias: le Chasseur, baudrier d'Orion, Trois Rois, Sah, Bételgeuse, Rigel, corrélation d'Orion
+def: Grande constellation de l'hiver, figurant un chasseur, dont les trois étoiles alignées du baudrier ont été associées par les Égyptiens à Osiris et par des auteurs récents aux pyramides de Gizeh.
+texte: Le chasseur géant de la mythologie grecque, tué par un scorpion ou par les flèches d'Artémis, fut placé au ciel à l'opposé du Scorpion, de sorte que les deux ne se montrent jamais ensemble. Pour les Égyptiens, la constellation était Sah, la forme céleste d'Osiris : les *Textes des pyramides* disent que le roi défunt rejoint Sah dans le ciel du sud. En France, les trois étoiles du baudrier s'appelaient les Trois Rois, et l'on y voyait les Mages.
+texte: En 1994, Robert Bauval et Adrian Gilbert soutiennent dans *Le Mystère d'Orion* que les trois grandes pyramides de Gizeh reproduisent au sol la disposition des étoiles du baudrier, et qu'un des conduits de la grande pyramide visait Orion. Les égyptologues ont souligné l'imprécision de la correspondance et l'absence de tout texte égyptien qui la confirme ; l'idée reste populaire dans la littérature sur les [[pyramides]].
+repere: vers 2560 av. J.-C. — Achèvement présumé de la grande pyramide de Khéops.
+repere: 1994 — Robert Bauval et Adrian Gilbert publient *Le Mystère d'Orion*.
+voir: constellation, sirius, pyramides, gizeh, egyptosophie
+
+@ pleiades
+cat: astronomie
+nom: Pléiades
+alias: les Sept Sœurs, Poussinière, Subaru, Matariki, Pléiade
+def: Amas d'étoiles du Taureau, visibles à l'œil nu comme un petit nuage brillant, que presque tous les peuples ont observé pour régler leur calendrier et peuplé de légendes de sœurs.
+texte: Pour les Grecs, ce sont les sept filles d'Atlas et de Pléioné, changées en colombes puis en étoiles pour échapper à Orion. Hésiode, au VIIIe siècle avant notre ère, conseille de moissonner à leur lever et de labourer à leur coucher. Le disque céleste de Nebra, en bronze et en or, vers 1600 avant notre ère, les représente déjà. En France, on les appelait la Poussinière, une poule et ses poussins ; au Japon, Subaru, nom repris par une marque ; en Nouvelle-Zélande, leur lever, Matariki, ouvre l'année maorie.
+texte: Les sept poètes de la Renaissance réunis autour de Ronsard prirent le nom de Pléiade. Le [[new-age|New Age]] a fait des Pléiades la patrie d'êtres de lumière, les « Pléiadiens », qui communiqueraient avec des médiums. L'amas compte en réalité plus d'un millier d'étoiles jeunes, à environ quatre cent quarante années-lumière.
+voir: constellation, orion, sept, taureau
+
+@ sirius
+cat: astronomie
+nom: Sirius
+alias: Sothis, Canicule, étoile du Chien, Grand Chien, Sirius B, mystère des Dogons
+def: L'étoile la plus brillante du ciel nocturne, dans le Grand Chien, dont le lever annonçait en Égypte la crue du Nil, et autour de laquelle s'est nouée au XXe siècle la controverse du « mystère des Dogons ».
+texte: Les Égyptiens l'appelaient Sopdet, Sothis pour les Grecs, et l'identifiaient à Isis : son premier lever avant le soleil, en été, coïncidait avec le début de la crue et ouvrait l'année. Le décalage de ce lever sur le calendrier civil de 365 jours définit une « période sothiaque » de 1 461 ans. Les Romains appelaient Sirius *canicula*, la petite chienne : les jours caniculaires sont ceux où elle se lève avec le soleil.
+texte: En 1950, les ethnologues Marcel Griaule et Germaine Dieterlen rapportent que les prêtres dogons du Mali connaissent un compagnon invisible de Sirius, très lourd, qui tourne autour d'elle en cinquante ans — ce que les astronomes savent depuis 1862. L'Américain Robert Temple y voit en 1976 la preuve d'une visite d'extraterrestres venus de Sirius. Les ethnologues qui ont repris l'enquête n'ont pas retrouvé ces savoirs, et l'on pense qu'ils ont pu venir d'échanges avec des visiteurs européens ou de malentendus d'interprétation.
+repere: 1862 — Alvan Clark observe Sirius B, le compagnon de Sirius.
+repere: 1950 — Griaule et Dieterlen publient *Un système soudanais de Sirius*.
+repere: 1976 — Robert Temple, *Le Mystère de Sirius*.
+voir: orion, egyptosophie, constellation, astrologie
+
+@ voie-lactee
+cat: astronomie
+nom: Voie lactée
+alias: Galaxie, chemin de Saint-Jacques, porte des dieux, porte des hommes, fleuve céleste
+def: Bande laiteuse qui traverse le ciel nocturne, formée des innombrables étoiles de notre galaxie, que les Anciens prenaient pour le chemin des âmes.
+texte: Les Grecs racontaient qu'elle naquit du lait d'Héra, jailli quand elle repoussa le petit Héraclès ; *galaxias*, de *gala*, le lait, a donné notre mot galaxie. Pour Macrobe, qui commente le *Songe de Scipion*, la Voie lactée est la route des âmes : elles descendent s'incarner par la porte du Cancer, la « porte des hommes », et remontent après la mort par celle du Capricorne, la « porte des dieux » — une doctrine que le néoplatonicien Porphyre rattache aux [[mysteres-antiques|mystères]].
+texte: Au Moyen Âge, on l'appelait le chemin de Saint-Jacques, parce qu'elle semblait guider les pèlerins vers [[saint-jacques-de-compostelle|Compostelle]] ; les Chinois y voyaient un fleuve céleste séparant deux amants, la Tisserande et le Bouvier. Galilée montre en 1610, avec sa lunette, qu'elle est faite d'étoiles innombrables.
+repere: 1610 — Galilée résout la Voie lactée en étoiles.
+repere: 1750 — Thomas Wright imagine la Voie lactée comme un disque aplati d'étoiles.
+voir: constellation, saint-jacques-de-compostelle, mysteres-antiques, reincarnation
+
+@ etoiles-royales
+cat: astronomie
+nom: Étoiles royales
+alias: quatre étoiles royales, gardiens du ciel, Aldébaran, Régulus, Antarès, Fomalhaut
+def: Quatre étoiles brillantes, Aldébaran, Régulus, Antarès et Fomalhaut, qu'une tradition astrologique attribuée aux Perses tient pour les gardiennes des quatre points cardinaux du ciel.
+texte: Ces étoiles se trouvent à peu près à un quart de cercle les unes des autres le long du zodiaque : Aldébaran, l'œil du Taureau, Régulus, le cœur du Lion, Antarès, le cœur du Scorpion, et Fomalhaut, dans la bouche du Poisson austral. Il y a environ cinq mille ans, elles marquaient les équinoxes et les solstices, d'où l'idée qu'elles « gardaient » les quatre quartiers du ciel.
+texte: Des astrologues modernes les présentent comme les quatre « gardiens » de l'ancienne Perse, qui annonceraient gloire ou ruine selon leur position dans un thème ; les sources anciennes de cette tradition sont pourtant minces et tardives. On les a rapprochées des quatre vivants de l'Apocalypse, le [[tetramorphe]] : le taureau, le lion, l'aigle et l'homme.
+voir: etoiles-beheniennes, zodiaque, tetramorphe, astrologie, equinoxes-et-solstices
+
+@ etoiles-beheniennes
+cat: astronomie
+nom: Étoiles béhéniennes
+alias: quinze étoiles d'Hermès, étoiles fixes, béhéniennes, Algol, Spica
+def: Quinze étoiles fixes auxquelles la magie médiévale associait chacune une pierre, une plante et un sceau, pour fabriquer des talismans qui captaient leur influence.
+texte: Le nom vient de l'arabe *bahman*, « racine », car ces étoiles étaient les racines de la puissance des astres. Un traité attribué à [[hermes-trismegiste|Hermès]], traduit de l'arabe au Moyen Âge, en dresse la liste avec leurs correspondances : Algol, la tête de Méduse, et le diamant ; les [[pleiades|Pléiades]] et le cristal ; Aldébaran et l'escarboucle ; Sirius et le béryl ; Régulus ; Spica et l'émeraude ; Arcturus et le jaspe ; Antarès et la sardoine ; Véga et la chrysolithe, entre autres.
+texte: [[cornelius-agrippa|Agrippa]] reprend ces listes et ces sceaux dans sa *Philosophie occulte* : le mage grave le sceau de l'étoile sur sa pierre, à l'heure où l'astre est bien placé, en y joignant la plante, pour obtenir un [[talisman]]. Ces correspondances unissent l'[[astrologie]], les [[lapidaire|lapidaires]] et la [[magie-naturelle|magie naturelle]].
+voir: talisman, lapidaire, cornelius-agrippa, etoiles-royales, sceau, magie-naturelle
+
+@ ecliptique
+cat: astronomie
+nom: Écliptique
+alias: route du Soleil, plan de l'écliptique, bande zodiacale
+def: Cercle que le Soleil semble parcourir en un an sur le fond des étoiles ; on l'appelle ainsi parce que les éclipses ne peuvent se produire que lorsque la Lune le croise.
+texte: Vu de la Terre, le Soleil se déplace d'environ un degré par jour parmi les étoiles, que sa lumière cache, et fait le tour du ciel en un an. Ce cercle est incliné d'environ vingt-trois degrés et demi sur l'équateur céleste ; il le croise aux deux points des équinoxes. Les planètes et la Lune circulent dans une bande étroite de part et d'autre de l'écliptique : le [[zodiaque]].
+texte: Le passage du Soleil dans les douze secteurs de cette bande a fondé l'[[astrologie]] et les calendriers. Les astrologues appellent « nœuds lunaires » les points où l'orbite de la Lune croise l'écliptique, là où se produisent les [[eclipse|éclipses]].
+voir: zodiaque, eclipse, equinoxes-et-solstices, noeuds-lunaires, precession, ophiuchus
+
+@ equinoxes-et-solstices
+cat: astronomie
+nom: Équinoxes et solstices
+alias: équinoxe, solstice, saint Jean d'été, saint Jean d'hiver, Sol invictus, fêtes solaires
+def: Les quatre moments de l'année où le Soleil passe à l'équateur céleste ou s'en écarte le plus, qui marquent les saisons et ont fixé les grandes fêtes religieuses.
+texte: Aux équinoxes, vers le 20 mars et le 22 septembre, le jour égale la nuit ; aux solstices, vers le 21 juin et le 21 décembre, le Soleil atteint sa plus grande ou sa plus faible hauteur et paraît s'arrêter avant de repartir. Des monuments préhistoriques s'orientent sur ces moments : le soleil levant du solstice d'été dans l'axe de [[stonehenge|Stonehenge]], celui du solstice d'hiver dans la tombe de Newgrange, en Irlande.
+texte: Le christianisme a placé Noël près du solstice d'hiver, à la date de la fête romaine du Soleil invaincu, et la Saint-Jean près du solstice d'été, avec ses feux. Les francs-maçons fêtent les deux saints Jean, l'Évangéliste en hiver et le Baptiste en été, « portes » solsticiales de l'année que [[rene-guenon|Guénon]] rapproche des portes des dieux et des hommes de la [[voie-lactee|Voie lactée]]. Le point de l'équinoxe de printemps, que la [[precession|précession]] fait reculer dans le zodiaque, définit les « ères » astrologiques, comme l'[[ere-du-verseau|ère du Verseau]].
+voir: ecliptique, precession, ere-du-verseau, stonehenge, temps-maconnique
+
+@ eclipse
+cat: astronomie
+nom: Éclipse
+alias: éclipses, éclipse de soleil, éclipse de lune, saros, présage
+def: Disparition passagère du Soleil, caché par la Lune, ou de la Lune, plongée dans l'ombre de la Terre, longtemps redoutée comme un présage de malheur pour les rois et les peuples.
+texte: Les Babyloniens consignent les éclipses pendant des siècles dans des recueils de présages et découvrent leur retour au bout de dix-huit ans environ, le saros ; une éclipse annonçait la mort du roi, qu'on remplaçait parfois par un substitut pour le temps du danger. En Chine, un dragon dévorait le Soleil, et l'on frappait des tambours pour le faire fuir. Thalès aurait prédit l'éclipse qui interrompit en 585 avant notre ère une bataille entre Mèdes et Lydiens.
+texte: En 1504, Christophe Colomb, échoué à la Jamaïque, obtient des vivres des habitants en leur annonçant que la Lune va s'obscurcir, ce qu'elle fait. L'[[astrologie]] mondiale accorde encore aux éclipses une grande importance. Les éclipses ont aussi servi la science : celle de 1919 permit de vérifier la déviation de la lumière prévue par la relativité.
+repere: 585 av. J.-C. — Une éclipse, que Thalès aurait prédite, interrompt une bataille.
+repere: 1504 — Christophe Colomb impressionne les Jamaïcains en annonçant une éclipse de Lune.
+repere: 1919 — L'éclipse de Soleil confirme la relativité générale.
+voir: ecliptique, noeuds-lunaires, astrologie-mondiale, comete, dragon
+
+@ comete
+cat: astronomie
+nom: Comète
+alias: comètes, astre chevelu, comète de Halley, présage, Hale-Bopp
+def: Petit corps glacé qui, en s'approchant du Soleil, s'entoure d'une chevelure et d'une queue lumineuses, et dont l'apparition passait pour annoncer guerres, pestes et morts de princes.
+texte: Aristote les croit des exhalaisons de l'air, sous la Lune. La tapisserie de Bayeux montre la comète de 1066, qui annonçait la conquête de l'Angleterre, et Giotto peint en 1301 l'étoile des Mages sous les traits de la comète qu'il avait vue. En 1577, Tycho Brahe montre qu'une comète se trouve bien au-delà de la Lune, ce qui ruine la physique d'Aristote. En 1705, Edmond Halley annonce le retour, en 1758, de la comète qui porte depuis son nom.
+texte: Les comètes n'ont pas cessé d'effrayer : en 1910, quand la Terre traversa la queue de la comète de Halley, où l'on avait décelé du cyanogène, des escrocs vendirent des « pilules anti-comète ». En 1997, trente-neuf membres de la secte Heaven's Gate se suicidèrent en Californie, persuadés qu'un vaisseau accompagnant la comète Hale-Bopp viendrait chercher leurs âmes.
+repere: 1066 — La comète de Halley annonce, dit-on, la conquête normande.
+repere: 1577 — Tycho Brahe situe une comète au-delà de la Lune.
+repere: 1758 — Retour de la comète annoncé par Halley.
+repere: 1997 — Suicide collectif de Heaven's Gate au passage de Hale-Bopp.
+voir: eclipse, tycho-brahe, astrologie-mondiale, grandes-conjonctions
+
+@ astrolabe
+cat: astronomie
+nom: Astrolabe
+alias: astrolabes, astrolabe planisphérique, Traité de l'astrolabe
+def: Instrument de métal qui reproduit à plat la voûte céleste, permettant de mesurer la hauteur des astres, de lire l'heure et de dresser un thème astrologique ; il fut l'outil du savant et de l'astrologue pendant plus de mille ans.
+texte: Inventé dans le monde grec, décrit par Ptolémée et par le philosophe Synésios, élève d'Hypatie, l'astrolabe est perfectionné dans le monde islamique, où il sert aussi à trouver la direction de La Mecque et les heures de la prière. Il passe en Europe par l'Espagne au Xe siècle ; le poète anglais Chaucer écrit en 1391 un *Traité de l'astrolabe* pour son fils.
+texte: Une plaque gravée de la projection du ciel, une « araignée » ajourée portant les étoiles, une alidade pour viser : en tournant les pièces, on reproduit le mouvement du ciel à un moment donné. Instrument indispensable pour calculer les [[maisons]] d'un [[horoscope]], l'astrolabe figure dans les portraits d'astrologues et de mages, emblème d'un savoir qui unissait encore l'astronomie et l'astrologie.
+repere: VIe siècle — Jean Philopon écrit le plus ancien traité conservé sur l'astrolabe.
+repere: 1391 — Chaucer écrit un *Traité de l'astrolabe*.
+voir: astrologie, horoscope, maisons, cosmos-geocentrique, theme-astral
+
+@ ophiuchus
+cat: astronomie
+nom: Ophiuchus
+alias: Serpentaire, treizième signe, Asclépios, porteur de serpent
+def: Constellation du « porteur de serpent », traversée par le Soleil entre le Scorpion et le Sagittaire, que certains ont proposé d'ajouter au zodiaque comme un treizième signe.
+texte: Les Grecs y voyaient Asclépios, le dieu de la médecine, tenant un serpent, foudroyé par Zeus pour avoir ressuscité les morts. Le Soleil traverse cette constellation de la fin novembre à la mi-décembre, car les limites des constellations astronomiques ne coïncident pas avec les douze secteurs égaux des signes.
+texte: L'idée d'un treizième signe resurgit périodiquement, en 1995 avec un livre de Walter Berg, en 2016 après une page pédagogique de la NASA largement déformée par la presse. Les astrologues répondent que leur zodiaque est une division de l'[[ecliptique]] en douze parts égales, liée aux saisons, et non aux constellations : le débat illustre la séparation, depuis l'Antiquité, entre le ciel des astronomes et celui de l'[[astrologie]].
+repere: 1995 — Walter Berg propose un zodiaque à treize signes.
+repere: 2016 — Une page de la NASA relance la querelle du treizième signe.
+voir: zodiaque, ecliptique, constellation, scorpion, sagittaire, caducee

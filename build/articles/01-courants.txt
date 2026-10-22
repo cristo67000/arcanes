@@ -224,7 +224,7 @@ an: 1848
 dates: depuis 1848
 def: Mouvement religieux né aux États-Unis en 1848, fondé sur la croyance que les morts communiquent avec les vivants par l'intermédiaire de médiums.
 texte: En mars 1848, à Hydesville, dans l'État de New York, deux jeunes sœurs, [[soeurs-fox|Kate et Margaret Fox]], affirment correspondre par des coups frappés avec l'esprit d'un colporteur assassiné. L'affaire déclenche une vague de séances dans toute l'Amérique puis en Europe : coups, [[tables-tournantes|tables qui tournent]], [[ecriture-automatique|écriture automatique]], apparitions d'[[ectoplasme|ectoplasmes]]. En 1888, Margaret Fox reconnaît publiquement la fraude, avant de se rétracter l'année suivante.
-texte: Le spiritualisme se dote d'églises, de journaux et de médiums professionnels, et attire des savants qui veulent étudier ses phénomènes, d'où la [[society-for-psychical-research|Society for Psychical Research]], fondée à Londres en 1882. Il nourrit la [[theosophie]] : [[helena-blavatsky]] et [[henry-steel-olcott]] se rencontrent en 1874 dans une ferme du Vermont réputée hantée.
+texte: Le spiritualisme se dote d'églises, de journaux et de médiums professionnels, et attire des savants qui veulent étudier ses phénomènes, d'où la [[society-for-psychical-research|Society for Psychical Research]], fondée à [[londres|Londres]] en 1882. Il nourrit la [[theosophie]] : [[helena-blavatsky]] et [[henry-steel-olcott]] se rencontrent en 1874 dans une ferme du Vermont réputée hantée.
 attention: En philosophie, le « spiritualisme » est simplement la doctrine qui affirme l'existence de l'esprit comme réalité distincte de la matière ; c'est un tout autre sens.
 voir: spiritisme, medium, tables-tournantes, metapsychique, theosophie
 
@@ -306,7 +306,7 @@ alias: parapsychologie, recherche psychique, psychical research, psi, télépath
 an: 1882
 dates: depuis 1882
 def: Étude des phénomènes attribués aux médiums et aux facultés supposées de l'esprit — télépathie, clairvoyance, action à distance —, menée avec les méthodes de la science.
-texte: La [[society-for-psychical-research|Society for Psychical Research]] est fondée à Londres en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste [[charles-richet|Charles Richet]], prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
+texte: La [[society-for-psychical-research|Society for Psychical Research]] est fondée à [[londres|Londres]] en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste [[charles-richet|Charles Richet]], prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
 texte: Plus d'un siècle de recherches n'a pas produit de résultat que la communauté scientifique tienne pour établi : les effets annoncés disparaissent quand on renforce les contrôles ou qu'on répète les expériences. La métapsychique a en revanche démasqué bien des fraudes de médiums.
 voir: spiritualisme, medium, ectoplasme, voyance, tables-tournantes, telepathie, poltergeist
 
@@ -339,7 +339,7 @@ alias: wiccan, wiccans, sorcellerie moderne, witchcraft
 an: 1954
 dates: depuis 1954
 def: Religion néo-païenne fondée en Angleterre par Gerald Gardner, qui célèbre une Déesse et un Dieu, les cycles de la nature, et pratique une magie rituelle en petits groupes appelés covens.
-texte: [[gerald-gardner]] affirme en 1954, dans *Witchcraft Today*, avoir été initié dans un groupe de sorcières héritières d'une religion païenne survivante, thèse que l'historienne [[margaret-murray|Margaret Murray]] avait popularisée et que les historiens ont depuis réfutée. La wicca qu'il fait connaître emprunte en réalité à la [[franc-maconnerie]], à la [[golden-dawn|Golden Dawn]], à [[aleister-crowley]], à l'*[[aradia|Aradia]]* de Charles Godfrey Leland et au folklore anglais.
+texte: [[gerald-gardner]] affirme en 1954, dans *Witchcraft Today*, avoir été initié dans un groupe de [[sorciere|sorcières]] héritières d'une religion païenne survivante, thèse que l'historienne [[margaret-murray|Margaret Murray]] avait popularisée et que les historiens ont depuis réfutée. La wicca qu'il fait connaître emprunte en réalité à la [[franc-maconnerie]], à la [[golden-dawn|Golden Dawn]], à [[aleister-crowley]], à l'*[[aradia|Aradia]]* de Charles Godfrey Leland et au folklore anglais.
 texte: Les wiccans honorent la Déesse, liée à la Lune, et le Dieu cornu, lié au Soleil et à la végétation ; ils se réunissent aux pleines lunes et aux huit grandes fêtes de l'année, tracent un [[cercle-magique]] et suivent une règle, le *Wiccan Rede* : « Si cela ne nuit à personne, fais ce que tu veux. » Très répandue dans le monde anglophone, la wicca a donné naissance à de nombreuses branches, dont certaines, féministes, ne célèbrent que la Déesse.
 voir: gerald-gardner, sorcellerie, neopaganisme, cercle-magique, sabbat
 
@@ -394,7 +394,7 @@ dates: XIIe – XIVe siècles
 def: Mouvement chrétien dissident du Moyen Âge, implanté surtout en Languedoc et en Italie, qui opposait le Dieu bon, créateur des âmes, au mauvais principe, auteur du monde visible.
 texte: Les « bons hommes » et « bonnes femmes », comme ils se nommaient eux-mêmes, rejettent les sacrements de l'Église romaine et ne connaissent qu'un rite, le [[consolamentum|consolament]], imposition des mains qui fait du croyant un « [[parfaits|parfait]] » astreint à une vie d'ascèse. L'Église lance contre eux la croisade des Albigeois (1209-1229), puis l'Inquisition ; [[montsegur|Montségur]] tombe en 1244, et le dernier parfait connu est brûlé en 1321.
 texte: Au XIXe siècle, l'historien [[napoleon-peyrat|Napoléon Peyrat]] puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand [[otto-rahn|Otto Rahn]] cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ».
-voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur
+voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur, carcassonne
 
 @ ariosophie
 cat: courants
@@ -414,7 +414,7 @@ alias: sataniste, satanistes, église de Satan, eglise de satan, luciférisme, l
 an: 1966
 dates: XIXe siècle ; organisé depuis 1966
 def: Ensemble de représentations et de mouvements qui font de Satan une figure positive, qu'elle soit symbole de révolte et de liberté ou objet de culte.
-texte: Pendant des siècles, le « satanisme » est surtout une accusation : les inquisiteurs l'attribuent aux sorcières, les polémistes à leurs adversaires. Au XIXe siècle, les romantiques font de Satan un héros prométhéen ; [[joris-karl-huysmans|Huysmans]] décrit des messes noires dans *Là-bas* (1891) ; le journaliste Léo Taxil invente de toutes pièces un culte satanique franc-maçon, avant d'avouer la mystification en 1897.
+texte: Pendant des siècles, le « satanisme » est surtout une accusation : les inquisiteurs l'attribuent aux [[sorciere|sorcières]], les polémistes à leurs adversaires. Au XIXe siècle, les romantiques font de Satan un héros prométhéen ; [[joris-karl-huysmans|Huysmans]] décrit des messes noires dans *Là-bas* (1891) ; le journaliste Léo Taxil invente de toutes pièces un culte satanique franc-maçon, avant d'avouer la mystification en 1897.
 texte: Le satanisme organisé naît en 1966, quand [[anton-lavey|Anton LaVey]] fonde à San Francisco l'Église de Satan. Pour lui, Satan n'est pas un être réel mais le symbole de l'affirmation de soi contre la morale chrétienne. D'autres groupes, plus rares, rendent un culte à Satan comme entité. Les grandes « paniques sataniques » des années 1980, qui dénonçaient des réseaux criminels de sectes, n'ont jamais été étayées par les enquêtes.
 voir: messe-noire, baphomet, demonologie, sorcellerie
 
