@@ -17,6 +17,7 @@
 #   pour: arcane-bateleur         les articles où elle paraît, en tête de fiche
 #   largeur: 440                  (facultatif) largeur en pixels, 400 par défaut
 #   recadrer: 0.02 0 0.98 1       (facultatif) gauche haut droite bas, en fractions
+#   page: 7                       (facultatif) la page d'un livre numérisé (PDF, DjVu)
 #
 # « % un titre » ouvre un lot : les champs écrits juste après valent pour toutes
 # les images suivantes, jusqu'au prochain « % ».
@@ -948,7 +949,7 @@ largeur: 400
 commons: Splendor Solis 16 venus peacocks tail.jpg
 legende: La queue de paon dans le vase, planche du *Splendor solis*
 credit: manuscrit du XVIe siècle
-pour: cauda-pavonis
+pour: cauda-pavonis, oeuf-philosophique
 largeur: 400
 
 = atalanta-emblem-21
@@ -983,7 +984,7 @@ largeur: 400
 commons: UBN11497 Gikatilla Portaelucis e tp ill Ten-Sephiroth c 124mb-kopie.jpg
 legende: L’homme tenant l’arbre des séphiroth, page de titre des *Portae lucis*
 credit: traduction latine de Gikatilla par Paul Ricius, Augsbourg, 1516
-pour: kabbale-chretienne, sephiroth
+pour: kabbale-chretienne, sephiroth, kabbale
 largeur: 440
 
 = kircher-arbre
@@ -1137,7 +1138,7 @@ largeur: 400
 commons: De re metallica - dowsing (125711292).jpg
 legende: Prospecteurs maniant la baguette, dans le *De re metallica* de Georg Agricola
 credit: Georg Agricola, 1556
-pour: radiesthesie
+pour: radiesthesie, geobiologie
 largeur: 520
 
 = figuier-baquet
@@ -2565,3 +2566,2452 @@ legende: Le grand tympan de Vézelay : le Christ envoie ses apôtres aux peuples
 credit: photographie de Vassil, 2008
 pour: vezelay
 largeur: 560
+
+# ── Version 1.5 ────────────────────────────────────────────────────────────
+
+% Mutus liber, La Rochelle, 1677
+commons: Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf
+credit: *Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection
+recadrer: 0.03 0.08 0.98 0.9
+largeur: 620
+
+= mutus-01
+page: 7
+legende: Planche 1 : le dormeur au pied de l’échelle, que les anges réveillent de leurs trompettes
+
+= mutus-02
+page: 9
+legende: Planche 2 : sous le soleil, deux anges tiennent une fiole ; l’homme et la femme prient de part et d’autre de l’athanor
+
+= mutus-03
+page: 11
+legende: Planche 3 : le monde en cercles, entre le Soleil et la Lune ; au sommet, Jupiter sur son aigle
+
+= mutus-04
+page: 13
+legende: Planche 4 : la récolte de la rosée, avec des draps tendus dans le pré entre le bélier et le taureau, puis tordus au-dessus d’une bassine
+
+= mutus-rosee
+page: 13
+legende: Planche 4 du *Mutus liber* : la récolte de la rosée, avec des draps tendus dans le pré entre le bélier et le taureau, puis tordus au-dessus d’une bassine
+pour: mutus-liber, rosee
+
+= mutus-05
+page: 15
+legende: Planche 5 : au laboratoire, l’homme et la femme versent, distillent et cuisent
+
+= mutus-06
+page: 17
+legende: Planche 6 : distillations à l’alambic
+
+= mutus-07
+page: 19
+legende: Planche 7 : les opérations se poursuivent ; en bas, des figures allégoriques dans le feu et dans le bain
+
+= mutus-08
+page: 21
+legende: Planche 8 : les deux anges et la fiole où se dresse un enfant ; le couple prie devant l’athanor
+
+= mutus-09
+page: 23
+legende: Planche 9 : nouvelle récolte de la rosée, entre le bélier et le taureau
+
+= mutus-10
+page: 25
+legende: Planche 10 : le travail à la table et à l’athanor ; en bas, deux figures couronnées de rayons se donnent la main
+
+= mutus-11
+page: 27
+legende: Planche 11 : de nouveau les deux anges, la fiole et l’athanor, sous le soleil
+
+= mutus-12
+page: 29
+legende: Planche 12 : la rosée, une troisième fois
+
+= mutus-13
+page: 31
+legende: Planche 13 : le travail recommence ; en bas, des nombres qui se multiplient par dix
+
+= mutus-14
+page: 33
+legende: Planche 14 : trois athanors, la balance et le mortier ; au bas, la devise *Ora, lege, lege, lege, relege, labora et invenies*
+
+= mutus-15
+page: 35
+legende: Planche 15 : deux anges enlèvent au ciel un personnage couronné ; l’homme et la femme, à genoux, tiennent le ruban *Oculatus abis*
+
++ mutus-liber
+titre: Les quinze planches de l’édition originale, gravées pour Pierre Savouret à La Rochelle en 1677. Touchez une planche pour l’agrandir.
+images: mutus-01, mutus-02, mutus-03, mutus-04, mutus-05, mutus-06, mutus-07, mutus-08, mutus-09, mutus-10, mutus-11, mutus-12, mutus-13, mutus-14, mutus-15
+
+% Égyptologie : dieux, objets, papyrus
+
+= isis-ankhhor
+commons: Statuette of Isis nursing Horus, dedicated by Ankhhor MET 45.2.10 EGDP013278.jpg
+legende: Isis allaitant l’enfant Horus
+credit: statuette dédiée par Ânkhhor, vers 664-332 av. J.-C. — Metropolitan Museum of Art
+pour: isis
+
+= isis-herculanum
+commons: Isiac water ceremony.jpg
+legende: Prêtres d’Isis vêtus de lin blanc célébrant le rite de l’eau devant le temple de la déesse, fresque d’Herculanum
+credit: peinture murale romaine, Ier siècle — musée archéologique de Naples
+pour: culte-d-isis
+largeur: 480
+
+= osiris-bronze
+commons: Bronze statuette of Osiris MET DP20095.jpg
+legende: Osiris, coiffé de la couronne atef, tenant le crochet et le fléau
+credit: bronze, Basse Époque, 664-31 av. J.-C. — Metropolitan Museum of Art
+pour: osiris
+
+= horus-turin
+commons: Statuette of the god Horus, bronze - Museo Egizio (Turin) C 486 p05.jpg
+legende: Horus à tête de faucon, le bras tendu
+credit: bronze, 722-332 av. J.-C. — Museo Egizio, Turin
+pour: horus
+recadrer: 0.1 0 1 1
+
+= thot-faience
+commons: Striding Thoth MET DP240843.jpg
+legende: Thot à tête d’ibis, en marche
+credit: époque ptolémaïque, 332-30 av. J.-C. — Metropolitan Museum of Art
+pour: thot
+
+= anubis-statuette
+commons: Statuette of Anubis MET 38.5 EGDP022863.jpg
+legende: Anubis à tête de chacal, bois peint
+credit: époque ptolémaïque, 332-30 av. J.-C. — Metropolitan Museum of Art
+pour: anubis
+
+= seth-turin
+commons: Statue depicting the god Seth, softwood - Museo Egizio, Turin S 1249 p01.jpg
+legende: Seth, avec la tête de l’animal qui lui est propre
+credit: bois, Nouvel Empire, 1539-1077 av. J.-C. — Museo Egizio, Turin
+pour: seth
+
+= maat-turin
+commons: Maat statuette, bronze - Museo Egizio, Turin S 18067 p01.jpg
+legende: Maât assise, la tête autrefois surmontée de sa plume
+credit: bronze, 712-332 av. J.-C. — Museo Egizio, Turin
+pour: maat
+
+= hathor-sistre
+commons: Bat - Hathor emblem from a sistrum MET DP311613.jpg
+legende: Le visage d’Hathor aux oreilles de vache, ornement d’un sistre
+credit: Basse Époque, 664-332 av. J.-C. — Metropolitan Museum of Art
+pour: hathor
+
+= amon-or
+commons: Statuette of Amun MET DT553.jpg
+legende: Amon coiffé de ses deux hautes plumes, statuette d’or
+credit: Troisième Période intermédiaire, vers 945-712 av. J.-C. — Metropolitan Museum of Art
+pour: amon
+
+= ptah-statuette
+commons: Ptah MET 04.2.406 001.jpg
+legende: Ptah de Memphis, serré dans son linceul, tenant le sceptre
+credit: Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art
+pour: ptah
+
+= serapis-argent
+commons: Silver bust of Serapis MET DT6658.jpg
+legende: Sérapis barbu, le dieu gréco-égyptien des Ptolémées
+credit: argent, IIe siècle — Metropolitan Museum of Art
+pour: serapis
+
+= ra-horakhty
+commons: Stela dedicated by Smen to Re-Horakhty, limestone - Museo Egizio, Turin C 1648 p01.jpg
+legende: Rê-Horakhty à tête de faucon, coiffé du disque solaire, sur une stèle votive
+credit: calcaire, Nouvel Empire, 1539-1191 av. J.-C. — Museo Egizio, Turin
+pour: ra
+
+= apophis-chat
+commons: Papyrus of Hunefer, detail.jpg
+legende: Le grand chat de Rê tranche le serpent Apophis au pied de l’arbre sacré
+credit: papyrus de Hounefer, vers 1275 av. J.-C. — British Museum
+pour: apophis
+
+= enneade-nout
+commons: Geb, Nut, Shu.jpg
+legende: Shou soulève Nout, le ciel étoilé, au-dessus de Geb, la terre couchée
+credit: papyrus Greenfield, vers 950 av. J.-C. — British Museum
+pour: enneade
+largeur: 520
+
+= hounefer-pesee
+commons: Book of the Dead of Hunefer sheet 3.jpg
+legende: Hounefer conduit par Anubis jusqu’à la balance, puis présenté par Horus à Osiris
+credit: papyrus de Hounefer, vers 1275 av. J.-C. — British Museum
+pour: livre-des-morts
+largeur: 640
+
+= ani-pesee
+commons: BD Weighing of the Heart.jpg
+legende: La pesée du cœur d’Ani contre la plume de Maât, sous le regard de Thot et de la dévoreuse Ammit
+credit: papyrus d’Ani, vers 1250 av. J.-C. — British Museum
+pour: pesee-du-coeur
+largeur: 640
+
+= beaune-pesee
+commons: Hôtel Dieu Altarbild.jpg
+legende: La même scène en Bourgogne : saint Michel pèse les âmes au Jugement dernier
+credit: Rogier van der Weyden, vers 1446-1452 — Hospices de Beaune
+pour: pesee-du-coeur, saint-michel
+
+= ounas-textes
+commons: Unas Pyramidentexte.jpg
+legende: Les Textes des pyramides gravés dans la chambre funéraire du roi Ounas, à Saqqarah
+credit: photographie publiée vers 1900 — Brooklyn Museum
+pour: textes-des-pyramides, saqqarah
+largeur: 560
+
+= khaemouaset
+commons: Egyptian Quartzite Conglomerate Statue of Khaemwaset, from Asyut, 19th Dynasty, c. 1260 BC (36140293060).jpg
+legende: Khâemouaset, fils de Ramsès II, le prince savant dont le conte a fait Satni
+credit: quartzite, XIXe dynastie, vers 1260 av. J.-C. — British Museum ; photographie de Gary Todd
+pour: livre-de-thot
+
+= oudjat
+commons: Wedjat Eye Amulet MET DP109382.jpg
+legende: Amulette en forme d’œil oudjat
+credit: Basse Époque, 664-380 av. J.-C. — Metropolitan Museum of Art
+pour: oeil-d-horus
+
+= ba-oiseau
+commons: Ba-Bird MET 66.99.143.jpg
+legende: Le ba, oiseau à tête humaine, vu de face et de dos
+credit: vers 712-343 av. J.-C. — Metropolitan Museum of Art
+pour: ka-et-ba
+
+= momie-de-grain
+commons: Coffin and Corn Mummy with Osiris mask MET 58.106.1a d EGDP019586.jpg
+legende: Une « momie de grain » à masque d’Osiris dans son petit cercueil : on la façonnait pour les fêtes du dieu
+credit: Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art
+pour: momie, osiris
+
+= maspero-ramses
+commons: Gaston Maspero demaillotage.jpeg
+legende: Gaston Maspero démaillote une momie royale devant ses invités, en 1886
+credit: gravure de presse, 1886
+pour: momie, gaston-maspero
+largeur: 560
+
+= djed-amulette
+commons: Djed pillar Amulet MET DP109385.jpg
+legende: Amulette en forme de pilier djed, l’épine dorsale d’Osiris
+credit: Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art
+pour: djed
+
+= obelisque-concorde
+commons: Concorde obelisque tour Eiffel.jpg
+legende: L’obélisque de Louxor, dressé place de la Concorde en 1836
+credit: photographie de Jebulon, 2011
+pour: obelisque
+
+= louxor-beato
+commons: Pylons and obelisk, Thebes (Luxor), Egypt) - A. Beato LCCN2003690011.jpg
+legende: Le pylône du temple de Louxor et l’obélisque resté sur place ; son jumeau est à Paris
+credit: photographie d’Antonio Beato, vers 1870 — Bibliothèque du Congrès
+pour: louxor, obelisque
+
+= table-isiaque-kircher
+commons: Bembine Table of Isis.png
+legende: La table isiaque telle qu’Athanase Kircher la publia pour en déchiffrer les figures
+credit: gravure de l’*Œdipus Ægyptiacus*, 1652-1654
+pour: table-isiaque
+largeur: 640
+
+= table-isiaque-turin
+commons: Mensa Isiaca, bronze - Museo Egizio, Turin C 7155 p01.jpg
+legende: L’original : un bronze incrusté d’argent, fabriqué à Rome dans le goût égyptien
+credit: Ier siècle — Museo Egizio, Turin
+pour: table-isiaque
+largeur: 600
+
+= bonaparte-sphinx
+commons: Bonaparte en Egypte.jpg
+legende: Bonaparte et son état-major traversant le désert, vus par Gérôme
+credit: Jean-Léon Gérôme, 1863
+pour: expedition-d-egypte
+
+= gillray-institut
+commons: "L'Insurrection de l'Institut Amphibie"-The Pursuit of Knowledge. (BM 1868,0808.6826).jpg
+legende: Gillray se moque des savants de l’expédition, chevauchés par les crocodiles du Nil
+credit: James Gillray, 1799 — British Museum
+pour: expedition-d-egypte
+largeur: 560
+
+= carter-tombeau
+commons: The Moment Carter Opens the Shrine.jpg
+legende: Howard Carter ouvre les portes des chapelles dorées qui entourent le sarcophage de Toutânkhamon
+credit: photographie de Harry Burton, janvier 1924
+pour: malediction-du-pharaon
+
+= rowlandson-egyptomanie
+commons: Rowlandson-modern-antiques-Egyptomania-1806.jpg
+legende: *Modern Antiques* : la caricature de Rowlandson sur la manie égyptienne
+credit: Thomas Rowlandson, 1806
+pour: egyptomanie
+
+= fontaine-fellah
+commons: Fontaine du Fellah (premier Empire) rue de Sèvres, 6ème arrondissement, Paris, PH13658.jpg
+legende: La fontaine du Fellah, rue de Sèvres, élevée à Paris au retour d’Égypte
+credit: photographie d’Eugène Atget — Paris Musées
+pour: egyptomanie
+
+= lepsius-kheops
+commons: Lepsius-Expedition-Cheops-Pyramide (full).jpg
+legende: L’expédition prussienne de Lepsius plante son drapeau au sommet de la pyramide de Khéops, pour l’anniversaire du roi
+credit: Johann Jakob Frey, 1842
+pour: egyptologie
+largeur: 600
+
+= rosette-1874
+commons: Rosetta Stone International Congress of Orientalists ILN 1874.jpg
+legende: Les membres du congrès des orientalistes examinent la pierre de Rosette au British Museum
+credit: *The Illustrated London News*, 1874
+pour: pierre-de-rosette
+largeur: 560
+
+= ankh-amulette
+commons: Amulet with ankhs MET 22.1.281.jpg
+legende: Amulette ornée de signes ânkh
+credit: Moyen Empire, vers 1981 av. J.-C. — Metropolitan Museum of Art
+pour: croix-ansee
+
+= pyramides-frith
+commons: De pyramiden van Gizeh The Pyramids of El Geezeh (titel op object), RP-F-F80272.jpg
+legende: Les pyramides de Gizeh vues du désert
+credit: photographie de Francis Frith, 1856-1860 — Rijksmuseum
+pour: pyramides
+largeur: 560
+
+= gizeh-bonfils
+commons: Giza, Pyramids, Pictures, F. Bonfils, photo 6 of 27 - Archivio fotografico Museo Egizio, Turin INV01 008.jpg
+legende: Le plateau de Gizeh au XIXe siècle
+credit: photographie de Félix Bonfils — Museo Egizio, Turin
+pour: gizeh
+largeur: 560
+
+= sphinx-roberts
+commons: The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA.jpg
+legende: Le grand Sphinx, ensablé jusqu’aux épaules, devant les pyramides
+credit: David Roberts, 1839
+pour: sphinx
+largeur: 600
+
+= amarna-lepsius
+commons: PanehsyTomb-Akhenaten-Nefertiti-Atef.png
+legende: Akhenaton et Néfertiti sous les rayons d’Aton terminés par des mains, relevé d’une tombe d’Amarna
+credit: relevé de l’expédition de Lepsius, 1848
+pour: akhenaton, amarna
+
+= imhotep-bronze
+commons: Statuette of Imhotep MET 10.175.132 001.jpg
+legende: Imhotep divinisé, assis, un rouleau de papyrus sur les genoux
+credit: bronze, Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art
+pour: imhotep
+
+= horapollon-oeil
+commons: Quo modo Deum (Ori Apollinis).png
+legende: « Comment ils figurent Dieu » : un œil, selon les *Hieroglyphica* d’Horapollon
+credit: édition des *Hieroglyphica*, XVIe siècle
+pour: horapollon
+
+= ibis-met
+commons: Ibis MET DP244257.jpg
+legende: Ibis, l’oiseau de Thot
+credit: Basse Époque, 600-30 av. J.-C. — Metropolitan Museum of Art
+pour: ibis, thot
+largeur: 480
+
+= faucon-walters
+commons: Egyptian - Falcon Sacred to Horus - Walters 22409.jpg
+legende: Faucon consacré à Horus
+credit: IVe siècle av. J.-C. — Walters Art Museum
+pour: faucon, horus
+
+= scarabee-pectoral
+commons: Egyptian - Pectoral with Scarab - Walters 4291 (2).jpg
+legende: Pectoral orné d’un scarabée, l’image de Khépri, le soleil qui renaît
+credit: Nouvel Empire, 1292-1070 av. J.-C. — Walters Art Museum
+pour: scarabee
+
+= bastet
+commons: Bastet-MAHG D 139-IMG 0943-gradient.jpg
+legende: Bastet à tête de chatte
+credit: bronze — musée d’Art et d’Histoire de Genève
+pour: chat
+
+= apis-cercueil
+commons: Apis bull on coffin.jpg
+legende: Le taureau Apis portant le disque solaire, peint sur un cercueil
+credit: XXIe dynastie, vers 1000 av. J.-C.
+pour: taureau-symbole
+
+= cornaline-anubis
+commons: Carnelian intaglio- Standing Anubis MET DP280597.jpg
+legende: Anubis gravé sur une intaille de cornaline
+credit: IIe-IIIe siècle — Metropolitan Museum of Art
+pour: cornaline, anubis
+
+= maconnerie-egyptienne-bijou
+commons: VM 04422 – Jewel of the Memphis-Misraïm Rite – 19th century.jpg
+legende: Bijou du rite de Memphis-Misraïm
+credit: vers 1880
+pour: maconnerie-egyptienne, rite-de-memphis-misraim
+
+% Égypte : les lieux
+largeur: 560
+
+= abydos-seti
+commons: Abydos, Temple of Seti I, 19th century pictures, photo 5 of 19 - Archivio fotografico Museo Egizio, Turin Album2 105.jpg
+legende: La salle hypostyle du temple de Séthi Ier à Abydos
+credit: photographie d’Hippolyte Béchard, vers 1880 — Museo Egizio, Turin
+pour: abydos
+
+= karnak-braun
+commons: Haute-Egypt, Salle Hypostyle à Karnak MET DT10693.jpg
+legende: Les colonnes papyriformes de la salle hypostyle de Karnak
+credit: photographie d’Adolphe Braun, vers 1870 — Metropolitan Museum of Art
+pour: karnak
+largeur: 400
+
+= vallee-des-rois-bonfils
+commons: Theban region, Valley of the Kings, 19th century pictures, F. Bonfils, photo 1 of 8 - Archivio fotografico Museo Egizio, Turin INV05 003.jpg
+legende: La vallée des Rois avant les grandes fouilles
+credit: photographie de Félix Bonfils — Museo Egizio, Turin
+pour: vallee-des-rois
+
+= edfou-lewis
+commons: John Frederick Lewis - The Temple of Edfu- The Door of the Pylon - 2015.73 - Cleveland Museum of Art.tif
+legende: La porte du pylône du temple d’Horus à Edfou
+credit: John Frederick Lewis, XIXe siècle — Cleveland Museum of Art
+pour: edfou
+
+= philae-roberts
+commons: David Roberts Temple Island Philae.jpg
+legende: L’île de Philæ et le sanctuaire d’Isis, avant que les barrages ne l’engloutissent
+credit: David Roberts, 1838
+pour: philae
+
+= saqqarah-djoser
+commons: Saqqara, Pyramid of Djoser and nearby tombs, Pictures, F. Bonfils, photo 3 of 8 - Archivio fotografico Museo Egizio, Turin INV01 002.jpg
+legende: La pyramide à degrés de Djoser, œuvre d’Imhotep
+credit: photographie de Félix Bonfils — Museo Egizio, Turin
+pour: saqqarah, imhotep
+
+= pompei-isis
+commons: Temple of Isis by Luigi Bazzani.jpg
+legende: Le temple d’Isis de Pompéi, tel que les fouilles l’avaient rendu
+credit: Luigi Bazzani, avant 1927
+pour: pompei, culte-d-isis
+largeur: 400
+
+% Figures ajoutées en 1.5
+largeur: 360
+
+= jeanne-miniature
+commons: Joan of Arc miniature graded.jpg
+legende: Jeanne d’Arc en armure, l’épée et l’étendard, miniature du XVe siècle
+credit: miniature anonyme, 1450-1500 — Archives nationales
+pour: jeanne-d-arc
+
+= jeanne-fauquembergue
+commons: Contemporaine afb jeanne d arc.png
+legende: Le seul dessin fait du vivant de Jeanne : le greffier du Parlement de Paris l’esquisse en marge de son registre, à la nouvelle de la délivrance d’Orléans
+credit: Clément de Fauquembergue, 10 mai 1429 — Archives nationales
+pour: jeanne-d-arc
+
+= jeanne-ingres
+commons: Ingres coronation charles vii.jpg
+legende: *Jeanne d’Arc au sacre du roi Charles VII dans la cathédrale de Reims*
+credit: Jean-Auguste-Dominique Ingres, 1854 — musée du Louvre
+pour: jeanne-d-arc
+largeur: 440
+
+= godefroy-jourdain
+commons: Godfrey of Bouillon.jpg
+legende: Godefroy de Bouillon passe le Jourdain, dans un roman de la croisade
+credit: manuscrit enluminé, 1337 — Bibliothèque nationale de France
+pour: godefroy-de-bouillon
+largeur: 560
+
+= preux-manta
+commons: King Arthur,Charlemagne,Godfrey de Bouilon. La Manta.jpg
+legende: Arthur, Charlemagne et Godefroy de Bouillon, les trois preux chrétiens, chacun avec ses armoiries
+credit: fresque de la salle baronniale, vers 1420 — château de la Manta, Piémont
+pour: neuf-preux, godefroy-de-bouillon, roi-arthur
+largeur: 520
+
+= philippe-sceau
+commons: Philippe IV le Bel.jpg
+legende: Philippe le Bel en majesté, peint d’après son grand sceau
+credit: peinture du XVIe siècle
+pour: philippe-le-bel
+
+= philippe-famille
+commons: Philip iv and family. 2.jpg
+legende: Philippe le Bel entouré de ses enfants
+credit: miniature, vers 1313 — Bibliothèque nationale de France
+pour: philippe-le-bel
+largeur: 520
+
+= madeleine-la-tour
+commons: The Penitent Magdalen MET DT7252.jpg
+legende: *La Madeleine pénitente*, à la flamme de la chandelle, une main sur un crâne
+credit: Georges de La Tour, vers 1640 — Metropolitan Museum of Art
+pour: marie-madeleine
+largeur: 400
+
+= dagobert-signol
+commons: Emile Signol (1804-1892) - Dagobert II, roi des Francs (vers 699-715).jpg
+legende: Dagobert II, portrait imaginé pour la galerie des rois de Versailles
+credit: Émile Signol, 1837 — château de Versailles
+pour: dagobert-ii
+
+= dagobert-monnaie
+commons: Tiers de sou d'or de Dagobert II.png
+legende: Un tiers de sou d’or frappé au nom de Dagobert II
+credit: monnaie mérovingienne, 674-678 — Bibliothèque nationale de France
+pour: dagobert-ii
+largeur: 480
+
+= abeilles-childeric
+commons: Abeilles de Childéric Ier.jpg
+legende: Abeilles d’or et de grenat du tombeau de Childéric Ier, découvert à Tournai en 1653 ; Napoléon en fit l’emblème de son sacre
+credit: orfèvrerie mérovingienne, Ve siècle — Bibliothèque nationale de France
+pour: merovingiens, abeille
+largeur: 480
+
+= merovee-larmessin
+commons: Estampes par Nicolas de Larmessin.f012.Mérovée, roi des Francs.jpg
+legende: Mérovée, l’ancêtre légendaire que la chronique dit né d’une reine et d’un monstre marin
+credit: gravure de Nicolas de Larmessin, 1690
+pour: quinotaure, merovingiens
+
+= portrait-verne
+commons: Félix Nadar 1820-1910 portraits Jules Verne (restoration).jpg
+legende: Jules Verne
+credit: photographie de Nadar, vers 1878
+pour: jules-verne
+
+= portrait-leroux
+commons: Gaston Leroux 02.jpg
+legende: Gaston Leroux
+credit: photographie, avant 1927
+pour: gaston-leroux
+
+= portrait-walter-scott
+commons: Sir Henry Raeburn - Portrait of Sir Walter Scott.jpg
+legende: Sir Walter Scott
+credit: Henry Raeburn, 1822
+pour: walter-scott
+
+= portrait-conan-doyle
+commons: Arthur Conan Doyle by Walter Benington, 1914.png
+legende: Arthur Conan Doyle
+credit: photographie de Walter Benington, 1914
+pour: arthur-conan-doyle
+
+= portrait-gaudi
+commons: Antoni Gaudi 1878.jpg
+legende: Antoni Gaudí à vingt-cinq ans, l’année de son diplôme d’architecte
+credit: photographie de Pau Audouard, 1878
+pour: antoni-gaudi
+
+= portrait-champollion
+commons: Leon Cogniet - Jean-Francois Champollion.jpg
+legende: Jean-François Champollion
+credit: Léon Cogniet, 1831 — musée du Louvre
+pour: jean-francois-champollion
+
+= portrait-mariette
+commons: Auguste Mariette photography.jpg
+legende: Auguste Mariette
+credit: photographie de Nadar, vers 1861
+pour: auguste-mariette
+
+= portrait-maspero
+commons: Gaston Maspero Reutlinger BNF Gallica.jpg
+legende: Gaston Maspero
+credit: photographie d’Émile Reutlinger, 1883 — Bibliothèque nationale de France
+pour: gaston-maspero
+
+= portrait-plutarque
+commons: Head of a philosopher - Archaeological Museum of Delphi.jpg
+legende: Tête de philosophe trouvée à Delphes, où Plutarque fut prêtre d’Apollon, et qu’on lui attribue souvent
+credit: marbre, IIe ou IIIe siècle — musée archéologique de Delphes
+pour: plutarque
+
+= portrait-pline
+commons: Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg
+legende: Pline l’Ancien, portrait imaginaire
+credit: gravure de la *Grande Illustrazione del Lombardo-Veneto*, 1859
+pour: pline-l-ancien
+
+= portrait-francis-bacon
+commons: Somer Francis Bacon.jpg
+legende: Francis Bacon
+credit: Paul van Somer, 1617
+pour: francis-bacon
+
+= portrait-vigenere
+commons: Blaise de Vigenere Bourbõnois, PA02427.jpg
+legende: Blaise de Vigenère, « Bourbonnois »
+credit: gravure de Thomas de Leu, fin du XVIe siècle
+pour: blaise-de-vigenere, chiffre-de-vigenere
+
+= portrait-alberti
+commons: Leon Battista Alberti, Self-Portrait, c. 1435, NGA 43845.jpg
+legende: Leon Battista Alberti de profil, avec son emblème de l’œil ailé
+credit: autoportrait en bronze, vers 1435 — National Gallery of Art, Washington
+pour: leon-battista-alberti
+
+= portrait-turing
+commons: Alan Turing (1912-1954) in 1936 at Princeton University.jpg
+legende: Alan Turing à Princeton, en 1936, l’année de son article sur les nombres calculables
+credit: photographie, 1936
+pour: alan-turing
+
+= portrait-poe
+commons: Edgar Allan Poe, circa 1849, restored, squared off.jpg
+legende: Edgar Allan Poe, quelques mois avant sa mort
+credit: daguerréotype, 1849
+pour: edgar-allan-poe
+
+= portrait-michel-scot
+commons: Michael Scot.png
+legende: Michel Scot dans l’initiale d’un manuscrit de sa *Physionomie*
+credit: manuscrit médiéval — Bibliothèque bodléienne, Oxford
+pour: michel-scot
+largeur: 400
+
+= portrait-gilles-de-rais
+commons: Féron - Gilles de Rais (1405-1440) - MV 962.jpg
+legende: Gilles de Rais, maréchal de France, portrait imaginé pour Versailles
+credit: Éloi Firmin Féron, 1835 — château de Versailles
+pour: gilles-de-rais
+
+= portrait-maeterlinck
+commons: Maurice Maeterlinck by Vallotton.jpg
+legende: Maurice Maeterlinck
+credit: Félix Vallotton, vers 1898
+pour: maurice-maeterlinck
+
+= portrait-donnelly
+commons: Ignatius Donnelly.jpg
+legende: Ignatius Donnelly
+credit: photographie, vers 1880
+pour: ignatius-donnelly
+
+= alacoque-giaquinto
+commons: St Margaret Mary Alacoque Contemplating the Sacred Heart of Jesus.png
+legende: Marguerite-Marie Alacoque en prière devant le Sacré-Cœur
+credit: Corrado Giaquinto, vers 1765
+pour: marguerite-marie-alacoque
+largeur: 400
+
+= portrait-flaubert
+commons: Gustave Flaubert.jpg
+legende: Gustave Flaubert
+credit: photographie de Nadar, vers 1865-1869
+pour: gustave-flaubert
+
+= portrait-baudelaire
+commons: Étienne Carjat, Portrait of Charles Baudelaire, circa 1862.jpg
+legende: Charles Baudelaire
+credit: photographie d’Étienne Carjat, vers 1862
+pour: charles-baudelaire
+
+= villon-1489
+commons: Francois Villon 1489.jpg
+legende: François Villon, dans la première édition de son *Grand Testament*
+credit: gravure sur bois, Pierre Levet, 1489
+pour: francois-villon
+
+= portrait-mistral
+commons: Clement-Frederic-Mistral.jpg
+legende: Frédéric Mistral
+credit: Félix-Auguste Clément, 1885
+pour: frederic-mistral
+
+= mistral-saintes
+commons: Frederic Mistral Saintes Maries de la Mer 1906.jpg
+legende: Frédéric Mistral aux Saintes-Maries-de-la-Mer
+credit: photographie, 1906
+pour: frederic-mistral
+largeur: 520
+
+= demeter-eleusis
+commons: Votive relief showing Demeter and Triptolemos2, Eleusis, 4th c BC.jpg
+legende: Déméter assise et Triptolème, relief votif d’Éleusis
+credit: IVe siècle av. J.-C. — musée archéologique d’Éleusis
+pour: demeter
+largeur: 400
+
+= proserpine-rossetti
+commons: Dante Gabriel Rossetti - Proserpine - Google Art Project.jpg
+legende: *Proserpine*, la grenade entamée à la main : pour en avoir mangé quelques grains, elle doit revenir chaque année aux Enfers
+credit: Dante Gabriel Rossetti, 1874 — Tate Britain
+pour: persephone
+largeur: 400
+
+= hecate-blake
+commons: William Blake 006.jpg
+legende: *Hécate*, ou *La Nuit de la joie d’Enitharmon*
+credit: William Blake, vers 1795 — Tate Britain
+pour: hecate
+largeur: 560
+
+= pan-daphnis
+commons: Pan Daphnis Altemps Inv8571.jpg
+legende: Pan apprenant à Daphnis à jouer de la syrinx
+credit: copie romaine d’un original d’Héliodore de Rhodes — palais Altemps, Rome
+pour: pan
+largeur: 400
+
+= michel-raphael
+commons: Raffaello Sanzio - St Michael and the Dragon - WGA18633.jpg
+legende: *Saint Michel terrassant le dragon*
+credit: Raphaël, vers 1503-1505 — musée du Louvre
+pour: saint-michel
+largeur: 400
+
+= arthur-preux
+commons: King Arthur (from the Nine Heroes Tapestries) MET DP118004 (cropped).jpg
+legende: Le roi Arthur, l’un des neuf preux, sur une tapisserie
+credit: tapisserie des Neuf Preux, vers 1400 — The Cloisters, Metropolitan Museum of Art
+pour: roi-arthur, neuf-preux
+largeur: 400
+
+% Lieux ajoutés en 1.5
+largeur: 560
+
+= orval-ruines
+commons: Abbaye d'Orval. Ruines Late 19th - Begin 20th century barcode 800000029849.jpg
+legende: Les ruines de l’ancienne abbaye d’Orval, avant la reconstruction du XXe siècle
+credit: photographie, fin du XIXe ou début du XXe siècle
+pour: orval
+
+= orval-1760
+commons: Abbaye d'orval 1760 (knipsel) Late 19th - Begin 20th century barcode 800000029865.jpg
+legende: L’abbaye d’Orval telle qu’elle était en 1760, avant son incendie par les troupes révolutionnaires en 1793
+credit: gravure d’après une vue de 1760
+pour: orval, prophetie-d-orval
+
+= jumieges-ruines
+commons: Abbaye de Jumièges.jpg
+legende: Les tours de l’abbatiale Notre-Dame de Jumièges, ruinée après la Révolution
+credit: photographie de Franz Golhen, 2007
+pour: jumieges, abbayes-normandes
+
+= saint-wandrille-monasticon
+commons: Abbaye Saint-Wandrille dans Monasticon Gallicanum.jpg
+legende: L’abbaye de Saint-Wandrille de Fontenelle à vol d’oiseau
+credit: *Monasticon Gallicanum*, gravure du XVIIe siècle
+pour: saint-wandrille
+
+= fecamp-bourgeois
+commons: Abbaye de Fécamp (Normandie) - dessin - C.t Bourgeois - btv1b7740668b.jpg
+legende: L’abbatiale de la Trinité de Fécamp, où l’on vénère le Précieux Sang
+credit: dessin de Constant Bourgeois, 1821 — Bibliothèque nationale de France
+pour: fecamp
+
+= caen-abbaye-aux-hommes
+commons: Abbaye-aux-hommes, Caen, France, 1866.jpg
+legende: La nef romane de l’abbaye aux Hommes de Caen, fondée par Guillaume le Conquérant
+credit: vue de 1866 — Gallery Oldham
+pour: abbayes-normandes
+
+= mont-saint-michel-limbourg
+commons: Folio 195r - The Mass of Saint Michael.jpg
+legende: Saint Michel combat le dragon au-dessus du Mont, dans les *Très Riches Heures du duc de Berry*
+credit: frères de Limbourg, 1411-1416 — musée Condé, Chantilly
+pour: mont-saint-michel
+largeur: 440
+
+= bouillon-chateau
+commons: Panorama Burg Bouillon (Bouillon Castle), 2006.jpg
+legende: Le château de Bouillon sur son éperon au-dessus de la Semois
+credit: photographie de XenonX3, 2006
+pour: bouillon, godefroy-de-bouillon
+largeur: 640
+
+= saintes-maries-eglise
+commons: Eglise des Saintes-Maries-de-la-Mer - btv1b530028591.jpg
+legende: L’église fortifiée des Saintes-Maries-de-la-Mer
+credit: photographie de l’agence Rol, 1917 — Bibliothèque nationale de France
+pour: saintes-maries-de-la-mer
+
+= saintes-maries-van-gogh
+commons: Gogh, Vincent van - Blick auf Saintes-Maries-de-la-Mer.jpg
+legende: Le village et son église vus des champs, dessinés par Van Gogh
+credit: Vincent van Gogh, juin 1888
+pour: saintes-maries-de-la-mer
+
+= sainte-baume-grotte
+commons: St. Baume, interior, Var, France-LCCN2001698729.jpg
+legende: L’intérieur de la grotte de la Sainte-Baume, où Marie-Madeleine aurait fini ses jours
+credit: photochrome, vers 1890-1900 — Bibliothèque du Congrès
+pour: sainte-baume, marie-madeleine
+
+= saint-maximin-portail
+commons: Basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume portail.JPG
+legende: La façade inachevée de la basilique de Saint-Maximin
+credit: photographie de Phil25, 2008
+pour: saint-maximin
+
+= sagrada-1906
+commons: Sagrada Família - Obres al 1906.jpg
+legende: Le chantier de la Sagrada Família en 1906 : la façade de la Nativité s’élève
+credit: photographie, 1906
+pour: sagrada-familia
+
+= sagrada-rubio
+commons: Sagrada Família - Dibuix de Joan Rubió a partir dels croquis d'Antoni Gaudí.jpg
+legende: Le temple tel que Gaudí le rêvait, dessiné par son collaborateur Joan Rubió d’après ses croquis
+credit: dessin publié en 1906
+pour: sagrada-familia, antoni-gaudi
+largeur: 440
+
+= chartres-corot
+commons: Jean-Baptiste-Camille Corot - The Cathedral of Chartres - WGA5282.jpg
+legende: *La Cathédrale de Chartres* vue de la ville basse
+credit: Jean-Baptiste Camille Corot, 1830 — musée du Louvre
+pour: chartres, cathedrale-de-chartres
+largeur: 440
+
+= chartres-neurdein
+commons: Catedral de Chartres, Neurdein (42457535265).jpg
+legende: La cathédrale de Chartres et ses deux flèches dissemblables
+credit: photographie des frères Neurdein, fin du XIXe siècle
+pour: cathedrale-de-chartres
+largeur: 400
+
+= chartres-belle-verriere
+commons: Chartres - cathédrale - ND de la belle verrière.JPG
+legende: Notre-Dame de la Belle Verrière, vitrail du XIIe siècle sauvé de l’incendie de 1194
+credit: photographie d’Eusebius, 2009
+pour: cathedrale-de-chartres
+largeur: 320
+
+= domremy-maison
+commons: Carte postale, Domrémy, Maison natale de Jeanne d'Arc.jpg
+legende: La maison natale de Jeanne d’Arc à Domrémy
+credit: carte postale, début du XXe siècle
+pour: domremy, jeanne-d-arc
+
+= opera-garnier-vue
+commons: Gezicht op de Opéra Garnier in Parijs, RP-F-F01159-AX.jpg
+legende: L’Opéra de Charles Garnier, peu après son achèvement
+credit: photographie, vers 1875-1890 — Rijksmuseum
+pour: opera-garnier
+
+= opera-pegase
+commons: 7. Le Nouvel Opéra de Paris. Statues décoratives - Groupes de la façade principale - Pégase. Lequesne - Durandelle, photographe - btv1b54100953j (1 of 2).jpg
+legende: L’un des deux Pégase d’Eugène Lequesne qui couronnent l’Opéra Garnier
+credit: photographie de Louis-Émile Durandelle, vers 1875 — Bibliothèque nationale de France
+pour: pegase, opera-garnier
+largeur: 400
+recadrer: 0.22 0.12 0.8 0.7
+
+= saint-sulpice-gnomon
+commons: Saint-Sulpice Paris April 2006 016.jpg
+legende: La méridienne de laiton de Saint-Sulpice, tracée en 1743 pour fixer l’équinoxe et la date de Pâques
+credit: photographie de Gryffindor, 2006
+pour: saint-sulpice
+largeur: 400
+
+= stenay-1640
+commons: Stenay - btv1b53144128w (2 of 3).jpg
+legende: Plan de la place forte de Stenay
+credit: dessin, 1640 — Bibliothèque nationale de France
+pour: stenay
+
+= nazca-satellite
+commons: Nasca Lines, Peru (ASTER).jpg
+legende: Les lignes de Nazca vues de l’espace : les traits se croisent sur des kilomètres
+credit: NASA, satellite Terra, instrument ASTER
+pour: nazca
+
+= arcadie-guercino
+commons: Guercino Et in Arcadia ego (detail).jpg
+legende: *Et in Arcadia ego* : la première fois que la formule paraît, sous un crâne que découvrent deux bergers
+credit: le Guerchin, vers 1618-1622 — Galerie nationale d’Art ancien, Rome
+pour: arcadie, les-bergers-d-arcadie
+
+= bletchley-colossus
+commons: Colossus.jpg
+legende: Le calculateur Colossus de Bletchley Park, conduit par deux opératrices du service féminin de la Marine
+credit: photographie, 1943 — Archives nationales du Royaume-Uni
+pour: bletchley-park, cryptographie
+
+= labyrinthe-reims
+commons: Jacques Cellier - Cathédrale de Reims - Labyrinthe (1583-1587).jpg
+legende: Le labyrinthe de la cathédrale de Reims, détruit en 1779, avec aux angles ses architectes
+credit: relevé de Jacques Cellier, 1583-1587 — Bibliothèque nationale de France
+pour: labyrinthe
+largeur: 440
+
+= mandala-vajrabhairava
+commons: 元 緙絲大威德金剛曼陀羅-Vajrabhairava Mandala MET DT841.jpg
+legende: Mandala de Vajrabhairava, tissé en soie pour la cour mongole de Chine
+credit: tapisserie kesi, dynastie Yuan, vers 1330 — Metropolitan Museum of Art
+pour: mandala
+largeur: 440
+
+= bomarzo-dragon
+commons: Dragon and elephant - Parco dei Mostri - Bomarzo, Italy - DSC02594.jpg
+legende: Le dragon attaqué par des lions et l’éléphant de guerre du « bois sacré » de Bomarzo
+credit: photographie de Daderot, 2019
+pour: bomarzo
+largeur: 640
+
+= bomarzo-nymphe
+commons: Venus - Parco dei Mostri - Bomarzo, Italy - DSC02530.jpg
+legende: Une Vénus dans sa niche en coquille, au bord du parcours
+credit: photographie de Daderot, 2019
+pour: bomarzo
+largeur: 360
+
+= rocamadour-vierge
+commons: Le Tour du monde-63-p406.jpg
+legende: La Vierge noire de Rocamadour, parée de sa robe
+credit: gravure d’après Gaston Vuillier, *Le Tour du monde*, 1892
+pour: vierges-noires
+largeur: 400
+
+= alexandrie-bibliotheque
+commons: Ancientlibraryalex.jpg
+legende: La bibliothèque d’Alexandrie, reconstitution imaginaire
+credit: gravure d’O. Von Corven, XIXe siècle
+pour: alexandrie
+largeur: 440
+
+= compostelle-calixtinus
+commons: Codex Calixtinus 02.jpg
+legende: Une page du *Codex Calixtinus*, le livre de saint Jacques, qui contient le premier guide des pèlerins
+credit: manuscrit, vers 1140 — cathédrale de Saint-Jacques-de-Compostelle
+pour: saint-jacques-de-compostelle
+largeur: 400
+
+= pere-lachaise-atget
+commons: Eugène Atget - Père-Lachaise 01.jpg
+legende: Une allée du Père-Lachaise dans la brume
+credit: photographie d’Eugène Atget, 1898-1901
+pour: pere-lachaise
+largeur: 400
+
+= hotel-lallemant-facade
+commons: Bourges hotel lallemant façade.jpg
+legende: La façade de l’hôtel Lallemant à Bourges
+credit: gravure publiée par Michel Lévy, avant 1875
+pour: hotel-lallemant
+largeur: 400
+
+= careggi-zocchi
+commons: Zocchi, ville 33 careggi.jpg
+legende: La villa médicéenne de Careggi, où se réunissait l’Académie platonicienne de Marsile Ficin
+credit: gravure de Giuseppe Zocchi, 1744
+pour: villa-de-careggi
+
+= sibylle-cumes
+commons: Sibille van Cumae Sibylla Cumana (titel op object), RP-P-1896-A-19368-480.jpg
+legende: La sibylle de Cumes
+credit: gravure, 1684 — Rijksmuseum
+pour: antre-de-la-sibylle
+largeur: 400
+
+= bugarach-pech
+commons: Pech de Bugarach 27072014 02.jpg
+legende: Le pech de Bugarach, point culminant des Corbières
+credit: photographie de Vassil, 2014
+pour: bugarach
+
+= adyar-bibliotheque
+commons: Library building at Theosophical Society, Adyar from Grandhalaya Sarvasvamu.jpg
+legende: La bibliothèque de la Société théosophique à Adyar
+credit: photographie publiée en 1920
+pour: adyar
+
+= kailash-meru
+commons: Hindukailash.JPG
+legende: Le mont Kailash, identifié au mont Meru, axe du monde, avec Shiva et sa famille à son sommet
+credit: peinture indienne du XVIIIe siècle
+pour: axis-mundi
+largeur: 400
+
+% Bestiaire
+
+= bestiaire-adam
+commons: AberdeenBestiaryFolio005rAdamNamesAnimalsDetail.jpg
+legende: Adam nomme les animaux, au seuil du bestiaire d’Aberdeen
+credit: bestiaire d’Aberdeen, vers 1200 — bibliothèque de l’université d’Aberdeen
+pour: bestiaire
+
+= physiologus-panthere
+commons: 76-Fisiologo di Berna - Pantera.jpg
+legende: La panthère, dont l’haleine parfumée attire les autres bêtes, figure du Christ
+credit: *Physiologus* de Berne, vers 825-850 — Burgerbibliothek, Berne
+pour: physiologus
+
+= serpent-airain
+commons: Antoine Masson - Le serpent d'airain de Moïse-.jpg
+legende: Moïse élève le serpent d’airain : les Hébreux mordus qui le regardent sont guéris
+credit: Antoine Masson d’après Charles Le Brun, XVIIe siècle
+pour: serpent
+
+= pelican-piete
+commons: Plate with Pelican in her Piety MET DP102100.jpeg
+legende: Le pélican qui nourrit ses petits de son sang, sur un plat de laiton
+credit: XVe siècle — Metropolitan Museum of Art
+pour: pelican
+largeur: 440
+
+= griffon-harley
+commons: Griffon 3244.jpg
+legende: Le griffon, lion à tête et ailes d’aigle
+credit: bestiaire, manuscrit Harley 3244, XIIIe siècle — British Library
+pour: griffon
+largeur: 520
+
+= chiron-achille
+commons: Chiron instructs young Achilles - Ancient Roman fresco.jpg
+legende: Le centaure Chiron enseigne la lyre au jeune Achille
+credit: fresque romaine d’Herculanum — musée archéologique de Naples
+pour: centaure
+
+= minotaure-thesee
+commons: Theseus Minotauros Louvre G67.jpg
+legende: Thésée terrasse le Minotaure
+credit: coupe attique à figures rouges — musée du Louvre
+pour: minotaure, labyrinthe
+largeur: 440
+
+= chimere-apulie
+commons: Chimera Apulia Louvre K362.jpg
+legende: La Chimère, lion, chèvre et serpent à la fois
+credit: plat apulien à figures rouges, vers 350-340 av. J.-C. — musée du Louvre
+pour: chimere
+largeur: 440
+
+= cerbere-hydrie
+commons: Herakles Kerberos Eurystheus Louvre E701.jpg
+legende: Héraclès ramène Cerbère des Enfers ; Eurysthée, terrifié, se réfugie dans une jarre
+credit: hydrie de Caeré, vers 525 av. J.-C. — musée du Louvre
+pour: cerbere
+largeur: 520
+
+= hydre-lerne
+commons: Lernaean Hydra Louvre CA7318.jpg
+legende: Héraclès et l’hydre de Lerne
+credit: vase grec — musée du Louvre
+pour: hydre
+largeur: 440
+
+= sirenes-ulysse
+commons: Odysseus Sirens BM E440 n2.jpg
+legende: Ulysse, attaché au mât, écoute le chant des Sirènes, femmes-oiseaux
+credit: stamnos attique du Peintre de la Sirène, vers 480-470 av. J.-C. — British Museum
+pour: sirene
+largeur: 520
+
+= harpie-aldrovandi
+commons: Aldrovandi-0337.jpg
+legende: La harpie, dans l’histoire des monstres d’Ulisse Aldrovandi
+credit: gravure de Jean-Baptiste Coriolan, *Monstrorum historia*, 1642
+pour: harpie
+
+= manticore-topsell
+commons: ManticoraTHoFFB1607.png
+legende: La manticore, lion à visage humain et queue de scorpion
+credit: Edward Topsell, *The History of Four-footed Beasts*, 1607
+pour: manticore
+largeur: 480
+
+= salamandre-feu
+commons: A salamander unharmed in the fire.jpg
+legende: La salamandre qui vit dans le feu sans se consumer
+credit: Jacob van Maerlant, *Der naturen bloeme*, vers 1350 — Bibliothèque royale des Pays-Bas
+pour: salamandre
+largeur: 480
+
+= salamandre-marque
+commons: Mark with a crowned salamander in flames, from Zasius, Ulrich – Enarratio in titulum Institutionum de actionibus, 1548 – BEIC 10956351 (cropped).tif
+legende: Une salamandre couronnée dans les flammes, marque d’imprimeur
+credit: livre imprimé, 1548
+pour: elementaux
+largeur: 480
+
+= vouivre-liber-floridus
+commons: Wyvern Liber Floridus.jpg
+legende: Saint Michel et ses anges combattent la vouivre, dragon ailé à deux pattes
+credit: *Liber floridus* de Lambert de Saint-Omer, copie de 1448
+pour: vouivre
+
+= tarasque-laval
+commons: Heures de Louis de Laval - BNF Lat920 f317v (Sainte Marthe et la Tarasque).jpg
+legende: Sainte Marthe dompte la Tarasque devant Tarascon
+credit: Jean Colombe, *Heures de Louis de Laval*, vers 1480-1485 — Bibliothèque nationale de France
+pour: tarasque
+
+= stryge-meryon
+commons: Beeld van vampier als waterspuwer op toren van Notre Dame en vergezicht over Parijs Le Stryge Eaux-Forte sur Paris (serietitel), RP-P-1973-219.jpg
+legende: *Le Stryge* : la chimère de Notre-Dame contemple Paris et la tour Saint-Jacques
+credit: Charles Meryon, eau-forte, 1853 — Rijksmuseum
+pour: gargouille
+recadrer: 0.22 0.17 0.76 0.68
+
+= simurgh-zal
+commons: Zal Rescued by the Simurgh.jpg
+legende: Le Simorgh recueille dans son nid le jeune Zal, abandonné par son père, dans le *Livre des rois*
+credit: attribué à Sadiqi Beg, vers 1590
+pour: simurgh
+
+= behemoth-blake
+commons: William Blake - Behemoth and Leviathan 1826.jpg
+legende: Béhémoth sur la terre et Léviathan dans les eaux, montrés à Job
+credit: William Blake, *Illustrations du livre de Job*, 1826
+pour: behemoth, leviathan
+
+= leviathan-dore
+commons: Destruction of Leviathan.png
+legende: *La Destruction de Léviathan*
+credit: Gustave Doré, Bible illustrée, 1865
+pour: leviathan
+
+= loup-garou-gevaudan
+commons: Loup garou.jpg
+legende: La Bête du Gévaudan dévorant une femme, gravure vendue à l’époque des attaques
+credit: estampe anonyme, 1765
+pour: loup-garou
+
+= toison-jason
+commons: Jason Pelias Louvre K127.jpg
+legende: Jason rapporte la Toison d’or au roi Pélias ; une Victoire ailée va le couronner
+credit: Peintre des Enfers, cratère apulien, vers 340-330 av. J.-C. — musée du Louvre
+pour: toison-d-or
+
+= aigle-bamberg
+commons: BambergApocalypseFolio010vWorshipBeforeThroneOfGod-DetailEagle.jpg
+legende: L’aigle, l’un des quatre Vivants devant le trône de Dieu, symbole de saint Jean
+credit: *Apocalypse de Bamberg*, vers 1000 — Bibliothèque d’État de Bamberg
+pour: aigle
+
+= lion-bestiaire
+commons: 12th-century painters - On the Nature of the Lion, folio from a Bestiary - WGA15747.jpg
+legende: Les natures du lion : il efface ses traces de sa queue, dort les yeux ouverts, ranime ses petits de son souffle
+credit: bestiaire anglais, fin du XIIe siècle
+pour: lion-symbole
+largeur: 360
+
+= belier-aberdeen
+commons: Aberdeen ram.jpg
+legende: Le bélier, chef du troupeau
+credit: bestiaire d’Aberdeen, vers 1200
+pour: belier-symbole
+
+= cerf-hubert
+commons: Heilige Hubertus knielt voor hert met crucifix S. Hvbertvs (titel op object) Vélins (serietitel), RP-P-1886-A-11214.jpg
+legende: Saint Hubert à genoux devant le cerf qui porte un crucifix entre ses bois
+credit: gravure, XVIIe siècle — Rijksmuseum
+pour: cerf
+
+= colombe-giaquinto
+commons: Corrado Giaquinto - The Holy Spirit - WGA08961.jpg
+legende: La colombe du Saint-Esprit dans une gloire d’anges
+credit: Corrado Giaquinto, années 1750
+pour: colombe
+
+= chouette-athenes
+commons: Greece, Athens, late 6th-early 5th century BC - Stater- Owl (reverse) - 1916.992.b - Cleveland Museum of Art.jpg
+legende: La chouette d’Athéna sur une monnaie d’argent d’Athènes
+credit: fin du VIe ou début du Ve siècle av. J.-C. — Cleveland Museum of Art
+pour: chouette
+
+= chien-aberdeen
+commons: Dog and reflection aberdeen.jpg
+legende: Le chien qui lâche sa proie pour son reflet dans l’eau
+credit: bestiaire d’Aberdeen, vers 1200
+pour: chien
+
+= ours-harley
+commons: Bear licking a cub into shape - Bestiary (1230-1240), f.15v - BL Harley MS 4751.jpg
+legende: L’ourse qui, croyait-on, donne forme en les léchant à ses petits nés informes
+credit: bestiaire, 1230-1240, manuscrit Harley 4751 — British Library
+pour: ours
+
+= papillon-merian
+commons: Merian - Der Raupen wunderbare Verwandelung und sonderbare Blumennahrung - Abb 2.jpg
+legende: Chenille, chrysalide et papillon sur une tulipe : la métamorphose observée par Maria Sibylla Merian
+credit: Maria Sibylla Merian, 1679
+pour: papillon
+
+= tortue-qazwini
+commons: Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani - A Turtle - Walters W659175B - Full Page.jpg
+legende: La tortue, dans un traité des *Merveilles de la création* d’al-Qazwini
+credit: manuscrit ottoman, 1717 — Walters Art Museum
+pour: tortue
+
+= elephant-harley
+commons: Harley4751 f. 8 Elephant.jpg
+legende: L’éléphant portant une tour de guerriers
+credit: bestiaire, 1230-1240, manuscrit Harley 4751 — British Library
+pour: elephant
+
+= agneau-gand
+commons: Agnus Dei Ghent.jpg
+legende: L’Agneau mystique sur l’autel, versant son sang dans le calice
+credit: Hubert et Jan van Eyck, *Retable de Gand*, 1432 — cathédrale Saint-Bavon, Gand
+pour: agneau
+
+= cygne-chevalier
+commons: A knight in a boat drawn by a swan (British Library Royal 15 E VI, f 273)-v2.jpg
+legende: Le chevalier au cygne, ancêtre légendaire de Godefroy de Bouillon, arrive dans sa nacelle
+credit: Maître de Talbot, *Livre de Shrewsbury*, vers 1444-1445 — British Library
+pour: cygne, godefroy-de-bouillon
+
+= dauphin-heraldique
+commons: Complete Guide to Heraldry Fig479.png
+legende: Le dauphin en héraldique
+credit: Arthur Charles Fox-Davies, *A Complete Guide to Heraldry*, 1909
+pour: dauphin
+largeur: 300
+
+= paon-okyo
+commons: Okyo Peacock and Peahen.jpg
+legende: Paon et paonne
+credit: Maruyama Ōkyo, 1781
+pour: paon
+largeur: 520
+
+= loup-aberdeen
+commons: Wolf sneak.jpg
+legende: Le loup s’approche de la bergerie
+credit: bestiaire d’Aberdeen, vers 1200
+pour: loup
+largeur: 520
+
+= corbeau-manet
+commons: Tête de Corbeau - (estampe). Numérisation de RESERVE DC-300 (D,4)-FOL - Identifiant - ESTNUM 2022-2498 - Édouard Manet - btv1b532635675.jpg
+legende: La tête de corbeau dessinée par Manet pour *Le Corbeau* de Poe traduit par Mallarmé
+credit: Édouard Manet, lithographie, 1875 — Bibliothèque nationale de France
+pour: corbeau
+largeur: 360
+
+= poisson-tabgha
+commons: Northern views. Ain Tabgha. Mosaic floor. Loaves and fishes LOC matpc.02800.jpg
+legende: La corbeille de pains entre deux poissons, mosaïque de l’église de la Multiplication à Tabgha
+credit: photographie de la Matson Collection, 1920 — Bibliothèque du Congrès
+pour: poisson
+largeur: 480
+
+% Codes secrets
+
+= cesar-ferrucci
+commons: Julius Caesar MET DP-12755-001.jpg
+legende: Jules César, qui chiffrait ses lettres en décalant l’alphabet de trois rangs
+credit: buste d’Andrea Ferrucci, vers 1512 — Metropolitan Museum of Art
+pour: chiffre-de-cesar
+
+= alberti-de-cifris
+commons: De cifris incipit 1.jpg
+legende: Le début du *De componendis cifris* d’Alberti, où il décrit son disque à chiffrer
+credit: manuscrit du XVIe siècle
+pour: disque-d-alberti, leon-battista-alberti
+
+= steganographia-1608
+commons: Trithemius-Johannes-Steganographia-Johannes-Saurius,-1608.-Digitized-photographic-reproduction-provided-by-the-Herzog-August-Bibliothek.jpg
+legende: La *Steganographia* de Trithème, page de titre
+credit: édition de Francfort, 1608 — Herzog August Bibliothek, Wolfenbüttel
+pour: steganographia, steganographie
+
+= grand-chiffre-table
+commons: Great Cipher.png
+legende: Une page de nomenclateur, table de chiffres et de syllabes du temps de Louis XIV
+credit: document, vers 1690
+pour: grand-chiffre
+largeur: 480
+
+= rossignol-portrait
+commons: Rossignol, Antoine.jpg
+legende: Antoine Rossignol, le déchiffreur de Louis XIII et de Louis XIV
+credit: gravure, 1696
+pour: grand-chiffre
+
+= babington-postscriptum
+commons: Babington postscript.jpg
+legende: Le post-scriptum chiffré que Thomas Phelippes ajouta à une lettre de Marie Stuart pour piéger les conjurés
+credit: Thomas Phelippes, 1586 — Archives nationales du Royaume-Uni
+pour: chiffre-de-marie-stuart
+
+= agrippa-alphabets
+commons: Agrippa von Nettesheim - 3 Alphabets.png
+legende: L’écriture céleste, celle des Malachim et celle du « passage du fleuve », trois alphabets d’anges selon Agrippa
+credit: Henri-Corneille Agrippa, *De occulta philosophia*, 1533
+pour: alphabets-magiques
+largeur: 400
+
+= voynich-herbier
+commons: Voynich Manuscript (32).jpg
+legende: Une page « botanique » du manuscrit de Voynich, plante inconnue et écriture indéchiffrée
+credit: manuscrit, XVe siècle — Beinecke Library, université Yale
+pour: manuscrit-de-voynich
+
+= copiale-page
+commons: Copiale-cipher09s.png
+legende: Deux pages du codex Copiale, chiffré au XVIIIe siècle pour une société secrète allemande
+credit: manuscrit, vers 1760
+pour: codex-copiale
+largeur: 600
+
+= enigma-machine
+commons: Enigma 1942.jpg
+legende: Une machine Enigma, avec son clavier, ses lampes et ses rotors
+credit: photographie de Nicoleon, 2024
+pour: enigma
+
+= beale-brochure
+commons: Beale Papers (1885) - Cover.jpg
+legende: La brochure de 1885 qui publia les trois cryptogrammes de Beale
+credit: *The Beale Papers*, Lynchburg, 1885
+pour: cryptogrammes-de-beale
+
+= scarabee-cryptogramme
+commons: Gold Bug cryptogram.jpg
+legende: Le cryptogramme du capitaine Kidd, tel que Poe le publia
+credit: Edgar Allan Poe, *The Gold-Bug*, 1843
+pour: le-scarabee-d-or, analyse-des-frequences
+largeur: 600
+
+= scarabee-dargent
+commons: The Gold-Bug.jpg
+legende: Une illustration du *Scarabée d’or* : la chasse au trésor dans les bois
+credit: Yan’ Dargent, avant 1864
+pour: le-scarabee-d-or
+largeur: 480
+
+= hommes-dansants-steele
+commons: The Adventure of the Dancing Men by Frederic Dorr Steele 1.jpg
+legende: Sherlock Holmes et les hommes dansants
+credit: Frederic Dorr Steele, *Collier’s*, 1903
+pour: les-hommes-dansants
+
+= hommes-dansants-code
+commons: Danc-1 (The Return of Sherlock Holmes, 1905 edition).png
+legende: Le premier message des petits bonshommes
+credit: Arthur Conan Doyle, *The Return of Sherlock Holmes*, 1905
+pour: les-hommes-dansants
+largeur: 480
+
+= sator-doura
+commons: Acrostic Rotas-Sator Square - YDEA - 5755.jpg
+legende: Un carré ROTAS-SATOR peint sur un enduit de Doura-Europos
+credit: entre 165 et 256 — Yale University Art Gallery
+pour: palindrome, carre-sator
+
+= tacherons-fabre
+commons: Marques de tacherons - btv1b10489316k.jpg
+legende: Marques de tâcherons relevées sur des pierres de taille
+credit: dessin d’Albert Fabre, vers 1870-1919 — Bibliothèque nationale de France
+pour: argot-des-batisseurs
+recadrer: 0.27 0.35 0.78 0.6
+
+= phaistos-pernier
+commons: PhaistosDiskExactCopy.jpg
+legende: Les deux faces du disque de Phaistos, couvertes de signes imprimés en spirale
+credit: reproduction publiée par Luigi Pernier, 1909
+pour: disque-de-phaistos
+
+= shugborough-monument
+commons: Shepherd's Monument, Shugborough Estate - Staffordshire, England - DSC00182.jpg
+legende: Le monument des Bergers de Shugborough : sous la copie inversée du tableau de Poussin, l’inscription O.U.O.S.V.A.V.V.
+credit: photographie de Daderot, 2016
+pour: inscription-de-shugborough, les-bergers-d-arcadie
+
+= al-kindi-manuscrit
+commons: Al-kindi cryptographic 1.jpg
+legende: Une page du traité d’al-Kindi sur le déchiffrement des messages, le premier à décrire l’analyse des fréquences
+credit: manuscrit arabe
+pour: analyse-des-frequences, al-kindi
+
+% Pierres et minéraux
+credit: Johann Gottlob Kurr, *The Mineral Kingdom*, 1859
+recadrer: 0.06 0.03 0.97 0.97
+largeur: 520
+
+= kurr-pierres-precieuses
+commons: Plate I- Diamond, Sapphire and Ruby, Chrysoberyl, Spinel, Zircon, Hyacinth, Beryl, and Emerald - DPLA - 7191a5f8c760b50283ebbf7e5f18324f.jpg
+legende: Diamant, saphir et rubis, chrysobéryl, spinelle, zircon, hyacinthe, béryl et émeraude, bruts et taillés
+pour: diamant, saphir, pierres-de-naissance
+
+= kurr-lapis
+commons: Plate II- Topaz, Garnet, Vesuvian, Idocrase, Chrysolite, Olivine, Pistacite, Epidote, Turquoise, Johnite, Calamite, Lazulite, Lapis Lazuli - DPLA - 415604fa3a078b721e4f08807dc73042.jpg
+legende: Topaze, grenat, vésuvianite, chrysolite, épidote, turquoise, lazulite et lapis-lazuli
+pour: lapis-lazuli, escarboucle
+
+= kurr-quartz
+commons: Plate IV- Quartz and Opal - DPLA - 8c000fd0258fff88cf23f36d42caefb4.jpg
+legende: Quartz, agates et opales
+pour: lithotherapie
+
+= kurr-soufre
+commons: Plate XII- Sulphur, Honey-Stone, Graphite, Coal, Lignite - DPLA - f8bf61b7c988972178384f3d01deda71.jpg
+legende: Soufre natif, mellite, graphite, houille et lignite
+pour: soufre
+
+= kurr-or
+commons: Plate XIII- Gold, Platinum, Iridium - DPLA - 6d9d7fe607dd49db477c6855cdcbacf4.jpg
+legende: Or natif, platine et iridium
+pour: or-potable, transmutation
+
+= kurr-argent
+commons: Plate XIV- Native Silver, Antimonial Silver, Sulphuret of Silver, Glance and Red Silver Ore - DPLA - 24fcdd9ce1c024ad7b2d773c58ed0fad.jpg
+legende: L’argent natif et ses minerais : ses ramifications ont donné leur nom à l’arbre de Diane
+pour: arbre-de-diane
+
+= kurr-mercure
+commons: Plate XV- Mercury, Quicksilver, Copper Ore - DPLA - 8674b9c3f67931a854de5927134542a0.jpg
+legende: Mercure natif, cinabre et minerais de cuivre
+pour: mercure-principe
+
+= kurr-fer
+commons: Plate XVIII- Pyrites, Magnetic Iron, Iron-Glance, Iron Ores - DPLA - edd42dfa53ed1981b94f1c42538e9a9e.jpg
+legende: Pyrites, fer magnétique, fer oligiste et autres minerais de fer
+pour: hematite
+
+= kurr-antimoine
+commons: Plate XXII- Molybdenum Ores, Chrome Ores, Antimony Ores, Arsenic Ores - DPLA - 39f30edf1d685dcbdbc5e602aaba1eaf.jpg
+legende: Minerais de molybdène, de chrome, d’antimoine et d’arsenic
+pour: antimoine
+
+% Pierres et objets
+largeur: 440
+
+= diamant-hope
+commons: The Hope Diamond - SIA.jpg
+legende: Le diamant Hope, bleu, réputé porter malheur à ses propriétaires
+credit: Smithsonian Institution
+pour: diamant
+
+= saphir-logan
+commons: Logan Sapphire 10956420 cropped.png
+legende: Le saphir Logan, 423 carats
+credit: photographie de Chip Clark — Smithsonian Institution
+pour: saphir
+largeur: 360
+
+= rubis-cristal
+commons: Ruby cristal.jpg
+legende: Un cristal de rubis brut
+credit: photographie, Wikimedia Commons
+pour: rubis
+largeur: 360
+
+= grenat-almandin
+commons: Almandine (GeoDIL number - 308).jpg
+legende: Cristaux de grenat almandin, la pierre rouge que l’on nommait escarboucle
+credit: photographie de Nessa Eull, 2001 — GeoDIL
+pour: escarboucle
+
+= ambre-insectes
+commons: Chiapas amber containing insects.jpg
+legende: Ambre du Chiapas où sont pris des insectes fossiles
+credit: photographie de GiveMeMollusks, 2026
+pour: ambre
+largeur: 360
+
+= bezoard-ecrin
+commons: Bezoar Stone with Case and Stand MET DP332005.jpg
+legende: Un bézoard sur son pied d’orfèvrerie, avec son étui : on le tenait pour un remède souverain contre les poisons
+credit: XVIIe siècle — Metropolitan Museum of Art
+pour: bezoard
+
+= crapaudine-hortus
+commons: Borax-Krötenstein1.jpg
+legende: On tire la crapaudine de la tête du crapaud, selon l’*Hortus sanitatis*
+credit: gravure sur bois de l’*Hortus sanitatis*, Mayence, 1491
+pour: crapaudine, crapaud
+largeur: 400
+
+= hematite-rognon
+commons: Hematite (GeoDIL number - 1313).jpg
+legende: Hématite, la « pierre de sang »
+credit: photographie de Darla Sondrol, 2001 — GeoDIL
+pour: hematite
+
+= jade-bi
+commons: 新石器時代良渚文化 玉璧-Ritual Object (Bi) MET DT204.jpg
+legende: Un disque bi de jade, image du ciel, de la culture de Liangzhu
+credit: milieu du IIIe millénaire av. J.-C. — Metropolitan Museum of Art
+pour: jade
+
+= lapis-cia
+commons: Lapis Lazuli - Flickr - The Central Intelligence Agency.jpg
+legende: Lapis-lazuli brut d’Afghanistan, dont on tirait le bleu outremer
+credit: photographie de la Central Intelligence Agency, 2011
+pour: lapis-lazuli
+
+= pierre-de-foudre-dessin
+commons: Fulguriet of bliksembuis dondersteen. sagitta fulguris. pierre detonnerre (titel op object), RP-T-BR-2017-1-7-57.jpg
+legende: « Pierre de tonnerre », *sagitta fulguris* : on croyait ces pierres tombées avec la foudre
+credit: dessin, 1596-1610 — Rijksmuseum
+pour: pierre-de-foudre
+recadrer: 0.2 0.32 0.61 0.66
+largeur: 360
+
+= luopan-compas
+commons: A CHINESE GEOMANTIC COMPASS-The Vanished Empire.png
+legende: Une boussole de géomancie chinoise, le luopan, aux cercles concentriques
+credit: photographie publiée en 1926
+pour: feng-shui
+largeur: 400
+
+
+= watkins-leys
+commons: Alfred Watkins - Map of two leys.jpg
+legende: Deux alignements tracés par Alfred Watkins sur la carte
+credit: Alfred Watkins, 1922
+pour: lignes-ley
+largeur: 520
+
+= orgone-fda
+commons: "Orgone Accumulators" (FDA022) (4899254920).jpg
+legende: Accumulateurs d’orgone saisis par l’administration américaine, qui fit condamner Wilhelm Reich
+credit: Food and Drug Administration des États-Unis
+pour: orgone
+largeur: 520
+
+% Le zodiaque du Miroir d’Uranie
+credit: Sidney Hall, *Urania’s Mirror*, 1825
+largeur: 600
+
+= uranie-belier
+commons: Sidney Hall - Urania's Mirror - Aries and Musca Borealis.jpg
+legende: La constellation du Bélier, avec la Mouche boréale
+pour: belier
+
+= uranie-taureau
+commons: Sidney Hall - Urania's Mirror - Taurus.jpg
+legende: La constellation du Taureau, avec les Pléiades
+pour: taureau
+
+= uranie-gemeaux
+commons: Sidney Hall - Urania's Mirror - Gemini.jpg
+legende: La constellation des Gémeaux, Castor et Pollux
+pour: gemeaux
+
+= uranie-cancer
+commons: Sidney Hall - Urania's Mirror - Cancer.jpg
+legende: La constellation du Cancer
+pour: cancer
+largeur: 440
+
+= uranie-lion
+commons: Sidney Hall - Urania's Mirror - Leo Major and Leo Minor.jpg
+legende: Les constellations du Lion et du Petit Lion
+pour: lion
+largeur: 440
+
+= uranie-vierge
+commons: Sidney Hall - Urania's Mirror - Virgo.jpg
+legende: La constellation de la Vierge, l’épi à la main
+pour: vierge
+
+= uranie-balance
+commons: Sidney Hall - Urania's Mirror - Libra.jpg
+legende: La constellation de la Balance
+pour: balance
+
+= uranie-scorpion
+commons: Sidney Hall - Urania's Mirror - Scorpio.jpg
+legende: La constellation du Scorpion
+pour: scorpion
+largeur: 440
+
+= uranie-sagittaire
+commons: Sidney Hall - Urania's Mirror - Sagittarius and Corona Australis, Microscopium, and Telescopium.png
+legende: La constellation du Sagittaire, avec la Couronne australe
+pour: sagittaire
+
+= uranie-capricorne
+commons: Sidney Hall - Urania's Mirror - Capricornus.jpg
+legende: La constellation du Capricorne
+pour: capricorne
+
+= uranie-verseau
+commons: Sidney Hall - Urania's Mirror - Aquarius, Piscis Australis & Ballon Aerostatique.jpg
+legende: La constellation du Verseau, avec le Poisson austral et l’éphémère « Ballon aérostatique »
+pour: verseau
+
+= uranie-poissons
+commons: Sidney Hall - Urania's Mirror - Pisces.jpg
+legende: La constellation des Poissons, liés par un ruban
+pour: poissons
+
++ zodiaque
+titre: Les douze constellations du zodiaque, gravées pour les cartes à jouer du *Miroir d’Uranie* (1825). Touchez une carte pour lire l’article de son signe.
+images: uranie-belier, uranie-taureau, uranie-gemeaux, uranie-cancer, uranie-lion, uranie-vierge, uranie-balance, uranie-scorpion, uranie-sagittaire, uranie-capricorne, uranie-verseau, uranie-poissons
+
+% Les sept planètes de Hans Sebald Beham
+credit: Hans Sebald Beham, gravure, 1539 — Rijksmuseum
+largeur: 400
+
+= beham-saturne
+commons: Saturnus met sterrenbeelden Steenbok en Waterman Sattvrnvs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.827.jpg
+legende: Saturne dévorant un enfant, sur le Capricorne et le Verseau, ses deux maisons
+pour: saturne
+
+= beham-jupiter
+commons: Jupiter met sterrenbeelden Boogschutter en Vissen Jvpider (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.828.jpg
+legende: Jupiter, sur le Sagittaire et les Poissons, ses deux maisons
+pour: jupiter
+
+= beham-mars
+commons: Mars met sterrenbeelden Ram en Schorpioen Mars (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.829.jpg
+legende: Mars en armure, sur le Bélier et le Scorpion, ses deux maisons
+pour: mars
+
+= beham-soleil
+commons: Apollo (Sol) met sterrenbeeld Leeuw Sol (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.830.jpg
+legende: Le Soleil couronné, sur le Lion, sa maison
+pour: soleil
+
+= beham-venus
+commons: Venus met sterrenbeelden Stier en Weegschaal Venvs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.831.jpg
+legende: Vénus, sur le Taureau et la Balance, ses deux maisons
+pour: venus
+
+= beham-mercure
+commons: Mercurius met sterrenbeelden Maagd en Tweelingen Mercvrivs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.832.jpg
+legende: Mercure, le caducée à la main, sur la Vierge et les Gémeaux, ses deux maisons
+pour: mercure
+
+= beham-lune
+commons: Diana (Luna) met sterrenbeeld Kreeft Lvna (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.833.jpg
+legende: La Lune, sur le Cancer, sa maison
+pour: lune
+
++ planetes
+titre: Les sept planètes de l’astrologie, chacune avec les signes où elle a son domicile, gravées par Hans Sebald Beham en 1539. Touchez une planète pour lire son article.
+images: beham-saturne, beham-jupiter, beham-mars, beham-soleil, beham-venus, beham-mercure, beham-lune
+
+% Alchimie
+
+= brunschwig-alambics
+commons: Hieronymus Brunschwig Liber de arte Distillandi CHF AQ13x3.jpg
+legende: Alambics et serpentins, dans le grand livre de la distillation de Brunschwig
+credit: Hieronymus Brunschwig, *Liber de arte distillandi*, Strasbourg, 1512 — Science History Institute
+pour: alambic, distillation
+largeur: 400
+
+= bruegel-alchimiste
+commons: The Alchemist MET MM1740.jpg
+legende: *L’Alchimiste* : le souffleur ruine sa famille, qui finira à l’hospice
+credit: Philippe Galle d’après Pieter Bruegel l’Ancien, après 1558 — Metropolitan Museum of Art
+pour: souffleur
+largeur: 600
+
+= teniers-alchimiste
+commons: David Teniers de Jonge - The Alchemist - 261 - Mauritshuis.jpg
+legende: *L’Alchimiste* dans son laboratoire
+credit: David Teniers le Jeune, vers 1640-1650 — Mauritshuis, La Haye
+pour: transmutation, athanor
+largeur: 560
+
+= donum-dei
+commons: Magnum Opus.jpg
+legende: Les trois phases de l’œuvre dans le vase : noirceur, blancheur, rougeur
+credit: *Pretiosissimum donum Dei*, manuscrit de Georges Aurach, 1475
+pour: grand-oeuvre, citrinitas
+largeur: 600
+
+
+= champagne-corbeau
+commons: Corvo teschio - Julien Champagne.png
+legende: Le corbeau posé sur un crâne, emblème de la noirceur de l’œuvre
+credit: Julien Champagne, frontispice du *Mystère des cathédrales*, 1926
+pour: nigredo
+largeur: 480
+
+= champagne-frontispice
+commons: Frontispice du Mystère des cathédrales.jpg
+legende: Le frontispice du *Mystère des cathédrales* : l’alchimiste sculpté de Notre-Dame
+credit: Julien Champagne, 1926
+pour: fulcanelli, mystere-des-cathedrales
+
+= maier-emblem-36
+commons: Michael Maier Atalanta Fugiens Emblem 36.jpeg
+legende: « La pierre est jetée sur la terre, exaltée sur les monts, logée dans l’air, nourrie dans le fleuve » : la matière première est partout
+credit: Michael Maier, *Atalanta fugiens*, 1617
+pour: materia-prima
+
+= rosaire-soleil-aile
+commons: Winged Sun alchemical.jpg
+legende: Le soleil ailé au-dessus du tombeau rempli d’eau
+credit: *Rosarium philosophorum*, Francfort, 1550
+pour: rosaire-des-philosophes
+
+= phenix-bertuch
+commons: Phoenix-Fabelwesen.jpg
+legende: Le phénix renaissant de ses cendres, emblème de la rougeur finale de l’œuvre
+credit: Friedrich Justin Bertuch, livre d’images pour enfants, 1806
+pour: rubedo
+
+= vitriol-valentin
+commons: Vitriol-2-basil valentine.png
+legende: *Visita interiora terrae rectificando invenies occultum lapidem* : les initiales forment le mot VITRIOL
+credit: Basile Valentin, *Azoth*, édition de 1613
+pour: vitriol
+largeur: 400
+
+= geheime-figuren
+commons: Geheime Figuren der Rosenkreuzer 1785-p16.jpg
+legende: Le sel, le soufre et le mercure dans les *Figures secrètes des Rose-Croix*
+credit: *Geheime Figuren der Rosenkreuzer*, Altona, 1785
+pour: tria-prima, sel
+largeur: 400
+
+= baphomet-solve
+commons: Baphomet.png
+legende: Le Baphomet d’Éliphas Lévi : sur ses bras, *Solve* et *Coagula*
+credit: Éliphas Lévi, *Dogme et rituel de la haute magie*, 1856
+pour: solve-et-coagula
+largeur: 400
+
+= lapin-elixir
+commons: White-Rabbit-making-elixir-of-immortality.jpg
+legende: Le lièvre de jade pile dans son mortier l’élixir d’immortalité, sous le cannelier de la lune
+credit: médaillon brodé d’une robe impériale, dynastie Qing, XVIIIe siècle
+pour: elixir-de-longue-vie, neidan
+
+= homoncule-faust
+commons: Homunculus Faust.jpg
+legende: L’homoncule dans sa fiole, au second *Faust* de Goethe
+credit: gravure du XIXe siècle
+pour: homoncule
+
+= pernety-grand-oeuvre
+commons: Grand oeuvre Dom Pernety Dictionnaire Mytho-Hermétique,.jpg
+legende: Le grand œuvre figuré dans le *Dictionnaire mytho-hermétique* de Dom Pernety
+credit: Dom Antoine-Joseph Pernety, 1758
+pour: illumines-d-avignon
+largeur: 320
+
+% Franc-maçonnerie et kabbale
+
+= tablier-borsteegh
+commons: VM 15765 – Design for a Masonic apron – 1820 – C. Borsteegh.jpg
+legende: Projet de tablier maçonnique : l’étoile flamboyante, le compas et l’équerre, les colonnes et les outils
+credit: C. Borsteegh, vers 1820
+pour: tablier
+largeur: 480
+
+= tableau-de-loge
+commons: VM 16145-003 - Engraving of a Masonic tracing board - 1850-1900.jpg
+legende: Un tableau de loge, où sont rassemblés les symboles et les outils du métier
+credit: gravure, 1850-1900
+pour: outils-maconniques
+largeur: 560
+
+= temple-vatable
+commons: Francois Vatable, reconstructie van de tempel van Salomo (detail).jpg
+legende: Le temple de Salomon et ses deux colonnes d’airain, Jakin et Boaz
+credit: d’après François Vatable, 1546
+pour: colonnes-jakin-et-boaz, jakin, boaz
+
+= dieu-geometre
+commons: God the Geometer.jpg
+legende: Dieu architecte mesurant le monde au compas
+credit: *Bible moralisée*, vers 1220-1230 — Bibliothèque nationale autrichienne
+pour: grand-architecte-de-l-univers
+
+= blake-ancien-des-jours
+commons: Blake ancient of days.jpg
+legende: *L’Ancien des jours* : le créateur trace le monde au compas
+credit: William Blake, 1794 — British Museum
+pour: demiurge
+
+= sceau-moderns
+commons: Seal of the Moderns Grand Lodge.jpg
+legende: Le sceau de la première Grande Loge d’Angleterre, celle des « Modernes »
+credit: publié par J. Ramsden Riley, 1891
+pour: grande-loge-de-londres
+largeur: 360
+
+= anderson-hogarth
+commons: James Anderson W.Hogarth.jpeg
+legende: Une caricature de Hogarth où l’on a cru reconnaître James Anderson
+credit: William Hogarth, vers 1730
+pour: james-anderson
+
+= ramsay-manuscrit
+commons: Première page du manuscrit du Discours de Ramsay.png
+legende: La première page du manuscrit du *Discours* du chevalier de Ramsay
+credit: manuscrit, 1736 — bibliothèque d’Épernay
+pour: discours-de-ramsay
+
+= neuf-soeurs-jeton
+commons: Neuf Soeurs - Jeton 01.jpeg
+legende: Jeton de la loge des Neuf Sœurs, à l’effigie de Benjamin Franklin, son vénérable
+credit: François Bernier, 1783
+pour: les-neuf-soeurs
+largeur: 360
+
+= prince-hall-loge
+commons: Harry A. Williamson and five fellow members of the Carthaginian Lodge no. 47.jpg
+legende: Harry A. Williamson, historien de la maçonnerie noire, et des frères de la loge Carthaginian n° 47
+credit: photographie, 1907 — New York Public Library
+pour: prince-hall
+largeur: 480
+
+= von-hund
+commons: Karl Gotthelf von Hund und Altengrotkau.jpg
+legende: Le baron Karl Gotthelf von Hund, fondateur de la Stricte Observance
+credit: portrait du XVIIIe siècle
+pour: stricte-observance
+
+= affaire-des-fiches-chambre
+commons: Affaire des Fiches à la Chambre (L'Illustration, 1904).jpg
+legende: La bagarre de la Chambre après la gifle du député Syveton au général André, ministre de la Guerre
+credit: dessin de Louis Sabattier, *L’Illustration*, 12 novembre 1904
+pour: affaire-des-fiches
+largeur: 440
+
+= taxil-affiche
+commons: Les Mystères de la franc-maçonnerie dévoilés par Léo Taxil.jpg
+legende: Affiche des *Mystères de la franc-maçonnerie* de Léo Taxil, où trône un Baphomet emprunté à Éliphas Lévi
+credit: affiche, imprimerie Ancourt, Paris
+pour: antimaconnisme
+largeur: 400
+
+
+= adam-kadmon-myer
+commons: Adamtree.jpg
+legende: Adam Kadmon, l’homme primordial, et les sefirot réparties sur son corps
+credit: Isaac Myer, *Qabbalah*, 1888
+pour: adam-kadmon
+largeur: 320
+
+= arbre-kircher
+commons: Tree of Life (Kircher 1653).jpg
+legende: L’arbre des sefirot et ses vingt-deux sentiers, selon Athanase Kircher
+credit: Athanase Kircher, *Œdipus Ægyptiacus*, 1652-1654
+pour: sentiers
+
+= kabbala-denudata-sefirot
+commons: Kabbala denudata sefirot.jpg
+legende: Les sefirot en cercles concentriques, dans la *Kabbala denudata*
+credit: Christian Knorr von Rosenroth, 1677-1684
+pour: kabbala-denudata
+largeur: 360
+
+= golem-ales
+commons: Golem a Rabi Löw – Mikoláš Aleš, 1899 (Věnec pražských pověstí, 1908).jpg
+legende: Le rabbin Loew et son Golem
+credit: Mikoláš Aleš, 1899
+pour: golem
+
+% Ésotérisme, textes et sociétés
+largeur: 400
+
+= crowley-baphomet
+commons: Aleister Crowley as Baphomet X° O.T.O.jpg
+legende: Aleister Crowley sous son nom d’ordre de Baphomet, chef de l’O.T.O. pour les îles Britanniques
+credit: photographie, 1919
+pour: a-a, oto
+
+= aradia-titre
+commons: Aradia-title-page.jpg
+legende: La page de titre d’*Aradia, ou l’Évangile des sorcières*
+credit: Charles Godfrey Leland, Londres, 1899
+pour: aradia
+
+= yggdrasil-bagge
+commons: Yggdrasil.jpg
+legende: Yggdrasil, le frêne qui relie les mondes
+credit: Oluf Olufsen Bagge, 1847
+pour: arbre-cosmique, axis-mundi
+
+= hermes-mussard
+commons: Hermes Trismegistus (5786408).jpg
+legende: Hermès Trismégiste, portrait imaginaire
+credit: gravure de Pierre Mussard, 1675
+pour: corpus-hermetique, asclepius, hermetisme
+
+= asmodee-le-breton
+commons: Asmodeus.jpg
+legende: Asmodée, roi des démons, dans le *Dictionnaire infernal*
+credit: Louis Le Breton, pour Collin de Plancy, 1863
+pour: asmodee
+
+= augure-rode
+commons: Ein Augur.jpg
+legende: Un augure observe le vol des oiseaux pour savoir si Numa est digne de régner sur Rome
+credit: gravure de Bernhard Rode, 1768-1769
+pour: augures
+largeur: 520
+
+= avicenne-miniature
+commons: Avicenna-miniatur.jpg
+legende: Avicenne, miniature
+credit: miniature, date inconnue
+pour: avicenne
+
+= boleskine-1912
+commons: Boleskine house.png
+legende: Boleskine House, au bord du loch Ness, où Crowley voulut accomplir le rituel d’Abramelin
+credit: photographie publiée par Aleister Crowley, 1912
+pour: boleskine-house
+largeur: 520
+
+= broceliande-dore
+commons: Idylls of the King 18.jpg
+legende: La forêt enchantée des *Idylles du roi*, où Viviane endort Merlin
+credit: Gustave Doré, 1868
+pour: broceliande
+
+= vrubel-diseuse
+commons: Michail Alexandrowitsch Wrubel 001.jpg
+legende: *La Diseuse de bonne aventure*
+credit: Mikhaïl Vroubel, 1895 — galerie Tretiakov, Moscou
+pour: cartomancie
+
+= chretien-atelier
+commons: Chrétien de Troyes.jpg
+legende: Un écrivain à sa table, gravure où l’on a voulu voir Chrétien de Troyes
+credit: gravure, 1530
+pour: chretien-de-troyes
+
+= fludd-ame
+commons: RobertFuddBewusstsein17Jh.png
+legende: L’œil de l’imagination et les mondes qui lui correspondent, selon Robert Fludd
+credit: Robert Fludd, *Utriusque cosmi historia*, 1619
+pour: correspondances
+
+= agroglyphe-lausanne
+commons: CropCircleW.jpg
+legende: Un agroglyphe dans un champ du Chalet-à-Gobet, près de Lausanne
+credit: photographie de Jabberocky, 2007
+pour: crop-circles
+largeur: 520
+
+= agrippa-titre
+commons: Phys m 6 tb 1.jpg
+legende: Page de titre d’une édition lyonnaise du *De occulta philosophia*
+credit: Lyon, vers 1560
+pour: de-occulta-philosophia
+
+= dion-fortune-portrait
+commons: Violet Mary Firthova (1890 1946).jpg
+legende: Dion Fortune
+credit: photographie, avant 1946
+pour: dion-fortune
+
+= devineresse
+commons: Costume Plate (Devineresse de Krasnajarsk) LACMA M.87.231.7.jpg
+legende: Une devineresse de Krasnoïarsk, dans un recueil de costumes
+credit: Jacques Grasset de Saint-Sauveur, fin du XVIIIe siècle — Los Angeles County Museum of Art
+pour: divination
+
+= pythagore-chartres
+commons: Pythagore-chartres.jpg
+legende: Pythagore, figure de la musique, au portail royal de Chartres
+credit: sculpture du XIIe siècle ; photographie de Jean-Louis Lascoux, 2001
+pour: ecole-de-chartres, cathedrale-de-chartres
+
+= beattie-seance
+commons: John Beattie Eugene Rochas seance.jpg
+legende: Une « forme lumineuse » apparue lors d’une séance photographiée par John Beattie à Bristol
+credit: photographie, 1872 — American Philosophical Society
+pour: ectoplasme
+
+= wither-sagesse
+commons: Wither - Emblem Wisdom.jpg
+legende: « Le sage dominera les astres », emblème de George Wither
+credit: George Wither, *A Collection of Emblemes*, 1635
+pour: emblemes
+
+= cameron-merlin
+commons: Julia Margaret Cameron (British, born India - Vivien and Merlin - Google Art Project (6791406).jpg
+legende: Viviane et Merlin, mis en scène pour les *Idylles du roi* de Tennyson
+credit: photographie de Julia Margaret Cameron, 1874
+pour: envoutement
+
+= geomancie-digby
+commons: Geomantic Chart Bartolomeo da Parma.jpg
+legende: Les figures de la géomancie, dans un traité de Bartolomeo da Parma
+credit: manuscrit Digby 134 — Bibliothèque bodléienne, Oxford
+pour: geomancie
+largeur: 480
+
+= portrait-gurdjieff
+commons: Georges Gurdjieff.JPG
+legende: Georges Gurdjieff
+credit: photographie, 1925
+pour: georges-gurdjieff
+largeur: 320
+
+= clement-thevet
+commons: Clement alexandrin.jpg
+legende: Clément d’Alexandrie, défenseur d’une « gnose » chrétienne
+credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
+pour: gnose
+
+= graal-espinques
+commons: Holy-grail-round-table-ms-fr-112-3-f5r-1470-detail.jpg
+legende: Le Graal, voilé, apparaît aux chevaliers de la Table ronde le jour de la Pentecôte
+credit: Évrard d’Espinques, vers 1470 — Bibliothèque nationale de France
+pour: graal
+largeur: 480
+
+= honorius-grimoire
+commons: Grimoire du Pape Honorius (allegedly 1760).jpg
+legende: Le *Grimoire du pape Honorius*, frontispice et page de titre
+credit: édition datée de 1760
+pour: grimoire
+largeur: 520
+
+= portrait-boudet
+commons: Boudet.jpg
+legende: L’abbé Henri Boudet, curé de Rennes-les-Bains
+credit: photographie, 1887
+pour: henri-boudet, la-vraie-langue-celtique
+largeur: 320
+
+= beth-alpha
+commons: Beit alfa01.jpg
+legende: La roue du zodiaque de la synagogue de Beth Alpha, le char du soleil au centre
+credit: mosaïque du VIe siècle ; photographie de Talmoryair, 2007
+pour: horoscope
+
+= bergh-hypnose
+commons: Hypnotic Séance (Richard Bergh) - Nationalmuseum - 18855.tif
+legende: *Séance d’hypnose*
+credit: Richard Bergh, 1887 — Nationalmuseum, Stockholm
+pour: hypnose
+largeur: 520
+
+= dore-lumiere
+commons: Creation of Light.png
+legende: *La Création de la lumière*
+credit: Gustave Doré, Bible illustrée, 1866
+pour: illuminisme
+
+= roquetaillade-manuscrit
+commons: 1350 Rupescissa.jpg
+legende: Figures prophétiques d’un manuscrit de Jean de Roquetaillade
+credit: manuscrit du XIVe siècle
+pour: jean-de-roquetaillade
+
+= portrait-krishnamurti
+commons: Jiddu Krishnamurti 01.jpg
+legende: Jiddu Krishnamurti
+credit: photographie, années 1920
+pour: jiddu-krishnamurti
+
+= portrait-lanz
+commons: Jörg Lanz von Liebenfels.jpg
+legende: Jörg Lanz von Liebenfels
+credit: photographie
+pour: jorg-lanz-von-liebenfels
+largeur: 320
+
+= portrait-evola
+commons: Evola.jpg
+legende: Julius Evola
+credit: photographie, début des années 1940
+pour: julius-evola
+largeur: 320
+
+= doctrine-secrete-1888
+commons: The Secret Doctrine.gif
+legende: La couverture de l’édition originale de *La Doctrine secrète*
+credit: Helena Blavatsky, Londres, 1888
+pour: doctrine-secrete
+largeur: 320
+
+= liber-al
+commons: Liber AL Vel Legis.png
+legende: *Liber AL vel Legis*, le Livre de la Loi
+credit: Aleister Crowley
+pour: livre-de-la-loi
+largeur: 320
+
+= roi-du-monde-1927
+commons: Le Roi du monde (René Guénon, 1927).jpg
+legende: La couverture de l’édition originale du *Roi du monde*
+credit: René Guénon, 1927
+pour: le-roi-du-monde
+largeur: 320
+
+= robida-momie
+commons: Albert Robida - Le Roman de la momie.jpg
+legende: Personnages égyptiens peints par Robida sur un exemplaire du *Roman de la momie*
+credit: aquarelle d’Albert Robida, vers 1870
+pour: le-roman-de-la-momie
+largeur: 320
+
+= horen-maerchen
+commons: Mährchen. Die Horen. 4 = Jg. 1, Stück 10-12. 1795. S. 108 (0114).jpg
+legende: La première page du *Conte* de Goethe dans la revue de Schiller, *Die Horen*
+credit: Goethe, *Die Horen*, 1795
+pour: le-serpent-vert
+largeur: 320
+
+= waterhouse-circe
+commons: Circe Offering the Cup to Odysseus.jpg
+legende: *Circé offrant la coupe à Ulysse*
+credit: John William Waterhouse, 1891 — Gallery Oldham
+pour: magie
+
+= porta-natural-magick
+commons: Natural Magick by Giambattista della Porta.jpg
+legende: Frontispice de la *Magie naturelle* de Della Porta, traduite en anglais
+credit: Londres, 1658
+pour: magie-naturelle
+
+= portrait-duchamp
+commons: Marcel Duchamp 01.jpg
+legende: Marcel Duchamp
+credit: photographie
+pour: marcel-duchamp
+largeur: 320
+
+= portrait-murray
+commons: Margaret Murray 1928c.jpg
+legende: Margaret Murray
+credit: photographie de Lafayette Ltd, 1928
+pour: margaret-murray
+largeur: 320
+
+= van-maele-sorciere
+commons: Martin van Maele - La Sorcière 06.jpg
+legende: Une scène de sabbat pour *La Sorcière* de Michelet
+credit: Martin van Maële, 1911
+pour: messe-noire
+
+= tablette-pergame
+commons: Magic tablet from Pergamon (Wünsch, Antikes Zaubergerät).png
+legende: La table magique de Pergame et ses noms de déesses, instrument de divination antique
+credit: dessin de Richard Wünsch, 1905
+pour: voces-magicae
+largeur: 480
+
+= noeud-aquilee
+commons: Basilica Patriarcale (Aquileia) 2 (cropped).JPG
+legende: Un nœud de Salomon dans la mosaïque de la basilique d’Aquilée
+credit: mosaïque du IVe siècle ; photographie de Janezdrilc, 2011
+pour: noeud-de-salomon
+
+= levi-lampe
+commons: Transcendental Magic 1896 Eliphas Lévi p244.jpg
+legende: Une planche de *Dogme et rituel de la haute magie* d’Éliphas Lévi
+credit: Éliphas Lévi, *Dogme et rituel de la haute magie*, édition anglaise de 1896
+pour: occultisme
+largeur: 320
+
+= portrait-reichenbach
+commons: Karl Reichenbach.jpg
+legende: Karl von Reichenbach, l’inventeur de l’od
+credit: lithographie de Rudolph Hoffmann
+pour: od
+largeur: 320
+
+= orphee-mosaique
+commons: Roman Orpheus Taming Wild Animals.jpg
+legende: Orphée charmant les bêtes sauvages de sa lyre
+credit: mosaïque romaine d’Édesse, 194
+pour: orphisme
+
+= inquisition-registre
+commons: Fragment de registre d'inquisition. Aveux passés devant l'inquisiteur Ferrier 01.jpg
+legende: Aveux de croyants recueillis par l’inquisiteur Ferrier
+credit: registre d’inquisition, 1243 — Archives départementales de l’Aude
+pour: parfaits
+largeur: 560
+
+= malachie-wion
+commons: Arnold Wion - Lignum Vitae - 1595 - p311 Part.jpg
+legende: La première publication de la prophétie des papes attribuée à saint Malachie
+credit: Arnold Wion, *Lignum vitae*, Venise, 1595
+pour: prophetie-de-saint-malachie
+
+= denys-thevet
+commons: Denis Areopagite.jpg
+legende: Denys l’Aréopagite, que l’on confondait avec saint Denis de Paris
+credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
+pour: pseudo-denys
+
+= bronnikov-pythagoriciens
+commons: Bronnikov gimnpifagoreizev.jpg
+legende: *L’Hymne des pythagoriciens au soleil levant*
+credit: Fiodor Bronnikov, 1869 — galerie Tretiakov, Moscou
+pour: pythagorisme
+largeur: 560
+
+= portrait-guenon
+commons: Rene-guenon-1925.jpg
+legende: René Guénon
+credit: photographie, 1925
+pour: rene-guenon, tradition-primordiale
+largeur: 320
+
+= rose-holtzbecker
+commons: Johannes Simon Holtzbecher - Rosa gallica - Google Art Project.jpg
+legende: Rose de France, dans le florilège des ducs de Holstein-Gottorp
+credit: Hans Simon Holtzbecker, 1649-1659
+pour: la-rose
+
+= batoni-sacre-coeur
+commons: SacredHeartBatoni.jpg
+legende: *Le Sacré-Cœur de Jésus*, l’image la plus répandue de la dévotion
+credit: Pompeo Batoni, 1767 — église du Gesù, Rome
+pour: sacre-coeur, paray-le-monial
+
+= vehme-tribunal
+commons: League of the Holy Court.JPG
+legende: Un tribunal vehmique en séance
+credit: peinture, vers 1375
+pour: sainte-vehme
+
+= secretum-table
+commons: Onomantic table from the Secretum Secretorum.jpg
+legende: Une table d’onomancie, pour deviner l’issue d’un combat par le nom des combattants, dans le *Secret des secrets*
+credit: version russe, XVIe siècle — Bibliothèque bodléienne, Oxford
+pour: secret-des-secrets
+largeur: 320
+
+= portrait-sohrawardi
+commons: Shahab al-Din Suhrawardi.jpg
+legende: Sohrawardi, portrait imaginaire
+credit: dessin
+pour: sohrawardi
+largeur: 320
+
+= marc-de-cafe
+commons: Kaffeesatz.Tassenboden.jpg
+legende: Le marc au fond d’une tasse, que l’on interprète
+credit: photographie de Membeth, 2013
+pour: tasseographie
+
+= saint-marcoul
+commons: Pelerinage des rois à st-MArcoul.JPG
+legende: Les rois de France vont au tombeau de saint Marcoul, à Corbeny, avant de toucher les écrouelles
+credit: gravure de l’*Apologie pour le pèlerinage de nos rois à Corbeny*, 1638
+pour: thaumaturge
+
+= zanoni-1842
+commons: Zanoni 1st.jpg
+legende: La page de titre de *Zanoni*
+credit: Edward Bulwer-Lytton, Londres, 1842
+pour: zanoni
+largeur: 320
+
+% Thèmes divers
+
+= viollet-cathedrale
+commons: Gothic-cathedral-illustration-02.png
+legende: La cathédrale idéale du XIIIe siècle, avec ses sept flèches, dessinée par Viollet-le-Duc
+credit: Eugène Viollet-le-Duc, *Dictionnaire raisonné de l’architecture*, 1856
+pour: gothique, art-gothique
+
+= reims-facade
+commons: Kathedraal van Reims La Cathédrale (titel op object) Reims (serietitel op object), RP-F-F19892.jpg
+legende: La façade de la cathédrale de Reims, avant les bombardements de 1914
+credit: photographie, 1870-1900 — Rijksmuseum
+pour: art-gothique
+
+= otrante-1765
+commons: Walpole horace gothic B20114 47.jpg
+legende: Le *Château d’Otrante* de Walpole, premier roman gothique, dans son édition de 1765
+credit: Horace Walpole, 1765
+pour: roman-gothique
+largeur: 480
+
+= dodecaedre-leonard
+commons: De divina proportione - Illustration 13, crop.jpg
+legende: Le dodécaèdre « vide », dessiné par Léonard de Vinci pour Luca Pacioli
+credit: Léonard de Vinci, *De divina proportione*, 1509
+pour: dodecaedre, solides-de-platon
+
+= dodecaedre-romain
+commons: Pentagon-dodecaëder in brons, 150 tot 400 NC, vindplaats- Tongeren, Leopoldwal, 1939, collectie Gallo-Romeins Museum Tongeren, 4002.jpg
+legende: Un dodécaèdre romain de bronze, objet dont on ignore toujours l’usage
+credit: IIe-IVe siècle — musée gallo-romain de Tongres
+pour: dodecaedre
+
+= kepler-mysterium
+commons: Mysterium Cosmographicum solar system model.jpg
+legende: Les orbites des planètes emboîtées dans les cinq solides de Platon, selon le jeune Kepler
+credit: Johannes Kepler, *Mysterium cosmographicum*, 1596
+pour: solides-de-platon
+
+= kafiristan-carte
+commons: Map of Kafiristan WDL12996.png
+legende: Le Kafiristan, où Kipling envoie ses deux aventuriers francs-maçons se faire rois
+credit: carte de la Société royale de géographie, 1881
+pour: l-homme-qui-voulut-etre-roi
+largeur: 520
+
+% Franc-maçonnerie, ajouts de 1.5
+
+= constitutions-1723
+commons: Anderson'sConstitutions.jpg
+legende: Frontispice et page de titre des *Constitutions* de 1723 : le duc de Montagu remet au duc de Wharton le rouleau des Constitutions et le compas
+credit: John Pine, gravure, Londres, 1723
+pour: constitutions-d-anderson, franc-maconnerie
+largeur: 600
+
+= initiation-apprenti
+commons: Freimaurer Initiation.jpg
+legende: La réception d’un apprenti, les yeux bandés, devant le tableau de la loge tracé au sol
+credit: gravure coloriée, vers 1805, d’après celle de Gabanon (1745)
+pour: apprenti, initiation
+largeur: 560
+
+= grand-orient-rue-cadet
+commons: Hôtel du Grand Orient (de France), rue Cadet (9e arrondissement) - btv1b531465372.jpg
+legende: L’hôtel du Grand Orient de France, rue Cadet à Paris
+credit: photographie de l’agence Rol, 1925 — Bibliothèque nationale de France
+pour: grand-orient-de-france
+
+= freemasons-hall-1809
+commons: Microcosm of London Plate 038 - Freemasons' Hall.jpg
+legende: Une assemblée dans le Freemasons’ Hall de Londres, siège de la Grande Loge
+credit: Thomas Rowlandson et Auguste Pugin, *The Microcosm of London*, 1809
+pour: temple-maconnique, grande-loge-de-londres
+largeur: 560
+
+= loge-d-adoption
+commons: LogeAdoption.jpg
+legende: La réception d’une femme dans une loge d’adoption sous le Premier Empire
+credit: gravure, vers 1810
+pour: maconnerie-d-adoption
+largeur: 560
+
+% Courants, ajouts de 1.5
+largeur: 440
+
+= steiner-goetheanum
+commons: Rudolf Steiner mit Modell Erstes Goetheanum -16. Juni 1914.Foto Rietmann.jpg
+legende: Rudolf Steiner devant la maquette du premier Goetheanum, qui brûla dans la nuit du 31 décembre 1922
+credit: photographie d’Otto Rietmann, juin 1914
+pour: anthroposophie, societe-anthroposophique
+largeur: 520
+
+= stukeley-druide
+commons: ABritishDruid.png
+legende: « Un druide breton », tel que l’imaginait l’antiquaire William Stukeley
+credit: William Stukeley, 1724
+pour: druidisme
+largeur: 360
+
+= vanmour-derviches
+commons: Dansende derwisjen Rijksmuseum SK-A-4081.jpeg
+legende: Les derviches tourneurs dans leur salle de danse à Constantinople
+credit: Jean-Baptiste Vanmour, 1720-1737 — Rijksmuseum
+pour: soufisme
+largeur: 560
+
+= tables-tournantes
+commons: Tables tournantes 1853.jpg
+legende: La vogue des tables tournantes dans les salons parisiens
+credit: Ange-Louis Janet, *L’Illustration*, mai 1853
+pour: spiritisme
+largeur: 560
+
+= saint-martin-profil
+commons: Saint-Martin, from The Martinism Order book by Chinski.jpg
+legende: Louis-Claude de Saint-Martin, le « Philosophe inconnu »
+credit: portrait de profil, fin du XVIIIe siècle
+pour: martinisme
+largeur: 360
+
+= cahier-elus-coens
+commons: Prunelle de Lière’s Élus Coëns Notebook.jpg
+legende: Figures d’opérations dans le cahier d’un élu coën, Prunelle de Lière
+credit: manuscrit du XVIIIe siècle
+pour: elus-coens
+largeur: 520
+
+= rops-satan
+commons: Félicien Rops, Satan Sowing Tare (Satan semant l'ivraie), NGA 40199.jpg
+legende: *Satan semant l’ivraie* sur Paris endormi
+credit: Félicien Rops — National Gallery of Art, Washington
+pour: satanisme
+largeur: 400
+
+= schelling-1848
+commons: Friedrich Wilhelm Joseph Schelling, 1848 daguerreotype.jpg
+legende: Friedrich Wilhelm Joseph Schelling, le philosophe de la nature
+credit: daguerréotype d’Hermann Biow, 1848
+pour: naturphilosophie
+largeur: 360
+
+= paracelse-hirschvogel
+commons: Paracelsus-03.jpg
+legende: Paracelse à quarante-sept ans, avec sa devise « Qu’il ne soit pas à un autre, celui qui peut être à lui-même »
+credit: Augustin Hirschvogel, 1540
+pour: paracelsisme
+largeur: 360
+
+= nag-hammadi
+commons: Nag Hammadi Codex II.jpg
+legende: La fin de l’*Apocryphon de Jean* et le début de l’*Évangile de Thomas*, dans le codex II de Nag Hammadi
+credit: papyrus copte, IVe siècle — Musée copte, Le Caire
+pour: gnosticisme
+largeur: 360
+
+= sri-yantra
+commons: Sri Yantra copper.jpg
+legende: Le Sri Yantra, figure de neuf triangles entrelacés, gravé sur cuivre
+credit: objet du XXe siècle ; photographie de Tangopaso
+pour: tantrisme
+largeur: 400
+
+= medjybij
+commons: Medzhybizh. Beit Midrash of Baal Shem Tov.jpg
+legende: La maison d’étude du Baal Shem Tov à Medjybij, en Podolie
+credit: photographie, vers 1900
+pour: hassidisme
+largeur: 520
+
+= abbaye-de-thelema
+commons: Abbey of Thelema 09.jpg
+legende: Ce qui reste des peintures de l’abbaye de Thélème, la maison de Crowley à Cefalù
+credit: photographie d’Erik Albers, 2017
+pour: thelema
+largeur: 520
+
+= quimby-portrait
+commons: The Quimby Manuscripts - portrait.jpg
+legende: Phineas Parkhurst Quimby, guérisseur du Maine dont procède la Nouvelle Pensée
+credit: photographie publiée en 1921
+pour: nouvelle-pensee
+largeur: 360
+
+% Lieux, derniers ajouts de 1.5
+largeur: 520
+
+= harran-ruines
+commons: Harran Üniversitesi Kalıntıları 2015.jpg
+legende: Les ruines de la grande mosquée de Harran et sa tour, sur le site de la ville des Sabéens
+credit: photographie de Hamdigumus, 2015
+pour: harran, sabeens-de-harran
+
+= monte-verita-1904
+commons: Erich Mühsam Postkarte Sanatorium Monte Verità ca 1904.jpg
+legende: Bain d’air et de lumière près de la cascade de Monte Verità, en 1904
+credit: carte postale photographique, vers 1904
+pour: monte-verita
+largeur: 360
+
+= alexandrie-pompee
+commons: Penny Magazine 1834 137 Pompey's Pillar.jpg
+legende: La colonne dite de Pompée, seul monument resté debout du Sérapéum d’Alexandrie
+credit: gravure du *Penny Magazine*, 1834
+pour: alexandrie, serapis
+largeur: 360

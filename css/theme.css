@@ -55,6 +55,9 @@
   --c-astronomie: #0d6a82;
   --c-pierres: #8a3c9e;
   --c-echecs: #36414b;
+  --c-bestiaire: #4d7c0f;
+  --c-egypte: #c2410c;
+  --c-codes: #4338ca;
   --c-perso: #6b6577;
 
   /* la carte des lieux */
@@ -121,6 +124,9 @@
     --c-astronomie: #6fcce4;
     --c-pierres: #d59ae6;
     --c-echecs: #c3ccd5;
+    --c-bestiaire: #c3e06b;
+    --c-egypte: #fb8f5c;
+    --c-codes: #7c83ff;
     --c-perso: #aaa3b8;
     --mer: #0e1522;
     --terre: #221d31;
@@ -177,6 +183,9 @@
   --c-astronomie: #6fcce4;
   --c-pierres: #d59ae6;
   --c-echecs: #c3ccd5;
+  --c-bestiaire: #c3e06b;
+  --c-egypte: #fb8f5c;
+  --c-codes: #7c83ff;
   --c-perso: #aaa3b8;
   --mer: #0e1522;
   --terre: #221d31;

@@ -10,7 +10,7 @@ dates: depuis 1614
 def: Fraternité secrète de sages annoncée par trois manifestes allemands de 1614 à 1616, dont l'existence réelle n'a jamais été prouvée, et qui a inspiré depuis de nombreux ordres se réclamant d'elle.
 texte: La *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), la *[[confessio-fraternitatis|Confessio]]* (1615) et les *[[noces-chymiques|Noces chymiques]]* (1616) révèlent l'existence d'une fraternité fondée par [[christian-rosenkreutz]], qui détiendrait une science universelle de la nature et de Dieu et appellerait à une réforme générale du savoir et de la chrétienté. Ces textes, issus du milieu luthérien de Tübingen autour de [[johann-valentin-andreae]], déclenchent une « fureur rosicrucienne » : des centaines de publications, de [[michael-maier]] à [[robert-fludd]], défendent ou attaquent des frères que nul ne rencontre. En 1623, des affiches placardées à Paris annoncent leur présence invisible dans la ville.
 texte: Au XVIIIe siècle, la [[franc-maconnerie]] crée des grades de « Rose-Croix » et un ordre allemand de la [[rose-croix-d-or|Rose-Croix d'or]] pratique l'alchimie. Le XIXe et le XXe siècle voient naître la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], l'[[amorc|AMORC]], la [[rosicrucian-fellowship|Rosicrucian Fellowship]], le [[lectorium-rosicrucianum|Lectorium Rosicrucianum]]… Aucun n'a de filiation historique démontrée avec les manifestes. Leur symbole commun est une [[la-rose|rose]] fleurissant au cœur d'une croix.
-voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix
+voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix, francis-bacon, le-comte-de-gabalis
 
 @ franc-maconnerie
 cat: maconnerie
@@ -24,7 +24,7 @@ texte: Les maçons se réunissent en [[loge|loges]], lors de [[tenue|tenues]] ri
 texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]]. Son secret supposé a nourri, dès le XVIIIe siècle, un [[antimaconnisme]] tenace.
 texte: Elle a compté parmi ses membres Montesquieu, Voltaire, [[benjamin-franklin]], [[wolfgang-amadeus-mozart|Mozart]], [[gotthold-ephraim-lessing|Lessing]], [[johann-wolfgang-von-goethe|Goethe]], [[joseph-de-maistre]] ou [[rudyard-kipling|Kipling]], et une grande part des élites politiques des XVIIIe et XIXe siècles, des deux côtés de l'Atlantique. Exclue en principe des femmes, elle s'est ouverte à elles par la [[maconnerie-d-adoption|maçonnerie d'adoption]], puis par des obédiences mixtes et féminines ; aux États-Unis, la [[prince-hall|maçonnerie de Prince Hall]] est née de la ségrégation.
 schema: plan-de-loge
-voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal
+voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal, maconnerie-egyptienne, alphabet-maconnique, codex-copiale, rudyard-kipling
 
 @ grades-maconniques
 cat: maconnerie
@@ -45,7 +45,8 @@ dates: 1120 – 1312 ; mythe depuis le XVIIIe siècle
 def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1312 après un procès retentissant, devenu dans l'imaginaire ésotérique le gardien de secrets transmis à des sociétés ultérieures.
 texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
 texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
-voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors
+texte: Le roman et l'image ont fait leur part : [[walter-scott|Walter Scott]] met en scène dans *Ivanhoé* (1819) un templier cruel et un grand maître qui accuse une juive de sorcellerie ; on a cru reconnaître dans le Pégase de l'Inner Temple de Londres une lecture fautive de leur sceau aux deux cavaliers, et l'Agnus Dei orne les sceaux de leurs maîtres provinciaux. Le procès voulu par [[philippe-le-bel|Philippe le Bel]] est mieux connu depuis la redécouverte, en 2001, du parchemin de [[chinon|Chinon]], où le pape absout les dignitaires en 1308 ; parmi les accusations figurait l'adoration d'un [[chat]].
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat
 
 @ rite-ecossais-ancien-et-accepte
 cat: maconnerie
@@ -81,7 +82,7 @@ def: Rite maçonnique « égyptien » à très nombreux degrés, issu de la fusi
 texte: Le rite de Misraïm (nom hébreu de l'Égypte), apparu en Italie vers 1805 et implanté en France par les frères Bédarride, compte quatre-vingt-dix degrés. Le rite de Memphis est fondé à Paris en 1838 par Jacques-Étienne Marconis de Nègre. Tous deux s'inscrivent dans l'[[egyptosophie]] maçonnique ouverte par la Haute Maçonnerie égyptienne de [[cagliostro]]. Giuseppe Garibaldi les réunit en 1881.
 texte: Le rite a attiré les occultistes, de [[papus]] à [[robert-ambelain]], qui l'ont réorganisé au XXe siècle. Il est pratiqué par plusieurs obédiences en France et en Italie.
 schema: rites-maconniques/memphis
-voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus, jean-marie-ragon
+voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus, jean-marie-ragon, maconnerie-egyptienne, ptah, crata-repoa
 
 @ elus-coens
 cat: societes
@@ -104,7 +105,7 @@ def: Société secrète fondée en 1776 par Adam Weishaupt pour répandre les id
 texte: [[adam-weishaupt]] veut former une élite éclairée qui ferait progresser la raison et la morale contre l'obscurantisme et le despotisme. L'ordre, organisé en grades et en pseudonymes antiques, s'appuie sur les loges maçonniques ; le baron Knigge, qui le rejoint en 1780, en assure l'expansion. Il compte jusqu'à deux mille membres, dont des aristocrates, des fonctionnaires et Goethe.
 texte: Le gouvernement bavarois l'interdit en 1784-1785 et publie ses documents saisis. En 1797, l'[[augustin-barruel|abbé Barruel]] accuse les Illuminés d'avoir fomenté la Révolution française. Depuis, les « Illuminati », sans existence réelle depuis plus de deux siècles, sont accusés de gouverner secrètement le monde dans d'innombrables récits complotistes.
 attention: À ne pas confondre avec l'[[illuminisme]], courant mystique de la même époque, auquel Weishaupt était au contraire hostile.
-voir: adam-weishaupt, franc-maconnerie, illuminisme, johann-wolfgang-von-goethe
+voir: adam-weishaupt, franc-maconnerie, illuminisme, johann-wolfgang-von-goethe, chouette
 
 @ illumines-d-avignon
 cat: societes
@@ -193,7 +194,7 @@ def: Ordre magique fondé à Londres en 1888, qui a réuni en un seul système l
 texte: Fondé par [[william-wynn-westcott]], [[samuel-liddell-mathers]] et William Robert Woodman, membres de la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], plusieurs fois conférenciers à la Société hermétique d'[[anna-kingsford|Anna Kingsford]], l'ordre s'appuie sur un manuscrit chiffré et sur des lettres d'une adepte allemande, probablement inventées. Il organise ses grades sur l'[[arbre-des-sephiroth|arbre des séphiroth]], du Néophyte, à la base, aux grades du Second Ordre, qui s'ouvre en 1892 avec un rituel dans le caveau de [[christian-rosenkreutz]], où l'on pratique la magie.
 texte: La Golden Dawn attire des écrivains et des artistes : le poète [[william-butler-yeats|W. B. Yeats]], l'actrice Florence Farr, les romanciers Arthur Machen et Algernon Blackwood, [[arthur-edward-waite]], [[pamela-colman-smith]] et [[aleister-crowley]]. Les conflits autour de Mathers la font éclater en 1900-1903 en plusieurs ordres, dont la Stella Matutina. Les rituels publiés par [[israel-regardie]] ont permis à son système, du [[rituel-du-pentagramme]] aux [[sentiers|sentiers]] du tarot, de devenir la base de la magie occidentale contemporaine.
 schema: arbre-sephiroth
-voir: samuel-liddell-mathers, william-wynn-westcott, kabbale-hermetique, magie-ceremonielle, israel-regardie, a-a, echecs-enochiens
+voir: samuel-liddell-mathers, william-wynn-westcott, kabbale-hermetique, magie-ceremonielle, israel-regardie, a-a, echecs-enochiens, horus, isis
 
 @ a-a
 cat: societes
@@ -248,7 +249,7 @@ dates: depuis 1915
 def: Ordre rosicrucien fondé à New York en 1915 par Harvey Spencer Lewis, devenu le plus grand ordre rosicrucien du monde, qui enseigne par correspondance.
 texte: [[harvey-spencer-lewis]] présente l'AMORC comme l'héritier d'une tradition remontant à l'Égypte du pharaon Akhenaton. Installé à San José, en Californie, l'ordre y construit le parc rosicrucien et un musée égyptien. Il diffuse ses « monographies », leçons hebdomadaires de mysticisme, de métaphysique et de développement personnel, envoyées aux membres par la poste.
 texte: Implanté dans de nombreux pays, dont la France depuis l'entre-deux-guerres, l'AMORC a été au XXe siècle la porte d'entrée de beaucoup de gens dans l'ésotérisme.
-voir: harvey-spencer-lewis, rose-croix, egyptosophie
+voir: harvey-spencer-lewis, rose-croix, egyptosophie, akhenaton
 
 @ rosicrucian-fellowship
 cat: societes
@@ -322,4 +323,4 @@ repere: 1886 — *Les Fantômes des vivants*.
 repere: 1905 — Charles Richet préside la Société.
 repere: 1908 — Une enquête à Naples sur Eusapia Palladino conclut à des phénomènes inexpliqués.
 repere: 1913 — Henri Bergson préside la Société.
-voir: metapsychique, spiritisme, medium, helena-blavatsky, charles-richet, eusapia-palladino
+voir: metapsychique, spiritisme, medium, helena-blavatsky, charles-richet, eusapia-palladino, arthur-conan-doyle

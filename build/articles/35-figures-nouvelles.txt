@@ -1,0 +1,696 @@
+# Figures de la version 1.5 : personnages de l'histoire et de la légende,
+# écrivains, égyptologues, cryptologues, dieux et saints.
+
+@ jeanne-d-arc
+cat: figures
+nom: Jeanne d'Arc
+alias: la Pucelle, Jeanne la Pucelle, Pucelle d'Orléans, sainte Jeanne d'Arc, voix de Jeanne, arbre des fées
+dates: vers 1412 – 1431
+an: 1412
+def: Jeune paysanne lorraine qui, guidée par des voix célestes, fit lever le siège d'Orléans et sacrer Charles VII à Reims, avant d'être brûlée à Rouen comme hérétique en 1431 ; réhabilitée, elle fut canonisée en 1920.
+texte: Jeanne naît vers 1412 à Domrémy, aux marches de Lorraine, dans une famille de laboureurs. Vers treize ans, dans le jardin de son père, elle entend une voix et voit une grande lumière : ce sont, dira-t-elle, [[saint-michel|saint Michel]], puis sainte Catherine et sainte Marguerite, qui lui ordonnent d'aller secourir le roi de France. En février 1429, elle obtient du capitaine de Vaucouleurs une escorte et gagne [[chinon|Chinon]], où elle convainc le dauphin Charles. Une épée marquée de cinq croix, que ses voix lui ont indiquée, est retrouvée derrière l'autel de Sainte-Catherine-de-Fierbois.
+texte: Le 8 mai 1429, les Anglais lèvent le siège d'Orléans ; le 17 juillet, Charles VII est sacré à Reims. Capturée à Compiègne le 23 mai 1430 et vendue aux Anglais, elle est jugée à [[rouen|Rouen]] par un tribunal d'Église présidé par Pierre Cauchon. On l'interroge sur ses voix, sur l'arbre des fées de Domrémy, où les enfants suspendaient des couronnes, sur la [[mandragore]] qu'elle aurait portée : on veut faire d'elle une [[sorciere|sorcière]] et une hérétique. Elle est brûlée vive sur la place du Vieux-Marché le 30 mai 1431.
+texte: Le procès de réhabilitation casse la sentence en 1456. On racontait dès 1429 qu'une prophétie de [[merlin|Merlin]] annonçait une pucelle venue du bois Chenu pour sauver le royaume ; de fausses Jeanne, comme Jeanne des Armoises en 1436, prétendirent avoir échappé au bûcher. L'anthropologue [[margaret-murray|Margaret Murray]] a soutenu en 1921 que Jeanne et son compagnon [[gilles-de-rais|Gilles de Rais]] appartenaient à une religion païenne secrète, thèse rejetée par les historiens. Michelet, puis Péguy, ont fait d'elle une figure de la France ; elle a été béatifiée en 1909, canonisée en 1920 et proclamée patronne secondaire de la France en 1922.
+repere: vers 1412 — Naissance à Domrémy.
+repere: vers 1425 — Premières voix.
+repere: 1429 — Rencontre de Charles VII à Chinon ; délivrance d'Orléans le 8 mai ; sacre de Reims le 17 juillet.
+repere: 1430 — Capturée à Compiègne le 23 mai.
+repere: 1431 — Procès de Rouen ; brûlée le 30 mai.
+repere: 1456 — Sentence de réhabilitation.
+repere: 1920 — Canonisation par Benoît XV.
+extrait: Un jour d’été, jour de jeûne, à midi, Jeanne étant au jardin de son père, tout près de l’église, elle vit de ce côté une éblouissante lumière et elle entendit une voix : « Jeanne, sois bonne et sage enfant ; va souvent à l’église. » La pauvre fille eut grand’peur. ¶ Une autre fois, elle entendit encore la voix, vit la clarté, mais dans cette clarté de nobles figures dont l’une avait des ailes et semblait un sage prud’homme. Il lui dit : « Jeanne, va au secours du roi de France, et tu lui rendras son royaume. » Elle répondit, toute tremblante : « Messire, je ne suis qu’une pauvre fille ; je ne saurais chevaucher, ni conduire les hommes d’armes. » La voix répliqua : « Tu iras trouver M. de Baudricourt, capitaine de Vaucouleurs, et il te fera mener au roi. Sainte Catherine et sainte Marguerite viendront t’assister. » Elle resta stupéfaite et en larmes, comme si elle eût déjà vu sa destinée tout entière. ¶ Le prud’homme n’était pas moins que saint Michel, le sévère archange des jugements et des batailles. Il revint encore, lui rendit courage, « et lui raconta la pitié qui estoit au royaume de France ». Puis vinrent les blanches figures de saintes, parmi d’innombrables lumières, la tête parée de riches couronnes, la voix douce et attendrissante, à en pleurer.
+source: Jules Michelet, *Histoire de France*, livre X, chap. III, « Jeanne Darc », éd. Flammarion, 1893-1898 | ws Histoire de France (Jules Michelet)/édition 1893/Moyen Âge/Livre 10/Chapitre 3
+extrait: Si, comme tout le monde disait, la perte du royaume était l’œuvre d’une femme, d’une mère dénaturée, le salut pouvait bien venir d’une fille. C’est justement ce qu’annonçait une prophétie de Merlin ; cette prophétie, enrichie, modifiée selon les provinces, était devenue toute lorraine dans le pays de Jeanne Darc. C’était une pucelle des Marches de Lorraine qui devait sauver le royaume. La prophétie avait pris probablement cet embellissement par suite du mariage récent de René d’Anjou avec l’héritière du duché de Lorraine, qui, en effet, était très heureux pour la France.
+source: Jules Michelet, *Histoire de France*, livre X, chap. III, « Jeanne Darc », éd. Flammarion, 1893-1898 | ws Histoire de France (Jules Michelet)/édition 1893/Moyen Âge/Livre 10/Chapitre 3
+voir: domremy, chinon, rouen, saint-michel, gilles-de-rais, merlin, margaret-murray, mandragore, neuf-preux
+
+@ godefroy-de-bouillon
+cat: figures
+nom: Godefroy de Bouillon
+alias: Godefroi de Bouillon, avoué du Saint-Sépulcre, duc de Basse-Lotharingie, Chevalier au cygne
+dates: vers 1058 – 1100
+an: 1058
+def: Duc de Basse-Lotharingie, l'un des chefs de la première croisade, premier souverain latin de Jérusalem en 1099 sous le titre d'avoué du Saint-Sépulcre ; la légende le fait descendre du Chevalier au cygne.
+texte: Fils d'Eustache II de Boulogne et d'Ide, fille du duc de Basse-Lotharingie, Godefroy hérite de son oncle le château de [[bouillon|Bouillon]] et le duché. Pour partir à la croisade prêchée en 1095, il engage Bouillon à l'évêque de Liège, Otbert, et prend la route en août 1096 avec ses frères Eustache et Baudouin. Après Nicée et Antioche, les croisés prennent Jérusalem le 15 juillet 1099. Élu à la tête de la ville, Godefroy refuse, selon les chroniqueurs, de porter une couronne d'or là où le Christ avait porté la couronne d'épines, et se contente du titre d'avoué du Saint-Sépulcre. Il bat les Égyptiens à Ascalon et meurt le 18 juillet 1100 ; son frère Baudouin devient le premier roi de Jérusalem.
+texte: La légende s'empare aussitôt de lui. Les chansons du cycle de la croisade lui donnent pour grand-père le Chevalier au [[cygne]], venu sur une nacelle tirée par un cygne, que les Allemands appelleront [[lohengrin|Lohengrin]] ; il devient l'un des [[neuf-preux|Neuf Preux]] et le héros de *La Jérusalem délivrée* du Tasse (1581), que [[blaise-de-vigenere|Blaise de Vigenère]] traduisit. On lui attribue l'installation de chanoines à l'église du Mont-Sion de Jérusalem ; les *[[dossiers-secrets|Dossiers secrets]]* de [[pierre-plantard|Pierre Plantard]] en ont tiré l'idée d'un [[prieure-de-sion|Prieuré de Sion]] fondé par lui en 1099, pure invention.
+repere: vers 1058 — Naissance, sans doute à Boulogne ou à Baisy.
+repere: 1087 — Investi du duché de Basse-Lotharingie.
+repere: 1096 — Il engage Bouillon à l'évêque de Liège et part pour la croisade.
+repere: 1099 — Prise de Jérusalem le 15 juillet ; il devient avoué du Saint-Sépulcre.
+repere: 1100 — Mort à Jérusalem le 18 juillet.
+repere: 1581 — *La Jérusalem délivrée* du Tasse.
+voir: bouillon, cygne, lohengrin, neuf-preux, prieure-de-sion, templiers, orval, hugues-de-payns
+
+@ philippe-le-bel
+cat: figures
+nom: Philippe le Bel
+alias: Philippe IV le Bel, roi de fer, malédiction des Templiers, Rois maudits, Nogaret
+dates: 1268 – 1314
+an: 1268
+def: Roi de France de 1285 à 1314, qui fit arrêter les Templiers en 1307 et obtint du pape la suppression de leur ordre ; la légende veut que Jacques de Molay l'ait cité au jugement de Dieu sur le bûcher.
+texte: Philippe IV, roi à dix-sept ans, gouverne avec des légistes comme Guillaume de Nogaret, qui affirment la souveraineté du roi face au pape et aux grands. Son conflit avec Boniface VIII culmine en 1303 avec l'attentat d'Anagni, où les hommes de Nogaret humilient le pontife. Toujours à court d'argent, il manipule les monnaies, expulse les Juifs en 1306 et confisque leurs biens.
+texte: Le vendredi 13 octobre 1307, à l'aube, tous les [[templiers]] du royaume sont arrêtés sur son ordre, accusés de renier le Christ, de cracher sur la croix et d'adorer une idole, le [[baphomet|Baphomet]]. Le pape Clément V, après avoir absous en secret les dignitaires à [[chinon|Chinon]] en 1308 — un parchemin retrouvé aux archives du Vatican en 2001 l'a confirmé —, cède et supprime l'ordre en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]], rétractant ses aveux, est brûlé à Paris le 18 mars 1314. Le chroniqueur Geoffroi de Paris, témoin, lui prête l'annonce que Dieu vengerait les Templiers ; Clément V meurt en avril et Philippe en novembre. La légende d'une citation à comparaître dans l'année, puis celle d'une malédiction frappant toute la lignée — les « Rois maudits » du roman de Maurice Druon —, s'est formée ensuite, comme celle du trésor du Temple caché à [[gisors|Gisors]].
+repere: 1268 — Naissance à Fontainebleau.
+repere: 1285 — Il devient roi.
+repere: 1303 — Attentat d'Anagni contre Boniface VIII.
+repere: 1307 — Arrestation des Templiers le 13 octobre.
+repere: 1312 — Le pape supprime l'ordre du Temple.
+repere: 1314 — Jacques de Molay est brûlé le 18 mars ; Philippe meurt le 29 novembre.
+voir: templiers, jacques-de-molay, chinon, gisors, baphomet
+
+@ marie-madeleine
+cat: figures
+nom: Marie-Madeleine
+alias: Marie de Magdala, Madeleine, sainte Marie-Madeleine, apôtre des apôtres, Évangile de Marie, Magdala
+dates: Ier siècle
+an: 30
+def: Disciple de Jésus venue de Magdala, témoin de la crucifixion et première à voir le Christ ressuscité ; la tradition l'a confondue avec la pécheresse repentie et fait débarquer en Provence, et l'ésotérisme moderne en a fait l'épouse de Jésus.
+texte: Les Évangiles la nomment parmi les femmes qui suivaient Jésus et dont il avait chassé « sept démons ». Elle se tient au pied de la croix, et l'Évangile de Jean raconte qu'au matin de Pâques elle prend le ressuscité pour le jardinier avant qu'il ne l'appelle par son nom ; il l'envoie annoncer la nouvelle aux disciples, d'où son titre d'« apôtre des apôtres ». En 591, le pape Grégoire le Grand l'identifie à la pécheresse qui parfuma les pieds du Christ et à Marie de Béthanie : la Madeleine repentante aux longs cheveux, patronne des pénitents, est née. L'Église catholique a distingué de nouveau les trois femmes en 1969 et élevé sa mémoire au rang de fête en 2016.
+texte: Les textes gnostiques lui donnent une place éminente : l'*Évangile de Marie*, connu par un papyrus acquis au Caire en 1896, la montre enseignant les disciples ; l'*Évangile de Philippe*, retrouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], l'appelle la compagne de Jésus, et la *[[pistis-sophia|Pistis Sophia]]* en fait la principale interlocutrice du Sauveur. La [[legende-doree|Légende dorée]] la fait arriver en Provence avec Lazare, Marthe et Maximin, sur une barque sans voile ; elle se retire trente ans dans la grotte de la [[sainte-baume|Sainte-Baume]]. [[vezelay|Vézelay]] puis [[saint-maximin|Saint-Maximin]] se disputent ses reliques.
+texte: L'église de [[rennes-le-chateau|Rennes-le-Château]] lui est dédiée, et [[berenger-sauniere|Bérenger Saunière]] bâtit la tour Magdala. *[[l-enigme-sacree|L'Énigme sacrée]]* (1982) puis le *[[da-vinci-code|Da Vinci Code]]* (2003) ont fait d'elle l'épouse de Jésus et la mère d'une lignée royale, le « [[graal|Graal]] » vivant : roman, et non histoire.
+repere: Ier siècle — Témoin de la crucifixion et de la résurrection.
+repere: 591 — Grégoire le Grand la confond avec la pécheresse et Marie de Béthanie.
+repere: vers 1050 — Vézelay affirme posséder ses reliques.
+repere: 1279 — Charles II d'Anjou « découvre » ses restes à Saint-Maximin.
+repere: 1896 — Un papyrus de l'*Évangile de Marie* est acquis au Caire.
+repere: 2016 — Le pape François élève sa mémoire au rang de fête.
+extrait: Cependant Marie se tenait dehors près du sépulcre, et pleurait. Comme elle pleurait, elle se baissa pour regarder dans le sépulcre ; et elle vit deux anges vêtus de blanc, assis à la place où avait été couché le corps de Jésus, l’un à la tête, l’autre aux pieds. Ils lui dirent : Femme, pourquoi pleures-tu ? Elle leur répondit : Parce qu’ils ont enlevé mon Seigneur, et je ne sais où ils l’ont mis. En disant cela, elle se retourna, et elle vit Jésus debout ; mais elle ne savait pas que c’était Jésus. Jésus lui dit : Femme, pourquoi pleures-tu ? Qui cherches-tu? Elle, pensant que c’était le jardinier, lui dit : Seigneur, si c’est toi qui l’as emporté, dis-moi où tu l’as mis, et je le prendrai. Jésus lui dit : Marie ! Elle se retourna, et lui dit en hébreu : Rabbouni ! C’est-à-dire, Maître ! Jésus lui dit : Ne me touche pas ; car je ne suis pas encore monté vers mon Père. Mais va trouver mes frères, et dis-leur que je monte vers mon Père et votre Père, vers mon Dieu et votre Dieu. Marie de Magdala alla annoncer aux disciples qu’elle avait vu le Seigneur, et qu’il lui avait dit ces choses.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Évangile selon Jean, chap. XX, versets 11-18 | ws Bible Segond 1910/Évangile selon Jean
+extrait: Après l’ascension du Seigneur, la quatorzième année après la Passion, les disciples se répandirent dans les diverses contrées pour y semer la parole divine ; et saint Pierre confia Marie-Madeleine à saint Maximin, l’un des soixante-douze disciples du Seigneur. Alors saint Maximin, Marie-Madeleine, Lazare, Marthe, Martille, et avec eux saint Cédon, l’aveugle-né guéri par Jésus, ainsi que d’autres chrétiens encore, furent jetés par les infidèles sur un bateau et lancés à la mer, sans personne pour diriger le bateau. Les infidèles espéraient que, de cette façon, ils seraient tous noyés à la fois. Mais le bateau, conduit par la grâce divine, arriva heureusement dans le port de Marseille. Là, personne ne voulut recevoir les nouveaux venus, qui s’abritèrent sous le portique d’un temple.
+source: Jacques de Voragine, *La Légende dorée*, « Sainte Marie-Madeleine », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Sainte Marie-Madeleine
+voir: sainte-baume, saint-maximin, saintes-maries-de-la-mer, vezelay, rennes-le-chateau, pistis-sophia, l-enigme-sacree, da-vinci-code, tarasque, sophia
+
+@ dagobert-ii
+cat: figures
+nom: Dagobert II
+alias: saint Dagobert, Dagobert d'Austrasie, roi martyr de Stenay
+dates: vers 652 – 679
+an: 652
+def: Roi mérovingien d'Austrasie, exilé enfant en Irlande, revenu régner de 676 à 679 et assassiné près de Stenay ; les faussaires du Prieuré de Sion en ont fait l'ancêtre secret de Pierre Plantard.
+texte: Fils de Sigebert III, il a quatre ans quand son père meurt, en 656 : le maire du palais Grimoald le fait tonsurer et envoyer en Irlande, et place sur le trône son propre fils. Vingt ans plus tard, l'évêque Wilfrid d'York organise son retour ; Dagobert règne trois ans sur l'Austrasie, en guerre avec la Neustrie, et frappe les dernières monnaies d'or mérovingiennes. Le 23 décembre 679, il est tué au cours d'une chasse dans la forêt de la Woëvre, près de [[stenay|Stenay]], où on le vénéra comme un saint martyr. Les chroniques l'ont si bien oublié que les érudits du XVIIe siècle durent reconstituer son existence.
+texte: Dans les années 1960, [[pierre-plantard|Pierre Plantard]] et ses amis lui inventent une épouse wisigothe, Gisèle de Razès, et un fils, Sigebert IV, qui aurait échappé au meurtre et se serait réfugié à [[rennes-le-chateau|Rennes-le-Château]] : de lui descendrait la lignée que le [[prieure-de-sion|Prieuré de Sion]] aurait protégée jusqu'à Plantard. Les [[parchemins-de-rennes-le-chateau|parchemins]] fabriqués par Philippe de Chérisey font lire : « À Dagobert II roi et à Sion est ce trésor et il est là mort ». Aucune source ancienne ne connaît ni Gisèle ni Sigebert IV.
+repere: vers 652 — Naissance, fils du roi Sigebert III.
+repere: 656 — À la mort de son père, il est exilé en Irlande.
+repere: 676 — Il revient régner sur l'Austrasie.
+repere: 679 — Assassiné le 23 décembre près de Stenay.
+repere: 1967 — Les parchemins de *L'Or de Rennes* font de lui le gardien d'un trésor.
+voir: merovingiens, stenay, rennes-le-chateau, parchemins-de-rennes-le-chateau, pierre-plantard, prieure-de-sion, dossiers-secrets
+
+@ merovingiens
+cat: figures
+nom: Mérovingiens
+alias: dynastie mérovingienne, Mérovée, Childéric Ier, Clovis, rois chevelus, rois fainéants, abeilles de Childéric
+dates: Ve siècle – 751
+an: 457
+def: Première dynastie des rois francs, de Childéric Ier et Clovis à Childéric III déposé en 751 ; ses rois chevelus et sa légende d'origine marine ont nourri au XXe siècle le mythe d'une lignée sacrée.
+texte: Le nom vient de Mérovée, ancêtre à demi légendaire. La chronique dite de Frédégaire raconte que sa mère, se baignant dans la mer, fut approchée par une bête marine semblable à un [[quinotaure|Quinotaure]]. Les rois mérovingiens portaient les cheveux longs, signe de leur pouvoir : couper la chevelure d'un prince, c'était l'écarter du trône. En 1653, on découvre à Tournai le tombeau de Childéric Ier, mort en 481, avec son anneau sigillaire et quelque trois cents [[abeille|abeilles]] d'or ; la plupart furent volées en 1831 au Cabinet des médailles. Clovis, son fils, baptisé à Reims par saint Remi, fonde le royaume ; Dagobert Ier est enterré à Saint-Denis.
+texte: Après lui, les maires du palais gouvernent pour des « rois fainéants » ; en 751, Pépin le Bref fait tondre Childéric III et prend la couronne avec l'accord du pape. La légende des Énervés de [[jumieges|Jumièges]], fils de Clovis II jetés sur la Seine, date de cette époque. Napoléon reprit les abeilles de Childéric pour son manteau impérial. Au XXe siècle, [[pierre-plantard|Pierre Plantard]] se dit descendant de [[dagobert-ii|Dagobert II]], et *[[l-enigme-sacree|L'Énigme sacrée]]* fait des Mérovingiens les héritiers du sang de Jésus et de [[marie-madeleine|Marie-Madeleine]] : la dynastie devient un mythe ésotérique, sans rapport avec l'histoire.
+repere: 481 — Mort de Childéric Ier, enterré à Tournai.
+repere: vers 500 — Baptême de Clovis à Reims.
+repere: 639 — Mort de Dagobert Ier.
+repere: 751 — Pépin le Bref dépose Childéric III.
+repere: 1653 — Découverte du tombeau de Childéric à Tournai.
+voir: dagobert-ii, quinotaure, abeille, pierre-plantard, l-enigme-sacree, jumieges, stenay, prieure-de-sion
+
+@ jules-verne
+cat: figures
+nom: Jules Verne
+alias: Verne, Voyages extraordinaires, capitaine Nemo, Michel Ardan, Arne Saknussemm
+dates: 1828 – 1905
+an: 1828
+def: Romancier français des *Voyages extraordinaires*, qui a fait de la science une aventure et du cryptogramme un ressort romanesque, et dont on a voulu faire, sans preuve, un initié.
+texte: Né à Nantes en 1828, Verne fait son droit à Paris, écrit pour le théâtre avec l'aide des Dumas, puis rencontre l'éditeur Pierre-Jules Hetzel, qui publie en 1863 *Cinq semaines en ballon* et lui commande deux romans par an. Viennent *Voyage au centre de la Terre* (1864), *De la Terre à la Lune* (1865), dont le héros Michel Ardan, dont le nom est l'anagramme de Nadar, est inspiré par l'ami photographe et aéronaute, *Vingt mille lieues sous les mers* (1870), *Le Tour du monde en quatre-vingts jours* (1872), *Mathias Sandorf* (1885). Installé à Amiens, conseiller municipal, il meurt en 1905 après soixante-deux romans.
+texte: Grand lecteur d'[[edgar-allan-poe|Edgar Poe]], à qui il consacre en 1864 un article où il analyse le *[[le-scarabee-d-or|Scarabée d'or]]*, il multiplie les [[cryptogrammes-de-jules-verne|cryptogrammes]] et donne une suite à *Arthur Gordon Pym* avec *Le Sphinx des glaces* (1897). Le capitaine Nemo conduit le professeur Aronnax parmi les ruines de l'[[atlantide|Atlantide]] ; *Le Château des Carpathes* (1892) explique par la science un château hanté. Des auteurs ont cru lire dans ses romans des messages initiatiques, une appartenance à des sociétés secrètes ou les clés de [[rennes-le-chateau|Rennes-le-Château]] ; rien dans sa vie ni dans sa correspondance ne l'atteste.
+repere: 1828 — Naissance à Nantes, le 8 février.
+repere: 1863 — *Cinq semaines en ballon*, premier des *Voyages extraordinaires*.
+repere: 1864 — *Voyage au centre de la Terre* ; article sur Edgar Poe.
+repere: 1870 — *Vingt mille lieues sous les mers*.
+repere: 1885 — *Mathias Sandorf*.
+repere: 1897 — *Le Sphinx des glaces*.
+repere: 1905 — Mort à Amiens, le 24 mars.
+oeuvres: Voyage au centre de la Terre (1864) ; Vingt mille lieues sous les mers (1870) ; Mathias Sandorf (1885) ; Le Château des Carpathes (1892) ; Le Sphinx des glaces (1897)
+extrait: Mais le capitaine Nemo vint à moi et m’arrêta d’un geste. Puis, ramassant un morceau de pierre crayeuse, il s’avança vers un roc de basalte noire et traça ce seul mot : ATLANTIDE. ¶ Quel éclair traversa mon esprit ! L’Atlantide, l’ancienne Méropide de Théopompe, l’Atlantide de Platon, ce continent nié par Origène, Porphyre, Jamblique, D’Anville, Malte-Brun, Humboldt, qui mettaient sa disparition au compte des récits légendaires, admis par Possidonius, Pline, Ammien-Marcellin, Tertullien, Engel, Sherer, Tournefort, Buffon, d’Avezac, je l’avais là sous les yeux, portant encore les irrécusables témoignages de sa catastrophe ! C’était donc cette région engloutie qui existait en dehors de l’Europe, de l’Asie, de la Libye, au-delà des colonnes d’Hercule, où vivait ce peuple puissant des Atlantes, contre lequel se firent les premières guerres de l’ancienne Grèce !
+source: Jules Verne, *Vingt mille lieues sous les mers*, 1870, deuxième partie, chap. IX, « Un continent disparu », Hetzel | ws Vingt mille lieues sous les mers/Partie 2/Chapitre 9
+voir: cryptogrammes-de-jules-verne, atlantide, edgar-allan-poe, grille-de-cardan, sphinx, anagramme
+
+@ gaston-leroux
+cat: figures
+nom: Gaston Leroux
+alias: Leroux, Rouletabille, Le Fantôme de l'Opéra, Erik, Chéri-Bibi
+dates: 1868 – 1927
+an: 1868
+def: Journaliste et romancier français, créateur du reporter Rouletabille et auteur du *Fantôme de l'Opéra* (1910), roman gothique né des souterrains réels du palais Garnier.
+texte: Né à Paris en 1868, élevé en Normandie, Leroux est avocat puis chroniqueur judiciaire et grand reporter au *Matin* ; il couvre les procès des anarchistes et la révolution russe de 1905. *Le Mystère de la chambre jaune* (1907) lance le jeune reporter Joseph Rouletabille et le genre du crime en chambre close. Il écrit ensuite des feuilletons fantastiques ou d'aventures, *Balaoo*, *Chéri-Bibi*, *La Poupée sanglante*, et meurt à Nice en 1927.
+texte: *Le Fantôme de l'Opéra*, paru en feuilleton dans *Le Gaulois* en 1909-1910, se présente comme une enquête véridique : un être défiguré, Erik, hante l'[[opera-garnier|Opéra Garnier]], vit au bord d'un lac souterrain, fait tomber le grand lustre et enlève la cantatrice Christine Daaé. Leroux s'appuie sur des faits réels — la cuve d'eau creusée sous le bâtiment, la chute d'un contrepoids du lustre en 1896, l'enfouissement en 1907 de disques destinés à la postérité — et sur les codes du [[roman-gothique|roman gothique]]. Le film de 1925 et la comédie musicale de 1986 en ont fait un mythe mondial.
+repere: 1868 — Naissance à Paris, le 6 mai.
+repere: 1907 — *Le Mystère de la chambre jaune*.
+repere: 1910 — *Le Fantôme de l'Opéra* paraît en volume.
+repere: 1927 — Mort à Nice, le 15 avril.
+extrait: Le Fantôme de l’Opéra a existé. Ce ne fut point, comme on l’a cru longtemps, une inspiration d’artistes, une superstition de directeurs, la création falote des cervelles excitées de ces demoiselles du corps de ballet, de leurs mères, des ouvreuses, des employés du vestiaire et de la concierge. ¶ Oui, il a existé, en chair et en os, bien qu’il se donnât toutes les apparences d’un vrai fantôme, c’est-à-dire d’une ombre. ¶ On se rappelle que dernièrement, en creusant le sous-sol de l’Opéra, pour y enterrer les voix phonographiées des artistes, le pic des ouvriers a mis à nu un cadavre ; or, j’ai eu tout de suite la preuve que ce cadavre était celui du Fantôme de l’Opéra !
+source: Gaston Leroux, *Le Fantôme de l’Opéra*, 1910, avant-propos | ws Le Fantôme de l’Opéra/Avant-propos
+voir: opera-garnier, roman-gothique, maurice-leblanc, arsene-lupin, paris
+
+@ walter-scott
+cat: figures
+nom: Walter Scott
+alias: Sir Walter Scott, Ivanhoé, Waverley, le Lai du dernier ménestrel, Abbotsford
+dates: 1771 – 1832
+an: 1771
+def: Poète et romancier écossais, inventeur du roman historique, franc-maçon, qui a mis en scène les Templiers d'*Ivanhoé*, la Sainte-Vehme, le magicien Michel Scot et la chapelle de Rosslyn, et écrit sur la démonologie.
+texte: Né à Édimbourg en 1771, avocat et shérif, Scott recueille les ballades des Borders dans le *Minstrelsy of the Scottish Border* (1802-1803) et devient célèbre avec *Le Lai du dernier ménestrel* (1805), où l'on ouvre le tombeau du magicien [[michel-scot|Michel Scot]] pour y prendre son livre, et où une ballade décrit la [[chapelle-de-rosslyn|chapelle de Rosslyn]] comme embrasée de lueurs chaque fois qu'un Saint-Clair va mourir. Il est reçu franc-maçon dans la loge Saint-David d'Édimbourg, celle de son père.
+texte: Romancier anonyme à partir de *Waverley* (1814), il donne à l'Europe le goût du passé : *Ivanhoé* (1819) met en scène le templier Brian de Bois-Guilbert et la juive Rébecca, accusée de [[sorcellerie]] par le grand maître du Temple ; *Le Monastère* (1820) a sa Dame blanche, esprit élémentaire ; *Anne de Geierstein* (1829) fait trembler devant la [[sainte-vehme|Sainte-Vehme]]. Ses *Lettres sur la démonologie et la sorcellerie* (1830) expliquent par la crédulité les procès de sorcières. Ruiné en 1826, il s'épuise à rembourser ses dettes et meurt à Abbotsford en 1832.
+repere: 1771 — Naissance à Édimbourg, le 15 août.
+repere: 1805 — *Le Lai du dernier ménestrel*.
+repere: 1814 — *Waverley*, premier roman.
+repere: 1819 — *Ivanhoé*.
+repere: 1829 — *Anne de Geierstein*.
+repere: 1830 — *Lettres sur la démonologie et la sorcellerie*.
+repere: 1832 — Mort à Abbotsford, le 21 septembre.
+oeuvres: Le Lai du dernier ménestrel (1805) ; Waverley (1814) ; Ivanhoé (1819) ; Le Monastère (1820) ; Anne de Geierstein (1829) ; Lettres sur la démonologie et la sorcellerie (1830)
+extrait: Parmi les hommes dissolus et sans principes déjà trop nombreux dans l’ordre du Temple, on pouvait distinguer Albert ; mais différant en cela de l’audacieux Bois-Guilbert, qu’il savait étendre sur son ambition le voile de l’hypocrisie, et remplacer son manque de religion par une apparence de fanatisme superstitieux. ¶ Lors même que l’arrivée du grand maître n’eût pas été si soudaine et si inattendue, il n’y aurait rien eu à Templestowe qui eût décelé un relâchement de discipline, et même, quoique pris à l’improviste et jusqu’à un certain point découvert, Albert de Malvoisin écoutait avec tant de respect et de contrition apparente les réprimandes de son supérieur, il mettait un tel empressement à réformer tout ce qui avait encouru sa censure, en un mot, il réussissait si bien à donner un aspect de dévotion ascétique à une société adonnée à la licence et au plaisir, que Lucas de Beaumanoir commença à concevoir une opinion plus élevée des mœurs du commandeur que celle qu’il en avait eue au premier moment. ¶ Mais les sentiments favorables du grand maître furent considérablement altérés quand il apprit qu’Albert avait reçu dans une maison religieuse une juive captive, et, ce qui était à craindre, la maîtresse d’un chevalier de l’ordre.
+source: Walter Scott, *Ivanhoé*, 1819, chap. XXXVI, trad. Alexandre Dumas, Michel Lévy, 1874 | ws Ivanhoé (Scott - Dumas)/XXXVI
+voir: templiers, sainte-vehme, chapelle-de-rosslyn, michel-scot, roman-gothique, sorcellerie, franc-maconnerie, demonologie
+
+@ arthur-conan-doyle
+cat: figures
+nom: Arthur Conan Doyle
+alias: Conan Doyle, Sherlock Holmes, fées de Cottingley, The History of Spiritualism, Le Monde perdu
+dates: 1859 – 1930
+an: 1859
+def: Médecin et romancier écossais, créateur de Sherlock Holmes, franc-maçon, qui devint le grand propagandiste du spiritisme et défendit les photographies des fées de Cottingley.
+texte: Né à Édimbourg en 1859, Doyle étudie la médecine auprès du docteur Joseph Bell, dont la méthode d'observation inspirera Sherlock Holmes. Installé à Southsea, il publie en 1887 *Une étude en rouge* ; la même année, le 26 janvier, il est initié franc-maçon dans la loge Phoenix n° 257, qu'il quittera en 1889, rejoindra en 1902 et quittera de nouveau en 1911, et il assiste à ses premières séances de [[spiritisme]]. Il écrit des récits de [[momie|momies]], *L'Anneau de Thot* (1890) et *Le Lot n° 249* (1892), et fait déchiffrer par Holmes *[[les-hommes-dansants|Les Hommes dansants]]* (1903).
+texte: Membre de la [[society-for-psychical-research|Society for Psychical Research]] dès 1893, il se déclare publiquement spirite en 1916, pendant la guerre, et consacre la fin de sa vie à des tournées de conférences. Il croit aux [[medium|médiums]], à [[eusapia-palladino|Eusapia Palladino]], à l'[[ecriture-automatique|écriture automatique]] que pratique sa femme ; il publie en 1920 dans le *Strand* les photographies de fées prises par deux fillettes de Cottingley, qui avoueront en 1983 avoir découpé des figurines. Il se brouille avec le prestidigitateur Houdini, qui dénonçait les fraudes des médiums. En 1923, il suggère que des « élémentaux » ont tué Lord Carnarvon, l'inventeur du tombeau de Toutânkhamon : il nourrit ainsi la légende de la [[malediction-du-pharaon|malédiction du pharaon]]. Il publie en 1926 une *Histoire du spiritisme* et meurt en 1930.
+repere: 1859 — Naissance à Édimbourg, le 22 mai.
+repere: 1887 — *Une étude en rouge* ; initiation maçonnique à Southsea.
+repere: 1893 — Il entre à la Society for Psychical Research.
+repere: 1903 — *Les Hommes dansants*.
+repere: 1920 — Il publie les photographies des fées de Cottingley.
+repere: 1926 — *Histoire du spiritisme*.
+repere: 1930 — Mort à Crowborough, le 7 juillet.
+voir: spiritisme, society-for-psychical-research, les-hommes-dansants, malediction-du-pharaon, eusapia-palladino, elementaux, franc-maconnerie, medium
+
+@ antoni-gaudi
+cat: figures
+nom: Antoni Gaudí
+alias: Gaudí, architecte de Dieu, Park Güell, Casa Batlló, porte du Dragon
+dates: 1852 – 1926
+an: 1852
+def: Architecte catalan, maître du modernisme, qui consacra sa vie à la Sagrada Família de Barcelone ; ses dragons, ses symboles et ses formes tirées de la nature ont suscité des lectures alchimiques et maçonniques.
+texte: Né en 1852 à Reus ou à Riudoms, fils d'un chaudronnier, Gaudí étudie l'architecture à Barcelone et trouve en l'industriel Eusebi Güell un mécène. Il invente des structures inspirées de la nature, des arcs paraboliques calculés à l'aide de maquettes de chaînettes lestées, et des façades couvertes de céramique. Pour Güell, il dessine en 1884 une grille de fer en forme de [[dragon]], le dragon Ladon gardien du jardin des Hespérides, tiré du poème *L'Atlantide* de Jacint Verdaguer ; le toit de la casa Batlló (1904-1906) figure l'échine du dragon tué par saint Georges, patron de la Catalogne.
+texte: Chargé en 1883 de la [[sagrada-familia|Sagrada Família]], temple expiatoire dédié à la Sainte Famille, il s'y consacre entièrement à partir de 1914, vivant en ascète. Le 7 juin 1926, renversé par un tramway et pris pour un mendiant, il meurt trois jours plus tard ; il repose dans la crypte de son église. Le parc Güell, avec son escalier au dragon et ses colonnes, a été lu comme un parcours initiatique ou maçonnique ; Gaudí, catholique fervent, n'a rien laissé qui le confirme. Le pape François l'a déclaré vénérable en avril 2025, étape vers une béatification.
+repere: 1852 — Naissance à Reus ou à Riudoms, le 25 juin.
+repere: 1883 — Il prend la direction de la Sagrada Família.
+repere: 1900 — Début du parc Güell.
+repere: 1904 — Casa Batlló.
+repere: 1926 — Mort à Barcelone, le 10 juin.
+repere: 2025 — Déclaré vénérable.
+voir: sagrada-familia, dragon, atlantide, art-gothique, carre-magique
+
+@ jean-francois-champollion
+cat: figures
+nom: Jean-François Champollion
+alias: Champollion, Champollion le jeune, Lettre à M. Dacier, « Je tiens l'affaire ! »
+dates: 1790 – 1832
+an: 1790
+def: Savant français qui déchiffra les hiéroglyphes en 1822, en montrant qu'ils notent à la fois des sons et des idées ; fondateur de l'égyptologie et premier conservateur des antiquités égyptiennes du Louvre.
+texte: Né à Figeac en 1790, élevé à Grenoble par son frère aîné Jacques-Joseph, il apprend l'hébreu, l'arabe, le syriaque et surtout le copte, dernière forme de la langue égyptienne, convaincu qu'elle lui ouvrira les inscriptions. En étudiant les copies de la [[pierre-de-rosette|pierre de Rosette]] et d'un obélisque de [[philae|Philæ]], il identifie les noms de Ptolémée et de Cléopâtre, puis ceux des pharaons. Selon le récit de famille, il se serait précipité en septembre 1822 dans le bureau de son frère en criant « Je tiens l'affaire ! » avant de s'évanouir. Le 27 septembre, il lit à l'Académie sa *Lettre à M. Dacier*.
+texte: Le *Précis du système hiéroglyphique* (1824) établit que les [[hieroglyphes]] sont une écriture complète. Il étudie les collections de [[turin|Turin]], où il juge romaine la [[table-isiaque|table isiaque]], devient en 1826 conservateur du musée égyptien du Louvre, conduit en 1828-1829 l'expédition franco-toscane en Égypte et recommande l'envoi à Paris de l'[[obelisque|obélisque]] de Louxor. Titulaire au Collège de France de la première chaire d'archéologie égyptienne, il meurt d'épuisement en 1832. Son œuvre ruina les interprétations symboliques d'[[athanasius-kircher|Athanase Kircher]] et de l'[[egyptosophie]].
+repere: 1790 — Naissance à Figeac, le 23 décembre.
+repere: 1822 — *Lettre à M. Dacier*, lue le 27 septembre.
+repere: 1824 — *Précis du système hiéroglyphique*.
+repere: 1826 — Conservateur des antiquités égyptiennes du Louvre.
+repere: 1828 — Départ pour l'expédition franco-toscane en Égypte.
+repere: 1832 — Mort à Paris, le 4 mars.
+voir: pierre-de-rosette, hieroglyphes, egyptologie, obelisque, table-isiaque, athanasius-kircher, horapollon
+
+@ akhenaton
+cat: figures
+nom: Akhenaton
+alias: Aménophis IV, Amenhotep IV, Aton, pharaon hérétique, Grand Hymne à Aton, Néfertiti
+dates: règne vers 1353 – 1336 av. J.-C.
+an: -1353
+def: Pharaon de la XVIIIe dynastie qui imposa le culte exclusif du disque solaire Aton et fonda la ville d'Akhetaton (Amarna) ; effacé de l'histoire après sa mort, il a été tenu pour le premier monothéiste et revendiqué par l'ésotérisme.
+texte: Fils d'Amenhotep III et de la reine Tiyi, Amenhotep IV prend vers la cinquième année de son règne le nom d'Akhenaton, « utile à Aton », et quitte Thèbes pour une ville nouvelle, Akhetaton, l'« horizon d'Aton », à [[amarna|Amarna]]. Il ferme les temples d'[[amon|Amon]], fait marteler son nom, et adore le seul disque solaire dont les rayons se terminent par des mains. L'art change : le roi, son épouse Néfertiti et leurs filles sont représentés dans leur intimité, avec des corps étirés. Le *Grand Hymne à Aton* a souvent été comparé au psaume 104.
+texte: Après sa mort, son fils Toutânkhamon revient à Amon ; Horemheb fait détruire la ville et effacer le nom du « criminel d'Akhetaton ». Redécouvert au XIXe siècle, il fascine : Freud fait de Moïse un disciple égyptien de sa religion dans *Moïse et le monothéisme* (1939), et l'[[amorc|AMORC]] de [[harvey-spencer-lewis|Harvey Spencer Lewis]] le compte parmi les maîtres de sa tradition. Les égyptologues voient dans sa réforme une théologie solaire royale plutôt qu'un monothéisme au sens biblique.
+repere: vers 1353 av. J.-C. — Avènement d'Amenhotep IV.
+repere: vers 1348 av. J.-C. — Il prend le nom d'Akhenaton et fonde Akhetaton.
+repere: vers 1336 av. J.-C. — Mort du roi ; retour au culte d'Amon.
+repere: 1912 — Découverte du buste de Néfertiti à Amarna.
+repere: 1939 — Freud, *Moïse et le monothéisme*.
+voir: amarna, amon, ra, amorc, harvey-spencer-lewis, egyptosophie
+
+@ imhotep
+cat: figures
+nom: Imhotep
+alias: Imouthès, architecte de Djéser, dieu guérisseur, Asclépios égyptien
+dates: vers 2650 av. J.-C.
+an: -2650
+def: Vizir et architecte du roi Djéser, à qui l'on attribue la pyramide à degrés de Saqqarah, première grande construction de pierre taillée ; divinisé comme dieu de la médecine, les Grecs l'identifièrent à Asclépios.
+texte: Le socle d'une statue de Djéser, trouvé à [[saqqarah|Saqqarah]], porte le nom et les titres d'Imhotep : chancelier, grand prêtre d'Héliopolis, chef des sculpteurs. On lui attribue la pyramide à degrés du roi, six mastabas empilés de calcaire entourés d'une vaste enceinte, vers 2650 avant notre ère ; Manéthon, au IIIe siècle avant notre ère, le dit inventeur de la construction en pierre taillée. Les scribes le vénéraient comme patron et versaient pour lui une goutte d'encre avant d'écrire.
+texte: Deux mille ans plus tard, il est devenu un dieu, fils de [[ptah|Ptah]], guérisseur que l'on venait consulter en dormant dans ses sanctuaires. Les Grecs le reconnurent dans Asclépios, et le dialogue hermétique de l'*[[asclepius|Asclépius]]* évoque le tombeau de l'aïeul d'Asclépios, inventeur de la médecine, honoré dans un temple où il guérit les malades. Le cinéma en a fait la momie vengeresse de *La Momie* (1932 et 1999).
+repere: vers 2650 av. J.-C. — Pyramide à degrés de Djéser.
+repere: IIIe siècle av. J.-C. — Manéthon le dit inventeur de la pierre taillée.
+repere: IIe siècle av. J.-C. — Son culte de dieu guérisseur s'étend, de Saqqarah à Philæ.
+voir: saqqarah, pyramides, ptah, asclepius, hermes-trismegiste, momie
+
+@ horapollon
+cat: figures
+nom: Horapollon
+alias: Horapollo, Horus Apollon, Hieroglyphica
+dates: Ve siècle
+an: 450
+def: Lettré égyptien du Ve siècle, auteur supposé des *Hieroglyphica*, interprétation symbolique de quelque deux cents hiéroglyphes, dont la redécouverte en 1419 lança la mode des emblèmes à la Renaissance.
+texte: Le livre, écrit en grec et traduit, dit-il, de l'égyptien, explique que le serpent qui se mord la queue figure l'univers, l'[[ouroboros]], que le [[scarabee|scarabée]] signifie l'engendré de soi, que l'oie veut dire « fils ». Quelques interprétations sont justes ; la plupart sont des allégories forgées à une époque où l'on ne savait plus lire les [[hieroglyphes]]. Un manuscrit acheté en 1419 sur l'île d'Andros par le prêtre florentin Cristoforo Buondelmonti entre dans la bibliothèque des Médicis ; Alde Manuce l'imprime à Venise en 1505.
+texte: Les humanistes y trouvent la confirmation que l'Égypte enseignait par images, sans mots, une sagesse divine : le *[[songe-de-poliphile|Songe de Poliphile]]* invente des hiéroglyphes, [[albrecht-durer|Dürer]] illustre une traduction pour l'empereur Maximilien, et l'*Emblematum liber* d'Alciat (1531) fonde le genre des [[emblemes|emblèmes]]. [[jean-francois-champollion|Champollion]] reconnut à Horapollon quelques lectures exactes au milieu de ses fables.
+repere: Ve siècle — Composition des *Hieroglyphica*.
+repere: 1419 — Un manuscrit est acheté sur l'île d'Andros.
+repere: 1505 — Première édition imprimée, chez Alde Manuce.
+repere: 1531 — Alciat publie le premier livre d'emblèmes.
+voir: hieroglyphes, emblemes, songe-de-poliphile, ouroboros, scarabee, egyptosophie
+
+@ auguste-mariette
+cat: figures
+nom: Auguste Mariette
+alias: Mariette Pacha, Sérapéum, musée de Boulaq, Aïda
+dates: 1821 – 1881
+an: 1821
+def: Égyptologue français qui découvrit en 1850 le Sérapéum de Saqqarah, fonda le Service des antiquités de l'Égypte et le musée de Boulaq, et imagina l'intrigue d'*Aïda*.
+texte: Né à Boulogne-sur-Mer, professeur et dessinateur, Mariette se passionne pour les hiéroglyphes et obtient en 1850 une mission du Louvre pour acheter des manuscrits coptes. À [[saqqarah|Saqqarah]], il aperçoit la tête d'un sphinx émergeant du sable, se souvient d'un passage de Strabon sur l'allée de sphinx du temple de [[serapis|Sérapis]], et découvre les galeries souterraines où reposaient dans d'immenses sarcophages les taureaux Apis. Il envoie au Louvre des milliers d'objets.
+texte: En 1858, le vice-roi le nomme directeur des monuments : il crée le Service des antiquités, ouvre le musée de Boulaq, ancêtre du musée du Caire, et fouille [[abydos|Abydos]], [[dendera|Dendérah]], Edfou, [[karnak|Karnak]] et Tanis. Il écrit le scénario d'*Aïda*, que Verdi met en musique pour l'opéra du Caire (1871), et dessine les costumes. Mort au Caire en 1881, il repose dans un sarcophage, dans le jardin du musée égyptien.
+repere: 1821 — Naissance à Boulogne-sur-Mer, le 11 février.
+repere: 1850 — Découverte du Sérapéum de Saqqarah.
+repere: 1858 — Directeur du Service des antiquités de l'Égypte.
+repere: 1871 — Création d'*Aïda* au Caire.
+repere: 1881 — Mort au Caire, le 18 janvier.
+voir: saqqarah, serapis, egyptologie, abydos, dendera, gaston-maspero
+
+@ gaston-maspero
+cat: figures
+nom: Gaston Maspero
+alias: Maspero, Contes populaires de l'Égypte ancienne, cachette de Deir el-Bahari
+dates: 1846 – 1916
+an: 1846
+def: Égyptologue français, successeur de Mariette, qui publia les Textes des pyramides, révéla la cachette des momies royales et traduisit les contes de l'Égypte ancienne.
+texte: Professeur au Collège de France à vingt-huit ans, Maspero part pour l'Égypte en 1880 à la tête de la mission qui deviendra l'Institut français d'archéologie orientale. Il fait ouvrir les pyramides de Saqqarah et découvre les [[textes-des-pyramides|Textes des pyramides]] qu'il publie aussitôt. Directeur des antiquités après Mariette, il fait transporter au Caire en 1881 les momies de Séthi Ier, de Ramsès II et de quarante autres souverains, cachées par les prêtres dans une tombe de Deir el-Bahari et pillées par une famille de Gourna.
+texte: Ses *Contes populaires de l'Égypte ancienne* (1882) révèlent au public le conte des Deux Frères et celui de Satni-Khâmoïs, où paraît le [[livre-de-thot|livre de Thot]]. De nouveau directeur de 1899 à 1914, il organise le musée du Caire et dirige des chantiers dans tout le pays. Il meurt en 1916 ; l'un de ses fils, Jean, était tombé à Verdun l'année précédente.
+repere: 1846 — Naissance à Paris, le 23 juin.
+repere: 1881 — Textes des pyramides ; transfert des momies royales au Caire.
+repere: 1882 — *Les Contes populaires de l'Égypte ancienne*.
+repere: 1916 — Mort à Paris, le 30 juin.
+voir: textes-des-pyramides, livre-de-thot, saqqarah, egyptologie, auguste-mariette, momie
+
+@ plutarque
+cat: figures
+nom: Plutarque
+alias: Plutarque de Chéronée, Vies parallèles, Œuvres morales, Sur Isis et Osiris, Amyot
+dates: vers 46 – vers 125
+an: 46
+def: Philosophe et biographe grec, prêtre d'Apollon à Delphes, auteur des *Vies parallèles* et des *Œuvres morales*, dont le traité *Sur Isis et Osiris* est la principale source antique du mythe d'Osiris.
+texte: Né à Chéronée, en Béotie, élève du platonicien Ammonios à Athènes, Plutarque voyage en Égypte et à Rome, puis revient dans sa petite ville, où il enseigne et écrit. Pendant les trente dernières années de sa vie, il est l'un des deux prêtres d'Apollon à [[delphes|Delphes]]. Ses *Vies parallèles* comparent un Grec et un Romain illustres ; ses *Œuvres morales* touchent à tout, de l'éducation aux animaux.
+texte: Plusieurs traités sont des documents majeurs de l'histoire religieuse : *Sur Isis et Osiris*, dédié à une prêtresse de Delphes, raconte le mythe d'[[osiris|Osiris]] et l'interprète en philosophe ; *Sur l'E de Delphes* médite sur l'inscription du temple ; *Sur la disparition des oracles* rapporte la mort du « grand [[pan|Pan]] » et explique le déclin des [[oracle|oracles]] par les démons ; *Le Démon de Socrate* parle du génie intérieur. La traduction de Jacques Amyot (1559-1572) fit de lui l'un des auteurs les plus lus de la Renaissance, de Montaigne à Shakespeare.
+repere: vers 46 — Naissance à Chéronée.
+repere: vers 66 — Études à Athènes auprès d'Ammonios.
+repere: vers 95 — Prêtre d'Apollon à Delphes.
+repere: vers 125 — Mort à Chéronée.
+repere: 1559 — Jacques Amyot traduit les *Vies*.
+voir: isis, osiris, delphes, pan, oracle, scytale, sphinx, mysteres-antiques
+
+@ pline-l-ancien
+cat: figures
+nom: Pline l'Ancien
+alias: Pline, Caius Plinius Secundus, Histoire naturelle, Naturalis historia
+dates: 23 – 79
+an: 23
+def: Naturaliste et officier romain, auteur d'une *Histoire naturelle* en trente-sept livres, encyclopédie du savoir antique où les bestiaires, les lapidaires et les magiciens ont puisé pendant quinze siècles ; il mourut dans l'éruption du Vésuve.
+texte: Né à Côme, chevalier, Pline sert en Germanie, devient procurateur en Gaule et en Espagne, puis commande la flotte de Misène. Il travaille sans relâche, se fait lire des livres même au bain, et dédie à Titus en 77 son *Histoire naturelle* : l'univers, la terre, l'homme, les animaux, les plantes, les remèdes, les métaux et les pierres, tirés de deux mille volumes. Le 24 août 79, apercevant l'étrange nuée qui monte du Vésuve, il fait armer des navires pour secourir les habitants et meurt étouffé à Stabies ; son neveu, Pline le Jeune, a raconté sa mort à Tacite.
+texte: Il mêle l'observation et la fable : la [[licorne]], le [[basilic]], le [[phenix|phénix]], la [[manticore]], la [[salamandre]] qui éteint le feu, les vertus des gemmes. Il se méfie pourtant des mages, dont il dénonce les « mensonges » sur les pierres. Le Moyen Âge a fait de lui, à côté du *[[physiologus|Physiologus]]*, la source des [[bestiaire|bestiaires]] et des [[lapidaire|lapidaires]] ; Émile Littré l'a traduit en 1848-1850.
+repere: 23 — Naissance à Côme.
+repere: 77 — Dédicace de l'*Histoire naturelle* à Titus.
+repere: 79 — Mort à Stabies, pendant l'éruption du Vésuve.
+repere: 1469 — Première édition imprimée, à Venise.
+extrait: Maintenant nous allons parler des vraies pierreries, commençant par les plus renommées. Et nous ne nous bornerons pas à cela ; mais, pour être plus utile au monde, nous réfuterons en passant les indignes mensonges des mages, car c’est surtout au sujet des pierres précieuses qu’ils ont débité leurs fables et dépassé tous les prodiges, par la séduisante apparence des remèdes tirés de ces substances.
+source: Pline l’Ancien, *Histoire naturelle*, livre XXXVII, chap. XIV, trad. Émile Littré, Dubochet, 1850, t. II | ia BIUSante_39197x02 = l’édition de 1850 numérisée
+voir: bestiaire, lapidaire, licorne, basilic, phenix, salamandre, manticore, physiologus
+
+@ francis-bacon
+cat: figures
+nom: Francis Bacon
+alias: Bacon, lord Verulam, La Nouvelle Atlantide, Maison de Salomon, Novum Organum, théorie baconienne
+dates: 1561 – 1626
+an: 1561
+def: Philosophe et homme d'État anglais, chancelier d'Angleterre, apôtre de la science expérimentale, auteur de *La Nouvelle Atlantide* ; on lui a prêté l'œuvre de Shakespeare, la fondation des Rose-Croix et celle de la franc-maçonnerie.
+texte: Fils d'un garde des Sceaux, Bacon fait carrière sous Élisabeth et Jacques Ier jusqu'à devenir lord chancelier en 1618 ; condamné pour corruption en 1621, il se retire. Son *Novum Organum* (1620) veut refonder la connaissance sur l'expérience et l'induction ; le *De augmentis scientiarum* (1623) contient son [[chiffre-de-bacon|chiffre bilitère]]. Il meurt en 1626 d'un refroidissement contracté, dit-on, en farcissant de neige un poulet pour étudier la conservation.
+texte: Sa *Nouvelle Atlantide*, publiée en 1627, décrit une île inconnue gouvernée par les savants de la « Maison de Salomon », qui étudient secrètement toute la nature : l'utopie a inspiré la Société royale de Londres. [[frances-yates|Frances Yates]] a rapproché ces idées des manifestes [[rose-croix]], et bien des auteurs ont fait de Bacon un chef caché des Rose-Croix ou le père de la [[franc-maconnerie]] spéculative. Depuis Delia Bacon (1857) et [[ignatius-donnelly|Ignatius Donnelly]], des « baconiens » voient en lui le véritable auteur des pièces de Shakespeare ; aucune de ces thèses n'a résisté aux historiens.
+repere: 1561 — Naissance à Londres, le 22 janvier.
+repere: 1605 — *Du progrès et de la promotion des savoirs*.
+repere: 1618 — Lord chancelier.
+repere: 1620 — *Novum Organum*.
+repere: 1623 — *De augmentis scientiarum*, avec le chiffre bilitère.
+repere: 1626 — Mort à Highgate, le 9 avril.
+repere: 1627 — Publication posthume de *La Nouvelle Atlantide*.
+voir: chiffre-de-bacon, atlantide, rose-croix, frances-yates, ignatius-donnelly, salomon, franc-maconnerie
+
+@ blaise-de-vigenere
+cat: figures
+nom: Blaise de Vigenère
+alias: Vigenère, Traicté des chiffres, Traicté du feu et du sel
+dates: 1523 – 1596
+an: 1523
+def: Diplomate, traducteur et cryptographe français, auteur d'un *Traicté des chiffres* (1586) qui a laissé son nom à un chiffre célèbre, et d'un traité alchimique du feu et du sel.
+texte: Né à Saint-Pourçain-sur-Sioule, secrétaire du duc de Nevers, Vigenère accomplit des missions à Rome, où il découvre les procédés de chiffrement des secrétaires du pape. Humaniste fécond, il traduit César, Tite-Live, les *Images* de Philostrate, les psaumes et *La Jérusalem délivrée* du Tasse, épopée de [[godefroy-de-bouillon|Godefroy de Bouillon]] (1595). Son *Traicté des chiffres, ou secrètes manières d'escrire* (1586) est une somme sur les écritures secrètes, mêlée de considérations sur la [[kabbale]], les noms divins et la [[gematrie]].
+texte: Le chiffre qui porte son nom est en réalité celui de Bellaso ; Vigenère en décrivit une version plus forte. Son *Traicté du feu et du sel*, publié après sa mort, est un traité d'[[alchimie]] et de philosophie naturelle, qui fait du feu et du sel les principes de toutes choses et cite les kabbalistes ; il a été réédité par les occultistes du XXe siècle.
+repere: 1523 — Naissance à Saint-Pourçain, le 15 avril.
+repere: 1566 — Nouvelle mission à Rome.
+repere: 1586 — *Traicté des chiffres*.
+repere: 1595 — Traduction de *La Jérusalem délivrée*.
+repere: 1596 — Mort à Paris, le 19 février.
+repere: 1618 — Publication du *Traicté du feu et du sel*.
+voir: chiffre-de-vigenere, cryptographie, kabbale-chretienne, alchimie, sel, godefroy-de-bouillon
+
+@ leon-battista-alberti
+cat: figures
+nom: Leon Battista Alberti
+alias: Alberti, De re aedificatoria, De pictura, œil ailé, Quid tum
+dates: 1404 – 1472
+an: 1404
+def: Humaniste et architecte florentin, théoricien de la perspective et de l'architecture, inventeur du disque à chiffrer ; on lui a attribué le *Songe de Poliphile*.
+texte: Fils d'une famille florentine exilée, né à Gênes, Alberti étudie le droit à Bologne, entre au service de la curie pontificale et écrit sur tout : la famille, la peinture (*De pictura*, 1435, première théorie de la perspective), l'architecture (*De re aedificatoria*, 1452), les mathématiques. Architecte, il dessine la façade de Santa Maria Novella à Florence, le temple Malatesta de Rimini et Sant'Andrea de Mantoue, fondés sur des proportions harmoniques. Il avait pris pour emblème un œil ailé, entouré de la devise *Quid tum ?*, « et ensuite ? ».
+texte: Vers 1467, il écrit pour le secrétaire du pape le premier traité occidental de cryptographie, où il décrit le [[disque-d-alberti|disque à chiffrer]] et le principe des alphabets multiples. En 1997, l'historienne Liane Lefaivre lui a attribué l'*Hypnerotomachia*, le *[[songe-de-poliphile|Songe de Poliphile]]* ; l'[[acrostiche]] du livre désigne pourtant un certain Francesco Colonna, et l'hypothèse reste discutée.
+repere: 1404 — Naissance à Gênes, le 14 février.
+repere: 1435 — *De pictura*.
+repere: 1452 — *De re aedificatoria*.
+repere: vers 1467 — *De componendis cifris*.
+repere: 1472 — Mort à Rome, le 25 avril.
+voir: disque-d-alberti, songe-de-poliphile, florence, oeil-de-la-providence, cryptographie
+
+@ alan-turing
+cat: figures
+nom: Alan Turing
+alias: Turing, machine de Turing, test de Turing, Hut 8, bombe de Turing
+dates: 1912 – 1954
+an: 1912
+def: Mathématicien britannique, fondateur de l'informatique théorique, qui dirigea à Bletchley Park le déchiffrement de l'Enigma navale ; condamné pour homosexualité, il mourut en 1954 et fut réhabilité en 2013.
+texte: En 1936, Turing imagine une machine abstraite capable d'exécuter tout calcul décrit par une règle : la « machine de Turing » fonde la théorie des ordinateurs. Recruté en 1939 par le service du chiffre britannique, il rejoint [[bletchley-park|Bletchley Park]], où il conçoit avec Gordon Welchman les « bombes » électromécaniques qui testent les réglages d'[[enigma|Enigma]], et dirige la Hut 8, chargée des messages de la marine allemande : les convois de l'Atlantique en dépendaient.
+texte: Après la guerre, il participe aux premiers ordinateurs de Manchester, propose en 1950 le « jeu de l'imitation », devenu le test de Turing, et étudie la formation des formes chez les êtres vivants. Poursuivi en 1952 pour homosexualité, il accepte une castration chimique ; on le trouve mort le 7 juin 1954, empoisonné au cyanure, une pomme entamée près de lui. Le gouvernement britannique s'est excusé en 2009 et la reine l'a gracié en 2013 ; son portrait orne depuis 2021 le billet de cinquante livres.
+repere: 1912 — Naissance à Londres, le 23 juin.
+repere: 1936 — « Sur les nombres calculables ».
+repere: 1939 — Il rejoint Bletchley Park.
+repere: 1950 — « Les ordinateurs et l'intelligence ».
+repere: 1954 — Mort à Wilmslow, le 7 juin.
+repere: 2013 — Grâce royale posthume.
+voir: enigma, bletchley-park, cryptographie
+
+@ edgar-allan-poe
+cat: figures
+nom: Edgar Allan Poe
+alias: Edgar Poe, Poe, Le Corbeau, Le Scarabée d'or, Histoires extraordinaires, Eureka
+dates: 1809 – 1849
+an: 1809
+def: Poète et conteur américain, maître du fantastique et inventeur du récit policier, passionné de cryptographie et de magnétisme ; Baudelaire l'a fait connaître en France.
+texte: Né à Boston en 1809, orphelin élevé à Richmond, Poe mène une vie de misère, de journalisme et de deuils. En 1839-1840, il met au défi les lecteurs d'un journal de lui envoyer des messages chiffrés et se vante de les résoudre tous ; il publie en 1841 « Quelques mots sur l'écriture secrète ». *Le Double Assassinat dans la rue Morgue* (1841) invente le détective, *[[le-scarabee-d-or|Le Scarabée d'or]]* (1843) popularise l'[[analyse-des-frequences|analyse des fréquences]], *Le Corbeau* (1845) lui donne la gloire. Il meurt à Baltimore en 1849, dans des circonstances jamais éclaircies.
+texte: Plusieurs contes mettent en scène le [[magnetisme-animal|magnétisme animal]] : un mourant maintenu en vie par l'hypnose dans *La Vérité sur le cas de M. Valdemar* (1845) ; *Eureka* (1848) est un poème cosmologique sur l'unité de l'univers. [[charles-baudelaire|Baudelaire]] le traduit de 1848 à 1865, Mallarmé traduit ses poèmes et lui dédie *Le Tombeau d'Edgar Poe* ; [[jules-verne|Jules Verne]] lui donne une suite avec *Le Sphinx des glaces*.
+repere: 1809 — Naissance à Boston, le 19 janvier.
+repere: 1841 — « Quelques mots sur l'écriture secrète » ; *Double Assassinat dans la rue Morgue*.
+repere: 1843 — *Le Scarabée d'or*.
+repere: 1845 — *Le Corbeau* ; *La Vérité sur le cas de M. Valdemar*.
+repere: 1849 — Mort à Baltimore, le 7 octobre.
+repere: 1856 — Baudelaire publie les *Histoires extraordinaires*.
+voir: le-scarabee-d-or, corbeau, charles-baudelaire, jules-verne, magnetisme-animal, analyse-des-frequences, roman-gothique
+
+@ michel-scot
+cat: figures
+nom: Michel Scot
+alias: Michael Scot, Michael Scotus, mage de Frédéric II, sorcier de Melrose
+dates: vers 1175 – après 1232
+an: 1175
+def: Savant écossais, traducteur à Tolède d'Aristote et d'Averroès, astrologue de l'empereur Frédéric II, que Dante place en enfer parmi les devins et que la légende a fait magicien.
+texte: Né en Écosse, Michel Scot étudie sans doute à Oxford et à Paris, puis travaille à Tolède, où il traduit de l'arabe l'astronomie d'al-Bitruji (1217) et les commentaires d'Averroès sur Aristote. Il passe en Italie et devient l'astrologue et le savant de la cour de l'empereur Frédéric II, pour qui il écrit un *Livre d'introduction* à l'[[astrologie]] et des ouvrages de physiognomonie. Il meurt après 1232.
+texte: Sa réputation de magicien le précède : [[dante|Dante]] le met au XXe chant de l'*Enfer* parmi les devins, la tête tournée vers le dos, lui « qui connut vraiment le jeu des fraudes magiques ». Les légendes écossaises lui font fendre en trois les collines d'Eildon et dicter ses ordres à des démons ; [[walter-scott|Walter Scott]], dans *Le Lai du dernier ménestrel*, fait ouvrir son tombeau à l'abbaye de Melrose pour y prendre son livre magique.
+repere: vers 1175 — Naissance en Écosse.
+repere: 1217 — Traduction d'al-Bitruji à Tolède.
+repere: vers 1227 — À la cour de Frédéric II.
+repere: vers 1310 — Dante le place en enfer parmi les devins.
+repere: 1805 — Walter Scott, *Le Lai du dernier ménestrel*.
+voir: dante, divine-comedie, walter-scott, astrologie, faucon, physiognomonie
+
+@ gilles-de-rais
+cat: figures
+nom: Gilles de Rais
+alias: Gilles de Retz, maréchal de Rais, Barbe-Bleue, Tiffauges, Prelati
+dates: vers 1405 – 1440
+an: 1405
+def: Seigneur breton, maréchal de France et compagnon de Jeanne d'Arc, ruiné par ses fastes, qui se livra à l'alchimie et aux invocations du diable ; il fut pendu et brûlé à Nantes en 1440 pour le meurtre de nombreux enfants.
+texte: Héritier d'immenses domaines entre Bretagne, Anjou et Poitou, Gilles de Rais combat les Anglais aux côtés de [[jeanne-d-arc|Jeanne d'Arc]] à Orléans et reçoit le bâton de maréchal de France au sacre de Reims, en 1429. Retiré dans ses châteaux de Machecoul et de Tiffauges, il dilapide sa fortune en fêtes, en chapelle princière et en représentations du *Mystère du siège d'Orléans*. Il cherche alors dans l'[[alchimie]] le moyen de refaire de l'or, puis, avec un clerc florentin, Francesco Prelati, dans l'[[evocation|évocation]] d'un démon nommé Barron.
+texte: Arrêté en septembre 1440 après avoir violé l'immunité d'une église, il est jugé à Nantes par l'évêque et l'Inquisition pour hérésie, sorcellerie et sodomie, et par la justice du duc pour le meurtre de dizaines d'enfants. Il avoue, demande pardon et meurt le 26 octobre 1440. La tradition l'a confondu avec Barbe-Bleue ; [[joris-karl-huysmans|Huysmans]] en a fait le sujet de *Là-bas* (1891), et [[margaret-murray|Margaret Murray]] un adepte, comme Jeanne, d'une religion païenne. Des auteurs modernes ont contesté la régularité de son procès, sans faire l'accord des historiens.
+repere: vers 1405 — Naissance au château de Champtocé.
+repere: 1429 — Maréchal de France au sacre de Reims.
+repere: 1435 — Charles VII lui interdit d'aliéner ses biens.
+repere: 1439 — Arrivée de Francesco Prelati à Tiffauges.
+repere: 1440 — Procès et exécution à Nantes, le 26 octobre.
+repere: 1891 — *Là-bas*, de Huysmans.
+extrait: Réduit aux abois, Gilles se laissa entièrement dominer par la passion de l’alchimie et abandonna tout pour elle. Mais il est bon de remarquer que cette science, qui le jeta dans la démonomanie, alors qu’il espéra créer de l’or et se sauver ainsi d’une misère imminente, il l’aima pour elle-même, dans un temps où il était riche. Ce fut en effet vers l’année 1426, au moment où l’argent déferlait dans ses coffres, qu’il tenta, pour la première fois, la réussite du grand œuvre.
+source: Joris-Karl Huysmans, *La Sorcellerie en Poitou — Gilles de Rais*, Librairie de la tradition nationale, 1897 | ws La sorcellerie en Poitou — Gilles de Rais
+voir: jeanne-d-arc, joris-karl-huysmans, alchimie, evocation, margaret-murray, messe-noire, satanisme
+
+@ demeter
+cat: figures
+nom: Déméter
+alias: Dèmètèr, Cérès, déesse des moissons, Thesmophories, Triptolème
+dates: déesse grecque
+an: -650
+def: Déesse grecque du blé et des moissons, mère de Perséphone enlevée par Hadès ; sa quête de sa fille est le mythe des mystères d'Éleusis, qu'elle aurait elle-même fondés.
+texte: Fille de Cronos et de Rhéa, Déméter fait pousser le grain. Quand Hadès enlève sa fille [[persephone|Perséphone]], elle erre neuf jours, une torche à la main, refuse de manger et laisse la terre stérile ; recueillie à [[eleusis|Éleusis]] sous les traits d'une vieille femme, elle nourrit le fils du roi et veut le rendre immortel en le passant au feu. Zeus finit par obtenir le retour de Perséphone pour les deux tiers de l'année : la terre refleurit, et la déesse enseigne aux princes d'Éleusis ses rites secrets et, à Triptolème, l'agriculture.
+texte: L'*Hymne homérique à Déméter*, composé vers le VIIe siècle avant notre ère, est le récit fondateur des [[mysteres-antiques|mystères]] d'Éleusis, célébrés pendant près de deux mille ans jusqu'à leur interdiction par Théodose et la destruction du sanctuaire en 395. Les femmes d'Athènes l'honoraient aussi aux Thesmophories. Les Romains l'appellent Cérès, et les Grecs l'identifiaient à [[isis|Isis]], autre mère en deuil.
+repere: VIIe siècle av. J.-C. — *Hymne homérique à Déméter*.
+repere: VIe siècle av. J.-C. — Agrandissement du sanctuaire d'Éleusis.
+repere: 392 — Théodose interdit les cultes païens.
+repere: 395 — Les Goths d'Alaric ravagent Éleusis.
+extrait: Elle parla ainsi, et Dèmètèr à la belle couronne ne s’y refusa pas, et, aussitôt, elle produisit les fruits des champs fertiles. Et toute la vaste terre se hérissa de feuilles et de fleurs ; et Dèmètèr, en partant, instruisit les Rois qui rendent la justice : Triptolémos, et Dioklès dompteur de chevaux, et la force d’Eumolpos, et le chef des peuples Kéléos. Et elle les instruisit du ministère sacré, et elle les initia tous, Triptolémos, Polyxeinos, et surtout Dioklès, à ses orgies sacrées qu’il n’est permis ni de négliger, ni de sonder, ni de révéler, car le grand respect des Dieux réprime la voix. ¶ Heureux qui est instruit de ces choses parmi les hommes terrestres ! Celui qui n’est point initié aux choses sacrées et qui n’y participe point ne jouit jamais d’une semblable destinée, même mort, sous les ténèbres épaisses.
+source: *Hymnes homériques*, « À Dèmètèr », trad. Leconte de Lisle, Lemerre, 1893 | ws Hymnes homériques/À Dèmètèr 2
+voir: persephone, eleusis, mysteres-antiques, hecate, isis, mystes-et-epoptes, hierophante
+
+@ persephone
+cat: figures
+nom: Perséphone
+alias: Korè, Coré, la Jeune Fille, Proserpine, reine des Enfers, grenade
+dates: déesse grecque
+an: -650
+def: Fille de Déméter enlevée par Hadès, reine des morts, qui revient chaque année sur terre au printemps ; déesse des mystères d'Éleusis et des tablettes d'or orphiques.
+texte: Korè, « la jeune fille », cueillait des fleurs quand la terre s'ouvrit sous ses pas et qu'Hadès l'emporta sur son char ; seule [[hecate|Hécate]] et le Soleil entendirent ses cris. Elle avait mangé aux Enfers un grain de grenade : elle doit y passer chaque année une part du temps, et sa remontée ramène les fleurs et les moissons. Reine du royaume des morts, elle accueille les héros, Orphée et Héraclès, et juge les âmes avec son époux.
+texte: Les initiés d'[[eleusis|Éleusis]] revivaient sa disparition et son retour. Dans l'[[orphisme]], elle est la mère de Dionysos Zagreus, que les Titans dévorèrent ; les tablettes d'or des tombes orphiques s'adressent à elle : « Je viens pure d'entre les purs, reine des souterrains ». Les Romains la nomment Proserpine.
+repere: VIIe siècle av. J.-C. — L'*Hymne homérique à Déméter* raconte son enlèvement.
+repere: IVe siècle av. J.-C. — Tablettes d'or orphiques de Thourioi.
+repere: 395 — Fin des mystères d'Éleusis.
+extrait: Et la Vierge, surprise, étendit les deux mains en même temps pour saisir ce beau jouet ; mais voici que la vaste terre s’ouvrit dans les plaines de Nysios, et le Roi insatiable, illustre fils de Kronos, s’en élança, porté par ses chevaux immortels. Et il l’enleva de force et la porta pleurante sur son char d’or. Et elle criait à haute voix, invoquant le Père Kroniôn, le très puissant et le très suprême ; mais aucun des Dieux immortels ni des hommes mortels n’entendit sa voix ni celles de ses compagnes aux mains pleines de belles fleurs. (…) et il a promis aussi, par un signe de tête, que ta fille, ne restant que la troisième partie de l’année sous les ténèbres épaisses, resterait les deux autres parties auprès de toi et des autres Dieux.
+source: *Hymnes homériques*, « À Dèmètèr », trad. Leconte de Lisle, Lemerre, 1893 | ws Hymnes homériques/À Dèmètèr 2
+voir: demeter, eleusis, orphisme, hecate, mysteres-antiques, psychopompe
+
+@ hecate
+cat: figures
+nom: Hécate
+alias: Hékatè, Trivia, déesse des carrefours, Hécate triple, roue d'Hécate, Hécate des Oracles chaldaïques
+dates: déesse grecque
+an: -700
+def: Déesse grecque des carrefours, de la nuit, des morts et de la magie, figurée sous trois visages et escortée de chiens ; les *Oracles chaldaïques* en ont fait l'âme du monde.
+texte: Hésiode la célèbre au VIIe siècle avant notre ère comme une puissance que Zeus honore entre toutes, qui donne la victoire, la richesse et la pêche abondante. Elle est plus tard la déesse des carrefours, où l'on déposait pour elle des repas à la nouvelle lune, des portes et des seuils ; on la représente à trois corps, tenant des torches, accompagnée de [[chien|chiens]] hurlants. Dans l'*Hymne à Déméter*, elle entend les cris de [[persephone|Perséphone]] et aide sa mère à la chercher.
+texte: Patronne des sorcières, de Médée à celles de *Macbeth*, elle préside à la [[magie]] et à la [[necromancie|nécromancie]]. Les *[[oracles-chaldaiques|Oracles chaldaïques]]* et les néoplatoniciens, de [[proclus|Proclus]] à Psellos, font d'elle l'âme cosmique et la source des vertus, et les théurges faisaient tourner en son honneur une toupie, la « roue d'Hécate ». La [[wicca]] et le néopaganisme en ont fait la figure de la déesse triple.
+repere: VIIe siècle av. J.-C. — Hésiode célèbre Hécate dans la *Théogonie*.
+repere: IIe siècle — Les *Oracles chaldaïques* font d'elle l'âme du monde.
+repere: vers 1606 — Shakespeare la fait paraître dans *Macbeth*.
+extrait: Et Astériè, devenue enceinte, enfante Hékatè, qu’entre toutes Zeus Kronide honora. Et il lui donna, pour sa part illustre, de commander sur la terre et sur la mer stérile. Déjà cette part lui avait été faite par Ouranos étoilé, et elle était très-honorée par les Dieux immortels. ¶ Et en effet, aujourd’hui quand un des hommes terrestres fait, selon la coutume, des sacrifices expiatoires, il invoque Hékatè, et une grande faveur lui est accordée promptement, et la Déesse bienveillante exauce sa prière et le comble de richesses, car cela lui est facile. ¶ Tous les honneurs que les enfants de Gaia et d’Ouranos ont reçus de la Moire, Hékatè les possède, car le Kronide ne lui a enlevé ni la puissance ni aucun des honneurs qu’elle possédait sous les anciens Dieux Titans ; mais elle possède tout ce qui lui avait été accordé au commencement. Et parce qu’elle est fille unique, la Déesse est non moins honorée sur la terre et dans l’Ouranos que sur la mer ; et elle est encore plus puissante, parce que Zeus l’honore.
+source: Hésiode, *La Théogonie*, v. 411-428, trad. Leconte de Lisle, Lemerre | ws La Théogonie (traduction Leconte de Lisle)
+voir: oracles-chaldaiques, sorcellerie, magie, persephone, demeter, chien, lune, theurgie
+
+@ pan
+cat: figures
+nom: Pan
+alias: le grand Pan, Pan est mort, faune, syrinx, panique, Hymne à Pan
+dates: dieu grec
+an: -500
+def: Dieu grec des bergers et des troupeaux d'Arcadie, aux cornes et aux pattes de bouc, joueur de syrinx, dont Plutarque rapporte la mort ; il est devenu le symbole de la nature entière et a prêté ses traits au diable.
+texte: Né en [[arcadie|Arcadie]], fils d'Hermès, Pan court les montagnes, poursuit les nymphes et invente la flûte de roseaux en serrant entre ses mains la nymphe Syrinx changée en roseau. Il cause la peur soudaine des troupeaux et des armées, la « panique ». L'*Hymne homérique* explique son nom par la joie qu'il donna à « tous » les dieux, et les philosophes ont fait de ce *pan*, « tout », le dieu de l'univers. Ses traits de bouc velu ont servi, au Moyen Âge, à figurer le diable, et le [[baphomet|Baphomet]] d'Éliphas Lévi en est l'héritier.
+texte: [[plutarque|Plutarque]] raconte qu'un pilote nommé Thamus entendit une voix lui ordonner d'annoncer que « le grand Pan est mort » : les chrétiens y virent l'annonce de la mort du Christ ou de la fin des dieux païens, et [[francois-rabelais|Rabelais]] identifie Pan au Christ, « notre Tout ». [[nicolas-poussin|Poussin]] a peint plusieurs *Triomphes de Pan* ; [[aleister-crowley|Crowley]] écrivit en 1913 un *Hymne à Pan*, lu à ses funérailles, et le néopaganisme a fait de lui le dieu cornu de la nature.
+repere: 490 av. J.-C. — Selon Hérodote, Pan apparaît au coureur Philippidès avant Marathon ; Athènes lui consacre une grotte.
+repere: vers 100 — Plutarque rapporte l'annonce de la mort du grand Pan, sous Tibère.
+repere: 1552 — Rabelais identifie Pan au Christ dans le *Quart Livre*.
+repere: 1913 — Aleister Crowley compose son *Hymne à Pan*.
+extrait: Tout le monde sait ce qui arriva au pilote Thamus. Son vaisseau étant un soir vers de certaines îles de la mer Égée, le vent cessa tout à fait. Tous les gens du vaisseau étaient bien éveillés ; la plupart même passaient le temps à boire les uns avec les autres, lorsqu’on entendit tout d’un coup une voix qui venait des îles, et qui appelait Thamus. Thamus se laissa appeler deux fois sans répondre ; mais à la troisième il répondit. La voix lui commanda que, quand il serait arrivé à un certain lieu, il criât que le grand Pan était mort. Il n’y eut personne qui ne fût saisi de frayeur et d’épouvante. On délibérait si Thamus devait obéir à la voix : mais Thamus conclut que si, quand ils seraient arrivés au lieu marqué, il faisait assez de vent pour passer outre, il ne fallait rien dire ; mais que si un calme les arrêtait là, il fallait s’acquitter de l’ordre qu’il avait reçu. Il ne manqua point d’être surpris d’un calme à cet endroit-là, et aussitôt il se mit à crier de toute sa force que le grand Pan était mort. À peine avait-il cessé de parler, que l’on entendit de tous côtés des plaintes et des gémissements, comme d’un grand nombre de personnes surprises et affligées de cette nouvelle. (…) C’est ainsi que, dans le dialogue où Plutarque traite des oracles qui ont cessé, Cléombrote conte cette histoire, et dit qu’il la tient d’Épithersès, son maître de grammaire, qui était dans le vaisseau de Thamus lorsque la chose arriva.
+source: Bernard Le Bovier de Fontenelle, *Histoire des oracles*, 1687, première dissertation, chap. I | ws Histoire des oracles
+voir: arcadie, baphomet, plutarque, oracle, francois-rabelais, nicolas-poussin, neopaganisme
+
+@ saint-michel
+cat: figures
+nom: Saint Michel
+alias: Michel archange, archange Michel, Quis ut Deus, saint Michel terrassant le dragon, peseur des âmes
+dates: archange
+an: 490
+def: Archange chef des milices célestes, vainqueur du dragon de l'Apocalypse et peseur des âmes au jugement ; patron des chevaliers et de la France, il apparut au mont Gargan et au Mont-Saint-Michel, et parla à Jeanne d'Arc.
+texte: Son nom hébreu signifie « Qui est comme Dieu ? ». Le livre de Daniel le nomme prince protecteur d'Israël, l'épître de Jude lui fait disputer au diable le corps de Moïse, et l'Apocalypse le montre précipitant du ciel le [[dragon]] et ses anges. La tradition chrétienne lui confie la pesée des âmes, pendant de la [[pesee-du-coeur|pesée du cœur]] égyptienne, et la conduite des morts. Il apparaît au mont Gargan, dans les Pouilles, à la fin du Ve siècle, à Rome au-dessus du mausolée d'Hadrien en 590, puis en 708 à l'évêque Aubert, qui fonde le [[mont-saint-michel|Mont-Saint-Michel]].
+texte: Ses sanctuaires couronnent les hauteurs, de Saint-Michel d'Aiguilhe au Puy à Skellig Michael en Irlande ; des auteurs modernes les alignent sur une « ligne sacrée » de l'Irlande à Israël, à la manière des [[lignes-ley|lignes ley]], alignement très approximatif. Il est l'une des voix de [[jeanne-d-arc|Jeanne d'Arc]], le patron de l'ordre de chevalerie fondé par Louis XI en 1469, et, dans les [[anges|hiérarchies angéliques]], l'archange du feu et du sud, que le [[rituel-du-pentagramme|rituel du pentagramme]] de la Golden Dawn invoque.
+repere: fin du Ve siècle — Apparition au mont Gargan.
+repere: 590 — Apparition à Rome, au-dessus du futur château Saint-Ange.
+repere: 708 — Apparition à l'évêque Aubert d'Avranches.
+repere: vers 1425 — Jeanne d'Arc entend sa voix.
+repere: 1469 — Louis XI fonde l'ordre de Saint-Michel.
+voir: mont-saint-michel, dragon, pesee-du-coeur, jeanne-d-arc, anges, rituel-du-pentagramme, hierarchies-celestes, domremy
+
+@ roi-arthur
+cat: figures
+nom: Roi Arthur
+alias: Arthur, Arthur Pendragon, Table ronde, Excalibur, Avalon, rex quondam rexque futurus
+dates: figure légendaire
+an: 500
+def: Roi légendaire des Bretons, vainqueur des Saxons, entouré des chevaliers de la Table ronde et de l'enchanteur Merlin ; emporté blessé à Avalon, il doit revenir.
+texte: L'*Histoire des Bretons*, vers 830, cite déjà un chef de guerre nommé Arthur, vainqueur de douze batailles ; Geoffroy de Monmouth en fait vers 1136, dans son *Histoire des rois de Bretagne*, un roi conquérant, fils d'Uther Pendragon, conçu par la magie de [[merlin|Merlin]], et Wace invente en 1155 la Table ronde. Les romans de [[chretien-de-troyes|Chrétien de Troyes]] font de sa cour le point de départ des aventures de Lancelot, de [[perceval|Perceval]] et de la quête du [[graal|Graal]] ; l'épée Excalibur, la fée Morgane, la trahison de Mordred et le départ pour l'île d'Avalon achèvent la légende.
+texte: En 1191, les moines de [[glastonbury|Glastonbury]] annoncent la découverte de sa tombe, avec une croix de plomb portant son nom : on y a vu une habile publicité. Arthur est l'un des [[neuf-preux|Neuf Preux]] ; son nom a été rapproché du gallois *arth*, l'[[ours]]. L'épitaphe que lui prête Malory, « ci-gît Arthur, roi jadis, roi à venir », dit l'espérance d'un retour qui a nourri tous les messianismes celtiques.
+repere: vers 830 — L'*Histoire des Bretons* nomme Arthur.
+repere: vers 1136 — Geoffroy de Monmouth, *Histoire des rois de Bretagne*.
+repere: 1155 — Wace invente la Table ronde.
+repere: 1191 — Les moines de Glastonbury « découvrent » sa tombe.
+repere: 1485 — Malory, *Le Morte d'Arthur*.
+voir: merlin, graal, perceval, galaad, glastonbury, chretien-de-troyes, neuf-preux, broceliande
+
+@ maurice-maeterlinck
+cat: figures
+nom: Maurice Maeterlinck
+alias: Maeterlinck, L'Oiseau bleu, La Vie des abeilles, Le Grand Secret, Pelléas et Mélisande
+dates: 1862 – 1949
+an: 1862
+def: Écrivain belge, prix Nobel de littérature en 1911, poète symboliste de *Pelléas et Mélisande* et de *L'Oiseau bleu*, qui écrivit sur les abeilles, la mort et les traditions occultes, et vécut dans l'abbaye de Saint-Wandrille.
+texte: Né à Gand, avocat qui abandonne le barreau, Maeterlinck devient le dramaturge du symbolisme : *La Princesse Maleine* (1889), *Pelléas et Mélisande* (1892), mis en musique par Debussy, sont des drames de l'âme où le destin agit dans le silence. Traducteur du mystique flamand Ruysbroeck, il publie *Le Trésor des humbles* (1896), méditations sur la vie intérieure, et *La Vie des abeilles* (1901), où il cherche « l'esprit de la ruche ». *L'Oiseau bleu* (1908), quête initiatique de deux enfants, triomphe à Moscou ; il reçoit le prix Nobel en 1911.
+texte: De 1907 à 1914, il loue l'abbaye de [[saint-wandrille|Saint-Wandrille]], où sa compagne, la cantatrice Georgette Leblanc, sœur de [[maurice-leblanc|Maurice Leblanc]], joue *Macbeth* dans les cloîtres. Il interroge la survie dans *La Mort* (1913) et retrace l'histoire de l'[[occultisme]], des Égyptiens à la théosophie, dans *Le Grand Secret* (1921). Exilé aux États-Unis pendant la guerre, il meurt à Nice en 1949.
+repere: 1862 — Naissance à Gand, le 29 août.
+repere: 1892 — *Pelléas et Mélisande*.
+repere: 1901 — *La Vie des abeilles*.
+repere: 1907 — Il s'installe à l'abbaye de Saint-Wandrille.
+repere: 1911 — Prix Nobel de littérature.
+repere: 1921 — *Le Grand Secret*.
+repere: 1949 — Mort à Nice, le 6 mai.
+voir: saint-wandrille, abeille, maurice-leblanc, occultisme, mystique
+
+@ pierre-dujols
+cat: figures
+nom: Pierre Dujols
+alias: Magophon, Dujols de Valois, Hypotypose, Librairie du Merveilleux
+dates: 1862 – 1926
+an: 1862
+def: Libraire parisien et érudit hermétiste, auteur sous le nom de Magophon d'une explication du *Mutus liber* (1914) ; on l'a compté parmi les inspirateurs, voire les auteurs, de Fulcanelli.
+texte: Libraire spécialisé dans les sciences occultes, Pierre Dujols, qui se disait descendant des Valois, reçoit dans sa boutique de la rue de Rennes les alchimistes et les occultistes de la Belle Époque. Sous le pseudonyme de Magophon, il publie en 1914 chez Nourry une réédition du *[[mutus-liber|Mutus liber]]* précédée de son *Hypotypose*, commentaire planche par planche qui en fait le livre de la [[voie-humide|voie humide]] et de la [[rosee|rosée]]. Il collabore aussi à des éditions de textes hermétiques et à des travaux sur la [[langue-des-oiseaux|langue des oiseaux]].
+texte: Son érudition, sa connaissance de la « cabale phonétique » et ses liens avec [[eugene-canseliet|Eugène Canseliet]] et le milieu de [[fulcanelli|Fulcanelli]] ont conduit plusieurs chercheurs à voir en lui l'un des inspirateurs, peut-être l'auteur principal, du *[[mystere-des-cathedrales|Mystère des cathédrales]]* ; l'énigme reste ouverte.
+repere: 1862 — Naissance.
+repere: 1914 — *Hypotypose*, explication du *Mutus liber*, sous le nom de Magophon.
+repere: 1926 — Mort, l'année où paraît *Le Mystère des cathédrales*.
+voir: mutus-liber, fulcanelli, eugene-canseliet, mystere-des-cathedrales, langue-des-oiseaux
+
+@ erich-von-daniken
+cat: figures
+nom: Erich von Däniken
+alias: von Däniken, Présence des extraterrestres, Chariots of the Gods, Mystery Park
+dates: 1935 – 2026
+an: 1935
+def: Auteur suisse de *Présence des extraterrestres* (1968), qui popularisa dans le monde entier la théorie selon laquelle des astronautes venus de l'espace auraient visité la Terre dans l'Antiquité.
+texte: Hôtelier à Davos, autodidacte, Erich von Däniken publie en 1968 *Erinnerungen an die Zukunft*, traduit en français sous le titre *Présence des extraterrestres* : les lignes de [[nazca|Nazca]] seraient des pistes d'atterrissage, les [[pyramides]] et les statues de l'île de Pâques des œuvres guidées par des visiteurs venus du ciel, que les mythes auraient pris pour des dieux. Le livre, suivi de dizaines d'autres, se vend à des dizaines de millions d'exemplaires. Condamné en 1970 pour escroquerie et faux, il continue d'écrire et ouvre en 2003 à Interlaken un parc à thème, le Mystery Park.
+texte: Les archéologues ont réfuté point par point ses exemples, montrant comment les hommes du passé avaient construit seuls leurs monuments, et ont souligné ce que la thèse retire aux peuples non européens. Ses livres ont nourri les théories des [[anciens-astronautes|anciens astronautes]] jusqu'aux séries télévisées d'aujourd'hui. Il est mort en janvier 2026.
+repere: 1935 — Naissance à Zofingue, le 14 avril.
+repere: 1968 — *Présence des extraterrestres*.
+repere: 1970 — Condamné pour escroquerie.
+repere: 2003 — Ouverture du Mystery Park d'Interlaken.
+repere: 2026 — Mort à Unterseen, le 10 janvier.
+voir: anciens-astronautes, nazca, pyramides, matin-des-magiciens, atlantide
+
+@ ignatius-donnelly
+cat: figures
+nom: Ignatius Donnelly
+alias: Donnelly, Atlantis: The Antediluvian World, The Great Cryptogram, Ragnarok
+dates: 1831 – 1901
+an: 1831
+def: Homme politique et écrivain américain qui fit de l'Atlantide le berceau de toutes les civilisations (1882) et chercha dans Shakespeare le chiffre de Francis Bacon.
+texte: Avocat, membre du Congrès pour le Minnesota, figure du parti populiste, Donnelly publie en 1882 *Atlantis : The Antediluvian World*, où il soutient que l'[[atlantide|Atlantide]] de Platon a bien existé dans l'océan Atlantique et qu'elle a civilisé l'Égypte, le Mexique et l'Europe, d'où les ressemblances entre les pyramides des deux continents. Le livre, immense succès, fonde l'atlantologie moderne, que la [[theosophie]] et [[edgar-cayce|Edgar Cayce]] reprendront. *Ragnarok* (1883) attribue la fin de cette civilisation à la chute d'une comète.
+texte: Dans *The Great Cryptogram* (1888), il croit démontrer, en comptant les mots des pièces de Shakespeare, que [[francis-bacon|Francis Bacon]] y a caché un message signé : son [[chiffre-de-bacon|chiffre]] arbitraire convainquit peu de lecteurs. Il meurt en 1901 à Minneapolis.
+repere: 1831 — Naissance à Philadelphie, le 3 novembre.
+repere: 1863 — Élu au Congrès des États-Unis.
+repere: 1882 — *Atlantis : The Antediluvian World*.
+repere: 1888 — *The Great Cryptogram*.
+repere: 1901 — Mort à Minneapolis, le 1er janvier.
+voir: atlantide, chiffre-de-bacon, francis-bacon, theosophie, edgar-cayce
+
+@ marguerite-marie-alacoque
+cat: figures
+nom: Marguerite-Marie Alacoque
+alias: sainte Marguerite-Marie, Marguerite Alacoque, apparitions de Paray-le-Monial
+dates: 1647 – 1690
+an: 1647
+def: Religieuse visitandine de Paray-le-Monial qui reçut de 1673 à 1675 des apparitions du Christ lui montrant son cœur ; elle est à l'origine de la dévotion moderne au Sacré-Cœur.
+texte: Née à Verosvres, en Bourgogne, fille d'un notaire royal, Marguerite Alacoque entre en 1671 au monastère de la Visitation de [[paray-le-monial|Paray-le-Monial]]. Le 27 décembre 1673, en prière devant le saint sacrement, elle voit le Christ qui lui découvre son cœur enflammé ; d'autres apparitions suivent, dont la « grande apparition » de juin 1675, où il demande une fête en l'honneur de son cœur le vendredi après l'octave du Saint-Sacrement. Moquée par ses sœurs, elle est soutenue par le jésuite Claude La Colombière.
+texte: Elle meurt en 1690. La dévotion au [[sacre-coeur|Sacré-Cœur]] se répand, devient un emblème des catholiques contre-révolutionnaires, puis une fête de toute l'Église en 1856. Béatifiée en 1864, elle est canonisée en 1920 ; Paray devient un grand pèlerinage, au voisinage duquel naît le [[hieron-du-val-d-or|Hiéron du Val d'Or]].
+repere: 1647 — Naissance à Verosvres, le 22 juillet.
+repere: 1671 — Entrée à la Visitation de Paray-le-Monial.
+repere: 1673 — Première apparition du Sacré-Cœur, le 27 décembre.
+repere: 1675 — « Grande apparition ».
+repere: 1690 — Mort à Paray-le-Monial, le 17 octobre.
+repere: 1920 — Canonisation.
+voir: paray-le-monial, sacre-coeur, hieron-du-val-d-or, mystique, extase
+
+@ gustave-flaubert
+cat: figures
+nom: Gustave Flaubert
+alias: Flaubert, La Tentation de saint Antoine, Salammbô, Bouvard et Pécuchet
+dates: 1821 – 1880
+an: 1821
+def: Romancier français de *Madame Bovary*, qui consacra trente ans à *La Tentation de saint Antoine*, défilé des hérésies, des dieux et des monstres de l'Antiquité, et fit essayer le magnétisme et le spiritisme à Bouvard et Pécuchet.
+texte: Né à Rouen en 1821, fils d'un chirurgien, Flaubert vit à Croisset, au bord de la Seine, où il travaille ses phrases jusqu'à l'épuisement. Il voyage en Égypte et en Orient en 1849-1851 ; *Madame Bovary* (1857) lui vaut un procès et la gloire, *Salammbô* (1862) ressuscite Carthage et ses cultes. *La Tentation de saint Antoine*, rêvée devant un tableau de Bruegel à Gênes en 1845, reprise en 1849, 1856 et publiée en 1874, fait passer devant l'ermite les gnostiques, [[simon-le-magicien|Simon le Magicien]], [[apollonius-de-tyane|Apollonius de Tyane]], les dieux de tous les peuples, [[isis|Isis]] en deuil, le [[sphinx]] et la [[chimere|Chimère]], le [[griffon]], la [[manticore]] et la [[licorne]].
+texte: Son dernier roman, *Bouvard et Pécuchet*, inachevé à sa mort en 1880, promène deux copistes à travers tous les savoirs : ils s'essaient au [[magnetisme-animal|magnétisme]], aux [[tables-tournantes|tables tournantes]] et aux sciences occultes avant de revenir à leur pupitre. Flaubert y dresse l'inventaire ironique des croyances de son siècle.
+repere: 1821 — Naissance à Rouen, le 12 décembre.
+repere: 1849 — Première version de *La Tentation de saint Antoine* ; départ pour l'Orient.
+repere: 1857 — *Madame Bovary*.
+repere: 1874 — Publication de *La Tentation de saint Antoine*.
+repere: 1880 — Mort à Croisset, le 8 mai.
+voir: chimere, sphinx, griffon, manticore, rouen, simon-le-magicien, apollonius-de-tyane, magnetisme-animal
+
+@ charles-baudelaire
+cat: figures
+nom: Charles Baudelaire
+alias: Baudelaire, Les Fleurs du mal, Correspondances, Les Paradis artificiels, traducteur de Poe
+dates: 1821 – 1867
+an: 1821
+def: Poète français des *Fleurs du mal* (1857), dont le sonnet « Correspondances » a fait de la doctrine de Swedenborg l'art poétique du symbolisme, et traducteur d'Edgar Poe.
+texte: Né à Paris en 1821, Baudelaire mène une vie de dandy endetté, de critique d'art et de poète maudit. *Les Fleurs du mal* (1857), condamnées pour six pièces jugées immorales, contiennent le sonnet des [[correspondances]] — « Les parfums, les couleurs et les sons se répondent » — où l'on reconnaît la doctrine d'[[emanuel-swedenborg|Swedenborg]] et l'analogie universelle des occultistes. Les Chats, Les Hiboux, Le Cygne peuplent son recueil de symboles. Dans *Les Paradis artificiels* (1860), il décrit les extases du haschisch et de l'opium et dénonce leur illusion.
+texte: Il consacre dix-sept ans à traduire [[edgar-allan-poe|Edgar Poe]], son « frère », des *Histoires extraordinaires* (1856) aux *Aventures d'Arthur Gordon Pym*, et en fait un auteur français. Frappé de paralysie en Belgique, il meurt à Paris en 1867.
+repere: 1821 — Naissance à Paris, le 9 avril.
+repere: 1856 — *Histoires extraordinaires*, traduites de Poe.
+repere: 1857 — *Les Fleurs du mal* ; procès.
+repere: 1860 — *Les Paradis artificiels*.
+repere: 1867 — Mort à Paris, le 31 août.
+voir: correspondances, emanuel-swedenborg, edgar-allan-poe, chat, le-scarabee-d-or
+
+@ francois-villon
+cat: figures
+nom: François Villon
+alias: Villon, Testament, Ballade des pendus, ballades en jargon, Coquillards
+dates: vers 1431 – après 1463
+an: 1431
+def: Poète français du XVe siècle, clerc et mauvais garçon, auteur du *Testament* et de la *Ballade des pendus*, qui composa des ballades dans le jargon secret des Coquillards.
+texte: Né à Paris vers 1431, élevé par le chapelain Guillaume de Villon dont il prend le nom, maître ès arts, François de Montcorbier tue un prêtre dans une rixe en 1455, participe l'année suivante au vol du collège de Navarre et fréquente les Coquillards, bande de malfaiteurs dont la justice de Dijon venait de relever le jargon. Il compose le *Lais* (1456) et le *Testament* (1461), où se mêlent la peur de la mort, la satire et la prière, comme dans la *Ballade pour prier Notre-Dame*, qui porte son nom en [[acrostiche]]. Condamné à être pendu en 1462, il voit sa peine commuée en bannissement en janvier 1463 ; on perd alors sa trace.
+texte: L'imprimeur Pierre Levet publie en 1489 ses six ballades « en jargon », écrites dans l'[[argot]] des Coquillards, langue secrète que l'on n'a jamais entièrement déchiffrée. La *Ballade des pendus*, écrite dans l'attente de la potence, est l'un des plus célèbres poèmes de la langue française.
+repere: vers 1431 — Naissance à Paris.
+repere: 1455 — Il tue un prêtre ; procès des Coquillards à Dijon.
+repere: 1461 — *Le Testament*.
+repere: 1463 — Sa condamnation à mort est commuée en bannissement.
+repere: 1489 — Première édition de ses œuvres, avec les ballades en jargon.
+voir: argot, acrostiche, argot-des-batisseurs
+
+@ frederic-mistral
+cat: figures
+nom: Frédéric Mistral
+alias: Mistral, Mirèio, Mireille, Félibrige, Museon Arlaten
+dates: 1830 – 1914
+an: 1830
+def: Poète provençal, fondateur du Félibrige et prix Nobel de littérature en 1904, dont l'épopée *Mireille* (1859) s'achève aux Saintes-Maries-de-la-Mer, où l'héroïne mourante voit les saintes venir sur la mer.
+texte: Né à Maillane, fils d'un riche propriétaire, Mistral fonde le 21 mai 1854, avec six autres poètes, le Félibrige, qui veut rendre au provençal sa dignité de langue littéraire. *Mirèio* (1859), qu'il publie avec sa propre traduction française en regard, raconte en douze chants l'amour de la fille d'un riche fermier pour un pauvre vannier ; Lamartine la salue comme une épopée homérique et Gounod en tire un opéra en 1864. Mireille, fuyant la ferme, traverse la Crau et la Camargue pour implorer les saintes Maries et meurt dans leur église.
+texte: Il consacre vingt ans à un grand dictionnaire de la langue d'oc, *Lou Tresor dóu Felibrige*, et emploie l'argent de son prix Nobel, en 1904, au Museon Arlaten d'Arles, musée de la vie provençale. Il meurt à Maillane en 1914. Son œuvre a fixé l'image de la Provence des légendes, des [[saintes-maries-de-la-mer|Saintes-Maries]] à la [[tarasque|Tarasque]].
+repere: 1830 — Naissance à Maillane, le 8 septembre.
+repere: 1854 — Fondation du Félibrige.
+repere: 1859 — *Mirèio*.
+repere: 1904 — Prix Nobel de littérature.
+repere: 1914 — Mort à Maillane, le 25 mars.
+voir: saintes-maries-de-la-mer, marie-madeleine, tarasque

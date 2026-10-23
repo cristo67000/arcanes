@@ -23,7 +23,7 @@ dates: depuis 1486
 def: Courant de la Renaissance qui reprit les méthodes et les doctrines de la kabbale juive pour démontrer les vérités du christianisme, comme la Trinité et la divinité du Christ.
 texte: [[pic-de-la-mirandole]], en 1486, affirme que la kabbale confirme les mystères chrétiens. [[jean-reuchlin]] la systématise dans *[[de-arte-cabalistica|De arte cabalistica]]* (1517) ; le franciscain vénitien Francesco Giorgi l'intègre à une vaste harmonie du monde (1525) ; [[guillaume-postel]] traduit le *Zohar* ; [[heinrich-khunrath]] et [[athanasius-kircher]] en font une science de la nature et du divin.
 texte: Les kabbalistes chrétiens découvrent la Trinité dans les trois premières [[sephiroth|séphiroth]], le nom de Jésus dans le [[tetragramme|Tétragramme]] augmenté d'une lettre, et le Messie dans les combinaisons de lettres. Leur entreprise visait souvent la conversion des juifs. Elle a donné naissance à la [[kabbale-hermetique|kabbale hermétique]] des occultistes.
-voir: pic-de-la-mirandole, jean-reuchlin, de-arte-cabalistica, guillaume-postel, kabbala-denudata, kabbale
+voir: pic-de-la-mirandole, jean-reuchlin, de-arte-cabalistica, guillaume-postel, kabbala-denudata, kabbale, blaise-de-vigenere
 
 @ kabbale-hermetique
 cat: kabbale
@@ -266,7 +266,7 @@ def: Méthode d'interprétation qui donne à chaque lettre hébraïque une valeu
 texte: Les lettres hébraïques servaient aussi de chiffres : *alef* vaut 1, *bet* 2, jusqu'à *tav*, 400. Deux mots de même valeur passent pour secrètement liés. Le Talmud remarque ainsi que *yayin*, « vin », et *sod*, « secret », valent tous deux 70 : « quand le vin entre, le secret sort ». *Ahavah*, « amour », et *ehad*, « un », valent 13.
 texte: Utilisée dans le commentaire biblique dès l'Antiquité, la gématrie devient un outil majeur de la [[kabbale]] et de la [[kabbale-chretienne|kabbale chrétienne]]. Elle repose sur la conviction que l'Écriture, dictée par Dieu, n'a rien d'arbitraire jusque dans ses lettres. Son équivalent grec est l'[[isopsephie]].
 schema: alphabet-hebreu
-voir: isopsephie, notarikon, temourah, alphabet-hebreu, numerologie, nombre-de-la-bete
+voir: isopsephie, notarikon, temourah, alphabet-hebreu, numerologie, nombre-de-la-bete, atbash, cryptographie
 
 @ notarikon
 cat: kabbale
@@ -275,7 +275,7 @@ alias: notarique, acronyme kabbalistique, AGLA
 def: Méthode kabbalistique qui lit un mot comme les initiales d'une phrase, ou forme un mot à partir des initiales d'une phrase.
 texte: Le nom vient du latin *notarius*, le sténographe. Le procédé le plus célèbre en magie est le mot *AGLA*, formé des initiales de la phrase hébraïque *Atah Gibor Le-olam Adonaï*, « Tu es puissant pour l'éternité, Seigneur », gravé sur d'innombrables amulettes et pentacles.
 texte: Les kabbalistes lisaient aussi le premier mot de la Bible, *Bereshit*, « Au commencement », comme une phrase entière d'initiales. Avec la [[gematrie]] et la [[temourah]], le notarikon forme les trois méthodes classiques de la kabbale « littérale ».
-voir: gematrie, temourah, amulette, pentacle
+voir: gematrie, temourah, amulette, pentacle, acrostiche, anagramme
 
 @ temourah
 cat: kabbale
@@ -284,7 +284,7 @@ alias: temura, temurah, permutation des lettres, atbash, albam
 def: Méthode kabbalistique qui consiste à permuter ou à remplacer les lettres d'un mot selon des règles fixes pour en découvrir un sens caché.
 texte: Le système le plus connu, l'*atbash*, remplace la première lettre de l'alphabet par la dernière, la deuxième par l'avant-dernière, et ainsi de suite. Le livre de Jérémie l'emploie déjà : « Shéshak », nom mystérieux, se lit « Babel ». D'autres systèmes décalent l'alphabet ou l'échangent par moitiés.
 texte: [[abraham-aboulafia]] fait de la combinaison des lettres une méthode de méditation. Les cryptographes de la Renaissance, comme [[jean-tritheme]], ont puisé dans ces procédés.
-voir: gematrie, notarikon, abraham-aboulafia, steganographia
+voir: gematrie, notarikon, abraham-aboulafia, steganographia, atbash, anagramme
 
 @ isopsephie
 cat: kabbale
@@ -358,7 +358,7 @@ alias: section dorée, divine proportion, proportion dorée, phi, 1,618
 def: Proportion mathématique d'environ 1,618, dite aussi « divine proportion », à laquelle on a prêté depuis le XIXe siècle une présence universelle dans la nature et dans l'art.
 texte: Euclide définit le partage d'une ligne en « extrême et moyenne raison » : le tout est à la grande partie ce que la grande partie est à la petite. Le rapport vaut (1 + √5) / 2, environ 1,618. En 1509, le moine mathématicien Luca Pacioli lui consacre un traité, *De divina proportione*, illustré par [[leonard-de-vinci|Léonard de Vinci]]. Le rapport de deux termes successifs de la suite de Fibonacci s'en approche.
 texte: Au XIXe siècle, Adolf Zeising affirme le retrouver partout, du corps humain aux temples grecs ; le diplomate roumain Matila Ghyka popularise en France, dans les années 1930, l'idée d'une harmonie cachée de l'univers. Les mathématiciens et les historiens de l'art ont montré que beaucoup de ces affirmations relèvent de mesures choisies après coup.
-voir: arithmologie, pyramides, schwaller-de-lubicz, pentagramme
+voir: arithmologie, pyramides, schwaller-de-lubicz, pentagramme, dodecaedre, solides-de-platon
 
 @ tetractys
 cat: nombres
@@ -387,4 +387,4 @@ def: Tableau de nombres dont les lignes, les colonnes et les diagonales ont la m
 texte: Le plus ancien connu est le Lo Shu chinois, de trois cases sur trois, dont chaque ligne vaut 15 ; la légende dit qu'il apparut sur la carapace d'une tortue. Les mathématiciens arabes en étudient de nombreux. [[cornelius-agrippa]] publie sept carrés, de trois à neuf cases de côté, attribués aux planètes dans l'ordre chaldéen : Saturne (3 × 3), Jupiter, Mars, le Soleil, Vénus, Mercure et la Lune (9 × 9).
 texte: Gravés sur une plaque du métal de la planète, ils servent de [[talisman|talismans]] ; on trace aussi sur eux les [[sceau|sceaux]] des intelligences planétaires, en reliant les nombres qui correspondent aux lettres d'un nom. La gravure *Melencolia I* de [[albrecht-durer|Dürer]] (1514) montre un carré de Jupiter, planète censée tempérer la mélancolie saturnienne ; ses deux cases centrales du bas donnent la date, 1514.
 schema: sceau-de-saturne
-voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator, melencolia, cavalier-echecs
+voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator, melencolia, cavalier-echecs, sagrada-familia, tortue

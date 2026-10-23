@@ -1,0 +1,278 @@
+# Articles divers de la version 1.5 : géométrie sacrée, symboles, art
+# gothique, démons, prophéties, sociétés et livres de l'énigme moderne.
+
+@ dodecaedre
+cat: nombres
+nom: Dodécaèdre
+alias: dodécaèdre régulier, dodécaèdres romains, cinquième solide, quintessence, Hippase
+def: Solide régulier à douze faces pentagonales, le cinquième des solides de Platon, dont le *Timée* fait la figure de l'univers entier ; des dodécaèdres de bronze gallo-romains gardent leur mystère.
+texte: Le dodécaèdre a douze faces en forme de pentagone régulier, vingt sommets et trente arêtes ; il est lié au [[nombre-d-or|nombre d'or]], qui règle le pentagone et le [[pentagramme]]. Parmi les [[solides-de-platon|solides de Platon]], il est le seul qui ne soit pas attribué à un élément : « Dieu s'en servit pour tracer le plan de l'univers », dit le *Timée*, et les commentateurs y ont vu l'éther, la [[quintessence]] des étoiles. Une légende rapportée par [[jamblique|Jamblique]] veut que le pythagoricien Hippase ait péri en mer pour avoir divulgué la construction du dodécaèdre inscrit dans la sphère.
+texte: On a trouvé en Gaule, en Germanie et en Bretagne plus d'une centaine de petits dodécaèdres de bronze des IIe-IVe siècles, creux, percés à chaque face d'un trou de taille différente et ornés de boutons aux sommets : instruments de mesure, calendriers, objets de culte, jeux ou outils à tricoter, aucune hypothèse ne s'est imposée. [[johannes-kepler|Kepler]] plaça le dodécaèdre entre les orbites de la Terre et de Mars dans son *Mystère cosmographique* (1596), et des astronomes ont proposé en 2003 que l'espace lui-même pourrait avoir une forme dodécaédrique. Dalí a peint la *Cène* sous un immense dodécaèdre (1955).
+extrait: Ce sont là les seuls solides à la formation desquels servit cet élément. Le quatrième solide fut produit par l’autre élément, le triangle isoscèle ; quatre triangles isoscèles furent réunis, les quatre angles droits au centre, de manière à composer un tétragone équilatéral ; six de ces tétragones donnèrent huit angles solides, chaque angle solide étant formé de trois angles plans ; et de cet assemblage résulta la figure cubique, qui a pour base six tétragones réguliers. Et comme il restait une cinquième combinaison, Dieu s’en servit pour tracer le plan de l’univers.
+source: Platon, *Timée*, 55b-c, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
+voir: solides-de-platon, nombre-d-or, pentagramme, douze, cinq, quintessence, geometrie-sacree
+
+@ solides-de-platon
+cat: nombres
+nom: Solides de Platon
+alias: polyèdres réguliers, cinq solides, tétraèdre, octaèdre, icosaèdre, cube, Mysterium cosmographicum
+def: Les cinq seuls polyèdres réguliers convexes — tétraèdre, cube, octaèdre, icosaèdre, dodécaèdre — que le *Timée* attribue au feu, à la terre, à l'air, à l'eau et à l'univers.
+texte: Dans le *Timée*, [[platon|Platon]] compose les [[quatre-elements|quatre éléments]] de triangles assemblés en solides : la pyramide, aiguë et mobile, au feu ; l'octaèdre à l'air ; l'icosaèdre, roulant, à l'eau ; le cube, stable, à la terre ; le [[dodecaedre|dodécaèdre]], au tout. Euclide démontre au livre XIII des *Éléments* qu'il n'en existe pas d'autres. La Renaissance s'en éprend : Luca Pacioli les fait dessiner par [[leonard-de-vinci|Léonard de Vinci]] pour *La Divine Proportion* (1509), l'orfèvre Wenzel Jamnitzer en tire des variations fantastiques, et [[albrecht-durer|Dürer]] place un polyèdre énigmatique dans sa *[[melencolia|Mélancolie]]*.
+texte: En 1596, [[johannes-kepler|Johannes Kepler]], dans le *Mystère cosmographique*, emboîte les cinq solides entre les sphères des six planètes connues : le plan de Dieu, pense-t-il, est géométrique. Les mesures de Tycho Brahe le conduiront à abandonner les sphères pour les ellipses, mais il garda toute sa vie l'idée d'une [[harmonie-des-spheres|harmonie]] mathématique du monde. La [[geometrie-sacree|géométrie sacrée]] moderne les tire de la « [[fleur-de-vie|fleur de vie]] ».
+extrait: Mais, laissons là ces questions et assignons chacune des figures dont nous venons d’étudier l’origine, au feu, à la terre, à l’eau ou à l’air. Donnons à la terre le solide de forme cubique ; car des quatre genres la terre est le plus immobile ; elle est le corps le plus susceptible de recevoir une apparence fixe ; il est donc nécessaire qu’elle soit formée du solide qui a les bases les plus fermes. Or, parmi les triangles que nous avons choisis en commençant, la base la plus ferme possible est le triangle équilatéral et non celui dont les côtés sont inégaux, et des deux plans équilatéraux que nous avons formés au moyen du triangle équilatéral, le tétragone, dans ses parties et dans son ensemble, est nécessairement une base plus ferme que le triangle. Ainsi, en attribuant cette forme à la terre, nous conservons la vraisemblance. (…) Admettons donc, d’après la droite raison et la vraisemblance, que le solide qui a la forme d’une pyramide est l’élément et comme le germe du feu, que le second solide que nous avons décrit est celui de l’air, et le troisième, celui de l’eau.
+source: Platon, *Timée*, 55d-56b, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
+voir: dodecaedre, platon, quatre-elements, johannes-kepler, geometrie-sacree, nombre-d-or, melencolia
+
+@ crop-circles
+cat: pierres
+nom: Crop circles
+alias: agroglyphes, cercles de culture, crop circle, céréologie, Doug Bower et Dave Chorley
+def: Figures géométriques tracées en couchant les épis d'un champ, apparues en nombre dans le sud de l'Angleterre à partir des années 1970 ; attribuées à des énergies ou à des extraterrestres, elles sont l'œuvre de plaisantins puis d'artistes.
+texte: Les premiers cercles simples font parler d'eux à la fin des années 1970 dans le Wiltshire et le Hampshire, région de [[stonehenge|Stonehenge]] et d'[[avebury|Avebury]] ; ils se multiplient et se compliquent dans les années 1980. On les attribue à des tourbillons de vent, à des soucoupes volantes, aux [[lignes-ley|lignes ley]] ou à des forces telluriques ; une « céréologie » prétend les étudier. Le 9 septembre 1991, deux retraités de Southampton, Doug Bower et Dave Chorley, révèlent à la presse qu'ils en tracent depuis 1976 avec une planche, une corde et une casquette munie d'un viseur, et en refont un devant les journalistes.
+texte: Des équipes d'artistes ont pris la relève, produisant des figures de plus en plus savantes, comme l'ensemble de 409 cercles de Milk Hill en 2001 ou les fractales tracées près de Stonehenge. Aucune étude n'a montré dans les épis couchés de transformation que des moyens humains ne puissent produire ; les agroglyphes sont devenus une attraction touristique et un art éphémère.
+voir: avebury, stonehenge, lignes-ley, geobiologie, anciens-astronautes, hauts-lieux-energetiques
+
+@ noeud-de-salomon
+cat: symboles
+nom: Nœud de Salomon
+alias: nœud de Salomon, entrelacs de Salomon, sceau de Salomon (entrelacs), nœud d'éternité
+def: Motif de deux boucles fermées entrelacées deux fois, sans commencement ni fin, répandu des mosaïques romaines aux tissus africains ; il porte le nom du roi sage par analogie avec ses sceaux magiques.
+texte: Le nœud apparaît dans les mosaïques romaines et paléochrétiennes, comme celles de la basilique d'Aquilée au IVe siècle, sur les seuils des maisons et des églises, puis dans l'art byzantin, islamique et dans les manuscrits irlandais ; on le retrouve dans les étoffes et les sculptures des Akans et des Yoroubas d'Afrique de l'Ouest. Ce n'est pas un vrai nœud mais un enlacement de deux anneaux : aucun ne peut être retiré sans couper l'autre.
+texte: Le nom de « nœud de Salomon » est moderne : il rappelle la réputation de [[salomon|Salomon]], maître des démons par son anneau et son [[sceau]], et l'on confond parfois ce motif avec l'[[hexagramme]] dit « sceau de Salomon ». Les interprétations y voient l'union de deux principes, du divin et de l'humain, l'éternité, ou une protection contre le mal placée sur le seuil, comme l'[[amulette]].
+voir: salomon, sceau, hexagramme, triskele, amulette, chaine-d-union
+
+@ roue-solaire
+cat: symboles
+nom: Roue solaire
+alias: roue du soleil, croix solaire, rouelle, roue de Taranis, Sonnenrad, char de Trundholm
+def: Cercle rayonnant ou croisé figurant le soleil et sa course, l'un des plus anciens symboles d'Europe, de la rouelle gauloise de Taranis à la roue des temples indiens ; l'extrême droite en a fait un emblème.
+texte: Dès l'âge du bronze, le soleil est une roue qui roule dans le ciel : le char de Trundholm, au Danemark (vers 1400 avant notre ère), montre un cheval tirant un disque doré. Les Gaulois portaient de petites rouelles de bronze, et le dieu à la roue, que l'on nomme Taranis, tient une roue à rayons sur le chaudron de Gundestrup ; la croix inscrite dans un cercle, ou croix solaire, se retrouve partout. En Inde, la roue de la loi bouddhique et les douze roues sculptées du temple du Soleil de Konarak (XIIIe siècle) prolongent l'image.
+texte: La roue tournante est aussi celle du temps et du destin, la *[[arcane-roue-de-fortune|Roue de Fortune]]* ; le [[svastika]] et le [[triskele|triskèle]] en sont des variantes en mouvement. Les mouvements völkisch puis la SS ont fait de la *Sonnenrad* à rayons coudés un emblème ; la mosaïque du [[soleil-noir|Soleil noir]] du château de [[wewelsburg|Wewelsburg]] en dérive, et les groupes néonazis l'emploient encore, ce qui rend le symbole suspect hors de son contexte antique.
+voir: svastika, triskele, soleil-noir, arcane-roue-de-fortune, druidisme, soleil, wewelsburg
+
+@ gothique
+cat: notions
+nom: Gothique
+alias: gothique, art des Goths, maniera tedesca, art got, néogothique, culture gothique
+def: Mot forgé par les humanistes italiens pour mépriser l'art du Moyen Âge, attribué aux « barbares » Goths, puis réhabilité par les romantiques et chargé par Fulcanelli d'un sens secret.
+texte: Les Goths n'ont rien bâti des cathédrales. Mais, pour les artistes de la Renaissance qui retrouvent les ordres antiques, l'art des siècles précédents est barbare, « à la manière des Allemands » ou des Goths : la lettre de Raphaël au pape Léon X (vers 1519) et les *Vies* de Vasari fixent ce mépris. Le mot reste injurieux jusqu'au XVIIIe siècle ; le jeune Goethe, devant la cathédrale de Strasbourg, en fait en 1772 l'éloge, et Horace Walpole sous-titre *Le Château d'Otrante* (1764) « histoire gothique », lançant le [[roman-gothique|roman gothique]].
+texte: Le romantisme fait du gothique l'art national et religieux : Chateaubriand voit dans les nefs les forêts des Gaules, Hugo la « grande écriture du genre humain » avant l'imprimerie. Au XXe siècle, [[fulcanelli|Fulcanelli]] lit dans le mot « gothique » l'« [[argot]] » des initiés, l'« art got » de la lumière : jeu de mots de la [[langue-des-oiseaux|langue des oiseaux]], sans fondement linguistique. Le mot désigne aujourd'hui aussi bien l'[[art-gothique|art gothique]] qu'un style de musique et de vêtement.
+extrait: En effet, depuis l’origine des choses jusqu’au quinzième siècle de l’ère chrétienne inclusivement, l’architecture est le grand livre de l’humanité, l’expression principale de l’homme à ses divers états de développement, soit comme force, soit comme intelligence. ¶ Quand la mémoire des premières races se sentit surchargée, quand le bagage des souvenirs du genre humain devint si lourd et si confus que la parole, nue et volante, risqua d’en perdre en chemin, on les transcrivit sur le sol de la façon la plus visible, la plus durable et la plus naturelle à la fois. On scella chaque tradition sous un monument. (…) Ainsi, durant les six mille premières années du monde, depuis la pagode la plus immémoriale de l’Indoustan jusqu’à la cathédrale de Cologne, l’architecture a été la grande écriture du genre humain Et cela est tellement vrai que non-seulement tout symbole religieux, mais encore toute pensée humaine a sa page dans ce livre immense et son monument.
+source: Victor Hugo, *Notre-Dame de Paris*, livre V, chap. II, « Ceci tuera cela » (texte de l’édition de 1832), éd. Perrotin, 1844 | ws Notre-Dame de Paris, 1844/05/02
+voir: art-gothique, roman-gothique, argot, fulcanelli, notre-dame-de-paris, victor-hugo
+
+@ art-gothique
+cat: courants
+nom: Art gothique
+alias: architecture gothique, cathédrales gothiques, ogive, voûte d'ogives, Suger, Saint-Denis, Villard de Honnecourt
+def: Style de l'Europe médiévale, né vers 1140 à Saint-Denis autour de l'abbé Suger, qui élève les cathédrales vers la lumière par l'ogive et le vitrail ; l'ésotérisme moderne y a lu un savoir caché des bâtisseurs.
+texte: Entre 1140 et 1144, l'abbé Suger reconstruit le chœur de la basilique de Saint-Denis avec une couronne de chapelles inondée de lumière par de grandes verrières. Il lisait les écrits attribués au [[pseudo-denys|pseudo-Denys l'Aréopagite]], qu'il confondait avec le saint patron de son abbaye : Dieu est lumière, et la beauté matérielle élève l'esprit — « l'esprit engourdi monte au vrai par les choses matérielles », fait-il graver sur les portes. La voûte sur croisée d'ogives, l'arc brisé et l'arc-boutant permettent d'évider les murs : Sens, Laon, [[notre-dame-de-paris|Notre-Dame de Paris]], [[cathedrale-de-chartres|Chartres]], Reims, Amiens, Strasbourg s'élèvent en un siècle.
+texte: Les maîtres d'œuvre, comme Villard de Honnecourt, dont le carnet de dessins (vers 1230) est conservé, appartenaient aux loges de tailleurs de pierre, d'où la [[franc-maconnerie]] a tiré sa légende ; les [[labyrinthe|labyrinthes]], les zodiaques et les signes des portails ont nourri les lectures symboliques. Au XXe siècle, [[fulcanelli|Fulcanelli]] fait des cathédrales des livres d'[[alchimie]] taillés dans la pierre, d'autres y cherchent le [[nombre-d-or|nombre d'or]] ou les [[courants-telluriques|courants telluriques]] ; l'historien Erwin Panofsky les a rapprochées, plus sobrement, de la scolastique.
+extrait: Les forêts ont été les premiers temples de la Divinité, et les hommes ont pris dans les forêts la première idée de l’architecture. Cet art a donc dû varier selon les climats. Les Grecs ont tourné l’élégante colonne corinthienne avec son chapiteau de feuilles sur le modèle du palmier. Les énormes piliers du vieux style égyptien représentent le sycomore, le figuier oriental, le bananier et la plupart des arbres gigantesques de l’Afrique et de l’Asie. ¶ Les forêts des Gaules ont passé à leur tour dans les temples de nos pères, et nos bois de chênes ont ainsi maintenu leur origine sacrée. Ces voûtes ciselées en feuillages, ces jambages qui appuient les murs et finissent brusquement comme des troncs brisés, la fraîcheur des voûtes, les ténèbres du sanctuaire, les ailes obscures, les passages secrets, les portes abaissées, tout retrace les labyrinthes des bois dans l’église gothique, tout en fait sentir la religieuse horreur, les mystères et la divinité.
+source: François-René de Chateaubriand, *Génie du christianisme*, 1802, troisième partie, livre I, chap. VIII, « Des églises gothiques », éd. Garnier, 1828 | ws Génie du christianisme/Partie 3/Livre 1/Chapitre VIII
+extrait: Elle est revenue des croisades avec l’ogive, comme les nations avec la liberté. Alors, tandis que Rome se démembre peu à peu, l’architecture romane meurt. L’hiéroglyphe déserte la cathédrale et s’en va blasonner le donjon pour faire un prestige à la féodalité. La cathédrale elle-même, cet édifice autrefois si dogmatique, envahie désormais par la bourgeoisie, par la commune, par la liberté, échappe au prêtre et tombe au pouvoir de l’artiste, L’artiste la bâtit à sa guise. Adieu le mystère, le mythe, la loi. Voici la fantaisie et le caprice. Pourvu que le prêtre ait sa basilique et son autel, il n’a rien à dire. Les quatre murs sont à l’artiste. Le livre architectural n’appartient plus au sacerdoce, à la religion, à Rome : il est à l’imagination, à la poésie, au peuple.
+source: Victor Hugo, *Notre-Dame de Paris*, livre V, chap. II, « Ceci tuera cela » (texte de l’édition de 1832), éd. Perrotin, 1844 | ws Notre-Dame de Paris, 1844/05/02
+repere: 1144 — Consécration du chœur gothique de Saint-Denis, voulu par Suger.
+repere: 1163 — Début de la construction de Notre-Dame de Paris.
+repere: 1194 — Incendie de Chartres ; la cathédrale gothique est rebâtie.
+repere: vers 1230 — Carnet de dessins de Villard de Honnecourt.
+voir: gothique, cathedrale-de-chartres, notre-dame-de-paris, pseudo-denys, mystere-des-cathedrales, argot-des-batisseurs, gargouille, operatifs-et-speculatifs
+
+@ roman-gothique
+cat: textes
+nom: Roman gothique
+alias: roman noir, gothic novel, Le Château d'Otrante, Le Moine, Les Mystères d'Udolphe, Vathek, Frankenstein, Melmoth
+def: Genre romanesque né en Angleterre en 1764 avec *Le Château d'Otrante*, peuplé de châteaux, de souterrains, de moines diaboliques et d'apparitions, d'où sont sortis le fantastique et le roman d'horreur.
+texte: Horace Walpole publie en 1764 *Le Château d'Otrante*, « histoire gothique » où un casque géant tombe du ciel et un portrait sort de son cadre. Ann Radcliffe, avec *Les Mystères d'Udolphe* (1794), fait frissonner son héroïne dans des châteaux des Apennins avant d'expliquer le surnaturel ; Matthew Lewis, avec *Le Moine* (1796), mène un moine espagnol au viol, au meurtre et au pacte avec le diable. William Beckford écrit en français *Vathek* (1786), conte oriental où un calife cherche les trésors souterrains d'Eblis. *Le Diable amoureux* de Cazotte (1772), avec sa scène d'[[evocation|évocation]], en est un précurseur français.
+texte: Le genre se charge d'ésotérisme : dans *Frankenstein* (1818), Mary Shelley fait lire au jeune Victor [[cornelius-agrippa|Corneille Agrippa]], [[paracelse|Paracelse]] et [[albert-le-grand|Albert le Grand]] avant qu'il n'anime la matière ; *Melmoth* de Maturin (1820) vend son âme pour une vie prolongée ; [[edward-bulwer-lytton|Bulwer-Lytton]] met en scène les immortels de *[[zanoni|Zanoni]]* (1842). [[walter-scott|Walter Scott]], qui admirait Radcliffe, en tire le roman historique ; [[gaston-leroux|Gaston Leroux]] donne au genre son chef-d'œuvre parisien avec *Le Fantôme de l'Opéra*.
+voir: gothique, walter-scott, gaston-leroux, zanoni, cornelius-agrippa, paracelse, faust
+
+@ asmodee
+cat: magie
+nom: Asmodée
+alias: Asmodeus, Ashmedaï, Asmoday, Aeshma, le Diable boiteux, démon de la luxure
+def: Démon de la luxure et de la colère, venu de la Perse ancienne, qui tue les sept maris de Sara dans le livre de Tobie ; la légende en fait le bâtisseur forcé du Temple de Salomon et Lesage le Diable boiteux.
+texte: Son nom vient sans doute de l'avestique *Aeshma-daeva*, le démon de la fureur. Dans le livre de Tobie, Asmodée tue l'un après l'autre les sept maris de Sara la nuit de leurs noces, jusqu'à ce que le jeune Tobie, guidé par l'ange Raphaël, le chasse par la fumée du cœur et du foie d'un [[poisson]] ; l'ange l'enchaîne dans le désert de Haute-Égypte. Le Talmud raconte qu'Ashmedaï, roi des démons, capturé par [[salomon|Salomon]], lui révéla le secret du *shamir*, le ver qui tranche la pierre, pour bâtir le [[temple-de-salomon|Temple]] sans outil de fer ; le *Testament de Salomon* le met aussi au travail.
+texte: Les démonologues le rangent parmi les princes de l'enfer : il est le trente-deuxième esprit de la [[goetie|Goétie]] du *[[lemegeton|Lemegeton]]*, roi à trois têtes chevauchant un dragon, et il fut l'un des démons des possédées de Loudun en 1634. Alain-René Lesage en fait en 1707 le *Diable boiteux* qui soulève les toits de Madrid pour montrer à un étudiant la vie secrète des maisons. À [[rennes-le-chateau|Rennes-le-Château]], le diable qui porte le bénitier de l'église, placé par [[berenger-sauniere|Bérenger Saunière]], est communément appelé Asmodée.
+extrait: En ce même jour, il arriva que Sara, fille de Raguel, en Ragès, ville des Mèdes, reçut pareillement des reproches de l’une des servantes de son père, ¶ Parce qu’elle avait été mariée à sept hommes ; et un démon, nommé Asmodée, les avoit tués aussitôt qu’ils étaient entrés dans sa chambre. (…) Après qu’ils eurent soupé, ils introduisirent le jeune homme auprès d’elle. ¶ Et Tobie se souvenant des paroles de l’ange, tira de son sac une partie du foie, et la mit sur des charbons ardents. ¶ Alors l’ange Raphaël prit le démon, et l’enchaîna dans le désert de la haute Égypte.
+source: *La Sainte Bible*, trad. Louis-Isaac Lemaistre de Sacy, Furne, 1841, Tobie, chap. III, versets 7-8, et chap. VIII, versets 1-3 | ws Bible Sacy/Tobie
+extrait: Pour moi, j’ai d’autres occupations : je fais des mariages ridicules : j’unis des barbons avec des mineures, des maîtres avec leurs servantes, des filles mal dotées avec de tendres amants qui n’ont point de fortune. C’est moi qui ai introduit dans le monde le luxe, la débauche, les jeux de hasard et la chimie. Je suis l’inventeur des carrousels, de la danse, de la musique, de la comédie et de toutes les modes nouvelles de France. En un mot, je m’appelle Asmodée, surnommé le Diable boiteux. ¶ — Hé quoi ! s’écria don Cleophas, vous seriez ce fameux Asmodée dont il est fait une si glorieuse mention dans Agrippa et dans la Clavicule de Salomon ? Ah ! vraiment, vous ne m’avez pas dit tous vos amusements ; vous avez oublié le meilleur. Je sais que vous vous divertissez quelquefois à soulager les amants malheureux : à telles enseignes que, l’année passée, un bachelier de mes amis obtint, par votre secours, dans la ville d’Alcala, les bonnes grâces de la femme d’un docteur de l’université. — Cela est vrai, dit l’esprit ; je vous gardais celui-là pour le dernier. Je suis le démon de la luxure, ou, pour parler plus honorablement, le dieu Cupidon ; car les poètes m’ont donné ce joli nom, et ces messieurs me peignent fort avantageusement. Ils disent que j’ai des ailes dorées, un bandeau sur les yeux, un arc à la main, un carquois plein de flèches sur les épaules, et avec cela une beauté ravissante.
+source: Alain-René Lesage, *Le Diable boiteux*, 1707, chap. I (Asmodée parle), éd. Firmin-Didot, 1877 | ws Le Diable boiteux/1
+voir: demonologie, salomon, temple-de-salomon, goetie, lemegeton, rennes-le-chateau, berenger-sauniere, clavicule-de-salomon
+
+@ axis-mundi
+cat: notions
+nom: Axis mundi
+alias: axe du monde, pilier cosmique, montagne cosmique, mont Meru, Irminsul, pôle, centre du monde
+def: Axe qui relie le ciel, la terre et le monde souterrain au centre du monde, figuré par une montagne, un arbre, un pilier ou une échelle ; l'historien Mircea Eliade en a fait une catégorie des religions.
+texte: Beaucoup de peuples placent au centre du monde un axe autour duquel tourne le ciel et le long duquel communiquent les niveaux de l'univers : le mont Meru des Indiens et des bouddhistes, l'[[arbre-cosmique|arbre cosmique]] Yggdrasil des Scandinaves, l'[[echelle-de-jacob|échelle de Jacob]], le poteau central de la tente du [[chamanisme|chaman]] sibérien, qu'il escalade en esprit. Les Saxons vénéraient l'Irminsul, pilier sacré que Charlemagne fit abattre en 772 ; des auteurs du XXe siècle ont voulu le reconnaître sur un relief des [[externsteine|Externsteine]]. L'[[omphalos]] de Delphes marquait le nombril du monde.
+texte: [[rene-guenon|René Guénon]], dans *Le Roi du monde* (1927) et *Le Symbolisme de la croix* (1931), fait de l'axe polaire, avec l'[[etoile-polaire|étoile Polaire]] à son sommet, le symbole du centre spirituel de la [[tradition-primordiale|tradition primordiale]] ; Mircea Eliade a généralisé la notion dans son *Traité d'histoire des religions* (1949). Les clochers, les obélisques, le pilier [[djed]] et l'arbre de mai ont été lus comme autant d'axes du monde.
+voir: arbre-cosmique, omphalos, echelle-de-jacob, etoile-polaire, externsteine, le-roi-du-monde, djed, chamanisme
+
+@ anciens-astronautes
+cat: notions
+nom: Anciens astronautes
+alias: théorie des anciens astronautes, archéologie mystérieuse, dieux venus des étoiles, paléo-astronautique, Sitchin, Annunaki
+def: Théorie selon laquelle des êtres venus d'autres planètes auraient visité la Terre dans l'Antiquité et inspiré les religions et les grands monuments ; les archéologues la rejettent faute de preuves.
+texte: L'idée naît dans les années 1950-1960, entre la science-fiction et le « réalisme fantastique » du *[[matin-des-magiciens|Matin des magiciens]]* de [[louis-pauwels|Louis Pauwels]] et [[jacques-bergier|Jacques Bergier]] (1960). Robert Charroux en France, puis [[erich-von-daniken|Erich von Däniken]], avec *Présence des extraterrestres* (1968), en font un succès mondial : les [[pyramides]], les lignes de [[nazca|Nazca]], les statues de l'île de Pâques, le couvercle du sarcophage de Palenque ou de prétendus hélicoptères gravés dans le temple d'[[abydos|Abydos]] seraient l'œuvre ou le souvenir de visiteurs de l'espace. Zecharia Sitchin y ajoute en 1976 les Annunaki, venus d'une douzième planète.
+texte: Les archéologues ont montré pour chaque exemple comment les hommes du passé avaient pu faire seuls ces monuments : l'« hélicoptère » d'Abydos est une inscription regravée, les lignes de Nazca se tracent avec des cordes et des piquets. Ils relèvent aussi que la théorie retire à des peuples non européens le mérite de leurs œuvres. Elle prolonge les mythes de l'[[atlantide|Atlantide]] et de la [[lemurie|Lémurie]] et continue d'alimenter la télévision.
+voir: erich-von-daniken, matin-des-magiciens, nazca, abydos, pyramides, atlantide, crop-circles
+
+@ ecole-de-chartres
+cat: courants
+nom: École de Chartres
+alias: école cathédrale de Chartres, Bernard de Chartres, Thierry de Chartres, Guillaume de Conches, Bernard Silvestre, nains sur des épaules de géants
+def: Milieu de maîtres réunis autour de la cathédrale de Chartres aux XIe et XIIe siècles, qui lurent le *Timée* de Platon et cherchèrent à unir la création biblique et la physique des philosophes.
+texte: L'évêque Fulbert, mort en 1028, fait de l'école cathédrale un foyer d'études. Au XIIe siècle, Bernard de Chartres enseigne que « nous sommes des nains juchés sur des épaules de géants », formule que rapporte son élève Jean de Salisbury, futur évêque de Chartres. Thierry de Chartres explique la Genèse par les causes naturelles et la géométrie ; Guillaume de Conches identifie l'[[ame-du-monde|âme du monde]] du *Timée* au Saint-Esprit, ce qui lui vaut d'être accusé d'hérésie ; Bernard Silvestre compose la *Cosmographie* (vers 1147), où la Nature et Noys façonnent le monde.
+texte: Ces maîtres lisaient [[platon|Platon]] dans la traduction latine de Calcidius, et leur cosmologie fait une large place au [[microcosme-macrocosme|microcosme]] et aux [[quatre-elements|quatre éléments]]. Les arts libéraux sculptés au portail royal de la [[cathedrale-de-chartres|cathédrale]], avec les figures de Pythagore, d'Aristote et d'Euclide, passent pour l'image de leur enseignement. Les historiens discutent l'existence d'une véritable « école », mais le platonisme chartrain reste un jalon entre l'Antiquité et la Renaissance.
+voir: cathedrale-de-chartres, chartres, platon, ame-du-monde, microcosme-macrocosme, neoplatonisme, pythagore
+
+@ da-vinci-code
+cat: textes
+nom: Da Vinci Code
+alias: The Da Vinci Code, Dan Brown, Robert Langdon, Jacques Saunière, cryptex, ligne rose
+def: Roman de Dan Brown (2003), vendu à des dizaines de millions d'exemplaires, qui fait de Marie-Madeleine l'épouse de Jésus et du Prieuré de Sion le gardien de leur descendance, en mêlant faits et légendes de l'ésotérisme.
+texte: Le conservateur du Louvre Jacques Saunière, dont le nom est emprunté à l'abbé de [[rennes-le-chateau|Rennes-le-Château]], est assassiné dans la Grande Galerie ; le symbologue Robert Langdon et la cryptologue Sophie Neveu suivent ses messages à travers l'église [[saint-sulpice|Saint-Sulpice]], le château de Villette, la Temple Church de Londres et la [[chapelle-de-rosslyn|chapelle de Rosslyn]]. Le roman lit dans la *Cène* de [[leonard-de-vinci|Léonard]] la présence de [[marie-madeleine|Marie-Madeleine]], présente le [[prieure-de-sion|Prieuré de Sion]] comme une société réelle et emploie le chiffre [[atbash]] pour faire de [[baphomet|Baphomet]] la Sagesse.
+texte: Il reprend largement les thèses de *[[l-enigme-sacree|L'Énigme sacrée]]* (1982), dont deux auteurs attaquèrent Dan Brown pour plagiat et perdirent leur procès à Londres en 2006. La paroisse de Saint-Sulpice a dû afficher que sa méridienne n'était ni une « ligne rose » ni la trace d'un temple païen. Adapté au cinéma en 2006, le roman a provoqué une vague de visites et d'essais de démystification.
+voir: l-enigme-sacree, prieure-de-sion, marie-madeleine, saint-sulpice, chapelle-de-rosslyn, rennes-le-chateau, atbash, leonard-de-vinci
+
+@ l-enigme-sacree
+cat: textes
+nom: L'Énigme sacrée
+alias: The Holy Blood and the Holy Grail, Holy Blood Holy Grail, Baigent Leigh Lincoln, sang réal, lignée sacrée
+def: Essai de Michael Baigent, Richard Leigh et Henry Lincoln (1982) qui, à partir des documents du Prieuré de Sion, soutient que Jésus eut des enfants de Marie-Madeleine et que leur lignée se perpétua chez les Mérovingiens.
+texte: Henry Lincoln, scénariste de la BBC, avait consacré à [[rennes-le-chateau|Rennes-le-Château]] des documentaires dès 1972 ; avec Baigent et Leigh, il exploite les *[[dossiers-secrets|Dossiers secrets]]* déposés à la Bibliothèque nationale par l'entourage de [[pierre-plantard|Pierre Plantard]]. Le livre joue sur le mot *San Graal*, lu *Sang réal*, « sang royal » : le [[graal|Graal]] serait la descendance de Jésus et de [[marie-madeleine|Marie-Madeleine]], réfugiée en Provence, devenue la dynastie des [[merovingiens|Mérovingiens]], protégée par les [[templiers]] et le [[prieure-de-sion|Prieuré de Sion]], dont Plantard serait l'héritier par [[dagobert-ii|Dagobert II]].
+texte: Traduit en français dès 1983, le livre eut un immense succès et fournit sa trame au *[[da-vinci-code|Da Vinci Code]]*. Les historiens ont montré que ses documents de base étaient des faux fabriqués dans les années 1960 ; en 1993, Plantard lui-même reconnut devant un juge avoir inventé le Prieuré.
+voir: prieure-de-sion, dossiers-secrets, pierre-plantard, marie-madeleine, merovingiens, da-vinci-code, rennes-le-chateau, quinotaure
+
+@ prophetie-de-saint-malachie
+cat: divination
+nom: Prophétie de saint Malachie
+alias: prophétie des papes, Malachie d'Armagh, Petrus Romanus, De gloria olivae, Lignum vitae
+def: Liste de cent douze devises latines censées désigner chacun des papes depuis 1143 jusqu'à la fin du monde, attribuée à saint Malachie d'Armagh ; elle fut publiée en 1595 et sans doute composée peu avant.
+texte: Malachie, archevêque d'Armagh, en Irlande, mourut en 1148 à Clairvaux dans les bras de son ami [[bernard-de-clairvaux|saint Bernard]], qui écrivit sa vie sans parler de prophétie. La liste paraît pour la première fois en 1595 dans le *Lignum vitae* du bénédictin Arnold Wion, avec des explications. Ses devises sont étonnamment justes jusqu'en 1590 et vagues ensuite : les historiens en concluent qu'elle fut fabriquée lors du conclave de 1590, peut-être pour soutenir un candidat.
+texte: Ses interprètes ont pourtant appliqué chaque devise aux papes suivants : « De la gloire de l'olivier » à Benoît XVI, qui fut l'avant-dernier de la liste. Celle-ci s'achève sur « Pierre le Romain », qui paîtra ses brebis au milieu des tribulations avant que la ville aux sept collines ne soit détruite. Après François, élu en 2013, puis Léon XIV, élu en 2025, la fin annoncée s'est fait attendre, comme pour les [[nostradamus|Centuries]] de Nostradamus.
+voir: nostradamus, bernard-de-clairvaux, divination, prophetie-d-orval, voyance
+
+@ prophetie-d-orval
+cat: divination
+nom: Prophétie d'Orval
+alias: Philippe Olivarius, prophéties d'Orval, Prévisions certaines
+def: Texte prophétique prétendument imprimé en 1544 et retrouvé à l'abbaye d'Orval, qui annonçait l'épopée de Napoléon ; apparu après la chute de l'Empereur, il est un faux rétrospectif.
+texte: La prophétie, signée d'un certain Philippe Dieudonné Noël Olivarius, aurait été conservée par les moines d'[[orval|Orval]] avant la destruction de leur abbaye en 1793. Elle décrit un « jeune homme d'outre-mer » qui deviendra empereur, ses conquêtes, son exil, son retour et sa chute définitive, puis la restauration de la monarchie : tout ce qui s'était produit au moment où elle circula, à partir des années 1820, et beaucoup moins ce qui suivit.
+texte: Des enquêtes du XIXe siècle conclurent qu'elle avait été rédigée vers 1820, peut-être par un ecclésiastique lorrain ; l'évêque de Verdun la condamna. Elle appartient à la famille des prophéties fabriquées après coup, comme celle de [[prophetie-de-saint-malachie|saint Malachie]], et à la légende d'Orval que les *[[dossiers-secrets|Dossiers secrets]]* du [[prieure-de-sion|Prieuré de Sion]] ont enrichie à leur tour.
+voir: orval, prophetie-de-saint-malachie, nostradamus, divination
+
+@ neuf-preux
+cat: symboles
+nom: Neuf Preux
+alias: les Neuf Preux, Nine Worthies, neuf preuses, Vœux du paon
+def: Neuf héros proposés en modèles de chevalerie à partir de 1312 : trois païens, Hector, Alexandre et César ; trois juifs, Josué, David et Judas Maccabée ; trois chrétiens, Arthur, Charlemagne et Godefroy de Bouillon.
+texte: Le poète lorrain Jacques de Longuyon les réunit vers 1312 dans *Les Vœux du paon*, roman d'Alexandre. La série, trois fois trois, répartit les grands guerriers entre les trois âges de l'histoire sainte : la Loi naturelle, la Loi de Moïse et la Loi du Christ. Le thème couvre les tapisseries, les fresques du château de la Manta en Piémont, les jeux de cartes et les cortèges ; on lui adjoint neuf « preuses », héroïnes antiques comme Penthésilée ou Sémiramis, et l'on y ajoute parfois Bertrand du Guesclin ou [[jeanne-d-arc|Jeanne d'Arc]].
+texte: Le choix de [[godefroy-de-bouillon|Godefroy de Bouillon]], seul personnage récent, montre le prestige de la croisade ; Viollet-le-Duc fit sculpter les Neuf Preux sur les tours du château de Pierrefonds. Le nombre [[neuf]] et le [[roi-arthur|roi Arthur]] y rejoignent la symbolique chevaleresque du [[graal|Graal]].
+voir: godefroy-de-bouillon, roi-arthur, chiffre-de-cesar, neuf, jeanne-d-arc
+
+@ vierges-noires
+cat: symboles
+nom: Vierges noires
+alias: Vierge noire, Notre-Dame du Puy, Notre-Dame-de-Sous-Terre, Moreneta, Nigra sum sed formosa, Sara la Noire
+def: Statues romanes et gothiques de la Vierge à l'Enfant au visage et aux mains sombres, vénérées dans de grands pèlerinages ; l'ésotérisme y a vu l'héritage d'Isis ou de la « terre vierge » des alchimistes.
+texte: On en compte plus d'une centaine en France et des centaines en Europe : Notre-Dame du Puy, brûlée sous la Révolution et remplacée, Rocamadour, Marseille, Notre-Dame du Pilier et Notre-Dame-de-Sous-Terre à [[cathedrale-de-chartres|Chartres]], la Moreneta de [[montserrat|Montserrat]], Einsiedeln, Częstochowa. Leur noirceur vient parfois du bois, de la fumée des cierges ou de l'oxydation des vernis à l'argent ; d'autres furent peintes en noir dès l'origine, et l'on invoquait le *Cantique des cantiques* : « Je suis noire, mais je suis belle ». Sara, la servante noire honorée aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], est parfois rangée parmi elles.
+texte: Depuis le XIXe siècle, des auteurs les rattachent au culte d'[[isis|Isis]], de Cybèle ou de la Diane d'Éphèse, aux déesses mères de la terre, ou y voient avec [[fulcanelli|Fulcanelli]] l'image de la matière première, la terre vierge et noire de l'œuvre. Ces filiations, séduisantes, ne sont pas démontrées par l'histoire des statues, presque toutes postérieures à l'an mil.
+voir: isis, cathedrale-de-chartres, montserrat, saintes-maries-de-la-mer, materia-prima, nigredo
+
+@ sacre-coeur
+cat: symboles
+nom: Sacré-Cœur
+alias: Sacré-Cœur de Jésus, dévotion au Sacré-Cœur, Regnabit, cœur rayonnant, Montmartre
+def: Dévotion au cœur de Jésus, propagée après les apparitions reçues par Marguerite-Marie Alacoque à Paray-le-Monial de 1673 à 1675 ; René Guénon y a lu un symbole universel du centre.
+texte: Le culte du cœur blessé du Christ, déjà présent chez les mystiques du Moyen Âge, prend sa forme moderne avec [[marguerite-marie-alacoque|Marguerite-Marie Alacoque]], visitandine de [[paray-le-monial|Paray-le-Monial]], à qui le Christ montre son cœur « tout brûlant d'amour » et demande une fête. Le jésuite Claude La Colombière la soutient ; la fête est étendue à toute l'Église en 1856. Les insurgés vendéens portaient sur la poitrine le cœur surmonté d'une croix ; après la défaite de 1870, un vœu national fait élever la basilique du Sacré-Cœur de Montmartre, consacrée en 1919.
+texte: Autour de Paray, le [[hieron-du-val-d-or|Hiéron du Val d'Or]] mêla à cette dévotion un ésotérisme chrétien. [[rene-guenon|René Guénon]] publia de 1925 à 1927, dans la revue *Regnabit*, consacrée au Sacré-Cœur, des articles où il rapprochait le cœur du [[graal|Graal]], du centre du monde et du symbolisme de toutes les traditions.
+voir: paray-le-monial, marguerite-marie-alacoque, hieron-du-val-d-or, rene-guenon, graal
+
+@ hieron-du-val-d-or
+cat: societes
+nom: Hiéron du Val d'Or
+alias: Hiéron de Paray-le-Monial, Alexis de Sarachaga, Victor Drevon, Société du règne social de Jésus-Christ, musée du Hiéron
+def: Société catholique ésotérique fondée en 1873 à Paray-le-Monial par le jésuite Victor Drevon et le baron Alexis de Sarachaga, vouée au Christ-Roi et à une tradition chrétienne remontant à l'Atlantide.
+texte: Le baron Alexis de Sarachaga (1840-1918), Basque de mère russe, et le père Victor Drevon fondent près du sanctuaire du [[sacre-coeur|Sacré-Cœur]] de [[paray-le-monial|Paray-le-Monial]] une société qui veut restaurer le règne social du Christ et opposer à la [[franc-maconnerie]] anticléricale du [[grand-orient-de-france|Grand Orient]] une maçonnerie hermétique catholique. Elle publie des revues, réunit une collection d'objets d'art destinés à montrer l'unité des symboles chrétiens et des traditions anciennes, ouverte au public sous le nom de musée eucharistique, et prête à la religion du Christ une origine atlante.
+texte: La société, qui dura jusqu'en 1926, revendiquait une part dans l'institution par Pie XI de la fête du Christ-Roi (1925). Paul Le Cour, qui la fréquenta, fonda en 1926 une société d'études atlantéennes et lança l'expression d'« [[ere-du-verseau|ère du Verseau]] » ; des auteurs ont vu dans ses idées une source de [[pierre-plantard|Pierre Plantard]]. Les collections forment aujourd'hui le musée du Hiéron, à Paray-le-Monial.
+voir: paray-le-monial, sacre-coeur, atlantide, ere-du-verseau, franc-maconnerie, pierre-plantard
+
+@ physiologus
+cat: textes
+nom: Physiologus
+alias: Physiologue, le Physiologue, bestiaire grec, Liber Physiologus
+def: Petit livre grec anonyme écrit à Alexandrie entre le IIe et le IVe siècle, qui décrit une cinquantaine d'animaux, de plantes et de pierres pour en tirer des leçons chrétiennes ; il est la source de tous les bestiaires.
+texte: Chaque chapitre commence par « Le Physiologue dit », c'est-à-dire le naturaliste, rapporte une propriété merveilleuse et l'interprète : le lion qui efface ses traces de la queue figure le Christ qui cache sa divinité, le [[pelican|pélican]] qui ranime ses petits de son sang la Passion, le [[phenix|phénix]] la résurrection, la [[licorne]] l'Incarnation, la baleine qui se fait passer pour une île le diable qui trompe les marins. Il emprunte à Aristote, à [[pline-l-ancien|Pline]], aux traditions égyptiennes et juives.
+texte: Traduit en latin, en éthiopien, en arménien, en syriaque, il fut mis au rang des livres à éviter par le décret dit de Gélase au VIe siècle, ce qui n'arrêta pas son succès : il est devenu au Moyen Âge le noyau des [[bestiaire|bestiaires]] latins et français, et ses images ont peuplé les chapiteaux et les vitraux.
+voir: bestiaire, pelican, phenix, licorne, aigle, lion-symbole, elephant, cerf
+
+@ le-comte-de-gabalis
+cat: textes
+nom: Le Comte de Gabalis
+alias: Comte de Gabalis, Entretiens sur les sciences secrètes, abbé de Villars, sylphes, gnomes, ondins, salamandres
+def: Livre de l'abbé de Montfaucon de Villars (1670), entretiens ironiques avec un cabaliste qui révèle les peuples élémentaires — sylphes, gnomes, nymphes et salamandres — désireux de s'unir aux humains.
+texte: Un mystérieux comte de Gabalis, maître de la « cabale », explique au narrateur que les quatre éléments sont peuplés d'êtres mortels : les sylphes de l'air, les gnomes de la terre, les nymphes ou ondins de l'eau, les [[salamandre|salamandres]] du feu, doctrine tirée de [[paracelse|Paracelse]]. Ils peuvent gagner une âme immortelle en épousant un sage, qui doit pour cela renoncer à l'amour des mortels ; les dieux païens, les fées et les incubes n'étaient que des [[elementaux|élémentaux]] mal compris. Son auteur, Henri de Montfaucon, dit l'abbé de Villars (vers 1638-1673), mourut assassiné trois ans plus tard.
+texte: Satire ou initiation déguisée, le livre est lu des deux façons : les occultistes et les [[rose-croix]] l'ont pris au sérieux, tandis que les lettrés y trouvaient un conte. Alexander Pope en tira les sylphes de *La Boucle de cheveux enlevée* (1712), et Anatole France son cabaliste d'Astarac dans *La Rôtisserie de la reine Pédauque* (1893).
+voir: elementaux, salamandre, paracelse, rose-croix, sirene, incube-et-succube
+
+@ sethos
+cat: textes
+nom: Séthos
+alias: Séthos, histoire ou vie tirée des monuments anecdotes de l'ancienne Égypte, abbé Terrasson, épreuves des éléments
+def: Roman de l'abbé Jean Terrasson (1731) qui raconte l'initiation d'un prince égyptien sous les pyramides par les épreuves du feu, de l'eau et de l'air ; il a fourni à la franc-maçonnerie et à *La Flûte enchantée* leurs « mystères égyptiens ».
+texte: Helléniste et professeur au Collège royal, Jean Terrasson (1670-1750) prétend traduire un manuscrit grec : le prince Séthos, avant de régner, descend dans les souterrains de la Grande Pyramide, traverse un bûcher, passe un canal à la nage, s'accroche à des anneaux qui l'enlèvent dans l'air, et reçoit des prêtres d'[[isis|Isis]] la science sacrée. Ce roman d'érudition invente une [[initiation]] égyptienne que les Anciens ne décrivent nulle part, sauf de loin [[apulee|Apulée]].
+texte: Il eut une immense influence : les rites maçonniques à épreuves élémentaires, les « mystères » du *[[crata-repoa|Crata Repoa]]* (1770), les loges égyptiennes de [[cagliostro|Cagliostro]] et surtout *[[la-flute-enchantee|La Flûte enchantée]]* (1791), où Tamino et Pamina traversent le feu et l'eau, en dérivent. L'[[egyptosophie]] des Lumières lui doit son image du temple initiatique.
+voir: la-flute-enchantee, crata-repoa, maconnerie-egyptienne, egyptosophie, initiation, culte-d-isis, pyramides
+
+@ crata-repoa
+cat: textes
+nom: Crata Repoa
+alias: Crata Repoa, initiation aux anciens mystères des prêtres d'Égypte, Köppen, Architectes africains
+def: Opuscule allemand anonyme de 1770 décrivant sept grades d'initiation des prêtres égyptiens, attribué à Karl Friedrich Köppen, fondateur de l'ordre maçonnique des Architectes africains.
+texte: Publié à Berlin, le *Crata Repoa* se présente comme la reconstitution, d'après les auteurs anciens, des degrés par lesquels passaient les prêtres d'Égypte, du *Pastophoris* au *Prophetes*, avec leurs épreuves, leurs mots et leurs enseignements. On l'attribue à Köppen et à Johann Wilhelm von Hymmen ; Köppen avait fondé en 1767 les « Architectes africains », ordre maçonnique de hauts grades à décor égyptien.
+texte: Traduit en français au début du XIXe siècle et cité par [[jean-marie-ragon|Ragon]], il a nourri les rites égyptiens de la [[maconnerie-egyptienne|maçonnerie égyptienne]], du [[rite-de-memphis-misraim|Memphis-Misraïm]] aux ordres occultistes ; il prolonge le *[[sethos|Séthos]]* de Terrasson et ne repose sur aucune source égyptienne.
+voir: sethos, maconnerie-egyptienne, rite-de-memphis-misraim, egyptosophie, grades-maconniques
+
+@ maconnerie-egyptienne
+cat: maconnerie
+nom: Maçonnerie égyptienne
+alias: rite égyptien, rite de Cagliostro, Grand Cophte, Sagesse triomphante, rites égyptiens
+def: Ensemble des rites maçonniques qui se réclament des mystères de l'Égypte ancienne, du rite égyptien de Cagliostro (1784) aux rites de Misraïm et de Memphis, unis en 1881 sous Garibaldi.
+texte: [[cagliostro|Cagliostro]], « Grand Cophte », fonde à [[lyon|Lyon]] en 1784 la loge mère de la Sagesse triomphante, d'un rite égyptien qui accueille hommes et femmes en loges séparées et promet la régénération physique et morale par une retraite de quarante jours. Au tournant du XIXe siècle naissent en Italie le rite de Misraïm, aux quatre-vingt-dix degrés, que les frères Bédarride apportent en France, puis à Paris, en 1838, le rite de Memphis de Marconis de Nègre. Leurs rituels empruntent au *[[sethos|Séthos]]* et au *[[crata-repoa|Crata Repoa]]*, aux mystères d'[[isis|Isis]] et à la [[kabbale]].
+texte: [[giuseppe-garibaldi|Garibaldi]] en devient le grand hiérophante lors de leur union en 1881, d'où naît le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], que [[robert-ambelain|Robert Ambelain]] réorganisa au XXe siècle. Ces rites, minoritaires, ont toujours attiré les occultistes : [[papus|Papus]], [[theodor-reuss|Theodor Reuss]] et [[aleister-crowley|Crowley]] y ont puisé.
+voir: cagliostro, rite-de-memphis-misraim, sethos, crata-repoa, egyptosophie, giuseppe-garibaldi, lyon
+
+@ le-roman-de-la-momie
+cat: textes
+nom: Le Roman de la momie
+alias: Roman de la momie, Tahoser, Lord Evandale, docteur Rumphius
+def: Roman de Théophile Gautier (1858) qui commence par la découverte d'un tombeau inviolé dans la Vallée des rois et ressuscite, d'après un papyrus, l'amour d'une Égyptienne pour un pharaon.
+texte: Un jeune lord anglais et un égyptologue allemand découvrent à Biban el-Molouk, la [[vallee-des-rois|Vallée des rois]], un tombeau intact où repose une femme ; le papyrus placé près d'elle raconte l'histoire de Tahoser, fille d'un grand prêtre, éprise d'un Hébreu et aimée du pharaon, au temps de l'Exode. Gautier, qui ne connaissait l'Égypte que par les livres et les savants, s'aide de l'érudition de son ami Ernest Feydeau, à qui le roman est dédié.
+texte: Paru en feuilleton en 1857, le livre précède de soixante-cinq ans la découverte de Toutânkhamon et fixe l'image romanesque de la [[momie]] et du tombeau scellé ; il appartient à l'[[egyptomanie]] du Second Empire, à laquelle Gautier avait déjà donné *Le Pied de momie* (1840).
+extrait: Cette conversation avait lieu non loin du Nil, à l’entrée de la vallée de Biban-el-Molouk, entre le Lord Evandale, monté sur un cheval arabe, et le docteur Rumphius, plus modestement juché sur un âne dont un fellah bâtonnait la maigre croupe ; la cange qui avait amené les deux voyageurs, et qui pendant leur séjour devait leur servir de logement, était amarrée de l’autre côté du Nil, devant le village de Louqsor, ses avirons parés, ses grandes voiles triangulaires roulées et liées aux vergues. Après avoir consacré quelques jours à la visite et à l’étude des stupéfiantes ruines de Thèbes, débris gigantesques d’un monde démesuré, ils avaient passé le fleuve sur un sandal (embarcation légère du pays), et se dirigeaient vers l’aride chaîne qui renferme dans son sein, au fond de mystérieux hypogées, les anciens habitants des palais de l’autre rive.
+source: Théophile Gautier, *Le Roman de la momie*, 1858, prologue, éd. Fasquelle, 1899 | ws Le Roman de la momie/Prologue
+voir: vallee-des-rois, momie, egyptomanie, malediction-du-pharaon
+
+@ l-homme-qui-voulut-etre-roi
+cat: textes
+nom: L'Homme qui voulut être roi
+alias: The Man Who Would Be King, Dravot, Carnehan, Kafiristan
+def: Nouvelle de Rudyard Kipling (1888) où deux aventuriers anglais, francs-maçons de hasard, se font rois du Kafiristan en découvrant que ses prêtres connaissent les signes de la maçonnerie.
+texte: Daniel Dravot et Peachey Carnehan, anciens soldats, rencontrent le narrateur, journaliste dans l'Inde, en se faisant reconnaître de lui comme « frères ». Ils partent pour le Kafiristan, au-delà de l'Afghanistan, avec des fusils et un contrat de compagnons d'aventure. Vainqueurs de quelques villages, ils s'étonnent de voir les chefs leur donner l'attouchement des compagnons ; Dravot ouvre une loge de maître, retrouve sous la pierre du temple la « marque perdue » et se fait proclamer dieu et grand maître, descendant d'Alexandre. Il veut épouser une jeune fille du pays ; elle le mord, le sang coule, et le dieu se révèle homme : il est précipité d'un pont de cordes, Carnehan crucifié revient seul, fou, porteur de la tête couronnée de son ami.
+texte: [[rudyard-kipling|Kipling]], initié à Lahore en 1886, met dans la nouvelle tout le vocabulaire et l'esprit de sa [[loge]] : les degrés, le [[tablier]], le [[pave-mosaique|pavé mosaïque]], la marque du maître, la « Loge-Mère ». John Huston en a tiré en 1975 un film avec Sean Connery et Michael Caine, qui reprend le symbolisme maçonnique.
+extrait: Je lui tends la main et pense tomber de surprise quand Billy Fish me donne l’attouchement maçonnique. Je ne dis rien, mais j’essaye l’attouchement des compagnons. Il répond bien et j’essaye l’attouchement des maîtres, mais, là, plus personne. ¶ — C’est un compagnon, dis-je à Dan. Sait-il le mot ? ¶ — Il le sait, dit Dan, et tous les prêtres de même. C’est un miracle ! Les chefs et les prêtres savent manigancer une loge à peu près à notre manière, et ils ont gravé les insignes sur le roc, mais ils ne connaissent pas le troisième degré et ils viennent apprendre. C’est vrai, comme il y a un Dieu ! Il y a beau temps que je savais que les Afghans connaissaient l’initiation des compagnons, mais ceci est un miracle. Me voici Dieu et grand-maître de l’Ordre et je vais ouvrir une loge du tiers degré. Nous initierons les grands-prêtres et les chefs des villages.
+source: Rudyard Kipling, *L’Homme qui voulut être roi*, 1888, trad. Louis Fabulet et Robert d’Humières, *Contes choisis*, Crès, 1918 | ws L’Homme qui voulut être roi
+extrait: Au moment où Dravot mit le tablier de Maître que les filles lui avaient brodé, le prêtre se mit à brailler et à hurler en essayant de retourner la pierre où Dravot était assis. « C’est tout fichu à présent, que je dis. Voilà ce que c’est de se mêler de Franc-Maçonnerie sans brevet. » Dravot ne sourcilla pas, même quand les dix prêtres empoignent et renversent le siège du Grand-Maître ; c’était, comme qui dirait, la pierre d’Imbra. Le prêtre se met à en frotter la base pour détacher la terre noire, et le voilà qui montre aux autres prêtres la marque du Maître, la même que sur le tablier de Dravot, gravée sur la pierre. Les prêtres du temple d’Imbra ne savaient même pas qu’elle était là. Le vieux tombe à plat aux pieds de Dravot et les baise. ¶ — Veine, encore ! me crie Dravot d’un bout à l’autre de la loge, ils disent que c’est la marque perdue, dont personne ne savait le pourquoi. Nous sommes plus que saufs maintenant. ¶ Alors, il laisse tomber la crosse de son fusil en guise de hallebarde et dit : ¶ — En vertu de l’autorité à moi conférée par ma droite que voici et le secours de Peachey, je me déclare Grand-Maître de toute la Franc-Maçonnerie du Kafiristan en cette Loge-Mère de la contrée, et, de pair avec Peachey, roi du Kafiristan ! ¶ Là-dessus, il met sa couronne, je mets la mienne — je faisais fonction de vénérable — et nous ouvrons la loge en due forme.
+source: Rudyard Kipling, *L’Homme qui voulut être roi*, 1888, trad. Louis Fabulet et Robert d’Humières, *Contes choisis*, Crès, 1918 | ws L’Homme qui voulut être roi
+voir: rudyard-kipling, loge, fils-de-la-veuve, maitre-macon, parole-perdue, tablier
+
+@ escarboucle
+cat: pierres
+nom: Escarboucle
+alias: carbuncle, carbunculus, pierre de dragon, draconite, escarboucle héraldique
+def: Pierre rouge et brillante des lapidaires, grenat ou rubis, qu'on disait luire dans les ténèbres comme un charbon ardent ; elle orne le front de la vouivre et la tête des dragons.
+texte: Le nom vient du latin *carbunculus*, « petit charbon » : [[pline-l-ancien|Pline]] désigne ainsi les pierres rouges qui brillent comme la braise, nos grenats et nos rubis. Les [[lapidaire|lapidaires]] médiévaux lui prêtent une lumière propre, qui éclaire la nuit ; les romans placent des escarboucles au sommet des tours pour guider les voyageurs, et la [[vouivre]] des contes porte la sienne en guise d'œil. La draconite, pierre qu'on arrachait de la tête d'un [[dragon]] encore vivant, lui est apparentée. L'héraldique appelle escarboucle une figure à huit rayons fleuronnés, où l'on a voulu voir l'origine des chaînes des armes de Navarre.
+texte: Aucune gemme naturelle ne luit dans l'obscurité ; l'escarboucle des légendes mêle le rubis réel, la braise et l'œil du serpent.
+voir: rubis, vouivre, dragon, lapidaire, pierres-de-naissance

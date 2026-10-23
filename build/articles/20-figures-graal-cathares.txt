@@ -129,13 +129,14 @@ def: Curé de Rennes-le-Château de 1885 à sa suspension en 1910, dont les dép
 texte: François-Bérenger Saunière naît en 1852 à Montazels, dans la haute vallée de l'Aude, aîné d'une famille de notables. Ordonné prêtre en 1879, il est nommé en 1885 à [[rennes-le-chateau|Rennes-le-Château]], paroisse pauvre et isolée. Monarchiste ardent, il se signale dès la première année par ses sermons contre la République.
 texte: Il restaure l'église avec l'aide de dons et la couvre d'un décor éclatant, puis, à partir de 1901, fait construire la villa Béthanie, un jardin avec une ménagerie et la tour Magdala, où il reçoit largement. Pour financer ces travaux, il fait paraître des annonces dans des revues catholiques et reçoit de toute la France des milliers d'honoraires de messes, bien plus qu'il n'en peut dire. Poursuivi par son évêque pour ce trafic, il refuse de justifier ses comptes et est suspendu en 1910. Il meurt en 1917, laissant ses biens à sa servante, Marie Dénarnaud.
 texte: Le mystère de sa fortune n'en était guère un, mais la légende, lancée en 1956 par l'hôtelier qui avait repris le domaine, lui prête la découverte de parchemins codés et d'un trésor, des liens avec les Habsbourg, la cantatrice Emma Calvé et les milieux occultistes parisiens, aucune de ces rencontres n'étant attestée. Il est aujourd'hui le personnage central d'une énigme qui attire chaque année des dizaines de milliers de visiteurs.
+texte: La légende lui prête un voyage au séminaire de [[saint-sulpice|Saint-Sulpice]], à Paris, pour y faire lire ses [[parchemins-de-rennes-le-chateau|parchemins]] ; le diable du bénitier de son église, que l'on nomme [[asmodee|Asmodée]], et le nom de *[[da-vinci-code|Da Vinci Code]]* donné au conservateur assassiné, Jacques Saunière, ont fait de lui un personnage de roman.
 repere: 1852 — Naissance à Montazels, dans l'Aude.
 repere: 1879 — Ordination sacerdotale.
 repere: 1885 — Nommé curé de Rennes-le-Château.
 repere: 1901 — Début de la construction de la villa Béthanie et de la tour Magdala.
 repere: 1910 — Suspendu par l'évêché pour trafic de messes.
 repere: 1917 — Mort à Rennes-le-Château.
-voir: rennes-le-chateau, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion
+voir: rennes-le-chateau, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, parchemins-de-rennes-le-chateau, asmodee, saint-sulpice, marie-madeleine
 
 @ henri-boudet
 cat: figures
@@ -163,13 +164,14 @@ def: Mystificateur français qui fonda en 1956 un « prieuré de Sion », fabriq
 texte: Pierre Plantard naît à Paris en 1920 dans une famille modeste. Sacristain dans sa jeunesse, militant d'extrême droite dans les années 1930, il fonde sous l'Occupation de petits groupements antisémites et une revue, *Vaincre*, que la police juge l'œuvre d'un « illuminé ». Condamné pour abus de confiance, il fait de la prison en 1953.
 texte: En 1956, il dépose en Haute-Savoie les statuts d'une association, le [[prieure-de-sion|prieuré de Sion]], qu'il présentera plus tard comme un ordre secret millénaire. Avec son ami Philippe de Chérisey, il fabrique de faux parchemins et des généalogies qui font de lui un descendant du roi mérovingien Dagobert II, et les fait déposer à la Bibliothèque nationale sous des noms d'emprunt : ce sont les « [[dossiers-secrets|dossiers secrets d'Henri Lobineau]] ». Il fournit à [[gerard-de-sede|Gérard de Sède]] la matière de *L'Or de Rennes* (1967), puis inspire les auteurs de *L'Énigme sacrée* (1982).
 texte: En 1993, il désigne l'homme d'affaires Roger-Patrice Pelat, ami du président Mitterrand, comme ancien grand maître du prieuré ; un juge qui enquête sur Pelat fait perquisitionner chez lui, et Plantard reconnaît sous serment avoir tout inventé. Il meurt en 2000. Sa supercherie, révélée de son vivant, continue d'alimenter romans, documentaires et théories du complot.
+texte: Ses documents font de lui le descendant de [[dagobert-ii|Dagobert II]] et des [[merovingiens|Mérovingiens]], et inventent l'histoire de moines d'[[orval|Orval]] partis fonder un ordre de Sion à Jérusalem ; les [[parchemins-de-rennes-le-chateau|parchemins]] de son ami Chérisey et la ville de [[stenay|Stenay]] y tiennent une grande place.
 repere: 1920 — Naissance à Paris.
 repere: 1942 — Il publie la revue *Vaincre* et fonde le groupe Alpha Galates.
 repere: 1956 — Il dépose les statuts du prieuré de Sion.
 repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale ; *L'Or de Rennes*.
 repere: 1993 — Il reconnaît sous serment avoir inventé le prieuré.
 repere: 2000 — Mort à Colombes.
-voir: prieure-de-sion, dossiers-secrets, gerard-de-sede, rennes-le-chateau, gisors
+voir: prieure-de-sion, dossiers-secrets, gerard-de-sede, rennes-le-chateau, gisors, dagobert-ii, merovingiens, stenay, orval, l-enigme-sacree, parchemins-de-rennes-le-chateau
 
 @ gerard-de-sede
 cat: figures
@@ -187,7 +189,7 @@ repere: 1967 — *L'Or de Rennes*.
 repere: 1988 — Il dénonce les impostures de l'affaire de Rennes.
 repere: 2004 — Mort à Désertines, dans l'Allier.
 oeuvres: Les Templiers sont parmi nous (1962) ; Le Trésor cathare (1966) ; L'Or de Rennes (1967) ; Rennes-le-Château, le dossier, les impostures, les phantasmes, les hypothèses (1988)
-voir: rennes-le-chateau, gisors, pierre-plantard, prieure-de-sion, templiers
+voir: rennes-le-chateau, gisors, pierre-plantard, prieure-de-sion, templiers, parchemins-de-rennes-le-chateau, dagobert-ii
 
 @ wolfram-von-eschenbach
 cat: figures
@@ -215,4 +217,4 @@ texte: Son dernier roman, *[[conte-du-graal|Perceval ou le Conte du Graal]]*, ve
 repere: vers 1170 — *Érec et Énide*.
 repere: vers 1180 — *Perceval ou le Conte du Graal*, resté inachevé.
 oeuvres: Érec et Énide ; Lancelot ou le Chevalier de la charrette ; Yvain ou le Chevalier au lion ; Perceval ou le Conte du Graal
-voir: conte-du-graal, graal, wolfram-von-eschenbach, parzival, perceval
+voir: conte-du-graal, graal, wolfram-von-eschenbach, parzival, perceval, roi-arthur

@@ -1,0 +1,300 @@
+# Codes secrets : chiffres, écritures secrètes, langues cachées et énigmes,
+# de la scytale de Sparte à Enigma, des alphabets magiques aux parchemins de
+# Rennes-le-Château. La « langue des oiseaux » est parmi les notions.
+
+@ cryptographie
+cat: codes
+nom: Cryptographie
+alias: écriture secrète, chiffre, chiffrement, déchiffrement, cryptanalyse, code secret, cryptologie
+def: Art d'écrire en secret, en transformant un message selon une règle et une clé connues des seuls correspondants ; la cryptanalyse est l'art inverse, de le lire sans la clé.
+texte: Les spécialistes distinguent le *code*, qui remplace des mots entiers par d'autres mots ou des nombres tirés d'un répertoire, et le *chiffre*, qui transforme les lettres elles-mêmes : soit en les déplaçant, comme la [[scytale]] de Sparte, soit en les remplaçant, comme le [[chiffre-de-cesar|chiffre de César]]. La [[steganographie|stéganographie]], elle, cache l'existence même du message. Les chiffres à un seul alphabet de substitution cèdent à l'[[analyse-des-frequences|analyse des fréquences]], décrite au IXe siècle par [[al-kindi|al-Kindi]] ; la Renaissance invente les chiffres à plusieurs alphabets, de [[leon-battista-alberti|Leon Battista Alberti]] à [[jean-tritheme|Trithème]] et [[blaise-de-vigenere|Vigenère]], et les cours d'Europe entretiennent des « cabinets noirs ».
+texte: Le télégraphe, puis la radio, font de la cryptographie une affaire militaire : le chiffre [[chiffre-adfgvx|ADFGVX]] en 1918, la machine [[enigma|Enigma]] et les décrypteurs de [[bletchley-park|Bletchley Park]] pendant la Seconde Guerre mondiale. L'ésotérisme a toujours aimé ce voisinage : la *[[steganographia|Stéganographie]]* de Trithème cache ses procédés sous des invocations d'anges, [[john-dee|John Dee]] et [[francis-bacon|Francis Bacon]] furent des hommes de chiffres, les sociétés secrètes ont leurs [[alphabet-maconnique|alphabets]] et la [[kabbale]] lit la Bible par la [[gematrie]] et la [[temourah]]. Le [[manuscrit-de-voynich|manuscrit de Voynich]] résiste toujours.
+texte: Les chasseurs de trésor ont leurs énigmes : les [[cryptogrammes-de-beale|cryptogrammes de Beale]], publiés en Virginie en 1885, les [[parchemins-de-rennes-le-chateau|parchemins de Rennes-le-Château]] ou l'[[inscription-de-shugborough|inscription de Shugborough]], et la littérature, du *[[le-scarabee-d-or|Scarabée d'or]]* de Poe aux romans de Jules Verne, en a fait un genre.
+voir: analyse-des-frequences, chiffre-de-cesar, steganographie, chiffre-de-vigenere, enigma, temourah, manuscrit-de-voynich, langue-des-oiseaux, cryptogrammes-de-beale, grand-chiffre, chiffre-de-marie-stuart, codex-copiale, carre-de-polybe
+
+@ chiffre-de-cesar
+cat: codes
+nom: Chiffre de César
+alias: code César, chiffre par décalage, ROT13, chiffre d'Auguste
+def: Chiffre où chaque lettre est remplacée par celle qui la suit d'un nombre fixe de rangs dans l'alphabet ; Suétone rapporte que César écrivait D pour A, E pour B, et ainsi de suite.
+texte: Suétone, dans sa *Vie de César*, écrit que César, quand il avait des choses secrètes à transmettre, les chiffrait de manière à ce qu'aucun mot ne pût se lire, en mettant la quatrième lettre à la place de la première. Auguste, ajoute-t-il, se contentait de décaler d'un rang, écrivant B pour A. Le procédé est la plus simple des substitutions : il n'existe que vingt-cinq décalages possibles, qu'on peut essayer un à un, et l'[[analyse-des-frequences|analyse des fréquences]] le perce aussitôt.
+texte: Il a pourtant servi longtemps. Les utilisateurs des premiers forums d'Internet employaient le ROT13, décalage de treize rangs, pour masquer la solution d'une devinette ; en 2006, la police italienne lut sans peine les billets du parrain sicilien Bernardo Provenzano, qui chiffrait ses ordres par une variante numérique du chiffre de César. César est aussi l'un des [[neuf-preux|Neuf Preux]] du Moyen Âge.
+voir: cryptographie, analyse-des-frequences, chiffre-de-vigenere, disque-d-alberti, neuf-preux, scytale
+
+@ scytale
+cat: codes
+nom: Scytale
+alias: skytalè, bâton de Sparte, chiffre spartiate, éphores
+def: Bâton de Sparte autour duquel on enroulait une bande de parchemin pour y écrire un message, illisible une fois déroulée sauf pour qui possédait un bâton de même diamètre.
+texte: [[plutarque|Plutarque]], dans sa *Vie de Lysandre*, décrit le procédé : les éphores gardent un bâton et en donnent un identique au général qui part ; ils enroulent une bande de cuir ou de parchemin, écrivent dans la longueur, puis envoient la bande seule, où les lettres paraissent en désordre. C'est le premier exemple connu de chiffre par transposition : les lettres restent les mêmes, seul leur ordre change. Les historiens se demandent si les Spartiates s'en servaient vraiment pour chiffrer, ou plutôt pour authentifier leurs messages officiels, que l'on appelait aussi « scytales ».
+extrait: Voici, du reste, ce que c’est que la scytale. Quand un général part pour une expédition de terre ou de mer les éphores prennent deux bâtons ronds, parfaitement égaux en longueur et en épaisseur, de façon à se correspondre exactement l’un à l’autre, dans toutes les dimensions. Ils gardent l’un de ces bâtons et donnent l’autre au général : ils appellent ces bâtons scytales. Lorsqu’ils veulent mander au général quelque secret d’importance, ils taillent une bande de parchemin, longue et étroite comme une courroie, la roulent autour de la scytale qu’ils ont gardée, sans laisser le moindre intervalle entre les bords de la bande, de telle sorte, que le parchemin couvre entièrement la surface du bâton. Sur ce parchemin ainsi roulé autour de la scytale, ils écrivent ce qu’ils veulent ; et, quand ils ont écrit, ils enlèvent la bande, et l’envoient au général sans le bâton. Le général qui l’a reçue n’y saurait rien lire d’ailleurs, parce que les mots, tout dérangés et épars, ne forment aucune suite ; mais il prend la scytale qu’il a emportée, et roule autour la bande de parchemin, dont les différents tours, se trouvant alors réunis, remettent les mots dans l’ordre où ils ont été écrits, et présentent toute la suite de la lettre. On appelle cette lettre scytale, du nom même du bâton, comme ce qui est mesuré prend le nom de ce qui lui sert de mesure.
+source: Plutarque, *Vies des hommes illustres*, « Lysandre », chap. XIX, trad. Alexis Pierron, Charpentier, 1853 | ws Vies des hommes illustres/Lysandre
+voir: cryptographie, plutarque, chiffre-de-cesar, steganographie
+
+@ carre-de-polybe
+cat: codes
+nom: Carré de Polybe
+alias: carré de Polybios, damier de Polybe, code des prisonniers, tap code
+def: Grille de cinq sur cinq où chaque lettre est désignée par deux chiffres, ligne et colonne ; l'historien Polybe l'imagina vers 150 avant notre ère pour transmettre des messages par signaux de feu.
+texte: Dans le livre X de ses *Histoires*, Polybe critique les signaux de feu de son temps et propose de répartir l'alphabet grec en cinq tablettes : on lève d'abord, avec des torches, le numéro de la tablette, puis celui de la lettre. Ce découpage d'un alphabet en coordonnées est l'ancêtre de nombreux systèmes. Les prisonniers l'ont réinventé pour communiquer d'une cellule à l'autre en frappant contre les murs : les nihilistes russes au XIXe siècle, puis les soldats américains détenus au Vietnam.
+texte: Le chiffre allemand [[chiffre-adfgvx|ADFGVX]] de 1918 combine un carré de Polybe de six sur six avec une transposition ; le chiffre de Playfair, inventé en 1854 par Charles Wheatstone, chiffre les lettres deux par deux dans un carré semblable.
+voir: chiffre-adfgvx, cryptographie, chiffre-de-cesar
+
+@ atbash
+cat: codes
+nom: Atbash
+alias: atbash, atbach, Schéschac, Baphomet et Sophia, chiffre hébreu
+def: Chiffre hébreu qui remplace la première lettre de l'alphabet par la dernière, la deuxième par l'avant-dernière, et ainsi de suite ; la Bible l'emploie dans le livre de Jérémie.
+texte: Son nom vient des lettres qu'il échange : *aleph*-*tav*, *beth*-*shin*. Le prophète Jérémie, annonçant la chute de Babylone, nomme deux fois « Schéschac », qui n'est autre que Babel ainsi chiffré, et appelle les Chaldéens *Leb-Kamai*, « cœur de mes adversaires ». Les kabbalistes ont rangé l'atbash parmi les procédés de la [[temourah]], la permutation des lettres par laquelle on cherche dans le texte sacré des sens cachés.
+texte: En 1984, le bibliste Hugh Schonfield soutint qu'en appliquant l'atbash au nom de [[baphomet|Baphomet]], l'idole dont on accusa les [[templiers]], on obtenait *Sophia*, la Sagesse : la lecture, ingénieuse, a eu du succès chez les auteurs ésotériques, mais rien n'indique que les templiers aient connu ce chiffre.
+extrait: À tous les rois du septentrion, // Proches ou éloignés, // Aux uns et aux autres, // Et à tous les royaumes du monde // Qui sont sur la face de la terre. // Et le roi de Schéschac boira après eux. (…) Eh quoi ! Schéschac est prise ! // Celle dont la gloire remplissait toute la terre est conquise ! // Eh quoi ! Babylone est détruite au milieu des nations !
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Jérémie, chap. XXV, verset 26, et chap. LI, verset 41 | ws Bible Segond 1910/Livre de Jérémie
+voir: temourah, gematrie, kabbale, baphomet, sophia, templiers
+
+@ analyse-des-frequences
+cat: codes
+nom: Analyse des fréquences
+alias: fréquence des lettres, cryptanalyse, al-Kindi, Risâla, lettre E
+def: Méthode de déchiffrement qui compare la fréquence des signes d'un message chiffré à celle des lettres de la langue ; décrite par al-Kindi au IXe siècle, elle perce tout chiffre à un seul alphabet.
+texte: Dans chaque langue, certaines lettres reviennent plus souvent que d'autres : le *e* en français et en anglais, l'*alif* en arabe. Si chaque lettre est toujours remplacée par le même signe, il suffit de compter les signes du message et de les apparier aux lettres les plus fréquentes, puis de deviner les mots. Le philosophe [[al-kindi|al-Kindi]], à Bagdad, en donne la première description connue dans son *Épître sur le déchiffrement des messages cryptographiques*, retrouvée en 1987 dans une bibliothèque d'Istanbul. Les savants arabes, d'Ibn Adlan à al-Qalqashandi (1412), en firent une science.
+texte: L'Europe la redécouvre à la Renaissance, ce qui pousse à inventer les chiffres à plusieurs alphabets. La littérature l'a rendue populaire : [[edgar-allan-poe|Edgar Poe]] en fait le ressort du *[[le-scarabee-d-or|Scarabée d'or]]* (1843), et [[arthur-conan-doyle|Conan Doyle]] celui des *[[les-hommes-dansants|Hommes dansants]]* (1903), où Sherlock Holmes reconnaît le *e* dans la figure qui revient le plus.
+extrait: Très-aisément ; j’en ai résolu d’autres dix mille fois plus compliqués. Les circonstances et une certaine inclination d’esprit m’ont amené à prendre intérêt à ces sortes d’énigmes, et il est vraiment douteux que l’ingéniosité humaine puisse créer une énigme de ce genre dont l’ingéniosité humaine ne vienne à bout par une application suffisante. Aussi, une fois que j’eus réussi à établir une série de caractères lisibles, je daignai à peine songer à la difficulté d’en dégager la signification. (…) Or, la lettre qui se rencontre le plus fréquemment en anglais est e. Les autres lettres se succèdent dans cet ordre : a o i d h n r s t u y c f g l m w b k p q x z. E prédomine si singulièrement, qu’il est très-rare de trouver une phrase d’une certaine longueur dont il ne soit pas le caractère principal.
+source: Edgar Allan Poe, *Le Scarabée d’or*, 1843, trad. Charles Baudelaire, *Histoires extraordinaires*, Michel Lévy, 1869 | ws Histoires extraordinaires/Le Scarabée d’or
+voir: al-kindi, le-scarabee-d-or, les-hommes-dansants, chiffre-de-cesar, chiffre-de-vigenere, cryptographie, chiffre-de-marie-stuart
+
+@ disque-d-alberti
+cat: codes
+nom: Disque d'Alberti
+alias: disque à chiffrer, cadran d'Alberti, De componendis cifris, chiffre polyalphabétique
+def: Instrument de chiffrement fait de deux disques concentriques portant chacun un alphabet, décrit par Leon Battista Alberti vers 1467 ; en le tournant au fil du message, il inaugure les chiffres à plusieurs alphabets.
+texte: Dans son traité *De componendis cifris*, écrit pour le secrétaire pontifical Leonardo Dati, [[leon-battista-alberti|Alberti]] décrit un disque fixe, gravé de l'alphabet en ordre, et un disque mobile, gravé d'un alphabet mélangé. On convient d'une lettre de départ ; tous les quelques mots, on fait tourner le disque et l'on change ainsi d'alphabet. Les fréquences se brouillent : l'[[analyse-des-frequences|analyse des fréquences]] ne suffit plus. Alberti y ajoute des chiffres correspondant à des phrases convenues, ancêtre du code surchiffré.
+texte: Le principe du disque a servi jusqu'au XIXe siècle, par exemple aux armées confédérées pendant la guerre de Sécession ; il préfigure les rotors de la machine [[enigma|Enigma]].
+voir: leon-battista-alberti, chiffre-de-vigenere, enigma, analyse-des-frequences
+
+@ chiffre-de-vigenere
+cat: codes
+nom: Chiffre de Vigenère
+alias: carré de Vigenère, chiffre indéchiffrable, tabula recta, Bellaso, Kasiski
+def: Chiffre à plusieurs alphabets où un mot-clé, répété le long du message, indique pour chaque lettre le décalage à appliquer ; on le crut « indéchiffrable » jusqu'au XIXe siècle.
+texte: [[jean-tritheme|Trithème]] avait publié en 1518, dans sa *Polygraphie*, le tableau de tous les alphabets décalés, la *tabula recta*. L'Italien Giovan Battista Bellaso eut en 1553 l'idée d'y choisir les lignes au moyen d'un mot-clé ; [[blaise-de-vigenere|Blaise de Vigenère]], dans son *Traicté des chiffres* (1586), décrivit une variante plus solide, où le message lui-même sert de clé. Le nom de Vigenère est resté, à tort, à la méthode de Bellaso.
+texte: Le chiffre gagna sa réputation d'inviolabilité. Le mathématicien Charles Babbage le perça vers 1854 sans publier sa méthode ; l'officier prussien Friedrich Kasiski la publia en 1863 : en repérant les séquences répétées, on devine la longueur de la clé, puis on attaque chaque alphabet par l'[[analyse-des-frequences|analyse des fréquences]].
+voir: blaise-de-vigenere, jean-tritheme, disque-d-alberti, analyse-des-frequences, chiffre-de-cesar
+
+@ steganographie
+cat: codes
+nom: Stéganographie
+alias: écriture cachée, encre sympathique, encre invisible, micropoint, tête rasée d'Histiée
+def: Art de cacher l'existence même d'un message, sous une tablette de cire, une chevelure, une encre invisible ou un texte anodin ; le mot vient du titre d'un livre de Trithème.
+texte: Hérodote raconte qu'Histiée, retenu à la cour de Perse, fit raser la tête d'un esclave, y tatoua l'ordre de se révolter et attendit que les cheveux eussent repoussé ; Démarate, pour avertir Sparte, grava son message sur le bois d'une tablette et le recouvrit de cire. [[pline-l-ancien|Pline]] connaît les encres faites de lait de plantes qui n'apparaissent qu'à la chaleur ; [[giambattista-della-porta|Della Porta]] enseigne à écrire à l'intérieur d'un œuf dur avec de l'alun et du vinaigre. Le parchemin du *[[le-scarabee-d-or|Scarabée d'or]]* révèle son message au feu.
+texte: Le mot vient de la *[[steganographia|Steganographia]]* de [[jean-tritheme|Trithème]], écrite vers 1499 et publiée en 1606, où des procédés de chiffrement se cachent derrière de prétendues invocations d'esprits. L'[[acrostiche]] et le [[chiffre-de-bacon|chiffre bilitère de Bacon]], qui loge un message dans le choix de deux caractères d'imprimerie, sont des formes de stéganographie ; le XXe siècle y a ajouté les micropoints photographiques, et le numérique les images qui cachent des données.
+extrait: Sur ces entrefaites, il arriva de Suses un courrier qui lui enjoignait de prendre les armes. Cet ordre était empreint sur la tête du courrier. Histiée, voulant mander à Aristagoras de se soulever, ne trouva pas d’autre moyen pour le faire avec sûreté, parce que les chemins étaient soigneusement gardés. Il fit raser la tête au plus fidèle de ses esclaves, y imprima des caractères, et attendit que ses cheveux fussent revenus. Lorsqu’ils le furent, il l’envoya aussitôt à Milet, avec ordre seulement de dire, à son arrivée, à Aristagoras de lui raser la tête, et de l’examiner ensuite. Ces caractères, comme je viens de le dire, lui ordonnaient de se révolter. Histiée prit cette résolution, parce qu’il se trouvait très-malheureux d’être retenu à Suses, et qu’il avait de grandes espérances que, si Milet se soulevait, Darius l’enverrait vers la mer pour lui amener Aristagoras. Il sentait, en effet, que, s’il ne suscitait point de troubles en cette ville, il n’y retournerait jamais.
+source: Hérodote, *Histoire*, livre V, chap. XXXV, trad. Pierre-Henri Larcher, Charpentier, 1850 | ws Histoire (Hérodote)/Trad. Larcher, 1850/Livre V
+voir: steganographia, jean-tritheme, giambattista-della-porta, chiffre-de-bacon, acrostiche, cryptographie
+
+@ grille-de-cardan
+cat: codes
+nom: Grille de Cardan
+alias: grille, grille tournante, grille de Fleissner, carton à trous
+def: Carton percé de fenêtres que l'on pose sur une feuille pour y écrire un message, puis que l'on remplit de mots anodins ; Jérôme Cardan la décrit en 1550, et Jules Verne en a fait le ressort de *Mathias Sandorf*.
+texte: [[jerome-cardan|Jérôme Cardan]], dans le *De subtilitate* (1550), propose de cacher un message dans une lettre ordinaire : le destinataire, qui possède le même carton troué, ne lit que les mots qui apparaissent dans les fenêtres. Au XIXe siècle, le colonel autrichien Fleissner décrit une grille carrée qu'on tourne quatre fois d'un quart de tour : ses trous, disposés de manière à ne jamais se recouvrir, découvrent successivement toutes les cases d'un carré de lettres.
+texte: C'est une grille tournante de six cases sur six, à neuf trous, qui permet au traître Sarcany de lire le message des conjurés hongrois dans *Mathias Sandorf* (1885), le roman que [[jules-verne|Jules Verne]] dédia à la mémoire de Dumas.
+extrait: Au quatrième tiroir que visita Sarcany, sous des papiers dont il n’avait que faire, se trouvait une sorte de carte, trouée irrégulièrement. Cette carte attira tout de suite son attention. ¶ « La grille ! » se dit-il. ¶ Il ne se trompait pas. ¶ Sa première idée fut de s’en emparer ; mais, réflexion faite, il se dit que la disparition de cette grille pourrait attirer des soupçons, si le comte Zathmar venait à s’en apercevoir. ¶ « Bon ! se dit-il, de même que j’ai pris la copie du billet, je vais prendre le décalque de la grille, et Toronthal et moi, nous pourrons lire la dépêche tout à notre aise ! » ¶ Cette grille était un simple carré de carton, de six centimètres de longueur par côté, et divisé en trente-six carrés égaux, mesurant chacun un centimètre environ. De ces trente-six carrés, disposés sur six lignes horizontales et verticales, comme ceux d’une table de Pythagore qui aurait été établie sur six chiffres, vingt-sept étaient pleins, et neuf étaient vides, — c’est-à-dire qu’à la place de ces neuf carrés, la carte était découpée et ajourée en neuf endroits.
+source: Jules Verne, *Mathias Sandorf*, 1885, première partie, chap. IV, « Le billet chiffré », Hetzel | ws Mathias Sandorf/I/4
+voir: jerome-cardan, jules-verne, cryptogrammes-de-jules-verne, steganographie, cryptographie
+
+@ chiffre-de-bacon
+cat: codes
+nom: Chiffre de Bacon
+alias: chiffre bilitère, alphabet bilitère, théorie baconienne, Bacon et Shakespeare, Great Cryptogram
+def: Procédé décrit par Francis Bacon en 1623, qui code chaque lettre par cinq signes de deux sortes et cache le message dans un texte imprimé en deux caractères ; il a nourri la thèse qui attribue à Bacon l'œuvre de Shakespeare.
+texte: Dans le *De augmentis scientiarum*, [[francis-bacon|Francis Bacon]] expose l'alphabet « bilitère » qu'il dit avoir conçu dans sa jeunesse à Paris : chaque lettre devient un groupe de cinq *a* ou *b* (*aaaaa* pour A, *aaaab* pour B…), et l'on imprime un texte quelconque avec deux polices à peine différentes, l'une valant *a*, l'autre *b*. C'est un code binaire avant la lettre, et une [[steganographie|stéganographie]] : le message caché ne se voit pas.
+texte: Au XIXe siècle, Delia Bacon puis [[ignatius-donnelly|Ignatius Donnelly]], dans *The Great Cryptogram* (1888), affirment que Bacon a écrit les pièces de Shakespeare et y a caché sa signature ; Elizabeth Wells Gallup croit trouver en 1899 des messages bilitères dans le premier folio. Les cryptologues William et Elizebeth Friedman, qui débutèrent dans le laboratoire où travaillait Gallup, démontrèrent en 1957 qu'aucun de ces prétendus messages ne résiste à l'examen.
+voir: francis-bacon, ignatius-donnelly, steganographie, cryptographie, rose-croix
+
+@ grand-chiffre
+cat: codes
+nom: Grand Chiffre de Louis XIV
+alias: Grand Chiffre, chiffre des Rossignol, Antoine Rossignol, Bazeries, cabinet noir, Masque de fer
+def: Code diplomatique de la cour de Louis XIV, mis au point par la famille Rossignol, où des nombres désignaient des syllabes ; inviolé pendant deux siècles, il fut percé par Étienne Bazeries vers 1890.
+texte: Antoine Rossignol se fit connaître en 1626 en déchiffrant en une journée une lettre des protestants assiégés de Réalmont ; Richelieu puis Louis XIV l'attachèrent à leur service, et son nom est devenu, par plaisanterie, celui du crochet qui ouvre toutes les serrures. Avec son fils Bonaventure, il composa un répertoire de quelque six cents nombres désignant des syllabes, avec des pièges : nombres sans valeur, nombre qui efface le précédent. Après eux, plus personne ne sut le lire, et des liasses d'archives restèrent muettes.
+texte: L'officier Étienne Bazeries, cryptologue de l'armée française, en retrouva le secret dans les années 1890 en devinant qu'un groupe fréquent valait « les-en-ne-mi-s ». Il crut lire dans une lettre de Louvois de 1691 l'identité de l'homme au masque de fer, le général Vivien de Bulonde ; cette lecture n'a pas convaincu les historiens.
+voir: cryptographie, chiffre-de-marie-stuart, chiffre-de-vigenere, analyse-des-frequences
+
+@ chiffre-de-marie-stuart
+cat: codes
+nom: Chiffre de Marie Stuart
+alias: complot de Babington, Walsingham, Thomas Phelippes, lettres de Marie Stuart
+def: Code de signes dont se servait la reine d'Écosse captive pour sa correspondance secrète ; son déchiffrement par les agents d'Élisabeth Ire, lors du complot de Babington, la conduisit à l'échafaud en 1587.
+texte: Prisonnière en Angleterre depuis 1568, Marie Stuart correspondait avec ses partisans par des lettres cachées dans des tonneaux de bière. En 1586, Anthony Babington lui expose dans une lettre chiffrée un plan pour assassiner Élisabeth et la délivrer ; elle l'approuve. Mais le porteur, Gilbert Gifford, était un agent double, et le secrétaire de Walsingham, Thomas Phelippes, lisait tout : il ajouta même à une lettre de la reine un post-scriptum, dans le même chiffre, demandant les noms des conjurés. Marie fut condamnée et décapitée à Fotheringhay le 8 février 1587.
+texte: Son chiffre, une nomenclature d'une vingtaine de signes pour les lettres et de symboles pour des mots, n'était qu'une substitution améliorée. En 2023, trois cryptologues, George Lasry, Norbert Biermann et Satoshi Tomokiyo, ont déchiffré cinquante-sept lettres de Marie Stuart, conservées sans titre à la Bibliothèque nationale de France et adressées à l'ambassadeur de France.
+voir: cryptographie, grand-chiffre, analyse-des-frequences
+
+@ alphabet-maconnique
+cat: codes
+nom: Alphabet maçonnique
+alias: chiffre des francs-maçons, chiffre du parc à cochons, pigpen, alphabet de l'Arche royale, alphabet des Rose-Croix
+def: Chiffre où chaque lettre est remplacée par le fragment de grille ou de croix qui l'entoure, pointé ou non ; employé par les francs-maçons dès le XVIIIe siècle, on le voit sur des tombes et des documents de loge.
+texte: On dessine deux grilles en dièse et deux croix en sautoir, et l'on y range l'alphabet ; une lettre se note par la forme de sa case, avec ou sans point. Le procédé, connu bien avant eux, a été adopté par les francs-maçons, notamment dans le grade de l'[[arche-royale|Arche royale]], pour garder leurs rituels et leurs correspondances ; les Anglais l'appellent par moquerie le chiffre du « parc à cochons ». Une tombe du cimetière de Trinity Church, à New York, porte une inscription dans ce chiffre qui se lit « Souviens-toi de la mort ».
+texte: Très facile à percer par l'[[analyse-des-frequences|analyse des fréquences]], il relève plus du signe de reconnaissance que du vrai secret, comme les [[trois-points|trois points]] des abréviations maçonniques ; il est devenu un jeu de société et un accessoire de romans, de Dan Brown aux livres d'énigmes.
+voir: arche-royale, franc-maconnerie, secret-maconnique, trois-points, cryptographie, alphabets-magiques
+
+@ alphabets-magiques
+cat: codes
+nom: Alphabets magiques
+alias: alphabet thébain, écriture des Mages, alphabet céleste, Malachim, Passage du fleuve, alphabet énochien, écriture angélique
+def: Écritures secrètes données aux anges ou aux mages par les grimoires de la Renaissance — thébain, céleste, Malachim, Passage du fleuve, énochien — pour tracer les noms sacrés sur les talismans.
+texte: [[cornelius-agrippa|Corneille Agrippa]], au livre III de la *[[de-occulta-philosophia|Philosophie occulte]]* (1533), reproduit trois alphabets dérivés de l'hébreu, l'écriture céleste, l'écriture « des rois » ou Malachim, et celle du « Passage du fleuve », qui servent à écrire les noms des anges sur les sceaux et les [[talisman|talismans]]. L'alphabet thébain, attribué à un Honorius de Thèbes, paraît d'abord dans la *Polygraphie* de [[jean-tritheme|Trithème]] (1518), qui le tient de [[pierre-d-abano|Pierre d'Abano]].
+texte: En 1583, [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]] reçoivent des anges, disent-ils, l'alphabet de vingt et une lettres de la langue énochienne, base de la [[magie-enochienne|magie énochienne]]. Au XXe siècle, la [[wicca]] de [[gerald-gardner|Gerald Gardner]] a adopté l'alphabet thébain pour écrire ses livres des ombres. Ces écritures relèvent de la [[magie-ceremonielle|magie cérémonielle]] plus que du secret : elles donnent aux mots une forme sacrée, que les [[runes]] ont aussi reçue des occultistes.
+voir: cornelius-agrippa, de-occulta-philosophia, magie-enochienne, jean-tritheme, wicca, runes, sceau, talisman
+
+@ manuscrit-de-voynich
+cat: codes
+nom: Manuscrit de Voynich
+alias: Voynich, MS 408, codex de Voynich, voynichais
+def: Livre illustré du XVe siècle, écrit dans une écriture et une langue inconnues, avec des plantes imaginaires, des figures astrologiques et des femmes au bain ; aucun déchiffrement n'a été accepté.
+texte: Le libraire Wilfrid Voynich l'acheta en 1912 aux jésuites de la villa Mondragone, près de Rome ; il est aujourd'hui à l'université Yale (MS 408). Quelque deux cent quarante pages de vélin, que le carbone 14 date de 1404 à 1438, couvertes d'une écriture fluide et régulière, montrent des plantes qui n'existent pas, des diagrammes du ciel et du zodiaque, des femmes nues dans des bassins reliés par des tuyaux. Une lettre de 1665 jointe au volume, écrite par Johannes Marcus Marci à [[athanasius-kircher|Athanase Kircher]], rapporte que l'empereur [[rodolphe-ii|Rodolphe II]] l'aurait acheté six cents ducats, le croyant de [[roger-bacon|Roger Bacon]].
+texte: On l'a attribué à Bacon, à [[john-dee|John Dee]], qui aurait pu le vendre à Rodolphe, à [[edward-kelley|Edward Kelley]], faussaire supposé, à un médecin italien ; on y a cherché du latin abrégé, de l'hébreu, du nahuatl, un chiffre ou une langue artificielle. Les meilleurs cryptologues, dont William Friedman, s'y sont essayés ; l'analyse statistique montre une structure proche d'une langue, mais aucune des nombreuses solutions annoncées n'a convaincu.
+voir: rodolphe-ii, roger-bacon, john-dee, edward-kelley, athanasius-kircher, cryptographie, disque-de-phaistos, codex-copiale
+
+@ codex-copiale
+cat: codes
+nom: Codex Copiale
+alias: Copiale, chiffre Copiale, Oculistes, société des Oculistes
+def: Manuscrit allemand du XVIIIe siècle de 105 pages chiffrées, déchiffré en 2011 : il expose les rituels d'une société secrète proche de la franc-maçonnerie, les Oculistes.
+texte: Le volume, relié de brocart, aligne quelque soixante-quinze mille signes, lettres romaines et grecques mêlées de symboles. En 2011, Kevin Knight, Beáta Megyesi et Christiane Schaefer, aidés par l'ordinateur, montrent que les lettres romaines ne servent qu'à brouiller et que les autres signes chiffrent un texte allemand, chaque lettre ayant plusieurs signes possibles. Le texte décrit la réception dans l'ordre des Oculistes : le candidat a les yeux bandés, on lui arrache un sourcil, on lui « opère » la vue avant de lui donner la lumière.
+texte: Ce cérémonial, qui reprend le vocabulaire et le symbolisme de la [[franc-maconnerie]] (la lumière donnée à l'aveugle, le secret juré), montre comment les sociétés initiatiques du siècle des Lumières se protégeaient par l'écriture secrète. Le manuscrit est conservé à l'Académie des sciences de Berlin.
+voir: franc-maconnerie, initiation-maconnique, cryptographie, illumines-de-baviere
+
+@ enigma
+cat: codes
+nom: Enigma
+alias: machine Enigma, Ultra, rotors, Rejewski, bombe de Turing
+def: Machine électromécanique à rotors qui chiffrait les messages de l'armée allemande pendant la Seconde Guerre mondiale ; percée par des mathématiciens polonais puis par Bletchley Park, elle a changé le cours de la guerre.
+texte: L'ingénieur Arthur Scherbius brevette en 1918 une machine à rotors, que l'armée allemande adopte à partir de 1926. À chaque touche frappée, le courant traverse trois rotors puis un réflecteur, et les rotors avancent : chaque lettre est chiffrée par un alphabet différent, sur des milliards de réglages possibles, encore multipliés par un tableau de connexions. En 1932, le mathématicien polonais Marian Rejewski, aidé de documents obtenus par les services français auprès d'un espion allemand, reconstitue la machine par la théorie des permutations ; en juillet 1939, les Polonais livrent leurs travaux aux Français et aux Britanniques.
+texte: À [[bletchley-park|Bletchley Park]], [[alan-turing|Alan Turing]] et Gordon Welchman conçoivent la « bombe », machine qui teste les réglages à partir de mots probables. Les renseignements « Ultra » ainsi obtenus, notamment sur les sous-marins de l'Atlantique, restèrent secrets jusqu'en 1974. Enigma fut percée par les erreurs de ses utilisateurs autant que par la puissance des mathématiques.
+voir: bletchley-park, alan-turing, disque-d-alberti, chiffre-adfgvx, cryptographie
+
+@ chiffre-adfgvx
+cat: codes
+nom: Chiffre ADFGVX
+alias: ADFGVX, ADFGX, Painvin, radiogramme de la victoire
+def: Chiffre de campagne de l'armée allemande en 1918, qui combinait un carré de six lettres et une transposition ; le lieutenant français Georges Painvin le perça en juin 1918, à la veille d'une offensive.
+texte: Inventé par Fritz Nebel, le chiffre n'emploie que les lettres A, D, F, G, V et X, choisies parce qu'elles ne se confondent pas en morse : chaque lettre du message est remplacée par ses coordonnées dans un [[carre-de-polybe|carré de Polybe]] de six sur six, puis les paires sont mêlées par une transposition selon un mot-clé. Mis en service en mars 1918, il parut inviolable.
+texte: Le lieutenant Georges Painvin, du Bureau du chiffre, travailla nuit et jour et réussit, le 2 juin 1918, à lire un message pressant d'accélérer l'acheminement des munitions vers un secteur de l'Oise : ce « radiogramme de la victoire » permit de deviner le point de la prochaine attaque allemande, repoussée le 11 juin.
+voir: carre-de-polybe, enigma, cryptographie
+
+@ cryptogrammes-de-beale
+cat: codes
+nom: Cryptogrammes de Beale
+alias: trésor de Beale, Beale Papers, Thomas Beale, James Ward
+def: Trois messages chiffrés publiés en 1885 en Virginie, censés indiquer un trésor caché par un certain Thomas Beale ; le deuxième, déchiffré avec la Déclaration d'indépendance, décrit le trésor, les deux autres résistent.
+texte: Une brochure de 1885, *The Beale Papers*, publiée par James B. Ward, raconte qu'un aventurier, Thomas Beale, aurait enterré vers 1820 dans le comté de Bedford des tonnes d'or et d'argent, laissant à un aubergiste trois messages faits de nombres. Le deuxième se lit en remplaçant chaque nombre par l'initiale du mot de même rang dans la Déclaration d'indépendance américaine : il décrit le trésor. Le premier, qui donnerait l'emplacement, et le troisième, la liste des héritiers, n'ont jamais été lus, malgré des générations de chasseurs de trésor.
+texte: L'enquêteur Joe Nickell a relevé dans le récit des mots apparus bien après 1820 et y voit une fiction de Ward lui-même, franc-maçon, construite comme l'allégorie maçonnique d'une voûte secrète ; la plupart des cryptologues doutent que les deux messages restants aient un sens.
+voir: cryptographie, franc-maconnerie, parchemins-de-rennes-le-chateau, le-scarabee-d-or
+
+@ parchemins-de-rennes-le-chateau
+cat: codes
+nom: Parchemins de Rennes-le-Château
+alias: parchemins de Saunière, « Bergère pas de tentation », « À Dagobert II roi et à Sion est ce trésor », Philippe de Chérisey
+def: Textes latins à messages cachés, prétendument trouvés par l'abbé Saunière dans un pilier de son église, publiés en 1967 ; leur auteur, Philippe de Chérisey, a reconnu les avoir fabriqués.
+texte: Selon le récit propagé dans les années 1960 par [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], [[berenger-sauniere|Bérenger Saunière]] aurait découvert en restaurant son église de [[rennes-le-chateau|Rennes-le-Château]] des parchemins dont le déchiffrement l'aurait mené au trésor. Les fac-similés publiés dans *L'Or de Rennes* (1967) recopient des passages des Évangiles en latin, où des lettres décalées forment des messages : « À Dagobert II roi et à Sion est ce trésor et il est là mort », et, par un chiffre plus complexe, « Bergère pas de tentation que Poussin Teniers gardent la clef », suivi d'une suite mystérieuse de « pommes bleues ».
+texte: Philippe de Chérisey, ami de Plantard, a expliqué comment il les avait composés en copiant un manuscrit des Évangiles reproduit dans un dictionnaire de la Bible et en y glissant ses messages. Ils n'en ont pas moins lancé la légende de [[dagobert-ii|Dagobert II]], du [[prieure-de-sion|Prieuré de Sion]] et des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* de [[nicolas-poussin|Poussin]], reprise par *[[l-enigme-sacree|L'Énigme sacrée]]* et le *[[da-vinci-code|Da Vinci Code]]*.
+voir: rennes-le-chateau, berenger-sauniere, pierre-plantard, gerard-de-sede, dagobert-ii, prieure-de-sion, dossiers-secrets, les-bergers-d-arcadie, asmodee
+
+@ cryptogrammes-de-jules-verne
+cat: codes
+nom: Cryptogrammes de Jules Verne
+alias: cryptogramme de Saknussemm, La Jangada, Mathias Sandorf, chiffres de Jules Verne
+def: Messages chiffrés qui déclenchent l'intrigue de plusieurs romans de Jules Verne, du parchemin runique de *Voyage au centre de la Terre* au document de *La Jangada* et à la grille de *Mathias Sandorf*.
+texte: Admirateur d'[[edgar-allan-poe|Edgar Poe]], dont il analysa le *[[le-scarabee-d-or|Scarabée d'or]]* dans un article de 1864, [[jules-verne|Jules Verne]] a fait du chiffre un ressort romanesque. Dans *Voyage au centre de la Terre* (1864), le professeur Lidenbrock trouve dans un vieux livre un parchemin en caractères runiques signé de l'alchimiste islandais Arne Saknussemm ; c'est son neveu Axel qui comprend, par hasard, qu'il faut le lire à rebours. *La Jangada* (1881) suspend la vie d'un innocent condamné à mort au déchiffrement d'un document dont la clé est un nombre de six chiffres ; *Mathias Sandorf* (1885) repose sur une [[grille-de-cardan|grille tournante]].
+texte: Ces énigmes, claires une fois résolues, ont rendu la [[cryptographie]] familière à des générations de lecteurs. Certains auteurs ont cru que Verne avait aussi glissé dans ses romans les clés d'un secret ésotérique, celui de [[rennes-le-chateau|Rennes-le-Château]] par exemple ; rien dans sa correspondance ni dans ses manuscrits ne l'appuie.
+extrait: Je n’avais pas achevé ma phrase que le professeur poussait un cri, mieux qu’un cri, un véritable rugissement ! Une révélation venait de se faire dans son esprit. Il était transfiguré. ¶ « Ah ! ingénieux Saknussemm ! s’écria-t-il, tu avais donc d’abord écrit ta phrase à l’envers ? » ¶ Et se précipitant sur la feuille de papier, l’œil trouble, la voix émue, il lut le document tout entier, en remontant de la dernière lettre à la première. ¶ Il était conçu en ces termes : ¶ In Sneffels Yoculis craterem kem delibat // umbra Scartaris Julii intra calendas descende, // audas viator, et terrestre centrum attinges. // Kod feci. Arne Saknussem. ¶ Ce qui, de ce mauvais latin, peut être traduit ainsi : ¶ Descends dans le cratère du Yocul // de Sneffels que l’ombre du Scartaris vient // caresser avant les calendes de Juillet, // voyageur audacieux, et tu parviendras // au centre de la Terre. Ce que j’ai fait.
+source: Jules Verne, *Voyage au centre de la Terre*, 1864, chap. V, éd. Hetzel, 1867 | ws Voyage au centre de la Terre/Chapitre 5
+voir: jules-verne, grille-de-cardan, le-scarabee-d-or, edgar-allan-poe, cryptographie
+
+@ le-scarabee-d-or
+cat: codes
+nom: Le Scarabée d'or
+alias: The Gold-Bug, Scarabée d'or, Legrand, trésor du capitaine Kidd
+def: Nouvelle d'Edgar Poe (1843), où le chasseur d'insectes Legrand déchiffre un parchemin du pirate Kidd et retrouve son trésor ; elle a fait connaître au grand public l'analyse des fréquences.
+texte: Sur une île de Caroline du Sud, William Legrand trouve un scarabée doré et un parchemin, dont la chaleur du feu fait apparaître une tête de mort et une suite de chiffres et de signes. Il comprend qu'il s'agit d'une substitution simple, de l'anglais, et la résout en comptant les signes : le 8, le plus fréquent, est le *e*, et le groupe « ;48 », qui revient souvent, est *the*. Le message, « Un bon verre dans l'hostel de l'évêque dans la chaise du diable », le mène, au moyen d'un crâne cloué dans un arbre et du scarabée lâché par l'orbite, au coffre du capitaine Kidd.
+texte: La nouvelle gagna en 1843 le prix de cent dollars du *Dollar Newspaper* ; [[charles-baudelaire|Baudelaire]] la traduisit en 1856 dans les *Histoires extraordinaires*. Elle a suscité des vocations : le cryptologue William Friedman disait l'avoir lue enfant. [[jules-verne|Jules Verne]] en fit l'éloge et l'imita.
+extrait: Très-aisément ; j’en ai résolu d’autres dix mille fois plus compliqués. Les circonstances et une certaine inclination d’esprit m’ont amené à prendre intérêt à ces sortes d’énigmes, et il est vraiment douteux que l’ingéniosité humaine puisse créer une énigme de ce genre dont l’ingéniosité humaine ne vienne à bout par une application suffisante. Aussi, une fois que j’eus réussi à établir une série de caractères lisibles, je daignai à peine songer à la difficulté d’en dégager la signification. (…) Or, la lettre qui se rencontre le plus fréquemment en anglais est e. Les autres lettres se succèdent dans cet ordre : a o i d h n r s t u y c f g l m w b k p q x z. E prédomine si singulièrement, qu’il est très-rare de trouver une phrase d’une certaine longueur dont il ne soit pas le caractère principal.
+source: Edgar Allan Poe, *Le Scarabée d’or*, 1843, trad. Charles Baudelaire, *Histoires extraordinaires*, Michel Lévy, 1869 | ws Histoires extraordinaires/Le Scarabée d’or
+voir: edgar-allan-poe, analyse-des-frequences, scarabee, cryptogrammes-de-jules-verne, steganographie, cryptogrammes-de-beale
+
+@ les-hommes-dansants
+cat: codes
+nom: Les Hommes dansants
+alias: The Adventure of the Dancing Men, Les Danseurs, petits bonshommes dansants, Sherlock Holmes chiffre
+def: Nouvelle d'Arthur Conan Doyle (1903) où Sherlock Holmes déchiffre des messages faits de petits bonshommes dansants, alphabet secret d'un gangster de Chicago.
+texte: Un gentilhomme du Norfolk, Hilton Cubitt, apporte à Holmes des dessins d'enfant tracés sur ses murs : des rangées de bonshommes aux bras et aux jambes dans toutes les positions, qui terrorisent sa femme, une Américaine. Holmes y voit une substitution, où les petits drapeaux marquent la fin des mots ; il identifie le *e*, la plus fréquente des lettres anglaises, puis devine des noms propres, et répond au criminel dans son propre chiffre pour l'attirer dans un piège.
+texte: Parue dans *Le Retour de Sherlock Holmes*, la nouvelle doit beaucoup au *[[le-scarabee-d-or|Scarabée d'or]]* de Poe ; elle illustre la méthode de l'[[analyse-des-frequences|analyse des fréquences]] avec un alphabet devenu célèbre.
+extrait: L’objectif de ceux qui ont inventé ce système était sans doute d’empêcher de croire qu’il s’appliquait à un message, et de faire plutôt supposer que ces signes étaient seulement des dessins faits par des enfants. Supposant toutefois qu’ils se rapportaient aux lettres d’un alphabet, j’appliquai les règles qui permettent de déchiffrer les écritures secrètes et la solution ne fut pas difficile. ¶ Comme vous le savez, la lettre E est la plus fréquemment employée de l’alphabet anglais, et sa prédominance est tellement marquée qu’on la trouve dans les phrases les plus courtes ; or, sur les quinze signes qui composaient le premier message, cinq étaient semblables ; il était donc raisonnable de conclure qu’ils correspondaient à la lettre E.
+source: Arthur Conan Doyle, « Les Danseurs », *La Résurrection de Sherlock Holmes*, La Renaissance du livre, 1932 | ws La Résurrection de Sherlock Holmes/Les Danseurs
+voir: arthur-conan-doyle, analyse-des-frequences, le-scarabee-d-or, cryptographie
+
+@ palindrome
+cat: codes
+nom: Palindrome
+alias: palindromes, vers sotadiques, In girum imus nocte, Nipson anomêmata, mot qui se lit dans les deux sens
+def: Mot, phrase ou nombre qui se lit de la même façon de gauche à droite et de droite à gauche, comme « Ésope reste ici et se repose » ou le carré magique SATOR.
+texte: Le mot grec signifie « qui revient sur ses pas ». Le poète Sotade, au IIIe siècle avant notre ère, composait déjà des vers réversibles. Le palindrome le plus célèbre est le [[carre-sator|carré SATOR]], trouvé à Pompéi, qui se lit dans les quatre sens. Une inscription grecque gravée sur bien des fonts baptismaux, dont celui de Sainte-Sophie de Constantinople, se lit dans les deux sens : *Nipson anomêmata mê monan opsin*, « lave tes péchés, non pas seulement ton visage ». Le vers latin *In girum imus nocte et consumimur igni*, « nous tournons dans la nuit et sommes consumés par le feu », passe pour décrire les papillons de nuit.
+texte: Le palindrome a valeur de clôture parfaite, de cercle : les mages et les auteurs d'[[amulette|amulettes]] l'ont aimé pour cette raison, comme l'[[abracadabra]] qui se réduit en triangle. Georges Perec a écrit en 1969 un palindrome de plus de cinq mille lettres. Il voisine avec l'[[anagramme]] et l'[[acrostiche]], autres jeux où les lettres cachent un second sens.
+voir: carre-sator, anagramme, acrostiche, abracadabra, amulette, carre-magique
+
+@ anagramme
+cat: codes
+nom: Anagramme
+alias: anagrammes, Alcofribas Nasier, anagramme de Galilée, Rapis, Avida Dollars
+def: Mot ou phrase obtenu en changeant l'ordre des lettres d'un autre ; procédé des devins, des kabbalistes, des savants soucieux de priorité et des écrivains masqués.
+texte: Les Grecs pratiquaient déjà l'anagramme comme un oracle : le poète Lycophron flattait Ptolémée en tirant de son nom *apo melitos*, « fait de miel ». La [[kabbale]] permute les lettres des noms divins par la [[temourah]]. [[francois-rabelais|François Rabelais]] publie *Pantagruel* sous le nom d'Alcofribas Nasier, anagramme du sien, et l'on a lu dans les « Rapis » et « Nersaf » de [[nostradamus|Nostradamus]] Paris et la France.
+texte: Les savants du XVIIe siècle s'en servaient pour prendre date sans révéler leur découverte : Galilée annonça en 1610 par une suite de lettres incompréhensible qu'il avait vu Saturne « triple » ; Huygens fit de même pour l'anneau de Saturne. André Breton fit de Salvador Dalí « Avida Dollars ». La [[langue-des-oiseaux|langue des oiseaux]] et la « cabale phonétique » de [[fulcanelli|Fulcanelli]] jouent sur les sons comme l'anagramme joue sur les lettres.
+voir: temourah, palindrome, acrostiche, francois-rabelais, nostradamus, langue-des-oiseaux, notarikon
+
+@ acrostiche
+cat: codes
+nom: Acrostiche
+alias: acrostiches, ichthys, acrostiche sibyllin, Poliam frater Franciscus Columna
+def: Texte dont les initiales des vers ou des chapitres, lues de haut en bas, forment un mot ou une phrase ; le poisson des chrétiens et l'auteur du *Songe de Poliphile* se cachent dans des acrostiches.
+texte: Le mot grec ΙΧΘΥΣ, « poisson », forme l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » : c'est le [[poisson]] des premiers chrétiens. Un poème des *Oracles sibyllins* sur le jugement dernier, que saint Augustin cite dans *La Cité de Dieu*, fait lire la même formule à ses initiales, signe qu'on attribuait aux [[sibylles]] l'annonce du Christ. Villon signe de son nom, en acrostiche, sa *Ballade pour prier Notre-Dame*.
+texte: Les lettres ornées qui ouvrent les trente-huit chapitres du *[[songe-de-poliphile|Songe de Poliphile]]* (1499) forment la phrase latine *Poliam frater Franciscus Columna peramavit*, « frère Francesco Colonna aima passionnément Polia » : c'est par cet acrostiche qu'on connaît l'auteur du livre. L'acrostiche est une [[steganographie|stéganographie]] élémentaire, souvent employée pour cacher une dédicace ou une signature.
+voir: poisson, songe-de-poliphile, sibylles, anagramme, palindrome, steganographie
+
+@ argot
+cat: codes
+nom: Argot
+alias: jargon, argotiers, Coquillards, jargon de Villon, langue verte, art goth
+def: Langue secrète des gueux, des voleurs et des corporations, faite pour n'être pas comprise ; Victor Hugo l'a appelée « la langue des ténébreux » et Fulcanelli y a vu la clé de l'art gothique.
+texte: Au XVe siècle, les Coquillards, bande de malfaiteurs jugés à Dijon en 1455, parlaient un « jargon » que la justice fit relever ; [[francois-villon|François Villon]], qui les fréquenta, composa des ballades dans cette langue, imprimées en 1489, que l'on comprend encore mal. Au XVIIe siècle, le mot « argot » désigne la confrérie des mendiants, le « royaume d'argot », puis leur parler, dont Ollivier Chéreau publie un lexique. Chaque métier a eu le sien, des bouchers du louchébem aux [[argot-des-batisseurs|bâtisseurs]], et le verlan en est la forme moderne.
+texte: [[victor-hugo|Victor Hugo]] consacre à l'argot tout un livre des *Misérables* (1862). [[fulcanelli|Fulcanelli]], dans *Le [[mystere-des-cathedrales|Mystère des cathédrales]]* (1926), soutient que l'« art gothique » est l'« art got » ou « argotique », que les cathédrales sont écrites dans l'argot des initiés, et que les argotiers descendent des Argonautes partis conquérir la [[toison-d-or|Toison d'or]] : c'est la « cabale phonétique » de la [[langue-des-oiseaux|langue des oiseaux]], que les linguistes ne retiennent pas.
+extrait: Pigritia est un mot terrible. ¶ Il engendre un monde, la pègre, lisez le vol, et un enfer, la pégrenne, lisez la faim. ¶ Ainsi la paresse est mère. ¶ Elle a un fils, le vol, et une fille, la faim. ¶ Où sommes-nous en ce moment ? Dans l’argot. ¶ Qu’est-ce que l’argot ? C’est tout à la fois la nation et l’idiome ; c’est le vol sous ses deux espèces, peuple et langue. (…) C’est l’inintelligible dans le ténébreux. Cela grince et cela chuchote, complétant le crépuscule par l’énigme. Il fait noir dans le malheur, il fait plus noir encore dans le crime ; ces deux noirceurs amalgamées composent l’argot. Obscurité dans l’atmosphère, obscurité dans les actes, obscurité dans les voix. Épouvantable langue crapaude qui va, vient, sautèle, rampe, bave, et se meut monstrueusement dans cette immense brume grise faite de pluie, de nuit, de faim, de vice, de mensonge, d’injustice, de nudité, d’asphyxie et d’hiver, plein midi des misérables.
+source: Victor Hugo, *Les Misérables*, 1862, quatrième partie, livre VII, « L’Argot », chap. I, « Origine » | ws Les Misérables/Tome 4/Livre 07/01
+voir: argot-des-batisseurs, langue-des-oiseaux, fulcanelli, mystere-des-cathedrales, victor-hugo, gothique, toison-d-or
+
+@ argot-des-batisseurs
+cat: codes
+nom: Argot des bâtisseurs
+alias: langue des compagnons, parler compagnonnique, marques de tâcherons, Mot de maçon, langue verte des cathédrales
+def: Vocabulaire et signes secrets des bâtisseurs — compagnons du Tour de France, tailleurs de pierre médiévaux, maçons d'Écosse —, où l'ésotérisme a cru lire la langue cachée des cathédrales.
+texte: Les compagnons du [[compagnonnage]] ont une langue de métier qu'ils gardaient pour eux : le « pays » est le compagnon du même devoir, la « coterie » le camarade, la « Mère » l'aubergiste qui les héberge, la « cayenne » la chambre où ils se réunissent, le « topage » le salut échangé sur la route, le « lapin » l'apprenti ; les sobriquets, comme « La Fidélité d'Avignon », mêlent une vertu et une ville. Les loges des tailleurs de pierre allemands, réglées à Ratisbonne en 1459, et les loges opératives écossaises, avec leur « Mot de maçon », avaient leurs signes de reconnaissance, d'où viennent les [[mots-signes-attouchements|mots, signes et attouchements]] de la [[franc-maconnerie]].
+texte: Sur les pierres des églises, les « marques de tâcherons » — étoiles, flèches, lettres — permettaient de compter le travail de chaque ouvrier : des auteurs ont voulu y voir un alphabet initiatique. [[fulcanelli|Fulcanelli]] fait des cathédrales gothiques un livre écrit dans l'[[argot]] des initiés, que seuls lisent ceux qui connaissent la « langue verte ». Les historiens de l'art y voient l'iconographie chrétienne de leur temps ; la langue des compagnons, elle, est bien réelle et vivante.
+voir: compagnonnage, argot, art-gothique, mots-signes-attouchements, operatifs-et-speculatifs, fulcanelli, sainte-baume
+
+@ disque-de-phaistos
+cat: codes
+nom: Disque de Phaistos
+alias: Phaistos, disque crétois, écriture minoenne, linéaire A
+def: Disque d'argile crétois du XVIIe siècle avant notre ère, couvert sur ses deux faces d'une spirale de signes imprimés au tampon ; texte unique, il n'a jamais été déchiffré.
+texte: L'archéologue italien Luigi Pernier le découvre en 1908 dans le palais minoen de Phaistos, au sud de la Crète. Ses deux faces portent deux cent quarante et un signes de quarante-cinq sortes, têtes à plumes, poissons, navires, mains, disposés en spirale et groupés par des traits : ils ont été imprimés avec des poinçons, ce qui en fait le plus ancien exemple connu de « caractères mobiles ». Il est conservé au musée d'Héraklion.
+texte: Comme le linéaire A, l'écriture des Minoens, il reste illisible, faute d'autres textes à comparer ; le linéaire B mycénien, lui, a été déchiffré en 1952 par Michael Ventris. Le disque a reçu des dizaines de « traductions », hymnes, calendriers ou messages d'un continent perdu, et quelques chercheurs l'ont soupçonné d'être un faux ; il demeure, avec le [[manuscrit-de-voynich|manuscrit de Voynich]], l'emblème des écritures muettes.
+voir: manuscrit-de-voynich, hieroglyphes, cryptographie, atlantide
+
+@ inscription-de-shugborough
+cat: codes
+nom: Inscription de Shugborough
+alias: monument du berger, Shepherd's Monument, O U O S V A V V, D. M.
+def: Suite de lettres énigmatiques, O U O S V A V V entre un D et un M, gravée vers 1750 sous une copie des *Bergers d'Arcadie* de Poussin dans le parc de Shugborough, en Angleterre ; elle n'a jamais été expliquée.
+texte: Thomas Anson, propriétaire du domaine de Shugborough, dans le Staffordshire, y fit élever au milieu du XVIIIe siècle un monument rustique où le sculpteur Peter Scheemakers reproduisit en bas-relief, inversé, le tableau des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* de [[nicolas-poussin|Nicolas Poussin]] ; dessous, on grava les lettres O U O S V A V V, encadrées plus bas de D et M, initiales usuelles des tombes romaines, *Dis Manibus*. On y a lu les initiales d'une devise latine, une dédicace amoureuse, un message chrétien.
+texte: Quand la légende de [[rennes-le-chateau|Rennes-le-Château]] fit des *Bergers d'Arcadie* le gardien d'un secret, l'inscription devint une pièce du dossier du [[prieure-de-sion|Prieuré de Sion]] ; on fit appel, au début des années 2000, à d'anciens décrypteurs de [[bletchley-park|Bletchley Park]], sans résultat. Elle reste un rébus d'amateur éclairé du siècle des Lumières, sans clé connue.
+voir: les-bergers-d-arcadie, nicolas-poussin, arcadie, rennes-le-chateau, prieure-de-sion, bletchley-park

@@ -13,7 +13,7 @@ texte: Au XXe siècle, Glastonbury devient un centre de l'ésotérisme anglais :
 repere: 1191 — Les moines annoncent la découverte de la tombe du roi Arthur.
 repere: 1539 — Dissolution de l'abbaye ; le dernier abbé est exécuté sur le Tor.
 repere: 1929 — Katharine Maltwood décrit le « zodiaque de Glastonbury ».
-voir: graal, dion-fortune, stonehenge, new-age, neopaganisme, joseph-d-arimathie
+voir: graal, dion-fortune, stonehenge, new-age, neopaganisme, joseph-d-arimathie, roi-arthur
 
 @ stonehenge
 cat: lieux
@@ -28,7 +28,7 @@ repere: vers 3000 av. J.-C. — Creusement du fossé circulaire.
 repere: vers 2500 av. J.-C. — Érection du grand cercle de pierres.
 repere: 1740 — William Stukeley attribue le monument aux druides.
 repere: 1986 — Inscription au patrimoine mondial de l'UNESCO.
-voir: druidisme, carnac, neopaganisme, glastonbury, merlin
+voir: druidisme, carnac, neopaganisme, glastonbury, merlin, crop-circles
 
 @ chapelle-de-rosslyn
 cat: lieux
@@ -41,7 +41,7 @@ texte: William Sinclair, comte d'Orkney, fonde en 1446 une collégiale à Roslin
 texte: Au XVIIIe siècle, William St Clair de Roslin devient le premier grand maître de la Grande Loge d'Écosse, ce qui nourrit l'idée d'un lien ancien entre la famille et la [[franc-maconnerie]]. À la fin du XXe siècle, des best-sellers font de la chapelle la cachette du trésor des [[templiers]], du [[graal|Graal]] ou de la tête du Christ, et y voient du maïs américain sculpté avant Christophe Colomb ; le *Da Vinci Code* y place son dénouement. Les historiens rappellent que l'ordre du Temple avait disparu plus d'un siècle avant la fondation.
 repere: 1446 — William Sinclair fonde la collégiale.
 repere: 1736 — Un Sinclair de Roslin devient le premier grand maître de la Grande Loge d'Écosse.
-voir: templiers, franc-maconnerie, legende-d-hiram, graal
+voir: templiers, franc-maconnerie, legende-d-hiram, graal, da-vinci-code, walter-scott
 
 @ boleskine-house
 cat: lieux
@@ -74,15 +74,15 @@ voir: aleister-crowley, thelema, livre-de-la-loi, francois-rabelais, magie-sexue
 @ bomarzo
 cat: lieux
 nom: Bomarzo
-alias: Sacro Bosco, parc des Monstres, bois sacré de Bomarzo, Vicino Orsini
+alias: Sacro Bosco, parc des Monstres, bois sacré de Bomarzo, Vicino Orsini, Ogni pensiero vola, maison penchée
 lieu: Latium, Italie
 geo: 42.4916, 12.2476
 def: Jardin de la Renaissance où le prince Vicino Orsini fit sculpter dans le rocher, à partir de 1552, des géants, des monstres et une maison penchée, lu depuis comme un parcours initiatique.
-texte: Au fond d'un vallon, le « bois sacré » de Pier Francesco Orsini, dit Vicino, mêle des sculptures colossales taillées dans les blocs de pierre volcanique : un ogre dont la bouche ouverte porte l'inscription « toute pensée s'envole », un éléphant écrasant un soldat, une tortue géante, des sirènes, un dragon, un petit temple, et une maison volontairement penchée, où l'on perd l'équilibre. Des inscriptions invitent le visiteur à s'émerveiller.
-texte: Oublié pendant des siècles, le jardin est redécouvert au milieu du XXe siècle, notamment par Salvador Dalí. Les commentateurs y ont cherché une lecture du roman allégorique *Le Songe de Poliphile*, un chemin alchimique, une descente aux enfers ou une [[initiation]] ; d'autres y voient surtout le caprice d'un prince lettré en deuil de sa femme. Aucune clé n'a été laissée par son créateur.
+texte: Au fond d'un vallon, le « bois sacré » de Pier Francesco Orsini, dit Vicino, mêle des sculptures colossales taillées dans les blocs de pierre volcanique : un ogre dont la bouche ouverte porte l'inscription « toute pensée s'envole », un [[elephant|éléphant]] de guerre écrasant un soldat, une [[tortue]] géante portant la Renommée, un [[cerbere|Cerbère]] à trois têtes, une fontaine de [[pegase|Pégase]], une [[sirene|sirène]] aux deux queues ouvertes, un [[dragon]] assailli par des fauves, un petit temple, et une maison volontairement penchée, où l'on perd l'équilibre. Des inscriptions invitent le visiteur à s'émerveiller et lui demandent si tant de merveilles sont faites par tromperie ou par art.
+texte: Oublié pendant des siècles, le jardin est redécouvert au milieu du XXe siècle, notamment par Salvador Dalí. Les commentateurs y ont cherché une lecture du roman allégorique *Le Songe de Poliphile*, un chemin alchimique, une descente aux enfers ou une [[initiation]] ; d'autres y voient surtout le caprice d'un prince lettré en deuil de sa femme, Giulia Farnese. Aucune clé n'a été laissée par son créateur.
 repere: 1552 — Vicino Orsini commence l'aménagement du bois sacré.
 repere: 1585 — Mort de Vicino Orsini.
-voir: initiation, emblemes, labyrinthe, songe-de-poliphile
+voir: initiation, emblemes, labyrinthe, songe-de-poliphile, elephant, tortue, sirene, cerbere
 
 @ villa-de-careggi
 cat: lieux
@@ -160,7 +160,7 @@ texte: L'abbaye bénédictine, fondée au XIe siècle, garde une statue de la Vi
 texte: En octobre 1940, de passage en Espagne, [[heinrich-himmler|Heinrich Himmler]] visite le monastère ; selon le récit d'un moine, il aurait cherché à savoir si le Graal y était caché, dans le sillage des recherches d'[[otto-rahn|Otto Rahn]]. L'épisode, embelli par la suite, a fait de Montserrat une étape des récits sur l'occultisme nazi.
 repere: 1025 — Fondation du monastère bénédictin.
 repere: 1940 — Visite de Heinrich Himmler au monastère.
-voir: graal, otto-rahn, montsegur, ariosophie
+voir: graal, otto-rahn, montsegur, ariosophie, vierges-noires
 
 @ externsteine
 cat: lieux
@@ -173,7 +173,7 @@ texte: Ces piliers de grès hauts de près de quarante mètres portent un grand 
 texte: En 1929, le pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'Irminsul. [[heinrich-himmler|Himmler]] y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
 repere: 1929 — Wilhelm Teudt en fait un sanctuaire solaire germanique.
 repere: 1934 — Fouilles menées à la demande de Himmler.
-voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme
+voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme, axis-mundi
 
 @ wewelsburg
 cat: lieux
@@ -257,7 +257,7 @@ texte: Selon le mythe, deux aigles lâchés par Zeus aux extrémités du monde s
 texte: Plutarque, prêtre d'Apollon à Delphes, s'interroge déjà au IIe siècle sur le déclin des [[oracle|oracles]]. Le sanctuaire est fermé à la fin du IVe siècle, sous les empereurs chrétiens. Les fouilles de l'École française d'Athènes, à partir de 1892, l'ont dégagé ; Delphes demeure, pour l'ésotérisme moderne, le symbole d'une sagesse antique et de la connaissance de soi.
 repere: 1892 — Début de la « grande fouille » de l'École française d'Athènes.
 repere: 1987 — Inscription au patrimoine mondial de l'UNESCO.
-voir: oracle, sibylles, antre-de-la-sibylle, eleusis, divination
+voir: oracle, sibylles, antre-de-la-sibylle, eleusis, divination, dauphin, plutarque, pan
 
 @ eleusis
 cat: lieux
@@ -270,7 +270,7 @@ texte: Chaque automne, après une procession partie d'Athènes par la Voie sacr�
 texte: Les [[mysteres-antiques|mystères]] d'Éleusis s'éteignent à la fin du IVe siècle, quand l'empereur Théodose interdit les cultes païens, et le sanctuaire est ravagé par les Goths d'Alaric en 396. Ils sont restés pour l'ésotérisme moderne le modèle même de l'[[initiation]], et la franc-maçonnerie, comme l'occultisme, a souvent prétendu en être l'héritière.
 repere: 392 — L'empereur Théodose interdit les cultes païens.
 repere: 396 — Le sanctuaire est ravagé par les Goths d'Alaric.
-voir: mysteres-antiques, hierophante, mystes-et-epoptes, initiation, orphisme
+voir: mysteres-antiques, hierophante, mystes-et-epoptes, initiation, orphisme, demeter, persephone, hecate
 
 @ samothrace
 cat: lieux
@@ -297,7 +297,7 @@ texte: [[plotin|Plotin]] y suit l'enseignement d'Ammonios Saccas avant de fonder
 repere: 331 av. J.-C. — Fondation de la ville par Alexandre le Grand.
 repere: 391 — Destruction du Sérapéum.
 repere: 415 — Assassinat de la philosophe Hypatie.
-voir: hermetisme, corpus-hermetique, gnose, neoplatonisme, philon-d-alexandrie, hermopolis
+voir: hermetisme, corpus-hermetique, gnose, neoplatonisme, philon-d-alexandrie, hermopolis, serapis, culte-d-isis
 
 @ hermopolis
 cat: lieux
@@ -308,7 +308,7 @@ geo: 27.7744, 30.8011
 def: Ville de Moyenne-Égypte consacrée à Thot, dieu de l'écriture et du savoir, que les Grecs identifièrent à Hermès : la patrie symbolique d'Hermès Trismégiste.
 texte: Les Égyptiens l'appelaient Khemenou, la « ville des Huit », d'après les huit divinités primordiales, l'Ogdoade, qui avaient selon ses prêtres présidé à la naissance du monde. Thot, à tête d'ibis ou de babouin, maître des écritures sacrées et de la magie, y avait son grand temple ; les Grecs, qui reconnaissaient en lui leur Hermès, baptisèrent la ville Hermopolis.
 texte: Le titre de « trois fois grand », porté par Thot dans les inscriptions, est à l'origine du nom d'[[hermes-trismegiste|Hermès Trismégiste]]. Dans la nécropole voisine de Touna el-Gebel, des galeries renferment des millions d'ibis et de babouins momifiés, offerts au dieu, et le tombeau du prêtre Pétosiris mêle au IVe siècle avant notre ère l'art égyptien et l'art grec, à l'image de la culture d'où sortira l'[[hermetisme|hermétisme]].
-voir: hermes-trismegiste, hermetisme, alexandrie, hieroglyphes, egyptosophie, huit
+voir: hermes-trismegiste, hermetisme, alexandrie, hieroglyphes, egyptosophie, huit, thot, ogdoade, ibis
 
 @ gizeh
 cat: lieux
@@ -321,7 +321,7 @@ texte: Les pyramides de Khéops, Khéphren et Mykérinos, élevées vers 2600-25
 texte: L'ésotérisme en a fait un livre de pierre : la « [[pyramides|pyramidologie]] » y cherche des mesures divines et une chronologie prophétique, des occultistes y placent des salles d'initiation, [[edgar-cayce|Edgar Cayce]] annonce sous le [[sphinx|Sphinx]] une « salle des archives » laissée par les Atlantes, et d'autres auteurs y voient l'œuvre d'une civilisation perdue ou venue d'ailleurs. Aucune de ces théories ne repose sur les données archéologiques.
 repere: vers 2560 av. J.-C. — Construction de la Grande Pyramide pour le roi Khéops.
 repere: 1864 — Charles Piazzi Smyth publie sa pyramidologie.
-voir: pyramides, sphinx, egyptosophie, edgar-cayce, atlantide
+voir: pyramides, sphinx, egyptosophie, edgar-cayce, atlantide, anciens-astronautes
 
 @ dendera
 cat: lieux
@@ -334,7 +334,7 @@ texte: Le temple actuel, l'un des mieux conservés d'Égypte, date de l'époque 
 texte: Découpé et transporté en France en 1821, le zodiaque passionne l'opinion : des savants héritiers de Dupuis, pour qui toutes les religions dérivent de l'astronomie, lui prêtent des milliers d'années, ce qui contredisait la chronologie biblique. En 1822, Champollion lit dans un cartouche voisin le titre d'un empereur romain : le zodiaque date du Ier siècle avant notre ère. Il est conservé au Louvre ; une copie a été posée dans le temple.
 repere: 1821 — Le zodiaque est découpé et transporté à Paris.
 repere: 1822 — Champollion en établit l'époque romaine.
-voir: zodiaque, astrologie, decans, egyptosophie, hieroglyphes
+voir: zodiaque, astrologie, decans, egyptosophie, hieroglyphes, hathor, edfou, egyptologie
 
 @ harran
 cat: lieux

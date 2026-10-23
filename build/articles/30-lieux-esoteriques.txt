@@ -15,7 +15,7 @@ repere: 1623 — Les placards des Rose-Croix sont affichés dans Paris.
 repere: 1778 — Voltaire est reçu à la loge des Neuf Sœurs ; Mesmer arrive à Paris.
 repere: 1892 — Premier Salon de la Rose+Croix de Péladan.
 repere: 1926 — *Le Mystère des cathédrales* de Fulcanelli.
-voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme
+voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme, opera-garnier, saint-sulpice, gaston-leroux
 
 @ londres
 cat: lieux
@@ -30,7 +30,7 @@ repere: 1717 — Fondation de la Grande Loge de Londres.
 repere: 1723 — Les *Constitutions* d'Anderson.
 repere: 1882 — Fondation de la Society for Psychical Research.
 repere: 1888 — La Golden Dawn ouvre son premier temple.
-voir: grande-loge-de-londres, constitutions-d-anderson, john-dee, golden-dawn, william-blake, dante-gabriel-rossetti
+voir: grande-loge-de-londres, constitutions-d-anderson, john-dee, golden-dawn, william-blake, dante-gabriel-rossetti, bletchley-park, rudyard-kipling
 
 @ nuremberg
 cat: lieux
@@ -61,7 +61,7 @@ repere: 1499 — *Le Songe de Poliphile* sort des presses d'Alde Manuce.
 repere: 1592 — Arrestation de Giordano Bruno.
 repere: 1756 — Casanova s'évade des Plombs.
 repere: 1883 — Mort de Wagner au palais Vendramin.
-voir: songe-de-poliphile, giordano-bruno, quarante, richard-wagner, art-de-la-memoire
+voir: songe-de-poliphile, giordano-bruno, quarante, richard-wagner, art-de-la-memoire, lion-symbole, phenix
 
 @ carcassonne
 cat: lieux
@@ -91,7 +91,7 @@ repere: 1386 — Début de la construction de la cathédrale.
 repere: vers 1450 — Les tarots Visconti-Sforza.
 repere: 1495-1498 — *La Cène* de Léonard de Vinci.
 repere: 1630 — Procès des « oigneurs » pendant la peste.
-voir: leonard-de-vinci, tarot, tarot-de-marseille, jerome-cardan, arcanes-majeurs
+voir: leonard-de-vinci, tarot, tarot-de-marseille, jerome-cardan, arcanes-majeurs, vouivre
 
 @ rouen
 cat: lieux
@@ -107,7 +107,7 @@ repere: 1515 — L'Échiquier de Normandie devient le parlement de Rouen.
 repere: 1864 — Naissance de Maurice Leblanc.
 extrait: C'est Guillaume le Conquérant, duc de *Normandie*, roi d'Angleterre, dont l'étendard est percé à la façon d'une aiguille ! ¶ C'est à *Rouen* que les Anglais brûlent Jeanne d'Arc, maîtresse du secret ! (…) ¶ L'hypothèse se précise. Le champ se rétrécit. Rouen, les rives de la Seine, le pays de Caux… il semble vraiment que toutes les routes convergent de ce côté. (…) ¶ Rouen, Dieppe, Le Havre… les trois sommets du triangle, les trois grandes villes qui occupent les trois pointes. Au centre, le pays de Caux.
 source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. VIII, éd. Lafitte, 1912 | ws L’Aiguille creuse/VIII
-voir: maurice-leblanc, arsene-lupin, etretat, dragon, echiquier, sorcellerie
+voir: maurice-leblanc, arsene-lupin, etretat, dragon, echiquier, sorcellerie, jeanne-d-arc, gargouille, gustave-flaubert
 
 @ lyon
 cat: lieux
@@ -122,7 +122,7 @@ repere: 1775 — Saint-Martin publie *Des erreurs et de la vérité*.
 repere: 1778 — Convent des Gaules.
 repere: 1784 — Cagliostro fonde à Lyon la loge mère du rite égyptien.
 repere: 1905 — Mort de Maître Philippe.
-voir: jean-baptiste-willermoz, rite-ecossais-rectifie, martinisme, maitre-philippe, cagliostro, turin
+voir: jean-baptiste-willermoz, rite-ecossais-rectifie, martinisme, maitre-philippe, cagliostro, turin, maconnerie-egyptienne, nostradamus
 
 @ turin
 cat: lieux
@@ -137,7 +137,7 @@ repere: 1578 — Le saint Suaire arrive à Turin.
 repere: 1824 — Fondation du Musée égyptien.
 repere: 1861 — Turin, capitale de l'Italie unifiée.
 repere: 1988 — Datation du Suaire par le carbone 14.
-voir: egyptosophie, graal, lyon, prague, giuseppe-garibaldi
+voir: egyptosophie, graal, lyon, prague, giuseppe-garibaldi, table-isiaque
 
 @ vienne
 cat: lieux
@@ -181,7 +181,7 @@ texte: [[dante|Dante]] était né à Florence deux siècles plus tôt. En 1497, 
 repere: 1439 — Concile de Florence ; venue de Gémiste Pléthon.
 repere: 1463 — Ficin traduit le *Corpus hermeticum*.
 repere: 1497 — Le « bûcher des vanités » de Savonarole.
-voir: marsile-ficin, villa-de-careggi, corpus-hermetique, sandro-botticelli, dante, hermetisme
+voir: marsile-ficin, villa-de-careggi, corpus-hermetique, sandro-botticelli, dante, hermetisme, leon-battista-alberti
 
 @ bayreuth
 cat: lieux
@@ -212,7 +212,7 @@ repere: 1918 — Leblanc s'installe au Clos Lupin.
 repere: 1927 — *L'Oiseau blanc* disparaît après avoir survolé Étretat.
 extrait: À quarante ou cinquante mètres de cette arche imposante qu'on appelle la Porte d'Aval et qui s'élance du haut de la falaise, ainsi que la branche colossale d'un arbre, pour prendre racine dans les rocs sous-marins, s'érige un cône calcaire démesuré ; et ce cône n'est qu'un bonnet d'écorce pointu posé sur du vide.
 source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
-voir: arsene-lupin, maurice-leblanc, rouen, rennes-le-chateau
+voir: arsene-lupin, maurice-leblanc, rouen, rennes-le-chateau, fecamp, abbayes-normandes
 
 @ lusignan
 cat: lieux
@@ -241,4 +241,4 @@ repere: 1050 — Le pape reconnaît les reliques de Marie-Madeleine à Vézelay.
 repere: 1146 — Saint Bernard y prêche la deuxième croisade.
 repere: 1279 — Saint-Maximin revendique les reliques de la sainte.
 repere: 1979 — Inscription au patrimoine mondial.
-voir: hauts-lieux-energetiques, bernard-de-clairvaux, saint-jacques-de-compostelle, legende-doree, geobiologie
+voir: hauts-lieux-energetiques, bernard-de-clairvaux, saint-jacques-de-compostelle, legende-doree, geobiologie, marie-madeleine, saint-maximin

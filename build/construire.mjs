@@ -33,6 +33,8 @@
  *                                   paragraphes, « // » deux vers, « (…) » marque
  *                                   une coupure. Toujours suivi de sa source :
  *     source: René Guénon, *Le Théosophisme*, 1921, chap. I | gallica bd6t5924664v | ws Titre
+ *                                   (« wsen Title » : Wikisource en anglais, pour un original
+ *                                   que rien ne traduit librement, comme les poèmes de Kipling)
  *                                   la référence (le titre en italique), puis des
  *                                   liens comme dans build/liens.txt, sans libellé
  *     voir: id, id                  articles voisins
@@ -73,6 +75,9 @@ const CATEGORIES = [
   { id: 'societes',   nom: 'Ordres et sociétés' },
   { id: 'maconnerie', nom: 'Franc-maçonnerie' },
   { id: 'symboles',   nom: 'Symboles' },
+  { id: 'bestiaire',  nom: 'Animaux fantastiques et symboliques' },
+  { id: 'egypte',     nom: 'Égyptologie' },
+  { id: 'codes',      nom: 'Codes secrets' },
   { id: 'nombres',    nom: 'Symbolisme des nombres' },
   { id: 'astronomie', nom: 'Astronomie' },
   { id: 'pierres',    nom: 'Pierres et lieux d’énergie' },
@@ -91,7 +96,7 @@ const PORTES = ['esoterisme', 'hermetisme', 'alchimie', 'kabbale', 'gnose', 'ros
  * nom propre. Les catégories de noms communs passent en minuscule, sauf les
  * noms propres de la liste ci-dessous (et les arcanes, qui sont des titres). */
 const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles', 'maconnerie',
-  'nombres', 'astronomie', 'pierres', 'echecs']);
+  'nombres', 'astronomie', 'pierres', 'echecs', 'bestiaire', 'egypte', 'codes']);
 const NOMS_PROPRES = new Set([
   'atlantide', 'lemurie', 'agartha', 'sophia', 'shekhina', 'ein-sof', 'adam-kadmon', 'keter', 'hokhmah', 'binah',
   'daat', 'hesed', 'gueboura', 'tiferet', 'netsah', 'hod', 'yesod', 'malkhout', 'shem-ha-meforash', 'grand-oeuvre',
@@ -109,6 +114,11 @@ const NOMS_PROPRES = new Set([
   // les astres, les lieux et les œuvres des rubriques nouvelles
   'grande-ourse', 'petite-ourse', 'orion', 'pleiades', 'sirius', 'voie-lactee', 'ophiuchus',
   'sedona', 'avebury', 'melencolia', 'les-bergers-d-arcadie',
+  // l'Égypte, ses dieux et ses livres ; les codes et les bêtes qui portent un nom propre
+  'isis', 'osiris', 'horus', 'thot', 'anubis', 'ra', 'seth', 'maat', 'hathor', 'amon', 'ptah', 'serapis', 'apophis',
+  'enneade', 'ogdoade', 'livre-des-morts', 'textes-des-pyramides', 'enigma', 'codex-copiale', 'le-scarabee-d-or',
+  'les-hommes-dansants', 'grand-chiffre', 'pegase', 'cerbere', 'minotaure', 'tarasque', 'leviathan', 'behemoth',
+  'quinotaure', 'simurgh', 'asmodee', 'toison-d-or', 'neuf-preux', 'sacre-coeur',
 ]);
 function enMinuscule(a) {
   return CATEGORIES_COMMUNES.has(a.cat) && !NOMS_PROPRES.has(a.id) && !a.id.startsWith('arcane-')
@@ -351,6 +361,8 @@ const SORTES = {
   en: (v) => ['Wikipedia (en anglais)', v, 'https://en.wikipedia.org/wiki/' + titreUrl(v)],
   ws: (v, l) => ['Wikisource', l || (/^Auteur:/.test(v) ? 'les textes de l’auteur' : v + ', texte intégral'),
     'https://fr.wikisource.org/wiki/' + titreUrl(v)],
+  // Wikisource en anglais : le texte original, quand l'œuvre n'a pas de traduction libre
+  wsen: (v, l) => ['Wikisource (en anglais)', l || v + ', texte original', 'https://en.wikisource.org/wiki/' + titreUrl(v)],
   bnf: (v) => ['BnF', 'notice, œuvres et éditions', 'https://data.bnf.fr/ark:/12148/cb' + v],
   gallica: (v, l) => ['Gallica (BnF)', l, 'https://gallica.bnf.fr/ark:/12148/' + v],
   ia: (v, l) => ['Internet Archive', l, 'https://archive.org/details/' + v],
@@ -380,7 +392,7 @@ function lireLien(morceau, lieu, defauts) {
   let valeur = brut.trim();
   let libelle = '';
   const k = valeur.indexOf(' = ');
-  if (k >= 0 && (AVEC_LIBELLE.has(sorte) || sorte === 'ws')) {
+  if (k >= 0 && (AVEC_LIBELLE.has(sorte) || sorte === 'ws' || sorte === 'wsen')) {
     libelle = valeur.slice(k + 3).trim();
     valeur = valeur.slice(0, k).trim();
   } else if (AVEC_LIBELLE.has(sorte) && !(defauts && defauts[sorte])) {
@@ -393,7 +405,7 @@ function lireLien(morceau, lieu, defauts) {
 
 /* Les liens de la source d'un extrait mènent au document lui-même : d'où
  * leur libellé par défaut. */
-const LIBELLES_SOURCE = { gallica: 'le livre numérisé', ia: 'le livre numérisé', ws: 'le texte transcrit' };
+const LIBELLES_SOURCE = { gallica: 'le livre numérisé', ia: 'le livre numérisé', ws: 'le texte transcrit', wsen: 'le texte original transcrit' };
 
 function lireLiens(ids) {
   const fichier = path.join(ICI, 'liens.txt');

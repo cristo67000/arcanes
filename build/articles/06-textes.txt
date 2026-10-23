@@ -56,7 +56,7 @@ an: 170
 def: Poème grec du IIe siècle, présenté comme une révélation divine, qui décrit une hiérarchie de puissances divines et les rites permettant à l'âme de remonter vers le Père.
 texte: Selon la tradition, les *Oracles* ont été obtenus sous Marc Aurèle par Julien le Théurge, qui les aurait reçus des dieux par l'intermédiaire de l'âme de Platon, avec l'aide de son père, Julien le Chaldéen. Ils ne nous sont parvenus qu'en fragments cités par les philosophes. On y trouve un Père suprême, un Intellect, une déesse Hécate qui unit les mondes, et l'idée que l'âme, revêtue d'un « véhicule » lumineux, peut être purifiée par des rites.
 texte: Les néoplatoniciens, de [[porphyre]] à [[proclus]], les tiennent pour une Écriture sacrée et y fondent la [[theurgie]]. Au XVe siècle, [[gemiste-plethon|Gémiste Pléthon]] les attribue à [[zoroastre]] et à ses mages, et la Renaissance les lit comme l'un des plus anciens témoins de la [[prisca-theologia]].
-voir: theurgie, neoplatonisme, zoroastre, prisca-theologia
+voir: theurgie, neoplatonisme, zoroastre, prisca-theologia, hecate
 
 @ papyrus-grecs-magiques
 cat: textes
@@ -78,7 +78,7 @@ dates: copiés au IVe siècle ; découverts en 1945
 def: Ensemble de treize volumes coptes du IVe siècle, découverts en 1945 en Haute-Égypte, qui ont révélé les écrits des gnostiques eux-mêmes.
 texte: En décembre 1945, près de la ville de Nag Hammadi, un paysan découvre dans une jarre enterrée une série de codex reliés de cuir. Ils contiennent une cinquantaine de textes traduits du grec en copte : l'*Évangile selon Thomas*, recueil de paroles de Jésus, l'*Évangile de Philippe*, l'*Apocryphon de Jean*, l'*Évangile de vérité*, mais aussi un extrait de la *République* de Platon et des traités [[hermetisme|hermétiques]].
 texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich.
-voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius
+voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius, marie-madeleine, ogdoade
 
 @ pistis-sophia
 cat: textes
@@ -88,7 +88,7 @@ an: 300
 def: Écrit gnostique copte où Jésus ressuscité révèle à ses disciples la chute et la repentance de Sophia, puissance divine égarée dans le chaos.
 texte: Le texte est conservé dans un manuscrit copte acquis au XVIIIe siècle par un médecin londonien, Anthony Askew, et entré au British Museum en 1785. Pendant onze ans après la Résurrection, Jésus instruit ses disciples, et notamment Marie-Madeleine, interlocutrice privilégiée ; il raconte comment Pistis Sophia, « Foi-Sagesse », trompée par une fausse lumière, est tombée dans les régions inférieures, puis sauvée après treize repentances.
 texte: Longtemps l'un des rares écrits gnostiques connus de première main, il fascine les occultistes de la fin du XIXe siècle : il est traduit en français en 1895 et en anglais en 1896 par un secrétaire de [[helena-blavatsky]].
-voir: gnosticisme, sophia, eon, plerome, bibliotheque-de-nag-hammadi
+voir: gnosticisme, sophia, eon, plerome, bibliotheque-de-nag-hammadi, marie-madeleine
 
 @ livre-d-henoch
 cat: textes
@@ -180,7 +180,7 @@ dates: manuscrits des XIVe – XVIIIe siècles
 def: Grimoire attribué au roi Salomon, connu par des manuscrits de la fin du Moyen Âge, qui décrit les purifications, les instruments et les pentacles nécessaires pour invoquer les esprits.
 texte: La *Clavicule* — la « petite clé » — prescrit au magicien un long temps de préparation : jeûnes, prières, bains, vêtements de lin, choix du jour et de l'heure planétaires. Elle décrit la fabrication du couteau, de la baguette, du parchemin vierge, le tracé du [[cercle-magique]] et des dizaines de [[pentacle|pentacles]] aux figures et aux inscriptions hébraïques, chacun consacré à une planète et à un effet.
 texte: Des versions latines, italiennes et françaises circulent du XVe au XVIIIe siècle et s'enrichissent sans cesse. [[samuel-liddell-mathers]] en publie une traduction anglaise en 1889, qui fixe pour longtemps l'image du [[grimoire]] classique.
-voir: grimoire, salomon, pentacle, cercle-magique, lemegeton, instruments-magiques
+voir: grimoire, salomon, pentacle, cercle-magique, lemegeton, instruments-magiques, asmodee
 
 @ lemegeton
 cat: textes
@@ -191,7 +191,7 @@ dates: manuscrits du XVIIe siècle
 def: Grimoire anglais du XVIIe siècle en cinq parties, dont la première, la Goétie, décrit soixante-douze démons et la manière de les contraindre.
 texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *[[ars-notoria|Art notoire]]* censé donner la science par la prière.
 texte: La liste des démons rejoint celle que le médecin [[jean-wier|Jean Wier]] avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
-voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau, soixante-douze
+voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau, soixante-douze, asmodee
 
 @ livre-d-abramelin
 cat: textes
@@ -271,7 +271,7 @@ an: 1499
 def: Traité de Jean Trithème, écrit vers 1499, qui semble enseigner la transmission de messages par des anges, mais cache en réalité des méthodes de chiffrement.
 texte: Les deux premiers livres décrivent des invocations à des esprits porteurs de messages ; mais leurs formules, examinées de près, sont elles-mêmes des textes chiffrés selon des règles simples, et le traité enseigne en fait l'art de cacher un message dans un autre — d'où le mot « stéganographie » qui désigne aujourd'hui cette technique. Le troisième livre, consacré aux esprits des planètes et aux tables de nombres, a longtemps passé pour purement magique, jusqu'à ce que des chercheurs y découvrent dans les années 1990 un autre système de chiffrement.
 texte: Imprimé en 1606, le livre est mis à l'Index en 1609 ; il a fasciné [[john-dee]], qui en recopia le manuscrit.
-voir: jean-tritheme, anges, john-dee
+voir: jean-tritheme, anges, john-dee, steganographie, cryptographie
 
 @ de-occulta-philosophia
 cat: textes
@@ -281,7 +281,7 @@ an: 1533
 def: Somme de la magie savante de la Renaissance, publiée par Corneille Agrippa en 1533, qui ordonne en trois livres la magie naturelle, céleste et cérémonielle.
 texte: Le premier livre traite du monde élémentaire : les quatre éléments, les vertus occultes des choses, les [[sympathie-universelle|sympathies]], les [[signatures]], les fascinations et les philtres. Le deuxième, du monde céleste : les nombres et leur symbolique, les [[carre-magique|carrés magiques]] des planètes, la musique, les images astrologiques. Le troisième, du monde intellectuel : la religion, les noms divins, la [[kabbale]], les anges et les démons, les rites de purification.
 texte: Abondamment pillé, le traité a fourni une grande partie du contenu des [[grimoire|grimoires]] ultérieurs, de la [[golden-dawn|Golden Dawn]] et de la magie moderne. Un *Quatrième Livre* apocryphe, publié en 1559, y ajoute des procédés de conjuration.
-voir: cornelius-agrippa, philosophie-occulte, carre-magique, magie-naturelle, talisman
+voir: cornelius-agrippa, philosophie-occulte, carre-magique, magie-naturelle, talisman, alphabets-magiques
 
 @ monas-hieroglyphica
 cat: textes
@@ -352,7 +352,7 @@ an: 1617
 def: Livre d'emblèmes alchimiques de Michael Maier publié en 1617, où chacune des cinquante gravures s'accompagne d'une épigramme, d'un commentaire et d'une fugue musicale.
 texte: Le titre renvoie au mythe d'Atalante, la coureuse que le prétendant Hippomène vainc en laissant tomber trois pommes d'or : Atalante figure le mercure volatil, Hippomène le soufre qui le fixe, la pomme d'or la matière qui les unit. Les gravures, de l'atelier de Matthäus Merian, montrent un enfant nourri par la Terre, un hermaphrodite couché dans le feu, un loup qui dévore le roi, une femme qui lave le linge.
 texte: Les cinquante fugues à trois voix — Atalante, Hippomène et la pomme — sont l'une des premières tentatives d'unir musique et image dans un livre. C'est un sommet de l'art des [[emblemes]].
-voir: michael-maier, emblemes, alchimie, mercure-philosophique
+voir: michael-maier, emblemes, alchimie, mercure-philosophique, crapaud
 
 @ aurore-naissante
 cat: textes
@@ -377,12 +377,18 @@ voir: emblemes, grand-oeuvre, cauda-pavonis, nigredo, rubedo
 @ mutus-liber
 cat: textes
 nom: Mutus liber
-alias: Livre muet, Mutus Liber, Altus
+alias: Livre muet, Mutus Liber, Altus, Isaac Baulot, Oculatus abis, Ora lege lege lege relege labora et invenies
 an: 1677
 def: Livre alchimique publié à La Rochelle en 1677, composé de quinze planches presque sans texte, qui montrent un couple accomplissant ensemble l'œuvre.
-texte: Le titre dit l'essentiel : le « livre muet » enseigne par les seules images. On y voit un homme et une femme recueillir la rosée de mai avec des draps tendus dans un pré, la distiller, la chauffer, et répéter patiemment les opérations, sous le regard de figures célestes. La première planche montre un dormeur et deux anges sonnant de la trompette sur une échelle, rappel du songe de Jacob.
-texte: Signé du pseudonyme « Altus », le livre est attribué à un apothicaire rochelais, Isaac Baulot. Il a nourri l'idée d'une alchimie pratiquée en couple et de la [[rosee|rosée]] comme matière de l'œuvre.
-voir: rosee, alchimie, emblemes, echelle-de-jacob
+texte: Le titre dit l'essentiel : le « livre muet » enseigne par les seules images. Sa page de titre latine annonce un livre « dans lequel toute la philosophie hermétique est néanmoins peinte en figures hiéroglyphiques », consacré à Dieu et dédié aux seuls fils de l'art, par un auteur « dont le nom est Altus ». La première planche montre un dormeur couché sous une échelle où deux anges sonnent de la trompette, rappel du songe de Jacob et de l'[[echelle-de-jacob|échelle]] par laquelle l'esprit descend. On y voit ensuite un homme et une femme recueillir la [[rosee|rosée]] de printemps avec des draps tendus dans un pré, sous les signes du Bélier et du Taureau, la tordre dans des bassines, la distiller, la chauffer et répéter patiemment les opérations, sous le regard de figures célestes, du Soleil, de la Lune et de Mercure.
+texte: L'avant-dernière planche porte au bas, entre l'homme et la femme, la devise *Ora, lege, lege, lege, relege, labora et invenies* : « Prie, lis, lis, lis, relis, travaille et tu trouveras ». La dernière montre un personnage enlevé au ciel par deux anges, tandis que les deux opérateurs, à genoux, tiennent un ruban où se lit *Oculatus abis*, « tu t'en vas clairvoyant » : l'œuvre est accomplie. Imprimé par Pierre Savouret en quelques dizaines d'exemplaires, le livre a été réédité dès 1702 à Genève, avec des planches regravées, dans la *Bibliotheca chemica curiosa* de Jean-Jacques Manget.
+texte: Le privilège nomme un certain Jacob Saulat, sieur des Marez, pseudonyme lui aussi ; l'historien rochelais Jean Flouret a montré que l'auteur était un apothicaire protestant de la ville, Isaac Baulot, aidé peut-être de médecins de son entourage. Le livre a nourri l'idée d'une [[alchimie]] pratiquée en couple, la « voie de la rosée », et de nombreux commentaires : celui de [[pierre-dujols|Pierre Dujols]], sous le nom de Magophon (1914), ceux d'[[eugene-canseliet|Eugène Canseliet]] (1966) et de Serge Hutin (1967). [[carl-gustav-jung|Carl Gustav Jung]], qui en possédait un exemplaire de 1677, en a reproduit des planches dans *Psychologie et alchimie*.
+repere: 1677 — Publication à La Rochelle, chez Pierre Savouret.
+repere: 1702 — Réédition dans la *Bibliotheca chemica curiosa* de Manget, à Genève.
+repere: 1914 — Édition de Nourry, avec l'*Hypotypose* de Magophon.
+repere: 1944 — Jung en reproduit des planches dans *Psychologie et alchimie*.
+repere: 1966 — Édition commentée par Eugène Canseliet.
+voir: rosee, alchimie, emblemes, echelle-de-jacob, pierre-dujols, eugene-canseliet, voie-humide, carl-gustav-jung
 
 @ kabbala-denudata
 cat: textes
@@ -474,7 +480,7 @@ an: 1877
 def: Premier grand ouvrage d'Helena Blavatsky, paru en 1877, qui oppose au matérialisme scientifique et au christianisme des Églises la sagesse occulte des Anciens.
 texte: En deux volumes, *Science* et *Théologie*, [[helena-blavatsky|Blavatsky]] rassemble une masse de citations sur la magie, les phénomènes spirites, la kabbale, les religions de l'Inde et de l'Égypte, pour soutenir qu'une même doctrine secrète, connue des initiés de tous les temps, explique ce que la science moderne ignore.
 texte: Le premier tirage s'épuise en dix jours. Des critiques ont relevé dès le XIXe siècle les nombreux emprunts non signalés à d'autres auteurs.
-voir: helena-blavatsky, theosophie, doctrine-secrete
+voir: helena-blavatsky, theosophie, doctrine-secrete, isis
 
 @ doctrine-secrete
 cat: textes
@@ -514,7 +520,7 @@ an: 1904
 def: Texte fondateur de Thelema, dicté selon Aleister Crowley par une entité nommée Aiwass au Caire en avril 1904.
 texte: Pendant trois jours, du 8 au 10 avril 1904, [[aleister-crowley]] dit avoir écrit sous la dictée d'une voix, chaque jour un chapitre, au nom de trois divinités égyptiennes : Nuit, l'espace infini ; Hadit, le point au centre de chaque être ; Ra-Hoor-Khuit, le dieu guerrier du nouvel éon. L'épisode est lié à une stèle funéraire égyptienne du musée de Boulaq, numérotée 666, que sa femme Rose lui avait désignée.
 texte: Le livre proclame : « Fais ce que tu voudras sera le tout de la Loi » et « Tout homme et toute femme est une étoile ». Crowley mit des années à l'accepter avant d'en faire le cœur de sa religion, [[thelema|Thelema]].
-voir: thelema, aleister-crowley, oto, egyptosophie
+voir: thelema, aleister-crowley, oto, egyptosophie, horus
 
 @ mystere-des-cathedrales
 cat: textes
@@ -532,7 +538,7 @@ extrait: La plus forte impression de notre prime jeunesse, — nous avions sept 
 source: Fulcanelli, *Le Mystère des cathédrales*, Jean Schemit, 1926, chap. I (texte de la première édition) | bnf 11903722t
 extrait: Pour nous, art gothique n'est qu'une déformation orthographique du mot argotique, dont l'assonance est parfaite, conformément à la loi phonétique qui régit, dans toutes les langues et sans tenir compte de l'orthographe, la cabale traditionnelle. La cathédrale est une œuvre d'art goth ou d'argot. Or, les dictionnaires définissent l'argot comme étant « un langage particulier à tous les individus qui ont intérêt à se communiquer leurs pensées sans être compris de ceux qui les entourent ». C'est donc bien une cabale parlée. Les argotiers, ceux qui utilisent ce langage, sont descendants hermétiques des argo-nautes, lesquels montaient le navire Argo, parlaient la langue argotique, — notre langue verte, — en voguant vers les rives fortunées de Colchos pour y conquérir la fameuse Toison d'or.
 source: Fulcanelli, *Le Mystère des cathédrales*, Jean Schemit, 1926, chap. III (texte de la première édition) | bnf 11903722t
-voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre, les-demeures-philosophales, notre-dame-de-paris, langue-des-oiseaux, croix-d-hendaye
+voir: fulcanelli, eugene-canseliet, alchimie, grand-oeuvre, les-demeures-philosophales, notre-dame-de-paris, langue-des-oiseaux, croix-d-hendaye, argot, gothique, toison-d-or, art-gothique
 
 @ regne-de-la-quantite
 cat: textes
@@ -552,7 +558,7 @@ an: 1960
 def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle science, ésotérisme et histoire secrète, et lança en France la vogue du « réalisme fantastique ».
 texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
 texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
-voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril
+voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril, anciens-astronautes
 
 # ── Textes ajoutés en 1.2 ───────────────────────────────────────────────────
 
@@ -584,7 +590,7 @@ texte: [[edward-bulwer-lytton]], homme politique et romancier très lu, s'intér
 repere: 1842 — Publication de *Zanoni*.
 repere: 1854 — Bulwer-Lytton reçoit Éliphas Lévi à Londres.
 repere: 1871 — Bulwer-Lytton publie *La Race future*, qui invente la force du « vril ».
-voir: edward-bulwer-lytton, rose-croix, initiation, elixir-de-longue-vie, maitres-de-sagesse
+voir: edward-bulwer-lytton, rose-croix, initiation, elixir-de-longue-vie, maitres-de-sagesse, roman-gothique
 
 @ aradia
 cat: textes

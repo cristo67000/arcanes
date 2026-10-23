@@ -12,7 +12,7 @@ texte: Galaad apparaît dans la *Quête du saint Graal*, roman en prose écrit v
 texte: Là où Perceval apprend par ses erreurs, Galaad est l'élu dès sa naissance : il incarne la chevalerie céleste opposée à la chevalerie terrestre, la grâce plutôt que l'effort. Les poètes victoriens, comme Tennyson, et les peintres préraphaélites en ont fait l'image de l'idéal chaste ; les ésotéristes y voient le terme de la quête initiatique.
 repere: vers 1225 — *La Quête du saint Graal*, en prose.
 repere: 1485 — Thomas Malory, *Le Morte d'Arthur*.
-voir: graal, perceval, joseph-d-arimathie, roi-pecheur, conte-du-graal
+voir: graal, perceval, joseph-d-arimathie, roi-pecheur, conte-du-graal, roi-arthur
 
 @ perceval
 cat: figures
@@ -25,7 +25,7 @@ texte: Dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram von E
 repere: vers 1181 — Chrétien de Troyes, *Perceval ou le Conte du Graal*.
 repere: vers 1210 — Wolfram von Eschenbach, *Parzival*.
 repere: 1882 — Wagner, *Parsifal*.
-voir: graal, conte-du-graal, parzival, roi-pecheur, galaad, kyot
+voir: graal, conte-du-graal, parzival, roi-pecheur, galaad, kyot, roi-arthur
 
 @ roi-pecheur
 cat: figures
@@ -37,7 +37,7 @@ texte: Chez [[chretien-de-troyes|Chrétien de Troyes]], le Roi Pêcheur a été 
 texte: En 1920, Jessie Weston, dans *Du rite au roman*, rapproche le roi malade et sa terre stérile des rites de fertilité de l'Antiquité ; T. S. Eliot s'en inspire pour *La Terre vaine* (1922). [[rene-guenon|René Guénon]] et [[julius-evola|Julius Evola]] y ont vu l'image d'une tradition blessée, qui attend celui qui saura la rétablir.
 repere: vers 1181 — Le Roi Pêcheur dans le *Conte du Graal*.
 repere: 1920 — Jessie Weston, *From Ritual to Romance*.
-voir: graal, perceval, conte-du-graal, sainte-lance, galaad
+voir: graal, perceval, conte-du-graal, sainte-lance, galaad, poisson
 
 @ joseph-d-arimathie
 cat: figures
@@ -49,7 +49,7 @@ texte: Les quatre Évangiles le présentent comme un homme riche, membre du cons
 texte: Au XIIIe siècle, les moines de [[glastonbury|Glastonbury]] le disent venu en Grande-Bretagne fonder leur abbaye ; son bâton, planté sur une colline, aurait donné l'aubépine qui fleurit à Noël. Une tradition anglaise plus tardive veut même qu'il ait amené Jésus enfant sur l'île, ce qu'évoque le poème de [[william-blake|William Blake]] devenu l'hymne *Jerusalem*.
 repere: vers 1200 — Robert de Boron, *Joseph d'Arimathie*.
 repere: XIIIe siècle — Les moines de Glastonbury revendiquent sa venue.
-voir: graal, glastonbury, galaad, longin, conte-du-graal
+voir: graal, glastonbury, galaad, longin, conte-du-graal, fecamp
 
 @ kyot
 cat: figures
@@ -73,7 +73,7 @@ texte: La légende du chevalier au cygne circule au XIIe siècle et s'attache au
 texte: L'opéra de [[richard-wagner|Wagner]] (1850) a rendu le personnage célèbre ; [[louis-ii-de-baviere|Louis II de Bavière]] s'identifiait à lui et fit peindre sa légende aux murs de Neuschwanstein. Les interprètes symbolistes y voient l'envoyé d'un monde supérieur qui ne peut demeurer parmi ceux qui exigent des preuves.
 repere: vers 1210 — Loherangrin, fils de Parzival, dans le poème de Wolfram.
 repere: 1850 — Création de *Lohengrin* à Weimar.
-voir: parzival, perceval, richard-wagner, louis-ii-de-baviere, graal
+voir: parzival, perceval, richard-wagner, louis-ii-de-baviere, graal, cygne, godefroy-de-bouillon
 
 @ merlin
 cat: figures
@@ -85,7 +85,7 @@ texte: Le clerc Geoffroy de Monmouth popularise vers 1136 les *Prophéties de Me
 texte: Les romans en prose le montrent séduit par Viviane, la Dame du Lac, à qui il enseigne ses sortilèges et qui l'enferme pour toujours dans une prison d'air, à [[broceliande|Brocéliande]]. Figure du sage, du magicien et du druide, il a été revendiqué par les néo-druides, les romantiques et le [[new-age|New Age]], et l'on montre encore son « tombeau » dans la forêt de Paimpont.
 repere: vers 1136 — Geoffroy de Monmouth, *Histoire des rois de Bretagne*.
 repere: vers 1200 — Robert de Boron, *Merlin*.
-voir: broceliande, stonehenge, druidisme, graal, melusine
+voir: broceliande, stonehenge, druidisme, graal, melusine, jeanne-d-arc, roi-arthur, cerf
 
 @ melusine
 cat: figures
@@ -97,7 +97,7 @@ texte: Le *Roman de Mélusine*, écrit en 1393 par Jean d'Arras pour le duc Jean
 texte: La légende a servi la gloire de la maison de Lusignan, rois de Chypre et de Jérusalem. [[paracelse|Paracelse]] appelle « mélusines » les esprits des eaux, [[elementaux|élémentaux]] qui cherchent à s'unir aux hommes pour obtenir une âme ; les alchimistes l'ont représentée en sirène double, et [[carl-gustav-jung|Jung]] l'a lue comme une figure de l'anima.
 repere: 1393 — Jean d'Arras, *Roman de Mélusine*.
 repere: vers 1401 — Le roman en vers de Coudrette.
-voir: lusignan, elementaux, paracelse, serpent, dragon
+voir: lusignan, elementaux, paracelse, serpent, dragon, vouivre, sirene
 
 @ pretre-jean
 cat: figures
@@ -121,7 +121,7 @@ texte: Dans l'opéra de [[wolfgang-amadeus-mozart|Mozart]] et de son librettiste
 texte: Les commentateurs ont reconnu dans *[[la-flute-enchantee|La Flûte enchantée]]* le rituel maçonnique : le chiffre trois, les trois accords solennels, les épreuves des éléments, empruntées au roman *Séthos* de l'abbé Terrasson (1731), qui imaginait les mystères égyptiens. On a souvent vu dans Sarastro un portrait du savant Ignaz von Born, maître de la loge viennoise « À la vraie concorde ».
 repere: 1731 — L'abbé Terrasson imagine l'initiation égyptienne dans *Séthos*.
 repere: 1791 — Création de *La Flûte enchantée* à Vienne.
-voir: la-flute-enchantee, wolfgang-amadeus-mozart, mysteres-antiques, egyptosophie, zoroastre, vienne
+voir: la-flute-enchantee, wolfgang-amadeus-mozart, mysteres-antiques, egyptosophie, zoroastre, vienne, isis
 
 @ faust
 cat: figures
@@ -137,7 +137,7 @@ repere: 1808 — Goethe, *Faust*, première partie.
 repere: 1828 — Traduction de Gérard de Nerval.
 extrait: Philosophie, jurisprudence, médecine, et toi aussi, malheureuse théologie ! je vous ai donc étudiées avec grand'peine, et maintenant me voici, pauvre fou, tout aussi sage que devant. (…) Il ne me reste plus qu'à me jeter dans la magie. Oh ! si la force de l'esprit et de la parole me dévoilait les secrets qui me restent à connaître, et que je ne fusse plus obligé de dire péniblement ce que je ne sais pas ; si enfin je pouvais connaître tout ce que le monde cache en lui-même, et, sans m'attacher davantage à des mots inutiles, voir ce que la nature contient de forces et de semences éternelles !
 source: Goethe, *Faust*, première partie, « Nuit », trad. Gérard de Nerval, 1828 | ws Faust (Goethe, trad. Nerval, 1828)
-voir: johann-wolfgang-von-goethe, walpurgis, magie, gerard-de-nerval, demonologie
+voir: johann-wolfgang-von-goethe, walpurgis, magie, gerard-de-nerval, demonologie, chien
 
 @ longin
 cat: figures
@@ -166,4 +166,4 @@ repere: 1909 — *L'Aiguille creuse*.
 repere: 1924 — *La Comtesse de Cagliostro*.
 extrait: L'aiguille d'Étretat est creuse ! ¶ Phénomène naturel ? Excavation produite par des cataclysmes intérieurs ou par l'effort insensible de la mer qui bouillonne, de la pluie qui s'infiltre ? Ou bien œuvre surhumaine, exécutée par des humains, Gaulois, Celtes, hommes préhistoriques ? (…) ¶ Pour l'avoir connu, ce mot, César peut asservir la Gaule. Pour l'avoir connu, les Normands s'imposent au pays, et de là, plus tard, adossés à ce point d'appui, conquièrent l'île voisine, conquièrent la Sicile, conquièrent l'Orient, conquièrent le Nouveau-Monde ! ¶ Maîtres du secret, les rois d'Angleterre dominent la France, l'humilient, la dépècent, se font couronner rois à Paris. Ils le perdent, et c'est la déroute.
 source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
-voir: maurice-leblanc, etretat, rouen, cagliostro, rennes-le-chateau
+voir: maurice-leblanc, etretat, rouen, cagliostro, rennes-le-chateau, abbayes-normandes, fecamp

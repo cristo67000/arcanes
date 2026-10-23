@@ -37,6 +37,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-societes { --cc: var(--c-societes); } .cat-maconnerie { --cc: var(--c-maconnerie); } .cat-symboles { --cc: var(--c-symboles); }
 .cat-nombres { --cc: var(--c-nombres); } .cat-astronomie { --cc: var(--c-astronomie); } .cat-pierres { --cc: var(--c-pierres); }
 .cat-echecs { --cc: var(--c-echecs); } .cat-lieux { --cc: var(--c-lieux); } .cat-perso { --cc: var(--c-perso); }
+.cat-bestiaire { --cc: var(--c-bestiaire); } .cat-egypte { --cc: var(--c-egypte); } .cat-codes { --cc: var(--c-codes); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));

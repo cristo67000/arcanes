@@ -972,3 +972,213 @@ bayreuth: wp Festival de Bayreuth
 etretat: wp Étretat
 lusignan: wp Château de Lusignan
 vezelay: wp Basilique Sainte-Marie-Madeleine de Vézelay
+
+# Version 1.5 : Égyptologie, codes secrets, bestiaire, figures et lieux nouveaux.
+orval: wp Abbaye Notre-Dame d'Orval
+jumieges: wp Abbaye de Jumièges
+saint-wandrille: wp Abbaye Saint-Wandrille de Fontenelle
+abbayes-normandes: wp Liste des abbayes de Normandie
+abeille: wp Abeille (héraldique)
+abydos: -
+acrostiche: wp Acrostiche
+agneau: wp Agnus Dei
+aigle: wp Aigle (héraldique)
+akhenaton: wp Akhenaton
+alan-turing: wp Alan Turing
+alphabet-maconnique: wp Chiffre des francs-maçons
+alphabets-magiques: wp Alphabet thébain
+amarna: wp Amarna
+amon: wp Amon
+anagramme: wp Anagramme
+analyse-des-frequences: wp Analyse fréquentielle
+anciens-astronautes: wp Théorie des anciens astronautes
+antoni-gaudi: wp Antoni Gaudí
+anubis: wp Anubis
+apophis: wp Apophis
+arcadie: wp Arcadie
+argot: wp Argot
+argot-des-batisseurs: wp Marque de tâcheron
+art-gothique: wp Architecture gothique
+arthur-conan-doyle: wp Arthur Conan Doyle | ws Auteur:Arthur Conan Doyle
+asmodee: wp Asmodée
+atbash: wp Atbash
+auguste-mariette: wp Auguste Mariette
+axis-mundi: wp Axis mundi
+behemoth: wp Béhémoth
+belier-symbole: wp Bélier
+bestiaire: wp Bestiaire
+blaise-de-vigenere: wp Blaise de Vigenère
+bletchley-park: wp Bletchley Park
+bouillon: wp Château de Bouillon
+carre-de-polybe: wp Carré de Polybe
+centaure: wp Centaure
+cerbere: wp Cerbère
+cerf: wp Cerf élaphe
+charles-baudelaire: wp Charles Baudelaire | ws Auteur:Charles Baudelaire
+chartres: wp Chartres
+chat: wp Chat
+chien: wp Chien dans la culture
+chiffre-adfgvx: wp Chiffre ADFGVX
+chiffre-de-bacon: wp Histoire de la cryptologie
+chiffre-de-cesar: wp Chiffrement par décalage
+chiffre-de-marie-stuart: wp Conspiration de Babington
+chiffre-de-vigenere: wp Chiffre de Vigenère
+chimere: wp Chimère (mythologie)
+chouette: wp Chouette d'Athéna
+codex-copiale: wp Code du Copiale
+colombe: wp Symboles de la paix
+coq: wp Coq gaulois
+corbeau: wp Corbeau dans la culture
+crapaud: wp Crapaud
+crata-repoa: wp Rites maçonniques égyptiens
+crop-circles: wp Cercle de culture
+cryptogrammes-de-beale: wp Chiffre de Beale
+cryptogrammes-de-jules-verne: wp Voyage au centre de la Terre | ws Voyage au centre de la Terre
+cryptographie: wp Cryptographie
+culte-d-isis: wp Isis
+cygne: wp Chevalier au cygne
+da-vinci-code: wp Da Vinci Code
+dagobert-ii: wp Dagobert II
+dauphin: wp Dauphin (héraldique)
+demeter: wp Déméter
+disque-d-alberti: wp Chiffre d'Alberti
+disque-de-phaistos: wp Disque de Phaistos
+djed: wp Hiéroglyphe égyptien R11
+dodecaedre: wp Dodécaèdre
+domremy: wp Domrémy-la-Pucelle
+ecole-de-chartres: wp École de Chartres
+edgar-allan-poe: wp Edgar Allan Poe | ws Auteur:Edgar Allan Poe
+saint-sulpice: wp Église Saint-Sulpice de Paris
+egyptologie: wp Égyptologie
+egyptomanie: wp Égyptomanie
+elephant: wp Éléphant dans l'art
+enigma: wp Enigma (machine)
+enneade: wp Ennéade
+erich-von-daniken: wp Erich von Däniken
+escarboucle: en Carbuncle (gemstone)
+expedition-d-egypte: wp Campagne d'Égypte
+faucon: wp Faucon
+fecamp: wp Abbaye de la Trinité de Fécamp
+francis-bacon: wp Francis Bacon (philosophe) | ws Auteur:Francis Bacon
+francois-villon: wp François Villon | ws Auteur:François Villon
+frederic-mistral: wp Frédéric Mistral | ws Auteur:Frédéric Mistral
+gargouille: wp Gargouille
+gaston-leroux: wp Gaston Leroux | ws Auteur:Gaston Leroux
+gaston-maspero: wp Gaston Maspero | ws Auteur:Gaston Maspero
+gilles-de-rais: wp Gilles de Rais
+godefroy-de-bouillon: wp Godefroy de Bouillon
+gorgone: wp Gorgones
+gothique: wp Art gothique
+grand-chiffre: wp Grand Chiffre
+griffon: wp Griffon (mythologie)
+grille-de-cardan: wp Grille de Cardan
+gustave-flaubert: wp Gustave Flaubert | ws Auteur:Gustave Flaubert
+harpie: wp Harpies
+hathor: wp Hathor
+hecate: wp Hécate
+hieron-du-val-d-or: en Hiéron du Val d'Or
+horapollon: wp Horapollon
+horus: wp Horus
+hydre: wp Hydre de Lerne
+ibis: wp Ibis sacré
+ignatius-donnelly: wp Ignatius Donnelly
+oeil-d-horus: wp Œil oudjat
+imhotep: wp Imhotep
+inscription-de-shugborough: wp Shugborough Hall
+isis: wp Isis
+jean-francois-champollion: wp Jean-François Champollion | ws Auteur:Jean-François Champollion
+jeanne-d-arc: wp Jeanne d'Arc | ws Auteur:Jeanne d’Arc
+jules-verne: wp Jules Verne | ws Auteur:Jules Verne
+ka-et-ba: wp Composition de l'être dans l'Égypte antique
+karnak: wp Karnak
+l-enigme-sacree: wp L'Énigme sacrée
+l-homme-qui-voulut-etre-roi: wp L'Homme qui voulut être roi (nouvelle) | ws L’Homme qui voulut être roi
+le-comte-de-gabalis: wp Le Comte de Gabalis
+le-roman-de-la-momie: wp Le Roman de la momie | ws Le Roman de la momie
+le-scarabee-d-or: wp Le Scarabée d'or | ws Histoires extraordinaires/Le Scarabée d’or
+leon-battista-alberti: wp Leon Battista Alberti | ws Auteur:Leon Battista Alberti
+les-hommes-dansants: wp Les Hommes dansants | ws La Résurrection de Sherlock Holmes/Les Danseurs
+leviathan: wp Léviathan
+nazca: wp Géoglyphes de Nazca
+lion-symbole: wp Lion (héraldique)
+livre-de-thot: wp Hermetica
+livre-des-morts: wp Livre des morts des Anciens Égyptiens | ws Le Livre des morts des anciens Égyptiens
+loup: wp Loup dans la culture
+loup-garou: wp Lycanthrope
+maat: wp Maât
+maconnerie-egyptienne: wp Rites maçonniques égyptiens
+malediction-du-pharaon: wp Malédiction du pharaon
+manticore: wp Manticore
+manuscrit-de-voynich: wp Manuscrit de Voynich
+marguerite-marie-alacoque: wp Marguerite-Marie Alacoque
+marie-madeleine: wp Marie Madeleine
+maurice-maeterlinck: wp Maurice Maeterlinck | ws Auteur:Maurice Maeterlinck
+merovingiens: wp Mérovingiens
+michel-scot: wp Michael Scot
+minotaure: wp Minotaure
+momie: wp Momie
+mont-saint-michel: wp Abbaye du Mont-Saint-Michel
+neuf-preux: wp Neuf Preux
+noeud-de-salomon: wp Nœud de Salomon
+obelisque: wp Obélisque
+ogdoade: wp Ogdoade d'Hermopolis
+opera-garnier: wp Opéra Garnier
+osiris: wp Osiris
+ours: wp Ours dans la culture
+palindrome: wp Palindrome
+pan: wp Pan
+paon: wp Paon
+papillon: wp Papillons dans l'art
+paray-le-monial: wp Paray-le-Monial
+parchemins-de-rennes-le-chateau: wp Affaire de Rennes-le-Château
+pegase: wp Pégase
+persephone: wp Perséphone
+pesee-du-coeur: wp Pesée des âmes
+philae: wp Philæ
+philippe-le-bel: wp Philippe IV le Bel
+physiologus: wp Physiologus
+pierre-de-rosette: wp Pierre de Rosette | ws Lettre à M. Dacier relative à l’alphabet des hiéroglyphes phonétiques
+pierre-dujols: -
+pline-l-ancien: wp Pline l'Ancien | ws Auteur:Pline l’Ancien
+plutarque: wp Plutarque | ws Auteur:Plutarque
+poisson: wp Ichthus
+pompei: wp Temple d'Isis de Pompéi
+prophetie-d-orval: wp Abbaye Notre-Dame d'Orval
+prophetie-de-saint-malachie: wp Prophétie de saint Malachie
+ptah: wp Ptah
+quinotaure: wp Quinotaure
+ra: wp Rê
+roi-arthur: wp Roi Arthur
+roman-gothique: wp Roman gothique
+roue-solaire: wp Croix solaire
+sacre-coeur: wp Sacré-Cœur de Jésus
+sagrada-familia: wp Sagrada Família
+saint-michel: wp Michel (archange)
+saint-maximin: wp Basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume
+sainte-baume: wp Massif de la Sainte-Baume
+saintes-maries-de-la-mer: wp Saintes-Maries-de-la-Mer
+salamandre: wp Salamandre (animal légendaire)
+saqqarah: wp Saqqarah
+scarabee: wp Bousier sacré
+scytale: wp Scytale
+serapis: wp Sarapis
+seth: wp Seth
+sethos: wp Jean Terrasson
+simurgh: wp Simorgh (mythologie)
+sirene: wp Sirène (mythologie grecque)
+solides-de-platon: wp Solide de Platon
+steganographie: wp Stéganographie
+stenay: wp Stenay
+table-isiaque: wp Table isiaque
+tarasque: wp Tarasque
+taureau-symbole: wp Culte du taureau
+edfou: wp Temple d'Horus (Edfou)
+louxor: wp Temple d'Amon (Louxor)
+textes-des-pyramides: wp Textes des pyramides
+thot: wp Thot
+toison-d-or: wp Toison d'or
+tortue: wp Tortue dans la culture
+vallee-des-rois: wp Vallée des Rois
+vierges-noires: wp Vierge noire
+vouivre: wp Vouivre
+walter-scott: wp Walter Scott | ws Auteur:Walter Scott

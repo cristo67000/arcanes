@@ -1,0 +1,320 @@
+# Égyptologie : les dieux, les cultes, les textes et les symboles de l'Égypte
+# ancienne, et l'Égypte rêvée par l'ésotérisme. Les égyptologues ont leurs
+# articles parmi les figures, les sites parmi les lieux.
+
+@ egyptologie
+cat: egypte
+nom: Égyptologie
+alias: égyptologues, science de l'Égypte ancienne, études égyptiennes
+def: Science de l'Égypte ancienne, née du déchiffrement des hiéroglyphes par Champollion en 1822, qui a remplacé l'Égypte rêvée des Grecs et des ésotéristes par celle des textes et des fouilles.
+texte: Jusqu'au XIXe siècle, l'Europe ne connaissait l'Égypte que par les auteurs grecs et latins, Hérodote, [[plutarque|Plutarque]] ou [[horapollon|Horapollon]], et par l'image d'une terre de prêtres savants qu'entretenaient l'[[hermetisme]] et l'[[egyptosophie]]. L'[[expedition-d-egypte|expédition d'Égypte]] de Bonaparte (1798-1801), avec ses cent soixante savants, rapporte les relevés de la *Description de l'Égypte* et la [[pierre-de-rosette|pierre de Rosette]]. En 1822, [[jean-francois-champollion|Champollion]] annonce dans sa *Lettre à M. Dacier* que les [[hieroglyphes]] notent aussi des sons : l'égyptologie est née.
+texte: Le siècle suivant voit l'expédition prussienne de Richard Lepsius (1842-1845), la création par [[auguste-mariette|Auguste Mariette]] du Service des antiquités et du musée de Boulaq (1858), la découverte des [[textes-des-pyramides|Textes des pyramides]] par [[gaston-maspero|Gaston Maspero]] (1881), les fouilles méthodiques de Flinders Petrie, puis celle du tombeau de Toutânkhamon par Howard Carter en 1922, dans la [[vallee-des-rois|Vallée des rois]]. Les égyptologues ont appris à lire le [[livre-des-morts|Livre des morts]] et les papyrus magiques ; ils y ont trouvé une religion d'une grande richesse, mais non la doctrine secrète que l'[[occultisme]] attribuait aux prêtres d'[[isis|Isis]].
+texte: La distinction entre l'Égypte des savants et l'Égypte des mystères est devenue un sujet d'étude en soi : l'égyptologue Erik Hornung a nommé [[egyptosophie]] la seconde, et l'[[egyptomanie]] désigne la mode égyptienne dans les arts. Les deux n'ont jamais cessé de se croiser, des [[pyramides]] de Gizeh aux théories des [[anciens-astronautes|anciens astronautes]].
+repere: 1798 — Bonaparte débarque en Égypte avec la Commission des sciences et des arts.
+repere: 1822 — Champollion lit à l'Académie sa *Lettre à M. Dacier*.
+repere: 1858 — Mariette fonde le Service des antiquités de l'Égypte.
+repere: 1881 — Maspero publie les premiers *Textes des pyramides*.
+repere: 1922 — Howard Carter découvre le tombeau de Toutânkhamon.
+voir: egyptosophie, jean-francois-champollion, hieroglyphes, expedition-d-egypte, pierre-de-rosette, egyptomanie
+
+@ isis
+cat: egypte
+nom: Isis
+alias: Aset, Iset, Isis-Sothis, Isis lactans, la Grande Magicienne, déesse aux dix mille noms
+def: Grande déesse de l'Égypte, épouse et sœur d'Osiris, mère d'Horus, magicienne qui ramena son mari à la vie ; son culte gagna tout le monde gréco-romain et l'ésotérisme en a fait l'image de la Nature voilée.
+texte: Fille de Geb, la terre, et de Nout, le ciel, Isis porte d'abord sur la tête le signe du trône, dont son nom égyptien, Aset, est peut-être tiré ; on lui donne plus tard les cornes de vache et le disque solaire d'[[hathor|Hathor]]. Le mythe en fait l'épouse fidèle d'[[osiris|Osiris]] : quand [[seth|Seth]] le tue et disperse son corps, elle en rassemble les morceaux avec sa sœur Nephthys, le ranime par sa magie et conçoit de lui [[horus|Horus]], qu'elle cache dans les marais du Delta. Un papyrus magique raconte comment elle arracha au vieux [[ra|Rê]] son nom secret, source de toute puissance : Isis est la « Grande de magie », que les formules de guérison invoquent.
+texte: Les Grecs l'identifient à Déméter et à Sélènè ; son lever héliaque, sous la forme de l'étoile [[sirius|Sirius]] (Sothis), annonçait la crue du Nil. Sous les Ptolémées et dans l'Empire romain, le [[culte-d-isis|culte d'Isis]] se répand de [[alexandrie|Alexandrie]] à Rome, à [[pompei|Pompéi]] et jusqu'en Germanie, où Tacite le signale. Le temple de [[philae|Philæ]], son grand sanctuaire, ne fut fermé que sous Justinien, au VIe siècle. Les images d'Isis allaitant Horus ont été rapprochées de celles de la Vierge à l'Enfant, et certains ont vu en elle l'origine des [[vierges-noires|Vierges noires]] ; ces filiations restent des hypothèses.
+texte: [[plutarque|Plutarque]] rapporte l'inscription du temple de Saïs : « nul mortel n'a encore soulevé mon voile ». Le « voile d'Isis » est devenu, de Schiller à [[novalis|Novalis]], l'emblème des secrets de la nature, et [[helena-blavatsky|Blavatsky]] intitule son premier livre *[[isis-devoilee|Isis dévoilée]]* (1877). [[wolfgang-amadeus-mozart|Mozart]] fait chanter à [[sarastro|Sarastro]] une prière « à Isis et Osiris » dans *[[la-flute-enchantee|La Flûte enchantée]]* ; [[samuel-liddell-mathers|Mathers]] célèbre à Paris, en 1899, des « rites d'Isis » publics, et [[dion-fortune|Dion Fortune]] fait d'Isis la déesse de ses romans. Une étymologie fantaisiste faisait enfin de Paris la ville « près d'Isis » : sous l'Empire, Napoléon donna à la capitale des armoiries où la déesse trône à la proue du navire.
+extrait: Je viens à toi, Lucius, émue par tes prières. Je suis la Nature, mère de toutes choses, maîtresse des éléments, principe originel des siècles, divinité suprême, reine des Mânes, la première entre les habitants du ciel, type universel des dieux et des déesses. L’Empyrée et ses voûtes lumineuses, la mer et ses brises salubres, l’enfer et ses silencieux chaos, obéissent à mes lois : puissance unique adorée sous autant d’aspects, de formes, de cultes et de noms qu’il y a de peuples sur la terre. Pour la race primitive des Phrygiens, je suis la déesse de Pessinonte et la mère des dieux ; le peuple autochtone de l’Attique me nomme Minerve Cécropienne. Je suis Vénus Paphienne pour les insulaires de Chypre, Diane Dictynne pour les Crétois aux flèches inévitables. Dans les trois langues de Sicile, j’ai nom Proserpine Stygienne, Cérès Antique à Éleusis. Les uns m’invoquent sous celui de Junon, les autres sous celui de Bellone. Je suis Hécate ici, là je suis Rhamnusie. Mais les peuples d’Éthiopie, de l’Ariane et de l’antique et docte Égypte, contrées que le soleil favorise de ses rayons naissants, seuls me rendent mon culte propre, et me donnent mon vrai nom de déesse Isis.
+source: Apulée, *L’Âne d’or ou les Métamorphoses*, livre XI (Isis apparaît à Lucius), trad. sous la direction de Désiré Nisard, 1865 | gallica bpt6k282077x | ws L’Âne d’or ou les Métamorphoses/XI
+extrait: Du reste, les Égyptiens avouent eux-mêmes cette obscurité ; et c’est à cause de cela, sans doute, qu’en avant des temples ils placent des sphinx, pour indiquer que la sagesse de leur philosophie est tout énigmatique. À Saïs, sur le fronton du temple de Minerve, qu’ils croient être la même qu’Isis, on lisait cette inscription : « Je suis tout ce qui a été, tout ce qui est, tout ce qui sera ; et nul mortel n’a encore soulevé mon voile. »
+source: Plutarque, *Sur Isis et Osiris*, chap. IX, trad. Victor Bétolaud, *Œuvres morales*, Hachette, 1870 | ws Sur Isis et Osiris
+extrait: Aujourd’hui, il semble que le catholicisme lui-même ait subi, selon les pays, une réaction analogue à celle qui avait lieu dans les dernières années du polythéisme. En Italie, en Pologne, en Grèce, en Espagne, chez tous les peuples les plus sincèrement attachés à l’Église romaine, la dévotion à la Vierge n’est-elle pas devenue une sorte de culte exclusif ? N’est-ce pas toujours la Mère sainte, tenant dans ses bras l’enfant sauveur et médiateur qui domine les esprits, — et dont l’apparition produit encore des conversions comparables à celle du héros d’Apulée ? Isis n’a pas seulement ou l’enfant dans les bras, ou la croix à la main comme la Vierge : le même signe zodiacal leur est consacré, la lune est sous leurs pieds ; le même nimbe brille autour de leur tête ; nous avons rapporté plus haut mille détails analogues dans les cérémonies ; — même sentiment de chasteté dans le culte isiaque, tant que la doctrine est restée pure ; institutions pareilles d’associations et de confréries.
+source: Gérard de Nerval, « Isis », *Les Filles du feu*, 1854 (éd. Michel Lévy, 1856) | ws Les Filles du feu/Isis
+voir: osiris, horus, culte-d-isis, isis-devoilee, philae, hathor, vierges-noires, sirius
+
+@ culte-d-isis
+cat: egypte
+nom: Culte d'Isis
+alias: mystères d'Isis, mystères isiaques, isiaques, Iseum, Navigium Isidis, religion isiaque
+def: Religion de salut issue de l'Égypte ptolémaïque, qui répandit dans tout l'Empire romain les temples, les fêtes et les initiations d'Isis, décrites par Apulée.
+texte: Sous les Ptolémées, la déesse égyptienne devient une divinité universelle, reine du ciel et de la mer, associée à [[serapis|Sérapis]]. Ses fidèles, marchands et marins, la portent à Délos, en Campanie, à Rome, où le Champ de Mars accueille un immense Iseum, et dans toutes les provinces. Les prêtres au crâne rasé, vêtus de lin, célèbrent chaque matin l'ouverture du temple et chaque soir sa fermeture ; le 5 mars, la fête du *Navigium Isidis* lance un navire consacré pour ouvrir la saison de la navigation.
+texte: Le culte offre aussi des [[mysteres-antiques|mystères]] : une [[initiation]] précédée de jeûnes et de purifications, dont [[apulee|Apulée]] donne, à la fin des *Métamorphoses* (vers 170), le seul récit de l'intérieur qui nous soit parvenu ; Lucius y voit « le soleil briller au milieu de la nuit » sans en révéler davantage. Le temple d'Isis de [[pompei|Pompéi]], enseveli en 79 et retrouvé en 1764, en a gardé les autels, la crypte de l'eau du Nil et les peintures.
+texte: Combattu par les chrétiens, le culte s'éteint au Ve siècle, sauf à [[philae|Philæ]], que les Nubiens fréquentent jusqu'au règne de Justinien. Il renaît en imagination au XVIIIe siècle : les « mystères égyptiens » de la [[maconnerie-egyptienne|maçonnerie égyptienne]], le roman *[[sethos|Séthos]]* de l'abbé Terrasson (1731) et *[[la-flute-enchantee|La Flûte enchantée]]* (1791) mettent en scène des épreuves d'initiation isiaque largement inventées. [[gerard-de-nerval|Nerval]], visitant Pompéi, médite sur ce culte qui servit, selon lui, de « transition » vers le christianisme.
+extrait: Parmi les dieux, le principal objet de leur culte est Mercure, auquel ils croient devoir à certains jours immoler des victimes humaines. Ils apaisent Hercule et Mars par des offrandes moins barbares. Une partie des Suèves sacrifie aussi à Isis. Je ne trouve ni la cause ni l’origine de ce culte étranger. Seulement la figure d’un vaisseau, qui en est le symbole, annonce qu’il leur est venu d’outre-mer. Emprisonner les dieux dans des murailles, ou les représenter sous une forme humaine, semble aux Germains trop peu digne de la grandeur céleste. Ils consacrent des bois touffus, de sombres forêts ; et, sous les noms de divinités, leur respect adore dans ces mystérieuses solitudes ce que leurs yeux ne voient pas.
+source: Tacite, *Mœurs des Germains*, chap. IX, trad. Jean-Louis Burnouf, *Œuvres complètes*, Hachette, 1863 | ws Mœurs des Germains
+voir: isis, mysteres-antiques, apulee, pompei, philae, serapis, sethos, maconnerie-egyptienne
+
+@ osiris
+cat: egypte
+nom: Osiris
+alias: Ousir, Wennefer, l'Être bon, Osiris N, maître de l'Occident
+def: Dieu égyptien des morts et de la végétation renaissante, roi assassiné par son frère Seth, dépecé, rassemblé et ranimé par Isis : chaque défunt espérait devenir « un Osiris ».
+texte: Selon le mythe que [[plutarque|Plutarque]] a mis en ordre au IIe siècle, Osiris régnait sur l'Égypte et lui avait appris l'agriculture et les lois. Son frère [[seth|Seth]], que les Grecs appellent Typhon, l'enferme par ruse dans un coffre jeté au Nil ; [[isis|Isis]] le retrouve à Byblos, mais Seth découvre le corps et le coupe en quatorze morceaux. Isis les recherche un à un, reconstitue le corps, le premier momifié, avec l'aide d'[[anubis|Anubis]], et conçoit [[horus|Horus]], qui vengera son père. Osiris devient le souverain du royaume des morts, devant qui se fait la [[pesee-du-coeur|pesée du cœur]].
+texte: Son culte a pour centre [[abydos|Abydos]], où l'on célébrait chaque année ses mystères, et où pèlerins et rois voulaient reposer près de sa tombe supposée. Le pilier [[djed]], son épine dorsale, figure sa stabilité ; les « Osiris végétants », figurines de terre ensemencée de grain, montraient sa résurrection dans le blé qui lève. Dans le [[livre-des-morts|Livre des morts]], le défunt est nommé « l'Osiris N », du nom du dieu suivi du sien.
+texte: Les historiens des religions ont comparé Osiris aux dieux qui meurent et ressuscitent, Adonis, Attis ou Dionysos, rapprochement aujourd'hui nuancé. Au XIXe siècle, des auteurs maçonniques, dont [[jean-marie-ragon|Ragon]], ont vu dans la [[legende-d-hiram|légende d'Hiram]], le maître assassiné dont on cherche le corps, une transposition du mythe osirien.
+extrait: Mais au retour d’Osiris, il tendit à celui-ci des embûches pour lesquelles il s’adjoignit soixante-douze complices. Il fut secondé en outre par une reine d’Éthiopie, nommée Aso, qui se rendit en Égypte. Typhon avait pris en secret la mesure du corps d’Osiris, et d’après cette grandeur il avait fait construire un coffre très beau et orné très-richement. Le meuble, apporté dans la salle du festin, excita des transports de joie et d’admiration. Typhon promit, en plaisantant, qu’il en ferait cadeau à celui qui le remplirait exactement en s’y couchant. Tous essayèrent le coffre les uns après les autres ; et il ne se trouvait à la taille de personne. Osiris y entra à son tour, et s’y étendit. À l’instant tous ceux qui étaient là s’élancèrent, et fermèrent précipitamment le couvercle. Les uns l’assujettissent au dehors par des clous, les autres le scellent avec du plomb fondu. On le porte ensuite au fleuve, et on le fait descendre jusque dans la mer par l’embouchure Tanaïtique, laquelle, à cause de cela, est exécrée encore aujourd’hui des Égyptiens et appelée Maudite. (…) Typhon, une nuit qu’il chassait, le découvrit au clair de la lune, et il eut bientôt reconnu le corps. Il le coupa en quatorze morceaux, qu’il dispersa de tous les côtés. Isis l’ayant su, entreprit la recherche de ces lambeaux, et monta dans une barque faite d’écorce de papyrus avec laquelle elle se mit à parcourir les marais.
+source: Plutarque, *Sur Isis et Osiris*, chap. XIII et XVIII, trad. Victor Bétolaud, *Œuvres morales*, Hachette, 1870 | ws Sur Isis et Osiris
+voir: isis, horus, seth, abydos, djed, livre-des-morts, legende-d-hiram, soixante-douze
+
+@ horus
+cat: egypte
+nom: Horus
+alias: Hor, Harpocrate, Harsiésis, Haroëris, Horus l'Enfant, dieu faucon, Æon d'Horus
+def: Dieu faucon de l'Égypte, fils d'Isis et d'Osiris, qui vengea son père contre Seth et dont chaque pharaon était l'incarnation ; l'enfant Horus, doigt sur la bouche, est devenu le dieu grec du silence.
+texte: Plusieurs Horus se sont fondus en un seul : le faucon céleste dont les yeux sont le soleil et la lune, Horus l'Ancien (Haroëris), et Horus fils d'Isis (Harsiésis), né après la mort d'[[osiris|Osiris]] et caché dans les marais. Devenu adulte, il affronte [[seth|Seth]] dans une longue lutte où il perd un œil, que [[thot|Thot]] guérit : c'est l'[[oeil-d-horus|œil d'Horus]], l'oudjat. Le tribunal des dieux lui donne enfin le trône d'Égypte. Le roi vivant est « l'Horus », et le grand temple d'Edfou célèbre sa victoire.
+texte: L'enfant Horus, représenté nu, la mèche de l'enfance sur la tempe et le doigt porté à la bouche, a été appelé par les Grecs Harpocrate ; ils ont lu dans ce geste enfantin un appel au silence, et Harpocrate est devenu le dieu du secret. La [[golden-dawn|Golden Dawn]] a son « signe du silence », geste d'Harpocrate. En 1904, au Caire, [[aleister-crowley|Aleister Crowley]] reçoit le *[[livre-de-la-loi|Livre de la Loi]]*, inspiré par une stèle funéraire du musée de Boulaq où paraît Horus ; il proclame le début de l'« Æon d'Horus », l'âge de l'enfant couronné, qui succède à ceux d'Isis et d'Osiris dans sa [[thelema]].
+texte: [[gerard-de-nerval|Nerval]] a donné le nom d'Horus à l'un des sonnets des *Chimères* (1854), où Isis annonce la naissance d'un dieu nouveau.
+extrait: Le dieu Kneph en tremblant ébranlait l’univers : // Isis, la mère, alors se leva sur sa couche, // Fit un geste de haine à son époux farouche, // Et l’ardeur d’autrefois brilla dans ses yeux verts. ¶ « Le voyez-vous, dit-elle, il meurt, ce vieux pervers, // Tous les frimas du monde ont passé par sa bouche, // Attachez son pied tors, éteignez son œil louche, // C’est le dieu des volcans et le roi des hivers ! ¶ L’aigle a déjà passé, l’esprit nouveau m’appelle, // J’ai revêtu pour lui la robe de Cybèle… // C’est l’enfant bien-aimé d’Hermès et d’Osiris ! » ¶ La Déesse avait fui sur sa conque dorée, // La mer nous renvoyait son image adorée, // Et les cieux rayonnaient sous l’écharpe d’Iris.
+source: Gérard de Nerval, « Horus », *Les Chimères*, 1854 (éd. Michel Lévy, 1856) | ws Les Chimères/Horus
+voir: isis, osiris, seth, oeil-d-horus, faucon, thelema, livre-de-la-loi, golden-dawn, edfou
+
+@ thot
+cat: egypte
+nom: Thot
+alias: Djehouty, Thoth, dieu ibis, Livre de Thot, Hermès égyptien, Thot l'Atlante
+def: Dieu égyptien de l'écriture, du calcul, de la lune et du savoir, à tête d'ibis ou de babouin, scribe des dieux ; les Grecs l'ont identifié à Hermès, d'où est né Hermès Trismégiste.
+texte: Thot invente l'écriture, les [[hieroglyphes]], qu'on appelle les « paroles divines », règle le calendrier et mesure le temps ; il est le dieu de la lune, des scribes et des médecins. Lors de la [[pesee-du-coeur|pesée du cœur]], il inscrit le résultat sur sa palette ; c'est lui qui guérit l'[[oeil-d-horus|œil d'Horus]] et qui, par sa magie, aide [[isis|Isis]]. Son grand sanctuaire est à [[hermopolis|Hermopolis]], la ville de l'[[ogdoade]] ; des millions d'ibis momifiés lui ont été offerts dans les nécropoles de Touna el-Gebel et de [[saqqarah|Saqqarah]].
+texte: Les Grecs le reconnaissent dans leur Hermès, messager et dieu des interprètes : de cette rencontre naît [[hermes-trismegiste|Hermès Trismégiste]], le « trois fois grand », sous le nom duquel l'Égypte hellénistique a placé les traités de l'[[hermetisme]]. Un conte démotique, l'histoire de Satni-Khâmoïs, parle d'un [[livre-de-thot|livre de Thot]] qui donne la maîtrise du monde. Au XVIIIe siècle, [[court-de-gebelin|Court de Gébelin]] voit dans le [[tarot]] ce « livre de Thot » sauvé du naufrage de l'Égypte, et [[etteilla|Etteilla]] baptise son jeu du même nom ; [[aleister-crowley|Crowley]] reprendra le titre pour son *Livre de Thoth* et son [[tarot-de-thoth|tarot]].
+texte: Au XXe siècle, un auteur américain, Maurice Doreal, a publié de prétendues *Tables d'émeraude de Thot l'Atlante*, texte moderne sans rapport avec la *[[table-d-emeraude|Table d'émeraude]]* médiévale ni avec l'Égypte ancienne.
+voir: hermes-trismegiste, hermopolis, livre-de-thot, ibis, tarot-de-thoth, court-de-gebelin, ogdoade, hieroglyphes
+
+@ anubis
+cat: egypte
+nom: Anubis
+alias: Anpou, Inpou, dieu chacal, Hermanubis, le maître des bandelettes
+def: Dieu à tête de chacal, gardien des nécropoles et patron de l'embaumement, qui guide les morts et veille à la pesée du cœur ; les Grecs l'ont fondu avec Hermès en Hermanubis.
+texte: Le chacal rôdait autour des tombes du désert : les Égyptiens en ont fait leur protecteur. Anubis, « celui qui est sur sa montagne », préside à la momification, qu'il aurait inventée pour le corps d'[[osiris|Osiris]] ; les prêtres embaumeurs portaient parfois son masque. Dans le [[livre-des-morts|Livre des morts]], il introduit le défunt dans la salle du jugement et règle la balance de la [[pesee-du-coeur|pesée du cœur]]. [[plutarque|Plutarque]] le dit fils d'Osiris et de Nephthys, élevé par [[isis|Isis]] comme un chien de garde des dieux.
+texte: Guide des âmes, il est l'un des grands [[psychopompe|psychopompes]] de l'Antiquité. L'époque gréco-romaine l'assimile à Hermès, conducteur des morts, sous le nom d'Hermanubis, et les fidèles d'Isis le promenaient dans leurs processions, masqué de chien. L'ésotérisme moderne l'a placé sur la *[[arcane-roue-de-fortune|Roue de Fortune]]* du tarot de Waite, où une figure à tête de chacal remonte la roue tandis qu'un serpent la descend.
+voir: osiris, pesee-du-coeur, psychopompe, chien, momie, livre-des-morts, cerbere
+
+@ ra
+cat: egypte
+nom: Rê
+alias: Râ, Ra, Atoum-Rê, Amon-Rê, Rê-Horakhty, Khépri, barque solaire, dieu soleil
+def: Dieu soleil de l'Égypte, adoré à Héliopolis, qui traverse le ciel le jour dans sa barque et le monde des morts la nuit, où il affronte le serpent Apophis.
+texte: Rê est le soleil lui-même et le créateur qui en émane ; on le dit Khépri le matin, quand il roule comme un [[scarabee|scarabée]] sa boule de lumière, Rê à midi, Atoum le soir. Héliopolis, la « ville du soleil », en était le grand centre, avec sa pierre *benben* sur laquelle le soleil se serait levé pour la première fois, et que prolongent l'[[obelisque|obélisque]] et la [[pyramides|pyramide]]. Les dieux se fondent volontiers en lui : Amon-Rê de Thèbes, Rê-Horakhty, l'Horus de l'horizon. Les pharaons se disent « fils de Rê ».
+texte: Chaque soir, la barque solaire entre dans la Douat, le monde souterrain, dont les douze heures sont décrites sur les murs des tombes de la [[vallee-des-rois|Vallée des rois]] ; [[seth|Seth]] y repousse du harpon le serpent [[apophis|Apophis]], qui veut engloutir le soleil. Au matin, Rê renaît à l'orient. Un mythe raconte que, vieilli, il envoya son « œil », la lionne Sekhmet, châtier les hommes révoltés, puis la calma en lui faisant boire de la bière teinte en rouge.
+texte: Ce soleil sans cesse mourant et renaissant a nourri les spéculations sur une religion solaire primitive et le culte d'Aton, le disque, que voulut imposer [[akhenaton|Akhenaton]].
+voir: apophis, scarabee, enneade, obelisque, akhenaton, amon, soleil, phenix, faucon
+
+@ seth
+cat: egypte
+nom: Seth
+alias: Set, Soutekh, Typhon, animal séthien, Temple de Set
+def: Dieu égyptien du désert, de l'orage et du désordre, meurtrier d'Osiris et rival d'Horus, mais aussi défenseur de la barque du soleil contre Apophis ; les Grecs l'ont appelé Typhon.
+texte: Seth porte la tête d'un animal que nul n'a identifié, au museau courbe et aux oreilles carrées. Maître des déserts rouges qui encerclent la terre noire du Nil, il est la force brutale et nécessaire : chaque nuit, à la proue de la barque de [[ra|Rê]], il transperce le serpent [[apophis|Apophis]]. Le mythe en fait pourtant le frère jaloux qui tue [[osiris|Osiris]] et dispute le trône à [[horus|Horus]], dont il arrache l'œil, avant d'être condamné par le tribunal des dieux.
+texte: Honoré par certains pharaons, comme Séthi Ier, dont le nom signifie « celui de Seth », il devient à la Basse Époque le dieu des étrangers et du mal ; les Grecs le confondent avec Typhon, le monstre ennemi de Zeus. En 1975, l'Américain Michael Aquino, quittant l'Église de Satan d'[[anton-lavey|Anton LaVey]], fonde le Temple de Set, l'un des mouvements du [[satanisme]] moderne.
+voir: osiris, horus, apophis, isis, satanisme, dualisme
+
+@ maat
+cat: egypte
+nom: Maât
+alias: Maat, la plume de Maât, vérité-justice, ordre du monde
+def: Déesse et notion égyptienne de l'ordre juste du monde, à la fois vérité, justice et équilibre cosmique, figurée par une femme coiffée d'une plume d'autruche.
+texte: Maât n'est pas seulement une déesse, fille de [[ra|Rê]] : c'est l'ordre que le créateur a établi au commencement et que le pharaon doit maintenir contre le chaos, l'*isefet*. Le roi « offre Maât » aux dieux, sous la forme d'une statuette, et les juges en portaient l'image sur la poitrine. Dans la salle des deux Maât, le cœur du défunt est pesé contre sa plume : c'est la [[pesee-du-coeur|pesée du cœur]], au terme de laquelle le mort est déclaré « juste de voix ».
+texte: Les égyptologues la comparent au *logos* grec ou au *dharma* indien ; les ésotéristes modernes l'ont rapprochée de l'arcane de la *[[arcane-justice|Justice]]*, qui tient la balance.
+voir: pesee-du-coeur, ra, thot, balance, arcane-justice, livre-des-morts
+
+@ hathor
+cat: egypte
+nom: Hathor
+alias: Hout-Hor, la Dorée, dame du sycomore, dame de la turquoise, déesse vache
+def: Déesse égyptienne de l'amour, de la musique, de l'ivresse et de la joie, figurée en vache ou en femme aux oreilles de vache, honorée surtout à Dendérah.
+texte: Son nom signifie « la demeure d'Horus » : elle est le ciel où vole le faucon. Vache céleste qui allaite le roi, « Dorée » qu'on fête par la danse, le sistre et le vin, elle est aussi la « dame du sycomore » qui accueille les morts à l'Occident. Le mythe de l'œil de [[ra|Rê]] en fait parfois la lionne furieuse Sekhmet, apaisée par l'ivresse. Au Sinaï, à Sérabit el-Khadim, les mineurs l'invoquaient comme « dame de la [[turquoise]] ».
+texte: Son grand temple de [[dendera|Dendérah]], reconstruit sous les Ptolémées, garde des chapelles où se célébrait l'union d'Hathor et d'Horus d'Edfou, et le fameux zodiaque circulaire, emporté au Louvre en 1821. Les Grecs l'ont identifiée à Aphrodite ; nombre de ses traits sont passés à [[isis|Isis]].
+voir: dendera, isis, horus, turquoise, taureau-symbole, zodiaque, edfou
+
+@ amon
+cat: egypte
+nom: Amon
+alias: Amen, Amon-Rê, Amoun, le Caché, oracle de Siwa, Zeus Ammon
+def: Dieu de Thèbes, « le Caché », devenu sous le Nouvel Empire Amon-Rê, roi des dieux ; son oracle de Siwa reçut Alexandre le Grand.
+texte: Son nom signifie « celui qui est caché », ce que [[plutarque|Plutarque]] rapporte déjà d'après Manéthon. Dieu local de Thèbes, il grandit avec la fortune de la ville : les rois du Nouvel Empire, vainqueurs de l'Asie, lui doivent leurs victoires et couvrent [[karnak|Karnak]] de temples, d'allées de sphinx à tête de bélier et d'obélisques. Uni au soleil sous le nom d'Amon-Rê, il est le créateur invisible dont le soleil n'est que la manifestation. [[akhenaton|Akhenaton]] fit marteler son nom ; ses prêtres retrouvèrent leur puissance après lui.
+texte: Le [[belier-symbole|bélier]] est son animal. Dans l'oasis de Siwa, son oracle fut consulté par [[alexandrie|Alexandre]] en 331 avant notre ère, qui en revint salué comme fils du dieu ; les Grecs honoraient Zeus Ammon, aux cornes de bélier.
+voir: karnak, ra, akhenaton, belier-symbole, oracle, louxor
+
+@ ptah
+cat: egypte
+nom: Ptah
+alias: Ptah de Memphis, théologie memphite, pierre de Shabaka, Apis
+def: Dieu créateur de Memphis, patron des artisans et des architectes, qui selon la théologie memphite créa le monde par la pensée du cœur et la parole de la langue.
+texte: Figuré en homme momiforme, crâne rasé couvert d'une calotte, tenant un sceptre, Ptah est le dieu des orfèvres, des sculpteurs et des bâtisseurs ; les Grecs l'ont identifié à Héphaïstos. Le taureau Apis, dont on enterrait les dépouilles au Sérapéum de [[saqqarah|Saqqarah]], était son héraut, et l'architecte [[imhotep|Imhotep]] passait pour son fils.
+texte: Une stèle de basalte gravée vers 710 avant notre ère sur l'ordre du roi Shabaka, et conservée au British Museum, dit recopier un vieux livre rongé par les vers : Ptah y crée les dieux et le monde en les concevant dans son cœur et en les nommant de sa langue. Cette création par le verbe a été comparée au *logos* de l'Évangile de Jean. Memphis a donné son nom, au XIXe siècle, à un rite maçonnique égyptien, le [[rite-de-memphis-misraim|rite de Memphis]].
+voir: saqqarah, imhotep, rite-de-memphis-misraim, taureau-symbole, enneade
+
+@ serapis
+cat: egypte
+nom: Sérapis
+alias: Sarapis, Osiris-Apis, Sérapéum d'Alexandrie
+def: Dieu gréco-égyptien créé sous Ptolémée Ier, qui fondait Osiris-Apis avec Zeus et Hadès ; son Sérapéum d'Alexandrie fut détruit par les chrétiens en 391.
+texte: Pour donner à son royaume un dieu que Grecs et Égyptiens pussent honorer ensemble, Ptolémée Ier fit venir, dit la tradition, une statue de Sinope et la proclama Sérapis : un Zeus barbu, couronné d'une corbeille à grain, qui reprenait le nom d'Osiris-Apis, le taureau sacré mort et divinisé de Memphis. Dieu guérisseur, il rendait des oracles par les songes à ceux qui dormaient dans ses temples ; son culte accompagna partout celui d'[[isis|Isis]].
+texte: Le Sérapéum d'[[alexandrie|Alexandrie]], sur la colline du Rhakotis, abritait une partie de la bibliothèque ; sa destruction par l'évêque Théophile, en 391, marqua pour les païens la fin d'un monde. Il ne faut pas le confondre avec le Sérapéum de [[saqqarah|Saqqarah]], les galeries des taureaux Apis découvertes par [[auguste-mariette|Mariette]] en 1850.
+voir: isis, alexandrie, osiris, saqqarah, oniromancie, culte-d-isis
+
+@ apophis
+cat: egypte
+nom: Apophis
+alias: Apep, Apopi, serpent du chaos, Livre de repousser Apophis
+def: Immense serpent du chaos qui, chaque nuit, tente d'engloutir la barque du soleil dans le monde des morts ; les prêtres le combattaient par des rites d'envoûtement.
+texte: Né des eaux primordiales, Apophis n'a pas de culte : il est l'ennemi absolu, le néant qui menace sans cesse l'ordre de [[maat|Maât]]. Les textes des tombes royales le montrent percé de couteaux, enchaîné par les dieux, harponné par [[seth|Seth]] à la proue de la barque de [[ra|Rê]]. Les éclipses et les orages étaient ses attaques.
+texte: Les temples conservaient un *Livre de repousser Apophis*, dont un papyrus du British Museum garde une copie : on y fabriquait des figurines de cire du serpent qu'on piétinait, crachait et brûlait, rituel d'[[envoutement]] que l'on retrouve dans la [[magie]] de toutes les époques. Le [[serpent]] Apophis appartient à la famille des monstres du chaos que combattent les dieux, comme le [[leviathan|Léviathan]] biblique ou les [[dragon|dragons]]. Un astéroïde découvert en 2004 porte son nom ; il passera au plus près de la Terre le 13 avril 2029.
+voir: ra, seth, serpent, dragon, leviathan, envoutement
+
+@ enneade
+cat: egypte
+nom: Ennéade d'Héliopolis
+alias: Ennéade, neuf dieux d'Héliopolis, Atoum, Shou, Tefnout, Geb, Nout, Nephthys
+def: Groupe des neuf dieux de la cosmogonie d'Héliopolis, issus d'Atoum, le créateur : Shou et Tefnout, Geb et Nout, puis Osiris, Isis, Seth et Nephthys.
+texte: Au commencement, Atoum, « celui qui est complet », surgit du Noun, l'océan inerte, sur une butte émergée. Seul, il crache ou éjacule le premier couple, Shou, l'air, et Tefnout, l'humidité ; ceux-ci engendrent Geb, la terre, et Nout, le ciel, que Shou sépare en soulevant le corps étoilé de sa fille au-dessus de son frère. De Geb et Nout naissent [[osiris|Osiris]], [[isis|Isis]], [[seth|Seth]] et Nephthys, avec qui commence le drame qui fonde la royauté. L'oiseau Bennou, le héron que les Grecs prendront pour le [[phenix|phénix]], se posait sur la pierre *benben* d'Héliopolis.
+texte: Neuf, trois fois trois, est en égyptien le pluriel des pluriels : l'ennéade désigne aussi, plus largement, l'ensemble des dieux. On la comparera à l'[[ogdoade]] d'Hermopolis et à la théologie de [[ptah|Ptah]] à Memphis, autres récits de la création ; les spéculations de l'[[arithmologie]] sur le nombre [[neuf]] l'ont souvent citée.
+voir: ogdoade, neuf, ra, osiris, isis, phenix, ptah
+
+@ ogdoade
+cat: egypte
+nom: Ogdoade d'Hermopolis
+alias: Ogdoade, les huit dieux d'Hermopolis, Noun et Naunet, Amon et Amaunet
+def: Groupe de huit dieux primordiaux d'Hermopolis, quatre couples de grenouilles et de serpents figurant les eaux, l'infini, les ténèbres et le caché, d'où sortit le soleil.
+texte: Avant le monde, disaient les prêtres d'[[hermopolis|Hermopolis]], il y avait quatre couples : Noun et Naunet, les eaux primordiales ; Heh et Hehet, l'infini ; Kek et Keket, les ténèbres ; [[amon|Amon]] et Amaunet, le caché. Les mâles ont des têtes de grenouille, les femelles des têtes de serpent, animaux du limon. De leur action naquit, selon les versions, un [[oeuf-cosmique|œuf cosmique]] posé sur la butte primordiale, ou un [[lotus]] d'où sortit l'enfant soleil.
+texte: Hermopolis s'appelait en égyptien Khemenou, « la ville des Huit ». Son dieu principal, [[thot|Thot]], passait pour avoir organisé ces forces. Le nombre [[huit]] est resté attaché à la ville que les Grecs nommaient celle d'Hermès ; le traité hermétique sur l'Ogdoade et l'Ennéade, retrouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], fait de la huitième sphère le lieu de l'[[initiation]].
+voir: hermopolis, thot, huit, oeuf-cosmique, lotus, enneade, amon
+
+@ livre-des-morts
+cat: egypte
+nom: Livre des morts
+alias: Livre pour sortir au jour, Todtenbuch, papyrus d'Ani, Rituel funéraire, chapitre CXXV
+def: Recueil de formules funéraires égyptiennes, écrites sur papyrus et déposées dans les tombes à partir de 1550 environ avant notre ère, pour guider le défunt dans l'au-delà.
+texte: Les Égyptiens l'appelaient le « livre pour sortir au jour » : environ deux cents chapitres, jamais tous réunis, qui permettaient au mort de franchir les portes de l'autre monde, d'échapper aux démons, de prendre toutes les formes qu'il voulait et de vivre parmi les dieux. Ils prolongent les [[textes-des-pyramides|Textes des pyramides]] et les Textes des sarcophages ; on les achetait tout prêts, en laissant en blanc le nom du défunt. Le chapitre 30 B, gravé sur le scarabée de cœur, supplie le cœur de ne pas témoigner contre son maître ; le chapitre 125 décrit la [[pesee-du-coeur|pesée du cœur]] et la « confession négative » devant quarante-deux juges.
+texte: L'égyptologue Richard Lepsius lui donna en 1842 son nom de *Todtenbuch*, « livre des morts », en publiant un papyrus de Turin ; Paul Pierret le traduisit en français en 1882, et le papyrus d'Ani, acquis par le British Museum en 1888, fut traduit par Wallis Budge, dont les éditions bon marché ont été la source de bien des ésotéristes. Le *Livre des morts tibétain*, ainsi nommé par Evans-Wentz en 1927, lui doit son titre européen, non son contenu.
+extrait: Les Égyptiens avaient coutume de placer dans la tombe, indépendamment des autres objets nécessaires au long voyage hyperterrestre de l’âme, un rouleau de papyrus, sorte de passeport destiné à lui assurer une réception favorable aux nombreuses portes des régions et demeures célestes, à la mettre en présence du soleil, à l’introduire dans la barque de ce dieu où, lumineuse, elle traversera la plaine éthérée et à la défendre contre les puissances ennemies qui s’opposeront à sa marche. La plupart des papyrus conservés dans les musées de l’Europe appartiennent à cette classe de manuscrits mortuaires ; ils étaient placés sous les bandelettes, entre les jambes, sous les bras ou sur la poitrine de la momie. Ils furent en grande partie écrits par des scribes de la caste sacerdotale qui les confectionnaient d’avance pour la vente et y ajoutaient, au dernier moment, en certains endroits laissés en blanc, le nom du mort accompagné presque toujours du nom de sa mère, rarement du nom de son père. Ce sont des textes en écriture hiéroglyphique ou hiératique, entrecoupés de vignettes et de tableaux, qui donnent des extraits plus ou moins développés d’un Codex remontant aux plus anciennes époques. Les Égyptiens attribuaient à Thot la rédaction du chapitre lxiv découvert sous le règne de Menchérès, de la IVe dynastie.
+source: Paul Pierret, préface du *Livre des morts des anciens Égyptiens*, Ernest Leroux, 1882 | ws Le Livre des morts des anciens Égyptiens/Préface
+voir: pesee-du-coeur, textes-des-pyramides, osiris, scarabee, anubis, momie, ka-et-ba
+
+@ textes-des-pyramides
+cat: egypte
+nom: Textes des pyramides
+alias: Pyramid Texts, pyramide d'Ounas, formules des pyramides
+def: Plus anciens textes religieux de l'Égypte, gravés vers 2350 avant notre ère dans les chambres des pyramides royales de Saqqarah, pour assurer au roi mort son ascension parmi les étoiles.
+texte: Le roi Ounas, dernier de la Ve dynastie, fit le premier couvrir de colonnes d'hiéroglyphes peints en bleu les murs de son caveau, à [[saqqarah|Saqqarah]]. Ses successeurs l'imitèrent : on compte près de huit cents « formules » qui décrivent la résurrection du roi, son voyage vers les étoiles impérissables du nord, son union avec [[ra|Rê]] et avec [[osiris|Osiris]]. Un passage célèbre, l'« hymne cannibale », montre le roi dévorant les dieux pour s'approprier leur puissance.
+texte: Ces chambres, que les pilleurs avaient trouvées vides, passaient pour muettes. En 1880-1881, des ouvriers de [[gaston-maspero|Gaston Maspero]] pénètrent dans la pyramide de Pépi Ier puis dans celle d'Ounas et les découvrent couvertes d'inscriptions : Maspero les publie aussitôt. Ils sont la source lointaine du [[livre-des-morts|Livre des morts]] et ont alimenté, au XXe siècle, les théories d'une religion stellaire liée à [[orion|Orion]], que la plupart des égyptologues jugent forcées.
+voir: saqqarah, gaston-maspero, pyramides, livre-des-morts, orion, osiris
+
+@ livre-de-thot
+cat: egypte
+nom: Livre de Thot
+alias: Satni-Khâmoïs, Setné, Noferképhtah, livre magique de Thot
+def: Livre légendaire écrit de la main du dieu Thot, qui donnait la maîtrise du ciel et de la terre ; un conte égyptien raconte comment le prince Satni le déroba dans une tombe de Memphis.
+texte: Le conte de Satni-Khâmoïs, conservé par un papyrus démotique de l'époque ptolémaïque, met en scène un fils de Ramsès II, prêtre et savant passionné de vieux écrits. Il apprend qu'un livre de [[thot|Thot]] repose dans la tombe du prince Noferképhtah, à [[saqqarah|Saqqarah]]. Il y descend, trouve le mort et son épouse, qui lui racontent comment ce livre, caché au fond du Nil dans des coffres emboîtés gardés par des serpents, leur a coûté la vie ; Satni l'emporte quand même, et le mort le punit jusqu'à ce qu'il le rapporte. C'est le premier récit connu d'un grimoire qui porte malheur.
+texte: [[gaston-maspero|Gaston Maspero]] l'a traduit dans ses *Contes populaires de l'Égypte ancienne* (1882). Le thème du livre de Thot est ensuite passé à l'ésotérisme : [[court-de-gebelin|Court de Gébelin]] croit le reconnaître dans le [[tarot]], [[etteilla|Etteilla]] et [[aleister-crowley|Crowley]] reprennent le titre, et les [[grimoire|grimoires]] se disent volontiers tirés des livres d'Hermès.
+extrait: Or, un jour qu’il était avec les savants du roi, v. s. f., et qu’il parlait avec eux des écrits et de la force qu’ils possédaient, un d’eux qui était fort vieux se prit à rire. Satni lui dit : « Pourquoi te ris-tu de moi ? » Le vieillard dit : « Je ne ris point de toi ; mais puis-je m’empêcher de rire quand tu parles ici d’écrits qui n’ont aucune puissance ? Si vraiment tu désires lire un écrit efficace, viens avec moi ; je te ferai aller au lieu où est ce livre que Thot a écrit de sa main lui-même, et qui te mettra immédiatement au-dessous des dieux. Les deux formules qui y sont écrites, si tu en récites la première, tu charmeras le ciel, la terre, l’enfer, les montagnes, les eaux ; tu connaîtras les oiseaux du ciel et les reptiles tous tant qu’ils sont ; tu verras les poissons, car la force divine les fera monter à la surface. Si tu lis la seconde formule, encore que tu serais dans la tombe, tu auras la forme que tu avais sur la terre ; même tu verras le soleil se levant au ciel, et son cycle de dieux, la lune en la forme qu’elle a lorsqu’elle paraît. »
+source: *Le Conte de Satni-Khâmoïs*, dans Gaston Maspero, *Les Contes populaires de l’Égypte ancienne*, Maisonneuve, 1882, p. 48-49 | ws Page:Maspero - Les Contes populaires de l’Égypte ancienne, 1882.djvu/145
+voir: thot, gaston-maspero, grimoire, tarot-de-thoth, court-de-gebelin, saqqarah
+
+@ pesee-du-coeur
+cat: egypte
+nom: Pesée du cœur
+alias: psychostasie, jugement des morts, confession négative, Ammit, la Dévoreuse, salle des deux Maât
+def: Jugement du mort dans la religion égyptienne : son cœur est pesé contre la plume de Maât sous les yeux d'Osiris ; s'il est trop lourd, la Dévoreuse l'engloutit.
+texte: Le chapitre 125 du [[livre-des-morts|Livre des morts]] conduit le défunt dans la salle des deux [[maat|Maât]]. Devant [[osiris|Osiris]] et quarante-deux juges, il récite la « confession négative » : il n'a pas volé, pas tué, pas menti, pas détourné l'eau du voisin. [[anubis|Anubis]] place son cœur, siège de la pensée et de la conscience, sur un plateau de la balance, la plume de Maât sur l'autre ; [[thot|Thot]] note le résultat. Le juste est déclaré « juste de voix » ; le cœur chargé de fautes est jeté à Ammit, monstre à tête de crocodile, à l'avant-train de lion et à l'arrière d'hippopotame.
+texte: Les vignettes des papyrus, comme celle du papyrus d'Ani, ont rendu la scène familière. Le christianisme connaît aussi sa psychostasie : l'archange [[saint-michel|saint Michel]] pèse les âmes sur les tympans romans, comme au jugement dernier de la cathédrale d'Autun sculpté par Gislebert. Le signe de la [[balance]] et l'arcane de la *[[arcane-justice|Justice]]* ont été lus à la lumière de ces images.
+voir: maat, anubis, thot, osiris, livre-des-morts, saint-michel, balance, scarabee
+
+@ oeil-d-horus
+cat: egypte
+nom: Œil d'Horus
+alias: oudjat, wedjat, œil de Rê, œil oudjat, fractions de l'œil
+def: Œil d'Horus arraché par Seth puis guéri par Thot, devenu en Égypte la plus répandue des amulettes, signe d'intégrité retrouvée et de protection.
+texte: L'oudjat, « celui qui est sain », associe un œil humain aux marques du plumage du faucon. Le mythe raconte que [[seth|Seth]] arracha l'œil d'[[horus|Horus]] et le brisa ; [[thot|Thot]] en rassembla les morceaux et le rendit entier, et Horus l'offrit à son père [[osiris|Osiris]] pour le ranimer. Œil de la lune qui décroît et revient, il protège les vivants et les morts : on le retrouve par milliers en faïence bleue, sur les bandelettes des momies et sur les flancs des sarcophages, pour que le défunt voie au dehors.
+texte: Au XXe siècle, on a voulu lire dans ses six parties les fractions 1/2, 1/4, 1/8, 1/16, 1/32 et 1/64 de la mesure de grain, dont la somme manque d'un soixante-quatrième ; cette lecture, proposée en 1911, est aujourd'hui contestée. L'œil d'Horus a été rapproché de l'[[oeil-de-la-providence|œil de la Providence]], qui n'en dérive pas ; il orne aujourd'hui les bijoux comme le faisait l'[[amulette]] antique.
+voir: horus, thot, amulette, oeil-de-la-providence, seth, osiris
+
+@ ka-et-ba
+cat: egypte
+nom: Ka et ba
+alias: ka, ba, akh, ombre, nom, âme égyptienne, double
+def: Principes de la personne humaine selon les Égyptiens : le ka, force vitale et double nourri d'offrandes, le ba, âme-oiseau qui circule, l'akh, esprit glorifié.
+texte: L'Égyptien n'a pas une âme, mais plusieurs composantes. Le *ka*, figuré par deux bras levés, est la force vitale reçue à la naissance, le « double » qui survit dans la tombe et qu'il faut nourrir d'offrandes. Le *ba*, oiseau à tête humaine, est la part mobile de l'être, qui quitte le corps le jour et revient la nuit près de la momie. L'*akh*, l'esprit lumineux, est ce que devient le juste après la [[pesee-du-coeur|pesée du cœur]]. Le nom, l'ombre et le cœur complètent la personne : effacer le nom d'un mort, c'était l'anéantir.
+texte: Les théosophes et les occultistes ont rapproché ces principes de leurs propres [[corps-subtils|corps subtils]] et du « double » des spirites, rapprochements que les égyptologues jugent trompeurs. La [[momie]] devait conserver le corps auquel ka et ba devaient se rattacher.
+voir: momie, corps-subtils, pesee-du-coeur, livre-des-morts, perisprit
+
+@ momie
+cat: egypte
+nom: Momie
+alias: momification, embaumement, mumia, poudre de momie, Osiris végétant
+def: Corps desséché et embaumé pour l'éternité selon les rites égyptiens ; l'Europe en a fait, du Moyen Âge au XVIIIe siècle, un remède, la « mumie », puis un personnage de roman.
+texte: L'embaumement durait soixante-dix jours : on ôtait le cerveau par le nez et les viscères par une incision, on desséchait le corps sous le natron, puis on l'enveloppait de centaines de mètres de bandelettes semées d'amulettes, sous la protection d'[[anubis|Anubis]]. Le premier momifié était [[osiris|Osiris]] ; chaque mort, devenu « un Osiris », devait garder son corps pour que son [[ka-et-ba|ka et son ba]] s'y rattachent. Les Égyptiens momifiaient aussi les animaux sacrés : chats de Bastet, ibis de [[thot|Thot]], crocodiles, taureaux.
+texte: Le mot vient du persan *mumiya*, le bitume : les médecins arabes prescrivaient ce bitume, et l'on prit l'habitude de broyer les corps embaumés qui en paraissaient imprégnés. La « mumie » figura dans les pharmacies européennes jusqu'au XVIIIe siècle ; [[paracelse|Paracelse]] fit de la *mumia* une force vitale subtile, qui joue un rôle dans la médecine magnétique de ses disciples. Le XIXe siècle découvre la momie dans les salons, où on la déroule en public, et dans la littérature : *[[le-roman-de-la-momie|Le Roman de la momie]]* de Gautier (1858), *L'Anneau de Thot* d'[[arthur-conan-doyle|Arthur Conan Doyle]] (1890), puis la [[malediction-du-pharaon|malédiction du pharaon]].
+voir: ka-et-ba, anubis, osiris, paracelse, malediction-du-pharaon, le-roman-de-la-momie
+
+@ djed
+cat: egypte
+nom: Djed
+alias: pilier djed, colonne d'Osiris, érection du djed
+def: Pilier égyptien surmonté de plateaux superposés, signe de stabilité, vu comme l'épine dorsale d'Osiris et dressé rituellement lors des fêtes de sa résurrection.
+texte: Peut-être à l'origine une gerbe de blé liée ou un poteau à étages, le djed devient à Memphis l'emblème de [[ptah|Ptah]], puis la colonne vertébrale d'[[osiris|Osiris]]. Le pharaon, aidé des prêtres, le relevait avec des cordes à la fin des fêtes d'Osiris : l'« érection du djed » signifiait la victoire de la vie sur la mort. Associé à la boucle d'[[isis|Isis]] et à la [[croix-ansee|croix ansée]], il couvrait les sarcophages et formait une amulette que le [[livre-des-morts|Livre des morts]] voulait en or.
+texte: [[plutarque|Plutarque]] raconte qu'à Byblos le coffre d'Osiris fut enfermé dans un tronc devenu la colonne du palais royal, qu'Isis réclama : récit où l'on reconnaît le pilier sacré. Les ésotéristes l'ont rapproché de l'[[axis-mundi|axe du monde]] et de la colonne vertébrale où monte la [[kundalini]].
+voir: osiris, ptah, croix-ansee, axis-mundi, isis, amulette
+
+@ obelisque
+cat: egypte
+nom: Obélisque
+alias: obélisques, tekhen, aiguille de Cléopâtre, obélisque de la Concorde, benben
+def: Haut monolithe de pierre à quatre faces terminé en pyramidion, consacré au soleil dans l'Égypte ancienne, transporté depuis à Rome, Paris, Londres et New York.
+texte: L'obélisque, *tekhen* en égyptien, prolonge vers le ciel la pierre *benben* d'Héliopolis, sur laquelle le soleil s'était posé au premier matin ; son sommet, souvent couvert d'électrum, recevait le premier rayon. Les rois du Nouvel Empire en dressaient par paires devant les temples de [[karnak|Karnak]] et de [[louxor|Louxor]]. Les empereurs romains en firent venir une douzaine à Rome ; renversés au Moyen Âge, ils furent relevés par les papes, comme celui que Sixte V fit dresser devant Saint-Pierre en 1586. [[athanasius-kircher|Athanase Kircher]] crut déchiffrer leurs hiéroglyphes, et le Bernin posa en 1667 un petit obélisque sur le dos d'un [[elephant|éléphant]], imité du *[[songe-de-poliphile|Songe de Poliphile]]*.
+texte: L'obélisque de Louxor, choisi sur le conseil de [[jean-francois-champollion|Champollion]] et offert par Méhémet Ali, est dressé place de la Concorde le 25 octobre 1836 ; ses jumeaux de Thoutmôsis III, les « aiguilles de Cléopâtre », partent pour Londres en 1878 et New York en 1881, où la pierre de fondation est posée par les francs-maçons de la ville. La [[franc-maconnerie]] américaine avait déjà béni en 1848 la première pierre du monument à Washington, obélisque géant ; l'obélisque est devenu un symbole maçonnique de la lumière et du souvenir, que l'on voit sur bien des tombes du [[pere-lachaise|Père-Lachaise]].
+voir: pyramides, karnak, louxor, ra, egyptomanie, athanasius-kircher, elephant, franc-maconnerie
+
+@ pierre-de-rosette
+cat: egypte
+nom: Pierre de Rosette
+alias: Rosette, décret de Memphis, stèle de Rosette, Rachid
+def: Fragment de stèle gravé en 196 avant notre ère d'un même décret en hiéroglyphes, en démotique et en grec, trouvé en 1799 par l'expédition d'Égypte et qui permit de déchiffrer les hiéroglyphes.
+texte: En juillet 1799, des soldats français qui renforcent un fort près de Rosette (Rachid), dans le Delta, mettent au jour une pierre sombre couverte de trois écritures. L'officier Pierre-François Bouchard comprend son intérêt : le texte grec, lisible, est un décret des prêtres réunis à Memphis en l'honneur de Ptolémée V ; les deux autres en donnent la version égyptienne, en [[hieroglyphes]] et en écriture démotique. Cédée aux Anglais par la capitulation d'Alexandrie en 1801, la pierre est au British Museum depuis 1802.
+texte: Les copies circulent dans toute l'Europe. Le Suédois Åkerblad et l'Anglais Thomas Young déchiffrent des noms en démotique ; Young identifie le cartouche de Ptolémée. [[jean-francois-champollion|Champollion]], qui lit le copte, comprend en 1822 que les hiéroglyphes mêlent signes de sons et signes de sens. La pierre est restée l'image de toute clé qui ouvre un langage perdu, la grande réussite du [[cryptographie|déchiffrement]].
+extrait: À l’égard de l’écriture démotique en particulier, il a suffi de la précieuse inscription de Rosette pour en reconnaître l’ensemble ; la critique est redevable d’abord aux lumières de votre illustre confrère M. Silvestre de Sacy, et successivement à celles de feu Akerblad et de M. le docteur Young, des premières notions exactes qu’on a tirées de ce monument, et c’est de cette même inscription que j’ai déduit la série des signes démotiques qui, prenant une valeur syllabico-alphabétique, exprimaient dans les textes idéographiques les noms propres des personnages étrangers à l’Égypte. C’est ainsi encore que le nom des Ptolémées a été retrouvé et sur cette même inscription et sur un manuscrit en papyrus récemment apporté d’Égypte. (…) car il s’agit de la série des hiéroglyphes qui, faisant exception à la nature générale des signes de cette écriture, étaient doués de la faculté d’exprimer les sons des mots, et ont servi à inscrire sur les monuments publics de l’Égypte, les titres, les noms et les surnoms des souverains grecs ou romains qui la gouvernèrent successivement. Bien des certitudes pour l’histoire de cette contrée célèbre doivent naître de ce nouveau résultat de mes recherches, auquel j’ai été conduit très-naturellement.
+source: Jean-François Champollion, *Lettre à M. Dacier relative à l’alphabet des hiéroglyphes phonétiques*, Firmin Didot, 1822 | ws Lettre à M. Dacier relative à l’alphabet des hiéroglyphes phonétiques
+voir: jean-francois-champollion, hieroglyphes, expedition-d-egypte, cryptographie, egyptologie
+
+@ table-isiaque
+cat: egypte
+nom: Table isiaque
+alias: Mensa Isiaca, table bembine, table de Bembo, tabula Bembina
+def: Plaque de bronze incrustée d'argent, faite à Rome au Ier siècle, couverte de dieux égyptiens et de faux hiéroglyphes, où la Renaissance et l'ésotérisme ont cherché la clé de la sagesse d'Égypte.
+texte: La table, longue de plus d'un mètre, montre [[isis|Isis]] trônant au centre, entourée de divinités, d'animaux sacrés et de signes qui imitent les [[hieroglyphes]] sans former d'écriture : un objet de culte isiaque romain, dans le goût égyptien. Elle appartient au cardinal Pietro Bembo au début du XVIe siècle, passe aux Gonzague de Mantoue, puis aux ducs de Savoie vers 1630 ; elle est l'une des premières pièces du musée égyptien de Turin, où elle est toujours.
+texte: Le graveur Enea Vico la reproduit en 1559, Lorenzo Pignoria la commente en 1605, et [[athanasius-kircher|Athanase Kircher]] y lit, dans son *Œdipe égyptien*, tout un système de la création ; elle devient le document majeur de l'[[egyptosophie]]. Les occultistes du XIXe siècle, d'[[eliphas-levi|Éliphas Lévi]] à [[papus|Papus]], l'ont rapprochée du [[tarot]] et de la kabbale. Champollion, qui la vit à Turin, la jugea de fabrication romaine.
+voir: isis, athanasius-kircher, egyptosophie, hieroglyphes, turin, tarot
+
+@ expedition-d-egypte
+cat: egypte
+nom: Expédition d'Égypte
+alias: campagne d'Égypte, Description de l'Égypte, Institut d'Égypte, Vivant Denon, bataille des Pyramides
+def: Campagne militaire et savante de Bonaparte en Égypte (1798-1801), dont les cent soixante savants publièrent la monumentale *Description de l'Égypte* et rapportèrent la pierre de Rosette.
+texte: Bonaparte débarque à Alexandrie le 1er juillet 1798, bat les Mamelouks au pied des [[pyramides]] le 21 juillet, mais perd sa flotte à Aboukir dix jours plus tard. Avec l'armée voyage une Commission des sciences et des arts : mathématiciens, ingénieurs, naturalistes, dessinateurs, dont Monge, Berthollet, Fourier et le jeune Geoffroy Saint-Hilaire, réunis en un Institut d'Égypte fondé au Caire en août 1798. Vivant Denon suit Desaix jusqu'en Haute-Égypte et publie en 1802 son *Voyage*, qui lance la mode égyptienne.
+texte: La *Description de l'Égypte*, vingt-trois volumes publiés de 1809 à 1829, révèle à l'Europe les temples de [[dendera|Dendérah]], de [[karnak|Karnak]] et de [[philae|Philæ]], le zodiaque de Dendérah et les relevés de Gizeh. La [[pierre-de-rosette|pierre de Rosette]], découverte en 1799, passe aux Anglais avec la capitulation de 1801. L'expédition ouvre la voie à l'[[egyptologie]] et à l'[[egyptomanie]] ; une légende tenace, sans source, veut que Bonaparte ait passé seul une nuit dans la Grande Pyramide et en soit ressorti bouleversé.
+repere: 1798 — Débarquement à Alexandrie ; bataille des Pyramides ; Institut d'Égypte.
+repere: 1799 — Découverte de la pierre de Rosette ; Bonaparte rentre en France.
+repere: 1801 — Capitulation de l'armée française.
+repere: 1809 — Premier volume de la *Description de l'Égypte*.
+voir: pierre-de-rosette, egyptologie, egyptomanie, pyramides, gizeh, dendera
+
+@ malediction-du-pharaon
+cat: egypte
+nom: Malédiction du pharaon
+alias: malédiction de Toutânkhamon, malédiction des momies, Lord Carnarvon, Howard Carter
+def: Croyance selon laquelle ceux qui troublent les tombes égyptiennes meurent frappés par un sort ; née surtout de la mort de Lord Carnarvon en 1923, après l'ouverture du tombeau de Toutânkhamon.
+texte: Le 4 novembre 1922, l'archéologue Howard Carter, financé par Lord Carnarvon, découvre dans la [[vallee-des-rois|Vallée des rois]] l'escalier du tombeau de Toutânkhamon, intact pour l'essentiel. Le 5 avril 1923, Carnarvon meurt au Caire d'une infection consécutive à une piqûre de moustique. La presse, à qui le *Times* avait l'exclusivité des fouilles, s'empare de l'événement : la romancière Marie Corelli avait annoncé un châtiment, et [[arthur-conan-doyle|Arthur Conan Doyle]], déjà spirite, déclare que des « élémentaux » créés par les prêtres ont pu tuer le lord.
+texte: Le thème existait avant : la momie vengeresse hante les romans depuis *The Mummy !* de Jane Loudon (1827), et Doyle lui-même avait écrit *L'Anneau de Thot* et *Le Lot n° 249*. Les morts qu'on attribua ensuite au tombeau ne résistent pas à l'examen : Carter vécut jusqu'en 1939, et une étude publiée en 2002 dans le *British Medical Journal* n'a trouvé aucune mortalité anormale parmi les Occidentaux présents à l'ouverture. La malédiction a fait la fortune du cinéma, de *La Momie* (1932) à nos jours.
+repere: 1922 — Howard Carter découvre le tombeau de Toutânkhamon.
+repere: 1923 — Mort de Lord Carnarvon au Caire ; naissance de la légende.
+repere: 1939 — Mort de Howard Carter, à Londres.
+repere: 2002 — Une étude du *British Medical Journal* ne trouve aucune surmortalité.
+voir: vallee-des-rois, momie, arthur-conan-doyle, elementaux, egyptomanie
+
+@ egyptomanie
+cat: egypte
+nom: Égyptomanie
+alias: style égyptien, retour d'Égypte, néo-égyptien, pyramide du Louvre, Egyptian Revival
+def: Goût pour les formes et les motifs de l'Égypte ancienne dans l'art, l'architecture et la décoration européens, de la Rome antique à nos jours, avec ses grandes vagues après Bonaparte et Toutânkhamon.
+texte: Rome avait déjà ses [[obelisque|obélisques]], ses sphinx et la pyramide de Caius Cestius. La Renaissance redécouvre ces vestiges et les recopie ; le XVIIIe siècle peuple les jardins de fabriques égyptiennes et les loges de décors « isiaques ». L'[[expedition-d-egypte|expédition d'Égypte]] lance le « retour d'Égypte » : meubles à têtes de sphinx, pendules, fontaine du Fellah à Paris (1806). Les cimetières se couvrent d'obélisques et de tombes en forme de temple, comme au [[pere-lachaise|Père-Lachaise]] ; les loges maçonniques s'ornent de colonnes papyriformes, et le temple maçonnique de Philadelphie a sa « salle égyptienne » (1889).
+texte: La découverte de Toutânkhamon, en 1922, provoque une seconde vague, de l'Art déco au cinéma. La pyramide de verre du Louvre, inaugurée en 1989, a ses légendes : on la dit faite de 666 losanges, nombre de la Bête, alors qu'elle en compte 673. L'égyptomanie, goût des formes, se distingue de l'[[egyptosophie]], qui prête à l'Égypte une sagesse secrète.
+voir: egyptosophie, obelisque, expedition-d-egypte, pere-lachaise, nombre-de-la-bete, sphinx, pyramides, le-roman-de-la-momie

@@ -28,7 +28,7 @@ repere: 1929 — *Magick en théorie et en pratique*.
 repere: 1944 — *Le Livre de Thoth*.
 repere: 1947 — Mort à Hastings.
 oeuvres: Le Livre de la Loi (1904) ; Le Livre des mensonges (1913) ; Magick en théorie et en pratique (1929) ; Confessions (1929) ; Le Livre de Thoth (1944)
-voir: thelema, livre-de-la-loi, oto, a-a, tarot-de-thoth, golden-dawn, magie-sexuelle, boleskine-house, abbaye-de-theleme, nombre-de-la-bete
+voir: thelema, livre-de-la-loi, oto, a-a, tarot-de-thoth, golden-dawn, magie-sexuelle, boleskine-house, abbaye-de-theleme, nombre-de-la-bete, horus, pan
 
 @ rudolf-steiner
 cat: figures
@@ -55,7 +55,7 @@ repere: 1922 — Incendie du premier Goetheanum, dans la nuit de la Saint-Sylves
 repere: 1924 — Cours aux agriculteurs, d'où naît l'agriculture biodynamique.
 repere: 1925 — Mort à Dornach.
 oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; Comment acquérir des connaissances sur les mondes supérieurs (1904-1905) ; La Science de l'occulte (1910)
-voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert
+voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert, abeille
 
 @ dion-fortune
 cat: figures
@@ -78,7 +78,7 @@ repere: 1938 — *La Prêtresse de la mer*.
 repere: 1939 — Elle organise des méditations collectives pour protéger la Grande-Bretagne.
 repere: 1946 — Mort à Londres.
 oeuvres: Autodéfense psychique (1930) ; La Cabale mystique (1935) ; La Prêtresse de la mer (1938) ; Magie lunaire (publié en 1956)
-voir: golden-dawn, kabbale-hermetique, magie-ceremonielle, egregore, wicca
+voir: golden-dawn, kabbale-hermetique, magie-ceremonielle, egregore, wicca, isis
 
 @ israel-regardie
 cat: figures
@@ -199,7 +199,7 @@ repere: 1951 — Mort au Caire.
 oeuvres: Le Théosophisme (1921) ; L'Erreur spirite (1923) ; Le Roi du monde (1927) ; La Crise du monde moderne (1927) ; Le Symbolisme de la croix (1931) ; Le Règne de la quantité et les signes des temps (1945) ; Aperçus sur l'initiation (1946)
 extrait: La doctrine hindoue enseigne que la durée d’un cycle humain, auquel elle donne le nom de Manvantara, se divise en quatre âges, qui marquent autant de phases d’un obscurcissement graduel de la spiritualité primordiale ; ce sont ces mêmes périodes que les traditions de l’antiquité occidentale, de leur côté, désignaient comme les âges d’or, d’argent, d’airain et de fer. Nous sommes présentement dans le quatrième âge, le Kali-Yuga ou « âge sombre », et nous y sommes, dit-on, depuis déjà plus de six mille ans, c’est-à-dire depuis une époque bien antérieure à toutes celles qui sont connues de l’histoire « classique ».
 source: René Guénon, *La Crise du monde moderne*, 1927, chap. I, « L’âge sombre » (texte de l’édition revue de 1946) | ws La Crise du monde moderne/Chapitre 1
-voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha
+voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha, sacre-coeur, axis-mundi
 
 @ julius-evola
 cat: figures
@@ -269,7 +269,7 @@ repere: 1937 — Selon Jacques Bergier, un inconnu, peut-être Fulcanelli, le me
 repere: 1954 — Canseliet dit l'avoir revu, rajeuni, en Espagne.
 repere: 1960 — *Le Matin des magiciens* popularise sa légende.
 oeuvres: Le Mystère des cathédrales (1926) ; Les Demeures philosophales (1930)
-voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel, les-demeures-philosophales, croix-d-hendaye, hotel-lallemant, langue-des-oiseaux
+voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel, les-demeures-philosophales, croix-d-hendaye, hotel-lallemant, langue-des-oiseaux, argot, art-gothique, pierre-dujols, vierges-noires, gargouille
 
 @ eugene-canseliet
 cat: figures
@@ -293,7 +293,7 @@ repere: 1967 — Commentaire du *Mutus Liber*.
 repere: 1972 — *L'Alchimie expliquée sur ses textes classiques*.
 repere: 1982 — Mort à Savignies, dans l'Oise.
 oeuvres: Deux logis alchimiques (1945) ; Alchimie (1964) ; L'Alchimie expliquée sur ses textes classiques (1972)
-voir: fulcanelli, mystere-des-cathedrales, alchimie, voie-seche, rosee, mutus-liber
+voir: fulcanelli, mystere-des-cathedrales, alchimie, voie-seche, rosee, mutus-liber, pierre-dujols
 
 @ schwaller-de-lubicz
 cat: figures
@@ -314,7 +314,7 @@ repere: 1937 — Début de quinze ans d'étude du temple de Louxor.
 repere: 1957 — *Le Temple de l'homme*.
 repere: 1961 — Mort à Grasse.
 oeuvres: Le Temple de l'homme (1957) ; Le Roi de la théocratie pharaonique (1961)
-voir: egyptosophie, nombre-d-or, alchimie, pyramides, sphinx
+voir: egyptosophie, nombre-d-or, alchimie, pyramides, sphinx, louxor
 
 @ alice-bailey
 cat: figures
@@ -376,7 +376,7 @@ repere: 1915 — Fondation de l'AMORC à New York.
 repere: 1916 — Il prétend réaliser publiquement une transmutation de zinc en or.
 repere: 1927 — L'ordre s'installe à San José, en Californie.
 repere: 1939 — Mort à San José.
-voir: amorc, rose-croix, egyptosophie, lemurie
+voir: amorc, rose-croix, egyptosophie, lemurie, akhenaton
 
 @ gerald-gardner
 cat: figures
@@ -399,7 +399,7 @@ repere: 1953 — Il initie Doreen Valiente.
 repere: 1954 — *Witchcraft Today*.
 repere: 1964 — Mort en mer, au retour d'un voyage au Liban.
 oeuvres: Witchcraft Today (1954) ; The Meaning of Witchcraft (1959)
-voir: wicca, sorcellerie, neopaganisme, cercle-magique, sabbat
+voir: wicca, sorcellerie, neopaganisme, cercle-magique, sabbat, alphabets-magiques
 
 @ jiddu-krishnamurti
 cat: figures
@@ -489,7 +489,7 @@ repere: 1977 — Faite dame de l'Empire britannique.
 repere: 1979 — *La Philosophie occulte à l'époque élisabéthaine*.
 repere: 1981 — Mort près de Londres.
 oeuvres: Giordano Bruno et la tradition hermétique (1964) ; L'Art de la mémoire (1966) ; La Lumière des Rose-Croix (1972) ; La Philosophie occulte à l'époque élisabéthaine (1979)
-voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme, john-dee
+voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme, john-dee, francis-bacon
 
 @ antoine-faivre
 cat: figures
@@ -605,7 +605,7 @@ repere: 1905 — À Paris, Pierre et Marie Curie assistent à ses séances.
 repere: 1908 — À Naples, trois enquêteurs concluent à des phénomènes inexpliqués.
 repere: 1910 — Aux États-Unis, elle est de nouveau prise en flagrant délit de fraude.
 repere: 1918 — Mort à Naples.
-voir: medium, metapsychique, charles-richet, society-for-psychical-research, camille-flammarion, ectoplasme
+voir: medium, metapsychique, charles-richet, society-for-psychical-research, camille-flammarion, ectoplasme, arthur-conan-doyle
 
 @ theodor-reuss
 cat: figures
@@ -667,7 +667,7 @@ repere: 1931 — *Le Dieu des sorcières*.
 repere: 1953 — Présidente de la Folklore Society.
 repere: 1954 — Elle préface *Witchcraft Today* de Gerald Gardner.
 repere: 1963 — Mort à Londres, à cent ans.
-voir: wicca, sorcellerie, sabbat, chasse-aux-sorcieres, gerald-gardner, neopaganisme
+voir: wicca, sorcellerie, sabbat, chasse-aux-sorcieres, gerald-gardner, neopaganisme, jeanne-d-arc, gilles-de-rais
 
 @ alexandra-david-neel
 cat: figures
@@ -711,7 +711,7 @@ repere: 1925 — Il s'installe à Virginia Beach.
 repere: 1931 — Fondation de son association pour la recherche et l'illumination.
 repere: 1942 — Une biographie le rend célèbre.
 repere: 1945 — Mort à Virginia Beach.
-voir: voyance, atlantide, reincarnation, annales-akashiques, new-age, hypnose
+voir: voyance, atlantide, reincarnation, annales-akashiques, new-age, hypnose, sphinx, ignatius-donnelly
 
 @ alan-leo
 cat: figures
@@ -815,4 +815,4 @@ repere: 1969 — *La Bible satanique*.
 repere: 1975 — Une scission donne naissance au Temple de Set.
 repere: 1991 — Une enquête journalistique démonte une grande partie de sa biographie légendaire.
 repere: 1997 — Mort à San Francisco.
-voir: satanisme, messe-noire, magie-ceremonielle, baphomet, aleister-crowley
+voir: satanisme, messe-noire, magie-ceremonielle, baphomet, aleister-crowley, seth

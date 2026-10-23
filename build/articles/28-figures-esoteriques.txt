@@ -15,7 +15,7 @@ repere: 1409 — Naissance au château d'Angers.
 repere: 1448 — Il fonde l'ordre du Croissant et fait fouiller les Saintes-Maries-de-la-Mer.
 repere: 1457 — *Le Livre du cœur d'amour épris*.
 repere: 1480 — Mort à Aix-en-Provence.
-voir: prieure-de-sion, dossiers-secrets, legende-doree, graal, sandro-botticelli, leonard-de-vinci
+voir: prieure-de-sion, dossiers-secrets, legende-doree, graal, sandro-botticelli, leonard-de-vinci, saintes-maries-de-la-mer, tarasque
 
 @ leonard-de-vinci
 cat: figures
@@ -32,7 +32,7 @@ repere: 1516 — Il s'installe en France, au Clos Lucé.
 repere: 1519 — Mort à Amboise.
 extrait: Mais cette nigromantie, étendard et vraie bannière claquante au vent, entraîne une folle multitude qui atteste sans cesse avec clameur les infinis effets d'un tel art ; et les livres remplis de ces choses affirment que les esprits incarnés apparaissent et parlent, sans langue, sans instrument organique nécessaire au langage ; et non seulement parlent, mais soulèvent des poids très lourds, font tempêter et pleuvoir ; et que les hommes se changent en chats, loups et autres bêtes, bien que parmi elles le plus bête est celui qui affirme de telles choses ! (…) ¶ Si la magie n'est pas restée parmi les hommes leur étant si nécessaire, c'est qu'elle n'a jamais existé et n'existera jamais.
 source: Léonard de Vinci, *Textes choisis*, trad. Joséphin Péladan, Mercure de France, 1907, fragment sur la nécromancie | ia texteschoisispen00leon
-voir: milan, florence, josephin-peladan, prieure-de-sion, geometrie-sacree, androgyne
+voir: milan, florence, josephin-peladan, prieure-de-sion, geometrie-sacree, androgyne, da-vinci-code, solides-de-platon
 
 @ albrecht-durer
 cat: figures
@@ -48,7 +48,7 @@ repere: 1498 — L'*Apocalypse*, gravée sur bois.
 repere: 1514 — *Melencolia I*.
 repere: 1515 — Cartes des hémisphères célestes.
 repere: 1528 — Mort à Nuremberg.
-voir: melencolia, nuremberg, carre-magique, constellation, emblemes
+voir: melencolia, nuremberg, carre-magique, constellation, emblemes, horapollon, solides-de-platon
 
 @ parmesan
 cat: figures
@@ -80,7 +80,7 @@ repere: 1265 — Naissance à Florence.
 repere: 1290 — Mort de Béatrice Portinari.
 repere: 1302 — Condamné à l'exil.
 repere: 1321 — Mort à Ravenne, peu après avoir achevé le *Paradis*.
-voir: divine-comedie, florence, neuf, rene-guenon, templiers, dante-gabriel-rossetti
+voir: divine-comedie, florence, neuf, rene-guenon, templiers, dante-gabriel-rossetti, michel-scot, griffon, cerbere, harpie, centaure
 
 @ dante-gabriel-rossetti
 cat: figures
@@ -111,7 +111,7 @@ repere: 1844 — Initiation maçonnique à Montevideo.
 repere: 1860 — Expédition des Mille.
 repere: 1881 — Grand hiérophante du Rite de Memphis-Misraïm.
 repere: 1882 — Mort dans l'île de Caprera.
-voir: giuseppe-mazzini, carbonarisme, rite-de-memphis-misraim, franc-maconnerie, turin
+voir: giuseppe-mazzini, carbonarisme, rite-de-memphis-misraim, franc-maconnerie, turin, maconnerie-egyptienne
 
 @ giuseppe-mazzini
 cat: figures
@@ -170,7 +170,7 @@ texte: Déclaré aliéné par une commission de médecins en juin 1886, il est r
 repere: 1864 — Avènement ; il appelle Wagner à Munich.
 repere: 1869 — Début de la construction de Neuschwanstein.
 repere: 1886 — Mort dans le lac de Starnberg.
-voir: richard-wagner, lohengrin, graal, bayreuth
+voir: richard-wagner, lohengrin, graal, bayreuth, cygne
 
 @ heinrich-himmler
 cat: figures
@@ -185,7 +185,7 @@ repere: 1929 — Reichsführer-SS.
 repere: 1935 — Fondation de l'Ahnenerbe.
 repere: 1941-1945 — Il organise la Shoah.
 repere: 1945 — Suicide à Lunebourg, après son arrestation.
-voir: wewelsburg, ahnenerbe, karl-maria-wiligut, otto-rahn, ariosophie, soleil-noir
+voir: wewelsburg, ahnenerbe, karl-maria-wiligut, otto-rahn, ariosophie, soleil-noir, atlantide
 
 @ constantin
 cat: figures
@@ -207,17 +207,26 @@ voir: chrisme, sainte-lance, legende-doree, longin
 @ nicolas-poussin
 cat: figures
 nom: Nicolas Poussin
-alias: Poussin, Et in Arcadia ego, le peintre philosophe
+alias: Poussin, Et in Arcadia ego, le peintre philosophe, théorie des modes, Triomphe de Pan
 dates: 1594 – 1665
 an: 1594
 def: Peintre français classique, établi à Rome, auteur des *Bergers d'Arcadie*, dont l'affaire de Rennes-le-Château a fait le gardien d'un secret.
-texte: Né aux Andelys, en Normandie, Poussin s'installe à Rome en 1624 et y passe presque toute sa vie, à part un séjour malheureux à Paris au service de Louis XIII. Ses tableaux, médités et savants, tirés de la Bible, de l'histoire antique et de la mythologie, ont fait de lui le modèle du classicisme français et du « peintre philosophe ».
-texte: Une lettre de 1656, où l'abbé Louis Fouquet écrit à son frère, le surintendant des finances, que Poussin lui a parlé de choses que les rois auraient grand-peine à tirer de lui, et l'inscription énigmatique des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* ont été exploitées par les auteurs de l'affaire de [[rennes-le-chateau|Rennes-le-Château]], qui ont fait de lui un initié du [[prieure-de-sion|Prieuré de Sion]] ; rien dans sa vie ni dans son œuvre ne l'atteste.
+texte: Né en 1594 aux Andelys, en Normandie, Poussin monte à Paris vers dix-huit ans, apprend auprès de peintres obscurs et copie les maîtres dans les collections royales. Le poète Marino l'encourage ; en 1624, il s'installe à Rome, où il passera presque toute sa vie. Le savant Cassiano dal Pozzo, qui fait dessiner toutes les antiquités de la ville, devient son protecteur. Appelé à Paris en 1640 par Louis XIII et Richelieu comme premier peintre du roi, il s'y sent mal et repart dès 1642. Ses tableaux, médités et savants, tirés de la Bible, de l'histoire antique et de la mythologie, ont fait de lui le modèle du classicisme français et du « peintre philosophe ».
+texte: Il expose dans ses lettres une véritable doctrine : à son ami Chantelou, en 1647, il explique que chaque sujet demande un « mode », comme dans la musique des Grecs, grave, joyeux ou terrible ; peu avant sa mort, il définit la peinture comme « une imitation faite avec lignes et couleurs de tout ce qui se voit sous le soleil », dont « la fin est la délectation ». Il a peint à deux reprises le thème des bergers déchiffrant un tombeau en [[arcadie|Arcadie]], vers 1628 (Chatsworth) puis vers 1638 (Louvre), et plusieurs fois le dieu [[pan|Pan]] et ses bacchanales. Il meurt à Rome en 1665 ; Chateaubriand, ambassadeur à Rome en 1828-1829, lui fit élever un monument dans l'église de Saint-Laurent-in-Lucina, orné d'un relief des *Bergers*.
+texte: Une lettre de 1656, où l'abbé Louis Fouquet écrit à son frère, le surintendant des finances, que Poussin lui a parlé de choses que les rois auraient grand-peine à tirer de lui, et l'inscription énigmatique des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* ont été exploitées par les auteurs de l'affaire de [[rennes-le-chateau|Rennes-le-Château]] : les [[parchemins-de-rennes-le-chateau|parchemins]] fabriqués dans les années 1960 font de « Poussin » et de « Teniers » les gardiens d'une clé, et le [[prieure-de-sion|Prieuré de Sion]] en fait un initié. Rien dans sa vie ni dans son œuvre ne l'atteste ; l'[[inscription-de-shugborough|inscription de Shugborough]], gravée sous une copie anglaise du tableau, ajoute à l'énigme une devinette du XVIIIe siècle.
 repere: 1594 — Naissance aux Andelys.
+repere: vers 1612 — Arrivée à Paris.
 repere: 1624 — Installation à Rome.
-repere: vers 1638 — *Les Bergers d'Arcadie*.
-repere: 1665 — Mort à Rome.
-voir: les-bergers-d-arcadie, rennes-le-chateau, prieure-de-sion, rouen
+repere: vers 1628 — Première version des *Bergers d'Arcadie*.
+repere: vers 1638 — *Les Bergers d'Arcadie* du Louvre.
+repere: 1640 — Premier peintre du roi à Paris, jusqu'en 1642.
+repere: 1647 — Lettre à Chantelou sur les modes.
+repere: 1656 — Lettre de l'abbé Louis Fouquet à son frère.
+repere: 1665 — Lettre à Fréart de Chambray ; mort à Rome le 19 novembre.
+repere: 1685 — Louis XIV acquiert *Les Bergers d'Arcadie*.
+extrait: Il est nécessaire premièrement de scauoir ce que c’est que cette sorte d’Imitation et la Définir. ¶ C’est une Imitation faicte auec lignes et couleurs en quelque superficie de tout ce qui se voit dessoubs le Soleil, sa fin est la Délectation. (…) Elle doit estre prise noble, qui n’aye receu aucunne qualité de l’ouurier, Pour donner lieu au Peintre de monstrer son esprit et Industrie. Il la faut prendre Capable de receuoir la plus excellente forme, Il faut commencer par la Disposition, Puis par l’Ornement, le Decoré, la beauté, la grace, la viuacité, le Costume, la Vraysemblance et le Jugement partout. Ces dernières parties sont du Peintre et ne se peuuent aprendre. Cest le Rameau d’or de Virgile que nul ne peut trouuer ny ceuillir sil n’est conduit par la Fatalité.
+source: Nicolas Poussin, lettre à Fréart de Chambray, 1er mars 1665, *Correspondance de Nicolas Poussin*, éd. Charles Jouanny, Schemit, 1911 | ws Correspondance de Nicolas Poussin/1er mars 1665 (Poussin à M. de Chambray)
+voir: les-bergers-d-arcadie, arcadie, rennes-le-chateau, prieure-de-sion, pan, inscription-de-shugborough, parchemins-de-rennes-le-chateau, rouen
 
 @ jerome-bosch
 cat: figures
@@ -261,7 +270,7 @@ repere: 1905 — Première aventure d'Arsène Lupin.
 repere: 1909 — *L'Aiguille creuse*.
 repere: 1924 — *La Comtesse de Cagliostro*.
 repere: 1941 — Mort à Perpignan.
-voir: arsene-lupin, etretat, rouen, rennes-le-chateau, cagliostro
+voir: arsene-lupin, etretat, rouen, rennes-le-chateau, cagliostro, abbayes-normandes, jumieges, maurice-maeterlinck, saint-wandrille
 
 @ jacques-de-voragine
 cat: figures

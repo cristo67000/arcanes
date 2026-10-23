@@ -1,26 +1,29 @@
-Dictionnaire construit le 2026-10-22
-944 articles, 143523 mots, 403 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
-340 avec des repères (2053), 862 avec des liens extérieurs (1196)
-67 sur la carte, 62 extraits dans 60 articles
-403 illustrations (14982 Ko) dans 392 articles, 4 planche(s)
-1898265 octets de JSON
+Dictionnaire construit le 2026-10-23
+1152 articles, 176758 mots, 444 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
+412 avec des repères (2397), 1068 avec des liens extérieurs (1426)
+96 sur la carte, 141 extraits dans 125 articles
+783 illustrations (27877 Ko) dans 767 articles, 7 planche(s)
+2533790 octets de JSON
 
-  courants     40
-  figures     240
-  textes       78
-  notions      72
+  courants     41
+  figures     281
+  textes       87
+  notions      75
   alchimie     48
   kabbale      34
   astrologie   42
-  divination   49
-  magie        39
-  societes     29
-  maconnerie   78
-  symboles     46
-  nombres      25
+  divination   51
+  magie        40
+  societes     30
+  maconnerie   79
+  symboles     41
+  bestiaire    55
+  egypte       35
+  codes        31
+  nombres      27
   astronomie   16
-  pierres      34
+  pierres      36
   echecs       11
-  lieux        63
+  lieux        92
 
 0 article(s) que rien ne cite : 

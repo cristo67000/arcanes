@@ -69,7 +69,7 @@ def: Septième arcane majeur : un prince couronné debout sur un char tiré par 
 texte: Le Chariot reprend les cortèges triomphaux de la Renaissance. Le conducteur, cuirassé, porte des épaulettes en forme de visages ; les deux chevaux semblent tirer chacun d'un côté, et il les mène sans rênes : la victoire est celle de la volonté qui unit des forces opposées.
 texte: La Golden Dawn lui attribue le [[cancer|Cancer]] ; le Rider-Waite remplace les chevaux par deux sphinx, l'un noir, l'autre blanc. En divination, il annonce le succès, le voyage, la conquête.
 schema: arcanes-majeurs/7
-voir: arcanes-majeurs, arcane-force
+voir: arcanes-majeurs, arcane-force, sphinx
 
 @ arcane-justice
 cat: divination
@@ -79,7 +79,7 @@ def: Huitième arcane majeur du tarot de Marseille : une femme assise tenant une
 texte: La Justice est l'une des quatre vertus cardinales représentées dans le tarot, avec la [[arcane-force|Force]] et la [[arcane-temperance|Tempérance]] ; la Prudence manque, à moins qu'on ne la reconnaisse dans l'[[arcane-hermite|Hermite]]. Elle regarde droit devant elle, l'épée levée et la balance en équilibre.
 texte: La Golden Dawn l'échange avec la Force et lui donne le numéro XI, pour accorder les arcanes au zodiaque : la Justice reçoit la [[balance|Balance]]. En divination, elle signifie le jugement, la décision équitable, les affaires légales, la conséquence des actes.
 schema: arcanes-majeurs/8
-voir: arcanes-majeurs, arcane-force, balance, karma
+voir: arcanes-majeurs, arcane-force, balance, karma, maat, pesee-du-coeur
 
 @ arcane-hermite
 cat: divination
@@ -99,7 +99,7 @@ def: Dixième arcane majeur : une roue que font tourner des animaux montant et d
 texte: La roue de Fortune est un thème médiéval : la déesse aveugle fait tourner la roue où les hommes montent au pouvoir puis en tombent, avec les mots « je régnerai, je règne, j'ai régné, je suis sans règne ». Dans le tarot de Marseille, des créatures mi-animales, mi-humaines y remplacent les rois, et un sphinx immobile siège au sommet.
 texte: [[eliphas-levi]] y voit les forces de l'univers — le sphinx, Hermanubis et Typhon — et inscrit sur la roue les lettres du mot TARO. La Golden Dawn lui attribue [[jupiter|Jupiter]]. En divination, elle annonce un changement, une chance, un tournant.
 schema: arcanes-majeurs/10
-voir: arcanes-majeurs, cycles-cosmiques, sphinx, dix
+voir: arcanes-majeurs, cycles-cosmiques, sphinx, dix, anubis, roue-solaire
 
 @ arcane-force
 cat: divination

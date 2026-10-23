@@ -22,7 +22,7 @@ def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée 
 texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
-voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze
+voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze, cathedrale-de-chartres
 
 @ belier
 cat: astrologie
@@ -33,7 +33,7 @@ def: Premier signe du zodiaque, signe de feu cardinal gouverné par Mars, que le
 texte: Le Bélier ouvre l'année astrologique au printemps. Le mythe grec y voit le bélier à la toison d'or qui emporta Phrixos et Hellé à travers les airs. Signe de feu et de commencement, il est associé par les astrologues à l'élan, au courage et à l'impulsivité. [[mars|Mars]] y a son domicile, et le [[soleil|Soleil]] son exaltation.
 texte: Dans la [[melothesie]], il gouverne la tête. Son symbole figure les cornes de l'animal.
 schema: zodiaque/belier
-voir: zodiaque, mars, triplicites, balance
+voir: zodiaque, mars, triplicites, balance, belier-symbole
 
 @ taureau
 cat: astrologie
@@ -44,7 +44,7 @@ def: Deuxième signe du zodiaque, signe de terre fixe gouverné par Vénus, que 
 texte: Le Taureau rappelle le dieu Zeus métamorphosé en taureau blanc pour enlever Europe. Signe de terre au cœur du printemps, il est associé à la stabilité, à la patience, à la sensualité et aux biens matériels. [[venus|Vénus]] y a son domicile, la [[lune|Lune]] son exaltation.
 texte: Il gouverne le cou et la gorge. Son symbole, un cercle surmonté de cornes, figure la tête de l'animal.
 schema: zodiaque/taureau
-voir: zodiaque, venus, triplicites, scorpion
+voir: zodiaque, venus, triplicites, scorpion, taureau-symbole
 
 @ gemeaux
 cat: astrologie
@@ -77,7 +77,7 @@ def: Cinquième signe du zodiaque, signe de feu fixe gouverné par le Soleil, qu
 texte: Le Lion est le lion de Némée, invulnérable, étouffé par Héraclès lors de son premier travail. Au cœur de l'été, il est associé à la vitalité, à la générosité, à la fierté et au besoin de briller. Le [[soleil|Soleil]] y a son domicile : c'est le signe royal par excellence.
 texte: Il gouverne le cœur et le dos. Son symbole évoque la crinière ou la queue de l'animal.
 schema: zodiaque/lion
-voir: zodiaque, soleil, triplicites, verseau
+voir: zodiaque, soleil, triplicites, verseau, lion-symbole
 
 @ vierge
 cat: astrologie
@@ -121,7 +121,7 @@ def: Neuvième signe du zodiaque, signe de feu mutable gouverné par Jupiter, qu
 texte: Le Sagittaire est un centaure qui tend son arc, parfois identifié au sage Chiron, maître d'Achille et d'Asclépios. Signe de feu tourné vers le lointain, il est associé à l'idéal, aux voyages, à la philosophie, à la foi et à l'optimisme. [[jupiter|Jupiter]] y a son domicile.
 texte: Il gouverne les cuisses et les hanches. Son symbole est une flèche.
 schema: zodiaque/sagittaire
-voir: zodiaque, jupiter, triplicites, gemeaux
+voir: zodiaque, jupiter, triplicites, gemeaux, centaure
 
 @ capricorne
 cat: astrologie
@@ -154,7 +154,7 @@ def: Douzième et dernier signe du zodiaque, signe d'eau mutable gouverné par J
 texte: Les deux Poissons, liés par un fil, seraient Aphrodite et son fils Éros, changés en poissons pour fuir le monstre Typhon. Dernier signe, celui de la fin de l'hiver, il est associé à la sensibilité, à l'imagination, à la compassion et au mysticisme. [[jupiter|Jupiter]] y a son domicile traditionnel, [[neptune|Neptune]] pour les modernes, et [[venus|Vénus]] son exaltation.
 texte: Il gouverne les pieds. Son symbole figure deux poissons nageant en sens contraire, reliés par un trait.
 schema: zodiaque/poissons
-voir: zodiaque, jupiter, neptune, ere-du-verseau, vierge
+voir: zodiaque, jupiter, neptune, ere-du-verseau, vierge, poisson
 
 @ planetes
 cat: astrologie
@@ -186,7 +186,7 @@ def: Astre de la nuit, le plus rapide des astres errants, symbole de la sensibil
 texte: La Lune change de forme au fil de ses phases et gouverne les marées : l'astrologie lui attribue les humeurs, les fluides du corps, la fécondité, l'inconscient et les rêves. Elle a son domicile dans le [[cancer|Cancer]] et son exaltation dans le [[taureau|Taureau]]. Les [[noeuds-lunaires|nœuds lunaires]], points où son orbite croise celle du Soleil, déterminent les éclipses.
 texte: En alchimie, la Lune est l'argent, la reine, le principe féminin uni au Soleil dans les [[noces-chymiques|noces]] de l'œuvre. La [[wicca]] l'associe à la Déesse, et de nombreux rites magiques se règlent sur ses phases.
 schema: planetes-septenaire/lune
-voir: planetes, cancer, soleil, noeuds-lunaires, yesod, arcane-lune
+voir: planetes, cancer, soleil, noeuds-lunaires, yesod, arcane-lune, hecate
 
 @ mercure
 cat: astrologie

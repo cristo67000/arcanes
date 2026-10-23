@@ -13,7 +13,9 @@ def: Groupe de francs-maçons qui se réunissent régulièrement sous un même n
 texte: Le mot vient de l'anglais *lodge*, la cabane qu'élevaient les tailleurs de pierre au pied des chantiers médiévaux pour y ranger leurs outils, y prendre leurs repas et y régler leurs affaires. Dans la [[franc-maconnerie]] moderne, la loge est la cellule de base : elle porte un « titre distinctif » — *la Parfaite Union*, *les Neuf Sœurs*, *les Amis réunis* — et, souvent, un numéro, et elle est rattachée à une ville, son « Orient ». Les maçons la nomment aussi « atelier ».
 texte: Une loge élit chaque année son [[venerable-maitre|Vénérable Maître]] et ses [[officiers-de-loge|officiers]], et tient ses [[tenue|tenues]] dans un [[temple-maconnique|temple]]. Une vieille formule veut que trois maîtres la gouvernent, cinq la composent et sept la rendent « juste et parfaite » ; il faut en pratique au moins sept membres pour ouvrir les travaux. Les loges dites « bleues » ou « symboliques » ne confèrent que les trois premiers grades ; elles se rattachent presque toutes à une [[obedience]], dont elles reçoivent leur patente.
 schema: plan-de-loge
-voir: tenue, temple-maconnique, obedience, venerable-maitre, officiers-de-loge
+extrait: ‘“Faith and Works 5837”—the third Saturday of every month. Our Lodge of Instruction meets nominally every Thursday, but we sit oftener than that now because there are so many Visiting Brothers in town. ‘Here another customer entered, and I went away much interested in the range of Brother Burgess hobbies. ¶ At tea-time he was dressed as for Church, and wore gold pince-nez in lieu of the silver spectacles. I blessed my stars that I had thought to change into decent clothes. ¶ ‘Yes, we owe that much to the Craft,’ he assented. ‘All Ritual is fortifying. Ritual’s a natural necessity for mankind. The more things are upset, the more they fly to it. I abhor slovenly Ritual anywhere. By the way, would you mind assisting at the examinations, if there are many Visiting Brothers to-night? You’ll find some of ’em very rusty, but—it’s the Spirit, not the Letter, that giveth life. The question of Visiting Brethren is an important one. There are so many of them in London now, you see; and so few places where they can meet.’
+source: Rudyard Kipling, *In the Interests of the Brethren*, 1918, recueilli dans *Debits and Credits*, 1926 (texte original anglais) | wsen "In the Interests of the Brethren"
+voir: tenue, temple-maconnique, obedience, venerable-maitre, officiers-de-loge, rudyard-kipling, l-homme-qui-voulut-etre-roi
 
 @ tenue
 cat: maconnerie
@@ -146,7 +148,7 @@ alias: chambre de réflexion, testament philosophique, crâne, sablier, sel et s
 def: Petite pièce obscure où le candidat à l'initiation maçonnique est laissé seul, face à des symboles de la mort et de la transformation, avant d'être introduit dans la loge.
 texte: Les murs sont noirs ; sur une table, éclairés d'une bougie, un crâne, un sablier, du pain et de l'eau, du sel et du [[soufre]], une image de coq, et l'inscription V.I.T.R.I.O.L. — « Visite l'intérieur de la terre, et en rectifiant tu trouveras la pierre cachée ». Des sentences mettent en garde : « Si la curiosité t'a conduit ici, va-t'en ! » Le candidat y rédige son testament philosophique, en répondant à des questions sur ses devoirs envers lui-même, les autres et l'humanité.
 texte: Le cabinet apparaît dans les rites français dans la seconde moitié du XVIIIe siècle. Il figure l'épreuve de la terre, la descente au tombeau qui précède toute renaissance ; le sel, le soufre et le mercure évoquent les trois principes des alchimistes (voir [[tria-prima]]), et le [[vitriol|VITRIOL]] la quête de la [[pierre-philosophale]] au fond de soi.
-voir: initiation-maconnique, vitriol, tria-prima, nigredo
+voir: initiation-maconnique, vitriol, tria-prima, nigredo, coq
 
 @ apprenti
 cat: maconnerie
@@ -187,7 +189,7 @@ texte: La Bible mentionne un Hiram, fils d'une veuve de la tribu de Nephtali et 
 texte: Ils l'enterrent hors de la ville et plantent une branche d'[[acacia]] sur la tombe. Les maîtres envoyés à sa recherche le découvrent, et, le mot étant perdu avec lui, conviennent d'un mot de remplacement ; ils relèvent le corps par les « cinq points parfaits de la maîtrise ». On a lu dans ce récit la mort d'Osiris, le sacrifice du Christ, la mort initiatique ou la transmission d'une [[parole-perdue|parole perdue]] que les hauts grades prétendent retrouver.
 extrait: Adoniram, qui passait près d’eux, l’entendit ; il s’éloigna en rugissant de douleur. Plus loin, il avisa un groupe d’ouvriers qui l’accablaient de mépris, de calomnies et de malédictions. Il fut rejoint par le Syrien Phanor, qui lui dit : ¶ — Tu es grand ; la fortune t’a trahi ; mais elle n’a pas eu les maçons pour complices. ¶ Amrou le Phénicien le rejoignit à son tour et lui dit : ¶ — Tu es grand, et tu serais vainqueur, si chacun eût fait son devoir comme les charpentiers. ¶ Et le Juif Méthousaël lui dit : ¶ — Les mineurs ont fait leur devoir ; mais ce sont ces ouvriers étrangers qui, par leur ignorance, ont compromis l’entreprise.
 source: Gérard de Nerval, *Voyage en Orient*, « Histoire de la reine du Matin et de Soliman, prince des génies », chap. VI (édition de 1884) | ws Voyage en Orient (Nerval)/Les conteurs/VI
-voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval, parole-perdue
+voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval, parole-perdue, osiris, lion-symbole
 
 @ fils-de-la-veuve
 cat: maconnerie
@@ -196,7 +198,7 @@ alias: enfants de la veuve, à moi les enfants de la veuve, signe de détresse, 
 def: Surnom des francs-maçons, héritiers symboliques d'Hiram, que la Bible présente comme le fils d'une veuve.
 texte: Le premier livre des Rois dit d'Hiram, le fondeur du Temple, qu'il était « fils d'une veuve de la tribu de Nephtali ». Les maîtres, qui revivent sa mort dans la [[legende-d-hiram|légende d'Hiram]], se disent ses fils, donc « fils de la veuve » ; et la Veuve elle-même est devenue, pour certains, l'image de la maçonnerie qui a perdu son maître, ou celle d'Isis cherchant Osiris.
 texte: Le cri de détresse « À moi les enfants de la veuve ! », accompagné d'un signe, permettait à un maçon en danger de se faire reconnaître et secourir par ses frères, y compris dans le camp ennemi : de nombreux récits, plus ou moins vérifiables, en ont fait une légende des guerres du XIXe siècle.
-voir: legende-d-hiram, maitre-macon, mots-signes-attouchements
+voir: legende-d-hiram, maitre-macon, mots-signes-attouchements, l-homme-qui-voulut-etre-roi
 
 @ tablier
 cat: maconnerie
@@ -205,7 +207,7 @@ alias: tablier maçonnique, tablier de peau, bavette, décors
 def: Le vêtement maçonnique par excellence, hérité du tablier de cuir des tailleurs de pierre, dont la forme et les ornements changent avec le grade.
 texte: Remis au nouvel initié, le tablier rappelle que le maçon est un travailleur et l'égal de ses frères. Celui de l'[[apprenti]] est de peau blanche, la bavette relevée, pour protéger du travail encore maladroit ; celui du [[compagnon]] a la bavette abaissée ; celui du [[maitre-macon|maître]] est bordé de rouge ou de bleu selon les rites et souvent orné de symboles ou de lettres.
 texte: Au XVIIIe siècle, les tabliers peints ou brodés rivalisaient de richesse ; on en conserve de célèbres, comme celui que l'on dit offert à George Washington par La Fayette. Un maçon ne peut assister à une [[tenue]] sans son tablier, l'une des pièces des [[decors-maconniques|décors]] qu'il revêt en entrant.
-voir: decors-maconniques, gants-blancs, apprenti, initiation-maconnique
+voir: decors-maconniques, gants-blancs, apprenti, initiation-maconnique, agneau
 
 @ gants-blancs
 cat: maconnerie
@@ -252,7 +254,9 @@ def: La pierre parfaitement équarrie, symbole du compagnon et de l'homme qui s'
 texte: Six faces égales, des angles droits : la pierre cubique peut s'ajuster aux autres pour bâtir l'édifice commun. Elle est l'œuvre du [[compagnon]], qui contrôle son travail avec l'équerre, le niveau et la perpendiculaire. Avec la [[pierre-brute|pierre brute]], elle marque le chemin parcouru par l'initié.
 texte: Certains rites la surmontent d'une pyramide, parfois fendue d'une hache : la pierre cubique à pointe. Les ésotéristes y ont vu la réunion du carré terrestre et du triangle céleste, le nombre sept (quatre et trois), ou la [[pierre-philosophale|pierre des philosophes]] ; [[rene-guenon]] la rapproche de la pierre d'angle qui couronne l'édifice.
 schema: plan-de-loge/pierres
-voir: pierre-brute, compagnon, pierre-philosophale, outils-maconniques
+extrait: My new-cut ashlar takes the light // Where crimson-blank the windows flare; // By my own work, before the night, // Great Overseer, I make my prayer. ¶ If there be good in that I wrought, // Thy hand compelled it, Master, Thine; // Where I have failed to meet Thy thought // I know, through Thee, the blame is mine. ¶ One instant's toil to Thee denied // Stands all Eternity's offence, // Of that I did with Thee to guide // To Thee, through Thee, be excellence. ¶ Who, lest all thought of Eden fade, // Bring'st Eden to the craftsman's brain, // Godlike to muse o'er his own trade // And Manlike stand with God again. ¶ The depth and dream of my desire, // The bitter paths wherein I stray, // Thou knowest Who hast made the Fire, // Thou knowest Who hast made the Clay. ¶ One stone the more swings to her place // In that dread Temple of Thy Worth— // It is enough that through Thy grace // I saw naught common on Thy earth. ¶ Take not that vision from my ken; // Oh whatso'er may spoil or speed, // Help me to need no aid from men // That I may help such men as need!
+source: Rudyard Kipling, « L’Envoi » de *Life’s Handicap*, 1891 (texte original anglais) | wsen Life's Handicap/L'Envoi
+voir: pierre-brute, compagnon, pierre-philosophale, outils-maconniques, rudyard-kipling, argot-des-batisseurs
 
 @ pave-mosaique
 cat: maconnerie
@@ -326,7 +330,7 @@ alias: mot sacré, mot de passe, mot de semestre, signe d'ordre, attouchement, p
 def: Les moyens de reconnaissance propres à chaque grade maçonnique : un mot sacré, un mot de passe, un signe et une façon de se serrer la main.
 texte: Héritiers des usages des maçons de métier, qui devaient prouver leur qualification sur un chantier étranger, ces « secrets » sont confiés au candidat à chaque grade et ne doivent pas être écrits. Les mots sacrés des deux premiers grades sont les noms des [[colonnes-jakin-et-boaz|colonnes du Temple]], dans un ordre qui diffère selon les rites : la Grande Loge des « Modernes » les aurait intervertis vers 1730 pour déjouer les imposteurs qui avaient lu les [[divulgations-maconniques|divulgations]].
 texte: Le signe « d'ordre » est la posture que prend le maçon en loge ; le signe de détresse appelle au secours les [[fils-de-la-veuve|fils de la veuve]]. Le mot de semestre, changé tous les six mois par l'obédience, prouve qu'un visiteur est à jour. Publiés depuis le XVIIIe siècle, ces mots ne sont plus secrets que par convention : ce qui compte est l'engagement de les taire (voir [[secret-maconnique|secret maçonnique]]).
-voir: tuilage, secret-maconnique, divulgations-maconniques, fils-de-la-veuve
+voir: tuilage, secret-maconnique, divulgations-maconniques, fils-de-la-veuve, argot-des-batisseurs
 
 @ batterie
 cat: maconnerie
@@ -353,7 +357,7 @@ alias: agape, banquet maçonnique, loge de table, santés d'obligation, canon, p
 def: Le repas fraternel qui suit la tenue maçonnique ; sous sa forme rituelle, le banquet d'ordre, avec ses santés et son vocabulaire de chantier.
 texte: Le mot vient du grec *agapè*, l'amour fraternel, nom des repas des premières communautés chrétiennes. Au XVIIIe siècle, la loge se réunissait à l'auberge et le banquet faisait partie des travaux ; il en reste la « loge de table », où l'on porte, debout et à l'ordre, une série de santés d'obligation — au chef de l'État, à l'obédience, au Vénérable, aux visiteurs, à tous les maçons répandus sur la surface du globe.
 texte: Le banquet a son langage, emprunté à l'artillerie et au chantier : le verre est un « canon », le vin la « poudre » (forte ou faible), la bouteille une « barrique » ; on « charge » et l'on « tire » une santé, suivie d'une [[batterie]]. Aujourd'hui, la plupart des agapes sont de simples dîners pris dans la « salle humide » du temple.
-voir: tenue, batterie, chaine-d-union
+voir: tenue, batterie, chaine-d-union, rudyard-kipling
 
 @ temps-maconnique
 cat: maconnerie
@@ -371,7 +375,7 @@ alias: secret, serment maçonnique, discrétion, société secrète, société d
 def: L'engagement que prend le franc-maçon de ne pas révéler les rituels, les moyens de reconnaissance et l'appartenance de ses frères ; et ce que, selon la tradition, aucune parole ne peut transmettre.
 texte: Le serment de l'[[initiation-maconnique|initiation]] promettait autrefois d'atroces châtiments symboliques au parjure. Pourtant, les rituels sont imprimés depuis 1730 (voir [[divulgations-maconniques|divulgations]]) et les obédiences ont des sièges, des sites et des porte-parole : la maçonnerie se dit aujourd'hui « discrète » plutôt que secrète. Ce qui reste caché est d'abord l'appartenance de chacun, que nul ne peut dévoiler sans son accord.
 texte: Une idée plus profonde court chez les auteurs ésotériques : le vrai secret maçonnique serait incommunicable par nature, parce qu'il tient à l'expérience intérieure de l'initiation, que les mots ne peuvent pas donner à qui ne l'a pas vécue. Le secret a nourri, en sens inverse, tous les soupçons de l'[[antimaconnisme]].
-voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique
+voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique, alphabet-maconnique
 
 @ maconnerie-d-adoption
 cat: maconnerie
@@ -389,7 +393,7 @@ alias: maçonnerie opérative, maçonnerie spéculative, maçons acceptés, acce
 def: Distinction entre les maçons de métier, tailleurs de pierre et bâtisseurs, et les francs-maçons « acceptés », étrangers au métier, qui en firent une société philosophique.
 texte: Les loges de maçons opératifs du Moyen Âge et de la Renaissance réglaient le travail, l'apprentissage et l'entraide ; en Écosse, les statuts rédigés en 1598 et 1599 par William Schaw, maître des travaux du roi, les organisent, et les procès-verbaux des loges commencent en 1599. On y voit entrer des hommes étrangers au métier : un gentilhomme, John Boswell, assiste à une réunion de la loge d'Édimbourg en 1600 ; [[robert-moray]] est reçu en 1641, [[elias-ashmole]] en 1646 en Angleterre.
 texte: Au début du XVIIIe siècle, ces « acceptés » l'emportent : les loges de [[londres|Londres]] qui forment la [[grande-loge-de-londres|Grande Loge]] sont des cercles de gentilshommes, et l'on parle de maçonnerie « spéculative », qui ne bâtit plus que l'homme et la société. Les historiens discutent encore la part de continuité entre les deux, que la légende maçonnique, avec ses *[[old-charges|Old Charges]]*, fait remonter à Euclide et au Temple de Salomon.
-voir: old-charges, robert-moray, elias-ashmole, grande-loge-de-londres, compagnonnage
+voir: old-charges, robert-moray, elias-ashmole, grande-loge-de-londres, compagnonnage, argot-des-batisseurs, art-gothique
 
 @ antimaconnisme
 cat: maconnerie
@@ -444,7 +448,7 @@ dates: attestée depuis 1743
 def: Grade maçonnique où l'on retrouve, dans les souterrains du Temple de Jérusalem en reconstruction, la parole perdue à la mort d'Hiram.
 texte: Le grade apparaît en Irlande et en Angleterre au début des années 1740 : une procession de maçons de Youghal en porte l'emblème en 1743. Son récit se situe au retour de l'exil de Babylone, lors de la reconstruction du Temple par Zorobabel : des ouvriers découvrent une voûte enfouie et, dans ses profondeurs, le nom sacré que la [[legende-d-hiram|légende d'Hiram]] disait perdu.
 texte: Défendue par les « Anciens », l'Arche royale fut reconnue lors de l'union de 1813 comme l'achèvement du grade de maître ; elle se pratique dans des « chapitres » distincts des loges. Elle forme, avec ses voûtes, ses lettres hébraïques et son nom divin, l'un des grades les plus marqués par la [[kabbale-chretienne|kabbale chrétienne]].
-voir: legende-d-hiram, rite-emulation, rite-d-york, tetragramme, parole-perdue
+voir: legende-d-hiram, rite-emulation, rite-d-york, tetragramme, parole-perdue, alphabet-maconnique
 
 @ rite-suedois
 cat: maconnerie
@@ -522,7 +526,7 @@ def: Haut grade maçonnique, dix-huitième du Rite écossais ancien et accepté 
 texte: Apparu en France vers 1760, le grade place le candidat dans un monde en ruine, après la mort du Christ : il doit retrouver la [[parole-perdue|parole perdue]], qui se révèle être l'inscription de la croix, INRI. Les maçons hermétistes la lisent *Igne Natura Renovatur Integra*, « par le feu la nature est renouvelée tout entière ». Son bijou montre un [[pelican|pélican]] nourrissant ses petits de son sang au pied d'une croix ornée d'une [[la-rose|rose]].
 texte: Le grade n'a aucun lien historique avec les [[rose-croix|Rose-Croix]] du XVIIe siècle, dont il emprunte le nom et l'aura. Les chapitres célèbrent chaque année, le Jeudi saint, une « Cène mystique ». Christianisme, alchimie et philanthropie s'y mêlent diversement selon les obédiences.
 schema: degres-maconniques
-voir: rite-ecossais-ancien-et-accepte, rose-croix, pelican, rite-francais, chevalier-kadosh
+voir: rite-ecossais-ancien-et-accepte, rose-croix, pelican, rite-francais, chevalier-kadosh, aigle
 
 @ chevalier-kadosh
 cat: maconnerie
@@ -532,7 +536,7 @@ def: Le trentième degré du Rite écossais ancien et accepté, grade chevaleres
 texte: *Kadosh* signifie « saint » ou « consacré » en hébreu. Le grade, apparu en France au milieu du XVIIIe siècle, met en scène la condamnation des [[templiers]] : le candidat est appelé à combattre l'ignorance, le fanatisme et la tyrannie, autrefois figurés par le pape et le roi qui abattirent l'ordre. Son « échelle mystérieuse » à deux montants et sept degrés fait correspondre vertus et arts libéraux.
 texte: Ce grade, qui a nourri au XIXe siècle la réputation révolutionnaire de la maçonnerie, est conféré en aréopage, au-delà du [[chevalier-rose-croix|Chevalier Rose-Croix]]. Son bijou est l'[[aigle-bicephale|aigle à deux têtes]] ; ses couleurs, le noir et le blanc.
 schema: degres-maconniques
-voir: rite-ecossais-ancien-et-accepte, templiers, chevalier-rose-croix, aigle-bicephale, sainte-vehme
+voir: rite-ecossais-ancien-et-accepte, templiers, chevalier-rose-croix, aigle-bicephale, sainte-vehme, aigle
 
 # ── Obédiences ──────────────────────────────────────────────────────────────
 
@@ -567,7 +571,7 @@ dates: depuis 1773
 def: La plus ancienne et la plus nombreuse des obédiences françaises, fondée en 1773, connue pour son engagement républicain et laïque et sa liberté de conscience absolue.
 texte: La maçonnerie s'installe en France vers 1725 ; une première Grande Loge se constitue dans les années 1730, sous des grands maîtres comme le comte de Clermont. En 1773, elle se réorganise sous le nom de Grand Orient de France, avec pour grand maître le duc de Chartres, futur Philippe Égalité. Sous l'Empire, Joseph Bonaparte en est le grand maître et Cambacérès le véritable chef ; c'est l'époque où la maçonnerie devient un instrument du régime.
 texte: Sous la IIIe République, beaucoup de ses membres sont des républicains militants, et il participe aux combats pour l'école laïque et la séparation des Églises et de l'État. En 1877, il supprime l'obligation de croire en Dieu (voir [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]]), ce qui le rend « irrégulier » aux yeux de Londres ; en 1904, l'[[affaire-des-fiches|affaire des fiches]] le compromet. Son siège est rue Cadet, à Paris. Il pratique surtout le [[rite-francais|Rite français]], et admet des femmes depuis 2010.
-voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite
+voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite, hieron-du-val-d-or
 
 @ grande-loge-de-france
 cat: maconnerie

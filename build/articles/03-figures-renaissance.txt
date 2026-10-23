@@ -97,7 +97,7 @@ repere: 1518 — Publication de la *Polygraphie*, premier livre imprimé de cryp
 repere: 1606 — Première édition de la *Steganographia*.
 repere: 1998 — Le mathématicien Jim Reeds publie le déchiffrement du troisième livre, après Thomas Ernst.
 oeuvres: Des écrivains ecclésiastiques (1494) ; Steganographia (vers 1499, imprimée en 1606) ; Polygraphia (1518)
-voir: steganographia, cornelius-agrippa, anges, magie-ceremonielle, paracelse
+voir: steganographia, cornelius-agrippa, anges, magie-ceremonielle, paracelse, steganographie, chiffre-de-vigenere, alphabets-magiques
 
 @ cornelius-agrippa
 cat: figures
@@ -122,7 +122,7 @@ repere: 1533 — Édition complète du *De occulta philosophia*, à Cologne.
 repere: 1535 — Mort à Grenoble.
 repere: 1563 — Son disciple Jean Wier publie *Des illusions des démons*, contre la chasse aux sorcières.
 oeuvres: De la noblesse et de la préexcellence du sexe féminin (1529) ; De l'incertitude et de la vanité des sciences (1530) ; De occulta philosophia (rédigé en 1510, publié en 1531-1533)
-voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman, intelligences-planetaires
+voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman, intelligences-planetaires, alphabets-magiques, chien
 
 @ paracelse
 cat: figures
@@ -146,7 +146,7 @@ repere: 1536 — *La Grande Chirurgie*, son seul grand succès de librairie.
 repere: 1541 — Mort à Salzbourg.
 repere: 1589 — Johann Huser commence l'édition de ses œuvres complètes.
 oeuvres: Paragranum (1530) ; Opus paramirum (1531) ; Grande Chirurgie (1536) ; Astronomia magna (1537-1538) ; Liber de nymphis, sylphis, pygmaeis et salamandris (publié en 1566)
-voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie
+voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie, salamandre, le-comte-de-gabalis, momie
 
 @ guillaume-postel
 cat: figures
@@ -175,27 +175,33 @@ voir: kabbale-chretienne, zohar, sefer-yetsirah, kabbale
 @ nostradamus
 cat: figures
 nom: Nostradamus
-alias: Michel de Nostredame, Nostredame, Centuries, Prophéties
+alias: Michel de Nostredame, Nostredame, Centuries, Prophéties, Épître à César, Chavigny
 dates: 1503 – 1566
 an: 1503
 def: Médecin et astrologue provençal, auteur d'almanachs et de quatrains prophétiques obscurs, les Centuries, dont les interprétations n'ont jamais cessé depuis le XVIe siècle.
 texte: Michel de Nostredame naît en 1503 à Saint-Rémy-de-Provence, dans une famille de marchands juifs convertis au christianisme une génération plus tôt. Il étudie à Avignon, puis s'inscrit en 1529 à la faculté de médecine de Montpellier. Il s'établit à Agen, s'y marie, puis perd sa femme et ses deux enfants ; il mène ensuite une vie errante d'apothicaire et de médecin, soignant les malades de la peste à Aix-en-Provence en 1546. En 1547, il se fixe à Salon-de-Provence, où il épouse une riche veuve.
-texte: Il publie un traité de recettes de confitures et de fards, et, à partir de 1550, un almanach annuel de prédictions qui le rend célèbre. En 1555 paraissent à [[lyon|Lyon]] les premières de ses *Prophéties* : des quatrains rimés, groupés par centaines (d'où le nom de « Centuries »), écrits dans une langue volontairement énigmatique, mêlée de latin, de mots rares et d'anagrammes, sans ordre chronologique. L'édition complète, posthume, en compte près de mille.
-texte: Catherine de Médicis le fait venir à la cour en 1556 pour dresser l'horoscope de ses enfants. En 1559, le roi Henri II meurt d'un coup de lance reçu dans l'œil lors d'un tournoi ; on y rapporte aussitôt un quatrain sur un « vieux lion » vaincu en « champ bellique », ce qui assure sa réputation. Lors de son tour de France, en 1564, Charles IX passe à Salon et le nomme conseiller et médecin ordinaire. Il meurt deux ans plus tard.
-texte: La réputation des Centuries vient de leur obscurité même : sans dates ni noms clairs, les quatrains ont été rapportés après coup à la Révolution, à Napoléon, à Hitler ou aux attentats de 2001, mais n'ont jamais permis d'annoncer un événement avant qu'il se produise. Les deux camps de la Seconde Guerre mondiale en ont tiré des tracts de propagande. Les historiens ont retrouvé ses sources : chroniques, recueils de prophéties médiévales, auteurs latins. Ses contemporains se moquaient déjà de ses erreurs de calcul astrologique : Nostradamus était d'abord un astrologue de son temps, habile à envelopper ses prédictions de mystère.
+texte: Il publie un traité de recettes de confitures et de fards, et, à partir de 1550, un almanach annuel de prédictions qui le rend célèbre. En 1555 paraissent à [[lyon|Lyon]] les premières de ses *Prophéties* : des quatrains rimés, groupés par centaines (d'où le nom de « Centuries »), écrits dans une langue volontairement énigmatique, mêlée de latin, de mots rares et d'[[anagramme|anagrammes]] — « Rapis » pour Paris —, sans ordre chronologique. L'édition complète, posthume, en compte près de mille.
+texte: Les deux premiers quatrains décrivent sa méthode : la nuit, seul, assis sur un trépied d'airain, une petite flamme sortant de la solitude, une baguette à la main et les pieds dans l'eau. Ces images reprennent presque mot pour mot ce que [[jamblique|Jamblique]] rapporte de la prophétesse d'Apollon aux Branchides : Nostradamus se présente en devin à l'antique, inspiré plutôt que calculateur. Dans la préface adressée à son fils César, il affirme avoir brûlé des livres d'occultisme cachés depuis des siècles, après les avoir lus.
+texte: Catherine de Médicis le fait venir à la cour en 1556 pour dresser l'horoscope de ses enfants. En 1559, le roi Henri II meurt d'un coup de lance reçu dans l'œil lors d'un tournoi ; on y rapporte aussitôt un quatrain sur un « vieux lion » vaincu en « champ bellique », ce qui assure sa réputation. Lors de son tour de France, en 1564, Charles IX passe à Salon et le nomme conseiller et médecin ordinaire. Il meurt deux ans plus tard ; son disciple Jean-Aimé de Chavigny commente ses quatrains, et son tombeau, profané en 1791, est aujourd'hui dans la collégiale Saint-Laurent de Salon.
+texte: La réputation des Centuries vient de leur obscurité même : sans dates ni noms clairs, les quatrains ont été rapportés après coup à la Révolution, à Napoléon, à Hitler ou aux attentats de 2001, mais n'ont jamais permis d'annoncer un événement avant qu'il se produise. Les deux camps de la Seconde Guerre mondiale en ont tiré des tracts de propagande. Les historiens ont retrouvé ses sources : chroniques, recueils de prophéties médiévales, auteurs latins. Ses contemporains se moquaient déjà de ses erreurs de calcul astrologique : Nostradamus était d'abord un astrologue de son temps, habile à envelopper ses prédictions de mystère. La *[[prophetie-de-saint-malachie|prophétie de saint Malachie]]* et celle d'[[orval|Orval]] ont connu le même genre de succès.
 repere: 1503 — Naissance à Saint-Rémy-de-Provence.
 repere: 1529 — Il s'inscrit à la faculté de médecine de Montpellier.
 repere: 1546 — Il combat la peste à Aix-en-Provence.
 repere: 1547 — Installation à Salon-de-Provence.
 repere: 1550 — Il commence à publier chaque année un almanach de prédictions.
-repere: 1555 — Première édition des *Prophéties*, à Lyon.
+repere: 1555 — Première édition des *Prophéties*, à Lyon, avec la préface à son fils César.
 repere: 1556 — Catherine de Médicis le fait venir à la cour.
 repere: 1559 — La mort d'Henri II dans un tournoi assure sa réputation de prophète.
 repere: 1564 — Charles IX le nomme conseiller et médecin ordinaire.
 repere: 1566 — Mort à Salon-de-Provence.
 repere: 1568 — Édition posthume des dix Centuries.
+repere: 1791 — Son tombeau est profané ; ses restes sont transférés à la collégiale Saint-Laurent.
 oeuvres: Traité des fardements et confitures (1555) ; Les Prophéties (1555, édition complète en 1568) ; almanachs annuels (à partir de 1550)
-voir: astrologie, divination, ephemerides, voyance
+extrait: Estant assis de nuict secret estude, // Seul reposé sur la selle d’ærain : // Flambe exigue sortant de solitude, // Fait prosperer qui n’est à croire vain. ¶ Le lyon ieune le vieux surmontera, // En champ bellique par singulier duelle : // Dans cage d’or les yeux luy creuera, // Deux classes vne, puis mourir, mort cruelle.
+source: Nostradamus, *Les Prophéties*, Centurie I, quatrains 1 et 35, texte établi par Anatole Le Pelletier, *Les Oracles de Michel de Nostredame*, 1867 | ws Les oracles de Michel de Nostredame/Tome 2/Partie 2/Section I/Centurie I
+extrait: Et combien que celle occulte Philosophie ne fusse reprouué, n’ay oncque voulu presenter leurs effrenees persuasions, combien que plusieurs volumes qui ont esté cachez par longs siecles me sont este manifestez. Mais doutant ce qui aduiendroit, en ay faict apres la lecture presêt à Vulcan, que cependant qu’il les venoit à deuorer, la flamme leschant l’air rendoit vne clarté insolité, plus claire que naturelle flamme, comme lumiere de feu de clystre fulgurant, illuminant subtil la maison : comme si elle fust esté en subite conflagration. Parquoy à fin qu’à l’aduenir ne fussiez abuzé, perscrutur la parfaicte trâsformation tant seline que solitaire, & soubs terre metaux incorruptibles, & aux ondes, ocultes, les ay en cendres conuertis.
+source: Nostradamus, *Préface à César*, 1555, texte établi par Anatole Le Pelletier, *Les Oracles de Michel de Nostredame*, 1867 | ws Les oracles de Michel de Nostredame/Tome 2/Partie 2/Section I/Épître à Cesar de Nostredame mon fils
+voir: astrologie, divination, ephemerides, voyance, prophetie-de-saint-malachie, anagramme, jamblique, lyon, prophetie-d-orval
 
 @ john-dee
 cat: figures
@@ -223,7 +229,7 @@ repere: 1608 ou 1609 — Mort à Mortlake, dans la pauvreté.
 repere: 1659 — Méric Casaubon publie ses journaux de séances pour le discréditer.
 oeuvres: Propaedeumata aphoristica (1558) ; Monas hieroglyphica (1564) ; préface à l'Euclide anglais (1570) ; General and Rare Memorials pertayning to the Perfect Arte of Navigation (1577)
 schema: monade-hieroglyphique
-voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie, elias-ashmole, londres, prague
+voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie, elias-ashmole, londres, prague, manuscrit-de-voynich, alphabets-magiques
 
 @ edward-kelley
 cat: figures
@@ -244,7 +250,7 @@ repere: 1587 — Les anges ordonnent, selon lui, le partage des épouses ; un pa
 repere: 1589 — Séparé de Dee, il reste en Bohême, où l'empereur Rodolphe II l'anoblit.
 repere: 1591 — Emprisonné au château de Křivoklát.
 repere: 1597 — De nouveau prisonnier, au château de Most, il meurt peu après.
-voir: john-dee, magie-enochienne, cristallomancie, transmutation, alchimie
+voir: john-dee, magie-enochienne, cristallomancie, transmutation, alchimie, manuscrit-de-voynich
 
 @ giordano-bruno
 cat: figures
@@ -334,7 +340,7 @@ repere: 1617 — *Atalanta fugiens*, *Symbola aureae mensae* et *Silentium post 
 repere: 1618 — *Themis aurea*, sur les lois de la Fraternité de la Rose-Croix.
 repere: 1622 — Mort à Magdebourg.
 oeuvres: Arcana arcanissima (1614) ; Atalanta fugiens (1617) ; Symbola aureae mensae (1617) ; Silentium post clamores (1617) ; Themis aurea (1618)
-voir: atalanta-fugiens, emblemes, rose-croix, alchimie, marie-la-juive, robert-fludd
+voir: atalanta-fugiens, emblemes, rose-croix, alchimie, marie-la-juive, robert-fludd, crapaud
 
 @ robert-fludd
 cat: figures
@@ -445,7 +451,7 @@ repere: 1599 — Johann Thölde publie les *Douze Clefs de philosophie*.
 repere: 1604 — *Le Char triomphal de l'antimoine*.
 repere: 1666 — L'antimoine est autorisé de nouveau, après la guérison de Louis XIV.
 repere: 1956 — [[eugene-canseliet|Eugène Canseliet]] publie une traduction commentée des *Douze Clefs*.
-voir: antimoine, vitriol, grand-oeuvre, lion-vert, alchimie, paracelsisme
+voir: antimoine, vitriol, grand-oeuvre, lion-vert, alchimie, paracelsisme, loup
 
 @ michel-sendivogius
 cat: figures
@@ -492,7 +498,7 @@ repere: 1665 — *Le Monde souterrain*.
 repere: 1680 — Mort à Rome.
 repere: 1822 — Champollion déchiffre les hiéroglyphes et ruine ses interprétations.
 oeuvres: Prodromus coptus (1636) ; Ars magna lucis et umbrae (1646) ; Musurgia universalis (1650) ; Œdipus Aegyptiacus (1652-1654) ; Mundus subterraneus (1665) ; Ars magna sciendi (1669)
-voir: hieroglyphes, egyptosophie, kabbale-chretienne, hermetisme, arbre-des-sephiroth, raymond-lulle
+voir: hieroglyphes, egyptosophie, kabbale-chretienne, hermetisme, arbre-des-sephiroth, raymond-lulle, table-isiaque, obelisque, manuscrit-de-voynich, atlantide
 
 @ knorr-von-rosenroth
 cat: figures
@@ -604,7 +610,7 @@ repere: 1560 — Son fils aîné est exécuté pour avoir empoisonné sa femme.
 repere: 1570 — Arrêté par l'Inquisition à Bologne.
 repere: 1576 — Mort à Rome.
 oeuvres: Le Grand Art (1545) ; De la subtilité (1550) ; De la variété des choses (1557) ; Ma vie (écrite en 1575-1576)
-voir: astrologie, theme-astral, magie-naturelle, physiognomonie, tetrabiblos, milan
+voir: astrologie, theme-astral, magie-naturelle, physiognomonie, tetrabiblos, milan, grille-de-cardan
 
 @ giambattista-della-porta
 cat: figures
@@ -627,7 +633,7 @@ repere: 1589 — Édition augmentée de la *Magie naturelle*, en vingt livres.
 repere: 1610 — Membre de l'Académie des Lynx, à Rome.
 repere: 1615 — Mort à Naples.
 oeuvres: Magie naturelle (1558, augmentée en 1589) ; De la physionomie humaine (1586) ; Phytognomonica (1588)
-voir: magie-naturelle, physiognomonie, signatures, sympathie-universelle, steganographia
+voir: magie-naturelle, physiognomonie, signatures, sympathie-universelle, steganographia, steganographie, cryptographie
 
 @ tommaso-campanella
 cat: figures
@@ -673,7 +679,7 @@ repere: 1577 — Il ajoute à son livre la *Pseudomonarchie des démons*.
 repere: 1580 — Jean Bodin le réfute dans *La Démonomanie des sorciers*.
 repere: 1588 — Mort à Tecklenburg.
 oeuvres: Des illusions des démons (1563) ; Pseudomonarchie des démons (1577) ; Des lamies (1577)
-voir: chasse-aux-sorcieres, sorcellerie, demonologie, cornelius-agrippa, jean-bodin, goetie
+voir: chasse-aux-sorcieres, sorcellerie, demonologie, cornelius-agrippa, jean-bodin, goetie, loup-garou, chien
 
 @ jean-bodin
 cat: figures
@@ -695,7 +701,7 @@ repere: 1580 — *De la démonomanie des sorciers*.
 repere: vers 1588 — Il écrit le *Colloque des sept sages*, plaidoyer pour la tolérance resté inédit.
 repere: 1596 — Mort à Laon.
 oeuvres: Les Six Livres de la République (1576) ; De la démonomanie des sorciers (1580) ; Colloque des sept sages (vers 1588, publié en 1857)
-voir: chasse-aux-sorcieres, sorcellerie, sabbat, demonologie, jean-wier
+voir: chasse-aux-sorcieres, sorcellerie, sabbat, demonologie, jean-wier, loup-garou
 
 @ johannes-kepler
 cat: figures
@@ -720,7 +726,7 @@ repere: 1619 — *L'Harmonie du monde*.
 repere: 1627 — *Tables rudolphines*.
 repere: 1630 — Mort à Ratisbonne.
 oeuvres: Le Mystère cosmographique (1596) ; L'Astronomie nouvelle (1609) ; Tertius interveniens (1610) ; L'Harmonie du monde (1619)
-voir: harmonie-des-spheres, astrologie, aspects, robert-fludd, rodolphe-ii, pythagorisme, tycho-brahe
+voir: harmonie-des-spheres, astrologie, aspects, robert-fludd, rodolphe-ii, pythagorisme, tycho-brahe, solides-de-platon, dodecaedre
 
 @ jean-baptiste-morin
 cat: figures
@@ -825,4 +831,4 @@ repere: 1609 — *Lettre de Majesté*, qui accorde la liberté religieuse aux pr
 repere: 1611 — Son frère Matthias le force à abdiquer la couronne de Bohême.
 repere: 1612 — Mort à Prague.
 repere: 1627 — Kepler publie les *Tables rudolphines*, qui portent son nom.
-voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie, chateau-de-prague, prague, tycho-brahe
+voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie, chateau-de-prague, prague, tycho-brahe, manuscrit-de-voynich

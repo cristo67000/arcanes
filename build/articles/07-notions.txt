@@ -27,7 +27,7 @@ alias: mysticisme, mystiques, expérience mystique, union mystique
 def: Expérience d'union directe et intime avec le divin ou l'absolu, et ensemble des doctrines et des pratiques qui y conduisent.
 texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : Maître Eckhart, Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
 texte: [[antoine-faivre]] distingue la mystique de l'ésotérisme : le mystique tend à dépasser toutes les images et tous les intermédiaires pour s'unir à Dieu, tandis que l'ésotériste s'attache aux symboles, aux [[correspondances]] et aux êtres intermédiaires, et cherche à connaître autant qu'à s'unir. Les deux attitudes se mêlent souvent chez les mêmes auteurs.
-voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase
+voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase, marguerite-marie-alacoque
 
 @ initiation
 cat: notions
@@ -36,7 +36,7 @@ alias: initié, initiés, initiatique, rite de passage, rites initiatiques, init
 def: Ensemble de rites et d'enseignements par lesquels une personne est admise dans un groupe ou un état nouveau, souvent vécu comme une mort et une renaissance symboliques.
 texte: L'ethnologue Arnold van Gennep a montré en 1909 que les rites de passage suivent un même schéma : séparation, épreuves dans un état intermédiaire, puis réintégration sous un statut nouveau. Les [[mysteres-antiques|mystères]] de l'Antiquité, les confréries de métiers, la [[franc-maconnerie]] et la plupart des ordres ésotériques organisent ainsi l'entrée de leurs membres, puis leur progression par [[grades-maconniques|grades]].
 texte: Pour les ésotéristes, l'initiation n'est pas seulement l'entrée dans une société : elle transmet une influence spirituelle et éveille des facultés cachées. [[rene-guenon]] insiste sur la nécessité d'une initiation « régulière », transmise par une chaîne ininterrompue, et oppose l'initiation à la [[mystique]], qui serait passive. L'initiation se double presque toujours d'un secret, qui protège moins un savoir qu'une expérience.
-voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore, hierophante, mystes-et-epoptes, neophyte
+voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore, hierophante, mystes-et-epoptes, neophyte, sethos, culte-d-isis
 
 @ correspondances
 cat: notions
@@ -48,7 +48,7 @@ texte: [[emanuel-swedenborg]] a donné à la notion une forme systématique, et 
 schema: planetes-septenaire
 extrait: La Nature est un temple où de vivants piliers // Laissent parfois sortir de confuses paroles ; // L’homme y passe à travers des forêts de symboles // Qui l’observent avec des regards familiers. ¶ Comme de longs échos qui de loin se confondent, // Dans une ténébreuse et profonde unité, // Vaste comme la nuit et comme la clarté, // Les parfums, les couleurs et les sons se répondent. ¶ Il est des parfums frais comme des chairs d’enfants, // Doux comme les hautbois, verts comme les prairies, // — Et d’autres, corrompus, riches et triomphants, ¶ Ayant l’expansion des choses infinies, // Comme l’ambre, le musc, le benjoin et l’encens, // Qui chantent les transports de l’esprit et des sens.
 source: Charles Baudelaire, « Correspondances », *Les Fleurs du mal*, 1857 | gallica bpt6k70861t = l’édition originale numérisée | ws Les Fleurs du mal (éd. 1857)/Correspondances
-voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme
+voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme, charles-baudelaire
 
 @ microcosme-macrocosme
 cat: notions
@@ -66,7 +66,7 @@ alias: anima mundi, âme universelle, esprit du monde, spiritus mundi
 def: Principe vivant qui animerait l'univers entier comme l'âme anime un corps, et relierait toutes ses parties entre elles.
 texte: Dans le *Timée*, [[platon]] décrit le monde comme un vivant doté d'une âme, que le [[demiurge]] a façonnée selon des proportions musicales. Les stoïciens parlent d'un souffle divin qui traverse toutes choses ; [[plotin]] fait de l'Âme le troisième principe, après l'Un et l'Intellect.
 texte: [[marsile-ficin]] y ajoute un « esprit du monde », substance très subtile, par laquelle l'âme du monde transmet aux corps les influences des astres : c'est ce qui rend possible la magie naturelle. [[giordano-bruno]], les alchimistes et la [[naturphilosophie]] de Schelling — auteur d'un traité *De l'âme du monde* (1798) — reprennent l'idée d'une nature vivante. L'[[occultisme]] l'identifie à la [[lumiere-astrale]].
-voir: platon, neoplatonisme, sympathie-universelle, lumiere-astrale, naturphilosophie
+voir: platon, neoplatonisme, sympathie-universelle, lumiere-astrale, naturphilosophie, ecole-de-chartres, hecate
 
 @ sympathie-universelle
 cat: notions
@@ -149,7 +149,7 @@ alias: Sagesse divine, Vierge Sophia, sophiologie, Achamoth
 def: Figure de la Sagesse divine, personnifiée dans la Bible, devenue dans le gnosticisme l'éon dont la chute engendre le monde, et chez les théosophes chrétiens l'épouse céleste de l'âme.
 texte: Dans le livre des Proverbes, la Sagesse parle comme une personne : « Le Seigneur m'a créée au commencement de ses voies. » Les [[gnosticisme|gnostiques]] font d'elle le dernier des [[eon|éons]] : en voulant connaître le Père sans son conjoint, elle donne naissance à un avorton, le [[demiurge]], et à la matière ; repentante, elle est sauvée par le Christ.
 texte: Chez [[jakob-boehme]], la « Vierge Sophia » est le miroir de Dieu et la compagne qu'Adam a perdue en tombant ; l'âme doit retrouver avec elle une union intérieure. Cette figure traverse la [[theosophie-chretienne|théosophie chrétienne]] jusqu'aux penseurs russes de la « sophiologie », comme Vladimir Soloviev.
-voir: gnosticisme, pistis-sophia, jakob-boehme, eon, shekhina
+voir: gnosticisme, pistis-sophia, jakob-boehme, eon, shekhina, atbash, marie-madeleine
 
 @ reintegration
 cat: notions
@@ -243,7 +243,7 @@ alias: réincarnation, vies antérieures, renaissance, transmigration
 def: Croyance selon laquelle l'âme, après la mort, revient vivre dans un nouveau corps, et traverse ainsi une série d'existences.
 texte: La croyance se trouve dans les religions de l'Inde, chez certains philosophes grecs, sous le nom de [[metempsycose]], et dans plusieurs courants de la [[kabbale]] sous celui de *guilgoul*. Les Églises chrétiennes l'ont rejetée.
 texte: Le XIXe siècle la réintroduit en Occident sous une forme nouvelle : pour le [[spiritisme]] d'[[allan-kardec]] et pour la [[theosophie]], l'âme progresse de vie en vie, sans retour en arrière ni passage par des corps d'animaux, jusqu'à la perfection. Cette réincarnation « évolutionniste » est devenue une croyance répandue en Europe, souvent sans lien avec une religion particulière.
-voir: metempsycose, karma, spiritisme, theosophie, annales-akashiques, palingenesie
+voir: metempsycose, karma, spiritisme, theosophie, annales-akashiques, palingenesie, abydos, papillon
 
 @ metempsycose
 cat: notions
@@ -252,7 +252,7 @@ alias: metempsychose, transmigration des âmes, palingénésie
 def: Passage de l'âme, après la mort, dans un autre corps, humain, animal ou végétal, selon la doctrine de certains philosophes grecs.
 texte: [[pythagore]] passait pour se souvenir de ses vies antérieures et aurait reconnu dans les cris d'un chien battu la voix d'un ami mort. Empédocle dit avoir été « garçon, fille, buisson, oiseau et poisson ». Dans la *République*, [[platon]] raconte comment les âmes choisissent leur prochaine vie avant de boire l'eau de l'oubli.
 texte: La métempsycose antique admet le passage dans des corps animaux, comme punition ou épreuve. Le [[spiritisme]] et la [[theosophie]] le refusent et préfèrent parler de [[reincarnation]].
-voir: reincarnation, pythagore, orphisme, karma
+voir: reincarnation, pythagore, orphisme, karma, papillon
 
 @ annales-akashiques
 cat: notions
@@ -288,7 +288,7 @@ alias: Tradition, tradition unique, tradition hyperboréenne, centre suprême
 def: Selon René Guénon et le traditionalisme, vérité métaphysique révélée à l'origine de l'humanité, dont toutes les religions authentiques sont des adaptations.
 texte: [[rene-guenon]] soutient qu'il existe une Tradition unique, d'origine non humaine, dont les grandes religions sont les branches, adaptées à des peuples et à des époques. Elle aurait eu pour premier siège une terre polaire, l'Hyperborée, et se conserverait dans un « centre suprême » caché, qu'il associe au Roi du monde et à l'[[agartha|Agartha]].
 texte: L'idée prolonge la [[prisca-theologia]] de la Renaissance et la « philosophie pérenne ». Elle fonde le [[traditionalisme]] et son jugement sévère sur la modernité, perçue comme la fin d'un [[cycles-cosmiques|cycle]].
-voir: traditionalisme, rene-guenon, prisca-theologia, agartha, cycles-cosmiques
+voir: traditionalisme, rene-guenon, prisca-theologia, agartha, cycles-cosmiques, axis-mundi
 
 @ cycles-cosmiques
 cat: notions
@@ -309,18 +309,19 @@ alias: âge du Verseau, Age of Aquarius, ère des Poissons, ères astrologiques
 def: Selon l'astrologie, période d'environ deux mille ans qui succède à l'ère des Poissons, à mesure que le point du printemps recule dans le zodiaque, et qu'on associe à une ère de conscience nouvelle.
 texte: À cause de la [[precession|précession des équinoxes]], le Soleil, à l'équinoxe de printemps, se lève devant une constellation qui change très lentement, en remontant le zodiaque : il a traversé le Bélier, puis les Poissons, et approche du Verseau. Chaque « ère » dure environ 2 150 ans. L'ère des Poissons a été associée au christianisme, dont le poisson était un symbole ; celle du Verseau, porteur d'eau, à une spiritualité universelle.
 texte: Les astrologues ne s'accordent pas sur sa date de début, que l'on place entre la fin du XIXe siècle et le XXVIIe. En France, l'expression est lancée par Paul Le Cour dans *L'Ère du Verseau* (1937). La chanson *Aquarius* de la comédie musicale *Hair* (1967) en a fait le symbole de la contre-culture et du [[new-age|New Age]].
-voir: precession, new-age, verseau, poissons, cycles-cosmiques
+voir: precession, new-age, verseau, poissons, cycles-cosmiques, hieron-du-val-d-or, poisson
 
 @ atlantide
 cat: notions
 nom: Atlantide
-alias: Atlantis, Atlantes, continent englouti
+alias: Atlantis, Atlantes, continent englouti, Nouvelle Atlantide, Atlantica, orichalque
 def: Île légendaire décrite par Platon, puissance maritime engloutie en un jour et une nuit, devenue pour l'ésotérisme moderne le berceau d'une civilisation et d'une sagesse perdues.
-texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
-texte: L'Atlantide renaît avec *Atlantis* d'Ignatius Donnelly (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
+texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, aux murailles couvertes d'orichalque, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
+texte: La Renaissance la ressuscite. [[francis-bacon|Francis Bacon]] intitule *La Nouvelle Atlantide* (1627) son utopie savante ; [[athanasius-kircher|Athanase Kircher]] en dessine une carte célèbre dans son *Monde souterrain* (1665) ; le Suédois Olaus Rudbeck, dans son *Atlantica* (1679), la place en Suède, et l'astronome Jean-Sylvain Bailly, en 1779, au pôle nord. [[jules-verne|Jules Verne]] fait visiter au professeur Aronnax ses ruines sous-marines dans *Vingt mille lieues sous les mers* (1870), et le poète catalan Jacint Verdaguer lui consacre *L'Atlantide* (1877), dont [[antoni-gaudi|Gaudí]] tira un dragon de fer.
+texte: L'Atlantide moderne naît avec *Atlantis* d'[[ignatius-donnelly|Ignatius Donnelly]] (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. Paul Le Cour fonde en 1926 une société d'études atlantéennes ; les nazis de l'[[ahnenerbe|Ahnenerbe]] et [[heinrich-himmler|Himmler]] rêvent d'une Atlantide nordique, berceau de la « race aryenne ». Pierre Benoit en fait un roman d'aventures (1919), et l'archéologue Spyridon Marinatos rapproche en 1939 la légende de l'éruption de Santorin, qui ravagea la Crète minoenne. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
 extrait: Ces livres nous apprennent quelle puissante armée Athènes a détruite, armée qui, venue à travers la mer Atlantique, envahissait insolemment l’Europe et l’Asie ; car cette mer était alors navigable, et il y avait au devant du détroit, que vous appelez les Colonnes d’Hercule, une île plus grande que la Libye et l’Asie. (…) Dans la suite de grands tremblements de terre et des inondations engloutirent, en un seul jour et en une nuit fatale, tout ce qu’il y avait chez vous de guerriers ; l’île atlantide disparut sous la mer ; aussi depuis ce temps la mer est-elle devenue inaccessible et a-t-elle cessé d’être navigable par la quantité de limon que l’île abîmée a laissé à sa place.
 source: Platon, *Timée*, 24e-25d, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
-voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale
+voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale, ignatius-donnelly, francis-bacon, jules-verne, anciens-astronautes, hieron-du-val-d-or
 
 @ lemurie
 cat: notions
@@ -329,7 +330,7 @@ alias: Lemuria, Mu, continent de Mu
 def: Continent englouti imaginé en 1864 par un zoologiste pour expliquer la présence de primates apparentés à Madagascar et en Inde, puis adopté par la théosophie comme berceau d'une humanité primitive.
 texte: Le zoologiste britannique Philip Sclater propose un pont de terre disparu entre Madagascar et l'Inde, qu'il nomme Lémurie, d'après les lémuriens. L'hypothèse, raisonnable dans la science de son temps, a été abandonnée avec la tectonique des plaques, qui explique autrement la répartition des espèces.
 texte: [[helena-blavatsky]] fait de la Lémurie le continent de la troisième race-racine, êtres gigantesques et d'abord androgynes. Un autre continent fabuleux, Mu, est popularisé dans le Pacifique par James Churchward à partir de 1926.
-voir: atlantide, theosophie, doctrine-secrete
+voir: atlantide, theosophie, doctrine-secrete, anciens-astronautes
 
 @ agartha
 cat: notions
@@ -365,7 +366,7 @@ alias: table tournante, guéridon, typtologie, coups frappés, tables parlantes
 def: Pratique très en vogue au milieu du XIXe siècle, où des personnes assises autour d'une table, les mains posées sur elle, obtiennent qu'elle bouge et frappe des coups interprétés comme des messages d'esprits.
 texte: Venue des États-Unis, la mode gagne l'Europe en 1853. On convient d'un code — un coup pour oui, deux pour non, ou un nombre de coups par lettre de l'alphabet — et l'on interroge la table. À Jersey, en exil, [[victor-hugo|Victor Hugo]] et sa famille dialoguent ainsi pendant deux ans avec Shakespeare, Molière, Jésus ou « l'Ombre du sépulcre ».
 texte: Dès 1853, le physicien Michael Faraday montre par une expérience ingénieuse que ce sont les participants qui, sans le savoir, poussent la table par de petits mouvements involontaires ; le chimiste Chevreul arrive à la même conclusion pour le pendule et la baguette. Ce phénomène, dit « idéomoteur », explique aussi les messages du [[ouija]].
-voir: spiritisme, spiritualisme, medium, ouija, pendule
+voir: spiritisme, spiritualisme, medium, ouija, pendule, gustave-flaubert
 
 @ ectoplasme
 cat: notions

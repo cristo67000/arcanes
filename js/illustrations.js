@@ -53,7 +53,7 @@
   function legende(im, classe) {
     const leg = element(classe === 'figcaption' ? 'figcaption' : 'div', classe === 'figcaption' ? null : classe);
     leg.appendChild(element('span', 'illustration-legende')).appendChild(Rendu.fragment(im.l));
-    leg.appendChild(element('span', 'illustration-credit', im.cr + ' · ' + im.li));
+    leg.appendChild(element('span', 'illustration-credit')).appendChild(Rendu.fragment(im.cr + ' · ' + im.li));
     return leg;
   }
 
@@ -83,7 +83,8 @@
     const grille = element('div', 'planche-grille');
     for (const im of p.im) {
       const cible = im.r ? Dictionnaire.parId(im.r) : null;
-      const nom = cible ? cible.n : texte(im.l);
+      // faute d'article, le début de la légende : « Planche 4 », pas tout son texte
+      const nom = cible ? cible.n : texte(im.l).split(/\s:\s/)[0];
       const b = bouton('vignette', '', () => (cible ? Fiche.ouvrir(cible.id) : agrandir(im)));
       b.setAttribute('aria-label', cible ? nom : 'Agrandir l’image : ' + nom);
       b.appendChild(image(im));

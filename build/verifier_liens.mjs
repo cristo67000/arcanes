@@ -37,6 +37,7 @@ function sorteDe(u) {
   if (h === 'fr.wikipedia.org') return 'wp';
   if (h === 'en.wikipedia.org') return 'en';
   if (h === 'fr.wikisource.org') return 'ws';
+  if (h === 'en.wikisource.org') return 'wsen';
   if (h === 'data.bnf.fr') return 'bnf';
   if (h === 'archive.org') return 'ia';
   if (h === 'gallica.bnf.fr') return 'gallica';
@@ -78,7 +79,7 @@ async function verifierWiki(hote, adresses) {
       const pg = pages.get(t);
       if (!pg || pg.missing || pg.invalid) echecs.push([u, 'page absente']);
       // sur Wikisource, une « homonymie » est la liste des éditions d'un texte : bienvenue
-      else if (pg.pageprops && 'disambiguation' in pg.pageprops && hote !== 'fr.wikisource.org') echecs.push([u, 'page d’homonymie']);
+      else if (pg.pageprops && 'disambiguation' in pg.pageprops && !hote.endsWith('.wikisource.org')) echecs.push([u, 'page d’homonymie']);
       else if (t !== demande) echecs.push([u, 'redirige vers « ' + t + ' »']);
     });
     await attendre(300);
@@ -149,6 +150,7 @@ for (const [s, adresses] of groupes) {
   const e = s === 'wp' ? await verifierWiki('fr.wikipedia.org', adresses)
     : s === 'en' ? await verifierWiki('en.wikipedia.org', adresses)
       : s === 'ws' ? await verifierWiki('fr.wikisource.org', adresses)
+      : s === 'wsen' ? await verifierWiki('en.wikisource.org', adresses)
         : s === 'gallica' ? await verifierGallica(adresses)
           : await verifierAutres(adresses);
   console.log(e.length ? e.length + ' échec(s)' : 'toutes bonnes');

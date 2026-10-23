@@ -28,7 +28,7 @@ repere: 1787 — Fondation à Londres de l'Église de la Nouvelle Jérusalem.
 oeuvres: Arcanes célestes (1749-1756) ; Du ciel et de l'enfer (1758) ; La Sagesse angélique sur le divin amour et la divine sagesse (1763) ; La Vraie Religion chrétienne (1771)
 extrait: La vie d’Emmanuel Swedenborg fut scindée en deux parts, reprit le pasteur. De 1688 à 1745, le baron Emmanuel de Swedenborg apparut dans le monde comme un homme du plus vaste savoir, estimé, chéri pour ses vertus, toujours irréprochable, constamment utile. Tout en remplissant de hautes fonctions en Suède, il a publié de 1709 à 1740, sur la minéralogie, la physique, les mathématiques et l’astronomie, des livres nombreux et solides qui ont éclairé le monde savant. (…) Enfin, il ne s’est pas occupé d’une science sans lui faire faire un progrès.
 source: Honoré de Balzac, *Séraphîta*, 1835, chap. III (le pasteur Becker parle) | ws Séraphîta
-voir: correspondances, arcanes-celestes, illuminisme, anges, spiritisme
+voir: correspondances, arcanes-celestes, illuminisme, anges, spiritisme, charles-baudelaire
 
 @ martinez-de-pasqually
 cat: figures
@@ -124,7 +124,7 @@ repere: 1791 — Condamné à mort, peine commuée en prison à vie.
 repere: 1795 — Mort dans la forteresse de San Leo.
 extrait: Sa femme, qui était fort belle et d’une intelligence élevée, l’avait suivi dans tous ses voyages. Elle présida à ce fameux souper où assistèrent la plupart des philosophes du temps, et dans lequel on fit apparaître plusieurs personnages morts depuis peu de temps : selon le système de Cagliostro, il n’y a pas de morts. Aussi avait-on mis douze couverts, quoiqu’il n’y eût que six invités : d’Alembert, Diderot, Voltaire, le duc de Choiseul, l’abbé de Voisenon et on ne sait quel autre, vinrent s’asseoir, quoique morts, aux places qui leur avaient été destinées, et causèrent avec les conviés, de omni re scibili et quibusdam aliis. ¶ Vers cette époque, Cagliostro fonda la célèbre loge égyptienne, laissant à sa femme le soin d’en établir une autre en faveur de son sexe, laquelle fut mise sous l’invocation d’Isis.
 source: Gérard de Nerval, *Les Illuminés*, 1852, « Cagliostro » | gallica bpt6k108403r | ws Les Illuminés (1852)/Cagliostro
-voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin
+voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin, maconnerie-egyptienne, sethos
 
 @ comte-de-saint-germain
 cat: figures
@@ -210,7 +210,7 @@ repere: 1773 — Premier volume du *Monde primitif*.
 repere: 1778 — Membre de la loge des Neuf Sœurs, où Voltaire est initié la même année.
 repere: 1781 — Le huitième volume expose l'origine égyptienne du tarot.
 repere: 1784 — Mort à Paris.
-voir: monde-primitif, tarot, egyptosophie, etteilla, les-neuf-soeurs, arcanes-majeurs
+voir: monde-primitif, tarot, egyptosophie, etteilla, les-neuf-soeurs, arcanes-majeurs, thot, livre-de-thot
 
 @ etteilla
 cat: figures
@@ -230,7 +230,7 @@ repere: 1788 — Il fonde la Société des interprètes du Livre de Thot.
 repere: 1789 — Publication de son tarot « rectifié ».
 repere: 1791 — Mort à Paris.
 repere: 1996 — Decker, Depaulis et Dummett retracent son histoire dans *A Wicked Pack of Cards*.
-voir: cartomancie, tarot, court-de-gebelin, divination, mademoiselle-lenormand
+voir: cartomancie, tarot, court-de-gebelin, divination, mademoiselle-lenormand, thot, livre-de-thot
 
 @ dom-pernety
 cat: figures
@@ -295,7 +295,7 @@ repere: 1785 — L'ordre interdit, il perd sa chaire et se réfugie à Gotha.
 repere: 1787 — Le gouvernement bavarois publie des documents saisis chez les Illuminés.
 repere: 1797 — L'abbé Barruel fait des Illuminés les auteurs de la Révolution.
 repere: 1830 — Mort à Gotha.
-voir: illumines-de-baviere, franc-maconnerie, illuminisme, augustin-barruel, antimaconnisme
+voir: illumines-de-baviere, franc-maconnerie, illuminisme, augustin-barruel, antimaconnisme, chouette
 
 @ fabre-d-olivet
 cat: figures
@@ -364,7 +364,7 @@ repere: 1875 — Mort à Paris.
 oeuvres: Dogme et rituel de la haute magie (1854-1856) ; Histoire de la magie (1860) ; La Clef des grands mystères (1861) ; La Science des esprits (1865) ; Le Grand Arcane (publié en 1898)
 extrait: Depuis trop longtemps on confond la magie avec les prestiges des charlatans, avec les hallucinations des malades, et avec les crimes de certains malfaiteurs exceptionnels. (…) ¶ La magie ne saurait être ce que la font ceux qui ne la connaissent pas. Il n’appartient d’ailleurs à personne de la faire ceci ou cela ; elle est ce qu’elle est, elle est par elle-même, comme les mathématiques, car c’est la science exacte et absolue de la nature et de ses lois. ¶ La magie est la science des anciens mages ; et la religion chrétienne, qui a imposé silence aux oracles menteurs, et fait cesser tous les prestiges des faux dieux, révère elle-même ces mages qui vinrent de l’Orient, guidés par une étoile, pour adorer le Sauveur du monde dans son berceau.
 source: Éliphas Lévi, *Histoire de la magie*, 1860, introduction | gallica bpt6k75611x | ia histoiredelamagi21013gut = le texte du Projet Gutenberg
-voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique
+voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique, sphinx, pan
 
 @ allan-kardec
 cat: figures
@@ -415,7 +415,7 @@ repere: 1885 — Le rapport Hodgson déclare ses phénomènes frauduleux ; elle 
 repere: 1888 — *La Doctrine secrète*.
 repere: 1891 — Mort à Londres, le 8 mai.
 oeuvres: Isis dévoilée (1877) ; La Doctrine secrète (1888) ; La Clef de la théosophie (1889) ; La Voix du silence (1889)
-voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques
+voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques, isis
 
 @ henry-steel-olcott
 cat: figures
@@ -685,7 +685,7 @@ repere: 1892 — Il crée le second ordre de la Golden Dawn.
 repere: 1898 — Traduction du *Livre d'Abramelin*.
 repere: 1900 — L'autoritarisme de Mathers fait éclater l'ordre.
 repere: 1918 — Mort à Paris.
-voir: golden-dawn, william-wynn-westcott, aleister-crowley, livre-d-abramelin, clavicule-de-salomon, magie-ceremonielle
+voir: golden-dawn, william-wynn-westcott, aleister-crowley, livre-d-abramelin, clavicule-de-salomon, magie-ceremonielle, isis
 
 @ william-wynn-westcott
 cat: figures
@@ -829,7 +829,7 @@ repere: 1798 — *Pollens*, premiers fragments signés Novalis.
 repere: 1800 — *Hymnes à la nuit*.
 repere: 1801 — Mort de la tuberculose, à vingt-huit ans.
 repere: 1802 — Publication posthume d'*Henri d'Ofterdingen*.
-voir: naturphilosophie, jakob-boehme, egyptosophie, mystique, imagination-creatrice
+voir: naturphilosophie, jakob-boehme, egyptosophie, mystique, imagination-creatrice, isis
 
 @ william-blake
 cat: figures
@@ -956,7 +956,7 @@ repere: 1855 — Fin des séances ; il s'installe à Guernesey.
 repere: 1856 — *Les Contemplations*, avec « Ce que dit la bouche d'ombre ».
 repere: 1885 — Mort à Paris ; funérailles nationales.
 repere: 1923 — Publication des procès-verbaux des tables tournantes de Jersey.
-voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel
+voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel, argot, gothique, crapaud, elephant, saint-sulpice
 
 @ edward-bulwer-lytton
 cat: figures
@@ -980,7 +980,7 @@ repere: 1866 — Fait baron Lytton.
 repere: 1871 — *La Race future*, qui invente le « vril ».
 repere: 1873 — Mort à Torquay.
 repere: 1960 — *Le Matin des magiciens* fait du vril une légende nazie.
-voir: zanoni, eliphas-levi, rose-croix, agartha, matin-des-magiciens, ariosophie, vril
+voir: zanoni, eliphas-levi, rose-croix, agartha, matin-des-magiciens, ariosophie, vril, roman-gothique
 
 @ joris-karl-huysmans
 cat: figures
@@ -1003,7 +1003,7 @@ repere: 1895 — *En route*, récit de sa conversion.
 repere: 1898 — *La Cathédrale*, lecture symbolique de Chartres.
 repere: 1899 — Oblat à l'abbaye de Ligugé.
 repere: 1907 — Mort à Paris.
-voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan
+voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan, gilles-de-rais
 
 @ maitre-philippe
 cat: figures

@@ -14,7 +14,7 @@ texte: En 1127, il gagne l'Occident pour chercher des recrues et des donations. 
 repere: vers 1120 — Il fonde à Jérusalem la communauté des pauvres chevaliers du Christ.
 repere: 1129 — Le concile de Troyes approuve la règle de l'ordre.
 repere: 1136 — Mort en Orient.
-voir: templiers, bernard-de-clairvaux, jacques-de-molay, temple-de-salomon
+voir: templiers, bernard-de-clairvaux, jacques-de-molay, temple-de-salomon, godefroy-de-bouillon
 
 @ jacques-de-molay
 cat: figures
@@ -30,7 +30,7 @@ repere: 1292 — Élu grand maître.
 repere: 1307 — Arrêté à Paris le 13 octobre.
 repere: 1308 — Interrogé par les cardinaux à Chinon.
 repere: 1314 — Brûlé à Paris le 18 mars.
-voir: templiers, chinon, hugues-de-payns, chevalier-kadosh, baphomet
+voir: templiers, chinon, hugues-de-payns, chevalier-kadosh, baphomet, philippe-le-bel
 
 @ bernard-de-clairvaux
 cat: figures
@@ -47,7 +47,7 @@ repere: 1146 — Il prêche la deuxième croisade à Vézelay.
 repere: 1153 — Mort à Clairvaux.
 repere: 1174 — Canonisation.
 oeuvres: Éloge de la nouvelle milice (vers 1130) ; Sermons sur le Cantique des cantiques ; Traité de l'amour de Dieu
-voir: templiers, hugues-de-payns, catharisme, rene-guenon, vezelay, divine-comedie
+voir: templiers, hugues-de-payns, catharisme, rene-guenon, vezelay, divine-comedie, prophetie-de-saint-malachie
 
 @ francois-rabelais
 cat: figures
@@ -66,7 +66,7 @@ repere: 1552 — *Quart Livre*.
 repere: 1553 — Mort à Paris.
 repere: 1564 — Publication posthume du *Cinquième Livre*.
 oeuvres: Pantagruel (1532) ; Gargantua (1534) ; Tiers Livre (1546) ; Quart Livre (1552)
-voir: thelema, abbaye-de-theleme, aleister-crowley, langue-des-oiseaux
+voir: thelema, abbaye-de-theleme, aleister-crowley, langue-des-oiseaux, anagramme, pan
 
 @ gerard-de-nerval
 cat: figures
@@ -85,7 +85,7 @@ repere: 1852 — *Les Illuminés*.
 repere: 1854 — *Les Filles du feu* et *Les Chimères*.
 repere: 1855 — Il se pend à Paris ; *Aurélia* paraît la même année.
 oeuvres: Voyage en Orient (1851) ; Les Illuminés (1852) ; Les Filles du feu (1854) ; Les Chimères (1854) ; Aurélia (1855)
-voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo, faust
+voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo, faust, isis, horus, culte-d-isis, pompei
 
 @ karl-maria-wiligut
 cat: figures
@@ -197,7 +197,7 @@ repere: 1961 — Fondation de la revue *Planète*.
 repere: 1978 — Il fonde et dirige le *Figaro Magazine*.
 repere: 1997 — Mort à Suresnes.
 oeuvres: Monsieur Gurdjieff (1954) ; Le Matin des magiciens (1960, avec Jacques Bergier)
-voir: matin-des-magiciens, jacques-bergier, georges-gurdjieff, fulcanelli
+voir: matin-des-magiciens, jacques-bergier, georges-gurdjieff, fulcanelli, anciens-astronautes
 
 @ jacques-bergier
 cat: figures
@@ -214,4 +214,4 @@ repere: 1944 — Déporté à Mauthausen.
 repere: 1960 — *Le Matin des magiciens*.
 repere: 1978 — Mort à Paris.
 oeuvres: Le Matin des magiciens (1960, avec Louis Pauwels) ; Les Livres maudits (1971)
-voir: matin-des-magiciens, louis-pauwels, fulcanelli
+voir: matin-des-magiciens, louis-pauwels, fulcanelli, anciens-astronautes

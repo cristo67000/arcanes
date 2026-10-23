@@ -158,7 +158,7 @@ texte: La tradition chrétienne fait mourir le Christ à trente-trois ans, à la
 texte: En 1801, le Suprême Conseil fondé à Charleston organise le [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] en trente-trois degrés, le dernier étant celui de Souverain Grand Inspecteur général : le « 33e degré » est devenu, dans l'imaginaire, le sommet d'une hiérarchie secrète. Les colonnes vertébrales humaines comptent trente-trois vertèbres, ce que des auteurs ésotériques n'ont pas manqué de relever.
 repere: 1801 — Fondation à Charleston du Suprême Conseil, qui organise le rite en trente-trois degrés.
 repere: 1804 — Le comte de Grasse-Tilly fonde à Paris le Suprême Conseil de France.
-voir: rite-ecossais-ancien-et-accepte, grades-maconniques, dante, divine-comedie, trois
+voir: rite-ecossais-ancien-et-accepte, grades-maconniques, dante, divine-comedie, trois, sagrada-familia
 
 @ quarante
 cat: nombres
@@ -201,4 +201,4 @@ texte: Platon, dans le *Timée*, fait construire le monde au démiurge avec des 
 texte: Au XXe siècle, Matila Ghyka, avec *Le Nombre d'or* (1931), puis le mouvement du [[new-age|New Age]] ont fait de la géométrie sacrée une clé universelle, de la [[vesica-piscis|vesica piscis]] à la [[fleur-de-vie|fleur de vie]] et au [[nombre-d-or|nombre d'or]], retrouvé jusque dans les [[pyramides]]. Les historiens de l'architecture reconnaissent l'usage de tracés géométriques et de rapports simples chez les bâtisseurs, mais beaucoup des proportions « secrètes » découvertes après coup tiennent à la liberté de celui qui mesure.
 repere: vers 1230 — Le carnet de Villard de Honnecourt.
 repere: 1931 — Matila Ghyka, *Le Nombre d'or*.
-voir: nombre-d-or, vesica-piscis, fleur-de-vie, cathedrale-de-chartres, ondes-de-forme, pythagore
+voir: nombre-d-or, vesica-piscis, fleur-de-vie, cathedrale-de-chartres, ondes-de-forme, pythagore, dodecaedre, solides-de-platon

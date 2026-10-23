@@ -2229,7 +2229,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Splendor_Solis_16_venus_peacocks_tail.jpg",
    "pour": [
-    "cauda-pavonis"
+    "cauda-pavonis",
+    "oeuf-philosophique"
    ],
    "sig": "Splendor Solis 16 venus peacocks tail.jpg||400|74"
   },
@@ -2303,7 +2304,8 @@
    "src": "https://commons.wikimedia.org/wiki/File:UBN11497_Gikatilla_Portaelucis_e_tp_ill_Ten-Sephiroth_c_124mb-kopie.jpg",
    "pour": [
     "kabbale-chretienne",
-    "sephiroth"
+    "sephiroth",
+    "kabbale"
    ],
    "sig": "UBN11497 Gikatilla Portaelucis e tp ill Ten-Sephiroth c 124mb-kopie.jpg||440|74"
   },
@@ -2618,7 +2620,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:De_re_metallica_-_dowsing_(125711292).jpg",
    "pour": [
-    "radiesthesie"
+    "radiesthesie",
+    "geobiologie"
    ],
    "sig": "De re metallica - dowsing (125711292).jpg||520|74"
   },
@@ -5643,6 +5646,5363 @@
     "vezelay"
    ],
    "sig": "Vézelay Narthex Tympan central 220608 01.jpg||560|74"
+  },
+  "mutus-01": {
+   "f": "img/mutus-01.webp",
+   "v": "df1325dbd4",
+   "w": 620,
+   "h": 779,
+   "l": "Planche 1 : le dormeur au pied de l’échelle, que les anges réveillent de leurs trompettes",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p7"
+  },
+  "mutus-02": {
+   "f": "img/mutus-02.webp",
+   "v": "2582bcf47b",
+   "w": 620,
+   "h": 779,
+   "l": "Planche 2 : sous le soleil, deux anges tiennent une fiole ; l’homme et la femme prient de part et d’autre de l’athanor",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p9"
+  },
+  "mutus-03": {
+   "f": "img/mutus-03.webp",
+   "v": "b164ee0de5",
+   "w": 620,
+   "h": 779,
+   "l": "Planche 3 : le monde en cercles, entre le Soleil et la Lune ; au sommet, Jupiter sur son aigle",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p11"
+  },
+  "mutus-04": {
+   "f": "img/mutus-04.webp",
+   "v": "7fb10bfe1e",
+   "w": 620,
+   "h": 779,
+   "l": "Planche 4 : la récolte de la rosée, avec des draps tendus dans le pré entre le bélier et le taureau, puis tordus au-dessus d’une bassine",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p13"
+  },
+  "mutus-rosee": {
+   "f": "img/mutus-rosee.webp",
+   "v": "7fb10bfe1e",
+   "w": 620,
+   "h": 779,
+   "l": "Planche 4 du *Mutus liber* : la récolte de la rosée, avec des draps tendus dans le pré entre le bélier et le taureau, puis tordus au-dessus d’une bassine",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [
+    "mutus-liber",
+    "rosee"
+   ],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p13"
+  },
+  "mutus-05": {
+   "f": "img/mutus-05.webp",
+   "v": "163cb1161e",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 5 : au laboratoire, l’homme et la femme versent, distillent et cuisent",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p15"
+  },
+  "mutus-06": {
+   "f": "img/mutus-06.webp",
+   "v": "0c6af996ff",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 6 : distillations à l’alambic",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p17"
+  },
+  "mutus-07": {
+   "f": "img/mutus-07.webp",
+   "v": "2aa2b0a8cb",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 7 : les opérations se poursuivent ; en bas, des figures allégoriques dans le feu et dans le bain",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p19"
+  },
+  "mutus-08": {
+   "f": "img/mutus-08.webp",
+   "v": "03addd60a9",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 8 : les deux anges et la fiole où se dresse un enfant ; le couple prie devant l’athanor",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p21"
+  },
+  "mutus-09": {
+   "f": "img/mutus-09.webp",
+   "v": "35f0f217ca",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 9 : nouvelle récolte de la rosée, entre le bélier et le taureau",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p23"
+  },
+  "mutus-10": {
+   "f": "img/mutus-10.webp",
+   "v": "fd212e9145",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 10 : le travail à la table et à l’athanor ; en bas, deux figures couronnées de rayons se donnent la main",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p25"
+  },
+  "mutus-11": {
+   "f": "img/mutus-11.webp",
+   "v": "27ad8dcebb",
+   "w": 620,
+   "h": 781,
+   "l": "Planche 11 : de nouveau les deux anges, la fiole et l’athanor, sous le soleil",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p27"
+  },
+  "mutus-12": {
+   "f": "img/mutus-12.webp",
+   "v": "ebeccb5ee7",
+   "w": 620,
+   "h": 785,
+   "l": "Planche 12 : la rosée, une troisième fois",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p29"
+  },
+  "mutus-13": {
+   "f": "img/mutus-13.webp",
+   "v": "dae3b4f393",
+   "w": 620,
+   "h": 785,
+   "l": "Planche 13 : le travail recommence ; en bas, des nombres qui se multiplient par dix",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p31"
+  },
+  "mutus-14": {
+   "f": "img/mutus-14.webp",
+   "v": "270ae928f4",
+   "w": 620,
+   "h": 785,
+   "l": "Planche 14 : trois athanors, la balance et le mortier ; au bas, la devise *Ora, lege, lege, lege, relege, labora et invenies*",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p33"
+  },
+  "mutus-15": {
+   "f": "img/mutus-15.webp",
+   "v": "2890b2a253",
+   "w": 620,
+   "h": 785,
+   "l": "Planche 15 : deux anges enlèvent au ciel un personnage couronné ; l’homme et la femme, à genoux, tiennent le ruban *Oculatus abis*",
+   "cr": "*Mutus liber*, La Rochelle, Pierre Savouret, 1677 — Wellcome Collection",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mutus_liber,_in_quo_tamen_tota_philosophia_hermetica,_figuris_hieroglyphicis_depingitur_..._(IA_b14557551_0002).pdf",
+   "pour": [],
+   "sig": "Mutus liber, in quo tamen tota philosophia hermetica, figuris hieroglyphicis depingitur ... (IA b14557551 0002).pdf|0.03 0.08 0.98 0.9|620|74|p35"
+  },
+  "isis-ankhhor": {
+   "f": "img/isis-ankhhor.webp",
+   "v": "de8a2720e9",
+   "w": 400,
+   "h": 600,
+   "l": "Isis allaitant l’enfant Horus",
+   "cr": "statuette dédiée par Ânkhhor, vers 664-332 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statuette_of_Isis_nursing_Horus,_dedicated_by_Ankhhor_MET_45.2.10_EGDP013278.jpg",
+   "pour": [
+    "isis"
+   ],
+   "sig": "Statuette of Isis nursing Horus, dedicated by Ankhhor MET 45.2.10 EGDP013278.jpg||400|74"
+  },
+  "isis-herculanum": {
+   "f": "img/isis-herculanum.webp",
+   "v": "52f2cbf832",
+   "w": 480,
+   "h": 534,
+   "l": "Prêtres d’Isis vêtus de lin blanc célébrant le rite de l’eau devant le temple de la déesse, fresque d’Herculanum",
+   "cr": "peinture murale romaine, Ier siècle — musée archéologique de Naples",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Isiac_water_ceremony.jpg",
+   "pour": [
+    "culte-d-isis"
+   ],
+   "sig": "Isiac water ceremony.jpg||480|74"
+  },
+  "osiris-bronze": {
+   "f": "img/osiris-bronze.webp",
+   "v": "73ae1170bf",
+   "w": 400,
+   "h": 437,
+   "l": "Osiris, coiffé de la couronne atef, tenant le crochet et le fléau",
+   "cr": "bronze, Basse Époque, 664-31 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Bronze_statuette_of_Osiris_MET_DP20095.jpg",
+   "pour": [
+    "osiris"
+   ],
+   "sig": "Bronze statuette of Osiris MET DP20095.jpg||400|74"
+  },
+  "horus-turin": {
+   "f": "img/horus-turin.webp",
+   "v": "4b441c9aaa",
+   "w": 400,
+   "h": 496,
+   "l": "Horus à tête de faucon, le bras tendu",
+   "cr": "bronze, 722-332 av. J.-C. — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statuette_of_the_god_Horus,_bronze_-_Museo_Egizio_(Turin)_C_486_p05.jpg",
+   "pour": [
+    "horus"
+   ],
+   "sig": "Statuette of the god Horus, bronze - Museo Egizio (Turin) C 486 p05.jpg|0.1 0 1 1|400|74"
+  },
+  "thot-faience": {
+   "f": "img/thot-faience.webp",
+   "v": "1791dfd2ec",
+   "w": 400,
+   "h": 533,
+   "l": "Thot à tête d’ibis, en marche",
+   "cr": "époque ptolémaïque, 332-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Striding_Thoth_MET_DP240843.jpg",
+   "pour": [
+    "thot"
+   ],
+   "sig": "Striding Thoth MET DP240843.jpg||400|74"
+  },
+  "anubis-statuette": {
+   "f": "img/anubis-statuette.webp",
+   "v": "27a2b78211",
+   "w": 400,
+   "h": 600,
+   "l": "Anubis à tête de chacal, bois peint",
+   "cr": "époque ptolémaïque, 332-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statuette_of_Anubis_MET_38.5_EGDP022863.jpg",
+   "pour": [
+    "anubis"
+   ],
+   "sig": "Statuette of Anubis MET 38.5 EGDP022863.jpg||400|74"
+  },
+  "seth-turin": {
+   "f": "img/seth-turin.webp",
+   "v": "a5cd9483ff",
+   "w": 400,
+   "h": 614,
+   "l": "Seth, avec la tête de l’animal qui lui est propre",
+   "cr": "bois, Nouvel Empire, 1539-1077 av. J.-C. — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statue_depicting_the_god_Seth,_softwood_-_Museo_Egizio,_Turin_S_1249_p01.jpg",
+   "pour": [
+    "seth"
+   ],
+   "sig": "Statue depicting the god Seth, softwood - Museo Egizio, Turin S 1249 p01.jpg||400|74"
+  },
+  "maat-turin": {
+   "f": "img/maat-turin.webp",
+   "v": "32a984df4e",
+   "w": 400,
+   "h": 675,
+   "l": "Maât assise, la tête autrefois surmontée de sa plume",
+   "cr": "bronze, 712-332 av. J.-C. — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Maat_statuette,_bronze_-_Museo_Egizio,_Turin_S_18067_p01.jpg",
+   "pour": [
+    "maat"
+   ],
+   "sig": "Maat statuette, bronze - Museo Egizio, Turin S 18067 p01.jpg||400|74"
+  },
+  "hathor-sistre": {
+   "f": "img/hathor-sistre.webp",
+   "v": "61496c7ad3",
+   "w": 400,
+   "h": 473,
+   "l": "Le visage d’Hathor aux oreilles de vache, ornement d’un sistre",
+   "cr": "Basse Époque, 664-332 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Bat_-_Hathor_emblem_from_a_sistrum_MET_DP311613.jpg",
+   "pour": [
+    "hathor"
+   ],
+   "sig": "Bat - Hathor emblem from a sistrum MET DP311613.jpg||400|74"
+  },
+  "amon-or": {
+   "f": "img/amon-or.webp",
+   "v": "cfc79cac91",
+   "w": 400,
+   "h": 500,
+   "l": "Amon coiffé de ses deux hautes plumes, statuette d’or",
+   "cr": "Troisième Période intermédiaire, vers 945-712 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statuette_of_Amun_MET_DT553.jpg",
+   "pour": [
+    "amon"
+   ],
+   "sig": "Statuette of Amun MET DT553.jpg||400|74"
+  },
+  "ptah-statuette": {
+   "f": "img/ptah-statuette.webp",
+   "v": "d6e144db6b",
+   "w": 400,
+   "h": 600,
+   "l": "Ptah de Memphis, serré dans son linceul, tenant le sceptre",
+   "cr": "Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Ptah_MET_04.2.406_001.jpg",
+   "pour": [
+    "ptah"
+   ],
+   "sig": "Ptah MET 04.2.406 001.jpg||400|74"
+  },
+  "serapis-argent": {
+   "f": "img/serapis-argent.webp",
+   "v": "38da188ebc",
+   "w": 400,
+   "h": 500,
+   "l": "Sérapis barbu, le dieu gréco-égyptien des Ptolémées",
+   "cr": "argent, IIe siècle — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Silver_bust_of_Serapis_MET_DT6658.jpg",
+   "pour": [
+    "serapis"
+   ],
+   "sig": "Silver bust of Serapis MET DT6658.jpg||400|74"
+  },
+  "ra-horakhty": {
+   "f": "img/ra-horakhty.webp",
+   "v": "3cd61fb59f",
+   "w": 400,
+   "h": 547,
+   "l": "Rê-Horakhty à tête de faucon, coiffé du disque solaire, sur une stèle votive",
+   "cr": "calcaire, Nouvel Empire, 1539-1191 av. J.-C. — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Stela_dedicated_by_Smen_to_Re-Horakhty,_limestone_-_Museo_Egizio,_Turin_C_1648_p01.jpg",
+   "pour": [
+    "ra"
+   ],
+   "sig": "Stela dedicated by Smen to Re-Horakhty, limestone - Museo Egizio, Turin C 1648 p01.jpg||400|74"
+  },
+  "apophis-chat": {
+   "f": "img/apophis-chat.webp",
+   "v": "f3caec43fc",
+   "w": 400,
+   "h": 300,
+   "l": "Le grand chat de Rê tranche le serpent Apophis au pied de l’arbre sacré",
+   "cr": "papyrus de Hounefer, vers 1275 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Papyrus_of_Hunefer,_detail.jpg",
+   "pour": [
+    "apophis"
+   ],
+   "sig": "Papyrus of Hunefer, detail.jpg||400|74"
+  },
+  "enneade-nout": {
+   "f": "img/enneade-nout.webp",
+   "v": "31f073192c",
+   "w": 520,
+   "h": 351,
+   "l": "Shou soulève Nout, le ciel étoilé, au-dessus de Geb, la terre couchée",
+   "cr": "papyrus Greenfield, vers 950 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Geb,_Nut,_Shu.jpg",
+   "pour": [
+    "enneade"
+   ],
+   "sig": "Geb, Nut, Shu.jpg||520|74"
+  },
+  "hounefer-pesee": {
+   "f": "img/hounefer-pesee.webp",
+   "v": "23a6112e50",
+   "w": 640,
+   "h": 292,
+   "l": "Hounefer conduit par Anubis jusqu’à la balance, puis présenté par Horus à Osiris",
+   "cr": "papyrus de Hounefer, vers 1275 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_of_Hunefer_sheet_3.jpg",
+   "pour": [
+    "livre-des-morts"
+   ],
+   "sig": "Book of the Dead of Hunefer sheet 3.jpg||640|74"
+  },
+  "ani-pesee": {
+   "f": "img/ani-pesee.webp",
+   "v": "fa0cd7d90d",
+   "w": 640,
+   "h": 330,
+   "l": "La pesée du cœur d’Ani contre la plume de Maât, sous le regard de Thot et de la dévoreuse Ammit",
+   "cr": "papyrus d’Ani, vers 1250 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg",
+   "pour": [
+    "pesee-du-coeur"
+   ],
+   "sig": "BD Weighing of the Heart.jpg||640|74"
+  },
+  "beaune-pesee": {
+   "f": "img/beaune-pesee.webp",
+   "v": "6de5d7219c",
+   "w": 400,
+   "h": 534,
+   "l": "La même scène en Bourgogne : saint Michel pèse les âmes au Jugement dernier",
+   "cr": "Rogier van der Weyden, vers 1446-1452 — Hospices de Beaune",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Dieu_Altarbild.jpg",
+   "pour": [
+    "pesee-du-coeur",
+    "saint-michel"
+   ],
+   "sig": "Hôtel Dieu Altarbild.jpg||400|74"
+  },
+  "ounas-textes": {
+   "f": "img/ounas-textes.webp",
+   "v": "5e6fa81b4c",
+   "w": 560,
+   "h": 431,
+   "l": "Les Textes des pyramides gravés dans la chambre funéraire du roi Ounas, à Saqqarah",
+   "cr": "photographie publiée vers 1900 — Brooklyn Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Unas_Pyramidentexte.jpg",
+   "pour": [
+    "textes-des-pyramides",
+    "saqqarah"
+   ],
+   "sig": "Unas Pyramidentexte.jpg||560|74"
+  },
+  "khaemouaset": {
+   "f": "img/khaemouaset.webp",
+   "v": "9b2b215f19",
+   "w": 400,
+   "h": 600,
+   "l": "Khâemouaset, fils de Ramsès II, le prince savant dont le conte a fait Satni",
+   "cr": "quartzite, XIXe dynastie, vers 1260 av. J.-C. — British Museum ; photographie de Gary Todd",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Egyptian_Quartzite_Conglomerate_Statue_of_Khaemwaset,_from_Asyut,_19th_Dynasty,_c._1260_BC_(36140293060).jpg",
+   "pour": [
+    "livre-de-thot"
+   ],
+   "sig": "Egyptian Quartzite Conglomerate Statue of Khaemwaset, from Asyut, 19th Dynasty, c. 1260 BC (36140293060).jpg||400|74"
+  },
+  "oudjat": {
+   "f": "img/oudjat.webp",
+   "v": "bb9b3048d7",
+   "w": 400,
+   "h": 400,
+   "l": "Amulette en forme d’œil oudjat",
+   "cr": "Basse Époque, 664-380 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Wedjat_Eye_Amulet_MET_DP109382.jpg",
+   "pour": [
+    "oeil-d-horus"
+   ],
+   "sig": "Wedjat Eye Amulet MET DP109382.jpg||400|74"
+  },
+  "ba-oiseau": {
+   "f": "img/ba-oiseau.webp",
+   "v": "14289fd234",
+   "w": 400,
+   "h": 398,
+   "l": "Le ba, oiseau à tête humaine, vu de face et de dos",
+   "cr": "vers 712-343 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Ba-Bird_MET_66.99.143.jpg",
+   "pour": [
+    "ka-et-ba"
+   ],
+   "sig": "Ba-Bird MET 66.99.143.jpg||400|74"
+  },
+  "momie-de-grain": {
+   "f": "img/momie-de-grain.webp",
+   "v": "4a41f6cb9c",
+   "w": 400,
+   "h": 620,
+   "l": "Une « momie de grain » à masque d’Osiris dans son petit cercueil : on la façonnait pour les fêtes du dieu",
+   "cr": "Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Coffin_and_Corn_Mummy_with_Osiris_mask_MET_58.106.1a_d_EGDP019586.jpg",
+   "pour": [
+    "momie",
+    "osiris"
+   ],
+   "sig": "Coffin and Corn Mummy with Osiris mask MET 58.106.1a d EGDP019586.jpg||400|74"
+  },
+  "maspero-ramses": {
+   "f": "img/maspero-ramses.webp",
+   "v": "b2c23b0388",
+   "w": 560,
+   "h": 378,
+   "l": "Gaston Maspero démaillote une momie royale devant ses invités, en 1886",
+   "cr": "gravure de presse, 1886",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gaston_Maspero_demaillotage.jpeg",
+   "pour": [
+    "momie",
+    "gaston-maspero"
+   ],
+   "sig": "Gaston Maspero demaillotage.jpeg||560|74"
+  },
+  "djed-amulette": {
+   "f": "img/djed-amulette.webp",
+   "v": "42634d0cf3",
+   "w": 400,
+   "h": 400,
+   "l": "Amulette en forme de pilier djed, l’épine dorsale d’Osiris",
+   "cr": "Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Djed_pillar_Amulet_MET_DP109385.jpg",
+   "pour": [
+    "djed"
+   ],
+   "sig": "Djed pillar Amulet MET DP109385.jpg||400|74"
+  },
+  "obelisque-concorde": {
+   "f": "img/obelisque-concorde.webp",
+   "v": "ba4914b3f5",
+   "w": 400,
+   "h": 725,
+   "l": "L’obélisque de Louxor, dressé place de la Concorde en 1836",
+   "cr": "photographie de Jebulon, 2011",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Concorde_obelisque_tour_Eiffel.jpg",
+   "pour": [
+    "obelisque"
+   ],
+   "sig": "Concorde obelisque tour Eiffel.jpg||400|74"
+  },
+  "louxor-beato": {
+   "f": "img/louxor-beato.webp",
+   "v": "cde738d36a",
+   "w": 400,
+   "h": 499,
+   "l": "Le pylône du temple de Louxor et l’obélisque resté sur place ; son jumeau est à Paris",
+   "cr": "photographie d’Antonio Beato, vers 1870 — Bibliothèque du Congrès",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk,_Thebes_(Luxor),_Egypt)_-_A._Beato_LCCN2003690011.jpg",
+   "pour": [
+    "louxor",
+    "obelisque"
+   ],
+   "sig": "Pylons and obelisk, Thebes (Luxor), Egypt) - A. Beato LCCN2003690011.jpg||400|74"
+  },
+  "table-isiaque-kircher": {
+   "f": "img/table-isiaque-kircher.webp",
+   "v": "e0e6e7918f",
+   "w": 640,
+   "h": 482,
+   "l": "La table isiaque telle qu’Athanase Kircher la publia pour en déchiffrer les figures",
+   "cr": "gravure de l’*Œdipus Ægyptiacus*, 1652-1654",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bembine_Table_of_Isis.png",
+   "pour": [
+    "table-isiaque"
+   ],
+   "sig": "Bembine Table of Isis.png||640|74"
+  },
+  "table-isiaque-turin": {
+   "f": "img/table-isiaque-turin.webp",
+   "v": "7269e41e8e",
+   "w": 600,
+   "h": 362,
+   "l": "L’original : un bronze incrusté d’argent, fabriqué à Rome dans le goût égyptien",
+   "cr": "Ier siècle — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Mensa_Isiaca,_bronze_-_Museo_Egizio,_Turin_C_7155_p01.jpg",
+   "pour": [
+    "table-isiaque"
+   ],
+   "sig": "Mensa Isiaca, bronze - Museo Egizio, Turin C 7155 p01.jpg||600|74"
+  },
+  "bonaparte-sphinx": {
+   "f": "img/bonaparte-sphinx.webp",
+   "v": "56ad22c443",
+   "w": 400,
+   "h": 555,
+   "l": "Bonaparte et son état-major traversant le désert, vus par Gérôme",
+   "cr": "Jean-Léon Gérôme, 1863",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bonaparte_en_Egypte.jpg",
+   "pour": [
+    "expedition-d-egypte"
+   ],
+   "sig": "Bonaparte en Egypte.jpg||400|74"
+  },
+  "gillray-institut": {
+   "f": "img/gillray-institut.webp",
+   "v": "c7c881bd30",
+   "w": 560,
+   "h": 421,
+   "l": "Gillray se moque des savants de l’expédition, chevauchés par les crocodiles du Nil",
+   "cr": "James Gillray, 1799 — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%22L%27Insurrection_de_l%27Institut_Amphibie%22-The_Pursuit_of_Knowledge._(BM_1868,0808.6826).jpg",
+   "pour": [
+    "expedition-d-egypte"
+   ],
+   "sig": "\"L'Insurrection de l'Institut Amphibie\"-The Pursuit of Knowledge. (BM 1868,0808.6826).jpg||560|74"
+  },
+  "carter-tombeau": {
+   "f": "img/carter-tombeau.webp",
+   "v": "1df9e30b25",
+   "w": 400,
+   "h": 571,
+   "l": "Howard Carter ouvre les portes des chapelles dorées qui entourent le sarcophage de Toutânkhamon",
+   "cr": "photographie de Harry Burton, janvier 1924",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Moment_Carter_Opens_the_Shrine.jpg",
+   "pour": [
+    "malediction-du-pharaon"
+   ],
+   "sig": "The Moment Carter Opens the Shrine.jpg||400|74"
+  },
+  "rowlandson-egyptomanie": {
+   "f": "img/rowlandson-egyptomanie.webp",
+   "v": "db0c1b87f0",
+   "w": 400,
+   "h": 480,
+   "l": "*Modern Antiques* : la caricature de Rowlandson sur la manie égyptienne",
+   "cr": "Thomas Rowlandson, 1806",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rowlandson-modern-antiques-Egyptomania-1806.jpg",
+   "pour": [
+    "egyptomanie"
+   ],
+   "sig": "Rowlandson-modern-antiques-Egyptomania-1806.jpg||400|74"
+  },
+  "fontaine-fellah": {
+   "f": "img/fontaine-fellah.webp",
+   "v": "e2db96cf76",
+   "w": 400,
+   "h": 526,
+   "l": "La fontaine du Fellah, rue de Sèvres, élevée à Paris au retour d’Égypte",
+   "cr": "photographie d’Eugène Atget — Paris Musées",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Fontaine_du_Fellah_(premier_Empire)_rue_de_S%C3%A8vres,_6%C3%A8me_arrondissement,_Paris,_PH13658.jpg",
+   "pour": [
+    "egyptomanie"
+   ],
+   "sig": "Fontaine du Fellah (premier Empire) rue de Sèvres, 6ème arrondissement, Paris, PH13658.jpg||400|74"
+  },
+  "lepsius-kheops": {
+   "f": "img/lepsius-kheops.webp",
+   "v": "dc4551ae49",
+   "w": 600,
+   "h": 469,
+   "l": "L’expédition prussienne de Lepsius plante son drapeau au sommet de la pyramide de Khéops, pour l’anniversaire du roi",
+   "cr": "Johann Jakob Frey, 1842",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lepsius-Expedition-Cheops-Pyramide_(full).jpg",
+   "pour": [
+    "egyptologie"
+   ],
+   "sig": "Lepsius-Expedition-Cheops-Pyramide (full).jpg||600|74"
+  },
+  "rosette-1874": {
+   "f": "img/rosette-1874.webp",
+   "v": "18f4a5e8ff",
+   "w": 560,
+   "h": 386,
+   "l": "Les membres du congrès des orientalistes examinent la pierre de Rosette au British Museum",
+   "cr": "*The Illustrated London News*, 1874",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone_International_Congress_of_Orientalists_ILN_1874.jpg",
+   "pour": [
+    "pierre-de-rosette"
+   ],
+   "sig": "Rosetta Stone International Congress of Orientalists ILN 1874.jpg||560|74"
+  },
+  "ankh-amulette": {
+   "f": "img/ankh-amulette.webp",
+   "v": "fee8788301",
+   "w": 400,
+   "h": 432,
+   "l": "Amulette ornée de signes ânkh",
+   "cr": "Moyen Empire, vers 1981 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Amulet_with_ankhs_MET_22.1.281.jpg",
+   "pour": [
+    "croix-ansee"
+   ],
+   "sig": "Amulet with ankhs MET 22.1.281.jpg||400|74"
+  },
+  "pyramides-frith": {
+   "f": "img/pyramides-frith.webp",
+   "v": "39baaae8fd",
+   "w": 560,
+   "h": 403,
+   "l": "Les pyramides de Gizeh vues du désert",
+   "cr": "photographie de Francis Frith, 1856-1860 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:De_pyramiden_van_Gizeh_The_Pyramids_of_El_Geezeh_(titel_op_object),_RP-F-F80272.jpg",
+   "pour": [
+    "pyramides"
+   ],
+   "sig": "De pyramiden van Gizeh The Pyramids of El Geezeh (titel op object), RP-F-F80272.jpg||560|74"
+  },
+  "gizeh-bonfils": {
+   "f": "img/gizeh-bonfils.webp",
+   "v": "bfa9e92159",
+   "w": 560,
+   "h": 455,
+   "l": "Le plateau de Gizeh au XIXe siècle",
+   "cr": "photographie de Félix Bonfils — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Giza,_Pyramids,_Pictures,_F._Bonfils,_photo_6_of_27_-_Archivio_fotografico_Museo_Egizio,_Turin_INV01_008.jpg",
+   "pour": [
+    "gizeh"
+   ],
+   "sig": "Giza, Pyramids, Pictures, F. Bonfils, photo 6 of 27 - Archivio fotografico Museo Egizio, Turin INV01 008.jpg||560|74"
+  },
+  "sphinx-roberts": {
+   "f": "img/sphinx-roberts.webp",
+   "v": "c62ef6f8fa",
+   "w": 600,
+   "h": 381,
+   "l": "Le grand Sphinx, ensablé jusqu’aux épaules, devant les pyramides",
+   "cr": "David Roberts, 1839",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Great_Sphinx,_Pyramids_of_Gizeh-1839)_by_David_Roberts,_RA.jpg",
+   "pour": [
+    "sphinx"
+   ],
+   "sig": "The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA.jpg||600|74"
+  },
+  "amarna-lepsius": {
+   "f": "img/amarna-lepsius.webp",
+   "v": "98748419a4",
+   "w": 400,
+   "h": 500,
+   "l": "Akhenaton et Néfertiti sous les rayons d’Aton terminés par des mains, relevé d’une tombe d’Amarna",
+   "cr": "relevé de l’expédition de Lepsius, 1848",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:PanehsyTomb-Akhenaten-Nefertiti-Atef.png",
+   "pour": [
+    "akhenaton",
+    "amarna"
+   ],
+   "sig": "PanehsyTomb-Akhenaten-Nefertiti-Atef.png||400|74"
+  },
+  "imhotep-bronze": {
+   "f": "img/imhotep-bronze.webp",
+   "v": "4660a7b658",
+   "w": 400,
+   "h": 600,
+   "l": "Imhotep divinisé, assis, un rouleau de papyrus sur les genoux",
+   "cr": "bronze, Basse Époque, 664-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Statuette_of_Imhotep_MET_10.175.132_001.jpg",
+   "pour": [
+    "imhotep"
+   ],
+   "sig": "Statuette of Imhotep MET 10.175.132 001.jpg||400|74"
+  },
+  "horapollon-oeil": {
+   "f": "img/horapollon-oeil.webp",
+   "v": "45da48d5b1",
+   "w": 400,
+   "h": 407,
+   "l": "« Comment ils figurent Dieu » : un œil, selon les *Hieroglyphica* d’Horapollon",
+   "cr": "édition des *Hieroglyphica*, XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Quo_modo_Deum_(Ori_Apollinis).png",
+   "pour": [
+    "horapollon"
+   ],
+   "sig": "Quo modo Deum (Ori Apollinis).png||400|74"
+  },
+  "ibis-met": {
+   "f": "img/ibis-met.webp",
+   "v": "a49ad27c28",
+   "w": 480,
+   "h": 360,
+   "l": "Ibis, l’oiseau de Thot",
+   "cr": "Basse Époque, 600-30 av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Ibis_MET_DP244257.jpg",
+   "pour": [
+    "ibis",
+    "thot"
+   ],
+   "sig": "Ibis MET DP244257.jpg||480|74"
+  },
+  "faucon-walters": {
+   "f": "img/faucon-walters.webp",
+   "v": "2916dd410e",
+   "w": 400,
+   "h": 566,
+   "l": "Faucon consacré à Horus",
+   "cr": "IVe siècle av. J.-C. — Walters Art Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Falcon_Sacred_to_Horus_-_Walters_22409.jpg",
+   "pour": [
+    "faucon",
+    "horus"
+   ],
+   "sig": "Egyptian - Falcon Sacred to Horus - Walters 22409.jpg||400|74"
+  },
+  "scarabee-pectoral": {
+   "f": "img/scarabee-pectoral.webp",
+   "v": "291f38f2c7",
+   "w": 400,
+   "h": 372,
+   "l": "Pectoral orné d’un scarabée, l’image de Khépri, le soleil qui renaît",
+   "cr": "Nouvel Empire, 1292-1070 av. J.-C. — Walters Art Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Pectoral_with_Scarab_-_Walters_4291_(2).jpg",
+   "pour": [
+    "scarabee"
+   ],
+   "sig": "Egyptian - Pectoral with Scarab - Walters 4291 (2).jpg||400|74"
+  },
+  "bastet": {
+   "f": "img/bastet.webp",
+   "v": "f8229eb7a1",
+   "w": 400,
+   "h": 400,
+   "l": "Bastet à tête de chatte",
+   "cr": "bronze — musée d’Art et d’Histoire de Genève",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bastet-MAHG_D_139-IMG_0943-gradient.jpg",
+   "pour": [
+    "chat"
+   ],
+   "sig": "Bastet-MAHG D 139-IMG 0943-gradient.jpg||400|74"
+  },
+  "apis-cercueil": {
+   "f": "img/apis-cercueil.webp",
+   "v": "fc926d64e5",
+   "w": 400,
+   "h": 399,
+   "l": "Le taureau Apis portant le disque solaire, peint sur un cercueil",
+   "cr": "XXIe dynastie, vers 1000 av. J.-C.",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Apis_bull_on_coffin.jpg",
+   "pour": [
+    "taureau-symbole"
+   ],
+   "sig": "Apis bull on coffin.jpg||400|74"
+  },
+  "cornaline-anubis": {
+   "f": "img/cornaline-anubis.webp",
+   "v": "15973559e2",
+   "w": 400,
+   "h": 311,
+   "l": "Anubis gravé sur une intaille de cornaline",
+   "cr": "IIe-IIIe siècle — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Carnelian_intaglio-_Standing_Anubis_MET_DP280597.jpg",
+   "pour": [
+    "cornaline",
+    "anubis"
+   ],
+   "sig": "Carnelian intaglio- Standing Anubis MET DP280597.jpg||400|74"
+  },
+  "maconnerie-egyptienne-bijou": {
+   "f": "img/maconnerie-egyptienne-bijou.webp",
+   "v": "e285a197b5",
+   "w": 400,
+   "h": 430,
+   "l": "Bijou du rite de Memphis-Misraïm",
+   "cr": "vers 1880",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:VM_04422_%E2%80%93_Jewel_of_the_Memphis-Misra%C3%AFm_Rite_%E2%80%93_19th_century.jpg",
+   "pour": [
+    "maconnerie-egyptienne",
+    "rite-de-memphis-misraim"
+   ],
+   "sig": "VM 04422 – Jewel of the Memphis-Misraïm Rite – 19th century.jpg||400|74"
+  },
+  "abydos-seti": {
+   "f": "img/abydos-seti.webp",
+   "v": "a669679042",
+   "w": 560,
+   "h": 448,
+   "l": "La salle hypostyle du temple de Séthi Ier à Abydos",
+   "cr": "photographie d’Hippolyte Béchard, vers 1880 — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Abydos,_Temple_of_Seti_I,_19th_century_pictures,_photo_5_of_19_-_Archivio_fotografico_Museo_Egizio,_Turin_Album2_105.jpg",
+   "pour": [
+    "abydos"
+   ],
+   "sig": "Abydos, Temple of Seti I, 19th century pictures, photo 5 of 19 - Archivio fotografico Museo Egizio, Turin Album2 105.jpg||560|74"
+  },
+  "karnak-braun": {
+   "f": "img/karnak-braun.webp",
+   "v": "198b479bcf",
+   "w": 400,
+   "h": 509,
+   "l": "Les colonnes papyriformes de la salle hypostyle de Karnak",
+   "cr": "photographie d’Adolphe Braun, vers 1870 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Haute-Egypt,_Salle_Hypostyle_%C3%A0_Karnak_MET_DT10693.jpg",
+   "pour": [
+    "karnak"
+   ],
+   "sig": "Haute-Egypt, Salle Hypostyle à Karnak MET DT10693.jpg||400|74"
+  },
+  "vallee-des-rois-bonfils": {
+   "f": "img/vallee-des-rois-bonfils.webp",
+   "v": "5b1fbffc6b",
+   "w": 560,
+   "h": 434,
+   "l": "La vallée des Rois avant les grandes fouilles",
+   "cr": "photographie de Félix Bonfils — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Theban_region,_Valley_of_the_Kings,_19th_century_pictures,_F._Bonfils,_photo_1_of_8_-_Archivio_fotografico_Museo_Egizio,_Turin_INV05_003.jpg",
+   "pour": [
+    "vallee-des-rois"
+   ],
+   "sig": "Theban region, Valley of the Kings, 19th century pictures, F. Bonfils, photo 1 of 8 - Archivio fotografico Museo Egizio, Turin INV05 003.jpg||560|74"
+  },
+  "edfou-lewis": {
+   "f": "img/edfou-lewis.webp",
+   "v": "e5efd5daaf",
+   "w": 560,
+   "h": 465,
+   "l": "La porte du pylône du temple d’Horus à Edfou",
+   "cr": "John Frederick Lewis, XIXe siècle — Cleveland Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:John_Frederick_Lewis_-_The_Temple_of_Edfu-_The_Door_of_the_Pylon_-_2015.73_-_Cleveland_Museum_of_Art.tif",
+   "pour": [
+    "edfou"
+   ],
+   "sig": "John Frederick Lewis - The Temple of Edfu- The Door of the Pylon - 2015.73 - Cleveland Museum of Art.tif||560|74"
+  },
+  "philae-roberts": {
+   "f": "img/philae-roberts.webp",
+   "v": "f0e42f6fe0",
+   "w": 560,
+   "h": 405,
+   "l": "L’île de Philæ et le sanctuaire d’Isis, avant que les barrages ne l’engloutissent",
+   "cr": "David Roberts, 1838",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:David_Roberts_Temple_Island_Philae.jpg",
+   "pour": [
+    "philae"
+   ],
+   "sig": "David Roberts Temple Island Philae.jpg||560|74"
+  },
+  "saqqarah-djoser": {
+   "f": "img/saqqarah-djoser.webp",
+   "v": "145929d4fc",
+   "w": 560,
+   "h": 420,
+   "l": "La pyramide à degrés de Djoser, œuvre d’Imhotep",
+   "cr": "photographie de Félix Bonfils — Museo Egizio, Turin",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Saqqara,_Pyramid_of_Djoser_and_nearby_tombs,_Pictures,_F._Bonfils,_photo_3_of_8_-_Archivio_fotografico_Museo_Egizio,_Turin_INV01_002.jpg",
+   "pour": [
+    "saqqarah",
+    "imhotep"
+   ],
+   "sig": "Saqqara, Pyramid of Djoser and nearby tombs, Pictures, F. Bonfils, photo 3 of 8 - Archivio fotografico Museo Egizio, Turin INV01 002.jpg||560|74"
+  },
+  "pompei-isis": {
+   "f": "img/pompei-isis.webp",
+   "v": "6286d67156",
+   "w": 400,
+   "h": 575,
+   "l": "Le temple d’Isis de Pompéi, tel que les fouilles l’avaient rendu",
+   "cr": "Luigi Bazzani, avant 1927",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Temple_of_Isis_by_Luigi_Bazzani.jpg",
+   "pour": [
+    "pompei",
+    "culte-d-isis"
+   ],
+   "sig": "Temple of Isis by Luigi Bazzani.jpg||400|74"
+  },
+  "jeanne-miniature": {
+   "f": "img/jeanne-miniature.webp",
+   "v": "934218ea0f",
+   "w": 360,
+   "h": 536,
+   "l": "Jeanne d’Arc en armure, l’épée et l’étendard, miniature du XVe siècle",
+   "cr": "miniature anonyme, 1450-1500 — Archives nationales",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Joan_of_Arc_miniature_graded.jpg",
+   "pour": [
+    "jeanne-d-arc"
+   ],
+   "sig": "Joan of Arc miniature graded.jpg||360|74"
+  },
+  "jeanne-fauquembergue": {
+   "f": "img/jeanne-fauquembergue.webp",
+   "v": "664174c8d4",
+   "w": 360,
+   "h": 541,
+   "l": "Le seul dessin fait du vivant de Jeanne : le greffier du Parlement de Paris l’esquisse en marge de son registre, à la nouvelle de la délivrance d’Orléans",
+   "cr": "Clément de Fauquembergue, 10 mai 1429 — Archives nationales",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Contemporaine_afb_jeanne_d_arc.png",
+   "pour": [
+    "jeanne-d-arc"
+   ],
+   "sig": "Contemporaine afb jeanne d arc.png||360|74"
+  },
+  "jeanne-ingres": {
+   "f": "img/jeanne-ingres.webp",
+   "v": "32ce7c6ab1",
+   "w": 440,
+   "h": 593,
+   "l": "*Jeanne d’Arc au sacre du roi Charles VII dans la cathédrale de Reims*",
+   "cr": "Jean-Auguste-Dominique Ingres, 1854 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg",
+   "pour": [
+    "jeanne-d-arc"
+   ],
+   "sig": "Ingres coronation charles vii.jpg||440|74"
+  },
+  "godefroy-jourdain": {
+   "f": "img/godefroy-jourdain.webp",
+   "v": "61ff823841",
+   "w": 560,
+   "h": 431,
+   "l": "Godefroy de Bouillon passe le Jourdain, dans un roman de la croisade",
+   "cr": "manuscrit enluminé, 1337 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Godfrey_of_Bouillon.jpg",
+   "pour": [
+    "godefroy-de-bouillon"
+   ],
+   "sig": "Godfrey of Bouillon.jpg||560|74"
+  },
+  "preux-manta": {
+   "f": "img/preux-manta.webp",
+   "v": "b7a8591a51",
+   "w": 520,
+   "h": 430,
+   "l": "Arthur, Charlemagne et Godefroy de Bouillon, les trois preux chrétiens, chacun avec ses armoiries",
+   "cr": "fresque de la salle baronniale, vers 1420 — château de la Manta, Piémont",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:King_Arthur,Charlemagne,Godfrey_de_Bouilon._La_Manta.jpg",
+   "pour": [
+    "neuf-preux",
+    "godefroy-de-bouillon",
+    "roi-arthur"
+   ],
+   "sig": "King Arthur,Charlemagne,Godfrey de Bouilon. La Manta.jpg||520|74"
+  },
+  "philippe-sceau": {
+   "f": "img/philippe-sceau.webp",
+   "v": "accdc5ab4b",
+   "w": 360,
+   "h": 514,
+   "l": "Philippe le Bel en majesté, peint d’après son grand sceau",
+   "cr": "peinture du XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Philippe_IV_le_Bel.jpg",
+   "pour": [
+    "philippe-le-bel"
+   ],
+   "sig": "Philippe IV le Bel.jpg||360|74"
+  },
+  "philippe-famille": {
+   "f": "img/philippe-famille.webp",
+   "v": "90431c3479",
+   "w": 520,
+   "h": 335,
+   "l": "Philippe le Bel entouré de ses enfants",
+   "cr": "miniature, vers 1313 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Philip_iv_and_family._2.jpg",
+   "pour": [
+    "philippe-le-bel"
+   ],
+   "sig": "Philip iv and family. 2.jpg||520|74"
+  },
+  "madeleine-la-tour": {
+   "f": "img/madeleine-la-tour.webp",
+   "v": "940627f612",
+   "w": 400,
+   "h": 578,
+   "l": "*La Madeleine pénitente*, à la flamme de la chandelle, une main sur un crâne",
+   "cr": "Georges de La Tour, vers 1640 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Penitent_Magdalen_MET_DT7252.jpg",
+   "pour": [
+    "marie-madeleine"
+   ],
+   "sig": "The Penitent Magdalen MET DT7252.jpg||400|74"
+  },
+  "dagobert-signol": {
+   "f": "img/dagobert-signol.webp",
+   "v": "01a8dfbb53",
+   "w": 360,
+   "h": 442,
+   "l": "Dagobert II, portrait imaginé pour la galerie des rois de Versailles",
+   "cr": "Émile Signol, 1837 — château de Versailles",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Emile_Signol_(1804-1892)_-_Dagobert_II,_roi_des_Francs_(vers_699-715).jpg",
+   "pour": [
+    "dagobert-ii"
+   ],
+   "sig": "Emile Signol (1804-1892) - Dagobert II, roi des Francs (vers 699-715).jpg||360|74"
+  },
+  "dagobert-monnaie": {
+   "f": "img/dagobert-monnaie.webp",
+   "v": "2688d06f93",
+   "w": 480,
+   "h": 263,
+   "l": "Un tiers de sou d’or frappé au nom de Dagobert II",
+   "cr": "monnaie mérovingienne, 674-678 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tiers_de_sou_d%27or_de_Dagobert_II.png",
+   "pour": [
+    "dagobert-ii"
+   ],
+   "sig": "Tiers de sou d'or de Dagobert II.png||480|74"
+  },
+  "abeilles-childeric": {
+   "f": "img/abeilles-childeric.webp",
+   "v": "b1b6264754",
+   "w": 480,
+   "h": 340,
+   "l": "Abeilles d’or et de grenat du tombeau de Childéric Ier, découvert à Tournai en 1653 ; Napoléon en fit l’emblème de son sacre",
+   "cr": "orfèvrerie mérovingienne, Ve siècle — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abeilles_de_Child%C3%A9ric_Ier.jpg",
+   "pour": [
+    "merovingiens",
+    "abeille"
+   ],
+   "sig": "Abeilles de Childéric Ier.jpg||480|74"
+  },
+  "merovee-larmessin": {
+   "f": "img/merovee-larmessin.webp",
+   "v": "93e0196c6c",
+   "w": 360,
+   "h": 480,
+   "l": "Mérovée, l’ancêtre légendaire que la chronique dit né d’une reine et d’un monstre marin",
+   "cr": "gravure de Nicolas de Larmessin, 1690",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Estampes_par_Nicolas_de_Larmessin.f012.M%C3%A9rov%C3%A9e,_roi_des_Francs.jpg",
+   "pour": [
+    "quinotaure",
+    "merovingiens"
+   ],
+   "sig": "Estampes par Nicolas de Larmessin.f012.Mérovée, roi des Francs.jpg||360|74"
+  },
+  "portrait-verne": {
+   "f": "img/portrait-verne.webp",
+   "v": "5174b69e01",
+   "w": 360,
+   "h": 504,
+   "l": "Jules Verne",
+   "cr": "photographie de Nadar, vers 1878",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_(restoration).jpg",
+   "pour": [
+    "jules-verne"
+   ],
+   "sig": "Félix Nadar 1820-1910 portraits Jules Verne (restoration).jpg||360|74"
+  },
+  "portrait-leroux": {
+   "f": "img/portrait-leroux.webp",
+   "v": "2807dafe58",
+   "w": 360,
+   "h": 507,
+   "l": "Gaston Leroux",
+   "cr": "photographie, avant 1927",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gaston_Leroux_02.jpg",
+   "pour": [
+    "gaston-leroux"
+   ],
+   "sig": "Gaston Leroux 02.jpg||360|74"
+  },
+  "portrait-walter-scott": {
+   "f": "img/portrait-walter-scott.webp",
+   "v": "5b6b0c3f2f",
+   "w": 360,
+   "h": 436,
+   "l": "Sir Walter Scott",
+   "cr": "Henry Raeburn, 1822",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg",
+   "pour": [
+    "walter-scott"
+   ],
+   "sig": "Sir Henry Raeburn - Portrait of Sir Walter Scott.jpg||360|74"
+  },
+  "portrait-conan-doyle": {
+   "f": "img/portrait-conan-doyle.webp",
+   "v": "a74b1eec97",
+   "w": 360,
+   "h": 475,
+   "l": "Arthur Conan Doyle",
+   "cr": "photographie de Walter Benington, 1914",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arthur_Conan_Doyle_by_Walter_Benington,_1914.png",
+   "pour": [
+    "arthur-conan-doyle"
+   ],
+   "sig": "Arthur Conan Doyle by Walter Benington, 1914.png||360|74"
+  },
+  "portrait-gaudi": {
+   "f": "img/portrait-gaudi.webp",
+   "v": "5cc992f224",
+   "w": 360,
+   "h": 490,
+   "l": "Antoni Gaudí à vingt-cinq ans, l’année de son diplôme d’architecte",
+   "cr": "photographie de Pau Audouard, 1878",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Antoni_Gaudi_1878.jpg",
+   "pour": [
+    "antoni-gaudi"
+   ],
+   "sig": "Antoni Gaudi 1878.jpg||360|74"
+  },
+  "portrait-champollion": {
+   "f": "img/portrait-champollion.webp",
+   "v": "5c1728f316",
+   "w": 360,
+   "h": 436,
+   "l": "Jean-François Champollion",
+   "cr": "Léon Cogniet, 1831 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leon_Cogniet_-_Jean-Francois_Champollion.jpg",
+   "pour": [
+    "jean-francois-champollion"
+   ],
+   "sig": "Leon Cogniet - Jean-Francois Champollion.jpg||360|74"
+  },
+  "portrait-mariette": {
+   "f": "img/portrait-mariette.webp",
+   "v": "b7c72beaf7",
+   "w": 360,
+   "h": 518,
+   "l": "Auguste Mariette",
+   "cr": "photographie de Nadar, vers 1861",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Auguste_Mariette_photography.jpg",
+   "pour": [
+    "auguste-mariette"
+   ],
+   "sig": "Auguste Mariette photography.jpg||360|74"
+  },
+  "portrait-maspero": {
+   "f": "img/portrait-maspero.webp",
+   "v": "6ba12fa20f",
+   "w": 360,
+   "h": 504,
+   "l": "Gaston Maspero",
+   "cr": "photographie d’Émile Reutlinger, 1883 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gaston_Maspero_Reutlinger_BNF_Gallica.jpg",
+   "pour": [
+    "gaston-maspero"
+   ],
+   "sig": "Gaston Maspero Reutlinger BNF Gallica.jpg||360|74"
+  },
+  "portrait-plutarque": {
+   "f": "img/portrait-plutarque.webp",
+   "v": "b3558a4840",
+   "w": 360,
+   "h": 480,
+   "l": "Tête de philosophe trouvée à Delphes, où Plutarque fut prêtre d’Apollon, et qu’on lui attribue souvent",
+   "cr": "marbre, IIe ou IIIe siècle — musée archéologique de Delphes",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Head_of_a_philosopher_-_Archaeological_Museum_of_Delphi.jpg",
+   "pour": [
+    "plutarque"
+   ],
+   "sig": "Head of a philosopher - Archaeological Museum of Delphi.jpg||360|74"
+  },
+  "portrait-pline": {
+   "f": "img/portrait-pline.webp",
+   "v": "38b8ac684c",
+   "w": 360,
+   "h": 444,
+   "l": "Pline l’Ancien, portrait imaginaire",
+   "cr": "gravure de la *Grande Illustrazione del Lombardo-Veneto*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+   "pour": [
+    "pline-l-ancien"
+   ],
+   "sig": "Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg||360|74"
+  },
+  "portrait-francis-bacon": {
+   "f": "img/portrait-francis-bacon.webp",
+   "v": "84291b9578",
+   "w": 360,
+   "h": 442,
+   "l": "Francis Bacon",
+   "cr": "Paul van Somer, 1617",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg",
+   "pour": [
+    "francis-bacon"
+   ],
+   "sig": "Somer Francis Bacon.jpg||360|74"
+  },
+  "portrait-vigenere": {
+   "f": "img/portrait-vigenere.webp",
+   "v": "cce58e1920",
+   "w": 360,
+   "h": 525,
+   "l": "Blaise de Vigenère, « Bourbonnois »",
+   "cr": "gravure de Thomas de Leu, fin du XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Blaise_de_Vigenere_Bourb%C3%B5nois,_PA02427.jpg",
+   "pour": [
+    "blaise-de-vigenere",
+    "chiffre-de-vigenere"
+   ],
+   "sig": "Blaise de Vigenere Bourbõnois, PA02427.jpg||360|74"
+  },
+  "portrait-alberti": {
+   "f": "img/portrait-alberti.webp",
+   "v": "22738f1a5b",
+   "w": 360,
+   "h": 503,
+   "l": "Leon Battista Alberti de profil, avec son emblème de l’œil ailé",
+   "cr": "autoportrait en bronze, vers 1435 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Leon_Battista_Alberti,_Self-Portrait,_c._1435,_NGA_43845.jpg",
+   "pour": [
+    "leon-battista-alberti"
+   ],
+   "sig": "Leon Battista Alberti, Self-Portrait, c. 1435, NGA 43845.jpg||360|74"
+  },
+  "portrait-turing": {
+   "f": "img/portrait-turing.webp",
+   "v": "ac09549298",
+   "w": 360,
+   "h": 366,
+   "l": "Alan Turing à Princeton, en 1936, l’année de son article sur les nombres calculables",
+   "cr": "photographie, 1936",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alan_Turing_(1912-1954)_in_1936_at_Princeton_University.jpg",
+   "pour": [
+    "alan-turing"
+   ],
+   "sig": "Alan Turing (1912-1954) in 1936 at Princeton University.jpg||360|74"
+  },
+  "portrait-poe": {
+   "f": "img/portrait-poe.webp",
+   "v": "bdcff81f70",
+   "w": 360,
+   "h": 506,
+   "l": "Edgar Allan Poe, quelques mois avant sa mort",
+   "cr": "daguerréotype, 1849",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg",
+   "pour": [
+    "edgar-allan-poe"
+   ],
+   "sig": "Edgar Allan Poe, circa 1849, restored, squared off.jpg||360|74"
+  },
+  "portrait-michel-scot": {
+   "f": "img/portrait-michel-scot.webp",
+   "v": "8c2e317147",
+   "w": 400,
+   "h": 423,
+   "l": "Michel Scot dans l’initiale d’un manuscrit de sa *Physionomie*",
+   "cr": "manuscrit médiéval — Bibliothèque bodléienne, Oxford",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michael_Scot.png",
+   "pour": [
+    "michel-scot"
+   ],
+   "sig": "Michael Scot.png||400|74"
+  },
+  "portrait-gilles-de-rais": {
+   "f": "img/portrait-gilles-de-rais.webp",
+   "v": "2f64599e6e",
+   "w": 360,
+   "h": 552,
+   "l": "Gilles de Rais, maréchal de France, portrait imaginé pour Versailles",
+   "cr": "Éloi Firmin Féron, 1835 — château de Versailles",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:F%C3%A9ron_-_Gilles_de_Rais_(1405-1440)_-_MV_962.jpg",
+   "pour": [
+    "gilles-de-rais"
+   ],
+   "sig": "Féron - Gilles de Rais (1405-1440) - MV 962.jpg||360|74"
+  },
+  "portrait-maeterlinck": {
+   "f": "img/portrait-maeterlinck.webp",
+   "v": "ea210b7a53",
+   "w": 360,
+   "h": 489,
+   "l": "Maurice Maeterlinck",
+   "cr": "Félix Vallotton, vers 1898",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Maurice_Maeterlinck_by_Vallotton.jpg",
+   "pour": [
+    "maurice-maeterlinck"
+   ],
+   "sig": "Maurice Maeterlinck by Vallotton.jpg||360|74"
+  },
+  "portrait-donnelly": {
+   "f": "img/portrait-donnelly.webp",
+   "v": "92f8e37353",
+   "w": 360,
+   "h": 435,
+   "l": "Ignatius Donnelly",
+   "cr": "photographie, vers 1880",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ignatius_Donnelly.jpg",
+   "pour": [
+    "ignatius-donnelly"
+   ],
+   "sig": "Ignatius Donnelly.jpg||360|74"
+  },
+  "alacoque-giaquinto": {
+   "f": "img/alacoque-giaquinto.webp",
+   "v": "70a7e7d92e",
+   "w": 400,
+   "h": 539,
+   "l": "Marguerite-Marie Alacoque en prière devant le Sacré-Cœur",
+   "cr": "Corrado Giaquinto, vers 1765",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:St_Margaret_Mary_Alacoque_Contemplating_the_Sacred_Heart_of_Jesus.png",
+   "pour": [
+    "marguerite-marie-alacoque"
+   ],
+   "sig": "St Margaret Mary Alacoque Contemplating the Sacred Heart of Jesus.png||400|74"
+  },
+  "portrait-flaubert": {
+   "f": "img/portrait-flaubert.webp",
+   "v": "a2cc9884df",
+   "w": 360,
+   "h": 397,
+   "l": "Gustave Flaubert",
+   "cr": "photographie de Nadar, vers 1865-1869",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gustave_Flaubert.jpg",
+   "pour": [
+    "gustave-flaubert"
+   ],
+   "sig": "Gustave Flaubert.jpg||360|74"
+  },
+  "portrait-baudelaire": {
+   "f": "img/portrait-baudelaire.webp",
+   "v": "ad956d750b",
+   "w": 360,
+   "h": 454,
+   "l": "Charles Baudelaire",
+   "cr": "photographie d’Étienne Carjat, vers 1862",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%C3%89tienne_Carjat,_Portrait_of_Charles_Baudelaire,_circa_1862.jpg",
+   "pour": [
+    "charles-baudelaire"
+   ],
+   "sig": "Étienne Carjat, Portrait of Charles Baudelaire, circa 1862.jpg||360|74"
+  },
+  "villon-1489": {
+   "f": "img/villon-1489.webp",
+   "v": "64c6977953",
+   "w": 360,
+   "h": 659,
+   "l": "François Villon, dans la première édition de son *Grand Testament*",
+   "cr": "gravure sur bois, Pierre Levet, 1489",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Francois_Villon_1489.jpg",
+   "pour": [
+    "francois-villon"
+   ],
+   "sig": "Francois Villon 1489.jpg||360|74"
+  },
+  "portrait-mistral": {
+   "f": "img/portrait-mistral.webp",
+   "v": "f13b57a3bf",
+   "w": 360,
+   "h": 485,
+   "l": "Frédéric Mistral",
+   "cr": "Félix-Auguste Clément, 1885",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Clement-Frederic-Mistral.jpg",
+   "pour": [
+    "frederic-mistral"
+   ],
+   "sig": "Clement-Frederic-Mistral.jpg||360|74"
+  },
+  "mistral-saintes": {
+   "f": "img/mistral-saintes.webp",
+   "v": "1caac3e4ea",
+   "w": 520,
+   "h": 333,
+   "l": "Frédéric Mistral aux Saintes-Maries-de-la-Mer",
+   "cr": "photographie, 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Frederic_Mistral_Saintes_Maries_de_la_Mer_1906.jpg",
+   "pour": [
+    "frederic-mistral"
+   ],
+   "sig": "Frederic Mistral Saintes Maries de la Mer 1906.jpg||520|74"
+  },
+  "demeter-eleusis": {
+   "f": "img/demeter-eleusis.webp",
+   "v": "0daf07d9f5",
+   "w": 400,
+   "h": 617,
+   "l": "Déméter assise et Triptolème, relief votif d’Éleusis",
+   "cr": "IVe siècle av. J.-C. — musée archéologique d’Éleusis",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Votive_relief_showing_Demeter_and_Triptolemos2,_Eleusis,_4th_c_BC.jpg",
+   "pour": [
+    "demeter"
+   ],
+   "sig": "Votive relief showing Demeter and Triptolemos2, Eleusis, 4th c BC.jpg||400|74"
+  },
+  "proserpine-rossetti": {
+   "f": "img/proserpine-rossetti.webp",
+   "v": "10131f18dd",
+   "w": 400,
+   "h": 884,
+   "l": "*Proserpine*, la grenade entamée à la main : pour en avoir mangé quelques grains, elle doit revenir chaque année aux Enfers",
+   "cr": "Dante Gabriel Rossetti, 1874 — Tate Britain",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg",
+   "pour": [
+    "persephone"
+   ],
+   "sig": "Dante Gabriel Rossetti - Proserpine - Google Art Project.jpg||400|74"
+  },
+  "hecate-blake": {
+   "f": "img/hecate-blake.webp",
+   "v": "f87cec6c9a",
+   "w": 560,
+   "h": 414,
+   "l": "*Hécate*, ou *La Nuit de la joie d’Enitharmon*",
+   "cr": "William Blake, vers 1795 — Tate Britain",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Blake_006.jpg",
+   "pour": [
+    "hecate"
+   ],
+   "sig": "William Blake 006.jpg||560|74"
+  },
+  "pan-daphnis": {
+   "f": "img/pan-daphnis.webp",
+   "v": "f17c0da540",
+   "w": 400,
+   "h": 668,
+   "l": "Pan apprenant à Daphnis à jouer de la syrinx",
+   "cr": "copie romaine d’un original d’Héliodore de Rhodes — palais Altemps, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pan_Daphnis_Altemps_Inv8571.jpg",
+   "pour": [
+    "pan"
+   ],
+   "sig": "Pan Daphnis Altemps Inv8571.jpg||400|74"
+  },
+  "michel-raphael": {
+   "f": "img/michel-raphael.webp",
+   "v": "d4347cf292",
+   "w": 400,
+   "h": 462,
+   "l": "*Saint Michel terrassant le dragon*",
+   "cr": "Raphaël, vers 1503-1505 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_St_Michael_and_the_Dragon_-_WGA18633.jpg",
+   "pour": [
+    "saint-michel"
+   ],
+   "sig": "Raffaello Sanzio - St Michael and the Dragon - WGA18633.jpg||400|74"
+  },
+  "arthur-preux": {
+   "f": "img/arthur-preux.webp",
+   "v": "ff22e79012",
+   "w": 400,
+   "h": 735,
+   "l": "Le roi Arthur, l’un des neuf preux, sur une tapisserie",
+   "cr": "tapisserie des Neuf Preux, vers 1400 — The Cloisters, Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:King_Arthur_(from_the_Nine_Heroes_Tapestries)_MET_DP118004_(cropped).jpg",
+   "pour": [
+    "roi-arthur",
+    "neuf-preux"
+   ],
+   "sig": "King Arthur (from the Nine Heroes Tapestries) MET DP118004 (cropped).jpg||400|74"
+  },
+  "orval-ruines": {
+   "f": "img/orval-ruines.webp",
+   "v": "38cdde01d4",
+   "w": 560,
+   "h": 406,
+   "l": "Les ruines de l’ancienne abbaye d’Orval, avant la reconstruction du XXe siècle",
+   "cr": "photographie, fin du XIXe ou début du XXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_d%27Orval._Ruines_Late_19th_-_Begin_20th_century_barcode_800000029849.jpg",
+   "pour": [
+    "orval"
+   ],
+   "sig": "Abbaye d'Orval. Ruines Late 19th - Begin 20th century barcode 800000029849.jpg||560|74"
+  },
+  "orval-1760": {
+   "f": "img/orval-1760.webp",
+   "v": "98c13075a0",
+   "w": 560,
+   "h": 368,
+   "l": "L’abbaye d’Orval telle qu’elle était en 1760, avant son incendie par les troupes révolutionnaires en 1793",
+   "cr": "gravure d’après une vue de 1760",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_d%27orval_1760_(knipsel)_Late_19th_-_Begin_20th_century_barcode_800000029865.jpg",
+   "pour": [
+    "orval",
+    "prophetie-d-orval"
+   ],
+   "sig": "Abbaye d'orval 1760 (knipsel) Late 19th - Begin 20th century barcode 800000029865.jpg||560|74"
+  },
+  "jumieges-ruines": {
+   "f": "img/jumieges-ruines.webp",
+   "v": "6b83033146",
+   "w": 560,
+   "h": 420,
+   "l": "Les tours de l’abbatiale Notre-Dame de Jumièges, ruinée après la Révolution",
+   "cr": "photographie de Franz Golhen, 2007",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_de_Jumi%C3%A8ges.jpg",
+   "pour": [
+    "jumieges",
+    "abbayes-normandes"
+   ],
+   "sig": "Abbaye de Jumièges.jpg||560|74"
+  },
+  "saint-wandrille-monasticon": {
+   "f": "img/saint-wandrille-monasticon.webp",
+   "v": "44d393c8b4",
+   "w": 560,
+   "h": 415,
+   "l": "L’abbaye de Saint-Wandrille de Fontenelle à vol d’oiseau",
+   "cr": "*Monasticon Gallicanum*, gravure du XVIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_Saint-Wandrille_dans_Monasticon_Gallicanum.jpg",
+   "pour": [
+    "saint-wandrille"
+   ],
+   "sig": "Abbaye Saint-Wandrille dans Monasticon Gallicanum.jpg||560|74"
+  },
+  "fecamp-bourgeois": {
+   "f": "img/fecamp-bourgeois.webp",
+   "v": "6570788194",
+   "w": 560,
+   "h": 364,
+   "l": "L’abbatiale de la Trinité de Fécamp, où l’on vénère le Précieux Sang",
+   "cr": "dessin de Constant Bourgeois, 1821 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye_de_F%C3%A9camp_(Normandie)_-_dessin_-_C.t_Bourgeois_-_btv1b7740668b.jpg",
+   "pour": [
+    "fecamp"
+   ],
+   "sig": "Abbaye de Fécamp (Normandie) - dessin - C.t Bourgeois - btv1b7740668b.jpg||560|74"
+  },
+  "caen-abbaye-aux-hommes": {
+   "f": "img/caen-abbaye-aux-hommes.webp",
+   "v": "e82c3101db",
+   "w": 560,
+   "h": 364,
+   "l": "La nef romane de l’abbaye aux Hommes de Caen, fondée par Guillaume le Conquérant",
+   "cr": "vue de 1866 — Gallery Oldham",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbaye-aux-hommes,_Caen,_France,_1866.jpg",
+   "pour": [
+    "abbayes-normandes"
+   ],
+   "sig": "Abbaye-aux-hommes, Caen, France, 1866.jpg||560|74"
+  },
+  "mont-saint-michel-limbourg": {
+   "f": "img/mont-saint-michel-limbourg.webp",
+   "v": "61f71b943a",
+   "w": 440,
+   "h": 556,
+   "l": "Saint Michel combat le dragon au-dessus du Mont, dans les *Très Riches Heures du duc de Berry*",
+   "cr": "frères de Limbourg, 1411-1416 — musée Condé, Chantilly",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Folio_195r_-_The_Mass_of_Saint_Michael.jpg",
+   "pour": [
+    "mont-saint-michel"
+   ],
+   "sig": "Folio 195r - The Mass of Saint Michael.jpg||440|74"
+  },
+  "bouillon-chateau": {
+   "f": "img/bouillon-chateau.webp",
+   "v": "adcd6fda12",
+   "w": 640,
+   "h": 158,
+   "l": "Le château de Bouillon sur son éperon au-dessus de la Semois",
+   "cr": "photographie de XenonX3, 2006",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Panorama_Burg_Bouillon_(Bouillon_Castle),_2006.jpg",
+   "pour": [
+    "bouillon",
+    "godefroy-de-bouillon"
+   ],
+   "sig": "Panorama Burg Bouillon (Bouillon Castle), 2006.jpg||640|74"
+  },
+  "saintes-maries-eglise": {
+   "f": "img/saintes-maries-eglise.webp",
+   "v": "b1effd6d8b",
+   "w": 560,
+   "h": 415,
+   "l": "L’église fortifiée des Saintes-Maries-de-la-Mer",
+   "cr": "photographie de l’agence Rol, 1917 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Eglise_des_Saintes-Maries-de-la-Mer_-_btv1b530028591.jpg",
+   "pour": [
+    "saintes-maries-de-la-mer"
+   ],
+   "sig": "Eglise des Saintes-Maries-de-la-Mer - btv1b530028591.jpg||560|74"
+  },
+  "saintes-maries-van-gogh": {
+   "f": "img/saintes-maries-van-gogh.webp",
+   "v": "b368238fa4",
+   "w": 560,
+   "h": 393,
+   "l": "Le village et son église vus des champs, dessinés par Van Gogh",
+   "cr": "Vincent van Gogh, juin 1888",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gogh,_Vincent_van_-_Blick_auf_Saintes-Maries-de-la-Mer.jpg",
+   "pour": [
+    "saintes-maries-de-la-mer"
+   ],
+   "sig": "Gogh, Vincent van - Blick auf Saintes-Maries-de-la-Mer.jpg||560|74"
+  },
+  "sainte-baume-grotte": {
+   "f": "img/sainte-baume-grotte.webp",
+   "v": "17e7af4af3",
+   "w": 560,
+   "h": 420,
+   "l": "L’intérieur de la grotte de la Sainte-Baume, où Marie-Madeleine aurait fini ses jours",
+   "cr": "photochrome, vers 1890-1900 — Bibliothèque du Congrès",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:St._Baume,_interior,_Var,_France-LCCN2001698729.jpg",
+   "pour": [
+    "sainte-baume",
+    "marie-madeleine"
+   ],
+   "sig": "St. Baume, interior, Var, France-LCCN2001698729.jpg||560|74"
+  },
+  "saint-maximin-portail": {
+   "f": "img/saint-maximin-portail.webp",
+   "v": "fb25f1c30e",
+   "w": 560,
+   "h": 373,
+   "l": "La façade inachevée de la basilique de Saint-Maximin",
+   "cr": "photographie de Phil25, 2008",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Basilique_Sainte-Marie-Madeleine_de_Saint-Maximin-la-Sainte-Baume_portail.JPG",
+   "pour": [
+    "saint-maximin"
+   ],
+   "sig": "Basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume portail.JPG||560|74"
+  },
+  "sagrada-1906": {
+   "f": "img/sagrada-1906.webp",
+   "v": "585f964517",
+   "w": 560,
+   "h": 359,
+   "l": "Le chantier de la Sagrada Família en 1906 : la façade de la Nativité s’élève",
+   "cr": "photographie, 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_-_Obres_al_1906.jpg",
+   "pour": [
+    "sagrada-familia"
+   ],
+   "sig": "Sagrada Família - Obres al 1906.jpg||560|74"
+  },
+  "sagrada-rubio": {
+   "f": "img/sagrada-rubio.webp",
+   "v": "dfa7e2d57a",
+   "w": 440,
+   "h": 465,
+   "l": "Le temple tel que Gaudí le rêvait, dessiné par son collaborateur Joan Rubió d’après ses croquis",
+   "cr": "dessin publié en 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sagrada_Fam%C3%ADlia_-_Dibuix_de_Joan_Rubi%C3%B3_a_partir_dels_croquis_d%27Antoni_Gaud%C3%AD.jpg",
+   "pour": [
+    "sagrada-familia",
+    "antoni-gaudi"
+   ],
+   "sig": "Sagrada Família - Dibuix de Joan Rubió a partir dels croquis d'Antoni Gaudí.jpg||440|74"
+  },
+  "chartres-corot": {
+   "f": "img/chartres-corot.webp",
+   "v": "88997eb563",
+   "w": 440,
+   "h": 554,
+   "l": "*La Cathédrale de Chartres* vue de la ville basse",
+   "cr": "Jean-Baptiste Camille Corot, 1830 — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Camille_Corot_-_The_Cathedral_of_Chartres_-_WGA5282.jpg",
+   "pour": [
+    "chartres",
+    "cathedrale-de-chartres"
+   ],
+   "sig": "Jean-Baptiste-Camille Corot - The Cathedral of Chartres - WGA5282.jpg||440|74"
+  },
+  "chartres-neurdein": {
+   "f": "img/chartres-neurdein.webp",
+   "v": "c556de8e33",
+   "w": 400,
+   "h": 586,
+   "l": "La cathédrale de Chartres et ses deux flèches dissemblables",
+   "cr": "photographie des frères Neurdein, fin du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Catedral_de_Chartres,_Neurdein_(42457535265).jpg",
+   "pour": [
+    "cathedrale-de-chartres"
+   ],
+   "sig": "Catedral de Chartres, Neurdein (42457535265).jpg||400|74"
+  },
+  "chartres-belle-verriere": {
+   "f": "img/chartres-belle-verriere.webp",
+   "v": "064937ff05",
+   "w": 320,
+   "h": 793,
+   "l": "Notre-Dame de la Belle Verrière, vitrail du XIIe siècle sauvé de l’incendie de 1194",
+   "cr": "photographie d’Eusebius, 2009",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Chartres_-_cath%C3%A9drale_-_ND_de_la_belle_verri%C3%A8re.JPG",
+   "pour": [
+    "cathedrale-de-chartres"
+   ],
+   "sig": "Chartres - cathédrale - ND de la belle verrière.JPG||320|74"
+  },
+  "domremy-maison": {
+   "f": "img/domremy-maison.webp",
+   "v": "8d82a766d6",
+   "w": 560,
+   "h": 360,
+   "l": "La maison natale de Jeanne d’Arc à Domrémy",
+   "cr": "carte postale, début du XXe siècle",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Carte_postale,_Domr%C3%A9my,_Maison_natale_de_Jeanne_d%27Arc.jpg",
+   "pour": [
+    "domremy",
+    "jeanne-d-arc"
+   ],
+   "sig": "Carte postale, Domrémy, Maison natale de Jeanne d'Arc.jpg||560|74"
+  },
+  "opera-garnier-vue": {
+   "f": "img/opera-garnier-vue.webp",
+   "v": "7c131bb9cd",
+   "w": 560,
+   "h": 409,
+   "l": "L’Opéra de Charles Garnier, peu après son achèvement",
+   "cr": "photographie, vers 1875-1890 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Op%C3%A9ra_Garnier_in_Parijs,_RP-F-F01159-AX.jpg",
+   "pour": [
+    "opera-garnier"
+   ],
+   "sig": "Gezicht op de Opéra Garnier in Parijs, RP-F-F01159-AX.jpg||560|74"
+  },
+  "opera-pegase": {
+   "f": "img/opera-pegase.webp",
+   "v": "5a4cd4dee4",
+   "w": 400,
+   "h": 535,
+   "l": "L’un des deux Pégase d’Eugène Lequesne qui couronnent l’Opéra Garnier",
+   "cr": "photographie de Louis-Émile Durandelle, vers 1875 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:7._Le_Nouvel_Op%C3%A9ra_de_Paris._Statues_d%C3%A9coratives_-_Groupes_de_la_fa%C3%A7ade_principale_-_P%C3%A9gase._Lequesne_-_Durandelle,_photographe_-_btv1b54100953j_(1_of_2).jpg",
+   "pour": [
+    "pegase",
+    "opera-garnier"
+   ],
+   "sig": "7. Le Nouvel Opéra de Paris. Statues décoratives - Groupes de la façade principale - Pégase. Lequesne - Durandelle, photographe - btv1b54100953j (1 of 2).jpg|0.22 0.12 0.8 0.7|400|74"
+  },
+  "saint-sulpice-gnomon": {
+   "f": "img/saint-sulpice-gnomon.webp",
+   "v": "6cef0b97fd",
+   "w": 400,
+   "h": 533,
+   "l": "La méridienne de laiton de Saint-Sulpice, tracée en 1743 pour fixer l’équinoxe et la date de Pâques",
+   "cr": "photographie de Gryffindor, 2006",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint-Sulpice_Paris_April_2006_016.jpg",
+   "pour": [
+    "saint-sulpice"
+   ],
+   "sig": "Saint-Sulpice Paris April 2006 016.jpg||400|74"
+  },
+  "stenay-1640": {
+   "f": "img/stenay-1640.webp",
+   "v": "8890bb195c",
+   "w": 560,
+   "h": 412,
+   "l": "Plan de la place forte de Stenay",
+   "cr": "dessin, 1640 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Stenay_-_btv1b53144128w_(2_of_3).jpg",
+   "pour": [
+    "stenay"
+   ],
+   "sig": "Stenay - btv1b53144128w (2 of 3).jpg||560|74"
+  },
+  "nazca-satellite": {
+   "f": "img/nazca-satellite.webp",
+   "v": "e2efa65971",
+   "w": 560,
+   "h": 407,
+   "l": "Les lignes de Nazca vues de l’espace : les traits se croisent sur des kilomètres",
+   "cr": "NASA, satellite Terra, instrument ASTER",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nasca_Lines,_Peru_(ASTER).jpg",
+   "pour": [
+    "nazca"
+   ],
+   "sig": "Nasca Lines, Peru (ASTER).jpg||560|74"
+  },
+  "arcadie-guercino": {
+   "f": "img/arcadie-guercino.webp",
+   "v": "204c0ae770",
+   "w": 560,
+   "h": 466,
+   "l": "*Et in Arcadia ego* : la première fois que la formule paraît, sous un crâne que découvrent deux bergers",
+   "cr": "le Guerchin, vers 1618-1622 — Galerie nationale d’Art ancien, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Guercino_Et_in_Arcadia_ego_(detail).jpg",
+   "pour": [
+    "arcadie",
+    "les-bergers-d-arcadie"
+   ],
+   "sig": "Guercino Et in Arcadia ego (detail).jpg||560|74"
+  },
+  "bletchley-colossus": {
+   "f": "img/bletchley-colossus.webp",
+   "v": "3f7b2a35c1",
+   "w": 560,
+   "h": 374,
+   "l": "Le calculateur Colossus de Bletchley Park, conduit par deux opératrices du service féminin de la Marine",
+   "cr": "photographie, 1943 — Archives nationales du Royaume-Uni",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Colossus.jpg",
+   "pour": [
+    "bletchley-park",
+    "cryptographie"
+   ],
+   "sig": "Colossus.jpg||560|74"
+  },
+  "labyrinthe-reims": {
+   "f": "img/labyrinthe-reims.webp",
+   "v": "85431bc203",
+   "w": 440,
+   "h": 439,
+   "l": "Le labyrinthe de la cathédrale de Reims, détruit en 1779, avec aux angles ses architectes",
+   "cr": "relevé de Jacques Cellier, 1583-1587 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacques_Cellier_-_Cath%C3%A9drale_de_Reims_-_Labyrinthe_(1583-1587).jpg",
+   "pour": [
+    "labyrinthe"
+   ],
+   "sig": "Jacques Cellier - Cathédrale de Reims - Labyrinthe (1583-1587).jpg||440|74"
+  },
+  "mandala-vajrabhairava": {
+   "f": "img/mandala-vajrabhairava.webp",
+   "v": "7c05f6de1b",
+   "w": 440,
+   "h": 548,
+   "l": "Mandala de Vajrabhairava, tissé en soie pour la cour mongole de Chine",
+   "cr": "tapisserie kesi, dynastie Yuan, vers 1330 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:%E5%85%83_%E7%B7%99%E7%B5%B2%E5%A4%A7%E5%A8%81%E5%BE%B7%E9%87%91%E5%89%9B%E6%9B%BC%E9%99%80%E7%BE%85-Vajrabhairava_Mandala_MET_DT841.jpg",
+   "pour": [
+    "mandala"
+   ],
+   "sig": "元 緙絲大威德金剛曼陀羅-Vajrabhairava Mandala MET DT841.jpg||440|74"
+  },
+  "bomarzo-dragon": {
+   "f": "img/bomarzo-dragon.webp",
+   "v": "3f9bf7601a",
+   "w": 640,
+   "h": 346,
+   "l": "Le dragon attaqué par des lions et l’éléphant de guerre du « bois sacré » de Bomarzo",
+   "cr": "photographie de Daderot, 2019",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dragon_and_elephant_-_Parco_dei_Mostri_-_Bomarzo,_Italy_-_DSC02594.jpg",
+   "pour": [
+    "bomarzo"
+   ],
+   "sig": "Dragon and elephant - Parco dei Mostri - Bomarzo, Italy - DSC02594.jpg||640|74"
+  },
+  "bomarzo-nymphe": {
+   "f": "img/bomarzo-nymphe.webp",
+   "v": "a546d13ce5",
+   "w": 360,
+   "h": 540,
+   "l": "Une Vénus dans sa niche en coquille, au bord du parcours",
+   "cr": "photographie de Daderot, 2019",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Venus_-_Parco_dei_Mostri_-_Bomarzo,_Italy_-_DSC02530.jpg",
+   "pour": [
+    "bomarzo"
+   ],
+   "sig": "Venus - Parco dei Mostri - Bomarzo, Italy - DSC02530.jpg||360|74"
+  },
+  "rocamadour-vierge": {
+   "f": "img/rocamadour-vierge.webp",
+   "v": "ece191ce91",
+   "w": 400,
+   "h": 469,
+   "l": "La Vierge noire de Rocamadour, parée de sa robe",
+   "cr": "gravure d’après Gaston Vuillier, *Le Tour du monde*, 1892",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Tour_du_monde-63-p406.jpg",
+   "pour": [
+    "vierges-noires"
+   ],
+   "sig": "Le Tour du monde-63-p406.jpg||400|74"
+  },
+  "alexandrie-bibliotheque": {
+   "f": "img/alexandrie-bibliotheque.webp",
+   "v": "3f9313e0aa",
+   "w": 440,
+   "h": 447,
+   "l": "La bibliothèque d’Alexandrie, reconstitution imaginaire",
+   "cr": "gravure d’O. Von Corven, XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ancientlibraryalex.jpg",
+   "pour": [
+    "alexandrie"
+   ],
+   "sig": "Ancientlibraryalex.jpg||440|74"
+  },
+  "compostelle-calixtinus": {
+   "f": "img/compostelle-calixtinus.webp",
+   "v": "89a8e0e88f",
+   "w": 400,
+   "h": 573,
+   "l": "Une page du *Codex Calixtinus*, le livre de saint Jacques, qui contient le premier guide des pèlerins",
+   "cr": "manuscrit, vers 1140 — cathédrale de Saint-Jacques-de-Compostelle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Calixtinus_02.jpg",
+   "pour": [
+    "saint-jacques-de-compostelle"
+   ],
+   "sig": "Codex Calixtinus 02.jpg||400|74"
+  },
+  "pere-lachaise-atget": {
+   "f": "img/pere-lachaise-atget.webp",
+   "v": "7124523838",
+   "w": 400,
+   "h": 500,
+   "l": "Une allée du Père-Lachaise dans la brume",
+   "cr": "photographie d’Eugène Atget, 1898-1901",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget_-_P%C3%A8re-Lachaise_01.jpg",
+   "pour": [
+    "pere-lachaise"
+   ],
+   "sig": "Eugène Atget - Père-Lachaise 01.jpg||400|74"
+  },
+  "hotel-lallemant-facade": {
+   "f": "img/hotel-lallemant-facade.webp",
+   "v": "3f2958a122",
+   "w": 400,
+   "h": 595,
+   "l": "La façade de l’hôtel Lallemant à Bourges",
+   "cr": "gravure publiée par Michel Lévy, avant 1875",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bourges_hotel_lallemant_fa%C3%A7ade.jpg",
+   "pour": [
+    "hotel-lallemant"
+   ],
+   "sig": "Bourges hotel lallemant façade.jpg||400|74"
+  },
+  "careggi-zocchi": {
+   "f": "img/careggi-zocchi.webp",
+   "v": "44bebf994d",
+   "w": 560,
+   "h": 345,
+   "l": "La villa médicéenne de Careggi, où se réunissait l’Académie platonicienne de Marsile Ficin",
+   "cr": "gravure de Giuseppe Zocchi, 1744",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Zocchi,_ville_33_careggi.jpg",
+   "pour": [
+    "villa-de-careggi"
+   ],
+   "sig": "Zocchi, ville 33 careggi.jpg||560|74"
+  },
+  "sibylle-cumes": {
+   "f": "img/sibylle-cumes.webp",
+   "v": "0280f4d39f",
+   "w": 400,
+   "h": 534,
+   "l": "La sibylle de Cumes",
+   "cr": "gravure, 1684 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Sibille_van_Cumae_Sibylla_Cumana_(titel_op_object),_RP-P-1896-A-19368-480.jpg",
+   "pour": [
+    "antre-de-la-sibylle"
+   ],
+   "sig": "Sibille van Cumae Sibylla Cumana (titel op object), RP-P-1896-A-19368-480.jpg||400|74"
+  },
+  "bugarach-pech": {
+   "f": "img/bugarach-pech.webp",
+   "v": "0da2394869",
+   "w": 560,
+   "h": 371,
+   "l": "Le pech de Bugarach, point culminant des Corbières",
+   "cr": "photographie de Vassil, 2014",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Pech_de_Bugarach_27072014_02.jpg",
+   "pour": [
+    "bugarach"
+   ],
+   "sig": "Pech de Bugarach 27072014 02.jpg||560|74"
+  },
+  "adyar-bibliotheque": {
+   "f": "img/adyar-bibliotheque.webp",
+   "v": "e82fdf42f3",
+   "w": 560,
+   "h": 380,
+   "l": "La bibliothèque de la Société théosophique à Adyar",
+   "cr": "photographie publiée en 1920",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Library_building_at_Theosophical_Society,_Adyar_from_Grandhalaya_Sarvasvamu.jpg",
+   "pour": [
+    "adyar"
+   ],
+   "sig": "Library building at Theosophical Society, Adyar from Grandhalaya Sarvasvamu.jpg||560|74"
+  },
+  "kailash-meru": {
+   "f": "img/kailash-meru.webp",
+   "v": "c3d4554751",
+   "w": 400,
+   "h": 552,
+   "l": "Le mont Kailash, identifié au mont Meru, axe du monde, avec Shiva et sa famille à son sommet",
+   "cr": "peinture indienne du XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hindukailash.JPG",
+   "pour": [
+    "axis-mundi"
+   ],
+   "sig": "Hindukailash.JPG||400|74"
+  },
+  "bestiaire-adam": {
+   "f": "img/bestiaire-adam.webp",
+   "v": "decb802a23",
+   "w": 400,
+   "h": 601,
+   "l": "Adam nomme les animaux, au seuil du bestiaire d’Aberdeen",
+   "cr": "bestiaire d’Aberdeen, vers 1200 — bibliothèque de l’université d’Aberdeen",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:AberdeenBestiaryFolio005rAdamNamesAnimalsDetail.jpg",
+   "pour": [
+    "bestiaire"
+   ],
+   "sig": "AberdeenBestiaryFolio005rAdamNamesAnimalsDetail.jpg||400|74"
+  },
+  "physiologus-panthere": {
+   "f": "img/physiologus-panthere.webp",
+   "v": "5735541046",
+   "w": 400,
+   "h": 535,
+   "l": "La panthère, dont l’haleine parfumée attire les autres bêtes, figure du Christ",
+   "cr": "*Physiologus* de Berne, vers 825-850 — Burgerbibliothek, Berne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:76-Fisiologo_di_Berna_-_Pantera.jpg",
+   "pour": [
+    "physiologus"
+   ],
+   "sig": "76-Fisiologo di Berna - Pantera.jpg||400|74"
+  },
+  "serpent-airain": {
+   "f": "img/serpent-airain.webp",
+   "v": "f4abe39ca7",
+   "w": 400,
+   "h": 596,
+   "l": "Moïse élève le serpent d’airain : les Hébreux mordus qui le regardent sont guéris",
+   "cr": "Antoine Masson d’après Charles Le Brun, XVIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Antoine_Masson_-_Le_serpent_d%27airain_de_Mo%C3%AFse-.jpg",
+   "pour": [
+    "serpent"
+   ],
+   "sig": "Antoine Masson - Le serpent d'airain de Moïse-.jpg||400|74"
+  },
+  "pelican-piete": {
+   "f": "img/pelican-piete.webp",
+   "v": "30eabd5210",
+   "w": 440,
+   "h": 402,
+   "l": "Le pélican qui nourrit ses petits de son sang, sur un plat de laiton",
+   "cr": "XVe siècle — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_with_Pelican_in_her_Piety_MET_DP102100.jpeg",
+   "pour": [
+    "pelican"
+   ],
+   "sig": "Plate with Pelican in her Piety MET DP102100.jpeg||440|74"
+  },
+  "griffon-harley": {
+   "f": "img/griffon-harley.webp",
+   "v": "c5251ac797",
+   "w": 520,
+   "h": 315,
+   "l": "Le griffon, lion à tête et ailes d’aigle",
+   "cr": "bestiaire, manuscrit Harley 3244, XIIIe siècle — British Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Griffon_3244.jpg",
+   "pour": [
+    "griffon"
+   ],
+   "sig": "Griffon 3244.jpg||520|74"
+  },
+  "chiron-achille": {
+   "f": "img/chiron-achille.webp",
+   "v": "92a26642d2",
+   "w": 400,
+   "h": 415,
+   "l": "Le centaure Chiron enseigne la lyre au jeune Achille",
+   "cr": "fresque romaine d’Herculanum — musée archéologique de Naples",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Chiron_instructs_young_Achilles_-_Ancient_Roman_fresco.jpg",
+   "pour": [
+    "centaure"
+   ],
+   "sig": "Chiron instructs young Achilles - Ancient Roman fresco.jpg||400|74"
+  },
+  "minotaure-thesee": {
+   "f": "img/minotaure-thesee.webp",
+   "v": "c74db70b3d",
+   "w": 440,
+   "h": 421,
+   "l": "Thésée terrasse le Minotaure",
+   "cr": "coupe attique à figures rouges — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Theseus_Minotauros_Louvre_G67.jpg",
+   "pour": [
+    "minotaure",
+    "labyrinthe"
+   ],
+   "sig": "Theseus Minotauros Louvre G67.jpg||440|74"
+  },
+  "chimere-apulie": {
+   "f": "img/chimere-apulie.webp",
+   "v": "2bb622c339",
+   "w": 440,
+   "h": 440,
+   "l": "La Chimère, lion, chèvre et serpent à la fois",
+   "cr": "plat apulien à figures rouges, vers 350-340 av. J.-C. — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Chimera_Apulia_Louvre_K362.jpg",
+   "pour": [
+    "chimere"
+   ],
+   "sig": "Chimera Apulia Louvre K362.jpg||440|74"
+  },
+  "cerbere-hydrie": {
+   "f": "img/cerbere-hydrie.webp",
+   "v": "8a8ea855a6",
+   "w": 520,
+   "h": 395,
+   "l": "Héraclès ramène Cerbère des Enfers ; Eurysthée, terrifié, se réfugie dans une jarre",
+   "cr": "hydrie de Caeré, vers 525 av. J.-C. — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Herakles_Kerberos_Eurystheus_Louvre_E701.jpg",
+   "pour": [
+    "cerbere"
+   ],
+   "sig": "Herakles Kerberos Eurystheus Louvre E701.jpg||520|74"
+  },
+  "hydre-lerne": {
+   "f": "img/hydre-lerne.webp",
+   "v": "d53ed3d534",
+   "w": 440,
+   "h": 354,
+   "l": "Héraclès et l’hydre de Lerne",
+   "cr": "vase grec — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lernaean_Hydra_Louvre_CA7318.jpg",
+   "pour": [
+    "hydre"
+   ],
+   "sig": "Lernaean Hydra Louvre CA7318.jpg||440|74"
+  },
+  "sirenes-ulysse": {
+   "f": "img/sirenes-ulysse.webp",
+   "v": "7ce15e3054",
+   "w": 520,
+   "h": 364,
+   "l": "Ulysse, attaché au mât, écoute le chant des Sirènes, femmes-oiseaux",
+   "cr": "stamnos attique du Peintre de la Sirène, vers 480-470 av. J.-C. — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Odysseus_Sirens_BM_E440_n2.jpg",
+   "pour": [
+    "sirene"
+   ],
+   "sig": "Odysseus Sirens BM E440 n2.jpg||520|74"
+  },
+  "harpie-aldrovandi": {
+   "f": "img/harpie-aldrovandi.webp",
+   "v": "77ddfba337",
+   "w": 400,
+   "h": 460,
+   "l": "La harpie, dans l’histoire des monstres d’Ulisse Aldrovandi",
+   "cr": "gravure de Jean-Baptiste Coriolan, *Monstrorum historia*, 1642",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Aldrovandi-0337.jpg",
+   "pour": [
+    "harpie"
+   ],
+   "sig": "Aldrovandi-0337.jpg||400|74"
+  },
+  "manticore-topsell": {
+   "f": "img/manticore-topsell.webp",
+   "v": "a06f86b927",
+   "w": 480,
+   "h": 292,
+   "l": "La manticore, lion à visage humain et queue de scorpion",
+   "cr": "Edward Topsell, *The History of Four-footed Beasts*, 1607",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:ManticoraTHoFFB1607.png",
+   "pour": [
+    "manticore"
+   ],
+   "sig": "ManticoraTHoFFB1607.png||480|74"
+  },
+  "salamandre-feu": {
+   "f": "img/salamandre-feu.webp",
+   "v": "4ec8e43bf6",
+   "w": 480,
+   "h": 317,
+   "l": "La salamandre qui vit dans le feu sans se consumer",
+   "cr": "Jacob van Maerlant, *Der naturen bloeme*, vers 1350 — Bibliothèque royale des Pays-Bas",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:A_salamander_unharmed_in_the_fire.jpg",
+   "pour": [
+    "salamandre"
+   ],
+   "sig": "A salamander unharmed in the fire.jpg||480|74"
+  },
+  "salamandre-marque": {
+   "f": "img/salamandre-marque.webp",
+   "v": "cd4c16a684",
+   "w": 480,
+   "h": 266,
+   "l": "Une salamandre couronnée dans les flammes, marque d’imprimeur",
+   "cr": "livre imprimé, 1548",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mark_with_a_crowned_salamander_in_flames,_from_Zasius,_Ulrich_%E2%80%93_Enarratio_in_titulum_Institutionum_de_actionibus,_1548_%E2%80%93_BEIC_10956351_(cropped).tif",
+   "pour": [
+    "elementaux"
+   ],
+   "sig": "Mark with a crowned salamander in flames, from Zasius, Ulrich – Enarratio in titulum Institutionum de actionibus, 1548 – BEIC 10956351 (cropped).tif||480|74"
+  },
+  "vouivre-liber-floridus": {
+   "f": "img/vouivre-liber-floridus.webp",
+   "v": "6bcb373c82",
+   "w": 400,
+   "h": 605,
+   "l": "Saint Michel et ses anges combattent la vouivre, dragon ailé à deux pattes",
+   "cr": "*Liber floridus* de Lambert de Saint-Omer, copie de 1448",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Wyvern_Liber_Floridus.jpg",
+   "pour": [
+    "vouivre"
+   ],
+   "sig": "Wyvern Liber Floridus.jpg||400|74"
+  },
+  "tarasque-laval": {
+   "f": "img/tarasque-laval.webp",
+   "v": "bc3a6fdd28",
+   "w": 400,
+   "h": 574,
+   "l": "Sainte Marthe dompte la Tarasque devant Tarascon",
+   "cr": "Jean Colombe, *Heures de Louis de Laval*, vers 1480-1485 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Heures_de_Louis_de_Laval_-_BNF_Lat920_f317v_(Sainte_Marthe_et_la_Tarasque).jpg",
+   "pour": [
+    "tarasque"
+   ],
+   "sig": "Heures de Louis de Laval - BNF Lat920 f317v (Sainte Marthe et la Tarasque).jpg||400|74"
+  },
+  "stryge-meryon": {
+   "f": "img/stryge-meryon.webp",
+   "v": "4349809120",
+   "w": 400,
+   "h": 540,
+   "l": "*Le Stryge* : la chimère de Notre-Dame contemple Paris et la tour Saint-Jacques",
+   "cr": "Charles Meryon, eau-forte, 1853 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Beeld_van_vampier_als_waterspuwer_op_toren_van_Notre_Dame_en_vergezicht_over_Parijs_Le_Stryge_Eaux-Forte_sur_Paris_(serietitel),_RP-P-1973-219.jpg",
+   "pour": [
+    "gargouille"
+   ],
+   "sig": "Beeld van vampier als waterspuwer op toren van Notre Dame en vergezicht over Parijs Le Stryge Eaux-Forte sur Paris (serietitel), RP-P-1973-219.jpg|0.22 0.17 0.76 0.68|400|74"
+  },
+  "simurgh-zal": {
+   "f": "img/simurgh-zal.webp",
+   "v": "3697248d42",
+   "w": 400,
+   "h": 619,
+   "l": "Le Simorgh recueille dans son nid le jeune Zal, abandonné par son père, dans le *Livre des rois*",
+   "cr": "attribué à Sadiqi Beg, vers 1590",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Zal_Rescued_by_the_Simurgh.jpg",
+   "pour": [
+    "simurgh"
+   ],
+   "sig": "Zal Rescued by the Simurgh.jpg||400|74"
+  },
+  "behemoth-blake": {
+   "f": "img/behemoth-blake.webp",
+   "v": "c9943cb8db",
+   "w": 385,
+   "h": 532,
+   "l": "Béhémoth sur la terre et Léviathan dans les eaux, montrés à Job",
+   "cr": "William Blake, *Illustrations du livre de Job*, 1826",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Blake_-_Behemoth_and_Leviathan_1826.jpg",
+   "pour": [
+    "behemoth",
+    "leviathan"
+   ],
+   "sig": "William Blake - Behemoth and Leviathan 1826.jpg||400|74"
+  },
+  "leviathan-dore": {
+   "f": "img/leviathan-dore.webp",
+   "v": "b41fe9e8b0",
+   "w": 400,
+   "h": 505,
+   "l": "*La Destruction de Léviathan*",
+   "cr": "Gustave Doré, Bible illustrée, 1865",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+   "pour": [
+    "leviathan"
+   ],
+   "sig": "Destruction of Leviathan.png||400|74"
+  },
+  "loup-garou-gevaudan": {
+   "f": "img/loup-garou-gevaudan.webp",
+   "v": "51a6a1ff8f",
+   "w": 400,
+   "h": 603,
+   "l": "La Bête du Gévaudan dévorant une femme, gravure vendue à l’époque des attaques",
+   "cr": "estampe anonyme, 1765",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Loup_garou.jpg",
+   "pour": [
+    "loup-garou"
+   ],
+   "sig": "Loup garou.jpg||400|74"
+  },
+  "toison-jason": {
+   "f": "img/toison-jason.webp",
+   "v": "999af5b738",
+   "w": 400,
+   "h": 553,
+   "l": "Jason rapporte la Toison d’or au roi Pélias ; une Victoire ailée va le couronner",
+   "cr": "Peintre des Enfers, cratère apulien, vers 340-330 av. J.-C. — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jason_Pelias_Louvre_K127.jpg",
+   "pour": [
+    "toison-d-or"
+   ],
+   "sig": "Jason Pelias Louvre K127.jpg||400|74"
+  },
+  "aigle-bamberg": {
+   "f": "img/aigle-bamberg.webp",
+   "v": "7b6bd24dc7",
+   "w": 400,
+   "h": 349,
+   "l": "L’aigle, l’un des quatre Vivants devant le trône de Dieu, symbole de saint Jean",
+   "cr": "*Apocalypse de Bamberg*, vers 1000 — Bibliothèque d’État de Bamberg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:BambergApocalypseFolio010vWorshipBeforeThroneOfGod-DetailEagle.jpg",
+   "pour": [
+    "aigle"
+   ],
+   "sig": "BambergApocalypseFolio010vWorshipBeforeThroneOfGod-DetailEagle.jpg||400|74"
+  },
+  "lion-bestiaire": {
+   "f": "img/lion-bestiaire.webp",
+   "v": "b5172510a8",
+   "w": 360,
+   "h": 530,
+   "l": "Les natures du lion : il efface ses traces de sa queue, dort les yeux ouverts, ranime ses petits de son souffle",
+   "cr": "bestiaire anglais, fin du XIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:12th-century_painters_-_On_the_Nature_of_the_Lion,_folio_from_a_Bestiary_-_WGA15747.jpg",
+   "pour": [
+    "lion-symbole"
+   ],
+   "sig": "12th-century painters - On the Nature of the Lion, folio from a Bestiary - WGA15747.jpg||360|74"
+  },
+  "belier-aberdeen": {
+   "f": "img/belier-aberdeen.webp",
+   "v": "6c258cd58d",
+   "w": 400,
+   "h": 444,
+   "l": "Le bélier, chef du troupeau",
+   "cr": "bestiaire d’Aberdeen, vers 1200",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Aberdeen_ram.jpg",
+   "pour": [
+    "belier-symbole"
+   ],
+   "sig": "Aberdeen ram.jpg||400|74"
+  },
+  "cerf-hubert": {
+   "f": "img/cerf-hubert.webp",
+   "v": "0c385e0475",
+   "w": 400,
+   "h": 572,
+   "l": "Saint Hubert à genoux devant le cerf qui porte un crucifix entre ses bois",
+   "cr": "gravure, XVIIe siècle — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Heilige_Hubertus_knielt_voor_hert_met_crucifix_S._Hvbertvs_(titel_op_object)_V%C3%A9lins_(serietitel),_RP-P-1886-A-11214.jpg",
+   "pour": [
+    "cerf"
+   ],
+   "sig": "Heilige Hubertus knielt voor hert met crucifix S. Hvbertvs (titel op object) Vélins (serietitel), RP-P-1886-A-11214.jpg||400|74"
+  },
+  "colombe-giaquinto": {
+   "f": "img/colombe-giaquinto.webp",
+   "v": "cc1480e689",
+   "w": 400,
+   "h": 527,
+   "l": "La colombe du Saint-Esprit dans une gloire d’anges",
+   "cr": "Corrado Giaquinto, années 1750",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Corrado_Giaquinto_-_The_Holy_Spirit_-_WGA08961.jpg",
+   "pour": [
+    "colombe"
+   ],
+   "sig": "Corrado Giaquinto - The Holy Spirit - WGA08961.jpg||400|74"
+  },
+  "chouette-athenes": {
+   "f": "img/chouette-athenes.webp",
+   "v": "a11b45779e",
+   "w": 400,
+   "h": 422,
+   "l": "La chouette d’Athéna sur une monnaie d’argent d’Athènes",
+   "cr": "fin du VIe ou début du Ve siècle av. J.-C. — Cleveland Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Greece,_Athens,_late_6th-early_5th_century_BC_-_Stater-_Owl_(reverse)_-_1916.992.b_-_Cleveland_Museum_of_Art.jpg",
+   "pour": [
+    "chouette"
+   ],
+   "sig": "Greece, Athens, late 6th-early 5th century BC - Stater- Owl (reverse) - 1916.992.b - Cleveland Museum of Art.jpg||400|74"
+  },
+  "chien-aberdeen": {
+   "f": "img/chien-aberdeen.webp",
+   "v": "0ebaddc451",
+   "w": 400,
+   "h": 510,
+   "l": "Le chien qui lâche sa proie pour son reflet dans l’eau",
+   "cr": "bestiaire d’Aberdeen, vers 1200",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dog_and_reflection_aberdeen.jpg",
+   "pour": [
+    "chien"
+   ],
+   "sig": "Dog and reflection aberdeen.jpg||400|74"
+  },
+  "ours-harley": {
+   "f": "img/ours-harley.webp",
+   "v": "a9e457d45e",
+   "w": 400,
+   "h": 433,
+   "l": "L’ourse qui, croyait-on, donne forme en les léchant à ses petits nés informes",
+   "cr": "bestiaire, 1230-1240, manuscrit Harley 4751 — British Library",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Bear_licking_a_cub_into_shape_-_Bestiary_(1230-1240),_f.15v_-_BL_Harley_MS_4751.jpg",
+   "pour": [
+    "ours"
+   ],
+   "sig": "Bear licking a cub into shape - Bestiary (1230-1240), f.15v - BL Harley MS 4751.jpg||400|74"
+  },
+  "papillon-merian": {
+   "f": "img/papillon-merian.webp",
+   "v": "f6f20a772f",
+   "w": 400,
+   "h": 553,
+   "l": "Chenille, chrysalide et papillon sur une tulipe : la métamorphose observée par Maria Sibylla Merian",
+   "cr": "Maria Sibylla Merian, 1679",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Merian_-_Der_Raupen_wunderbare_Verwandelung_und_sonderbare_Blumennahrung_-_Abb_2.jpg",
+   "pour": [
+    "papillon"
+   ],
+   "sig": "Merian - Der Raupen wunderbare Verwandelung und sonderbare Blumennahrung - Abb 2.jpg||400|74"
+  },
+  "tortue-qazwini": {
+   "f": "img/tortue-qazwini.webp",
+   "v": "da6efd909f",
+   "w": 400,
+   "h": 608,
+   "l": "La tortue, dans un traité des *Merveilles de la création* d’al-Qazwini",
+   "cr": "manuscrit ottoman, 1717 — Walters Art Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_A_Turtle_-_Walters_W659175B_-_Full_Page.jpg",
+   "pour": [
+    "tortue"
+   ],
+   "sig": "Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani - A Turtle - Walters W659175B - Full Page.jpg||400|74"
+  },
+  "elephant-harley": {
+   "f": "img/elephant-harley.webp",
+   "v": "bc43d215eb",
+   "w": 400,
+   "h": 519,
+   "l": "L’éléphant portant une tour de guerriers",
+   "cr": "bestiaire, 1230-1240, manuscrit Harley 4751 — British Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Harley4751_f._8_Elephant.jpg",
+   "pour": [
+    "elephant"
+   ],
+   "sig": "Harley4751 f. 8 Elephant.jpg||400|74"
+  },
+  "agneau-gand": {
+   "f": "img/agneau-gand.webp",
+   "v": "ab82203a07",
+   "w": 400,
+   "h": 423,
+   "l": "L’Agneau mystique sur l’autel, versant son sang dans le calice",
+   "cr": "Hubert et Jan van Eyck, *Retable de Gand*, 1432 — cathédrale Saint-Bavon, Gand",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Agnus_Dei_Ghent.jpg",
+   "pour": [
+    "agneau"
+   ],
+   "sig": "Agnus Dei Ghent.jpg||400|74"
+  },
+  "cygne-chevalier": {
+   "f": "img/cygne-chevalier.webp",
+   "v": "fff7655c58",
+   "w": 400,
+   "h": 546,
+   "l": "Le chevalier au cygne, ancêtre légendaire de Godefroy de Bouillon, arrive dans sa nacelle",
+   "cr": "Maître de Talbot, *Livre de Shrewsbury*, vers 1444-1445 — British Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:A_knight_in_a_boat_drawn_by_a_swan_(British_Library_Royal_15_E_VI,_f_273)-v2.jpg",
+   "pour": [
+    "cygne",
+    "godefroy-de-bouillon"
+   ],
+   "sig": "A knight in a boat drawn by a swan (British Library Royal 15 E VI, f 273)-v2.jpg||400|74"
+  },
+  "dauphin-heraldique": {
+   "f": "img/dauphin-heraldique.webp",
+   "v": "b8b53d8046",
+   "w": 300,
+   "h": 368,
+   "l": "Le dauphin en héraldique",
+   "cr": "Arthur Charles Fox-Davies, *A Complete Guide to Heraldry*, 1909",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Complete_Guide_to_Heraldry_Fig479.png",
+   "pour": [
+    "dauphin"
+   ],
+   "sig": "Complete Guide to Heraldry Fig479.png||300|74"
+  },
+  "paon-okyo": {
+   "f": "img/paon-okyo.webp",
+   "v": "adfccced90",
+   "w": 520,
+   "h": 336,
+   "l": "Paon et paonne",
+   "cr": "Maruyama Ōkyo, 1781",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Okyo_Peacock_and_Peahen.jpg",
+   "pour": [
+    "paon"
+   ],
+   "sig": "Okyo Peacock and Peahen.jpg||520|74"
+  },
+  "loup-aberdeen": {
+   "f": "img/loup-aberdeen.webp",
+   "v": "364cd7b575",
+   "w": 520,
+   "h": 340,
+   "l": "Le loup s’approche de la bergerie",
+   "cr": "bestiaire d’Aberdeen, vers 1200",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Wolf_sneak.jpg",
+   "pour": [
+    "loup"
+   ],
+   "sig": "Wolf sneak.jpg||520|74"
+  },
+  "corbeau-manet": {
+   "f": "img/corbeau-manet.webp",
+   "v": "c61208ffcc",
+   "w": 360,
+   "h": 562,
+   "l": "La tête de corbeau dessinée par Manet pour *Le Corbeau* de Poe traduit par Mallarmé",
+   "cr": "Édouard Manet, lithographie, 1875 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:T%C3%AAte_de_Corbeau_-_(estampe)._Num%C3%A9risation_de_RESERVE_DC-300_(D,4)-FOL_-_Identifiant_-_ESTNUM_2022-2498_-_%C3%89douard_Manet_-_btv1b532635675.jpg",
+   "pour": [
+    "corbeau"
+   ],
+   "sig": "Tête de Corbeau - (estampe). Numérisation de RESERVE DC-300 (D,4)-FOL - Identifiant - ESTNUM 2022-2498 - Édouard Manet - btv1b532635675.jpg||360|74"
+  },
+  "poisson-tabgha": {
+   "f": "img/poisson-tabgha.webp",
+   "v": "7f543c6d3d",
+   "w": 480,
+   "h": 352,
+   "l": "La corbeille de pains entre deux poissons, mosaïque de l’église de la Multiplication à Tabgha",
+   "cr": "photographie de la Matson Collection, 1920 — Bibliothèque du Congrès",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Northern_views._Ain_Tabgha._Mosaic_floor._Loaves_and_fishes_LOC_matpc.02800.jpg",
+   "pour": [
+    "poisson"
+   ],
+   "sig": "Northern views. Ain Tabgha. Mosaic floor. Loaves and fishes LOC matpc.02800.jpg||480|74"
+  },
+  "cesar-ferrucci": {
+   "f": "img/cesar-ferrucci.webp",
+   "v": "c8de915167",
+   "w": 400,
+   "h": 526,
+   "l": "Jules César, qui chiffrait ses lettres en décalant l’alphabet de trois rangs",
+   "cr": "buste d’Andrea Ferrucci, vers 1512 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Julius_Caesar_MET_DP-12755-001.jpg",
+   "pour": [
+    "chiffre-de-cesar"
+   ],
+   "sig": "Julius Caesar MET DP-12755-001.jpg||400|74"
+  },
+  "alberti-de-cifris": {
+   "f": "img/alberti-de-cifris.webp",
+   "v": "6bf7f05aca",
+   "w": 400,
+   "h": 557,
+   "l": "Le début du *De componendis cifris* d’Alberti, où il décrit son disque à chiffrer",
+   "cr": "manuscrit du XVIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:De_cifris_incipit_1.jpg",
+   "pour": [
+    "disque-d-alberti",
+    "leon-battista-alberti"
+   ],
+   "sig": "De cifris incipit 1.jpg||400|74"
+  },
+  "steganographia-1608": {
+   "f": "img/steganographia-1608.webp",
+   "v": "3e40900951",
+   "w": 400,
+   "h": 504,
+   "l": "La *Steganographia* de Trithème, page de titre",
+   "cr": "édition de Francfort, 1608 — Herzog August Bibliothek, Wolfenbüttel",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Trithemius-Johannes-Steganographia-Johannes-Saurius,-1608.-Digitized-photographic-reproduction-provided-by-the-Herzog-August-Bibliothek.jpg",
+   "pour": [
+    "steganographia",
+    "steganographie"
+   ],
+   "sig": "Trithemius-Johannes-Steganographia-Johannes-Saurius,-1608.-Digitized-photographic-reproduction-provided-by-the-Herzog-August-Bibliothek.jpg||400|74"
+  },
+  "grand-chiffre-table": {
+   "f": "img/grand-chiffre-table.webp",
+   "v": "8a970af748",
+   "w": 480,
+   "h": 459,
+   "l": "Une page de nomenclateur, table de chiffres et de syllabes du temps de Louis XIV",
+   "cr": "document, vers 1690",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Great_Cipher.png",
+   "pour": [
+    "grand-chiffre"
+   ],
+   "sig": "Great Cipher.png||480|74"
+  },
+  "rossignol-portrait": {
+   "f": "img/rossignol-portrait.webp",
+   "v": "7b2ce6ac05",
+   "w": 400,
+   "h": 544,
+   "l": "Antoine Rossignol, le déchiffreur de Louis XIII et de Louis XIV",
+   "cr": "gravure, 1696",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rossignol,_Antoine.jpg",
+   "pour": [
+    "grand-chiffre"
+   ],
+   "sig": "Rossignol, Antoine.jpg||400|74"
+  },
+  "babington-postscriptum": {
+   "f": "img/babington-postscriptum.webp",
+   "v": "179ae262c3",
+   "w": 400,
+   "h": 515,
+   "l": "Le post-scriptum chiffré que Thomas Phelippes ajouta à une lettre de Marie Stuart pour piéger les conjurés",
+   "cr": "Thomas Phelippes, 1586 — Archives nationales du Royaume-Uni",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Babington_postscript.jpg",
+   "pour": [
+    "chiffre-de-marie-stuart"
+   ],
+   "sig": "Babington postscript.jpg||400|74"
+  },
+  "agrippa-alphabets": {
+   "f": "img/agrippa-alphabets.webp",
+   "v": "55b323e7aa",
+   "w": 400,
+   "h": 618,
+   "l": "L’écriture céleste, celle des Malachim et celle du « passage du fleuve », trois alphabets d’anges selon Agrippa",
+   "cr": "Henri-Corneille Agrippa, *De occulta philosophia*, 1533",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Agrippa_von_Nettesheim_-_3_Alphabets.png",
+   "pour": [
+    "alphabets-magiques"
+   ],
+   "sig": "Agrippa von Nettesheim - 3 Alphabets.png||400|74"
+  },
+  "voynich-herbier": {
+   "f": "img/voynich-herbier.webp",
+   "v": "c6372adbab",
+   "w": 400,
+   "h": 538,
+   "l": "Une page « botanique » du manuscrit de Voynich, plante inconnue et écriture indéchiffrée",
+   "cr": "manuscrit, XVe siècle — Beinecke Library, université Yale",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(32).jpg",
+   "pour": [
+    "manuscrit-de-voynich"
+   ],
+   "sig": "Voynich Manuscript (32).jpg||400|74"
+  },
+  "copiale-page": {
+   "f": "img/copiale-page.webp",
+   "v": "48922cb5d6",
+   "w": 600,
+   "h": 417,
+   "l": "Deux pages du codex Copiale, chiffré au XVIIIe siècle pour une société secrète allemande",
+   "cr": "manuscrit, vers 1760",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Copiale-cipher09s.png",
+   "pour": [
+    "codex-copiale"
+   ],
+   "sig": "Copiale-cipher09s.png||600|74"
+  },
+  "enigma-machine": {
+   "f": "img/enigma-machine.webp",
+   "v": "5f110d5311",
+   "w": 400,
+   "h": 533,
+   "l": "Une machine Enigma, avec son clavier, ses lampes et ses rotors",
+   "cr": "photographie de Nicoleon, 2024",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Enigma_1942.jpg",
+   "pour": [
+    "enigma"
+   ],
+   "sig": "Enigma 1942.jpg||400|74"
+  },
+  "beale-brochure": {
+   "f": "img/beale-brochure.webp",
+   "v": "8f27ca1e62",
+   "w": 400,
+   "h": 648,
+   "l": "La brochure de 1885 qui publia les trois cryptogrammes de Beale",
+   "cr": "*The Beale Papers*, Lynchburg, 1885",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Beale_Papers_(1885)_-_Cover.jpg",
+   "pour": [
+    "cryptogrammes-de-beale"
+   ],
+   "sig": "Beale Papers (1885) - Cover.jpg||400|74"
+  },
+  "scarabee-cryptogramme": {
+   "f": "img/scarabee-cryptogramme.webp",
+   "v": "69841edfdb",
+   "w": 600,
+   "h": 199,
+   "l": "Le cryptogramme du capitaine Kidd, tel que Poe le publia",
+   "cr": "Edgar Allan Poe, *The Gold-Bug*, 1843",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gold_Bug_cryptogram.jpg",
+   "pour": [
+    "le-scarabee-d-or",
+    "analyse-des-frequences"
+   ],
+   "sig": "Gold Bug cryptogram.jpg||600|74"
+  },
+  "scarabee-dargent": {
+   "f": "img/scarabee-dargent.webp",
+   "v": "9a7a051708",
+   "w": 480,
+   "h": 412,
+   "l": "Une illustration du *Scarabée d’or* : la chasse au trésor dans les bois",
+   "cr": "Yan’ Dargent, avant 1864",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Gold-Bug.jpg",
+   "pour": [
+    "le-scarabee-d-or"
+   ],
+   "sig": "The Gold-Bug.jpg||480|74"
+  },
+  "hommes-dansants-steele": {
+   "f": "img/hommes-dansants-steele.webp",
+   "v": "e4eaf4101c",
+   "w": 400,
+   "h": 491,
+   "l": "Sherlock Holmes et les hommes dansants",
+   "cr": "Frederic Dorr Steele, *Collier’s*, 1903",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Adventure_of_the_Dancing_Men_by_Frederic_Dorr_Steele_1.jpg",
+   "pour": [
+    "les-hommes-dansants"
+   ],
+   "sig": "The Adventure of the Dancing Men by Frederic Dorr Steele 1.jpg||400|74"
+  },
+  "hommes-dansants-code": {
+   "f": "img/hommes-dansants-code.webp",
+   "v": "c29bef6a11",
+   "w": 480,
+   "h": 169,
+   "l": "Le premier message des petits bonshommes",
+   "cr": "Arthur Conan Doyle, *The Return of Sherlock Holmes*, 1905",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Danc-1_(The_Return_of_Sherlock_Holmes,_1905_edition).png",
+   "pour": [
+    "les-hommes-dansants"
+   ],
+   "sig": "Danc-1 (The Return of Sherlock Holmes, 1905 edition).png||480|74"
+  },
+  "sator-doura": {
+   "f": "img/sator-doura.webp",
+   "v": "e7e18cc032",
+   "w": 400,
+   "h": 282,
+   "l": "Un carré ROTAS-SATOR peint sur un enduit de Doura-Europos",
+   "cr": "entre 165 et 256 — Yale University Art Gallery",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Acrostic_Rotas-Sator_Square_-_YDEA_-_5755.jpg",
+   "pour": [
+    "palindrome",
+    "carre-sator"
+   ],
+   "sig": "Acrostic Rotas-Sator Square - YDEA - 5755.jpg||400|74"
+  },
+  "tacherons-fabre": {
+   "f": "img/tacherons-fabre.webp",
+   "v": "13997f8ae0",
+   "w": 400,
+   "h": 139,
+   "l": "Marques de tâcherons relevées sur des pierres de taille",
+   "cr": "dessin d’Albert Fabre, vers 1870-1919 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Marques_de_tacherons_-_btv1b10489316k.jpg",
+   "pour": [
+    "argot-des-batisseurs"
+   ],
+   "sig": "Marques de tacherons - btv1b10489316k.jpg|0.27 0.35 0.78 0.6|400|74"
+  },
+  "phaistos-pernier": {
+   "f": "img/phaistos-pernier.webp",
+   "v": "3d1d25731f",
+   "w": 400,
+   "h": 206,
+   "l": "Les deux faces du disque de Phaistos, couvertes de signes imprimés en spirale",
+   "cr": "reproduction publiée par Luigi Pernier, 1909",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:PhaistosDiskExactCopy.jpg",
+   "pour": [
+    "disque-de-phaistos"
+   ],
+   "sig": "PhaistosDiskExactCopy.jpg||400|74"
+  },
+  "shugborough-monument": {
+   "f": "img/shugborough-monument.webp",
+   "v": "9318fc14e5",
+   "w": 400,
+   "h": 607,
+   "l": "Le monument des Bergers de Shugborough : sous la copie inversée du tableau de Poussin, l’inscription O.U.O.S.V.A.V.V.",
+   "cr": "photographie de Daderot, 2016",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Shepherd%27s_Monument,_Shugborough_Estate_-_Staffordshire,_England_-_DSC00182.jpg",
+   "pour": [
+    "inscription-de-shugborough",
+    "les-bergers-d-arcadie"
+   ],
+   "sig": "Shepherd's Monument, Shugborough Estate - Staffordshire, England - DSC00182.jpg||400|74"
+  },
+  "al-kindi-manuscrit": {
+   "f": "img/al-kindi-manuscrit.webp",
+   "v": "c4fe1d5166",
+   "w": 400,
+   "h": 593,
+   "l": "Une page du traité d’al-Kindi sur le déchiffrement des messages, le premier à décrire l’analyse des fréquences",
+   "cr": "manuscrit arabe",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Al-kindi_cryptographic_1.jpg",
+   "pour": [
+    "analyse-des-frequences",
+    "al-kindi"
+   ],
+   "sig": "Al-kindi cryptographic 1.jpg||400|74"
+  },
+  "kurr-pierres-precieuses": {
+   "f": "img/kurr-pierres-precieuses.webp",
+   "v": "5d3846ffb3",
+   "w": 520,
+   "h": 741,
+   "l": "Diamant, saphir et rubis, chrysobéryl, spinelle, zircon, hyacinthe, béryl et émeraude, bruts et taillés",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_I-_Diamond,_Sapphire_and_Ruby,_Chrysoberyl,_Spinel,_Zircon,_Hyacinth,_Beryl,_and_Emerald_-_DPLA_-_7191a5f8c760b50283ebbf7e5f18324f.jpg",
+   "pour": [
+    "diamant",
+    "saphir",
+    "pierres-de-naissance"
+   ],
+   "sig": "Plate I- Diamond, Sapphire and Ruby, Chrysoberyl, Spinel, Zircon, Hyacinth, Beryl, and Emerald - DPLA - 7191a5f8c760b50283ebbf7e5f18324f.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-lapis": {
+   "f": "img/kurr-lapis.webp",
+   "v": "736b90df3c",
+   "w": 520,
+   "h": 756,
+   "l": "Topaze, grenat, vésuvianite, chrysolite, épidote, turquoise, lazulite et lapis-lazuli",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_II-_Topaz,_Garnet,_Vesuvian,_Idocrase,_Chrysolite,_Olivine,_Pistacite,_Epidote,_Turquoise,_Johnite,_Calamite,_Lazulite,_Lapis_Lazuli_-_DPLA_-_415604fa3a078b721e4f08807dc73042.jpg",
+   "pour": [
+    "lapis-lazuli",
+    "escarboucle"
+   ],
+   "sig": "Plate II- Topaz, Garnet, Vesuvian, Idocrase, Chrysolite, Olivine, Pistacite, Epidote, Turquoise, Johnite, Calamite, Lazulite, Lapis Lazuli - DPLA - 415604fa3a078b721e4f08807dc73042.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-quartz": {
+   "f": "img/kurr-quartz.webp",
+   "v": "9618650c59",
+   "w": 520,
+   "h": 756,
+   "l": "Quartz, agates et opales",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_IV-_Quartz_and_Opal_-_DPLA_-_8c000fd0258fff88cf23f36d42caefb4.jpg",
+   "pour": [
+    "lithotherapie"
+   ],
+   "sig": "Plate IV- Quartz and Opal - DPLA - 8c000fd0258fff88cf23f36d42caefb4.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-soufre": {
+   "f": "img/kurr-soufre.webp",
+   "v": "cf99076a1b",
+   "w": 520,
+   "h": 756,
+   "l": "Soufre natif, mellite, graphite, houille et lignite",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XII-_Sulphur,_Honey-Stone,_Graphite,_Coal,_Lignite_-_DPLA_-_f8bf61b7c988972178384f3d01deda71.jpg",
+   "pour": [
+    "soufre"
+   ],
+   "sig": "Plate XII- Sulphur, Honey-Stone, Graphite, Coal, Lignite - DPLA - f8bf61b7c988972178384f3d01deda71.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-or": {
+   "f": "img/kurr-or.webp",
+   "v": "ea53ae70b8",
+   "w": 520,
+   "h": 741,
+   "l": "Or natif, platine et iridium",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XIII-_Gold,_Platinum,_Iridium_-_DPLA_-_6d9d7fe607dd49db477c6855cdcbacf4.jpg",
+   "pour": [
+    "or-potable",
+    "transmutation"
+   ],
+   "sig": "Plate XIII- Gold, Platinum, Iridium - DPLA - 6d9d7fe607dd49db477c6855cdcbacf4.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-argent": {
+   "f": "img/kurr-argent.webp",
+   "v": "a0838f62a6",
+   "w": 520,
+   "h": 756,
+   "l": "L’argent natif et ses minerais : ses ramifications ont donné leur nom à l’arbre de Diane",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XIV-_Native_Silver,_Antimonial_Silver,_Sulphuret_of_Silver,_Glance_and_Red_Silver_Ore_-_DPLA_-_24fcdd9ce1c024ad7b2d773c58ed0fad.jpg",
+   "pour": [
+    "arbre-de-diane"
+   ],
+   "sig": "Plate XIV- Native Silver, Antimonial Silver, Sulphuret of Silver, Glance and Red Silver Ore - DPLA - 24fcdd9ce1c024ad7b2d773c58ed0fad.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-mercure": {
+   "f": "img/kurr-mercure.webp",
+   "v": "82850b762e",
+   "w": 520,
+   "h": 741,
+   "l": "Mercure natif, cinabre et minerais de cuivre",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XV-_Mercury,_Quicksilver,_Copper_Ore_-_DPLA_-_8674b9c3f67931a854de5927134542a0.jpg",
+   "pour": [
+    "mercure-principe"
+   ],
+   "sig": "Plate XV- Mercury, Quicksilver, Copper Ore - DPLA - 8674b9c3f67931a854de5927134542a0.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-fer": {
+   "f": "img/kurr-fer.webp",
+   "v": "7b6581ee4c",
+   "w": 520,
+   "h": 756,
+   "l": "Pyrites, fer magnétique, fer oligiste et autres minerais de fer",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XVIII-_Pyrites,_Magnetic_Iron,_Iron-Glance,_Iron_Ores_-_DPLA_-_edd42dfa53ed1981b94f1c42538e9a9e.jpg",
+   "pour": [
+    "hematite"
+   ],
+   "sig": "Plate XVIII- Pyrites, Magnetic Iron, Iron-Glance, Iron Ores - DPLA - edd42dfa53ed1981b94f1c42538e9a9e.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "kurr-antimoine": {
+   "f": "img/kurr-antimoine.webp",
+   "v": "a2f7d37d2a",
+   "w": 520,
+   "h": 756,
+   "l": "Minerais de molybdène, de chrome, d’antimoine et d’arsenic",
+   "cr": "Johann Gottlob Kurr, *The Mineral Kingdom*, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Plate_XXII-_Molybdenum_Ores,_Chrome_Ores,_Antimony_Ores,_Arsenic_Ores_-_DPLA_-_39f30edf1d685dcbdbc5e602aaba1eaf.jpg",
+   "pour": [
+    "antimoine"
+   ],
+   "sig": "Plate XXII- Molybdenum Ores, Chrome Ores, Antimony Ores, Arsenic Ores - DPLA - 39f30edf1d685dcbdbc5e602aaba1eaf.jpg|0.06 0.03 0.97 0.97|520|74"
+  },
+  "diamant-hope": {
+   "f": "img/diamant-hope.webp",
+   "v": "b45f2d48cc",
+   "w": 440,
+   "h": 408,
+   "l": "Le diamant Hope, bleu, réputé porter malheur à ses propriétaires",
+   "cr": "Smithsonian Institution",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Hope_Diamond_-_SIA.jpg",
+   "pour": [
+    "diamant"
+   ],
+   "sig": "The Hope Diamond - SIA.jpg||440|74"
+  },
+  "saphir-logan": {
+   "f": "img/saphir-logan.webp",
+   "v": "5e3d415ecb",
+   "w": 360,
+   "h": 486,
+   "l": "Le saphir Logan, 423 carats",
+   "cr": "photographie de Chip Clark — Smithsonian Institution",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Logan_Sapphire_10956420_cropped.png",
+   "pour": [
+    "saphir"
+   ],
+   "sig": "Logan Sapphire 10956420 cropped.png||360|74"
+  },
+  "rubis-cristal": {
+   "f": "img/rubis-cristal.webp",
+   "v": "51599290b8",
+   "w": 360,
+   "h": 501,
+   "l": "Un cristal de rubis brut",
+   "cr": "photographie, Wikimedia Commons",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ruby_cristal.jpg",
+   "pour": [
+    "rubis"
+   ],
+   "sig": "Ruby cristal.jpg||360|74"
+  },
+  "grenat-almandin": {
+   "f": "img/grenat-almandin.webp",
+   "v": "1acaa8ab75",
+   "w": 440,
+   "h": 357,
+   "l": "Cristaux de grenat almandin, la pierre rouge que l’on nommait escarboucle",
+   "cr": "photographie de Nessa Eull, 2001 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Almandine_(GeoDIL_number_-_308).jpg",
+   "pour": [
+    "escarboucle"
+   ],
+   "sig": "Almandine (GeoDIL number - 308).jpg||440|74"
+  },
+  "ambre-insectes": {
+   "f": "img/ambre-insectes.webp",
+   "v": "2cd3e8a8c4",
+   "w": 360,
+   "h": 480,
+   "l": "Ambre du Chiapas où sont pris des insectes fossiles",
+   "cr": "photographie de GiveMeMollusks, 2026",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Chiapas_amber_containing_insects.jpg",
+   "pour": [
+    "ambre"
+   ],
+   "sig": "Chiapas amber containing insects.jpg||360|74"
+  },
+  "bezoard-ecrin": {
+   "f": "img/bezoard-ecrin.webp",
+   "v": "84479a0924",
+   "w": 440,
+   "h": 330,
+   "l": "Un bézoard sur son pied d’orfèvrerie, avec son étui : on le tenait pour un remède souverain contre les poisons",
+   "cr": "XVIIe siècle — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Bezoar_Stone_with_Case_and_Stand_MET_DP332005.jpg",
+   "pour": [
+    "bezoard"
+   ],
+   "sig": "Bezoar Stone with Case and Stand MET DP332005.jpg||440|74"
+  },
+  "crapaudine-hortus": {
+   "f": "img/crapaudine-hortus.webp",
+   "v": "f39e6b1ffe",
+   "w": 400,
+   "h": 433,
+   "l": "On tire la crapaudine de la tête du crapaud, selon l’*Hortus sanitatis*",
+   "cr": "gravure sur bois de l’*Hortus sanitatis*, Mayence, 1491",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Borax-Kr%C3%B6tenstein1.jpg",
+   "pour": [
+    "crapaudine",
+    "crapaud"
+   ],
+   "sig": "Borax-Krötenstein1.jpg||400|74"
+  },
+  "hematite-rognon": {
+   "f": "img/hematite-rognon.webp",
+   "v": "448b2ef678",
+   "w": 440,
+   "h": 352,
+   "l": "Hématite, la « pierre de sang »",
+   "cr": "photographie de Darla Sondrol, 2001 — GeoDIL",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Hematite_(GeoDIL_number_-_1313).jpg",
+   "pour": [
+    "hematite"
+   ],
+   "sig": "Hematite (GeoDIL number - 1313).jpg||440|74"
+  },
+  "jade-bi": {
+   "f": "img/jade-bi.webp",
+   "v": "83c37d8de0",
+   "w": 440,
+   "h": 352,
+   "l": "Un disque bi de jade, image du ciel, de la culture de Liangzhu",
+   "cr": "milieu du IIIe millénaire av. J.-C. — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E7%9F%B3%E5%99%A8%E6%99%82%E4%BB%A3%E8%89%AF%E6%B8%9A%E6%96%87%E5%8C%96_%E7%8E%89%E7%92%A7-Ritual_Object_(Bi)_MET_DT204.jpg",
+   "pour": [
+    "jade"
+   ],
+   "sig": "新石器時代良渚文化 玉璧-Ritual Object (Bi) MET DT204.jpg||440|74"
+  },
+  "lapis-cia": {
+   "f": "img/lapis-cia.webp",
+   "v": "bddfdbbf90",
+   "w": 440,
+   "h": 293,
+   "l": "Lapis-lazuli brut d’Afghanistan, dont on tirait le bleu outremer",
+   "cr": "photographie de la Central Intelligence Agency, 2011",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lapis_Lazuli_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+   "pour": [
+    "lapis-lazuli"
+   ],
+   "sig": "Lapis Lazuli - Flickr - The Central Intelligence Agency.jpg||440|74"
+  },
+  "pierre-de-foudre-dessin": {
+   "f": "img/pierre-de-foudre-dessin.webp",
+   "v": "7cec4236d6",
+   "w": 360,
+   "h": 465,
+   "l": "« Pierre de tonnerre », *sagitta fulguris* : on croyait ces pierres tombées avec la foudre",
+   "cr": "dessin, 1596-1610 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Fulguriet_of_bliksembuis_dondersteen._sagitta_fulguris._pierre_detonnerre_(titel_op_object),_RP-T-BR-2017-1-7-57.jpg",
+   "pour": [
+    "pierre-de-foudre"
+   ],
+   "sig": "Fulguriet of bliksembuis dondersteen. sagitta fulguris. pierre detonnerre (titel op object), RP-T-BR-2017-1-7-57.jpg|0.2 0.32 0.61 0.66|360|74"
+  },
+  "luopan-compas": {
+   "f": "img/luopan-compas.webp",
+   "v": "0537ddd623",
+   "w": 400,
+   "h": 393,
+   "l": "Une boussole de géomancie chinoise, le luopan, aux cercles concentriques",
+   "cr": "photographie publiée en 1926",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:A_CHINESE_GEOMANTIC_COMPASS-The_Vanished_Empire.png",
+   "pour": [
+    "feng-shui"
+   ],
+   "sig": "A CHINESE GEOMANTIC COMPASS-The Vanished Empire.png||400|74"
+  },
+  "watkins-leys": {
+   "f": "img/watkins-leys.webp",
+   "v": "256ddd3721",
+   "w": 520,
+   "h": 378,
+   "l": "Deux alignements tracés par Alfred Watkins sur la carte",
+   "cr": "Alfred Watkins, 1922",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alfred_Watkins_-_Map_of_two_leys.jpg",
+   "pour": [
+    "lignes-ley"
+   ],
+   "sig": "Alfred Watkins - Map of two leys.jpg||520|74"
+  },
+  "orgone-fda": {
+   "f": "img/orgone-fda.webp",
+   "v": "0f0bd42e8e",
+   "w": 520,
+   "h": 342,
+   "l": "Accumulateurs d’orgone saisis par l’administration américaine, qui fit condamner Wilhelm Reich",
+   "cr": "Food and Drug Administration des États-Unis",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%22Orgone_Accumulators%22_(FDA022)_(4899254920).jpg",
+   "pour": [
+    "orgone"
+   ],
+   "sig": "\"Orgone Accumulators\" (FDA022) (4899254920).jpg||520|74"
+  },
+  "uranie-belier": {
+   "f": "img/uranie-belier.webp",
+   "v": "c8bfb4fc11",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation du Bélier, avec la Mouche boréale",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Aries_and_Musca_Borealis.jpg",
+   "pour": [
+    "belier"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Aries and Musca Borealis.jpg||600|74"
+  },
+  "uranie-taureau": {
+   "f": "img/uranie-taureau.webp",
+   "v": "ee88d221fb",
+   "w": 600,
+   "h": 422,
+   "l": "La constellation du Taureau, avec les Pléiades",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Taurus.jpg",
+   "pour": [
+    "taureau"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Taurus.jpg||600|74"
+  },
+  "uranie-gemeaux": {
+   "f": "img/uranie-gemeaux.webp",
+   "v": "8260dd43ed",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation des Gémeaux, Castor et Pollux",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Gemini.jpg",
+   "pour": [
+    "gemeaux"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Gemini.jpg||600|74"
+  },
+  "uranie-cancer": {
+   "f": "img/uranie-cancer.webp",
+   "v": "3d9815a321",
+   "w": 440,
+   "h": 629,
+   "l": "La constellation du Cancer",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Cancer.jpg",
+   "pour": [
+    "cancer"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Cancer.jpg||440|74"
+  },
+  "uranie-lion": {
+   "f": "img/uranie-lion.webp",
+   "v": "647583bda9",
+   "w": 440,
+   "h": 627,
+   "l": "Les constellations du Lion et du Petit Lion",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Leo_Major_and_Leo_Minor.jpg",
+   "pour": [
+    "lion"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Leo Major and Leo Minor.jpg||440|74"
+  },
+  "uranie-vierge": {
+   "f": "img/uranie-vierge.webp",
+   "v": "e7dde59c19",
+   "w": 600,
+   "h": 421,
+   "l": "La constellation de la Vierge, l’épi à la main",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Virgo.jpg",
+   "pour": [
+    "vierge"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Virgo.jpg||600|74"
+  },
+  "uranie-balance": {
+   "f": "img/uranie-balance.webp",
+   "v": "1809e08808",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation de la Balance",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Libra.jpg",
+   "pour": [
+    "balance"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Libra.jpg||600|74"
+  },
+  "uranie-scorpion": {
+   "f": "img/uranie-scorpion.webp",
+   "v": "8ef7c7784e",
+   "w": 440,
+   "h": 630,
+   "l": "La constellation du Scorpion",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Scorpio.jpg",
+   "pour": [
+    "scorpion"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Scorpio.jpg||440|74"
+  },
+  "uranie-sagittaire": {
+   "f": "img/uranie-sagittaire.webp",
+   "v": "08f5521f5c",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation du Sagittaire, avec la Couronne australe",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Sagittarius_and_Corona_Australis,_Microscopium,_and_Telescopium.png",
+   "pour": [
+    "sagittaire"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Sagittarius and Corona Australis, Microscopium, and Telescopium.png||600|74"
+  },
+  "uranie-capricorne": {
+   "f": "img/uranie-capricorne.webp",
+   "v": "c3c2e17a42",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation du Capricorne",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Capricornus.jpg",
+   "pour": [
+    "capricorne"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Capricornus.jpg||600|74"
+  },
+  "uranie-verseau": {
+   "f": "img/uranie-verseau.webp",
+   "v": "158df10427",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation du Verseau, avec le Poisson austral et l’éphémère « Ballon aérostatique »",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Aquarius,_Piscis_Australis_%26_Ballon_Aerostatique.jpg",
+   "pour": [
+    "verseau"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Aquarius, Piscis Australis & Ballon Aerostatique.jpg||600|74"
+  },
+  "uranie-poissons": {
+   "f": "img/uranie-poissons.webp",
+   "v": "1a669cdc6e",
+   "w": 600,
+   "h": 420,
+   "l": "La constellation des Poissons, liés par un ruban",
+   "cr": "Sidney Hall, *Urania’s Mirror*, 1825",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Pisces.jpg",
+   "pour": [
+    "poissons"
+   ],
+   "sig": "Sidney Hall - Urania's Mirror - Pisces.jpg||600|74"
+  },
+  "beham-saturne": {
+   "f": "img/beham-saturne.webp",
+   "v": "ebd40bd3de",
+   "w": 400,
+   "h": 582,
+   "l": "Saturne dévorant un enfant, sur le Capricorne et le Verseau, ses deux maisons",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Saturnus_met_sterrenbeelden_Steenbok_en_Waterman_Sattvrnvs_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.827.jpg",
+   "pour": [
+    "saturne"
+   ],
+   "sig": "Saturnus met sterrenbeelden Steenbok en Waterman Sattvrnvs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.827.jpg||400|74"
+  },
+  "beham-jupiter": {
+   "f": "img/beham-jupiter.webp",
+   "v": "ded093edb4",
+   "w": 400,
+   "h": 579,
+   "l": "Jupiter, sur le Sagittaire et les Poissons, ses deux maisons",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Jupiter_met_sterrenbeelden_Boogschutter_en_Vissen_Jvpider_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.828.jpg",
+   "pour": [
+    "jupiter"
+   ],
+   "sig": "Jupiter met sterrenbeelden Boogschutter en Vissen Jvpider (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.828.jpg||400|74"
+  },
+  "beham-mars": {
+   "f": "img/beham-mars.webp",
+   "v": "f70b636466",
+   "w": 400,
+   "h": 578,
+   "l": "Mars en armure, sur le Bélier et le Scorpion, ses deux maisons",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Mars_met_sterrenbeelden_Ram_en_Schorpioen_Mars_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.829.jpg",
+   "pour": [
+    "mars"
+   ],
+   "sig": "Mars met sterrenbeelden Ram en Schorpioen Mars (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.829.jpg||400|74"
+  },
+  "beham-soleil": {
+   "f": "img/beham-soleil.webp",
+   "v": "9a9618a346",
+   "w": 400,
+   "h": 576,
+   "l": "Le Soleil couronné, sur le Lion, sa maison",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Apollo_(Sol)_met_sterrenbeeld_Leeuw_Sol_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.830.jpg",
+   "pour": [
+    "soleil"
+   ],
+   "sig": "Apollo (Sol) met sterrenbeeld Leeuw Sol (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.830.jpg||400|74"
+  },
+  "beham-venus": {
+   "f": "img/beham-venus.webp",
+   "v": "05ff1ae344",
+   "w": 400,
+   "h": 580,
+   "l": "Vénus, sur le Taureau et la Balance, ses deux maisons",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Venus_met_sterrenbeelden_Stier_en_Weegschaal_Venvs_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.831.jpg",
+   "pour": [
+    "venus"
+   ],
+   "sig": "Venus met sterrenbeelden Stier en Weegschaal Venvs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.831.jpg||400|74"
+  },
+  "beham-mercure": {
+   "f": "img/beham-mercure.webp",
+   "v": "8f15300b99",
+   "w": 400,
+   "h": 572,
+   "l": "Mercure, le caducée à la main, sur la Vierge et les Gémeaux, ses deux maisons",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Mercurius_met_sterrenbeelden_Maagd_en_Tweelingen_Mercvrivs_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.832.jpg",
+   "pour": [
+    "mercure"
+   ],
+   "sig": "Mercurius met sterrenbeelden Maagd en Tweelingen Mercvrivs (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.832.jpg||400|74"
+  },
+  "beham-lune": {
+   "f": "img/beham-lune.webp",
+   "v": "41e3df8c65",
+   "w": 400,
+   "h": 583,
+   "l": "La Lune, sur le Cancer, sa maison",
+   "cr": "Hans Sebald Beham, gravure, 1539 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Diana_(Luna)_met_sterrenbeeld_Kreeft_Lvna_(titel_op_object)_Zeven_planeten_en_sterrenbeelden_(serietitel),_RP-P-OB-10.833.jpg",
+   "pour": [
+    "lune"
+   ],
+   "sig": "Diana (Luna) met sterrenbeeld Kreeft Lvna (titel op object) Zeven planeten en sterrenbeelden (serietitel), RP-P-OB-10.833.jpg||400|74"
+  },
+  "brunschwig-alambics": {
+   "f": "img/brunschwig-alambics.webp",
+   "v": "f919628f87",
+   "w": 400,
+   "h": 600,
+   "l": "Alambics et serpentins, dans le grand livre de la distillation de Brunschwig",
+   "cr": "Hieronymus Brunschwig, *Liber de arte distillandi*, Strasbourg, 1512 — Science History Institute",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hieronymus_Brunschwig_Liber_de_arte_Distillandi_CHF_AQ13x3.jpg",
+   "pour": [
+    "alambic",
+    "distillation"
+   ],
+   "sig": "Hieronymus Brunschwig Liber de arte Distillandi CHF AQ13x3.jpg||400|74"
+  },
+  "bruegel-alchimiste": {
+   "f": "img/bruegel-alchimiste.webp",
+   "v": "532e10a5e6",
+   "w": 600,
+   "h": 470,
+   "l": "*L’Alchimiste* : le souffleur ruine sa famille, qui finira à l’hospice",
+   "cr": "Philippe Galle d’après Pieter Bruegel l’Ancien, après 1558 — Metropolitan Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Alchemist_MET_MM1740.jpg",
+   "pour": [
+    "souffleur"
+   ],
+   "sig": "The Alchemist MET MM1740.jpg||600|74"
+  },
+  "teniers-alchimiste": {
+   "f": "img/teniers-alchimiste.webp",
+   "v": "52a837a99f",
+   "w": 560,
+   "h": 414,
+   "l": "*L’Alchimiste* dans son laboratoire",
+   "cr": "David Teniers le Jeune, vers 1640-1650 — Mauritshuis, La Haye",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:David_Teniers_de_Jonge_-_The_Alchemist_-_261_-_Mauritshuis.jpg",
+   "pour": [
+    "transmutation",
+    "athanor"
+   ],
+   "sig": "David Teniers de Jonge - The Alchemist - 261 - Mauritshuis.jpg||560|74"
+  },
+  "donum-dei": {
+   "f": "img/donum-dei.webp",
+   "v": "1c4b7f7bbd",
+   "w": 600,
+   "h": 305,
+   "l": "Les trois phases de l’œuvre dans le vase : noirceur, blancheur, rougeur",
+   "cr": "*Pretiosissimum donum Dei*, manuscrit de Georges Aurach, 1475",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Magnum_Opus.jpg",
+   "pour": [
+    "grand-oeuvre",
+    "citrinitas"
+   ],
+   "sig": "Magnum Opus.jpg||600|74"
+  },
+  "champagne-corbeau": {
+   "f": "img/champagne-corbeau.webp",
+   "v": "6e351e1513",
+   "w": 480,
+   "h": 414,
+   "l": "Le corbeau posé sur un crâne, emblème de la noirceur de l’œuvre",
+   "cr": "Julien Champagne, frontispice du *Mystère des cathédrales*, 1926",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Corvo_teschio_-_Julien_Champagne.png",
+   "pour": [
+    "nigredo"
+   ],
+   "sig": "Corvo teschio - Julien Champagne.png||480|74"
+  },
+  "champagne-frontispice": {
+   "f": "img/champagne-frontispice.webp",
+   "v": "278c15a416",
+   "w": 400,
+   "h": 497,
+   "l": "Le frontispice du *Mystère des cathédrales* : l’alchimiste sculpté de Notre-Dame",
+   "cr": "Julien Champagne, 1926",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Frontispice_du_Myst%C3%A8re_des_cath%C3%A9drales.jpg",
+   "pour": [
+    "fulcanelli",
+    "mystere-des-cathedrales"
+   ],
+   "sig": "Frontispice du Mystère des cathédrales.jpg||400|74"
+  },
+  "maier-emblem-36": {
+   "f": "img/maier-emblem-36.webp",
+   "v": "a4fd6bbe5d",
+   "w": 400,
+   "h": 377,
+   "l": "« La pierre est jetée sur la terre, exaltée sur les monts, logée dans l’air, nourrie dans le fleuve » : la matière première est partout",
+   "cr": "Michael Maier, *Atalanta fugiens*, 1617",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michael_Maier_Atalanta_Fugiens_Emblem_36.jpeg",
+   "pour": [
+    "materia-prima"
+   ],
+   "sig": "Michael Maier Atalanta Fugiens Emblem 36.jpeg||400|74"
+  },
+  "rosaire-soleil-aile": {
+   "f": "img/rosaire-soleil-aile.webp",
+   "v": "ce44ccecf2",
+   "w": 400,
+   "h": 403,
+   "l": "Le soleil ailé au-dessus du tombeau rempli d’eau",
+   "cr": "*Rosarium philosophorum*, Francfort, 1550",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Winged_Sun_alchemical.jpg",
+   "pour": [
+    "rosaire-des-philosophes"
+   ],
+   "sig": "Winged Sun alchemical.jpg||400|74"
+  },
+  "phenix-bertuch": {
+   "f": "img/phenix-bertuch.webp",
+   "v": "c41cd60762",
+   "w": 400,
+   "h": 350,
+   "l": "Le phénix renaissant de ses cendres, emblème de la rougeur finale de l’œuvre",
+   "cr": "Friedrich Justin Bertuch, livre d’images pour enfants, 1806",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Phoenix-Fabelwesen.jpg",
+   "pour": [
+    "rubedo"
+   ],
+   "sig": "Phoenix-Fabelwesen.jpg||400|74"
+  },
+  "vitriol-valentin": {
+   "f": "img/vitriol-valentin.webp",
+   "v": "7af9012244",
+   "w": 400,
+   "h": 396,
+   "l": "*Visita interiora terrae rectificando invenies occultum lapidem* : les initiales forment le mot VITRIOL",
+   "cr": "Basile Valentin, *Azoth*, édition de 1613",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Vitriol-2-basil_valentine.png",
+   "pour": [
+    "vitriol"
+   ],
+   "sig": "Vitriol-2-basil valentine.png||400|74"
+  },
+  "geheime-figuren": {
+   "f": "img/geheime-figuren.webp",
+   "v": "499f66891a",
+   "w": 400,
+   "h": 615,
+   "l": "Le sel, le soufre et le mercure dans les *Figures secrètes des Rose-Croix*",
+   "cr": "*Geheime Figuren der Rosenkreuzer*, Altona, 1785",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Geheime_Figuren_der_Rosenkreuzer_1785-p16.jpg",
+   "pour": [
+    "tria-prima",
+    "sel"
+   ],
+   "sig": "Geheime Figuren der Rosenkreuzer 1785-p16.jpg||400|74"
+  },
+  "baphomet-solve": {
+   "f": "img/baphomet-solve.webp",
+   "v": "b50b5c9828",
+   "w": 400,
+   "h": 527,
+   "l": "Le Baphomet d’Éliphas Lévi : sur ses bras, *Solve* et *Coagula*",
+   "cr": "Éliphas Lévi, *Dogme et rituel de la haute magie*, 1856",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Baphomet.png",
+   "pour": [
+    "solve-et-coagula"
+   ],
+   "sig": "Baphomet.png||400|74"
+  },
+  "lapin-elixir": {
+   "f": "img/lapin-elixir.webp",
+   "v": "79da0c3389",
+   "w": 400,
+   "h": 412,
+   "l": "Le lièvre de jade pile dans son mortier l’élixir d’immortalité, sous le cannelier de la lune",
+   "cr": "médaillon brodé d’une robe impériale, dynastie Qing, XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:White-Rabbit-making-elixir-of-immortality.jpg",
+   "pour": [
+    "elixir-de-longue-vie",
+    "neidan"
+   ],
+   "sig": "White-Rabbit-making-elixir-of-immortality.jpg||400|74"
+  },
+  "homoncule-faust": {
+   "f": "img/homoncule-faust.webp",
+   "v": "0d67b6af76",
+   "w": 400,
+   "h": 516,
+   "l": "L’homoncule dans sa fiole, au second *Faust* de Goethe",
+   "cr": "gravure du XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Homunculus_Faust.jpg",
+   "pour": [
+    "homoncule"
+   ],
+   "sig": "Homunculus Faust.jpg||400|74"
+  },
+  "pernety-grand-oeuvre": {
+   "f": "img/pernety-grand-oeuvre.webp",
+   "v": "e6f94893aa",
+   "w": 320,
+   "h": 654,
+   "l": "Le grand œuvre figuré dans le *Dictionnaire mytho-hermétique* de Dom Pernety",
+   "cr": "Dom Antoine-Joseph Pernety, 1758",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Grand_oeuvre_Dom_Pernety_Dictionnaire_Mytho-Herm%C3%A9tique,.jpg",
+   "pour": [
+    "illumines-d-avignon"
+   ],
+   "sig": "Grand oeuvre Dom Pernety Dictionnaire Mytho-Hermétique,.jpg||320|74"
+  },
+  "tablier-borsteegh": {
+   "f": "img/tablier-borsteegh.webp",
+   "v": "013ba16307",
+   "w": 480,
+   "h": 396,
+   "l": "Projet de tablier maçonnique : l’étoile flamboyante, le compas et l’équerre, les colonnes et les outils",
+   "cr": "C. Borsteegh, vers 1820",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:VM_15765_%E2%80%93_Design_for_a_Masonic_apron_%E2%80%93_1820_%E2%80%93_C._Borsteegh.jpg",
+   "pour": [
+    "tablier"
+   ],
+   "sig": "VM 15765 – Design for a Masonic apron – 1820 – C. Borsteegh.jpg||480|74"
+  },
+  "tableau-de-loge": {
+   "f": "img/tableau-de-loge.webp",
+   "v": "8a964de9d0",
+   "w": 560,
+   "h": 380,
+   "l": "Un tableau de loge, où sont rassemblés les symboles et les outils du métier",
+   "cr": "gravure, 1850-1900",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:VM_16145-003_-_Engraving_of_a_Masonic_tracing_board_-_1850-1900.jpg",
+   "pour": [
+    "outils-maconniques"
+   ],
+   "sig": "VM 16145-003 - Engraving of a Masonic tracing board - 1850-1900.jpg||560|74"
+  },
+  "temple-vatable": {
+   "f": "img/temple-vatable.webp",
+   "v": "73daf86a77",
+   "w": 400,
+   "h": 533,
+   "l": "Le temple de Salomon et ses deux colonnes d’airain, Jakin et Boaz",
+   "cr": "d’après François Vatable, 1546",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Francois_Vatable,_reconstructie_van_de_tempel_van_Salomo_(detail).jpg",
+   "pour": [
+    "colonnes-jakin-et-boaz",
+    "jakin",
+    "boaz"
+   ],
+   "sig": "Francois Vatable, reconstructie van de tempel van Salomo (detail).jpg||400|74"
+  },
+  "dieu-geometre": {
+   "f": "img/dieu-geometre.webp",
+   "v": "a6d8ed63f6",
+   "w": 400,
+   "h": 548,
+   "l": "Dieu architecte mesurant le monde au compas",
+   "cr": "*Bible moralisée*, vers 1220-1230 — Bibliothèque nationale autrichienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:God_the_Geometer.jpg",
+   "pour": [
+    "grand-architecte-de-l-univers"
+   ],
+   "sig": "God the Geometer.jpg||400|74"
+  },
+  "blake-ancien-des-jours": {
+   "f": "img/blake-ancien-des-jours.webp",
+   "v": "5c38c3d041",
+   "w": 400,
+   "h": 569,
+   "l": "*L’Ancien des jours* : le créateur trace le monde au compas",
+   "cr": "William Blake, 1794 — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Blake_ancient_of_days.jpg",
+   "pour": [
+    "demiurge"
+   ],
+   "sig": "Blake ancient of days.jpg||400|74"
+  },
+  "sceau-moderns": {
+   "f": "img/sceau-moderns.webp",
+   "v": "69ae5aaf35",
+   "w": 360,
+   "h": 412,
+   "l": "Le sceau de la première Grande Loge d’Angleterre, celle des « Modernes »",
+   "cr": "publié par J. Ramsden Riley, 1891",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Moderns_Grand_Lodge.jpg",
+   "pour": [
+    "grande-loge-de-londres"
+   ],
+   "sig": "Seal of the Moderns Grand Lodge.jpg||360|74"
+  },
+  "anderson-hogarth": {
+   "f": "img/anderson-hogarth.webp",
+   "v": "e498d11e99",
+   "w": 400,
+   "h": 562,
+   "l": "Une caricature de Hogarth où l’on a cru reconnaître James Anderson",
+   "cr": "William Hogarth, vers 1730",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:James_Anderson_W.Hogarth.jpeg",
+   "pour": [
+    "james-anderson"
+   ],
+   "sig": "James Anderson W.Hogarth.jpeg||400|74"
+  },
+  "ramsay-manuscrit": {
+   "f": "img/ramsay-manuscrit.webp",
+   "v": "14847925ec",
+   "w": 400,
+   "h": 505,
+   "l": "La première page du manuscrit du *Discours* du chevalier de Ramsay",
+   "cr": "manuscrit, 1736 — bibliothèque d’Épernay",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Premi%C3%A8re_page_du_manuscrit_du_Discours_de_Ramsay.png",
+   "pour": [
+    "discours-de-ramsay"
+   ],
+   "sig": "Première page du manuscrit du Discours de Ramsay.png||400|74"
+  },
+  "neuf-soeurs-jeton": {
+   "f": "img/neuf-soeurs-jeton.webp",
+   "v": "c2b66540ac",
+   "w": 360,
+   "h": 352,
+   "l": "Jeton de la loge des Neuf Sœurs, à l’effigie de Benjamin Franklin, son vénérable",
+   "cr": "François Bernier, 1783",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Neuf_Soeurs_-_Jeton_01.jpeg",
+   "pour": [
+    "les-neuf-soeurs"
+   ],
+   "sig": "Neuf Soeurs - Jeton 01.jpeg||360|74"
+  },
+  "prince-hall-loge": {
+   "f": "img/prince-hall-loge.webp",
+   "v": "7d4d67a1a3",
+   "w": 480,
+   "h": 400,
+   "l": "Harry A. Williamson, historien de la maçonnerie noire, et des frères de la loge Carthaginian n° 47",
+   "cr": "photographie, 1907 — New York Public Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Harry_A._Williamson_and_five_fellow_members_of_the_Carthaginian_Lodge_no._47.jpg",
+   "pour": [
+    "prince-hall"
+   ],
+   "sig": "Harry A. Williamson and five fellow members of the Carthaginian Lodge no. 47.jpg||480|74"
+  },
+  "von-hund": {
+   "f": "img/von-hund.webp",
+   "v": "9ee17a9805",
+   "w": 400,
+   "h": 468,
+   "l": "Le baron Karl Gotthelf von Hund, fondateur de la Stricte Observance",
+   "cr": "portrait du XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Karl_Gotthelf_von_Hund_und_Altengrotkau.jpg",
+   "pour": [
+    "stricte-observance"
+   ],
+   "sig": "Karl Gotthelf von Hund und Altengrotkau.jpg||400|74"
+  },
+  "affaire-des-fiches-chambre": {
+   "f": "img/affaire-des-fiches-chambre.webp",
+   "v": "67af960e53",
+   "w": 440,
+   "h": 585,
+   "l": "La bagarre de la Chambre après la gifle du député Syveton au général André, ministre de la Guerre",
+   "cr": "dessin de Louis Sabattier, *L’Illustration*, 12 novembre 1904",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Affaire_des_Fiches_%C3%A0_la_Chambre_(L%27Illustration,_1904).jpg",
+   "pour": [
+    "affaire-des-fiches"
+   ],
+   "sig": "Affaire des Fiches à la Chambre (L'Illustration, 1904).jpg||440|74"
+  },
+  "taxil-affiche": {
+   "f": "img/taxil-affiche.webp",
+   "v": "84c47ddcb9",
+   "w": 400,
+   "h": 555,
+   "l": "Affiche des *Mystères de la franc-maçonnerie* de Léo Taxil, où trône un Baphomet emprunté à Éliphas Lévi",
+   "cr": "affiche, imprimerie Ancourt, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Les_Myst%C3%A8res_de_la_franc-ma%C3%A7onnerie_d%C3%A9voil%C3%A9s_par_L%C3%A9o_Taxil.jpg",
+   "pour": [
+    "antimaconnisme"
+   ],
+   "sig": "Les Mystères de la franc-maçonnerie dévoilés par Léo Taxil.jpg||400|74"
+  },
+  "adam-kadmon-myer": {
+   "f": "img/adam-kadmon-myer.webp",
+   "v": "5273f77b07",
+   "w": 320,
+   "h": 673,
+   "l": "Adam Kadmon, l’homme primordial, et les sefirot réparties sur son corps",
+   "cr": "Isaac Myer, *Qabbalah*, 1888",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Adamtree.jpg",
+   "pour": [
+    "adam-kadmon"
+   ],
+   "sig": "Adamtree.jpg||320|74"
+  },
+  "arbre-kircher": {
+   "f": "img/arbre-kircher.webp",
+   "v": "b875cd6189",
+   "w": 400,
+   "h": 600,
+   "l": "L’arbre des sefirot et ses vingt-deux sentiers, selon Athanase Kircher",
+   "cr": "Athanase Kircher, *Œdipus Ægyptiacus*, 1652-1654",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tree_of_Life_(Kircher_1653).jpg",
+   "pour": [
+    "sentiers"
+   ],
+   "sig": "Tree of Life (Kircher 1653).jpg||400|74"
+  },
+  "kabbala-denudata-sefirot": {
+   "f": "img/kabbala-denudata-sefirot.webp",
+   "v": "4eb80ce00c",
+   "w": 360,
+   "h": 601,
+   "l": "Les sefirot en cercles concentriques, dans la *Kabbala denudata*",
+   "cr": "Christian Knorr von Rosenroth, 1677-1684",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kabbala_denudata_sefirot.jpg",
+   "pour": [
+    "kabbala-denudata"
+   ],
+   "sig": "Kabbala denudata sefirot.jpg||360|74"
+  },
+  "golem-ales": {
+   "f": "img/golem-ales.webp",
+   "v": "f3f220e4d2",
+   "w": 400,
+   "h": 577,
+   "l": "Le rabbin Loew et son Golem",
+   "cr": "Mikoláš Aleš, 1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Golem_a_Rabi_L%C3%B6w_%E2%80%93_Mikol%C3%A1%C5%A1_Ale%C5%A1,_1899_(V%C4%9Bnec_pra%C5%BEsk%C3%BDch_pov%C4%9Bst%C3%AD,_1908).jpg",
+   "pour": [
+    "golem"
+   ],
+   "sig": "Golem a Rabi Löw – Mikoláš Aleš, 1899 (Věnec pražských pověstí, 1908).jpg||400|74"
+  },
+  "crowley-baphomet": {
+   "f": "img/crowley-baphomet.webp",
+   "v": "1706902b06",
+   "w": 400,
+   "h": 616,
+   "l": "Aleister Crowley sous son nom d’ordre de Baphomet, chef de l’O.T.O. pour les îles Britanniques",
+   "cr": "photographie, 1919",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Aleister_Crowley_as_Baphomet_X%C2%B0_O.T.O.jpg",
+   "pour": [
+    "a-a",
+    "oto"
+   ],
+   "sig": "Aleister Crowley as Baphomet X° O.T.O.jpg||400|74"
+  },
+  "aradia-titre": {
+   "f": "img/aradia-titre.webp",
+   "v": "049855da75",
+   "w": 400,
+   "h": 626,
+   "l": "La page de titre d’*Aradia, ou l’Évangile des sorcières*",
+   "cr": "Charles Godfrey Leland, Londres, 1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Aradia-title-page.jpg",
+   "pour": [
+    "aradia"
+   ],
+   "sig": "Aradia-title-page.jpg||400|74"
+  },
+  "yggdrasil-bagge": {
+   "f": "img/yggdrasil-bagge.webp",
+   "v": "28a02ce7c2",
+   "w": 400,
+   "h": 446,
+   "l": "Yggdrasil, le frêne qui relie les mondes",
+   "cr": "Oluf Olufsen Bagge, 1847",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Yggdrasil.jpg",
+   "pour": [
+    "arbre-cosmique",
+    "axis-mundi"
+   ],
+   "sig": "Yggdrasil.jpg||400|74"
+  },
+  "hermes-mussard": {
+   "f": "img/hermes-mussard.webp",
+   "v": "b72bb64bc8",
+   "w": 400,
+   "h": 523,
+   "l": "Hermès Trismégiste, portrait imaginaire",
+   "cr": "gravure de Pierre Mussard, 1675",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hermes_Trismegistus_(5786408).jpg",
+   "pour": [
+    "corpus-hermetique",
+    "asclepius",
+    "hermetisme"
+   ],
+   "sig": "Hermes Trismegistus (5786408).jpg||400|74"
+  },
+  "asmodee-le-breton": {
+   "f": "img/asmodee-le-breton.webp",
+   "v": "58696226a8",
+   "w": 400,
+   "h": 455,
+   "l": "Asmodée, roi des démons, dans le *Dictionnaire infernal*",
+   "cr": "Louis Le Breton, pour Collin de Plancy, 1863",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Asmodeus.jpg",
+   "pour": [
+    "asmodee"
+   ],
+   "sig": "Asmodeus.jpg||400|74"
+  },
+  "augure-rode": {
+   "f": "img/augure-rode.webp",
+   "v": "4d64bb78d9",
+   "w": 520,
+   "h": 423,
+   "l": "Un augure observe le vol des oiseaux pour savoir si Numa est digne de régner sur Rome",
+   "cr": "gravure de Bernhard Rode, 1768-1769",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ein_Augur.jpg",
+   "pour": [
+    "augures"
+   ],
+   "sig": "Ein Augur.jpg||520|74"
+  },
+  "avicenne-miniature": {
+   "f": "img/avicenne-miniature.webp",
+   "v": "03ecf8472e",
+   "w": 400,
+   "h": 624,
+   "l": "Avicenne, miniature",
+   "cr": "miniature, date inconnue",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Avicenna-miniatur.jpg",
+   "pour": [
+    "avicenne"
+   ],
+   "sig": "Avicenna-miniatur.jpg||400|74"
+  },
+  "boleskine-1912": {
+   "f": "img/boleskine-1912.webp",
+   "v": "ed57c22d3d",
+   "w": 520,
+   "h": 327,
+   "l": "Boleskine House, au bord du loch Ness, où Crowley voulut accomplir le rituel d’Abramelin",
+   "cr": "photographie publiée par Aleister Crowley, 1912",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Boleskine_house.png",
+   "pour": [
+    "boleskine-house"
+   ],
+   "sig": "Boleskine house.png||520|74"
+  },
+  "broceliande-dore": {
+   "f": "img/broceliande-dore.webp",
+   "v": "3924c45312",
+   "w": 400,
+   "h": 531,
+   "l": "La forêt enchantée des *Idylles du roi*, où Viviane endort Merlin",
+   "cr": "Gustave Doré, 1868",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Idylls_of_the_King_18.jpg",
+   "pour": [
+    "broceliande"
+   ],
+   "sig": "Idylls of the King 18.jpg||400|74"
+  },
+  "vrubel-diseuse": {
+   "f": "img/vrubel-diseuse.webp",
+   "v": "f240ff28f8",
+   "w": 400,
+   "h": 632,
+   "l": "*La Diseuse de bonne aventure*",
+   "cr": "Mikhaïl Vroubel, 1895 — galerie Tretiakov, Moscou",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michail_Alexandrowitsch_Wrubel_001.jpg",
+   "pour": [
+    "cartomancie"
+   ],
+   "sig": "Michail Alexandrowitsch Wrubel 001.jpg||400|74"
+  },
+  "chretien-atelier": {
+   "f": "img/chretien-atelier.webp",
+   "v": "0c3202086d",
+   "w": 400,
+   "h": 517,
+   "l": "Un écrivain à sa table, gravure où l’on a voulu voir Chrétien de Troyes",
+   "cr": "gravure, 1530",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Chr%C3%A9tien_de_Troyes.jpg",
+   "pour": [
+    "chretien-de-troyes"
+   ],
+   "sig": "Chrétien de Troyes.jpg||400|74"
+  },
+  "fludd-ame": {
+   "f": "img/fludd-ame.webp",
+   "v": "5b100433f1",
+   "w": 400,
+   "h": 581,
+   "l": "L’œil de l’imagination et les mondes qui lui correspondent, selon Robert Fludd",
+   "cr": "Robert Fludd, *Utriusque cosmi historia*, 1619",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:RobertFuddBewusstsein17Jh.png",
+   "pour": [
+    "correspondances"
+   ],
+   "sig": "RobertFuddBewusstsein17Jh.png||400|74"
+  },
+  "agroglyphe-lausanne": {
+   "f": "img/agroglyphe-lausanne.webp",
+   "v": "004398a89b",
+   "w": 520,
+   "h": 334,
+   "l": "Un agroglyphe dans un champ du Chalet-à-Gobet, près de Lausanne",
+   "cr": "photographie de Jabberocky, 2007",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:CropCircleW.jpg",
+   "pour": [
+    "crop-circles"
+   ],
+   "sig": "CropCircleW.jpg||520|74"
+  },
+  "agrippa-titre": {
+   "f": "img/agrippa-titre.webp",
+   "v": "123a5c71ce",
+   "w": 400,
+   "h": 619,
+   "l": "Page de titre d’une édition lyonnaise du *De occulta philosophia*",
+   "cr": "Lyon, vers 1560",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Phys_m_6_tb_1.jpg",
+   "pour": [
+    "de-occulta-philosophia"
+   ],
+   "sig": "Phys m 6 tb 1.jpg||400|74"
+  },
+  "dion-fortune-portrait": {
+   "f": "img/dion-fortune-portrait.webp",
+   "v": "562e888758",
+   "w": 400,
+   "h": 487,
+   "l": "Dion Fortune",
+   "cr": "photographie, avant 1946",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Violet_Mary_Firthova_(1890_1946).jpg",
+   "pour": [
+    "dion-fortune"
+   ],
+   "sig": "Violet Mary Firthova (1890 1946).jpg||400|74"
+  },
+  "devineresse": {
+   "f": "img/devineresse.webp",
+   "v": "7883cc6a29",
+   "w": 400,
+   "h": 593,
+   "l": "Une devineresse de Krasnoïarsk, dans un recueil de costumes",
+   "cr": "Jacques Grasset de Saint-Sauveur, fin du XVIIIe siècle — Los Angeles County Museum of Art",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Costume_Plate_(Devineresse_de_Krasnajarsk)_LACMA_M.87.231.7.jpg",
+   "pour": [
+    "divination"
+   ],
+   "sig": "Costume Plate (Devineresse de Krasnajarsk) LACMA M.87.231.7.jpg||400|74"
+  },
+  "pythagore-chartres": {
+   "f": "img/pythagore-chartres.webp",
+   "v": "52922f78b2",
+   "w": 400,
+   "h": 522,
+   "l": "Pythagore, figure de la musique, au portail royal de Chartres",
+   "cr": "sculpture du XIIe siècle ; photographie de Jean-Louis Lascoux, 2001",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pythagore-chartres.jpg",
+   "pour": [
+    "ecole-de-chartres",
+    "cathedrale-de-chartres"
+   ],
+   "sig": "Pythagore-chartres.jpg||400|74"
+  },
+  "beattie-seance": {
+   "f": "img/beattie-seance.webp",
+   "v": "e4500cafbe",
+   "w": 400,
+   "h": 622,
+   "l": "Une « forme lumineuse » apparue lors d’une séance photographiée par John Beattie à Bristol",
+   "cr": "photographie, 1872 — American Philosophical Society",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:John_Beattie_Eugene_Rochas_seance.jpg",
+   "pour": [
+    "ectoplasme"
+   ],
+   "sig": "John Beattie Eugene Rochas seance.jpg||400|74"
+  },
+  "wither-sagesse": {
+   "f": "img/wither-sagesse.webp",
+   "v": "01cc4ae1c5",
+   "w": 400,
+   "h": 485,
+   "l": "« Le sage dominera les astres », emblème de George Wither",
+   "cr": "George Wither, *A Collection of Emblemes*, 1635",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Wither_-_Emblem_Wisdom.jpg",
+   "pour": [
+    "emblemes"
+   ],
+   "sig": "Wither - Emblem Wisdom.jpg||400|74"
+  },
+  "cameron-merlin": {
+   "f": "img/cameron-merlin.webp",
+   "v": "a6cd5cfb88",
+   "w": 400,
+   "h": 469,
+   "l": "Viviane et Merlin, mis en scène pour les *Idylles du roi* de Tennyson",
+   "cr": "photographie de Julia Margaret Cameron, 1874",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Julia_Margaret_Cameron_(British,_born_India_-_Vivien_and_Merlin_-_Google_Art_Project_(6791406).jpg",
+   "pour": [
+    "envoutement"
+   ],
+   "sig": "Julia Margaret Cameron (British, born India - Vivien and Merlin - Google Art Project (6791406).jpg||400|74"
+  },
+  "geomancie-digby": {
+   "f": "img/geomancie-digby.webp",
+   "v": "aec09650b7",
+   "w": 480,
+   "h": 399,
+   "l": "Les figures de la géomancie, dans un traité de Bartolomeo da Parma",
+   "cr": "manuscrit Digby 134 — Bibliothèque bodléienne, Oxford",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Geomantic_Chart_Bartolomeo_da_Parma.jpg",
+   "pour": [
+    "geomancie"
+   ],
+   "sig": "Geomantic Chart Bartolomeo da Parma.jpg||480|74"
+  },
+  "portrait-gurdjieff": {
+   "f": "img/portrait-gurdjieff.webp",
+   "v": "b778fd039a",
+   "w": 320,
+   "h": 545,
+   "l": "Georges Gurdjieff",
+   "cr": "photographie, 1925",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Georges_Gurdjieff.JPG",
+   "pour": [
+    "georges-gurdjieff"
+   ],
+   "sig": "Georges Gurdjieff.JPG||320|74"
+  },
+  "clement-thevet": {
+   "f": "img/clement-thevet.webp",
+   "v": "1dc8b4cbb6",
+   "w": 400,
+   "h": 488,
+   "l": "Clément d’Alexandrie, défenseur d’une « gnose » chrétienne",
+   "cr": "André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Clement_alexandrin.jpg",
+   "pour": [
+    "gnose"
+   ],
+   "sig": "Clement alexandrin.jpg||400|74"
+  },
+  "graal-espinques": {
+   "f": "img/graal-espinques.webp",
+   "v": "52bd852730",
+   "w": 480,
+   "h": 450,
+   "l": "Le Graal, voilé, apparaît aux chevaliers de la Table ronde le jour de la Pentecôte",
+   "cr": "Évrard d’Espinques, vers 1470 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Holy-grail-round-table-ms-fr-112-3-f5r-1470-detail.jpg",
+   "pour": [
+    "graal"
+   ],
+   "sig": "Holy-grail-round-table-ms-fr-112-3-f5r-1470-detail.jpg||480|74"
+  },
+  "honorius-grimoire": {
+   "f": "img/honorius-grimoire.webp",
+   "v": "eb3a0a227d",
+   "w": 520,
+   "h": 372,
+   "l": "Le *Grimoire du pape Honorius*, frontispice et page de titre",
+   "cr": "édition datée de 1760",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Grimoire_du_Pape_Honorius_(allegedly_1760).jpg",
+   "pour": [
+    "grimoire"
+   ],
+   "sig": "Grimoire du Pape Honorius (allegedly 1760).jpg||520|74"
+  },
+  "portrait-boudet": {
+   "f": "img/portrait-boudet.webp",
+   "v": "a7f9e44531",
+   "w": 320,
+   "h": 324,
+   "l": "L’abbé Henri Boudet, curé de Rennes-les-Bains",
+   "cr": "photographie, 1887",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Boudet.jpg",
+   "pour": [
+    "henri-boudet",
+    "la-vraie-langue-celtique"
+   ],
+   "sig": "Boudet.jpg||320|74"
+  },
+  "beth-alpha": {
+   "f": "img/beth-alpha.webp",
+   "v": "5c8823fad8",
+   "w": 400,
+   "h": 447,
+   "l": "La roue du zodiaque de la synagogue de Beth Alpha, le char du soleil au centre",
+   "cr": "mosaïque du VIe siècle ; photographie de Talmoryair, 2007",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Beit_alfa01.jpg",
+   "pour": [
+    "horoscope"
+   ],
+   "sig": "Beit alfa01.jpg||400|74"
+  },
+  "bergh-hypnose": {
+   "f": "img/bergh-hypnose.webp",
+   "v": "a86bca0193",
+   "w": 520,
+   "h": 411,
+   "l": "*Séance d’hypnose*",
+   "cr": "Richard Bergh, 1887 — Nationalmuseum, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hypnotic_S%C3%A9ance_(Richard_Bergh)_-_Nationalmuseum_-_18855.tif",
+   "pour": [
+    "hypnose"
+   ],
+   "sig": "Hypnotic Séance (Richard Bergh) - Nationalmuseum - 18855.tif||520|74"
+  },
+  "dore-lumiere": {
+   "f": "img/dore-lumiere.webp",
+   "v": "c927d2213a",
+   "w": 400,
+   "h": 504,
+   "l": "*La Création de la lumière*",
+   "cr": "Gustave Doré, Bible illustrée, 1866",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Creation_of_Light.png",
+   "pour": [
+    "illuminisme"
+   ],
+   "sig": "Creation of Light.png||400|74"
+  },
+  "roquetaillade-manuscrit": {
+   "f": "img/roquetaillade-manuscrit.webp",
+   "v": "80ff5d148f",
+   "w": 400,
+   "h": 563,
+   "l": "Figures prophétiques d’un manuscrit de Jean de Roquetaillade",
+   "cr": "manuscrit du XIVe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1350_Rupescissa.jpg",
+   "pour": [
+    "jean-de-roquetaillade"
+   ],
+   "sig": "1350 Rupescissa.jpg||400|74"
+  },
+  "portrait-krishnamurti": {
+   "f": "img/portrait-krishnamurti.webp",
+   "v": "a5c1c4d0ae",
+   "w": 400,
+   "h": 545,
+   "l": "Jiddu Krishnamurti",
+   "cr": "photographie, années 1920",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jiddu_Krishnamurti_01.jpg",
+   "pour": [
+    "jiddu-krishnamurti"
+   ],
+   "sig": "Jiddu Krishnamurti 01.jpg||400|74"
+  },
+  "portrait-lanz": {
+   "f": "img/portrait-lanz.webp",
+   "v": "6b1af5e8f9",
+   "w": 320,
+   "h": 466,
+   "l": "Jörg Lanz von Liebenfels",
+   "cr": "photographie",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:J%C3%B6rg_Lanz_von_Liebenfels.jpg",
+   "pour": [
+    "jorg-lanz-von-liebenfels"
+   ],
+   "sig": "Jörg Lanz von Liebenfels.jpg||320|74"
+  },
+  "portrait-evola": {
+   "f": "img/portrait-evola.webp",
+   "v": "0ec1032e8a",
+   "w": 320,
+   "h": 438,
+   "l": "Julius Evola",
+   "cr": "photographie, début des années 1940",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Evola.jpg",
+   "pour": [
+    "julius-evola"
+   ],
+   "sig": "Evola.jpg||320|74"
+  },
+  "doctrine-secrete-1888": {
+   "f": "img/doctrine-secrete-1888.webp",
+   "v": "df8fb841ff",
+   "w": 320,
+   "h": 449,
+   "l": "La couverture de l’édition originale de *La Doctrine secrète*",
+   "cr": "Helena Blavatsky, Londres, 1888",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Secret_Doctrine.gif",
+   "pour": [
+    "doctrine-secrete"
+   ],
+   "sig": "The Secret Doctrine.gif||320|74"
+  },
+  "liber-al": {
+   "f": "img/liber-al.webp",
+   "v": "28f42abb7d",
+   "w": 320,
+   "h": 536,
+   "l": "*Liber AL vel Legis*, le Livre de la Loi",
+   "cr": "Aleister Crowley",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Liber_AL_Vel_Legis.png",
+   "pour": [
+    "livre-de-la-loi"
+   ],
+   "sig": "Liber AL Vel Legis.png||320|74"
+  },
+  "roi-du-monde-1927": {
+   "f": "img/roi-du-monde-1927.webp",
+   "v": "284bf9ef9d",
+   "w": 320,
+   "h": 434,
+   "l": "La couverture de l’édition originale du *Roi du monde*",
+   "cr": "René Guénon, 1927",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Roi_du_monde_(Ren%C3%A9_Gu%C3%A9non,_1927).jpg",
+   "pour": [
+    "le-roi-du-monde"
+   ],
+   "sig": "Le Roi du monde (René Guénon, 1927).jpg||320|74"
+  },
+  "robida-momie": {
+   "f": "img/robida-momie.webp",
+   "v": "ecb511e18d",
+   "w": 320,
+   "h": 545,
+   "l": "Personnages égyptiens peints par Robida sur un exemplaire du *Roman de la momie*",
+   "cr": "aquarelle d’Albert Robida, vers 1870",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Albert_Robida_-_Le_Roman_de_la_momie.jpg",
+   "pour": [
+    "le-roman-de-la-momie"
+   ],
+   "sig": "Albert Robida - Le Roman de la momie.jpg||320|74"
+  },
+  "horen-maerchen": {
+   "f": "img/horen-maerchen.webp",
+   "v": "d96481cacb",
+   "w": 320,
+   "h": 536,
+   "l": "La première page du *Conte* de Goethe dans la revue de Schiller, *Die Horen*",
+   "cr": "Goethe, *Die Horen*, 1795",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:M%C3%A4hrchen._Die_Horen._4_%3D_Jg._1,_St%C3%BCck_10-12._1795._S._108_(0114).jpg",
+   "pour": [
+    "le-serpent-vert"
+   ],
+   "sig": "Mährchen. Die Horen. 4 = Jg. 1, Stück 10-12. 1795. S. 108 (0114).jpg||320|74"
+  },
+  "waterhouse-circe": {
+   "f": "img/waterhouse-circe.webp",
+   "v": "0e0632e9b3",
+   "w": 400,
+   "h": 672,
+   "l": "*Circé offrant la coupe à Ulysse*",
+   "cr": "John William Waterhouse, 1891 — Gallery Oldham",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Circe_Offering_the_Cup_to_Odysseus.jpg",
+   "pour": [
+    "magie"
+   ],
+   "sig": "Circe Offering the Cup to Odysseus.jpg||400|74"
+  },
+  "porta-natural-magick": {
+   "f": "img/porta-natural-magick.webp",
+   "v": "bbb01d9382",
+   "w": 400,
+   "h": 622,
+   "l": "Frontispice de la *Magie naturelle* de Della Porta, traduite en anglais",
+   "cr": "Londres, 1658",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Natural_Magick_by_Giambattista_della_Porta.jpg",
+   "pour": [
+    "magie-naturelle"
+   ],
+   "sig": "Natural Magick by Giambattista della Porta.jpg||400|74"
+  },
+  "portrait-duchamp": {
+   "f": "img/portrait-duchamp.webp",
+   "v": "0214e23fb8",
+   "w": 320,
+   "h": 471,
+   "l": "Marcel Duchamp",
+   "cr": "photographie",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Marcel_Duchamp_01.jpg",
+   "pour": [
+    "marcel-duchamp"
+   ],
+   "sig": "Marcel Duchamp 01.jpg||320|74"
+  },
+  "portrait-murray": {
+   "f": "img/portrait-murray.webp",
+   "v": "369ef16958",
+   "w": 320,
+   "h": 456,
+   "l": "Margaret Murray",
+   "cr": "photographie de Lafayette Ltd, 1928",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Margaret_Murray_1928c.jpg",
+   "pour": [
+    "margaret-murray"
+   ],
+   "sig": "Margaret Murray 1928c.jpg||320|74"
+  },
+  "van-maele-sorciere": {
+   "f": "img/van-maele-sorciere.webp",
+   "v": "924e20995b",
+   "w": 400,
+   "h": 574,
+   "l": "Une scène de sabbat pour *La Sorcière* de Michelet",
+   "cr": "Martin van Maële, 1911",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Martin_van_Maele_-_La_Sorci%C3%A8re_06.jpg",
+   "pour": [
+    "messe-noire"
+   ],
+   "sig": "Martin van Maele - La Sorcière 06.jpg||400|74"
+  },
+  "tablette-pergame": {
+   "f": "img/tablette-pergame.webp",
+   "v": "32d6215d78",
+   "w": 480,
+   "h": 412,
+   "l": "La table magique de Pergame et ses noms de déesses, instrument de divination antique",
+   "cr": "dessin de Richard Wünsch, 1905",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Magic_tablet_from_Pergamon_(W%C3%BCnsch,_Antikes_Zauberger%C3%A4t).png",
+   "pour": [
+    "voces-magicae"
+   ],
+   "sig": "Magic tablet from Pergamon (Wünsch, Antikes Zaubergerät).png||480|74"
+  },
+  "noeud-aquilee": {
+   "f": "img/noeud-aquilee.webp",
+   "v": "41af2e70f9",
+   "w": 400,
+   "h": 437,
+   "l": "Un nœud de Salomon dans la mosaïque de la basilique d’Aquilée",
+   "cr": "mosaïque du IVe siècle ; photographie de Janezdrilc, 2011",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Basilica_Patriarcale_(Aquileia)_2_(cropped).JPG",
+   "pour": [
+    "noeud-de-salomon"
+   ],
+   "sig": "Basilica Patriarcale (Aquileia) 2 (cropped).JPG||400|74"
+  },
+  "levi-lampe": {
+   "f": "img/levi-lampe.webp",
+   "v": "8b8fba90e9",
+   "w": 320,
+   "h": 423,
+   "l": "Une planche de *Dogme et rituel de la haute magie* d’Éliphas Lévi",
+   "cr": "Éliphas Lévi, *Dogme et rituel de la haute magie*, édition anglaise de 1896",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Transcendental_Magic_1896_Eliphas_L%C3%A9vi_p244.jpg",
+   "pour": [
+    "occultisme"
+   ],
+   "sig": "Transcendental Magic 1896 Eliphas Lévi p244.jpg||320|74"
+  },
+  "portrait-reichenbach": {
+   "f": "img/portrait-reichenbach.webp",
+   "v": "4fdcb9f97b",
+   "w": 320,
+   "h": 413,
+   "l": "Karl von Reichenbach, l’inventeur de l’od",
+   "cr": "lithographie de Rudolph Hoffmann",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Karl_Reichenbach.jpg",
+   "pour": [
+    "od"
+   ],
+   "sig": "Karl Reichenbach.jpg||320|74"
+  },
+  "orphee-mosaique": {
+   "f": "img/orphee-mosaique.webp",
+   "v": "5e4ec35db9",
+   "w": 400,
+   "h": 372,
+   "l": "Orphée charmant les bêtes sauvages de sa lyre",
+   "cr": "mosaïque romaine d’Édesse, 194",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Roman_Orpheus_Taming_Wild_Animals.jpg",
+   "pour": [
+    "orphisme"
+   ],
+   "sig": "Roman Orpheus Taming Wild Animals.jpg||400|74"
+  },
+  "inquisition-registre": {
+   "f": "img/inquisition-registre.webp",
+   "v": "47477cc3f3",
+   "w": 560,
+   "h": 375,
+   "l": "Aveux de croyants recueillis par l’inquisiteur Ferrier",
+   "cr": "registre d’inquisition, 1243 — Archives départementales de l’Aude",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fragment_de_registre_d%27inquisition._Aveux_pass%C3%A9s_devant_l%27inquisiteur_Ferrier_01.jpg",
+   "pour": [
+    "parfaits"
+   ],
+   "sig": "Fragment de registre d'inquisition. Aveux passés devant l'inquisiteur Ferrier 01.jpg||560|74"
+  },
+  "malachie-wion": {
+   "f": "img/malachie-wion.webp",
+   "v": "08b99dbd82",
+   "w": 400,
+   "h": 446,
+   "l": "La première publication de la prophétie des papes attribuée à saint Malachie",
+   "cr": "Arnold Wion, *Lignum vitae*, Venise, 1595",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arnold_Wion_-_Lignum_Vitae_-_1595_-_p311_Part.jpg",
+   "pour": [
+    "prophetie-de-saint-malachie"
+   ],
+   "sig": "Arnold Wion - Lignum Vitae - 1595 - p311 Part.jpg||400|74"
+  },
+  "denys-thevet": {
+   "f": "img/denys-thevet.webp",
+   "v": "ee4cd283a3",
+   "w": 400,
+   "h": 485,
+   "l": "Denys l’Aréopagite, que l’on confondait avec saint Denis de Paris",
+   "cr": "André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Denis_Areopagite.jpg",
+   "pour": [
+    "pseudo-denys"
+   ],
+   "sig": "Denis Areopagite.jpg||400|74"
+  },
+  "bronnikov-pythagoriciens": {
+   "f": "img/bronnikov-pythagoriciens.webp",
+   "v": "aa9b48511e",
+   "w": 560,
+   "h": 345,
+   "l": "*L’Hymne des pythagoriciens au soleil levant*",
+   "cr": "Fiodor Bronnikov, 1869 — galerie Tretiakov, Moscou",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg",
+   "pour": [
+    "pythagorisme"
+   ],
+   "sig": "Bronnikov gimnpifagoreizev.jpg||560|74"
+  },
+  "portrait-guenon": {
+   "f": "img/portrait-guenon.webp",
+   "v": "55b546021b",
+   "w": 320,
+   "h": 324,
+   "l": "René Guénon",
+   "cr": "photographie, 1925",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rene-guenon-1925.jpg",
+   "pour": [
+    "rene-guenon",
+    "tradition-primordiale"
+   ],
+   "sig": "Rene-guenon-1925.jpg||320|74"
+  },
+  "rose-holtzbecker": {
+   "f": "img/rose-holtzbecker.webp",
+   "v": "81c67087fa",
+   "w": 400,
+   "h": 528,
+   "l": "Rose de France, dans le florilège des ducs de Holstein-Gottorp",
+   "cr": "Hans Simon Holtzbecker, 1649-1659",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Johannes_Simon_Holtzbecher_-_Rosa_gallica_-_Google_Art_Project.jpg",
+   "pour": [
+    "la-rose"
+   ],
+   "sig": "Johannes Simon Holtzbecher - Rosa gallica - Google Art Project.jpg||400|74"
+  },
+  "batoni-sacre-coeur": {
+   "f": "img/batoni-sacre-coeur.webp",
+   "v": "0c0792b902",
+   "w": 400,
+   "h": 557,
+   "l": "*Le Sacré-Cœur de Jésus*, l’image la plus répandue de la dévotion",
+   "cr": "Pompeo Batoni, 1767 — église du Gesù, Rome",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:SacredHeartBatoni.jpg",
+   "pour": [
+    "sacre-coeur",
+    "paray-le-monial"
+   ],
+   "sig": "SacredHeartBatoni.jpg||400|74"
+  },
+  "vehme-tribunal": {
+   "f": "img/vehme-tribunal.webp",
+   "v": "b8dcfab750",
+   "w": 400,
+   "h": 550,
+   "l": "Un tribunal vehmique en séance",
+   "cr": "peinture, vers 1375",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:League_of_the_Holy_Court.JPG",
+   "pour": [
+    "sainte-vehme"
+   ],
+   "sig": "League of the Holy Court.JPG||400|74"
+  },
+  "secretum-table": {
+   "f": "img/secretum-table.webp",
+   "v": "5d01f15146",
+   "w": 320,
+   "h": 496,
+   "l": "Une table d’onomancie, pour deviner l’issue d’un combat par le nom des combattants, dans le *Secret des secrets*",
+   "cr": "version russe, XVIe siècle — Bibliothèque bodléienne, Oxford",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Onomantic_table_from_the_Secretum_Secretorum.jpg",
+   "pour": [
+    "secret-des-secrets"
+   ],
+   "sig": "Onomantic table from the Secretum Secretorum.jpg||320|74"
+  },
+  "portrait-sohrawardi": {
+   "f": "img/portrait-sohrawardi.webp",
+   "v": "8289ab714a",
+   "w": 320,
+   "h": 450,
+   "l": "Sohrawardi, portrait imaginaire",
+   "cr": "dessin",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Shahab_al-Din_Suhrawardi.jpg",
+   "pour": [
+    "sohrawardi"
+   ],
+   "sig": "Shahab al-Din Suhrawardi.jpg||320|74"
+  },
+  "marc-de-cafe": {
+   "f": "img/marc-de-cafe.webp",
+   "v": "1734278820",
+   "w": 400,
+   "h": 300,
+   "l": "Le marc au fond d’une tasse, que l’on interprète",
+   "cr": "photographie de Membeth, 2013",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Kaffeesatz.Tassenboden.jpg",
+   "pour": [
+    "tasseographie"
+   ],
+   "sig": "Kaffeesatz.Tassenboden.jpg||400|74"
+  },
+  "saint-marcoul": {
+   "f": "img/saint-marcoul.webp",
+   "v": "97cd314652",
+   "w": 400,
+   "h": 512,
+   "l": "Les rois de France vont au tombeau de saint Marcoul, à Corbeny, avant de toucher les écrouelles",
+   "cr": "gravure de l’*Apologie pour le pèlerinage de nos rois à Corbeny*, 1638",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pelerinage_des_rois_%C3%A0_st-MArcoul.JPG",
+   "pour": [
+    "thaumaturge"
+   ],
+   "sig": "Pelerinage des rois à st-MArcoul.JPG||400|74"
+  },
+  "zanoni-1842": {
+   "f": "img/zanoni-1842.webp",
+   "v": "d03e84d295",
+   "w": 320,
+   "h": 549,
+   "l": "La page de titre de *Zanoni*",
+   "cr": "Edward Bulwer-Lytton, Londres, 1842",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Zanoni_1st.jpg",
+   "pour": [
+    "zanoni"
+   ],
+   "sig": "Zanoni 1st.jpg||320|74"
+  },
+  "viollet-cathedrale": {
+   "f": "img/viollet-cathedrale.webp",
+   "v": "ce49d88136",
+   "w": 400,
+   "h": 546,
+   "l": "La cathédrale idéale du XIIIe siècle, avec ses sept flèches, dessinée par Viollet-le-Duc",
+   "cr": "Eugène Viollet-le-Duc, *Dictionnaire raisonné de l’architecture*, 1856",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gothic-cathedral-illustration-02.png",
+   "pour": [
+    "gothique",
+    "art-gothique"
+   ],
+   "sig": "Gothic-cathedral-illustration-02.png||400|74"
+  },
+  "reims-facade": {
+   "f": "img/reims-facade.webp",
+   "v": "b7da23f4b7",
+   "w": 400,
+   "h": 569,
+   "l": "La façade de la cathédrale de Reims, avant les bombardements de 1914",
+   "cr": "photographie, 1870-1900 — Rijksmuseum",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Kathedraal_van_Reims_La_Cath%C3%A9drale_(titel_op_object)_Reims_(serietitel_op_object),_RP-F-F19892.jpg",
+   "pour": [
+    "art-gothique"
+   ],
+   "sig": "Kathedraal van Reims La Cathédrale (titel op object) Reims (serietitel op object), RP-F-F19892.jpg||400|74"
+  },
+  "otrante-1765": {
+   "f": "img/otrante-1765.webp",
+   "v": "d4b228a71f",
+   "w": 480,
+   "h": 421,
+   "l": "Le *Château d’Otrante* de Walpole, premier roman gothique, dans son édition de 1765",
+   "cr": "Horace Walpole, 1765",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Walpole_horace_gothic_B20114_47.jpg",
+   "pour": [
+    "roman-gothique"
+   ],
+   "sig": "Walpole horace gothic B20114 47.jpg||480|74"
+  },
+  "dodecaedre-leonard": {
+   "f": "img/dodecaedre-leonard.webp",
+   "v": "586203ba8f",
+   "w": 400,
+   "h": 400,
+   "l": "Le dodécaèdre « vide », dessiné par Léonard de Vinci pour Luca Pacioli",
+   "cr": "Léonard de Vinci, *De divina proportione*, 1509",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:De_divina_proportione_-_Illustration_13,_crop.jpg",
+   "pour": [
+    "dodecaedre",
+    "solides-de-platon"
+   ],
+   "sig": "De divina proportione - Illustration 13, crop.jpg||400|74"
+  },
+  "dodecaedre-romain": {
+   "f": "img/dodecaedre-romain.webp",
+   "v": "70fc286665",
+   "w": 400,
+   "h": 373,
+   "l": "Un dodécaèdre romain de bronze, objet dont on ignore toujours l’usage",
+   "cr": "IIe-IVe siècle — musée gallo-romain de Tongres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pentagon-dodeca%C3%ABder_in_brons,_150_tot_400_NC,_vindplaats-_Tongeren,_Leopoldwal,_1939,_collectie_Gallo-Romeins_Museum_Tongeren,_4002.jpg",
+   "pour": [
+    "dodecaedre"
+   ],
+   "sig": "Pentagon-dodecaëder in brons, 150 tot 400 NC, vindplaats- Tongeren, Leopoldwal, 1939, collectie Gallo-Romeins Museum Tongeren, 4002.jpg||400|74"
+  },
+  "kepler-mysterium": {
+   "f": "img/kepler-mysterium.webp",
+   "v": "5e7fcf82ef",
+   "w": 400,
+   "h": 471,
+   "l": "Les orbites des planètes emboîtées dans les cinq solides de Platon, selon le jeune Kepler",
+   "cr": "Johannes Kepler, *Mysterium cosmographicum*, 1596",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mysterium_Cosmographicum_solar_system_model.jpg",
+   "pour": [
+    "solides-de-platon"
+   ],
+   "sig": "Mysterium Cosmographicum solar system model.jpg||400|74"
+  },
+  "kafiristan-carte": {
+   "f": "img/kafiristan-carte.webp",
+   "v": "03778a9e1c",
+   "w": 520,
+   "h": 383,
+   "l": "Le Kafiristan, où Kipling envoie ses deux aventuriers francs-maçons se faire rois",
+   "cr": "carte de la Société royale de géographie, 1881",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Map_of_Kafiristan_WDL12996.png",
+   "pour": [
+    "l-homme-qui-voulut-etre-roi"
+   ],
+   "sig": "Map of Kafiristan WDL12996.png||520|74"
+  },
+  "constitutions-1723": {
+   "f": "img/constitutions-1723.webp",
+   "v": "d802b0c3c6",
+   "w": 600,
+   "h": 382,
+   "l": "Frontispice et page de titre des *Constitutions* de 1723 : le duc de Montagu remet au duc de Wharton le rouleau des Constitutions et le compas",
+   "cr": "John Pine, gravure, Londres, 1723",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Anderson%27sConstitutions.jpg",
+   "pour": [
+    "constitutions-d-anderson",
+    "franc-maconnerie"
+   ],
+   "sig": "Anderson'sConstitutions.jpg||600|74"
+  },
+  "initiation-apprenti": {
+   "f": "img/initiation-apprenti.webp",
+   "v": "59986c393d",
+   "w": 560,
+   "h": 352,
+   "l": "La réception d’un apprenti, les yeux bandés, devant le tableau de la loge tracé au sol",
+   "cr": "gravure coloriée, vers 1805, d’après celle de Gabanon (1745)",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Freimaurer_Initiation.jpg",
+   "pour": [
+    "apprenti",
+    "initiation"
+   ],
+   "sig": "Freimaurer Initiation.jpg||560|74"
+  },
+  "grand-orient-rue-cadet": {
+   "f": "img/grand-orient-rue-cadet.webp",
+   "v": "9448f30371",
+   "w": 400,
+   "h": 554,
+   "l": "L’hôtel du Grand Orient de France, rue Cadet à Paris",
+   "cr": "photographie de l’agence Rol, 1925 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_du_Grand_Orient_(de_France),_rue_Cadet_(9e_arrondissement)_-_btv1b531465372.jpg",
+   "pour": [
+    "grand-orient-de-france"
+   ],
+   "sig": "Hôtel du Grand Orient (de France), rue Cadet (9e arrondissement) - btv1b531465372.jpg||400|74"
+  },
+  "freemasons-hall-1809": {
+   "f": "img/freemasons-hall-1809.webp",
+   "v": "89ee73d19b",
+   "w": 560,
+   "h": 434,
+   "l": "Une assemblée dans le Freemasons’ Hall de Londres, siège de la Grande Loge",
+   "cr": "Thomas Rowlandson et Auguste Pugin, *The Microcosm of London*, 1809",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Microcosm_of_London_Plate_038_-_Freemasons%27_Hall.jpg",
+   "pour": [
+    "temple-maconnique",
+    "grande-loge-de-londres"
+   ],
+   "sig": "Microcosm of London Plate 038 - Freemasons' Hall.jpg||560|74"
+  },
+  "loge-d-adoption": {
+   "f": "img/loge-d-adoption.webp",
+   "v": "d1bbf7fe6b",
+   "w": 560,
+   "h": 373,
+   "l": "La réception d’une femme dans une loge d’adoption sous le Premier Empire",
+   "cr": "gravure, vers 1810",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:LogeAdoption.jpg",
+   "pour": [
+    "maconnerie-d-adoption"
+   ],
+   "sig": "LogeAdoption.jpg||560|74"
+  },
+  "steiner-goetheanum": {
+   "f": "img/steiner-goetheanum.webp",
+   "v": "8c766fbe3a",
+   "w": 520,
+   "h": 385,
+   "l": "Rudolf Steiner devant la maquette du premier Goetheanum, qui brûla dans la nuit du 31 décembre 1922",
+   "cr": "photographie d’Otto Rietmann, juin 1914",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rudolf_Steiner_mit_Modell_Erstes_Goetheanum_-16._Juni_1914.Foto_Rietmann.jpg",
+   "pour": [
+    "anthroposophie",
+    "societe-anthroposophique"
+   ],
+   "sig": "Rudolf Steiner mit Modell Erstes Goetheanum -16. Juni 1914.Foto Rietmann.jpg||520|74"
+  },
+  "stukeley-druide": {
+   "f": "img/stukeley-druide.webp",
+   "v": "2350bf606a",
+   "w": 360,
+   "h": 568,
+   "l": "« Un druide breton », tel que l’imaginait l’antiquaire William Stukeley",
+   "cr": "William Stukeley, 1724",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:ABritishDruid.png",
+   "pour": [
+    "druidisme"
+   ],
+   "sig": "ABritishDruid.png||360|74"
+  },
+  "vanmour-derviches": {
+   "f": "img/vanmour-derviches.webp",
+   "v": "eea9704d40",
+   "w": 560,
+   "h": 414,
+   "l": "Les derviches tourneurs dans leur salle de danse à Constantinople",
+   "cr": "Jean-Baptiste Vanmour, 1720-1737 — Rijksmuseum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dansende_derwisjen_Rijksmuseum_SK-A-4081.jpeg",
+   "pour": [
+    "soufisme"
+   ],
+   "sig": "Dansende derwisjen Rijksmuseum SK-A-4081.jpeg||560|74"
+  },
+  "tables-tournantes": {
+   "f": "img/tables-tournantes.webp",
+   "v": "106f605836",
+   "w": 560,
+   "h": 448,
+   "l": "La vogue des tables tournantes dans les salons parisiens",
+   "cr": "Ange-Louis Janet, *L’Illustration*, mai 1853",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tables_tournantes_1853.jpg",
+   "pour": [
+    "spiritisme"
+   ],
+   "sig": "Tables tournantes 1853.jpg||560|74"
+  },
+  "saint-martin-profil": {
+   "f": "img/saint-martin-profil.webp",
+   "v": "b9b8dee632",
+   "w": 360,
+   "h": 359,
+   "l": "Louis-Claude de Saint-Martin, le « Philosophe inconnu »",
+   "cr": "portrait de profil, fin du XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint-Martin,_from_The_Martinism_Order_book_by_Chinski.jpg",
+   "pour": [
+    "martinisme"
+   ],
+   "sig": "Saint-Martin, from The Martinism Order book by Chinski.jpg||360|74"
+  },
+  "cahier-elus-coens": {
+   "f": "img/cahier-elus-coens.webp",
+   "v": "99aad21cfe",
+   "w": 520,
+   "h": 413,
+   "l": "Figures d’opérations dans le cahier d’un élu coën, Prunelle de Lière",
+   "cr": "manuscrit du XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Prunelle_de_Li%C3%A8re%E2%80%99s_%C3%89lus_Co%C3%ABns_Notebook.jpg",
+   "pour": [
+    "elus-coens"
+   ],
+   "sig": "Prunelle de Lière’s Élus Coëns Notebook.jpg||520|74"
+  },
+  "rops-satan": {
+   "f": "img/rops-satan.webp",
+   "v": "eadd1888b4",
+   "w": 400,
+   "h": 532,
+   "l": "*Satan semant l’ivraie* sur Paris endormi",
+   "cr": "Félicien Rops — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:F%C3%A9licien_Rops,_Satan_Sowing_Tare_(Satan_semant_l%27ivraie),_NGA_40199.jpg",
+   "pour": [
+    "satanisme"
+   ],
+   "sig": "Félicien Rops, Satan Sowing Tare (Satan semant l'ivraie), NGA 40199.jpg||400|74"
+  },
+  "schelling-1848": {
+   "f": "img/schelling-1848.webp",
+   "v": "05381cbd26",
+   "w": 360,
+   "h": 464,
+   "l": "Friedrich Wilhelm Joseph Schelling, le philosophe de la nature",
+   "cr": "daguerréotype d’Hermann Biow, 1848",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Friedrich_Wilhelm_Joseph_Schelling,_1848_daguerreotype.jpg",
+   "pour": [
+    "naturphilosophie"
+   ],
+   "sig": "Friedrich Wilhelm Joseph Schelling, 1848 daguerreotype.jpg||360|74"
+  },
+  "paracelse-hirschvogel": {
+   "f": "img/paracelse-hirschvogel.webp",
+   "v": "a7db2bc1f1",
+   "w": 360,
+   "h": 543,
+   "l": "Paracelse à quarante-sept ans, avec sa devise « Qu’il ne soit pas à un autre, celui qui peut être à lui-même »",
+   "cr": "Augustin Hirschvogel, 1540",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Paracelsus-03.jpg",
+   "pour": [
+    "paracelsisme"
+   ],
+   "sig": "Paracelsus-03.jpg||360|74"
+  },
+  "nag-hammadi": {
+   "f": "img/nag-hammadi.webp",
+   "v": "8fb9104368",
+   "w": 360,
+   "h": 632,
+   "l": "La fin de l’*Apocryphon de Jean* et le début de l’*Évangile de Thomas*, dans le codex II de Nag Hammadi",
+   "cr": "papyrus copte, IVe siècle — Musée copte, Le Caire",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nag_Hammadi_Codex_II.jpg",
+   "pour": [
+    "gnosticisme"
+   ],
+   "sig": "Nag Hammadi Codex II.jpg||360|74"
+  },
+  "sri-yantra": {
+   "f": "img/sri-yantra.webp",
+   "v": "387714726e",
+   "w": 400,
+   "h": 400,
+   "l": "Le Sri Yantra, figure de neuf triangles entrelacés, gravé sur cuivre",
+   "cr": "objet du XXe siècle ; photographie de Tangopaso",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sri_Yantra_copper.jpg",
+   "pour": [
+    "tantrisme"
+   ],
+   "sig": "Sri Yantra copper.jpg||400|74"
+  },
+  "medjybij": {
+   "f": "img/medjybij.webp",
+   "v": "c3fa22be66",
+   "w": 520,
+   "h": 352,
+   "l": "La maison d’étude du Baal Shem Tov à Medjybij, en Podolie",
+   "cr": "photographie, vers 1900",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Medzhybizh._Beit_Midrash_of_Baal_Shem_Tov.jpg",
+   "pour": [
+    "hassidisme"
+   ],
+   "sig": "Medzhybizh. Beit Midrash of Baal Shem Tov.jpg||520|74"
+  },
+  "abbaye-de-thelema": {
+   "f": "img/abbaye-de-thelema.webp",
+   "v": "c2167765f3",
+   "w": 520,
+   "h": 347,
+   "l": "Ce qui reste des peintures de l’abbaye de Thélème, la maison de Crowley à Cefalù",
+   "cr": "photographie d’Erik Albers, 2017",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Abbey_of_Thelema_09.jpg",
+   "pour": [
+    "thelema"
+   ],
+   "sig": "Abbey of Thelema 09.jpg||520|74"
+  },
+  "quimby-portrait": {
+   "f": "img/quimby-portrait.webp",
+   "v": "2cd0659945",
+   "w": 360,
+   "h": 517,
+   "l": "Phineas Parkhurst Quimby, guérisseur du Maine dont procède la Nouvelle Pensée",
+   "cr": "photographie publiée en 1921",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Quimby_Manuscripts_-_portrait.jpg",
+   "pour": [
+    "nouvelle-pensee"
+   ],
+   "sig": "The Quimby Manuscripts - portrait.jpg||360|74"
+  },
+  "harran-ruines": {
+   "f": "img/harran-ruines.webp",
+   "v": "503d2f8df5",
+   "w": 520,
+   "h": 347,
+   "l": "Les ruines de la grande mosquée de Harran et sa tour, sur le site de la ville des Sabéens",
+   "cr": "photographie de Hamdigumus, 2015",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Harran_%C3%9Cniversitesi_Kal%C4%B1nt%C4%B1lar%C4%B1_2015.jpg",
+   "pour": [
+    "harran",
+    "sabeens-de-harran"
+   ],
+   "sig": "Harran Üniversitesi Kalıntıları 2015.jpg||520|74"
+  },
+  "monte-verita-1904": {
+   "f": "img/monte-verita-1904.webp",
+   "v": "c03c785c38",
+   "w": 360,
+   "h": 505,
+   "l": "Bain d’air et de lumière près de la cascade de Monte Verità, en 1904",
+   "cr": "carte postale photographique, vers 1904",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Erich_M%C3%BChsam_Postkarte_Sanatorium_Monte_Verit%C3%A0_ca_1904.jpg",
+   "pour": [
+    "monte-verita"
+   ],
+   "sig": "Erich Mühsam Postkarte Sanatorium Monte Verità ca 1904.jpg||360|74"
+  },
+  "alexandrie-pompee": {
+   "f": "img/alexandrie-pompee.webp",
+   "v": "d125070cf5",
+   "w": 360,
+   "h": 450,
+   "l": "La colonne dite de Pompée, seul monument resté debout du Sérapéum d’Alexandrie",
+   "cr": "gravure du *Penny Magazine*, 1834",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Penny_Magazine_1834_137_Pompey%27s_Pillar.jpg",
+   "pour": [
+    "alexandrie",
+    "serapis"
+   ],
+   "sig": "Penny Magazine 1834 137 Pompey's Pillar.jpg||360|74"
   }
  },
  "planches": {
@@ -5729,6 +11089,61 @@
      "conver-20",
      "conver-21",
      "conver-00"
+    ]
+   }
+  ],
+  "mutus-liber": [
+   {
+    "titre": "Les quinze planches de l’édition originale, gravées pour Pierre Savouret à La Rochelle en 1677. Touchez une planche pour l’agrandir.",
+    "images": [
+     "mutus-01",
+     "mutus-02",
+     "mutus-03",
+     "mutus-04",
+     "mutus-05",
+     "mutus-06",
+     "mutus-07",
+     "mutus-08",
+     "mutus-09",
+     "mutus-10",
+     "mutus-11",
+     "mutus-12",
+     "mutus-13",
+     "mutus-14",
+     "mutus-15"
+    ]
+   }
+  ],
+  "zodiaque": [
+   {
+    "titre": "Les douze constellations du zodiaque, gravées pour les cartes à jouer du *Miroir d’Uranie* (1825). Touchez une carte pour lire l’article de son signe.",
+    "images": [
+     "uranie-belier",
+     "uranie-taureau",
+     "uranie-gemeaux",
+     "uranie-cancer",
+     "uranie-lion",
+     "uranie-vierge",
+     "uranie-balance",
+     "uranie-scorpion",
+     "uranie-sagittaire",
+     "uranie-capricorne",
+     "uranie-verseau",
+     "uranie-poissons"
+    ]
+   }
+  ],
+  "planetes": [
+   {
+    "titre": "Les sept planètes de l’astrologie, chacune avec les signes où elle a son domicile, gravées par Hans Sebald Beham en 1539. Touchez une planète pour lire son article.",
+    "images": [
+     "beham-saturne",
+     "beham-jupiter",
+     "beham-mars",
+     "beham-soleil",
+     "beham-venus",
+     "beham-mercure",
+     "beham-lune"
     ]
    }
   ]

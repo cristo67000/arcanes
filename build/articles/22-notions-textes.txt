@@ -12,7 +12,7 @@ alias: hiérophantes, hierophant, grand hiérophante
 def: Le grand prêtre des mystères d'Éleusis, « celui qui montre les choses sacrées » ; par extension, le maître qui révèle les secrets d'un culte ou préside à une initiation.
 texte: À [[eleusis|Éleusis]], la charge revenait à vie à un membre de la famille des Eumolpides, réputée descendre du roi Eumolpe, à qui Déméter elle-même aurait enseigné ses rites. La nuit de l'initiation, il apparaissait dans le Télestérion illuminé et montrait aux initiés les objets sacrés, d'une voix dont on vantait la beauté ; il devait abandonner son nom propre en prenant sa fonction.
 texte: Le mot désigne ensuite tout maître des [[mysteres-antiques|mystères]]. Dans les rituels de la [[golden-dawn|Golden Dawn]], le Hiérophante est l'officier qui préside la cérémonie d'admission ; [[arthur-edward-waite|Waite]] donne ce nom au cinquième arcane du tarot, [[arcane-pape|le Pape]], dans son jeu de 1909.
-voir: eleusis, mysteres-antiques, mystagogue, mystes-et-epoptes, arcane-pape, initiation
+voir: eleusis, mysteres-antiques, mystagogue, mystes-et-epoptes, arcane-pape, initiation, demeter
 
 @ mystagogue
 cat: notions
@@ -30,7 +30,7 @@ alias: myste, mystes, épopte, époptes, époptie, petits mystères, grands myst
 def: Les deux degrés des initiés d'Éleusis : le myste, admis aux mystères mais les yeux voilés, et l'épopte, « celui qui a vu », admis l'année suivante à la contemplation suprême.
 texte: Le candidat recevait au printemps une première purification, aux petits mystères d'Agra, près d'Athènes ; à l'automne, il entrait comme myste — le mot évoque les yeux ou la bouche fermés — dans le sanctuaire d'[[eleusis|Éleusis]]. Un an plus tard, il pouvait revenir pour l'époptie, la vision, dont la nature est restée secrète.
 texte: Les philosophes ont repris ce vocabulaire : chez Platon, l'âme qui s'élève jusqu'au Beau connaît une « époptie », et les néoplatoniciens parlent de la contemplation de l'Un comme d'une initiation. La distinction entre un premier degré qui purifie et un second qui illumine se retrouve dans bien des systèmes de [[grades-maconniques|grades]] modernes.
-voir: eleusis, hierophante, mystagogue, mysteres-antiques, initiation
+voir: eleusis, hierophante, mystagogue, mysteres-antiques, initiation, demeter
 
 @ neophyte
 cat: notions
@@ -126,7 +126,7 @@ alias: palingénésie des plantes, renaissance, régénération, Charles Bonnet,
 def: Renaissance ou régénération : celle du monde après sa destruction chez les stoïciens, de l'âme chez les chrétiens, et celle d'une plante recréée de ses cendres chez les alchimistes.
 texte: Les stoïciens appelaient ainsi le recommencement du monde après l'embrasement qui clôt chaque cycle ; le Nouveau Testament emploie le mot pour la régénération du baptême et le renouvellement final. Au XVIIe siècle, des alchimistes, [[athanasius-kircher|Kircher]] parmi eux, prétendent faire réapparaître dans une fiole la forme d'une rose à partir de ses cendres : la « palingénésie des plantes » devait prouver que la forme survit à la destruction de la matière.
 texte: Le naturaliste genevois Charles Bonnet publie en 1769 une *Palingénésie philosophique*, où les êtres vivants renaîtront à un état supérieur ; Pierre-Simon Ballanche, lecteur de [[louis-claude-de-saint-martin|Saint-Martin]], en fait une philosophie de l'histoire, l'humanité progressant par épreuves et expiations. Le mot se rapproche alors de la [[reincarnation]] et de la [[reintegration|réintégration]].
-voir: reincarnation, reintegration, cycles-cosmiques, transmutation
+voir: reincarnation, reintegration, cycles-cosmiques, transmutation, papillon
 
 @ apocatastase
 cat: notions
@@ -182,7 +182,7 @@ alias: nombril du monde, centre du monde, pierre de Delphes
 def: La pierre sacrée de Delphes, « nombril » de la Terre, et plus largement tout lieu tenu pour le centre du monde, où communiquent le ciel, la terre et le monde souterrain.
 texte: À [[delphes|Delphes]], une pierre conique couverte d'un réseau de bandelettes marquait le point où les deux aigles de Zeus s'étaient rejoints. Bien des cultures ont leur centre du monde : le rocher du Temple à Jérusalem, la Kaaba, le mont Meru de l'Inde, ou l'axe autour duquel tourne le monde.
 texte: L'historien des religions Mircea Eliade a fait du « symbolisme du centre » une clé de lecture des religions. [[rene-guenon|René Guénon]] voit dans l'omphalos le signe d'un centre spirituel primordial, dont *[[le-roi-du-monde|Le Roi du monde]]* poursuit la trace à travers les traditions. Le thème rejoint celui de l'[[arbre-cosmique|arbre cosmique]] et de la montagne sacrée.
-voir: delphes, arbre-cosmique, le-roi-du-monde, agartha, tradition-primordiale
+voir: delphes, arbre-cosmique, le-roi-du-monde, agartha, tradition-primordiale, axis-mundi
 
 # ── Psychologie des profondeurs et métapsychique ───────────────────────────
 
@@ -211,7 +211,7 @@ alias: guide des âmes, conducteur des âmes, Hermès psychopompe
 def: Le conducteur des âmes des morts vers l'au-delà, rôle que tiennent Hermès, Anubis, l'archange Michel ou les Walkyries, et, dans les rites chamaniques, le chaman lui-même.
 texte: En Grèce, [[hermes-trismegiste|Hermès]], messager des dieux, mène les ombres des défunts jusqu'au fleuve des Enfers ; en Égypte, Anubis, à tête de chacal, guide le mort et assiste à la pesée de son cœur. Le christianisme confie ce rôle à l'archange Michel, peseur des âmes, et les Walkyries de la mythologie nordique emportent les guerriers tombés vers le Valhalla.
 texte: Dans le [[chamanisme]], le chaman accompagne l'âme du défunt dans l'autre monde. [[carl-gustav-jung|Jung]] appelle psychopompe la figure intérieure, le vieux sage ou l'anima, qui guide le moi vers l'inconscient.
-voir: hermes-trismegiste, chamanisme, anges, carl-gustav-jung
+voir: hermes-trismegiste, chamanisme, anges, carl-gustav-jung, anubis, saint-michel
 
 @ extase
 cat: notions
@@ -278,7 +278,7 @@ alias: sol niger, Schwarze Sonne, soleil de la Mélancolie
 def: Image alchimique de la matière à l'œuvre au noir, reprise par la poésie de la mélancolie, puis devenue, sous la forme d'une roue à douze rayons, un emblème néonazi.
 texte: Dans l'[[alchimie]], le *sol niger* figure la [[nigredo]], la putréfaction par laquelle commence le [[grand-oeuvre|Grand Œuvre]] : la planche du *[[splendor-solis|Splendor Solis]]* montre un soleil noir se couchant sur un paysage désolé. [[gerard-de-nerval|Nerval]], dans « El Desdichado », célèbre « le Soleil noir de la Mélancolie », que reprendra la psychanalyste Julia Kristeva.
 texte: Le nom a été donné après la guerre à la roue à douze rayons en forme de croix gammées incrustée dans le pavement du château de [[wewelsburg|Wewelsburg]], par des cercles ésotériques néonazis, puis par un roman à succès de 1991. Le symbole, qui n'avait sans doute pas ce nom pour la SS, est devenu un signe de ralliement de l'extrême droite.
-voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie, melencolia
+voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie, melencolia, roue-solaire
 
 @ abraxas
 cat: symboles
@@ -287,7 +287,7 @@ alias: Abrasax, pierres d'Abraxas, anguipède
 def: Nom divin des gnostiques basilidiens et de la magie antique, dont les lettres grecques valent 365, gravé sur des pierres où figure un dieu à tête de coq et aux jambes de serpents.
 texte: Selon Irénée de Lyon, les disciples de [[basilide|Basilide]] nommaient Abraxas le chef des trois cent soixante-cinq cieux : par l'[[isopsephie|isopsephie]], les lettres de son nom donnent ce total, celui des jours de l'année. Le nom se retrouve dans les [[papyrus-grecs-magiques|papyrus magiques grecs]] et sur des milliers de gemmes gravées de l'Empire romain, portées en [[amulette|amulettes]], où un dieu cuirassé à tête de coq, aux jambes de serpents, brandit un fouet et un bouclier.
 texte: Les antiquaires de la Renaissance ont baptisé « abraxas » toutes ces pierres. [[carl-gustav-jung|Jung]], dans ses *Sept Sermons aux morts*, et Hermann Hesse, dans *Demian* (1919), ont fait d'Abraxas le dieu qui unit le bien et le mal.
-voir: basilide, gnose, isopsephie, amulette, papyrus-grecs-magiques
+voir: basilide, gnose, isopsephie, amulette, papyrus-grecs-magiques, coq
 
 # ── Sociétés ────────────────────────────────────────────────────────────────
 
@@ -298,11 +298,12 @@ alias: Prieuré de Sion, grands maîtres du prieuré, mérovingiens
 def: Association fondée en 1956 par Pierre Plantard, présentée ensuite par de faux documents comme un ordre secret millénaire gardien de la descendance des Mérovingiens et du Christ.
 texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent en Haute-Savoie les statuts d'une modeste association de ce nom, qui publie un bulletin local. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, [[leonard-de-vinci|Léonard de Vinci]], Isaac Newton, Victor Hugo, Claude Debussy ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
 texte: *L'Énigme sacrée* (1982) y ajoute une descendance de Jésus et de Marie-Madeleine, et le *Da Vinci Code* (2003) présente l'existence du prieuré comme un fait. Plantard reconnut lui-même en 1993, sous serment, avoir tout inventé ; les historiens ont démonté la supercherie pièce par pièce. Le prieuré reste l'exemple type d'une société secrète imaginaire devenue un mythe mondial.
+texte: Les faussaires ont puisé partout : dans l'histoire réelle des chanoines du Mont-Sion de Jérusalem installés par [[godefroy-de-bouillon|Godefroy de Bouillon]], dans la légende des moines calabrais d'[[orval|Orval]], dans le souvenir de [[dagobert-ii|Dagobert II]] à [[stenay|Stenay]] et des [[merovingiens|Mérovingiens]], dans les idées de Paul Le Cour et du [[hieron-du-val-d-or|Hiéron du Val d'Or]]. Les [[parchemins-de-rennes-le-chateau|parchemins de Rennes-le-Château]] et *[[l-enigme-sacree|L'Énigme sacrée]]* ont achevé la construction.
 repere: 1956 — Pierre Plantard dépose les statuts de l'association.
 repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale.
 repere: 1982 — *L'Énigme sacrée* en fait le gardien d'une descendance du Christ.
 repere: 1993 — Plantard reconnaît la supercherie sous serment.
-voir: pierre-plantard, dossiers-secrets, rennes-le-chateau, gerard-de-sede, templiers, rene-d-anjou, sandro-botticelli, les-bergers-d-arcadie
+voir: pierre-plantard, dossiers-secrets, rennes-le-chateau, gerard-de-sede, templiers, rene-d-anjou, sandro-botticelli, les-bergers-d-arcadie, godefroy-de-bouillon, orval, stenay, dagobert-ii, merovingiens, l-enigme-sacree, da-vinci-code, saint-sulpice
 
 @ ahnenerbe
 cat: societes
@@ -315,7 +316,7 @@ repere: 1935 — Fondation par Himmler, Herman Wirth et Walther Darré.
 repere: 1938 — Expédition d'Ernst Schäfer au Tibet.
 repere: 1943 — Assassinat à Natzweiler-Struthof des déportés destinés à la collection de squelettes de Strasbourg.
 repere: 1948 — Exécution de Wolfram Sievers.
-voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn, heinrich-himmler
+voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn, heinrich-himmler, atlantide
 
 # ── Textes ──────────────────────────────────────────────────────────────────
 
@@ -347,7 +348,7 @@ an: 1205
 def: Roman en vers de Wolfram von Eschenbach, composé vers 1200-1210, où le Graal est une pierre merveilleuse gardée par des chevaliers dans le château de Munsalvaesche.
 texte: Le poème raconte l'histoire du père du héros, Gahmuret, puis celle de Parzival, jeune homme naïf élevé loin du monde, qui échoue d'abord à poser au roi Anfortas, blessé et souffrant, la question qui le guérirait, avant de devenir, après une longue errance, roi du [[graal|Graal]]. Son demi-frère païen, Feirefiz, né d'une reine d'Orient, reçoit le baptême à la fin du récit.
 texte: Le Graal y est une pierre, *lapsit exillis*, qui procure nourriture et jeunesse et sur laquelle une inscription désigne ses serviteurs ; ses gardiens, les *templeisen*, rappellent les [[templiers]]. [[richard-wagner|Wagner]] en tire *Parsifal* (1882). [[otto-rahn|Otto Rahn]] y lit une histoire codée des cathares, et les traditionalistes un symbole du centre spirituel caché.
-voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers, kyot, lohengrin, perceval, pretre-jean
+voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers, kyot, lohengrin, perceval, pretre-jean, colombe
 
 @ conte-du-graal
 cat: textes
@@ -367,7 +368,7 @@ an: 1927
 def: Livre de René Guénon paru en 1927 sur l'existence, attestée selon lui par toutes les traditions, d'un centre spirituel suprême et caché, gouverné par un chef à la fois roi et prêtre.
 texte: [[rene-guenon|Guénon]] part des récits de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]] et du voyageur polonais Ferdynand Ossendowski sur un royaume souterrain d'Asie centrale, l'[[agartha|Agarttha]], qu'il refuse de prendre à la lettre. Il y voit l'image d'un centre spirituel réel mais non localisable, gardien de la [[tradition-primordiale|tradition primordiale]], dont le chef, le « roi du monde », serait figuré dans la Bible par Melchisédech, à la fois roi et prêtre.
 texte: Il rapproche ce centre de bien des symboles : l'[[omphalos]], la montagne polaire, le [[graal|Graal]], l'île primordiale. Le livre, l'un des plus lus de Guénon, a nourri à la fois la réflexion traditionaliste sur les centres spirituels et une abondante littérature sur les souterrains mystérieux et les maîtres cachés.
-voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos, pretre-jean
+voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos, pretre-jean, axis-mundi
 
 @ les-demeures-philosophales
 cat: textes
@@ -391,4 +392,4 @@ an: 1967
 def: Ensemble de documents dactylographiés déposés à la Bibliothèque nationale dans les années 1960 sous des noms d'emprunt par Pierre Plantard et ses amis, pour donner corps au mythe du prieuré de Sion.
 texte: Ces brochures, attribuées à un « Henri Lobineau » et à d'autres auteurs imaginaires, contiennent des généalogies faisant descendre [[pierre-plantard|Pierre Plantard]] du roi mérovingien Dagobert II, des listes de grands maîtres du [[prieure-de-sion|prieuré de Sion]], des coupures de presse, les « parchemins » attribués à l'abbé [[berenger-sauniere|Saunière]] et un poème en prose, *Le Serpent rouge*. Leur dépôt légal leur donnait l'apparence de sources officielles.
 texte: Repris par [[gerard-de-sede|Gérard de Sède]], puis par les auteurs de *L'Énigme sacrée*, ils sont à l'origine de tout le mythe moderne de [[rennes-le-chateau|Rennes-le-Château]]. Philippe de Chérisey a reconnu avoir fabriqué les parchemins, et Plantard lui-même a avoué la supercherie. Ils restent consultables à la Bibliothèque nationale de France, témoins d'une des mystifications les plus réussies du XXe siècle.
-voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede, rene-d-anjou, les-bergers-d-arcadie
+voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede, rene-d-anjou, les-bergers-d-arcadie, dagobert-ii, merovingiens, stenay, orval, l-enigme-sacree, parchemins-de-rennes-le-chateau

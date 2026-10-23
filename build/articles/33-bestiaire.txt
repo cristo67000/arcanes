@@ -1,0 +1,510 @@
+# Animaux fantastiques et symboliques : le bestiaire de l'ésotérisme, des
+# monstres de la mythologie aux animaux des bestiaires, des blasons et de
+# l'alchimie. La licorne, l'hippogriffe, le dragon et le basilic sont dans
+# 27-symboles-legendes.txt.
+
+@ bestiaire
+cat: bestiaire
+nom: Bestiaire
+alias: bestiaires, bestiaire médiéval, zoologie fantastique, animaux symboliques, Philippe de Thaon, Bestiaire d'amour
+def: Livre qui décrit les animaux, réels ou fabuleux, pour en tirer un sens moral et religieux ; le genre, né du *Physiologus*, a fixé pour des siècles le symbolisme des bêtes.
+texte: L'Antiquité a laissé deux sources : l'*Histoire naturelle* de [[pline-l-ancien|Pline l'Ancien]], qui mêle observations et récits de voyageurs, et le *[[physiologus|Physiologus]]*, petit livre grec d'Alexandrie où chaque animal est une leçon chrétienne. Isidore de Séville en tire au VIIe siècle le livre XII de ses *Étymologies*. Les bestiaires latins enluminés se multiplient en Angleterre aux XIIe et XIIIe siècles, comme celui d'Aberdeen ; Philippe de Thaon écrit vers 1125 le premier en français, suivi de Pierre de Beauvais et de Guillaume le Clerc. Au XIIIe siècle, Richard de Fournival en fait un *Bestiaire d'amour*, où chaque bête parle du désir.
+texte: Le lion qui dort les yeux ouverts, le [[pelican|pélican]] qui ranime ses petits de son sang, la [[licorne]] qui se couche dans le giron d'une vierge, le [[phenix|phénix]] qui renaît : ces récits sont passés dans la sculpture des églises, les vitraux, l'héraldique et les [[emblemes|emblèmes]]. Les naturalistes de la Renaissance, Conrad Gessner ou Ulisse Aldrovandi, les ont recueillis tout en les critiquant ; l'[[alchimie]] a donné aux animaux un autre sens, le [[lion-vert|lion vert]], l'aigle, le corbeau ou le crapaud figurant des opérations de l'œuvre. L'historien Michel Pastoureau a fait de ce bestiaire symbolique un objet d'histoire.
+voir: physiologus, pline-l-ancien, licorne, pelican, phenix, basilic, emblemes, dragon
+
+@ griffon
+cat: bestiaire
+nom: Griffon
+alias: griffons, gryphon, gryps, griffon gardien de l'or, Arimaspes
+def: Animal fabuleux au corps de lion, à la tête et aux ailes d'aigle, gardien de l'or chez les Grecs, devenu au Moyen Âge l'image de la double nature du Christ.
+texte: Les Grecs le plaçaient aux confins du monde, en Scythie, où il défendait l'or contre les Arimaspes, peuple de cyclopes cavaliers : Hérodote rapporte la légende sans y croire. On le voit dès l'âge du bronze, peint à côté du trône du palais de Cnossos, et sur les objets des Scythes. Pline le tient pour une fable. La légende d'Alexandre le fait monter au ciel dans une nacelle tirée par des griffons, scène sculptée sur bien des églises.
+texte: Roi des oiseaux et roi des quadrupèdes, il réunit le ciel et la terre : chez [[dante|Dante]], au sommet du Purgatoire, un griffon tire le char de l'Église, figure du Christ à la fois Dieu et homme. Il est un meuble courant des blasons, et père de l'[[hippogriffe]] de l'Arioste. [[gustave-flaubert|Flaubert]] le fait paraître dans *La Tentation de saint Antoine*, maître des trésors cachés.
+extrait: lion à bec de vautour avec des ailes blanches, les pattes rouges et le cou bleu. ¶ Je suis le maître des splendeurs profondes. Je connais le secret des tombeaux où dorment les vieux rois. ¶ Une chaîne, qui sort du mur, leur tient la tête droite. Près d’eux, dans des bassins de porphyre, des femmes qu’ils ont aimées flottent sur des liquides noirs. Leurs trésors sont rangés dans des salles, par losanges, par monticules, par pyramides ; — et plus bas, bien au-dessous des tombeaux, après de longs voyages au milieu des ténèbres étouffantes, il y a des fleuves d’or avec des forêts de diamant, des prairies d’escarboucles, des lacs de mercure.
+source: Gustave Flaubert, *La Tentation de saint Antoine*, 1874, chap. VII (le griffon parle), éd. Louis Conard, 1910 | ws La Tentation de saint Antoine – Éd. L. Conard (1910)/La Tentation de saint Antoine/VII
+voir: hippogriffe, aigle, lion-symbole, sphinx, chimere, divine-comedie
+
+@ chimere
+cat: bestiaire
+nom: Chimère
+alias: Chimaira, chimère d'Arezzo, chimères de Notre-Dame, Bellérophon
+def: Monstre grec crachant le feu, lion par-devant, chèvre au milieu et serpent par-derrière, tué par Bellérophon monté sur Pégase ; son nom désigne depuis tout rêve impossible.
+texte: L'*Iliade* la décrit déjà : « lion par-devant, serpent par-derrière, chèvre au milieu, soufflant la flamme ». Fille de Typhon et d'Échidna, elle ravageait la Lycie jusqu'à ce que Bellérophon, monté sur [[pegase|Pégase]], la perce de ses flèches, ou lui enfonce dans la gueule une lance garnie de plomb que son haleine fit fondre. La Chimère d'Arezzo, bronze étrusque découvert en 1553 et conservé à Florence, en est l'image la plus célèbre.
+texte: Le mot est devenu un nom commun pour toute créature composite et, au figuré, pour l'illusion. Les « chimères » de la galerie haute de [[notre-dame-de-paris|Notre-Dame de Paris]], que l'on confond avec les [[gargouille|gargouilles]], ne sont pas médiévales : elles ont été sculptées au XIXe siècle sur les dessins de Viollet-le-Duc. [[gustave-flaubert|Flaubert]] oppose la Chimère, fantaisie ailée qui pousse aux grandes entreprises, au [[sphinx]] immobile qui garde son secret.
+extrait: Je galope dans les corridors du labyrinthe, je plane sur les monts, je rase les flots, je jappe au fond des précipices, je m’accroche par la gueule au pan des nuées ; avec ma queue traînante, je raye les plages, et les collines ont pris leur courbe selon la forme de mes épaules. Mais toi, je te retrouve perpétuellement immobile, ou bien du bout de ta griffe dessinant des alphabets sur le sable. ¶ Moi, je suis légère et joyeuse ! Je découvre aux hommes des perspectives éblouissantes avec des paradis dans les nuages et des félicités lointaines. Je leur verse à l’âme les éternelles démences, projets de bonheur, plans d’avenir, rêves de gloire, et les serments d’amour et les résolutions vertueuses. ¶ Je pousse aux périlleux voyages et aux grandes entreprises. J’ai ciselé avec mes pattes les merveilles des architectures. C’est moi qui ai suspendu les clochettes au tombeau de Porsenna, et entouré d’un mur d’orichalque les quais de l’Atlantide.
+source: Gustave Flaubert, *La Tentation de saint Antoine*, 1874, chap. VII (la Chimère parle), éd. Louis Conard, 1910 | ws La Tentation de saint Antoine – Éd. L. Conard (1910)/La Tentation de saint Antoine/VII
+voir: sphinx, pegase, gargouille, griffon, notre-dame-de-paris, dragon
+
+@ sirene
+cat: bestiaire
+nom: Sirène
+alias: sirènes, femme-poisson, ondine, sirène à deux queues, Lorelei, Ulysse et les sirènes
+def: Créature mi-femme mi-oiseau chez les Grecs, devenue au Moyen Âge mi-femme mi-poisson, dont le chant attire les marins à leur perte ; image de la séduction et de l'âme tentée.
+texte: Dans l'*Odyssée*, les sirènes chantent sur leur île au milieu des ossements ; Ulysse se fait attacher au mât et bouche de cire les oreilles de ses compagnons. Les vases grecs les montrent en oiseaux à tête de femme. À partir du VIIIe siècle, le *Livre des monstres* et les bestiaires leur donnent une queue de poisson : la sirène des chapiteaux romans, souvent bifide, tenant ses deux queues écartées, figure la luxure qui noie l'âme.
+texte: Elle rejoint ainsi [[melusine|Mélusine]], la fée à queue de serpent, et les ondines que [[paracelse|Paracelse]] range parmi les [[elementaux|esprits des éléments]]. La Lorelei du Rhin, chantée par Heine en 1824, et *La Petite Sirène* d'Andersen (1837) lui ont donné ses traits modernes. Une sirène à deux queues est sculptée dans le bois sacré de [[bomarzo|Bomarzo]].
+voir: melusine, elementaux, bomarzo, poisson, harpie
+
+@ centaure
+cat: bestiaire
+nom: Centaure
+alias: centaures, Chiron, Nessos, centauromachie, sagittaire
+def: Être mi-homme mi-cheval de la mythologie grecque, brutal comme les centaures du combat des Lapithes ou sage comme Chiron, maître d'Asclépios et d'Achille, devenu la constellation du Sagittaire.
+texte: Les centaures, nés d'Ixion et d'une nuée, vivent en Thessalie ; invités aux noces du roi des Lapithes, ils s'enivrent et tentent d'enlever les femmes : leur combat, la centauromachie, orne le Parthénon. Le centaure Nessos, tué par Héraclès, lui donne pour se venger la tunique empoisonnée qui le fera mourir. Chiron, au contraire, immortel, savant en médecine, en musique et en astronomie, élève Asclépios, Jason et Achille ; blessé par une flèche empoisonnée, il renonce à son immortalité.
+texte: Les Grecs ont placé au ciel un centaure archer, le [[sagittaire|Sagittaire]], et la constellation du Centaure. [[dante|Dante]] fait garder par des centaures le fleuve de sang où sont plongés les violents. L'astrologie moderne a donné le nom de Chiron à un petit corps découvert en 1977 entre Saturne et Uranus, devenu pour certains astrologues le « guérisseur blessé ». Le centaure est resté l'image de la double nature, animale et spirituelle, de l'homme.
+voir: sagittaire, minotaure, divine-comedie, constellation, astrologie
+
+@ minotaure
+cat: bestiaire
+nom: Minotaure
+alias: Astérion, Thésée, Ariane, fil d'Ariane, Dédale, taureau de Minos
+def: Monstre crétois à corps d'homme et tête de taureau, enfermé par le roi Minos dans le labyrinthe de Dédale et tué par Thésée grâce au fil d'Ariane.
+texte: Poséidon avait envoyé à Minos un taureau magnifique, que le roi refusa de sacrifier ; le dieu inspira à la reine Pasiphaé une passion pour l'animal, et de leur union naquit Astérion, le Minotaure. Dédale construisit pour l'enfermer le [[labyrinthe]], d'où nul ne sortait ; Athènes devait lui livrer tous les neuf ans sept jeunes gens et sept jeunes filles. Thésée, guidé par le fil que lui donna Ariane, fille de Minos, tua le monstre et retrouva la sortie.
+texte: Le mythe garde peut-être le souvenir des jeux taurins de la Crète minoenne et du palais de Cnossos, avec ses couloirs innombrables. Le Moyen Âge christianise l'histoire : Thésée devient une figure du Christ qui descend aux enfers ; certains labyrinthes d'églises portaient en leur centre l'image du combat. Le [[taureau-symbole|taureau]] et le labyrinthe ont fait du Minotaure l'emblème de la part sauvage et cachée de l'homme, de Plutarque à Picasso.
+voir: labyrinthe, taureau-symbole, cathedrale-de-chartres, centaure, initiation
+
+@ hydre
+cat: bestiaire
+nom: Hydre de Lerne
+alias: hydre, Hydra, Héraclès et l'hydre, serpent à sept têtes
+def: Serpent monstrueux aux têtes multiples, dont chacune repoussait en double quand on la coupait, tué par Héraclès dans les marais de Lerne lors de son deuxième travail.
+texte: Fille de Typhon et d'Échidna, comme la [[chimere|Chimère]] et [[cerbere|Cerbère]], l'hydre vivait dans un marais près d'Argos ; son haleine tuait. Héraclès, aidé de son neveu Iolaos qui brûlait chaque cou tranché au tison, finit par l'abattre et enterra sous un rocher la tête immortelle. Il trempa ses flèches dans son sang, poison sans remède qui devait le tuer à son tour par la tunique de Nessos.
+texte: Les auteurs chrétiens ont rapproché l'hydre du [[dragon]] à sept têtes de l'Apocalypse ; l'image d'un mal qui renaît plus fort de chaque coup est devenue proverbiale. Les alchimistes ont lu dans ses têtes renaissantes la matière qu'il faut sans cesse purifier. Le ciel a sa constellation de l'Hydre, la plus longue de toutes.
+voir: dragon, serpent, chimere, cerbere, constellation
+
+@ pegase
+cat: bestiaire
+nom: Pégase
+alias: cheval ailé, Hippocrène, Bellérophon, sceau de l'Inner Temple
+def: Cheval ailé né du sang de la gorgone Méduse, monture de Bellérophon contre la Chimère, qui fit jaillir d'un coup de sabot la source des Muses ; symbole de l'inspiration poétique.
+texte: Quand Persée trancha la tête de [[gorgone|Méduse]], Pégase s'élança de son cou. Bellérophon le dompta avec une bride d'or donnée par Athéna et tua sur son dos la [[chimere|Chimère]] ; mais quand le héros voulut monter jusqu'à l'Olympe, Zeus envoya un taon qui piqua le cheval et le précipita à terre. Pégase devint la constellation qui porte son nom, avec son grand carré d'étoiles. D'un coup de sabot sur l'Hélicon, il avait fait jaillir la source Hippocrène, où les poètes viennent boire.
+texte: Il est devenu l'emblème de l'inspiration et de la renommée. L'Inner Temple de Londres, l'une des corporations d'avocats installées sur l'ancien domaine des [[templiers]], a pour emblème un Pégase : on a supposé qu'il venait d'une lecture fautive du sceau de l'Ordre, où deux chevaliers chevauchent un même cheval. L'Arioste lui a donné un descendant, l'[[hippogriffe]].
+voir: gorgone, chimere, hippogriffe, templiers, constellation
+
+@ cerbere
+cat: bestiaire
+nom: Cerbère
+alias: Kerbéros, chien des enfers, chien à trois têtes, gâteau de miel
+def: Chien à trois têtes et à queue de serpent qui garde l'entrée des enfers grecs, empêchant les morts d'en sortir ; Héraclès le ramena enchaîné et Orphée l'endormit de son chant.
+texte: Frère de l'[[hydre]] et de la [[chimere|Chimère]], Cerbère accueille les ombres en remuant la queue et dévore celles qui veulent repartir. Le douzième travail d'Héraclès consiste à le tirer à la lumière, sans armes ; [[orphee|Orphée]] l'apaise par sa lyre, et la Sibylle de Cumes, chez Virgile, l'endort pour Énée d'un gâteau de miel et de pavot, d'où l'expression « donner un gâteau à Cerbère ». Sa bave, tombée sur la terre, aurait fait naître l'aconit.
+texte: [[dante|Dante]] le place au troisième cercle de l'Enfer, où il déchire les gourmands sous une pluie glacée. Il est le pendant grec d'[[anubis|Anubis]], gardien des morts à figure de [[chien]], et le modèle de tous les chiens infernaux des légendes.
+voir: chien, anubis, orphee, antre-de-la-sibylle, hydre, divine-comedie
+
+@ manticore
+cat: bestiaire
+nom: Manticore
+alias: martichoras, mantichore, mangeur d'hommes, Ctésias
+def: Bête fabuleuse de l'Inde, à corps de lion rouge, visage humain, triple rangée de dents et queue de scorpion lançant des dards, décrite par Ctésias et transmise par Pline aux bestiaires.
+texte: Le médecin grec Ctésias, qui vécut à la cour de Perse vers 400 avant notre ère, la décrit le premier ; son nom vient d'un mot perse signifiant « mangeur d'hommes », et l'on y a vu un tigre grossi par la peur des voyageurs. Aristote doute de son existence, [[pline-l-ancien|Pline]] la recopie : voix de flûte et de trompette, goût de la chair humaine. Les bestiaires médiévaux la reprennent comme figure du démon.
+texte: [[gustave-flaubert|Flaubert]] la fait défiler, sous son nom grec de martichoras, parmi les monstres de *La Tentation de saint Antoine*.
+extrait: gigantesque lion rouge, à figure humaine, avec trois rangées de dents. ¶ Les moires de mon pelage écarlate se mêlent au miroitement des grands sables. Je souffle par mes narines l’épouvante des solitudes. Je crache la peste. Je mange les armées, quand elles s’aventurent dans le désert. ¶ Mes ongles sont tordus en vrilles, mes dents sont taillées en scie ; et ma queue, qui se contourne, est hérissée de dards que je lance à droite, à gauche, en avant, en arrière. — Tiens ! tiens !
+source: Gustave Flaubert, *La Tentation de saint Antoine*, 1874, chap. VII (le martichoras parle), éd. Louis Conard, 1910 | ws La Tentation de saint Antoine – Éd. L. Conard (1910)/La Tentation de saint Antoine/VII
+voir: pline-l-ancien, lion-symbole, sphinx, griffon, bestiaire
+
+@ salamandre
+cat: bestiaire
+nom: Salamandre
+alias: salamandres, esprit du feu, Nutrisco et extinguo, laine de salamandre
+def: Petit amphibien que l'Antiquité croyait capable de vivre dans le feu et de l'éteindre ; Paracelse en fit l'esprit élémentaire du feu et François Ier son emblème.
+texte: Aristote rapporte qu'elle éteint le feu en le traversant ; [[pline-l-ancien|Pline]] la dit si froide qu'elle l'éteint par son seul contact, et saint Augustin l'invoque pour montrer que des corps peuvent vivre dans les flammes. Au Moyen Âge, on vendait de la « laine de salamandre » qui ne brûlait pas : Marco Polo explique que c'est un minéral, l'amiante. Le roi François Ier prit pour emblème une salamandre dans les flammes, avec la devise *Nutrisco et extinguo*, « je m'en nourris et je l'éteins », qu'on voit sculptée à Chambord et à Fontainebleau.
+texte: [[paracelse|Paracelse]], dans son *Livre des nymphes, des sylphes, des pygmées et des salamandres*, fait des salamandres les esprits du feu, parmi les [[elementaux|élémentaux]] ; le *[[le-comte-de-gabalis|Comte de Gabalis]]* (1670) popularise cette doctrine en France. Les alchimistes figurent par la salamandre la matière fixe qui résiste au feu de l'œuvre.
+voir: elementaux, paracelse, le-comte-de-gabalis, quatre-elements, pline-l-ancien
+
+@ vouivre
+cat: bestiaire
+nom: Vouivre
+alias: vouivres, guivre, wivre, escarboucle de la vouivre, biscione
+def: Serpent ailé des légendes de Franche-Comté et de Bourgogne, qui porte au front une escarboucle et la dépose pour se baigner ; qui la lui vole devient riche, s'il échappe à sa fureur.
+texte: Le mot vient du latin *vipera*. La vouivre des contes comtois est une serpente de feu ou une jeune femme, parfois les deux, qui hante les rivières et les ruines ; l'escarboucle, gemme lumineuse qui lui sert d'œil, est l'objet de toutes les convoitises. Elle tient de [[melusine|Mélusine]], la fée-serpente des Lusignan, et du [[dragon]]. L'héraldique a sa « guivre », le serpent dévorant un enfant des Visconti de [[milan|Milan]]. Marcel Aymé en a fait l'héroïne d'un roman en 1943.
+texte: Au XXe siècle, des auteurs de [[geobiologie|géobiologie]] ont appelé « vouivres » les [[courants-telluriques|courants telluriques]] supposés parcourir le sol sous les sanctuaires, à la manière des « chemins du dragon » des [[lignes-ley|lignes ley]] ; ni ces courants ni leurs effets n'ont été mis en évidence.
+voir: dragon, melusine, serpent, courants-telluriques, lignes-ley, escarboucle
+
+@ tarasque
+cat: bestiaire
+nom: Tarasque
+alias: Tarascon, fête de la Tarasque, sainte Marthe et la Tarasque, Nerluc
+def: Dragon des bords du Rhône que la Légende dorée dit dompté par sainte Marthe ; la ville de Tarascon le promène en procession depuis que le roi René en a institué la fête en 1474.
+texte: La *[[legende-doree|Légende dorée]]* raconte qu'à l'arrivée en Provence des amis du Christ, [[marie-madeleine|Marie-Madeleine]], Lazare et leur sœur Marthe, un monstre ravageait la forêt entre Avignon et Arles. Marthe le maîtrisa avec de l'eau bénite et une croix et le mena, tenu par sa ceinture, au village, qui prit son nom de Tarascon. La bête aurait eu pour père le [[leviathan|Léviathan]].
+texte: En 1474, [[rene-d-anjou|le roi René]] institua des jeux de la Tarasque : une machine de bois et de toile, à la gueule fumante et à la queue redoutable, parcourt encore les rues en juin, portée par les « tarascaires ». Les géants et dragons processionnels de Belgique et de France, dont la Tarasque, sont inscrits depuis 2005 au patrimoine culturel immatériel de l'humanité. Alphonse Daudet a rendu célèbre le Tarasconnais Tartarin.
+extrait: Or il y avait à ce moment sur les bords du Rhône, dans une forêt sise entre Avignon et Arles, un dragon, mi-animal, mi-poisson, plus gros qu’un bœuf, plus long qu’un cheval, avec des dents aiguës comme des cornes, et de grandes ailes aux deux côtés du corps ; et ce monstre tuait tous les passagers et submergeait les bateaux. Il était venu par mer de la Galatie ; il avait pour parents le Léviathan, monstre à forme de serpent, qui habite les eaux, et l’Onagre, animal terrible que produit la Galatie, et qui brûle comme avec du feu tout ce qu’il touche. Or sainte Marthe, sur la prière du peuple, alla vers le dragon. L’ayant trouvé dans sa forêt, occupé à dévorer un homme, elle lui jeta de l’eau bénite, et lui montra une croix. Aussitôt le monstre, vaincu, se rangea comme un mouton près de la sainte, qui lui passa sa ceinture autour du cou et le conduisit au village voisin, où aussitôt le peuple le tua à coups de pierres et de lances. Et comme ce dragon était connu des habitants sous le nom de Tarasque, ce lieu, en souvenir de lui, prit le nom de Tarascon : il s’appelait jusque-là Nerluc, c’est-à-dire noir lac, à cause des sombres forêts qui y bordaient le fleuve.
+source: Jacques de Voragine, *La Légende dorée*, « Sainte Marthe », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Sainte Marthe
+voir: dragon, leviathan, marie-madeleine, rene-d-anjou, legende-doree, saintes-maries-de-la-mer
+
+@ gargouille
+cat: bestiaire
+nom: Gargouille
+alias: gargouilles, la Gargouille de Rouen, saint Romain, privilège de saint Romain
+def: Gouttière de pierre sculptée en monstre qui rejette l'eau des toits des églises gothiques ; c'est aussi le dragon que saint Romain aurait vaincu à Rouen au VIIe siècle.
+texte: Le mot est de la famille de « gorge » et de « gargouiller ». À partir du XIIIe siècle, l'[[art-gothique|art gothique]] multiplie ces conduits qui écartent l'eau des murs, sculptés en chiens, en lions, en démons ou en hommes grimaçants. On les a lues comme des démons chassés hors de l'église, comme des gardiens ou comme une simple fantaisie de tailleurs de pierre. Les statues sans fonction d'écoulement s'appellent plutôt des « chimères ».
+texte: À [[rouen|Rouen]], la Gargouille était un dragon des marais de la Seine que l'évêque saint Romain soumit avec l'aide d'un condamné à mort, seul volontaire pour l'accompagner. En souvenir, le chapitre de la cathédrale pouvait chaque année, à l'Ascension, gracier un prisonnier : ce « privilège de saint Romain » dura jusqu'à la Révolution. [[fulcanelli|Fulcanelli]] a cherché dans les gargouilles et les chimères des cathédrales le langage chiffré des alchimistes.
+voir: chimere, dragon, art-gothique, rouen, notre-dame-de-paris, mystere-des-cathedrales
+
+@ leviathan
+cat: bestiaire
+nom: Léviathan
+alias: Lotan, monstre marin, Léviathan de Hobbes, démon Léviathan
+def: Monstre marin de la Bible, serpent tortueux et dragon des eaux que Dieu vaincra ; la démonologie en a fait un démon et Hobbes l'image de l'État.
+texte: Le Léviathan vient des mythes du Proche-Orient : les tablettes d'Ougarit nomment Lotan, le serpent à sept têtes vaincu par Baal. La Bible l'évoque dans le livre de Job, qui le décrit longuement, dans les Psaumes, où Dieu « brise les têtes du Léviathan », et chez Isaïe, qui annonce la mort du « serpent tortueux ». La tradition juive en fait, avec [[behemoth|Béhémoth]] et l'oiseau Ziz, l'un des trois monstres dont la chair sera servie au banquet des justes.
+texte: Les démonologues l'ont rangé parmi les démons ; il fut l'un de ceux que l'on exorcisa des ursulines de Loudun en 1634. La *[[legende-doree|Légende dorée]]* donne pour père à la [[tarasque|Tarasque]] le « Léviathan, monstre à forme de serpent ». En 1651, Thomas Hobbes intitule *Léviathan* son traité de l'État, ce géant fait de tous les citoyens. La traduction de Louis Segond, dans Job, rend son nom par « crocodile ».
+extrait: Ses éternuements font briller la lumière ; ses yeux sont comme les paupières de l’aurore. ¶ Des flammes jaillissent de sa bouche, des étincelles de feu s’en échappent. ¶ Une fumée sort de ses narines, comme d’un vase qui bout, d’une chaudière ardente. ¶ Son souffle allume les charbons, sa gueule lance la flamme. ¶ La force a son cou pour demeure, et l’effroi bondit au-devant de lui. ¶ Ses parties charnues tiennent ensemble, fondues sur lui, inébranlables. ¶ Son cœur est dur comme la pierre, dur comme la meule inférieure. ¶ Quand il se lève, les plus vaillants ont peur, et l’épouvante les fait fuir.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Job, chap. XLI, versets 9-16 (le léviathan, que Segond traduit « crocodile ») | ws Bible Segond 1910/Job
+voir: behemoth, dragon, apophis, tarasque, demonologie, serpent
+
+@ behemoth
+cat: bestiaire
+nom: Béhémoth
+alias: Behemoth, Béhémot, hippopotame de Job, démon de la gourmandise
+def: Bête colossale du livre de Job, « la première des œuvres de Dieu », pendant terrestre du Léviathan marin ; les démonologues en ont fait le démon de la gourmandise.
+texte: Dans Job, Dieu montre à l'homme Béhémoth, qui « mange l'herbe comme le bœuf », dont la force est dans ses reins et dont la queue se dresse comme un cèdre ; les traducteurs y ont vu l'hippopotame, l'éléphant ou une bête mythique. La tradition rabbinique le réserve, avec le [[leviathan|Léviathan]], au festin de la fin des temps.
+texte: Les démonologues du XVIe au XIXe siècle, jusqu'au *Dictionnaire infernal* de Collin de Plancy, le décrivent en démon lourd et stupide, présidant à la gourmandise, à tête d'éléphant. Mikhaïl Boulgakov a donné son nom au chat géant et facétieux de *Maître et Marguerite*.
+voir: leviathan, demonologie, elephant, chat
+
+@ loup-garou
+cat: bestiaire
+nom: Loup-garou
+alias: loups-garous, lycanthrope, lycanthropie, Bisclavret, bête du Gévaudan
+def: Homme changé en loup, par malédiction ou par pacte, qui court la nuit et dévore ; les procès de sorcellerie en ont condamné, les médecins y ont vu une maladie de l'esprit.
+texte: Pétrone raconte au Ier siècle l'histoire d'un soldat qui se dévêt au clair de lune, urine autour de ses habits et devient loup ; Marie de France chante au XIIe siècle le *Bisclavret*, baron breton loup-garou malgré lui. À la fin du XVIe siècle, la lycanthropie entre dans les tribunaux : Gilles Garnier est brûlé à Dole en 1573, Peter Stumpp exécuté près de Cologne en 1589, et l'on juge à Angers en 1598 un mendiant, Jacques Roulet, qui s'accusait d'avoir couru en loup.
+texte: [[jean-bodin|Jean Bodin]] croit à la métamorphose réelle par le diable ; [[jean-wier|Jean Wier]] y voit une illusion ou une maladie, la mélancolie qui fait se croire loup. La bête du Gévaudan, qui tua une centaine de personnes de 1764 à 1767, ranima la peur des loups-garous. La pleine lune et la balle d'argent viennent surtout du cinéma du XXe siècle.
+voir: loup, jean-bodin, jean-wier, chasse-aux-sorcieres, sorcellerie, lune
+
+@ simurgh
+cat: bestiaire
+nom: Simurgh
+alias: Simorgh, Sîmorgh, La Conférence des oiseaux, Attar, oiseau de la sagesse
+def: Oiseau immense et sage de la mythologie persane ; dans *La Conférence des oiseaux* d'Attar, les trente oiseaux qui le cherchent découvrent qu'il n'est autre qu'eux-mêmes.
+texte: Dans le *Livre des rois* de Ferdowsi (vers 1010), le Simurgh, qui niche au sommet de l'arbre de tous les remèdes, recueille et élève Zal, l'enfant abandonné, père du héros Rostam. Il est l'oiseau guérisseur et protecteur des rois, proche du [[phenix|phénix]] et du Garuda indien.
+texte: Le poète soufi Farid al-Din Attar en fait le centre de sa *Conférence des oiseaux* (1177) : guidés par la huppe, les oiseaux du monde partent en quête de leur roi, le Simurgh ; ils traversent sept vallées, celles du désir, de l'amour, de la connaissance, du détachement, de l'unité, de la stupeur et de l'anéantissement. Trente seulement arrivent, et découvrent qu'ils sont eux-mêmes le Simurgh, puisque *si morgh* signifie en persan « trente oiseaux ». C'est l'une des grandes allégories du [[soufisme]].
+voir: soufisme, phenix, aigle, arbre-cosmique
+
+@ harpie
+cat: bestiaire
+nom: Harpie
+alias: harpies, Harpyes, ravisseuses, Phinée, Céléno
+def: Monstre grec à corps d'oiseau et visage de femme, qui enlève les âmes et souille les tables ; les Argonautes en délivrèrent le devin Phinée.
+texte: Leur nom signifie « celles qui ravissent » : chez Homère, ce sont les vents de tempête qui emportent les disparus. Plus tard, elles deviennent des oiseaux à visage de femme, aux griffes acérées, qui volent et salissent la nourriture du roi aveugle Phinée, jusqu'à ce que les fils de Borée, compagnons de Jason, les chassent. Chez Virgile, la harpie Céléno prédit à Énée une famine.
+texte: [[dante|Dante]] les fait nicher dans la forêt des suicidés, dont elles déchirent les arbres. On les confond souvent avec les [[sirene|sirènes]] antiques, elles aussi femmes-oiseaux.
+voir: sirene, divine-comedie, sphinx, gorgone
+
+@ gorgone
+cat: bestiaire
+nom: Gorgone
+alias: gorgones, Méduse, gorgonéion, tête de Méduse, Persée
+def: Monstre féminin à chevelure de serpents dont le regard pétrifie ; Méduse, la seule mortelle des trois Gorgones, fut décapitée par Persée et sa tête orna le bouclier d'Athéna.
+texte: Les trois sœurs, Sthéno, Euryale et Méduse, vivaient aux confins de l'Occident. Persée, armé d'un bouclier poli comme un miroir pour ne pas croiser le regard de Méduse, lui coupa la tête ; de son cou jaillirent [[pegase|Pégase]] et le géant Chrysaor. La tête, offerte à Athéna, devint le gorgonéion, masque protecteur peint sur les boucliers, les temples et les amulettes contre le mauvais œil. Ovide raconte que, posée sur des algues, elle les changea en pierre : ce fut l'origine du [[corail]].
+texte: Le regard qui tue rapproche Méduse du [[basilic]] ; Caravage peignit sa tête sur un bouclier de parade, vers 1597. Freud a vu dans la chevelure de serpents une image de l'angoisse de castration ; d'autres y lisent la puissance de la vérité qu'on ne peut regarder en face.
+voir: pegase, basilic, corail, serpent, amulette, harpie
+
+@ quinotaure
+cat: bestiaire
+nom: Quinotaure
+alias: bête de Neptune, Mérovée et le Quinotaure, Frédégaire
+def: Monstre marin de la légende franque : selon la chronique de Frédégaire, la mère de Mérovée, se baignant dans la mer, fut approchée par une « bête de Neptune semblable à un Quinotaure ».
+texte: La chronique dite de Frédégaire, compilée au VIIe siècle, rapporte que l'épouse du roi Clodion, se baignant au bord de la mer, fut surprise par une bête marine ressemblant à un Quinotaure ; elle conçut ensuite Mérovée, ancêtre éponyme des [[merovingiens|Mérovingiens]]. Le mot, inconnu ailleurs, croise peut-être le Minotaure et un taureau à cinq cornes. Les historiens y voient une légende d'origine divine, comme en avaient beaucoup de dynasties.
+texte: En 1982, les auteurs de *[[l-enigme-sacree|L'Énigme sacrée]]* ont voulu y lire un symbole du [[poisson]], donc du Christ, et la trace codée d'une descendance de Jésus et de [[marie-madeleine|Marie-Madeleine]] chez les Mérovingiens, hypothèse sans appui dans les sources.
+voir: merovingiens, minotaure, taureau-symbole, poisson, l-enigme-sacree
+
+@ coq
+cat: bestiaire
+nom: Coq
+alias: coq gaulois, gallus, coq de clocher, girouette, coq d'Asclépios, vigilance
+def: Oiseau qui annonce le jour et chasse les ténèbres, symbole de la vigilance et de la résurrection, coq du reniement de Pierre, du sacrifice de Socrate et du cabinet de réflexion maçonnique.
+texte: Le coq chante à l'aube : les Perses le disaient ennemi des démons de la nuit, les Grecs le consacraient à Hermès, à Apollon et à Asclépios, à qui Socrate mourant demande qu'on en sacrifie un. Dans l'Évangile, Pierre renie trois fois Jésus avant que le coq chante ; le coq est devenu, au sommet des clochers, depuis le IXe siècle au moins, l'image du prédicateur qui réveille les âmes et du Christ qui annonce le jour. Le dieu à tête de coq des gemmes gnostiques, [[abraxas|Abraxas]], lui doit sa tête.
+texte: En latin, *gallus* signifie à la fois « coq » et « Gaulois » : les Romains en plaisantaient, et la Renaissance puis la Révolution ont fait du coq l'emblème de la France. Dans la [[franc-maconnerie]], le coq est peint dans le [[cabinet-de-reflexion|cabinet de réflexion]], à côté du sel, du soufre et du sablier, avec les mots « Vigilance » et « Persévérance » : il annonce la lumière que va recevoir le profane.
+extrait: Cependant Socrate, qui se promenait, dit qu’il sentait ses jambes s’appesantir, et il se coucha sur le dos, comme l’homme l’avait ordonné. En même temps le même homme qui lui avait donné le poison, s’approcha, et après avoir examiné quelque temps ses pieds et ses jambes, il lui serra le pied fortement, et lui demanda s’il le sentait ; il dit que non. Il lui serra ensuite les jambes ; et, portant ses mains plus haut, il nous fit voir que le corps se glaçait et se raidissait ; et, le touchant lui-même, il nous dit que, dès que le froid gagnerait le cœur, alors Socrate nous quitterait. Déjà tout le bas-ventre était glacé. Alors se découvrant, car il était couvert : Criton, dit-il, et ce furent ses dernières paroles, nous devons un coq à Esculape ; n’oublie pas d’acquitter cette dette. ¶ Cela sera fait, répondit Criton ; mais vois si tu as encore quelque chose à nous dire. ¶ Il ne répondit rien, et un peu de temps après il fit un mouvement convulsif ; alors l’homme le découvrit tout-à-fait : ses regards étaient fixes. Criton, s’en étant aperçu, lui ferma la bouche et les yeux.
+source: Platon, *Phédon*, 117e-118a, trad. Victor Cousin (*Œuvres de Platon*, t. I) | ws Phédon (trad. Cousin)/Dialogue
+extrait: Comme il se dirigeait vers la porte, une autre servante le vit, et dit à ceux qui se trouvaient là ; Celui-ci était aussi avec Jésus de Nazareth. Il le nia de nouveau, avec serment : Je ne connais pas cet homme. Peu après, ceux qui étaient là, s’étant approchés, dirent à Pierre : Certainement tu es aussi de ces gens-là, car ton langage te fait reconnaître. Alors il se mit à faire des imprécations et à jurer : Je ne connais pas cet homme. Aussitôt le coq chanta. Et Pierre se souvint de la parole que Jésus avait dite : Avant que le coq chante, tu me renieras trois fois. Et étant sorti, il pleura amèrement.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Évangile selon Matthieu, chap. XXVI, versets 71-75 | ws Bible Segond 1910/Évangile selon Matthieu
+voir: cabinet-de-reflexion, abraxas, platon, aigle, soleil
+
+@ poisson
+cat: bestiaire
+nom: Poisson
+alias: poissons, ichthys, ichtus, poisson chrétien, Oannès, Jonas, ère des Poissons
+def: Animal des eaux devenu le signe secret des premiers chrétiens, le mot grec *ichthys* formant l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » ; il est aussi le signe zodiacal des Poissons.
+texte: Les lettres du mot grec ΙΧΘΥΣ, « poisson », sont les initiales de *Iêsous Christos Theou Yios Sôtêr* : cet [[acrostiche]] a fait du poisson un signe de reconnaissance, gravé dans les catacombes et sur les épitaphes. Les apôtres étaient pêcheurs, le Christ multiplie les pains et les poissons, et Jonas, resté trois jours dans le ventre d'un grand poisson, préfigure la résurrection. Le livre de Tobie fait guérir l'aveugle et chasser le démon [[asmodee|Asmodée]] par le cœur et le fiel d'un poisson. La [[vesica-piscis|vesica piscis]], « vessie de poisson », est la figure en amande des auréoles.
+texte: Les Babyloniens racontaient qu'un être mi-homme mi-poisson, Oannès, sortit de la mer pour enseigner aux hommes l'écriture et les arts ; le dieu Vishnou s'incarne en poisson pour sauver le premier homme du déluge. Le [[roi-pecheur|Roi Pêcheur]] garde le [[graal|Graal]]. Les astrologues font coïncider l'ère chrétienne avec l'« ère des [[poissons|Poissons]] », que doit remplacer l'[[ere-du-verseau|ère du Verseau]].
+extrait: L’Éternel fit venir un grand poisson pour engloutir Jonas, et Jonas fut dans le ventre du poisson trois jours et trois nuits. Jonas, dans le ventre du poisson, pria l’Éternel, son Dieu. Il dit : ¶ Dans ma détresse, j’ai invoqué l’Éternel, // Et il m’a exaucé ; // Du sein du séjour des morts j’ai crié, // Et tu as entendu ma voix.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Jonas, chap. II, versets 1-3 | ws Bible Segond 1910/Jonas
+voir: acrostiche, vesica-piscis, poissons, ere-du-verseau, roi-pecheur, quinotaure, asmodee, dauphin
+
+@ aigle
+cat: bestiaire
+nom: Aigle
+alias: aigles, aigle de saint Jean, aigle impérial, aigle blanc, aigle alchimique
+def: Roi des oiseaux, qui fixe le soleil et monte le plus haut, emblème de Zeus, des légions et des empires, symbole de saint Jean l'Évangéliste et, en alchimie, de la volatilisation.
+texte: Oiseau de Zeus, qui enlève Ganymède, l'aigle conduit les âmes des empereurs vers le ciel et surmonte les enseignes des légions romaines ; Charlemagne, le Saint-Empire et Napoléon le reprennent, comme l'[[aigle-bicephale|aigle à deux têtes]] de Byzance et des Habsbourg. Dans le [[tetramorphe]], il est saint Jean, l'évangéliste qui s'élève le plus haut dans la contemplation du Verbe. Le *[[physiologus|Physiologus]]* raconte que l'aigle vieilli vole vers le soleil, brûle ses vieilles plumes et plonge trois fois dans une source pour renaître : « ta jeunesse se renouvelle comme celle de l'aigle », dit le psaume.
+texte: Les alchimistes appellent aigle la matière volatile qui monte dans le vase, ou l'opération de la sublimation ; l'aigle qui dévore le lion figure le fixe rendu volatil. Dans la [[franc-maconnerie]], l'aigle paraît dans les hauts [[grades-maconniques|grades]] : le trentième degré du [[rite-ecossais-ancien-et-accepte|Rite écossais]] est celui de [[chevalier-kadosh|Chevalier Kadosh]], « Chevalier de l'Aigle blanc et noir ».
+voir: aigle-bicephale, tetramorphe, sublimation, phenix, chevalier-kadosh, griffon, simurgh
+
+@ lion-symbole
+cat: bestiaire
+nom: Lion (symbole)
+alias: lion, lion de Juda, lion de saint Marc, griffe du lion, roi des animaux
+def: Roi des animaux, symbole de la force, de la royauté et du soleil, lion de Juda et de saint Marc ; le bestiaire en a fait une image du Christ et l'alchimie celle du soufre et de l'or.
+texte: Le *[[physiologus|Physiologus]]* lui prête trois natures : il efface ses traces de sa queue, il dort les yeux ouverts, et ses lionceaux naissent morts jusqu'à ce que leur père, le troisième jour, leur souffle la vie : trois images du Christ. Le lion de la tribu de Juda, dans la Bible, devient celui du Messie ; saint Marc a pour symbole le lion ailé du [[tetramorphe]], que [[venise|Venise]] a pris pour emblème. Sekhmet en Égypte, les sphinx et le signe zodiacal du [[lion|Lion]], domicile du Soleil, en font une bête solaire.
+texte: L'alchimie connaît le lion rouge, le soufre fixe ou l'or, et le [[lion-vert|lion vert]] qui dévore le soleil. Dans le rituel maçonnique du grade de [[maitre-macon|maître]], le corps d'Hiram est relevé par la « griffe du lion », poigne du maître qui rappelle le lion de Juda. L'historien Michel Pastoureau a montré comment l'Église du Moyen Âge a fait du lion le roi des animaux à la place de l'[[ours]], trop lié aux cultes païens.
+voir: lion, lion-vert, sphinx, tetramorphe, legende-d-hiram, ours, manticore
+
+@ taureau-symbole
+cat: bestiaire
+nom: Taureau (symbole)
+alias: taureau, Apis, tauroctonie, veau d'or, bœuf de saint Luc
+def: Animal de la force fécondante et des sacrifices, Apis de Memphis, taureau que tue Mithra, Minotaure, veau d'or et bœuf de saint Luc ; il donne son nom au signe zodiacal du printemps.
+texte: À Memphis, le taureau Apis, reconnu à ses taches, était l'incarnation vivante de [[ptah|Ptah]] ; à sa mort, on l'embaumait et on l'enterrait dans les galeries du Sérapéum de [[saqqarah|Saqqarah]]. Les mystères de Mithra, répandus dans l'armée romaine, avaient pour image centrale la tauroctonie, le dieu égorgeant le taureau dont le sang fait naître le blé. La Crète honorait le taureau, dont naquit le [[minotaure|Minotaure]], et les Hébreux adorèrent au désert le veau d'or.
+texte: Dans le [[tetramorphe]], le taureau est saint Luc ; dans le zodiaque, le [[taureau|Taureau]], signe de Vénus, gouverne le cœur du printemps. Hathor, la déesse vache, le bœuf Apis et le taureau ailé des palais assyriens ont nourri l'[[egyptosophie]] et les spéculations sur une « ère du Taureau » antérieure à celle du [[belier-symbole|Bélier]].
+voir: taureau, ptah, saqqarah, minotaure, mysteres-antiques, tetramorphe, hathor
+
+@ belier-symbole
+cat: bestiaire
+nom: Bélier (symbole)
+alias: bélier, bélier d'Amon, criosphinx, agneau, toison d'or
+def: Animal du sacrifice et de la fécondité, emblème d'Amon et de Khnoum en Égypte, porteur de la toison d'or des Argonautes et premier signe du zodiaque.
+texte: Le dieu [[amon|Amon]] de Thèbes prend la forme d'un bélier aux cornes enroulées ; à [[karnak|Karnak]], une allée de criosphinx, lions à tête de bélier, mène à son temple. Khnoum, le potier qui façonne les hommes sur son tour, a lui aussi une tête de bélier. Dans la Bible, un bélier pris dans un buisson remplace Isaac sur l'autel d'Abraham.
+texte: Les Grecs racontent que le bélier à la toison d'or emporta Phrixos et Hellé au-dessus des mers ; sa dépouille, gardée en Colchide par un dragon, est la [[toison-d-or|Toison d'or]] que Jason et les Argonautes vont conquérir, et que les alchimistes ont lue comme le secret de l'or. Placé au ciel, le bélier est devenu le [[belier|Bélier]], premier signe du zodiaque, où le soleil entre à l'équinoxe de printemps.
+voir: amon, karnak, toison-d-or, belier, agneau, taureau-symbole
+
+@ cerf
+cat: bestiaire
+nom: Cerf
+alias: cerf blanc, Cernunnos, saint Hubert, saint Eustache, cerf alchimique
+def: Animal des forêts dont les bois tombent et repoussent, image du renouveau ; dieu cornu des Celtes, cerf crucifère de saint Hubert, il figure en alchimie l'âme fugitive.
+texte: Le chaudron de Gundestrup, d'argent, montre un dieu assis aux bois de cerf, entouré d'animaux : on l'appelle Cernunnos, d'après une inscription parisienne. Le cerf est pour le [[druidisme]] moderne un animal sacré, et le cerf blanc des romans arthuriens attire les chevaliers vers l'Autre Monde ; dans la *Vita Merlini*, [[merlin|Merlin]] se rend aux noces de sa femme monté sur un cerf. Saint Eustache, dans la *[[legende-doree|Légende dorée]]*, puis saint Hubert, voient un crucifix entre les bois d'un cerf et se convertissent.
+texte: Le *[[physiologus|Physiologus]]* raconte que le cerf attire le serpent hors de son trou par son souffle et le tue : image du Christ vainqueur du diable ; le psaume compare l'âme assoiffée de Dieu à la biche qui cherche les eaux. Le *Livre de Lambsprinck*, recueil d'emblèmes alchimiques, montre dans la forêt un cerf et une [[licorne]], l'âme et l'esprit qu'il faut unir dans le corps.
+voir: licorne, merlin, druidisme, broceliande, legende-doree, emblemes
+
+@ colombe
+cat: bestiaire
+nom: Colombe
+alias: colombes, colombe de Noé, colombe du Saint-Esprit, colombe de la paix, colombes de Diane
+def: Oiseau de la paix et de la pureté, messagère de Noé après le déluge, image du Saint-Esprit ; dans le *Parzival*, elle apporte chaque Vendredi saint l'hostie qui nourrit le Graal.
+texte: Après le déluge, Noé lâche le corbeau, puis la colombe, qui revient avec un rameau d'olivier : la terre est sauvée. Au baptême du Christ, l'Esprit descend « comme une colombe », et l'Église en a fait son image. Les Grecs la consacraient à Aphrodite. Dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], une colombe descend du ciel chaque Vendredi saint et dépose sur la pierre du [[graal|Graal]] une hostie blanche qui en renouvelle la puissance.
+texte: Les alchimistes parlent des « colombes de Diane » qu'il faut joindre à la matière pour la blanchir : chez [[eirenee-philalethe|Eyrénée Philalèthe]], elles figurent l'esprit qui conduit à l'[[albedo]]. Picasso a fait en 1949 de la colombe le symbole de la paix.
+extrait: Au bout de quarante jours, Noé ouvrit la fenêtre qu’il avait faite à l’arche. ¶ Il lâcha le corbeau, qui sortit, partant et revenant, jusqu’à ce que les eaux eussent séché sur la terre. ¶ Il lâcha aussi la colombe, pour voir si les eaux avaient diminué à la surface de la terre. ¶ Mais la colombe ne trouva aucun lieu pour poser la plante de son pied, et elle revint à lui dans l’arche, car il y avait des eaux à la surface de toute la terre. Il avança la main, la prit, et la fit rentrer auprès de lui dans l’arche. ¶ Il attendit encore sept autres jours, et il lâcha de nouveau la colombe hors de l’arche. ¶ La colombe revint à lui sur le soir ; et voici, une feuille d’olivier arrachée était dans son bec. Noé connut ainsi que les eaux avaient diminué sur la terre. ¶ Il attendit encore sept autres jours ; et il lâcha la colombe. Mais elle ne revint plus à lui.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Genèse, chap. VIII, versets 6-12 | ws Bible Segond 1910/Genèse
+voir: corbeau, graal, parzival, albedo, eirenee-philalethe, cygne
+
+@ corbeau
+cat: bestiaire
+nom: Corbeau
+alias: corbeaux, tête de corbeau, Huginn et Muninn, Corax, Le Corbeau de Poe, « Jamais plus »
+def: Oiseau noir de mauvais augure et de sagesse, messager d'Odin et d'Apollon, premier oiseau lâché par Noé ; les alchimistes appellent « tête de corbeau » le noir de l'œuvre.
+texte: Odin a deux corbeaux, Huginn et Muninn, « pensée » et « mémoire », qui parcourent le monde et lui rapportent tout ; Apollon fit noir le corbeau, d'abord blanc, qui lui avait annoncé l'infidélité de Coronis. Le prophète Élie est nourri au désert par des corbeaux. Dans les mystères de Mithra, le premier des sept grades d'initiation était celui de Corax, le corbeau.
+texte: Les alchimistes appellent « tête de corbeau » la matière noire de la [[nigredo]], la putréfaction par laquelle commence l'œuvre ; un corbeau perché sur un crâne en est l'image dans bien des gravures. [[edgar-allan-poe|Edgar Poe]] a fait du corbeau qui répète « Jamais plus » l'oiseau du deuil sans espérance (1845) ; Stéphane Mallarmé l'a traduit en 1875, illustré par Manet.
+extrait: Au large je poussai le volet, quand, avec maints enjouement et agitation d’ailes, entra un majestueux corbeau des saints jours de jadis. Il ne fit pas la moindre révérence, il ne s’arrêta ni n’hésita un instant : mais, avec une mine de lord ou de lady, se percha au-dessus de la porte de ma chambre, — se percha sur un buste de Pallas, juste au-dessus de la porte de ma chambre — se percha, siégea et rien de plus. ¶ Alors cet oiseau d’ébène induisant ma triste imagination au sourire, par le grave et sévère décorum de la contenance qu’il eut : « Quoique ta crête soit chenue et rase, non ! dis-je, tu n’es pas pour sûr, un poltron, spectral, lugubre et ancien Corbeau, errant loin du rivage de Nuit — dis-moi quel est ton nom seigneurial au rivage plutonien de Nuit. » Le Corbeau dit : « Jamais plus. »
+source: Edgar Allan Poe, *Le Corbeau*, 1845, trad. Stéphane Mallarmé, *Les Poèmes d’Edgar Poe*, Léon Vanier, 1889 | ws Le Corbeau (trad. Mallarmé)
+voir: nigredo, colombe, edgar-allan-poe, mysteres-antiques, putrefaction, augures
+
+@ chouette
+cat: bestiaire
+nom: Chouette
+alias: chouettes, hibou, chouette d'Athéna, chouette de Minerve, grade de Minerval, chouette de Dijon
+def: Oiseau de nuit qui voit dans les ténèbres, attribut d'Athéna et emblème de la sagesse, frappé sur les monnaies d'Athènes ; les Illuminés de Bavière en firent le signe de leur premier grade.
+texte: La chouette chevêche accompagne Athéna, déesse de la sagesse, et figure sur les tétradrachmes d'Athènes, si répandus qu'on disait « porter des chouettes à Athènes » pour une démarche inutile. Le Moyen Âge, qui craint la nuit, en fait souvent l'oiseau des ténèbres, de l'hérésie et des sorcières ; mais elle reste aussi l'image du savant qui veille. Hegel écrit en 1820 que « la chouette de Minerve ne prend son envol qu'à la tombée de la nuit » : la philosophie vient après les événements.
+texte: Les [[illumines-de-baviere|Illuminés de Bavière]], fondés en 1776 par [[adam-weishaupt|Adam Weishaupt]], appelaient « Minervals » les membres de leur premier grade et avaient pour emblème la chouette de Minerve posée sur un livre ouvert. À Dijon, une petite chouette sculptée sur un contrefort de l'église Notre-Dame, usée par les mains, porte bonheur à qui la caresse de la main gauche.
+voir: illumines-de-baviere, adam-weishaupt, corbeau, sorciere
+
+@ abeille
+cat: bestiaire
+nom: Abeille
+alias: abeilles, ruche, abeilles de Childéric, abeilles impériales, Vie des abeilles, abeille de Delphes
+def: Insecte de la cité parfaite et du miel, symbole d'ordre, de travail et d'immortalité ; les abeilles d'or du tombeau de Childéric sont devenues celles de l'Empire, et la ruche celle des francs-maçons.
+texte: Les Anciens croyaient que les abeilles naissaient du cadavre d'un taureau : Virgile, dans les *Géorgiques*, décrit cette « bugonie » enseignée au berger Aristée, et Samson trouve un essaim dans le corps du lion qu'il a tué. La Pythie de [[delphes|Delphes]] était appelée « l'abeille delphique » ; [[porphyre|Porphyre]] rapporte qu'on nommait « abeilles » les âmes descendant dans les corps. En 1653, on découvre à Tournai le tombeau de Childéric Ier, père de Clovis, avec quelque trois cents petites abeilles d'or et de grenat : Napoléon les prend en 1804 pour emblème impérial, à la place des lys, en souvenir des [[merovingiens|Mérovingiens]].
+texte: La [[franc-maconnerie]] anglaise a fait de la ruche, peinte sur les tableaux de loge, l'emblème du travail fraternel. [[maurice-maeterlinck|Maurice Maeterlinck]] publie en 1901 *La Vie des abeilles*, méditation sur « l'esprit de la ruche », et [[rudolf-steiner|Rudolf Steiner]] consacre aux abeilles des conférences en 1923. Des ruches sont installées depuis les années 1980 sur le toit de l'[[opera-garnier|Opéra Garnier]].
+voir: merovingiens, franc-maconnerie, maurice-maeterlinck, delphes, porphyre, rudolf-steiner, tableau-de-loge
+
+@ scarabee
+cat: bestiaire
+nom: Scarabée
+alias: scarabées, Khépri, scarabée de cœur, scarabée sacré, Scarabée d'or
+def: Bousier sacré de l'Égypte, qui roule sa boule comme Khépri roule le soleil levant ; le scarabée de cœur, posé sur la poitrine des momies, empêchait le cœur de témoigner contre le mort.
+texte: Les Égyptiens voyaient le bousier rouler sa boule de fumier et en voir sortir ses petits : ils y lurent le soleil du matin, Khépri, « celui qui vient à l'existence », poussant l'astre au-dessus de l'horizon. Le scarabée devint l'amulette la plus répandue, gravée de noms et de vœux ; les rois s'en servaient comme sceaux, et Amenhotep III fit graver de grands scarabées pour annoncer ses chasses et son mariage. Le scarabée de cœur, déposé sur la momie, portait le chapitre 30 du [[livre-des-morts|Livre des morts]], qui supplie le cœur de ne pas trahir son maître lors de la [[pesee-du-coeur|pesée du cœur]].
+texte: [[plutarque|Plutarque]] et [[horapollon|Horapollon]] répètent que les scarabées sont tous mâles et naissent d'eux-mêmes, d'où leur valeur de symbole de l'autocréation. [[edgar-allan-poe|Edgar Poe]] a donné à l'insecte d'or un rôle de talisman dans *[[le-scarabee-d-or|Le Scarabée d'or]]* (1843), où il sert de poids pour trouver un trésor.
+voir: ra, livre-des-morts, pesee-du-coeur, amulette, le-scarabee-d-or, horapollon
+
+@ chat
+cat: bestiaire
+nom: Chat
+alias: chats, chat noir, Bastet, Bubastis, chat des sorcières, feux de la Saint-Jean
+def: Animal sacré de l'Égypte, incarnation de la déesse Bastet, devenu dans l'Europe médiévale le compagnon du diable et des sorcières ; Baudelaire en a fait le sphinx de la maison.
+texte: Dans l'Égypte ancienne, la chatte est Bastet, douce déesse de la joie et de la maternité, dont la ville de Bubastis célébrait la fête par des foules immenses, au dire d'Hérodote ; on y momifiait des chats par centaines de milliers. Tuer un chat pouvait coûter la vie. Les Grecs et les Romains l'ont peu aimé, et le Moyen Âge l'a soupçonné : une bulle de Grégoire IX, en 1233, décrit un chat noir adoré par des hérétiques, et parmi les accusations portées contre les [[templiers]] figurait l'adoration d'un chat.
+texte: Le chat noir est devenu l'animal familier des [[sorciere|sorcières]] ; à Paris, on brûlait encore des chats dans le feu de la Saint-Jean au XVIIe siècle. Le XIXe siècle le réhabilite : [[charles-baudelaire|Baudelaire]] voit dans les chats « les nobles attitudes des grands sphinx allongés au fond des solitudes », et le cabaret du Chat noir, à Montmartre, accueille poètes et occultistes.
+extrait: Les amoureux fervents et les savants austères // Aiment également, dans leur mûre saison, // Les chats puissants et doux, orgueil de la maison, // Qui comme eux sont frileux et comme eux sédentaires. ¶ Amis de la science et de la volupté, // Ils cherchent le silence et l’horreur des ténèbres ; // L’Érèbe les eût pris pour ses coursiers funèbres, // S’ils pouvaient au servage incliner leur fierté. ¶ Ils prennent en songeant les nobles attitudes // Des grands sphinx allongés au fond des solitudes, // Qui semblent s’endormir dans un rêve sans fin ; ¶ Leurs reins féconds sont pleins d’étincelles magiques, // Et des parcelles d’or, ainsi qu’un sable fin, // Étoilent vaguement leurs prunelles mystiques.
+source: Charles Baudelaire, « Les Chats », *Les Fleurs du mal*, 1857 (éd. de 1868) | ws Les Fleurs du mal (1868)/Les Chats
+voir: sphinx, sorciere, templiers, chien, charles-baudelaire
+
+@ chien
+cat: bestiaire
+nom: Chien
+alias: chiens, chien de Tobie, Domini canes, chien d'Agrippa, barbet de Faust, chien noir
+def: Compagnon fidèle et gardien, guide des morts en Égypte et en Grèce, chien de Tobie et des dominicains ; le chien noir passe pour un démon dans les légendes de magiciens, d'Agrippa à Faust.
+texte: [[anubis|Anubis]] et [[cerbere|Cerbère]] gardent les morts ; Hécate est escortée de chiens hurlants, et l'étoile [[sirius|Sirius]], dans la constellation du Grand Chien, est l'« étoile du chien ». Le jeune Tobie part en voyage avec l'ange Raphaël et son chien ; saint Roch, pestiféré, est nourri par un chien. Les dominicains ont accepté le jeu de mots *Domini canes*, « chiens du Seigneur », et la mère de saint Dominique aurait rêvé d'un chien portant une torche. Un chien dort aux pieds de l'ange de la *[[melencolia|Mélancolie]]* de Dürer.
+texte: On disait que [[cornelius-agrippa|Corneille Agrippa]] était accompagné d'un démon sous la forme d'un chien noir nommé Monsieur ; son élève [[jean-wier|Jean Wier]], qui avait promené ce chien, répondit que c'était un chien ordinaire. [[johann-wolfgang-von-goethe|Goethe]] reprend la légende : Méphistophélès s'introduit chez [[faust|Faust]] sous la forme d'un barbet noir.
+voir: anubis, cerbere, sirius, melencolia, cornelius-agrippa, jean-wier, faust, loup, hecate
+
+@ loup
+cat: bestiaire
+nom: Loup
+alias: loups, louve romaine, Fenrir, loup de Gubbio, loup gris, loup des alchimistes
+def: Fauve redouté des forêts, louve nourricière de Rome et loup Fenrir de la fin du monde ; le « loup gris » des alchimistes est l'antimoine qui dévore le roi pour le purifier.
+texte: La louve allaite Romulus et Rémus au pied du Palatin ; chez les Germains, le loup Fenrir, enchaîné par les dieux, se délivrera au Ragnarök et dévorera Odin. Le Moyen Âge en fait la bête du diable, qui guette les brebis du Christ ; mais les *Fioretti* racontent que saint François apprivoisa le loup de Gubbio. Le [[loup-garou]] et la bête du Gévaudan disent la peur que le loup inspirait encore au XVIIIe siècle.
+texte: Dans les *Douze Clefs* de [[basile-valentin|Basile Valentin]], la première figure montre un loup gris dévorant le corps du roi, puis jeté au feu, d'où le roi renaît : l'[[antimoine]], avide des métaux, sert à purifier l'or. Les alchimistes ont fait du loup l'agent qui ronge les impuretés.
+voir: loup-garou, antimoine, basile-valentin, chien, ours
+
+@ ours
+cat: bestiaire
+nom: Ours
+alias: ours, ourse, Artio, Callisto, Arcas, roi Arthur, ours des Celtes
+def: Grand fauve des forêts, ancien roi des animaux des peuples du Nord et des Celtes, détrôné par le lion chrétien ; Callisto changée en ourse a donné leur nom à la Grande et à la Petite Ourse.
+texte: Les Celtes vénéraient une déesse ourse, Artio, dont une statuette de bronze a été trouvée près de Berne, ville qui a pris l'ours pour emblème ; le nom même du roi Arthur a été rapproché du gallois *arth*, « ours ». Les guerriers germaniques berserkers se revêtaient de peaux d'ours. L'historien Michel Pastoureau a montré comment l'Église, aux premiers siècles du Moyen Âge, combattit ce culte et fit du lion le roi des animaux, reléguant l'ours au rang de bête de foire.
+texte: Selon la mythologie grecque, la nymphe Callisto, aimée de Zeus, fut changée en ourse ; son fils Arcas, ancêtre des Arcadiens qui donnèrent leur nom à l'[[arcadie|Arcadie]], faillit la tuer à la chasse, et Zeus les plaça tous deux au ciel : ce sont la [[grande-ourse|Grande Ourse]] et la [[petite-ourse|Petite Ourse]], d'où vient notre mot « arctique », de *arktos*, l'ours.
+voir: grande-ourse, petite-ourse, arcadie, lion-symbole, loup
+
+@ cygne
+cat: bestiaire
+nom: Cygne
+alias: cygnes, chant du cygne, Chevalier au cygne, Léda, cygne blanc, Neuschwanstein
+def: Oiseau blanc d'Apollon dont le chant précède la mort, monture du Chevalier au cygne, ancêtre légendaire de Godefroy de Bouillon ; en alchimie, il annonce le blanc de l'œuvre.
+texte: Zeus s'unit à Léda sous la forme d'un cygne ; de ses œufs naquirent Hélène et les Dioscures. Les cygnes sont consacrés à Apollon : Socrate, dans le *Phédon*, explique qu'ils chantent avant de mourir non de tristesse mais de joie, parce qu'ils vont rejoindre leur dieu. Les cycles épiques du XIIe siècle racontent qu'un chevalier inconnu arriva sur une barque tirée par un cygne pour défendre une duchesse de Bouillon : le Chevalier au cygne, grand-père de [[godefroy-de-bouillon|Godefroy de Bouillon]], devenu en Allemagne [[lohengrin|Lohengrin]].
+texte: [[richard-wagner|Wagner]] en fait le héros de son opéra (1850), et [[louis-ii-de-baviere|Louis II de Bavière]], qui s'identifiait au chevalier, couvre de cygnes son château de Neuschwanstein. Les alchimistes voient dans le cygne blanc l'[[albedo]], le blanchiment qui suit le noir du [[corbeau]]. Au ciel, le Cygne trace une grande croix sur la [[voie-lactee|Voie lactée]].
+extrait: Vous me croyez donc, à ce qu’il paraît, bien inférieur aux cygnes, pour ce qui regarde le pressentiment et la divination. Les cygnes, quand ils sentent qu’ils vont mourir, chantent encore mieux ce jour-là qu’ils n’ont jamais fait, dans leur joie d’aller trouver le dieu qu’ils servent. Mais la crainte que les hommes ont eux-mêmes de la mort leur fait calomnier ces cygnes, en disant qu’ils pleurent leur mort, et qu’ils chantent de tristesse ; et ils ne font pas cette réflexion qu’il n’y a point d’oiseau qui chante quand il a faim ou froid, ou quand il souffre de quelque autre manière, non pas même le rossignol, l’hirondelle ou la huppe, dont on dit que le chant est une complainte. Mais je ne crois pas que ces oiseaux chantent de tristesse, ni les cygnes non plus ; je crois plutôt qu’étant consacrés à Apollon, ils sont devins, et que, prévoyant le bonheur dont on jouit au sortir de la vie, ils chantent et se réjouissent ce jour-là plus qu’ils n’ont jamais fait.
+source: Platon, *Phédon*, 84e-85b, trad. Victor Cousin (*Œuvres de Platon*, t. I) | ws Phédon (trad. Cousin)/Dialogue
+voir: lohengrin, godefroy-de-bouillon, albedo, louis-ii-de-baviere, colombe, voie-lactee
+
+@ paon
+cat: bestiaire
+nom: Paon
+alias: paons, queue de paon, paon de Junon, Ange-Paon, chair incorruptible
+def: Oiseau aux mille yeux de Héra, dont la chair passait pour incorruptible, symbole de l'immortalité et de la résurrection ; la « queue de paon » des alchimistes est l'irisation de la matière.
+texte: Héra fit placer sur la queue du paon les cent yeux d'Argus, le gardien tué par Hermès. On croyait que sa chair ne pourrissait pas : saint Augustin en fit lui-même l'essai à Carthage et le paon devint, sur les sarcophages et les mosaïques chrétiennes, une image de l'âme immortelle et du paradis. Sa roue, qui se déploie et se replie, figurait aussi l'orgueil.
+texte: Les alchimistes nomment *[[cauda-pavonis|cauda pavonis]]*, queue de paon, le moment où la matière se couvre de toutes les couleurs, entre le noir et le blanc. Les yézidis du Kurdistan vénèrent Melek Taous, l'Ange-Paon, chef des anges ; leurs voisins l'ont souvent pris à tort pour Satan, ce qui leur valut des persécutions.
+extrait: Nous devons croire que la substance de la chair recevra cette propriété nouvelle de celui qui en a donné à tous les autres corps de si merveilleuses et que leur multitude seule nous empêche d’admirer. Car quel autre que le Dieu créateur de toutes choses a donné à la chair du paon la propriété de ne point se corrompre après la mort ? Cela m’avait d’abord paru incroyable ; mais il arriva qu’on me servit à Carthage un oiseau de cette espèce. J’en fis garder quelques tranches prises sur la poitrine, et quand on me les rapporta après le temps suffisant pour corrompre toute autre viande, je trouvai celle-ci parfaitement saine ; un mois après, je la vis dans le même état ; au bout de l’année, elle était seulement un peu plus sèche et plus réduite.
+source: saint Augustin, *La Cité de Dieu*, livre XXI, chap. IV, dans les *Œuvres complètes*, éd. Raulx, Guérin, 1869 | ws La Cité de Dieu (Augustin)/Livre XXI
+voir: cauda-pavonis, phenix, anges, albedo
+
+@ crapaud
+cat: bestiaire
+nom: Crapaud
+alias: crapauds, crapaud des sorcières, pierre de crapaud, crapaud alchimique, Le Crapaud de Hugo
+def: Batracien jugé laid et venimeux, compagnon des sorcières et ingrédient de leurs philtres, réputé porter dans la tête une pierre précieuse ; en alchimie, il figure la matière terrestre.
+texte: On croyait que le crapaud portait dans sa tête une pierre, la [[crapaudine]], qui protégeait des poisons, et que c'était un crapaud qui couvait l'œuf de coq d'où naissait le [[basilic]]. Les procès de [[sorcellerie]] parlent de crapauds baptisés et vêtus, et les sorcières de *Macbeth* jettent un crapaud dans leur chaudron. Son venin réel, la bufoténine, a nourri bien des légendes.
+texte: Les alchimistes en font la terre lourde qui doit s'unir à l'aigle volatil : la cinquième figure de l'*[[atalanta-fugiens|Atalanta fugiens]]* de [[michael-maier|Michael Maier]] ordonne de « mettre un crapaud sur le sein de la femme » pour qu'il se nourrisse de son lait. [[victor-hugo|Victor Hugo]], dans *La Légende des siècles*, a écrit la défense du crapaud martyrisé.
+extrait: Que savons-nous ? Qui donc connaît le fond des choses ? // Le couchant rayonnait dans les nuages roses ; // C’était la fin d’un jour d’orage, et l’occident // Changeait l’ondée en flamme en son brasier ardent ; // Près d’une ornière, au bord d’une flaque de pluie, // Un crapaud regardait le ciel, bête éblouie ; // Grave, il songeait ; l’horreur contemplait la splendeur. ¶ (Oh ! pourquoi la souffrance et pourquoi la laideur ? // Hélas ! le bas-empire est couvert d’Augustules, // Les césars de forfaits, les crapauds de pustules, // Comme le pré de fleurs et le ciel de soleils.) ¶ Les feuilles s’empourpraient dans les arbres vermeils ; // L’eau miroitait, mêlée à l’herbe, dans l’ornière : // Le soir se déployait ainsi qu’une bannière ; // L’oiseau baissait la voix dans le jour affaibli ; // Tout s’apaisait, dans l’air, sur l’onde ; et, plein d’oubli, // Le crapaud, sans effroi, sans honte, sans colère, // Doux, regardait la grande auréole solaire ; // Peut-être le maudit se sentait-il béni ; // Pas de bête qui n’ait un reflet d’infini ; // Pas de prunelle abjecte et vile que ne touche // L’éclair d’en-haut, parfois tendre et parfois farouche ; // Pas de monstre chétif, louche, impur, chassieux, // Qui n’ait l’immensité des astres dans les yeux.
+source: Victor Hugo, « Le Crapaud », *La Légende des siècles*, 1859, t. II | ws La Légende des siècles/Le Crapaud
+voir: crapaudine, basilic, sorcellerie, atalanta-fugiens, michael-maier, victor-hugo
+
+@ papillon
+cat: bestiaire
+nom: Papillon
+alias: papillons, psyché, chrysalide, sphinx tête-de-mort
+def: Insecte qui sort de la chrysalide, image de l'âme qui quitte le corps : les Grecs le nommaient *psychè*, du même mot que l'âme, et le donnaient pour ailes à Psyché.
+texte: Le mot grec *psychè* désigne à la fois le souffle, l'âme et le papillon. La belle Psyché du conte d'[[apulee|Apulée]], aimée d'Éros, est figurée avec des ailes de papillon ; les tombes antiques et chrétiennes montrent le papillon sortant de la chrysalide comme l'âme sortant du corps, gage de résurrection. Le philosophe chinois Zhuangzi rêve qu'il est un papillon et ne sait plus, au réveil, s'il est un homme qui rêvait d'être papillon ou un papillon qui rêve d'être homme.
+texte: Le grand sphinx tête-de-mort, papillon de nuit qui porte une tête de mort dessinée sur le dos et qui crie quand on le saisit, passait pour un présage funeste. La métamorphose du papillon est devenue une image courante de l'[[initiation]] et de la [[palingenesie|palingénésie]].
+voir: apulee, palingenesie, initiation, metempsycose, reincarnation
+
+@ dauphin
+cat: bestiaire
+nom: Dauphin
+alias: dauphins, Apollon Delphinien, Arion, dauphin du Christ, dauphin de France
+def: Animal marin ami des hommes, qui sauva le poète Arion et guida les Crétois vers Delphes sous les traits d'Apollon ; il est devenu un symbole du Christ sauveur et le titre de l'héritier de France.
+texte: L'*Hymne homérique à Apollon* raconte que le dieu, changé en dauphin, s'empara d'un navire crétois et le conduisit jusqu'au port de Delphes, dont les marins devinrent ses prêtres : de là le nom d'Apollon Delphinien et, selon les Anciens, celui de [[delphes|Delphes]]. Hérodote rapporte que le poète Arion, jeté à la mer par des pirates, fut porté à terre par un dauphin charmé de son chant. Les premiers chrétiens peignaient le dauphin enlacé à une ancre : le Christ qui conduit les âmes à bon port.
+texte: Les seigneurs du Viennois portaient un dauphin dans leurs armes et le titre de Dauphin ; en vendant le Dauphiné au roi de France en 1349, Humbert II exigea que l'héritier du trône portât ce nom, d'où les dauphins de France jusqu'en 1830.
+voir: delphes, poisson, sirene, agneau
+
+@ tortue
+cat: bestiaire
+nom: Tortue
+alias: tortues, tortue cosmique, Kurma, Luoshu, lyre d'Hermès
+def: Animal lent et longévif dont la carapace figure le ciel et le plastron la terre, porteuse du monde en Inde et en Chine, d'où sortit selon la légende le carré magique du Luoshu.
+texte: En Inde, Vishnou s'incarne en tortue, Kurma, pour soutenir la montagne qui sert à baratter l'océan de lait ; d'autres récits posent le monde sur le dos d'une tortue géante. En Chine, la carapace bombée et le plastron plat font de la tortue une image du cosmos ; on y lisait l'avenir en chauffant des écailles. La légende raconte qu'une tortue sortit de la rivière Luo portant sur sa carapace des points disposés en un [[carre-magique|carré magique]] de trois sur trois, le Luoshu, base du [[feng-shui]] et de la numérologie chinoise.
+texte: L'*Hymne homérique à Hermès* raconte que le dieu, à peine né, tua une tortue et fit de sa carapace la première lyre. À [[bomarzo|Bomarzo]], une tortue géante de pierre porte une statue de la Renommée.
+voir: carre-magique, feng-shui, bomarzo, yi-king, elephant
+
+@ elephant
+cat: bestiaire
+nom: Éléphant
+alias: éléphants, éléphant de la Minerve, éléphant de la Bastille, Ganesh, ordre de l'Éléphant
+def: Le plus grand des animaux terrestres, symbole de force sage, de chasteté et de mémoire ; le Bernin, d'après le *Songe de Poliphile*, lui fit porter un obélisque à Rome.
+texte: Le *[[physiologus|Physiologus]]* raconte que les éléphants, animaux chastes, ne s'unissent qu'après avoir mangé la [[mandragore]] près du paradis, comme Adam et Ève le fruit défendu. En Inde, Ganesh à tête d'éléphant écarte les obstacles. Le *[[songe-de-poliphile|Songe de Poliphile]]* (1499) décrit un éléphant de pierre portant un [[obelisque|obélisque]] couvert d'hiéroglyphes : le Bernin en tire en 1667 la petite statue de la place de la Minerve, à Rome. À [[bomarzo|Bomarzo]], un éléphant de guerre de pierre écrase un soldat romain.
+texte: Napoléon voulut élever place de la Bastille une fontaine en forme d'éléphant colossal ; la maquette de plâtre resta en place jusqu'en 1846, et [[victor-hugo|Victor Hugo]] y fait vivre le petit Gavroche dans *Les Misérables*. Le Danemark a son ordre de l'Éléphant, l'un des plus anciens ordres de chevalerie.
+voir: songe-de-poliphile, obelisque, bomarzo, mandragore, victor-hugo, tortue
+
+@ agneau
+cat: bestiaire
+nom: Agneau
+alias: Agnus Dei, Agneau mystique, agneau pascal, tablier en peau d'agneau
+def: Animal du sacrifice pascal, devenu l'Agneau de Dieu qui enlève les péchés du monde ; il orne les sceaux des Templiers et le tablier maçonnique est fait de sa peau blanche.
+texte: Les Hébreux sacrifient l'agneau de la Pâque, dont le sang marque les portes la nuit de la sortie d'Égypte. Jean-Baptiste désigne Jésus comme « l'agneau de Dieu », et l'Apocalypse montre un agneau aux sept cornes et aux sept yeux qui seul peut ouvrir le livre scellé ; l'*Agneau mystique* des frères Van Eyck, à Gand (1432), en est la plus célèbre image. L'Agnus Dei portant une bannière à croix figure sur les sceaux de maîtres provinciaux des [[templiers]].
+texte: Dans la [[franc-maconnerie]], le [[tablier]] de peau d'agneau blanche est l'« insigne de l'innocence », remis à l'apprenti dès sa réception.
+voir: tablier, templiers, belier-symbole, pelican, agapes
+
+@ ibis
+cat: bestiaire
+nom: Ibis
+alias: ibis sacré, oiseau de Thot, ibis momifiés
+def: Échassier blanc et noir des marais du Nil, oiseau du dieu Thot, dont les Égyptiens momifièrent des millions de spécimens.
+texte: L'ibis sacré, au long bec courbe comme un croissant de lune, est la forme du dieu [[thot|Thot]], qui écrit et compte ; on l'élevait près des temples et l'on en a retrouvé des millions de momies dans les galeries de Touna el-Gebel, près d'[[hermopolis|Hermopolis]], et de [[saqqarah|Saqqarah]]. Hérodote rapporte que les ibis défendaient l'Égypte contre des serpents ailés venus d'Arabie.
+texte: Les bestiaires chrétiens, qui ne savaient pas qu'il pêche dans l'eau, en firent au contraire un oiseau impur qui se nourrit de charognes au bord des rivières, image de l'âme qui n'ose pas plonger dans l'eau du baptême.
+voir: thot, hermopolis, saqqarah, momie
+
+@ faucon
+cat: bestiaire
+nom: Faucon
+alias: faucons, faucon d'Horus, fauconnerie, De arte venandi cum avibus
+def: Rapace au vol rapide, forme du dieu Horus et du roi d'Égypte, oiseau noble de la chasse médiévale, dont Frédéric II écrivit le traité.
+texte: Le faucon plane au plus haut du ciel : les Égyptiens y virent [[horus|Horus]], dont les yeux sont le soleil et la lune, et le dieu soleil [[ra|Rê]]-Horakhty à tête de faucon ; l'âme *ba* du mort a parfois sa forme. Au Moyen Âge, la fauconnerie est l'art des seigneurs : l'empereur Frédéric II, à la cour duquel vivait l'astrologue [[michel-scot|Michel Scot]], écrivit vers 1240 un grand traité, *L'Art de chasser avec les oiseaux*.
+voir: horus, ra, aigle, michel-scot, ka-et-ba
+
+@ toison-d-or
+cat: symboles
+nom: Toison d'or
+alias: Argonautes, Jason, ordre de la Toison d'or, Toyson d'or, toison alchimique
+def: Dépouille dorée du bélier de Phrixos que Jason et les Argonautes allèrent conquérir en Colchide, lue par les alchimistes comme un livre de chrysopée, et emblème de l'ordre fondé par Philippe le Bon en 1430.
+texte: Jason, pour reprendre le trône de son père, doit rapporter de Colchide la toison d'or, suspendue à un chêne et gardée par un dragon qui ne dort jamais. Avec les héros de l'*Argo*, Héraclès, Orphée, les Dioscures, il franchit les roches qui s'entrechoquent, et l'enchanteresse Médée l'aide à vaincre. Le lexique byzantin de la *Souda*, au Xe siècle, affirme que la toison était en réalité un livre écrit sur des peaux, qui enseignait à faire de l'or : la lecture alchimique du mythe était née. La traduction française du *[[splendor-solis|Splendor solis]]* parut en 1612 sous le titre de *La Toyson d'or*.
+texte: Le 10 janvier 1430, à Bruges, le duc de Bourgogne Philippe le Bon fonde l'ordre de la Toison d'or, dont le collier porte un bélier d'or suspendu ; il passa aux Habsbourg d'Espagne et d'Autriche. [[fulcanelli|Fulcanelli]] rattache l'[[argot]] et l'« art gothique » aux Argonautes, nautoniers de l'*Argo*, dans *Le [[mystere-des-cathedrales|Mystère des cathédrales]]*.
+voir: belier-symbole, chrysopee, splendor-solis, argot, mystere-des-cathedrales, dragon
+
+# Les quatre articles suivants étaient parmi les symboles (15-symboles.txt).
+
+@ sphinx
+cat: bestiaire
+nom: Sphinx
+alias: sphinge, sphinx de Gizeh, énigme du sphinx, savoir oser vouloir se taire, criosphinx, Sphinx des glaces
+def: Créature à corps de lion et tête humaine, gardien des secrets en Égypte et en Grèce, devenu chez les occultistes le symbole des quatre vertus du mage : savoir, oser, vouloir et se taire.
+texte: Le grand sphinx de [[gizeh|Gizeh]], taillé dans le roc il y a plus de quatre mille cinq cents ans, figure sans doute le roi Khéphren en lion couché, gardien de la nécropole ; les Égyptiens ont bordé de sphinx les allées de leurs temples, et ceux de [[karnak|Karnak]] ont des têtes de bélier. Le sphinx grec, la sphinge, est une femme ailée à corps de lionne : installée devant Thèbes, elle pose aux passants son énigme — quel être marche à quatre pattes le matin, à deux à midi, à trois le soir ? — et dévore ceux qui échouent, jusqu'à ce qu'Œdipe réponde : l'homme.
+texte: [[plutarque|Plutarque]] écrit que les Égyptiens placent des sphinx devant leurs temples pour signifier que leur sagesse est énigmatique. [[eliphas-levi|Éliphas Lévi]] compose un sphinx des quatre vivants du [[tetramorphe]] — taureau, lion, aigle et homme — et en tire la devise du mage : « Savoir, oser, vouloir, se taire. » Deux sphinx, l'un blanc, l'autre noir, tirent son *[[arcane-chariot|Chariot]]*, et le sphinx couronne la *[[arcane-roue-de-fortune|Roue de Fortune]]* du tarot. Deux sphinx gardent l'entrée de la Maison du Temple de Washington, siège du Rite écossais où repose [[albert-pike|Albert Pike]].
+texte: [[edgar-cayce|Edgar Cayce]] annonça qu'une « salle des archives » de l'Atlantide dormait sous le sphinx ; des auteurs ont soutenu, à la suite de John Anthony West, disciple de [[schwaller-de-lubicz|Schwaller de Lubicz]], que l'érosion du monument prouverait une origine bien plus ancienne, thèse que rejettent géologues et égyptologues. [[jules-verne|Jules Verne]] a intitulé *Le Sphinx des glaces* (1897) sa suite des aventures d'Arthur Gordon Pym d'[[edgar-allan-poe|Edgar Poe]], et [[gustave-flaubert|Flaubert]] a fait dialoguer le Sphinx et la [[chimere|Chimère]].
+extrait: C’est que je garde mon secret ! je songe et je calcule. ¶ La mer se retourne dans son lit, les blés se balancent sous le vent, les caravanes passent, la poussière s’envole, les cités s’écroulent ; — et mon regard, que rien ne peut dévier, demeure tendu à travers les choses sur un horizon inaccessible. ¶ Tous ceux que le désir de Dieu tourmente, je les ai dévorés. ¶ Les plus forts, pour gravir jusqu’à mon front royal, montent aux stries de mes bandelettes comme sur les marches d’un escalier. La lassitude les prend ; et ils tombent d’eux-mêmes à la renverse.
+source: Gustave Flaubert, *La Tentation de saint Antoine*, 1874, chap. VII (le Sphinx parle), éd. Louis Conard, 1910 | ws La Tentation de saint Antoine – Éd. L. Conard (1910)/La Tentation de saint Antoine/VII
+voir: tetramorphe, egyptosophie, arcane-roue-de-fortune, arcane-chariot, eliphas-levi, gizeh, chimere, chat
+
+@ serpent
+cat: bestiaire
+nom: Serpent
+alias: serpents, ophites, naassènes, serpent d'airain, Nehoushtân, uræus, serpent crucifié
+def: Animal au symbolisme double, à la fois tentateur et porteur de sagesse, de guérison et de renouveau, omniprésent dans l'ésotérisme.
+texte: Dans la Genèse, le serpent tente Ève ; mais Moïse dresse au désert un serpent d'airain qui guérit ceux qui le regardent, que le roi Ézéchias fera détruire parce qu'on l'adorait, et Jésus invite à être « prudents comme les serpents ». Certains gnostiques, les ophites, honoraient le serpent du paradis comme le révélateur de la connaissance. Le serpent qui mue figure la renaissance ; celui qui se mord la queue, l'[[ouroboros]], l'éternité. En Égypte, le cobra dressé, l'uræus, protège le front des rois, tandis que le serpent [[apophis|Apophis]] menace chaque nuit le soleil.
+texte: On le retrouve autour du [[caducee|caducée]] d'Hermès, du bâton d'Asclépios, dans la [[kundalini]] lovée à la base de la colonne vertébrale, et chez [[eliphas-levi]], pour qui le serpent de la Genèse est l'image de la [[lumiere-astrale]]. Les *Figures hiéroglyphiques* attribuées à [[nicolas-flamel|Nicolas Flamel]] montrent un serpent crucifié, le mercure fixé ; les légendes ont leurs serpentes, [[melusine|Mélusine]] et la [[vouivre]], et Goethe son *[[le-serpent-vert|Serpent vert]]*.
+extrait: Alors l’Éternel envoya contre le peuple des serpents brûlants ; ils mordirent le peuple, et il mourut beaucoup de gens en Israël. ¶ Le peuple vint à Moïse, et dit : Nous avons péché, car nous avons parlé contre l’Éternel et contre toi. Prie l’Éternel, afin qu’il éloigne de nous ces serpents. Moïse pria pour le peuple. ¶ L’Éternel dit à Moïse : Fais-toi un serpent brûlant, et place-le sur une perche ; quiconque aura été mordu, et le regardera, conservera la vie. ¶ Moïse fit un serpent d’airain, et le plaça sur une perche ; et quiconque avait été mordu par un serpent, et regardait le serpent d’airain, conservait la vie.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Nombres, chap. XXI, versets 6-9 | ws Bible Segond 1910/Nombres
+voir: ouroboros, caducee, kundalini, gnosticisme, lumiere-astrale, dragon, basilic, le-serpent-vert, apophis, vouivre
+
+@ pelican
+cat: bestiaire
+nom: Pélican
+alias: pélican mystique, pélican alchimique, Pie pelicane, Chevalier de l'Aigle et du Pélican, Chevalier Rose-Croix
+def: Oiseau dont on croyait qu'il se perçait la poitrine pour nourrir ses petits de son sang, symbole du Christ et du sacrifice ; c'est aussi un vase des alchimistes et le bijou du grade de Rose-Croix.
+texte: Le *[[physiologus|Physiologus]]* et les bestiaires médiévaux racontent que le pélican, après avoir tué ses petits, les ressuscite au bout de trois jours en les arrosant de son sang : image du Christ qui sauve les hommes par sa Passion. Saint Thomas d'Aquin l'invoque dans l'hymne *Adoro te* : « Pieux pélican, Seigneur Jésus, purifie-moi de ton sang. » On le voit sur les autels, les vitraux, et sur le portrait d'Élisabeth Ire dit « au pélican ». Dans la [[franc-maconnerie]], le bijou du grade de [[chevalier-rose-croix|Chevalier Rose-Croix]], que l'on appelait aussi Chevalier de l'Aigle et du Pélican, montre le pélican nourrissant ses petits sous la croix et la [[la-rose|rose]].
+texte: Les alchimistes appellent pélican un vase dont les deux bras recourbés ramènent dans la panse le liquide qui s'évapore : la matière se distille et retombe sur elle-même sans fin, comme le pélican se nourrit de son propre sang.
+voir: alambic, rubedo, la-rose, phenix, grades-maconniques, chevalier-rose-croix, aigle, agneau
+
+@ phenix
+cat: bestiaire
+nom: Phénix
+alias: phoenix, phœnix, oiseau de feu, bennou, Fenice
+def: Oiseau fabuleux qui renaît de ses cendres, symbole de la résurrection, de l'immortalité et, en alchimie, de la pierre philosophale achevée.
+texte: Hérodote rapporte que le phénix, venu d'Arabie tous les cinq cents ans, apporte au temple du Soleil d'Héliopolis le corps de son père enveloppé de myrrhe ; [[pline-l-ancien|Pline]] le décrit d'après le sénateur Manilius et rapporte qu'on en exposa un, tenu pour faux, à Rome sous Claude ; la tradition ultérieure le fait mourir dans un bûcher parfumé et renaître de ses cendres. Les Égyptiens vénéraient à Héliopolis l'oiseau Bennou, héron lié au soleil levant, qui se posait sur la pierre *benben* de l'[[enneade|Ennéade]].
+texte: Clément de Rome, à la fin du Ier siècle, cite déjà le phénix comme preuve de la résurrection, et le *[[physiologus|Physiologus]]* en fait le Christ ressuscité au troisième jour. Les alchimistes y voient la [[rubedo]], la matière qui, passée par le feu, renaît incorruptible. Le théâtre de [[venise|Venise]] s'appelle *La Fenice*, « le phénix », et a justifié son nom en renaissant de deux incendies, en 1836 et en 1996.
+extrait: On range aussi dans la même classe un autre oiseau qu’on appelle phénix. Je ne l’ai vu qu’en peinture ; on le voit rarement ; et, si l’on en croit les Héliopolitains, il ne se montre dans leur pays que tous les cinq cents ans, lorsque son père vient à mourir. S’il ressemble à son portrait, ses ailes sont en partie dorées et en partie rouges, et il est entièrement conforme à l’aigle quant à la figure et à la description détaillée. On en rapporte une particularité qui me paraît incroyable. Il part, disent les Égyptiens, de l’Arabie, se rend au temple du Soleil avec le corps de son père, qu’il porte enveloppé dans de la myrrhe, et lui donne la sépulture dans ce temple. Voici de quelle manière : il fait avec de la myrrhe une masse en forme d’œuf, du poids qu’il se croit capable de porter, la soulève, et essaye si elle n’est pas trop pesante ; ensuite, lorsqu’il a fini ces essais, il creuse cet œuf, y introduit son père, puis il bouche l’ouverture avec de la myrrhe : cet œuf est alors de même poids que lorsque la masse était entière. Lorsqu’il l’a, dis-je, renfermé, il le porte en Égypte dans le temple du Soleil.
+source: Hérodote, *Histoire*, livre II, chap. LXXIII, trad. Pierre-Henri Larcher, Charpentier, 1850 | ws Histoire (Hérodote)/Trad. Larcher, 1850/Livre II
+extrait: L’Inde et l’Éthiopie produisent surtout des oiseaux de couleurs très-diverses, et tels qu’on ne saurait les décrire. Le plus célèbre de tous naît dans l’Arabie : c’est le phénix, si toutefois son existence n’est pas une fable ; il est unique dans l’univers entier, et on ne l’a pas vu souvent. On lui donne la taille de l’aigle, un plumage éclatant comme l’or autour du cou ; du reste, pourpré, une queue d’azur entremêlée de plumes roses, des crêtes sous la gorge, et une huppe qui pare sa tête.
+source: Pline l’Ancien, *Histoire naturelle*, livre X, chap. II, trad. Émile Littré, Dubochet, 1848, t. I | ia BIUSante_39197x01 = l’édition de 1848 numérisée
+voir: rubedo, pierre-philosophale, pelican, oeuf-cosmique, licorne, enneade, simurgh

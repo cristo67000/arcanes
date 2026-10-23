@@ -1,11 +1,12 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble plus de **neuf
+Une application web progressive (PWA), hors ligne, qui rassemble plus de **onze
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
-l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, et sans
-complaisance jusqu'à Himmler), personnages de légende (Merlin, Perceval, Galaad,
-Mélusine, Faust, Sarastro, Arsène Lupin…), **textes** (Corpus Hermeticum, Zohar,
+l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, Jeanne
+d'Arc, Nostradamus, Jules Verne ou Gaudí, et sans complaisance jusqu'à Himmler),
+personnages de légende (Merlin, le roi Arthur, Perceval, Mélusine, Faust,
+Sarastro, Arsène Lupin…), **textes** (Corpus Hermeticum, Zohar,
 manifestes rose-croix, *Légende dorée*, *Divine Comédie*, *Songe de Poliphile*,
 *Le Serpent vert*…), **notions**, **alchimie**, **kabbale**, **astrologie**,
 **tarot et divination** (les vingt-deux arcanes majeurs ont chacun leur
@@ -13,34 +14,45 @@ article), **magie**, **ordres et sociétés** (de la Sainte-Vehme aux carbonari)
 **franc-maçonnerie** (la loge, ses officiers et ses usages, les grades, les
 rites, les obédiences, Jakin, Boaz et la parole perdue, les figures et les
 textes), **symboles** (licorne, dragon, basilic, menorah, arche d'alliance,
-*Melencolia I*…), quatre rubriques nouvelles — **symbolisme des nombres** (de
-zéro à soixante-douze, et le nombre de la Bête), **astronomie** (Grande et
-Petite Ourse, Orion, les Pléiades, Sirius, la Voie lactée…), **pierres et lieux
-d'énergie** (lithothérapie, lapidaires, géobiologie, lignes ley, Sedona…, avec
-ce qu'en disent les études) et **jeu d'échecs** —, et ses **lieux** — de
-Montségur et Rennes-le-Château à Paris, Londres, Venise, Prague, Rouen ou
-Étretat.
+*Melencolia I*…), **symbolisme des nombres** (de zéro à soixante-douze, et le
+nombre de la Bête), **astronomie** (Grande et Petite Ourse, Orion, les Pléiades,
+Sirius, la Voie lactée…), **pierres et lieux d'énergie** (lithothérapie,
+lapidaires, géobiologie, lignes ley, Sedona…, avec ce qu'en disent les études),
+**jeu d'échecs**, trois rubriques nouvelles — **égyptologie** (Isis et son culte,
+Osiris, Thot, le *Livre des morts*, la pierre de Rosette, l'égyptomanie…),
+**codes secrets** (de la scytale et du chiffre de César à Vigenère, Enigma, au
+manuscrit de Voynich et aux hommes dansants de Conan Doyle, avec l'argot et
+l'argot des bâtisseurs) et **animaux fantastiques et symboliques** (dragon,
+licorne, basilic, sphinx, griffon, Tarasque… et serpent, coq, poisson, pélican,
+abeille…) —, et ses **lieux** — de Montségur et Rennes-le-Château à Paris,
+Chartres, le Mont-Saint-Michel, la Sainte-Baume, Orval, Louxor, Nazca ou la
+Sagrada Família.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
-- une **carte des lieux** (près de soixante-dix), dessinée par l'application
+- une **carte des lieux** (près de cent), dessinée par l'application
   elle-même et donc hors ligne : on la déplace au doigt, on touche un point, on
   lit l'article ; « **Me situer** », facultatif, range les lieux du plus proche
   au plus lointain, et « **Itinéraire** » ouvre l'application de cartes du
   téléphone (Plans, Google Maps, OpenStreetMap) avec la seule destination ;
   chaque fiche de lieu a son plan de situation et ses coordonnées ;
-- des **extraits d'œuvres** du domaine public sous une soixantaine d'articles —
-  Hermès Trismégiste traduit par Ménard, Platon, Pline traduit par Littré,
-  Apulée, la Bible de Segond, saint Augustin, la *Légende dorée*, Dante, l'Arioste,
+- des **extraits d'œuvres** du domaine public sous plus de cent vingt articles —
+  Hermès Trismégiste traduit par Ménard, Platon, Plutarque, Pline traduit par
+  Littré, Apulée, la Bible de Segond, saint Augustin, la *Légende dorée*, Dante,
+  l'Arioste, Nostradamus, Poussin,
   le *Songe de Poliphile*, Léonard de Vinci, Vasari, Rabelais, Cazotte, Ramsay,
   Goethe traduit par Nerval et par Porchat, Walter Scott, Kardec, Michelet,
-  Baudelaire, Hugo, Nerval, Balzac, Huysmans, Éliphas Lévi, Papus, Péladan,
+  Baudelaire, Hugo, Nerval, Balzac, Mistral, Jules Verne, Huysmans, Maspero,
+  Péguy, Kipling (en anglais et en français), Éliphas Lévi, Papus, Péladan,
   Oswald Wirth, Maurice Leblanc, Fulcanelli, René Guénon… —, avec le lien vers le
   livre numérisé par **Gallica**, Wikisource ou l'Internet Archive ;
-- plus de **quatre cents illustrations** du domaine public : les cartes des
-  tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), des
-  portraits, des gravures alchimiques et maçonniques, des photographies
-  anciennes des lieux ; touchées, elles s'agrandissent et donnent leur source ;
+- plus de **sept cents illustrations** du domaine public : les cartes des
+  tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), les quinze
+  planches du *Mutus liber* (1677), le zodiaque du *Miroir d'Uranie* (1825), les
+  sept planètes de Beham (1539), les minéraux de Kurr (1859), des bestiaires
+  médiévaux, des statuettes et des papyrus égyptiens, des portraits, des
+  gravures alchimiques et maçonniques, des photographies anciennes des lieux ;
+  touchées, elles s'agrandissent et donnent leur source ;
 - **« Pour aller plus loin »** : sous la plupart des articles, des liens vers
   Wikipédia, Wikisource, la BnF ou Internet Archive, où lire les textes
   eux-mêmes — ils ne s'ouvrent que si on les touche, et demandent une connexion ;
@@ -86,7 +98,8 @@ comme reproduction numérique d'une édition.
 
 Les illustrations viennent de Wikimedia Commons et sont toutes dans le domaine
 public ou sous CC0 : `build/illustrer.py` refuse toute autre licence. Leur
-provenance, leur légende et leur crédit sont dans `build/illustrations.txt`.
+provenance, leur légende et leur crédit sont dans `build/illustrations.txt` ;
+une page d'un livre numérisé (PDF, DjVu) s'y désigne par `page:`.
 
 Le fond de la carte vient de Natural Earth (domaine public) : `node
 build/fond_de_carte.mjs` télécharge une fois les couches dans
@@ -148,7 +161,8 @@ d'une phrase (règle dans `construire.mjs`, liste des noms propres à garder).
 `schema: arbre-sephiroth/keter` place une figure en mettant un élément en avant.
 Un lieu porte `geo: 42.8756, 1.8322` (d'après Wikidata) et `lieu: Ariège,
 Occitanie, France` ; un extrait s'écrit `extrait: le passage…` suivi de
-`source: Auteur, *Titre*, date, chapitre | gallica bpt6k… | ws Page Wikisource`.
+`source: Auteur, *Titre*, date, chapitre | gallica bpt6k… | ws Page Wikisource`
+(`wsen` pour la Wikisource anglaise, quand on cite le texte original).
 Les `repere:` s'écrivent « date — fait. », dans l'ordre chronologique : la
 construction le vérifie.
 
@@ -156,9 +170,9 @@ construction le vérifie.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits (1 886)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits (3 816)
 node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, position, extraits, révision, hors-ligne (120)
-node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 250 adresses)
+node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 500 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
 ```

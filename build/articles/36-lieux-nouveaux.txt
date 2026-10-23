@@ -1,0 +1,432 @@
+# Lieux de la version 1.5 : sanctuaires de France et de Belgique, sites
+# égyptiens, lieux de l'énigme moderne. Coordonnées d'après Wikidata.
+
+@ paray-le-monial
+cat: lieux
+nom: Paray-le-Monial
+alias: Paray, basilique du Sacré-Cœur de Paray, chapelle de la Visitation, musée du Hiéron, cité du Sacré-Cœur
+lieu: Saône-et-Loire, Bourgogne-Franche-Comté, France
+geo: 46.4511, 4.1194
+def: Petite ville de Bourgogne, ancien prieuré clunisien, où Marguerite-Marie Alacoque vit apparaître le Sacré-Cœur de 1673 à 1675 ; elle est devenue un grand pèlerinage et le siège du Hiéron du Val d'Or.
+texte: Le prieuré fondé en 973 et donné à Cluny a laissé une église romane du XIIe siècle, réplique réduite de la grande abbatiale de Cluny, aujourd'hui basilique du Sacré-Cœur. Au monastère de la Visitation, la sœur [[marguerite-marie-alacoque|Marguerite-Marie Alacoque]] reçoit à partir de 1673 les apparitions du Christ montrant son cœur, qui fondent la dévotion moderne au [[sacre-coeur|Sacré-Cœur]] ; la chapelle des apparitions et la châsse de la sainte attirent les foules depuis le grand pèlerinage national de 1873.
+texte: La même année, le baron de Sarachaga et le père Drevon y fondent le [[hieron-du-val-d-or|Hiéron du Val d'Or]], société catholique ésotérique, dont les collections forment l'actuel musée du Hiéron. Paray a ainsi lié la piété populaire, la politique du Christ-Roi et un ésotérisme chrétien qui intéressa [[rene-guenon|René Guénon]].
+repere: 973 — Fondation du prieuré, bientôt rattaché à Cluny.
+repere: 1673 — Première apparition du Sacré-Cœur à Marguerite-Marie Alacoque.
+repere: 1873 — Grand pèlerinage national ; fondation du Hiéron du Val d'Or.
+voir: sacre-coeur, marguerite-marie-alacoque, hieron-du-val-d-or, rene-guenon
+
+@ abbayes-normandes
+cat: lieux
+nom: Abbayes normandes
+alias: abbayes de Normandie, route des abbayes normandes, abbayes du pays de Caux, Saint-Georges-de-Boscherville, Le Bec-Hellouin, abbayes de Caen
+lieu: vallée de la Seine et pays de Caux, Seine-Maritime, Normandie, France
+geo: 49.4442, 0.9645
+def: Grandes abbayes bénédictines de Normandie, de Jumièges et Saint-Wandrille au Mont-Saint-Michel, fondées au VIIe siècle ou restaurées par les ducs ; Maurice Leblanc en a fait le trésor de la *Comtesse de Cagliostro*.
+texte: Dès le VIIe siècle, saint Wandrille fonde [[saint-wandrille|Fontenelle]] et saint Philibert [[jumieges|Jumièges]] sur les boucles de la Seine. Les Vikings les ruinent au IXe siècle ; après 911, les ducs de Normandie, descendants de Rollon, les relèvent et en fondent d'autres : [[fecamp|Fécamp]], le [[mont-saint-michel|Mont-Saint-Michel]] (966), Le Bec-Hellouin, où enseignèrent Lanfranc et saint Anselme, Saint-Georges-de-Boscherville, et à Caen l'abbaye aux Hommes et l'abbaye aux Dames de Guillaume le Conquérant et de la reine Mathilde. La Révolution en fit des carrières ou des ruines romantiques ; une « route des abbayes normandes » les relie aujourd'hui.
+texte: Dans *La Comtesse de Cagliostro* (1924), [[maurice-leblanc|Maurice Leblanc]] imagine que les moines de sept abbayes du pays de Caux, dont Jumièges, Saint-Wandrille et Saint-Georges-de-Boscherville, ont caché les richesses de l'Église ; le jeune [[arsene-lupin|Arsène Lupin]] découvre que les abbayes dessinent sur la carte la [[grande-ourse|Grande Ourse]], et que le trésor gît à l'emplacement de la petite étoile Alcor.
+extrait: Dès lors la vérité s’imposait aussitôt. À l’endroit même où Alcor se trouve sur la figure céleste, la borne doit fatalement se trouver sur la figure terrestre. Et puisque Alcor se trouve, dans le ciel, un peu à droite et au-dessous de l’étoile située au milieu de la queue de la Grande Ourse, la borne doit fatalement se trouver un peu à droite et au-dessous de l’abbaye qui correspond à cette étoile, c’est-à-dire un peu à droite, et au-dessous de l’abbaye de Jumièges, jadis la plus puissante et la plus riche des abbayes normandes.
+source: Maurice Leblanc, *La Comtesse de Cagliostro*, chap. XII, feuilleton du *Journal*, 1923-1924 | ws La Comtesse de Cagliostro/Chapitre XII
+voir: jumieges, saint-wandrille, fecamp, mont-saint-michel, maurice-leblanc, arsene-lupin, grande-ourse, etretat
+
+@ jumieges
+cat: lieux
+nom: Abbaye de Jumièges
+alias: Jumièges, Énervés de Jumièges, saint Philibert, cœur d'Agnès Sorel
+lieu: Seine-Maritime, Normandie, France
+geo: 49.4319, 0.8192
+def: Abbaye bénédictine fondée en 654 dans une boucle de la Seine, ruinée après la Révolution, dont les tours blanches dominent les ruines les plus célèbres de Normandie ; la légende des Énervés y rattache les Mérovingiens.
+texte: Saint Philibert la fonde en 654 sur des terres données par Clovis II et la reine Bathilde ; elle compte bientôt des centaines de moines. Détruite par les Vikings en 841, rebâtie, elle voit l'église Notre-Dame consacrée en 1067 en présence de Guillaume le Conquérant. Vendue comme bien national en 1795, elle sert de carrière de pierre jusqu'à ce que la famille Lepel-Cointet, en 1852, protège ses ruines ; le département de la Seine-Maritime en est propriétaire depuis 2007.
+texte: Une légende du XIIe siècle raconte que deux fils de Clovis II, révoltés contre leur père, eurent les nerfs des jarrets brûlés et furent abandonnés sur la Seine dans une barque, qui s'échoua à Jumièges, où ils devinrent moines : ce sont les « Énervés de Jumièges », dont on montrait le tombeau. Agnès Sorel, favorite de Charles VII, morte en 1450 au manoir voisin du Mesnil, y fit déposer son cœur. Pour [[maurice-leblanc|Maurice Leblanc]], Jumièges, « jadis la plus puissante et la plus riche des abbayes normandes », est l'étoile qui mène au trésor.
+repere: 654 — Fondation par saint Philibert.
+repere: 841 — Destruction par les Vikings.
+repere: 1067 — Consécration de l'église Notre-Dame.
+repere: 1795 — Vente comme bien national.
+voir: abbayes-normandes, merovingiens, saint-wandrille, maurice-leblanc, grande-ourse
+
+@ fecamp
+cat: lieux
+nom: Fécamp
+alias: abbaye de la Trinité de Fécamp, Précieux-Sang de Fécamp, Bénédictine, Palais Bénédictine, Fici campus
+lieu: Seine-Maritime, Normandie, France
+geo: 49.7553, 0.3817
+def: Port du pays de Caux dont l'abbatiale de la Trinité garde le Précieux-Sang, relique du sang du Christ arrivée selon la légende dans un tronc de figuier ; la liqueur Bénédictine y a inventé ses moines.
+texte: La légende veut qu'Isaac, neveu de [[joseph-d-arimathie|Joseph d'Arimathie]], ait recueilli le sang du Christ, l'ait caché dans le tronc d'un figuier et confié à la mer, qui le déposa à Fécamp : *fici campus*, « le champ du figuier », a-t-on dit du nom de la ville. Le duc Richard Ier fit bâtir vers 990 une église de la Trinité, et Richard II y appela en 1001 Guillaume de Volpiano ; l'abbaye fut la nécropole des premiers ducs de Normandie. La relique, retrouvée au XIIe siècle dans un pilier, est vénérée dans un tabernacle de marbre ; ce sang du Christ apparente Fécamp aux légendes du [[graal|Graal]].
+texte: En 1863, le négociant Alexandre Le Grand lance une liqueur aux plantes qu'il prétend tirée d'une recette d'un moine de l'abbaye au XVIe siècle ; la « Bénédictine » et le palais néogothique et néorenaissance qu'il fait bâtir en 1900 doivent tout à cette légende commerciale. La côte voisine, d'[[etretat|Étretat]] aux falaises de Fécamp, est celle d'*[[arsene-lupin|Arsène Lupin]]*.
+repere: vers 990 — Le duc Richard Ier fait bâtir l'église de la Trinité.
+repere: 1001 — Guillaume de Volpiano réforme l'abbaye.
+repere: 1863 — Alexandre Le Grand crée la liqueur Bénédictine.
+voir: abbayes-normandes, graal, joseph-d-arimathie, etretat, arsene-lupin, sainte-lance
+
+@ saint-wandrille
+cat: lieux
+nom: Abbaye Saint-Wandrille
+alias: Fontenelle, Saint-Wandrille de Fontenelle, saint Wandrille, Maeterlinck à Saint-Wandrille
+lieu: Seine-Maritime, Normandie, France
+geo: 49.5296, 0.7665
+def: Abbaye bénédictine fondée en 649 par saint Wandrille dans le vallon de Fontenelle, où vécut de 1907 à 1914 l'écrivain Maurice Maeterlinck ; les moines y prient de nouveau depuis 1931.
+texte: Wandrille, comte de la cour de Dagobert Ier devenu moine, fonde l'abbaye en 649 ; ses abbés, dont l'historien de la maison, tiennent un des grands scriptoriums de l'époque carolingienne. Ruinée par les Vikings, restaurée au Xe siècle, elle est fermée à la Révolution et sa grande église devient une ruine. Les moines, revenus au XIXe siècle, doivent repartir en 1901 avec la loi sur les congrégations.
+texte: L'écrivain belge [[maurice-maeterlinck|Maurice Maeterlinck]] la loue en 1907 avec sa compagne Georgette Leblanc, sœur de [[maurice-leblanc|Maurice Leblanc]], qui y donne *Macbeth* dans les cloîtres et le réfectoire. La communauté bénédictine revient le 26 janvier 1931 et y chante l'office depuis. L'abbaye est l'une des sept que [[maurice-leblanc|Leblanc]] met dans la constellation de *La Comtesse de Cagliostro*.
+repere: 649 — Fondation par saint Wandrille.
+repere: 1907 — Maurice Maeterlinck s'y installe.
+repere: 1931 — Retour des moines bénédictins.
+voir: abbayes-normandes, maurice-maeterlinck, maurice-leblanc, jumieges
+
+@ mont-saint-michel
+cat: lieux
+nom: Mont-Saint-Michel
+alias: Mont Saint-Michel, la Merveille, Mont-Tombe, Tombelaine, saint Aubert, Bastille des mers
+lieu: Manche, Normandie, France
+geo: 48.6358, -1.5103
+def: Îlot rocheux de la baie entre Normandie et Bretagne, couronné d'une abbaye fondée après l'apparition de l'archange Michel à l'évêque Aubert en 708 ; jamais pris par les Anglais, il devint le symbole de la résistance du royaume.
+texte: Selon la tradition, [[saint-michel|saint Michel]] apparut en 708 à Aubert, évêque d'Avranches, pour lui demander un sanctuaire sur le mont Tombe ; devant les doutes du prélat, il lui aurait enfoncé le doigt dans le crâne, que l'on montre, percé, à Avranches. Des bénédictins s'y établissent en 966 ; après l'incendie de 1204, le roi Philippe Auguste finance la « Merveille », ensemble gothique de deux étages sur le flanc nord. Pendant la guerre de Cent Ans, le Mont résiste à tous les sièges anglais, et l'archange devient le protecteur du parti de Charles VII et l'une des voix de [[jeanne-d-arc|Jeanne d'Arc]].
+texte: La Révolution en fait une prison, la « Bastille des mers », jusqu'en 1863. Restauré au XIXe siècle, couronné en 1897 d'une flèche portant un saint Michel doré, il est inscrit au patrimoine mondial depuis 1979. Les auteurs modernes l'alignent avec Skellig Michael, le mont Saint-Michel de Cornouailles, la Sacra di San Michele et le mont Gargan sur une « ligne de saint Michel », à la manière des [[lignes-ley|lignes ley]].
+repere: 708 — Apparition de saint Michel à l'évêque Aubert.
+repere: 966 — Installation des bénédictins.
+repere: 1228 — Achèvement de la Merveille.
+repere: 1434 — Dernier assaut anglais repoussé.
+repere: 1863 — Fin de la prison.
+repere: 1979 — Inscription au patrimoine mondial.
+extrait: La seconde apparition eut lieu vers l’an du Seigneur 710, dans un lieu appelé la Tombelaine, qui est au bord de la mer, à une distance de six milles de la ville d’Avranches. Saint Michel apparut à l’évêque de cette ville et lui ordonna de lui élever une église en cet endroit. Et comme l’évêque doutait de l’endroit exact ou devait être construite l’église, l’archange lui dit qu’elle devait s’élever à l’endroit où l’on trouverait un taureau caché par des voleurs. Or il y avait, dans cet endroit, deux roches qu’aucune force humaine ne pouvait soulever. Saint Michel apparut à un habitant, lui pardonna de se rendre en ce lieu, et de soulever les roches. Et l’homme les souleva aussi aisément que si elles n’avaient eu aucun poids. ¶ Le même lieu fut témoin d’un autre miracle mémorable. Il y a là une montagne que la mer entoure de toutes parts ; mais, le jour de la fête de saint Michel, un passage s’y ouvre pour le peuple. Or, un jour qu’une grande foule s’y pressait vers l’église, une femme s’y trouvait mêlée qui était enceinte et près d’accoucher. Et voici que, tout à coup, les vagues affluèrent d’un grand élan, et toute la foule épouvantée s’enfuit sur le rivage, à l’exception de la femme enceinte qui, ne pouvant fuir, fut prise par les flots. Mais l’archange saint Michel la garda de tout mal. Au milieu des flots, elle enfanta un fils, qu’elle allaita de son sein ; puis la mer lui livra passage, et on la vit sortir avec son enfant.
+source: Jacques de Voragine, *La Légende dorée*, « Saint Michel », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Saint Michel
+voir: saint-michel, abbayes-normandes, jeanne-d-arc, lignes-ley, art-gothique
+
+@ bouillon
+cat: lieux
+nom: Bouillon
+alias: château de Bouillon, duché de Bouillon, Semois, Godefroy de Bouillon
+lieu: province de Luxembourg, Wallonie, Belgique
+geo: 49.7932, 5.0662
+def: Petite ville des Ardennes belges, au bord de la Semois, dominée par le château dont Godefroy de Bouillon hérita et qu'il engagea en 1096 à l'évêque de Liège pour partir à la croisade.
+texte: Le château, l'un des plus anciens ensembles féodaux de Belgique, occupe trois éperons rocheux au-dessus d'une boucle de la Semois ; son donjon remonte aux années 1080. [[godefroy-de-bouillon|Godefroy]] le reçoit de son oncle Godefroy le Bossu, duc de Basse-Lotharingie, et le cède en 1096 à Otbert, prince-évêque de Liège, pour financer son départ vers Jérusalem ; le château reste aux évêques puis aux ducs de Bouillon jusqu'à la conquête française de 1794, et Vauban le fortifie.
+texte: La légende du Chevalier au [[cygne]], qui vint défendre une duchesse de Bouillon et devint l'aïeul de Godefroy, s'attache au lieu. Non loin, l'abbaye d'[[orval|Orval]] garde le souvenir de Mathilde de Toscane, épouse de l'oncle de Godefroy.
+repere: vers 1085 — Construction du donjon.
+repere: 1096 — Godefroy engage le château à l'évêque de Liège.
+repere: 1794 — Conquête française.
+voir: godefroy-de-bouillon, cygne, orval, lohengrin
+
+@ saintes-maries-de-la-mer
+cat: lieux
+nom: Saintes-Maries-de-la-Mer
+alias: les Saintes-Maries, Notre-Dame-de-la-Mer, Sara la Kali, pèlerinage des Gitans, Marie Jacobé, Marie Salomé
+lieu: Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France
+geo: 43.4517, 4.4281
+def: Village de Camargue où, selon la légende provençale, abordèrent Marie Jacobé, Marie Salomé et leurs compagnons chassés de Palestine ; son église fortifiée accueille chaque mois de mai le pèlerinage des Gitans à sainte Sara.
+texte: La tradition raconte que les amis du Christ, [[marie-madeleine|Marie-Madeleine]], Marthe, Lazare, Maximin et deux autres Marie, mère de Jacques et Salomé, jetés dans une barque sans voile ni rame, échouèrent ici ; les deux Marie restèrent sur place avec leur servante Sara. L'église romane, fortifiée au XIIe siècle contre les pirates, garde dans sa chapelle haute les reliques « inventées » en 1448 sous l'impulsion du roi [[rene-d-anjou|René]], et dans sa crypte la statue de Sara, la sainte noire, parfois comptée parmi les [[vierges-noires|Vierges noires]].
+texte: Les Gitans de toute l'Europe viennent le 24 mai honorer Sara, puis porter en procession jusqu'à la mer les deux Marie ; le marquis Folco de Baroncelli, poète et gardian, obtint en 1935 que Sara soit à son tour menée aux flots. [[frederic-mistral|Frédéric Mistral]] fait mourir ici l'héroïne de *Mireille* (1859), qui voit les saintes venir sur la mer ; Van Gogh y peignit en 1888 les barques sur la plage.
+repere: 1448 — Invention des reliques des saintes Maries, sous le roi René.
+repere: 1859 — Mistral, *Mireille*.
+repere: 1888 — Séjour de Van Gogh.
+repere: 1935 — Première procession de Sara jusqu'à la mer.
+extrait: Car le portail (paupière — de cette chapelle bénie), — regarde sur l’église : — là-bas, dans l’extrême lointain, — on voit de là la blanche limite — qui joint ensemble et sépare — le ciel rond et l’onde amère ; — on voit de la grande mer l’éternelle révolution. ¶ Sans cesse les vagues insensées — qui se montent les unes sur les autres, jamais lasses — de se perdre en mugissant dans les monceaux de sable ; — du côté de la terre, une plaine — interminable ; pas une éminence — qui enceigne son horizon ; — un ciel immense et clair sur des savanes prodigieuses. ¶ Des tamaris (au feuillage) clair, — et au moindre vent mobiles ; — de longues friches de salicornes, et dans l’onde parfois — une volée de cygnes qui se purifie ; — ou bien dans la sansouire stérile — un troupeau de bœufs qui pâture, — ou qui passe à la nage l’eau du Vaccarés. (…) Elles sont sur une barque sans voile, — s’écria Mireille… — Devant elles, — ne voyez-vous pas comme l’onde aplanit ses tourbillons ? — Oh ! c’est bien elles ! L’air est clair, — et l’haleine suave qui les amène, — aussi lentement qu’elle peut voltige… — Les oiseaux de la mer les saluent à volées.
+source: Frédéric Mistral, *Mireille*, 1859, chant XII, traduction de l’auteur, Charpentier, 1861 | ws Mireille/Chant XII
+voir: marie-madeleine, rene-d-anjou, vierges-noires, sainte-baume, saint-maximin, tarasque, frederic-mistral
+
+@ sainte-baume
+cat: lieux
+nom: Sainte-Baume
+alias: grotte de la Sainte-Baume, massif de la Sainte-Baume, Saint-Pilon, forêt de la Sainte-Baume, baume de Marie-Madeleine
+lieu: Var, Provence-Alpes-Côte d'Azur, France
+geo: 43.3268, 5.7641
+def: Grotte du massif provençal de la Sainte-Baume où, selon la tradition, Marie-Madeleine vécut trente ans en pénitence ; pèlerinage des rois, des dominicains et des compagnons du Tour de France.
+texte: *Baume* signifie « grotte » en provençal. Au-dessus d'une forêt de hêtres et d'ifs préservée depuis l'Antiquité, peut-être bois sacré, une caverne s'ouvre dans la falaise à près de mille mètres. La *[[legende-doree|Légende dorée]]* y fait vivre [[marie-madeleine|Marie-Madeleine]] trente ans, sans autre nourriture que la musique des anges qui l'élevaient chaque jour dans les airs ; la chapelle du Saint-Pilon, au sommet, marque l'endroit où ils la portaient. Saint Louis y monta en 1254 ; depuis 1295, les dominicains gardent la grotte comme la basilique de [[saint-maximin|Saint-Maximin]], et Lacordaire y rétablit leur présence en 1859.
+texte: Les compagnons du [[compagnonnage]] y font pèlerinage : leur légende veut que Maître Jacques, l'un de leurs trois fondateurs avec Salomon et le père Soubise, se soit retiré à la Sainte-Baume et y ait été assassiné. Le massif est devenu en 2017 un parc naturel régional.
+repere: 1254 — Pèlerinage de saint Louis.
+repere: 1295 — Les dominicains reçoivent la garde du sanctuaire.
+repere: 1859 — Lacordaire y rétablit les dominicains.
+extrait: Cependant sainte Marie-Madeleine, désireuse de contempler les choses célestes, se retira dans une grotte de la montagne, que lui avait préparée la main des anges, et pendant trente ans elle y resta à l’insu de tous. Il n’y avait là ni cours d’eau, ni herbe, ni arbre ; ce qui signifiait que Jésus voulait nourrir la sainte des seuls mets célestes, sans lui accorder aucun des plaisirs terrestres. (…) Alors la sainte : « Je suis cette pécheresse. Depuis trente ans, je vis ici à l’insu de tous ; et, tous les jours, les anges m’emmènent au ciel, où j’ai le bonheur d’entendre de mes propres oreilles les chants de la troupe céleste.
+source: Jacques de Voragine, *La Légende dorée*, « Sainte Marie-Madeleine », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Sainte Marie-Madeleine
+voir: marie-madeleine, saint-maximin, saintes-maries-de-la-mer, compagnonnage, argot-des-batisseurs, legende-doree
+
+@ saint-maximin
+cat: lieux
+nom: Saint-Maximin-la-Sainte-Baume
+alias: basilique de Saint-Maximin, basilique Sainte-Marie-Madeleine, reliques de Marie-Madeleine, crypte de Saint-Maximin
+lieu: Var, Provence-Alpes-Côte d'Azur, France
+geo: 43.4526, 5.8637
+def: Ville de Provence dont la basilique gothique, commencée en 1295, garde dans sa crypte le crâne attribué à Marie-Madeleine, « découvert » en 1279 par le futur roi Charles II d'Anjou.
+texte: Le 9 décembre 1279, Charles de Salerne, neveu de saint Louis et futur comte de Provence, fait fouiller la crypte de la petite église et annonce avoir retrouvé, dans un sarcophage du IVe siècle, le corps de [[marie-madeleine|Marie-Madeleine]], ce qui ruine les prétentions de [[vezelay|Vézelay]]. Devenu roi, il fait élever à partir de 1295 la plus grande église gothique de Provence et la confie aux dominicains ; la construction dura jusqu'en 1532 et la façade n'a jamais été achevée. Le crâne, dans un reliquaire d'or de 1860, est porté en procession chaque 22 juillet.
+texte: Sous la Révolution, la basilique fut sauvée, dit-on, par Lucien Bonaparte, alors garde-magasin dans la ville, qui en fit un entrepôt et fit jouer *La Marseillaise* au grand orgue. Les sarcophages paléochrétiens de la crypte, sculptés de scènes bibliques, comptent parmi les plus anciens de France.
+repere: 1279 — Charles de Salerne « découvre » les reliques.
+repere: 1295 — Début de la construction de la basilique.
+repere: 1532 — Arrêt des travaux.
+voir: marie-madeleine, sainte-baume, saintes-maries-de-la-mer, vezelay, art-gothique
+
+@ sagrada-familia
+cat: lieux
+nom: Sagrada Família
+alias: Temple expiatoire de la Sainte-Famille, Sagrada Familia, carré magique de la Passion, façade de la Nativité
+lieu: Barcelone, Catalogne, Espagne
+geo: 41.4037, 2.1743
+def: Basilique de Barcelone commencée en 1882 et confiée l'année suivante à Antoni Gaudí, qui y travailla jusqu'à sa mort ; temple expiatoire couvert de symboles, encore en chantier, il porte sur sa façade de la Passion un carré magique de somme 33.
+texte: Une association de dévots de saint Joseph achète un terrain en 1881 et pose la première pierre en 1882 ; [[antoni-gaudi|Gaudí]] reprend le projet en 1883 et en fait une cathédrale de la nature, aux colonnes arborescentes et aux tours en forme de fuseaux. Il conçoit dix-huit tours — les douze apôtres, les quatre évangélistes, la Vierge et, au centre, le Christ, haute de 172,5 mètres — et trois façades, Nativité, Passion et Gloire. À sa mort en 1926, seules la crypte et une partie de la façade de la Nativité sont achevées ; en 1936, ses ateliers sont incendiés et ses maquettes brisées.
+texte: Les travaux, financés par les dons et les visites, reprennent dans les années 1950. Sur la façade de la Passion, sculptée par Josep Maria Subirachs à partir de 1987, un [[carre-magique|carré magique]] de seize cases donne partout la somme 33, l'âge du Christ à sa mort, nombre que l'on a rapproché du [[trente-trois|trente-troisième]] degré du Rite écossais. Benoît XVI a consacré l'église en 2010 ; les tours devaient s'achever pour le centenaire de la mort de Gaudí, en 2026.
+repere: 1882 — Pose de la première pierre.
+repere: 1883 — Antoni Gaudí prend la direction des travaux.
+repere: 1926 — Mort de Gaudí ; il est enterré dans la crypte.
+repere: 2005 — La crypte et la façade de la Nativité sont inscrites au patrimoine mondial.
+repere: 2010 — Consécration par Benoît XVI.
+voir: antoni-gaudi, carre-magique, trente-trois, art-gothique, dragon
+
+@ orval
+cat: lieux
+nom: Abbaye d'Orval
+alias: Orval, Notre-Dame d'Orval, Val d'Or, anneau de Mathilde, truite d'Orval, moines de Calabre
+lieu: province de Luxembourg, Wallonie, Belgique
+geo: 49.6397, 5.3489
+def: Abbaye cistercienne de Gaume fondée en 1070 par des moines venus de Calabre, liée à la légende de Mathilde de Toscane et de son anneau ; elle a donné son nom à une prophétie apocryphe et à une bière trappiste.
+texte: En 1070, des bénédictins venus de Calabre s'établissent dans ce vallon des Ardennes sur des terres du comte de Chiny ; vers 1076, la comtesse Mathilde de Toscane, veuve du duc Godefroy le Bossu, ratifie la donation. La légende raconte qu'elle laissa tomber son alliance dans la source et qu'une truite la lui rapporta : « Vraiment, c'est ici un val d'or ! » La truite tenant un anneau est restée l'emblème de l'abbaye. Les cisterciens s'y installent en 1132 ; incendiée par les troupes révolutionnaires en 1793, l'abbaye est rebâtie de 1926 à 1948 à côté des ruines, et ses moines brassent depuis 1931 une bière célèbre.
+texte: Une prétendue *[[prophetie-d-orval|prophétie d'Orval]]*, apparue après la chute de Napoléon, fut attribuée aux moines. Les *[[dossiers-secrets|Dossiers secrets]]* de [[pierre-plantard|Pierre Plantard]] ont fait des moines calabrais les porteurs d'un secret qui aurait conduit à Jérusalem, avec Pierre l'Ermite et [[godefroy-de-bouillon|Godefroy de Bouillon]], à la fondation d'un [[prieure-de-sion|Prieuré de Sion]] ; l'histoire de l'abbaye n'en garde aucune trace.
+repere: 1070 — Arrivée de moines de Calabre.
+repere: 1132 — Installation des cisterciens.
+repere: 1793 — Incendie par les troupes révolutionnaires.
+repere: 1948 — Consécration de la nouvelle abbatiale.
+voir: prophetie-d-orval, godefroy-de-bouillon, bouillon, prieure-de-sion, dossiers-secrets
+
+@ chartres
+cat: lieux
+nom: Chartres
+alias: Autricum, pays des Carnutes, ville de Chartres, pèlerinage de Chartres, Beauce
+lieu: Eure-et-Loir, Centre-Val de Loire, France
+geo: 48.4467, 1.4883
+def: Ville de la Beauce, ancienne capitale des Carnutes chez qui César place l'assemblée des druides de toute la Gaule, célèbre pour sa cathédrale gothique et pour son école de maîtres platoniciens.
+texte: Les Carnutes avaient pour ville Autricum, sur l'Eure. Jules César rapporte que les [[druidisme|druides]] se réunissaient chaque année sur leur territoire, « qui passe pour le point central de toute la Gaule » : ce texte a fait de Chartres, au XVIIe siècle, un sanctuaire druidique où l'on aurait honoré une vierge qui devait enfanter. L'évêque Fulbert reconstruit la cathédrale après l'incendie de 1020 et fonde l'[[ecole-de-chartres|école]] où, au XIIe siècle, on lit le *Timée* de Platon ; après l'incendie de 1194 s'élève la [[cathedrale-de-chartres|cathédrale]] gothique.
+texte: Charles Péguy, en 1912 et 1913, marche de Paris à Chartres pour remercier la Vierge et compose la *Présentation de la Beauce à Notre-Dame de Chartres* ; les étudiants reprennent son pèlerinage à partir de 1935. La ville garde la maison Picassiette, couverte de mosaïques de vaisselle brisée par le cantonnier Raymond Isidore.
+extrait: Tous ces druides n’ont qu’un seul chef dont l’autorité est sans bornes. À sa mort, le plus éminent en dignité lui succède ; ou, si plusieurs ont des titres égaux, l’élection a lieu par le suffrage des druides, et la place est quelquefois disputée par les armes. À une certaine époque de l’année, ils s’assemblent dans un lieu consacré sur la frontière du pays des Carnutes, qui passe pour le point central de toute la Gaule. Là se rendent de toutes parts ceux qui ont des différends, et ils obéissent aux jugements et aux décisions des druides. On croit que leur doctrine a pris naissance dans la Bretagne, et qu’elle fut de là transportée dans la Gaule ; et aujourd’hui ceux qui veulent en avoir une connaissance plus approfondie vont ordinairement dans cette île pour s’y instruire.
+source: Jules César, *La Guerre des Gaules*, livre VI, chap. XIII, trad. Désiré Nisard, 1865 | ws La Guerre des Gaules/Livre VI
+extrait: Étoile de la mer voici la lourde nappe // Et la profonde houle et l’océan des blés // Et la mouvante écume et nos greniers comblés, // Voici votre regard sur cette immense chape ¶ Et voici votre voix sur cette lourde plaine // Et nos amis absents et nos cœurs dépeuplés, // Voici le long de nous nos poings désassemblés // Et notre lassitude et notre force pleine. ¶ Étoile du matin, inaccessible reine, // Voici que nous marchons vers votre illustre cour, // Et voici le plateau de notre pauvre amour, // Et voici l’océan de notre immense peine.
+source: Charles Péguy, *Présentation de la Beauce à Notre-Dame de Chartres*, 1913, *Œuvres complètes*, NRF, 1919, t. VI | ws Présentation de la Beauce à Notre Dame de Chartres
+voir: cathedrale-de-chartres, ecole-de-chartres, druidisme, labyrinthe, vierges-noires
+
+@ nazca
+cat: lieux
+nom: Lignes de Nazca
+alias: Nazca, géoglyphes de Nazca, Maria Reiche, colibri de Nazca, astronaute de Nazca
+lieu: région d'Ica, Pérou
+geo: -14.6975, -75.1350
+def: Immenses figures et lignes tracées dans le désert du sud du Pérou par le peuple Nazca entre 500 avant et 500 après notre ère ; on n'en voit bien l'ensemble que du ciel, d'où les théories des anciens astronautes.
+texte: Sur un plateau désertique, les Nazca ont dégagé les cailloux sombres de la surface pour faire apparaître le sol clair : des lignes droites de plusieurs kilomètres, des trapèzes, des spirales et quelque soixante-dix figures d'animaux et de plantes, colibri, singe, araignée, orque, longues de dizaines ou de centaines de mètres. Repérées dans les années 1920, étudiées par l'Américain Paul Kosok, elles sont mesurées pendant un demi-siècle par l'Allemande Maria Reiche, qui y voit un calendrier astronomique. Elles sont inscrites au patrimoine mondial depuis 1994 ; en 2024, l'intelligence artificielle a aidé à en découvrir plus de trois cents nouvelles.
+texte: En 1968, [[erich-von-daniken|Erich von Däniken]] y voit des pistes d'atterrissage pour des visiteurs venus de l'espace, thèse qui a fait la célébrité du site et des [[anciens-astronautes|anciens astronautes]]. Les archéologues ont montré qu'un petit groupe, avec des cordes et des piquets, pouvait tracer ces figures ; on y voit des chemins rituels liés à l'eau, si rare dans ce désert, et des offrandes aux montagnes.
+repere: vers 500 av. J.-C. — Premiers tracés.
+repere: 1946 — Maria Reiche commence ses relevés.
+repere: 1968 — Von Däniken y voit des pistes d'atterrissage.
+repere: 1994 — Inscription au patrimoine mondial.
+voir: anciens-astronautes, erich-von-daniken, crop-circles, labyrinthe
+
+@ arcadie
+cat: lieux
+nom: Arcadie
+alias: Arcadia, Et in Arcadia ego, pays de Pan, Lycaon, mont Lycée, Arcadiens
+lieu: Péloponnèse, Grèce
+geo: 37.6000, 22.2000
+def: Région montagneuse du Péloponnèse, pays de Pan et des bergers, que les poètes ont faite le séjour d'un âge d'or pastoral ; la formule *Et in Arcadia ego* y rappelle que la mort règne même au paradis.
+texte: L'Arcadie réelle est une terre de montagnes et de pâturages au centre du Péloponnèse, qui se disait la plus ancienne de la Grèce. Son nom vient d'Arcas, fils de Zeus et de la nymphe Callisto, changée en [[ours|ourse]] et placée au ciel ; son roi Lycaon, qui servit à Zeus de la chair humaine, fut changé en loup, et le culte de Zeus Lycaios, sur le mont Lycée, a nourri la légende du [[loup-garou]]. [[pan|Pan]] y joue de la syrinx. L'historien Polybe, l'inventeur du [[carre-de-polybe|carré de Polybe]], était arcadien.
+texte: Virgile, dans les *Bucoliques*, en fait le pays idéal des bergers poètes, et Sannazaro (1504) puis Philip Sidney (1590) lui consacrent des romans pastoraux. Le Guerchin, vers 1620, puis [[nicolas-poussin|Nicolas Poussin]] peignent des bergers devant un tombeau où se lit *Et in Arcadia ego*, « Moi aussi, je suis en Arcadie » : c'est la mort qui parle, selon l'historien Erwin Panofsky. L'affaire de [[rennes-le-chateau|Rennes-le-Château]] a fait des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* le gardien d'un secret, et une tombe des environs, aux Pontils, ressemblant à celle du tableau, attira tant de chercheurs qu'on la démolit en 1988.
+voir: les-bergers-d-arcadie, pan, nicolas-poussin, ours, loup-garou, rennes-le-chateau, inscription-de-shugborough
+
+@ philae
+cat: lieux
+nom: Philæ
+alias: Philae, temple d'Isis de Philæ, île de Philæ, Agilkia, dernière inscription hiéroglyphique
+lieu: gouvernorat d'Assouan, Égypte
+geo: 24.0215, 32.8842
+def: Île du Nil, près d'Assouan, dont le temple d'Isis fut le dernier grand sanctuaire païen d'Égypte ; on y grava en 394 la dernière inscription hiéroglyphique connue, et il fut déplacé pierre à pierre dans les années 1970.
+texte: Le temple d'[[isis|Isis]], commencé sous Nectanébo Ier et achevé par les Ptolémées et les Romains, attirait les pèlerins de toute l'Égypte et de Nubie ; les Blemmyes, peuple nubien, obtinrent même par traité le droit d'emprunter la statue de la déesse. Le 24 août 394, un prêtre y grava une inscription en hiéroglyphes, la dernière que l'on connaisse ; les derniers textes démotiques datent du milieu du Ve siècle. Vers 535, Justinien fit fermer le temple, transformé en église.
+texte: Un petit obélisque de Philæ, emporté en Angleterre par William Bankes, porte une inscription bilingue qui aida [[jean-francois-champollion|Champollion]] à lire le nom de Cléopâtre. Menacés d'être engloutis par le lac du haut barrage d'Assouan, les monuments ont été démontés et remontés de 1972 à 1980 sur l'île voisine d'Agilkia, lors de la campagne internationale de sauvetage des monuments de Nubie.
+repere: IVe siècle av. J.-C. — Début du temple d'Isis.
+repere: 394 — Dernière inscription hiéroglyphique connue.
+repere: vers 535 — Justinien fait fermer le temple.
+repere: 1980 — Les temples sont remontés sur l'île d'Agilkia.
+voir: isis, culte-d-isis, hieroglyphes, jean-francois-champollion, egyptologie
+
+@ abydos
+cat: lieux
+nom: Abydos
+alias: Abydos d'Égypte, temple de Séthi Ier, Osiréion, table d'Abydos, Omm Sety, hélicoptère d'Abydos
+lieu: gouvernorat de Sohag, Égypte
+geo: 26.1852, 31.9189
+def: Ville sainte de la Haute-Égypte, où l'on vénérait le tombeau d'Osiris et célébrait ses mystères ; le temple de Séthi Ier y garde la liste des rois et un prétendu « hélicoptère » cher aux amateurs d'anciens astronautes.
+texte: Les premiers rois d'Égypte furent enterrés à Abydos, et la tombe de l'un d'eux, Djer, fut prise plus tard pour celle d'[[osiris|Osiris]]. Chaque année, une procession y rejouait la mort et la résurrection du dieu, et les Égyptiens voulaient y être enterrés ou y laisser une stèle. Le temple de Séthi Ier, aux reliefs d'une finesse rare, porte la « table d'Abydos », liste des soixante-seize rois qui l'ont précédé ; derrière lui, l'Osiréion, construction souterraine de granit, figurait le tombeau du dieu.
+texte: Sur un linteau du temple, des hiéroglyphes gravés puis regravés sous un autre roi ont produit des silhouettes que l'on a comparées à un hélicoptère et à un sous-marin : un exemple célèbre de « preuve » des [[anciens-astronautes|anciens astronautes]], que l'épigraphie explique simplement. Une Anglaise, Dorothy Eady, dite Omm Sety, vécut à Abydos de 1956 à sa mort en 1981, persuadée d'être la [[reincarnation|réincarnation]] d'une prêtresse du temple.
+repere: vers 3000 av. J.-C. — Tombeaux des premiers rois.
+repere: vers 1290 av. J.-C. — Temple de Séthi Ier.
+repere: 1956 — Omm Sety s'installe à Abydos.
+voir: osiris, anciens-astronautes, reincarnation, auguste-mariette, livre-des-morts
+
+@ saqqarah
+cat: lieux
+nom: Saqqarah
+alias: Sakkarah, nécropole de Memphis, pyramide de Djéser, Sérapéum de Saqqarah, pyramide d'Ounas
+lieu: gouvernorat de Gizeh, Égypte
+geo: 29.8500, 31.2333
+def: Nécropole de Memphis, où s'élève la pyramide à degrés de Djéser, œuvre d'Imhotep, et où furent découverts le Sérapéum des taureaux Apis et les Textes des pyramides.
+texte: Pendant trois mille ans, les habitants de Memphis ont enterré leurs morts sur ce plateau désertique. La pyramide à degrés du roi Djéser, vers 2650 avant notre ère, attribuée à [[imhotep|Imhotep]], est le premier grand monument de pierre taillée ; la pyramide du roi Ounas, vers 2350, abrite les premiers [[textes-des-pyramides|Textes des pyramides]], découverts par [[gaston-maspero|Maspero]] en 1881. Les tombes des hauts fonctionnaires y montrent la vie quotidienne de l'Ancien Empire.
+texte: En 1850, [[auguste-mariette|Auguste Mariette]] y retrouve le Sérapéum, galeries souterraines où l'on enterrait les taureaux Apis dans d'énormes sarcophages de granit. Des millions d'ibis momifiés, consacrés à [[thot|Thot]], remplissent d'autres galeries. Le conte de Satni y place la tombe où dort le [[livre-de-thot|livre de Thot]].
+repere: vers 2650 av. J.-C. — Pyramide à degrés de Djéser.
+repere: vers 2350 av. J.-C. — Pyramide d'Ounas et premiers Textes des pyramides.
+repere: 1850 — Mariette découvre le Sérapéum.
+repere: 1881 — Maspero ouvre les pyramides à textes.
+voir: imhotep, textes-des-pyramides, auguste-mariette, serapis, livre-de-thot, ptah, pyramides
+
+@ karnak
+cat: lieux
+nom: Karnak
+alias: temples de Karnak, Ipet-Isout, salle hypostyle, allée des sphinx, Thèbes
+lieu: Louxor, Égypte
+geo: 25.7183, 32.6583
+def: Immense ensemble de temples de Thèbes consacré à Amon-Rê, agrandi pendant deux mille ans par les pharaons, avec sa salle hypostyle de 134 colonnes, ses obélisques et ses allées de sphinx.
+texte: « Le plus sélectionné des lieux », Ipet-Isout, est le domaine d'[[amon|Amon]], de son épouse Mout et de leur fils Khonsou. Chaque pharaon du Moyen et du Nouvel Empire y a ajouté un pylône, une cour ou une chapelle ; la salle hypostyle de Séthi Ier et de Ramsès II aligne 134 colonnes papyriformes, et l'obélisque de la reine Hatchepsout dépasse vingt-neuf mètres. Une allée de près de trois kilomètres, bordée de sphinx à tête de bélier et à tête humaine, rejoint le temple de [[louxor|Louxor]] ; elle a été rouverte en 2021.
+texte: Le lac sacré, les reliefs des victoires royales et les dépôts de statues enfouies ont fait de Karnak le cœur de l'[[egyptologie]] thébaine, depuis les relevés de l'[[expedition-d-egypte|expédition d'Égypte]] jusqu'aux fouilles du centre franco-égyptien. Le sanctuaire ruiné, sous la lune, a été un lieu de prédilection des voyageurs romantiques et des rêveurs de l'[[egyptosophie]].
+repere: vers 2000 av. J.-C. — Premiers sanctuaires du Moyen Empire.
+repere: vers 1450 av. J.-C. — Obélisques d'Hatchepsout.
+repere: vers 1280 av. J.-C. — Salle hypostyle de Séthi Ier et Ramsès II.
+repere: 2021 — Réouverture de l'allée des sphinx.
+voir: amon, louxor, obelisque, sphinx, belier-symbole, vallee-des-rois
+
+@ louxor
+cat: lieux
+nom: Temple de Louxor
+alias: Louxor, Luxor, temple d'Amon de Louxor, obélisque de Louxor, Temple de l'homme
+lieu: Louxor, Égypte
+geo: 25.7000, 32.6392
+def: Temple de Thèbes bâti par Amenhotep III et Ramsès II, dont l'un des deux obélisques se dresse depuis 1836 place de la Concorde ; Schwaller de Lubicz y lut le « temple de l'homme ».
+texte: Le temple, au bord du Nil, accueillait chaque année la fête d'Opet, où la statue d'[[amon|Amon]] venait de [[karnak|Karnak]] en barque sacrée pour renouveler la puissance du roi. Amenhotep III bâtit la cour à colonnes papyriformes, Ramsès II le pylône précédé de colosses et de deux obélisques ; Alexandre y fit refaire un sanctuaire, et une mosquée médiévale, celle d'Abou el-Haggag, est restée perchée dans une cour. L'obélisque de droite, offert à la France par Méhémet Ali, fut descendu en 1831 et dressé à Paris le 25 octobre 1836.
+texte: De 1937 à 1952, l'égyptologue autodidacte [[schwaller-de-lubicz|René Schwaller de Lubicz]] mesure le temple et y voit, dans *Le Temple de l'homme* (1957), la figure du corps humain et une science sacrée des proportions ; ses thèses, qui ont inspiré l'égyptologie « symboliste » et le [[new-age|New Age]], sont rejetées par les égyptologues, qui reconnaissent la qualité de ses relevés.
+repere: vers 1380 av. J.-C. — Construction par Amenhotep III.
+repere: vers 1270 av. J.-C. — Pylône et obélisques de Ramsès II.
+repere: 1836 — L'obélisque est dressé place de la Concorde.
+repere: 1957 — *Le Temple de l'homme*, de Schwaller de Lubicz.
+voir: karnak, obelisque, amon, schwaller-de-lubicz, egyptomanie
+
+@ vallee-des-rois
+cat: lieux
+nom: Vallée des rois
+alias: Biban el-Molouk, Vallée des Rois, tombeau de Toutânkhamon, KV62, tombe de Séthi Ier
+lieu: Louxor, Égypte
+geo: 25.7402, 32.6024
+def: Vallée désertique de la rive ouest de Thèbes où furent creusés les tombeaux des pharaons du Nouvel Empire ; on y découvrit en 1922 le tombeau intact de Toutânkhamon.
+texte: À partir de Thoutmôsis Ier, vers 1500 avant notre ère, les rois renoncent aux pyramides et font creuser dans la montagne thébaine, dominée par un sommet en forme de pyramide naturelle, de longs couloirs décorés des livres de l'au-delà : la course nocturne du soleil, les douze heures de la Douat, les portes que franchit l'âme, comme dans le [[livre-des-morts|Livre des morts]]. On y compte plus de soixante tombes, presque toutes pillées dès l'Antiquité. Giovanni Belzoni ouvre en 1817 celle de Séthi Ier ; Champollion y séjourne en 1829.
+texte: Le 4 novembre 1922, Howard Carter découvre la tombe de Toutânkhamon, petite mais intacte, avec ses trésors et son sarcophage d'or, et la mort de Lord Carnarvon lance la [[malediction-du-pharaon|malédiction du pharaon]]. Soixante-cinq ans plus tôt, *[[le-roman-de-la-momie|Le Roman de la momie]]* de Théophile Gautier commençait par la découverte d'un tombeau inviolé à Biban el-Molouk.
+repere: vers 1500 av. J.-C. — Premier tombeau royal, celui de Thoutmôsis Ier.
+repere: 1817 — Belzoni ouvre la tombe de Séthi Ier.
+repere: 1922 — Découverte du tombeau de Toutânkhamon.
+voir: malediction-du-pharaon, le-roman-de-la-momie, momie, livre-des-morts, karnak
+
+@ amarna
+cat: lieux
+nom: Amarna
+alias: Tell el-Amarna, Akhetaton, Horizon d'Aton, lettres d'Amarna, buste de Néfertiti
+lieu: gouvernorat de Minya, Égypte
+geo: 27.6617, 30.9056
+def: Site de la ville d'Akhetaton, fondée vers 1348 avant notre ère par Akhenaton pour le culte d'Aton et abandonnée quinze ans plus tard ; on y a trouvé les lettres d'Amarna et le buste de Néfertiti.
+texte: [[akhenaton|Akhenaton]] choisit une plaine vierge entre le Nil et les falaises pour bâtir l'« horizon d'Aton », avec ses palais, ses temples à ciel ouvert où le soleil frappait les autels, et des stèles marquant les limites de la ville. Après sa mort, la cour revient à Thèbes et la ville est abandonnée puis démontée. En 1887, une paysanne découvre des tablettes d'argile écrites en cunéiforme : la correspondance diplomatique du pharaon avec les rois de Babylone, du Mitanni et de Canaan.
+texte: En 1912, l'archéologue allemand Ludwig Borchardt dégage, dans l'atelier du sculpteur Thoutmôsis, le buste peint de Néfertiti, aujourd'hui à Berlin. Les tombes des dignitaires conservent le *Grand Hymne à Aton*, que l'on a rapproché du psaume 104.
+repere: vers 1348 av. J.-C. — Fondation d'Akhetaton.
+repere: vers 1332 av. J.-C. — Abandon de la ville.
+repere: 1887 — Découverte des lettres d'Amarna.
+repere: 1912 — Découverte du buste de Néfertiti.
+voir: akhenaton, amon, ra, egyptologie
+
+@ edfou
+cat: lieux
+nom: Temple d'Edfou
+alias: Edfou, Edfu, temple d'Horus d'Edfou, Behedet, fête de la Bonne Réunion
+lieu: gouvernorat d'Assouan, Égypte
+geo: 24.9778, 32.8733
+def: Temple d'Horus bâti sous les Ptolémées de 237 à 57 avant notre ère, le mieux conservé d'Égypte, dont les murs racontent la victoire d'Horus sur Seth et la création du monde.
+texte: Ensablé jusqu'au XIXe siècle, le temple a gardé son pylône, ses salles, son toit et son sanctuaire ; [[auguste-mariette|Mariette]] le dégage en 1860. Ses inscriptions, d'une abondance rare, décrivent la fondation du temple sur la butte primordiale sortie des eaux, et le drame sacré du triomphe d'[[horus|Horus]] sur [[seth|Seth]], figuré en hippopotame que le dieu harponne. Chaque année, la statue d'[[hathor|Hathor]] remontait le Nil depuis [[dendera|Dendérah]] pour la « Bonne Réunion » avec son époux Horus d'Edfou.
+repere: 237 av. J.-C. — Début de la construction sous Ptolémée III.
+repere: 57 av. J.-C. — Achèvement du temple.
+repere: 1860 — Dégagement par Auguste Mariette.
+voir: horus, hathor, dendera, seth, auguste-mariette
+
+@ pompei
+cat: lieux
+nom: Pompéi
+alias: Pompéi, temple d'Isis de Pompéi, Iseum de Pompéi, villa des Mystères
+lieu: Campanie, Italie
+geo: 40.7492, 14.4883
+def: Ville romaine ensevelie par le Vésuve en 79, dont le temple d'Isis, retrouvé en 1764, et la villa des Mystères, aux fresques d'une initiation dionysiaque, sont des témoins uniques des cultes à mystères.
+texte: Le petit temple d'[[isis|Isis]], rebâti après le tremblement de terre de 62 aux frais d'un enfant de six ans, Numerius Popidius Celsinus, fut l'un des premiers monuments dégagés, de 1764 à 1766 : on y trouva les autels, le bassin souterrain de l'eau sacrée du Nil, des peintures d'ibis et de prêtres, et les restes d'un dernier repas. Il passionna l'Europe des Lumières et inspira le décor du [[culte-d-isis|culte d'Isis]] de *La Flûte enchantée* et des loges égyptiennes. [[gerard-de-nerval|Nerval]] y médite dans *Isis*.
+texte: Hors des murs, la villa des Mystères garde une grande frise peinte vers 60 avant notre ère, où l'on voit une femme initiée aux [[mysteres-antiques|mystères]] de Dionysos, entre la flagellation et la danse extatique ; on l'a rapprochée de l'[[orphisme]]. [[pline-l-ancien|Pline l'Ancien]] mourut à Stabies, de l'autre côté de la baie, pendant l'éruption.
+repere: 62 — Tremblement de terre ; reconstruction du temple d'Isis.
+repere: 79 — L'éruption du Vésuve ensevelit la ville.
+repere: 1764 — Découverte du temple d'Isis.
+extrait: Peut-être ai-je dû au souvenir éclatant d’Alexandrie, de Thèbes et des Pyramides, l’impression presque religieuse que me causa une seconde fois la vue du temple d’Isis de Pompéi. J’avais laissé mes compagnons de voyage admirer dans tous ses détails la maison de Diomède, et, me dérobant à l’attention des gardiens, je m’étais jeté au hasard dans les rues de la ville antique, évitant çà et là quelque invalide qui me demandait de loin où j’allais, et m’inquiétant peu de savoir le nom que la science avait retrouvé pour tel ou tel édifice, pour un temple, pour une maison, pour une boutique. N’était-ce pas assez que les drogmans et les Arabes m’eussent gâté les pyramides, sans subir encore la tyrannie des ciceroni napolitains ? J’étais entré par la rue des tombeaux ; il était clair qu’en suivant cette voie pavée de lave, où se dessine encore l’ornière profonde des roues antiques, je retrouverais le temple de la déesse égyptienne, situé à l’extrémité de la ville, auprès du théâtre tragique. Je reconnus l’étroite cour jadis fermée d’une grille, les colonnes encore debout, les deux autels à droite et à gauche, dont le dernier est d’une conservation parfaite, et au fond l’antique cella s’élevant sur sept marches autrefois revêtues de marbre de Paros.
+source: Gérard de Nerval, « Isis », *Les Filles du feu*, 1854 (éd. Michel Lévy, 1856) | ws Les Filles du feu/Isis
+voir: isis, culte-d-isis, mysteres-antiques, orphisme, gerard-de-nerval, pline-l-ancien
+
+@ bletchley-park
+cat: lieux
+nom: Bletchley Park
+alias: Station X, Government Code and Cypher School, Hut 8, Colossus, Ultra
+lieu: Milton Keynes, Buckinghamshire, Angleterre
+geo: 51.9981, -0.7411
+def: Domaine victorien au nord de Londres où travaillèrent pendant la Seconde Guerre mondiale les décrypteurs britanniques, d'Alan Turing aux opératrices de la marine, qui percèrent Enigma et le chiffre Lorenz.
+texte: En août 1939, le service du chiffre britannique s'installe dans ce manoir et ses baraquements de bois, les « huttes ». Mathématiciens, linguistes, champions d'échecs et de mots croisés y rejoignent les militaires ; ils seront près de dix mille en 1945, aux trois quarts des femmes. [[alan-turing|Alan Turing]] et Gordon Welchman y conçoivent les « bombes » qui cassent chaque jour les réglages d'[[enigma|Enigma]] ; en 1944, Tommy Flowers y met en service Colossus, l'un des premiers ordinateurs électroniques, contre le chiffre du haut commandement allemand.
+texte: Le secret, tenu jusqu'en 1974, a privé longtemps ses acteurs de reconnaissance. Le domaine, sauvé de la démolition, est un musée depuis 1994. On y consulta d'anciens décrypteurs sur l'[[inscription-de-shugborough|inscription de Shugborough]].
+repere: 1939 — Installation du service du chiffre.
+repere: 1940 — Première bombe de Turing en service.
+repere: 1944 — Colossus.
+repere: 1974 — Le secret d'Ultra est révélé.
+repere: 1994 — Ouverture du musée.
+voir: enigma, alan-turing, cryptographie, inscription-de-shugborough
+
+@ saint-sulpice
+cat: lieux
+nom: Église Saint-Sulpice
+alias: Saint-Sulpice, gnomon de Saint-Sulpice, méridienne de Saint-Sulpice, ligne rose, chapelle des Saints-Anges
+lieu: Paris 6e, Île-de-France, France
+geo: 48.8510, 2.3349
+def: Grande église de la rive gauche de Paris, dont le gnomon de laiton et de marbre, construit au XVIIIe siècle pour fixer la date de Pâques, a été mêlé par l'affaire de Rennes-le-Château et le *Da Vinci Code* à une prétendue « ligne rose ».
+texte: Commencée en 1646 et achevée au XIXe siècle, Saint-Sulpice est l'église du séminaire fondé par Jean-Jacques Olier. En 1727, le curé Languet de Gergy fait tracer par l'horloger Henry Sully une méridienne pour déterminer l'équinoxe de printemps et donc la date de Pâques ; l'astronome Le Monnier la refait en 1743 : une ligne de laiton court sur le dallage jusqu'à un obélisque de marbre, et un rayon de soleil, passant par une lentille du vitrail, la frappe à midi. Delacroix y peint en 1861 la *Lutte de Jacob avec l'ange* ; Victor Hugo s'y maria en 1822.
+texte: Le récit des années 1960 veut que l'abbé [[berenger-sauniere|Saunière]] ait apporté ses parchemins au séminaire de Saint-Sulpice ; le *[[da-vinci-code|Da Vinci Code]]* (2003) fait de la méridienne une « ligne rose » héritée d'un temple païen et y place une scène de meurtre. La paroisse a affiché que la ligne n'était qu'un instrument astronomique et que le nom de l'église ne venait pas d'Isis.
+repere: 1646 — Pose de la première pierre de l'église actuelle.
+repere: 1743 — Le Monnier refait la méridienne.
+repere: 1861 — Peintures de Delacroix.
+repere: 2003 — *Da Vinci Code*.
+voir: da-vinci-code, rennes-le-chateau, berenger-sauniere, prieure-de-sion, paris, equinoxes-et-solstices
+
+@ stenay
+cat: lieux
+nom: Stenay
+alias: Stenay-sur-Meuse, saint Dagobert, forêt de la Woëvre
+lieu: Meuse, Grand Est, France
+geo: 49.4900, 5.1856
+def: Petite ville de la Meuse près de laquelle le roi Dagobert II fut assassiné en 679 et vénéré comme saint ; les *Dossiers secrets* du Prieuré de Sion en ont fait un haut lieu de la lignée mérovingienne.
+texte: Résidence royale mérovingienne, Stenay garda le corps de [[dagobert-ii|Dagobert II]], tué en 679 dans la forêt voisine de la Woëvre ; une église lui fut consacrée et l'on y vénérait ses reliques, dispersées pendant les guerres de Religion. Place forte disputée, la ville fut au XVIIe siècle l'une des places de la Fronde des princes. Elle abrite aujourd'hui un musée européen de la bière.
+texte: Les documents fabriqués par l'entourage de [[pierre-plantard|Pierre Plantard]] dans les années 1960 font de Stenay un centre du [[prieure-de-sion|Prieuré de Sion]] et du culte secret de Dagobert, d'où la ville tire une petite notoriété auprès des amateurs d'énigmes.
+repere: 679 — Dagobert II est assassiné près de Stenay, le 23 décembre.
+repere: 1967 — Les *Dossiers secrets* et *L'Or de Rennes* lancent la légende moderne.
+voir: dagobert-ii, merovingiens, prieure-de-sion, pierre-plantard, rennes-le-chateau
+
+@ opera-garnier
+cat: lieux
+nom: Opéra Garnier
+alias: palais Garnier, Opéra de Paris, lac de l'Opéra, lustre de l'Opéra, Fantôme de l'Opéra, voix ensevelies
+lieu: Paris 9e, Île-de-France, France
+geo: 48.8719, 2.3317
+def: Opéra de Paris bâti par Charles Garnier de 1861 à 1875, dont la cuve d'eau souterraine, le lustre et les dessous ont inspiré à Gaston Leroux *Le Fantôme de l'Opéra*.
+texte: Lauréat du concours de 1861, l'architecte Charles Garnier se heurte dès les fondations à une nappe d'eau ; il fait construire un grand cuvelage de béton rempli d'eau qui stabilise l'édifice, le « lac » de l'Opéra, où s'entraînent aujourd'hui les pompiers. Le monument, inauguré le 5 janvier 1875, mêle les marbres, les dorures et les styles. Le 20 mai 1896, l'un des contrepoids du grand lustre tombe dans la salle pendant une représentation et tue une spectatrice. En 1907, on enferme dans les sous-sols des urnes contenant des disques de phonographe, destinées à faire entendre aux générations futures les voix de l'époque ; elles ont été ouvertes en 2008.
+texte: [[gaston-leroux|Gaston Leroux]] tire de ces faits *Le Fantôme de l'Opéra* (1910) : le lac, le lustre qui tombe et le cadavre découvert « en creusant le sous-sol pour y enterrer les voix » en sont des échos directs. Chagall a peint le plafond de la salle en 1964, et des ruches sont installées depuis les années 1980 sur le toit, d'où l'on récolte le miel de l'Opéra.
+repere: 1861 — Charles Garnier remporte le concours.
+repere: 1875 — Inauguration, le 5 janvier.
+repere: 1896 — Chute d'un contrepoids du lustre, le 20 mai.
+repere: 1907 — Enfouissement des disques destinés à la postérité.
+repere: 1910 — *Le Fantôme de l'Opéra*.
+voir: gaston-leroux, roman-gothique, abeille, paris
+
+@ domremy
+cat: lieux
+nom: Domrémy-la-Pucelle
+alias: Domrémy, maison natale de Jeanne d'Arc, Bois-Chenu, arbre des fées, basilique du Bois-Chenu
+lieu: Vosges, Grand Est, France
+geo: 48.4425, 5.6750
+def: Village des marches de Lorraine où naquit Jeanne d'Arc vers 1412, près du Bois-Chenu et de l'« arbre des fées » dont ses juges l'interrogèrent ; une basilique s'élève à l'endroit de ses voix.
+texte: La maison natale, une demeure de pierre du XVe siècle, et l'église Saint-Rémy, où [[jeanne-d-arc|Jeanne]] fut baptisée, sont au bord de la Meuse. Sur la colline, le Bois-Chenu abritait une fontaine et un grand hêtre que l'on appelait l'« arbre des Dames » ou « des fées » : les enfants y dansaient et y suspendaient des couronnes, et le curé y disait la messe pour chasser les fées. Les juges de Rouen voulurent y trouver la source de ses voix et de ses sortilèges.
+texte: Une prophétie, attribuée à [[merlin|Merlin]], annonçait qu'une pucelle venue d'un bois chenu sauverait le royaume. La basilique du Bois-Chenu, construite de 1881 à 1926, marque l'endroit où, dit-on, Jeanne entendit ses voix.
+repere: vers 1412 — Naissance de Jeanne d'Arc.
+repere: 1431 — Les juges de Rouen l'interrogent sur l'arbre des fées.
+repere: 1926 — Achèvement de la basilique du Bois-Chenu.
+extrait: Humble à la vérité, mais déjà poétique. Son village était à deux pas des grandes forêts des Vosges. De la porte de la maison de son père, elle voyait le vieux bois des chênes. Les fées hantaient ce bois ; elles aimaient surtout une certaine fontaine près d’un grand hêtre qu’on nommait l’arbre des fées, des dames. Les petits enfants y suspendaient des couronnes, y chantaient. Ces anciennes dames et maîtresses des forêts ne pouvaient plus, disait-on, se rassembler à la fontaine ; elles en avaient été exclues pour leurs péchés. Cependant l’Église se défiait toujours des vieilles divinités locales ; le curé, pour les chasser, allait chaque année dire une messe à la fontaine.
+source: Jules Michelet, *Histoire de France*, livre X, chap. III, « Jeanne Darc », éd. Flammarion, 1893-1898 | ws Histoire de France (Jules Michelet)/édition 1893/Moyen Âge/Livre 10/Chapitre 3
+voir: jeanne-d-arc, merlin, saint-michel, chinon

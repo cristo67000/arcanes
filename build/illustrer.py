@@ -43,7 +43,7 @@ QUALITE = 74
 # l'original (souvent plusieurs mégaoctets) : c'est assez pour réduire ensuite.
 LARGEUR_SOURCE = 1280
 
-CHAMPS = {'commons', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite'}
+CHAMPS = {'commons', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite', 'page'}
 CHAMPS_PLANCHE = {'titre', 'images'}
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -115,19 +115,23 @@ def nettoyer(html):
     return re.sub(r'\s+', ' ', texte).strip()
 
 
-def informations(titre):
+def informations(titre, page=None):
     """Une requête par fichier, avec redirects=1 : par lot, l'API rend les
-    titres normalisés dans un ordre qui ne permet pas de les rapprocher."""
+    titres normalisés dans un ordre qui ne permet pas de les rapprocher.
+    `page` : le numéro de page d'un livre numérisé (PDF ou DjVu), dont Commons
+    fournit le rendu en image."""
     p = {'action': 'query', 'titles': 'File:' + titre, 'prop': 'imageinfo', 'redirects': '1',
          'iiprop': 'url|size|extmetadata|sha1', 'iiurlwidth': str(LARGEUR_SOURCE), 'format': 'json'}
+    if page:
+        p['iiurlparam'] = 'page%d-%dpx' % (int(page), LARGEUR_SOURCE)
     r = json.loads(obtenir(API + '?' + urllib.parse.urlencode(p)))
-    page = list(r['query']['pages'].values())[0]
-    if 'imageinfo' not in page:
+    fiche = list(r['query']['pages'].values())[0]
+    if 'imageinfo' not in fiche:
         return None
-    ii = page['imageinfo'][0]
+    ii = fiche['imageinfo'][0]
     em = ii.get('extmetadata', {})
     return {
-        'titre': page['title'][len('File:'):],
+        'titre': fiche['title'][len('File:'):],
         'url': ii['url'], 'vignette': ii.get('thumburl'), 'w': ii['width'], 'h': ii['height'], 'sha1': ii.get('sha1'),
         'page': ii.get('descriptionurl'),
         'licence': nettoyer(em.get('LicenseShortName', {}).get('value')),
@@ -135,6 +139,7 @@ def informations(titre):
         'droits': nettoyer(em.get('Copyrighted', {}).get('value')),
         'auteur': nettoyer(em.get('Artist', {}).get('value'))[:200],
         'date': nettoyer(em.get('DateTimeOriginal', {}).get('value'))[:120],
+        'feuillet': int(page) if page else None,
     }
 
 
@@ -151,10 +156,13 @@ def libre(info):
 def original(info):
     os.makedirs(ORIGINAUX, exist_ok=True)
     cle = info['sha1'] or hashlib.sha1(info['titre'].encode('utf-8')).hexdigest()
+    if info.get('feuillet'):
+        cle += '-p' + str(info['feuillet'])
     chemin = os.path.join(ORIGINAUX, cle + '.bin')
     if os.path.exists(chemin):
         return chemin, False
-    url = info['vignette'] if info['w'] > LARGEUR_SOURCE and info.get('vignette') else info['url']
+    # la page d'un livre numérisé n'existe qu'en rendu : la vignette, toujours
+    url = info['vignette'] if (info['w'] > LARGEUR_SOURCE or info.get('feuillet')) and info.get('vignette') else info['url']
     donnees = obtenir(url)
     with open(chemin, 'wb') as f:
         f.write(donnees)
@@ -216,7 +224,7 @@ def main():
     for i, image in enumerate(images):
         sortie = os.path.join(DOSSIER_IMG, image['id'] + '.webp')
         signature = '|'.join([image['commons'], image.get('recadrer', ''), str(image.get('largeur') or LARGEUR_DEFAUT),
-                              str(image.get('qualite') or QUALITE)])
+                              str(image.get('qualite') or QUALITE)] + (['p' + image['page']] if image.get('page') else []))
         ancien = precedent.get(image['id'])
         if ancien and ancien.get('sig') == signature and os.path.exists(sortie):
             info = {'page': ancien['src'], 'licence': ancien['lic']}
@@ -225,7 +233,7 @@ def main():
             if verifier:
                 erreur(image['lieu'], 'image à (re)faire : ' + image['id'])
                 continue
-            info = informations(image['commons'])
+            info = informations(image['commons'], image.get('page'))
             if not info:
                 erreur(image['lieu'], 'fichier introuvable sur Commons : ' + image['commons'])
                 continue

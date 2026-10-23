@@ -10,7 +10,7 @@ texte: Pour les Grecs, elle est la nymphe Callisto, aimée de Zeus et changée e
 texte: Les deux étoiles du bord du chariot montrent l'[[etoile-polaire|étoile Polaire]], à cinq fois leur distance : c'est par elle que l'on trouve le nord. Pour [[rene-guenon|René Guénon]], la Grande Ourse, tournant autour du pôle, est l'un des symboles du centre spirituel primordial, la « terre polaire » d'où serait issue la [[tradition-primordiale|tradition]]. Le chiffre sept de ses étoiles l'a associée aux sept planètes et à toutes les symboliques du [[sept|septénaire]].
 extrait: Dès le début de nos recherches, j'avais relevé sur un atlas la position exacte des sept abbayes dont j'avais inscrit les sept noms sur cette carte. Les voilà, toutes les sept, aux sept emplacements qu'elles occupent les unes à l'égard des autres. Or il m'a suffi, tout à l'heure, dès que j'ai connu le mot, de réunir les sept points par des lignes pour aboutir à cette constatation inouïe, Josine, miraculeuse, colossale, et pourtant très naturelle, que la *figure ainsi formée représente exactement la Grande Ourse*. Saisis-tu bien l'étonnante réalité ? Les sept abbayes du pays de Caux, les sept abbayes primordiales où convergeaient les richesses de la France chrétienne, étaient disposées comme les sept étoiles principales de la Grande-Ourse !
 source: Maurice Leblanc, *La Comtesse de Cagliostro*, chap. XII, feuilleton du *Journal*, 1923-1924 | ws La Comtesse de Cagliostro/Chapitre XII
-voir: petite-ourse, etoile-polaire, constellation, sept, tradition-primordiale, maurice-leblanc
+voir: petite-ourse, etoile-polaire, constellation, sept, tradition-primordiale, maurice-leblanc, abbayes-normandes, ours
 
 @ petite-ourse
 cat: astronomie
@@ -19,7 +19,7 @@ alias: Ursa Minor, Petit Chariot, Cynosure, Phénicienne
 def: Petite constellation proche du pôle Nord céleste, dont la dernière étoile de la queue est l'étoile Polaire, guide des navigateurs depuis l'Antiquité.
 texte: Selon les Grecs, Thalès apprit aux marins à se guider sur elle, à la manière des Phéniciens, d'où son nom ancien de « Phénicienne » ; les Grecs se guidaient plutôt sur la Grande Ourse, plus brillante mais plus éloignée du pôle. Son autre nom, *Cynosure*, « queue de chien », a donné à l'anglais un mot pour désigner ce qui attire tous les regards.
 texte: Ses sept étoiles reproduisent en petit le chariot de la [[grande-ourse|Grande Ourse]]. Parce qu'elle tourne à peine, accrochée au pôle, elle a figuré l'axe immobile du monde, autour duquel tout le ciel paraît pivoter.
-voir: grande-ourse, etoile-polaire, constellation
+voir: grande-ourse, etoile-polaire, constellation, ours
 
 @ etoile-polaire
 cat: astronomie
@@ -28,7 +28,7 @@ alias: Polaris, étoile du Nord, alpha de la Petite Ourse, Thuban, pôle célest
 def: Étoile qui marque à peu près le pôle Nord céleste, point immobile autour duquel le ciel semble tourner ; par la précession, ce rôle passe au cours des millénaires d'une étoile à l'autre.
 texte: Parce que l'axe de la Terre décrit lentement un cône en vingt-six mille ans environ, la [[precession|précession]], le pôle céleste se déplace parmi les étoiles. Au temps des bâtisseurs des pyramides, vers 2800 avant notre ère, l'étoile polaire était Thuban, dans la constellation du Dragon ; Polaris ne s'est approchée du pôle qu'au cours du dernier millénaire et en sera au plus près vers 2100 ; dans douze mille ans, ce sera Véga, dans la Lyre.
 texte: Point fixe au milieu du mouvement universel, l'étoile polaire est le « clou du ciel » de nombreux peuples d'Asie du Nord, l'axe où se rattache la tente céleste, que les chamanes escaladent en esprit. [[rene-guenon|René Guénon]] et d'autres auteurs traditionalistes en font le symbole du centre suprême, du pôle spirituel et de l'origine hyperboréenne de la [[tradition-primordiale|tradition]], rejoignant le symbolisme de l'[[arbre-cosmique|arbre cosmique]] et de l'[[omphalos]].
-voir: petite-ourse, grande-ourse, precession, arbre-cosmique, tradition-primordiale
+voir: petite-ourse, grande-ourse, precession, arbre-cosmique, tradition-primordiale, axis-mundi
 
 @ constellation
 cat: astronomie
@@ -40,7 +40,7 @@ texte: Les douze constellations que traverse le Soleil forment le [[zodiaque]], 
 repere: vers 270 av. J.-C. — Aratos décrit les constellations dans ses *Phénomènes*.
 repere: vers 150 — Ptolémée recense quarante-huit constellations.
 repere: 1922 — L'Union astronomique internationale adopte les quatre-vingt-huit constellations.
-voir: zodiaque, grande-ourse, orion, ecliptique, astrologie
+voir: zodiaque, grande-ourse, orion, ecliptique, astrologie, pegase, hydre, centaure
 
 @ orion
 cat: astronomie
@@ -72,7 +72,7 @@ texte: En 1950, les ethnologues Marcel Griaule et Germaine Dieterlen rapportent 
 repere: 1862 — Alvan Clark observe Sirius B, le compagnon de Sirius.
 repere: 1950 — Griaule et Dieterlen publient *Un système soudanais de Sirius*.
 repere: 1976 — Robert Temple, *Le Mystère de Sirius*.
-voir: orion, egyptosophie, constellation, astrologie
+voir: orion, egyptosophie, constellation, astrologie, isis, chien
 
 @ voie-lactee
 cat: astronomie

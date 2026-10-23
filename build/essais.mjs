@@ -66,7 +66,7 @@ try {
   const n = await js('return Dictionnaire.articles.length');
   ok(n === MANIFESTE.articles, 'le dictionnaire est chargé (' + n + ' articles, manifeste : ' + MANIFESTE.articles + ')');
   ok(await js("return document.querySelectorAll('#liste .article-ligne').length") === n, 'toute la liste est dessinée');
-  ok(await js("return document.querySelector('#compte').textContent") === n + ' articles', 'le compteur dit « ' + n + ' articles »');
+  ok(await js("return document.querySelector('#compte').textContent") === n.toLocaleString('fr-FR') + ' articles', 'le compteur dit « ' + n.toLocaleString('fr-FR') + ' articles »');
   ok(await js("return document.getElementById('du-jour').hidden === false"), 'l’article du jour est affiché');
   ok(await js("return document.querySelectorAll('#portes .porte').length") === 12, 'les douze portes d’entrée sont affichées');
   ok(await js("return document.querySelectorAll('.lettre').length") >= 20, 'des lettres séparent la liste');

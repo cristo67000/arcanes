@@ -21,7 +21,7 @@ repere: 1471 — Première édition imprimée de cette traduction, sous le titre
 repere: 1488 — Le pavement de la cathédrale de Sienne le représente en « contemporain de Moïse ».
 repere: 1614 — Isaac Casaubon date les textes hermétiques des premiers siècles de notre ère.
 repere: 1945 — Trois écrits hermétiques figurent parmi les manuscrits de Nag Hammadi.
-voir: hermetisme, corpus-hermetique, poimandres, asclepius, table-d-emeraude, egyptosophie, prisca-theologia, caducee, hermopolis
+voir: hermetisme, corpus-hermetique, poimandres, asclepius, table-d-emeraude, egyptosophie, prisca-theologia, caducee, hermopolis, thot, imhotep
 
 @ zoroastre
 cat: figures
@@ -65,7 +65,7 @@ repere: vers 1462 — [[marsile-ficin|Marsile Ficin]] traduit les *Hymnes orphiq
 repere: 1607 — Monteverdi fait de lui le héros de *L'Orfeo*.
 repere: 1889 — [[edouard-schure|Édouard Schuré]] le range parmi les « grands initiés ».
 repere: 1962 — Découverte du papyrus de Derveni, près de Thessalonique.
-voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose
+voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose, cerbere
 
 @ pythagore
 cat: figures
@@ -87,7 +87,7 @@ repere: vers 450 av. J.-C. — Les maisons de réunion des pythagoriciens sont i
 repere: vers 400 av. J.-C. — Philolaos met par écrit une doctrine pythagoricienne.
 repere: vers 300 — [[jamblique|Jamblique]] écrit *De la vie pythagorique*.
 repere: 1813 — [[fabre-d-olivet|Fabre d'Olivet]] publie *Les Vers dorés de Pythagore*.
-voir: pythagorisme, tetractys, harmonie-des-spheres, metempsycose, monade, platon, arithmologie
+voir: pythagorisme, tetractys, harmonie-des-spheres, metempsycose, monade, platon, arithmologie, ecole-de-chartres, dodecaedre
 
 @ platon
 cat: figures
@@ -110,7 +110,7 @@ repere: 348 ou 347 av. J.-C. — Mort à Athènes.
 repere: IVe siècle — Calcidius traduit en latin une partie du *Timée*, presque seul dialogue connu du Moyen Âge latin.
 repere: 1484 — Publication à Florence de la traduction latine de ses œuvres complètes par [[marsile-ficin|Marsile Ficin]].
 oeuvres: Phédon ; Banquet ; République ; Phèdre ; Timée ; Critias ; Lois
-voir: neoplatonisme, ame-du-monde, demiurge, atlantide, prisca-theologia, plotin, pythagore, anamnese
+voir: neoplatonisme, ame-du-monde, demiurge, atlantide, prisca-theologia, plotin, pythagore, anamnese, solides-de-platon, dodecaedre, ecole-de-chartres
 
 @ apollonius-de-tyane
 cat: figures
@@ -241,7 +241,7 @@ repere: vers 301 — Porphyre publie les *Ennéades*.
 repere: 1492 — [[marsile-ficin|Marsile Ficin]] publie la traduction latine des *Ennéades*.
 oeuvres: Ennéades (rassemblées par Porphyre vers 301)
 schema: emanation-plotin
-voir: neoplatonisme, emanation, porphyre, ame-du-monde, platon, sympathie-universelle
+voir: neoplatonisme, emanation, porphyre, ame-du-monde, platon, sympathie-universelle, ecole-de-chartres
 
 @ porphyre
 cat: figures
@@ -263,7 +263,7 @@ repere: vers 301 — Il publie les *Ennéades*, précédées d'une *Vie de Ploti
 repere: vers 305 — Mort, probablement à Rome.
 repere: 448 — Un édit impérial ordonne de brûler son traité *Contre les chrétiens*.
 repere: vers 510 — Boèce traduit l'*Isagogè* en latin.
-voir: plotin, jamblique, neoplatonisme, theurgie, oracles-chaldaiques, pythagore
+voir: plotin, jamblique, neoplatonisme, theurgie, oracles-chaldaiques, pythagore, abeille
 
 @ jamblique
 cat: figures
@@ -283,7 +283,7 @@ repere: vers 300 — Il fonde une école en Syrie, sans doute à Apamée.
 repere: vers 325 — Mort, sous le règne de Constantin.
 repere: 361 — Avènement de l'empereur Julien, son admirateur, qui tente de restaurer le paganisme.
 repere: 1497 — *Les Mystères d'Égypte* paraissent à Venise dans la traduction de [[marsile-ficin|Marsile Ficin]].
-voir: theurgie, porphyre, proclus, neoplatonisme, egyptosophie, oracles-chaldaiques
+voir: theurgie, porphyre, proclus, neoplatonisme, egyptosophie, oracles-chaldaiques, dodecaedre, nostradamus
 
 @ proclus
 cat: figures
@@ -304,7 +304,7 @@ repere: 485 — Mort à Athènes ; son disciple Marinus écrit sa *Vie*.
 repere: 529 — L'empereur Justinien interdit aux païens d'enseigner ; l'école d'Athènes s'éteint.
 repere: 1268 — Guillaume de Moerbeke traduit en latin les *Éléments de théologie*.
 repere: 1788 — Thomas Taylor commence à traduire Proclus en anglais.
-voir: neoplatonisme, theurgie, jamblique, sympathie-universelle, pseudo-denys, oracles-chaldaiques
+voir: neoplatonisme, theurgie, jamblique, sympathie-universelle, pseudo-denys, oracles-chaldaiques, hecate
 
 @ zosime-de-panopolis
 cat: figures
@@ -384,7 +384,7 @@ repere: 1121 — Abélard doute que l'Aréopagite soit le saint Denis de Paris e
 repere: 1457 — Lorenzo Valla conteste qu'il ait été un disciple de saint Paul.
 repere: 1895 — Hugo Koch et Josef Stiglmayr démontrent sa dépendance envers Proclus.
 schema: hierarchies-celestes
-voir: hierarchies-celestes, anges, proclus, neoplatonisme, mystique
+voir: hierarchies-celestes, anges, proclus, neoplatonisme, mystique, art-gothique
 
 @ salomon
 cat: figures
@@ -407,7 +407,7 @@ repere: XIIe – XIIIe siècle — L'*Art notoire* circule sous son nom.
 repere: XVe – XVIe siècle — La *Clavicule de Salomon* se répand en manuscrits.
 repere: 1723 — Les *Constitutions* d'Anderson font de lui le Grand Maître de la loge de Jérusalem.
 repere: 1904 — Mathers et Crowley publient *La Goétie*, première partie du *Lemegeton*.
-voir: clavicule-de-salomon, lemegeton, hexagramme, goetie, colonnes-jakin-et-boaz, temple-de-salomon, legende-d-hiram
+voir: clavicule-de-salomon, lemegeton, hexagramme, goetie, colonnes-jakin-et-boaz, temple-de-salomon, legende-d-hiram, asmodee, noeud-de-salomon
 
 @ jabir-ibn-hayyan
 cat: figures
@@ -540,7 +540,7 @@ repere: 1249 — Selon la légende, il offre en plein hiver un banquet dans un j
 repere: 1260 — Évêque de Ratisbonne, charge qu'il quitte deux ans plus tard.
 repere: 1280 — Mort à Cologne.
 repere: 1931 — Canonisé et proclamé docteur de l'Église.
-voir: grand-albert, petit-albert, alchimie, magie-naturelle, roger-bacon, talisman
+voir: grand-albert, petit-albert, alchimie, magie-naturelle, roger-bacon, talisman, roman-gothique
 
 @ roger-bacon
 cat: figures
@@ -562,7 +562,7 @@ repere: vers 1278 — Selon une chronique tardive, il est emprisonné pour « no
 repere: vers 1292 — Mort à Oxford.
 repere: vers 1589 — Une pièce de Robert Greene popularise la légende de la tête d'airain.
 repere: 2009 — La datation du manuscrit Voynich au début du XVe siècle écarte définitivement son nom.
-voir: albert-le-grand, alchimie, elixir-de-longue-vie, magie-naturelle, secret-des-secrets
+voir: albert-le-grand, alchimie, elixir-de-longue-vie, magie-naturelle, secret-des-secrets, manuscrit-de-voynich
 
 @ arnaud-de-villeneuve
 cat: figures
@@ -650,7 +650,7 @@ repere: vers 159 — Accusé de magie, il se défend à Sabratha et prononce son
 repere: après 170 — Mort, sans doute à Carthage.
 repere: 1469 — Première édition imprimée de ses œuvres, à Rome.
 oeuvres: Apologie (vers 159) ; Les Métamorphoses ou L'Âne d'or ; Du dieu de Socrate ; Florides
-voir: mysteres-antiques, magie, egyptosophie, asclepius, initiation, la-rose
+voir: mysteres-antiques, magie, egyptosophie, asclepius, initiation, la-rose, isis, culte-d-isis, papillon
 
 @ bolos-de-mendes
 cat: figures
@@ -687,7 +687,7 @@ repere: IXe siècle — Il écrit le premier traité connu sur le déchiffrement
 repere: vers 850 — Disgracié sous le calife al-Mutawakkil, il voit sa bibliothèque confisquée.
 repere: vers 873 — Mort à Bagdad.
 repere: XIIe – XIIIe siècle — Son traité *Des rayons* circule en latin.
-voir: astrologie, magie-naturelle, talisman, sympathie-universelle, avicenne, picatrix
+voir: astrologie, magie-naturelle, talisman, sympathie-universelle, avicenne, picatrix, analyse-des-frequences, cryptographie
 
 @ avicenne
 cat: figures

@@ -88,7 +88,7 @@ alias: materia prima, prima materia, matière de l'œuvre, sujet des sages
 def: Substance de départ de l'œuvre alchimique, que les traités désignent sous mille noms et décrivent comme méprisée de tous et présente partout.
 texte: Pour Aristote, la matière première est le substrat sans forme qui reçoit toutes les formes. Les alchimistes en font la matière de leur œuvre, qu'il faut identifier avant tout : « vile, trouvée dans le fumier », selon certains, « que les enfants jouent avec elle dans les rues », selon d'autres. Ils l'appellent dragon, eau sèche, plomb des sages, Saturne ou terre adamique.
 texte: Les historiens ont reconnu derrière ces énigmes, selon les auteurs, l'[[antimoine]], le cinabre, les sels de plomb, le vitriol, l'urine ou la [[rosee|rosée]]. Le secret de la matière première était le mieux gardé de tous.
-voir: grand-oeuvre, mercure-philosophique, turba-philosophorum, antimoine, rosee
+voir: grand-oeuvre, mercure-philosophique, turba-philosophorum, antimoine, rosee, vierges-noires
 
 @ mercure-philosophique
 cat: alchimie
@@ -150,7 +150,7 @@ def: Théorie antique selon laquelle toute matière est composée de feu, d'air,
 texte: Le philosophe Empédocle, au Ve siècle avant notre ère, enseigne que tout naît du mélange de quatre « racines », unies par l'Amour et séparées par la Haine. Aristote les définit par des couples de qualités : le feu est chaud et sec, l'air chaud et humide, l'eau froide et humide, la terre froide et sèche. Comme ils partagent une qualité deux à deux, ils peuvent se changer les uns dans les autres : c'est le fondement théorique de l'[[alchimie]].
 texte: La médecine leur fait correspondre quatre humeurs — sang, bile jaune, bile noire, flegme — et quatre tempéraments : sanguin, colérique, mélancolique, flegmatique. L'[[astrologie]] répartit les douze signes en quatre triplicités élémentaires, et les occultistes attribuent les éléments aux quatre enseignes du [[tarot]]. Aristote y ajoute un cinquième élément, l'éther des cieux, d'où la [[quintessence]].
 schema: quatre-elements
-voir: quintessence, tria-prima, elementaux, triplicites, arcanes-mineurs, pentagramme, quatre
+voir: quintessence, tria-prima, elementaux, triplicites, arcanes-mineurs, pentagramme, quatre, solides-de-platon, salamandre
 
 @ quintessence
 cat: alchimie
@@ -159,7 +159,7 @@ alias: cinquième essence, quinta essentia, éther, aether
 def: Cinquième élément, incorruptible, dont seraient faits les cieux selon Aristote ; les alchimistes ont cru l'extraire des choses terrestres par la distillation.
 texte: Aristote distingue des quatre éléments terrestres un cinquième, l'éther, matière des astres, qui ne connaît ni naissance ni corruption et se meut en cercle. Au XIVe siècle, le franciscain [[jean-de-roquetaillade|Jean de Roquetaillade]] enseigne qu'on peut obtenir sur terre un équivalent de ce « ciel » en distillant le vin à de nombreuses reprises : l'eau-de-vie ainsi obtenue, qui conserve les chairs, serait la quintessence, capable de préserver le corps de la corruption.
 texte: Le mot a ensuite désigné l'extrait le plus pur et le plus actif de toute substance, puis, dans la langue courante, ce qu'il y a de meilleur et d'essentiel en quelque chose.
-voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme, cinq
+voir: quatre-elements, distillation, elixir-de-longue-vie, arnaud-de-villeneuve, pentagramme, cinq, dodecaedre
 
 @ nigredo
 cat: alchimie
@@ -169,7 +169,7 @@ def: Première phase du Grand Œuvre, où la matière enfermée dans le vase noi
 texte: Les textes décrivent un noir profond, « plus noir que le noir », signe que la matière a été dissoute et putréfiée. On l'appelle la tête de corbeau, et on la figure par un corbeau, un squelette, un soleil noir, un roi qui meurt ou des corps dans un tombeau. Les alchimistes y voient un signe de réussite : sans mort, pas de renaissance.
 texte: [[carl-gustav-jung]] interprète la nigredo comme la confrontation de la conscience avec sa propre part d'ombre, une phase de dépression et de désorientation qui précède toute transformation profonde.
 schema: grand-oeuvre/nigredo
-voir: grand-oeuvre, albedo, putrefaction, cauda-pavonis, rubedo
+voir: grand-oeuvre, albedo, putrefaction, cauda-pavonis, rubedo, corbeau
 
 @ albedo
 cat: alchimie
@@ -179,7 +179,7 @@ def: Deuxième phase du Grand Œuvre, où la matière, purifiée par des lavages
 texte: Après le noir et l'apparition des couleurs de la [[cauda-pavonis|queue de paon]], la matière blanchit. Les traités parlent d'ablutions et de lavages, et répètent la formule : « Blanchissez le laiton et déchirez vos livres. » L'albedo est figurée par la Lune, la reine, le cygne, la colombe ou une femme vêtue de blanc.
 texte: Elle est souvent comprise comme la purification de l'âme, rendue capable de recevoir la lumière. Certains alchimistes s'arrêtent à la pierre au blanc ; les autres poursuivent jusqu'à la [[rubedo]].
 schema: grand-oeuvre/albedo
-voir: grand-oeuvre, nigredo, citrinitas, rubedo, lune
+voir: grand-oeuvre, nigredo, citrinitas, rubedo, lune, cygne, colombe
 
 @ citrinitas
 cat: alchimie
@@ -209,7 +209,7 @@ def: Apparition de couleurs irisées dans le vase alchimique, entre le noir et l
 texte: Après la [[nigredo]], la surface de la matière se couvre d'irisations changeantes, comme les plumes déployées d'un paon ou un arc-en-ciel. Les traités y voient l'annonce de l'[[albedo]] : la matière morte commence à revivre.
 texte: Le paon, oiseau dont la chair passait pour incorruptible, était déjà dans l'art chrétien un symbole de résurrection. Il figure dans de nombreuses images alchimiques, comme celles du *[[splendor-solis|Splendor solis]]*.
 schema: grand-oeuvre
-voir: grand-oeuvre, nigredo, albedo, splendor-solis
+voir: grand-oeuvre, nigredo, albedo, splendor-solis, paon
 
 @ solve-et-coagula
 cat: alchimie
@@ -245,7 +245,7 @@ alias: leo viridis, lion vert dévorant le soleil, loup gris
 def: Animal symbolique de l'alchimie, souvent représenté en train de dévorer le soleil, qui désigne un dissolvant puissant capable d'attaquer l'or.
 texte: Une image célèbre du *Rosaire des philosophes* montre un lion vert qui mord le soleil, d'où coule un sang. Selon les auteurs, le lion vert désigne le vitriol vert, l'eau régale (mélange d'acides qui dissout l'or), le minerai d'[[antimoine]] ou une matière encore « verte », c'est-à-dire non mûre.
 texte: Il est souvent associé au loup gris de [[basile-valentin]], qui dévore le roi mort avant d'être brûlé pour le rendre à la vie : image de la purification de l'or par l'antimoine.
-voir: antimoine, vitriol, basile-valentin, rosaire-des-philosophes
+voir: antimoine, vitriol, basile-valentin, rosaire-des-philosophes, lion-symbole
 
 @ voie-seche
 cat: alchimie
@@ -400,7 +400,7 @@ glyphe: antimoine
 def: Métalloïde gris et brillant, dont le minerai, la stibine, joua un grand rôle dans l'alchimie et la médecine chimique des XVIe et XVIIe siècles.
 texte: Fondu avec de l'or impur, le minerai d'antimoine absorbe les autres métaux et laisse l'or purifié : c'est le « loup gris » qui dévore le roi dans les gravures de [[basile-valentin]], dont le *Char triomphal de l'antimoine* (1604) en fait l'éloge. Le métal obtenu, le « régule », cristallise parfois en forme d'étoile, ce qui fascinait [[isaac-newton]] et [[eirenee-philalethe|Philalèthe]] : ils l'utilisaient pour préparer le [[mercure-philosophique|mercure des philosophes]].
 texte: En médecine, les composés d'antimoine, violents émétiques, provoquent la « guerre de l'antimoine » entre partisans de la [[iatrochimie]] et défenseurs de la médecine ancienne. Le symbole alchimique de l'antimoine est un cercle surmonté d'une croix.
-voir: basile-valentin, iatrochimie, lion-vert, mercure-philosophique, materia-prima
+voir: basile-valentin, iatrochimie, lion-vert, mercure-philosophique, materia-prima, loup
 
 @ rosee
 cat: alchimie

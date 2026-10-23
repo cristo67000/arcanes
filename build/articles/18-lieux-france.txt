@@ -34,6 +34,7 @@ def: Village de l'Aude dont le curé, l'abbé Saunière, dépensa des sommes con
 texte: Perché au-dessus de la haute vallée de l'Aude, dans le Razès, le village compte à peine deux cents habitants quand l'abbé [[berenger-sauniere|Bérenger Saunière]] y est nommé en 1885. Le curé restaure son église, dédiée à Marie-Madeleine, et l'orne d'un décor saint-sulpicien foisonnant : un diable soutient le bénitier de l'entrée, sous l'inscription *Terribilis est locus iste*, « ce lieu est redoutable », tirée de la Genèse. Il fait bâtir la villa Béthanie, un jardin, un belvédère et la tour Magdala, qui abrite sa bibliothèque.
 texte: L'évêque de [[carcassonne|Carcassonne]], inquiet de ces dépenses, découvre que le curé sollicite dans toute la France des honoraires pour des messes qu'il ne célèbre pas : Saunière est suspendu en 1910 et meurt en 1917. En 1956, Noël Corbu, qui a repris le domaine pour en faire un hôtel-restaurant, lance dans la presse régionale l'histoire d'un trésor caché, celui de Blanche de Castille. [[pierre-plantard|Pierre Plantard]] et Philippe de Chérisey fabriquent ensuite de faux parchemins et des « dossiers secrets » glissés dans les collections de la Bibliothèque nationale, que [[gerard-de-sede|Gérard de Sède]] met en récit dans *L'Or de Rennes* (1967).
 texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]], secret du peintre [[nicolas-poussin|Poussin]] et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
+texte: Chaque élément du village est entré dans la légende : le diable du bénitier, que l'on appelle [[asmodee|Asmodée]], la dédicace de l'église à [[marie-madeleine|Marie-Madeleine]] et la tour Magdala, les [[parchemins-de-rennes-le-chateau|parchemins]] où paraissent [[dagobert-ii|Dagobert II]] et les « pommes bleues », le séjour supposé de Saunière au séminaire de [[saint-sulpice|Saint-Sulpice]], le tombeau des Pontils et l'[[arcadie|Arcadie]] de Poussin, jusqu'à l'[[inscription-de-shugborough|inscription de Shugborough]] en Angleterre.
 repere: 1885 — Bérenger Saunière est nommé curé du village.
 repere: 1897 — L'église restaurée reçoit la visite de l'évêque de Carcassonne.
 repere: 1901 — Début de la construction de la villa Béthanie et de la tour Magdala.
@@ -44,7 +45,7 @@ repere: 1965 — La commune interdit les fouilles.
 repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
 repere: 1982 — *L'Énigme sacrée* lie le village à une descendance du Christ.
 repere: 2003 — Le *Da Vinci Code* reprend la légende du prieuré de Sion.
-voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc
+voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc, parchemins-de-rennes-le-chateau, asmodee, marie-madeleine, dagobert-ii, saint-sulpice, arcadie
 
 @ rennes-les-bains
 cat: lieux
@@ -123,7 +124,7 @@ repere: 2019 — Incendie de la flèche et de la charpente.
 repere: 2024 — Réouverture après la restauration.
 extrait: Il est certain encore que l’archidiacre s’était épris d’une passion singulière pour le portail symbolique de Notre-Dame, cette page de grimoire écrite en pierre par l’évêque Guillaume de Paris, lequel a sans doute été damné pour avoir attaché un si infernal frontispice au saint poëme que chante éternellement le reste de l’édifice. (…) Mais, ce que tout le monde avait pu remarquer, c’étaient les interminables heures qu’il employait souvent, assis sur le parapet du parvis, à contempler les sculptures du portail, examinant tantôt les vierges folles avec leurs lampes renversées, tantôt les vierges sages avec leurs lampes droites ; d’autres fois calculant l’angle du regard de ce corbeau qui tient au portail de gauche et qui regarde dans l’église un point mystérieux où est certainement cachée la pierre philosophale, si elle n’est pas dans la cave de Nicolas Flamel.
 source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre IV, chap. V | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre quatrième
-voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques, paris
+voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques, paris, art-gothique, gothique, chimere, gargouille
 
 @ tour-saint-jacques
 cat: lieux
@@ -157,19 +158,24 @@ voir: nicolas-flamel, tour-saint-jacques, livre-des-figures-hieroglyphiques, pie
 @ cathedrale-de-chartres
 cat: lieux
 nom: Cathédrale de Chartres
-alias: Notre-Dame de Chartres, labyrinthe de Chartres, Vierge noire, Notre-Dame-de-Sous-Terre, Virgini pariturae
+alias: Notre-Dame de Chartres, labyrinthe de Chartres, Vierge noire, Notre-Dame-de-Sous-Terre, Notre-Dame du Pilier, Virgini pariturae, portail royal, voile de la Vierge
 lieu: Eure-et-Loir, Centre-Val de Loire, France
 geo: 48.4478, 1.4878
 def: Cathédrale gothique reconstruite après l'incendie de 1194, célèbre pour ses vitraux et son labyrinthe, que l'ésotérisme moderne a lue comme un temple de savoirs anciens.
 texte: Bâtie pour l'essentiel entre 1194 et 1220, la cathédrale garde la plupart de ses vitraux du XIIIe siècle et, dans la nef, un grand [[labyrinthe]] dallé à chemin unique, que les fidèles parcouraient en prière. Elle était l'un des grands pèlerinages de la Vierge, dont elle conserve une relique, le voile de Marie, et une statue vénérée dans la crypte, Notre-Dame-de-Sous-Terre.
-texte: Au XVIIe siècle, des érudits locaux affirment que les [[druidisme|druides]] honoraient à cet endroit une « Vierge qui doit enfanter », *Virgini pariturae* : la légende, sans fondement, fera de Chartres un sanctuaire celtique christianisé. [[joris-karl-huysmans|Huysmans]], dans *La Cathédrale* (1898), en déchiffre longuement le symbolisme chrétien. Au XXe siècle, des auteurs y cherchent des proportions secrètes, le [[nombre-d-or|nombre d'or]], des courants telluriques ou l'héritage des [[templiers]], autant d'hypothèses que l'histoire de l'art ne retient pas.
+texte: Le portail royal, sculpté vers 1145, rescapé de l'incendie, place autour de la Vierge les sept arts libéraux et leurs maîtres, Pythagore pour la musique, Aristote pour la dialectique, Euclide pour la géométrie : image de l'[[ecole-de-chartres|école de Chartres]], qui lisait Platon à l'ombre de la cathédrale. Les signes du [[zodiaque]] y côtoient les travaux des mois, et un vitrail du XIIIe siècle leur est consacré. Deux [[vierges-noires|Vierges noires]] y sont vénérées, Notre-Dame-de-Sous-Terre et Notre-Dame du Pilier, dont la restauration de 2013, qui lui rendit un visage clair, fit scandale. Dans le bas-côté sud, une dalle claire marquée d'un clou de laiton reçoit à midi, au solstice d'été, le rayon qui traverse un vitrail.
+texte: Au XVIIe siècle, des érudits locaux affirment que les [[druidisme|druides]] honoraient à cet endroit une « Vierge qui doit enfanter », *Virgini pariturae* : la légende, sans fondement, fera de [[chartres|Chartres]] un sanctuaire celtique christianisé, sur la foi de César qui plaçait chez les Carnutes l'assemblée des druides. [[joris-karl-huysmans|Huysmans]], dans *La Cathédrale* (1898), en déchiffre longuement le symbolisme chrétien, et Charles Péguy, qui y vint à pied de Paris en 1912 et 1913, en chante la flèche. Au XXe siècle, des auteurs y cherchent des proportions secrètes, le [[nombre-d-or|nombre d'or]], des courants telluriques, l'[[arche-d-alliance|arche d'alliance]] ou l'héritage des [[templiers]], autant d'hypothèses que l'histoire de l'art ne retient pas.
+repere: vers 1145 — Sculpture du portail royal.
 repere: 1194 — Un incendie détruit la cathédrale romane ; la reconstruction commence.
 repere: 1260 — Consécration de la nouvelle cathédrale.
 repere: 1898 — *La Cathédrale*, de Huysmans.
+repere: 1913 — Charles Péguy, *Présentation de la Beauce à Notre-Dame de Chartres*.
 repere: 1979 — Inscription au patrimoine mondial de l'UNESCO.
 extrait: Songez que Chartres est le premier oratoire que Notre-Dame ait eu en France. Il se relie aux temps messianiques, car bien avant que la fille de Joachim ne fût née, les Druides avaient instauré, dans la grotte qui est devenue notre crypte, un autel à la « Vierge qui devait enfanter » « Virgini Pariturae ». Ils ont eu, par une sorte de grâce, l’intuition d’un Sauveur dont la Mère serait sans tache : il semble donc qu’à Chartres, plus que dans tout autre lieu, il y ait de très vieux liens d’amitié avec Marie ; l’on comprend dès lors que Satan se soit entêté à les rompre.
 source: Joris-Karl Huysmans, *La Cathédrale*, 1898, chap. III (l’abbé Plomb parle) | gallica bpt6k663741 = l’édition originale numérisée | ws La Cathédrale (Huysmans)/III
-voir: labyrinthe, druidisme, joris-karl-huysmans, notre-dame-de-paris, nombre-d-or
+extrait: Un homme de chez nous, de la glèbe féconde // A fait jaillir ici d’un seul enlèvement, // Et d’une seule source et d’un seul portement, // Vers votre assomption la flèche unique au monde. ¶ Tour de David voici votre tour beauceronne. // C’est l’épi le plus dur qui soit jamais monté // Vers un ciel de clémence et de sérénité, // Et le plus beau fleuron dedans votre couronne. ¶ Un homme de chez nous a fait ici jaillir, // Depuis le ras du sol jusqu’au pied de la croix, // Plus haut que tous les saints, plus haut que tous les rois, // La flèche irréprochable et qui ne peut faillir. ¶ C’est la gerbe et le blé qui ne périra point, // Qui ne fanera point au soleil de septembre, // Qui ne gèlera point aux rigueurs de décembre, // C’est votre serviteur et c’est votre témoin.
+source: Charles Péguy, *Présentation de la Beauce à Notre-Dame de Chartres*, 1913, *Œuvres complètes*, NRF, 1919, t. VI | ws Présentation de la Beauce à Notre Dame de Chartres
+voir: labyrinthe, druidisme, joris-karl-huysmans, notre-dame-de-paris, nombre-d-or, chartres, ecole-de-chartres, vierges-noires, art-gothique
 
 @ hotel-lallemant
 cat: lieux
@@ -218,7 +224,7 @@ texte: En 1946, Roger Lhomoy, gardien du château, creuse en secret sous le donj
 repere: 1188 — L'« orme de Gisors » est abattu lors d'une entrevue des rois de France et d'Angleterre.
 repere: 1946 — Roger Lhomoy dit avoir vu une crypte sous le donjon.
 repere: 1962 — *Les Templiers sont parmi nous*, de Gérard de Sède.
-voir: templiers, gerard-de-sede, pierre-plantard, prieure-de-sion, chinon
+voir: templiers, gerard-de-sede, pierre-plantard, prieure-de-sion, chinon, philippe-le-bel
 
 @ chinon
 cat: lieux
@@ -231,7 +237,7 @@ texte: En 1308, pendant le procès des [[templiers]], le grand maître [[jacques
 texte: Les murs de la tour portent des graffiti gravés dans la pierre : croix, cœurs, figures et signes divers. Les auteurs ésotériques y ont vu un message chiffré laissé par les templiers à leurs successeurs ; les historiens les attribuent à des prisonniers de diverses époques, sans pouvoir les dater avec certitude.
 repere: 1308 — Jacques de Molay et des dignitaires du Temple sont interrogés à Chinon.
 repere: 2001 — Redécouverte du parchemin de Chinon aux archives vaticanes.
-voir: templiers, jacques-de-molay, gisors, baphomet
+voir: templiers, jacques-de-molay, gisors, baphomet, jeanne-d-arc, philippe-le-bel
 
 @ pere-lachaise
 cat: lieux
@@ -244,4 +250,4 @@ texte: [[allan-kardec|Allan Kardec]], mort en 1869, repose sous un dolmen de gra
 texte: Le cimetière abrite aussi les tombes de [[papus]], de la cartomancienne [[mademoiselle-lenormand|Mademoiselle Lenormand]], de [[gerard-de-nerval|Gérard de Nerval]] et de nombreux francs-maçons dont les monuments portent l'[[compas-et-equerre|équerre et le compas]], des pyramides, des colonnes brisées ou un [[oeil-de-la-providence|œil dans un triangle]] : une promenade symbolique que guides et curieux pratiquent volontiers.
 repere: 1804 — Ouverture du cimetière.
 repere: 1870 — Le dolmen d'Allan Kardec est inauguré.
-voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation, paris
+voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation, paris, egyptomanie, obelisque

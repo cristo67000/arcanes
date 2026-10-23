@@ -224,7 +224,7 @@ repere: 1786 — *Les Noces de Figaro*.
 repere: 1787 — *Don Giovanni*.
 repere: 1791 — *La Flûte enchantée*, le 30 septembre ; mort à Vienne le 5 décembre.
 oeuvres: Musique funèbre maçonnique (1785) ; Die Zauberflöte (1791) ; Petite cantate maçonnique (1791)
-voir: la-flute-enchantee, egyptosophie, initiation-maconnique, gotthold-ephraim-lessing, sarastro, vienne
+voir: la-flute-enchantee, egyptosophie, initiation-maconnique, gotthold-ephraim-lessing, sarastro, vienne, isis, sethos
 
 @ johann-wolfgang-von-goethe
 cat: figures
@@ -339,7 +339,7 @@ repere: 1853 — *Orthodoxie maçonnique* et *Maçonnerie occulte*.
 repere: 1861 — *Tuileur général de la franc-maçonnerie*.
 repere: 1862 — Mort à Paris.
 oeuvres: Cours philosophique et interprétatif des initiations anciennes et modernes (1841) ; Orthodoxie maçonnique (1853) ; Tuileur général de la franc-maçonnerie (1861)
-voir: mysteres-antiques, egyptosophie, tuilage, rite-de-memphis-misraim, legende-d-hiram
+voir: mysteres-antiques, egyptosophie, tuilage, rite-de-memphis-misraim, legende-d-hiram, osiris, crata-repoa
 
 @ albert-pike
 cat: figures
@@ -413,27 +413,38 @@ voir: antimaconnisme, albert-pike, baphomet, satanisme, jules-doinel
 @ rudyard-kipling
 cat: figures
 nom: Rudyard Kipling
-alias: Kipling, The Mother-Lodge, L'Homme qui voulut être roi
+alias: Kipling, The Mother-Lodge, L'Homme qui voulut être roi, The Palace, Kim, In the Interests of the Brethren, Builders of the Silent Cities
 an: 1886
 dates: 1865 – 1936
 def: Écrivain britannique né en Inde, reçu franc-maçon à Lahore en 1886, qui a célébré la fraternité des loges coloniales et fait de la maçonnerie le ressort de L'Homme qui voulut être roi.
 texte: Rudyard Kipling naît à Bombay en 1865, fils d'un artiste qui enseigne à l'école d'art de la ville. Envoyé en Angleterre à six ans, il y connaît une enfance malheureuse, puis revient en Inde à seize ans comme journaliste à Lahore. Ses nouvelles sur la vie des Anglais en Inde le rendent vite célèbre.
 texte: Il est initié le 5 avril 1886, par dispense, avant l'âge requis, dans la loge *Hope and Perseverance* de Lahore, qui comptait des hindous, des musulmans, des sikhs, des juifs et des chrétiens ; il en devient le secrétaire. Son poème *The Mother-Lodge* (1896) chante cette égalité où le soldat côtoie le négociant et le brahmane le comptable, réunis au-delà des barrières de caste et de religion.
-texte: Dans *L'Homme qui voulut être roi* (1888), deux aventuriers anglais se font passer pour des dieux auprès d'un peuple d'Afghanistan qui connaît, à leur stupeur, les signes maçonniques ; la nouvelle a été adaptée au cinéma par John Huston en 1975. *Kim* (1901) mêle un lama tibétain et le « Grand Jeu » des espions. Kipling a parsemé son œuvre de symboles et de références maçonniques.
-texte: Prix Nobel de littérature en 1907, il perd son fils unique sur le front en 1915. Il s'engage alors dans la commission des sépultures de guerre, choisit l'inscription des cimetières militaires et participe en 1922 à la fondation d'une loge qui réunit ceux qui y travaillent. Il meurt à [[londres|Londres]] en 1936 ; ses cendres reposent à l'abbaye de Westminster.
+texte: Dans *[[l-homme-qui-voulut-etre-roi|L'Homme qui voulut être roi]]* (1888), deux aventuriers anglais se font passer pour des dieux auprès d'un peuple d'Afghanistan qui connaît, à leur stupeur, les signes maçonniques ; la nouvelle a été adaptée au cinéma par John Huston en 1975. *Kim* (1901) mêle un lama tibétain et le « Grand Jeu » des espions, et son héros, orphelin d'un sergent irlandais franc-maçon, porte au cou dans une amulette le certificat de loge de son père. Kipling a parsemé son œuvre de symboles et de références maçonniques.
+texte: Ses poèmes maçonniques forment presque un recueil : l'envoi de *Life's Handicap* (1891), « My new-cut ashlar », prière d'un tailleur de [[pierre-cubique|pierre]] au « Grand Surveillant » ; *The Palace* (1902), où un roi bâtisseur trouve sous ses fondations les pierres d'un prédécesseur gravées de la phrase « Après moi vient un bâtisseur » ; *Banquet Night* (1926), éloge des [[agapes]]. La nouvelle *In the Interests of the Brethren* (1918) décrit une loge londonienne qui accueille pendant la guerre les soldats blessés de tout l'Empire, et ouvre le recueil maçonnique de *Debits and Credits* (1926).
+texte: Prix Nobel de littérature en 1907, il perd son fils unique sur le front en 1915. Il s'engage alors dans la commission des sépultures de guerre, choisit l'inscription des cimetières militaires et participe en 1922 à la fondation d'une loge qui réunit ceux qui y travaillent, les « Bâtisseurs des cités silencieuses ». Il meurt à [[londres|Londres]] en 1936 ; ses cendres reposent à l'abbaye de Westminster.
 repere: 1865 — Naissance à Bombay.
 repere: 1882 — Journaliste à Lahore.
 repere: 1886 — Initié le 5 avril dans la loge *Hope and Perseverance* de Lahore.
 repere: 1888 — *L'Homme qui voulut être roi*.
+repere: 1891 — « My new-cut ashlar », envoi de *Life's Handicap*.
 repere: 1894 — *Le Livre de la jungle*.
 repere: 1896 — *The Mother-Lodge*.
 repere: 1901 — *Kim*.
+repere: 1902 — *The Palace*.
 repere: 1907 — Prix Nobel de littérature.
 repere: 1915 — Son fils John est tué au front.
+repere: 1918 — *In the Interests of the Brethren*.
 repere: 1922 — Il participe à la fondation d'une loge liée aux cimetières militaires de la Grande Guerre.
+repere: 1926 — *Debits and Credits*, avec ses nouvelles maçonniques.
 repere: 1936 — Mort à Londres.
-oeuvres: L'Homme qui voulut être roi (1888) ; Le Livre de la jungle (1894) ; The Mother-Lodge (1896) ; Kim (1901)
-voir: franc-maconnerie, fils-de-la-veuve, loge
+oeuvres: L'Homme qui voulut être roi (1888) ; Le Livre de la jungle (1894) ; The Mother-Lodge (1896) ; Kim (1901) ; The Palace (1902) ; Debits and Credits (1926)
+extrait: There was Rundle, Station Master, // An' Beazeley of the Rail, // An' 'Ackman, Commissariat, // An' Donkin' o' the Jail; // An' Blake, Conductor-Sargent, // Our Master twice was 'e, // With 'im that kept the Europe-shop, // Old Framjee Eduljee. ¶ Outside—'Sergeant! Sir! Salute! Salaam!' // Inside—'Brother,' an' it doesn't do no 'arm. // We met upon the Level an' we parted on the Square, // An' I was Junior Deacon in my Mother Lodge out there! ¶ We'd Bola Nath, Accountant, // An' Saul the Aden Jew, // An' Din Mohammed, draughtsman // Of the Survey Office too; // There was Babu Chuckerbutty, // An' Amir Singh the Sikh, // An' Castro from the fittin'-sheds, // The Roman Catholick! ¶ We 'adn't good regalia, // An' our Lodge was old an' bare, // But we knew the Ancient Landmarks, // An' we kep' 'em to a hair; // An' lookin' on it backwards // It often strikes me thus, // There ain't such things as infidels, // Excep', per'aps, it's us.
+source: Rudyard Kipling, *The Mother-Lodge*, dans *The Seven Seas*, 1896 (texte original anglais) | wsen The Seven Seas/The Mother-Lodge
+extrait: When I was a King and a Mason—a Master proven and skilled— // I cleared me ground for a palace such as a King should build. // I decreed and dug down to my levels. Presently, under the silt, // I came on the wreck of a palace such as a King had built. // There was no worth in the fashion—there was no wit in the plan— // Hither and thither, aimless, the ruined footings ran— // Masonry, brute, mishandled, but carven on every stone: // "After me cometh a Builder. Tell him, I too have known." ¶ Swift to my use in my trenches, where my well-planned ground-works grew, // I tumbled his quoins and his ashlars, and cut and reset them anew. // Lime I milled of the marbles; burned it, slacked it, and spread; // Taking and leaving at pleasure the gifts of the humble dead. // Yet I despised not nor gloried; yet, as we wrenched them apart, // I read in the razed foundations the heart of that builder's heart.
+source: Rudyard Kipling, *The Palace*, dans *The Five Nations*, 1903 (texte original anglais) | wsen The Five Nations/The Palace
+extrait: Ses biens, à sa mort, consistaient en trois documents ; il appelait l’un son ne varietur, parce que le papier portait ces mots au-dessous de la signature, et le second son « certificat de libération ». Le troisième était l’extrait de naissance de Kim. Ces choses, avait-il coutume de dire dans ses belles heures d’opium, feraient malgré tout du petit Kimball un homme. Sous aucun motif Kim ne devait s’en séparer ; elles faisaient partie d’une grande opération de magie, telle magie que l’on pratique là-bas derrière le Musée, dans le grand Jadoo-Gher bleu et blanc, la Maison des Sortilèges, comme nous appelons la Loge Maçonnique. Tout, disait-il, s’arrangerait un jour, et Kim serait exalté parmi des colonnes — des colonnes géantes — de force et de beauté. Le Colonel lui-même viendrait à cheval, en tête du plus beau régiment du monde, servir Kim, le petit Kim qui aurait dû être plus riche que son père. Neuf cent mille diables de premier ordre dont le dieu était un Taureau Rouge sur champ vert, seraient au service de Kim, s’ils n’avaient pas oublié O’Hara — le pauvre O’Hara qui avait été contremaître sur la ligne de Ferozepore.
+source: Rudyard Kipling, *Kim*, 1901, chap. I, trad. Louis Fabulet et Charles Fountaine-Walker, Mercure de France, 1925 | ws Kim/1
+voir: franc-maconnerie, fils-de-la-veuve, loge, l-homme-qui-voulut-etre-roi, pierre-cubique, agapes, amulette
 
 @ jules-boucher
 cat: figures
@@ -546,7 +557,7 @@ dates: 1791
 def: Opéra de Mozart sur un livret d'Emanuel Schikaneder, créé à Vienne en 1791, qui met en scène une initiation dans un décor égyptien inspiré de la franc-maçonnerie.
 texte: Le prince Tamino part délivrer Pamina, enlevée par [[sarastro|Sarastro]] ; il découvre que ce dernier n'est pas un tyran, mais le grand prêtre d'un temple d'Isis et d'Osiris, et que la Reine de la Nuit, qui l'a envoyé, incarne les ténèbres. Pour être admis parmi les initiés, Tamino doit garder le silence, puis traverser avec Pamina les épreuves du feu et de l'eau, au son de la flûte magique ; l'oiseleur Papageno, lui, n'aspire qu'à manger, boire et trouver une épouse.
 texte: L'ouverture s'ouvre sur trois accords, le nombre trois revient sans cesse, et les épreuves rappellent celles de l'[[initiation-maconnique|initiation maçonnique]]. Le livret puise dans l'[[egyptosophie]] du temps, en particulier le roman *Sethos* de l'abbé Terrasson (1731). Il a été lu comme une allégorie des Lumières et de la maçonnerie viennoise de [[wolfgang-amadeus-mozart|Mozart]].
-voir: wolfgang-amadeus-mozart, egyptosophie, initiation-maconnique, mysteres-antiques, sarastro, vienne
+voir: wolfgang-amadeus-mozart, egyptosophie, initiation-maconnique, mysteres-antiques, sarastro, vienne, sethos, isis, culte-d-isis
 
 # ── Le Temple et le compagnonnage ───────────────────────────────────────────
 
@@ -559,7 +570,7 @@ texte: Le premier livre des Rois en détaille les dimensions, les matériaux ven
 texte: Les théologiens y ont vu une image du cosmos, du corps humain ou de l'Église ; le jésuite Villalpando en publie en 1604 une restitution monumentale, et [[isaac-newton]] en étudie les mesures pour y chercher la clé des prophéties. Les [[templiers]] tiraient leur nom de son emplacement ; la [[franc-maconnerie]] en a fait le chantier mythique de ses ouvriers (voir [[legende-d-hiram|légende d'Hiram]]) et l'image de l'homme à reconstruire.
 geo: 31.7780, 35.2354
 lieu: Jérusalem
-voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique, menorah, jakin, boaz
+voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique, menorah, jakin, boaz, asmodee
 
 @ compagnonnage
 cat: societes
@@ -568,4 +579,4 @@ alias: compagnons du Devoir, Tour de France, Devoirs, Enfants de Salomon, Enfant
 def: Les associations françaises d'ouvriers de métier qui transmettent leur savoir par le Tour de France, le chef-d'œuvre et des rites d'initiation, distinctes de la franc-maçonnerie mais voisines de ses symboles.
 texte: Attestés dès la fin du Moyen Âge, les compagnons se répartissent en « Devoirs » rivaux qui se réclament de trois fondateurs légendaires : les Enfants de Salomon, les Enfants de Maître Jacques, tailleur de pierre du Temple, et les Enfants du Père Soubise, charpentier. L'apprenti voyage de ville en ville, accueilli par la « Mère » d'une auberge, travaille chez des maîtres, reçoit un nom de compagnon et présente un chef-d'œuvre. Les rixes entre Devoirs furent longtemps sanglantes ; Agricol Perdiguier plaide pour leur réconciliation dans *Le Livre du compagnonnage* (1839).
 texte: Les compagnons partagent avec les francs-maçons l'équerre et le compas, le [[temple-de-salomon|Temple de Salomon]], la canne et les couleurs, mais ce sont des ouvriers de métier, non une société philosophique. Le compagnonnage est inscrit depuis 2010 au patrimoine culturel immatériel de l'humanité.
-voir: operatifs-et-speculatifs, compagnon, temple-de-salomon, franc-maconnerie
+voir: operatifs-et-speculatifs, compagnon, temple-de-salomon, franc-maconnerie, argot-des-batisseurs, sainte-baume

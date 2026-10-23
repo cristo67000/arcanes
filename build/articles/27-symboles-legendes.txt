@@ -2,7 +2,7 @@
 # Les extraits sont recopiés des éditions du domaine public indiquées.
 
 @ licorne
-cat: symboles
+cat: bestiaire
 nom: Licorne
 alias: unicorne, monocéros, corne de licorne, alicorne, Dame à la licorne
 def: Animal fabuleux à corne unique, que l'Antiquité situait en Inde et que le Moyen Âge a fait le symbole de la pureté et du Christ, capturé par une vierge ; sa corne passait pour un antidote universel.
@@ -10,10 +10,10 @@ texte: Le médecin grec Ctésias décrit vers 400 avant notre ère des ânes sau
 texte: Les tapisseries de *La Dame à la licorne*, tissées vers 1500 et conservées au musée de Cluny à [[paris|Paris]], et la *Chasse à la licorne* des Cloisters de New York ont fixé l'image de l'animal blanc et courtois. Les rois et les papes payaient à prix d'or des « cornes de licorne », qui étaient en réalité des défenses de narval, pour déceler les poisons ; Ambroise Paré, en 1582, mit en doute leurs vertus. Dans l'[[alchimie]], le cerf et la licorne réunis dans la forêt figurent l'âme et l'esprit, et [[carl-gustav-jung|Jung]] a consacré à la licorne un chapitre de *Psychologie et alchimie*. Elle est restée l'emblème de l'Écosse.
 extrait: Les Indiens Orséens vont à la chasse de singes dont tout le corps est blanc. Ils chassent aussi une bête intraitable ; c'est l'unicorne, semblable au cheval par le corps, au cerf par la tête, à l'éléphant par les pieds, au sanglier par la queue ; elle a un mugissement grave, et une seule corne noire s'élevant de deux coudées au milieu du front : on dit que cette bête ne peut pas être prise vivante.
 source: Pline l'Ancien, *Histoire naturelle*, livre VIII, chap. XXXI, trad. Émile Littré, Dubochet, 1848 | ia BIUSante_39197x01 = l'édition de 1848 numérisée
-voir: hippogriffe, dragon, basilic, phenix, alchimie
+voir: hippogriffe, dragon, basilic, phenix, alchimie, cerf, physiologus, bestiaire
 
 @ hippogriffe
-cat: symboles
+cat: bestiaire
 nom: Hippogriffe
 alias: hippogryphe, ippogrifo, cheval ailé de l'Arioste
 def: Créature fabuleuse née d'un griffon et d'une jument, inventée par l'Arioste dans le *Roland furieux* : la monture ailée des magiciens et des chevaliers qui volent jusqu'à la Lune.
@@ -21,21 +21,21 @@ texte: Le poète latin Virgile citait l'union des griffons et des juments comme 
 texte: Les commentateurs y ont vu l'image de l'imagination poétique qui s'envole au-delà du réel, ou celle de l'union des contraires, l'aigle céleste et le cheval terrestre. Les gravures de Gustave Doré pour le *Roland furieux* (1879) ont popularisé la bête, que la littérature fantastique a ensuite adoptée.
 extrait: Le destrier n'est pas un être imaginaire, mais bien naturel, car une jument l'engendra d'un griffon. De son père, il avait la plume et les ailes, les pieds de devant, la tête et les griffes. Dans tous ses autres membres, il était semblable à sa mère, et il s'appelait Hippogriffe. Ils proviennent, mais ils sont rares, des monts Ryphées, bien au delà des mers glaciales. ¶ C'est de là que le nécromancien l'avait tiré par la force de ses enchantements.
 source: L'Arioste, *Roland furieux*, chant IV, trad. Francisque Reynard, Lemerre, 1880 | ws Roland furieux/Chant IV
-voir: licorne, dragon, phenix, imagination-creatrice
+voir: licorne, dragon, phenix, imagination-creatrice, griffon, pegase
 
 @ dragon
-cat: symboles
+cat: bestiaire
 nom: Dragon
-alias: dragons, draco, vouivre, guivre, Gargouille, Tarasque, dragon chinois, long
+alias: dragons, draco, dragon chinois, long, saint Georges
 def: Serpent monstrueux, souvent ailé et crachant le feu, figure du chaos et du mal à vaincre en Occident, mais puissance bienfaisante des eaux et du ciel en Chine ; l'alchimie en a fait l'image de la matière première.
 texte: L'Apocalypse appelle Satan « le grand dragon, le serpent ancien », que l'archange Michel précipite du ciel ; les saints sauroctones, vainqueurs de dragons, se multiplient au Moyen Âge : saint Georges, saint Michel, sainte Marthe qui dompte la Tarasque, saint Romain qui délivre [[rouen|Rouen]] de la Gargouille, en souvenir de quoi le chapitre de la cathédrale pouvait libérer chaque année un condamné. En Chine, au contraire, le dragon commande la pluie et les fleuves, symbolise l'empereur et le principe yang, et le [[feng-shui]] suit les « veines du dragon » qui parcourent le sol.
 texte: L'[[alchimie]] figure par le dragon la matière première, le [[mercure-philosophique|mercure]] des sages, qu'il faut combattre et tuer : les *[[livre-des-figures-hieroglyphiques|Figures hiéroglyphiques]]* attribuées à Nicolas Flamel montrent un dragon ailé et un dragon sans ailes, le volatil et le fixe, et l'[[ouroboros]] est un dragon qui se mord la queue. Le ciel a sa constellation du Dragon, dont l'étoile Thuban fut l'[[etoile-polaire|étoile polaire]] au temps des pyramides, et les astrologues nomment « tête et queue du dragon » les [[noeuds-lunaires|nœuds lunaires]] où se produisent les éclipses. Au XXe siècle, l'écrivain John Michell a rebaptisé les [[lignes-ley|lignes ley]] « chemins du dragon ».
 extrait: Georges était originaire de Cappadoce, et servait dans l'armée romaine, avec le grade de tribun. Le hasard d'un voyage le conduisit un jour dans les environs d'une ville de la province de Libye, nommée Silène. Or, dans un vaste étang voisin de cette ville habitait un dragon effroyable qui, maintes fois, avait mis en fuite la foule armée contre lui, et qui, s'approchant parfois des murs de la ville, empoisonnait de son souffle tous ceux qui se trouvaient à sa portée. (…) ¶ Mais Georges, après être remonté sur son cheval et s'être muni du signe de la croix, assaillit bravement le dragon qui s'avançait vers lui et, brandissant sa lance et se recommandant à Dieu, il fit au monstre une blessure qui le renversa sur le sol. Et le saint dit à la jeune fille : « Mon enfant, ne crains rien, et lance ta ceinture autour du cou du dragon ! » La jeune fille fit ainsi, et le dragon, se redressant, se mit à la suivre comme un petit chien qu'on mènerait en laisse.
 source: Jacques de Voragine, *La Légende dorée*, « Saint Georges », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Saint Georges
-voir: serpent, ouroboros, basilic, feng-shui, noeuds-lunaires, legende-doree, lignes-ley
+voir: serpent, ouroboros, basilic, feng-shui, noeuds-lunaires, legende-doree, lignes-ley, vouivre, tarasque, gargouille, saint-michel, hydre, apophis
 
 @ basilic
-cat: symboles
+cat: bestiaire
 nom: Basilic
 alias: basilisk, basiliscus, cocatrix, coquatrix, roi des serpents
 def: Petit serpent fabuleux, « roi des serpents », dont le regard et le souffle tuent ; le Moyen Âge le faisait naître d'un œuf de coq couvé par un crapaud et mourir devant un miroir.
@@ -43,7 +43,7 @@ texte: Pline l'Ancien décrit le basilic comme un serpent de Cyrénaïque portan
 texte: Le psaume 91, dans la Bible latine, promet au juste qu'il marchera « sur l'aspic et le basilic » et foulera « le lion et le dragon » : les portails des cathédrales montrent le Christ écrasant ces bêtes, figures du mal. La ville de Bâle, dont le nom a été rapproché du sien, a pris le basilic pour emblème. Les alchimistes et les médecins de la Renaissance en ont discuté l'existence, et le mot a désigné aussi un gros canon.
 extrait: Le serpent appelé basilic n'est pas doué d'une moindre puissance. La province Cyrénaïque le produit ; sa longueur n'est pas de plus de douze doigts ; il a sur la tête une tache blanche, qui lui fait une sorte de diadème. Il met en fuite tous les serpents par son sifflement. Il ne s'avance pas comme les autres en se repliant sur lui-même, mais il marche en se tenant dressé sur la partie moyenne de son corps. Il tue les arbrisseaux, non-seulement par son contact, mais encore par son haleine ; il brûle les herbes, il brise les pierres, tant son venin est actif. (…) Ce monstre redoutable (on en a fait souvent l'épreuve pour les rois, désireux d'en voir le cadavre) ne résiste pas à des belettes ; ainsi le veut la nature : rien n'est sans contre-poids.
 source: Pline l'Ancien, *Histoire naturelle*, livre VIII, chap. XXXIII, trad. Émile Littré, Dubochet, 1848 | ia BIUSante_39197x01 = l'édition de 1848 numérisée
-voir: dragon, serpent, licorne, miroir-magique
+voir: dragon, serpent, licorne, miroir-magique, gorgone, crapaud, bestiaire
 
 @ menorah
 cat: symboles
@@ -85,7 +85,7 @@ texte: L'Évangile de Jean dit qu'un soldat perça de sa lance le côté de Jés
 texte: La plus célèbre est la lance du Saint-Empire, une pièce carolingienne où l'on a serti un clou de la Croix, conservée au trésor impérial de [[vienne|Vienne]] ; Hitler fit transférer les joyaux impériaux à [[nuremberg|Nuremberg]] en 1938, et ils revinrent à Vienne en 1946. Un livre de 1973, *La Lance du destin* de Trevor Ravenscroft, a prétendu que le dictateur était fasciné par son pouvoir magique : les historiens n'y voient qu'une fiction. Dans les romans du [[graal]], une lance qui saigne passe en procession avec le vase sacré, et le *Parsifal* de [[richard-wagner|Wagner]] fait de la lance reconquise l'instrument de la guérison.
 repere: 1098 — La « découverte » de la lance à Antioche, pendant la première croisade.
 repere: 1938 — Les joyaux impériaux, dont la lance, sont transférés de Vienne à Nuremberg.
-voir: longin, graal, conte-du-graal, richard-wagner, vienne, constantin
+voir: longin, graal, conte-du-graal, richard-wagner, vienne, constantin, fecamp
 
 @ melencolia
 cat: symboles
@@ -96,18 +96,19 @@ an: 1514
 def: Gravure d'Albrecht Dürer, datée de 1514, où une figure ailée méditant au milieu d'instruments de mesure, d'un carré magique et d'un polyèdre énigmatique a suscité d'innombrables interprétations ésotériques.
 texte: L'ange songeur, la tête dans la main, est entouré d'objets : un compas, une balance, un sablier, une cloche, une échelle à sept barreaux, une sphère, un polyèdre aux faces étranges, des outils de charpentier ; dans le ciel, une comète et un arc-en-ciel, et une chauve-souris qui porte le titre. Au mur, un [[carre-magique|carré magique]] de quatre cases de côté, dont toutes les lignes donnent 34, porte au milieu de sa dernière rangée la date 15-14.
 texte: Les historiens de l'art Panofsky et Saxl ont rapproché la gravure de la [[de-occulta-philosophia|Philosophie occulte]] d'[[cornelius-agrippa|Agrippa]], qui distingue trois degrés de la mélancolie inspirée, le premier étant celui des artistes, et de [[marsile-ficin|Marsile Ficin]], pour qui la mélancolie est le don ambigu de [[saturne|Saturne]] : le carré de quatre, attribué à Jupiter, serait un talisman contre l'astre noir. On a voulu y lire aussi l'[[alchimie]], la géométrie sacrée ou un message chiffré ; [[gerard-de-nerval|Nerval]] y a peut-être trouvé son « soleil noir de la Mélancolie ».
-voir: albrecht-durer, carre-magique, saturne, soleil-noir, de-occulta-philosophia, marsile-ficin
+voir: albrecht-durer, carre-magique, saturne, soleil-noir, de-occulta-philosophia, marsile-ficin, solides-de-platon, chien
 
 @ les-bergers-d-arcadie
 cat: symboles
 nom: Les Bergers d'Arcadie
-alias: Et in Arcadia ego, Bergers d'Arcadie, tombeau d'Arcadie, I tego arcana dei
+alias: Et in Arcadia ego, Bergers d'Arcadie, tombeau d'Arcadie, I tego arcana dei, monument de Shugborough
 dates: vers 1638
 an: 1638
 def: Tableau de Nicolas Poussin, au Louvre, où des bergers déchiffrent sur un tombeau l'inscription « Et in Arcadia ego », que l'affaire de Rennes-le-Château a transformé en carte au trésor codée.
 texte: Le tableau, peint vers 1637-1638, montre trois bergers et une femme autour d'un tombeau ; l'un d'eux suit du doigt l'inscription latine, « Moi aussi, je suis en Arcadie ». C'est la Mort qui parle : même au pays du bonheur pastoral, elle est présente. L'historien de l'art Erwin Panofsky a montré en 1936 comment ce *memento mori*, emprunté à un tableau du Guerchin où figurait un crâne, est devenu chez Poussin une méditation mélancolique.
-texte: Une lettre de 1656, où l'abbé Louis Fouquet écrit à son frère, le surintendant, que [[nicolas-poussin|Poussin]] lui a confié des choses que les rois auraient grand-peine à tirer de lui, a nourri tous les soupçons. Au XXe siècle, les auteurs de l'affaire de [[rennes-le-chateau|Rennes-le-Château]] ont prétendu que le paysage et le tombeau du tableau se trouvaient près d'Arques, dans l'Aude : un tombeau y existait bien, construit en 1903 et détruit en 1988. L'anagramme « I tego arcana Dei », « Va-t'en, je cache les secrets de Dieu », a été proposée en 1982. Ces lectures sont nées des documents fabriqués du [[prieure-de-sion|Prieuré de Sion]].
-voir: nicolas-poussin, rennes-le-chateau, prieure-de-sion, dossiers-secrets, gerard-de-sede
+texte: Poussin avait traité le sujet une première fois vers 1628, dans une version plus dramatique conservée à Chatsworth, en Angleterre. Au XVIIIe siècle, Thomas Anson en fit reproduire la composition, inversée, sur le monument du parc de Shugborough, au-dessus d'une [[inscription-de-shugborough|inscription]] jamais déchiffrée ; Chateaubriand fit sculpter la scène sur le monument qu'il éleva à Poussin à Rome. Le tableau du Louvre, acquis par Louis XIV en 1685, est devenu l'emblème de l'[[arcadie|Arcadie]] et de la mélancolie.
+texte: Une lettre de 1656, où l'abbé Louis Fouquet écrit à son frère, le surintendant, que [[nicolas-poussin|Poussin]] lui a confié des choses que les rois auraient grand-peine à tirer de lui, a nourri tous les soupçons. Au XXe siècle, les auteurs de l'affaire de [[rennes-le-chateau|Rennes-le-Château]] ont prétendu que le paysage et le tombeau du tableau se trouvaient près d'Arques, dans l'Aude : un tombeau y existait bien, construit en 1903 et détruit en 1988. Les [[parchemins-de-rennes-le-chateau|parchemins]] font dire à leur message chiffré que « Poussin » et « Teniers » gardent la clef. L'anagramme « I tego arcana Dei », « Va-t'en, je cache les secrets de Dieu », a été proposée en 1982. Ces lectures sont nées des documents fabriqués du [[prieure-de-sion|Prieuré de Sion]].
+voir: nicolas-poussin, rennes-le-chateau, prieure-de-sion, dossiers-secrets, gerard-de-sede, arcadie, inscription-de-shugborough, parchemins-de-rennes-le-chateau, pan
 
 @ walpurgis
 cat: magie
@@ -129,7 +130,7 @@ texte: Le mot vient du latin populaire *sortiarius*, celui qui dit ou jette les 
 texte: Les historiens estiment à environ 50 000 le nombre des exécutions en Europe entre 1450 et 1750 ; les femmes en forment la grande majorité, autour de trois sur quatre, mais pas partout : en Normandie, les hommes, souvent des bergers, furent les plus nombreux. Au XIXe siècle, Michelet fait de la sorcière une prêtresse de la nature et une guérisseuse persécutée par l'Église, Margaret Murray en 1921 la survivante d'un culte païen ; ces thèses, rejetées par les historiens, ont nourri la [[wicca]] et les féministes, qui ont repris le mot comme un emblème.
 extrait: Sprenger dit (avant 1500) : « Il faut dire *l'hérésie des sorcières*, et non des sorciers ; ceux-ci sont peu de chose. » — Et un autre sous Louis XIII : « Pour un sorcier, dix mille sorcières. » (…) ¶ La Sibylle prédisait le sort. Et la Sorcière le fait. C'est la grande, la vraie différence. Elle évoque, elle conjure, opère la destinée. (…) ¶ L'unique médecin du peuple, pendant mille ans, fut la Sorcière.
 source: Jules Michelet, *La Sorcière*, 1862, introduction | ws La Sorcière/Introduction
-voir: sorcellerie, chasse-aux-sorcieres, sabbat, walpurgis, margaret-murray, wicca
+voir: sorcellerie, chasse-aux-sorcieres, sabbat, walpurgis, margaret-murray, wicca, chat, crapaud
 
 @ parole-perdue
 cat: maconnerie
@@ -138,7 +139,7 @@ alias: mot perdu, parole retrouvée, mot substitué, lost word, mot de maître
 def: Dans la légende maçonnique d'Hiram, le mot secret des maîtres, perdu avec la mort de l'architecte et remplacé par un mot substitué, dont la quête anime les hauts grades.
 texte: Selon la [[legende-d-hiram|légende d'Hiram]], trois mauvais compagnons assassinent le maître d'œuvre du Temple pour lui arracher le mot des maîtres ; il meurt sans l'avoir livré, et la parole est perdue. Lorsqu'on relève son corps, le premier mot prononcé devient le mot de remplacement, que reçoit chaque nouveau [[maitre-macon|maître]]. La maçonnerie se présente ainsi comme la gardienne d'une vérité manquante, que l'initié doit chercher.
 texte: Plusieurs hauts grades mettent en scène la découverte de la parole : l'[[arche-royale|Arche royale]] anglaise, les grades de la voûte sacrée du [[rite-ecossais-ancien-et-accepte|Rite écossais]], où le nom divin est trouvé gravé sur un delta d'or, ou le grade de [[chevalier-rose-croix|chevalier Rose-Croix]], où « la parole est retrouvée ». La quête rejoint celle des kabbalistes, pour qui la prononciation exacte du [[tetragramme|Tétragramme]] s'est perdue avec la destruction du Temple ; [[rene-guenon|René Guénon]] y voyait l'image de la tradition primordiale oubliée.
-voir: legende-d-hiram, maitre-macon, arche-royale, tetragramme, chevalier-rose-croix, tradition-primordiale
+voir: legende-d-hiram, maitre-macon, arche-royale, tetragramme, chevalier-rose-croix, tradition-primordiale, l-homme-qui-voulut-etre-roi
 
 @ jakin
 cat: maconnerie
@@ -171,7 +172,7 @@ repere: XIIIe siècle — Apparition des tribunaux vehmiques en Westphalie.
 repere: 1811 — Suppression des derniers tribunaux par le roi de Westphalie, Jérôme Bonaparte.
 extrait: Cette initiation de ceux qui participaient à tous les mystères du tribunal ne pouvait avoir lieu que sur la terre rouge, ou dans les limites de l'ancien duché de Westphalie. Le candidat, tête nue et dégagé de ses liens, est conduit devant le terrible tribunal. (…) Si les réponses sont satisfaisantes, il prête serment et jure par la loi sacrée, qu'il gardera le secret de la sainte Vehme, à l'égard de sa femme et de ses enfants, de son père et de sa mère, de son frère et de sa sœur, du feu et de l'eau, de toute créature qui vit sous le soleil ou sur laquelle la pluie tombe, de tous les êtres qui existent entre le ciel et la terre.
 source: Walter Scott, *Anne de Geierstein*, introduction de l'auteur, trad. Albert Montémont, Ménard, 1838 | ws Anne de Geierstein/Introduction
-voir: illumines-de-baviere, chevalier-kadosh, antimaconnisme, carbonarisme
+voir: illumines-de-baviere, chevalier-kadosh, antimaconnisme, carbonarisme, walter-scott
 
 @ carbonarisme
 cat: societes
@@ -207,7 +208,7 @@ texte: [[jacques-de-voragine|Jacques de Voragine]] range ses quelque cent quatre
 texte: Les humanistes, puis les savants jésuites du XVIIe siècle, en ont dénoncé les fables ; les romantiques et les symbolistes l'ont redécouvert. Les amateurs d'ésotérisme y puisent la légende du bois de la Croix, né d'un rameau de l'arbre du Paradis planté sur la tombe d'Adam, que Piero della Francesca a peinte à Arezzo, et le récit de la Madeleine en Provence, au cœur des spéculations sur [[rennes-le-chateau|Rennes-le-Château]] et le [[graal]].
 extrait: On lit dans l'*Évangile de Nicodème* que, un jour que le vieil Adam était malade, son fils Seth se rendit jusqu'à la porte du Paradis et demanda de l'huile de l'arbre de miséricorde, afin d'en frotter le corps de son père et de lui rendre ainsi la santé. (…) Une autre histoire, en vérité apocryphe, ajoute que cet arbre était le même qui avait fait pécher Adam, et que l'ange, en donnant le rameau à Seth, lui dit que, le jour où ce rameau porterait des fruits, son père recouvrerait la santé. Et Seth, de retour chez lui trouva son père déjà mort ; il planta le rameau sur la tombe d'Adam, et le rameau devint un grand arbre qui vivait encore au temps de Salomon.
 source: Jacques de Voragine, *La Légende dorée*, « L'Invention de la sainte Croix », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/L’Invention de la sainte Croix
-voir: jacques-de-voragine, dragon, longin, constantin, arbre-cosmique
+voir: jacques-de-voragine, dragon, longin, constantin, arbre-cosmique, tarasque, marie-madeleine, saint-michel, sainte-baume
 
 @ le-serpent-vert
 cat: textes
@@ -235,7 +236,7 @@ texte: Égaré dans une forêt obscure au milieu de sa vie, pendant la semaine s
 texte: Au XIXe siècle, l'exilé italien Gabriele Rossetti, père du peintre [[dante-gabriel-rossetti|Dante Gabriel Rossetti]], affirme que Dante et les poètes de son cercle, les « Fidèles d'Amour », formaient une secte secrète opposée à la papauté, dont Béatrice serait le mot de passe ; Eugène Aroux le fait hérétique et socialiste. [[rene-guenon|René Guénon]], dans *L'Ésotérisme de Dante* (1925), le rattache aux [[templiers]], à l'hermétisme et aux Rose-Croix, tandis que l'arabisant Asín Palacios relève dès 1919 ses parallèles avec le voyage nocturne de Mahomet. Les spécialistes de Dante restent réservés devant ces lectures, mais reconnaissent le poids des nombres et du symbolisme dans le poème.
 extrait: Au milieu du chemin de notre vie, ayant quitté le chemin droit, je me trouvai dans une forêt obscure. ¶ Ah ! que chose dure est de dire combien cette forêt était sauvage, épaisse et âpre, dans la pensée cela renouvelant la peur. ¶ Si amère elle était, que guère plus ne l'est la mort ; mais pour parler du bien que j'y trouvai, je dirai les autres choses qui m'y apparurent. ¶ Comment j'y entrai, je ne le saurais dire, tant j'étais plein de sommeil quand j'abandonnai la vraie voie.
 source: Dante, *La Divine Comédie*, L'Enfer, chant I, trad. Félicité de Lamennais, Didier, 1863 | ws La Divine Comédie (Lamennais 1863)/L’Enfer/Chant 1
-voir: dante, neuf, trente-trois, dante-gabriel-rossetti, rene-guenon, templiers
+voir: dante, neuf, trente-trois, dante-gabriel-rossetti, rene-guenon, templiers, michel-scot, griffon, cerbere, harpie
 
 @ songe-de-poliphile
 cat: textes
@@ -248,4 +249,4 @@ texte: Imprimé par Alde Manuce à [[venise|Venise]], illustré de plus de cent 
 texte: Traduit en français dès 1546, le livre a inspiré les jardins de la Renaissance, ceux de [[bomarzo|Bomarzo]] notamment, et l'éléphant portant un obélisque que le Bernin éleva à Rome en 1667. En 1600, Béroalde de Verville en publie une édition dont la préface en fait un traité d'[[alchimie]] chiffré, et une disciple de [[carl-gustav-jung|Jung]] l'a lu en 1947 comme un rêve d'individuation.
 extrait: Là, non loin du grand cheval, au même niveau, s'offrait aux regards un énorme éléphant de pierre plus noire qu'obsidienne, toute scintillante de paillettes d'or et d'argent, en manière de poudre insufflée à la surface, ce qui la rendait on ne peut plus brillante. (…) Sur la housse dont j'ai parlé, toute ornée de cachets, de boutons, de petits sujets et de symboles, était fermement fondé l'obélisque en pierre Lacédémonienne verdâtre. (…) L'obélisque allait en s'effilant jusqu'au sommet qui se terminait en pointe. Là était fixée une boule très-ronde d'une substance transparente et polie.
 source: Francesco Colonna, *Le Songe de Poliphile*, trad. Claudius Popelin, Liseux, 1883, t. I | ws Le Songe de Poliphile/4
-voir: jeu-d-echecs, bomarzo, hieroglyphes, venise, alchimie, emblemes
+voir: jeu-d-echecs, bomarzo, hieroglyphes, venise, alchimie, emblemes, elephant, acrostiche, leon-battista-alberti, horapollon, obelisque

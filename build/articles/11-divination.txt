@@ -71,7 +71,7 @@ an: 1944
 def: Tarot conçu par Aleister Crowley et peint par Frieda Harris de 1938 à 1943, chargé de symboles kabbalistiques, astrologiques et thélémites.
 texte: Crowley et l'artiste Frieda Harris travaillent cinq ans à ce jeu, qui renomme plusieurs arcanes — la Force devient « Désir », la Tempérance « Art », le Jugement « l'Éon » — et intègre la géométrie projective, l'[[alchimie]] et la doctrine de [[thelema|Thelema]]. Le livre qui l'explique, *Le Livre de Thoth*, paraît en 1944 ; le jeu n'est imprimé qu'en 1969, après la mort de ses deux auteurs.
 texte: Il est, avec le [[tarot-de-marseille|tarot de Marseille]] et le [[tarot-rider-waite|Rider-Waite]], l'un des trois grands modèles du tarot contemporain.
-voir: aleister-crowley, thelema, tarot, golden-dawn
+voir: aleister-crowley, thelema, tarot, golden-dawn, thot, livre-de-thot
 
 @ cartomancie
 cat: divination
@@ -111,7 +111,7 @@ def: Classique chinois, utilisé comme manuel de divination et livre de sagesse,
 texte: Chaque hexagramme superpose six traits, pleins (yang) ou brisés (yin), soit deux trigrammes de trois traits ; il en existe huit trigrammes et soixante-quatre hexagrammes. On obtient l'hexagramme en manipulant des tiges d'achillée ou en jetant trois pièces, puis on lit le texte qui lui est attaché, ainsi que les commentaires des traits « mutants », qui se transforment en leur contraire et donnent un second hexagramme.
 texte: Le noyau du livre remonte au début du Ier millénaire avant notre ère ; ses commentaires, attribués à Confucius, en ont fait un classique de la philosophie chinoise, fondé sur l'alternance du [[yin-et-yang|yin et du yang]]. La traduction allemande de Richard Wilhelm (1924), préfacée dans sa version anglaise par [[carl-gustav-jung]], l'a fait connaître en Occident, où il a inspiré la contre-culture et des artistes comme John Cage. Leibniz y voyait une préfiguration de son calcul binaire.
 schema: trigrammes
-voir: yin-et-yang, geomancie, divination, carl-gustav-jung, echiquier
+voir: yin-et-yang, geomancie, divination, carl-gustav-jung, echiquier, tortue
 
 @ chiromancie
 cat: divination
@@ -138,7 +138,7 @@ alias: interprétation des rêves, clef des songes, songes, onirocritique, Arté
 def: Divination par l'interprétation des rêves, considérés comme des messages des dieux ou des présages de l'avenir.
 texte: Les rêves passent dans l'Antiquité pour un moyen privilégié de communication avec le divin : on dormait dans les temples d'Asclépios pour obtenir un songe de guérison. Au IIe siècle, Artémidore de Daldis rédige *La Clef des songes*, vaste répertoire de rêves et de leurs interprétations, selon le métier, l'âge et la situation du rêveur.
 texte: Les « clefs des songes » populaires, répertoires alphabétiques d'images, se vendent jusqu'à nos jours. La psychanalyse a profondément renouvelé l'interprétation des rêves en y cherchant non l'avenir mais les désirs et les conflits du rêveur.
-voir: divination, oracle, carl-gustav-jung
+voir: divination, oracle, carl-gustav-jung, serapis
 
 @ necromancie
 cat: divination
@@ -147,7 +147,7 @@ alias: nécromancien, nécromant, evocation des morts, nigromancie
 def: Divination par l'évocation des morts, que l'on interroge sur l'avenir ou sur les choses cachées ; au Moyen Âge, le mot désigne la magie démoniaque en général.
 texte: Ulysse, dans l'*Odyssée*, fait boire le sang d'un sacrifice aux ombres des morts pour qu'elles lui parlent ; la Bible raconte que la nécromancienne d'Endor fit apparaître pour le roi Saül l'esprit du prophète Samuel. Les Grecs avaient des sanctuaires où l'on consultait les morts.
 texte: Au Moyen Âge, par confusion avec le latin *niger*, « noir », la « nigromancie » désigne la magie noire, l'évocation des démons. Les séances du [[spiritisme]] sont, en un sens, une nécromancie moderne.
-voir: evocation, spiritisme, divination, goetie
+voir: evocation, spiritisme, divination, goetie, hecate
 
 @ oracle
 cat: divination
@@ -156,7 +156,7 @@ alias: oracles, Delphes, Pythie, oracle de Delphes, Dodone, Ammon
 def: Réponse donnée par une divinité à une question posée par un fidèle, et lieu où elle était rendue, comme Delphes, sanctuaire d'Apollon.
 texte: À Delphes, la Pythie, assise sur un trépied, rendait les réponses d'Apollon dans un état de transe ; des prêtres les mettaient en vers. Les cités et les rois venaient la consulter avant une guerre ou la fondation d'une colonie, et ses réponses ambiguës sont restées proverbiales. À Dodone, on interprétait le bruissement d'un chêne sacré ; dans l'oasis de Siwa, l'oracle d'Ammon reçut Alexandre le Grand.
 texte: Les oracles déclinent à l'époque romaine, ce que Plutarque tente d'expliquer, et disparaissent avec le christianisme. On appelle aujourd'hui « oracles » des jeux de cartes divinatoires qui ne suivent pas la structure du tarot.
-voir: sibylles, divination, oniromancie, oracles-chaldaiques, delphes, antre-de-la-sibylle
+voir: sibylles, divination, oniromancie, oracles-chaldaiques, delphes, antre-de-la-sibylle, plutarque, pan, amon
 
 @ sibylles
 cat: divination
