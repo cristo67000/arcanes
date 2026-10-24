@@ -107,6 +107,7 @@
     if (conteneur) conteneur.hidden = true;
     if (guetteur) { guetteur.disconnect(); guetteur = null; }
     Voix.taire();
+    Sons.arreter();
     document.body.classList.remove('fiche-ouverte');
     document.dispatchEvent(new CustomEvent('fiche-fermee'));
     rendreLeFocus();
@@ -506,6 +507,10 @@
     // Les illustrations d'en tête : la carte, le portrait, la gravure
     const images = Illustrations.bloc(a);
     if (images) corps.appendChild(images);
+
+    // Les sons : un cri, une musique, un poème dit
+    const sons = Sons.bloc(a);
+    if (sons) corps.appendChild(sons);
 
     // Un lieu : où il est, et comment s'y rendre
     const situer = Carte.blocFiche(a);

@@ -50,6 +50,8 @@ export async function lancerChrome({ port = 9222, profil = null, telechargements
     '--no-default-browser-check',
     '--disable-extensions',
     '--disable-background-networking',
+    // les épreuves touchent les boutons par le script : ce n'est pas un geste
+    '--autoplay-policy=no-user-gesture-required',
     // Chrome refuse le stockage persistant dans un profil neuf sans cela.
     '--enable-features=NetworkService',
     'about:blank',

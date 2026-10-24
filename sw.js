@@ -17,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.6.0';
+const VERSION = 'v1.7.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -41,6 +41,8 @@ const FICHIERS = [
   'js/figures/alchimie.js',
   'js/figures/tarot.js',
   'js/figures/symboles.js',
+  'js/sons.js',
+  'js/animations.js',
   'js/illustrations.js',
   'js/voix.js',
   'js/editeur.js',
@@ -124,9 +126,12 @@ self.addEventListener('activate', (e) => {
  * plus. L'adresse porte l'empreinte du fichier (`?v=…`) et se compare telle
  * quelle. Une image demandée avant d'y être rangée y entre au passage. */
 const IMAGES = 'arcanes-images';
+/* Les sons font de même dans `arcanes-sons` : chacun y entre à sa première
+ * écoute (js/sons.js), ou tous d'un coup depuis les Réglages. */
+const SONS = 'arcanes-sons';
 
-async function servirImage(requete) {
-  const cache = await caches.open(IMAGES);
+async function servirImage(requete, nom) {
+  const cache = await caches.open(nom || IMAGES);
   const enCache = await cache.match(requete, { ignoreVary: true });
   if (enCache) return enCache;
   const reponse = await fetch(requete);
@@ -134,10 +139,23 @@ async function servirImage(requete) {
   return reponse;
 }
 
+/* Un lecteur audio demande souvent un morceau du fichier (« Range ») : on
+ * répond toujours par le fichier entier, rangé une fois pour toutes ; un
+ * morceau (206) ne se met pas en cache. */
+async function servirSon(requete) {
+  const cache = await caches.open(SONS);
+  const enCache = await cache.match(requete.url);
+  if (enCache) return enCache;
+  const reponse = await fetch(requete.url);
+  if (reponse.status === 200) await cache.put(requete.url, reponse.clone());
+  return reponse;
+}
+
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET' || url.origin !== self.location.origin) return;
   if (url.pathname.includes('/img/')) { e.respondWith(servirImage(e.request)); return; }
+  if (url.pathname.includes('/son/')) { e.respondWith(servirSon(e.request)); return; }
 
   /* Le cache de cette version, et lui seul. Ce qui n'y est pas — l'image
    * d'aperçu, une adresse inconnue — va au réseau sans rien laisser dans le

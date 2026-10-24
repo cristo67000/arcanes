@@ -1,0 +1,262 @@
+# Les sons de l'application : cris d'animaux, musiques, poèmes dits.
+#
+#     python build/sonoriser.py      télécharge, vérifie la licence, coupe l'extrait
+#                                    dans son/ et écrit build/sons.json
+#     node build/construire.mjs      rattache ensuite chaque son à ses articles
+#
+# Tous viennent de Wikimedia Commons et sont dans le domaine public (ou sous
+# CC0) : le script refuse toute autre licence. Les enregistrements anciens le
+# sont par leur âge, ceux des orchestres de l'armée américaine parce qu'ils sont
+# l'œuvre d'un service fédéral, ceux de LibriVox et de Musopen par la volonté de
+# leurs auteurs. On n'écoute un son qu'en le touchant : rien ne joue tout seul.
+#
+# ── Un son ──────────────────────────────────────────────────────────────────
+#
+#   = loup-hurlements             identifiant : le fichier sera son/loup-hurlements.mp3
+#   commons: Wolf howls.ogg       le fichier sur Wikimedia Commons, sans « File: »
+#   titre: Hurlements de loups    ce qu'on lit à côté du bouton (*italique* permise)
+#   credit: …                     l'interprète, la date — la licence s'ajoute seule
+#   pour: loup                    les articles où il s'écoute
+#   extrait: 0 90                 (facultatif) le passage gardé, en secondes ; « 30 fin »
+#
+# « % un titre » ne sert qu'à ranger le fichier.
+
+% Animaux
+
+= loup-hurlements
+commons: Wolf howls.ogg
+titre: Hurlements de loups
+credit: enregistrement versé au domaine public
+pour: loup
+
+= corbeau-grand
+commons: Yellowstone sound library - Common Raven - 001.mp3
+titre: Le grand corbeau appelle et s’envole
+credit: David Restivo, National Park Service, parc de Yellowstone, 2013
+pour: corbeau
+
+= chat-ronronnement
+commons: Purring cat.oga
+titre: Le ronronnement d’un chat
+credit: Mysid, 2007
+pour: chat
+
+= coq-chant
+commons: Medium rooster crowing.ogg
+titre: Le chant du coq
+credit: alys, pdsounds.org, 2008
+pour: coq
+
+= abeilles-ruche
+commons: Honeybee-hive.ogg
+titre: Des abeilles carnioliennes dans leur ruche
+credit: Skinkie, 2010
+pour: abeille
+extrait: 20 50
+
+= serpent-crotale
+commons: Rattlesnake.ogg
+titre: La crécelle d’un crotale
+credit: enregistrement versé au domaine public
+pour: serpent
+
+= crapaud-commun
+commons: Erdkröte Paarungsruf.OGG
+titre: L’appel du crapaud commun au printemps
+credit: Rabe19, 2013
+pour: crapaud
+
+= colombe-roucoulement
+commons: Dove cooing.ogg
+titre: Une colombe roucoule
+credit: mary905, pdsounds.org, 2008
+pour: colombe
+
+= paon-cri
+commons: Pavo cristatus (call).ogg
+titre: Le cri du paon
+credit: Ke4roh, zoo de Denver, 2009
+pour: paon
+
+= aigle-cri
+commons: Yellowstone sound library - Bald Eagle - 003.mp3
+titre: Le cri du pygargue à tête blanche
+credit: Jennifer Jerrett, National Park Service et Acoustic Atlas, parc de Yellowstone, 2014
+pour: aigle
+
+= cygnes-chanteurs
+commons: Tundra swans.ogg
+titre: Des cygnes siffleurs en vol
+credit: U.S. Fish and Wildlife Service
+pour: cygne
+
+= chien-hurlement
+commons: Jem howls.ogg
+titre: Un chien hurle
+credit: amethysta, pdsounds.org, 2007
+pour: chien
+
+= chouette-cheveche
+commons: Steinkauz.OGG
+titre: La chevêche, la petite chouette d’Athéna
+credit: Rabe19, 2013
+pour: chouette
+extrait: 0 30
+
+= baleine-chant
+commons: Humpbackwhale2.ogg
+titre: Le chant des baleines à bosse
+credit: Spyrogumas
+pour: leviathan, jonas
+
+% Musiques
+
+= reine-de-la-nuit
+commons: W. A. Mozart - Die Zauberflöte - 18. Der Hölle Rache kocht in meinem Herzen (Ferenc Fricsay, 1953).ogg
+titre: Mozart, *La Flûte enchantée* : l’air de la Reine de la Nuit, « Der Hölle Rache »
+credit: Rita Streich, orchestre de la RIAS, direction Ferenc Fricsay, 1953
+pour: la-flute-enchantee, wolfgang-amadeus-mozart
+
+= lohengrin-graal
+commons: In fernem Land - Hermann Jadlowker.ogg
+titre: Wagner, *Lohengrin* : « In fernem Land », le récit du Graal
+credit: Hermann Jadlowker, Victor Orchestra, 1912
+pour: lohengrin, graal
+
+= parsifal-prelude
+commons: Parsifal Act III- Prelude.ogg
+titre: Wagner, *Parsifal* : le prélude du troisième acte
+credit: orchestre de l’Opéra d’État de Berlin, direction Karl Muck, 1928
+pour: perceval, richard-wagner
+extrait: 0 150
+
+= holst-mars
+commons: Holst- mars.ogg
+titre: Holst, *Les Planètes* : « Mars, celui qui apporte la guerre »
+credit: United States Air Force Band, 1998
+pour: mars
+extrait: 0 120
+
+= holst-venus
+commons: Holst- venus.ogg
+titre: Holst, *Les Planètes* : « Vénus, celle qui apporte la paix »
+credit: United States Air Force Band, 1998
+pour: venus
+extrait: 0 120
+
+= holst-mercure
+commons: Holst The Planets Mercury.ogg
+titre: Holst, *Les Planètes* : « Mercure, le messager ailé »
+credit: United States Air Force Band, 1998
+pour: mercure
+extrait: 0 100
+
+= holst-jupiter
+commons: Holst The Planets Jupiter.ogg
+titre: Holst, *Les Planètes* : « Jupiter, celui qui apporte la gaieté »
+credit: United States Air Force Band, 1998
+pour: jupiter
+extrait: 0 120
+
+= holst-saturne
+commons: Holst - Saturn.ogg
+titre: Holst, *Les Planètes* : « Saturne, celui qui apporte la vieillesse »
+credit: Orchestre symphonique de Londres, direction Gustav Holst, 1923
+pour: saturne
+extrait: 0 120
+
+= holst-uranus
+commons: Holst- uranus.ogg
+titre: Holst, *Les Planètes* : « Uranus, le magicien »
+credit: United States Air Force Band, 1998
+pour: uranus
+extrait: 0 100
+
+= holst-neptune
+commons: Holst - Neptune.ogg
+titre: Holst, *Les Planètes* : « Neptune, le mystique »
+credit: Orchestre symphonique de Londres, direction Gustav Holst, 1923
+pour: neptune
+extrait: 0 120
+
+= berlioz-sabbat
+commons: Hector Berlioz - Symphonie fantastique, op. 14 - 5. Songe d'une nuit du Sabbat (Igor Markevitch, Orchestre Lamoureux, 1962).ogg
+titre: Berlioz, *Symphonie fantastique* : « Songe d’une nuit du sabbat »
+credit: Orchestre Lamoureux, direction Igor Markevitch, 1962
+pour: sabbat, le-sabbat-des-sorcieres
+extrait: 0 150
+
+= mont-chauve
+commons: Modest Mussorgsky - night on bald mountain.ogg
+titre: Moussorgski, *Une nuit sur le mont Chauve*, le sabbat de la Saint-Jean
+credit: Musopen
+pour: sabbat
+extrait: 0 150
+
+= faust-veau-d-or
+commons: Faust de Gounod Le veau d'or.ogg
+titre: Gounod, *Faust* : « Le Veau d’or », chanté par Méphistophélès
+credit: Fédor Chaliapine, avant 1938
+pour: faust
+
+= satie-gnossienne
+commons: Satie - Gnossienne 1.ogg
+titre: Satie, *Gnossienne n° 1*, composée en 1890, à la veille de ses années rose-croix
+credit: La Pianista
+pour: salons-de-la-rose-croix
+
+= dies-irae
+commons: Dies.irae.ogg
+titre: *Dies irae*, le jour de colère, chant grégorien
+credit: Membeth, 2010
+pour: apocalypse
+extrait: 0 100
+
+% Bruits
+
+= notre-dame-cloches
+commons: 2011 Christmas bells at Notre-Dame de Paris (excerpt).wav
+titre: Les cinq cloches de Notre-Dame à la messe du soir de Noël 2011
+credit: Mxsmanic, freesound.org, 2011
+pour: notre-dame-de-paris
+extrait: 0 45
+
+= vagues
+commons: Ocean Waves on a Tropical Beach.ogg
+titre: Les vagues de l’océan
+credit: J. D. Savanyu
+pour: atlantide
+extrait: 0 40
+
+= pluie-tonnerre
+commons: Rain and thunder (1).ogg
+titre: La pluie et le tonnerre
+credit: ezwa, pdsounds.org, 2008
+pour: pierre-de-foudre
+
+% Paroles
+
+= correspondances-lue
+commons: Fleursdumal 004 baudelaire 128kb.mp3
+titre: Baudelaire, *Correspondances*, dit en français
+credit: lecture LibriVox, 2020
+pour: correspondances, charles-baudelaire
+
+= voyelles-lue
+commons: Thalie Envolée - Arthur Rimbaud - Voyelles.oga
+titre: Rimbaud, *Voyelles*, dit en français
+credit: Thalie Envolée, 2013
+pour: arthur-rimbaud
+
+= corbeau-poe-lu
+commons: LibriVox - The Raven - Chris Goringe.ogg
+titre: Poe, *The Raven*, le début du poème, dit en anglais
+credit: Chris Goringe, LibriVox
+pour: edgar-allan-poe, corbeau
+extrait: 0 110
+
+= houdini-voix
+commons: Harry Houdini's voice.ogg
+titre: La voix de Harry Houdini, qui démasquait les médiums
+credit: cylindre Edison, Flatbush, New York, 29 octobre 1914
+pour: arthur-conan-doyle

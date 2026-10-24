@@ -17,6 +17,9 @@
  * image retouchée change d'adresse, et l'ancienne s'en va d'elle-même. Tant
  * qu'une image n'est pas arrivée, la fiche montre sa légende à sa place.
  *
+ * Certaines images s'animent (build/animations.txt, js/animations.js) : des
+ * calques posés par-dessus, et dessous, « Rejouer » et « Écouter ».
+ *
  * ── La visionneuse ─────────────────────────────────────────────────────────
  *
  * Une image touchée s'ouvre en grand par-dessus la fiche, avec sa légende, son
@@ -61,8 +64,12 @@
     const fig = element('figure', 'illustration');
     const b = bouton('illustration-bouton', '', () => agrandir(im));
     b.setAttribute('aria-label', 'Agrandir l’image : ' + texte(im.l));
-    b.appendChild(image(im));
+    const img = image(im);
+    b.appendChild(img);
     fig.appendChild(b);
+    // une image animée : ses calques par-dessus, ses boutons dessous
+    const anime = im.an && racine.Animations ? Animations.habiller(b, img, im) : null;
+    if (anime) fig.appendChild(Animations.commandes(im, anime));
     fig.appendChild(legende(im, 'figcaption'));
     return fig;
   }
@@ -111,9 +118,15 @@
     fermerB.setAttribute('aria-label', 'Fermer l’image');
     v.appendChild(fermerB);
     const cadre = element('div', 'visionneuse-cadre');
-    cadre.appendChild(image(im, 'visionneuse-image'));
+    const grande = image(im, 'visionneuse-image');
+    // l'image et ses calques d'animation dans une boîte à sa mesure
+    const boite = element('div', 'visionneuse-boite');
+    boite.appendChild(grande);
+    cadre.appendChild(boite);
     v.appendChild(cadre);
+    const anime = im.an && racine.Animations ? Animations.habiller(boite, grande, im) : null;
     const pied = legende(im, 'visionneuse-legende');
+    if (anime) pied.insertBefore(Animations.commandes(im, anime, true), pied.firstChild);
     if (im.src) {
       const lien = element('a', 'visionneuse-source', 'Voir la source sur Wikimedia Commons');
       lien.href = im.src;
@@ -153,7 +166,7 @@
     const v = document.getElementById('visionneuse');
     // Toucher le fond, ou l'image elle-même, referme : c'est le geste attendu.
     v.addEventListener('click', (e) => {
-      if (e.target === v || e.target.classList.contains('visionneuse-cadre') || e.target.classList.contains('visionneuse-image')) fermer();
+      if (e.target === v || e.target.classList.contains('visionneuse-cadre') || e.target.classList.contains('visionneuse-boite') || e.target.classList.contains('visionneuse-image')) fermer();
     });
     racine.addEventListener('online', () => entretenir());
   }

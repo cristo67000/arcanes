@@ -871,6 +871,151 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
   *, *::before, *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
 }
 
+/* ————— Images animées ————— */
+
+/* Les calques sont posés par js/animations.js exactement sur l'image ; le
+   porteur les isole pour que les modes de fusion ne touchent qu'elle. */
+.an-porteur { position: relative; isolation: isolate; }
+.an-calque { position: absolute; left: 0; top: 0; pointer-events: none; overflow: hidden; border-radius: 6px; }
+.an-teinte { mix-blend-mode: multiply; }
+.an-lumiere { mix-blend-mode: screen; }
+.an-pause * { animation-play-state: paused !important; }
+
+/* avant la première apparition, ce qui se révèle reste caché */
+.an-attente .an-revele { opacity: 0; }
+
+/* la carte qui se retourne */
+.an-carte { transform-box: fill-box; transform-origin: center; }
+.an-carte-fond { fill: #fbf7ee; stroke: #5b4a32; stroke-width: 2.5; }
+.an-carte-filet { fill: none; stroke: #c8102e; stroke-width: 1; stroke-opacity: .35; }
+.an-carte-lettre { font: 700 22px var(--serif); }
+.an-carte-halo { fill: #ff3355; opacity: .28; }
+.an-joue .an-carte { animation: an-retourne 1.15s cubic-bezier(.2, .8, .3, 1.15) both; }
+@keyframes an-retourne {
+  0% { opacity: 0; transform: scaleX(0) scaleY(.92); }
+  12% { opacity: 1; }
+  70% { transform: scaleX(1.12) scaleY(1.04); }
+  100% { opacity: 1; transform: none; }
+}
+.an-joue .an-carte-halo { animation: an-rougeoie 2.6s ease-in-out .9s 3 both; }
+@keyframes an-rougeoie { 0%, 100% { opacity: .12; } 50% { opacity: .62; } }
+
+/* la gravure qu'on colorie, tache après tache */
+.an-joue .an-tache { animation: an-peint 1.8s ease-out both; }
+@keyframes an-peint { from { opacity: 0; } }
+
+/* ce qui bouge : une copie découpée de l'image, sur un fond flou */
+.an-dessous { opacity: 0; transition: opacity .4s ease; }
+.an-joue .an-dessous { opacity: 1; }
+.an-bouge { transform-box: view-box; }
+.an-joue .an-bouge { animation-timing-function: ease-in-out; animation-fill-mode: both; }
+.an-joue .an-mode-tourne { animation-name: an-tourne; }
+.an-joue .an-mode-balance { animation-name: an-tourne; }
+.an-joue .an-mode-leve { animation-name: an-leve; }
+.an-joue .an-mode-tremble { animation-name: an-tremble; animation-timing-function: linear; }
+.an-joue .an-mode-flotte { animation-name: an-flotte; }
+@keyframes an-tourne {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(calc(var(--a) * -1deg)); }
+  75% { transform: rotate(calc(var(--a) * 1deg)); }
+}
+@keyframes an-leve {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  45%, 60% { transform: translateY(calc(var(--h) * -1)) rotate(calc(var(--a) * 1deg)); }
+}
+@keyframes an-tremble {
+  0%, 100% { transform: translate(0, 0); }
+  20% { transform: translate(calc(var(--h) * -.6), calc(var(--h) * .3)); }
+  40% { transform: translate(calc(var(--h) * .7), calc(var(--h) * -.3)); }
+  60% { transform: translate(calc(var(--h) * -.4), calc(var(--h) * -.5)); }
+  80% { transform: translate(calc(var(--h) * .5), calc(var(--h) * .5)); }
+}
+@keyframes an-flotte { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(calc(var(--h) * -1)); } }
+
+/* les lumières */
+.an-lueur { opacity: calc(var(--f, .85) * .8); transform-box: fill-box; transform-origin: center; }
+.an-joue .an-vacille { animation: an-vacille 2.3s linear infinite; }
+.an-joue .an-pulse { animation: an-pulse 3.6s ease-in-out infinite alternate; }
+.an-joue .an-eclat { animation: an-eclat 2.8s ease-out both; }
+@keyframes an-vacille {
+  0% { opacity: calc(var(--f) * .55); transform: scale(.96); }
+  12% { opacity: calc(var(--f) * .95); transform: scale(1.03); }
+  24% { opacity: calc(var(--f) * .62); }
+  38% { opacity: var(--f); transform: scale(1.05); }
+  52% { opacity: calc(var(--f) * .7); transform: scale(.98); }
+  66% { opacity: calc(var(--f) * .92); }
+  80% { opacity: calc(var(--f) * .58); transform: scale(1.02); }
+  100% { opacity: calc(var(--f) * .55); transform: scale(.96); }
+}
+@keyframes an-pulse { from { opacity: calc(var(--f) * .3); transform: scale(.92); } to { opacity: var(--f); transform: scale(1.06); } }
+@keyframes an-eclat { 0% { opacity: 0; transform: scale(.5); } 25% { opacity: var(--f); transform: scale(1.15); } 100% { opacity: calc(var(--f) * .8); transform: none; } }
+
+.an-etincelle { opacity: 0; transform-box: fill-box; transform-origin: center; filter: drop-shadow(0 0 1.5px rgba(255, 255, 255, .85)); }
+.an-joue .an-etincelle { animation: an-scintille 2s ease-in-out infinite both; }
+@keyframes an-scintille { 0%, 100% { opacity: 0; transform: scale(.2) rotate(0deg); } 50% { opacity: 1; transform: scale(1) rotate(45deg); } }
+
+.an-fumee { opacity: 0; transform-box: fill-box; transform-origin: center; }
+.an-joue .an-fumee { animation: an-fume 5s ease-out infinite both; }
+@keyframes an-fume {
+  0% { opacity: 0; transform: translate(0, 0) scale(.4); }
+  18% { opacity: .55; }
+  100% { opacity: 0; transform: translate(var(--x), var(--h)) scale(2); }
+}
+
+.an-eclair { opacity: 0; }
+.an-joue .an-eclair { animation: an-eclair 3.2s ease-out both; }
+@keyframes an-eclair { 0%, 100% { opacity: 0; } 3% { opacity: .9; } 7% { opacity: .15; } 11% { opacity: .7; } 30% { opacity: 0; } }
+
+.an-rayons { opacity: .5; transform-box: view-box; }
+.an-joue .an-rayons { animation: an-rayonne 2.2s ease-out both, an-gloire 80s linear infinite; }
+@keyframes an-rayonne { from { opacity: 0; } }
+@keyframes an-gloire { to { transform: rotate(360deg); } }
+
+/* les boutons sous l'image */
+.an-commandes { display: flex; flex-wrap: wrap; justify-content: center; gap: .35rem; margin: .45rem 0 -.1rem; }
+.an-bouton {
+  display: inline-flex; align-items: center; gap: .3rem; padding: .28rem .7rem;
+  border: 1px solid var(--trait-fort); border-radius: 999px; background: var(--carte);
+  color: var(--accent-fort); font: 600 .78rem var(--sans); cursor: pointer;
+}
+.an-bouton:hover, .an-bouton:focus-visible { border-color: var(--accent); background: var(--accent-clair); }
+.an-bouton.joue, .an-bouton.charge { background: var(--accent); border-color: var(--accent); color: var(--sur-accent); }
+.an-bouton.absent::after { content: " — hors ligne"; font-weight: 400; }
+.an-commandes.claire { margin: 0 0 .6rem; }
+.an-commandes.claire .an-bouton { background: rgba(255, 255, 255, .1); border-color: rgba(255, 255, 255, .3); color: #f0eaff; }
+.visionneuse-boite { position: relative; height: 100%; max-width: 100%; display: flex; align-items: center; justify-content: center; }
+
+/* ————— À écouter ————— */
+
+.sons { margin: .2rem 0 1.2rem; }
+.son {
+  display: flex; align-items: center; gap: .7rem; padding: .55rem .65rem; margin-top: .45rem;
+  border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--carte);
+}
+.son-bouton {
+  flex: none; position: relative; width: 2.6rem; height: 2.6rem; border-radius: 50%;
+  border: 2px solid var(--accent); background: var(--accent-clair); cursor: pointer;
+}
+.son-icone { position: absolute; inset: 0; }
+/* le triangle de lecture, puis les deux barres de la pause */
+.son-icone::before {
+  content: ""; position: absolute; left: 50%; top: 50%; transform: translate(-35%, -50%);
+  border-style: solid; border-width: .48rem 0 .48rem .8rem; border-color: transparent transparent transparent var(--accent-fort);
+}
+.son-bouton.joue .son-icone::before, .son-bouton.charge .son-icone::before {
+  width: .62rem; height: .82rem; border: 0; transform: translate(-50%, -50%);
+  background: linear-gradient(90deg, var(--accent-fort) 0 35%, transparent 35% 65%, var(--accent-fort) 65%);
+}
+.son-bouton.charge { animation: son-attend 1s ease-in-out infinite alternate; }
+@keyframes son-attend { to { box-shadow: 0 0 0 5px color-mix(in srgb, var(--accent) 25%, transparent); } }
+.son-bouton.absent { border-color: var(--trait-fort); }
+.son-texte { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: .15rem; }
+.son-titre { font: 600 .95rem/1.3 var(--serif); color: var(--encre); }
+.son-credit { font-size: .74rem; color: var(--encre-legere); }
+.son-source { color: var(--accent-fort); }
+.son-barre { display: block; height: 3px; margin-top: .2rem; border-radius: 2px; background: var(--trait); overflow: hidden; }
+.son-avance { display: block; width: 0; height: 100%; background: var(--accent); transition: width .25s linear; }
+
 /* ————— Carte des lieux ————— */
 
 .intro-carte { margin: -.3rem 0 .8rem; }
@@ -999,19 +1144,69 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .constellation { margin: 1.2rem 0 1rem; }
 .cl-compte { font-size: .8rem; }
 .cl-aide { margin: -.2rem 0 .4rem; font-size: .85rem; }
-.cl-cadre { border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--carte); }
+.cl-cadre {
+  position: relative; overflow: hidden;
+  border: 1px solid var(--trait); border-radius: var(--rayon);
+  background: radial-gradient(circle at 50% 46%, var(--ciel-haut) 0%, var(--ciel-haut) 22%, var(--ciel-bas) 100%);
+  box-shadow: inset 0 0 40px rgba(0, 0, 0, .10);
+}
 .cl-carte { display: block; width: 100%; max-width: 30rem; height: auto; margin: 0 auto; }
-.cl-carte.cl-entree { animation: cl-entre .35s ease-out; }
-@keyframes cl-entre { from { opacity: 0; transform: scale(.96); } }
-.cl-trait { stroke: var(--cc, var(--trait-fort)); stroke-opacity: .55; fill: none; stroke-linecap: round; }
-.cl-trait-voisin { stroke: var(--trait-fort); stroke-width: 1.2; stroke-dasharray: 3 4; stroke-opacity: .9; }
+
+/* le ciel */
+.cl-astre { fill: var(--astre); opacity: .55; animation: cl-scintille 4s ease-in-out infinite; }
+@keyframes cl-scintille { 0%, 100% { opacity: .15; } 50% { opacity: .85; } }
+.cl-orbite { fill: none; stroke: var(--orbite); stroke-width: 1.2; stroke-dasharray: 2 5; }
+.cl-orbite-loin { stroke-dasharray: 1 7; opacity: .7; }
+.cl-couronne { transform-box: view-box; transform-origin: 200px 200px; animation: cl-tourne 240s linear infinite; }
+@keyframes cl-tourne { to { transform: rotate(360deg); } }
+.cl-graduation { stroke: var(--orbite); stroke-width: 1; }
+.cl-graduation.forte { stroke-width: 1.6; }
+
+/* les liens */
+.cl-arret { stop-color: var(--cc, var(--accent)); }
+.cl-trait { fill: none; stroke-linecap: round; opacity: .62; transition: opacity .2s ease, stroke-width .2s ease; }
+.cl-trait.allume { opacity: 1; }
+.cl-trait-voisin { fill: none; stroke: var(--or); stroke-width: 1.2; stroke-dasharray: 3 5; stroke-opacity: .75; animation: cl-defile 9s linear infinite; }
+@keyframes cl-defile { to { stroke-dashoffset: -80; } }
+.cl-point { fill: var(--cc, var(--accent)); filter: drop-shadow(0 0 2.5px var(--cc, var(--accent))); }
+
+/* les nœuds */
 .cl-noeud { cursor: pointer; outline: none; }
-.cl-bulle { fill: var(--fond); stroke: var(--cc, var(--accent)); stroke-width: 2.2; }
-.cl-noeud-centre .cl-bulle { fill: var(--accent-clair); stroke-width: 3.5; }
-.cl-noeud:hover .cl-bulle, .cl-noeud:focus-visible .cl-bulle { fill: var(--accent-clair); stroke-width: 3.5; }
-.cl-noeud:focus-visible .cl-bulle { stroke: var(--accent); }
+.cl-corps { transition: transform .2s ease; }
+.cl-halo { fill: var(--cc, var(--accent)); opacity: .13; }
+.cl-bulle {
+  fill: color-mix(in srgb, var(--cc, var(--accent)) 12%, var(--carte));
+  stroke: var(--cc, var(--accent)); stroke-width: 2.4;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, .18));
+}
+.cl-lisere { fill: none; stroke: var(--cc, var(--accent)); stroke-width: .8; stroke-opacity: .45; stroke-dasharray: 1.5 2.5; }
+.cl-noeud-centre .cl-bulle { fill: color-mix(in srgb, var(--cc, var(--accent)) 22%, var(--carte)); stroke-width: 3.5; }
+.cl-noeud-centre .cl-halo { opacity: .2; }
+.cl-pulsation { fill: none; stroke: var(--cc, var(--accent)); stroke-width: 2; opacity: 0; transform-box: fill-box; transform-origin: center; animation: cl-pulse 3.2s ease-out infinite 1s; }
+@keyframes cl-pulse { 0% { opacity: .55; transform: scale(1); } 100% { opacity: 0; transform: scale(1.45); } }
+.cl-noeud:hover .cl-corps, .cl-noeud:focus-visible .cl-corps { transform: scale(1.08); }
+.cl-noeud:hover .cl-halo, .cl-noeud:focus-visible .cl-halo { opacity: .3; }
+.cl-noeud:focus-visible .cl-bulle { stroke: var(--accent); stroke-width: 3.5; }
 .cl-nom { fill: var(--encre); font: 600 11px var(--sans); pointer-events: none; }
 .cl-nom-centre { font: 700 13.5px var(--serif); }
+
+/* l'arrivée d'une carte : les liens se tracent, les voisins sortent du centre,
+   le voisin touché glisse jusqu'au milieu */
+.cl-anime .cl-trait { stroke-dasharray: var(--l) var(--l); animation: cl-trace .6s ease-out both; }
+@keyframes cl-trace { from { stroke-dashoffset: var(--l); } to { stroke-dashoffset: 0; } }
+.cl-anime .cl-noeuds .cl-noeud:not(.cl-noeud-centre) .cl-corps { animation: cl-sort .55s cubic-bezier(.2, .9, .3, 1.25) both; }
+@keyframes cl-sort { from { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(.3); } to { opacity: 1; transform: none; } }
+.cl-anime .cl-corps.cl-arrive { animation: cl-glisse .5s cubic-bezier(.3, .8, .3, 1) both; }
+.cl-anime .cl-noeud-centre .cl-corps:not(.cl-arrive) { animation: cl-eclot .45s ease-out both; }
+@keyframes cl-glisse { from { transform: translate(var(--dx), var(--dy)) scale(.76); } to { transform: none; } }
+@keyframes cl-eclot { from { opacity: 0; transform: scale(.6); } to { opacity: 1; transform: none; } }
+.cl-anime .cl-flux { animation: cl-apparait .4s ease-out .7s both; }
+@keyframes cl-apparait { from { opacity: 0; } }
+
+/* les rubriques présentes */
+.cl-legende { display: flex; flex-wrap: wrap; gap: .3rem .8rem; margin-top: .55rem; font-size: .78rem; color: var(--encre-douce); }
+.cl-rubrique { display: inline-flex; align-items: center; gap: .3rem; }
+.cl-pastille { width: .65rem; height: .65rem; border-radius: 50%; background: var(--cc, var(--accent)); box-shadow: 0 0 0 2px color-mix(in srgb, var(--cc, var(--accent)) 25%, transparent); }
 .cl-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .6rem; }
 .cl-actions .bouton-principal { flex: 1 1 14rem; width: auto; }
 .cl-actions .bouton-discret { flex: 0 1 auto; }

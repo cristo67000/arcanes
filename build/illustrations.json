@@ -2478,7 +2478,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg",
    "pour": [
-    "sabbat"
+    "sabbat",
+    "le-sabbat-des-sorcieres"
    ],
    "sig": "Francisco de Goya y Lucientes - Witches Sabbath - Google Art Project.jpg||440|74"
   },
@@ -12841,20 +12842,6 @@
     "les-ambassadeurs"
    ],
    "sig": "Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg||400|74"
-  },
-  "sabbat-goya": {
-   "f": "img/sabbat-goya.webp",
-   "v": "f623ab8141",
-   "w": 400,
-   "h": 563,
-   "l": "*Le Sabbat des sorcières*, par Francisco de Goya",
-   "cr": "Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:GOYA_-_El_aquelarre_(Museo_L%C3%A1zaro_Galdiano,_Madrid,_1797-98).jpg",
-   "pour": [
-    "le-sabbat-des-sorcieres"
-   ],
-   "sig": "GOYA - El aquelarre (Museo Lázaro Galdiano, Madrid, 1797-98).jpg||400|74"
   },
   "toteninsel": {
    "f": "img/toteninsel.webp",

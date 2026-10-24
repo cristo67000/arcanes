@@ -168,7 +168,7 @@ try {
   const debordeCarte = await js(`
     return Array.from(document.querySelectorAll('#fiche .cl-noeud')).filter((n) => {
       const b = n.querySelector('text').getBBox();
-      const r = parseFloat(n.querySelector('circle').getAttribute('r'));
+      const r = parseFloat(n.querySelector(".cl-bulle").getAttribute("r"));
       return !b.width || b.width > r * 1.7 || b.height > r * 1.6;
     }).map((n) => n.getAttribute('aria-label'))`);
   ok(debordeCarte.length === 0, 'chaque nom tient dans sa bulle' + (debordeCarte.length ? ' : ' + debordeCarte.join(', ') : ''));
@@ -255,6 +255,39 @@ try {
   await attendre("Fiche.ref === 'venerable-maitre'", 3000, 'toucher le Vénérable dans le plan ouvre son article');
   ok(await js("return Array.from(document.querySelectorAll('#filtres .filtre')).some((b) => /Franc-maçonnerie/.test(b.textContent))"), 'la franc-maçonnerie a son filtre');
 
+  // ── Les images animées et les sons ────────────────────────────────────────
+  await js("Fiche.ouvrir('mademoiselle-lenormand'); return 1");
+  await attendre("Fiche.ref === 'mademoiselle-lenormand' && document.querySelectorAll('#fiche .an-calque').length === 3", 4000, 'les calques de la gravure de Mlle Lenormand');
+  await js("document.querySelector('#fiche .illustration').scrollIntoView({ block: 'center' }); return 1");
+  await attendre("document.querySelector('#fiche .an-porteur').classList.contains('an-joue')", 4000, 'l’animation part quand l’image paraît');
+  const calquesPoses = await js(`
+    const img = document.querySelector('#fiche .an-porteur img');
+    const i = img.getBoundingClientRect();
+    return Array.from(document.querySelectorAll('#fiche .an-calque')).every((s) => {
+      const r = s.getBoundingClientRect();
+      return Math.abs(r.left - i.left) < 1 && Math.abs(r.top - i.top) < 1 && Math.abs(r.width - i.width) < 1 && Math.abs(r.height - i.height) < 1;
+    })`);
+  ok(calquesPoses, 'les calques couvrent exactement l’image');
+  ok(await js("return !!document.querySelector('#fiche .an-carte path[fill=\"#c8102e\"]')"), 'l’as de cœur rouge est dessiné dans sa main');
+  ok(await js("return /L’as de cœur/.test(document.querySelector('#fiche .an-rejouer').textContent) && !!document.querySelector('#fiche .an-ecouter')"), 'l’image a ses boutons « Rejouer » et « Écouter »');
+  await js("document.querySelector('#fiche .an-ecouter').click(); return 1");
+  await attendre("document.querySelector('#fiche .an-ecouter').classList.contains('joue')", 3000, 'le bruit de la carte se joue');
+  await attendre("!document.querySelector('#fiche .an-ecouter').classList.contains('joue')", 5000, 'le bruit s’arrête de lui-même');
+  await js("Fiche.ouvrir('spiritisme'); return 1");
+  await attendre("Fiche.ref === 'spiritisme' && document.querySelectorAll('#fiche .an-bouge').length === 2 && document.querySelectorAll('#fiche .an-tache').length >= 8", 4000, 'la gravure des tables tournantes se colorie et ses guéridons bougent');
+  await js("document.querySelector('#fiche .illustration').scrollIntoView({ block: 'center' }); document.querySelector('#fiche .an-rejouer').click(); Sons.arreter(); return 1");
+  await pause(2600);
+  ok(await js("return Array.from(document.querySelectorAll('#fiche .an-bouge')).some((g) => getComputedStyle(g).transform !== 'none' && getComputedStyle(g).transform !== 'matrix(1, 0, 0, 1, 0, 0)')"), 'un guéridon tourne');
+  await js("Fiche.ouvrir('loup'); return 1");
+  await attendre("Fiche.ref === 'loup' && document.querySelector('#fiche .sons .son-bouton')", 3000, 'le loup a son cri à écouter');
+  ok(await js("return /domaine public|CC0/.test(document.querySelector('#fiche .son-credit').textContent) && /^https:\\/\\/commons\\.wikimedia\\.org\\//.test(document.querySelector('#fiche .son-source').href)"), 'le son dit sa licence et sa source');
+  await js("document.querySelector('#fiche .son-bouton').click(); return 1");
+  await attendre("document.querySelector('#fiche .son-bouton').classList.contains('joue')", 6000, 'le hurlement se joue');
+  await attendre("parseFloat(document.querySelector('#fiche .son-avance').style.width) > 0", 6000, 'la barre d’avancement progresse');
+  await js("document.querySelector('#fiche .son-bouton').click(); return 1");
+  ok(await js("return !document.querySelector('#fiche .son-bouton').classList.contains('joue') && !Sons.enCours"), 'toucher de nouveau arrête le son');
+  ok(await js("return caches.open('arcanes-sons').then((c) => c.keys()).then((k) => k.some((r) => /son\\/loup-hurlements\\.mp3/.test(r.url)))"), 'le son écouté est rangé pour l’écoute hors ligne');
+
   // ── Les repères et les liens « Pour aller plus loin » ─────────────────────
   await js("Fiche.ouvrir('paracelse'); return 1");
   await attendre("Fiche.ref === 'paracelse' && document.querySelector('#fiche .reperes-liste')", 3000, 'les repères de Paracelse');
@@ -271,7 +304,7 @@ try {
   await js("document.querySelector('#fiche .reperes-liste a.renvoi').click(); return 1");
   await attendre("Fiche.ref !== 'martinez-de-pasqually'", 3000, 'un renvoi des repères ouvre son article');
   await js("Fiche.ouvrir('alchimie'); return 1");
-  await attendre("Fiche.ref === 'alchimie'", 3000, 'fiche Alchimie');
+  await attendre("Fiche.ref === 'alchimie' && document.querySelector('#fiche .article-nom') && document.querySelector('#fiche .article-nom').textContent.includes(Dictionnaire.parId('alchimie').n)", 3000, 'fiche Alchimie');
   ok(await js("return !document.querySelector('#fiche .reperes') === !Dictionnaire.parId('alchimie').re"), 'un article sans repères n’a pas de section vide');
   await js('Fiche.fermer(); return 1');
   await attendre('!Fiche.ouverte', 3000, 'fermeture');

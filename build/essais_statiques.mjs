@@ -140,6 +140,41 @@ for (const a of dico.articles) {
 ok(vues.size === images.length, 'chaque image paraît dans au moins un article (' + vues.size + ' / ' + images.length + ')');
 ok(sw.includes("const IMAGES = 'arcanes-images'") && lire('js/illustrations.js').includes("const CACHE = 'arcanes-images'"), 'la page et le service worker partagent le cache des images');
 
+// ── Les sons ────────────────────────────────────────────────────────────────
+const sonsDecl = JSON.parse(lire('build/sons.json')).sons;
+const fichiersSon = fs.readdirSync(path.join(RACINE, 'son')).filter((f) => !f.startsWith('.'));
+ok(Object.keys(sonsDecl).length >= 20, 'des sons sont déclarés (' + Object.keys(sonsDecl).length + ')');
+for (const s of Object.values(sonsDecl)) {
+  ok(fs.existsSync(path.join(RACINE, s.f)), 'le son existe : ' + s.f);
+  ok(/^(public domain|pd|cc0)/i.test(s.lic), 'licence libre de tout droit pour ' + s.f + ' (' + s.lic + ')');
+  ok(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(s.src), 'la source de ' + s.f + ' est une page de Wikimedia Commons');
+  ok(s.ti && s.cr && s.d > 0, 'le son ' + s.f + ' a un titre, un crédit et une durée');
+}
+ok(fichiersSon.every((f) => f.endsWith('.mp3') && Object.values(sonsDecl).some((s) => s.f === 'son/' + f)), 'aucun fichier orphelin dans son/, et tout y est en MP3');
+const poidsSons = fichiersSon.reduce((n, f) => n + fs.statSync(path.join(RACINE, 'son', f)).size, 0);
+ok(poidsSons === meta.octetsSons && fichiersSon.length === meta.sons, 'le manifeste compte les sons et leur poids');
+ok(!liste.some((f) => f.startsWith('son/')), 'les sons ne sont pas dans la coquille (ils ont leur cache)');
+ok(sw.includes("const SONS = 'arcanes-sons'") && lire('js/sons.js').includes("const CACHE = 'arcanes-sons'"), 'la page et le service worker partagent le cache des sons');
+const entendus = new Set();
+for (const a of dico.articles) for (const s of a.so || []) entendus.add(s.f);
+ok(entendus.size === Object.keys(sonsDecl).length, 'chaque son s’écoute dans au moins un article (' + entendus.size + ')');
+ok(!/autoplay/i.test(lire('js/sons.js') + lire('js/animations.js') + index), 'aucun son ne joue tout seul');
+
+// ── Les images animées ──────────────────────────────────────────────────────
+const recettes = Array.from(lire('js/sons.js').matchAll(/^ {4}(\w+)\(c, t, s\) \{/gm)).map((m) => m[1]);
+const effets = Array.from(/const EFFETS = \{([\s\S]*?)\n  \};/.exec(lire('js/animations.js'))[1].matchAll(/^ {4}(\w+)\(e, c\) \{/gm)).map((m) => m[1]);
+let animees = 0;
+for (const a of dico.articles) {
+  for (const im of a.im || []) {
+    if (!im.an) continue;
+    animees += 1;
+    ok(im.an.e.length && im.an.e.every((e) => effets.includes(e.t)), 'les effets de ' + im.f + ' sont connus de js/animations.js');
+    if (im.an.so) ok(im.an.so.s ? recettes.includes(im.an.so.s) : fs.existsSync(path.join(RACINE, im.an.so.f)), 'le son de l’animation de ' + im.f + ' existe');
+  }
+}
+ok(animees >= meta.animations && meta.animations >= 20, 'des images s’animent (' + meta.animations + ')');
+ok(effets.length >= 8 && recettes.length >= 10, 'les effets et les bruits de synthèse sont déclarés (' + effets.length + ', ' + recettes.length + ')');
+
 // ── Les repères et les liens « Pour aller plus loin » ───────────────────────
 const avecReperes = dico.articles.filter((a) => a.re);
 ok(avecReperes.length >= 150, 'des biographies ont leurs repères (' + avecReperes.length + ')');

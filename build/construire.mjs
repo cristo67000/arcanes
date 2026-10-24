@@ -453,13 +453,13 @@ function lireLiens(ids) {
  * fichier dans img/, sa légende, son crédit, les articles où elle paraît ; et
  * les planches, galeries de vignettes rattachées à un article. Une image dont
  * le fichier manque, un article inconnu : erreur, comme pour un renvoi. */
-function lireIllustrations(ids) {
+function lireIllustrations(ids, animations) {
   const fichier = path.join(ICI, 'illustrations.json');
   const resultat = { parArticle: new Map(), planches: new Map(), nombre: 0, octets: 0 };
   if (!fs.existsSync(fichier)) return resultat;
   const { images, planches } = JSON.parse(fs.readFileSync(fichier, 'utf-8'));
   const licence = (lic) => (/cc0/i.test(lic) ? 'CC0' : 'domaine public');
-  const vue = (id, im) => ({ f: im.f, v: im.v, w: im.w, h: im.h });
+  const vue = (id, im) => Object.assign({ f: im.f, v: im.v, w: im.w, h: im.h }, animations && animations.has(id) ? { an: animations.get(id) } : {});
   for (const [id, im] of Object.entries(images)) {
     const chemin = path.join(RACINE, im.f);
     if (!fs.existsSync(chemin)) { erreur('illustrations', 'fichier absent : ' + im.f + ' (relancer build/illustrer.py)'); continue; }
@@ -486,6 +486,129 @@ function lireIllustrations(ids) {
       }),
     })));
   }
+  return resultat;
+}
+
+// ── Les sons ────────────────────────────────────────────────────────────────
+
+/* build/sons.json, écrit par build/sonoriser.py : chaque son, son fichier dans
+ * son/, son titre, son crédit, les articles où il s'écoute. Dans le JSON d'un
+ * article : `so`, une liste de { id, f, v, d (durée en secondes), ti, cr, li, src }. */
+function lireSons(ids) {
+  const fichier = path.join(ICI, 'sons.json');
+  const resultat = { parArticle: new Map(), parId: new Map(), nombre: 0, octets: 0 };
+  if (!fs.existsSync(fichier)) return resultat;
+  const { sons } = JSON.parse(fs.readFileSync(fichier, 'utf-8'));
+  const licence = (lic) => (/cc0/i.test(lic) ? 'CC0' : 'domaine public');
+  for (const [id, s] of Object.entries(sons)) {
+    const chemin = path.join(RACINE, s.f);
+    if (!fs.existsSync(chemin)) { erreur('sons', 'fichier absent : ' + s.f + ' (relancer build/sonoriser.py)'); continue; }
+    resultat.nombre += 1;
+    resultat.octets += fs.statSync(chemin).size;
+    const vue = { id, f: s.f, v: s.v, d: s.d, ti: typographie(s.ti), cr: typographie(s.cr), li: licence(s.lic), src: s.src };
+    resultat.parId.set(id, vue);
+    for (const ref of s.pour) {
+      if (!ids.has(ref)) { erreur('sons', 'son « ' + id + ' » : article inexistant « ' + ref + ' »'); continue; }
+      if (!resultat.parArticle.has(ref)) resultat.parArticle.set(ref, []);
+      resultat.parArticle.get(ref).push(vue);
+    }
+  }
+  return resultat;
+}
+
+// ── Les animations des images ───────────────────────────────────────────────
+
+/* build/animations.txt (le format est en tête du fichier) : pour une image,
+ * des effets dessinés par js/animations.js par-dessus la gravure, et le son
+ * qui les accompagne. Les coordonnées sont des fractions de la largeur et de
+ * la hauteur de l'image. Dans le JSON, l'image porte `an` : { ti, so, e }. */
+const EFFETS = {
+  carte: { coins: 'points', figure: 'mot', delai: 'nombre', duree: 'nombre' },
+  teinte: { ellipse: 'nombres', rect: 'nombres', polygone: 'points', couleur: 'couleur', flou: 'nombre', force: 'nombre', delai: 'nombre' },
+  bouge: { polygone: 'points', pivot: 'point', mode: 'mot', ampleur: 'nombre', duree: 'nombre', fois: 'nombre', delai: 'nombre' },
+  lueur: { point: 'point', rayon: 'nombre', couleur: 'couleur', mode: 'mot', force: 'nombre', delai: 'nombre', duree: 'nombre' },
+  etincelles: { zone: 'nombres', nombre: 'nombre', couleur: 'couleur', taille: 'nombre', delai: 'nombre' },
+  fumee: { point: 'point', couleur: 'couleur', hauteur: 'nombre', largeur: 'nombre', nombre: 'nombre', delai: 'nombre', duree: 'nombre' },
+  eclair: { trace: 'points', couleur: 'couleur', delai: 'nombre', fois: 'nombre' },
+  rayons: { point: 'point', rayon: 'nombre', nombre: 'nombre', couleur: 'couleur', delai: 'nombre' },
+};
+const OBLIGATOIRES = { carte: ['coins', 'figure'], teinte: ['couleur'], bouge: ['polygone', 'pivot', 'mode'], lueur: ['point', 'rayon'],
+  etincelles: ['zone'], fumee: ['point'], eclair: [], rayons: ['point'] };
+const MOTS = { figure: ['as-coeur', 'as-carreau', 'as-pique', 'as-trefle'], mode: ['tourne', 'leve', 'tremble', 'balance', 'flotte', 'vacille', 'pulse', 'eclat'] };
+const SONS_SYNTHESE = ['carte', 'coups', 'tonnerre', 'vent', 'feu', 'cloche', 'gong', 'tic', 'coeur', 'enchantement', 'souffle', 'eau'];
+
+function lireAnimations(sons) {
+  const fichier = path.join(ICI, 'animations.txt');
+  const resultat = new Map();
+  if (!fs.existsSync(fichier)) return resultat;
+  const images = fs.existsSync(path.join(ICI, 'illustrations.json'))
+    ? JSON.parse(fs.readFileSync(path.join(ICI, 'illustrations.json'), 'utf-8')).images : {};
+  const dansImage = (v) => v >= -0.1 && v <= 1.1;
+  function valeur(sorte, brut, lieu, cle) {
+    if (sorte === 'nombre') {
+      const n = Number(brut);
+      if (!Number.isFinite(n)) erreur(lieu, '« ' + cle + ' » : nombre attendu');
+      return n;
+    }
+    if (sorte === 'nombres') {
+      const l = brut.split(/\s+/).map(Number);
+      if (l.length !== 4 || !l.every(Number.isFinite) || !l.every(dansImage)) erreur(lieu, '« ' + cle + ' » : quatre fractions attendues');
+      return l;
+    }
+    if (sorte === 'point' || sorte === 'points') {
+      const l = brut.split(',').map((p) => p.trim().split(/\s+/).map(Number));
+      if (!l.every((p) => p.length === 2 && p.every(Number.isFinite) && p.every(dansImage))) erreur(lieu, '« ' + cle + ' » : points « x y, x y… » attendus');
+      if (sorte === 'point' && l.length !== 1) erreur(lieu, '« ' + cle + ' » : un seul point');
+      return sorte === 'point' ? l[0] : l;
+    }
+    if (sorte === 'couleur') {
+      if (!/^#[0-9a-f]{6}$/i.test(brut)) erreur(lieu, '« ' + cle + ' » : couleur #rrggbb attendue');
+      return brut.toLowerCase();
+    }
+    if (MOTS[cle] && !MOTS[cle].includes(brut)) erreur(lieu, '« ' + cle + ' » inconnu : ' + brut);
+    return brut;
+  }
+  let courant = null;
+  fs.readFileSync(fichier, 'utf-8').split(/\r?\n/).forEach((ligne, i) => {
+    const lieu = 'animations.txt:' + (i + 1);
+    if (!ligne.trim() || ligne.startsWith('#')) return;
+    if (ligne.startsWith('= ')) {
+      const id = ligne.slice(2).trim();
+      if (!images[id]) erreur(lieu, 'image inconnue « ' + id + ' »');
+      if (resultat.has(id)) erreur(lieu, 'image déjà animée « ' + id + ' »');
+      courant = { e: [] };
+      resultat.set(id, courant);
+      return;
+    }
+    const m = /^([a-z]+):\s*(.*)$/.exec(ligne);
+    if (!m || !courant) { erreur(lieu, 'ligne illisible'); return; }
+    if (m[1] === 'titre') { courant.ti = typographie(m[2].trim()); return; }
+    if (m[1] === 'son') {
+      const s = m[2].trim();
+      if (s.startsWith('synth:')) {
+        if (!SONS_SYNTHESE.includes(s.slice(6))) erreur(lieu, 'son de synthèse inconnu « ' + s + ' »');
+        courant.so = { s: s.slice(6) };
+      } else if (sons.parId.has(s)) {
+        courant.so = sons.parId.get(s);
+      } else erreur(lieu, 'son inconnu « ' + s + ' »');
+      return;
+    }
+    if (m[1] !== 'effet') { erreur(lieu, 'champ inconnu « ' + m[1] + ' »'); return; }
+    const morceaux = m[2].split(';').map((x) => x.trim()).filter(Boolean);
+    const t = morceaux.shift();
+    if (!EFFETS[t]) { erreur(lieu, 'effet inconnu « ' + t + ' »'); return; }
+    const e = { t };
+    for (const p of morceaux) {
+      const k = /^([a-z]+)=(.+)$/.exec(p);
+      if (!k || !EFFETS[t][k[1]]) { erreur(lieu, 'paramètre inconnu pour « ' + t + ' » : ' + p); continue; }
+      e[k[1]] = valeur(EFFETS[t][k[1]], k[2].trim(), lieu, k[1]);
+    }
+    for (const o of OBLIGATOIRES[t]) if (e[o] === undefined) erreur(lieu, '« ' + t + ' » demande « ' + o + ' »');
+    if (t === 'carte' && e.coins && e.coins.length !== 3) erreur(lieu, 'une carte se pose par trois coins');
+    if (t === 'bouge' && e.polygone && e.polygone.length < 3) erreur(lieu, 'un polygone a au moins trois points');
+    courant.e.push(e);
+  });
+  for (const [id, a] of resultat) if (!a.e.length) erreur('animations.txt', 'image « ' + id + ' » sans effet');
   return resultat;
 }
 
@@ -601,7 +724,9 @@ function main() {
     const corps = a.textes.map((t) => nu(t, noms)).join(' ');
     if (corps.length < 200) avertir(lieu, 'article court (' + corps.length + ' signes)');
   }
-  const illustrations = lireIllustrations(ids);
+  const sons = lireSons(ids);
+  const animations = lireAnimations(sons);
+  const illustrations = lireIllustrations(ids, animations);
   const liensExterieurs = lireLiens(ids);
   const parcours = lireParcours(ids);
   for (const p of PORTES) if (!ids.has(p)) erreur('PORTES', 'article inexistant « ' + p + ' »');
@@ -641,6 +766,7 @@ function main() {
       if (a.voir.length) o.v = a.voir;
       if (illustrations.parArticle.has(a.id)) o.im = illustrations.parArticle.get(a.id);
       if (illustrations.planches.has(a.id)) o.pl = illustrations.planches.get(a.id);
+      if (sons.parArticle.has(a.id)) o.so = sons.parArticle.get(a.id);
       if (liensExterieurs.has(a.id) && liensExterieurs.get(a.id).length) o.li = liensExterieurs.get(a.id);
       if (enMinuscule(a)) o.mn = 1;
       const par = cites.get(a.id);
@@ -660,6 +786,7 @@ function main() {
     lieux: articles.filter((a) => a.geo).length,
     extraits: articles.reduce((n, a) => n + a.extraitsLus.length, 0),
     parcours: parcours.length,
+    sons: sons.nombre, octetsSons: sons.octets, animations: animations.size,
   };
   fs.writeFileSync(path.join(RACINE, 'data', 'manifeste.json'), JSON.stringify(manifeste) + '\n', 'utf-8');
 
@@ -681,6 +808,8 @@ function main() {
     illustrations.nombre + ' illustrations (' + Math.round(illustrations.octets / 1024) + ' Ko) dans '
       + illustrations.parArticle.size + ' articles, ' + illustrations.planches.size + ' planche(s)',
     parcours.length + ' parcours (' + parcours.reduce((n, p) => n + p.e.length, 0) + ' étapes)',
+    sons.nombre + ' sons (' + Math.round(sons.octets / 1024) + ' Ko) dans ' + sons.parArticle.size + ' articles, '
+      + animations.size + ' images animées',
     Buffer.byteLength(json) + ' octets de JSON',
     '',
     ...CATEGORIES.map((c) => '  ' + c.id.padEnd(11) + String(parCat[c.id] || 0).padStart(4)),

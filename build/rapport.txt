@@ -2,9 +2,10 @@ Dictionnaire construit le 2026-10-24
 1298 articles, 203344 mots, 523 datés pour la frise, 141 avec figure (36 / 36 figures), 33 avec glyphe
 428 avec des repères (2474), 1210 avec des liens extérieurs (1601)
 100 sur la carte, 225 extraits dans 209 articles
-917 illustrations (31768 Ko) dans 894 articles, 15 planche(s)
+916 illustrations (31745 Ko) dans 894 articles, 15 planche(s)
 14 parcours (222 étapes)
-3023076 octets de JSON
+36 sons (56883 Ko) dans 41 articles, 28 images animées
+3048944 octets de JSON
 
   courants     42
   figures     297

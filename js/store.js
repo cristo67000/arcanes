@@ -104,6 +104,7 @@
     theme: 'auto',                 // 'auto' | 'clair' | 'sombre'
     police: 'serif',               // 'serif' | 'sans' : la police des articles
     voix: true,                    // le bouton « Écouter » des articles
+    animations: true,              // les images animées (js/animations.js)
     voixFr: null,                  // { uri, nom } : la voix choisie, ou l'automatique
     quizSens: 'mixte',             // 'mixte' | 'def-nom' | 'nom-def'
     quizNombre: 10,

@@ -56,6 +56,40 @@
     return b;
   }
 
+  /* Les sons : combien sont rangés pour l'écoute hors ligne. */
+  let ligneSons = null;
+  function etatSons(e) {
+    if (!ligneSons || !ligneSons.texte.isConnected) return;
+    const total = e.total || (infos.manifeste && infos.manifeste.sons) || 0;
+    ligneSons.texte.textContent = !('caches' in racine)
+      ? 'Ce navigateur ne garde pas les sons pour l’écoute hors ligne.'
+      : e.prets >= total && total
+        ? 'Tous les sons sont disponibles hors ligne.'
+        : e.enCours
+          ? 'Téléchargement : ' + e.prets + ' sur ' + total + '…'
+          : 'Disponibles hors ligne : ' + e.prets + ' sur ' + total + '.';
+    ligneSons.bouton.hidden = e.enCours || !total || e.prets >= total || !('caches' in racine);
+  }
+
+  function blocSons() {
+    const b = bloc('Sons');
+    const m = infos.manifeste;
+    if (m && m.sons) {
+      b.appendChild(element('p', 'discret', Outils.pluriel(m.sons, 'son', 'sons') + ' du domaine public — cris d’animaux, musiques de Mozart, Wagner, Holst ou Berlioz, poèmes dits —, '
+        + Outils.humain(m.octetsSons) + '. Rien ne joue tout seul : chacun s’écoute en touchant son bouton, et reste ensuite disponible hors ligne.'));
+    }
+    const ligne = element('div', 'ligne-maj');
+    const t = element('span', 'discret', '');
+    const bt = bouton('bouton-discret', 'Tout télécharger', () => Sons.entretenir(true));
+    ligne.appendChild(bt);
+    ligne.appendChild(t);
+    b.appendChild(ligne);
+    ligneSons = { texte: t, bouton: bt };
+    etatSons(Sons.etat);
+    Sons.entretenir().catch(() => {});
+    return b;
+  }
+
   function bloc(titre) {
     const b = element('section', 'bloc');
     b.appendChild(element('h3', null, titre));
@@ -117,10 +151,14 @@
     affichage.appendChild(segments(['auto', 'clair', 'sombre'], r.theme, (v) => changer('theme', v), (v) => ({ auto: 'Automatique', clair: 'Vélin', sombre: 'Nuit' })[v]));
     affichage.appendChild(element('h4', null, 'Police des articles'));
     affichage.appendChild(segments(['serif', 'sans'], r.police, (v) => changer('police', v), (v) => (v === 'serif' ? 'À empattements' : 'Sans empattements')));
+    affichage.appendChild(element('h4', null, 'Images animées'));
+    affichage.appendChild(segments([true, false], r.animations !== false, (v) => changer('animations', v), (v) => (v ? 'Animées' : 'Immobiles')));
+    affichage.appendChild(element('p', 'discret', 'Certaines gravures s’animent quand elles paraissent : une carte se retourne, un guéridon tourne, une flamme vacille. « Rejouer », sous l’image, relance l’animation et son bruit.'));
     zone.appendChild(affichage);
 
     zone.appendChild(blocVoix(r));
     zone.appendChild(blocImages());
+    zone.appendChild(blocSons());
 
     const clavier = bloc('Clavier');
     clavier.classList.add('seulement-clavier');
@@ -206,6 +244,7 @@
     Installer.surChangement(() => { if (App.vue === 'reglages') dessiner(); });
     document.addEventListener('voix-changees', () => { if (App.vue === 'reglages') dessiner(); });
     document.addEventListener('illustrations-etat', (e) => etatImages(e.detail));
+    document.addEventListener('sons-etat', (e) => etatSons(e.detail));
   }
 
   racine.Reglages = { brancher, dessiner };

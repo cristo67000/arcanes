@@ -78,6 +78,10 @@
   --el-terre: #d9cfae;
   --el-air: #d6e4f0;
   --el-eau: #c5d9e0;
+  --ciel-haut: #fffaf0;
+  --ciel-bas: #ece0c4;
+  --astre: #b08a2c;
+  --orbite: rgba(156, 114, 18, .28);
 
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", P052, Georgia, "Noto Serif", "DejaVu Serif", serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif;
@@ -147,6 +151,10 @@
     --el-terre: #4a4228;
     --el-air: #263d52;
     --el-eau: #1f4048;
+    --ciel-haut: #2a2046;
+    --ciel-bas: #0b0915;
+    --astre: #f5e6b0;
+    --orbite: rgba(225, 189, 98, .24);
     color-scheme: dark;
   }
 }
@@ -210,5 +218,9 @@
   --el-terre: #4a4228;
   --el-air: #263d52;
   --el-eau: #1f4048;
+  --ciel-haut: #2a2046;
+  --ciel-bas: #0b0915;
+  --astre: #f5e6b0;
+  --orbite: rgba(225, 189, 98, .24);
   color-scheme: dark;
 }

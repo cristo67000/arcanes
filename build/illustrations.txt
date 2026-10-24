@@ -1068,7 +1068,7 @@ largeur: 440
 commons: Francisco de Goya y Lucientes - Witches Sabbath - Google Art Project.jpg
 legende: *Le Sabbat des sorcières*, par Francisco de Goya
 credit: Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid
-pour: sabbat
+pour: sabbat, le-sabbat-des-sorcieres
 largeur: 440
 
 = baldung-sorcieres
@@ -5901,11 +5901,6 @@ legende: *Les Ambassadeurs*, par Hans Holbein le Jeune, avec le crâne peint en 
 credit: Hans Holbein le Jeune, 1533 — National Gallery, Londres
 pour: les-ambassadeurs
 
-= sabbat-goya
-commons: GOYA - El aquelarre (Museo Lázaro Galdiano, Madrid, 1797-98).jpg
-legende: *Le Sabbat des sorcières*, par Francisco de Goya
-credit: Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid
-pour: le-sabbat-des-sorcieres
 
 = toteninsel
 commons: Arnold Böcklin - Die Toteninsel V (Museum der bildenden Künste Leipzig).jpg

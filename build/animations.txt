@@ -1,0 +1,219 @@
+# Les images animées : ce qui se passe par-dessus certaines gravures.
+#
+#     node build/construire.mjs      vérifie chaque effet et le rattache à son image
+#     js/animations.js               les dessine, quand l'image paraît à l'écran
+#
+# Une image (son identifiant dans build/illustrations.txt), puis ses lignes :
+#
+#   = portrait-lenormand
+#   titre: L’as de cœur           le libellé du bouton « Rejouer » sous l'image
+#   son: synth:carte              (facultatif) un bruit fabriqué sur place (carte,
+#                                 coups, tonnerre, vent, feu, cloche, gong, tic, coeur,
+#                                 enchantement, souffle, eau) ou un son de build/sons.txt
+#   effet: carte; coins=…; …      un effet par ligne : son nom, puis ses réglages
+#
+# Les coordonnées sont des fractions de la largeur (x) et de la hauteur (y) de
+# l'image, de 0 à 1 ; un point s'écrit « x y », une liste « x y, x y, … ».
+#
+#   carte       une carte à jouer posée par trois coins : coins=origine, haut, droite ;
+#               figure=as-coeur | as-carreau | as-pique | as-trefle
+#   teinte      une tache de couleur fondue dans la gravure (mode produit) :
+#               ellipse=cx cy rx ry | rect=x y l h | polygone=… | rien (toute l'image) ;
+#               couleur=#rrggbb ; force=0.55 ; flou=0.02 (fraction de la largeur)
+#   bouge       un morceau de l'image découpé par un polygone : polygone=… ; pivot=x y ;
+#               mode=tourne | balance | leve | tremble | flotte ; ampleur (degrés pour
+#               tourne et balance, fraction de la hauteur sinon) ; duree (s) ; fois
+#   lueur       une lumière : point=x y ; rayon (fraction de la largeur) ; couleur ;
+#               mode=vacille | pulse | eclat ; force
+#   etincelles  des étoiles qui scintillent : zone=x y l h ; nombre ; couleur ; taille
+#   fumee       une fumée qui monte : point=x y ; couleur ; hauteur ; largeur ; nombre
+#   eclair      l'image s'illumine ; trace=… (facultatif) le trait de l'éclair
+#   rayons      une gloire qui tourne : point=x y ; rayon ; nombre ; couleur
+#
+# Tous acceptent delai=… (secondes avant de commencer).
+
+# ── Divination et spiritisme ────────────────────────────────────────────────
+
+= portrait-lenormand
+titre: L’as de cœur
+son: synth:carte
+effet: carte; coins=0.1407 0.919, 0.195 0.8796, 0.1926 0.940; figure=as-coeur; delai=0.5
+effet: lueur; point=0.168 0.91; rayon=0.11; couleur=#ff6680; mode=pulse; force=0.5; delai=1.2
+
+= tables-tournantes
+titre: Les guéridons tournent
+son: synth:coups
+effet: teinte; couleur=#f1dcae; force=0.35
+effet: teinte; rect=0.70 0.00 0.17 0.35; couleur=#b3262e; force=0.55
+effet: teinte; rect=0.00 0.00 0.12 0.42; couleur=#8c2a2a; force=0.4
+effet: teinte; rect=0.46 0.05 0.19 0.16; couleur=#c9a227; force=0.6
+effet: teinte; ellipse=0.38 0.52 0.06 0.13; couleur=#d98aa6; force=0.6
+effet: teinte; ellipse=0.51 0.53 0.065 0.15; couleur=#8fb3d9; force=0.6
+effet: teinte; ellipse=0.92 0.64 0.05 0.2; couleur=#6f9e6a; force=0.55
+effet: teinte; ellipse=0.14 0.66 0.06 0.09; couleur=#b58bd1; force=0.5
+effet: teinte; polygone=0.722 0.552, 0.80 0.536, 0.865 0.55, 0.85 0.72, 0.74 0.73; couleur=#9b1d35; force=0.6
+effet: teinte; ellipse=0.165 0.462 0.06 0.022; couleur=#8a5a2b; force=0.55
+effet: teinte; rect=0.05 0.80 0.9 0.13; couleur=#b7864d; force=0.4
+effet: lueur; point=0.17 0.17; rayon=0.08; couleur=#ffd27a; mode=vacille
+effet: lueur; point=0.92 0.155; rayon=0.07; couleur=#ffd27a; mode=vacille
+effet: bouge; polygone=0.722 0.552, 0.745 0.540, 0.80 0.536, 0.86 0.548, 0.865 0.57, 0.85 0.60, 0.845 0.72, 0.80 0.735, 0.74 0.73, 0.728 0.62, 0.72 0.57; pivot=0.79 0.73; mode=tourne; ampleur=2.6; duree=0.42; fois=10; delai=1.6
+effet: bouge; polygone=0.105 0.452, 0.16 0.446, 0.225 0.452, 0.228 0.472, 0.165 0.488, 0.162 0.575, 0.14 0.575, 0.137 0.486, 0.103 0.472; pivot=0.152 0.575; mode=tourne; ampleur=4; duree=0.5; fois=8; delai=2.1
+
+= eusapia-seance
+titre: La table se soulève
+son: synth:souffle
+effet: teinte; rect=0 0 1 0.4; couleur=#f3e2b8; force=0.5
+effet: teinte; rect=0.58 0.0 0.17 0.33; couleur=#7aa2c8; force=0.5
+effet: teinte; ellipse=0.2 0.58 0.15 0.25; couleur=#4a5a78; force=0.6
+effet: teinte; ellipse=0.35 0.42 0.09 0.15; couleur=#7a3a62; force=0.6
+effet: teinte; ellipse=0.51 0.30 0.07 0.12; couleur=#a08a5a; force=0.55
+effet: teinte; ellipse=0.72 0.52 0.1 0.2; couleur=#5a6b4a; force=0.55
+effet: teinte; ellipse=0.93 0.36 0.06 0.17; couleur=#6a5a8a; force=0.55
+effet: teinte; rect=0.0 0.76 1.0 0.13; couleur=#c89a5e; force=0.6
+effet: teinte; polygone=0.16 0.39, 0.94 0.375, 0.945 0.43, 0.17 0.455; couleur=#8b5a2b; force=0.6
+effet: bouge; polygone=0.16 0.39, 0.94 0.375, 0.945 0.43, 0.894 0.435, 0.894 0.735, 0.868 0.735, 0.868 0.44, 0.628 0.448, 0.628 0.775, 0.600 0.775, 0.600 0.45, 0.17 0.455; pivot=0.55 0.45; mode=leve; ampleur=0.035; duree=2.8; fois=3; delai=1.8
+
+= table-milan-1892
+titre: La table lévite
+son: synth:coups
+effet: teinte; couleur=#e8c99a; force=0.35
+effet: bouge; polygone=0.17 0.535, 0.72 0.525, 0.725 0.57, 0.70 0.575, 0.70 0.75, 0.665 0.75, 0.665 0.58, 0.25 0.59, 0.245 0.75, 0.205 0.75, 0.20 0.585, 0.175 0.58; pivot=0.45 0.56; mode=leve; ampleur=0.025; duree=2.4; fois=3; delai=0.8
+
+= waterhouse-boule
+titre: La boule s’éclaire
+son: synth:enchantement
+effet: lueur; point=0.60 0.278; rayon=0.09; couleur=#bfe3ff; mode=pulse; force=0.9
+effet: etincelles; zone=0.54 0.24 0.12 0.08; nombre=10; couleur=#eaf6ff; taille=0.012
+
+= figuier-baquet
+titre: Le fluide magnétique
+son: synth:enchantement
+effet: teinte; couleur=#efd9a8; force=0.4
+effet: etincelles; zone=0.25 0.45 0.5 0.28; nombre=22; couleur=#7c6cf0; taille=0.016
+
+= etoile-visconti
+titre: L’étoile brille
+son: synth:enchantement
+effet: rayons; point=0.81 0.13; rayon=0.3; nombre=12; couleur=#fff1b0
+effet: lueur; point=0.81 0.13; rayon=0.16; couleur=#fff1b0; mode=pulse
+effet: etincelles; zone=0.55 0.0 0.45 0.3; nombre=12; couleur=#fff6d0
+
+# ── Alchimie, feu et lumière ────────────────────────────────────────────────
+
+= madeleine-la-tour
+titre: La flamme vacille
+effet: lueur; point=0.672 0.27; rayon=0.13; couleur=#ffb347; mode=vacille; force=0.9
+effet: lueur; point=0.70 0.28; rayon=0.07; couleur=#ffd88a; mode=vacille; force=0.7; delai=0.6
+
+= aberdeen-phenix
+titre: Le phénix brûle
+son: synth:feu
+effet: lueur; point=0.5 0.38; rayon=0.4; couleur=#ff9a30; mode=vacille; force=0.55
+effet: etincelles; zone=0.15 0.05 0.7 0.5; nombre=18; couleur=#ffd23a; taille=0.012
+
+= salamandre-feu
+titre: Le feu crépite
+son: synth:feu
+effet: lueur; point=0.45 0.5; rayon=0.38; couleur=#ff8a2a; mode=vacille; force=0.5
+effet: etincelles; zone=0.12 0.3 0.72 0.3; nombre=16; couleur=#ffcc33; taille=0.01
+
+= mutus-10
+titre: L’athanor fume
+son: synth:feu
+effet: fumee; point=0.14 0.63; couleur=#8f8a80; hauteur=0.2; largeur=0.06; nombre=6
+
+= waterhouse-cercle
+titre: Le chaudron fume
+son: synth:feu
+effet: fumee; point=0.62 0.71; couleur=#d8d0c4; hauteur=0.45; largeur=0.09; nombre=7
+effet: lueur; point=0.66 0.81; rayon=0.12; couleur=#ff9a3c; mode=vacille
+
+= frankenstein-holst
+titre: L’orage
+son: synth:tonnerre
+effet: eclair; trace=0.30 0.07, 0.345 0.13, 0.31 0.15, 0.37 0.23; fois=2; delai=0.4
+
+= pierre-de-foudre-dessin
+titre: La foudre
+son: pluie-tonnerre
+effet: eclair; trace=0.78 0.04, 0.70 0.12, 0.74 0.14, 0.62 0.26; fois=2; delai=0.4
+
+# ── Mythes de la Bible et visions ───────────────────────────────────────────
+
+= balthazar-rembrandt
+titre: Mené, Mené, Tekel, Upharsin
+son: synth:gong
+effet: lueur; point=0.86 0.12; rayon=0.14; couleur=#fff1b8; mode=eclat; force=0.95
+
+= moreau-apparition
+titre: L’apparition
+son: synth:enchantement
+effet: rayons; point=0.56 0.43; rayon=0.28; nombre=24; couleur=#fff0c0
+effet: lueur; point=0.56 0.43; rayon=0.12; couleur=#fff0c0; mode=pulse
+
+= colombe-giaquinto
+titre: La colombe
+son: colombe-roucoulement
+effet: rayons; point=0.45 0.35; rayon=0.42; nombre=20; couleur=#fff3c4
+effet: lueur; point=0.45 0.35; rayon=0.12; couleur=#ffffff; mode=pulse
+
+= blake-dragon
+titre: La Femme vêtue de soleil
+son: synth:gong
+effet: lueur; point=0.57 0.52; rayon=0.32; couleur=#ffe08a; mode=pulse; force=0.75
+
+= schinkel-reine-de-la-nuit
+titre: La voûte étoilée
+son: reine-de-la-nuit
+effet: etincelles; zone=0.02 0.02 0.96 0.62; nombre=40; couleur=#ffffff; taille=0.009
+effet: lueur; point=0.5 0.77; rayon=0.1; couleur=#e8f0ff; mode=pulse
+
+= schinkel-sphinx
+titre: Clair de lune
+son: synth:vent
+effet: lueur; point=0.39 0.32; rayon=0.12; couleur=#e8f4ff; mode=pulse
+effet: etincelles; zone=0.0 0.0 1.0 0.42; nombre=22; couleur=#ffffff; taille=0.007
+
+= goya-aquelarre
+titre: La lune du sabbat
+son: berlioz-sabbat
+effet: lueur; point=0.12 0.07; rayon=0.09; couleur=#fff6d0; mode=pulse
+
+# ── Le ciel, l'horloge, le pendule ──────────────────────────────────────────
+
+= urania-orion
+titre: Les étoiles d’Orion
+son: synth:enchantement
+effet: etincelles; zone=0.15 0.25 0.65 0.6; nombre=22; couleur=#e0a91a; taille=0.016
+
+= bayeux-comete
+titre: La comète
+son: synth:souffle
+effet: etincelles; zone=0.70 0.01 0.2 0.11; nombre=12; couleur=#e0a91a; taille=0.014
+
+= prague-orloj
+titre: L’horloge sonne
+son: synth:tic
+effet: lueur; point=0.49 0.53; rayon=0.12; couleur=#ffe7a0; mode=pulse; force=0.6
+
+= pendule-1895
+titre: Le pendule oscille
+effet: bouge; polygone=0.50 0.15, 0.57 0.15, 0.88 0.65, 0.88 0.79, 0.70 0.81, 0.65 0.62; pivot=0.535 0.16; mode=balance; ampleur=5; duree=3.4; fois=4; delai=0.6
+
+# ── Bêtes ───────────────────────────────────────────────────────────────────
+
+= chouette-athenes
+titre: La chouette d’Athéna
+son: chouette-cheveche
+effet: etincelles; zone=0.2 0.15 0.6 0.65; nombre=12; couleur=#ffffff; taille=0.014
+
+= abeilles-childeric
+titre: L’or des abeilles
+son: abeilles-ruche
+effet: etincelles; zone=0.1 0.1 0.8 0.6; nombre=16; couleur=#fff3b0; taille=0.012
+
+= cygne-chevalier
+titre: Le cygne tire la nacelle
+son: cygnes-chanteurs
+effet: bouge; polygone=0.0 0.44, 1.0 0.44, 1.0 0.93, 0.0 0.93; pivot=0.5 0.7; mode=flotte; ampleur=0.012; duree=3.2; fois=3; delai=0.6
+effet: etincelles; zone=0.02 0.02 0.96 0.22; nombre=14; couleur=#ffe9a0; taille=0.012

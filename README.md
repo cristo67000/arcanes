@@ -83,6 +83,23 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   touchées, elles s'agrandissent et donnent leur source ; des **planches** de
   vignettes (les mythes de la Bible, Salomon, saint Jean, l'Apocalypse, le
   symbolisme…) mènent chacune à son article ;
+- des **images animées** : dans la main de Mlle Lenormand, une carte se
+  retourne et montre l'as de cœur ; la gravure des tables tournantes de 1853 se
+  colorie et ses guéridons se mettent à tourner ; la table d'Eusapia Palladino
+  se soulève, le pendule de Foucault oscille, la flamme de la Madeleine vacille,
+  le chaudron du *Cercle magique* fume, l'orage éclate sur *Frankenstein*, la
+  voûte de la Reine de la Nuit scintille… — une trentaine de gravures, chacune
+  avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong, feu),
+  fabriqué sur place par l'appareil ; « Rejouer » relance l'animation ;
+- des **sons** du domaine public, sous « À écouter » : les cris du loup, du
+  corbeau, de la chouette d'Athéna, du coq, des abeilles ou des baleines ; la
+  Reine de la Nuit de *La Flûte enchantée*, le récit du Graal de *Lohengrin*,
+  *Parsifal*, *Les Planètes* de Holst (sous chaque planète), le sabbat de la
+  *Symphonie fantastique* et du *Mont Chauve*, le Veau d'or de *Faust*, une
+  *Gnossienne* de Satie, le *Dies irae*, les cloches de Notre-Dame ; des poèmes
+  dits (*Correspondances*, *Voyelles*, *The Raven*) et la voix de Houdini, en
+  1914 ; rien ne joue tout seul, et chacun reste disponible hors ligne une fois
+  écouté ;
 - **« Pour aller plus loin »** : sous la plupart des articles, des liens vers
   Wikipédia, Wikisource, la BnF ou Internet Archive, où lire les textes
   eux-mêmes — ils ne s'ouvrent que si on les touche, et demandent une connexion ;
@@ -92,9 +109,10 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   saint Jean, les mythes de la Bible, la gnose, le Grand Œuvre, la peinture
   ésotérique, le roman, les Bohémiens, le Graal, la loge…) : un fil d'étapes
   en tête de fiche, l'étape suivante en bas, l'avancement sur l'accueil ;
-- une **carte des liens** sous chaque article, en constellation : touchez un
-  voisin, il passe au centre avec ses propres voisins, et l'on voyage ainsi
-  d'idée en idée sans quitter la fiche ;
+- une **carte des liens** sous chaque article, en ciel étoilé : des liens
+  teintés des couleurs des rubriques, où des points lumineux vont de l'article
+  qui cite vers l'article cité ; touchez un voisin, il glisse au centre avec ses
+  propres voisins, et l'on voyage ainsi d'idée en idée sans quitter la fiche ;
 - **36 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
   Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
   d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
@@ -141,6 +159,14 @@ public ou sous CC0 : `build/illustrer.py` refuse toute autre licence. Leur
 provenance, leur légende et leur crédit sont dans `build/illustrations.txt` ;
 une page d'un livre numérisé (PDF, DjVu) s'y désigne par `page:`.
 
+Les sons viennent aussi de Wikimedia Commons, dans le domaine public ou sous
+CC0 : `build/sonoriser.py` refuse toute autre licence, prend la version MP3 que
+Commons tire de chaque enregistrement et, si on le demande, n'en garde qu'un
+passage, coupé entre deux trames sans réencodage. Leur liste est dans
+`build/sons.txt`. Les animations des images sont décrites dans
+`build/animations.txt` (le format est en tête du fichier) ; la construction
+vérifie chacune.
+
 Le fond de la carte vient de Natural Earth (domaine public) : `node
 build/fond_de_carte.mjs` télécharge une fois les couches dans
 `build/.sources-carte/` (hors du dépôt), les projette en Mercator, les simplifie
@@ -157,9 +183,12 @@ js/figure.js    le moteur des figures ; js/figures/*.js, les 36 figures
 js/illustrations.js  les images, la visionneuse, leur cache hors ligne
 js/carte.js     la carte des lieux, le plan de situation des fiches, la position
 js/constellation.js  la carte des liens de chaque fiche
+js/animations.js  les images animées, dessinées par-dessus les gravures
+js/sons.js      les sons, leur cache hors ligne, et les bruits de synthèse
 data/       dictionnaire.json, manifeste.json — produits par build/construire.mjs ;
             carte.json, le fond de carte — produit par build/fond_de_carte.mjs
 img/        les illustrations en WebP — produites par build/illustrer.py
+son/        les sons en MP3 — produits par build/sonoriser.py
 icons/      icônes, image d'aperçu (build/generer-icones.py)
 build/      les sources des articles (articles/*.txt) et les outils
 ```
@@ -176,7 +205,8 @@ originaux restent dans `build/.sources-images/`, hors du dépôt), vérifie la
 licence, recadre, réduit, convertit en WebP et écrit `build/illustrations.json`,
 que `construire.mjs` rattache aux articles. Le service worker ne les met pas
 dans la coquille de chaque version : la page les range en arrière-plan dans un
-cache à part, `arcanes-images`, qu'aucune mise à jour ne vide.
+cache à part, `arcanes-images`, qu'aucune mise à jour ne vide. Les sons ont
+de même leur cache, `arcanes-sons`, où chacun entre à sa première écoute.
 
 ## Écrire un article
 
@@ -215,8 +245,8 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours (4 529)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, extraits, révision, hors-ligne (131)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations (4 764)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, extraits, révision, hors-ligne (138)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)
