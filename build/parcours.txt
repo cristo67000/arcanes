@@ -1,0 +1,111 @@
+# Les parcours : des chemins guidés à travers le dictionnaire, d'un article à
+# l'autre, dans un ordre qui raconte une histoire.
+#
+#     node build/construire.mjs      les vérifie et les range dans le dictionnaire
+#
+# ── Un parcours ─────────────────────────────────────────────────────────────
+#
+#   = temple                      identifiant (minuscules, chiffres, tirets)
+#   nom: Le Temple de Salomon     ce qu'on lit sur la carte du parcours
+#   def: Une phrase.              ce que le parcours raconte
+#   etapes: salomon, …            les articles, dans l'ordre (quatre au moins) ;
+#     une ligne qui commence par deux espaces continue la liste
+#
+# Dans la fiche d'un article, le parcours qu'on suit montre l'étape, la
+# précédente et la suivante ; l'accueil présente tous les parcours.
+
+= temple
+nom: Le Temple de Salomon
+def: Du chantier biblique à la loge maçonnique : le roi, ses démons, la reine de Saba, l'architecte assassiné et les symboles qu'il a légués.
+etapes: salomon, construction-du-temple, colonnes-jakin-et-boaz, shamir, asmodee, testament-de-salomon,
+  reine-de-saba, huppe, histoire-de-la-reine-du-matin, tubal-cain, legende-d-hiram, acacia, temple-maconnique,
+  temple-de-salomon
+
+= saint-jean
+nom: Saint Jean, de l'Évangile à l'Apocalypse
+def: Les deux saints Jean, le Baptiste et l'Évangéliste : la Parole, l'île de Patmos, les visions de la fin des temps et les fêtes des solstices.
+etapes: jean-baptiste, mandeens, salome, evangile-de-jean, logos, cent-cinquante-trois, jean-l-evangeliste,
+  ephese, patmos, apocalypse, quatre-cavaliers, femme-revetue-du-soleil, nombre-de-la-bete, jerusalem-celeste,
+  apocalypse-de-durer, tenture-de-l-apocalypse, l-agneau-mystique, loges-de-saint-jean
+
+= bible
+nom: Les mythes de la Bible
+def: De l'Éden à la Vraie Croix, les grands récits bibliques et ce que l'ésotérisme, les peintres et les poètes y ont lu.
+etapes: mythes-bibliques, jardin-d-eden, lilith, cain-et-abel, deluge, tour-de-babel, melchisedech,
+  echelle-de-jacob, moise, serpent-d-airain, cantique-des-cantiques, livre-de-la-sagesse, jonas,
+  songe-de-nabuchodonosor, festin-de-balthazar, rois-mages, legende-de-la-vraie-croix, juif-errant
+
+= gnose
+nom: La gnose et les évangiles cachés
+def: Le dieu inconnu, le démiurge, Sophia et l'âme exilée : les gnostiques, leurs livres retrouvés et leurs héritiers.
+etapes: gnose, gnosticisme, irenee-de-lyon, bibliotheque-de-nag-hammadi, apocryphon-de-jean, demiurge, sophia,
+  barbelo, sethiens, evangile-de-thomas, evangile-de-philippe, evangile-de-marie, codex-tchacos, evangile-de-judas,
+  cainites, ophites, hymne-de-la-perle, pistis-sophia, mandeens, catharisme
+
+= grand-oeuvre
+nom: Le Grand Œuvre
+def: La pierre philosophale, ses couleurs et ses mythes : des Argonautes et d'Hercule aux livres muets et aux cathédrales.
+etapes: alchimie, grand-oeuvre, nigredo, albedo, citrinitas, rubedo, pierre-philosophale, argonautes,
+  travaux-d-hercule, atalanta-fugiens, mutus-liber, nicolas-flamel, elias-artista, fables-egyptiennes-et-grecques-devoilees,
+  fulcanelli, mystere-des-cathedrales
+
+= mythes-grecs
+nom: Les mythes grecs et leurs lectures
+def: Prométhée, Hercule, Thésée, Ulysse et Psyché : les grands récits de la Grèce lus par les philosophes, les alchimistes et les néoplatoniciens.
+etapes: mythe, allegorese, age-d-or, promethee, pandore, argonautes, medee, travaux-d-hercule, thesee-et-le-minotaure,
+  labyrinthe, orphee, dionysos-zagreus, odyssee-de-l-ame, circe, antre-des-nymphes, allegorie-de-la-caverne,
+  mythe-d-er, eros-et-psyche
+
+= peinture
+nom: La peinture ésotérique
+def: Six siècles d'énigmes peintes et gravées, de Bosch et Dürer aux symbolistes et aux pionniers de l'abstraction.
+etapes: l-agneau-mystique, jerome-bosch, le-jardin-des-delices, apocalypse-de-durer, melencolia, le-printemps,
+  les-trois-philosophes, l-ecole-d-athenes, l-amour-sacre-et-l-amour-profane, les-ambassadeurs, les-bergers-d-arcadie,
+  vanites, faust-dans-son-cabinet, le-cauchemar, le-sabbat-des-sorcieres, william-blake, gustave-moreau,
+  odilon-redon, l-ile-des-morts, salons-de-la-rose-croix, abstraction-et-theosophie, surrealisme
+
+= roman
+nom: Le roman ésotérique
+def: Rose-Croix, cabalistes, élémentaux et satanistes : trois siècles de romans où l'initiation devient récit.
+etapes: songe-de-poliphile, le-comte-de-gabalis, sethos, vathek, le-manuscrit-trouve-a-saragosse, le-pot-d-or,
+  frankenstein, zanoni, joseph-balsamo, aurelia, les-chimeres, la-tentation-de-saint-antoine, a-rebours, la-bas,
+  axel, gustav-meyrink, le-necronomicon, le-pendule-de-foucault
+
+= bohemiens
+nom: Gaston Leroux et les Bohémiens
+def: Des Saintes-Maries-de-la-Mer au tarot des Bohémiens : la sainte des Gitans, les romans de Leroux et le mythe d'un peuple dépositaire des secrets d'Égypte.
+etapes: saintes-maries-de-la-mer, sara-la-kali, vierges-noires, gaston-leroux, la-reine-du-sabbat,
+  rouletabille-chez-les-bohemiens, sabbat, argot, le-tarot-des-bohemiens, cartomancie
+
+= rose-croix
+nom: Les Rose-Croix
+def: D'un manifeste anonyme de 1614 aux ordres et aux salons du XIXe siècle : la confrérie invisible et ses héritiers.
+etapes: rose-croix, christian-rosenkreutz, fama-fraternitatis, confessio-fraternitatis, noces-chymiques,
+  johann-valentin-andreae, michael-maier, robert-fludd, elias-artista, chevalier-rose-croix, zanoni,
+  ordre-kabbalistique-de-la-rose-croix, josephin-peladan, salons-de-la-rose-croix, amorc
+
+= graal
+nom: La quête du Graal
+def: Le vase mystérieux des romans arthuriens, ses gardiens et les légendes qu'il a fait naître jusqu'aux Templiers et aux cathares.
+etapes: graal, conte-du-graal, perceval, roi-pecheur, parzival, galaad, joseph-d-arimathie, sainte-lance,
+  templiers, montsegur, otto-rahn, l-enigme-sacree, da-vinci-code
+
+= egypte
+nom: L'Égypte rêvée
+def: Hermès, Isis et les hiéroglyphes : l'Égypte des Grecs, des francs-maçons et des romanciers, avant et après Champollion.
+etapes: hermes-trismegiste, corpus-hermetique, isis, osiris, de-iside-et-osiride, livre-des-morts, sethos,
+  la-flute-enchantee, maconnerie-egyptienne, cagliostro, jean-francois-champollion, egyptomanie,
+  le-roman-de-la-momie
+
+= tarot
+nom: Le tarot, du jeu aux occultistes
+def: Comment un jeu de cartes italien est devenu, en trois siècles, le livre de Thot, la clef des Bohémiens et un poème d'André Breton.
+etapes: tarot, tarot-de-marseille, court-de-gebelin, etteilla, eliphas-levi, le-tarot-des-bohemiens, papus,
+  oswald-wirth, tarot-rider-waite, arcane-etoile, les-chimeres, arcane-17
+
+= loge
+nom: Entrer en loge
+def: Le temple, les colonnes, la pierre à tailler, la mort et la résurrection du maître : les symboles de la franc-maçonnerie, dans l'ordre où l'initié les découvre.
+etapes: franc-maconnerie, loges-de-saint-jean, cabinet-de-reflexion, initiation-maconnique, temple-maconnique,
+  colonnes-jakin-et-boaz, apprenti, pierre-brute, compagnon, maitre-macon, legende-d-hiram, acacia,
+  tubal-cain, parole-perdue, grades-maconniques

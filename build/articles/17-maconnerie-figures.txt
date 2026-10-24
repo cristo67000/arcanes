@@ -250,7 +250,7 @@ repere: 1808 — Première partie de *Faust*.
 repere: 1810 — *Traité des couleurs*.
 repere: 1832 — Mort à Weimar ; publication de la seconde partie de *Faust*.
 oeuvres: Faust (1808, 1832) ; Le Conte du serpent vert et de la belle Lys (1795) ; La Métamorphose des plantes (1790) ; Traité des couleurs (1810)
-voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner, homoncule, faust, walpurgis, le-serpent-vert
+voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner, homoncule, faust, walpurgis, le-serpent-vert, faust-dans-son-cabinet
 
 @ augustin-barruel
 cat: figures
@@ -273,7 +273,7 @@ repere: 1802 — Rentré en France, il se rallie au Concordat.
 repere: 1806 — Il reçoit la lettre de Simonini, qui accuse les juifs.
 repere: 1820 — Mort à Paris.
 oeuvres: Les Helviennes (1781) ; Mémoires pour servir à l'histoire du jacobinisme (1797-1798)
-voir: antimaconnisme, illumines-de-baviere, adam-weishaupt
+voir: antimaconnisme, illumines-de-baviere, adam-weishaupt, joseph-balsamo
 
 @ laurence-dermott
 cat: figures
@@ -549,7 +549,7 @@ texte: Benoît XIV la confirme en 1751 par la bulle *Providas*, et une longue su
 voir: antimaconnisme, secret-maconnique, franc-maconnerie
 
 @ la-flute-enchantee
-cat: textes
+cat: litterature
 nom: La Flûte enchantée
 alias: Die Zauberflöte, Flûte enchantée, Sarastro, Tamino, Pamina, Papageno, Reine de la Nuit
 an: 1791
@@ -570,7 +570,7 @@ texte: Le premier livre des Rois en détaille les dimensions, les matériaux ven
 texte: Les théologiens y ont vu une image du cosmos, du corps humain ou de l'Église ; le jésuite Villalpando en publie en 1604 une restitution monumentale, et [[isaac-newton]] en étudie les mesures pour y chercher la clé des prophéties. Les [[templiers]] tiraient leur nom de son emplacement ; la [[franc-maconnerie]] en a fait le chantier mythique de ses ouvriers (voir [[legende-d-hiram|légende d'Hiram]]) et l'image de l'homme à reconstruire.
 geo: 31.7780, 35.2354
 lieu: Jérusalem
-voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique, menorah, jakin, boaz, asmodee
+voir: salomon, colonnes-jakin-et-boaz, legende-d-hiram, templiers, temple-maconnique, menorah, jakin, boaz, asmodee, construction-du-temple, shamir, jerusalem-celeste, festin-de-balthazar
 
 @ compagnonnage
 cat: societes

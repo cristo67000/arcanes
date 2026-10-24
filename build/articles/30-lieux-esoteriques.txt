@@ -71,7 +71,7 @@ lieu: Aude, Occitanie, France
 geo: 43.2064, 2.3638
 def: Cité fortifiée du Languedoc, prise par les croisés en 1209 au début de la croisade contre les Albigeois, siège de l'Inquisition, restaurée au XIXe siècle et porte du pays cathare.
 texte: En août 1209, l'armée de la croisade contre les [[catharisme|cathares]] assiège Carcassonne ; le vicomte Raymond-Roger Trencavel, venu négocier, est retenu prisonnier et meurt dans un cachot, et la ville passe à Simon de Montfort. L'Inquisition s'y installe, avec sa prison, le « Mur » ; au début du XIVe siècle, le franciscain Bernard Délicieux y soulève la population contre les inquisiteurs. Les [[parfaits]] traqués dans la région finissent sur les bûchers ou à [[montsegur|Montségur]].
-texte: La Cité, ruinée, est sauvée et restaurée à partir de 1853 par Viollet-le-Duc, qui lui donne ses toits pointus ; elle est inscrite au patrimoine mondial en 1997. Au XXe siècle, Carcassonne devient un foyer du néo-catharisme : le poète Joë Bousquet y reçoit écrivains et surréalistes, [[deodat-roche|Déodat Roché]], qui vit tout près, y anime des études cathares. À quarante kilomètres, [[rennes-le-chateau|Rennes-le-Château]] attire les chercheurs de trésor.
+texte: La Cité, ruinée, est sauvée et restaurée à partir de 1853 par Viollet-le-Duc, qui lui donne ses toits pointus ; elle est inscrite au patrimoine mondial en 1997. Au XXe siècle, Carcassonne devient un foyer du néo-catharisme : le poète Joë Bousquet y reçoit écrivains et [[surrealisme|surréalistes]], [[deodat-roche|Déodat Roché]], qui vit tout près, y anime des études cathares. À quarante kilomètres, [[rennes-le-chateau|Rennes-le-Château]] attire les chercheurs de trésor.
 repere: 1209 — Siège et prise de la ville par les croisés.
 repere: 1303 — Bernard Délicieux soulève Carcassonne contre l'Inquisition.
 repere: 1853 — Viollet-le-Duc commence la restauration de la Cité.
@@ -101,7 +101,7 @@ lieu: Seine-Maritime, Normandie, France
 geo: 49.4402, 1.0950
 def: La capitale de la Normandie, où Jeanne d'Arc fut brûlée, où saint Romain vainquit la Gargouille, et dont Maurice Leblanc fit le centre des énigmes d'Arsène Lupin.
 texte: La légende veut que l'évêque saint Romain ait délivré la ville d'un [[dragon]], la Gargouille, avec l'aide d'un condamné : en mémoire, le chapitre de la cathédrale pouvait chaque année, à l'Ascension, gracier un prisonnier, le « privilège de la Fierte ». En 1431, Jeanne d'Arc est jugée et brûlée sur la place du Vieux-Marché ; on l'accusait d'hérésie et l'on avait cherché en elle une [[sorciere|sorcière]]. Le parlement de Normandie, héritier de l'[[echiquier|Échiquier]], juge aux XVIe et XVIIe siècles de nombreux procès de [[sorcellerie]], où les hommes furent plus nombreux que les femmes, et l'affaire des possédées de Louviers.
-texte: Rouen a vu naître Flaubert, auteur de *La Tentation de saint Antoine*, et [[maurice-leblanc|Maurice Leblanc]], qui place autour d'elle, entre Seine et pays de Caux, les secrets d'[[arsene-lupin|Arsène Lupin]] ; [[marcel-duchamp|Marcel Duchamp]] y fit ses études, et [[nicolas-poussin|Poussin]] est né aux Andelys tout proches. Son Gros-Horloge montre depuis le XVIe siècle les jours de la semaine sous la figure des dieux planétaires.
+texte: Rouen a vu naître Flaubert, auteur de *[[la-tentation-de-saint-antoine|La Tentation de saint Antoine]]*, et [[maurice-leblanc|Maurice Leblanc]], qui place autour d'elle, entre Seine et pays de Caux, les secrets d'[[arsene-lupin|Arsène Lupin]] ; [[marcel-duchamp|Marcel Duchamp]] y fit ses études, et [[nicolas-poussin|Poussin]] est né aux Andelys tout proches. Son Gros-Horloge montre depuis le XVIe siècle les jours de la semaine sous la figure des dieux planétaires.
 repere: 1431 — Procès et supplice de Jeanne d'Arc.
 repere: 1515 — L'Échiquier de Normandie devient le parlement de Rouen.
 repere: 1864 — Naissance de Maurice Leblanc.
@@ -162,12 +162,12 @@ lieu: Prague, Tchéquie
 geo: 50.0875, 14.4214
 def: La « Prague magique » de l'empereur Rodolphe II, des alchimistes et des astronomes, du rabbin Loew et de son Golem, de l'horloge astronomique et des romans fantastiques.
 texte: Quand [[rodolphe-ii|Rodolphe II]] y installe sa cour en 1583, Prague devient la capitale européenne des sciences occultes : [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]] y évoquent les anges, [[michel-sendivogius|Sendivogius]] y fait ses projections, [[tycho-brahe|Tycho Brahe]] et [[johannes-kepler|Kepler]] y observent le ciel, et l'empereur réunit au [[chateau-de-prague|château]] ses collections de merveilles. Le rabbin Judah Loew, le Maharal, mort en 1609, est devenu dans la légende le créateur du [[golem]] qui défendait le ghetto.
-texte: L'horloge astronomique de la place de la Vieille-Ville, mise en place en 1410, montre le Soleil, la Lune et le zodiaque, et fait défiler les apôtres. Au XXe siècle, le roman *Le Golem* de Gustav Meyrink (1915) a fixé l'image d'une ville de brumes et de mystères, et l'on montre encore une maison de [[faust|Faust]].
+texte: L'horloge astronomique de la place de la Vieille-Ville, mise en place en 1410, montre le Soleil, la Lune et le zodiaque, et fait défiler les apôtres. Au XXe siècle, le roman *Le Golem* de Gustav [[gustav-meyrink|Meyrink]] (1915) a fixé l'image d'une ville de brumes et de mystères, et l'on montre encore une maison de [[faust|Faust]].
 repere: 1410 — L'horloge astronomique est installée.
 repere: 1583 — Rodolphe II installe sa cour à Prague.
 repere: 1609 — Mort du rabbin Loew.
 repere: 1915 — *Le Golem* de Gustav Meyrink.
-voir: rodolphe-ii, chateau-de-prague, golem, tycho-brahe, john-dee, turin
+voir: rodolphe-ii, chateau-de-prague, golem, tycho-brahe, john-dee, turin, gustav-meyrink
 
 @ florence
 cat: lieux

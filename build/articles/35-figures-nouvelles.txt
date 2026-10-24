@@ -66,7 +66,7 @@ dates: Ier siècle
 an: 30
 def: Disciple de Jésus venue de Magdala, témoin de la crucifixion et première à voir le Christ ressuscité ; la tradition l'a confondue avec la pécheresse repentie et fait débarquer en Provence, et l'ésotérisme moderne en a fait l'épouse de Jésus.
 texte: Les Évangiles la nomment parmi les femmes qui suivaient Jésus et dont il avait chassé « sept démons ». Elle se tient au pied de la croix, et l'Évangile de Jean raconte qu'au matin de Pâques elle prend le ressuscité pour le jardinier avant qu'il ne l'appelle par son nom ; il l'envoie annoncer la nouvelle aux disciples, d'où son titre d'« apôtre des apôtres ». En 591, le pape Grégoire le Grand l'identifie à la pécheresse qui parfuma les pieds du Christ et à Marie de Béthanie : la Madeleine repentante aux longs cheveux, patronne des pénitents, est née. L'Église catholique a distingué de nouveau les trois femmes en 1969 et élevé sa mémoire au rang de fête en 2016.
-texte: Les textes gnostiques lui donnent une place éminente : l'*Évangile de Marie*, connu par un papyrus acquis au Caire en 1896, la montre enseignant les disciples ; l'*Évangile de Philippe*, retrouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], l'appelle la compagne de Jésus, et la *[[pistis-sophia|Pistis Sophia]]* en fait la principale interlocutrice du Sauveur. La [[legende-doree|Légende dorée]] la fait arriver en Provence avec Lazare, Marthe et Maximin, sur une barque sans voile ; elle se retire trente ans dans la grotte de la [[sainte-baume|Sainte-Baume]]. [[vezelay|Vézelay]] puis [[saint-maximin|Saint-Maximin]] se disputent ses reliques.
+texte: Les textes gnostiques lui donnent une place éminente : l'*[[evangile-de-marie|Évangile de Marie]]*, connu par un papyrus acquis au Caire en 1896, la montre enseignant les disciples ; l'*[[evangile-de-philippe|Évangile selon Philippe]]*, retrouvé à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], l'appelle la compagne de Jésus, et la *[[pistis-sophia|Pistis Sophia]]* en fait la principale interlocutrice du Sauveur. La [[legende-doree|Légende dorée]] la fait arriver en Provence avec Lazare, Marthe et Maximin, sur une barque sans voile ; elle se retire trente ans dans la grotte de la [[sainte-baume|Sainte-Baume]]. [[vezelay|Vézelay]] puis [[saint-maximin|Saint-Maximin]] se disputent ses reliques.
 texte: L'église de [[rennes-le-chateau|Rennes-le-Château]] lui est dédiée, et [[berenger-sauniere|Bérenger Saunière]] bâtit la tour Magdala. *[[l-enigme-sacree|L'Énigme sacrée]]* (1982) puis le *[[da-vinci-code|Da Vinci Code]]* (2003) ont fait d'elle l'épouse de Jésus et la mère d'une lignée royale, le « [[graal|Graal]] » vivant : roman, et non histoire.
 repere: Ier siècle — Témoin de la crucifixion et de la résurrection.
 repere: 591 — Grégoire le Grand la confond avec la pécheresse et Marie de Béthanie.
@@ -78,7 +78,7 @@ extrait: Cependant Marie se tenait dehors près du sépulcre, et pleurait. Comme
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Évangile selon Jean, chap. XX, versets 11-18 | ws Bible Segond 1910/Évangile selon Jean
 extrait: Après l’ascension du Seigneur, la quatorzième année après la Passion, les disciples se répandirent dans les diverses contrées pour y semer la parole divine ; et saint Pierre confia Marie-Madeleine à saint Maximin, l’un des soixante-douze disciples du Seigneur. Alors saint Maximin, Marie-Madeleine, Lazare, Marthe, Martille, et avec eux saint Cédon, l’aveugle-né guéri par Jésus, ainsi que d’autres chrétiens encore, furent jetés par les infidèles sur un bateau et lancés à la mer, sans personne pour diriger le bateau. Les infidèles espéraient que, de cette façon, ils seraient tous noyés à la fois. Mais le bateau, conduit par la grâce divine, arriva heureusement dans le port de Marseille. Là, personne ne voulut recevoir les nouveaux venus, qui s’abritèrent sous le portique d’un temple.
 source: Jacques de Voragine, *La Légende dorée*, « Sainte Marie-Madeleine », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Sainte Marie-Madeleine
-voir: sainte-baume, saint-maximin, saintes-maries-de-la-mer, vezelay, rennes-le-chateau, pistis-sophia, l-enigme-sacree, da-vinci-code, tarasque, sophia
+voir: sainte-baume, saint-maximin, saintes-maries-de-la-mer, vezelay, rennes-le-chateau, pistis-sophia, l-enigme-sacree, da-vinci-code, tarasque, sophia, evangile-de-marie, evangile-de-philippe, jean-l-evangeliste
 
 @ dagobert-ii
 cat: figures
@@ -142,13 +142,15 @@ an: 1868
 def: Journaliste et romancier français, créateur du reporter Rouletabille et auteur du *Fantôme de l'Opéra* (1910), roman gothique né des souterrains réels du palais Garnier.
 texte: Né à Paris en 1868, élevé en Normandie, Leroux est avocat puis chroniqueur judiciaire et grand reporter au *Matin* ; il couvre les procès des anarchistes et la révolution russe de 1905. *Le Mystère de la chambre jaune* (1907) lance le jeune reporter Joseph Rouletabille et le genre du crime en chambre close. Il écrit ensuite des feuilletons fantastiques ou d'aventures, *Balaoo*, *Chéri-Bibi*, *La Poupée sanglante*, et meurt à Nice en 1927.
 texte: *Le Fantôme de l'Opéra*, paru en feuilleton dans *Le Gaulois* en 1909-1910, se présente comme une enquête véridique : un être défiguré, Erik, hante l'[[opera-garnier|Opéra Garnier]], vit au bord d'un lac souterrain, fait tomber le grand lustre et enlève la cantatrice Christine Daaé. Leroux s'appuie sur des faits réels — la cuve d'eau creusée sous le bâtiment, la chute d'un contrepoids du lustre en 1896, l'enfouissement en 1907 de disques destinés à la postérité — et sur les codes du [[roman-gothique|roman gothique]]. Le film de 1925 et la comédie musicale de 1986 en ont fait un mythe mondial.
+texte: Leroux s'est aussi passionné pour les Bohémiens. *[[la-reine-du-sabbat|La Reine du Sabbat]]* (1910) mène ses personnages dans la crypte de [[sara-la-kali|sainte Sara]], aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], où les tribus élisent leur roi et sacrent une reine au cours d'une nuit d'orgie, puis à la cour d'un empire imaginaire calqué sur l'Autriche des Habsbourg ; en 1922, *[[rouletabille-chez-les-bohemiens|Rouletabille chez les Bohémiens]]* lance son reporter de la Camargue, à la veille du pèlerinage, jusqu'au-delà des Balkans, sur la piste d'une jeune fille enlevée que les Bohémiens tiennent pour la reine annoncée par leur *Livre des Ancêtres*.
 repere: 1868 — Naissance à Paris, le 6 mai.
 repere: 1907 — *Le Mystère de la chambre jaune*.
-repere: 1910 — *Le Fantôme de l'Opéra* paraît en volume.
+repere: 1910 — *Le Fantôme de l'Opéra* paraît en volume ; *La Reine du Sabbat* paraît en feuilleton dans *Le Matin*.
+repere: 1922 — *Rouletabille chez les Bohémiens*, dans *Le Matin*.
 repere: 1927 — Mort à Nice, le 15 avril.
 extrait: Le Fantôme de l’Opéra a existé. Ce ne fut point, comme on l’a cru longtemps, une inspiration d’artistes, une superstition de directeurs, la création falote des cervelles excitées de ces demoiselles du corps de ballet, de leurs mères, des ouvreuses, des employés du vestiaire et de la concierge. ¶ Oui, il a existé, en chair et en os, bien qu’il se donnât toutes les apparences d’un vrai fantôme, c’est-à-dire d’une ombre. ¶ On se rappelle que dernièrement, en creusant le sous-sol de l’Opéra, pour y enterrer les voix phonographiées des artistes, le pic des ouvriers a mis à nu un cadavre ; or, j’ai eu tout de suite la preuve que ce cadavre était celui du Fantôme de l’Opéra !
 source: Gaston Leroux, *Le Fantôme de l’Opéra*, 1910, avant-propos | ws Le Fantôme de l’Opéra/Avant-propos
-voir: opera-garnier, roman-gothique, maurice-leblanc, arsene-lupin, paris
+voir: opera-garnier, roman-gothique, maurice-leblanc, arsene-lupin, paris, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, sara-la-kali
 
 @ walter-scott
 cat: figures
@@ -231,7 +233,7 @@ dates: règne vers 1353 – 1336 av. J.-C.
 an: -1353
 def: Pharaon de la XVIIIe dynastie qui imposa le culte exclusif du disque solaire Aton et fonda la ville d'Akhetaton (Amarna) ; effacé de l'histoire après sa mort, il a été tenu pour le premier monothéiste et revendiqué par l'ésotérisme.
 texte: Fils d'Amenhotep III et de la reine Tiyi, Amenhotep IV prend vers la cinquième année de son règne le nom d'Akhenaton, « utile à Aton », et quitte Thèbes pour une ville nouvelle, Akhetaton, l'« horizon d'Aton », à [[amarna|Amarna]]. Il ferme les temples d'[[amon|Amon]], fait marteler son nom, et adore le seul disque solaire dont les rayons se terminent par des mains. L'art change : le roi, son épouse Néfertiti et leurs filles sont représentés dans leur intimité, avec des corps étirés. Le *Grand Hymne à Aton* a souvent été comparé au psaume 104.
-texte: Après sa mort, son fils Toutânkhamon revient à Amon ; Horemheb fait détruire la ville et effacer le nom du « criminel d'Akhetaton ». Redécouvert au XIXe siècle, il fascine : Freud fait de Moïse un disciple égyptien de sa religion dans *Moïse et le monothéisme* (1939), et l'[[amorc|AMORC]] de [[harvey-spencer-lewis|Harvey Spencer Lewis]] le compte parmi les maîtres de sa tradition. Les égyptologues voient dans sa réforme une théologie solaire royale plutôt qu'un monothéisme au sens biblique.
+texte: Après sa mort, son fils Toutânkhamon revient à Amon ; Horemheb fait détruire la ville et effacer le nom du « criminel d'Akhetaton ». Redécouvert au XIXe siècle, il fascine : Freud fait de [[moise|Moïse]] un disciple égyptien de sa religion dans *Moïse et le monothéisme* (1939), et l'[[amorc|AMORC]] de [[harvey-spencer-lewis|Harvey Spencer Lewis]] le compte parmi les maîtres de sa tradition. Les égyptologues voient dans sa réforme une théologie solaire royale plutôt qu'un monothéisme au sens biblique.
 repere: vers 1353 av. J.-C. — Avènement d'Amenhotep IV.
 repere: vers 1348 av. J.-C. — Il prend le nom d'Akhenaton et fonde Akhetaton.
 repere: vers 1336 av. J.-C. — Mort du roi ; retour au culte d'Amon.
@@ -348,7 +350,7 @@ repere: 1620 — *Novum Organum*.
 repere: 1623 — *De augmentis scientiarum*, avec le chiffre bilitère.
 repere: 1626 — Mort à Highgate, le 9 avril.
 repere: 1627 — Publication posthume de *La Nouvelle Atlantide*.
-voir: chiffre-de-bacon, atlantide, rose-croix, frances-yates, ignatius-donnelly, salomon, franc-maconnerie
+voir: chiffre-de-bacon, atlantide, rose-croix, frances-yates, ignatius-donnelly, salomon, franc-maconnerie, de-la-sagesse-des-anciens
 
 @ blaise-de-vigenere
 cat: figures
@@ -441,7 +443,7 @@ dates: vers 1405 – 1440
 an: 1405
 def: Seigneur breton, maréchal de France et compagnon de Jeanne d'Arc, ruiné par ses fastes, qui se livra à l'alchimie et aux invocations du diable ; il fut pendu et brûlé à Nantes en 1440 pour le meurtre de nombreux enfants.
 texte: Héritier d'immenses domaines entre Bretagne, Anjou et Poitou, Gilles de Rais combat les Anglais aux côtés de [[jeanne-d-arc|Jeanne d'Arc]] à Orléans et reçoit le bâton de maréchal de France au sacre de Reims, en 1429. Retiré dans ses châteaux de Machecoul et de Tiffauges, il dilapide sa fortune en fêtes, en chapelle princière et en représentations du *Mystère du siège d'Orléans*. Il cherche alors dans l'[[alchimie]] le moyen de refaire de l'or, puis, avec un clerc florentin, Francesco Prelati, dans l'[[evocation|évocation]] d'un démon nommé Barron.
-texte: Arrêté en septembre 1440 après avoir violé l'immunité d'une église, il est jugé à Nantes par l'évêque et l'Inquisition pour hérésie, sorcellerie et sodomie, et par la justice du duc pour le meurtre de dizaines d'enfants. Il avoue, demande pardon et meurt le 26 octobre 1440. La tradition l'a confondu avec Barbe-Bleue ; [[joris-karl-huysmans|Huysmans]] en a fait le sujet de *Là-bas* (1891), et [[margaret-murray|Margaret Murray]] un adepte, comme Jeanne, d'une religion païenne. Des auteurs modernes ont contesté la régularité de son procès, sans faire l'accord des historiens.
+texte: Arrêté en septembre 1440 après avoir violé l'immunité d'une église, il est jugé à Nantes par l'évêque et l'Inquisition pour hérésie, sorcellerie et sodomie, et par la justice du duc pour le meurtre de dizaines d'enfants. Il avoue, demande pardon et meurt le 26 octobre 1440. La tradition l'a confondu avec Barbe-Bleue ; [[joris-karl-huysmans|Huysmans]] en a fait le sujet de *[[la-bas|Là-bas]]* (1891), et [[margaret-murray|Margaret Murray]] un adepte, comme Jeanne, d'une religion païenne. Des auteurs modernes ont contesté la régularité de son procès, sans faire l'accord des historiens.
 repere: vers 1405 — Naissance au château de Champtocé.
 repere: 1429 — Maréchal de France au sacre de Reims.
 repere: 1435 — Charles VII lui interdit d'aliéner ses biens.
@@ -450,7 +452,7 @@ repere: 1440 — Procès et exécution à Nantes, le 26 octobre.
 repere: 1891 — *Là-bas*, de Huysmans.
 extrait: Réduit aux abois, Gilles se laissa entièrement dominer par la passion de l’alchimie et abandonna tout pour elle. Mais il est bon de remarquer que cette science, qui le jeta dans la démonomanie, alors qu’il espéra créer de l’or et se sauver ainsi d’une misère imminente, il l’aima pour elle-même, dans un temps où il était riche. Ce fut en effet vers l’année 1426, au moment où l’argent déferlait dans ses coffres, qu’il tenta, pour la première fois, la réussite du grand œuvre.
 source: Joris-Karl Huysmans, *La Sorcellerie en Poitou — Gilles de Rais*, Librairie de la tradition nationale, 1897 | ws La sorcellerie en Poitou — Gilles de Rais
-voir: jeanne-d-arc, joris-karl-huysmans, alchimie, evocation, margaret-murray, messe-noire, satanisme
+voir: jeanne-d-arc, joris-karl-huysmans, alchimie, evocation, margaret-murray, messe-noire, satanisme, la-bas
 
 @ demeter
 cat: figures
@@ -483,7 +485,7 @@ repere: IVe siècle av. J.-C. — Tablettes d'or orphiques de Thourioi.
 repere: 395 — Fin des mystères d'Éleusis.
 extrait: Et la Vierge, surprise, étendit les deux mains en même temps pour saisir ce beau jouet ; mais voici que la vaste terre s’ouvrit dans les plaines de Nysios, et le Roi insatiable, illustre fils de Kronos, s’en élança, porté par ses chevaux immortels. Et il l’enleva de force et la porta pleurante sur son char d’or. Et elle criait à haute voix, invoquant le Père Kroniôn, le très puissant et le très suprême ; mais aucun des Dieux immortels ni des hommes mortels n’entendit sa voix ni celles de ses compagnes aux mains pleines de belles fleurs. (…) et il a promis aussi, par un signe de tête, que ta fille, ne restant que la troisième partie de l’année sous les ténèbres épaisses, resterait les deux autres parties auprès de toi et des autres Dieux.
 source: *Hymnes homériques*, « À Dèmètèr », trad. Leconte de Lisle, Lemerre, 1893 | ws Hymnes homériques/À Dèmètèr 2
-voir: demeter, eleusis, orphisme, hecate, mysteres-antiques, psychopompe
+voir: demeter, eleusis, orphisme, hecate, mysteres-antiques, psychopompe, dionysos-zagreus
 
 @ hecate
 cat: figures
@@ -499,7 +501,7 @@ repere: IIe siècle — Les *Oracles chaldaïques* font d'elle l'âme du monde.
 repere: vers 1606 — Shakespeare la fait paraître dans *Macbeth*.
 extrait: Et Astériè, devenue enceinte, enfante Hékatè, qu’entre toutes Zeus Kronide honora. Et il lui donna, pour sa part illustre, de commander sur la terre et sur la mer stérile. Déjà cette part lui avait été faite par Ouranos étoilé, et elle était très-honorée par les Dieux immortels. ¶ Et en effet, aujourd’hui quand un des hommes terrestres fait, selon la coutume, des sacrifices expiatoires, il invoque Hékatè, et une grande faveur lui est accordée promptement, et la Déesse bienveillante exauce sa prière et le comble de richesses, car cela lui est facile. ¶ Tous les honneurs que les enfants de Gaia et d’Ouranos ont reçus de la Moire, Hékatè les possède, car le Kronide ne lui a enlevé ni la puissance ni aucun des honneurs qu’elle possédait sous les anciens Dieux Titans ; mais elle possède tout ce qui lui avait été accordé au commencement. Et parce qu’elle est fille unique, la Déesse est non moins honorée sur la terre et dans l’Ouranos que sur la mer ; et elle est encore plus puissante, parce que Zeus l’honore.
 source: Hésiode, *La Théogonie*, v. 411-428, trad. Leconte de Lisle, Lemerre | ws La Théogonie (traduction Leconte de Lisle)
-voir: oracles-chaldaiques, sorcellerie, magie, persephone, demeter, chien, lune, theurgie
+voir: oracles-chaldaiques, sorcellerie, magie, persephone, demeter, chien, lune, theurgie, medee
 
 @ pan
 cat: figures
@@ -516,7 +518,7 @@ repere: 1552 — Rabelais identifie Pan au Christ dans le *Quart Livre*.
 repere: 1913 — Aleister Crowley compose son *Hymne à Pan*.
 extrait: Tout le monde sait ce qui arriva au pilote Thamus. Son vaisseau étant un soir vers de certaines îles de la mer Égée, le vent cessa tout à fait. Tous les gens du vaisseau étaient bien éveillés ; la plupart même passaient le temps à boire les uns avec les autres, lorsqu’on entendit tout d’un coup une voix qui venait des îles, et qui appelait Thamus. Thamus se laissa appeler deux fois sans répondre ; mais à la troisième il répondit. La voix lui commanda que, quand il serait arrivé à un certain lieu, il criât que le grand Pan était mort. Il n’y eut personne qui ne fût saisi de frayeur et d’épouvante. On délibérait si Thamus devait obéir à la voix : mais Thamus conclut que si, quand ils seraient arrivés au lieu marqué, il faisait assez de vent pour passer outre, il ne fallait rien dire ; mais que si un calme les arrêtait là, il fallait s’acquitter de l’ordre qu’il avait reçu. Il ne manqua point d’être surpris d’un calme à cet endroit-là, et aussitôt il se mit à crier de toute sa force que le grand Pan était mort. À peine avait-il cessé de parler, que l’on entendit de tous côtés des plaintes et des gémissements, comme d’un grand nombre de personnes surprises et affligées de cette nouvelle. (…) C’est ainsi que, dans le dialogue où Plutarque traite des oracles qui ont cessé, Cléombrote conte cette histoire, et dit qu’il la tient d’Épithersès, son maître de grammaire, qui était dans le vaisseau de Thamus lorsque la chose arriva.
 source: Bernard Le Bovier de Fontenelle, *Histoire des oracles*, 1687, première dissertation, chap. I | ws Histoire des oracles
-voir: arcadie, baphomet, plutarque, oracle, francois-rabelais, nicolas-poussin, neopaganisme
+voir: arcadie, baphomet, plutarque, oracle, francois-rabelais, nicolas-poussin, neopaganisme, de-la-sagesse-des-anciens
 
 @ saint-michel
 cat: figures
@@ -525,14 +527,14 @@ alias: Michel archange, archange Michel, Quis ut Deus, saint Michel terrassant l
 dates: archange
 an: 490
 def: Archange chef des milices célestes, vainqueur du dragon de l'Apocalypse et peseur des âmes au jugement ; patron des chevaliers et de la France, il apparut au mont Gargan et au Mont-Saint-Michel, et parla à Jeanne d'Arc.
-texte: Son nom hébreu signifie « Qui est comme Dieu ? ». Le livre de Daniel le nomme prince protecteur d'Israël, l'épître de Jude lui fait disputer au diable le corps de Moïse, et l'Apocalypse le montre précipitant du ciel le [[dragon]] et ses anges. La tradition chrétienne lui confie la pesée des âmes, pendant de la [[pesee-du-coeur|pesée du cœur]] égyptienne, et la conduite des morts. Il apparaît au mont Gargan, dans les Pouilles, à la fin du Ve siècle, à Rome au-dessus du mausolée d'Hadrien en 590, puis en 708 à l'évêque Aubert, qui fonde le [[mont-saint-michel|Mont-Saint-Michel]].
+texte: Son nom hébreu signifie « Qui est comme Dieu ? ». Le livre de Daniel le nomme prince protecteur d'Israël, l'épître de Jude lui fait disputer au diable le corps de [[moise|Moïse]], et l'Apocalypse le montre précipitant du ciel le [[dragon]] et ses anges. La tradition chrétienne lui confie la pesée des âmes, pendant de la [[pesee-du-coeur|pesée du cœur]] égyptienne, et la conduite des morts. Il apparaît au mont Gargan, dans les Pouilles, à la fin du Ve siècle, à Rome au-dessus du mausolée d'Hadrien en 590, puis en 708 à l'évêque Aubert, qui fonde le [[mont-saint-michel|Mont-Saint-Michel]].
 texte: Ses sanctuaires couronnent les hauteurs, de Saint-Michel d'Aiguilhe au Puy à Skellig Michael en Irlande ; des auteurs modernes les alignent sur une « ligne sacrée » de l'Irlande à Israël, à la manière des [[lignes-ley|lignes ley]], alignement très approximatif. Il est l'une des voix de [[jeanne-d-arc|Jeanne d'Arc]], le patron de l'ordre de chevalerie fondé par Louis XI en 1469, et, dans les [[anges|hiérarchies angéliques]], l'archange du feu et du sud, que le [[rituel-du-pentagramme|rituel du pentagramme]] de la Golden Dawn invoque.
 repere: fin du Ve siècle — Apparition au mont Gargan.
 repere: 590 — Apparition à Rome, au-dessus du futur château Saint-Ange.
 repere: 708 — Apparition à l'évêque Aubert d'Avranches.
 repere: vers 1425 — Jeanne d'Arc entend sa voix.
 repere: 1469 — Louis XI fonde l'ordre de Saint-Michel.
-voir: mont-saint-michel, dragon, pesee-du-coeur, jeanne-d-arc, anges, rituel-du-pentagramme, hierarchies-celestes, domremy
+voir: mont-saint-michel, dragon, pesee-du-coeur, jeanne-d-arc, anges, rituel-du-pentagramme, hierarchies-celestes, domremy, femme-revetue-du-soleil
 
 @ roi-arthur
 cat: figures
@@ -638,14 +640,14 @@ alias: Flaubert, La Tentation de saint Antoine, Salammbô, Bouvard et Pécuchet
 dates: 1821 – 1880
 an: 1821
 def: Romancier français de *Madame Bovary*, qui consacra trente ans à *La Tentation de saint Antoine*, défilé des hérésies, des dieux et des monstres de l'Antiquité, et fit essayer le magnétisme et le spiritisme à Bouvard et Pécuchet.
-texte: Né à Rouen en 1821, fils d'un chirurgien, Flaubert vit à Croisset, au bord de la Seine, où il travaille ses phrases jusqu'à l'épuisement. Il voyage en Égypte et en Orient en 1849-1851 ; *Madame Bovary* (1857) lui vaut un procès et la gloire, *Salammbô* (1862) ressuscite Carthage et ses cultes. *La Tentation de saint Antoine*, rêvée devant un tableau de Bruegel à Gênes en 1845, reprise en 1849, 1856 et publiée en 1874, fait passer devant l'ermite les gnostiques, [[simon-le-magicien|Simon le Magicien]], [[apollonius-de-tyane|Apollonius de Tyane]], les dieux de tous les peuples, [[isis|Isis]] en deuil, le [[sphinx]] et la [[chimere|Chimère]], le [[griffon]], la [[manticore]] et la [[licorne]].
+texte: Né à Rouen en 1821, fils d'un chirurgien, Flaubert vit à Croisset, au bord de la Seine, où il travaille ses phrases jusqu'à l'épuisement. Il voyage en Égypte et en Orient en 1849-1851 ; *Madame Bovary* (1857) lui vaut un procès et la gloire, *Salammbô* (1862) ressuscite Carthage et ses cultes. *[[la-tentation-de-saint-antoine|La Tentation de saint Antoine]]*, rêvée devant un tableau de Bruegel à Gênes en 1845, reprise en 1849, 1856 et publiée en 1874, fait passer devant l'ermite les gnostiques, [[simon-le-magicien|Simon le Magicien]], [[apollonius-de-tyane|Apollonius de Tyane]], les dieux de tous les peuples, [[isis|Isis]] en deuil, le [[sphinx]] et la [[chimere|Chimère]], le [[griffon]], la [[manticore]] et la [[licorne]].
 texte: Son dernier roman, *Bouvard et Pécuchet*, inachevé à sa mort en 1880, promène deux copistes à travers tous les savoirs : ils s'essaient au [[magnetisme-animal|magnétisme]], aux [[tables-tournantes|tables tournantes]] et aux sciences occultes avant de revenir à leur pupitre. Flaubert y dresse l'inventaire ironique des croyances de son siècle.
 repere: 1821 — Naissance à Rouen, le 12 décembre.
 repere: 1849 — Première version de *La Tentation de saint Antoine* ; départ pour l'Orient.
 repere: 1857 — *Madame Bovary*.
 repere: 1874 — Publication de *La Tentation de saint Antoine*.
 repere: 1880 — Mort à Croisset, le 8 mai.
-voir: chimere, sphinx, griffon, manticore, rouen, simon-le-magicien, apollonius-de-tyane, magnetisme-animal
+voir: chimere, sphinx, griffon, manticore, rouen, simon-le-magicien, apollonius-de-tyane, magnetisme-animal, la-tentation-de-saint-antoine, salome
 
 @ charles-baudelaire
 cat: figures
@@ -661,7 +663,7 @@ repere: 1856 — *Histoires extraordinaires*, traduites de Poe.
 repere: 1857 — *Les Fleurs du mal* ; procès.
 repere: 1860 — *Les Paradis artificiels*.
 repere: 1867 — Mort à Paris, le 31 août.
-voir: correspondances, emanuel-swedenborg, edgar-allan-poe, chat, le-scarabee-d-or
+voir: correspondances, emanuel-swedenborg, edgar-allan-poe, chat, le-scarabee-d-or, cain-et-abel, arthur-rimbaud
 
 @ francois-villon
 cat: figures

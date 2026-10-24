@@ -122,11 +122,11 @@ nom: Douze
 alias: 12, duodénaire, dodécade, douze apôtres, douze tribus, douze signes
 dates: 12
 def: Le nombre de l'ordre du cosmos et du temps : douze mois, douze signes du zodiaque, douze heures du jour et de la nuit, douze tribus d'Israël et douze apôtres.
-texte: Produit de trois par quatre, le douze unit le ciel et la terre. Il règle le temps depuis les Babyloniens, qui divisent le jour et l'année en douze parts ; le [[zodiaque]] compte douze signes, les dieux de l'Olympe sont douze, Hercule accomplit douze travaux. La Bible a ses douze tribus et le Christ ses douze apôtres ; la Jérusalem céleste de l'Apocalypse a douze portes et douze fondations de pierres précieuses.
+texte: Produit de trois par quatre, le douze unit le ciel et la terre. Il règle le temps depuis les Babyloniens, qui divisent le jour et l'année en douze parts ; le [[zodiaque]] compte douze signes, les dieux de l'Olympe sont douze, Hercule accomplit douze travaux. La Bible a ses douze tribus et le Christ ses douze apôtres ; la [[jerusalem-celeste|Jérusalem céleste]] de l'Apocalypse a douze portes et douze fondations de pierres précieuses.
 texte: Le roi Arthur réunit autour de la Table ronde, dans certaines versions, douze chevaliers ; il y a douze pairs de France et douze jours de Noël à l'Épiphanie. Le douze est aussi le nombre des pierres du [[pectoral-du-grand-pretre|pectoral du grand prêtre]], d'où sont nées les [[pierres-de-naissance|pierres de naissance]].
 extrait: Et il me transporta en esprit sur une grande et haute montagne. Et il me montra la ville sainte, Jérusalem, qui descendait du ciel d'auprès de Dieu, ayant la gloire de Dieu. Son éclat était semblable à celui d'une pierre très précieuse, d'une pierre de jaspe transparente comme du cristal. Elle avait une grande et haute muraille. Elle avait douze portes, et sur les portes douze anges, et des noms écrits, ceux des douze tribus des fils d'Israël : à l'orient trois portes, au nord trois portes, au midi trois portes, et à l'occident trois portes. La muraille de la ville avait douze fondements, et sur eux les douze noms des douze apôtres de l'agneau.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XXI, versets 10-14 | ws Bible Segond 1910/Apocalypse
-voir: treize, zodiaque, pectoral-du-grand-pretre, pierres-de-naissance, dix
+voir: treize, zodiaque, pectoral-du-grand-pretre, pierres-de-naissance, dix, jerusalem-celeste
 
 @ treize
 cat: nombres
@@ -166,7 +166,7 @@ nom: Quarante
 alias: 40, quarantaine, carême, quarante jours
 dates: 40
 def: Le nombre de l'épreuve et de la préparation dans la Bible : quarante jours de déluge, quarante ans au désert, quarante jours de jeûne du Christ, d'où le carême et la quarantaine.
-texte: Il pleut quarante jours et quarante nuits sur l'arche de Noé ; les Hébreux errent quarante ans dans le désert ; Moïse reste quarante jours sur le Sinaï, Élie marche quarante jours vers l'Horeb, et Jésus jeûne quarante jours au désert, d'où les quarante jours du carême. Le Christ ressuscité apparaît quarante jours avant l'Ascension.
+texte: Il pleut quarante jours et quarante nuits sur l'arche de Noé ; les Hébreux errent quarante ans dans le désert ; [[moise|Moïse]] reste quarante jours sur le Sinaï, Élie marche quarante jours vers l'Horeb, et Jésus jeûne quarante jours au désert, d'où les quarante jours du carême. Le Christ ressuscité apparaît quarante jours avant l'Ascension.
 texte: Au XIVe siècle, pour se protéger de la peste, Venise et Raguse imposent aux navires venus d'Orient un isolement, porté à quarante jours : la « quarantaine ». Le nombre désigne une durée longue et complète, celle d'une transformation, comme dans les rites de deuil ou de relevailles de bien des cultures.
 voir: sept, douze, venise
 
@@ -190,7 +190,7 @@ texte: Le chapitre XIII de l'Apocalypse invite celui qui a de l'intelligence à 
 texte: Au fil des siècles, on a appliqué le calcul au pape, à Mahomet, à Luther, à Napoléon, à Hitler ou aux codes-barres. [[aleister-crowley|Aleister Crowley]] se faisait appeler « la Bête 666 », et le nombre est devenu un emblème du satanisme et de la culture rock. Une rumeur tenace, et fausse, prétend que la pyramide du Louvre compte 666 vitres.
 extrait: Et elle fit que tous, petits et grands, riches et pauvres, libres et esclaves, reçussent une marque sur leur main droite ou sur leur front, et que personne ne pût acheter ni vendre, sans avoir la marque, le nom de la bête ou le nombre de son nom. C'est ici la sagesse. Que celui qui a de l'intelligence calcule le nombre de la bête. Car c'est un nombre d'homme, et son nombre est six cent soixante-six.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XIII, versets 16-18 | ws Bible Segond 1910/Apocalypse
-voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris
+voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris, apocalypse
 
 @ geometrie-sacree
 cat: nombres

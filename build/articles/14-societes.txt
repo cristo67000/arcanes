@@ -10,7 +10,7 @@ dates: depuis 1614
 def: Fraternité secrète de sages annoncée par trois manifestes allemands de 1614 à 1616, dont l'existence réelle n'a jamais été prouvée, et qui a inspiré depuis de nombreux ordres se réclamant d'elle.
 texte: La *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), la *[[confessio-fraternitatis|Confessio]]* (1615) et les *[[noces-chymiques|Noces chymiques]]* (1616) révèlent l'existence d'une fraternité fondée par [[christian-rosenkreutz]], qui détiendrait une science universelle de la nature et de Dieu et appellerait à une réforme générale du savoir et de la chrétienté. Ces textes, issus du milieu luthérien de Tübingen autour de [[johann-valentin-andreae]], déclenchent une « fureur rosicrucienne » : des centaines de publications, de [[michael-maier]] à [[robert-fludd]], défendent ou attaquent des frères que nul ne rencontre. En 1623, des affiches placardées à Paris annoncent leur présence invisible dans la ville.
 texte: Au XVIIIe siècle, la [[franc-maconnerie]] crée des grades de « Rose-Croix » et un ordre allemand de la [[rose-croix-d-or|Rose-Croix d'or]] pratique l'alchimie. Le XIXe et le XXe siècle voient naître la [[societas-rosicruciana|Societas Rosicruciana in Anglia]], l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], l'[[amorc|AMORC]], la [[rosicrucian-fellowship|Rosicrucian Fellowship]], le [[lectorium-rosicrucianum|Lectorium Rosicrucianum]]… Aucun n'a de filiation historique démontrée avec les manifestes. Leur symbole commun est une [[la-rose|rose]] fleurissant au cœur d'une croix.
-voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix, francis-bacon, le-comte-de-gabalis
+voir: fama-fraternitatis, christian-rosenkreutz, johann-valentin-andreae, la-rose, amorc, ordre-kabbalistique-de-la-rose-croix, francis-bacon, le-comte-de-gabalis, elias-artista, salons-de-la-rose-croix
 
 @ franc-maconnerie
 cat: maconnerie
@@ -24,7 +24,7 @@ texte: Les maçons se réunissent en [[loge|loges]], lors de [[tenue|tenues]] ri
 texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]]. Son secret supposé a nourri, dès le XVIIIe siècle, un [[antimaconnisme]] tenace.
 texte: Elle a compté parmi ses membres Montesquieu, Voltaire, [[benjamin-franklin]], [[wolfgang-amadeus-mozart|Mozart]], [[gotthold-ephraim-lessing|Lessing]], [[johann-wolfgang-von-goethe|Goethe]], [[joseph-de-maistre]] ou [[rudyard-kipling|Kipling]], et une grande part des élites politiques des XVIIIe et XIXe siècles, des deux côtés de l'Atlantique. Exclue en principe des femmes, elle s'est ouverte à elles par la [[maconnerie-d-adoption|maçonnerie d'adoption]], puis par des obédiences mixtes et féminines ; aux États-Unis, la [[prince-hall|maçonnerie de Prince Hall]] est née de la ségrégation.
 schema: plan-de-loge
-voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal, maconnerie-egyptienne, alphabet-maconnique, codex-copiale, rudyard-kipling
+voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal, maconnerie-egyptienne, alphabet-maconnique, codex-copiale, rudyard-kipling, loges-de-saint-jean, construction-du-temple, tubal-cain
 
 @ grades-maconniques
 cat: maconnerie
@@ -46,7 +46,7 @@ def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1
 texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
 texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
 texte: Le roman et l'image ont fait leur part : [[walter-scott|Walter Scott]] met en scène dans *Ivanhoé* (1819) un templier cruel et un grand maître qui accuse une juive de sorcellerie ; on a cru reconnaître dans le Pégase de l'Inner Temple de Londres une lecture fautive de leur sceau aux deux cavaliers, et l'Agnus Dei orne les sceaux de leurs maîtres provinciaux. Le procès voulu par [[philippe-le-bel|Philippe le Bel]] est mieux connu depuis la redécouverte, en 2001, du parchemin de [[chinon|Chinon]], où le pape absout les dignitaires en 1308 ; parmi les accusations figurait l'adoration d'un [[chat]].
-voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat, jean-baptiste, le-pendule-de-foucault
 
 @ rite-ecossais-ancien-et-accepte
 cat: maconnerie
@@ -58,7 +58,7 @@ def: Rite maçonnique en trente-trois degrés, organisé à Charleston, aux Éta
 texte: Malgré son nom, le rite n'est pas né en Écosse : ses grades viennent pour l'essentiel d'un [[rite-de-perfection|« rite de perfection »]] élaboré en France au milieu du XVIIIe siècle et transporté aux Antilles puis en Amérique par [[etienne-morin]]. Le premier Suprême Conseil se constitue à Charleston en 1801 ; le rite arrive en France en 1804.
 texte: Au-delà des trois grades symboliques, ses degrés développent des légendes bibliques, chevaleresques et philosophiques, dont le 18e, [[chevalier-rose-croix|Chevalier Rose-Croix]], et le 30e, [[chevalier-kadosh|Chevalier Kadosh]], chargé de la vengeance des templiers. En France, la [[grande-loge-de-france|Grande Loge de France]] le pratique depuis 1894 et le [[droit-humain|Droit humain]] depuis sa fondation. Son emblème est l'[[aigle-bicephale|aigle à deux têtes]].
 schema: degres-maconniques
-voir: franc-maconnerie, grades-maconniques, rite-de-perfection, chevalier-rose-croix, chevalier-kadosh, aigle-bicephale, trente-trois
+voir: franc-maconnerie, grades-maconniques, rite-de-perfection, chevalier-rose-croix, chevalier-kadosh, aigle-bicephale, trente-trois, serpent-d-airain, tour-de-babel
 
 @ rite-ecossais-rectifie
 cat: maconnerie
@@ -70,7 +70,7 @@ def: Rite maçonnique chrétien fondé à Lyon en 1778 par Jean-Baptiste Willerm
 texte: Au convent des Gaules ([[lyon|Lyon]], 1778), puis au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), [[jean-baptiste-willermoz]] transforme la [[stricte-observance|Stricte Observance templière]] : il renonce à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte. Au sommet, une classe secrète, celle des Profès et des Grands Profès, reçoit l'enseignement des [[elus-coens|Élus Coëns]] sur la chute et la [[reintegration]] de l'homme.
 texte: Le rite, conservé en Suisse au XIXe siècle, a été réveillé en France au XXe ; il est pratiqué aujourd'hui par plusieurs obédiences. Il est le principal témoin vivant de l'[[illuminisme]] dans la franc-maçonnerie.
 schema: rites-maconniques/rectifie
-voir: jean-baptiste-willermoz, elus-coens, reintegration, convent-de-wilhelmsbad, stricte-observance, joseph-de-maistre
+voir: jean-baptiste-willermoz, elus-coens, reintegration, convent-de-wilhelmsbad, stricte-observance, joseph-de-maistre, evangile-de-jean, jerusalem-celeste
 
 @ rite-de-memphis-misraim
 cat: maconnerie
@@ -105,7 +105,7 @@ def: Société secrète fondée en 1776 par Adam Weishaupt pour répandre les id
 texte: [[adam-weishaupt]] veut former une élite éclairée qui ferait progresser la raison et la morale contre l'obscurantisme et le despotisme. L'ordre, organisé en grades et en pseudonymes antiques, s'appuie sur les loges maçonniques ; le baron Knigge, qui le rejoint en 1780, en assure l'expansion. Il compte jusqu'à deux mille membres, dont des aristocrates, des fonctionnaires et Goethe.
 texte: Le gouvernement bavarois l'interdit en 1784-1785 et publie ses documents saisis. En 1797, l'[[augustin-barruel|abbé Barruel]] accuse les Illuminés d'avoir fomenté la Révolution française. Depuis, les « Illuminati », sans existence réelle depuis plus de deux siècles, sont accusés de gouverner secrètement le monde dans d'innombrables récits complotistes.
 attention: À ne pas confondre avec l'[[illuminisme]], courant mystique de la même époque, auquel Weishaupt était au contraire hostile.
-voir: adam-weishaupt, franc-maconnerie, illuminisme, johann-wolfgang-von-goethe, chouette
+voir: adam-weishaupt, franc-maconnerie, illuminisme, johann-wolfgang-von-goethe, chouette, joseph-balsamo
 
 @ illumines-d-avignon
 cat: societes
@@ -116,7 +116,7 @@ dates: 1786 – vers 1800
 def: Communauté mystique fondée près d'Avignon par Dom Pernety et le comte polonais Grabianka, qui consultait un oracle divin et mêlait Swedenborg, alchimie et dévotion mariale.
 texte: Le groupe formé à Berlin autour de [[dom-pernety]] interroge par des calculs une « Sainte Parole » qui lui dicte ses décisions. Sur son ordre, Pernety et ses disciples, dont le comte Tadeusz Grabianka, s'installent en 1786 dans le Comtat Venaissin, alors terre pontificale. Ils se réunissent sur une hauteur qu'ils nomment Mont-Thabor, lisent [[emanuel-swedenborg|Swedenborg]], pratiquent l'alchimie et vouent un culte particulier à la Vierge.
 texte: La communauté attire des visiteurs de toute l'Europe, traverse la Révolution et se disperse au début du XIXe siècle.
-voir: dom-pernety, illuminisme, emanuel-swedenborg
+voir: dom-pernety, illuminisme, emanuel-swedenborg, elias-artista
 
 @ rose-croix-d-or
 cat: societes
@@ -169,7 +169,7 @@ alias: Rose-Croix catholique et esthétique du Temple et du Graal, Rose+Croix du
 an: 1891
 dates: 1891 – 1918
 def: Ordre fondé en 1891 par Joséphin Péladan, qui voulait unir la tradition rosicrucienne, la foi catholique et l'art idéaliste.
-texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses Salons de la Rose+Croix, de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'Erik Satie.
+texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses [[salons-de-la-rose-croix|Salons de la Rose+Croix]], de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'Erik Satie.
 texte: L'ordre, très lié à la personnalité de son fondateur, s'éteint avec lui.
 voir: josephin-peladan, rose-croix, ordre-kabbalistique-de-la-rose-croix, graal
 

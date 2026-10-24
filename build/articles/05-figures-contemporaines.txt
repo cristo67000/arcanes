@@ -55,7 +55,7 @@ repere: 1922 — Incendie du premier Goetheanum, dans la nuit de la Saint-Sylves
 repere: 1924 — Cours aux agriculteurs, d'où naît l'agriculture biodynamique.
 repere: 1925 — Mort à Dornach.
 oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; Comment acquérir des connaissances sur les mondes supérieurs (1904-1905) ; La Science de l'occulte (1910)
-voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert, abeille
+voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert, abeille, hilma-af-klint, evangile-de-jean
 
 @ dion-fortune
 cat: figures
@@ -199,7 +199,7 @@ repere: 1951 — Mort au Caire.
 oeuvres: Le Théosophisme (1921) ; L'Erreur spirite (1923) ; Le Roi du monde (1927) ; La Crise du monde moderne (1927) ; Le Symbolisme de la croix (1931) ; Le Règne de la quantité et les signes des temps (1945) ; Aperçus sur l'initiation (1946)
 extrait: La doctrine hindoue enseigne que la durée d’un cycle humain, auquel elle donne le nom de Manvantara, se divise en quatre âges, qui marquent autant de phases d’un obscurcissement graduel de la spiritualité primordiale ; ce sont ces mêmes périodes que les traditions de l’antiquité occidentale, de leur côté, désignaient comme les âges d’or, d’argent, d’airain et de fer. Nous sommes présentement dans le quatrième âge, le Kali-Yuga ou « âge sombre », et nous y sommes, dit-on, depuis déjà plus de six mille ans, c’est-à-dire depuis une époque bien antérieure à toutes celles qui sont connues de l’histoire « classique ».
 source: René Guénon, *La Crise du monde moderne*, 1927, chap. I, « L’âge sombre » (texte de l’édition revue de 1946) | ws La Crise du monde moderne/Chapitre 1
-voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha, sacre-coeur, axis-mundi
+voir: traditionalisme, tradition-primordiale, regne-de-la-quantite, soufisme, julius-evola, agartha, sacre-coeur, axis-mundi, antre-des-nymphes
 
 @ julius-evola
 cat: figures
@@ -785,7 +785,7 @@ dates: 1883 – 1936
 an: 1883
 def: Occultiste d'origine russe, figure de Montparnasse dans les années 1930, qui enseigna une magie sexuelle et annonça l'âge du Troisième Terme de la Trinité, celui de la femme.
 texte: Maria de Naglowska naît en 1883 à Saint-Pétersbourg, dans une famille noble. Élevée à l'institut Smolny, la grande école des jeunes filles de l'aristocratie, elle rompt avec les siens pour épouser un violoniste juif et mène une vie errante de journaliste et d'enseignante entre Berlin, la Suisse et l'Italie, où elle fréquente les milieux ésotériques romains.
-texte: En 1929, elle s'installe à Paris. À Montparnasse, elle donne chaque semaine des conférences très suivies, que fréquentent, dit-on, des surréalistes, et fonde en 1930 un journal, *La Flèche*, « organe d'action magique ». En 1931, elle publie *Magia sexualis*, compilation des enseignements de [[paschal-beverly-randolph]], qui fait connaître celui-ci en Europe. Autour d'elle se forme une confrérie de la Flèche d'or.
+texte: En 1929, elle s'installe à Paris. À Montparnasse, elle donne chaque semaine des conférences très suivies, que fréquentent, dit-on, des [[surrealisme|surréalistes]], et fonde en 1930 un journal, *La Flèche*, « organe d'action magique ». En 1931, elle publie *Magia sexualis*, compilation des enseignements de [[paschal-beverly-randolph]], qui fait connaître celui-ci en Europe. Autour d'elle se forme une confrérie de la Flèche d'or.
 texte: Sa propre doctrine, exposée dans *La Lumière du sexe* (1932) et *Le Mystère de la pendaison* (1934), annonce l'avènement d'un nouvel âge, celui du « Troisième Terme de la Trinité » : après le Père et le Fils viendrait l'Esprit, qui est féminin, la Mère. La [[magie-sexuelle|magie sexuelle]], conduite par la femme et marquée par des rites de passage audacieux, dont une pendaison rituelle, doit permettre de dépasser le dualisme du bien et du mal et de réconcilier l'esprit et la chair.
 texte: Elle quitte Paris en 1935 et meurt à Zurich l'année suivante. Oubliée, elle a été redécouverte à la fin du XXe siècle comme l'une des rares femmes à avoir fondé un enseignement magique original, à la croisée de l'occultisme, de l'idée joachimite des trois âges et des avant-gardes de l'entre-deux-guerres.
 repere: 1883 — Naissance à Saint-Pétersbourg, dans une famille noble.

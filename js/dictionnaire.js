@@ -19,6 +19,9 @@
  * Les textes portent deux balises : [[id]] ou [[id|libellé]] pour un renvoi,
  * *mots* pour l'italique. `rendu.js` les met en forme ; `nu()` les retire.
  *
+ * Les parcours (build/parcours.txt) sont des chemins guidés : { id, n (nom),
+ * d (ce qu'il raconte), e (les étapes, des identifiants, dans l'ordre) }.
+ *
  * Ajoutés au chargement : `cle` (vedette normalisée), `cleTri` (sans l'article
  * de tête : « Le Bateleur » se range à B), `cles` (toutes les graphies
  * cherchables), `texte` (définition et corps normalisés, pour la recherche
@@ -32,6 +35,7 @@
   let parId = new Map();
   let categories = [];
   let portes = [];
+  let parcours = [];
   let livres = [];          // les articles du dictionnaire, sans ceux de la personne
   const noms = new Map();   // id → vedette, pour les renvois sans libellé
 
@@ -91,6 +95,7 @@
     const donnees = await reponse.json();
     categories = donnees.cats;
     portes = donnees.portes || [];
+    parcours = donnees.parcours || [];
     for (const a of donnees.articles) {
       noms.set(a.id, a.n);
       if (a.mn) minuscules.add(a.id);
@@ -113,6 +118,7 @@
     articles = livres.concat(siens);
     articles.sort(comparer);
     parId = new Map(articles.map((a) => [a.id, a]));
+    cites.clear();
   }
 
   function comparer(a, b) {
@@ -256,6 +262,35 @@
     return base[graine % base.length];
   }
 
+  // ── Les parcours et les liens ─────────────────────────────────────────────
+
+  function unParcours(id) {
+    return parcours.find((p) => p.id === id) || null;
+  }
+
+  /* Les parcours où paraît un article : [{ p, i }], i étant sa place dans p.e. */
+  function parcoursDe(id) {
+    const sortie = [];
+    for (const p of parcours) {
+      const i = p.e.indexOf(id);
+      if (i !== -1) sortie.push({ p, i });
+    }
+    return sortie;
+  }
+
+  /* Les articles qu'un article cite dans sa définition, son texte, ses repères
+   * et sa mise en garde (les renvois [[id]]), gardés une fois calculés. */
+  const cites = new Map();
+  function citesPar(a) {
+    if (cites.has(a.id)) return cites.get(a.id);
+    const ids = new Set();
+    for (const t of [a.d, a.at].concat(a.t || [], (a.re || []).map((r) => r[1]))) {
+      for (const m of String(t || '').matchAll(RENVOI)) if (m[1] !== a.id && parId.has(m[1])) ids.add(m[1]);
+    }
+    cites.set(a.id, ids);
+    return ids;
+  }
+
   // ── La frise ──────────────────────────────────────────────────────────────
 
   const EPOQUES = [
@@ -288,6 +323,8 @@
   racine.Dictionnaire = {
     charger, reconstruire, categorie, chercher, suggerer, graphie, auHasard, masquer, nu,
     articleDuJour, frise, epoque, annee, EPOQUES, CATEGORIE_PERSO,
+    unParcours, parcoursDe, citesPar,
+    get parcours() { return parcours; },
     get articles() { return articles; },
     get livres() { return livres; },
     get categories() { return categories; },

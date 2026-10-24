@@ -169,7 +169,7 @@ def: Première phase du Grand Œuvre, où la matière enfermée dans le vase noi
 texte: Les textes décrivent un noir profond, « plus noir que le noir », signe que la matière a été dissoute et putréfiée. On l'appelle la tête de corbeau, et on la figure par un corbeau, un squelette, un soleil noir, un roi qui meurt ou des corps dans un tombeau. Les alchimistes y voient un signe de réussite : sans mort, pas de renaissance.
 texte: [[carl-gustav-jung]] interprète la nigredo comme la confrontation de la conscience avec sa propre part d'ombre, une phase de dépression et de désorientation qui précède toute transformation profonde.
 schema: grand-oeuvre/nigredo
-voir: grand-oeuvre, albedo, putrefaction, cauda-pavonis, rubedo, corbeau
+voir: grand-oeuvre, albedo, putrefaction, cauda-pavonis, rubedo, corbeau, vanites
 
 @ albedo
 cat: alchimie

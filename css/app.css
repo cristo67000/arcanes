@@ -37,7 +37,8 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-societes { --cc: var(--c-societes); } .cat-maconnerie { --cc: var(--c-maconnerie); } .cat-symboles { --cc: var(--c-symboles); }
 .cat-nombres { --cc: var(--c-nombres); } .cat-astronomie { --cc: var(--c-astronomie); } .cat-pierres { --cc: var(--c-pierres); }
 .cat-echecs { --cc: var(--c-echecs); } .cat-lieux { --cc: var(--c-lieux); } .cat-perso { --cc: var(--c-perso); }
-.cat-bestiaire { --cc: var(--c-bestiaire); } .cat-egypte { --cc: var(--c-egypte); } .cat-codes { --cc: var(--c-codes); }
+.cat-bestiaire { --cc: var(--c-bestiaire); } .cat-egypte { --cc: var(--c-egypte); } .cat-codes { --cc: var(--c-codes); } .cat-mythes { --cc: var(--c-mythes); } .cat-apocryphes { --cc: var(--c-apocryphes); }
+.cat-litterature { --cc: var(--c-litterature); } .cat-peinture { --cc: var(--c-peinture); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));
@@ -944,3 +945,82 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .lieu-nom { font: 600 1.02rem/1.25 var(--serif); }
 .lieu-sous { font-size: .8rem; color: var(--encre-legere); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .lieu-distance { flex: none; font-size: .85rem; font-weight: 600; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
+
+/* ————— Parcours guidés ————— */
+
+.parcours-cartes {
+  display: grid; grid-auto-flow: column; grid-auto-columns: min(17rem, 82%); gap: .55rem;
+  overflow-x: auto; scroll-snap-type: x proximity; padding: .1rem .1rem .45rem; -webkit-overflow-scrolling: touch;
+}
+.parcours-carte { scroll-snap-align: start; }
+@media (min-width: 48rem) {
+  .parcours-cartes { grid-auto-flow: row; grid-auto-columns: auto; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); overflow-x: visible; }
+}
+.parcours-carte {
+  display: flex; flex-direction: column; align-items: stretch; gap: .3rem; padding: .7rem .85rem .75rem;
+  border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--carte);
+  text-align: left; cursor: pointer; color: var(--encre);
+}
+.parcours-carte:hover, .parcours-carte:focus-visible { border-color: var(--accent); }
+.parcours-carte-nom { font: 600 1.05rem/1.25 var(--serif); }
+.parcours-carte-def { font: .86rem/1.4 var(--sans); color: var(--encre-douce); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.parcours-carte-meta { font-size: .75rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); }
+.parcours-carte-barre { display: block; height: 4px; border-radius: 2px; background: var(--trait); overflow: hidden; }
+.parcours-carte-plein { display: block; height: 100%; width: 0; background: var(--or); }
+
+.parcours-fil {
+  margin: .2rem 0 1rem; padding: .6rem .75rem .7rem; border: 1px solid var(--trait);
+  border-left: 4px solid var(--accent); border-radius: 0 var(--rayon) var(--rayon) 0; background: var(--accent-clair);
+}
+.parcours-tete { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+.parcours-etiquette { font-size: .7rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.parcours-nom { font: 600 1rem/1.3 var(--serif); flex: 1 1 auto; min-width: 0; }
+.parcours-position { font-size: .85rem; font-weight: 600; color: var(--encre-douce); font-variant-numeric: tabular-nums; }
+.parcours-quitter { min-height: 0; padding: .1rem .2rem; font-size: .8rem; }
+.parcours-points { display: flex; flex-wrap: wrap; gap: .3rem; margin: .5rem 0 .2rem; }
+.parcours-point {
+  width: 1.05rem; height: 1.05rem; padding: 0; border-radius: 50%; cursor: pointer;
+  border: 2px solid var(--cc, var(--accent)); background: var(--carte);
+}
+.parcours-point.passe { background: var(--cc, var(--accent)); opacity: .55; }
+.parcours-point.actif { background: var(--cc, var(--accent)); box-shadow: 0 0 0 3px var(--carte), 0 0 0 5px var(--cc, var(--accent)); }
+.parcours-point:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.parcours-pas { display: flex; justify-content: space-between; gap: .5rem; margin-top: .45rem; }
+.parcours-pas .feuille { background: var(--carte); }
+.parcours-fin { align-self: center; font-size: .85rem; }
+.parcours-suite { margin: 1.4rem 0 1rem; padding: .8rem .9rem .9rem; border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--accent-clair); }
+.parcours-suite-titre { margin: 0 0 .5rem; font-size: .75rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+.parcours-suivant { font-family: var(--serif); font-size: 1.05rem; }
+.parcours-voisin { display: inline-flex; flex-direction: column; align-items: flex-start; border-left-color: var(--accent); }
+.parcours-voisin-etape { font: 600 .7rem var(--sans); letter-spacing: .04em; text-transform: uppercase; color: var(--encre-legere); }
+
+/* ————— Carte des liens ————— */
+
+.constellation { margin: 1.2rem 0 1rem; }
+.cl-compte { font-size: .8rem; }
+.cl-aide { margin: -.2rem 0 .4rem; font-size: .85rem; }
+.cl-cadre { border: 1px solid var(--trait); border-radius: var(--rayon); background: var(--carte); }
+.cl-carte { display: block; width: 100%; max-width: 30rem; height: auto; margin: 0 auto; }
+.cl-carte.cl-entree { animation: cl-entre .35s ease-out; }
+@keyframes cl-entre { from { opacity: 0; transform: scale(.96); } }
+.cl-trait { stroke: var(--cc, var(--trait-fort)); stroke-opacity: .55; fill: none; stroke-linecap: round; }
+.cl-trait-voisin { stroke: var(--trait-fort); stroke-width: 1.2; stroke-dasharray: 3 4; stroke-opacity: .9; }
+.cl-noeud { cursor: pointer; outline: none; }
+.cl-bulle { fill: var(--fond); stroke: var(--cc, var(--accent)); stroke-width: 2.2; }
+.cl-noeud-centre .cl-bulle { fill: var(--accent-clair); stroke-width: 3.5; }
+.cl-noeud:hover .cl-bulle, .cl-noeud:focus-visible .cl-bulle { fill: var(--accent-clair); stroke-width: 3.5; }
+.cl-noeud:focus-visible .cl-bulle { stroke: var(--accent); }
+.cl-nom { fill: var(--encre); font: 600 11px var(--sans); pointer-events: none; }
+.cl-nom-centre { font: 700 13.5px var(--serif); }
+.cl-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .6rem; }
+.cl-actions .bouton-principal { flex: 1 1 14rem; width: auto; }
+.cl-actions .bouton-discret { flex: 0 1 auto; }
+.cl-chemin { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem; margin-top: .6rem; font-size: .85rem; }
+.cl-chemin-titre { color: var(--encre-legere); font-weight: 600; }
+.cl-chemin-sep { color: var(--encre-legere); }
+.cl-etape {
+  border: 1px solid var(--trait); border-left: 3px solid var(--cc, var(--accent)); border-radius: 7px;
+  background: var(--carte); padding: .25rem .55rem; cursor: pointer; font: 600 .85rem var(--serif); color: var(--encre);
+}
+.cl-etape.actif { background: var(--accent-clair); }
+.cl-etape:hover { border-color: var(--accent); }

@@ -11,7 +11,7 @@ def: Sage légendaire né de la fusion du dieu égyptien Thot et du dieu grec He
 texte: Dans l'Égypte grecque puis romaine, les Grecs reconnaissent dans Thot, dieu égyptien de l'écriture, du calcul, de la magie et de la sagesse, leur propre Hermès, messager des dieux et [[psychopompe|conducteur des âmes]]. Le surnom de « trois fois grand », Trismégiste, transpose un titre honorifique égyptien. Peu à peu, le dieu devient un homme divinisé : un roi ou un prêtre de l'Égypte la plus ancienne, qui aurait consigné toute la science dans des livres sacrés.
 texte: Sous son nom circulent deux sortes d'écrits, composés en grec entre le Ier et le IIIe siècle de notre ère. Les uns sont « techniques » : traités d'[[astrologie]], d'[[alchimie]], de [[magie]], de médecine des plantes et des pierres. Les autres sont « philosophiques » : des dialogues où Hermès enseigne à ses disciples Tat, Asclépios et Ammon la nature de Dieu, la naissance du monde et la remontée de l'âme, comme le *[[poimandres|Poimandrès]]*, les autres traités du *[[corpus-hermetique|Corpus Hermeticum]]* et l'*[[asclepius|Asclépius]]*. La [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]], découverte en 1945, en a livré des textes inconnus.
 texte: Les Pères de l'Église le lisent avec respect ou méfiance. Lactance cite Hermès comme un païen qui avait pressenti le vrai Dieu ; Augustin condamne le passage de l'*Asclépius* sur les statues que les prêtres égyptiens animaient en y attirant des esprits. Le monde arabe connaît trois Hermès, dont le premier, identifié au prophète Idrîs et à l'Hénoch de la Bible, aurait gravé la science sur les murs des temples pour la sauver du Déluge ; c'est par l'arabe que l'Occident reçoit la *[[table-d-emeraude|Table d'émeraude]]*.
-texte: À la Renaissance, il passe pour un contemporain de Moïse, voire pour son maître. Quand un manuscrit grec du *Corpus* arrive à [[florence|Florence]] vers 1460, Cosme de Médicis demande à [[marsile-ficin]] de le traduire avant même les dialogues de Platon. Hermès devient le premier anneau de la [[prisca-theologia]], et les alchimistes font de lui le père de leur art : d'où l'adjectif « hermétique », et l'expression « fermer hermétiquement », c'est-à-dire du sceau d'Hermès, en soudant le col du vase.
+texte: À la Renaissance, il passe pour un contemporain de [[moise|Moïse]], voire pour son maître. Quand un manuscrit grec du *Corpus* arrive à [[florence|Florence]] vers 1460, Cosme de Médicis demande à [[marsile-ficin]] de le traduire avant même les dialogues de Platon. Hermès devient le premier anneau de la [[prisca-theologia]], et les alchimistes font de lui le père de leur art : d'où l'adjectif « hermétique », et l'expression « fermer hermétiquement », c'est-à-dire du sceau d'Hermès, en soudant le col du vase.
 texte: En 1614, le philologue genevois Isaac Casaubon montre, par la langue et les idées, que ces textes ne peuvent dater que des premiers siècles de notre ère. Hermès n'en reste pas moins une figure tutélaire, de l'[[hermetisme]] savant jusqu'à l'[[occultisme]] moderne. Les historiens d'aujourd'hui, à la suite du père Festugière puis de Garth Fowden, replacent les écrits hermétiques dans le milieu gréco-égyptien qui les a produits, où la piété égyptienne se mêle à la philosophie grecque.
 repere: Ier – IIIe siècle — Rédaction en grec, dans l'Égypte romaine, des traités qui portent son nom.
 repere: vers 310 — Lactance le cite comme un sage païen qui annonçait le vrai Dieu.
@@ -21,7 +21,7 @@ repere: 1471 — Première édition imprimée de cette traduction, sous le titre
 repere: 1488 — Le pavement de la cathédrale de Sienne le représente en « contemporain de Moïse ».
 repere: 1614 — Isaac Casaubon date les textes hermétiques des premiers siècles de notre ère.
 repere: 1945 — Trois écrits hermétiques figurent parmi les manuscrits de Nag Hammadi.
-voir: hermetisme, corpus-hermetique, poimandres, asclepius, table-d-emeraude, egyptosophie, prisca-theologia, caducee, hermopolis, thot, imhotep
+voir: hermetisme, corpus-hermetique, poimandres, asclepius, table-d-emeraude, egyptosophie, prisca-theologia, caducee, hermopolis, thot, imhotep, cathedrale-de-sienne
 
 @ zoroastre
 cat: figures
@@ -43,7 +43,7 @@ repere: VIIIe – Xe siècle — Des mazdéens émigrés au Gujarat forment la c
 repere: vers 1440 — Gémiste Pléthon attribue aux mages de Zoroastre les *Oracles chaldaïques*.
 repere: 1771 — Anquetil-Duperron publie la première traduction européenne de l'Avesta.
 repere: 1883 — Nietzsche commence *Ainsi parlait Zarathoustra*.
-voir: prisca-theologia, oracles-chaldaiques, manicheisme, magie, astrologie
+voir: prisca-theologia, oracles-chaldaiques, manicheisme, magie, astrologie, l-ecole-d-athenes, rois-mages
 
 @ orphee
 cat: figures
@@ -55,7 +55,8 @@ texte: Fils de la muse Calliope et d'un roi de Thrace, ou d'Apollon lui-même, O
 texte: Quand son épouse Eurydice meurt de la morsure d'un serpent, il descend aux Enfers et obtient des dieux des morts de la ramener parmi les vivants, à condition de ne pas se retourner avant d'avoir revu le jour ; il se retourne et la perd. Il meurt déchiré par les Ménades, les femmes de Thrace possédées par Dionysos. Sa tête, jetée dans le fleuve avec sa lyre, continue de chanter jusqu'à l'île de Lesbos, où elle rend des oracles.
 texte: Les Grecs lui attribuaient l'invention des rites de purification et un ensemble de poèmes religieux : des théogonies, des hymnes, des instructions pour l'au-delà. C'est l'origine de l'[[orphisme]]. Des lamelles d'or déposées dans des tombes, à partir du Ve siècle avant notre ère, guident l'âme du mort vers la bonne source ; le papyrus de Derveni, trouvé en 1962 près de Thessalonique, commente un poème orphique sur la naissance des dieux. Les *Hymnes orphiques* que nous lisons datent de l'époque romaine.
 texte: Les premiers chrétiens peignent dans les catacombes Orphée charmant les animaux, image du Christ qui attire les âmes. La Renaissance en fait l'un des « anciens théologiens » de la [[prisca-theologia]], disciple d'Hermès et maître lointain de Pythagore. [[marsile-ficin]] traduit les hymnes et les chante à la lyre : le chant orphique devient chez lui une véritable technique, une musique accordée aux planètes pour attirer leurs influences.
-texte: L'opéra naît en partie de lui, avec *L'Orfeo* de Monteverdi en 1607. Au XIXe siècle, [[edouard-schure]] lui consacre un chapitre des *[[les-grands-inities|Grands Initiés]]*, et les peintres symbolistes, de Gustave Moreau à Odilon Redon, font de sa tête coupée l'emblème du poète initié et sacrifié.
+texte: L'opéra naît en partie de lui, avec *L'Orfeo* de Monteverdi en 1607. Au XIXe siècle, [[edouard-schure]] lui consacre un chapitre des *[[les-grands-inities|Grands Initiés]]*, et les peintres symbolistes, de [[gustave-moreau|Gustave Moreau]] à [[odilon-redon|Odilon Redon]], font de sa tête coupée l'emblème du poète initié et sacrifié.
+texte: Boèce, au VIe siècle, tire du regard en arrière une leçon pour l'âme : celui qui veut monter vers la lumière perd ce qu'il a conquis s'il se retourne vers les ténèbres d'en bas. Pour les néoplatoniciens, le chantre qui descend aux Enfers et en revient est une figure de l'âme et de l'initiation.
 repere: VIe siècle av. J.-C. — Première mention connue d'« Orphée au nom fameux », chez le poète Ibycos.
 repere: vers 400 av. J.-C. — Une lamelle d'or d'Hipponion, en Calabre, guide l'âme d'une morte dans l'au-delà.
 repere: vers 340 av. J.-C. — Copie du papyrus de Derveni, qui commente une théogonie orphique.
@@ -65,7 +66,9 @@ repere: vers 1462 — [[marsile-ficin|Marsile Ficin]] traduit les *Hymnes orphiq
 repere: 1607 — Monteverdi fait de lui le héros de *L'Orfeo*.
 repere: 1889 — [[edouard-schure|Édouard Schuré]] le range parmi les « grands initiés ».
 repere: 1962 — Découverte du papyrus de Derveni, près de Thessalonique.
-voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose, cerbere
+extrait: Vainement Pluton ordonne : // L’Amour n’écoute personne. // Orphée, aux confins du jour, // Vers sa compagne éperdue…. // Il la voit, la perd, la tue, // Et cette fois sans retour ! ¶ Méditez bien cette histoire, // O vous qui briguez la gloire // De guider votre âme aux cieux : // Des yeux sonder le Tartare, // C’est livrer au gouffre avare // Son bien le plus précieux.
+source: Boèce, *La Consolation de la philosophie*, livre III, mètre 12, trad. Louis Judicis de Mirandol, Hachette, 1861 | ws La Consolation de la philosophie/III
+voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose, cerbere, argonautes, dionysos-zagreus, mythe-d-er, de-la-sagesse-des-anciens
 
 @ pythagore
 cat: figures
@@ -78,7 +81,7 @@ texte: Né à Samos, dans une famille de graveurs de pierres fines selon la trad
 texte: Il n'a rien écrit, et ses disciples lui attribuaient toutes leurs découvertes, y compris le théorème qui porte son nom, connu des Babyloniens plus de mille ans avant lui. Ses contemporains en parlent déjà comme d'un personnage hors du commun : Xénophane se moque de lui, qui aurait reconnu l'âme d'un ami dans un chiot battu. Plus tard, la légende lui prête des voyages en Égypte et chez les mages, une cuisse d'or, le don d'apparaître en deux lieux à la fois et le souvenir de ses vies antérieures.
 texte: Sa doctrine, connue surtout par des sources tardives, unit mathématiques, musique et religion. Les intervalles de la musique correspondent à des rapports simples de nombres — l'octave à 2/1, la quinte à 3/2, la quarte à 4/3 —, et les mêmes rapports gouvernent les astres : c'est l'[[harmonie-des-spheres|harmonie des sphères]]. La [[tetractys]], triangle des dix premiers points, résume l'univers, et les disciples prêtaient serment sur elle. L'âme immortelle passe de corps en corps, même animaux, et l'on se purifie par une vie réglée : c'est la [[metempsycose]]. On lui attribue l'invention des mots « philosophie » et « cosmos ».
 texte: Au début du IVe siècle avant notre ère, Philolaos met pour la première fois par écrit une doctrine pythagoricienne, et [[platon]] s'en inspire dans le *Timée*. Le néopythagorisme de l'époque romaine, puis [[porphyre]] et [[jamblique]], qui écrivent chacun une *Vie de Pythagore*, en font un sage divin et le père de toute philosophie. Les *Vers dorés*, recueil de préceptes composé bien après lui, ont été lus pendant des siècles comme son testament spirituel.
-texte: La Renaissance voit en lui un héritier de Moïse et des Égyptiens : [[jean-reuchlin]] le rapproche de la [[kabbale]]. [[fabre-d-olivet]] commente les *Vers dorés* en 1813, et [[edouard-schure]] le compte parmi les « grands initiés ». La franc-maçonnerie anglaise a fait de la « 47e proposition d'Euclide », le théorème de Pythagore, l'insigne de ses anciens Vénérables.
+texte: La Renaissance voit en lui un héritier de [[moise|Moïse]] et des Égyptiens : [[jean-reuchlin]] le rapproche de la [[kabbale]]. [[fabre-d-olivet]] commente les *Vers dorés* en 1813, et [[edouard-schure]] le compte parmi les « grands initiés ». La franc-maçonnerie anglaise a fait de la « 47e proposition d'Euclide », le théorème de Pythagore, l'insigne de ses anciens Vénérables.
 repere: vers 570 av. J.-C. — Naissance à Samos.
 repere: vers 530 av. J.-C. — Il quitte Samos, gouvernée par le tyran Polycrate, et s'établit à Crotone.
 repere: 510 av. J.-C. — Crotone détruit Sybaris ; les pythagoriciens dominent la vie politique de la cité.
@@ -87,7 +90,7 @@ repere: vers 450 av. J.-C. — Les maisons de réunion des pythagoriciens sont i
 repere: vers 400 av. J.-C. — Philolaos met par écrit une doctrine pythagoricienne.
 repere: vers 300 — [[jamblique|Jamblique]] écrit *De la vie pythagorique*.
 repere: 1813 — [[fabre-d-olivet|Fabre d'Olivet]] publie *Les Vers dorés de Pythagore*.
-voir: pythagorisme, tetractys, harmonie-des-spheres, metempsycose, monade, platon, arithmologie, ecole-de-chartres, dodecaedre
+voir: pythagorisme, tetractys, harmonie-des-spheres, metempsycose, monade, platon, arithmologie, ecole-de-chartres, dodecaedre, l-ecole-d-athenes
 
 @ platon
 cat: figures
@@ -110,7 +113,7 @@ repere: 348 ou 347 av. J.-C. — Mort à Athènes.
 repere: IVe siècle — Calcidius traduit en latin une partie du *Timée*, presque seul dialogue connu du Moyen Âge latin.
 repere: 1484 — Publication à Florence de la traduction latine de ses œuvres complètes par [[marsile-ficin|Marsile Ficin]].
 oeuvres: Phédon ; Banquet ; République ; Phèdre ; Timée ; Critias ; Lois
-voir: neoplatonisme, ame-du-monde, demiurge, atlantide, prisca-theologia, plotin, pythagore, anamnese, solides-de-platon, dodecaedre, ecole-de-chartres
+voir: neoplatonisme, ame-du-monde, demiurge, atlantide, prisca-theologia, plotin, pythagore, anamnese, solides-de-platon, dodecaedre, ecole-de-chartres, allegorie-de-la-caverne, mythe-d-er, attelage-aile, l-ecole-d-athenes
 
 @ apollonius-de-tyane
 cat: figures
@@ -120,7 +123,7 @@ dates: Ier siècle
 an: 15
 def: Philosophe pythagoricien du Ier siècle, thaumaturge et voyageur, devenu dans l'Antiquité tardive un rival païen du Christ et, chez les Arabes, un maître des talismans.
 texte: Nous connaissons Apollonius surtout par la *Vie* que lui consacre Philostrate, au IIIe siècle, à la demande de l'impératrice Julia Domna. Né à Tyane, en Cappadoce, au début de notre ère, il adopte la règle pythagoricienne : végétarien, vêtu de lin, les cheveux longs, il observe cinq ans de silence. Philostrate dit s'appuyer sur les notes d'un disciple, Damis, qui l'aurait accompagné partout ; la plupart des historiens doutent que ce témoin ait existé.
-texte: La *Vie* le fait voyager jusqu'à Babylone, puis en Inde auprès des brahmanes, en Égypte et en Éthiopie chez les « gymnosophistes ». Il guérit, prédit l'avenir, chasse les démons, ressuscite une jeune fille à Rome, démasque à Corinthe une fiancée qui était une *empousa*, un vampire. Il tient tête à Néron puis à Domitien, devant qui il disparaît en plein procès ; à Éphèse, il aurait vu à distance, au moment même où il se produisait, l'assassinat de l'empereur. Il ne meurt pas : il disparaît.
+texte: La *Vie* le fait voyager jusqu'à Babylone, puis en Inde auprès des brahmanes, en Égypte et en Éthiopie chez les « gymnosophistes ». Il guérit, prédit l'avenir, chasse les démons, ressuscite une jeune fille à Rome, démasque à Corinthe une fiancée qui était une *empousa*, un vampire. Il tient tête à Néron puis à Domitien, devant qui il disparaît en plein procès ; à [[ephese|Éphèse]], il aurait vu à distance, au moment même où il se produisait, l'assassinat de l'empereur. Il ne meurt pas : il disparaît.
 texte: Ce récit a servi d'arme contre le christianisme. Vers 303, Hiéroclès, gouverneur romain et persécuteur, publie un pamphlet qui compare les miracles d'Apollonius à ceux du Christ, au détriment de ce dernier ; Eusèbe de Césarée lui répond. Selon l'*Histoire Auguste*, peu fiable, l'empereur Sévère Alexandre honorait son image avec celles du Christ, d'Abraham et d'Orphée.
 texte: La tradition arabe connaît un « Balînâs », maître des talismans, qui protège les villes contre les scorpions et les serpents. On lui attribue le *Livre du secret de la création*, dont la conclusion est la plus ancienne version connue de la [[table-d-emeraude|Table d'émeraude]], et qui expose la théorie des métaux formés de [[soufre]] et de [[mercure-principe|mercure]] reprise par [[jabir-ibn-hayyan|Jâbir]].
 texte: [[eliphas-levi]] a publié sous son nom un rituel des douze heures, le *Nuctéméron*, et raconte avoir évoqué son fantôme à [[londres|Londres]] en 1854. Apollonius est resté pour l'occultisme le modèle du sage antique, à la fois philosophe et thaumaturge.
@@ -152,7 +155,7 @@ repere: vers 180 — Irénée de Lyon fait de lui le père de toutes les hérés
 repere: fin du IIe siècle — Les *Actes de Pierre* racontent son envol et sa chute à Rome.
 repere: 1574 — On découvre à Rome l'inscription à Semo Sancus que Justin avait prise pour une dédicace à Simon.
 repere: 1892 — Le théosophe G. R. S. Mead publie *Simon Magus*.
-voir: gnosticisme, sophia, magie, gnose
+voir: gnosticisme, sophia, magie, gnose, irenee-de-lyon
 
 @ valentin
 cat: figures
@@ -164,7 +167,7 @@ def: Maître chrétien d'Alexandrie et de Rome, fondateur de l'école gnostique 
 texte: Né en Égypte, dans le delta du Nil selon Épiphane, Valentin est formé à Alexandrie, où il dit avoir reçu l'enseignement de Theudas, un disciple de l'apôtre Paul. Il arrive à Rome vers 136, sous l'évêque Hygin, et y enseigne pendant près de vingt-cinq ans. Tertullien raconte qu'il espérait devenir évêque de Rome et qu'il rompit avec l'Église quand un autre lui fut préféré ; il aurait fini sa vie à Chypre.
 texte: De ses écrits ne restent que quelques fragments cités par Clément d'Alexandrie : sur le cœur humain, auberge mal tenue où logent les démons tant que Dieu ne l'a pas purifié ; sur la crainte que le premier homme inspira aux anges qui l'avaient façonné. L'*Évangile de vérité*, méditation sur l'ignorance et la connaissance retrouvée à [[bibliotheque-de-nag-hammadi|Nag Hammadi]], pourrait être de lui : Irénée mentionne un évangile de ce nom chez ses disciples.
 texte: Ses élèves ont bâti un système d'une grande ampleur, connu surtout par la version de Ptolémée que réfute Irénée. Trente [[eon|éons]] groupés en couples forment le [[plerome]], plénitude du monde divin, issue d'un Père insondable. La dernière, [[sophia]], veut connaître le Père au-delà de ses forces ; de sa passion déréglée naissent une Sagesse inférieure, puis le [[demiurge]], qui façonne le monde sans connaître ce qui le dépasse. Des parcelles de l'Esprit sont semées dans certains hommes : les « spirituels » seront sauvés par la connaissance, les « psychiques » par la foi et les œuvres, tandis que les « matériels » périront.
-texte: L'école se divise en une branche italienne, avec Ptolémée, auteur d'une *Lettre à Flora* sur la Loi de Moïse, et Héracléon, qui écrit le premier commentaire connu de l'Évangile de Jean, et une branche orientale, avec Théodote. Un autre disciple, Marc, surnommé le Mage, était célèbre pour ses rites spectaculaires. Les valentiniens vivaient au sein des communautés chrétiennes, se tenant pour des fidèles plus avancés, et pratiquaient un sacrement mystérieux, la « chambre nuptiale ». On en trouve encore au IVe siècle.
+texte: L'école se divise en une branche italienne, avec Ptolémée, auteur d'une *Lettre à Flora* sur la Loi de [[moise|Moïse]], et Héracléon, qui écrit le premier commentaire connu de l'Évangile de Jean, et une branche orientale, avec Théodote. Un autre disciple, Marc, surnommé le Mage, était célèbre pour ses rites spectaculaires. Les valentiniens vivaient au sein des communautés chrétiennes, se tenant pour des fidèles plus avancés, et pratiquaient un sacrement mystérieux, la « chambre nuptiale ». On en trouve encore au IVe siècle.
 texte: Le *Contre les hérésies* d'Irénée, écrit vers 180 surtout contre eux, a longtemps été la principale source sur le gnosticisme. Les découvertes de Nag Hammadi ont permis de lire enfin des textes valentiniens de première main. En 1890, [[jules-doinel]] fonde une [[eglise-gnostique|Église gnostique]] et prend le nom de « Valentin II ».
 repere: vers 100 — Naissance en Égypte.
 repere: vers 136 — Arrivée à Rome, sous l'évêque Hygin ; il y enseigne près de vingt-cinq ans.
@@ -172,7 +175,7 @@ repere: vers 160 — Il quitte Rome, peut-être pour Chypre.
 repere: vers 180 — Irénée de Lyon réfute ses disciples dans *Contre les hérésies*.
 repere: 1890 — [[jules-doinel|Jules Doinel]] fonde une Église gnostique et prend le nom de « Valentin II ».
 repere: 1945 — Découverte à Nag Hammadi de l'*Évangile de vérité*, que plusieurs savants lui attribuent.
-voir: gnosticisme, plerome, sophia, eon, demiurge, basilide, bibliotheque-de-nag-hammadi
+voir: gnosticisme, plerome, sophia, eon, demiurge, basilide, bibliotheque-de-nag-hammadi, evangile-de-verite, evangile-de-philippe
 
 @ basilide
 cat: figures
@@ -193,7 +196,7 @@ repere: vers 230 — Hippolyte de Rome en donne une version toute différente.
 repere: 1657 — Un recueil publié à Anvers fait connaître les pierres gravées d'Abraxas.
 repere: 1916 — [[carl-gustav-jung|Carl Gustav Jung]] écrit les *Sept Sermons aux morts*, sous le nom de Basilide.
 repere: 1919 — Hermann Hesse fait d'Abraxas le dieu de *Demian*.
-voir: gnosticisme, isopsephie, valentin, amulette, papyrus-grecs-magiques, abraxas
+voir: gnosticisme, isopsephie, valentin, amulette, papyrus-grecs-magiques, abraxas, irenee-de-lyon
 
 @ mani
 cat: figures
@@ -241,7 +244,7 @@ repere: vers 301 — Porphyre publie les *Ennéades*.
 repere: 1492 — [[marsile-ficin|Marsile Ficin]] publie la traduction latine des *Ennéades*.
 oeuvres: Ennéades (rassemblées par Porphyre vers 301)
 schema: emanation-plotin
-voir: neoplatonisme, emanation, porphyre, ame-du-monde, platon, sympathie-universelle, ecole-de-chartres
+voir: neoplatonisme, emanation, porphyre, ame-du-monde, platon, sympathie-universelle, ecole-de-chartres, odyssee-de-l-ame, narcisse
 
 @ porphyre
 cat: figures
@@ -263,7 +266,7 @@ repere: vers 301 — Il publie les *Ennéades*, précédées d'une *Vie de Ploti
 repere: vers 305 — Mort, probablement à Rome.
 repere: 448 — Un édit impérial ordonne de brûler son traité *Contre les chrétiens*.
 repere: vers 510 — Boèce traduit l'*Isagogè* en latin.
-voir: plotin, jamblique, neoplatonisme, theurgie, oracles-chaldaiques, pythagore, abeille
+voir: plotin, jamblique, neoplatonisme, theurgie, oracles-chaldaiques, pythagore, abeille, antre-des-nymphes, odyssee-de-l-ame
 
 @ jamblique
 cat: figures
@@ -334,7 +337,7 @@ an: 200
 def: Alchimiste de l'Antiquité, connue par les citations de Zosime, à qui l'on attribue l'invention de plusieurs appareils de laboratoire, dont le bain-marie.
 texte: Marie est l'une des plus anciennes autorités de l'[[alchimie]] gréco-égyptienne, et l'une des rares femmes savantes de l'Antiquité dont le nom nous soit parvenu. Aucun de ses écrits n'a été conservé : on la connaît par [[zosime-de-panopolis|Zosime]], qui la cite avec respect vers l'an 300, puis par les commentateurs byzantins et par la tradition arabe. Elle a donc vécu avant lui, peut-être au Ier ou au IIe siècle, sans doute à Alexandrie ; le surnom de « Juive » lui vient de ces sources anciennes.
 texte: Zosime lui attribue la description d'appareils perfectionnés : un alambic à trois becs, le *tribikos*, fait de cuivre et de terre cuite ; et le *kérotakis*, palette chauffée dans un récipient clos où les métaux sont exposés aux vapeurs de [[soufre]] ou de mercure qui se condensent et retombent. Le [[bain-marie]], chauffage doux par l'intermédiaire de l'eau, porte en latin son nom, *balneum Mariae*, sans qu'on sache si elle l'inventa.
-texte: On lui prête des formules énigmatiques sur l'union du mâle et de la femelle, des corps et des esprits, et celle qu'on appelle l'« axiome de Marie » : « Un devient deux, deux devient trois, et du troisième naît l'un comme quatrième. » La tradition médiévale l'a confondue avec Miriam, la sœur de Moïse ; un dialogue latin, la *Pratique de Marie la prophétesse*, la montre enseignant le philosophe Aros.
+texte: On lui prête des formules énigmatiques sur l'union du mâle et de la femelle, des corps et des esprits, et celle qu'on appelle l'« axiome de Marie » : « Un devient deux, deux devient trois, et du troisième naît l'un comme quatrième. » La tradition médiévale l'a confondue avec Miriam, la sœur de [[moise|Moïse]] ; un dialogue latin, la *Pratique de Marie la prophétesse*, la montre enseignant le philosophe Aros.
 texte: En 1617, [[michael-maier]] la place parmi les douze sages de l'alchimie, un pour chaque nation, dans ses *Symboles de la table d'or*. [[carl-gustav-jung]] voyait dans son axiome l'image du processus d'individuation, et l'histoire des sciences en fait aujourd'hui l'une des premières figures de la chimie de laboratoire.
 repere: Ier – IIIe siècle — Activité supposée en Égypte, d'après les citations des alchimistes grecs.
 repere: vers 300 — Zosime de Panopolis décrit ses appareils et cite ses formules.
@@ -371,7 +374,7 @@ alias: Denys l'Aréopagite, Dionysius, Pseudo-Dionysius, Hiérarchie céleste, t
 dates: vers 500
 an: 500
 def: Auteur chrétien anonyme des environs de l'an 500, qui écrivit sous le nom d'un disciple de saint Paul et décrivit la hiérarchie des anges et la théologie négative.
-texte: L'auteur se présente comme Denys, membre de l'Aréopage d'Athènes converti par l'apôtre Paul, selon les Actes des Apôtres. Il adresse ses traités à Timothée, écrit à l'apôtre Jean exilé à Patmos, et dit avoir observé l'éclipse de soleil qui accompagna la mort du Christ. En réalité, c'est sans doute un moine syrien des environs de l'an 500, nourri de la philosophie de [[proclus]]. Ses écrits apparaissent pour la première fois en 532, cités lors d'une conférence théologique à Constantinople, où un évêque met déjà en doute leur authenticité.
+texte: L'auteur se présente comme Denys, membre de l'Aréopage d'Athènes converti par l'apôtre Paul, selon les Actes des Apôtres. Il adresse ses traités à Timothée, écrit à l'apôtre Jean exilé à [[patmos|Patmos]], et dit avoir observé l'éclipse de soleil qui accompagna la mort du Christ. En réalité, c'est sans doute un moine syrien des environs de l'an 500, nourri de la philosophie de [[proclus]]. Ses écrits apparaissent pour la première fois en 532, cités lors d'une conférence théologique à Constantinople, où un évêque met déjà en doute leur authenticité.
 texte: Le corpus comprend quatre traités et dix lettres. *La Hiérarchie céleste* décrit neuf chœurs d'[[anges]] répartis en trois triades : Séraphins, Chérubins et Trônes ; Dominations, Vertus et Puissances ; Principautés, Archanges et Anges. *La Hiérarchie ecclésiastique* lui fait correspondre l'ordre de l'Église. Chaque rang reçoit la lumière divine de celui qui le précède et la transmet au suivant, en trois opérations : purifier, illuminer, parfaire.
 texte: *Les Noms divins* et *La Théologie mystique* fondent la théologie dite négative : Dieu, au-delà de tout ce qu'on peut en dire, se connaît mieux par ce qu'on en nie que par ce qu'on en affirme. L'âme qui s'élève vers lui doit abandonner les images et les concepts pour entrer dans une « ténèbre lumineuse ».
 texte: En Occident, les écrits arrivent par un cadeau diplomatique : en 827, l'empereur byzantin Michel II envoie un manuscrit à Louis le Pieux, qui le dépose à l'abbaye de Saint-Denis. L'abbé Hilduin confond alors l'Aréopagite avec saint Denis, premier évêque de Paris, et le patron de la monarchie franque se trouve ainsi auteur d'une théologie sublime. Traduit par Jean Scot Érigène, commenté par Hugues de Saint-Victor, Albert le Grand et Thomas d'Aquin, Denys jouit au Moyen Âge d'une autorité presque égale à celle de l'Écriture.
@@ -393,8 +396,8 @@ alias: roi Salomon, Solomon, Sulaymân, sceau de Salomon, Testament de Salomon
 dates: Xe siècle av. J.-C. selon la Bible
 an: -970
 def: Roi d'Israël, fils de David, modèle biblique de la sagesse, devenu dans les traditions juive, chrétienne et musulmane le maître des démons et le patron de la magie.
-texte: Selon la Bible, Salomon, fils de David et de Bethsabée, règne sur Israël au Xe siècle avant notre ère. Il demande à Dieu, en songe, la sagesse plutôt que la richesse, et l'obtient avec la richesse en surcroît ; le jugement qu'il rend entre deux mères qui se disputent un enfant en est resté le modèle. Avec l'aide d'Hiram, roi de Tyr, qui lui fournit les cèdres du Liban et un bronzier habile, il bâtit le [[temple-de-salomon|Temple de Jérusalem]], dont les deux [[colonnes-jakin-et-boaz|colonnes de bronze]] ont tant compté pour les francs-maçons. La reine de Saba vient l'éprouver par des énigmes. Ses sept cents épouses le détournent, dans sa vieillesse, vers les dieux étrangers. Les archéologues discutent aujourd'hui de l'ampleur réelle de son royaume.
-texte: La tradition lui attribue les *Proverbes*, l'*Ecclésiaste*, le *Cantique des cantiques* et, en grec, la *Sagesse de Salomon*, où il dit avoir reçu de Dieu la connaissance de la structure du monde, du cycle des astres, de la nature des animaux, de la violence des esprits et des vertus des racines. Dès l'Antiquité, cette sagesse devient pouvoir sur les esprits : l'historien Flavius Josèphe rapporte qu'un Juif nommé Éléazar chassa un démon devant l'empereur Vespasien, au moyen d'un anneau et de formules de Salomon. Le *Testament de Salomon*, écrit grec des premiers siècles, raconte comment le roi, grâce à un anneau marqué d'un sceau que lui remit l'archange Michel, soumit les démons et les fit travailler au Temple.
+texte: Selon la Bible, Salomon, fils de David et de Bethsabée, règne sur Israël au Xe siècle avant notre ère. Il demande à Dieu, en songe, la sagesse plutôt que la richesse, et l'obtient avec la richesse en surcroît ; le jugement qu'il rend entre deux mères qui se disputent un enfant en est resté le modèle. Avec l'aide d'Hiram, roi de Tyr, qui lui fournit les cèdres du Liban et un bronzier habile, il bâtit le [[temple-de-salomon|Temple de Jérusalem]], dont les deux [[colonnes-jakin-et-boaz|colonnes de bronze]] ont tant compté pour les francs-maçons. La [[reine-de-saba|reine de Saba]] vient l'éprouver par des énigmes. Ses sept cents épouses le détournent, dans sa vieillesse, vers les dieux étrangers. Les archéologues discutent aujourd'hui de l'ampleur réelle de son royaume.
+texte: La tradition lui attribue les *Proverbes*, l'*Ecclésiaste*, le *[[cantique-des-cantiques|Cantique des cantiques]]* et, en grec, la *Sagesse de Salomon*, où il dit avoir reçu de Dieu la connaissance de la structure du monde, du cycle des astres, de la nature des animaux, de la violence des esprits et des vertus des racines. Dès l'Antiquité, cette sagesse devient pouvoir sur les esprits : l'historien Flavius Josèphe rapporte qu'un Juif nommé Éléazar chassa un démon devant l'empereur Vespasien, au moyen d'un anneau et de formules de Salomon. Le *[[testament-de-salomon|Testament de Salomon]]*, écrit grec des premiers siècles, raconte comment le roi, grâce à un anneau marqué d'un sceau que lui remit l'archange Michel, soumit les démons et les fit travailler au Temple.
 texte: Le Coran fait de lui, sous le nom de Sulaymân, un prophète à qui Dieu soumit les djinns et le vent, et qui comprenait le langage des oiseaux et des fourmis. Le « sceau de Salomon », étoile à six ou à cinq branches, devient en terre d'Islam comme en Europe un signe protecteur ; les *Mille et Une Nuits* parlent de génies enfermés par lui dans des vases de cuivre scellés de son sceau.
 texte: De là une abondante littérature magique placée sous son nom : l'*[[ars-notoria|Art notoire]]*, qui promet la science par des prières et des figures, la *[[clavicule-de-salomon|Clavicule de Salomon]]*, le *[[lemegeton|Lemegeton]]* et sa *[[goetie|Goétie]]*, où figurent les sceaux des soixante-douze esprits qu'il aurait enfermés dans un vase d'airain. L'[[hexagramme]] et le [[pentacle]] lui doivent une part de leur prestige.
 texte: Le Temple de Salomon est enfin au cœur du mythe de la [[franc-maconnerie]] : les *[[constitutions-d-anderson|Constitutions]]* de 1723 font du roi le Grand Maître de la loge de Jérusalem, et la [[legende-d-hiram|légende d'Hiram]], son architecte assassiné, fonde le grade de maître.
@@ -407,7 +410,9 @@ repere: XIIe – XIIIe siècle — L'*Art notoire* circule sous son nom.
 repere: XVe – XVIe siècle — La *Clavicule de Salomon* se répand en manuscrits.
 repere: 1723 — Les *Constitutions* d'Anderson font de lui le Grand Maître de la loge de Jérusalem.
 repere: 1904 — Mathers et Crowley publient *La Goétie*, première partie du *Lemegeton*.
-voir: clavicule-de-salomon, lemegeton, hexagramme, goetie, colonnes-jakin-et-boaz, temple-de-salomon, legende-d-hiram, asmodee, noeud-de-salomon
+extrait: Comme il avait composé des incantations pour conjurer les maladies, il a laissé des formules d’exorcisme pour enchaîner et chasser les démons, de façon qu’ils ne reviennent plus. Et cette thérapeutique est encore très en vigueur jusqu’ici chez nous. C’est ainsi que j’ai vu un certain Eléazar de ma race qui, en présence de Vespasien, de ses fils, des tribuns et du reste de l’armée, délivrait des gens possédés des démons. Le mode de guérison était celui-ci : il approchait du nez du démoniaque un anneau dont le chaton enfermait une des racines indiquées par Salomon, puis, le faisant respirer, il effrayait l’esprit démoniaque par les narines ; l’homme tombait aussitôt et Eléazar adjurait le démon de ne plus revenir en lui, en prononçant le nom de Salomon et les incantations composées par celui-ci.
+source: Flavius Josèphe, *Antiquités judaïques*, livre VIII, chap. II, 5, trad. Julien Weill, *Œuvres complètes*, t. II, Ernest Leroux, 1926 | ws Antiquités judaïques/Livre VIII
+voir: clavicule-de-salomon, lemegeton, hexagramme, goetie, colonnes-jakin-et-boaz, temple-de-salomon, legende-d-hiram, asmodee, noeud-de-salomon, reine-de-saba, jugement-de-salomon, construction-du-temple, testament-de-salomon, kebra-nagast, cantique-des-cantiques, livre-de-la-sagesse, ophir, shamir, huppe
 
 @ jabir-ibn-hayyan
 cat: figures
@@ -540,7 +545,7 @@ repere: 1249 — Selon la légende, il offre en plein hiver un banquet dans un j
 repere: 1260 — Évêque de Ratisbonne, charge qu'il quitte deux ans plus tard.
 repere: 1280 — Mort à Cologne.
 repere: 1931 — Canonisé et proclamé docteur de l'Église.
-voir: grand-albert, petit-albert, alchimie, magie-naturelle, roger-bacon, talisman, roman-gothique
+voir: grand-albert, petit-albert, alchimie, magie-naturelle, roger-bacon, talisman, roman-gothique, frankenstein
 
 @ roger-bacon
 cat: figures
@@ -620,8 +625,8 @@ an: -20
 def: Philosophe juif d'Alexandrie, contemporain de Jésus, qui lut la Bible à la lumière de Platon par l'allégorie et fit du Logos l'intermédiaire entre Dieu et le monde.
 texte: Philon naît vers 20 avant notre ère dans l'une des plus riches familles juives d'Alexandrie : son frère est l'un des grands financiers de l'Orient, et son neveu deviendra préfet d'Égypte. Il reçoit une éducation grecque complète — grammaire, rhétorique, philosophie — et lit la Bible dans sa traduction grecque, la Septante. Il ne fait, semble-t-il, qu'un seul pèlerinage à Jérusalem.
 texte: En 38, de violentes émeutes frappent les Juifs d'Alexandrie. Âgé, Philon conduit à Rome une ambassade auprès de l'empereur Caligula, qui la reçoit avec mépris ; il en a laissé le récit, l'*Ambassade à Gaïus*. Il meurt sans doute peu après 41, sous le règne de Claude.
-texte: Son œuvre immense commente surtout le Pentateuque par la méthode allégorique : derrière la lettre de l'Écriture se cache un sens philosophique. Adam est l'intellect, Ève la sensation, et les patriarches figurent les états de l'âme en marche vers Dieu. Moïse, à ses yeux, est le plus grand des philosophes, et les Grecs, Platon compris, lui auraient emprunté leur sagesse : une idée qui nourrira la [[prisca-theologia]]. Philon décrit aussi les Thérapeutes, communauté d'ascètes, hommes et femmes, vivant près d'Alexandrie dans la contemplation.
-texte: Dieu, pour Philon, est absolument transcendant et inconnaissable ; il agit sur le monde par des puissances, dont la principale est le Logos, raison divine, « second dieu », image de Dieu et modèle du monde, que le [[demiurge|démiurge]] du *Timée* de [[platon]] annonçait déjà. Ce vocabulaire du Logos et des mystères, où la connaissance de Dieu devient une [[initiation]], fait de lui un précurseur du [[neoplatonisme]] et de la théologie chrétienne.
+texte: Son œuvre immense commente surtout le Pentateuque par la méthode allégorique : derrière la lettre de l'Écriture se cache un sens philosophique. Adam est l'intellect, Ève la sensation, et les patriarches figurent les états de l'âme en marche vers Dieu. [[moise|Moïse]], à ses yeux, est le plus grand des philosophes, et les Grecs, Platon compris, lui auraient emprunté leur sagesse : une idée qui nourrira la [[prisca-theologia]]. Philon décrit aussi les Thérapeutes, communauté d'ascètes, hommes et femmes, vivant près d'Alexandrie dans la contemplation.
+texte: Dieu, pour Philon, est absolument transcendant et inconnaissable ; il agit sur le monde par des puissances, dont la principale est le [[logos|Logos]], raison divine, « second dieu », image de Dieu et modèle du monde, que le [[demiurge|démiurge]] du *Timée* de [[platon]] annonçait déjà. Ce vocabulaire du Logos et des mystères, où la connaissance de Dieu devient une [[initiation]], fait de lui un précurseur du [[neoplatonisme]] et de la théologie chrétienne.
 texte: Ignoré des rabbins pendant quinze siècles, il a été conservé par les chrétiens : Clément d'Alexandrie et Origène reprennent sa méthode, et une légende fait de lui l'ami de l'apôtre Pierre. L'humaniste juif Azaria de' Rossi le fait redécouvrir aux lecteurs juifs au XVIe siècle. Son allégorie a fourni à l'ésotérisme l'une de ses méthodes fondamentales : chercher sous le texte un sens caché.
 repere: vers 20 av. J.-C. — Naissance à Alexandrie, dans une riche famille juive.
 repere: 38 — Émeutes antijuives à Alexandrie.
@@ -630,7 +635,7 @@ repere: après 41 — Mort, sans doute à Alexandrie.
 repere: vers 200 — Clément d'Alexandrie, puis Origène, reprennent sa méthode allégorique.
 repere: 1573 — Azaria de' Rossi le fait redécouvrir aux lecteurs juifs.
 oeuvres: La Création du monde ; Allégories des lois ; La Vie contemplative ; Ambassade à Gaïus
-voir: platon, neoplatonisme, prisca-theologia, demiurge, mysteres-antiques, kabbale
+voir: platon, neoplatonisme, prisca-theologia, demiurge, mysteres-antiques, kabbale, logos, mythes-bibliques
 
 @ apulee
 cat: figures
@@ -650,7 +655,7 @@ repere: vers 159 — Accusé de magie, il se défend à Sabratha et prononce son
 repere: après 170 — Mort, sans doute à Carthage.
 repere: 1469 — Première édition imprimée de ses œuvres, à Rome.
 oeuvres: Apologie (vers 159) ; Les Métamorphoses ou L'Âne d'or ; Du dieu de Socrate ; Florides
-voir: mysteres-antiques, magie, egyptosophie, asclepius, initiation, la-rose, isis, culte-d-isis, papillon
+voir: mysteres-antiques, magie, egyptosophie, asclepius, initiation, la-rose, isis, culte-d-isis, papillon, eros-et-psyche, aurelia
 
 @ bolos-de-mendes
 cat: figures
@@ -755,7 +760,7 @@ repere: 1215 — Le concile de Latran condamne sa doctrine de la Trinité.
 repere: 1254 — Le scandale de l'« Évangile éternel », à Paris.
 repere: 1260 — Année où ses disciples attendaient l'avènement de l'âge de l'Esprit.
 oeuvres: Concorde du Nouveau et de l'Ancien Testament ; Exposition de l'Apocalypse ; Psaltérion à dix cordes ; Livre des figures
-voir: cycles-cosmiques, ere-du-verseau, arnaud-de-villeneuve, jean-de-roquetaillade, mystique
+voir: cycles-cosmiques, ere-du-verseau, arnaud-de-villeneuve, jean-de-roquetaillade, mystique, apocalypse
 
 @ jean-de-roquetaillade
 cat: figures

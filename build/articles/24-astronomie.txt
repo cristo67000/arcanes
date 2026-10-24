@@ -119,7 +119,7 @@ alias: équinoxe, solstice, saint Jean d'été, saint Jean d'hiver, Sol invictus
 def: Les quatre moments de l'année où le Soleil passe à l'équateur céleste ou s'en écarte le plus, qui marquent les saisons et ont fixé les grandes fêtes religieuses.
 texte: Aux équinoxes, vers le 20 mars et le 22 septembre, le jour égale la nuit ; aux solstices, vers le 21 juin et le 21 décembre, le Soleil atteint sa plus grande ou sa plus faible hauteur et paraît s'arrêter avant de repartir. Des monuments préhistoriques s'orientent sur ces moments : le soleil levant du solstice d'été dans l'axe de [[stonehenge|Stonehenge]], celui du solstice d'hiver dans la tombe de Newgrange, en Irlande.
 texte: Le christianisme a placé Noël près du solstice d'hiver, à la date de la fête romaine du Soleil invaincu, et la Saint-Jean près du solstice d'été, avec ses feux. Les francs-maçons fêtent les deux saints Jean, l'Évangéliste en hiver et le Baptiste en été, « portes » solsticiales de l'année que [[rene-guenon|Guénon]] rapproche des portes des dieux et des hommes de la [[voie-lactee|Voie lactée]]. Le point de l'équinoxe de printemps, que la [[precession|précession]] fait reculer dans le zodiaque, définit les « ères » astrologiques, comme l'[[ere-du-verseau|ère du Verseau]].
-voir: ecliptique, precession, ere-du-verseau, stonehenge, temps-maconnique
+voir: ecliptique, precession, ere-du-verseau, stonehenge, temps-maconnique, loges-de-saint-jean, jean-baptiste
 
 @ eclipse
 cat: astronomie

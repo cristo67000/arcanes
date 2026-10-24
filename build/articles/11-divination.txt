@@ -22,7 +22,7 @@ texte: Le tarot apparaît vers 1440 à [[milan|Milan]] et à Ferrare : on ajoute
 texte: En 1781, [[court-de-gebelin]] affirme que le tarot est un livre égyptien de sagesse. [[etteilla]] en fait un jeu divinatoire, [[eliphas-levi]] le relie à la [[kabbale]] et aux lettres hébraïques, et la [[golden-dawn|Golden Dawn]] l'intègre à son système de [[correspondances]]. Le XXe siècle voit naître des centaines de jeux nouveaux, dont le [[tarot-rider-waite|Rider-Waite]] (1909) et le [[tarot-de-thoth|tarot de Thoth]] (1944).
 texte: On distingue les vingt-deux [[arcanes-majeurs|arcanes majeurs]] et les cinquante-six [[arcanes-mineurs|arcanes mineurs]]. Le tirage dispose les cartes selon des schémas, dont la croix celtique, chaque position ayant un sens (passé, obstacle, avenir…).
 schema: arcanes-majeurs
-voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin, milan
+voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin, milan, le-tarot-des-bohemiens
 
 @ arcanes-majeurs
 cat: divination
@@ -80,7 +80,7 @@ alias: cartomancien, cartomancienne, tireuse de cartes, tirer les cartes
 def: Divination par les cartes, à jouer ou spécialement conçues, dont on interprète la valeur et la position dans un tirage.
 texte: La pratique est attestée à partir du XVIe siècle, mais c'est à Paris, au XVIIIe, qu'[[etteilla]] publie la première méthode et fait de la tireuse de cartes un personnage de la ville. Au XIXe siècle, [[mademoiselle-lenormand]] en devient la figure la plus célèbre. On utilise un jeu de trente-deux ou de cinquante-deux cartes, le [[tarot]] ou des jeux d'oracle illustrés, comme le [[jeu-lenormand|Petit Lenormand]].
 texte: L'interprète dispose les cartes selon un schéma — en ligne, en croix, en cercle — et compose un récit à partir de leurs sens conventionnels et de leurs combinaisons. La cartomancie est l'un des arts divinatoires les plus pratiqués aujourd'hui.
-voir: tarot, etteilla, mademoiselle-lenormand, jeu-lenormand, divination
+voir: tarot, etteilla, mademoiselle-lenormand, jeu-lenormand, divination, le-tarot-des-bohemiens
 
 @ jeu-lenormand
 cat: divination
@@ -165,7 +165,7 @@ alias: sibylle, oracles sibyllins, livres sibyllins, sibylle de Cumes
 def: Prophétesses inspirées de l'Antiquité, dont les oracles, recueillis dans des livres, furent lus par les chrétiens comme des annonces du Christ.
 texte: Les Anciens comptaient jusqu'à dix sibylles, de Delphes, d'Érythrée, de Cumes… À Rome, les *Livres sibyllins*, achetés selon la légende par le roi Tarquin, étaient gardés au Capitole et consultés en cas de crise. Des *Oracles sibyllins* rédigés par des juifs et des chrétiens imitent leur style pour annoncer le vrai Dieu.
 texte: Le christianisme médiéval associe les sibylles aux prophètes de l'Ancien Testament : le chant du *Dies irae* les invoque, et Michel-Ange les peint au plafond de la chapelle Sixtine.
-voir: oracle, divination, prisca-theologia, antre-de-la-sibylle
+voir: oracle, divination, prisca-theologia, antre-de-la-sibylle, cathedrale-de-sienne
 
 @ augures
 cat: divination
@@ -184,7 +184,7 @@ an: 150
 def: Lettres de l'alphabet des anciens Germains et Scandinaves, auxquelles la mythologie prête une origine divine, et dont l'ésotérisme moderne a fait un instrument de divination et de magie.
 texte: Le *futhark* ancien, nommé d'après ses six premières lettres, compte vingt-quatre signes ; on le trouve gravé dès le IIe siècle sur des objets, des armes et des pierres. Selon un poème scandinave, le dieu Odin obtint la connaissance des runes en restant pendu neuf nuits à l'arbre du monde. Certaines inscriptions ont une fonction magique ou protectrice.
 texte: La divination par les runes, telle qu'on la pratique aujourd'hui avec des pierres gravées, date pour l'essentiel du XXe siècle. Récupérées par l'[[ariosophie]] puis par le nazisme, certaines runes restent associées à l'extrême droite, tandis que les religions néo-païennes nordiques et les amateurs de divination les emploient sans lien avec ces usages.
-voir: ariosophie, neopaganisme, divination, arbre-cosmique
+voir: ariosophie, neopaganisme, divination, arbre-cosmique, sacrifice-d-odin
 
 @ radiesthesie
 cat: divination

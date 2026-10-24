@@ -58,6 +58,10 @@
   --c-bestiaire: #4d7c0f;
   --c-egypte: #c2410c;
   --c-codes: #4338ca;
+  --c-mythes: #b01fae;
+  --c-apocryphes: #7a4b26;
+  --c-litterature: #4d4520;
+  --c-peinture: #ca1652;
   --c-perso: #6b6577;
 
   /* la carte des lieux */
@@ -127,6 +131,10 @@
     --c-bestiaire: #c3e06b;
     --c-egypte: #fb8f5c;
     --c-codes: #7c83ff;
+    --c-mythes: #ec6fe8;
+    --c-apocryphes: #e3ab7d;
+    --c-litterature: #f4db34;
+    --c-peinture: #f65a8e;
     --c-perso: #aaa3b8;
     --mer: #0e1522;
     --terre: #221d31;
@@ -186,6 +194,10 @@
   --c-bestiaire: #c3e06b;
   --c-egypte: #fb8f5c;
   --c-codes: #7c83ff;
+  --c-mythes: #ec6fe8;
+  --c-apocryphes: #e3ab7d;
+  --c-litterature: #f4db34;
+  --c-peinture: #f65a8e;
   --c-perso: #aaa3b8;
   --mer: #0e1522;
   --terre: #221d31;

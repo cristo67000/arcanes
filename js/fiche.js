@@ -6,8 +6,10 @@
  * la définition ; les illustrations ; pour un lieu, son plan de situation et
  * l'itinéraire ; le corps de l'article, où chaque renvoi ouvre l'article cité,
  * avec sa figure et sa planche ; les extraits d'œuvres ; les repères ; les
- * œuvres ; la mise en garde ;
- * « voir aussi » et « cité dans » ; les liens vers d'autres sites ;
+ * œuvres ; la mise en garde ; l'étape suivante du parcours qu'on suit (son fil
+ * est en tête de fiche) ; « voir aussi », « cité dans » et les parcours qui
+ * passent par l'article ; la carte des liens (js/constellation.js) ; les liens
+ * vers d'autres sites ;
  * les notes de la personne ; enfin l'article précédent et le suivant dans
  * l'ordre alphabétique, pour feuilleter.
  *
@@ -28,6 +30,7 @@
   const etat = {
     pile: [],          // les articles ouverts, le dernier est à l'écran
     surlignes: [],     // la requête à surligner, par niveau de la pile
+    contextes: [],     // le parcours suivi, par niveau de la pile (ou null)
     ouverte: false,
     notes: [],
     avant: null,       // ce qui avait le focus avant l'ouverture
@@ -45,14 +48,27 @@
 
   // ── Ouverture et fermeture ────────────────────────────────────────────────
 
-  /* options : { surligne: requête, defiler: 'notes' | false } */
+  /* options : { surligne: requête, defiler: 'notes' | false, parcours: id }.
+   * Le parcours suivi se poursuit d'un article à l'autre tant qu'il passe par
+   * l'article ouvert ; « retour » retrouve celui du niveau précédent. */
   function ouvrir(ref, options) {
     const opt = options || {};
     if (!Dictionnaire.parId(ref)) return;
     const deja = etat.ouverte;
-    if (deja && etat.pile[etat.pile.length - 1] === ref) return;
+    const avant = etat.contextes[etat.contextes.length - 1] || null;
+    if (deja && etat.pile[etat.pile.length - 1] === ref) {
+      if (opt.parcours !== undefined && opt.parcours !== avant) {
+        etat.contextes[etat.contextes.length - 1] = opt.parcours;
+        dessiner();
+      }
+      return;
+    }
+    let contexte = opt.parcours !== undefined ? opt.parcours : avant;
+    const p = contexte ? Dictionnaire.unParcours(contexte) : null;
+    if (!p || !p.e.includes(ref)) contexte = null;
     etat.pile.push(ref);
     etat.surlignes.push(opt.surligne || null);
+    etat.contextes.push(contexte);
     try { racine.history.pushState({ fiche: etat.pile.length }, ''); } catch (e) { /* historique indisponible */ }
     if (!deja) {
       const actif = document.activeElement;
@@ -77,6 +93,7 @@
     if (n <= 0) { fermerSansHistorique(); return; }
     etat.pile.length = Math.min(etat.pile.length, n);
     etat.surlignes.length = etat.pile.length;
+    etat.contextes.length = etat.pile.length;
     Voix.taire();
     animer(corps, 'change');
     dessiner();
@@ -85,6 +102,7 @@
   function fermerSansHistorique() {
     etat.pile = [];
     etat.surlignes = [];
+    etat.contextes = [];
     etat.ouverte = false;
     if (conteneur) conteneur.hidden = true;
     if (guetteur) { guetteur.disconnect(); guetteur = null; }
@@ -321,6 +339,91 @@
     return nav;
   }
 
+  // ── Les parcours ──────────────────────────────────────────────────────────
+
+  /* Le parcours suivi à ce niveau de la pile, s'il passe par l'article. */
+  function parcoursCourant(a) {
+    const id = etat.contextes[etat.contextes.length - 1];
+    const p = id ? Dictionnaire.unParcours(id) : null;
+    return p && p.e.includes(a.id) ? p : null;
+  }
+
+  function suivreParcours(p, id) {
+    ouvrir(id, { parcours: p.id });
+  }
+
+  /* En tête de fiche : le parcours, l'étape, un point par étape pour y sauter,
+   * l'étape précédente et la suivante. */
+  function filParcours(p, a) {
+    const i = p.e.indexOf(a.id);
+    const nav = element('nav', 'parcours-fil');
+    nav.setAttribute('aria-label', 'Parcours : ' + p.n);
+    const tete = element('div', 'parcours-tete');
+    tete.appendChild(element('span', 'parcours-etiquette', 'Parcours'));
+    tete.appendChild(element('span', 'parcours-nom', p.n));
+    tete.appendChild(element('span', 'parcours-position', (i + 1) + ' / ' + p.e.length));
+    const quitter = bouton('lien-discret parcours-quitter', 'Quitter', () => {
+      etat.contextes[etat.contextes.length - 1] = null;
+      dessiner(false);
+    });
+    quitter.setAttribute('aria-label', 'Quitter le parcours');
+    tete.appendChild(quitter);
+    nav.appendChild(tete);
+    const points = element('div', 'parcours-points');
+    p.e.forEach((id, k) => {
+      const x = Dictionnaire.parId(id);
+      const b = bouton('parcours-point cat-' + x.c + (k < i ? ' passe' : '') + (k === i ? ' actif' : ''), '', () => suivreParcours(p, id));
+      b.setAttribute('aria-label', 'Étape ' + (k + 1) + ' : ' + x.n);
+      b.title = x.n;
+      if (k === i) b.setAttribute('aria-current', 'step');
+      points.appendChild(b);
+    });
+    nav.appendChild(points);
+    const pas = element('div', 'parcours-pas');
+    const prec = i > 0 ? Dictionnaire.parId(p.e[i - 1]) : null;
+    const suiv = i < p.e.length - 1 ? Dictionnaire.parId(p.e[i + 1]) : null;
+    pas.appendChild(prec ? bouton('feuille prec', '← ' + prec.n, () => suivreParcours(p, prec.id)) : element('span'));
+    pas.appendChild(suiv ? bouton('feuille suiv', suiv.n + ' →', () => suivreParcours(p, suiv.id)) : element('span', 'discret parcours-fin', 'Dernière étape'));
+    nav.appendChild(pas);
+    return nav;
+  }
+
+  /* Après la lecture : l'étape suivante, ou la fin du parcours. */
+  function suiteParcours(p, a) {
+    const i = p.e.indexOf(a.id);
+    const bloc = element('section', 'parcours-suite');
+    if (i < p.e.length - 1) {
+      const suiv = Dictionnaire.parId(p.e[i + 1]);
+      bloc.appendChild(element('p', 'parcours-suite-titre', p.n + ' · étape ' + (i + 2) + ' sur ' + p.e.length));
+      bloc.appendChild(bouton('bouton-principal parcours-suivant', suiv.n + ' →', () => suivreParcours(p, suiv.id)));
+    } else {
+      bloc.appendChild(element('p', 'parcours-suite-titre', 'Fin du parcours « ' + p.n + ' »'));
+      bloc.appendChild(bouton('bouton-discret parcours-recommencer', 'Revenir à la première étape', () => suivreParcours(p, p.e[0])));
+    }
+    return bloc;
+  }
+
+  /* Les parcours qui passent par l'article ; en toucher un le fait suivre. */
+  function autresParcours(a, courant) {
+    const liste = Dictionnaire.parcoursDe(a.id).filter((x) => !courant || x.p.id !== courant.id);
+    if (!liste.length || a.perso) return null;
+    const bloc = element('section', 'voisins-bloc parcours-liste');
+    bloc.appendChild(element('h3', 'rubrique', courant ? 'Aussi dans les parcours' : 'Dans les parcours'));
+    const rang = element('div', 'voisins');
+    for (const { p, i } of liste) {
+      const b = bouton('voisin parcours-voisin', '', () => {
+        etat.contextes[etat.contextes.length - 1] = p.id;
+        dessiner();
+      });
+      b.appendChild(document.createTextNode(p.n));
+      b.appendChild(element('span', 'parcours-voisin-etape', 'étape ' + (i + 1) + ' / ' + p.e.length));
+      b.setAttribute('data-parcours', p.id);
+      rang.appendChild(b);
+    }
+    bloc.appendChild(rang);
+    return bloc;
+  }
+
   /* `anime` : le bouton qu'on vient de toucher ('favori', 'revoir'). */
   async function dessiner(defiler, anime) {
     etat.jeton += 1;
@@ -396,6 +499,10 @@
     actions.appendChild(rev);
     corps.appendChild(actions);
 
+    // Le parcours qu'on suit : où l'on en est, et d'où l'on vient
+    const parcours = parcoursCourant(a);
+    if (parcours) corps.appendChild(filParcours(parcours, a));
+
     // Les illustrations d'en tête : la carte, le portrait, la gravure
     const images = Illustrations.bloc(a);
     if (images) corps.appendChild(images);
@@ -450,11 +557,19 @@
 
     if (a.perso) corps.appendChild(bouton('bouton-discret large', '✎ Modifier mon article', () => Editeur.ouvrir({ type: 'article', id: a.id.slice(6) })));
 
+    if (parcours) corps.appendChild(suiteParcours(parcours, a));
+
     const voir = puces('Voir aussi', a.v || []);
     if (voir) corps.appendChild(voir);
     const cites = (a.ci || []).filter((id) => !(a.v || []).includes(id));
     const ci = puces('Cité dans', cites);
     if (ci) corps.appendChild(ci);
+    const dans = autresParcours(a, parcours);
+    if (dans) corps.appendChild(dans);
+
+    // La carte des liens : se promener d'article en article sans quitter la fiche
+    const carte = Constellation.bloc(a, (id) => ouvrir(id));
+    if (carte) corps.appendChild(carte);
     const ailleurs = blocLiens(a);
     if (ailleurs) corps.appendChild(ailleurs);
 
@@ -519,6 +634,7 @@
     get ouverte() { return etat.ouverte; },
     get ref() { return etat.pile[etat.pile.length - 1] || null; },
     get profondeur() { return etat.pile.length; },
+    get parcours() { return etat.contextes[etat.contextes.length - 1] || null; },
   };
 
 })(window);

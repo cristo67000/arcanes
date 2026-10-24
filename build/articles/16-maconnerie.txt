@@ -148,7 +148,7 @@ alias: chambre de réflexion, testament philosophique, crâne, sablier, sel et s
 def: Petite pièce obscure où le candidat à l'initiation maçonnique est laissé seul, face à des symboles de la mort et de la transformation, avant d'être introduit dans la loge.
 texte: Les murs sont noirs ; sur une table, éclairés d'une bougie, un crâne, un sablier, du pain et de l'eau, du sel et du [[soufre]], une image de coq, et l'inscription V.I.T.R.I.O.L. — « Visite l'intérieur de la terre, et en rectifiant tu trouveras la pierre cachée ». Des sentences mettent en garde : « Si la curiosité t'a conduit ici, va-t'en ! » Le candidat y rédige son testament philosophique, en répondant à des questions sur ses devoirs envers lui-même, les autres et l'humanité.
 texte: Le cabinet apparaît dans les rites français dans la seconde moitié du XVIIIe siècle. Il figure l'épreuve de la terre, la descente au tombeau qui précède toute renaissance ; le sel, le soufre et le mercure évoquent les trois principes des alchimistes (voir [[tria-prima]]), et le [[vitriol|VITRIOL]] la quête de la [[pierre-philosophale]] au fond de soi.
-voir: initiation-maconnique, vitriol, tria-prima, nigredo, coq
+voir: initiation-maconnique, vitriol, tria-prima, nigredo, coq, vanites
 
 @ apprenti
 cat: maconnerie
@@ -178,7 +178,7 @@ def: Le troisième grade de la franc-maçonnerie, le dernier des grades symboliq
 texte: Lors de son « élévation », dans une loge tendue de noir, le compagnon joue le rôle d'Hiram, frappé à mort par trois mauvais compagnons, couché dans un cercueil puis relevé par le Vénérable : c'est la [[legende-d-hiram|légende d'Hiram]]. Le maître a « sept ans et plus » ; il peut siéger où il veut, voter, être élu officier.
 texte: Les maîtres se réunissent dans la « chambre du milieu ». Leur [[tablier]] est bordé de rouge ou de bleu selon les rites, et leurs symboles sont le cercueil, l'[[acacia]], l'équerre et le [[compas-et-equerre|compas]] entrelacés, le crâne et les ossements. La formule « l'acacia m'est connu » permet de s'y reconnaître. Au-delà commencent, selon les rites, les hauts grades.
 schema: degres-maconniques
-voir: legende-d-hiram, acacia, compagnon, grades-maconniques, ecossisme
+voir: legende-d-hiram, acacia, compagnon, grades-maconniques, ecossisme, tubal-cain
 
 @ legende-d-hiram
 cat: maconnerie
@@ -189,7 +189,7 @@ texte: La Bible mentionne un Hiram, fils d'une veuve de la tribu de Nephtali et 
 texte: Ils l'enterrent hors de la ville et plantent une branche d'[[acacia]] sur la tombe. Les maîtres envoyés à sa recherche le découvrent, et, le mot étant perdu avec lui, conviennent d'un mot de remplacement ; ils relèvent le corps par les « cinq points parfaits de la maîtrise ». On a lu dans ce récit la mort d'Osiris, le sacrifice du Christ, la mort initiatique ou la transmission d'une [[parole-perdue|parole perdue]] que les hauts grades prétendent retrouver.
 extrait: Adoniram, qui passait près d’eux, l’entendit ; il s’éloigna en rugissant de douleur. Plus loin, il avisa un groupe d’ouvriers qui l’accablaient de mépris, de calomnies et de malédictions. Il fut rejoint par le Syrien Phanor, qui lui dit : ¶ — Tu es grand ; la fortune t’a trahi ; mais elle n’a pas eu les maçons pour complices. ¶ Amrou le Phénicien le rejoignit à son tour et lui dit : ¶ — Tu es grand, et tu serais vainqueur, si chacun eût fait son devoir comme les charpentiers. ¶ Et le Juif Méthousaël lui dit : ¶ — Les mineurs ont fait leur devoir ; mais ce sont ces ouvriers étrangers qui, par leur ignorance, ont compromis l’entreprise.
 source: Gérard de Nerval, *Voyage en Orient*, « Histoire de la reine du Matin et de Soliman, prince des génies », chap. VI (édition de 1884) | ws Voyage en Orient (Nerval)/Les conteurs/VI
-voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval, parole-perdue, osiris, lion-symbole
+voir: maitre-macon, acacia, fils-de-la-veuve, temple-de-salomon, salomon, gerard-de-nerval, parole-perdue, osiris, lion-symbole, histoire-de-la-reine-du-matin, tubal-cain, construction-du-temple
 
 @ fils-de-la-veuve
 cat: maconnerie
@@ -244,7 +244,7 @@ def: Le bloc tel qu'il sort de la carrière, symbole de l'apprenti franc-maçon,
 texte: Présente dans la loge avec la [[pierre-cubique|pierre cubique]], la pierre brute figure l'homme avec ses défauts, ses passions, ses préjugés, que le travail sur soi doit équarrir. L'[[apprenti]] l'attaque au [[maillet]] et au ciseau ; il ne s'agit pas de la briser, mais d'en dégager la forme qu'elle contient.
 texte: L'image rejoint celle de l'alchimie, où la [[materia-prima]] doit être travaillée pour devenir [[pierre-philosophale|pierre philosophale]] — rapprochement que les maçons hermétistes n'ont pas manqué de faire, d'[[oswald-wirth]] à [[jules-boucher]].
 schema: plan-de-loge/pierres
-voir: pierre-cubique, apprenti, maillet, materia-prima
+voir: pierre-cubique, apprenti, maillet, materia-prima, construction-du-temple
 
 @ pierre-cubique
 cat: maconnerie
@@ -382,7 +382,7 @@ cat: maconnerie
 nom: Maçonnerie d'adoption
 alias: loges d'adoption, adoption, maçonnerie féminine, apprentie, compagnonne, maîtresse, sœurs
 def: Forme de franc-maçonnerie féminine apparue en France vers 1740, dont les loges de femmes étaient « adoptées » et présidées par une loge masculine.
-texte: Les *Constitutions* d'Anderson excluaient les femmes. La France, où la sociabilité mondaine était mixte, inventa des loges d'adoption, rattachées à une loge d'hommes, avec leurs grades propres — apprentie, compagnonne, maîtresse, maîtresse parfaite — et un symbolisme tiré de la Genèse : le jardin d'Éden, l'arche de Noé, la tour de Babel. Le [[grand-orient-de-france|Grand Orient]] les reconnut en 1774. La duchesse de Bourbon et la princesse de Lamballe en furent grandes maîtresses.
+texte: Les *Constitutions* d'Anderson excluaient les femmes. La France, où la sociabilité mondaine était mixte, inventa des loges d'adoption, rattachées à une loge d'hommes, avec leurs grades propres — apprentie, compagnonne, maîtresse, maîtresse parfaite — et un symbolisme tiré de la Genèse : le [[jardin-d-eden|jardin d'Éden]], l'arche de Noé, la [[tour-de-babel|tour de Babel]]. Le [[grand-orient-de-france|Grand Orient]] les reconnut en 1774. La duchesse de Bourbon et la princesse de Lamballe en furent grandes maîtresses.
 texte: Disparue avec la Révolution, réveillée au XIXe siècle, l'adoption survit dans les loges que la [[grande-loge-de-france|Grande Loge de France]] ouvre au début du XXe siècle ; devenues indépendantes en 1945, elles forment en 1952 la [[grande-loge-feminine-de-france|Grande Loge féminine de France]]. Entre-temps, le [[droit-humain|Droit humain]] avait fondé en 1893 la première maçonnerie mixte.
 voir: grande-loge-feminine-de-france, droit-humain, maria-deraismes, grand-orient-de-france
 

@@ -46,7 +46,7 @@ alias: goetia, goétie, goétique, Ars Goetia
 def: Magie qui invoque les démons, considérée comme la forme basse et dangereuse de la magie ; par extension, la première partie du Lemegeton, qui décrit soixante-douze esprits infernaux.
 texte: Le grec *goêteia* désignait la sorcellerie, l'art des charlatans et des enchanteurs. La Renaissance l'oppose à la [[theurgie]] : le goète commande aux démons, ou croit les commander, au péril de son âme.
 texte: La *Goétie* du *[[lemegeton|Lemegeton]]* énumère soixante-douze démons, leurs sceaux, leurs fonctions et la manière de les contraindre à apparaître dans un triangle placé hors du [[cercle-magique|cercle]] du magicien. Elle reste très utilisée par certains courants de la magie contemporaine.
-voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau, soixante-douze, asmodee
+voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau, soixante-douze, asmodee, testament-de-salomon
 
 @ magie-enochienne
 cat: magie
@@ -74,7 +74,7 @@ an: 1978
 def: Courant de la magie apparu en Angleterre à la fin des années 1970, qui considère les croyances comme de simples outils interchangeables et cherche avant tout ce qui fonctionne.
 texte: Peter J. Carroll publie en 1978 *Liber Null* et fonde avec Ray Sherwin les Illuminates of Thanateros. Inspirés par [[austin-osman-spare]], ils retiennent de la magie traditionnelle ses techniques — [[sigil|sigils]], états de transe, rites — en rejetant ses doctrines : le magicien peut adopter pour un temps n'importe quel système de croyances, y compris inventé ou tiré de la culture populaire, puis en changer.
 texte: Cette approche pragmatique et ironique, très liée à la contre-culture, a largement diffusé l'usage des sigils et l'idée d'une magie sans tradition ni hiérarchie.
-voir: austin-osman-spare, sigil, thelema, magie
+voir: austin-osman-spare, sigil, thelema, magie, le-necronomicon
 
 @ grimoire
 cat: magie
@@ -83,7 +83,7 @@ alias: grimoires, livre de magie, Grand Grimoire, Dragon rouge, Grimoire du pape
 def: Livre de magie contenant des formules, des rites, des sceaux et des instructions pour invoquer les esprits, fabriquer des talismans ou obtenir des pouvoirs.
 texte: Le mot vient de « grammaire » : au Moyen Âge, il désignait un livre en latin, incompréhensible au profane. Les grimoires manuscrits se transmettent dans les milieux de clercs, de médecins et de curieux ; les plus prestigieux se placent sous l'autorité de [[salomon]], d'Hermès, d'Albert le Grand ou d'un pape. Au XVIIIe siècle, des grimoires imprimés à bon marché, comme le *Grand Grimoire* ou le *Dragon rouge*, qui explique comment conclure un pacte avec un démon, se répandent dans les campagnes.
 texte: Posséder un grimoire passait pour dangereux : on racontait qu'il était impossible de s'en débarrasser. Depuis le XIXe siècle, éditeurs et occultistes ont publié les grands grimoires anciens, et le mot désigne aujourd'hui tout livre de magie.
-voir: clavicule-de-salomon, lemegeton, livre-d-abramelin, grand-albert, petit-albert, arbatel, livre-de-thot
+voir: clavicule-de-salomon, lemegeton, livre-d-abramelin, grand-albert, petit-albert, arbatel, livre-de-thot, le-necronomicon
 
 @ talisman
 cat: magie
@@ -147,7 +147,7 @@ alias: cercle de protection, triangle de l'art, ouvrir le cercle, tracer le cerc
 def: Cercle tracé sur le sol avant une opération magique, où le magicien se tient protégé des esprits qu'il invoque et qui délimite un espace consacré.
 texte: Dans les grimoires, le cercle est tracé avec un couteau ou de la craie consacrés, entouré de noms divins, de croix et de [[pentacle|pentacles]] ; en sortir pendant l'opération serait mortel. Dans la *Goétie*, l'esprit est appelé à apparaître dans un triangle tracé à l'extérieur du cercle. La scène du magicien dans son cercle est un motif du théâtre et de la gravure, du *Faust* de Marlowe aux illustrations de grimoires.
 texte: Dans la [[wicca]] et le [[neopaganisme]], le cercle n'est plus une défense contre des démons mais un espace sacré « entre les mondes », ouvert au début et fermé à la fin du rite.
-voir: evocation, goetie, clavicule-de-salomon, wicca, instruments-magiques
+voir: evocation, goetie, clavicule-de-salomon, wicca, instruments-magiques, preraphaelites
 
 @ instruments-magiques
 cat: magie
@@ -187,7 +187,7 @@ texte: Dans de nombreuses sociétés, le malheur — maladie, mort du bétail, m
 texte: Au XXe siècle, le mot change de sens : la [[wicca]] et des courants féministes revendiquent l'héritage des « sorcières » comme figure de liberté et de savoir féminin. Les historiens soulignent que les victimes des procès n'appartenaient pas, pour l'essentiel, à une religion païenne survivante.
 extrait: Sprenger dit (avant 1500) : « Il faut dire l’hérésie des sorcières, et non des sorciers ; ceux-ci sont peu de chose. » — Et un autre sous Louis XIII : « Pour un sorcier, dix mille sorcières. » ¶ « Nature les fait sorcières. » — C’est le génie propre à la Femme et son tempérament. Elle naît Fée. Par le retour régulier de l’exaltation, elle naît Sibylle. Par l’amour, elle est Magicienne. Par sa finesse, sa malice (souvent fantasque et bienfaisante), elle est Sorcière et fait le sort, du moins endort, trompe les maux.
 source: Jules Michelet, *La Sorcière*, 1862, introduction | gallica bpt6k57265106 = l’édition de 1878 numérisée | ws La Sorcière/Introduction
-voir: chasse-aux-sorcieres, sabbat, demonologie, wicca, envoutement, grillot-de-givry, salem, hecate, loup-garou, chat
+voir: chasse-aux-sorcieres, sabbat, demonologie, wicca, envoutement, grillot-de-givry, salem, hecate, loup-garou, chat, le-sabbat-des-sorcieres
 
 @ sabbat
 cat: magie
@@ -198,7 +198,7 @@ texte: Les procès décrivent le vol nocturne sur un balai ou un animal, après 
 texte: Les historiens y voient pour l'essentiel une construction des démonologues, que la torture faisait confirmer par les accusés. L'historien Carlo Ginzburg a cependant montré, avec les *benandanti* du Frioul, qui disaient combattre en esprit les sorciers pour protéger les récoltes, que des croyances populaires en des voyages extatiques ont été réinterprétées par les juges.
 extrait: Sabbat. C’est l’assemblée des démons, des sorciers et des sorcières dans leurs orgies nocturnes. Nous devons donner ici les relations des démonomanes sur ce sujet. On s’occupe au sabbat, disent-ils, à faire ou à méditer le mal, à donner des craintes et des frayeurs, à préparer les maléfices, à accomplir des mystères abominables. Le sabbat se fait dans un carrefour ou dans quelque lieu désert et sauvage, auprès d’un lac, d’un étang, d’un marais, parce qu’on y produit la grêle et qu’on y fabrique des orages. (…) Les nuits ordinaires de la convocation du sabbat sont celles du mercredi au jeudi et du vendredi au samedi.
 source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Sabbat » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Sabbat
-voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet, walpurgis, sorciere
+voir: sorcellerie, chasse-aux-sorcieres, demonologie, baphomet, walpurgis, sorciere, la-reine-du-sabbat, le-sabbat-des-sorcieres
 
 @ chasse-aux-sorcieres
 cat: magie
@@ -254,7 +254,7 @@ alias: élémentals, esprits élémentaires, sylphes, ondines, gnomes, salamandr
 def: Esprits des quatre éléments décrits par Paracelse — sylphes de l'air, ondines de l'eau, gnomes de la terre, salamandres du feu —, repris par la littérature et l'occultisme.
 texte: Dans son *Livre des nymphes, des sylphes, des pygmées et des salamandres*, [[paracelse]] décrit des êtres faits d'une chair subtile, mortels mais sans âme, qui habitent chacun leur élément ; les ondines pourraient acquérir une âme en épousant un homme. Le roman satirique *Le Comte de Gabalis* de l'abbé de Villars (1670) popularise ces êtres dans les salons, en les prêtant aux Rose-Croix.
 texte: L'occultisme du XIXe siècle les intègre à ses systèmes : pour [[eliphas-levi]] et la [[golden-dawn|Golden Dawn]], le magicien doit maîtriser les élémentaux de chaque élément. Le conte d'Ondine, de La Motte-Fouqué à Giraudoux, et les fées des contes en sont les cousins littéraires.
-voir: paracelse, quatre-elements, rose-croix, rituel-du-pentagramme, salamandre, le-comte-de-gabalis, sirene
+voir: paracelse, quatre-elements, rose-croix, rituel-du-pentagramme, salamandre, le-comte-de-gabalis, sirene, le-pot-d-or
 
 @ miroir-magique
 cat: magie
@@ -289,8 +289,8 @@ nom: Messe noire
 alias: messes noires, messe satanique, abbé Guibourg
 def: Parodie de la messe catholique célébrée en l'honneur du Diable ou à des fins magiques, plus souvent imaginée par les accusateurs et les romanciers que réellement pratiquée.
 texte: Au Moyen Âge, on accusait certains prêtres de dire des messes pour faire mourir un ennemi. L'[[affaire-des-poisons|affaire des Poisons]], sous Louis XIV, livre le témoignage le plus célèbre : selon les aveux recueillis, l'abbé Guibourg aurait célébré des messes sur le corps nu d'une femme, peut-être Madame de Montespan, avec des sacrifices d'enfants — des témoignages obtenus sous la menace de la torture, dont l'exactitude reste discutée.
-texte: [[joris-karl-huysmans|Huysmans]] décrit une messe noire dans *Là-bas* (1891), qui fixe pour longtemps l'image romanesque du rituel. Le [[satanisme]] moderne en a parfois fait une cérémonie de provocation.
-voir: satanisme, affaire-des-poisons, sorcellerie, envoutement, gilles-de-rais
+texte: [[joris-karl-huysmans|Huysmans]] décrit une messe noire dans *[[la-bas|Là-bas]]* (1891), qui fixe pour longtemps l'image romanesque du rituel. Le [[satanisme]] moderne en a parfois fait une cérémonie de provocation.
+voir: satanisme, affaire-des-poisons, sorcellerie, envoutement, gilles-de-rais, la-bas
 
 @ affaire-des-poisons
 cat: magie

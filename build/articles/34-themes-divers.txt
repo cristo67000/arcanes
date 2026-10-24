@@ -79,26 +79,26 @@ repere: vers 1230 — Carnet de dessins de Villard de Honnecourt.
 voir: gothique, cathedrale-de-chartres, notre-dame-de-paris, pseudo-denys, mystere-des-cathedrales, argot-des-batisseurs, gargouille, operatifs-et-speculatifs
 
 @ roman-gothique
-cat: textes
+cat: litterature
 nom: Roman gothique
 alias: roman noir, gothic novel, Le Château d'Otrante, Le Moine, Les Mystères d'Udolphe, Vathek, Frankenstein, Melmoth
 def: Genre romanesque né en Angleterre en 1764 avec *Le Château d'Otrante*, peuplé de châteaux, de souterrains, de moines diaboliques et d'apparitions, d'où sont sortis le fantastique et le roman d'horreur.
-texte: Horace Walpole publie en 1764 *Le Château d'Otrante*, « histoire gothique » où un casque géant tombe du ciel et un portrait sort de son cadre. Ann Radcliffe, avec *Les Mystères d'Udolphe* (1794), fait frissonner son héroïne dans des châteaux des Apennins avant d'expliquer le surnaturel ; Matthew Lewis, avec *Le Moine* (1796), mène un moine espagnol au viol, au meurtre et au pacte avec le diable. William Beckford écrit en français *Vathek* (1786), conte oriental où un calife cherche les trésors souterrains d'Eblis. *Le Diable amoureux* de Cazotte (1772), avec sa scène d'[[evocation|évocation]], en est un précurseur français.
-texte: Le genre se charge d'ésotérisme : dans *Frankenstein* (1818), Mary Shelley fait lire au jeune Victor [[cornelius-agrippa|Corneille Agrippa]], [[paracelse|Paracelse]] et [[albert-le-grand|Albert le Grand]] avant qu'il n'anime la matière ; *Melmoth* de Maturin (1820) vend son âme pour une vie prolongée ; [[edward-bulwer-lytton|Bulwer-Lytton]] met en scène les immortels de *[[zanoni|Zanoni]]* (1842). [[walter-scott|Walter Scott]], qui admirait Radcliffe, en tire le roman historique ; [[gaston-leroux|Gaston Leroux]] donne au genre son chef-d'œuvre parisien avec *Le Fantôme de l'Opéra*.
-voir: gothique, walter-scott, gaston-leroux, zanoni, cornelius-agrippa, paracelse, faust
+texte: Horace Walpole publie en 1764 *Le Château d'Otrante*, « histoire gothique » où un casque géant tombe du ciel et un portrait sort de son cadre. Ann Radcliffe, avec *Les Mystères d'Udolphe* (1794), fait frissonner son héroïne dans des châteaux des Apennins avant d'expliquer le surnaturel ; Matthew Lewis, avec *Le Moine* (1796), mène un moine espagnol au viol, au meurtre et au pacte avec le diable. William Beckford écrit en français *[[vathek|Vathek]]* (1786), conte oriental où un calife cherche les trésors souterrains d'Eblis. *Le Diable amoureux* de Cazotte (1772), avec sa scène d'[[evocation|évocation]], en est un précurseur français.
+texte: Le genre se charge d'ésotérisme : dans *[[frankenstein|Frankenstein]]* (1818), Mary Shelley fait lire au jeune Victor [[cornelius-agrippa|Corneille Agrippa]], [[paracelse|Paracelse]] et [[albert-le-grand|Albert le Grand]] avant qu'il n'anime la matière ; *Melmoth* de Maturin (1820) vend son âme pour une vie prolongée ; [[edward-bulwer-lytton|Bulwer-Lytton]] met en scène les immortels de *[[zanoni|Zanoni]]* (1842). [[walter-scott|Walter Scott]], qui admirait Radcliffe, en tire le roman historique ; [[gaston-leroux|Gaston Leroux]] donne au genre son chef-d'œuvre parisien avec *Le Fantôme de l'Opéra*.
+voir: gothique, walter-scott, gaston-leroux, zanoni, cornelius-agrippa, paracelse, faust, vathek, frankenstein, le-cauchemar
 
 @ asmodee
 cat: magie
 nom: Asmodée
 alias: Asmodeus, Ashmedaï, Asmoday, Aeshma, le Diable boiteux, démon de la luxure
 def: Démon de la luxure et de la colère, venu de la Perse ancienne, qui tue les sept maris de Sara dans le livre de Tobie ; la légende en fait le bâtisseur forcé du Temple de Salomon et Lesage le Diable boiteux.
-texte: Son nom vient sans doute de l'avestique *Aeshma-daeva*, le démon de la fureur. Dans le livre de Tobie, Asmodée tue l'un après l'autre les sept maris de Sara la nuit de leurs noces, jusqu'à ce que le jeune Tobie, guidé par l'ange Raphaël, le chasse par la fumée du cœur et du foie d'un [[poisson]] ; l'ange l'enchaîne dans le désert de Haute-Égypte. Le Talmud raconte qu'Ashmedaï, roi des démons, capturé par [[salomon|Salomon]], lui révéla le secret du *shamir*, le ver qui tranche la pierre, pour bâtir le [[temple-de-salomon|Temple]] sans outil de fer ; le *Testament de Salomon* le met aussi au travail.
+texte: Son nom vient sans doute de l'avestique *Aeshma-daeva*, le démon de la fureur. Dans le livre de Tobie, Asmodée tue l'un après l'autre les sept maris de Sara la nuit de leurs noces, jusqu'à ce que le jeune Tobie, guidé par l'ange Raphaël, le chasse par la fumée du cœur et du foie d'un [[poisson]] ; l'ange l'enchaîne dans le désert de Haute-Égypte. Le Talmud raconte qu'Ashmedaï, roi des démons, capturé par [[salomon|Salomon]], lui révéla le secret du *shamir*, le ver qui tranche la pierre, pour bâtir le [[temple-de-salomon|Temple]] sans outil de fer ; le *[[testament-de-salomon|Testament de Salomon]]* le met aussi au travail.
 texte: Les démonologues le rangent parmi les princes de l'enfer : il est le trente-deuxième esprit de la [[goetie|Goétie]] du *[[lemegeton|Lemegeton]]*, roi à trois têtes chevauchant un dragon, et il fut l'un des démons des possédées de Loudun en 1634. Alain-René Lesage en fait en 1707 le *Diable boiteux* qui soulève les toits de Madrid pour montrer à un étudiant la vie secrète des maisons. À [[rennes-le-chateau|Rennes-le-Château]], le diable qui porte le bénitier de l'église, placé par [[berenger-sauniere|Bérenger Saunière]], est communément appelé Asmodée.
 extrait: En ce même jour, il arriva que Sara, fille de Raguel, en Ragès, ville des Mèdes, reçut pareillement des reproches de l’une des servantes de son père, ¶ Parce qu’elle avait été mariée à sept hommes ; et un démon, nommé Asmodée, les avoit tués aussitôt qu’ils étaient entrés dans sa chambre. (…) Après qu’ils eurent soupé, ils introduisirent le jeune homme auprès d’elle. ¶ Et Tobie se souvenant des paroles de l’ange, tira de son sac une partie du foie, et la mit sur des charbons ardents. ¶ Alors l’ange Raphaël prit le démon, et l’enchaîna dans le désert de la haute Égypte.
 source: *La Sainte Bible*, trad. Louis-Isaac Lemaistre de Sacy, Furne, 1841, Tobie, chap. III, versets 7-8, et chap. VIII, versets 1-3 | ws Bible Sacy/Tobie
 extrait: Pour moi, j’ai d’autres occupations : je fais des mariages ridicules : j’unis des barbons avec des mineures, des maîtres avec leurs servantes, des filles mal dotées avec de tendres amants qui n’ont point de fortune. C’est moi qui ai introduit dans le monde le luxe, la débauche, les jeux de hasard et la chimie. Je suis l’inventeur des carrousels, de la danse, de la musique, de la comédie et de toutes les modes nouvelles de France. En un mot, je m’appelle Asmodée, surnommé le Diable boiteux. ¶ — Hé quoi ! s’écria don Cleophas, vous seriez ce fameux Asmodée dont il est fait une si glorieuse mention dans Agrippa et dans la Clavicule de Salomon ? Ah ! vraiment, vous ne m’avez pas dit tous vos amusements ; vous avez oublié le meilleur. Je sais que vous vous divertissez quelquefois à soulager les amants malheureux : à telles enseignes que, l’année passée, un bachelier de mes amis obtint, par votre secours, dans la ville d’Alcala, les bonnes grâces de la femme d’un docteur de l’université. — Cela est vrai, dit l’esprit ; je vous gardais celui-là pour le dernier. Je suis le démon de la luxure, ou, pour parler plus honorablement, le dieu Cupidon ; car les poètes m’ont donné ce joli nom, et ces messieurs me peignent fort avantageusement. Ils disent que j’ai des ailes dorées, un bandeau sur les yeux, un arc à la main, un carquois plein de flèches sur les épaules, et avec cela une beauté ravissante.
 source: Alain-René Lesage, *Le Diable boiteux*, 1707, chap. I (Asmodée parle), éd. Firmin-Didot, 1877 | ws Le Diable boiteux/1
-voir: demonologie, salomon, temple-de-salomon, goetie, lemegeton, rennes-le-chateau, berenger-sauniere, clavicule-de-salomon
+voir: demonologie, salomon, temple-de-salomon, goetie, lemegeton, rennes-le-chateau, berenger-sauniere, clavicule-de-salomon, shamir, testament-de-salomon
 
 @ axis-mundi
 cat: notions
@@ -128,13 +128,13 @@ texte: Ces maîtres lisaient [[platon|Platon]] dans la traduction latine de Calc
 voir: cathedrale-de-chartres, chartres, platon, ame-du-monde, microcosme-macrocosme, neoplatonisme, pythagore
 
 @ da-vinci-code
-cat: textes
+cat: litterature
 nom: Da Vinci Code
 alias: The Da Vinci Code, Dan Brown, Robert Langdon, Jacques Saunière, cryptex, ligne rose
 def: Roman de Dan Brown (2003), vendu à des dizaines de millions d'exemplaires, qui fait de Marie-Madeleine l'épouse de Jésus et du Prieuré de Sion le gardien de leur descendance, en mêlant faits et légendes de l'ésotérisme.
 texte: Le conservateur du Louvre Jacques Saunière, dont le nom est emprunté à l'abbé de [[rennes-le-chateau|Rennes-le-Château]], est assassiné dans la Grande Galerie ; le symbologue Robert Langdon et la cryptologue Sophie Neveu suivent ses messages à travers l'église [[saint-sulpice|Saint-Sulpice]], le château de Villette, la Temple Church de Londres et la [[chapelle-de-rosslyn|chapelle de Rosslyn]]. Le roman lit dans la *Cène* de [[leonard-de-vinci|Léonard]] la présence de [[marie-madeleine|Marie-Madeleine]], présente le [[prieure-de-sion|Prieuré de Sion]] comme une société réelle et emploie le chiffre [[atbash]] pour faire de [[baphomet|Baphomet]] la Sagesse.
 texte: Il reprend largement les thèses de *[[l-enigme-sacree|L'Énigme sacrée]]* (1982), dont deux auteurs attaquèrent Dan Brown pour plagiat et perdirent leur procès à Londres en 2006. La paroisse de Saint-Sulpice a dû afficher que sa méridienne n'était ni une « ligne rose » ni la trace d'un temple païen. Adapté au cinéma en 2006, le roman a provoqué une vague de visites et d'essais de démystification.
-voir: l-enigme-sacree, prieure-de-sion, marie-madeleine, saint-sulpice, chapelle-de-rosslyn, rennes-le-chateau, atbash, leonard-de-vinci
+voir: l-enigme-sacree, prieure-de-sion, marie-madeleine, saint-sulpice, chapelle-de-rosslyn, rennes-le-chateau, atbash, leonard-de-vinci, evangile-de-philippe, le-pendule-de-foucault, jean-l-evangeliste
 
 @ l-enigme-sacree
 cat: textes
@@ -143,7 +143,7 @@ alias: The Holy Blood and the Holy Grail, Holy Blood Holy Grail, Baigent Leigh L
 def: Essai de Michael Baigent, Richard Leigh et Henry Lincoln (1982) qui, à partir des documents du Prieuré de Sion, soutient que Jésus eut des enfants de Marie-Madeleine et que leur lignée se perpétua chez les Mérovingiens.
 texte: Henry Lincoln, scénariste de la BBC, avait consacré à [[rennes-le-chateau|Rennes-le-Château]] des documentaires dès 1972 ; avec Baigent et Leigh, il exploite les *[[dossiers-secrets|Dossiers secrets]]* déposés à la Bibliothèque nationale par l'entourage de [[pierre-plantard|Pierre Plantard]]. Le livre joue sur le mot *San Graal*, lu *Sang réal*, « sang royal » : le [[graal|Graal]] serait la descendance de Jésus et de [[marie-madeleine|Marie-Madeleine]], réfugiée en Provence, devenue la dynastie des [[merovingiens|Mérovingiens]], protégée par les [[templiers]] et le [[prieure-de-sion|Prieuré de Sion]], dont Plantard serait l'héritier par [[dagobert-ii|Dagobert II]].
 texte: Traduit en français dès 1983, le livre eut un immense succès et fournit sa trame au *[[da-vinci-code|Da Vinci Code]]*. Les historiens ont montré que ses documents de base étaient des faux fabriqués dans les années 1960 ; en 1993, Plantard lui-même reconnut devant un juge avoir inventé le Prieuré.
-voir: prieure-de-sion, dossiers-secrets, pierre-plantard, marie-madeleine, merovingiens, da-vinci-code, rennes-le-chateau, quinotaure
+voir: prieure-de-sion, dossiers-secrets, pierre-plantard, marie-madeleine, merovingiens, da-vinci-code, rennes-le-chateau, quinotaure, evangile-de-philippe, le-pendule-de-foucault
 
 @ prophetie-de-saint-malachie
 cat: divination
@@ -168,7 +168,7 @@ cat: symboles
 nom: Neuf Preux
 alias: les Neuf Preux, Nine Worthies, neuf preuses, Vœux du paon
 def: Neuf héros proposés en modèles de chevalerie à partir de 1312 : trois païens, Hector, Alexandre et César ; trois juifs, Josué, David et Judas Maccabée ; trois chrétiens, Arthur, Charlemagne et Godefroy de Bouillon.
-texte: Le poète lorrain Jacques de Longuyon les réunit vers 1312 dans *Les Vœux du paon*, roman d'Alexandre. La série, trois fois trois, répartit les grands guerriers entre les trois âges de l'histoire sainte : la Loi naturelle, la Loi de Moïse et la Loi du Christ. Le thème couvre les tapisseries, les fresques du château de la Manta en Piémont, les jeux de cartes et les cortèges ; on lui adjoint neuf « preuses », héroïnes antiques comme Penthésilée ou Sémiramis, et l'on y ajoute parfois Bertrand du Guesclin ou [[jeanne-d-arc|Jeanne d'Arc]].
+texte: Le poète lorrain Jacques de Longuyon les réunit vers 1312 dans *Les Vœux du paon*, roman d'Alexandre. La série, trois fois trois, répartit les grands guerriers entre les trois âges de l'histoire sainte : la Loi naturelle, la Loi de [[moise|Moïse]] et la Loi du Christ. Le thème couvre les tapisseries, les fresques du château de la Manta en Piémont, les jeux de cartes et les cortèges ; on lui adjoint neuf « preuses », héroïnes antiques comme Penthésilée ou Sémiramis, et l'on y ajoute parfois Bertrand du Guesclin ou [[jeanne-d-arc|Jeanne d'Arc]].
 texte: Le choix de [[godefroy-de-bouillon|Godefroy de Bouillon]], seul personnage récent, montre le prestige de la croisade ; Viollet-le-Duc fit sculpter les Neuf Preux sur les tours du château de Pierrefonds. Le nombre [[neuf]] et le [[roi-arthur|roi Arthur]] y rejoignent la symbolique chevaleresque du [[graal|Graal]].
 voir: godefroy-de-bouillon, roi-arthur, chiffre-de-cesar, neuf, jeanne-d-arc
 
@@ -177,9 +177,9 @@ cat: symboles
 nom: Vierges noires
 alias: Vierge noire, Notre-Dame du Puy, Notre-Dame-de-Sous-Terre, Moreneta, Nigra sum sed formosa, Sara la Noire
 def: Statues romanes et gothiques de la Vierge à l'Enfant au visage et aux mains sombres, vénérées dans de grands pèlerinages ; l'ésotérisme y a vu l'héritage d'Isis ou de la « terre vierge » des alchimistes.
-texte: On en compte plus d'une centaine en France et des centaines en Europe : Notre-Dame du Puy, brûlée sous la Révolution et remplacée, Rocamadour, Marseille, Notre-Dame du Pilier et Notre-Dame-de-Sous-Terre à [[cathedrale-de-chartres|Chartres]], la Moreneta de [[montserrat|Montserrat]], Einsiedeln, Częstochowa. Leur noirceur vient parfois du bois, de la fumée des cierges ou de l'oxydation des vernis à l'argent ; d'autres furent peintes en noir dès l'origine, et l'on invoquait le *Cantique des cantiques* : « Je suis noire, mais je suis belle ». Sara, la servante noire honorée aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], est parfois rangée parmi elles.
+texte: On en compte plus d'une centaine en France et des centaines en Europe : Notre-Dame du Puy, brûlée sous la Révolution et remplacée, Rocamadour, Marseille, Notre-Dame du Pilier et Notre-Dame-de-Sous-Terre à [[cathedrale-de-chartres|Chartres]], la Moreneta de [[montserrat|Montserrat]], Einsiedeln, Częstochowa. Leur noirceur vient parfois du bois, de la fumée des cierges ou de l'oxydation des vernis à l'argent ; d'autres furent peintes en noir dès l'origine, et l'on invoquait le *[[cantique-des-cantiques|Cantique des cantiques]]* : « Je suis noire, mais je suis belle ». Sara, la servante noire honorée aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], est parfois rangée parmi elles.
 texte: Depuis le XIXe siècle, des auteurs les rattachent au culte d'[[isis|Isis]], de Cybèle ou de la Diane d'Éphèse, aux déesses mères de la terre, ou y voient avec [[fulcanelli|Fulcanelli]] l'image de la matière première, la terre vierge et noire de l'œuvre. Ces filiations, séduisantes, ne sont pas démontrées par l'histoire des statues, presque toutes postérieures à l'an mil.
-voir: isis, cathedrale-de-chartres, montserrat, saintes-maries-de-la-mer, materia-prima, nigredo
+voir: isis, cathedrale-de-chartres, montserrat, saintes-maries-de-la-mer, materia-prima, nigredo, sara-la-kali, cantique-des-cantiques
 
 @ sacre-coeur
 cat: symboles
@@ -209,16 +209,16 @@ texte: Traduit en latin, en éthiopien, en arménien, en syriaque, il fut mis au
 voir: bestiaire, pelican, phenix, licorne, aigle, lion-symbole, elephant, cerf
 
 @ le-comte-de-gabalis
-cat: textes
+cat: litterature
 nom: Le Comte de Gabalis
 alias: Comte de Gabalis, Entretiens sur les sciences secrètes, abbé de Villars, sylphes, gnomes, ondins, salamandres
 def: Livre de l'abbé de Montfaucon de Villars (1670), entretiens ironiques avec un cabaliste qui révèle les peuples élémentaires — sylphes, gnomes, nymphes et salamandres — désireux de s'unir aux humains.
 texte: Un mystérieux comte de Gabalis, maître de la « cabale », explique au narrateur que les quatre éléments sont peuplés d'êtres mortels : les sylphes de l'air, les gnomes de la terre, les nymphes ou ondins de l'eau, les [[salamandre|salamandres]] du feu, doctrine tirée de [[paracelse|Paracelse]]. Ils peuvent gagner une âme immortelle en épousant un sage, qui doit pour cela renoncer à l'amour des mortels ; les dieux païens, les fées et les incubes n'étaient que des [[elementaux|élémentaux]] mal compris. Son auteur, Henri de Montfaucon, dit l'abbé de Villars (vers 1638-1673), mourut assassiné trois ans plus tard.
 texte: Satire ou initiation déguisée, le livre est lu des deux façons : les occultistes et les [[rose-croix]] l'ont pris au sérieux, tandis que les lettrés y trouvaient un conte. Alexander Pope en tira les sylphes de *La Boucle de cheveux enlevée* (1712), et Anatole France son cabaliste d'Astarac dans *La Rôtisserie de la reine Pédauque* (1893).
-voir: elementaux, salamandre, paracelse, rose-croix, sirene, incube-et-succube
+voir: elementaux, salamandre, paracelse, rose-croix, sirene, incube-et-succube, le-pot-d-or
 
 @ sethos
-cat: textes
+cat: litterature
 nom: Séthos
 alias: Séthos, histoire ou vie tirée des monuments anecdotes de l'ancienne Égypte, abbé Terrasson, épreuves des éléments
 def: Roman de l'abbé Jean Terrasson (1731) qui raconte l'initiation d'un prince égyptien sous les pyramides par les épreuves du feu, de l'eau et de l'air ; il a fourni à la franc-maçonnerie et à *La Flûte enchantée* leurs « mystères égyptiens ».
@@ -245,7 +245,7 @@ texte: [[giuseppe-garibaldi|Garibaldi]] en devient le grand hiérophante lors de
 voir: cagliostro, rite-de-memphis-misraim, sethos, crata-repoa, egyptosophie, giuseppe-garibaldi, lyon
 
 @ le-roman-de-la-momie
-cat: textes
+cat: litterature
 nom: Le Roman de la momie
 alias: Roman de la momie, Tahoser, Lord Evandale, docteur Rumphius
 def: Roman de Théophile Gautier (1858) qui commence par la découverte d'un tombeau inviolé dans la Vallée des rois et ressuscite, d'après un papyrus, l'amour d'une Égyptienne pour un pharaon.
@@ -256,7 +256,7 @@ source: Théophile Gautier, *Le Roman de la momie*, 1858, prologue, éd. Fasquel
 voir: vallee-des-rois, momie, egyptomanie, malediction-du-pharaon
 
 @ l-homme-qui-voulut-etre-roi
-cat: textes
+cat: litterature
 nom: L'Homme qui voulut être roi
 alias: The Man Who Would Be King, Dravot, Carnehan, Kafiristan
 def: Nouvelle de Rudyard Kipling (1888) où deux aventuriers anglais, francs-maçons de hasard, se font rois du Kafiristan en découvrant que ses prêtres connaissent les signes de la maçonnerie.

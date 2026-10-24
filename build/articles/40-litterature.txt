@@ -1,0 +1,315 @@
+# Version 1.6 : la littérature ésotérique — romans, poèmes, contes et drames
+# où passent l'initiation, la magie, la kabbale et l'alchimie ; Gaston Leroux
+# et les Bohémiens des Saintes-Maries.
+
+@ histoire-de-la-reine-du-matin
+cat: litterature
+nom: Histoire de la reine du Matin et de Soliman, prince des génies
+alias: Histoire de la reine du Matin, Adoniram, Balkis, Soliman, mer d'airain, Hud-Hud, Voyage en Orient
+dates: 1851
+an: 1851
+def: Conte de Gérard de Nerval, inséré dans son *Voyage en Orient* (1851), qui raconte l'amour de la reine de Saba et de l'architecte du Temple, Adoniram, descendant de Caïn, assassiné par trois compagnons : la version romantique de la légende d'Hiram.
+texte: [[gerard-de-nerval|Nerval]] le donne pour un récit entendu d'un conteur dans un café de Constantinople. Balkis, la [[reine-de-saba|reine de Saba]], vient à Jérusalem pour épouser [[salomon|Soliman]], qui l'éblouit de sa sagesse mais la lasse de son orgueil ; elle s'éprend de l'architecte du Temple, Adoniram, génie sombre et solitaire. Sa huppe Hud-Hud, qui ne doit obéir qu'à l'époux promis à la reine, refuse le poing du roi et vient se poser sur celui d'Adoniram, qui trace dans l'air le signe du Tau. La fonte de la mer d'airain, sabotée par trois compagnons jaloux, tourne au désastre ; dans la nuit, Adoniram est conduit au centre de la terre par son ancêtre [[tubal-cain|Tubal-Kaïn]], et y découvre la race du feu, issue de [[cain-et-abel|Caïn]] et d'Éblis, que persécute Adonaï.
+texte: Les trois compagnons, Phanor, Amrou et Méthousaël, assassinent l'architecte pour lui arracher le mot des maîtres ; Soliman fait rechercher le corps, que l'on retrouve sous une branche d'[[acacia]]. Nerval a puisé dans les rituels maçonniques, où l'architecte s'appelle parfois Adonhiram ([[legende-d-hiram|légende d'Hiram]]), et dans les légendes arabes de Soliman et des génies. Gounod en a tiré en 1862 son opéra *La Reine de Saba*.
+extrait: — Nous l’appelons Hud-Hud, répondit-elle. Le trisaïeul de cet oiseau, qui vit longtemps, a été autrefois, dit-on, rapporté par des Malais, d’une contrée lointaine qu’ils ont seuls entrevue et que nous ne connaissons plus. C’est un animal très-utile pour diverses commissions aux habitants et aux esprits de l’air.
+source: Gérard de Nerval, *Voyage en Orient*, « Histoire de la reine du Matin et de Soliman, prince des génies », chap. II (édition de 1884) | ws Voyage en Orient (Nerval)/Les conteurs/II
+voir: gerard-de-nerval, reine-de-saba, salomon, legende-d-hiram, tubal-cain, cain-et-abel, huppe, acacia, construction-du-temple
+
+@ la-reine-du-sabbat
+cat: litterature
+nom: La Reine du Sabbat
+alias: Reine du Sabbat, The Midnight Lady, grand Coësre, Giska, Austrasie, Wolfburg, Rynaldo
+dates: 1910
+an: 1910
+def: Roman de Gaston Leroux paru en feuilleton dans *Le Matin* en 1910 : dans la crypte des Saintes-Maries-de-la-Mer, les Bohémiens élisent leur roi et sacrent une reine au cours d'une nuit d'orgie ; puis l'intrigue gagne un empire imaginaire calqué sur l'Autriche.
+texte: Après un prologue à Paris, la première partie, « Les secrets de la crypte », conduit le lecteur aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]] pendant le pèlerinage de mai. Des tribus venues de toute l'Europe se rassemblent autour de [[sara-la-kali|sainte Sara]], la patronne des Gitans ; dans la crypte de l'église, parmi les cierges et les litanies, elles élisent tous les cinq ans leur roi, le « grand Coësre » — le titre que l'[[argot]] du XVIIe siècle donnait au roi des gueux —, et la reine élue au cours d'une nuit d'orgie y reçut le nom de « Reine du Sabbat ». On y croise un horloger parisien, un jeune géant, un nain à trois bras et une sorcière de la Forêt-Noire, Giska.
+texte: Le roman gagne ensuite l'Austrasie, empire imaginaire gouverné par la dynastie des Wolfburg, transparente image de l'Autriche des Habsbourg : la Hofburg, le drame de Mayerling, les complots des nationalités et le rêve d'une confédération des peuples du Danube où les Tziganes auraient leur place. Le livre paraît en volume chez Fayard en 1913. Leroux s'en souviendra en 1922, dans *[[rouletabille-chez-les-bohemiens|Rouletabille chez les Bohémiens]]*, où l'on évoque « la fameuse année où fut sacrée la Reine du Sabbat ». Une traduction anglaise de Hannaford Bennett, *The Midnight Lady*, paraît à Londres en 1930.
+voir: gaston-leroux, saintes-maries-de-la-mer, sara-la-kali, rouletabille-chez-les-bohemiens, sabbat, argot, le-tarot-des-bohemiens
+
+@ rouletabille-chez-les-bohemiens
+cat: litterature
+nom: Rouletabille chez les Bohémiens
+alias: Rouletabille chez les bohémiens, Livre des Ancêtres, Callista, Sever-Turn, Odette de Lavardens, la Pieuvre
+dates: 1922
+an: 1922
+def: « Cinéroman » de Gaston Leroux paru dans *Le Matin* en 1922 : de la Camargue, à la veille du pèlerinage des Saintes-Maries-de-la-Mer, jusqu'au-delà des Balkans, Rouletabille poursuit les Bohémiens qui ont enlevé Odette, en qui ils voient la reine promise.
+texte: À Paris, le reporter Joseph Rouletabille, le héros de [[gaston-leroux|Gaston Leroux]], apprend que son ami Jean de Santierne, qui va épouser Odette de Lavardens, vient de quitter sa maîtresse, Callista, une bohémienne que tous deux avaient arrachée deux ans plus tôt, en Camargue, à un Gitan qui voulait l'emmener. Callista et Olajaï, le domestique bohémien de Rouletabille, sont partis pour les [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], où les Gitans affluent vers la crypte de [[sara-la-kali|sainte Sara]] à l'approche du 24 mai ; au château de Lavardens, le père d'Odette est assassiné et la jeune fille enlevée dans la nuit. Un vieux livre, le *Livre des Ancêtres*, annonce qu'« une reine naîtra à la race, ayant sur l'épaule gauche le signe de la couronne », née d'une bohémienne et d'un étranger : les Bohémiens tiennent Odette pour cette reine et l'emmènent jusqu'à leur cité sainte, Sever-Turn, au-delà des Balkans.
+texte: Écrit en même temps que le film en dix épisodes qu'Henri Fescourt en tire pour la Société des Cinéromans, le roman paraît dans *Le Matin* du 4 octobre au 14 décembre 1922, puis en volume chez Tallandier en 1923. Leroux y fait allusion à son roman de 1910, *[[la-reine-du-sabbat|La Reine du Sabbat]]*, et y réunit tout ce que l'imaginaire de son temps attachait aux Bohémiens : un peuple « le plus vieux du monde », venu de l'[[atlantide|Atlantide]] et réfugié à Sever-Turn après la ruine de Babylone, un livre sacré, des prophéties et des sorcières.
+extrait: — Après, tu sais que tous les ans le 24 mai, les bohémiens fêtent la sainte Sarah aux Saintes-Maries, dans la crypte de l’église qui a été élevée à l’endroit même où débarquèrent, d’après la légende, les saintes Maries et Lazare et leur suivante Sarah… (…) — À ceci… Alari vient de me dire que jamais la Camargue, à pareille époque, n’a été aussi infestée de gitanes, de zingaras, de gypsies… Il en est venu de partout, du Nord et du Midi, d’Italie, d’Espagne et de plus loin encore ! Le bruit court dans le pays que le 24 mai, cette année, correspond à une prophétie d’où toute la race attendrait de grandes choses. Cela posé, tu comprendras que pour une fanatique de sainte Sarah, comme Callista… (…) « Alari me disait qu’on n’avait pas vu ça depuis la fameuse année où fut sacrée la Reine du Sabbat… »
+source: Gaston Leroux, *Rouletabille chez les Bohémiens*, 1922, chap. I, IV, « Le Midi bouge et la Camargue aussi », *Le Matin*, 1922 | ws Rouletabille chez les bohémiens/01/IV
+voir: gaston-leroux, la-reine-du-sabbat, saintes-maries-de-la-mer, sara-la-kali, le-tarot-des-bohemiens
+
+@ sara-la-kali
+cat: figures
+nom: Sara la Kali
+alias: sainte Sara, Sara la Noire, Sara e Kali, patronne des Gitans, servante des saintes Maries
+dates: figure légendaire ; mentionnée à partir de 1521
+an: 1521
+def: Sainte légendaire vénérée dans la crypte de l'église des Saintes-Maries-de-la-Mer, servante noire des saintes Maries selon la tradition provençale, devenue la patronne des Gitans, qui l'appellent Sara e Kali, « Sara la Noire ».
+texte: Les récits médiévaux sur l'arrivée des saintes Maries en Provence ne la connaissent pas : Sara n'apparaît qu'en 1521, dans *La Légende des saintes Maries* de Vincent Philippon, comme la servante de Marie Jacobé et de Marie Salomé, venue avec elles de Palestine dans une barque sans voile. Une autre version, que répandit au XXe siècle le marquis Folco de Baroncelli, fait d'elle une femme du pays, une Gitane qui aurait accueilli les saintes sur le rivage. Sa statue noire, dans la crypte, a été rapprochée des [[vierges-noires|Vierges noires]], et son surnom de *Kali* de la déesse indienne Kâlî, en souvenir de l'origine indienne des Roms, une hypothèse que rien ne prouve.
+texte: La présence des Gitans au pèlerinage n'est attestée qu'au milieu du XIXe siècle. Ils veillent la nuit dans la crypte, où l'on montre aussi des autels romains, et depuis 1935 ils portent sa statue jusqu'à la mer le 24 mai, la veille de la procession des saintes. [[gaston-leroux|Gaston Leroux]] a fait de sa crypte le théâtre de *[[la-reine-du-sabbat|La Reine du Sabbat]]* (1910) et de *[[rouletabille-chez-les-bohemiens|Rouletabille chez les Bohémiens]]* (1922).
+repere: 1521 — Vincent Philippon la nomme pour la première fois, comme servante des saintes Maries.
+repere: XIXe siècle — La présence des Gitans au pèlerinage est attestée.
+repere: 1910 — Gaston Leroux place dans sa crypte le début de *La Reine du Sabbat*.
+repere: 1935 — Première procession de sa statue jusqu'à la mer.
+voir: saintes-maries-de-la-mer, vierges-noires, marie-madeleine, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, le-tarot-des-bohemiens
+
+@ le-tarot-des-bohemiens
+cat: textes
+nom: Le Tarot des Bohémiens
+alias: Tarot des Bohémiens, clef absolue de la science occulte, The Tarot of the Bohemians, tarot et Gitans, Jean-Alexandre Vaillant, Les Rômes
+dates: 1889
+an: 1889
+def: Livre de Papus (1889) qui présente le tarot comme la « clef absolue de la science occulte », livre sacré de l'Égypte conservé et transmis par les Bohémiens : la forme achevée d'un mythe né au XIXe siècle.
+texte: L'idée d'un tarot égyptien vient de [[court-de-gebelin|Court de Gébelin]], en 1781 ; celle des Bohémiens porteurs de ce livre de Thot doit beaucoup à Jean-Alexandre Vaillant, qui publie en 1857 *Les Rômes, histoire vraie des vrais Bohémiens* et fréquente [[eliphas-levi|Éliphas Lévi]]. On appelait alors « Égyptiens » ou « Bohémiens » les Tsiganes arrivés en Europe au XVe siècle, et la diseuse de bonne aventure était devenue l'image même de la cartomancienne ([[cartomancie]]).
+texte: [[papus|Papus]] systématise ces idées en 1889 : il dispose les vingt-deux arcanes majeurs et les cinquante-six mineurs selon le [[tetragramme|tétragramme]], les met en correspondance avec les lettres hébraïques, les nombres et les planètes, et reproduit les arcanes redessinés par [[oswald-wirth|Oswald Wirth]]. Traduit en anglais dès 1892, le livre a fixé pour longtemps l'image du tarot ésotérique. Les historiens ont montré que le tarot est né dans l'Italie du XVe siècle, comme jeu de cartes, et que l'origine égyptienne et bohémienne est une invention de la fin du XVIIIe et du XIXe siècle.
+voir: papus, tarot, court-de-gebelin, oswald-wirth, eliphas-levi, cartomancie, tarot-de-marseille, sara-la-kali, rouletabille-chez-les-bohemiens
+
+@ aurelia
+cat: litterature
+nom: Aurélia
+alias: Aurélia ou le Rêve et la Vie, le rêve est une seconde vie, Memorabilia
+dates: 1855
+an: 1855
+def: Dernier récit de Gérard de Nerval, publié en 1855 dans la *Revue de Paris*, où le poète transcrit ses crises de folie comme une descente aux enfers et une initiation : « Le rêve est une seconde vie ».
+texte: [[gerard-de-nerval|Nerval]] y raconte, à la première personne, la maladie qui l'a fait interner à plusieurs reprises : la perte d'une femme aimée, Aurélia, des rêves où il voit sa famille et ses ancêtres, le monde des esprits, les cataclysmes du globe et le combat des Élohim, une nuit où il croit avoir commis un sacrilège. Il se place lui-même dans la lignée de [[emanuel-swedenborg|Swedenborg]], de l'*Âne d'or* d'[[apulee|Apulée]] et de la *[[divine-comedie|Divine Comédie]]* : la folie devient une traversée initiatique, que le récit conclut par les « Memorabilia », visions de réconciliation et de pardon.
+texte: La première partie paraît le 1er janvier 1855 ; le 26 janvier, Nerval est retrouvé pendu rue de la Vieille-Lanterne, et la seconde partie paraît après sa mort. Le récit a nourri le romantisme, le [[symbolisme]] et le [[surrealisme|surréalisme]], qui voyaient en Nerval leur précurseur.
+extrait: Le rêve est une seconde vie. Je n’ai pu percer sans frémir ces portes d’ivoire ou de corne qui nous séparent du monde invisible. Les premiers instants du sommeil sont l’image de la mort ; un engourdissement nébuleux saisit notre pensée, et nous ne pouvons déterminer l’instant précis où le moi, sous une autre forme, continue l’œuvre de l’existence. C’est un souterrain vague qui s’éclaire peu à peu, et où se dégagent de l’ombre et de la nuit les pâles figures gravement immobiles qui habitent le séjour des limbes. Puis le tableau se forme, une clarté nouvelle illumine et fait jouer ces apparitions bizarres : — le monde des Esprits s’ouvre pour nous. ¶ Swedenborg appelait ces visions Memorabilia ; il les devait à la rêverie plus souvent qu’au sommeil ; l’Ane d’or d’Apulée, la Divine Comédie du Dante, sont les modèles poétiques de ces études de l’âme humaine.
+source: Gérard de Nerval, *Aurélia ou le Rêve et la Vie*, première partie, chap. I, *Revue de Paris*, 1855 | ws Aurélia (1855, Revue de Paris)
+voir: gerard-de-nerval, les-chimeres, emanuel-swedenborg, divine-comedie, apulee, oniromancie, surrealisme
+
+@ les-chimeres
+cat: litterature
+nom: Les Chimères
+alias: Chimères, El Desdichado, Artémis, Delfica, Vers dorés, Le Christ aux Oliviers, Soleil noir de la Mélancolie
+dates: 1854
+an: 1854
+def: Douze sonnets de Gérard de Nerval publiés en 1854 à la suite des *Filles du feu*, d'une obscurité célèbre, où se mêlent mythologie, ésotérisme et souvenirs personnels ; on y a cherché des clés alchimiques et les arcanes du tarot.
+texte: [[gerard-de-nerval|Nerval]] y rassemble *El Desdichado*, *Myrtho*, *Horus*, *Antéros*, *Delfica*, *Artémis*, les cinq sonnets du *Christ aux Oliviers* et les *Vers dorés*, où il reprend la doctrine pythagoricienne de l'âme universelle : « Tout est sensible ! ». Il écrivait que ces sonnets perdraient de leur charme à être expliqués, « si la chose était possible ». Le syncrétisme y règne : Isis et la Vierge, les Élohim, Antéros, fils de la terre, la Sibylle, le prince d'Aquitaine.
+texte: *El Desdichado* — « le déshérité », nom tiré de l'*Ivanhoé* de [[walter-scott|Walter Scott]] — a reçu toutes les lectures. Le « Soleil noir de la Mélancolie » rappelle la *[[melencolia|Melencolia]]* de Dürer et le [[soleil-noir|soleil noir]] des alchimistes ; la « tour abolie » et l'« étoile » ont été rapprochées des arcanes de la [[arcane-maison-dieu|Maison Dieu]] et de l'[[arcane-etoile|Étoile]] ; Lusignan renvoie à [[melusine|Mélusine]], ancêtre légendaire de la famille. Le poème est sans doute le sonnet le plus commenté de la langue française.
+extrait: Je suis le ténébreux, — le veuf, — l’inconsolé, // Le prince d’Aquitaine à la tour abolie : // Ma seule étoile est morte, — et mon luth constellé // Porte le Soleil noir de la Mélancolie. ¶ Dans la nuit du tombeau, toi qui m’as consolé, // Rends-moi le Pausilippe et la mer d’Italie, // La fleur qui plaisait tant à mon cœur désolé, // Et la treille où le pampre à la rose s’allie. ¶ Suis-je Amour ou Phébus ?… Lusignan ou Biron ? // Mon front est rouge encor du baiser de la reine ; // J’ai rêvé dans la grotte où nage la syrène… ¶ Et j’ai deux fois vainqueur traversé l’Achéron : // Modulant tour à tour sur la lyre d’Orphée // Les soupirs de la sainte et les cris de la fée.
+source: Gérard de Nerval, « El Desdichado », *Les Chimères*, 1854 (éd. Michel Lévy, 1856) | ws Les Chimères/El Desdichado
+voir: gerard-de-nerval, aurelia, melencolia, soleil-noir, arcane-etoile, arcane-maison-dieu, melusine, walter-scott, pythagore
+
+@ arthur-rimbaud
+cat: figures
+nom: Arthur Rimbaud
+alias: Rimbaud, Voyelles, Alchimie du verbe, Une saison en enfer, Le Bateau ivre, lettre du Voyant, Je est un autre
+dates: 1854 – 1891
+an: 1854
+def: Poète français qui voulut se faire « voyant » par « un long, immense et raisonné dérèglement de tous les sens », auteur de *Voyelles* et de l'« Alchimie du verbe », avant d'abandonner la poésie à vingt ans.
+texte: Né à Charleville en 1854, il écrit dès quinze ans des poèmes d'une virtuosité sans exemple. En mai 1871, dans les lettres dites « du Voyant », il proclame : « Je est un autre », et assigne au poète la tâche de se faire voyant pour arriver à l'inconnu. Il rejoint Verlaine à Paris, écrit *Le Bateau ivre*, vit avec lui une liaison tumultueuse qui finit à Bruxelles, en 1873, par un coup de revolver. Il publie la même année *Une saison en enfer*, puis compose les *Illuminations*, et cesse d'écrire ; il devient négociant à Aden et au Harar, et meurt à Marseille en 1891.
+texte: Le sonnet *Voyelles* — « A noir, E blanc, I rouge, U vert, O bleu » — a été lu comme une synesthésie, un souvenir d'abécédaire, un programme alchimique ou kabbalistique, et « l'alchimie » y est nommée. Dans l'« Alchimie du verbe » d'*Une saison en enfer*, Rimbaud raconte qu'il a « inventé la couleur des voyelles » et rêvé d'un verbe poétique accessible à tous les sens. Les occultistes, puis les [[surrealisme|surréalistes]], ont vu en lui un voyant au sens propre, et l'on a souvent cherché dans *Voyelles* les traces de lectures d'[[eliphas-levi|Éliphas Lévi]], sans preuve décisive.
+repere: 1854 — Naissance à Charleville, le 20 octobre.
+repere: 1871 — Lettres « du Voyant » ; *Le Bateau ivre*.
+repere: 1873 — *Une saison en enfer*, avec l'« Alchimie du verbe ».
+repere: 1883 — Verlaine révèle *Voyelles* dans *Les Poètes maudits*.
+repere: 1891 — Mort à Marseille, le 10 novembre.
+extrait: A noir, E blanc, I rouge, U vert, O bleu, voyelles, // Je dirai quelque jour vos naissances latentes. // A, noir corset velu des mouches éclatantes // Qui bombillent autour des puanteurs cruelles, ¶ Golfe d’ombre ; E, candeur des vapeurs et des tentes, // Lance des glaciers fiers, rois blancs, frissons d’ombelles ; // I, pourpres, sang craché, rire des lèvres belles // Dans la colère ou les ivresses pénitentes ; ¶ U, cycles, vibrements divins des mers virides, // Paix des pâtis semés d’animaux, paix des rides // Que l’alchimie imprime aux grands fronts studieux ; ¶ O, suprême Clairon plein des strideurs étranges, // Silences traversés des Mondes et des Anges : // — O l’Oméga, rayon violet de Ses Yeux !
+source: Arthur Rimbaud, « Voyelles », *Poésies complètes*, Léon Vanier, 1895 | ws Poésies (Rimbaud)/éd. Vanier, 1895/Voyelles
+voir: charles-baudelaire, correspondances, eliphas-levi, symbolisme, surrealisme, langue-des-oiseaux
+
+@ le-pot-d-or
+cat: litterature
+nom: Le Pot d'or
+alias: Le Vase d'or, Der goldne Topf, Lindhorst, Serpentina, Anselme, salamandre, Atlantide
+dates: 1814
+an: 1814
+def: Conte d'E. T. A. Hoffmann (1814) où un étudiant de Dresde, Anselme, s'éprend d'un petit serpent d'or, fille de l'archiviste Lindhorst, qui est en vérité une salamandre exilée de l'Atlantide : un récit d'initiation au monde des esprits élémentaires.
+texte: Le jour de l'Ascension, l'étudiant Anselme, maladroit et rêveur, entend chanter trois petits serpents d'or dans un sureau et tombe amoureux de l'un d'eux, Serpentina. Engagé comme copiste par l'archiviste Lindhorst, il recopie des manuscrits en caractères inconnus ; Lindhorst lui révèle qu'il est une [[salamandre]], esprit du feu, banni du royaume de l'Atlantide pour avoir aimé un serpent vert, et qu'il ne retrouvera sa patrie que lorsque ses trois filles auront épousé des jeunes gens au cœur d'enfant. Une vieille sorcière, marchande de pommes, lutte contre lui ; Anselme, qui a douté, est enfermé dans une bouteille de cristal, puis délivré, et part vivre avec Serpentina à l'[[atlantide|Atlantide]].
+texte: Hoffmann y mêle les esprits élémentaires du *[[le-comte-de-gabalis|Comte de Gabalis]]*, les mythes de la [[naturphilosophie]] romantique, le magnétisme et l'ironie bourgeoise ; le récit de Lindhorst, où le lis de feu s'unit au jeune Phosphorus, est un véritable mythe cosmogonique. Le conte, l'un des modèles du fantastique, a fasciné Nerval, Baudelaire et les [[surrealisme|surréalistes]].
+extrait: Mais au milieu de la vallée était une colline sombre, qui se levait inégale comme la poitrine des hommes lorsqu’elle est gonflée par l’ardent désir. Du fond de l’abîme des vapeurs montaient en roulant et en formant des boules rassemblées en masses immenses, et elles s’efforçaient de voiler en ennemies le visage paternel. Mais l’orage les appelait plus loin et courait en mugissant parmi elles, et lorsque le rayon pur touchait de nouveau la sombre colline, alors un magnifique lis de feu s’en détachait rapidement. Les belles feuilles s’ouvraient comme des lèvres charmantes pour aspirer les doux baisers du soleil. ¶ Alors une brillante lumière courut dans la vallée : c’était le jeune Phosphorus ; la fleur du lis de feu le vit, et elle murmura saisie d’un ardent désir : ¶ — Beau jeune homme, sois à moi pour toujours, car je t’aime, et si tu me délaissais il me faudrait mourir.
+source: E. T. A. Hoffmann, *Le Pot d'or*, troisième veillée, trad. Émile de La Bédollière, Georges Barba, 1871 | ws Le Pot d’or/Chapitre 3
+voir: le-comte-de-gabalis, salamandre, atlantide, naturphilosophie, novalis, elementaux, le-serpent-vert
+
+@ frankenstein
+cat: litterature
+nom: Frankenstein
+alias: Frankenstein ou le Prométhée moderne, Victor Frankenstein, la créature, Mary Shelley, Villa Diodati, Prométhée moderne
+dates: 1818
+an: 1818
+def: Roman de Mary Shelley (1818) où le jeune Victor Frankenstein, nourri d'Agrippa, de Paracelse et d'Albert le Grand, puis de chimie moderne, donne la vie à une créature qu'il abandonne : le mythe de Prométhée devenu celui de la science sans conscience.
+texte: Le livre naît en juin 1816, au bord du lac Léman, à la villa Diodati, où Lord Byron propose à ses hôtes, Percy Shelley, Mary Godwin et John Polidori, d'écrire chacun une histoire de fantômes. Mary Shelley, qui n'a pas dix-neuf ans, publie le roman anonymement en 1818 et le révise en 1831. Victor Frankenstein y raconte que sa vocation est née de la lecture de [[cornelius-agrippa|Cornelius Agrippa]], puis de [[paracelse|Paracelse]] et d'[[albert-le-grand|Albert le Grand]] : il cherchait la [[pierre-philosophale|pierre philosophale]] et l'[[elixir-de-longue-vie|élixir de vie]] avant que ses maîtres d'Ingolstadt ne le tournent vers la chimie et le galvanisme.
+texte: Le sous-titre, *le Prométhée moderne*, renvoie au titan qui façonna les hommes et leur donna le feu ([[promethee|Prométhée]]). La créature, sans nom, apprend à lire dans *Le [[le-paradis-perdu|Paradis perdu]]* de Milton et s'y reconnaît tantôt en Adam, tantôt en Satan. Le roman, que l'on a rapproché de la légende du [[golem]], a fait de l'alchimiste un savant moderne et de l'homme artificiel un mythe universel.
+extrait: When I was thirteen years of age, we all went on a party of pleasure to the baths near Thonon: the inclemency of the weather obliged us to remain a day confined to the inn. In this house I chanced to find a volume of the works of Cornelius Agrippa. I opened it with apathy; the theory which he attempts to demonstrate, and the wonderful facts which he relates, soon changed this feeling into enthusiasm. A new light seemed to dawn upon my mind; and, bounding with joy, I communicated my discovery to my father. My father looked carelessly at the titlepage of my book, and said, "Ah! Cornelius Agrippa! My dear Victor, do not waste your time upon this; it is sad trash." (…) When I returned home, my first care was to procure the whole works of this author, and afterwards of Paracelsus and Albertus Magnus.
+source: Mary Shelley, *Frankenstein, or the Modern Prometheus*, chap. II, édition revue de 1831 (texte original anglais) | wsen Frankenstein, or the Modern Prometheus (Revised Edition, 1831)/Chapter 2
+voir: promethee, cornelius-agrippa, paracelse, albert-le-grand, golem, le-paradis-perdu, homoncule, roman-gothique
+
+@ vathek
+cat: litterature
+nom: Vathek
+alias: Vathek, conte arabe, Eblis, Iblis, palais du feu souterrain, William Beckford, Nouronihar, le Giaour
+dates: 1787
+an: 1787
+def: Conte oriental écrit en français par l'Anglais William Beckford en 1782 et publié en 1787 : un calife avide de puissance et de savoir interdit, guidé par un mystérieux Giaour, descend dans le palais souterrain d'Eblis, où il est damné.
+texte: Le calife Vathek, petit-fils d'Haroun al-Rachid, possède un regard qui tue et une curiosité sans limites ; il a fait bâtir cinq palais consacrés aux plaisirs des sens et une tour pour interroger les astres. Un Giaour, marchand venu de l'Inde, lui promet les trésors des sultans préadamites s'il renie sa religion ; poussé par sa mère Carathis, magicienne qui sacrifie des enfants, il multiplie les crimes et entraîne la belle Nouronihar jusqu'aux ruines d'Istakhar. Là s'ouvre le palais du feu souterrain : Eblis y règne au milieu de damnés qui errent sans fin, la main sur leur cœur en flammes.
+texte: Beckford, jeune millionnaire passionné d'Orient, écrit le conte en 1782 ; une traduction anglaise faite à son insu paraît en 1786, avant la version française de Lausanne, datée de 1787. Byron et Poe l'ont admiré, Mallarmé l'a réédité en 1876, et le palais d'Eblis est resté le modèle des enfers de la littérature fantastique. L'Eblis de Beckford, figure du [[satanisme|Satan]] romantique, se retrouve dans l'*[[histoire-de-la-reine-du-matin|Histoire de la reine du Matin]]* de Nerval.
+extrait: Vathek et Nouronihar se firent jour à travers ces draperies, et entrèrent dans un vaste tabernacle tapissé de peaux de léopards. Un nombre infini de vieillards à longue barbe, d’Afrites en complète armure, étaient prosternés devant les degrés d’une estrade, au haut de laquelle, sur un globe de feu, paraissait assis le redoutable Eblis. Sa figure était celle d’un jeune homme de vingt ans, dont les traits nobles et réguliers semblaient avoir été flétris par des vapeurs malignes. Le désespoir et l’orgueil étaient peints dans ses grands yeux, et sa chevelure ondoyante tenait encore un peu de celle d’un ange de lumière. Dans sa main délicate, mais noircie par la foudre, il tenait le sceptre d’airain qui fait trembler le monstre Ouranbad, les Afrites, et toutes les puissances de l’abîme.
+source: William Beckford, *Vathek*, 1787, éd. Stéphane Mallarmé, Perrin, 1893 | ws Vathek/Édition Mallarmé 1893/Vathek
+voir: roman-gothique, satanisme, histoire-de-la-reine-du-matin, demonologie
+
+@ joseph-balsamo
+cat: litterature
+nom: Joseph Balsamo
+alias: Mémoires d'un médecin, mont Tonnerre, L. P. D., Lilia pedibus destrue, Grand Copte, Lorenza Feliciani
+dates: 1846 – 1848
+an: 1846
+def: Roman d'Alexandre Dumas, écrit avec Auguste Maquet (1846-1848), où Cagliostro, sous le nom de Joseph Balsamo, chef suprême d'une société secrète universelle, prépare la Révolution française ; le premier volet des *Mémoires d'un médecin*.
+texte: Le roman s'ouvre en 1770 sur le mont Tonnerre, près de Worms : dans les ruines d'un château, une assemblée de francs-maçons et d'illuminés venus de toute l'Europe — [[emanuel-swedenborg|Swedenborg]] y siège — attend l'envoyé annoncé, qui portera sur la poitrine les trois lettres L. P. D. C'est [[cagliostro|Balsamo]] : il se fait reconnaître, prophétise la chute des trônes et révèle la devise, *Lilia pedibus destrue*, « foule aux pieds les lis », c'est-à-dire la monarchie des Bourbons. À Paris, il fréquente la cour de Louis XV, magnétise sa femme Lorenza, voyante dans son sommeil, et cherche avec le vieil Althotas l'élixir de longue vie.
+texte: Dumas donne ainsi forme romanesque à la thèse du complot maçonnique de l'abbé [[augustin-barruel|Barruel]], qui faisait des sociétés secrètes les auteurs de la Révolution, tout en faisant de Balsamo un héros prométhéen. Le cycle se poursuit avec *Le Collier de la reine*, *Ange Pitou* et *La Comtesse de Charny*, et a fixé pour longtemps l'image d'un Cagliostro maître des [[illumines-de-baviere|Illuminés]].
+extrait: — Il portera sur la poitrine, dit le chef suprême, une plaque de diamant, et sur cette plaque étincelleront les trois premières lettres d’une devise connue de lui seul. ¶ — Quelles sont ces trois lettres ? — L. P. D. ¶ L’étranger écarta d’un mouvement rapide sa redingote et son gilet, et sur sa chemise de fine batiste apparut, resplendissante comme une étoile de flamme, la plaque de diamant sur laquelle flamboyaient les trois lettres de rubis. ¶ — LUI ! s’écria le président épouvanté ; serait-ce lui ?
+source: Alexandre Dumas, *Joseph Balsamo*, 1846-1848, introduction, chap. II, « Celui qui est », Michel Lévy, 1872 | ws Joseph Balsamo/Introduction II
+voir: cagliostro, augustin-barruel, illumines-de-baviere, illuminisme, magnetisme-animal, emanuel-swedenborg, elixir-de-longue-vie
+
+@ axel
+cat: litterature
+nom: Axël
+alias: Axël d'Auërsperg, Maître Janus, Sara de Maupers, le monde occulte, Vivre ? les serviteurs feront cela pour nous
+dates: 1890
+an: 1890
+def: Drame de Villiers de l'Isle-Adam publié en 1890, après la mort de l'auteur : dans son burg de la Forêt-Noire, Axël, élève du mage Janus, découvre un trésor et l'amour, puis choisit la mort : « Vivre ? les serviteurs feront cela pour nous ».
+texte: Sara de Maupers, novice qui a refusé de prononcer ses vœux, s'enfuit du couvent avec le secret d'un trésor caché. Dans son burg de la Forêt-Noire, Axël d'Auërsperg tue en duel un cousin venu chercher le même trésor ; son maître, le mage Janus, figure de [[rose-croix]], lui propose l'initiation au « monde occulte », qu'Axël refuse pour la vie et la passion. Dans la crypte, il découvre Sara et le trésor ; ils s'aiment, rêvent de tous les pays du monde, puis comprennent que nulle réalité n'égalera ce qu'ils viennent de rêver, et s'empoisonnent ensemble.
+texte: Auguste de Villiers de l'Isle-Adam, mort en 1889, avait travaillé vingt ans à ce drame, nourri d'[[eliphas-levi|Éliphas Lévi]], de Hegel et de Wagner ; publié l'année suivante, il est devenu le bréviaire de l'idéalisme symboliste. Le critique Edmund Wilson intitulera *Axel's Castle* (1931) son essai sur la littérature symboliste et moderniste.
+extrait: La qualité de notre espoir ne nous permet plus la terre. Que demander, sinon de pâles reflets de tels instants, à cette misérable étoile, où s’attarde notre mélancolie ? La Terre, dis-tu ? Qu’a-t-elle donc jamais réalisé, cette goutte de fange glacée, dont l’Heure ne sait que mentir au milieu du ciel ? C’est elle, ne le vois-tu pas, qui est devenue l’Illusion ! Reconnais-le, Sara : nous avons détruit, dans nos étranges cœurs, l’amour de la vie — et c’est bien en réalité que nous sommes devenus nos âmes ! Accepter, désormais, de vivre ne serait plus qu’un sacrilège envers nous-mêmes. Vivre ? les serviteurs feront cela pour nous.
+source: Auguste de Villiers de l'Isle-Adam, *Axël*, quatrième partie, « Le monde passionnel », Maison Quantin, 1890 | ws Axël/4
+voir: symbolisme, rose-croix, eliphas-levi, richard-wagner, josephin-peladan
+
+@ a-rebours
+cat: litterature
+nom: À rebours
+alias: Des Esseintes, bréviaire de la décadence, décadentisme, Jean des Esseintes
+dates: 1884
+an: 1884
+def: Roman de Joris-Karl Huysmans (1884) où des Esseintes, dernier rejeton d'une race épuisée, vit « à rebours » de la nature parmi les livres rares, les parfums, les toiles de Gustave Moreau et les dessins d'Odilon Redon : le bréviaire de la décadence.
+texte: Jean des Esseintes, aristocrate névrosé, se retire à Fontenay-aux-Roses dans une maison où tout est artifice : une tortue dont il fait incruster la carapace de pierreries, un « orgue à bouche » qui compose des symphonies de liqueurs, des fleurs naturelles qui imitent des fleurs artificielles. Il y passe en revue la littérature latine de la décadence, Baudelaire, Poe, Verlaine et Mallarmé, et contemple les deux tableaux de [[gustave-moreau|Gustave Moreau]] consacrés à [[salome|Salomé]], que Huysmans décrit en des pages devenues célèbres, ainsi que les dessins d'[[odilon-redon|Odilon Redon]].
+texte: Le livre a fait connaître Moreau, Redon et Mallarmé à toute une génération et fondé l'esthétique [[symbolisme|symboliste]] et décadente. Barbey d'Aurevilly écrivit qu'après un tel livre il ne restait plus à l'auteur qu'à choisir « entre la bouche d'un pistolet ou les pieds de la croix » ; [[joris-karl-huysmans|Huysmans]] passa par l'occultisme et le satanisme de *[[la-bas|Là-bas]]* avant de se convertir.
+extrait: Dans l’œuvre de Gustave Moreau, conçue en dehors de toutes les données du Testament, des Esseintes voyait enfin réalisée cette Salomé, surhumaine et étrange qu’il avait rêvée. Elle n’était plus seulement la baladine qui arrache à un vieillard, par une torsion corrompue de ses reins, un cri de désir et de rut ; qui rompt l’énergie, fond la volonté d’un roi, par des remous de seins, des secousses de ventre, des frissons de cuisse ; elle devenait, en quelque sorte, la déité symbolique de l’indestructible Luxure, la déesse de l’immortelle Hystérie, la Beauté maudite, élue entre toutes par la catalepsie qui lui raidit les chairs et lui durcit les muscles ; la Bête monstrueuse, indifférente, irresponsable, insensible, empoisonnant, de même que l’Hélène antique, tout ce qui l’approche, tout ce qui la voit, tout ce qu’elle touche.
+source: Joris-Karl Huysmans, *À rebours*, 1884, chap. V, G. Crès, 1922 | ws À rebours/Chapitre V
+voir: joris-karl-huysmans, gustave-moreau, odilon-redon, salome, symbolisme, la-bas
+
+@ la-bas
+cat: litterature
+nom: Là-bas
+alias: Durtal, chanoine Docre, docteur Johannès, messe noire, Gilles de Rais, Madame Chantelouve, des Hermies
+dates: 1891
+an: 1891
+def: Roman de Joris-Karl Huysmans (1891) où l'écrivain Durtal, qui travaille à une vie de Gilles de Rais, explore le satanisme du Paris de son temps jusqu'à assister à une messe noire.
+texte: Dégoûté du naturalisme, Durtal veut écrire un « naturalisme spiritualiste » et choisit pour sujet [[gilles-de-rais|Gilles de Rais]], le compagnon de Jeanne d'Arc devenu tueur d'enfants. Ses amis, le médecin des Hermies et le sonneur Carhaix, qui vit dans les tours de Saint-Sulpice, l'entretiennent d'astrologie, de cloches et d'envoûtements ; une femme du monde, Hyacinthe Chantelouve, le conduit à la messe noire célébrée par le chanoine Docre, prêtre défroqué. Le docteur Johannès, mystique qui combat les envoûtements, est un portrait de l'abbé [[joseph-antoine-boullan|Boullan]], que [[joris-karl-huysmans|Huysmans]] fréquentait à Lyon.
+texte: Le roman, nourri d'enquêtes réelles dans le milieu occultiste, a fait scandale et lancé la mode du [[satanisme]] fin de siècle, au moment de la « guerre des envoûtements » qui opposait Boullan à [[stanislas-de-guaita|Stanislas de Guaita]]. On y lit l'une des descriptions les plus célèbres de la [[messe-noire|messe noire]].
+extrait: — Évidemment, puisque le nom de Gilles ne subsiste, depuis quatre siècles, que grâce à l’énormité des vices qu’il symbolise ; — maintenant, j’arrive aux crimes. La grande difficulté, vois-tu, c’est d’expliquer comment cet homme, qui fut brave capitaine et bon chrétien, devint subitement sacrilège et sadique, cruel et lâche. ¶ — Le fait est qu’il n’y a point, que je sache, de volte d’âme aussi brusque ! ¶ — C’est bien pour cela que ses biographes s’étonnent de cette féerie spirituelle, de cette transmutation d’âme opérée par un coup de baguette, comme au théâtre ; il y a eu certainement des infiltrations de vices dont les traces sont perdues, des enlisements de péchés invisibles, ignorés par les chroniques.
+source: Joris-Karl Huysmans, *Là-bas*, 1891, chap. IV, Tresse & Stock, 1895 | ws Là-bas/Chapitre IV
+voir: joris-karl-huysmans, gilles-de-rais, joseph-antoine-boullan, satanisme, messe-noire, stanislas-de-guaita, a-rebours
+
+@ la-tentation-de-saint-antoine
+cat: litterature
+nom: La Tentation de saint Antoine
+alias: Tentation de saint Antoine, saint Antoine, reine de Saba, Hilarion, le Sphinx et la Chimère
+dates: 1874
+an: 1874
+def: Drame en prose de Gustave Flaubert, publié en 1874 après trente ans de travail : en une nuit, l'ermite Antoine voit défiler les hérésies, les dieux, la reine de Saba et les monstres de toutes les mythologies ; le grand thème pictural de la tentation.
+texte: Le thème vient de la *Vie d'Antoine* écrite par Athanase d'Alexandrie au IVe siècle : le père des moines, au désert d'Égypte, est assailli par les démons. Il a inspiré les peintres, de [[jerome-bosch|Jérôme Bosch]], dont le triptyque de Lisbonne grouille de créatures hybrides, à Grünewald, à Bruegel et à Callot. [[gustave-flaubert|Flaubert]] découvre à Gênes, en 1845, un tableau inspiré de Bruegel et entreprend le livre ; il en écrit une première version en 1849, une deuxième en 1856, et publie la dernière en 1874.
+texte: Sur la montagne de la Thébaïde, Antoine voit venir la [[reine-de-saba|reine de Saba]], qui lui offre ses trésors et son corps, puis son ancien disciple Hilarion, qui le conduit parmi les hérésiarques — [[valentin|Valentin]], [[basilide|Basilide]], les [[ophites]] et leur serpent, les [[cainites|caïnites]] —, devant [[apollonius-de-tyane|Apollonius de Tyane]], puis parmi les dieux de l'Inde, de la Perse, de l'Égypte et de la Grèce, jusqu'au dialogue du [[sphinx|Sphinx]] et de la [[chimere|Chimère]] et au défilé des monstres. [[odilon-redon|Odilon Redon]] lui a consacré trois albums de lithographies, en 1888, 1889 et 1896.
+extrait: Toutes celles que tu as rencontrées, depuis la fille des carrefours chantant sous sa lanterne jusqu’à la patricienne effeuillant des roses du haut de sa litière, toutes les formes entrevues, toutes les imaginations de ton désir, demande-les ! Je ne suis pas une femme, je suis un monde. Mes vêtements n’ont qu’à tomber, et tu découvriras sur ma personne une succession de mystères !
+source: Gustave Flaubert, *La Tentation de saint Antoine*, 1874, chap. II (la reine de Saba parle), éd. Louis Conard, 1910 | ws La Tentation de saint Antoine – Éd. L. Conard (1910)/La Tentation de saint Antoine/II
+voir: gustave-flaubert, reine-de-saba, jerome-bosch, odilon-redon, gnosticisme, sphinx, chimere, apollonius-de-tyane
+
+@ la-fin-de-satan
+cat: litterature
+nom: La Fin de Satan
+alias: Isis-Lilith, ange Liberté, Hors de la terre, Satan pardonné, Victor Hugo
+dates: 1886
+an: 1886
+def: Épopée inachevée de Victor Hugo, écrite entre 1854 et 1862 et publiée après sa mort en 1886 : la chute de Satan, la naissance d'Isis-Lilith, la fille du démon, et l'ange Liberté né d'une plume de Satan, qui obtiendra son pardon.
+texte: [[victor-hugo|Hugo]] commence le poème en exil, à Jersey, et le conçoit comme la suite de *La Légende des siècles*. Satan tombe pendant des milliers d'années ; une plume blanche de son aile reste au bord de l'abîme, et Dieu en fait un ange, Liberté. De l'ombre, Satan a tiré une autre fille, Isis-Lilith, la Fatalité, que les hommes adorent sous les noms de Sort et d'Ananké ; l'histoire du monde est leur combat, du Déluge au Christ et à la prise de la Bastille, qui devait annoncer la délivrance.
+texte: Le poème mêle la tradition biblique et l'ésotérisme romantique : [[lilith]] y devient Isis ([[isis]]), et le mal lui-même doit être pardonné, selon la doctrine de l'apocatastase chère à Origène, puis à [[louis-claude-de-saint-martin|Saint-Martin]] : à la fin, Dieu devait rendre à Satan son nom d'ange de lumière, Lucifer. Hugo écrivait alors sous l'impression des [[tables-tournantes|tables tournantes]] de Jersey.
+extrait: Ces temps noirs adoraient le spectre Isis-Lilith, // La fille du démon, que l’Homme eut dans son lit // Avant qu’Eve apparût sous les astres sans nombre, // Monstre et femme que fit Satan avec de l’ombre // Afin qu’Adam reçût le fiel avant le miel, // Et l’amour de l’enfer avant l’amour du ciel. ¶ Eve était nue. Isis-Lilith était voilée. // Les corbeaux l’entouraient de leur fauve volée ; // Les hommes la nommaient Sort, Fortune, Ananké ; // Son temple était muré, son prêtre était masqué ; // On l’abreuvait de sang dans le bois solitaire ; // Elle avait des autels effrayants. Et la terre // Subissait cette abjecte et double obscurité : // En bas Idolâtrie, en haut Fatalité.
+source: Victor Hugo, *La Fin de Satan*, « Hors de la terre », I, « La Première Page », J. Hetzel & A. Quantin, 1886 | ws La Première page
+voir: victor-hugo, lilith, isis, satanisme, le-paradis-perdu, spiritisme
+
+@ le-paradis-perdu
+cat: litterature
+nom: Le Paradis perdu
+alias: Paradise Lost, Milton, Satan de Milton, Pandémonium, chute des anges
+dates: 1667
+an: 1667
+def: Épopée de John Milton (1667) qui chante la révolte des anges, la chute de Satan, la création du monde et la faute d'Adam et Ève ; son Satan grandiose a fait de lui le héros romantique de la révolte.
+texte: Aveugle et ruiné après la restauration de la monarchie, le poète puritain John Milton dicte en vers blancs les dix chants publiés en 1667, puis répartis en douze en 1674. Satan, précipité dans l'abîme avec ses légions, se relève sur le lac de feu, bâtit la capitale des démons, le Pandémonium, puis franchit le chaos pour gagner le monde nouveau ; caché dans le serpent, il séduit Ève dans le [[jardin-d-eden|jardin d'Éden]], et l'archange Michel fait voir à Adam l'avenir de l'humanité avant de les chasser du Paradis.
+texte: Chateaubriand en publie en 1836 une traduction en prose, Gustave Doré l'illustre en 1866. [[william-blake|William Blake]], qui l'illustra aussi, écrivit que Milton « était du parti du diable sans le savoir » ; Byron, Shelley et les romantiques français ont fait du Satan de Milton le héros de la liberté révoltée, celui que l'on retrouve chez Hugo dans *[[la-fin-de-satan|La Fin de Satan]]*. La créature de *[[frankenstein|Frankenstein]]* apprend à lire dans ce livre.
+extrait: La première désobéissance de l’homme et le fruit de cet arbre défendu dont le mortel goût apporta la mort dans le monde, et tous nos malheurs, avec la perte d’Éden, jusqu’à ce qu’un homme plus grand nous rétablît et reconquît le séjour bienheureux, chante, Muse céleste ! Sur le sommet secret d’Oreb et de Sinaï tu inspiras le berger qui le premier apprit à la race choisie comment, dans le commencement, le Ciel et la Terre sortirent du chaos.
+source: John Milton, *Le Paradis perdu*, 1667, livre I, trad. François-René de Chateaubriand, Renault et Cie, 1861 | ws Le Paradis perdu/Livre I
+voir: jardin-d-eden, william-blake, la-fin-de-satan, frankenstein, satanisme, saint-michel, demonologie
+
+@ les-mines-du-roi-salomon
+cat: litterature
+nom: Les Mines du roi Salomon
+alias: King Solomon's Mines, Allan Quatermain, Gagool, Kukuanaland, Henry Rider Haggard, She, Ayesha
+dates: 1885
+an: 1885
+def: Roman d'aventures de Henry Rider Haggard (1885) où le chasseur Allan Quatermain traverse le désert, guidé par une vieille carte portugaise, jusqu'aux mines fabuleuses du roi Salomon, gardées par une sorcière sans âge.
+texte: Allan Quatermain accepte d'accompagner sir Henry Curtis, qui cherche son frère disparu sur la route des mines de [[salomon|Salomon]] ; une carte tracée en 1590 avec son sang par un Portugais mourant, José da Silvestra, les conduit au-delà d'un désert, entre deux montagnes appelées les Seins de Saba, jusqu'au royaume des Kukuanas. Ils y renversent un tyran et descendent, guidés par la sorcière Gagool, dans la caverne où les trésors gisent depuis des siècles sous la garde des statues des rois morts.
+texte: Haggard, qui avait vécu au Natal et au Transvaal, s'inspirait des ruines du Grand Zimbabwe, que l'on croyait alors être l'[[ophir|Ophir]] de la Bible. Le succès fut immense, et Haggard publia en 1887 *She*, où une reine immortelle, Ayesha, « Celle-qui-doit-être-obéie », s'est baignée dans la flamme de la vie : Jung en fera l'exemple même de l'anima ([[carl-gustav-jung|Jung]]).
+extrait: 'Ay,' said Evans, 'but I will spin you a queerer yarn than that;' and he went on to tell me how he had found in the far interior a ruined city, which he believed to be the Ophir of the Bible, and, by the way, other more learned men have said the same long since poor Evans' time.
+source: Henry Rider Haggard, *King Solomon's Mines*, 1885, chap. II, « The Legend of Solomon's Mines » (texte original anglais) | wsen King Solomon's Mines/Chapter II
+voir: ophir, salomon, reine-de-saba, carl-gustav-jung, atlantide
+
+@ le-necronomicon
+cat: litterature
+nom: Necronomicon
+alias: Le Necronomicon, Al Azif, Abdul Alhazred, l'Arabe dément, Lovecraft, Cthulhu, grimoire imaginaire
+dates: 1924
+an: 1924
+def: Grimoire imaginaire inventé par l'écrivain américain H. P. Lovecraft dans *Le Molosse* (1924), œuvre de « l'Arabe dément » Abdul Alhazred, que de nombreux lecteurs ont cru réel et que plusieurs faussaires ont publié.
+texte: Lovecraft le cite pour la première fois dans une nouvelle écrite en 1922 et publiée en 1924 dans la revue *Weird Tales*, *The Hound* (*Le Molosse*), puis dans presque tous ses récits : un livre maudit qui révèle l'existence des Grands Anciens, Cthulhu, Yog-Sothoth, venus des étoiles avant l'homme. Dans une *Histoire du Necronomicon* écrite en 1927, il en invente la généalogie : écrit vers 730 à Damas sous le titre d'*Al Azif*, traduit en grec, puis en latin par un certain Olaus Wormius, il aurait été possédé par [[john-dee|John Dee]], qui l'aurait traduit en anglais.
+texte: Lovecraft, qui avait lu les classiques de l'occultisme, s'amusait à mêler ses livres inventés aux vrais ouvrages de [[cornelius-agrippa|Cornelius Agrippa]] ou de [[eliphas-levi|Lévi]], et ses amis firent de même. Des bibliothécaires ont reçu des demandes de lecteurs, des catalogues de libraires l'ont annoncé par plaisanterie, et plusieurs faux ont paru, dont le *Necronomicon* dit de Simon en 1977, que certains magiciens du [[magie-du-chaos|chaos]] utilisent comme un véritable [[grimoire]].
+extrait: Immediately upon beholding this amulet we knew that we must possess it; that this treasure alone was our logical pelf from the centuried grave. Even had its outlines been unfamiliar we would have desired it, but as we looked more closely we saw that it was not wholly unfamiliar. Alien it indeed was to all art and literature which sane and balanced readers know, but we recognized it as the thing hinted of in the forbidden "Necronomicon" of the mad Arab Abdul Alhazred; the ghastly soul-symbol of the corpse-eating cult of inaccessible Leng, in Central Asia.
+source: H. P. Lovecraft, *The Hound*, *Weird Tales*, vol. 3, no 2, février 1924 (texte original anglais) | wsen Weird Tales/Volume 3/Issue 2/The Hound
+voir: grimoire, john-dee, magie-du-chaos, cornelius-agrippa, demonologie
+
+@ le-pendule-de-foucault
+cat: litterature
+nom: Le Pendule de Foucault
+alias: Pendule de Foucault, Umberto Eco, le Plan, Casaubon, Belbo, Diotallevi, éditions Garamond, Aboulafia
+dates: 1988
+an: 1988
+def: Roman d'Umberto Eco (1988) où trois éditeurs milanais, par jeu, inventent un « Plan » universel reliant Templiers, Rose-Croix et sociétés secrètes, jusqu'à ce que des occultistes le prennent au sérieux : une satire de la pensée du complot.
+texte: Casaubon, jeune spécialiste des [[templiers]], et ses deux collègues de la maison d'édition Garamond, Belbo et Diotallevi, reçoivent les manuscrits des « Diaboliques », auteurs à compte d'auteur passionnés d'ésotérisme. Par dérision, ils combinent sur l'ordinateur de Belbo, baptisé Aboulafia en souvenir du kabbaliste [[abraham-aboulafia|Abraham Aboulafia]], toutes les doctrines qu'ils lisent : le secret des Templiers transmis de siècle en siècle, la [[rose-croix|Rose-Croix]], le [[comte-de-saint-germain|comte de Saint-Germain]], les [[courants-telluriques|courants telluriques]], l'[[agartha|Agartha]]. Le Plan devient trop convaincant ; une société secrète bien réelle s'empare de Belbo et le pend au pendule de Foucault du Conservatoire des arts et métiers, à Paris.
+texte: Eco, sémiologue, y montre comment l'« interprétation paranoïaque » relie tout à tout, et s'amuse de la masse des livres d'ésotérisme, de *[[l-enigme-sacree|L'Énigme sacrée]]* aux *Protocoles des sages de Sion*. Le roman a eu un succès mondial, et bien des lecteurs y ont cherché les secrets qu'il démonte.
+voir: templiers, rose-croix, comte-de-saint-germain, agartha, abraham-aboulafia, l-enigme-sacree, da-vinci-code, matin-des-magiciens
+
+@ gustav-meyrink
+cat: figures
+nom: Gustav Meyrink
+alias: Meyrink, Gustav Meyer, Le Golem, Der Golem, Le Visage vert, La Nuit de Walpurgis, L'Ange à la fenêtre d'occident
+dates: 1868 – 1932
+an: 1868
+def: Écrivain autrichien de Prague, banquier devenu occultiste, auteur du *Golem* (1915), roman du ghetto de Prague où passe l'ombre de la créature de Rabbi Löw, et de *L'Ange à la fenêtre d'occident* (1927), consacré à John Dee.
+texte: Né à Vienne en 1868, il est banquier à [[prague|Prague]] quand, selon son propre récit, une brochure sur la vie après la mort glissée sous sa porte l'arrête au moment de se suicider. En 1891, il fonde à Prague la loge théosophique de l'Étoile bleue ; il pratique le yoga et l'alchimie, et la faillite de sa banque, en 1902, lui vaut la prison préventive et la ruine. Il devient satiriste à Munich, puis romancier. *Le Golem*, paru en feuilleton en 1913-1914 puis en volume en 1915, raconte la vie d'un graveur de pierres, Athanasius Pernath, dans l'ancien ghetto de Prague, où le [[golem]] reparaît tous les trente-trois ans ; le livre se vend à des centaines de milliers d'exemplaires.
+texte: Suivent *Le Visage vert*, *La Nuit de Walpurgis*, *Le Dominicain blanc* et *L'Ange à la fenêtre d'occident* (1927), où un descendant de [[john-dee|John Dee]] revit la quête de son ancêtre et de l'alchimiste [[edward-kelley|Edward Kelley]] à la cour de [[rodolphe-ii|Rodolphe II]]. Converti au bouddhisme en 1927, Meyrink meurt en 1932 à Starnberg, en Bavière. Son œuvre est le grand roman ésotérique de langue allemande.
+repere: 1868 — Naissance à Vienne, le 19 janvier.
+repere: 1891 — Fonde à Prague la loge théosophique de l'Étoile bleue.
+repere: 1915 — *Le Golem* paraît en volume.
+repere: 1927 — *L'Ange à la fenêtre d'occident* ; il se convertit au bouddhisme.
+repere: 1932 — Mort à Starnberg, le 4 décembre.
+voir: golem, john-dee, edward-kelley, rodolphe-ii, prague, theosophie
+
+@ arcane-17
+cat: litterature
+nom: Arcane 17
+alias: Arcane 17, André Breton, l'Étoile, Mélusine, rocher Percé, Gaspésie, Ajours
+dates: 1944
+an: 1944
+def: Livre d'André Breton écrit en 1944 en Gaspésie, au Québec, et placé sous le signe de la dix-septième lame du tarot, l'Étoile : une méditation sur l'amour, la femme-fée Mélusine et la renaissance du monde après la guerre.
+texte: Exilé en Amérique pendant la guerre, Breton séjourne l'été 1944 au bord du golfe du Saint-Laurent avec Elisa Bindhoff, qui deviendra sa femme ; devant le rocher Percé, il écrit ce livre sans chapitres, mêlant le récit, l'essai et le poème. L'[[arcane-etoile|Étoile]] du tarot, où une femme nue verse l'eau de deux urnes sous les astres, y devient la figure de l'espérance et de la jeunesse éternelle, et [[melusine|Mélusine]], « la femme perdue », celle de la réconciliation de l'homme et de la nature. Le livre paraît à New York en 1945, puis à Paris en 1947, augmenté des *Ajours*.
+texte: Breton, qui avait réclamé dès 1929 « l'occultation profonde, véritable du surréalisme », y affirme son intérêt pour l'ésotérisme, qu'il voit comme une tradition de la pensée analogique ; il n'y cherche pas une doctrine, mais une poétique. Le livre est l'un des textes majeurs du [[surrealisme|surréalisme]] et de son dialogue avec l'occultisme.
+voir: surrealisme, arcane-etoile, melusine, tarot, les-chimeres, correspondances
+
+@ le-manuscrit-trouve-a-saragosse
+cat: litterature
+nom: Le Manuscrit trouvé à Saragosse
+alias: Manuscrit trouvé à Saragosse, Jan Potocki, Alphonse van Worden, Venta Quemada, Don Pedro Uzeda, Rébecca, le cabaliste, Ahasvérus
+dates: 1805 – 1815
+an: 1805
+def: Roman écrit en français par le comte polonais Jan Potocki au début du XIXe siècle : en soixante-six journées, un officier wallon, Alphonse van Worden, traverse la sierra Morena et entend des récits enchâssés de revenants, de cabalistes et de sociétés secrètes.
+texte: Alphonse van Worden, qui gagne Madrid pour prendre son poste, passe la nuit dans une auberge abandonnée, la Venta Quemada, où deux princesses musulmanes, ses cousines, le séduisent ; il se réveille chaque fois au pied d'un gibet, entre les cadavres de deux bandits. Il rencontre un ermite, un cabaliste, Don Pedro Uzeda, et sa sœur Rébecca, qui pratiquent la [[kabbale]] pratique et veulent épouser des génies célestes, le géomètre Velasquez, le chef bohémien Avadoro et même le [[juif-errant|Juif errant]], qui raconte sa vie. Les récits s'emboîtent jusqu'au vertige, et tout se révèle à la fin l'épreuve d'une société secrète, les Gomélez, qui veut faire d'Alphonse son héritier.
+texte: Jan Potocki (1761-1815), voyageur, ethnologue et pionnier de l'archéologie slave, publia des fragments du roman à Saint-Pétersbourg et à Paris ; l'ensemble ne fut reconstitué qu'au XXe siècle, à partir de l'édition partielle de Roger Caillois en 1958. Le film de Wojciech Has (1965) en a fait une œuvre culte. Le livre est l'un des sommets du fantastique et de l'ésotérisme littéraire.
+voir: kabbale, juif-errant, roman-gothique, le-comte-de-gabalis

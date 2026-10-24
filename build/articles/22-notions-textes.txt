@@ -77,7 +77,7 @@ alias: consolament, consolation, endura
 def: L'unique sacrement des cathares, une imposition des mains qui conférait le Saint-Esprit, faisait du croyant un « bon chrétien » et pouvait être reçu à l'article de la mort.
 texte: Le rite, décrit par un rituel occitan conservé à [[lyon|Lyon]], se déroule devant l'assemblée : le célébrant pose le livre des Évangiles sur la tête du candidat, et les bons hommes présents lui imposent les mains en récitant le Notre-Père et le début de l'Évangile de Jean. Il remet les péchés et engage à la vie des [[parfaits]].
 texte: Les simples croyants le recevaient sur leur lit de mort, après avoir conclu avec l'Église une promesse, la *convenenza*. Certains mourants, une fois consolés, cessaient de s'alimenter pour ne pas retomber dans le péché : c'est l'*endura*, dont l'importance a été exagérée par les auteurs du XIXe siècle et par [[deodat-roche|Déodat Roché]], qui voyait dans le consolament une [[initiation]].
-voir: catharisme, parfaits, dualisme, deodat-roche
+voir: catharisme, parfaits, dualisme, deodat-roche, evangile-de-jean
 
 @ dualisme
 cat: notions
@@ -162,7 +162,7 @@ cat: notions
 nom: Syzygie
 alias: syzygies, couple d'éons, conjonction
 def: Union de deux termes complémentaires : chez les gnostiques, le couple masculin-féminin d'éons qui peuple le plérôme ; en astronomie, l'alignement du Soleil, de la Lune et de la Terre.
-texte: Dans le système de [[valentin|Valentin]], le Père inconnaissable, l'Abîme, forme avec le Silence le premier couple ; d'eux naissent d'autres paires, Intellect et Vérité, Logos et Vie, jusqu'à trente [[eon|éons]]. Le drame cosmique commence quand le dernier éon, [[sophia|Sophia]], veut connaître le Père sans son conjoint et engendre seule.
+texte: Dans le système de [[valentin|Valentin]], le Père inconnaissable, l'Abîme, forme avec le Silence le premier couple ; d'eux naissent d'autres paires, Intellect et Vérité, [[logos|Logos]] et Vie, jusqu'à trente [[eon|éons]]. Le drame cosmique commence quand le dernier éon, [[sophia|Sophia]], veut connaître le Père sans son conjoint et engendre seule.
 texte: [[carl-gustav-jung|Jung]] reprend le mot pour désigner le couple intérieur de l'anima et de l'animus, image des contraires que la psyché doit unir. En astronomie, la syzygie désigne la nouvelle et la pleine lune, quand les trois astres sont alignés.
 voir: eon, plerome, valentin, sophia, hierogamie
 
@@ -269,7 +269,7 @@ texte: Saint Augustin rapporte que bien des gens dignes de foi attestent les ass
 texte: Au XVIIe siècle, le franciscain Ludovico Maria Sinistrari consacre au sujet un traité, *De la démonialité*, publié seulement en 1875. Les médecins rapprochent aujourd'hui ces récits de la paralysie du sommeil, où le dormeur, à demi éveillé, sent un poids sur sa poitrine et voit une présence dans la chambre.
 extrait: Succubes, démons qui prennent des figures de femmes. (…) Hector de Boëce, dans son histoire d’Écosse, rapporte qu’un jeune homme d’une extrême beauté était poursuivi par une jeune démone, qui passait à travers sa porte fermée et venait lui offrir de l’épouser. Il s’en plaignit à son évêque, qui le fit jeûner, prier et se confesser, et la beauté d’enfer cessa de lui rendre visite.
 source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Succubes » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Succubes
-voir: demonologie, sorcellerie, chasse-aux-sorcieres, sabbat
+voir: demonologie, sorcellerie, chasse-aux-sorcieres, sabbat, le-cauchemar, lilith
 
 @ soleil-noir
 cat: symboles
@@ -278,7 +278,7 @@ alias: sol niger, Schwarze Sonne, soleil de la Mélancolie
 def: Image alchimique de la matière à l'œuvre au noir, reprise par la poésie de la mélancolie, puis devenue, sous la forme d'une roue à douze rayons, un emblème néonazi.
 texte: Dans l'[[alchimie]], le *sol niger* figure la [[nigredo]], la putréfaction par laquelle commence le [[grand-oeuvre|Grand Œuvre]] : la planche du *[[splendor-solis|Splendor Solis]]* montre un soleil noir se couchant sur un paysage désolé. [[gerard-de-nerval|Nerval]], dans « El Desdichado », célèbre « le Soleil noir de la Mélancolie », que reprendra la psychanalyste Julia Kristeva.
 texte: Le nom a été donné après la guerre à la roue à douze rayons en forme de croix gammées incrustée dans le pavement du château de [[wewelsburg|Wewelsburg]], par des cercles ésotériques néonazis, puis par un roman à succès de 1991. Le symbole, qui n'avait sans doute pas ce nom pour la SS, est devenu un signe de ralliement de l'extrême droite.
-voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie, melencolia, roue-solaire
+voir: nigredo, splendor-solis, wewelsburg, gerard-de-nerval, ariosophie, melencolia, roue-solaire, les-chimeres
 
 @ abraxas
 cat: symboles
@@ -341,7 +341,7 @@ texte: Imprimé à [[carcassonne|Carcassonne]], le livre fut accueilli avec indi
 voir: henri-boudet, rennes-les-bains, rennes-le-chateau, langue-des-oiseaux, druidisme
 
 @ parzival
-cat: textes
+cat: litterature
 nom: Parzival
 alias: Parsifal, Perceval allemand, Munsalvaesche, Montsalvage, lapsit exillis
 an: 1205
@@ -351,7 +351,7 @@ texte: Le Graal y est une pierre, *lapsit exillis*, qui procure nourriture et je
 voir: wolfram-von-eschenbach, graal, conte-du-graal, croisade-contre-le-graal, templiers, kyot, lohengrin, perceval, pretre-jean, colombe
 
 @ conte-du-graal
-cat: textes
+cat: litterature
 nom: Le Conte du Graal
 alias: Perceval ou le Conte du Graal, Perceval, Roi Pêcheur, lance qui saigne
 an: 1180
@@ -366,9 +366,9 @@ nom: Le Roi du monde
 alias: Roi du Monde, Agarttha, Melchisédech
 an: 1927
 def: Livre de René Guénon paru en 1927 sur l'existence, attestée selon lui par toutes les traditions, d'un centre spirituel suprême et caché, gouverné par un chef à la fois roi et prêtre.
-texte: [[rene-guenon|Guénon]] part des récits de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]] et du voyageur polonais Ferdynand Ossendowski sur un royaume souterrain d'Asie centrale, l'[[agartha|Agarttha]], qu'il refuse de prendre à la lettre. Il y voit l'image d'un centre spirituel réel mais non localisable, gardien de la [[tradition-primordiale|tradition primordiale]], dont le chef, le « roi du monde », serait figuré dans la Bible par Melchisédech, à la fois roi et prêtre.
+texte: [[rene-guenon|Guénon]] part des récits de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]] et du voyageur polonais Ferdynand Ossendowski sur un royaume souterrain d'Asie centrale, l'[[agartha|Agarttha]], qu'il refuse de prendre à la lettre. Il y voit l'image d'un centre spirituel réel mais non localisable, gardien de la [[tradition-primordiale|tradition primordiale]], dont le chef, le « roi du monde », serait figuré dans la Bible par [[melchisedech|Melchisédech]], à la fois roi et prêtre.
 texte: Il rapproche ce centre de bien des symboles : l'[[omphalos]], la montagne polaire, le [[graal|Graal]], l'île primordiale. Le livre, l'un des plus lus de Guénon, a nourri à la fois la réflexion traditionaliste sur les centres spirituels et une abondante littérature sur les souterrains mystérieux et les maîtres cachés.
-voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos, pretre-jean, axis-mundi
+voir: rene-guenon, agartha, tradition-primordiale, saint-yves-d-alveydre, omphalos, pretre-jean, axis-mundi, melchisedech
 
 @ les-demeures-philosophales
 cat: textes

@@ -12,7 +12,7 @@ texte: Le mot hébreu *qabbalah* signifie « réception », c'est-à-dire tradit
 texte: Elle enseigne que le Dieu infini et caché, l'[[ein-sof|Ein Sof]], se révèle par dix [[sephiroth|séphiroth]], qui forment l'[[arbre-des-sephiroth|arbre de vie]] et dont l'harmonie dépend aussi des actes humains. Les historiens distinguent une kabbale « théosophique », qui spécule sur ces puissances divines, une kabbale « extatique », comme celle d'[[abraham-aboulafia]], qui recherche l'union par la méditation des noms divins, et une kabbale « pratique », qui use des noms et des lettres pour des amulettes et des guérisons.
 texte: Depuis la Renaissance, des chrétiens se sont approprié la kabbale — c'est la [[kabbale-chretienne|kabbale chrétienne]] —, puis les occultistes, qui en ont fait la grille de toutes les [[correspondances]] : c'est la [[kabbale-hermetique|kabbale hermétique]]. L'étude historique de la kabbale doit beaucoup à [[gershom-scholem]].
 schema: arbre-sephiroth
-voir: sephiroth, arbre-des-sephiroth, zohar, ein-sof, kabbale-chretienne, kabbale-hermetique, gershom-scholem
+voir: sephiroth, arbre-des-sephiroth, zohar, ein-sof, kabbale-chretienne, kabbale-hermetique, gershom-scholem, le-manuscrit-trouve-a-saragosse
 
 @ kabbale-chretienne
 cat: kabbale
@@ -219,7 +219,7 @@ alias: Chekhina, Schechina, Shekinah, présence divine, épouse, fiancée du sab
 def: Présence de Dieu parmi les hommes ; dans la kabbale, aspect féminin de la divinité, identifié à la dixième séphira, qui partage l'exil du peuple d'Israël.
 texte: Dans la littérature rabbinique, la Shekhina est la présence divine qui résidait dans le Temple et accompagne Israël en exil. La kabbale, à partir du *[[sefer-ha-bahir|Bahir]]*, en fait une puissance féminine au sein même de Dieu : la reine, la fiancée, la Lune, la [[malkhout|Royauté]].
 texte: Séparée de son époux céleste, [[tiferet|Tiferet]], par les fautes des hommes, elle erre en exil ; la prière et les commandements doivent les réunir. Le chant qui accueille le sabbat comme une fiancée, *Lekha Dodi*, composé à Safed au XVIe siècle, exprime cette espérance.
-voir: malkhout, tiferet, sophia, sephiroth, zohar
+voir: malkhout, tiferet, sophia, sephiroth, zohar, construction-du-temple, cantique-des-cantiques
 
 @ qlipoth
 cat: kabbale
@@ -247,7 +247,7 @@ alias: tétragramme, YHWH, IHVH, JHVH, Yahvé, Jéhovah, Nom ineffable, Pentagra
 def: Nom divin de quatre lettres hébraïques, YHWH, que le judaïsme ne prononce pas, et auquel la kabbale et la magie attribuent une puissance créatrice.
 texte: Les quatre lettres *yod*, *hé*, *vav*, *hé* forment le nom propre de Dieu dans la Bible hébraïque. Depuis l'Antiquité, on le remplace à la lecture par *Adonaï*, « Seigneur » ; seul le grand prêtre le prononçait au Temple, au jour du Grand Pardon. La lecture « Jéhovah », apparue au Moyen Âge, mêle les consonnes du nom aux voyelles d'*Adonaï*.
 texte: Pour les kabbalistes, chaque lettre du nom correspond à un niveau de l'être, voire à l'un des [[quatre-mondes]]. [[jean-reuchlin]] forme le nom de Jésus en y ajoutant la lettre *shin* : YHSVH, le « Pentagrammaton ». Les occultistes rapprochent les quatre lettres des quatre éléments et des quatre enseignes du tarot.
-voir: shem-ha-meforash, jean-reuchlin, quatre-mondes, alphabet-hebreu, tetractys, parole-perdue
+voir: shem-ha-meforash, jean-reuchlin, quatre-mondes, alphabet-hebreu, tetractys, parole-perdue, moise
 
 @ shem-ha-meforash
 cat: kabbale
@@ -321,8 +321,8 @@ nom: Golem
 alias: golem de Prague, Maharal, Rabbi Loew, emet
 def: Dans la légende juive, être humanoïde façonné dans l'argile et animé par la puissance des noms divins, à la manière dont Dieu créa Adam.
 texte: Le mot hébreu désigne une matière informe. Le Talmud rapporte qu'un sage créa un homme, qui ne pouvait parler ; au Moyen Âge, les commentaires du *[[sefer-yetsirah|Sefer Yetsirah]]* décrivent des rites de combinaison des lettres pour animer une figure d'argile. On inscrit sur son front le mot *emet*, « vérité » ; en effaçant la première lettre, il reste *met*, « mort », et la créature retombe en poussière.
-texte: La légende la plus connue, attachée au XIXe siècle à Rabbi Loew de [[prague|Prague]], savant du XVIe siècle, fait du golem un protecteur de la communauté juive qui échappe à son maître. Le roman de Gustav Meyrink (1915) et le cinéma en ont fait un mythe moderne.
-voir: sefer-yetsirah, homoncule, alphabet-hebreu, kabbale, prague
+texte: La légende la plus connue, attachée au XIXe siècle à Rabbi Loew de [[prague|Prague]], savant du XVIe siècle, fait du golem un protecteur de la communauté juive qui échappe à son maître. Le roman de Gustav [[gustav-meyrink|Meyrink]] (1915) et le cinéma en ont fait un mythe moderne.
+voir: sefer-yetsirah, homoncule, alphabet-hebreu, kabbale, prague, gustav-meyrink, frankenstein
 
 @ merkavah
 cat: kabbale

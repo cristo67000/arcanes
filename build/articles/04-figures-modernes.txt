@@ -28,7 +28,7 @@ repere: 1787 — Fondation à Londres de l'Église de la Nouvelle Jérusalem.
 oeuvres: Arcanes célestes (1749-1756) ; Du ciel et de l'enfer (1758) ; La Sagesse angélique sur le divin amour et la divine sagesse (1763) ; La Vraie Religion chrétienne (1771)
 extrait: La vie d’Emmanuel Swedenborg fut scindée en deux parts, reprit le pasteur. De 1688 à 1745, le baron Emmanuel de Swedenborg apparut dans le monde comme un homme du plus vaste savoir, estimé, chéri pour ses vertus, toujours irréprochable, constamment utile. Tout en remplissant de hautes fonctions en Suède, il a publié de 1709 à 1740, sur la minéralogie, la physique, les mathématiques et l’astronomie, des livres nombreux et solides qui ont éclairé le monde savant. (…) Enfin, il ne s’est pas occupé d’une science sans lui faire faire un progrès.
 source: Honoré de Balzac, *Séraphîta*, 1835, chap. III (le pasteur Becker parle) | ws Séraphîta
-voir: correspondances, arcanes-celestes, illuminisme, anges, spiritisme, charles-baudelaire
+voir: correspondances, arcanes-celestes, illuminisme, anges, spiritisme, charles-baudelaire, aurelia, apocalypse
 
 @ martinez-de-pasqually
 cat: figures
@@ -124,7 +124,7 @@ repere: 1791 — Condamné à mort, peine commuée en prison à vie.
 repere: 1795 — Mort dans la forteresse de San Leo.
 extrait: Sa femme, qui était fort belle et d’une intelligence élevée, l’avait suivi dans tous ses voyages. Elle présida à ce fameux souper où assistèrent la plupart des philosophes du temps, et dans lequel on fit apparaître plusieurs personnages morts depuis peu de temps : selon le système de Cagliostro, il n’y a pas de morts. Aussi avait-on mis douze couverts, quoiqu’il n’y eût que six invités : d’Alembert, Diderot, Voltaire, le duc de Choiseul, l’abbé de Voisenon et on ne sait quel autre, vinrent s’asseoir, quoique morts, aux places qui leur avaient été destinées, et causèrent avec les conviés, de omni re scibili et quibusdam aliis. ¶ Vers cette époque, Cagliostro fonda la célèbre loge égyptienne, laissant à sa femme le soin d’en établir une autre en faveur de son sexe, laquelle fut mise sous l’invocation d’Isis.
 source: Gérard de Nerval, *Les Illuminés*, 1852, « Cagliostro » | gallica bpt6k108403r | ws Les Illuminés (1852)/Cagliostro
-voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin, maconnerie-egyptienne, sethos
+voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin, maconnerie-egyptienne, sethos, joseph-balsamo
 
 @ comte-de-saint-germain
 cat: figures
@@ -145,7 +145,7 @@ repere: 1779 — Il s'établit dans le Schleswig, auprès du prince Charles de H
 repere: 1784 — Mort à Eckernförde, le 27 février.
 repere: 1836 — De faux *Souvenirs* le montrent avertissant Marie-Antoinette.
 repere: années 1930 — Le mouvement « I AM » fait de lui un maître ascensionné.
-voir: cagliostro, maitres-de-sagesse, elixir-de-longue-vie, new-age, ere-du-verseau
+voir: cagliostro, maitres-de-sagesse, elixir-de-longue-vie, new-age, ere-du-verseau, juif-errant, le-pendule-de-foucault
 
 @ franz-anton-mesmer
 cat: figures
@@ -210,7 +210,7 @@ repere: 1773 — Premier volume du *Monde primitif*.
 repere: 1778 — Membre de la loge des Neuf Sœurs, où Voltaire est initié la même année.
 repere: 1781 — Le huitième volume expose l'origine égyptienne du tarot.
 repere: 1784 — Mort à Paris.
-voir: monde-primitif, tarot, egyptosophie, etteilla, les-neuf-soeurs, arcanes-majeurs, thot, livre-de-thot
+voir: monde-primitif, tarot, egyptosophie, etteilla, les-neuf-soeurs, arcanes-majeurs, thot, livre-de-thot, le-tarot-des-bohemiens
 
 @ etteilla
 cat: figures
@@ -240,7 +240,7 @@ dates: 1716 – 1796
 an: 1716
 def: Bénédictin français, érudit et alchimiste, auteur du Dictionnaire mytho-hermétique, qui fonda à Avignon la communauté des Illuminés d'Avignon.
 texte: Né à Roanne en 1716, Antoine-Joseph Pernety entre à seize ans chez les bénédictins de la congrégation de Saint-Maur, célèbres pour leur érudition. À l'abbaye de Saint-Germain-des-Prés, il travaille aux grandes entreprises savantes de son ordre et publie un dictionnaire de la peinture et de la gravure.
-texte: En 1758, il publie les *Fables égyptiennes et grecques dévoilées*, où il lit toute la mythologie comme une allégorie de l'[[alchimie]] : les travaux d'Hercule, la toison d'or, la guerre de Troie décrivent les opérations du [[grand-oeuvre|Grand Œuvre]]. Il y joint un *Dictionnaire mytho-hermétique*, précieux répertoire du vocabulaire alchimique, encore réédité. En 1763-1764, il accompagne Bougainville aux îles Malouines comme aumônier et naturaliste, et publie le journal du voyage.
+texte: En 1758, il publie les *[[fables-egyptiennes-et-grecques-devoilees|Fables égyptiennes et grecques dévoilées]]*, où il lit toute la mythologie comme une allégorie de l'[[alchimie]] : les travaux d'Hercule, la toison d'or, la guerre de Troie décrivent les opérations du [[grand-oeuvre|Grand Œuvre]]. Il y joint un *Dictionnaire mytho-hermétique*, précieux répertoire du vocabulaire alchimique, encore réédité. En 1763-1764, il accompagne Bougainville aux îles Malouines comme aumônier et naturaliste, et publie le journal du voyage.
 texte: En 1765, avec d'autres moines, il demande à quitter la vie conventuelle, puis gagne Berlin, où Frédéric II fait de lui son bibliothécaire et un membre de son Académie. Il y lit [[emanuel-swedenborg|Swedenborg]], dont il traduit des œuvres, et anime avec un aristocrate polonais, le comte Grabianka, un groupe qui consulte un oracle, la « Sainte Parole », au moyen d'une sorte de [[kabbale]] numérique : les questions et les réponses passent par des calculs sur les lettres.
 texte: Sur l'ordre de l'oracle, il revient en France et s'établit en 1784 à Avignon, alors terre pontificale, où se forme autour de lui la communauté des [[illumines-d-avignon]], qui mêle alchimie, swedenborgisme, prières et attente d'un « Nouvel Israël ». On lui attribue la création d'un rite maçonnique hermétique. Il meurt à Avignon en 1796, après la Révolution qui a dispersé ses disciples.
 repere: 1716 — Naissance à Roanne.
@@ -252,7 +252,7 @@ repere: 1782 — Il publie sa traduction de Swedenborg, *Les Merveilles du ciel 
 repere: 1784 — Il s'établit à Avignon, alors terre pontificale.
 repere: 1796 — Mort à Avignon.
 oeuvres: Fables égyptiennes et grecques dévoilées (1758) ; Dictionnaire mytho-hermétique (1758) ; Journal historique d'un voyage fait aux îles Malouines (1769)
-voir: illumines-d-avignon, alchimie, emanuel-swedenborg, illuminisme, grand-oeuvre
+voir: illumines-d-avignon, alchimie, emanuel-swedenborg, illuminisme, grand-oeuvre, fables-egyptiennes-et-grecques-devoilees, elias-artista
 
 @ karl-von-eckartshausen
 cat: figures
@@ -306,7 +306,7 @@ an: 1767
 def: Écrivain et philologue français, qui prétendit retrouver le sens caché de la langue hébraïque et de l'histoire humaine, et fut l'un des pères de l'occultisme.
 texte: Né en 1767 à Ganges, dans les Cévennes, dans une famille protestante de fabricants de bas de soie, Antoine Fabre d'Olivet est envoyé jeune à Paris pour apprendre le commerce. Il préfère les lettres : sous la Révolution, il écrit pour le théâtre, compose de la musique et des chansons, publie des romans. En 1803, son recueil *Le Troubadour* présente comme anciens des poèmes occitans qui sont en grande partie de sa main.
 texte: Sous l'Empire, il se tourne vers l'érudition et les mystères des origines. Il raconte en 1811 avoir guéri un jeune sourd-muet de naissance par une méthode tirée, dit-il, des anciens temples. En 1813, il publie une traduction commentée des *Vers dorés* de [[pythagore]], précédée d'une réflexion sur la poésie sacrée des Anciens.
-texte: *La Langue hébraïque restituée* (1815-1816) soutient que chaque lettre hébraïque porte un sens hiéroglyphique, et que le texte de la Genèse, ainsi lu, révèle une cosmogonie que Moïse, initié en Égypte, aurait voilée sous un récit simple. Fabre d'Olivet retraduit les dix premiers chapitres selon cette méthode. Son *Histoire philosophique du genre humain* (1822) décrit l'histoire comme le jeu de trois forces — la Providence, le Destin et la Volonté humaine — et fait du druide Ram, chef de la race celtique parti vers l'Inde, le fondateur d'un empire théocratique universel.
+texte: *La Langue hébraïque restituée* (1815-1816) soutient que chaque lettre hébraïque porte un sens hiéroglyphique, et que le texte de la Genèse, ainsi lu, révèle une cosmogonie que [[moise|Moïse]], initié en Égypte, aurait voilée sous un récit simple. Fabre d'Olivet retraduit les dix premiers chapitres selon cette méthode. Son *Histoire philosophique du genre humain* (1822) décrit l'histoire comme le jeu de trois forces — la Providence, le Destin et la Volonté humaine — et fait du druide Ram, chef de la race celtique parti vers l'Inde, le fondateur d'un empire théocratique universel.
 texte: À la fin de sa vie, il fonde dans sa maison un petit « culte théophilosophique », avec ses rites et ses fidèles, et meurt brusquement à Paris en 1825. [[saint-yves-d-alveydre]], [[eliphas-levi]], [[papus]] et [[edouard-schure]], qui reprend le personnage de Rama dans *Les Grands Initiés*, ont beaucoup emprunté à cette œuvre singulière, qui a fait de lui l'un des pères de l'[[occultisme]] français.
 repere: 1767 — Naissance à Ganges, dans les Cévennes.
 repere: 1803 — *Le Troubadour*, poèmes occitans présentés comme anciens.
@@ -402,7 +402,7 @@ texte: Helena von Hahn naît en 1831 à Iekaterinoslav, en Ukraine, fille d'un o
 texte: Commence une vie de voyages qu'elle racontera de manière si changeante qu'il est difficile de la reconstituer : Constantinople, l'Égypte, l'Europe, l'Amérique, l'Inde. Elle dit avoir rencontré à [[londres|Londres]], en 1851, le Maître qui la guidait depuis l'enfance, avoir été blessée aux côtés de Garibaldi et avoir séjourné au Tibet auprès de ses [[maitres-de-sagesse|Maîtres]] ; ces voyages sont mal documentés. Arrivée à New York en 1873, elle rencontre l'année suivante [[henry-steel-olcott]] lors de séances spirites dans le Vermont et fonde avec lui, en 1875, la [[societe-theosophique|Société théosophique]].
 texte: *[[isis-devoilee|Isis dévoilée]]* (1877), vaste critique de la science matérialiste et des Églises, affirme l'existence d'une sagesse antique commune à toutes les religions. En 1879, Blavatsky et Olcott s'installent en Inde, à Bombay puis à Adyar, près de Madras ; ils se convertissent au bouddhisme à Ceylan. Des lettres des Maîtres, censées se matérialiser dans une armoire ou tomber du plafond, passionnent les adeptes. Mais en 1884, deux employés renvoyés révèlent des trucages, et un enquêteur de la [[society-for-psychical-research|Society for Psychical Research]], Richard Hodgson, déclare en 1885 les phénomènes frauduleux ; ce rapport a lui-même été contesté depuis.
 texte: Blavatsky quitte l'Inde, s'installe à Londres en 1887, et y publie *[[doctrine-secrete|La Doctrine secrète]]* (1888), commentaire de stances d'un livre inconnu sur l'évolution cosmique, les cycles et les « races-racines » de l'humanité, puis *La Clef de la théosophie* et *La Voix du silence* (1889). On a montré dès 1895 qu'elle empruntait largement à des ouvrages de son temps. Elle meurt à Londres le 8 mai 1891, que ses fidèles commémorent comme le « jour du Lotus blanc ».
-texte: Personnalité fascinante et controversée, elle a joué un rôle majeur dans la diffusion en Occident des idées de [[karma]] et de [[reincarnation]], des religions de l'Inde et du bouddhisme, et dans la naissance de l'ésotérisme contemporain, du [[new-age|New Age]] à l'art abstrait de Kandinsky et Mondrian. Sa doctrine des races-racines a aussi été détournée par les courants racistes de l'[[ariosophie]].
+texte: Personnalité fascinante et controversée, elle a joué un rôle majeur dans la diffusion en Occident des idées de [[karma]] et de [[reincarnation]], des religions de l'Inde et du bouddhisme, et dans la naissance de l'ésotérisme contemporain, du [[new-age|New Age]] à l'art abstrait de [[wassily-kandinsky|Kandinsky]] et [[piet-mondrian|Mondrian]]. Sa doctrine des races-racines a aussi été détournée par les courants racistes de l'[[ariosophie]].
 repere: 1831 — Naissance à Iekaterinoslav, en Ukraine.
 repere: 1849 — Mariage avec Nikifor Blavatsky, qu'elle quitte au bout de quelques mois.
 repere: 1851 — À Londres, elle dit avoir rencontré pour la première fois son Maître.
@@ -415,7 +415,7 @@ repere: 1885 — Le rapport Hodgson déclare ses phénomènes frauduleux ; elle 
 repere: 1888 — *La Doctrine secrète*.
 repere: 1891 — Mort à Londres, le 8 mai.
 oeuvres: Isis dévoilée (1877) ; La Doctrine secrète (1888) ; La Clef de la théosophie (1889) ; La Voix du silence (1889)
-voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques, isis
+voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques, isis, promethee, abstraction-et-theosophie, nicolas-roerich
 
 @ henry-steel-olcott
 cat: figures
@@ -464,7 +464,7 @@ repere: 1909 — Leadbeater remarque le jeune Krishnamurti.
 repere: 1917 — Internée par les Britanniques, elle préside le Congrès national indien.
 repere: 1929 — Krishnamurti dissout l'ordre fondé pour lui.
 repere: 1933 — Mort à Adyar.
-voir: societe-theosophique, jiddu-krishnamurti, theosophie, helena-blavatsky, droit-humain
+voir: societe-theosophique, jiddu-krishnamurti, theosophie, helena-blavatsky, droit-humain, formes-pensees, abstraction-et-theosophie
 
 @ paschal-beverly-randolph
 cat: figures
@@ -544,7 +544,7 @@ def: Poète et occultiste lorrain, fondateur de l'Ordre kabbalistique de la Rose
 texte: Stanislas de Guaita naît en 1861 au château d'Alteville, en Lorraine, dans une famille noble d'origine italienne. Au lycée de Nancy, il se lie d'amitié avec Maurice Barrès. Il étudie la chimie et le droit, puis s'installe à Paris, où il publie des recueils de poèmes dans le goût symboliste, *La Muse noire*, *Rosa mystica*.
 texte: En 1884, la lecture du *Vice suprême* de [[josephin-peladan|Péladan]] lui fait découvrir [[eliphas-levi]], et il se consacre dès lors à l'[[occultisme]]. Il réunit une bibliothèque occulte célèbre, engage [[oswald-wirth]] comme secrétaire et fonde en 1888, avec Péladan et [[papus]], l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], qui délivre après examen des grades de bachelier, de licencié et de docteur en kabbale.
 texte: Ses *Essais de sciences maudites* — *Au seuil du mystère* (1886), *Le Temple de Satan* (1891), *La Clef de la magie noire* (1897) — étudient la sorcellerie, la magie noire, l'[[envoutement]] et les forces de la [[lumiere-astrale|lumière astrale]], pour mieux les combattre, dans une langue riche et érudite. Le troisième volume, *Le Problème du mal*, est resté inachevé.
-texte: Il est l'un des protagonistes de la « guerre des envoûtements ». En 1887, avec Wirth, il enquête sur l'abbé [[joseph-antoine-boullan|Boullan]], prêtre défroqué de [[lyon|Lyon]] accusé de pratiques sexuelles rituelles, et un « tribunal » de rosicruciens le condamne. Quand Boullan meurt en 1893, l'écrivain [[joris-karl-huysmans|Huysmans]], qui s'en était inspiré pour *Là-bas*, et le journaliste Jules Bois accusent Guaita de l'avoir tué par magie : un duel au pistolet s'ensuit, sans blessé.
+texte: Il est l'un des protagonistes de la « guerre des envoûtements ». En 1887, avec Wirth, il enquête sur l'abbé [[joseph-antoine-boullan|Boullan]], prêtre défroqué de [[lyon|Lyon]] accusé de pratiques sexuelles rituelles, et un « tribunal » de rosicruciens le condamne. Quand Boullan meurt en 1893, l'écrivain [[joris-karl-huysmans|Huysmans]], qui s'en était inspiré pour *[[la-bas|Là-bas]]*, et le journaliste Jules Bois accusent Guaita de l'avoir tué par magie : un duel au pistolet s'ensuit, sans blessé.
 texte: Usant de morphine, Guaita meurt à trente-six ans, en 1897, au château d'Alteville. Sa bibliothèque est dispersée aux enchères ; son ordre lui survit, et ses livres restent des classiques de l'occultisme français.
 repere: 1861 — Naissance au château d'Alteville, en Lorraine.
 repere: 1884 — La lecture du *Vice suprême* de Péladan lui fait découvrir Éliphas Lévi.
@@ -555,7 +555,7 @@ repere: 1891 — *Le Temple de Satan*.
 repere: 1893 — Accusé d'avoir tué l'abbé Boullan par envoûtement, il se bat en duel avec Jules Bois.
 repere: 1897 — Mort au château d'Alteville, à trente-six ans.
 oeuvres: Au seuil du mystère (1886) ; Le Temple de Satan (1891) ; La Clef de la magie noire (1897)
-voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme, joseph-antoine-boullan
+voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme, joseph-antoine-boullan, la-bas
 
 @ josephin-peladan
 cat: figures
@@ -564,9 +564,9 @@ alias: Péladan, Sâr Péladan, Sâr Mérodack, Salons de la Rose+Croix
 dates: 1858 – 1918
 an: 1858
 def: Écrivain et critique d'art lyonnais, dit le Sâr, fondateur de l'Ordre de la Rose-Croix catholique et organisateur des Salons de la Rose+Croix.
-texte: Joseph-Aimé Péladan naît à [[lyon|Lyon]] en 1858, fils d'un journaliste catholique et royaliste, passionné de prophéties. Il s'installe à Paris en 1882 comme critique d'art, admire Gustave Moreau et [[richard-wagner|Wagner]], et publie en 1884 *Le Vice suprême*, préfacé par Barbey d'Aurevilly, premier volume d'un long cycle romanesque, *La Décadence latine*, qui dénonce la corruption d'un monde sans idéal et exalte le mage, l'artiste et l'androgyne.
+texte: Joseph-Aimé Péladan naît à [[lyon|Lyon]] en 1858, fils d'un journaliste catholique et royaliste, passionné de prophéties. Il s'installe à Paris en 1882 comme critique d'art, admire [[gustave-moreau|Gustave Moreau]] et [[richard-wagner|Wagner]], et publie en 1884 *Le Vice suprême*, préfacé par Barbey d'Aurevilly, premier volume d'un long cycle romanesque, *La Décadence latine*, qui dénonce la corruption d'un monde sans idéal et exalte le mage, l'artiste et l'androgyne.
 texte: Il se pose lui-même en mage, prend le titre assyrien de « Sâr », signe Mérodack, porte barbe et costumes spectaculaires, et devient l'une des figures les plus raillées et les plus célèbres du Paris fin de siècle. Cofondateur en 1888 de l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]], il le quitte pour fonder en 1891 un ordre rival, la [[ordre-de-la-rose-croix-catholique|Rose-Croix catholique du Temple et du Graal]], qui se veut fidèle à l'Église et voué à l'art : c'est la « guerre des Deux Roses ».
-texte: De 1892 à 1897, il organise à Paris six Salons de la Rose+Croix. Le premier, à la galerie Durand-Ruel, s'ouvre au son de fanfares composées par Erik Satie. On y voit des peintres symbolistes de toute l'Europe — Fernand Khnopff, Alexandre Séon, Carlos Schwabe, Jean Delville —, choisis selon un règlement qui bannit la peinture d'histoire, les scènes de la vie moderne et le réalisme, au profit d'un art idéaliste, religieux et mystique.
+texte: De 1892 à 1897, il organise à Paris six [[salons-de-la-rose-croix|Salons de la Rose+Croix]]. Le premier, à la galerie Durand-Ruel, s'ouvre au son de fanfares composées par Erik Satie. On y voit des peintres symbolistes de toute l'Europe — Fernand Khnopff, Alexandre Séon, Carlos Schwabe, Jean Delville —, choisis selon un règlement qui bannit la peinture d'histoire, les scènes de la vie moderne et le réalisme, au profit d'un art idéaliste, religieux et mystique.
 texte: Il écrit aussi pour le théâtre, publie une série de traités sur l'art de devenir mage, fée ou artiste, et traduit [[leonard-de-vinci|Léonard de Vinci]]. Il meurt à Neuilly-sur-Seine en 1918. Longtemps tourné en ridicule, il a été réhabilité par les historiens de l'art, qui voient dans ses Salons l'un des grands moments du symbolisme européen et de la rencontre entre art et ésotérisme.
 repere: 1858 — Naissance à Lyon.
 repere: 1882 — Critique d'art à Paris.
@@ -577,7 +577,7 @@ repere: 1892 — Premier Salon de la Rose+Croix, avec la musique d'Erik Satie.
 repere: 1897 — Sixième et dernier Salon.
 repere: 1918 — Mort à Neuilly-sur-Seine.
 oeuvres: Le Vice suprême (1884) ; Istar (1888) ; Comment on devient mage (1892) ; La Décadence latine (cycle romanesque, 1884-1925)
-voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne
+voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne, salons-de-la-rose-croix, symbolisme
 
 @ papus
 cat: figures
@@ -600,7 +600,7 @@ repere: 1895 — Il rencontre le guérisseur lyonnais Maître Philippe.
 repere: 1901 — Premier voyage à la cour de Nicolas II.
 repere: 1916 — Mort à Paris.
 oeuvres: Traité élémentaire de science occulte (1888) ; Le Tarot des Bohémiens (1889) ; Traité méthodique de science occulte (1891) ; La Kabbale (1892) ; Traité élémentaire de magie pratique (1893)
-voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique
+voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique, le-tarot-des-bohemiens
 
 @ jules-doinel
 cat: figures
@@ -651,7 +651,7 @@ dates: 1841 – 1929
 an: 1841
 def: Écrivain alsacien, auteur des Grands Initiés, récit de l'histoire religieuse de l'humanité comme une succession de révélateurs d'une même vérité.
 texte: Né à Strasbourg en 1841, dans une famille protestante, Édouard Schuré perd tôt ses parents. Il étudie le droit, mais se passionne pour la musique et la poésie, voyage en Allemagne et découvre [[richard-wagner|Wagner]], qu'il rencontre à Munich en 1865 et dont il devient l'un des premiers défenseurs en France avec *Le Drame musical* (1875). La guerre de 1870 le marque profondément : Alsacien, il choisit la France.
-texte: Une amitié avec une Italienne, Marguerita Albana Mignaty, qu'il tient pour une inspiratrice spirituelle, l'oriente vers l'ésotérisme. En 1889, il publie *[[les-grands-inities|Les Grands Initiés]]*, qui présente Rama, Krishna, Hermès, Moïse, Orphée, Pythagore, Platon et Jésus comme les initiés successifs d'une même doctrine secrète, transmise dans les mystères des temples. Le livre, écrit avec chaleur et sans souci d'exactitude historique, a été l'un des plus grands succès de la littérature ésotérique en français, constamment réédité et traduit.
+texte: Une amitié avec une Italienne, Marguerita Albana Mignaty, qu'il tient pour une inspiratrice spirituelle, l'oriente vers l'ésotérisme. En 1889, il publie *[[les-grands-inities|Les Grands Initiés]]*, qui présente Rama, Krishna, Hermès, [[moise|Moïse]], Orphée, Pythagore, Platon et Jésus comme les initiés successifs d'une même doctrine secrète, transmise dans les mystères des temples. Le livre, écrit avec chaleur et sans souci d'exactitude historique, a été l'un des plus grands succès de la littérature ésotérique en français, constamment réédité et traduit.
 texte: Proche de la [[theosophie]], il rencontre en 1906 [[rudolf-steiner]], dont il devient l'ami, le traducteur et le propagateur en France. Il fait jouer ses « drames mystères » et les siens propres, des drames sacrés inspirés de l'Antiquité. La Grande Guerre l'éloigne un temps de Steiner, Allemand, mais il lui reste attaché.
 texte: Il meurt à Paris en 1929. Son influence a dépassé les milieux ésotériques : *Les Grands Initiés* a nourri la sensibilité religieuse de nombreux lecteurs à la recherche d'une spiritualité au-delà des Églises, dans l'esprit de la [[prisca-theologia]] renouvelée.
 repere: 1841 — Naissance à Strasbourg.
@@ -661,7 +661,7 @@ repere: 1889 — *Les Grands Initiés*.
 repere: 1906 — Il rencontre Rudolf Steiner.
 repere: 1929 — Mort à Paris.
 oeuvres: Le Drame musical (1875) ; Les Grands Initiés (1889) ; Sanctuaires d'Orient (1898)
-voir: les-grands-inities, prisca-theologia, rudolf-steiner, initiation, orphee, pythagore
+voir: les-grands-inities, prisca-theologia, rudolf-steiner, initiation, orphee, pythagore, moise, les-nabis
 
 @ samuel-liddell-mathers
 cat: figures
@@ -746,7 +746,7 @@ repere: 1901 — Elle entre dans la Golden Dawn.
 repere: 1907 — Alfred Stieglitz expose ses peintures à New York.
 repere: 1909 — Elle dessine les soixante-dix-huit cartes du tarot Rider-Waite.
 repere: 1951 — Mort en Cornouailles.
-voir: tarot-rider-waite, arthur-edward-waite, golden-dawn, arcanes-mineurs
+voir: tarot-rider-waite, arthur-edward-waite, golden-dawn, arcanes-mineurs, preraphaelites
 
 # ── Figures ajoutées en 1.2 ─────────────────────────────────────────────────
 
@@ -829,7 +829,7 @@ repere: 1798 — *Pollens*, premiers fragments signés Novalis.
 repere: 1800 — *Hymnes à la nuit*.
 repere: 1801 — Mort de la tuberculose, à vingt-huit ans.
 repere: 1802 — Publication posthume d'*Henri d'Ofterdingen*.
-voir: naturphilosophie, jakob-boehme, egyptosophie, mystique, imagination-creatrice, isis
+voir: naturphilosophie, jakob-boehme, egyptosophie, mystique, imagination-creatrice, isis, le-pot-d-or
 
 @ william-blake
 cat: figures
@@ -853,7 +853,7 @@ repere: 1819 — Il dessine des « têtes visionnaires » pour l'astrologue John
 repere: 1826 — *Illustrations du livre de Job*.
 repere: 1827 — Mort à Londres.
 repere: 1893 — W. B. Yeats publie une édition de son œuvre.
-voir: emanuel-swedenborg, jakob-boehme, imagination-creatrice, mystique, william-butler-yeats
+voir: emanuel-swedenborg, jakob-boehme, imagination-creatrice, mystique, william-butler-yeats, femme-revetue-du-soleil, le-paradis-perdu, jerusalem-celeste, jardin-d-eden
 
 @ francis-barrett
 cat: figures
@@ -945,7 +945,7 @@ an: 1802
 def: Poète et romancier français qui, exilé à Jersey, interrogea pendant deux ans les esprits par les tables tournantes, et dont l'œuvre visionnaire est imprégnée de spiritualisme.
 texte: Victor Hugo naît à Besançon en 1802. Chef de file du romantisme, il donne en 1831 *Notre-Dame de Paris*, où l'archidiacre Claude Frollo cherche la [[pierre-philosophale]] et lit dans les pierres de la cathédrale un livre d'[[alchimie]] ; [[fulcanelli]] s'en souviendra. En 1843, sa fille Léopoldine se noie dans la Seine avec son mari : ce deuil ne le quittera plus. Opposé au coup d'État de Louis-Napoléon Bonaparte en 1851, il part en exil, d'abord à Jersey, puis à Guernesey.
 texte: En septembre 1853, à Jersey, une amie de passage, la poétesse Delphine de Girardin, initie la famille aux [[tables-tournantes|tables tournantes]], alors à la mode. Dès la première séance, la table semble transmettre un message de Léopoldine. Pendant près de deux ans, Hugo, sa famille et ses amis interrogent les esprits : se manifestent Shakespeare, Molière, Eschyle, Jésus, Mahomet, mais aussi la Mort, le Drame ou « l'Ombre du sépulcre ». Les réponses, souvent en vers, sont notées dans des cahiers. Les séances cessent en 1855, quand l'un des participants sombre dans la folie.
-texte: Que la table ait été mue par le fils de Hugo, Charles, médium principal, par l'inconscient collectif du groupe ou par Hugo lui-même, les messages ressemblent étrangement à sa poésie. Ils ont en tout cas nourri ses grandes œuvres visionnaires : dans *Les Contemplations* (1856), « Ce que dit la bouche d'ombre » expose une doctrine de la [[metempsycose]] où les âmes coupables expient dans les animaux, les plantes et les pierres, jusqu'au pardon universel ; *La Fin de Satan* et *Dieu* prolongent cette méditation. Ses dessins à l'encre, nés de taches et de hasards, ont la même étrangeté.
+texte: Que la table ait été mue par le fils de Hugo, Charles, médium principal, par l'inconscient collectif du groupe ou par Hugo lui-même, les messages ressemblent étrangement à sa poésie. Ils ont en tout cas nourri ses grandes œuvres visionnaires : dans *Les Contemplations* (1856), « Ce que dit la bouche d'ombre » expose une doctrine de la [[metempsycose]] où les âmes coupables expient dans les animaux, les plantes et les pierres, jusqu'au pardon universel ; *[[la-fin-de-satan|La Fin de Satan]]* et *Dieu* prolongent cette méditation. Ses dessins à l'encre, nés de taches et de hasards, ont la même étrangeté.
 texte: Revenu en France en 1870, Hugo meurt à Paris en 1885 ; la République lui fait des funérailles nationales. Les procès-verbaux des séances de Jersey, publiés en 1923, sont l'un des plus étonnants documents de l'histoire du [[spiritisme]].
 repere: 1802 — Naissance à Besançon.
 repere: 1831 — *Notre-Dame de Paris*, où l'archidiacre Frollo cherche la pierre philosophale.
@@ -956,7 +956,7 @@ repere: 1855 — Fin des séances ; il s'installe à Guernesey.
 repere: 1856 — *Les Contemplations*, avec « Ce que dit la bouche d'ombre ».
 repere: 1885 — Mort à Paris ; funérailles nationales.
 repere: 1923 — Publication des procès-verbaux des tables tournantes de Jersey.
-voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel, argot, gothique, crapaud, elephant, saint-sulpice
+voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel, argot, gothique, crapaud, elephant, saint-sulpice, la-fin-de-satan
 
 @ edward-bulwer-lytton
 cat: figures
@@ -989,8 +989,8 @@ alias: Huysmans, Là-bas, À rebours, Durtal, abbé Boullan, chanoine Docre
 dates: 1848 – 1907
 an: 1848
 def: Écrivain français, auteur d'À rebours et de Là-bas, roman du satanisme et de la messe noire, avant de revenir au catholicisme et de lire le symbolisme des cathédrales.
-texte: Charles-Marie-Georges Huysmans naît à Paris en 1848, fils d'un peintre néerlandais. Fonctionnaire au ministère de l'Intérieur pendant plus de trente ans, il commence sa carrière littéraire dans le sillage de Zola et du naturalisme, puis rompt avec lui en 1884 avec *À rebours*, portrait d'un esthète solitaire, des Esseintes, qui devient la bible de la décadence.
-texte: À la fin des années 1880, il se plonge dans l'étude du satanisme pour un roman sur Gilles de Rais, compagnon de Jeanne d'Arc devenu assassin d'enfants et accusé de sorcellerie. Il fréquente les milieux occultistes parisiens et se lie avec un prêtre défroqué de [[lyon|Lyon]], l'abbé [[joseph-antoine-boullan|Boullan]], qui se dit en guerre magique contre les rosicruciens de [[stanislas-de-guaita]]. *Là-bas* (1891) suit l'écrivain Durtal, double de Huysmans, qui découvre le Paris occulte et assiste, guidé par une femme du monde, à une [[messe-noire|messe noire]] célébrée par un chanoine sacrilège. Le livre fait scandale et fixe pour longtemps l'image du [[satanisme]] fin de siècle.
+texte: Charles-Marie-Georges Huysmans naît à Paris en 1848, fils d'un peintre néerlandais. Fonctionnaire au ministère de l'Intérieur pendant plus de trente ans, il commence sa carrière littéraire dans le sillage de Zola et du naturalisme, puis rompt avec lui en 1884 avec *[[a-rebours|À rebours]]*, portrait d'un esthète solitaire, des Esseintes, qui devient la bible de la décadence.
+texte: À la fin des années 1880, il se plonge dans l'étude du satanisme pour un roman sur Gilles de Rais, compagnon de Jeanne d'Arc devenu assassin d'enfants et accusé de sorcellerie. Il fréquente les milieux occultistes parisiens et se lie avec un prêtre défroqué de [[lyon|Lyon]], l'abbé [[joseph-antoine-boullan|Boullan]], qui se dit en guerre magique contre les rosicruciens de [[stanislas-de-guaita]]. *[[la-bas|Là-bas]]* (1891) suit l'écrivain Durtal, double de Huysmans, qui découvre le Paris occulte et assiste, guidé par une femme du monde, à une [[messe-noire|messe noire]] célébrée par un chanoine sacrilège. Le livre fait scandale et fixe pour longtemps l'image du [[satanisme]] fin de siècle.
 texte: Quand Boullan meurt en 1893, Huysmans accuse les rosicruciens de l'avoir tué par [[envoutement]], ce qui vaut à son ami Jules Bois un duel avec Guaita. Mais Huysmans, lui, a déjà entamé un autre chemin : une retraite à la Trappe d'Igny, en 1892, le ramène à la foi catholique. *En route* (1895) raconte cette conversion, et *La Cathédrale* (1898) déchiffre le symbolisme de [[cathedrale-de-chartres|Chartres]] — ses pierres, ses couleurs, ses animaux et ses plantes — comme un grand livre de théologie.
 texte: Devenu oblat de l'abbaye bénédictine de Ligugé, il meurt à Paris en 1907, d'un cancer, en acceptant ses souffrances comme une expiation. Son itinéraire, de la décadence au satanisme et du satanisme à la mystique, résume les inquiétudes spirituelles de la fin du XIXe siècle.
 repere: 1848 — Naissance à Paris, d'un père peintre néerlandais.
@@ -1003,7 +1003,7 @@ repere: 1895 — *En route*, récit de sa conversion.
 repere: 1898 — *La Cathédrale*, lecture symbolique de Chartres.
 repere: 1899 — Oblat à l'abbaye de Ligugé.
 repere: 1907 — Mort à Paris.
-voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan, gilles-de-rais
+voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan, gilles-de-rais, a-rebours, la-bas
 
 @ maitre-philippe
 cat: figures
@@ -1047,4 +1047,4 @@ repere: 1909 — Il remarque le jeune Krishnamurti sur la plage d'Adyar.
 repere: 1916 — Évêque de l'Église catholique libérale.
 repere: 1927 — *Les Chakras*.
 repere: 1934 — Mort à Perth, en Australie.
-voir: theosophie, societe-theosophique, annie-besant, jiddu-krishnamurti, chakra, aura
+voir: theosophie, societe-theosophique, annie-besant, jiddu-krishnamurti, chakra, aura, formes-pensees

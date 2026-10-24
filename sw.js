@@ -17,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.5.0';
+const VERSION = 'v1.6.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -45,6 +45,7 @@ const FICHIERS = [
   'js/voix.js',
   'js/editeur.js',
   'js/carte.js',
+  'js/constellation.js',
   'js/fiche.js',
   'js/liste.js',
   'js/frise.js',

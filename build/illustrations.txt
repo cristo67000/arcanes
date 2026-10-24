@@ -1061,7 +1061,7 @@ largeur: 560
 commons: The Magic Circle - John William Waterhouse.jpg
 legende: *Le Cercle magique*, par John William Waterhouse
 credit: John William Waterhouse, 1886 — Tate Britain
-pour: cercle-magique
+pour: cercle-magique, preraphaelites
 largeur: 440
 
 = goya-aquelarre
@@ -1965,7 +1965,7 @@ largeur: 420
 commons: John Henry Fuseli - The NightmareFXD.jpg
 legende: *Le Cauchemar*
 credit: Johann Heinrich Füssli, 1781 — Detroit Institute of Arts
-pour: incube-et-succube
+pour: incube-et-succube, le-cauchemar
 
 = abraxas-gemmes
 commons: Jacob van Werden - 'Ioannis Macarii canonici ariensis Abraxas, seu, Apistopistus', Gems Table 1.jpg
@@ -2056,7 +2056,7 @@ largeur: 320
 commons: Melencolia I MET DP815743.jpg
 legende: *Melencolia I*, gravure d’Albrecht Dürer
 credit: Albrecht Dürer, 1514 — Metropolitan Museum of Art, New York
-pour: melencolia
+pour: melencolia, les-chimeres
 largeur: 440
 
 = bergers-arcadie
@@ -2366,7 +2366,7 @@ pour: nicolas-poussin
 commons: Garden delights.jpg
 legende: *Le Jardin des délices*, triptyque de Jérôme Bosch
 credit: Jérôme Bosch, vers 1490-1510 — musée du Prado, Madrid
-pour: jerome-bosch
+pour: jerome-bosch, le-jardin-des-delices
 largeur: 600
 
 = botticelli-venus
@@ -2433,7 +2433,7 @@ largeur: 520
 commons: A Scholar in His Study ('Faust') MET DP814791.jpg
 legende: *Faust*, eau-forte de Rembrandt
 credit: Rembrandt, vers 1652 — Metropolitan Museum of Art, New York
-pour: faust
+pour: faust, faust-dans-son-cabinet
 
 = longin-gravure
 commons: Longinus steekt Christus met zijn speer en de ledematen van de misdadigers worden gebroken, RP-P-OB-21.716.jpg
@@ -4961,8 +4961,8 @@ largeur: 360
 = nag-hammadi
 commons: Nag Hammadi Codex II.jpg
 legende: La fin de l’*Apocryphon de Jean* et le début de l’*Évangile de Thomas*, dans le codex II de Nag Hammadi
-credit: papyrus copte, IVe siècle — Musée copte, Le Caire
-pour: gnosticisme
+credit: papyrus copte, IVe siècle — musée copte du Caire
+pour: apocryphon-de-jean, gnosticisme, evangile-de-thomas
 largeur: 360
 
 = sri-yantra
@@ -5015,3 +5015,931 @@ legende: La colonne dite de Pompée, seul monument resté debout du Sérapéum d
 credit: gravure du *Penny Magazine*, 1834
 pour: alexandrie, serapis
 largeur: 360
+
+% Mythes et allégories
+largeur: 400
+
+= mythe-age-d-or-cranach
+commons: Lucas Cranach d.Ä. - Das Goldene Zeitalter (Nasjonalgalleriet, Oslo).jpg
+legende: L’Âge d’or : hommes et femmes dansent et se baignent dans un jardin clos où les bêtes vivent en paix
+credit: Lucas Cranach l’Ancien, vers 1530 — Nasjonalmuseet, Oslo
+pour: age-d-or
+largeur: 520
+
+= mythe-promethee-cossiers
+commons: Jan Cossiers - Prometeo trayendo el fuego, 1637.jpg
+legende: Prométhée emporte le feu dérobé aux dieux
+credit: Jan Cossiers, d’après une esquisse de Rubens, 1637 — musée du Prado, Madrid
+pour: promethee
+largeur: 360
+
+= mythe-pandore-della-vecchia
+commons: Ca' Rezzonico - Il vaso di Pandora (Inv.70) - Pietro della Vecchia.jpg
+legende: Pandore et le vase d’où les maux se répandent sur les hommes
+credit: Pietro della Vecchia, XVIIe siècle — Ca’ Rezzonico, Venise ; photographie de Didier Descouens
+pour: pandore
+
+= mythe-deucalion-rubens
+commons: Peter Paul Rubens - Deucalion and Pyrrha, 1636.jpg
+legende: Deucalion et Pyrrha jettent derrière eux les pierres d’où renaît l’humanité après le déluge
+credit: Pierre Paul Rubens, esquisse, 1636 — musée du Prado, Madrid
+pour: deluge
+largeur: 520
+
+= mythe-gilgamesh-tablette
+commons: British Museum Flood Tablet.jpg
+legende: La tablette XI de l’*Épopée de Gilgamesh*, où Utnapishtim raconte le déluge, retrouvée à Ninive dans la bibliothèque d’Assurbanipal
+credit: VIIe siècle av. J.-C. — British Museum ; photographie de BabelStone, 2010
+pour: gilgamesh, deluge
+largeur: 360
+
+= mythe-argo-volanakis
+commons: Constantine Volanakis Argo.jpg
+legende: L’*Argo*, le navire des Argonautes
+credit: Konstantinos Volanakis (1837-1907) — collection particulière
+pour: argonautes
+
+= mythe-medee-giaquinto
+commons: Medea Rejuvenating Aeson, Corrado Giaquinto, MET DP268767.jpg
+legende: Médée rend la jeunesse au vieil Éson, le père de Jason, par ses herbes et ses incantations
+credit: Corrado Giaquinto, vers 1760 — Metropolitan Museum of Art, New York
+pour: medee
+
+= mythe-hercules-piochymicus
+commons: Hercules piochymicus (IA herculespiochymi00fabr).pdf
+page: 7
+legende: La page de titre de l’*Hercules piochymicus* de Pierre-Jean Fabre, qui découvre sous les travaux d’Hercule les secrets de la philosophie morale et de l’art chimique
+credit: Toulouse, Pierre Bosc, 1634 — Getty Research Institute
+pour: travaux-d-hercule
+largeur: 360
+
+= mythe-hercule-torlonia
+commons: Sarcophage des travaux d'Hercule (Torlonia).jpg
+legende: Les douze travaux d’Hercule sculptés sur un sarcophage romain, vers 160
+credit: collection Torlonia, Rome ; photographie de Tangopaso, 2024
+pour: travaux-d-hercule
+largeur: 520
+
+= mythe-hercule-carrache
+commons: Annibale Carracci - The Choice of Heracles - WGA4416.jpg
+legende: Hercule entre la Vertu, qui lui montre le chemin escarpé, et le Vice, qui lui promet les plaisirs
+credit: Annibal Carrache, 1596 — musée de Capodimonte, Naples
+pour: hercule-a-la-croisee-des-chemins
+largeur: 520
+
+= mythe-thesee-burne-jones
+commons: Edward Burne-Jones - Tile Design - Theseus and the Minotaur in the Labyrinth - Google Art Project.jpg
+legende: Thésée s’avance dans le labyrinthe ; le Minotaure le guette au détour d’un mur
+credit: Edward Burne-Jones, dessin pour un carreau de céramique, 1861 — Birmingham Museums Trust
+pour: thesee-et-le-minotaure
+largeur: 440
+
+= mythe-thesee-pompei
+commons: Theseus and the Minotaur mosaic Room 42 (Mau-Overbeck 1884 plans) House of the Labyrinth Pompeii.jpg
+legende: Thésée terrasse le Minotaure, au centre d’un labyrinthe de mosaïque
+credit: maison du Labyrinthe, Pompéi, Ier siècle av. J.-C.
+pour: thesee-et-le-minotaure
+largeur: 440
+
+= mythe-ariane-titien
+commons: Titian - Bacchus and Ariadne - Google Art Project.jpg
+legende: Bacchus bondit de son char vers Ariane abandonnée à Naxos ; dans le ciel brille déjà la couronne d’étoiles qu’il lui donnera
+credit: Titien, 1520-1523 — National Gallery, Londres
+pour: ariane
+largeur: 520
+
+= mythe-icare-van-dyck
+commons: Anthony van Dyck - Daedalus and Icarus - Google Art Project.jpg
+legende: Dédale, qui vient d’attacher les ailes de son fils, lui montre la route du ciel
+credit: Antoine van Dyck, vers 1620 — Art Gallery of Ontario, Toronto
+pour: dedale-et-icare
+
+= mythe-oedipe-moreau
+commons: Oedipus and the Sphinx MET DP-14201-023.jpg
+legende: Œdipe face au Sphinx, au-dessus des restes de ceux qui n’ont pas su répondre
+credit: Gustave Moreau, 1864 — Metropolitan Museum of Art, New York
+pour: oedipe
+largeur: 360
+recadrer: 0.025 0.013 0.975 0.987
+
+= mythe-atalante-reni
+commons: Guido Reni - Atalanta and Hippomenes - Google Art Project.jpg
+legende: Atalante se baisse pour ramasser une pomme d’or ; Hippomène la dépasse et gagne la course
+credit: Guido Reni, vers 1620-1625 — musée de Capodimonte, Naples
+pour: atalante
+largeur: 520
+
+= mythe-paris-rubens
+commons: Peter Paul Rubens - The Judgement of Paris - Google Art Project.jpg
+legende: Pâris, la pomme d’or à la main, contemple Minerve, Vénus et Junon ; Mercure se tient à son côté
+credit: Pierre Paul Rubens, vers 1632-1635 — National Gallery, Londres
+pour: jugement-de-paris
+largeur: 520
+
+= mythe-graces-raphael
+commons: Raphaël - Les Trois Grâces - Google Art Project.jpg
+legende: Les trois Grâces enlacées, chacune une pomme d’or à la main
+credit: Raphaël, vers 1504-1505 — musée Condé, Chantilly
+pour: trois-graces
+
+= mythe-ulysse-calypso-bocklin
+commons: Arnold Böcklin 008.jpg
+legende: Ulysse, retenu par Calypso, regarde la mer du côté d’Ithaque
+credit: Arnold Böcklin, 1882 — Kunstmuseum, Bâle
+pour: odyssee-de-l-ame
+largeur: 520
+
+= mythe-circe-waterhouse
+commons: Circe Offering the Cup to Odysseus (2457 x 4023px ed.).jpg
+legende: Circé tend à Ulysse la coupe qui change les hommes en bêtes ; le héros paraît dans le miroir derrière elle
+credit: John William Waterhouse, 1891 — Gallery Oldham
+pour: circe
+largeur: 360
+
+= mythe-psyche-zucchi
+commons: Jacopo Zucchi - Amor and Psyche.jpg
+legende: Psyché lève sa lampe sur l’Amour endormi et découvre le dieu qu’elle ne devait pas voir
+credit: Jacopo Zucchi, 1589 — galerie Borghèse, Rome
+pour: eros-et-psyche
+
+= mythe-narcisse-caravage
+commons: Michelangelo Caravaggio 065.jpg
+legende: Narcisse penché sur la source, épris de son reflet
+credit: attribué au Caravage, vers 1597-1599 — Galerie nationale d’art ancien, palais Barberini, Rome
+pour: narcisse
+
+= mythe-caverne-saenredam
+commons: Jan Pietersz Saenredam after Cornelis Cornelisz van Haarlem, Plato's Cave, 1604, NGA 62542.jpg
+legende: La caverne de Platon : enchaînés, les hommes prennent pour la réalité les ombres projetées sur la paroi
+credit: gravure de Jan Saenredam d’après Cornelis van Haarlem, 1604 — National Gallery of Art, Washington
+pour: allegorie-de-la-caverne
+largeur: 520
+
+= mythe-phedre-papyrus
+commons: Papyrus of Plato Phaedrus.jpg
+legende: Un papyrus du *Phèdre* de Platon retrouvé à Oxyrhynque, reconstitué à partir de plusieurs fragments
+credit: IIe siècle — collection des papyrus d’Oxyrhynque, Oxford
+pour: attelage-aile
+largeur: 520
+
+= mythe-parques-fussli
+commons: Fuseli - The Three Fates, from Plutarch's 'Isis and Osiris' and Plato's 'Res publica' X, 617c. 1805-10, 1937,1006.1.jpg
+legende: Les trois Parques, que le mythe d’Er montre assises autour du fuseau de la Nécessité
+credit: dessin de Johann Heinrich Füssli, vers 1805-1810 — British Museum
+pour: mythe-d-er
+largeur: 360
+
+= mythe-odin-collingwood
+commons: Odin's Self-sacrifice by Collingwood.jpg
+legende: Odin pendu neuf nuits à l’arbre battu des vents, sacrifié à lui-même pour conquérir les runes
+credit: W. G. Collingwood, illustration de l’*Edda* traduite par Olive Bray, 1908
+pour: sacrifice-d-odin
+largeur: 360
+
+= mythe-edda-snorri
+commons: Edda.jpg
+legende: Odin, Heimdall, le cheval Sleipnir et d’autres figures sur la page de titre d’un manuscrit de l’*Edda* de Snorri, dont le prologue fait des dieux des héros venus d’Asie
+credit: manuscrit islandais ÍB 299 4to, XVIIIe siècle — Bibliothèque nationale d’Islande
+pour: evhemerisme
+largeur: 360
+
+= mythe-kurma
+commons: Kurma, the tortoise incarnation of Vishnu.jpg
+legende: Vishnou, changé en tortue, porte la montagne Mandara que dieux et démons font tourner avec le serpent Vasuki
+credit: peinture indienne, vers 1860-1870 — Victoria and Albert Museum, Londres
+pour: barattage-de-la-mer-de-lait
+largeur: 520
+
+= dupuis-portrait
+commons: Charles-François Dupuis.JPG
+legende: Charles-François Dupuis
+credit: portrait gravé de la réédition de l’*Abrégé de l’origine de tous les cultes*, 1836
+pour: charles-francois-dupuis
+largeur: 320
+
++ mythe
+titre: Les mythes de cette rubrique, de la Grèce à l’Inde et au Nord. Touchez une image pour lire l’article.
+images: mythe-age-d-or-cranach, mythe-promethee-cossiers, mythe-pandore-della-vecchia, mythe-deucalion-rubens, mythe-argo-volanakis, mythe-medee-giaquinto, mythe-hercule-torlonia, mythe-hercule-carrache, mythe-thesee-burne-jones, mythe-ariane-titien, mythe-icare-van-dyck, mythe-oedipe-moreau, mythe-atalante-reni, mythe-paris-rubens, mythe-graces-raphael, mythe-ulysse-calypso-bocklin, mythe-circe-waterhouse, mythe-psyche-zucchi, mythe-narcisse-caravage, mythe-caverne-saenredam, mythe-parques-fussli, mythe-odin-collingwood, mythe-gilgamesh-tablette, mythe-kurma
+
+% Apocryphes et écrits gnostiques
+largeur: 360
+
+= apo-tchacos-33
+commons: Codex Tchacos p33.jpg
+legende: La page 33 du codex Tchacos, où commence l’*Évangile de Judas*
+credit: papyrus copte, IIIe-IVe siècle — d’après l’édition critique de la National Geographic Society, 2007
+pour: evangile-de-judas
+largeur: 320
+
+= apo-tchacos-58
+commons: Codex Tchacos p58.jpg
+legende: La page 58, la dernière de l’*Évangile de Judas*, qui s’achève sur la livraison de Jésus et sur le titre du texte
+credit: papyrus copte, IIIe-IVe siècle — d’après l’édition critique de la National Geographic Society, 2007
+pour: codex-tchacos
+largeur: 320
+
+= apo-poxy-3525
+commons: Gospel of Mary.jpg
+legende: Le papyrus d’Oxyrhynque 3525, fragment grec de l’*Évangile de Marie*
+credit: papyrus, IIIe siècle — collection des papyrus d’Oxyrhynque, Oxford
+pour: evangile-de-marie
+
+= apo-poxy-1
+commons: P. Oxy. 1.jpg
+legende: Le papyrus d’Oxyrhynque 1, découvert en 1897 : des paroles de Jésus en grec, dont la découverte de Nag Hammadi a montré qu’elles appartenaient à l’*Évangile selon Thomas*
+credit: papyrus, début du IIIe siècle — Bodleian Library, Oxford
+pour: evangile-de-thomas
+largeur: 320
+
+= apo-philippe-codex-ii
+commons: Evangelio de Felipe · Codex II, 3 · Biblioteca Copta de Nag Hammadi.png
+legende: Une page de l’*Évangile selon Philippe*, dans le codex II de Nag Hammadi
+credit: papyrus copte, IVe siècle — musée copte du Caire
+pour: evangile-de-philippe
+largeur: 300
+
+= apo-verite-codex-i
+commons: · Papiro 17 del Codex I o Code Jung, conteniendo una parte del Evangelio de la Verdad (NHC I,3 ) ·.png
+legende: La page 17 du codex I de Nag Hammadi, dit codex Jung, au début de l’*Évangile de vérité*
+credit: papyrus copte, IVe siècle — musée copte du Caire
+pour: evangile-de-verite
+largeur: 300
+
+= apo-akhmim
+commons: Das Fragment von Akhmim in Griechisch.jpg
+legende: Une page du fragment d’Akhmim, retrouvé en 1886-1887, qui conserve en grec le récit de la Passion de l’*Évangile de Pierre*
+credit: fac-similé publié par Henry Barclay Swete, 1893
+pour: evangile-de-pierre
+largeur: 400
+
+= apo-nicodeme-einsiedeln
+commons: Evangelium Nicodemi manuscript.jpg
+legende: Une page de l’*Évangile de Nicodème* en latin
+credit: manuscrit du IXe ou du Xe siècle — bibliothèque de l’abbaye d’Einsiedeln
+pour: evangile-de-nicodeme
+
+= apo-protevangile-giotto
+commons: Giotto di Bondone - No. 6 Scenes from the Life of Joachim - 6. Meeting at the Golden Gate - WGA09176.jpg
+legende: Joachim et Anne se retrouvent à la Porte dorée de Jérusalem, scène venue du *Protévangile de Jacques*
+credit: Giotto, fresque, 1303-1305 — chapelle des Scrovegni, Padoue
+pour: protevangile-de-jacques
+largeur: 440
+
+= apo-ophites-matter
+commons: Ophitediagram-matter.png
+legende: Le « diagramme des ophites » décrit par Origène, carte des cercles que l’âme doit franchir, restitué par Jacques Matter
+credit: planche de l’*Histoire critique du gnosticisme*, 1828
+pour: ophites
+largeur: 320
+
+= apo-irenee-begule
+commons: San Ireneo, vitral (cropped).jpg
+legende: Saint Irénée, évêque de Lyon
+credit: vitrail de Lucien Bégule, 1901 — église Saint-Irénée, Lyon ; photographie de Gérald Gambier
+pour: irenee-de-lyon
+
++ apocryphes
+titre: Papyrus et manuscrits des apocryphes, du IIIe au Xe siècle. Touchez une image pour lire l’article du texte.
+images: apo-poxy-1, nag-hammadi, apo-philippe-codex-ii, apo-verite-codex-i, apo-poxy-3525, apo-tchacos-33, henoch-papyrus, apo-akhmim, apo-nicodeme-einsiedeln
+
+% Mythes de la Bible : Salomon et le Temple
+
+= saba-lorrain
+commons: Claude Lorrain - Seaport with the Embarkation of the Queen of Sheba - WGA05002.jpg
+legende: *Port avec l’embarquement de la reine de Saba*, par Claude Lorrain
+credit: Claude Lorrain, 1648 — National Gallery, Londres
+pour: reine-de-saba
+largeur: 440
+
+= saba-piero-rencontre
+commons: Piero, arezzo, Adoration of the Holy Wood and the Meeting of Solomon and the Queen of Sheba 07.jpg
+legende: Salomon accueille la reine de Saba, détail de la *Légende de la Vraie Croix*
+credit: Piero della Francesca, vers 1452-1466 — église San Francesco, Arezzo
+pour: reine-de-saba
+
+= saba-piero
+commons: Piero, arezzo, Adoration of the Holy Wood and the Meeting of Solomon and the Queen of Sheba 01.jpg
+legende: La reine de Saba s’agenouille devant le bois de la future Croix, puis rencontre Salomon
+credit: Piero della Francesca, vers 1452-1466 — église San Francesco, Arezzo
+pour: legende-de-la-vraie-croix
+largeur: 440
+
+= salomon-poussin
+commons: Le Jugement de Salomon - 1649 - Nicolas Poussin - Louvre - INV 7277 ; MR 2316 (2).jpg
+legende: *Le Jugement de Salomon*, par Nicolas Poussin
+credit: Nicolas Poussin, 1649 — musée du Louvre, Paris
+pour: jugement-de-salomon
+largeur: 440
+
+= temple-fouquet
+commons: Construction du Temple de Jérusalem.jpg
+legende: La construction du Temple de Jérusalem, dans les *Antiquités judaïques* de Flavius Josèphe
+credit: Jean Fouquet, vers 1470 — Bibliothèque nationale de France
+pour: construction-du-temple
+
+= ophir-montano
+commons: 1571 Arias Montanus World Map Altea Gallery.jpg
+legende: La mappemonde de géographie sacrée de Benito Arias Montano, qui croyait retrouver Ophir dans le nom du Pérou
+credit: Benito Arias Montano, Anvers, 1571
+pour: ophir
+largeur: 440
+
+= huppe-hafez
+commons: Collection of poems (divan), King Solomon and the hoopoe who brought news from Queen Sheba, Walters Manuscript W.636, fol. 84a.jpg
+legende: Salomon et la huppe qui lui apporte des nouvelles de la reine de Saba, dans un *Divan* de Hafez
+credit: manuscrit persan copié en Inde en 1796 — Walters Art Museum, Baltimore
+pour: huppe
+recadrer: 0.31 0.275 0.92 0.715
+
+= salomon-demons
+commons: `Aliquli - King Solomon and Two Demons - Walters W62494B - Full Page.jpg
+legende: Le roi Salomon et deux démons, miniature persane
+credit: ʿAliqoli, 1597-1598 — Walters Art Museum, Baltimore
+pour: testament-de-salomon
+
+= shamir-happel
+commons: Solomon's shamir.png
+legende: Le shamir, le ver qui taillait la pierre sans outil de fer
+credit: Eberhard Werner Happel, 1707
+pour: shamir
+largeur: 320
+
+= gounod-saba
+commons: L'Illustration 1862 gravure Théatre de l'Académie Impériale de Musique - La Reine de Saba.jpg
+legende: *La Reine de Saba* de Gounod, tirée du conte de Nerval, à l’Opéra en 1862
+credit: gravure de Godefroy Durand, *L’Illustration*, mars 1862
+pour: histoire-de-la-reine-du-matin
+largeur: 440
+
+= tubalcain-nuremberg
+commons: Tubal-Kaïn en zijn zuster Naäma Tubalcai Noema (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-8-5.jpg
+legende: Tubalcaïn à sa forge et sa sœur Naama
+credit: gravure sur bois de la *Chronique de Nuremberg* de Hartmann Schedel, 1493 — Rijksmuseum, Amsterdam
+pour: tubal-cain
+
+% Mythes de la Bible : de l’Éden à Babylone
+
+= eden-cranach
+commons: Lucas Cranach d.Ä. - Paradies (1530, Kunsthistorisches Museum).jpg
+legende: *Le Paradis*, par Lucas Cranach l’Ancien
+credit: Lucas Cranach l’Ancien, 1530 — Kunsthistorisches Museum, Vienne
+pour: jardin-d-eden
+largeur: 440
+
+= lilith-rossetti
+commons: Dante Gabriel Rossetti - Lady Lilith.jpg
+legende: *Lady Lilith*, par Dante Gabriel Rossetti
+credit: Dante Gabriel Rossetti, 1866-1873 — Delaware Art Museum, Wilmington
+pour: lilith
+
+= cain-rubens
+commons: Peter Paul Rubens - Cain slaying Abel (Courtauld Institute).jpg
+legende: *Caïn tuant Abel*, par Pierre Paul Rubens
+credit: Pierre Paul Rubens, vers 1608-1609 — Courtauld Gallery, Londres
+pour: cain-et-abel
+
+= babel-bruegel
+commons: Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg
+legende: *La Tour de Babel*, par Pieter Bruegel l’Ancien
+credit: Pieter Bruegel l’Ancien, 1563 — Kunsthistorisches Museum, Vienne
+pour: tour-de-babel
+largeur: 440
+
+= melchisedech-bouts
+commons: Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg
+legende: Melchisédech offre le pain et le vin à Abraham
+credit: Dirk Bouts, 1464-1467, volet du retable du Saint-Sacrement — église Saint-Pierre, Louvain
+pour: melchisedech
+
+= moise-reni
+commons: Moses Breaking the Tablets of the Law, by Guido Reni.jpg
+legende: *Moïse brisant les tables de la Loi*, par Guido Reni
+credit: Guido Reni, 1624-1625 — galerie Borghèse, Rome
+pour: moise
+
+= serpent-rubens
+commons: The Brazen Serpent (Rubens - NG59).jpg
+legende: *Le Serpent d’airain*, par Pierre Paul Rubens
+credit: Pierre Paul Rubens, vers 1635-1640 — National Gallery, Londres
+pour: serpent-d-airain
+largeur: 440
+
+= cantique-rothschild
+commons: Song of songs Rothschild mahzor.jpg
+legende: Le Cantique des cantiques dans le *Mahzor Rothschild*
+credit: manuscrit hébreu enluminé, Italie, 1490 — Jewish Theological Seminary, New York
+pour: cantique-des-cantiques
+
+= sagesse-gigas
+commons: Sapientia.jpg
+legende: « Incipit liber Sapientiae Salomonis » : le début du livre de la Sagesse dans le *Codex Gigas*
+credit: *Codex Gigas*, Bohême, début du XIIIe siècle — Bibliothèque royale de Suède, Stockholm
+pour: livre-de-la-sagesse
+
+= jonas-michel-ange
+commons: Prophet Jonah.jpg
+legende: Le prophète Jonas, par Michel-Ange
+credit: Michel-Ange, 1508-1512 — chapelle Sixtine, Vatican
+pour: jonas
+
+= nabuchodonosor-statue
+commons: The Hague, KB, 131 A 3, Nebuchadnezzar's statue.jpeg
+legende: La statue du songe de Nabuchodonosor, à la tête d’or et aux pieds de fer et d’argile
+credit: manuscrit enluminé du Moyen Âge — Koninklijke Bibliotheek, La Haye
+pour: songe-de-nabuchodonosor
+
+= balthazar-rembrandt
+commons: Rembrandt-Belsazar.jpg
+legende: *Le Festin de Balthazar*, par Rembrandt
+credit: Rembrandt, vers 1635-1638 — National Gallery, Londres
+pour: festin-de-balthazar
+largeur: 440
+
+= mages-altdorfer
+commons: Albrecht Altdorfer - The Adoration of the Magi - Städel.jpg
+legende: *L’Adoration des mages*, par Albrecht Altdorfer
+credit: Albrecht Altdorfer, vers 1530-1535 — Städel Museum, Francfort
+pour: rois-mages
+
+= juif-errant-dore
+commons: Georges Rouget after Gustave Doré, Le Juif Errant, c. 1856, NGA 56896.jpg
+legende: Le Juif errant, d’après *La Légende du Juif errant* de Gustave Doré
+credit: Georges Rouget d’après Gustave Doré, vers 1856 — National Gallery of Art, Washington
+pour: juif-errant
+
+% Saint Jean et l’Apocalypse
+
+= jean-domenichino
+commons: Zampieri St John Evangelist.jpg
+legende: *Saint Jean l’Évangéliste*, par le Dominiquin
+credit: le Dominiquin, 1624-1629 — National Gallery, Londres
+pour: jean-l-evangeliste
+
+= baptiste-leonard
+commons: Leonardo da Vinci - Saint John the Baptist C2RMF retouched.jpg
+legende: *Saint Jean-Baptiste*, par Léonard de Vinci
+credit: Léonard de Vinci, 1513-1516 — musée du Louvre, Paris
+pour: jean-baptiste
+
+= deux-jean-greco
+commons: John Evangelista and John Baptista.jpg
+legende: Saint Jean l’Évangéliste et saint Jean-Baptiste, par le Greco
+credit: le Greco et son atelier, début du XVIIe siècle
+pour: loges-de-saint-jean
+
+= lindisfarne-jean
+commons: Lindisfarne Gospels folio 209v.jpg
+legende: Saint Jean et son aigle, dans les *Évangiles de Lindisfarne*
+credit: *Évangiles de Lindisfarne*, vers 715, folio 209 verso — British Library, Londres
+pour: evangile-de-jean
+
+= kells-jean
+commons: KellsFol292rIncipJohn.jpg
+legende: « In principio erat verbum » : le début de l’Évangile de Jean dans le *Livre de Kells*
+credit: *Livre de Kells*, vers 800, folio 292 recto — Trinity College, Dublin
+pour: logos
+
+= peche-witz
+commons: Konrad Witz. Der Wunderbare Fischzug (1444).jpg
+legende: *La Pêche miraculeuse* de Konrad Witz : Pierre se jette à l’eau pour rejoindre le Christ ressuscité, sur la rive du lac Léman
+credit: Konrad Witz, 1444 — musée d’Art et d’Histoire, Genève
+pour: cent-cinquante-trois
+largeur: 440
+
+= mandeens-pretres
+commons: Mandaeans of Iraq 01a - Mandaeans of priestly caste.jpg
+legende: Prêtres mandéens d’Irak
+credit: photographie publiée par Ethel S. Drower dans *The Mandaeans of Iraq and Iran*, 1937
+pour: mandeens
+largeur: 440
+
+= ephese-galle
+commons: Philip Galle, after Maerten van Heemskerck, Dianae Ephesiae Templum (The Temple of Diana at Ephesus), 1572, NGA 156112.jpg
+legende: Le temple de Diane à Éphèse, l’une des sept merveilles du monde
+credit: Philip Galle d’après Maarten van Heemskerck, 1572 — National Gallery of Art, Washington
+pour: ephese
+largeur: 440
+
+= patmos-bosch
+commons: Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg
+legende: *Saint Jean à Patmos*, par Jérôme Bosch
+credit: Jérôme Bosch, vers 1489 — Gemäldegalerie, Berlin
+pour: patmos
+
+= apocalypse-san-paolo
+commons: BibleSPaoloFol331vFrontRev.jpg
+legende: Le frontispice de l’Apocalypse dans la Bible de Saint-Paul-hors-les-Murs
+credit: Bible carolingienne, vers 870 — abbaye Saint-Paul-hors-les-Murs, Rome
+pour: apocalypse
+
+= jerusalem-facundus
+commons: B Facundus 253v.jpg
+legende: La Jérusalem nouvelle et ses douze portes, dans le Beatus de Facundus
+credit: Facundus, 1047, pour Ferdinand Ier de Castille et la reine Sancha — Biblioteca Nacional, Madrid
+pour: jerusalem-celeste
+
+= blake-dragon
+commons: William Blake, The Great Red Dragon and the Woman Clothed with the Sun, c. 1805, NGA 11502.jpg
+legende: *Le Grand Dragon rouge et la Femme vêtue de soleil*, par William Blake
+credit: William Blake, vers 1805 — National Gallery of Art, Washington
+pour: femme-revetue-du-soleil
+
+= durer-cavaliers
+commons: Albrecht Dürer, The Four Horsemen, 1498, NGA 142352.jpg
+legende: *Les Quatre Cavaliers*, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, 1498 — National Gallery of Art, Washington
+pour: quatre-cavaliers
+
+= durer-michel
+commons: Albrecht Dürer, Saint Michael Fighting the Dragon, 1498, NGA 142359.jpg
+legende: Saint Michel combattant le dragon, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, 1498 — National Gallery of Art, Washington
+pour: apocalypse-de-durer
+
+= durer-chandeliers
+commons: Albrecht Dürer, The Vision of the Seven Candlesticks, 1498, NGA 142350.jpg
+legende: Saint Jean et la vision des sept chandeliers, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, 1498 — National Gallery of Art, Washington
+
+= durer-femme
+commons: Albrecht Dürer, The Apocalyptic Woman, 1498, NGA 142358.jpg
+legende: La Femme vêtue de soleil et le dragon à sept têtes, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, 1498 — National Gallery of Art, Washington
+
+= durer-babylone
+commons: Albrecht Dürer, The Whore of Babylon, 1498, NGA 142362.jpg
+legende: La grande prostituée de Babylone, de l’*Apocalypse* de Dürer
+credit: Albrecht Dürer, 1498 — National Gallery of Art, Washington
+
+= angers-michel
+commons: Hennequin de Bruges - Saint Michael fighting the Dragon - WGA24178.jpg
+legende: Saint Michel et ses anges combattent le dragon, dans la tenture de l’Apocalypse
+credit: d’après les cartons de Hennequin de Bruges, vers 1375-1382 — château d’Angers
+pour: tenture-de-l-apocalypse
+largeur: 440
+
+= agneau-central
+commons: Ghent Altarpiece - Adoration of the Mystic Lamb.jpg
+legende: L’Adoration de l’Agneau, panneau central du retable de Gand
+credit: Hubert et Jan van Eyck, 1432 — cathédrale Saint-Bavon, Gand
+pour: l-agneau-mystique
+largeur: 440
+
+% Littérature
+
+= gitans-1923
+commons: Pèlerinage des Saintes Maries de la Mer (campement de gitans, 23-25 mai 1923) - btv1b53106512r.jpg
+legende: Campement de Gitans aux Saintes-Maries-de-la-Mer, au pèlerinage de mai 1923
+credit: Agence Rol, mai 1923 — Bibliothèque nationale de France
+pour: la-reine-du-sabbat
+largeur: 440
+
+= sara-statue
+commons: Saintes-Maries-de-la-Mer Sarah.jpg
+legende: La statue de sainte Sara dans la crypte de l’église des Saintes-Maries-de-la-Mer
+credit: photographie de M. S., 2006
+pour: sara-la-kali
+recadrer: 0.42 0 1 1
+
+= rouletabille-annonce
+commons: Rouletabille chez les bohémiens (Annonce 19220927).jpg
+legende: L’annonce du cinéroman *Rouletabille chez les Bohémiens*
+credit: *Le Matin*, 27 septembre 1922 — Bibliothèque nationale de France
+pour: rouletabille-chez-les-bohemiens
+largeur: 440
+
+= nerval-vieille-lanterne
+commons: Gustave Doré, Rue de la Vieille lanterne (The Suicide of Gérard de Nerval), 1855, NGA 208198.jpg
+legende: *La Rue de la Vieille-Lanterne*, où Nerval fut retrouvé pendu le 26 janvier 1855
+credit: lithographie de Gustave Doré, 1855 — National Gallery of Art, Washington
+pour: aurelia
+
+= potdor-hoffmann
+commons: Hoffmann, E. T. A. Fantasiestücke in Callot's Manier. 1, Titelseite.jpg
+legende: Les *Fantasiestücke in Callot’s Manier*, le recueil où parut *Le Pot d’or* en 1814
+credit: page de titre du premier volume, Bamberg, C. F. Kunz, 1814
+pour: le-pot-d-or
+largeur: 320
+
+= frankenstein-holst
+commons: Frankenstein.1831.inside-cover.jpg
+legende: Le frontispice de l’édition de 1831 de *Frankenstein*
+credit: gravure d’après Theodor von Holst, 1831
+pour: frankenstein
+
+= vathek-1787
+commons: VathekFrench.jpg
+legende: *Vathek*, édition de Lausanne, 1787
+credit: Isaac Hignou, Lausanne, 1787
+pour: vathek
+largeur: 320
+
+= balsamo-cheret
+commons: Lire dans le Progrès Joseph Balsamo, par Alexandre Dumas affiche, Jules Chéret.jpg
+legende: Affiche de Jules Chéret pour *Joseph Balsamo* d’Alexandre Dumas, publié en feuilleton
+credit: Jules Chéret, 1889 — Bibliothèque nationale de France
+pour: joseph-balsamo
+
+= axel-affiche
+commons: Poster for "Axel" (1894).tif
+legende: L’affiche de la création d’*Axël* au théâtre, en 1894
+credit: Maurice de Lambert, 1894
+pour: axel
+
+= moreau-apparition
+commons: Gustave Moreau - The Apparition - Google Art Project.jpg
+legende: *L’Apparition*, l’aquarelle de Gustave Moreau que contemple des Esseintes
+credit: Gustave Moreau, vers 1876 — musée d’Orsay, Paris
+pour: a-rebours
+
+= labas-titre
+commons: Title Page of Là-bas.jpeg
+legende: La couverture de l’édition originale de *Là-bas*
+credit: Tresse et Stock, 1891
+pour: la-bas
+largeur: 320
+
+= tentation-redon
+commons: Odilon Redon - The Temptation of St. Anthony - 1927.352 - Cleveland Museum of Art.tif
+legende: Une planche de *La Tentation de saint Antoine* d’Odilon Redon, d’après Flaubert
+credit: lithographie d’Odilon Redon, 1888 — Cleveland Museum of Art
+pour: la-tentation-de-saint-antoine
+
+= satan-bernard
+commons: N° 49 – « Satan est mort renais, ô Lucifer céleste », 4414.49.jpg
+legende: « Satan est mort ; renais, ô Lucifer céleste ! », le dernier vers de *La Fin de Satan*
+credit: gravure d’Émile Bernard, 1935 — maison de Victor Hugo, Paris
+pour: la-fin-de-satan
+
+= paradis-martin
+commons: Le Pandemonium - John Martin - Musée du Louvre Peintures RF 2006 21 - sans cadre.jpg
+legende: *Le Pandémonium*, la capitale de Satan dans le *Paradis perdu*, par John Martin
+credit: John Martin, 1841 — musée du Louvre, Paris
+pour: le-paradis-perdu
+largeur: 440
+
+= mines-1887
+commons: Front cover King Solomon's Mines 1887.jpg
+legende: La couverture d’une édition de 1887 des *Mines du roi Salomon*
+credit: couverture, 1887
+pour: les-mines-du-roi-salomon
+largeur: 320
+
+= pendule-1895
+commons: Foucault Pendulum.jpg
+legende: Le pendule de Foucault, qui rend visible la rotation de la Terre
+credit: gravure de *Facts Worth Knowing*, recueil tiré du *Scientific American*, 1895
+pour: le-pendule-de-foucault
+largeur: 320
+
+= etoile-visconti
+commons: Bembo-Visconti-tarot-arcanum-17-star.jpg
+legende: L’Étoile, arcane XVII, du tarot Visconti-Sforza
+credit: atelier de Bonifacio Bembo, milieu du XVe siècle
+pour: arcane-17
+largeur: 320
+
+= wirth-1889
+commons: 01 Le Bateleur, Oswald Wirth Tarot Deck 1889 BnF.jpg
+legende: Le Bateleur du tarot d’Oswald Wirth, dont Papus reproduit les arcanes dans *Le Tarot des Bohémiens*
+credit: Oswald Wirth, 1889 — Bibliothèque nationale de France
+pour: le-tarot-des-bohemiens
+largeur: 320
+
+= potocki
+commons: Jan Potocki (1761-1815).jpg
+legende: Jean Potocki
+credit: portrait d’après Alexandre Varnek, XIXe siècle
+pour: le-manuscrit-trouve-a-saragosse
+largeur: 320
+
+= rimbaud-carjat
+commons: Rimbaud.PNG
+legende: Arthur Rimbaud à dix-sept ans
+credit: photographie d’Étienne Carjat, vers 1871-1872
+pour: arthur-rimbaud
+largeur: 320
+
+= meyrink-portrait
+commons: Gustav Meyrink, portrait.gif
+legende: Gustav Meyrink
+credit: photographie, vers 1930
+pour: gustav-meyrink
+largeur: 320
+
+= meyrink-golem
+commons: "The appearance of the Golem", page 6 from the book "Der Golem", illustrated by Hugo Steiner-Prag.jpg
+legende: L’apparition du Golem dans le ghetto de Prague, lithographie pour le roman de Meyrink
+credit: Hugo Steiner-Prag — Center for Jewish History, New York
+pour: gustav-meyrink
+
+% Peinture et gravure
+
+= moreau-portrait
+commons: GustaveMoreau02.jpg
+legende: Gustave Moreau, autoportrait
+credit: Gustave Moreau, 1850 — musée Gustave-Moreau, Paris
+pour: gustave-moreau
+largeur: 320
+
+= moreau-semele
+commons: Jupiter and Semele by Gustave Moreau.jpg
+legende: *Jupiter et Sémélé*, par Gustave Moreau
+credit: Gustave Moreau, 1894-1895 — musée Gustave-Moreau, Paris
+pour: gustave-moreau
+
+= moreau-salome
+commons: Salome Dancing before Herod by Gustave Moreau.jpg
+legende: *Salomé dansant devant Hérode*, par Gustave Moreau
+credit: Gustave Moreau, 1876 — Hammer Museum, Los Angeles
+pour: salome
+
+= redon-portrait
+commons: Odilon Redon vers 1880.jpg
+legende: Odilon Redon
+credit: photographie de Guy et Mockel, vers 1880
+pour: odilon-redon
+largeur: 320
+
+= redon-yeux-clos
+commons: Odilon Redon - Closed Eyes - Google Art Project.jpg
+legende: *Les Yeux clos*, par Odilon Redon
+credit: Odilon Redon, 1890 — musée d’Orsay, Paris
+pour: odilon-redon
+
+= delville-portrait
+commons: Portrait de Jean Delville.png
+legende: Jean Delville
+credit: photographie, vers 1910 — collection Miriam Delville
+pour: jean-delville
+largeur: 320
+
+= delville-satan
+commons: Les Trésors de Sathan (1895) - Jean Delville.jpg
+legende: *Les Trésors de Satan*, par Jean Delville
+credit: Jean Delville, 1895 — musées royaux des Beaux-Arts de Belgique, Bruxelles
+pour: jean-delville
+
+= klint-portrait
+commons: Hilma-af-Klint-uncropped.jpg
+legende: Hilma af Klint
+credit: photographie, vers 1885
+pour: hilma-af-klint
+largeur: 320
+
+= klint-jeunesse
+commons: Hilma af Klint - The Ten Largest No. 3 - Youth - 1907.jpg
+legende: *Les Dix Plus Grands*, n° 3, *La Jeunesse*, par Hilma af Klint
+credit: Hilma af Klint, 1907 — fondation Hilma af Klint, Stockholm
+pour: abstraction-et-theosophie, hilma-af-klint
+
+= kandinsky-erfurth
+commons: Kandinsky by Hugo Erfurth, 1923 (cropped).png
+legende: Vassily Kandinsky
+credit: photographie de Hugo Erfurth, 1923
+pour: wassily-kandinsky
+largeur: 320
+
+= kandinsky-vii
+commons: Composition VII - Wassily Kandinsky, GAC.jpg
+legende: *Composition VII*, par Vassily Kandinsky
+credit: Vassily Kandinsky, 1913 — galerie Tretiakov, Moscou
+pour: wassily-kandinsky
+largeur: 440
+
+= mondrian-portrait
+commons: Piet Mondrian 2.jpg
+legende: Piet Mondrian
+credit: photographie publiée dans *De Stijl*, décembre 1922
+pour: piet-mondrian
+largeur: 320
+
+= mondrian-evolution
+commons: Mondrian, Evolution (Triptychon), 1911.jpg
+legende: *Évolution*, le triptyque théosophique de Piet Mondrian
+credit: Piet Mondrian, 1911 — Kunstmuseum, La Haye
+pour: piet-mondrian, abstraction-et-theosophie
+largeur: 440
+
+= roerich-portrait
+commons: N Roerich.jpg
+legende: Nicolas Roerich
+credit: photographie, années 1940
+pour: nicolas-roerich
+largeur: 320
+
+= roerich-mere
+commons: Nicholas Roerich - Mother of the World, 1924 - original.jpg
+legende: *La Mère du monde*, par Nicolas Roerich
+credit: Nicolas Roerich, 1924
+pour: nicolas-roerich
+
+= formes-gounod
+commons: Music of Gounod - Annie Besant Thought Form - Project Gutenberg eText 16269.jpg
+legende: La musique de Gounod vue comme une « forme-pensée » au-dessus d’une église
+credit: planche de *Thought-Forms*, d’Annie Besant et Charles W. Leadbeater, 1901
+pour: formes-pensees
+
+= nabis-talisman
+commons: Paul Sérusier - The Talisman - Google Art Project.jpg
+legende: *Le Talisman*, par Paul Sérusier
+credit: Paul Sérusier, 1888 — musée d’Orsay, Paris
+pour: les-nabis
+
+= khnopff-porte
+commons: Fernand Khnopff - I lock my door upon myself.jpeg
+legende: *I Lock My Door upon Myself*, par Fernand Khnopff
+credit: Fernand Khnopff, 1891 — Neue Pinakothek, Munich
+pour: symbolisme
+largeur: 440
+
+= rose-croix-affiche
+commons: Poster for the fifth Salon de la Rose+Croix.jpg
+legende: L’affiche du cinquième Salon de la Rose-Croix
+credit: Armand Point et Léonard Sarluis, 1896
+pour: salons-de-la-rose-croix
+largeur: 440
+
+= vanite-champaigne
+commons: StillLifeWithASkull.jpg
+legende: *Vanité*, par Philippe de Champaigne
+credit: Philippe de Champaigne, vers 1671 — musée de Tessé, Le Mans
+pour: vanites
+largeur: 440
+
+= amour-titien
+commons: Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514)FXD.jpg
+legende: *L’Amour sacré et l’Amour profane*, par Titien
+credit: Titien, vers 1514 — galerie Borghèse, Rome
+pour: l-amour-sacre-et-l-amour-profane
+largeur: 440
+
+= printemps-botticelli
+commons: Sandro Botticelli - La Primavera - Google Art Project.jpg
+legende: *Le Printemps*, par Sandro Botticelli
+credit: Sandro Botticelli, vers 1480 — galerie des Offices, Florence
+pour: le-printemps
+largeur: 440
+
+= athenes-raphael
+commons: "The School of Athens" by Raffaello Sanzio da Urbino.jpg
+legende: *L’École d’Athènes*, par Raphaël
+credit: Raphaël, 1509-1511 — chambre de la Signature, Vatican
+pour: l-ecole-d-athenes
+largeur: 440
+
+= philosophes-giorgione
+commons: Giorgione - Three Philosophers - Google Art Project.jpg
+legende: *Les Trois Philosophes*, par Giorgione
+credit: Giorgione, vers 1508-1509 — Kunsthistorisches Museum, Vienne
+pour: les-trois-philosophes
+largeur: 440
+
+= ambassadeurs-holbein
+commons: Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg
+legende: *Les Ambassadeurs*, par Hans Holbein le Jeune, avec le crâne peint en anamorphose
+credit: Hans Holbein le Jeune, 1533 — National Gallery, Londres
+pour: les-ambassadeurs
+
+= sabbat-goya
+commons: GOYA - El aquelarre (Museo Lázaro Galdiano, Madrid, 1797-98).jpg
+legende: *Le Sabbat des sorcières*, par Francisco de Goya
+credit: Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid
+pour: le-sabbat-des-sorcieres
+
+= toteninsel
+commons: Arnold Böcklin - Die Toteninsel V (Museum der bildenden Künste Leipzig).jpg
+legende: *L’Île des morts*, cinquième version, par Arnold Böcklin
+credit: Arnold Böcklin, 1886 — musée des Beaux-Arts, Leipzig
+pour: l-ile-des-morts
+largeur: 440
+
+= sienne-hermes
+commons: Pavimento di siena, ermete trismegisto (giovanni di stefano) 01.jpg
+legende: Hermès Trismégiste, sur le pavement de la cathédrale de Sienne
+credit: marqueterie de marbre, vers 1488 — cathédrale de Sienne
+pour: cathedrale-de-sienne, hermes-trismegiste
+
++ mythes-bibliques
+titre: Les mythes de la Bible dans l’art, du jardin d’Éden à la Jérusalem céleste. Touchez une image pour lire l’article.
+images: eden-cranach, lilith-rossetti, cain-rubens, tubalcain-nuremberg, mythe-deucalion-rubens, babel-bruegel, melchisedech-bouts, blake-echelle, moise-reni, serpent-rubens, tissot-arche, salomon-poussin, temple-fouquet, saba-lorrain, jonas-michel-ange, nabuchodonosor-statue, balthazar-rembrandt, mages-altdorfer, saba-piero, juif-errant-dore, durer-cavaliers, blake-dragon, jerusalem-facundus
+
++ salomon
+titre: Salomon, son Temple et ses légendes, de la Bible à Nerval. Touchez une image pour lire l’article.
+images: salomon-poussin, temple-fouquet, villalpando-temple, temple-vatable, saba-lorrain, saba-piero, huppe-hafez, gounod-saba, shamir-happel, asmodee-le-breton, salomon-demons, tissot-arche, ophir-montano, mines-1887
+
++ jean-l-evangeliste
+titre: Saint Jean, de l’Évangile à l’Apocalypse. Touchez une image pour lire l’article.
+images: lindisfarne-jean, kells-jean, kells-tetramorphe, peche-witz, ephese-galle, patmos-bosch, apocalypse-san-paolo, deux-jean-greco, baptiste-leonard, moreau-salome, mandeens-pretres
+
++ apocalypse
+titre: L’Apocalypse en images, des Beatus à William Blake. Touchez une image pour lire l’article.
+images: patmos-bosch, jerusalem-facundus, angers-michel, durer-michel, durer-cavaliers, durer-bete, michel-raphael, blake-dragon, agneau-central
+
++ apocalypse-de-durer
+titre: Six des quinze gravures de l’*Apocalypse* de Dürer (1498). Touchez une image pour l’agrandir ou lire l’article.
+images: durer-chandeliers, durer-cavaliers, durer-bete, durer-femme, durer-michel, durer-babylone
+
++ symbolisme
+titre: Le symbolisme et ses voisins, de Gustave Moreau à Hilma af Klint. Touchez une image pour lire l’article.
+images: moreau-semele, moreau-apparition, redon-yeux-clos, toteninsel, delville-satan, rose-croix-affiche, axel-affiche, waterhouse-cercle, nabis-talisman, klint-jeunesse, mondrian-evolution

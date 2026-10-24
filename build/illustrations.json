@@ -2463,7 +2463,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:The_Magic_Circle_-_John_William_Waterhouse.jpg",
    "pour": [
-    "cercle-magique"
+    "cercle-magique",
+    "preraphaelites"
    ],
    "sig": "The Magic Circle - John William Waterhouse.jpg||440|74"
   },
@@ -4367,7 +4368,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_NightmareFXD.jpg",
    "pour": [
-    "incube-et-succube"
+    "incube-et-succube",
+    "le-cauchemar"
    ],
    "sig": "John Henry Fuseli - The NightmareFXD.jpg||420|74"
   },
@@ -4564,7 +4566,8 @@
    "lic": "CC0",
    "src": "https://commons.wikimedia.org/wiki/File:Melencolia_I_MET_DP815743.jpg",
    "pour": [
-    "melencolia"
+    "melencolia",
+    "les-chimeres"
    ],
    "sig": "Melencolia I MET DP815743.jpg||440|74"
   },
@@ -5223,7 +5226,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Garden_delights.jpg",
    "pour": [
-    "jerome-bosch"
+    "jerome-bosch",
+    "le-jardin-des-delices"
    ],
    "sig": "Garden delights.jpg||600|74"
   },
@@ -5363,7 +5367,8 @@
    "lic": "CC0",
    "src": "https://commons.wikimedia.org/wiki/File:A_Scholar_in_His_Study_(%27Faust%27)_MET_DP814791.jpg",
    "pour": [
-    "faust"
+    "faust",
+    "faust-dans-son-cabinet"
    ],
    "sig": "A Scholar in His Study ('Faust') MET DP814791.jpg||400|74"
   },
@@ -10896,11 +10901,13 @@
    "w": 360,
    "h": 632,
    "l": "La fin de l’*Apocryphon de Jean* et le début de l’*Évangile de Thomas*, dans le codex II de Nag Hammadi",
-   "cr": "papyrus copte, IVe siècle — Musée copte, Le Caire",
+   "cr": "papyrus copte, IVe siècle — musée copte du Caire",
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Nag_Hammadi_Codex_II.jpg",
    "pour": [
-    "gnosticisme"
+    "apocryphon-de-jean",
+    "gnosticisme",
+    "evangile-de-thomas"
    ],
    "sig": "Nag Hammadi Codex II.jpg||360|74"
   },
@@ -11003,6 +11010,1880 @@
     "serapis"
    ],
    "sig": "Penny Magazine 1834 137 Pompey's Pillar.jpg||360|74"
+  },
+  "mythe-age-d-or-cranach": {
+   "f": "img/mythe-age-d-or-cranach.webp",
+   "v": "efb6377337",
+   "w": 520,
+   "h": 373,
+   "l": "L’Âge d’or : hommes et femmes dansent et se baignent dans un jardin clos où les bêtes vivent en paix",
+   "cr": "Lucas Cranach l’Ancien, vers 1530 — Nasjonalmuseet, Oslo",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Das_Goldene_Zeitalter_(Nasjonalgalleriet,_Oslo).jpg",
+   "pour": [
+    "age-d-or"
+   ],
+   "sig": "Lucas Cranach d.Ä. - Das Goldene Zeitalter (Nasjonalgalleriet, Oslo).jpg||520|74"
+  },
+  "mythe-promethee-cossiers": {
+   "f": "img/mythe-promethee-cossiers.webp",
+   "v": "6eaf1fdaa7",
+   "w": 360,
+   "h": 601,
+   "l": "Prométhée emporte le feu dérobé aux dieux",
+   "cr": "Jan Cossiers, d’après une esquisse de Rubens, 1637 — musée du Prado, Madrid",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jan_Cossiers_-_Prometeo_trayendo_el_fuego,_1637.jpg",
+   "pour": [
+    "promethee"
+   ],
+   "sig": "Jan Cossiers - Prometeo trayendo el fuego, 1637.jpg||360|74"
+  },
+  "mythe-pandore-della-vecchia": {
+   "f": "img/mythe-pandore-della-vecchia.webp",
+   "v": "ee5c1d4215",
+   "w": 400,
+   "h": 543,
+   "l": "Pandore et le vase d’où les maux se répandent sur les hommes",
+   "cr": "Pietro della Vecchia, XVIIe siècle — Ca’ Rezzonico, Venise ; photographie de Didier Descouens",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ca%27_Rezzonico_-_Il_vaso_di_Pandora_(Inv.70)_-_Pietro_della_Vecchia.jpg",
+   "pour": [
+    "pandore"
+   ],
+   "sig": "Ca' Rezzonico - Il vaso di Pandora (Inv.70) - Pietro della Vecchia.jpg||400|74"
+  },
+  "mythe-deucalion-rubens": {
+   "f": "img/mythe-deucalion-rubens.webp",
+   "v": "d2a26f7623",
+   "w": 520,
+   "h": 332,
+   "l": "Deucalion et Pyrrha jettent derrière eux les pierres d’où renaît l’humanité après le déluge",
+   "cr": "Pierre Paul Rubens, esquisse, 1636 — musée du Prado, Madrid",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Deucalion_and_Pyrrha,_1636.jpg",
+   "pour": [
+    "deluge"
+   ],
+   "sig": "Peter Paul Rubens - Deucalion and Pyrrha, 1636.jpg||520|74"
+  },
+  "mythe-gilgamesh-tablette": {
+   "f": "img/mythe-gilgamesh-tablette.webp",
+   "v": "1aba92cb09",
+   "w": 360,
+   "h": 407,
+   "l": "La tablette XI de l’*Épopée de Gilgamesh*, où Utnapishtim raconte le déluge, retrouvée à Ninive dans la bibliothèque d’Assurbanipal",
+   "cr": "VIIe siècle av. J.-C. — British Museum ; photographie de BabelStone, 2010",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg",
+   "pour": [
+    "gilgamesh",
+    "deluge"
+   ],
+   "sig": "British Museum Flood Tablet.jpg||360|74"
+  },
+  "mythe-argo-volanakis": {
+   "f": "img/mythe-argo-volanakis.webp",
+   "v": "c06900d315",
+   "w": 400,
+   "h": 522,
+   "l": "L’*Argo*, le navire des Argonautes",
+   "cr": "Konstantinos Volanakis (1837-1907) — collection particulière",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Constantine_Volanakis_Argo.jpg",
+   "pour": [
+    "argonautes"
+   ],
+   "sig": "Constantine Volanakis Argo.jpg||400|74"
+  },
+  "mythe-medee-giaquinto": {
+   "f": "img/mythe-medee-giaquinto.webp",
+   "v": "d3769a0bb6",
+   "w": 400,
+   "h": 550,
+   "l": "Médée rend la jeunesse au vieil Éson, le père de Jason, par ses herbes et ses incantations",
+   "cr": "Corrado Giaquinto, vers 1760 — Metropolitan Museum of Art, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Medea_Rejuvenating_Aeson,_Corrado_Giaquinto,_MET_DP268767.jpg",
+   "pour": [
+    "medee"
+   ],
+   "sig": "Medea Rejuvenating Aeson, Corrado Giaquinto, MET DP268767.jpg||400|74"
+  },
+  "mythe-hercules-piochymicus": {
+   "f": "img/mythe-hercules-piochymicus.webp",
+   "v": "09435f50b8",
+   "w": 360,
+   "h": 629,
+   "l": "La page de titre de l’*Hercules piochymicus* de Pierre-Jean Fabre, qui découvre sous les travaux d’Hercule les secrets de la philosophie morale et de l’art chimique",
+   "cr": "Toulouse, Pierre Bosc, 1634 — Getty Research Institute",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hercules_piochymicus_(IA_herculespiochymi00fabr).pdf",
+   "pour": [
+    "travaux-d-hercule"
+   ],
+   "sig": "Hercules piochymicus (IA herculespiochymi00fabr).pdf||360|74|p7"
+  },
+  "mythe-hercule-torlonia": {
+   "f": "img/mythe-hercule-torlonia.webp",
+   "v": "d5dfa59706",
+   "w": 520,
+   "h": 390,
+   "l": "Les douze travaux d’Hercule sculptés sur un sarcophage romain, vers 160",
+   "cr": "collection Torlonia, Rome ; photographie de Tangopaso, 2024",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sarcophage_des_travaux_d%27Hercule_(Torlonia).jpg",
+   "pour": [
+    "travaux-d-hercule"
+   ],
+   "sig": "Sarcophage des travaux d'Hercule (Torlonia).jpg||520|74"
+  },
+  "mythe-hercule-carrache": {
+   "f": "img/mythe-hercule-carrache.webp",
+   "v": "89c8ecd2ee",
+   "w": 520,
+   "h": 370,
+   "l": "Hercule entre la Vertu, qui lui montre le chemin escarpé, et le Vice, qui lui promet les plaisirs",
+   "cr": "Annibal Carrache, 1596 — musée de Capodimonte, Naples",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_The_Choice_of_Heracles_-_WGA4416.jpg",
+   "pour": [
+    "hercule-a-la-croisee-des-chemins"
+   ],
+   "sig": "Annibale Carracci - The Choice of Heracles - WGA4416.jpg||520|74"
+  },
+  "mythe-thesee-burne-jones": {
+   "f": "img/mythe-thesee-burne-jones.webp",
+   "v": "a8fd3d9379",
+   "w": 440,
+   "h": 460,
+   "l": "Thésée s’avance dans le labyrinthe ; le Minotaure le guette au détour d’un mur",
+   "cr": "Edward Burne-Jones, dessin pour un carreau de céramique, 1861 — Birmingham Museums Trust",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_-_Tile_Design_-_Theseus_and_the_Minotaur_in_the_Labyrinth_-_Google_Art_Project.jpg",
+   "pour": [
+    "thesee-et-le-minotaure"
+   ],
+   "sig": "Edward Burne-Jones - Tile Design - Theseus and the Minotaur in the Labyrinth - Google Art Project.jpg||440|74"
+  },
+  "mythe-thesee-pompei": {
+   "f": "img/mythe-thesee-pompei.webp",
+   "v": "6543fccd2a",
+   "w": 440,
+   "h": 345,
+   "l": "Thésée terrasse le Minotaure, au centre d’un labyrinthe de mosaïque",
+   "cr": "maison du Labyrinthe, Pompéi, Ier siècle av. J.-C.",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Theseus_and_the_Minotaur_mosaic_Room_42_(Mau-Overbeck_1884_plans)_House_of_the_Labyrinth_Pompeii.jpg",
+   "pour": [
+    "thesee-et-le-minotaure"
+   ],
+   "sig": "Theseus and the Minotaur mosaic Room 42 (Mau-Overbeck 1884 plans) House of the Labyrinth Pompeii.jpg||440|74"
+  },
+  "mythe-ariane-titien": {
+   "f": "img/mythe-ariane-titien.webp",
+   "v": "d442be3b87",
+   "w": 520,
+   "h": 470,
+   "l": "Bacchus bondit de son char vers Ariane abandonnée à Naxos ; dans le ciel brille déjà la couronne d’étoiles qu’il lui donnera",
+   "cr": "Titien, 1520-1523 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+   "pour": [
+    "ariane"
+   ],
+   "sig": "Titian - Bacchus and Ariadne - Google Art Project.jpg||520|74"
+  },
+  "mythe-icare-van-dyck": {
+   "f": "img/mythe-icare-van-dyck.webp",
+   "v": "5bfff946c4",
+   "w": 400,
+   "h": 537,
+   "l": "Dédale, qui vient d’attacher les ailes de son fils, lui montre la route du ciel",
+   "cr": "Antoine van Dyck, vers 1620 — Art Gallery of Ontario, Toronto",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_Daedalus_and_Icarus_-_Google_Art_Project.jpg",
+   "pour": [
+    "dedale-et-icare"
+   ],
+   "sig": "Anthony van Dyck - Daedalus and Icarus - Google Art Project.jpg||400|74"
+  },
+  "mythe-oedipe-moreau": {
+   "f": "img/mythe-oedipe-moreau.webp",
+   "v": "2916eca915",
+   "w": 360,
+   "h": 713,
+   "l": "Œdipe face au Sphinx, au-dessus des restes de ceux qui n’ont pas su répondre",
+   "cr": "Gustave Moreau, 1864 — Metropolitan Museum of Art, New York",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Oedipus_and_the_Sphinx_MET_DP-14201-023.jpg",
+   "pour": [
+    "oedipe"
+   ],
+   "sig": "Oedipus and the Sphinx MET DP-14201-023.jpg|0.025 0.013 0.975 0.987|360|74"
+  },
+  "mythe-atalante-reni": {
+   "f": "img/mythe-atalante-reni.webp",
+   "v": "c85ad6bcc2",
+   "w": 520,
+   "h": 381,
+   "l": "Atalante se baisse pour ramasser une pomme d’or ; Hippomène la dépasse et gagne la course",
+   "cr": "Guido Reni, vers 1620-1625 — musée de Capodimonte, Naples",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Atalanta_and_Hippomenes_-_Google_Art_Project.jpg",
+   "pour": [
+    "atalante"
+   ],
+   "sig": "Guido Reni - Atalanta and Hippomenes - Google Art Project.jpg||520|74"
+  },
+  "mythe-paris-rubens": {
+   "f": "img/mythe-paris-rubens.webp",
+   "v": "a0336caece",
+   "w": 520,
+   "h": 385,
+   "l": "Pâris, la pomme d’or à la main, contemple Minerve, Vénus et Junon ; Mercure se tient à son côté",
+   "cr": "Pierre Paul Rubens, vers 1632-1635 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Judgement_of_Paris_-_Google_Art_Project.jpg",
+   "pour": [
+    "jugement-de-paris"
+   ],
+   "sig": "Peter Paul Rubens - The Judgement of Paris - Google Art Project.jpg||520|74"
+  },
+  "mythe-graces-raphael": {
+   "f": "img/mythe-graces-raphael.webp",
+   "v": "e31fa508b7",
+   "w": 400,
+   "h": 398,
+   "l": "Les trois Grâces enlacées, chacune une pomme d’or à la main",
+   "cr": "Raphaël, vers 1504-1505 — musée Condé, Chantilly",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_Project.jpg",
+   "pour": [
+    "trois-graces"
+   ],
+   "sig": "Raphaël - Les Trois Grâces - Google Art Project.jpg||400|74"
+  },
+  "mythe-ulysse-calypso-bocklin": {
+   "f": "img/mythe-ulysse-calypso-bocklin.webp",
+   "v": "1f811481d5",
+   "w": 520,
+   "h": 361,
+   "l": "Ulysse, retenu par Calypso, regarde la mer du côté d’Ithaque",
+   "cr": "Arnold Böcklin, 1882 — Kunstmuseum, Bâle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_008.jpg",
+   "pour": [
+    "odyssee-de-l-ame"
+   ],
+   "sig": "Arnold Böcklin 008.jpg||520|74"
+  },
+  "mythe-circe-waterhouse": {
+   "f": "img/mythe-circe-waterhouse.webp",
+   "v": "01209e9caf",
+   "w": 360,
+   "h": 590,
+   "l": "Circé tend à Ulysse la coupe qui change les hommes en bêtes ; le héros paraît dans le miroir derrière elle",
+   "cr": "John William Waterhouse, 1891 — Gallery Oldham",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Circe_Offering_the_Cup_to_Odysseus_(2457_x_4023px_ed.).jpg",
+   "pour": [
+    "circe"
+   ],
+   "sig": "Circe Offering the Cup to Odysseus (2457 x 4023px ed.).jpg||360|74"
+  },
+  "mythe-psyche-zucchi": {
+   "f": "img/mythe-psyche-zucchi.webp",
+   "v": "fd22cb358f",
+   "w": 400,
+   "h": 536,
+   "l": "Psyché lève sa lampe sur l’Amour endormi et découvre le dieu qu’elle ne devait pas voir",
+   "cr": "Jacopo Zucchi, 1589 — galerie Borghèse, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacopo_Zucchi_-_Amor_and_Psyche.jpg",
+   "pour": [
+    "eros-et-psyche"
+   ],
+   "sig": "Jacopo Zucchi - Amor and Psyche.jpg||400|74"
+  },
+  "mythe-narcisse-caravage": {
+   "f": "img/mythe-narcisse-caravage.webp",
+   "v": "b76de03b09",
+   "w": 400,
+   "h": 485,
+   "l": "Narcisse penché sur la source, épris de son reflet",
+   "cr": "attribué au Caravage, vers 1597-1599 — Galerie nationale d’art ancien, palais Barberini, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michelangelo_Caravaggio_065.jpg",
+   "pour": [
+    "narcisse"
+   ],
+   "sig": "Michelangelo Caravaggio 065.jpg||400|74"
+  },
+  "mythe-caverne-saenredam": {
+   "f": "img/mythe-caverne-saenredam.webp",
+   "v": "2393b99858",
+   "w": 520,
+   "h": 390,
+   "l": "La caverne de Platon : enchaînés, les hommes prennent pour la réalité les ombres projetées sur la paroi",
+   "cr": "gravure de Jan Saenredam d’après Cornelis van Haarlem, 1604 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Jan_Pietersz_Saenredam_after_Cornelis_Cornelisz_van_Haarlem,_Plato%27s_Cave,_1604,_NGA_62542.jpg",
+   "pour": [
+    "allegorie-de-la-caverne"
+   ],
+   "sig": "Jan Pietersz Saenredam after Cornelis Cornelisz van Haarlem, Plato's Cave, 1604, NGA 62542.jpg||520|74"
+  },
+  "mythe-phedre-papyrus": {
+   "f": "img/mythe-phedre-papyrus.webp",
+   "v": "6ac6bba7ae",
+   "w": 520,
+   "h": 267,
+   "l": "Un papyrus du *Phèdre* de Platon retrouvé à Oxyrhynque, reconstitué à partir de plusieurs fragments",
+   "cr": "IIe siècle — collection des papyrus d’Oxyrhynque, Oxford",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Papyrus_of_Plato_Phaedrus.jpg",
+   "pour": [
+    "attelage-aile"
+   ],
+   "sig": "Papyrus of Plato Phaedrus.jpg||520|74"
+  },
+  "mythe-parques-fussli": {
+   "f": "img/mythe-parques-fussli.webp",
+   "v": "bd383a42b6",
+   "w": 360,
+   "h": 491,
+   "l": "Les trois Parques, que le mythe d’Er montre assises autour du fuseau de la Nécessité",
+   "cr": "dessin de Johann Heinrich Füssli, vers 1805-1810 — British Museum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fuseli_-_The_Three_Fates,_from_Plutarch%27s_%27Isis_and_Osiris%27_and_Plato%27s_%27Res_publica%27_X,_617c._1805-10,_1937,1006.1.jpg",
+   "pour": [
+    "mythe-d-er"
+   ],
+   "sig": "Fuseli - The Three Fates, from Plutarch's 'Isis and Osiris' and Plato's 'Res publica' X, 617c. 1805-10, 1937,1006.1.jpg||360|74"
+  },
+  "mythe-odin-collingwood": {
+   "f": "img/mythe-odin-collingwood.webp",
+   "v": "01c64a96df",
+   "w": 360,
+   "h": 469,
+   "l": "Odin pendu neuf nuits à l’arbre battu des vents, sacrifié à lui-même pour conquérir les runes",
+   "cr": "W. G. Collingwood, illustration de l’*Edda* traduite par Olive Bray, 1908",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Odin%27s_Self-sacrifice_by_Collingwood.jpg",
+   "pour": [
+    "sacrifice-d-odin"
+   ],
+   "sig": "Odin's Self-sacrifice by Collingwood.jpg||360|74"
+  },
+  "mythe-edda-snorri": {
+   "f": "img/mythe-edda-snorri.webp",
+   "v": "93fd280ca1",
+   "w": 360,
+   "h": 487,
+   "l": "Odin, Heimdall, le cheval Sleipnir et d’autres figures sur la page de titre d’un manuscrit de l’*Edda* de Snorri, dont le prologue fait des dieux des héros venus d’Asie",
+   "cr": "manuscrit islandais ÍB 299 4to, XVIIIe siècle — Bibliothèque nationale d’Islande",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Edda.jpg",
+   "pour": [
+    "evhemerisme"
+   ],
+   "sig": "Edda.jpg||360|74"
+  },
+  "mythe-kurma": {
+   "f": "img/mythe-kurma.webp",
+   "v": "086827d227",
+   "w": 520,
+   "h": 365,
+   "l": "Vishnou, changé en tortue, porte la montagne Mandara que dieux et démons font tourner avec le serpent Vasuki",
+   "cr": "peinture indienne, vers 1860-1870 — Victoria and Albert Museum, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kurma,_the_tortoise_incarnation_of_Vishnu.jpg",
+   "pour": [
+    "barattage-de-la-mer-de-lait"
+   ],
+   "sig": "Kurma, the tortoise incarnation of Vishnu.jpg||520|74"
+  },
+  "dupuis-portrait": {
+   "f": "img/dupuis-portrait.webp",
+   "v": "dc0c3a0136",
+   "w": 320,
+   "h": 400,
+   "l": "Charles-François Dupuis",
+   "cr": "portrait gravé de la réédition de l’*Abrégé de l’origine de tous les cultes*, 1836",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Charles-Fran%C3%A7ois_Dupuis.JPG",
+   "pour": [
+    "charles-francois-dupuis"
+   ],
+   "sig": "Charles-François Dupuis.JPG||320|74"
+  },
+  "apo-tchacos-33": {
+   "f": "img/apo-tchacos-33.webp",
+   "v": "3e62e9c05b",
+   "w": 320,
+   "h": 494,
+   "l": "La page 33 du codex Tchacos, où commence l’*Évangile de Judas*",
+   "cr": "papyrus copte, IIIe-IVe siècle — d’après l’édition critique de la National Geographic Society, 2007",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p33.jpg",
+   "pour": [
+    "evangile-de-judas"
+   ],
+   "sig": "Codex Tchacos p33.jpg||320|74"
+  },
+  "apo-tchacos-58": {
+   "f": "img/apo-tchacos-58.webp",
+   "v": "b40e2a2803",
+   "w": 320,
+   "h": 499,
+   "l": "La page 58, la dernière de l’*Évangile de Judas*, qui s’achève sur la livraison de Jésus et sur le titre du texte",
+   "cr": "papyrus copte, IIIe-IVe siècle — d’après l’édition critique de la National Geographic Society, 2007",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Tchacos_p58.jpg",
+   "pour": [
+    "codex-tchacos"
+   ],
+   "sig": "Codex Tchacos p58.jpg||320|74"
+  },
+  "apo-poxy-3525": {
+   "f": "img/apo-poxy-3525.webp",
+   "v": "5f8b605f25",
+   "w": 360,
+   "h": 387,
+   "l": "Le papyrus d’Oxyrhynque 3525, fragment grec de l’*Évangile de Marie*",
+   "cr": "papyrus, IIIe siècle — collection des papyrus d’Oxyrhynque, Oxford",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gospel_of_Mary.jpg",
+   "pour": [
+    "evangile-de-marie"
+   ],
+   "sig": "Gospel of Mary.jpg||360|74"
+  },
+  "apo-poxy-1": {
+   "f": "img/apo-poxy-1.webp",
+   "v": "fde51e9d89",
+   "w": 320,
+   "h": 492,
+   "l": "Le papyrus d’Oxyrhynque 1, découvert en 1897 : des paroles de Jésus en grec, dont la découverte de Nag Hammadi a montré qu’elles appartenaient à l’*Évangile selon Thomas*",
+   "cr": "papyrus, début du IIIe siècle — Bodleian Library, Oxford",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:P._Oxy._1.jpg",
+   "pour": [
+    "evangile-de-thomas"
+   ],
+   "sig": "P. Oxy. 1.jpg||320|74"
+  },
+  "apo-philippe-codex-ii": {
+   "f": "img/apo-philippe-codex-ii.webp",
+   "v": "d7de21249d",
+   "w": 300,
+   "h": 568,
+   "l": "Une page de l’*Évangile selon Philippe*, dans le codex II de Nag Hammadi",
+   "cr": "papyrus copte, IVe siècle — musée copte du Caire",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Evangelio_de_Felipe_%C2%B7_Codex_II,_3_%C2%B7_Biblioteca_Copta_de_Nag_Hammadi.png",
+   "pour": [
+    "evangile-de-philippe"
+   ],
+   "sig": "Evangelio de Felipe · Codex II, 3 · Biblioteca Copta de Nag Hammadi.png||300|74"
+  },
+  "apo-verite-codex-i": {
+   "f": "img/apo-verite-codex-i.webp",
+   "v": "1bea00f41a",
+   "w": 300,
+   "h": 626,
+   "l": "La page 17 du codex I de Nag Hammadi, dit codex Jung, au début de l’*Évangile de vérité*",
+   "cr": "papyrus copte, IVe siècle — musée copte du Caire",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%C2%B7_Papiro_17_del_Codex_I_o_Code_Jung,_conteniendo_una_parte_del_Evangelio_de_la_Verdad_(NHC_I,3_)_%C2%B7.png",
+   "pour": [
+    "evangile-de-verite"
+   ],
+   "sig": "· Papiro 17 del Codex I o Code Jung, conteniendo una parte del Evangelio de la Verdad (NHC I,3 ) ·.png||300|74"
+  },
+  "apo-akhmim": {
+   "f": "img/apo-akhmim.webp",
+   "v": "9d649b0284",
+   "w": 400,
+   "h": 526,
+   "l": "Une page du fragment d’Akhmim, retrouvé en 1886-1887, qui conserve en grec le récit de la Passion de l’*Évangile de Pierre*",
+   "cr": "fac-similé publié par Henry Barclay Swete, 1893",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Das_Fragment_von_Akhmim_in_Griechisch.jpg",
+   "pour": [
+    "evangile-de-pierre"
+   ],
+   "sig": "Das Fragment von Akhmim in Griechisch.jpg||400|74"
+  },
+  "apo-nicodeme-einsiedeln": {
+   "f": "img/apo-nicodeme-einsiedeln.webp",
+   "v": "6fd60d4241",
+   "w": 360,
+   "h": 539,
+   "l": "Une page de l’*Évangile de Nicodème* en latin",
+   "cr": "manuscrit du IXe ou du Xe siècle — bibliothèque de l’abbaye d’Einsiedeln",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Evangelium_Nicodemi_manuscript.jpg",
+   "pour": [
+    "evangile-de-nicodeme"
+   ],
+   "sig": "Evangelium Nicodemi manuscript.jpg||360|74"
+  },
+  "apo-protevangile-giotto": {
+   "f": "img/apo-protevangile-giotto.webp",
+   "v": "a762ab47c5",
+   "w": 440,
+   "h": 400,
+   "l": "Joachim et Anne se retrouvent à la Porte dorée de Jérusalem, scène venue du *Protévangile de Jacques*",
+   "cr": "Giotto, fresque, 1303-1305 — chapelle des Scrovegni, Padoue",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_No._6_Scenes_from_the_Life_of_Joachim_-_6._Meeting_at_the_Golden_Gate_-_WGA09176.jpg",
+   "pour": [
+    "protevangile-de-jacques"
+   ],
+   "sig": "Giotto di Bondone - No. 6 Scenes from the Life of Joachim - 6. Meeting at the Golden Gate - WGA09176.jpg||440|74"
+  },
+  "apo-ophites-matter": {
+   "f": "img/apo-ophites-matter.webp",
+   "v": "ac2876f46d",
+   "w": 320,
+   "h": 502,
+   "l": "Le « diagramme des ophites » décrit par Origène, carte des cercles que l’âme doit franchir, restitué par Jacques Matter",
+   "cr": "planche de l’*Histoire critique du gnosticisme*, 1828",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ophitediagram-matter.png",
+   "pour": [
+    "ophites"
+   ],
+   "sig": "Ophitediagram-matter.png||320|74"
+  },
+  "apo-irenee-begule": {
+   "f": "img/apo-irenee-begule.webp",
+   "v": "6ff53f4500",
+   "w": 360,
+   "h": 377,
+   "l": "Saint Irénée, évêque de Lyon",
+   "cr": "vitrail de Lucien Bégule, 1901 — église Saint-Irénée, Lyon ; photographie de Gérald Gambier",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:San_Ireneo,_vitral_(cropped).jpg",
+   "pour": [
+    "irenee-de-lyon"
+   ],
+   "sig": "San Ireneo, vitral (cropped).jpg||360|74"
+  },
+  "saba-lorrain": {
+   "f": "img/saba-lorrain.webp",
+   "v": "d58902cb51",
+   "w": 440,
+   "h": 334,
+   "l": "*Port avec l’embarquement de la reine de Saba*, par Claude Lorrain",
+   "cr": "Claude Lorrain, 1648 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Claude_Lorrain_-_Seaport_with_the_Embarkation_of_the_Queen_of_Sheba_-_WGA05002.jpg",
+   "pour": [
+    "reine-de-saba"
+   ],
+   "sig": "Claude Lorrain - Seaport with the Embarkation of the Queen of Sheba - WGA05002.jpg||440|74"
+  },
+  "saba-piero-rencontre": {
+   "f": "img/saba-piero-rencontre.webp",
+   "v": "32a2caadcc",
+   "w": 400,
+   "h": 511,
+   "l": "Salomon accueille la reine de Saba, détail de la *Légende de la Vraie Croix*",
+   "cr": "Piero della Francesca, vers 1452-1466 — église San Francesco, Arezzo",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Piero,_arezzo,_Adoration_of_the_Holy_Wood_and_the_Meeting_of_Solomon_and_the_Queen_of_Sheba_07.jpg",
+   "pour": [
+    "reine-de-saba"
+   ],
+   "sig": "Piero, arezzo, Adoration of the Holy Wood and the Meeting of Solomon and the Queen of Sheba 07.jpg||400|74"
+  },
+  "saba-piero": {
+   "f": "img/saba-piero.webp",
+   "v": "bddd49edcf",
+   "w": 440,
+   "h": 197,
+   "l": "La reine de Saba s’agenouille devant le bois de la future Croix, puis rencontre Salomon",
+   "cr": "Piero della Francesca, vers 1452-1466 — église San Francesco, Arezzo",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Piero,_arezzo,_Adoration_of_the_Holy_Wood_and_the_Meeting_of_Solomon_and_the_Queen_of_Sheba_01.jpg",
+   "pour": [
+    "legende-de-la-vraie-croix"
+   ],
+   "sig": "Piero, arezzo, Adoration of the Holy Wood and the Meeting of Solomon and the Queen of Sheba 01.jpg||440|74"
+  },
+  "salomon-poussin": {
+   "f": "img/salomon-poussin.webp",
+   "v": "a97c3d488e",
+   "w": 440,
+   "h": 295,
+   "l": "*Le Jugement de Salomon*, par Nicolas Poussin",
+   "cr": "Nicolas Poussin, 1649 — musée du Louvre, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Jugement_de_Salomon_-_1649_-_Nicolas_Poussin_-_Louvre_-_INV_7277_;_MR_2316_(2).jpg",
+   "pour": [
+    "jugement-de-salomon"
+   ],
+   "sig": "Le Jugement de Salomon - 1649 - Nicolas Poussin - Louvre - INV 7277 ; MR 2316 (2).jpg||440|74"
+  },
+  "temple-fouquet": {
+   "f": "img/temple-fouquet.webp",
+   "v": "9210b2606a",
+   "w": 400,
+   "h": 476,
+   "l": "La construction du Temple de Jérusalem, dans les *Antiquités judaïques* de Flavius Josèphe",
+   "cr": "Jean Fouquet, vers 1470 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Construction_du_Temple_de_J%C3%A9rusalem.jpg",
+   "pour": [
+    "construction-du-temple"
+   ],
+   "sig": "Construction du Temple de Jérusalem.jpg||400|74"
+  },
+  "ophir-montano": {
+   "f": "img/ophir-montano.webp",
+   "v": "373804b037",
+   "w": 440,
+   "h": 316,
+   "l": "La mappemonde de géographie sacrée de Benito Arias Montano, qui croyait retrouver Ophir dans le nom du Pérou",
+   "cr": "Benito Arias Montano, Anvers, 1571",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1571_Arias_Montanus_World_Map_Altea_Gallery.jpg",
+   "pour": [
+    "ophir"
+   ],
+   "sig": "1571 Arias Montanus World Map Altea Gallery.jpg||440|74"
+  },
+  "huppe-hafez": {
+   "f": "img/huppe-hafez.webp",
+   "v": "562bed81f7",
+   "w": 400,
+   "h": 482,
+   "l": "Salomon et la huppe qui lui apporte des nouvelles de la reine de Saba, dans un *Divan* de Hafez",
+   "cr": "manuscrit persan copié en Inde en 1796 — Walters Art Museum, Baltimore",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Collection_of_poems_(divan),_King_Solomon_and_the_hoopoe_who_brought_news_from_Queen_Sheba,_Walters_Manuscript_W.636,_fol._84a.jpg",
+   "pour": [
+    "huppe"
+   ],
+   "sig": "Collection of poems (divan), King Solomon and the hoopoe who brought news from Queen Sheba, Walters Manuscript W.636, fol. 84a.jpg|0.31 0.275 0.92 0.715|400|74"
+  },
+  "salomon-demons": {
+   "f": "img/salomon-demons.webp",
+   "v": "a5f38e19da",
+   "w": 400,
+   "h": 590,
+   "l": "Le roi Salomon et deux démons, miniature persane",
+   "cr": "ʿAliqoli, 1597-1598 — Walters Art Museum, Baltimore",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%60Aliquli_-_King_Solomon_and_Two_Demons_-_Walters_W62494B_-_Full_Page.jpg",
+   "pour": [
+    "testament-de-salomon"
+   ],
+   "sig": "`Aliquli - King Solomon and Two Demons - Walters W62494B - Full Page.jpg||400|74"
+  },
+  "shamir-happel": {
+   "f": "img/shamir-happel.webp",
+   "v": "56fa656f48",
+   "w": 320,
+   "h": 274,
+   "l": "Le shamir, le ver qui taillait la pierre sans outil de fer",
+   "cr": "Eberhard Werner Happel, 1707",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Solomon%27s_shamir.png",
+   "pour": [
+    "shamir"
+   ],
+   "sig": "Solomon's shamir.png||320|74"
+  },
+  "gounod-saba": {
+   "f": "img/gounod-saba.webp",
+   "v": "2ea8bd37a5",
+   "w": 440,
+   "h": 290,
+   "l": "*La Reine de Saba* de Gounod, tirée du conte de Nerval, à l’Opéra en 1862",
+   "cr": "gravure de Godefroy Durand, *L’Illustration*, mars 1862",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:L%27Illustration_1862_gravure_Th%C3%A9atre_de_l%27Acad%C3%A9mie_Imp%C3%A9riale_de_Musique_-_La_Reine_de_Saba.jpg",
+   "pour": [
+    "histoire-de-la-reine-du-matin"
+   ],
+   "sig": "L'Illustration 1862 gravure Théatre de l'Académie Impériale de Musique - La Reine de Saba.jpg||440|74"
+  },
+  "tubalcain-nuremberg": {
+   "f": "img/tubalcain-nuremberg.webp",
+   "v": "95edc968d1",
+   "w": 400,
+   "h": 356,
+   "l": "Tubalcaïn à sa forge et sa sœur Naama",
+   "cr": "gravure sur bois de la *Chronique de Nuremberg* de Hartmann Schedel, 1493 — Rijksmuseum, Amsterdam",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Tubal-Ka%C3%AFn_en_zijn_zuster_Na%C3%A4ma_Tubalcai_Noema_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-8-5.jpg",
+   "pour": [
+    "tubal-cain"
+   ],
+   "sig": "Tubal-Kaïn en zijn zuster Naäma Tubalcai Noema (titel op object) Liber Chronicarum (serietitel), RP-P-2016-49-8-5.jpg||400|74"
+  },
+  "eden-cranach": {
+   "f": "img/eden-cranach.webp",
+   "v": "2a50760012",
+   "w": 440,
+   "h": 315,
+   "l": "*Le Paradis*, par Lucas Cranach l’Ancien",
+   "cr": "Lucas Cranach l’Ancien, 1530 — Kunsthistorisches Museum, Vienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Paradies_(1530,_Kunsthistorisches_Museum).jpg",
+   "pour": [
+    "jardin-d-eden"
+   ],
+   "sig": "Lucas Cranach d.Ä. - Paradies (1530, Kunsthistorisches Museum).jpg||440|74"
+  },
+  "lilith-rossetti": {
+   "f": "img/lilith-rossetti.webp",
+   "v": "deab3e3ede",
+   "w": 400,
+   "h": 463,
+   "l": "*Lady Lilith*, par Dante Gabriel Rossetti",
+   "cr": "Dante Gabriel Rossetti, 1866-1873 — Delaware Art Museum, Wilmington",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Lady_Lilith.jpg",
+   "pour": [
+    "lilith"
+   ],
+   "sig": "Dante Gabriel Rossetti - Lady Lilith.jpg||400|74"
+  },
+  "cain-rubens": {
+   "f": "img/cain-rubens.webp",
+   "v": "c014289f0c",
+   "w": 400,
+   "h": 550,
+   "l": "*Caïn tuant Abel*, par Pierre Paul Rubens",
+   "cr": "Pierre Paul Rubens, vers 1608-1609 — Courtauld Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Cain_slaying_Abel_(Courtauld_Institute).jpg",
+   "pour": [
+    "cain-et-abel"
+   ],
+   "sig": "Peter Paul Rubens - Cain slaying Abel (Courtauld Institute).jpg||400|74"
+  },
+  "babel-bruegel": {
+   "f": "img/babel-bruegel.webp",
+   "v": "699eaea3a5",
+   "w": 440,
+   "h": 322,
+   "l": "*La Tour de Babel*, par Pieter Bruegel l’Ancien",
+   "cr": "Pieter Bruegel l’Ancien, 1563 — Kunsthistorisches Museum, Vienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg",
+   "pour": [
+    "tour-de-babel"
+   ],
+   "sig": "Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg||440|74"
+  },
+  "melchisedech-bouts": {
+   "f": "img/melchisedech-bouts.webp",
+   "v": "b6a6e197b5",
+   "w": 400,
+   "h": 497,
+   "l": "Melchisédech offre le pain et le vin à Abraham",
+   "cr": "Dirk Bouts, 1464-1467, volet du retable du Saint-Sacrement — église Saint-Pierre, Louvain",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dieric_Bouts_-_The_Meeting_of_Abraham_and_Melchizedek.jpg",
+   "pour": [
+    "melchisedech"
+   ],
+   "sig": "Dieric Bouts - The Meeting of Abraham and Melchizedek.jpg||400|74"
+  },
+  "moise-reni": {
+   "f": "img/moise-reni.webp",
+   "v": "f55e8da916",
+   "w": 400,
+   "h": 525,
+   "l": "*Moïse brisant les tables de la Loi*, par Guido Reni",
+   "cr": "Guido Reni, 1624-1625 — galerie Borghèse, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Moses_Breaking_the_Tablets_of_the_Law,_by_Guido_Reni.jpg",
+   "pour": [
+    "moise"
+   ],
+   "sig": "Moses Breaking the Tablets of the Law, by Guido Reni.jpg||400|74"
+  },
+  "serpent-rubens": {
+   "f": "img/serpent-rubens.webp",
+   "v": "1b2f9fec24",
+   "w": 440,
+   "h": 311,
+   "l": "*Le Serpent d’airain*, par Pierre Paul Rubens",
+   "cr": "Pierre Paul Rubens, vers 1635-1640 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Brazen_Serpent_(Rubens_-_NG59).jpg",
+   "pour": [
+    "serpent-d-airain"
+   ],
+   "sig": "The Brazen Serpent (Rubens - NG59).jpg||440|74"
+  },
+  "cantique-rothschild": {
+   "f": "img/cantique-rothschild.webp",
+   "v": "2281c09121",
+   "w": 400,
+   "h": 631,
+   "l": "Le Cantique des cantiques dans le *Mahzor Rothschild*",
+   "cr": "manuscrit hébreu enluminé, Italie, 1490 — Jewish Theological Seminary, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Song_of_songs_Rothschild_mahzor.jpg",
+   "pour": [
+    "cantique-des-cantiques"
+   ],
+   "sig": "Song of songs Rothschild mahzor.jpg||400|74"
+  },
+  "sagesse-gigas": {
+   "f": "img/sagesse-gigas.webp",
+   "v": "7570c498af",
+   "w": 400,
+   "h": 533,
+   "l": "« Incipit liber Sapientiae Salomonis » : le début du livre de la Sagesse dans le *Codex Gigas*",
+   "cr": "*Codex Gigas*, Bohême, début du XIIIe siècle — Bibliothèque royale de Suède, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sapientia.jpg",
+   "pour": [
+    "livre-de-la-sagesse"
+   ],
+   "sig": "Sapientia.jpg||400|74"
+  },
+  "jonas-michel-ange": {
+   "f": "img/jonas-michel-ange.webp",
+   "v": "ffbb3e4876",
+   "w": 400,
+   "h": 477,
+   "l": "Le prophète Jonas, par Michel-Ange",
+   "cr": "Michel-Ange, 1508-1512 — chapelle Sixtine, Vatican",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Prophet_Jonah.jpg",
+   "pour": [
+    "jonas"
+   ],
+   "sig": "Prophet Jonah.jpg||400|74"
+  },
+  "nabuchodonosor-statue": {
+   "f": "img/nabuchodonosor-statue.webp",
+   "v": "7fa94d310d",
+   "w": 400,
+   "h": 611,
+   "l": "La statue du songe de Nabuchodonosor, à la tête d’or et aux pieds de fer et d’argile",
+   "cr": "manuscrit enluminé du Moyen Âge — Koninklijke Bibliotheek, La Haye",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Hague,_KB,_131_A_3,_Nebuchadnezzar%27s_statue.jpeg",
+   "pour": [
+    "songe-de-nabuchodonosor"
+   ],
+   "sig": "The Hague, KB, 131 A 3, Nebuchadnezzar's statue.jpeg||400|74"
+  },
+  "balthazar-rembrandt": {
+   "f": "img/balthazar-rembrandt.webp",
+   "v": "25940e10a3",
+   "w": 440,
+   "h": 350,
+   "l": "*Le Festin de Balthazar*, par Rembrandt",
+   "cr": "Rembrandt, vers 1635-1638 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rembrandt-Belsazar.jpg",
+   "pour": [
+    "festin-de-balthazar"
+   ],
+   "sig": "Rembrandt-Belsazar.jpg||440|74"
+  },
+  "mages-altdorfer": {
+   "f": "img/mages-altdorfer.webp",
+   "v": "4f8be05f5f",
+   "w": 400,
+   "h": 564,
+   "l": "*L’Adoration des mages*, par Albrecht Altdorfer",
+   "cr": "Albrecht Altdorfer, vers 1530-1535 — Städel Museum, Francfort",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_-_The_Adoration_of_the_Magi_-_St%C3%A4del.jpg",
+   "pour": [
+    "rois-mages"
+   ],
+   "sig": "Albrecht Altdorfer - The Adoration of the Magi - Städel.jpg||400|74"
+  },
+  "juif-errant-dore": {
+   "f": "img/juif-errant-dore.webp",
+   "v": "9e5db38fdd",
+   "w": 400,
+   "h": 606,
+   "l": "Le Juif errant, d’après *La Légende du Juif errant* de Gustave Doré",
+   "cr": "Georges Rouget d’après Gustave Doré, vers 1856 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Georges_Rouget_after_Gustave_Dor%C3%A9,_Le_Juif_Errant,_c._1856,_NGA_56896.jpg",
+   "pour": [
+    "juif-errant"
+   ],
+   "sig": "Georges Rouget after Gustave Doré, Le Juif Errant, c. 1856, NGA 56896.jpg||400|74"
+  },
+  "jean-domenichino": {
+   "f": "img/jean-domenichino.webp",
+   "v": "0f79b0b90c",
+   "w": 400,
+   "h": 525,
+   "l": "*Saint Jean l’Évangéliste*, par le Dominiquin",
+   "cr": "le Dominiquin, 1624-1629 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Zampieri_St_John_Evangelist.jpg",
+   "pour": [
+    "jean-l-evangeliste"
+   ],
+   "sig": "Zampieri St John Evangelist.jpg||400|74"
+  },
+  "baptiste-leonard": {
+   "f": "img/baptiste-leonard.webp",
+   "v": "4935f1de76",
+   "w": 400,
+   "h": 518,
+   "l": "*Saint Jean-Baptiste*, par Léonard de Vinci",
+   "cr": "Léonard de Vinci, 1513-1516 — musée du Louvre, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+   "pour": [
+    "jean-baptiste"
+   ],
+   "sig": "Leonardo da Vinci - Saint John the Baptist C2RMF retouched.jpg||400|74"
+  },
+  "deux-jean-greco": {
+   "f": "img/deux-jean-greco.webp",
+   "v": "49156b28d6",
+   "w": 400,
+   "h": 523,
+   "l": "Saint Jean l’Évangéliste et saint Jean-Baptiste, par le Greco",
+   "cr": "le Greco et son atelier, début du XVIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:John_Evangelista_and_John_Baptista.jpg",
+   "pour": [
+    "loges-de-saint-jean"
+   ],
+   "sig": "John Evangelista and John Baptista.jpg||400|74"
+  },
+  "lindisfarne-jean": {
+   "f": "img/lindisfarne-jean.webp",
+   "v": "01546d039e",
+   "w": 400,
+   "h": 533,
+   "l": "Saint Jean et son aigle, dans les *Évangiles de Lindisfarne*",
+   "cr": "*Évangiles de Lindisfarne*, vers 715, folio 209 verso — British Library, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lindisfarne_Gospels_folio_209v.jpg",
+   "pour": [
+    "evangile-de-jean"
+   ],
+   "sig": "Lindisfarne Gospels folio 209v.jpg||400|74"
+  },
+  "kells-jean": {
+   "f": "img/kells-jean.webp",
+   "v": "cd08b865c9",
+   "w": 400,
+   "h": 533,
+   "l": "« In principio erat verbum » : le début de l’Évangile de Jean dans le *Livre de Kells*",
+   "cr": "*Livre de Kells*, vers 800, folio 292 recto — Trinity College, Dublin",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:KellsFol292rIncipJohn.jpg",
+   "pour": [
+    "logos"
+   ],
+   "sig": "KellsFol292rIncipJohn.jpg||400|74"
+  },
+  "peche-witz": {
+   "f": "img/peche-witz.webp",
+   "v": "ef03770b41",
+   "w": 440,
+   "h": 386,
+   "l": "*La Pêche miraculeuse* de Konrad Witz : Pierre se jette à l’eau pour rejoindre le Christ ressuscité, sur la rive du lac Léman",
+   "cr": "Konrad Witz, 1444 — musée d’Art et d’Histoire, Genève",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Konrad_Witz._Der_Wunderbare_Fischzug_(1444).jpg",
+   "pour": [
+    "cent-cinquante-trois"
+   ],
+   "sig": "Konrad Witz. Der Wunderbare Fischzug (1444).jpg||440|74"
+  },
+  "mandeens-pretres": {
+   "f": "img/mandeens-pretres.webp",
+   "v": "3580d5095d",
+   "w": 440,
+   "h": 285,
+   "l": "Prêtres mandéens d’Irak",
+   "cr": "photographie publiée par Ethel S. Drower dans *The Mandaeans of Iraq and Iran*, 1937",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mandaeans_of_Iraq_01a_-_Mandaeans_of_priestly_caste.jpg",
+   "pour": [
+    "mandeens"
+   ],
+   "sig": "Mandaeans of Iraq 01a - Mandaeans of priestly caste.jpg||440|74"
+  },
+  "ephese-galle": {
+   "f": "img/ephese-galle.webp",
+   "v": "0429727ef0",
+   "w": 440,
+   "h": 361,
+   "l": "Le temple de Diane à Éphèse, l’une des sept merveilles du monde",
+   "cr": "Philip Galle d’après Maarten van Heemskerck, 1572 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Philip_Galle,_after_Maerten_van_Heemskerck,_Dianae_Ephesiae_Templum_(The_Temple_of_Diana_at_Ephesus),_1572,_NGA_156112.jpg",
+   "pour": [
+    "ephese"
+   ],
+   "sig": "Philip Galle, after Maerten van Heemskerck, Dianae Ephesiae Templum (The Temple of Diana at Ephesus), 1572, NGA 156112.jpg||440|74"
+  },
+  "patmos-bosch": {
+   "f": "img/patmos-bosch.webp",
+   "v": "33ad11b348",
+   "w": 400,
+   "h": 601,
+   "l": "*Saint Jean à Patmos*, par Jérôme Bosch",
+   "cr": "Jérôme Bosch, vers 1489 — Gemäldegalerie, Berlin",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Johannes_op_Patmos_Saint_John_on_Patmos_Berlin,_Staatlichen_Museen_zu_Berlin,_Gemaldegalerie_HR.jpg",
+   "pour": [
+    "patmos"
+   ],
+   "sig": "Johannes op Patmos Saint John on Patmos Berlin, Staatlichen Museen zu Berlin, Gemaldegalerie HR.jpg||400|74"
+  },
+  "apocalypse-san-paolo": {
+   "f": "img/apocalypse-san-paolo.webp",
+   "v": "daa4d79f73",
+   "w": 400,
+   "h": 533,
+   "l": "Le frontispice de l’Apocalypse dans la Bible de Saint-Paul-hors-les-Murs",
+   "cr": "Bible carolingienne, vers 870 — abbaye Saint-Paul-hors-les-Murs, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:BibleSPaoloFol331vFrontRev.jpg",
+   "pour": [
+    "apocalypse"
+   ],
+   "sig": "BibleSPaoloFol331vFrontRev.jpg||400|74"
+  },
+  "jerusalem-facundus": {
+   "f": "img/jerusalem-facundus.webp",
+   "v": "18f090c1fe",
+   "w": 400,
+   "h": 474,
+   "l": "La Jérusalem nouvelle et ses douze portes, dans le Beatus de Facundus",
+   "cr": "Facundus, 1047, pour Ferdinand Ier de Castille et la reine Sancha — Biblioteca Nacional, Madrid",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:B_Facundus_253v.jpg",
+   "pour": [
+    "jerusalem-celeste"
+   ],
+   "sig": "B Facundus 253v.jpg||400|74"
+  },
+  "blake-dragon": {
+   "f": "img/blake-dragon.webp",
+   "v": "8639f496d4",
+   "w": 400,
+   "h": 492,
+   "l": "*Le Grand Dragon rouge et la Femme vêtue de soleil*, par William Blake",
+   "cr": "William Blake, vers 1805 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:William_Blake,_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun,_c._1805,_NGA_11502.jpg",
+   "pour": [
+    "femme-revetue-du-soleil"
+   ],
+   "sig": "William Blake, The Great Red Dragon and the Woman Clothed with the Sun, c. 1805, NGA 11502.jpg||400|74"
+  },
+  "durer-cavaliers": {
+   "f": "img/durer-cavaliers.webp",
+   "v": "ec3c71bddc",
+   "w": 400,
+   "h": 556,
+   "l": "*Les Quatre Cavaliers*, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, 1498 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Four_Horsemen,_1498,_NGA_142352.jpg",
+   "pour": [
+    "quatre-cavaliers"
+   ],
+   "sig": "Albrecht Dürer, The Four Horsemen, 1498, NGA 142352.jpg||400|74"
+  },
+  "durer-michel": {
+   "f": "img/durer-michel.webp",
+   "v": "e918214d52",
+   "w": 400,
+   "h": 587,
+   "l": "Saint Michel combattant le dragon, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, 1498 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_Saint_Michael_Fighting_the_Dragon,_1498,_NGA_142359.jpg",
+   "pour": [
+    "apocalypse-de-durer"
+   ],
+   "sig": "Albrecht Dürer, Saint Michael Fighting the Dragon, 1498, NGA 142359.jpg||400|74"
+  },
+  "durer-chandeliers": {
+   "f": "img/durer-chandeliers.webp",
+   "v": "e72ecfb62c",
+   "w": 400,
+   "h": 568,
+   "l": "Saint Jean et la vision des sept chandeliers, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, 1498 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Vision_of_the_Seven_Candlesticks,_1498,_NGA_142350.jpg",
+   "pour": [],
+   "sig": "Albrecht Dürer, The Vision of the Seven Candlesticks, 1498, NGA 142350.jpg||400|74"
+  },
+  "durer-femme": {
+   "f": "img/durer-femme.webp",
+   "v": "e35440ad52",
+   "w": 400,
+   "h": 584,
+   "l": "La Femme vêtue de soleil et le dragon à sept têtes, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, 1498 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Apocalyptic_Woman,_1498,_NGA_142358.jpg",
+   "pour": [],
+   "sig": "Albrecht Dürer, The Apocalyptic Woman, 1498, NGA 142358.jpg||400|74"
+  },
+  "durer-babylone": {
+   "f": "img/durer-babylone.webp",
+   "v": "721112763d",
+   "w": 400,
+   "h": 588,
+   "l": "La grande prostituée de Babylone, de l’*Apocalypse* de Dürer",
+   "cr": "Albrecht Dürer, 1498 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer,_The_Whore_of_Babylon,_1498,_NGA_142362.jpg",
+   "pour": [],
+   "sig": "Albrecht Dürer, The Whore of Babylon, 1498, NGA 142362.jpg||400|74"
+  },
+  "angers-michel": {
+   "f": "img/angers-michel.webp",
+   "v": "79a337fc13",
+   "w": 440,
+   "h": 331,
+   "l": "Saint Michel et ses anges combattent le dragon, dans la tenture de l’Apocalypse",
+   "cr": "d’après les cartons de Hennequin de Bruges, vers 1375-1382 — château d’Angers",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hennequin_de_Bruges_-_Saint_Michael_fighting_the_Dragon_-_WGA24178.jpg",
+   "pour": [
+    "tenture-de-l-apocalypse"
+   ],
+   "sig": "Hennequin de Bruges - Saint Michael fighting the Dragon - WGA24178.jpg||440|74"
+  },
+  "agneau-central": {
+   "f": "img/agneau-central.webp",
+   "v": "adad1d9410",
+   "w": 440,
+   "h": 255,
+   "l": "L’Adoration de l’Agneau, panneau central du retable de Gand",
+   "cr": "Hubert et Jan van Eyck, 1432 — cathédrale Saint-Bavon, Gand",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ghent_Altarpiece_-_Adoration_of_the_Mystic_Lamb.jpg",
+   "pour": [
+    "l-agneau-mystique"
+   ],
+   "sig": "Ghent Altarpiece - Adoration of the Mystic Lamb.jpg||440|74"
+  },
+  "gitans-1923": {
+   "f": "img/gitans-1923.webp",
+   "v": "cfc15150ab",
+   "w": 440,
+   "h": 315,
+   "l": "Campement de Gitans aux Saintes-Maries-de-la-Mer, au pèlerinage de mai 1923",
+   "cr": "Agence Rol, mai 1923 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:P%C3%A8lerinage_des_Saintes_Maries_de_la_Mer_(campement_de_gitans,_23-25_mai_1923)_-_btv1b53106512r.jpg",
+   "pour": [
+    "la-reine-du-sabbat"
+   ],
+   "sig": "Pèlerinage des Saintes Maries de la Mer (campement de gitans, 23-25 mai 1923) - btv1b53106512r.jpg||440|74"
+  },
+  "sara-statue": {
+   "f": "img/sara-statue.webp",
+   "v": "7ce2e97b4f",
+   "w": 400,
+   "h": 518,
+   "l": "La statue de sainte Sara dans la crypte de l’église des Saintes-Maries-de-la-Mer",
+   "cr": "photographie de M. S., 2006",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Saintes-Maries-de-la-Mer_Sarah.jpg",
+   "pour": [
+    "sara-la-kali"
+   ],
+   "sig": "Saintes-Maries-de-la-Mer Sarah.jpg|0.42 0 1 1|400|74"
+  },
+  "rouletabille-annonce": {
+   "f": "img/rouletabille-annonce.webp",
+   "v": "bacf268b34",
+   "w": 440,
+   "h": 328,
+   "l": "L’annonce du cinéroman *Rouletabille chez les Bohémiens*",
+   "cr": "*Le Matin*, 27 septembre 1922 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rouletabille_chez_les_boh%C3%A9miens_(Annonce_19220927).jpg",
+   "pour": [
+    "rouletabille-chez-les-bohemiens"
+   ],
+   "sig": "Rouletabille chez les bohémiens (Annonce 19220927).jpg||440|74"
+  },
+  "nerval-vieille-lanterne": {
+   "f": "img/nerval-vieille-lanterne.webp",
+   "v": "4c7e3763f8",
+   "w": 400,
+   "h": 576,
+   "l": "*La Rue de la Vieille-Lanterne*, où Nerval fut retrouvé pendu le 26 janvier 1855",
+   "cr": "lithographie de Gustave Doré, 1855 — National Gallery of Art, Washington",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9,_Rue_de_la_Vieille_lanterne_(The_Suicide_of_G%C3%A9rard_de_Nerval),_1855,_NGA_208198.jpg",
+   "pour": [
+    "aurelia"
+   ],
+   "sig": "Gustave Doré, Rue de la Vieille lanterne (The Suicide of Gérard de Nerval), 1855, NGA 208198.jpg||400|74"
+  },
+  "potdor-hoffmann": {
+   "f": "img/potdor-hoffmann.webp",
+   "v": "bbccc615b3",
+   "w": 320,
+   "h": 556,
+   "l": "Les *Fantasiestücke in Callot’s Manier*, le recueil où parut *Le Pot d’or* en 1814",
+   "cr": "page de titre du premier volume, Bamberg, C. F. Kunz, 1814",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hoffmann,_E._T._A._Fantasiest%C3%BCcke_in_Callot%27s_Manier._1,_Titelseite.jpg",
+   "pour": [
+    "le-pot-d-or"
+   ],
+   "sig": "Hoffmann, E. T. A. Fantasiestücke in Callot's Manier. 1, Titelseite.jpg||320|74"
+  },
+  "frankenstein-holst": {
+   "f": "img/frankenstein-holst.webp",
+   "v": "ad61cd8b1a",
+   "w": 400,
+   "h": 600,
+   "l": "Le frontispice de l’édition de 1831 de *Frankenstein*",
+   "cr": "gravure d’après Theodor von Holst, 1831",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Frankenstein.1831.inside-cover.jpg",
+   "pour": [
+    "frankenstein"
+   ],
+   "sig": "Frankenstein.1831.inside-cover.jpg||400|74"
+  },
+  "vathek-1787": {
+   "f": "img/vathek-1787.webp",
+   "v": "2eb917aede",
+   "w": 320,
+   "h": 613,
+   "l": "*Vathek*, édition de Lausanne, 1787",
+   "cr": "Isaac Hignou, Lausanne, 1787",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:VathekFrench.jpg",
+   "pour": [
+    "vathek"
+   ],
+   "sig": "VathekFrench.jpg||320|74"
+  },
+  "balsamo-cheret": {
+   "f": "img/balsamo-cheret.webp",
+   "v": "ebac729d86",
+   "w": 400,
+   "h": 549,
+   "l": "Affiche de Jules Chéret pour *Joseph Balsamo* d’Alexandre Dumas, publié en feuilleton",
+   "cr": "Jules Chéret, 1889 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lire_dans_le_Progr%C3%A8s_Joseph_Balsamo,_par_Alexandre_Dumas_affiche,_Jules_Ch%C3%A9ret.jpg",
+   "pour": [
+    "joseph-balsamo"
+   ],
+   "sig": "Lire dans le Progrès Joseph Balsamo, par Alexandre Dumas affiche, Jules Chéret.jpg||400|74"
+  },
+  "axel-affiche": {
+   "f": "img/axel-affiche.webp",
+   "v": "f5f4adbfe9",
+   "w": 400,
+   "h": 521,
+   "l": "L’affiche de la création d’*Axël* au théâtre, en 1894",
+   "cr": "Maurice de Lambert, 1894",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Poster_for_%22Axel%22_(1894).tif",
+   "pour": [
+    "axel"
+   ],
+   "sig": "Poster for \"Axel\" (1894).tif||400|74"
+  },
+  "moreau-apparition": {
+   "f": "img/moreau-apparition.webp",
+   "v": "2e18152f7e",
+   "w": 400,
+   "h": 590,
+   "l": "*L’Apparition*, l’aquarelle de Gustave Moreau que contemple des Esseintes",
+   "cr": "Gustave Moreau, vers 1876 — musée d’Orsay, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gustave_Moreau_-_The_Apparition_-_Google_Art_Project.jpg",
+   "pour": [
+    "a-rebours"
+   ],
+   "sig": "Gustave Moreau - The Apparition - Google Art Project.jpg||400|74"
+  },
+  "labas-titre": {
+   "f": "img/labas-titre.webp",
+   "v": "ab32b811c2",
+   "w": 320,
+   "h": 518,
+   "l": "La couverture de l’édition originale de *Là-bas*",
+   "cr": "Tresse et Stock, 1891",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Title_Page_of_L%C3%A0-bas.jpeg",
+   "pour": [
+    "la-bas"
+   ],
+   "sig": "Title Page of Là-bas.jpeg||320|74"
+  },
+  "tentation-redon": {
+   "f": "img/tentation-redon.webp",
+   "v": "c8e922803c",
+   "w": 400,
+   "h": 475,
+   "l": "Une planche de *La Tentation de saint Antoine* d’Odilon Redon, d’après Flaubert",
+   "cr": "lithographie d’Odilon Redon, 1888 — Cleveland Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_The_Temptation_of_St._Anthony_-_1927.352_-_Cleveland_Museum_of_Art.tif",
+   "pour": [
+    "la-tentation-de-saint-antoine"
+   ],
+   "sig": "Odilon Redon - The Temptation of St. Anthony - 1927.352 - Cleveland Museum of Art.tif||400|74"
+  },
+  "satan-bernard": {
+   "f": "img/satan-bernard.webp",
+   "v": "21cf9858ce",
+   "w": 400,
+   "h": 529,
+   "l": "« Satan est mort ; renais, ô Lucifer céleste ! », le dernier vers de *La Fin de Satan*",
+   "cr": "gravure d’Émile Bernard, 1935 — maison de Victor Hugo, Paris",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:N%C2%B0_49_%E2%80%93_%C2%AB_Satan_est_mort_renais,_%C3%B4_Lucifer_c%C3%A9leste_%C2%BB,_4414.49.jpg",
+   "pour": [
+    "la-fin-de-satan"
+   ],
+   "sig": "N° 49 – « Satan est mort renais, ô Lucifer céleste », 4414.49.jpg||400|74"
+  },
+  "paradis-martin": {
+   "f": "img/paradis-martin.webp",
+   "v": "e8e4b4fcc0",
+   "w": 440,
+   "h": 294,
+   "l": "*Le Pandémonium*, la capitale de Satan dans le *Paradis perdu*, par John Martin",
+   "cr": "John Martin, 1841 — musée du Louvre, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Pandemonium_-_John_Martin_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2006_21_-_sans_cadre.jpg",
+   "pour": [
+    "le-paradis-perdu"
+   ],
+   "sig": "Le Pandemonium - John Martin - Musée du Louvre Peintures RF 2006 21 - sans cadre.jpg||440|74"
+  },
+  "mines-1887": {
+   "f": "img/mines-1887.webp",
+   "v": "8b6821b84f",
+   "w": 320,
+   "h": 438,
+   "l": "La couverture d’une édition de 1887 des *Mines du roi Salomon*",
+   "cr": "couverture, 1887",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Front_cover_King_Solomon%27s_Mines_1887.jpg",
+   "pour": [
+    "les-mines-du-roi-salomon"
+   ],
+   "sig": "Front cover King Solomon's Mines 1887.jpg||320|74"
+  },
+  "pendule-1895": {
+   "f": "img/pendule-1895.webp",
+   "v": "d353bd9589",
+   "w": 320,
+   "h": 534,
+   "l": "Le pendule de Foucault, qui rend visible la rotation de la Terre",
+   "cr": "gravure de *Facts Worth Knowing*, recueil tiré du *Scientific American*, 1895",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Foucault_Pendulum.jpg",
+   "pour": [
+    "le-pendule-de-foucault"
+   ],
+   "sig": "Foucault Pendulum.jpg||320|74"
+  },
+  "etoile-visconti": {
+   "f": "img/etoile-visconti.webp",
+   "v": "9855c04d35",
+   "w": 320,
+   "h": 640,
+   "l": "L’Étoile, arcane XVII, du tarot Visconti-Sforza",
+   "cr": "atelier de Bonifacio Bembo, milieu du XVe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bembo-Visconti-tarot-arcanum-17-star.jpg",
+   "pour": [
+    "arcane-17"
+   ],
+   "sig": "Bembo-Visconti-tarot-arcanum-17-star.jpg||320|74"
+  },
+  "wirth-1889": {
+   "f": "img/wirth-1889.webp",
+   "v": "e8f5289bba",
+   "w": 320,
+   "h": 540,
+   "l": "Le Bateleur du tarot d’Oswald Wirth, dont Papus reproduit les arcanes dans *Le Tarot des Bohémiens*",
+   "cr": "Oswald Wirth, 1889 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:01_Le_Bateleur,_Oswald_Wirth_Tarot_Deck_1889_BnF.jpg",
+   "pour": [
+    "le-tarot-des-bohemiens"
+   ],
+   "sig": "01 Le Bateleur, Oswald Wirth Tarot Deck 1889 BnF.jpg||320|74"
+  },
+  "potocki": {
+   "f": "img/potocki.webp",
+   "v": "7b901c51b9",
+   "w": 320,
+   "h": 396,
+   "l": "Jean Potocki",
+   "cr": "portrait d’après Alexandre Varnek, XIXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jan_Potocki_(1761-1815).jpg",
+   "pour": [
+    "le-manuscrit-trouve-a-saragosse"
+   ],
+   "sig": "Jan Potocki (1761-1815).jpg||320|74"
+  },
+  "rimbaud-carjat": {
+   "f": "img/rimbaud-carjat.webp",
+   "v": "688c9ad761",
+   "w": 320,
+   "h": 421,
+   "l": "Arthur Rimbaud à dix-sept ans",
+   "cr": "photographie d’Étienne Carjat, vers 1871-1872",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rimbaud.PNG",
+   "pour": [
+    "arthur-rimbaud"
+   ],
+   "sig": "Rimbaud.PNG||320|74"
+  },
+  "meyrink-portrait": {
+   "f": "img/meyrink-portrait.webp",
+   "v": "294f904369",
+   "w": 320,
+   "h": 455,
+   "l": "Gustav Meyrink",
+   "cr": "photographie, vers 1930",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gustav_Meyrink,_portrait.gif",
+   "pour": [
+    "gustav-meyrink"
+   ],
+   "sig": "Gustav Meyrink, portrait.gif||320|74"
+  },
+  "meyrink-golem": {
+   "f": "img/meyrink-golem.webp",
+   "v": "caea0d111c",
+   "w": 400,
+   "h": 586,
+   "l": "L’apparition du Golem dans le ghetto de Prague, lithographie pour le roman de Meyrink",
+   "cr": "Hugo Steiner-Prag — Center for Jewish History, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%22The_appearance_of_the_Golem%22,_page_6_from_the_book_%22Der_Golem%22,_illustrated_by_Hugo_Steiner-Prag.jpg",
+   "pour": [
+    "gustav-meyrink"
+   ],
+   "sig": "\"The appearance of the Golem\", page 6 from the book \"Der Golem\", illustrated by Hugo Steiner-Prag.jpg||400|74"
+  },
+  "moreau-portrait": {
+   "f": "img/moreau-portrait.webp",
+   "v": "e33811f3c9",
+   "w": 320,
+   "h": 404,
+   "l": "Gustave Moreau, autoportrait",
+   "cr": "Gustave Moreau, 1850 — musée Gustave-Moreau, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:GustaveMoreau02.jpg",
+   "pour": [
+    "gustave-moreau"
+   ],
+   "sig": "GustaveMoreau02.jpg||320|74"
+  },
+  "moreau-semele": {
+   "f": "img/moreau-semele.webp",
+   "v": "a2ae84814a",
+   "w": 400,
+   "h": 723,
+   "l": "*Jupiter et Sémélé*, par Gustave Moreau",
+   "cr": "Gustave Moreau, 1894-1895 — musée Gustave-Moreau, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jupiter_and_Semele_by_Gustave_Moreau.jpg",
+   "pour": [
+    "gustave-moreau"
+   ],
+   "sig": "Jupiter and Semele by Gustave Moreau.jpg||400|74"
+  },
+  "moreau-salome": {
+   "f": "img/moreau-salome.webp",
+   "v": "2f9233e16c",
+   "w": 400,
+   "h": 559,
+   "l": "*Salomé dansant devant Hérode*, par Gustave Moreau",
+   "cr": "Gustave Moreau, 1876 — Hammer Museum, Los Angeles",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Salome_Dancing_before_Herod_by_Gustave_Moreau.jpg",
+   "pour": [
+    "salome"
+   ],
+   "sig": "Salome Dancing before Herod by Gustave Moreau.jpg||400|74"
+  },
+  "redon-portrait": {
+   "f": "img/redon-portrait.webp",
+   "v": "7c757ebe4d",
+   "w": 320,
+   "h": 416,
+   "l": "Odilon Redon",
+   "cr": "photographie de Guy et Mockel, vers 1880",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_vers_1880.jpg",
+   "pour": [
+    "odilon-redon"
+   ],
+   "sig": "Odilon Redon vers 1880.jpg||320|74"
+  },
+  "redon-yeux-clos": {
+   "f": "img/redon-yeux-clos.webp",
+   "v": "4bec19b43e",
+   "w": 400,
+   "h": 494,
+   "l": "*Les Yeux clos*, par Odilon Redon",
+   "cr": "Odilon Redon, 1890 — musée d’Orsay, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Closed_Eyes_-_Google_Art_Project.jpg",
+   "pour": [
+    "odilon-redon"
+   ],
+   "sig": "Odilon Redon - Closed Eyes - Google Art Project.jpg||400|74"
+  },
+  "delville-portrait": {
+   "f": "img/delville-portrait.webp",
+   "v": "473b07a527",
+   "w": 320,
+   "h": 393,
+   "l": "Jean Delville",
+   "cr": "photographie, vers 1910 — collection Miriam Delville",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portrait_de_Jean_Delville.png",
+   "pour": [
+    "jean-delville"
+   ],
+   "sig": "Portrait de Jean Delville.png||320|74"
+  },
+  "delville-satan": {
+   "f": "img/delville-satan.webp",
+   "v": "17df09e0cd",
+   "w": 400,
+   "h": 386,
+   "l": "*Les Trésors de Satan*, par Jean Delville",
+   "cr": "Jean Delville, 1895 — musées royaux des Beaux-Arts de Belgique, Bruxelles",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A9sors_de_Sathan_(1895)_-_Jean_Delville.jpg",
+   "pour": [
+    "jean-delville"
+   ],
+   "sig": "Les Trésors de Sathan (1895) - Jean Delville.jpg||400|74"
+  },
+  "klint-portrait": {
+   "f": "img/klint-portrait.webp",
+   "v": "b704fe7b5b",
+   "w": 320,
+   "h": 449,
+   "l": "Hilma af Klint",
+   "cr": "photographie, vers 1885",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hilma-af-Klint-uncropped.jpg",
+   "pour": [
+    "hilma-af-klint"
+   ],
+   "sig": "Hilma-af-Klint-uncropped.jpg||320|74"
+  },
+  "klint-jeunesse": {
+   "f": "img/klint-jeunesse.webp",
+   "v": "1f457883f2",
+   "w": 400,
+   "h": 533,
+   "l": "*Les Dix Plus Grands*, n° 3, *La Jeunesse*, par Hilma af Klint",
+   "cr": "Hilma af Klint, 1907 — fondation Hilma af Klint, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hilma_af_Klint_-_The_Ten_Largest_No._3_-_Youth_-_1907.jpg",
+   "pour": [
+    "abstraction-et-theosophie",
+    "hilma-af-klint"
+   ],
+   "sig": "Hilma af Klint - The Ten Largest No. 3 - Youth - 1907.jpg||400|74"
+  },
+  "kandinsky-erfurth": {
+   "f": "img/kandinsky-erfurth.webp",
+   "v": "d531adecad",
+   "w": 320,
+   "h": 426,
+   "l": "Vassily Kandinsky",
+   "cr": "photographie de Hugo Erfurth, 1923",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kandinsky_by_Hugo_Erfurth,_1923_(cropped).png",
+   "pour": [
+    "wassily-kandinsky"
+   ],
+   "sig": "Kandinsky by Hugo Erfurth, 1923 (cropped).png||320|74"
+  },
+  "kandinsky-vii": {
+   "f": "img/kandinsky-vii.webp",
+   "v": "0590fecb8f",
+   "w": 440,
+   "h": 292,
+   "l": "*Composition VII*, par Vassily Kandinsky",
+   "cr": "Vassily Kandinsky, 1913 — galerie Tretiakov, Moscou",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Composition_VII_-_Wassily_Kandinsky,_GAC.jpg",
+   "pour": [
+    "wassily-kandinsky"
+   ],
+   "sig": "Composition VII - Wassily Kandinsky, GAC.jpg||440|74"
+  },
+  "mondrian-portrait": {
+   "f": "img/mondrian-portrait.webp",
+   "v": "d15e6df5b0",
+   "w": 320,
+   "h": 326,
+   "l": "Piet Mondrian",
+   "cr": "photographie publiée dans *De Stijl*, décembre 1922",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian_2.jpg",
+   "pour": [
+    "piet-mondrian"
+   ],
+   "sig": "Piet Mondrian 2.jpg||320|74"
+  },
+  "mondrian-evolution": {
+   "f": "img/mondrian-evolution.webp",
+   "v": "9c8d332720",
+   "w": 440,
+   "h": 320,
+   "l": "*Évolution*, le triptyque théosophique de Piet Mondrian",
+   "cr": "Piet Mondrian, 1911 — Kunstmuseum, La Haye",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mondrian,_Evolution_(Triptychon),_1911.jpg",
+   "pour": [
+    "piet-mondrian",
+    "abstraction-et-theosophie"
+   ],
+   "sig": "Mondrian, Evolution (Triptychon), 1911.jpg||440|74"
+  },
+  "roerich-portrait": {
+   "f": "img/roerich-portrait.webp",
+   "v": "d5280b28da",
+   "w": 320,
+   "h": 444,
+   "l": "Nicolas Roerich",
+   "cr": "photographie, années 1940",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:N_Roerich.jpg",
+   "pour": [
+    "nicolas-roerich"
+   ],
+   "sig": "N Roerich.jpg||320|74"
+  },
+  "roerich-mere": {
+   "f": "img/roerich-mere.webp",
+   "v": "5d80633811",
+   "w": 400,
+   "h": 532,
+   "l": "*La Mère du monde*, par Nicolas Roerich",
+   "cr": "Nicolas Roerich, 1924",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nicholas_Roerich_-_Mother_of_the_World,_1924_-_original.jpg",
+   "pour": [
+    "nicolas-roerich"
+   ],
+   "sig": "Nicholas Roerich - Mother of the World, 1924 - original.jpg||400|74"
+  },
+  "formes-gounod": {
+   "f": "img/formes-gounod.webp",
+   "v": "13454dc03b",
+   "w": 400,
+   "h": 543,
+   "l": "La musique de Gounod vue comme une « forme-pensée » au-dessus d’une église",
+   "cr": "planche de *Thought-Forms*, d’Annie Besant et Charles W. Leadbeater, 1901",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Music_of_Gounod_-_Annie_Besant_Thought_Form_-_Project_Gutenberg_eText_16269.jpg",
+   "pour": [
+    "formes-pensees"
+   ],
+   "sig": "Music of Gounod - Annie Besant Thought Form - Project Gutenberg eText 16269.jpg||400|74"
+  },
+  "nabis-talisman": {
+   "f": "img/nabis-talisman.webp",
+   "v": "9e4d684711",
+   "w": 400,
+   "h": 514,
+   "l": "*Le Talisman*, par Paul Sérusier",
+   "cr": "Paul Sérusier, 1888 — musée d’Orsay, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Paul_S%C3%A9rusier_-_The_Talisman_-_Google_Art_Project.jpg",
+   "pour": [
+    "les-nabis"
+   ],
+   "sig": "Paul Sérusier - The Talisman - Google Art Project.jpg||400|74"
+  },
+  "khnopff-porte": {
+   "f": "img/khnopff-porte.webp",
+   "v": "162355970c",
+   "w": 440,
+   "h": 223,
+   "l": "*I Lock My Door upon Myself*, par Fernand Khnopff",
+   "cr": "Fernand Khnopff, 1891 — Neue Pinakothek, Munich",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_I_lock_my_door_upon_myself.jpeg",
+   "pour": [
+    "symbolisme"
+   ],
+   "sig": "Fernand Khnopff - I lock my door upon myself.jpeg||440|74"
+  },
+  "rose-croix-affiche": {
+   "f": "img/rose-croix-affiche.webp",
+   "v": "0fe4c68ca3",
+   "w": 440,
+   "h": 312,
+   "l": "L’affiche du cinquième Salon de la Rose-Croix",
+   "cr": "Armand Point et Léonard Sarluis, 1896",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Poster_for_the_fifth_Salon_de_la_Rose%2BCroix.jpg",
+   "pour": [
+    "salons-de-la-rose-croix"
+   ],
+   "sig": "Poster for the fifth Salon de la Rose+Croix.jpg||440|74"
+  },
+  "vanite-champaigne": {
+   "f": "img/vanite-champaigne.webp",
+   "v": "c67d78e299",
+   "w": 440,
+   "h": 337,
+   "l": "*Vanité*, par Philippe de Champaigne",
+   "cr": "Philippe de Champaigne, vers 1671 — musée de Tessé, Le Mans",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:StillLifeWithASkull.jpg",
+   "pour": [
+    "vanites"
+   ],
+   "sig": "StillLifeWithASkull.jpg||440|74"
+  },
+  "amour-titien": {
+   "f": "img/amour-titien.webp",
+   "v": "ee9d6d5b05",
+   "w": 440,
+   "h": 175,
+   "l": "*L’Amour sacré et l’Amour profane*, par Titien",
+   "cr": "Titien, vers 1514 — galerie Borghèse, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Amor_Sacro_y_Amor_Profano_(Galer%C3%ADa_Borghese,_Roma,_1514)FXD.jpg",
+   "pour": [
+    "l-amour-sacre-et-l-amour-profane"
+   ],
+   "sig": "Tiziano - Amor Sacro y Amor Profano (Galería Borghese, Roma, 1514)FXD.jpg||440|74"
+  },
+  "printemps-botticelli": {
+   "f": "img/printemps-botticelli.webp",
+   "v": "8fade042ab",
+   "w": 440,
+   "h": 292,
+   "l": "*Le Printemps*, par Sandro Botticelli",
+   "cr": "Sandro Botticelli, vers 1480 — galerie des Offices, Florence",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg",
+   "pour": [
+    "le-printemps"
+   ],
+   "sig": "Sandro Botticelli - La Primavera - Google Art Project.jpg||440|74"
+  },
+  "athenes-raphael": {
+   "f": "img/athenes-raphael.webp",
+   "v": "7796c76ed2",
+   "w": 440,
+   "h": 341,
+   "l": "*L’École d’Athènes*, par Raphaël",
+   "cr": "Raphaël, 1509-1511 — chambre de la Signature, Vatican",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+   "pour": [
+    "l-ecole-d-athenes"
+   ],
+   "sig": "\"The School of Athens\" by Raffaello Sanzio da Urbino.jpg||440|74"
+  },
+  "philosophes-giorgione": {
+   "f": "img/philosophes-giorgione.webp",
+   "v": "067fbb2353",
+   "w": 440,
+   "h": 374,
+   "l": "*Les Trois Philosophes*, par Giorgione",
+   "cr": "Giorgione, vers 1508-1509 — Kunsthistorisches Museum, Vienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg",
+   "pour": [
+    "les-trois-philosophes"
+   ],
+   "sig": "Giorgione - Three Philosophers - Google Art Project.jpg||440|74"
+  },
+  "ambassadeurs-holbein": {
+   "f": "img/ambassadeurs-holbein.webp",
+   "v": "3a12d7395a",
+   "w": 400,
+   "h": 394,
+   "l": "*Les Ambassadeurs*, par Hans Holbein le Jeune, avec le crâne peint en anamorphose",
+   "cr": "Hans Holbein le Jeune, 1533 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+   "pour": [
+    "les-ambassadeurs"
+   ],
+   "sig": "Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg||400|74"
+  },
+  "sabbat-goya": {
+   "f": "img/sabbat-goya.webp",
+   "v": "f623ab8141",
+   "w": 400,
+   "h": 563,
+   "l": "*Le Sabbat des sorcières*, par Francisco de Goya",
+   "cr": "Francisco de Goya, 1797-1798 — musée Lázaro Galdiano, Madrid",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:GOYA_-_El_aquelarre_(Museo_L%C3%A1zaro_Galdiano,_Madrid,_1797-98).jpg",
+   "pour": [
+    "le-sabbat-des-sorcieres"
+   ],
+   "sig": "GOYA - El aquelarre (Museo Lázaro Galdiano, Madrid, 1797-98).jpg||400|74"
+  },
+  "toteninsel": {
+   "f": "img/toteninsel.webp",
+   "v": "bc55b761f6",
+   "w": 440,
+   "h": 227,
+   "l": "*L’Île des morts*, cinquième version, par Arnold Böcklin",
+   "cr": "Arnold Böcklin, 1886 — musée des Beaux-Arts, Leipzig",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Die_Toteninsel_V_(Museum_der_bildenden_K%C3%BCnste_Leipzig).jpg",
+   "pour": [
+    "l-ile-des-morts"
+   ],
+   "sig": "Arnold Böcklin - Die Toteninsel V (Museum der bildenden Künste Leipzig).jpg||440|74"
+  },
+  "sienne-hermes": {
+   "f": "img/sienne-hermes.webp",
+   "v": "e1ecc79b6e",
+   "w": 400,
+   "h": 540,
+   "l": "Hermès Trismégiste, sur le pavement de la cathédrale de Sienne",
+   "cr": "marqueterie de marbre, vers 1488 — cathédrale de Sienne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pavimento_di_siena,_ermete_trismegisto_(giovanni_di_stefano)_01.jpg",
+   "pour": [
+    "cathedrale-de-sienne",
+    "hermes-trismegiste"
+   ],
+   "sig": "Pavimento di siena, ermete trismegisto (giovanni di stefano) 01.jpg||400|74"
   }
  },
  "planches": {
@@ -11144,6 +13025,169 @@
      "beham-venus",
      "beham-mercure",
      "beham-lune"
+    ]
+   }
+  ],
+  "mythe": [
+   {
+    "titre": "Les mythes de cette rubrique, de la Grèce à l’Inde et au Nord. Touchez une image pour lire l’article.",
+    "images": [
+     "mythe-age-d-or-cranach",
+     "mythe-promethee-cossiers",
+     "mythe-pandore-della-vecchia",
+     "mythe-deucalion-rubens",
+     "mythe-argo-volanakis",
+     "mythe-medee-giaquinto",
+     "mythe-hercule-torlonia",
+     "mythe-hercule-carrache",
+     "mythe-thesee-burne-jones",
+     "mythe-ariane-titien",
+     "mythe-icare-van-dyck",
+     "mythe-oedipe-moreau",
+     "mythe-atalante-reni",
+     "mythe-paris-rubens",
+     "mythe-graces-raphael",
+     "mythe-ulysse-calypso-bocklin",
+     "mythe-circe-waterhouse",
+     "mythe-psyche-zucchi",
+     "mythe-narcisse-caravage",
+     "mythe-caverne-saenredam",
+     "mythe-parques-fussli",
+     "mythe-odin-collingwood",
+     "mythe-gilgamesh-tablette",
+     "mythe-kurma"
+    ]
+   }
+  ],
+  "apocryphes": [
+   {
+    "titre": "Papyrus et manuscrits des apocryphes, du IIIe au Xe siècle. Touchez une image pour lire l’article du texte.",
+    "images": [
+     "apo-poxy-1",
+     "nag-hammadi",
+     "apo-philippe-codex-ii",
+     "apo-verite-codex-i",
+     "apo-poxy-3525",
+     "apo-tchacos-33",
+     "henoch-papyrus",
+     "apo-akhmim",
+     "apo-nicodeme-einsiedeln"
+    ]
+   }
+  ],
+  "mythes-bibliques": [
+   {
+    "titre": "Les mythes de la Bible dans l’art, du jardin d’Éden à la Jérusalem céleste. Touchez une image pour lire l’article.",
+    "images": [
+     "eden-cranach",
+     "lilith-rossetti",
+     "cain-rubens",
+     "tubalcain-nuremberg",
+     "mythe-deucalion-rubens",
+     "babel-bruegel",
+     "melchisedech-bouts",
+     "blake-echelle",
+     "moise-reni",
+     "serpent-rubens",
+     "tissot-arche",
+     "salomon-poussin",
+     "temple-fouquet",
+     "saba-lorrain",
+     "jonas-michel-ange",
+     "nabuchodonosor-statue",
+     "balthazar-rembrandt",
+     "mages-altdorfer",
+     "saba-piero",
+     "juif-errant-dore",
+     "durer-cavaliers",
+     "blake-dragon",
+     "jerusalem-facundus"
+    ]
+   }
+  ],
+  "salomon": [
+   {
+    "titre": "Salomon, son Temple et ses légendes, de la Bible à Nerval. Touchez une image pour lire l’article.",
+    "images": [
+     "salomon-poussin",
+     "temple-fouquet",
+     "villalpando-temple",
+     "temple-vatable",
+     "saba-lorrain",
+     "saba-piero",
+     "huppe-hafez",
+     "gounod-saba",
+     "shamir-happel",
+     "asmodee-le-breton",
+     "salomon-demons",
+     "tissot-arche",
+     "ophir-montano",
+     "mines-1887"
+    ]
+   }
+  ],
+  "jean-l-evangeliste": [
+   {
+    "titre": "Saint Jean, de l’Évangile à l’Apocalypse. Touchez une image pour lire l’article.",
+    "images": [
+     "lindisfarne-jean",
+     "kells-jean",
+     "kells-tetramorphe",
+     "peche-witz",
+     "ephese-galle",
+     "patmos-bosch",
+     "apocalypse-san-paolo",
+     "deux-jean-greco",
+     "baptiste-leonard",
+     "moreau-salome",
+     "mandeens-pretres"
+    ]
+   }
+  ],
+  "apocalypse": [
+   {
+    "titre": "L’Apocalypse en images, des Beatus à William Blake. Touchez une image pour lire l’article.",
+    "images": [
+     "patmos-bosch",
+     "jerusalem-facundus",
+     "angers-michel",
+     "durer-michel",
+     "durer-cavaliers",
+     "durer-bete",
+     "michel-raphael",
+     "blake-dragon",
+     "agneau-central"
+    ]
+   }
+  ],
+  "apocalypse-de-durer": [
+   {
+    "titre": "Six des quinze gravures de l’*Apocalypse* de Dürer (1498). Touchez une image pour l’agrandir ou lire l’article.",
+    "images": [
+     "durer-chandeliers",
+     "durer-cavaliers",
+     "durer-bete",
+     "durer-femme",
+     "durer-michel",
+     "durer-babylone"
+    ]
+   }
+  ],
+  "symbolisme": [
+   {
+    "titre": "Le symbolisme et ses voisins, de Gustave Moreau à Hilma af Klint. Touchez une image pour lire l’article.",
+    "images": [
+     "moreau-semele",
+     "moreau-apparition",
+     "redon-yeux-clos",
+     "toteninsel",
+     "delville-satan",
+     "rose-croix-affiche",
+     "axel-affiche",
+     "waterhouse-cercle",
+     "nabis-talisman",
+     "klint-jeunesse",
+     "mondrian-evolution"
     ]
    }
   ]

@@ -39,7 +39,7 @@ alias: saint Bernard, Éloge de la nouvelle milice, De laude novae militiae
 dates: 1090 – 1153
 an: 1090
 def: Abbé cistercien, la plus grande autorité spirituelle de l'Europe du XIIe siècle, qui patronna l'ordre du Temple, prêcha la deuxième croisade et combattit les hérétiques du Midi.
-texte: Né près de Dijon en 1090, Bernard entre à l'abbaye de Cîteaux et fonde en 1115 celle de Clairvaux, qu'il dirige jusqu'à sa mort. Mystique de l'amour divin, commentateur du *Cantique des cantiques*, dévot de la Vierge, conseiller des papes et des rois, il fait de l'ordre cistercien l'un des plus puissants de la chrétienté.
+texte: Né près de Dijon en 1090, Bernard entre à l'abbaye de Cîteaux et fonde en 1115 celle de Clairvaux, qu'il dirige jusqu'à sa mort. Mystique de l'amour divin, commentateur du *[[cantique-des-cantiques|Cantique des cantiques]]*, dévot de la Vierge, conseiller des papes et des rois, il fait de l'ordre cistercien l'un des plus puissants de la chrétienté.
 texte: Au concile de Troyes, en 1129, il soutient la fondation des [[templiers]] de [[hugues-de-payns|Hugues de Payns]], dont la règle s'inspire de la sienne, et leur adresse l'*Éloge de la nouvelle milice*, qui justifie le moine-soldat. Il prêche la deuxième croisade à [[vezelay|Vézelay]] en 1146 et parcourt le Languedoc en 1145 pour ramener les hérétiques, sans grand succès. [[rene-guenon|René Guénon]], qui lui consacre une étude en 1929, voit en lui le maître spirituel du Temple et l'un des derniers grands représentants d'un christianisme encore initiatique.
 repere: 1115 — Fondation de l'abbaye de Clairvaux.
 repere: 1129 — Il soutient la règle des templiers au concile de Troyes.
@@ -76,8 +76,8 @@ dates: 1808 – 1855
 an: 1808
 def: Poète romantique, voyageur en Orient et visionnaire, qui fit entrer dans la littérature française les illuminés, la légende d'Hiram et le rêve comme « seconde vie ».
 texte: Gérard Labrunie, dit Gérard de Nerval, traduit le *Faust* de Goethe à vingt ans et devient l'un des jeunes romantiques de Paris. Après une première crise de folie en 1841, il voyage en Égypte, au Liban et à Constantinople. Son *Voyage en Orient* (1851) raconte l'initiation druze et contient l'*Histoire de la reine du Matin et de Soliman, prince des génies*, où il fait du bâtisseur Adoniram le héros d'une version romanesque de la [[legende-d-hiram|légende d'Hiram]], chère aux francs-maçons.
-texte: *Les Illuminés* (1852) font le portrait de [[cagliostro|Cagliostro]], de Jacques Cazotte, de Restif de La Bretonne et d'autres esprits « singuliers » de la fin du XVIIIe siècle. Dans les sonnets des *Chimères* (1854), saturés d'allusions au tarot, à la mythologie et à l'hermétisme — « le Prince d'Aquitaine à la tour abolie », « le Soleil noir de la Mélancolie » —, et dans *Aurélia* (1855), récit de sa folie qui commence par « Le Rêve est une seconde vie », il fait de l'expérience visionnaire une matière poétique.
-texte: Il se pend dans une ruelle de Paris en janvier 1855 et repose au [[pere-lachaise|Père-Lachaise]]. Les surréalistes, puis les lecteurs ésotériques, ont vu en lui un initié ; les critiques y voient surtout le poète qui a donné au rêve et à l'illuminisme leur place dans la littérature moderne.
+texte: *Les Illuminés* (1852) font le portrait de [[cagliostro|Cagliostro]], de Jacques Cazotte, de Restif de La Bretonne et d'autres esprits « singuliers » de la fin du XVIIIe siècle. Dans les sonnets des *Chimères* (1854), saturés d'allusions au tarot, à la mythologie et à l'hermétisme — « le Prince d'Aquitaine à la tour abolie », « le Soleil noir de la Mélancolie » —, et dans *[[aurelia|Aurélia]]* (1855), récit de sa folie qui commence par « Le Rêve est une seconde vie », il fait de l'expérience visionnaire une matière poétique.
+texte: Il se pend dans une ruelle de Paris en janvier 1855 et repose au [[pere-lachaise|Père-Lachaise]]. Les [[surrealisme|surréalistes]], puis les lecteurs ésotériques, ont vu en lui un initié ; les critiques y voient surtout le poète qui a donné au rêve et à l'illuminisme leur place dans la littérature moderne.
 repere: 1828 — Traduction du *Faust* de Goethe.
 repere: 1843 — Voyage en Orient : Égypte, Liban, Constantinople.
 repere: 1851 — *Voyage en Orient*.
@@ -85,7 +85,7 @@ repere: 1852 — *Les Illuminés*.
 repere: 1854 — *Les Filles du feu* et *Les Chimères*.
 repere: 1855 — Il se pend à Paris ; *Aurélia* paraît la même année.
 oeuvres: Voyage en Orient (1851) ; Les Illuminés (1852) ; Les Filles du feu (1854) ; Les Chimères (1854) ; Aurélia (1855)
-voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo, faust, isis, horus, culte-d-isis, pompei
+voir: legende-d-hiram, cagliostro, illuminisme, pere-lachaise, victor-hugo, faust, isis, horus, culte-d-isis, pompei, aurelia, les-chimeres, histoire-de-la-reine-du-matin
 
 @ karl-maria-wiligut
 cat: figures
@@ -143,13 +143,13 @@ dates: 1824 – 1893
 an: 1824
 def: Prêtre défroqué, chef d'une secte mystique lyonnaise, que Stanislas de Guaita accusa de magie noire et dont la mort déclencha la « guerre des envoûtements » et des duels entre occultistes.
 texte: Prêtre et docteur en théologie, Joseph-Antoine Boullan fonde en 1859 avec une religieuse, Adèle Chevalier, une « Œuvre de la réparation des âmes », qui prétend guérir les possédés par des remèdes étranges. Condamné pour escroquerie, interdit par l'Église, il rejoint à [[lyon|Lyon]] la secte du prophète Vintras, l'Œuvre de la Miséricorde, dont il prend la tête en 1875. Il y enseigne des « unions de vie » où la sexualité deviendrait rédemptrice, et combat les sorts par des rites de son invention.
-texte: En 1887, [[stanislas-de-guaita|Stanislas de Guaita]] et [[oswald-wirth|Oswald Wirth]], qui l'ont approché, le déclarent coupable de magie noire et le « condamnent » ; Boullan se dit dès lors attaqué par leurs envoûtements et y répond par des contre-sorts. [[joris-karl-huysmans|Huysmans]], qui le fréquente, en fait le docteur Johannès de *Là-bas* (1891). Quand Boullan meurt subitement en janvier 1893, le journaliste Jules Bois accuse Guaita de l'avoir tué par magie : Guaita et Papus se battent en duel avec Bois, sans victime. L'affaire fit la joie de la presse parisienne.
+texte: En 1887, [[stanislas-de-guaita|Stanislas de Guaita]] et [[oswald-wirth|Oswald Wirth]], qui l'ont approché, le déclarent coupable de magie noire et le « condamnent » ; Boullan se dit dès lors attaqué par leurs envoûtements et y répond par des contre-sorts. [[joris-karl-huysmans|Huysmans]], qui le fréquente, en fait le docteur Johannès de *[[la-bas|Là-bas]]* (1891). Quand Boullan meurt subitement en janvier 1893, le journaliste Jules Bois accuse Guaita de l'avoir tué par magie : Guaita et Papus se battent en duel avec Bois, sans victime. L'affaire fit la joie de la presse parisienne.
 repere: 1859 — Il fonde l'Œuvre de la réparation des âmes avec Adèle Chevalier.
 repere: 1875 — Il prend la tête de la secte vintrasienne de Lyon.
 repere: 1887 — Guaita et Wirth le déclarent coupable de magie noire.
 repere: 1891 — Il devient le docteur Johannès de *Là-bas*.
 repere: 1893 — Sa mort déclenche les duels de la « guerre des envoûtements ».
-voir: stanislas-de-guaita, joris-karl-huysmans, envoutement, satanisme, papus
+voir: stanislas-de-guaita, joris-karl-huysmans, envoutement, satanisme, papus, la-bas
 
 @ albert-poisson
 cat: figures

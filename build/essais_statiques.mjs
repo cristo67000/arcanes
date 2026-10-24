@@ -96,6 +96,17 @@ ok(dico.articles.every((a) => !/ [;:!?]/.test(a.d + a.t.join(''))), 'la ponctuat
 ok(dico.articles.every((a) => !/\w'\w/.test(a.d + a.t.join(''))), 'les apostrophes sont typographiques');
 ok(dico.portes.every((p) => ids.has(p)), 'les portes d’entrée mènent à des articles');
 
+// ── Les parcours guidés ─────────────────────────────────────────────────────
+ok(Array.isArray(dico.parcours) && dico.parcours.length === meta.parcours && dico.parcours.length >= 10,
+  'le manifeste compte les parcours du dictionnaire (' + (dico.parcours || []).length + ')');
+ok(new Set(dico.parcours.map((p) => p.id)).size === dico.parcours.length, 'chaque parcours a son identifiant');
+for (const p of dico.parcours) {
+  ok(p.n && p.d && p.d.length >= 40, 'le parcours « ' + p.id + ' » a un nom et une phrase');
+  ok(p.e.length >= 4 && p.e.every((e) => ids.has(e)), 'les étapes du parcours « ' + p.id + ' » sont des articles');
+  ok(new Set(p.e).size === p.e.length, 'le parcours « ' + p.id + ' » ne repasse pas par la même étape');
+}
+ok(liste.includes('js/constellation.js') && scripts.includes('js/constellation.js'), 'la carte des liens est dans la page et dans la coquille');
+
 // ── Les catégories ont leur couleur ─────────────────────────────────────────
 const theme = lire('css/theme.css');
 const app = lire('css/app.css');

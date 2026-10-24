@@ -32,7 +32,7 @@ repere: 1516 — Il s'installe en France, au Clos Lucé.
 repere: 1519 — Mort à Amboise.
 extrait: Mais cette nigromantie, étendard et vraie bannière claquante au vent, entraîne une folle multitude qui atteste sans cesse avec clameur les infinis effets d'un tel art ; et les livres remplis de ces choses affirment que les esprits incarnés apparaissent et parlent, sans langue, sans instrument organique nécessaire au langage ; et non seulement parlent, mais soulèvent des poids très lourds, font tempêter et pleuvoir ; et que les hommes se changent en chats, loups et autres bêtes, bien que parmi elles le plus bête est celui qui affirme de telles choses ! (…) ¶ Si la magie n'est pas restée parmi les hommes leur étant si nécessaire, c'est qu'elle n'a jamais existé et n'existera jamais.
 source: Léonard de Vinci, *Textes choisis*, trad. Joséphin Péladan, Mercure de France, 1907, fragment sur la nécromancie | ia texteschoisispen00leon
-voir: milan, florence, josephin-peladan, prieure-de-sion, geometrie-sacree, androgyne, da-vinci-code, solides-de-platon
+voir: milan, florence, josephin-peladan, prieure-de-sion, geometrie-sacree, androgyne, da-vinci-code, solides-de-platon, jean-baptiste, jean-l-evangeliste
 
 @ albrecht-durer
 cat: figures
@@ -41,14 +41,14 @@ alias: Dürer, Albert Durer, AD
 dates: 1471 – 1528
 an: 1471
 def: Peintre et graveur de Nuremberg, maître de la Renaissance allemande, auteur de *Melencolia I*, de l'*Apocalypse* gravée et des premières cartes imprimées du ciel étoilé.
-texte: Fils d'un orfèvre de [[nuremberg|Nuremberg]], Dürer voyage deux fois en Italie et rapporte au nord la science des proportions et de la perspective. Ses gravures sur bois de l'*Apocalypse* (1498) le rendent célèbre dans toute l'Europe ; ses trois « gravures de maître », *Le Chevalier, la Mort et le Diable* (1513), *Saint Jérôme dans sa cellule* et *[[melencolia|Melencolia I]]* (1514), sont parmi les images les plus commentées de l'art occidental. Il publie aussi des traités de géométrie et des proportions du corps humain.
+texte: Fils d'un orfèvre de [[nuremberg|Nuremberg]], Dürer voyage deux fois en Italie et rapporte au nord la science des proportions et de la perspective. Ses gravures sur bois de l'*[[apocalypse-de-durer|Apocalypse]]* (1498) le rendent célèbre dans toute l'Europe ; ses trois « gravures de maître », *Le Chevalier, la Mort et le Diable* (1513), *Saint Jérôme dans sa cellule* et *[[melencolia|Melencolia I]]* (1514), sont parmi les images les plus commentées de l'art occidental. Il publie aussi des traités de géométrie et des proportions du corps humain.
 texte: Ami de l'humaniste Willibald Pirckheimer, traducteur des *Hiéroglyphes* d'Horapollon, il dessine pour l'empereur Maximilien un arc de triomphe chargé d'[[hieroglyphes|hiéroglyphes]] et d'[[emblemes|emblèmes]]. En 1515, il grave avec deux savants les premières cartes imprimées des deux hémisphères célestes, où les [[constellation|constellations]] prennent la figure de leurs mythes. *Melencolia I*, avec son [[carre-magique|carré magique]] et son polyèdre, a fait de lui, pour les lecteurs ésotériques, un initié de la philosophie occulte de son temps.
 repere: 1471 — Naissance à Nuremberg.
 repere: 1498 — L'*Apocalypse*, gravée sur bois.
 repere: 1514 — *Melencolia I*.
 repere: 1515 — Cartes des hémisphères célestes.
 repere: 1528 — Mort à Nuremberg.
-voir: melencolia, nuremberg, carre-magique, constellation, emblemes, horapollon, solides-de-platon
+voir: melencolia, nuremberg, carre-magique, constellation, emblemes, horapollon, solides-de-platon, apocalypse-de-durer, quatre-cavaliers
 
 @ parmesan
 cat: figures
@@ -95,7 +95,7 @@ repere: 1828 — Naissance à Londres.
 repere: 1848 — Fondation de la confrérie préraphaélite.
 repere: 1861 — Traduction de la *Vita Nova*.
 repere: 1882 — Mort à Birchington-on-Sea.
-voir: dante, divine-comedie, carbonarisme, spiritisme, londres
+voir: dante, divine-comedie, carbonarisme, spiritisme, londres, preraphaelites, lilith
 
 @ giuseppe-garibaldi
 cat: figures
@@ -202,7 +202,7 @@ repere: 330 — Fondation de Constantinople.
 repere: 337 — Baptême et mort près de Nicomédie.
 extrait: Et comme l'empereur, anxieux, levait les yeux au ciel pour en implorer du secours, il vit à l'orient, sur le ciel, le signe resplendissant de la croix entouré d'anges, qui lui dirent : « Constantin, ce signe te donnera la victoire ! » Et comme Constantin se demandait ce que cela signifiait, le Christ lui apparut la nuit, avec le même signe, et lui ordonna d'en faire exécuter une image, qui lui servirait d'aide dans la bataille. Alors Constantin, sûr désormais de la victoire, fit sur son front le signe de la croix, et prit dans sa main une croix d'or.
 source: Jacques de Voragine, *La Légende dorée*, « L'Invention de la sainte Croix », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/L’Invention de la sainte Croix
-voir: chrisme, sainte-lance, legende-doree, longin
+voir: chrisme, sainte-lance, legende-doree, longin, legende-de-la-vraie-croix
 
 @ nicolas-poussin
 cat: figures
@@ -226,7 +226,7 @@ repere: 1665 — Lettre à Fréart de Chambray ; mort à Rome le 19 novembre.
 repere: 1685 — Louis XIV acquiert *Les Bergers d'Arcadie*.
 extrait: Il est nécessaire premièrement de scauoir ce que c’est que cette sorte d’Imitation et la Définir. ¶ C’est une Imitation faicte auec lignes et couleurs en quelque superficie de tout ce qui se voit dessoubs le Soleil, sa fin est la Délectation. (…) Elle doit estre prise noble, qui n’aye receu aucunne qualité de l’ouurier, Pour donner lieu au Peintre de monstrer son esprit et Industrie. Il la faut prendre Capable de receuoir la plus excellente forme, Il faut commencer par la Disposition, Puis par l’Ornement, le Decoré, la beauté, la grace, la viuacité, le Costume, la Vraysemblance et le Jugement partout. Ces dernières parties sont du Peintre et ne se peuuent aprendre. Cest le Rameau d’or de Virgile que nul ne peut trouuer ny ceuillir sil n’est conduit par la Fatalité.
 source: Nicolas Poussin, lettre à Fréart de Chambray, 1er mars 1665, *Correspondance de Nicolas Poussin*, éd. Charles Jouanny, Schemit, 1911 | ws Correspondance de Nicolas Poussin/1er mars 1665 (Poussin à M. de Chambray)
-voir: les-bergers-d-arcadie, arcadie, rennes-le-chateau, prieure-de-sion, pan, inscription-de-shugborough, parchemins-de-rennes-le-chateau, rouen
+voir: les-bergers-d-arcadie, arcadie, rennes-le-chateau, prieure-de-sion, pan, inscription-de-shugborough, parchemins-de-rennes-le-chateau, rouen, jugement-de-salomon
 
 @ jerome-bosch
 cat: figures
@@ -235,12 +235,12 @@ alias: Hieronymus Bosch, Jheronimus van Aken, Bosch, Jardin des délices
 dates: vers 1450 – 1516
 an: 1450
 def: Peintre néerlandais aux visions fantastiques peuplées de monstres, d'hybrides et de supplices, dont le *Jardin des délices* a été lu comme un rébus alchimique ou le manifeste d'une secte.
-texte: Jheronimus van Aken travaille toute sa vie à Bois-le-Duc, dans le Brabant, dont il prend le nom ; membre d'une confrérie pieuse dédiée à la Vierge, il peint des triptyques du Jugement dernier, des tentations de saint Antoine et des satires de la folie humaine. Le *Jardin des délices*, au musée du Prado, montre le paradis, une humanité nue livrée aux plaisirs parmi des fruits géants et des globes de verre, et un enfer musical.
+texte: Jheronimus van Aken travaille toute sa vie à Bois-le-Duc, dans le Brabant, dont il prend le nom ; membre d'une confrérie pieuse dédiée à la Vierge, il peint des triptyques du Jugement dernier, des tentations de saint Antoine et des satires de la folie humaine. Le *[[le-jardin-des-delices|Jardin des délices]]*, au musée du Prado, montre le paradis, une humanité nue livrée aux plaisirs parmi des fruits géants et des globes de verre, et un enfer musical.
 texte: Ses œuvres ont été lues au XXe siècle comme un code : Wilhelm Fraenger y voit en 1947 l'œuvre d'une secte hérétique adamite, d'autres y reconnaissent les vaisseaux de verre, les fourneaux et les couleurs de l'[[alchimie]]. Les historiens rappellent que Bosch était un catholique de son temps, moraliste, qui puisait dans les proverbes, les sermons et les traités contre l'alchimie trompeuse.
 repere: vers 1450 — Naissance à Bois-le-Duc.
 repere: vers 1490-1510 — *Le Jardin des délices*.
 repere: 1516 — Mort à Bois-le-Duc.
-voir: alchimie, souffleur, emblemes, athanor
+voir: alchimie, souffleur, emblemes, athanor, le-jardin-des-delices, la-tentation-de-saint-antoine
 
 @ sandro-botticelli
 cat: figures
@@ -254,7 +254,7 @@ texte: Touché par la prédication de Savonarole, il revient à une peinture rel
 repere: vers 1480 — *Le Printemps*.
 repere: vers 1485 — *La Naissance de Vénus*.
 repere: 1510 — Mort à Florence.
-voir: florence, marsile-ficin, neoplatonisme, divine-comedie, prieure-de-sion
+voir: florence, marsile-ficin, neoplatonisme, divine-comedie, prieure-de-sion, le-printemps
 
 @ maurice-leblanc
 cat: figures
@@ -284,7 +284,7 @@ texte: Son livre, rempli de miracles, de dragons vaincus et de reliques retrouv�
 repere: vers 1261-1266 — Il compose la *Légende dorée*.
 repere: 1292 — Archevêque de Gênes.
 repere: 1298 — Mort à Gênes.
-voir: legende-doree, dragon, longin
+voir: legende-doree, dragon, longin, legende-de-la-vraie-croix
 
 @ tycho-brahe
 cat: figures

@@ -36,7 +36,7 @@ alias: initié, initiés, initiatique, rite de passage, rites initiatiques, init
 def: Ensemble de rites et d'enseignements par lesquels une personne est admise dans un groupe ou un état nouveau, souvent vécu comme une mort et une renaissance symboliques.
 texte: L'ethnologue Arnold van Gennep a montré en 1909 que les rites de passage suivent un même schéma : séparation, épreuves dans un état intermédiaire, puis réintégration sous un statut nouveau. Les [[mysteres-antiques|mystères]] de l'Antiquité, les confréries de métiers, la [[franc-maconnerie]] et la plupart des ordres ésotériques organisent ainsi l'entrée de leurs membres, puis leur progression par [[grades-maconniques|grades]].
 texte: Pour les ésotéristes, l'initiation n'est pas seulement l'entrée dans une société : elle transmet une influence spirituelle et éveille des facultés cachées. [[rene-guenon]] insiste sur la nécessité d'une initiation « régulière », transmise par une chaîne ininterrompue, et oppose l'initiation à la [[mystique]], qui serait passive. L'initiation se double presque toujours d'un secret, qui protège moins un savoir qu'une expérience.
-voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore, hierophante, mystes-et-epoptes, neophyte, sethos, culte-d-isis
+voir: mysteres-antiques, franc-maconnerie, grades-maconniques, esoterisme, egregore, hierophante, mystes-et-epoptes, neophyte, sethos, culte-d-isis, allegorie-de-la-caverne, thesee-et-le-minotaure
 
 @ correspondances
 cat: notions
@@ -48,7 +48,7 @@ texte: [[emanuel-swedenborg]] a donné à la notion une forme systématique, et 
 schema: planetes-septenaire
 extrait: La Nature est un temple où de vivants piliers // Laissent parfois sortir de confuses paroles ; // L’homme y passe à travers des forêts de symboles // Qui l’observent avec des regards familiers. ¶ Comme de longs échos qui de loin se confondent, // Dans une ténébreuse et profonde unité, // Vaste comme la nuit et comme la clarté, // Les parfums, les couleurs et les sons se répondent. ¶ Il est des parfums frais comme des chairs d’enfants, // Doux comme les hautbois, verts comme les prairies, // — Et d’autres, corrompus, riches et triomphants, ¶ Ayant l’expansion des choses infinies, // Comme l’ambre, le musc, le benjoin et l’encens, // Qui chantent les transports de l’esprit et des sens.
 source: Charles Baudelaire, « Correspondances », *Les Fleurs du mal*, 1857 | gallica bpt6k70861t = l’édition originale numérisée | ws Les Fleurs du mal (éd. 1857)/Correspondances
-voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme, charles-baudelaire
+voir: microcosme-macrocosme, sympathie-universelle, signatures, emanuel-swedenborg, table-d-emeraude, esoterisme, charles-baudelaire, arthur-rimbaud, symbolisme
 
 @ microcosme-macrocosme
 cat: notions
@@ -118,11 +118,11 @@ voir: gnosticisme, eon, sophia, valentin, demiurge
 @ demiurge
 cat: notions
 nom: Démiurge
-alias: demiurgos, Ialdabaoth, Yaldabaoth, artisan du monde
+alias: demiurgos, Ialdabaoth, Yaldabaoth, Saklas, Samaël, artisan du monde
 def: Artisan divin qui façonne le monde : bienveillant chez Platon, il devient chez les gnostiques un dieu inférieur et ignorant, auteur d'un monde imparfait.
 texte: Dans le *Timée* de [[platon]], le démiurge (« artisan ») est un dieu bon qui, regardant les Idées éternelles, organise la matière en un cosmos aussi beau que possible. Pour de nombreux [[gnosticisme|gnostiques]], le créateur du monde matériel est au contraire un être né d'une faute — souvent fils de [[sophia]] —, ignorant le vrai Dieu qui est au-dessus de lui.
 texte: Certains textes l'appellent Ialdabaoth et l'identifient au Dieu de l'Ancien Testament, qui s'écrie : « Je suis un Dieu jaloux, il n'y en a pas d'autre que moi. » Les [[archonte|archontes]] qui l'assistent gouvernent les planètes et retiennent les âmes prisonnières.
-voir: gnosticisme, archonte, sophia, platon, plerome
+voir: gnosticisme, archonte, sophia, platon, plerome, apocryphon-de-jean, ophites, promethee, jardin-d-eden
 
 @ eon
 cat: notions
@@ -140,7 +140,7 @@ alias: archonte, archons, gouverneurs, puissances
 def: Dans le gnosticisme, les puissances qui gouvernent le monde matériel, souvent associées aux sept planètes, et qui retiennent les âmes captives.
 texte: Le mot grec signifie « chefs », « gouverneurs ». Pour les [[gnosticisme|gnostiques]], les archontes, créatures du [[demiurge]], règnent chacun sur une sphère planétaire et ont façonné le corps humain pour y enfermer l'étincelle divine. Le destin astrologique, la fatalité, est leur œuvre.
 texte: À la mort, l'âme doit traverser leurs sphères ; certains textes lui fournissent les mots de passe à prononcer devant chaque gardien. Les épîtres de Paul parlent déjà des « principautés » et des « puissances » de ce monde, que les gnostiques ont interprétées en ce sens.
-voir: demiurge, gnosticisme, planetes, poimandres
+voir: demiurge, gnosticisme, planetes, poimandres, apocryphon-de-jean, ophites
 
 @ sophia
 cat: notions
@@ -149,7 +149,7 @@ alias: Sagesse divine, Vierge Sophia, sophiologie, Achamoth
 def: Figure de la Sagesse divine, personnifiée dans la Bible, devenue dans le gnosticisme l'éon dont la chute engendre le monde, et chez les théosophes chrétiens l'épouse céleste de l'âme.
 texte: Dans le livre des Proverbes, la Sagesse parle comme une personne : « Le Seigneur m'a créée au commencement de ses voies. » Les [[gnosticisme|gnostiques]] font d'elle le dernier des [[eon|éons]] : en voulant connaître le Père sans son conjoint, elle donne naissance à un avorton, le [[demiurge]], et à la matière ; repentante, elle est sauvée par le Christ.
 texte: Chez [[jakob-boehme]], la « Vierge Sophia » est le miroir de Dieu et la compagne qu'Adam a perdue en tombant ; l'âme doit retrouver avec elle une union intérieure. Cette figure traverse la [[theosophie-chretienne|théosophie chrétienne]] jusqu'aux penseurs russes de la « sophiologie », comme Vladimir Soloviev.
-voir: gnosticisme, pistis-sophia, jakob-boehme, eon, shekhina, atbash, marie-madeleine
+voir: gnosticisme, pistis-sophia, jakob-boehme, eon, shekhina, atbash, marie-madeleine, apocryphon-de-jean, barbelo, livre-de-la-sagesse
 
 @ reintegration
 cat: notions
@@ -204,9 +204,9 @@ cat: notions
 nom: Aura
 alias: aura humaine, effet Kirlian, photographie Kirlian
 def: Halo lumineux et coloré que certains disent percevoir autour des êtres vivants, considéré comme le reflet de leurs corps subtils, de leur santé et de leurs émotions.
-texte: Les théosophes Annie Besant et [[charles-webster-leadbeater|Charles Leadbeater]] ont décrit dans *Les Formes-pensées* (1901) les couleurs de l'aura selon les sentiments : rose pour l'affection, vert pour la sympathie, brun-gris pour l'égoïsme. En 1911, un médecin londonien, Walter Kilner, prétend la rendre visible à travers des écrans colorés.
+texte: Les théosophes Annie Besant et [[charles-webster-leadbeater|Charles Leadbeater]] ont décrit dans *Les [[formes-pensees|Formes-pensées]]* (1901) les couleurs de l'aura selon les sentiments : rose pour l'affection, vert pour la sympathie, brun-gris pour l'égoïsme. En 1911, un médecin londonien, Walter Kilner, prétend la rendre visible à travers des écrans colorés.
 texte: La « photographie Kirlian », mise au point en URSS en 1939, montre des halos lumineux autour des doigts ou des feuilles placés dans un champ électrique ; les physiciens l'expliquent par une décharge électrique dont l'aspect dépend surtout de l'humidité. Aucune expérience contrôlée n'a montré qu'une personne puisse percevoir l'aura d'autrui.
-voir: corps-subtils, od, chakra, voyance
+voir: corps-subtils, od, chakra, voyance, formes-pensees
 
 @ chakra
 cat: notions
@@ -300,7 +300,7 @@ texte: La [[theosophie]] reprend ces cycles en y mêlant l'évolution des races-
 schema: cycles-yugas
 extrait: Ô Solon, Solon, vous autres Grecs vous serez toujours enfants ; il n’y a pas de vieillards parmi vous. — Et pourquoi cela ? répondit Solon. — Vous êtes tous, dit le prêtre, jeunes d’intelligence ; vous ne possédez aucune vieille tradition ni aucune science vénérable par son antiquité. En voici la raison. Le genre humain a subi et subira plusieurs destructions, les plus grandes par le feu et l’eau, et les moindres par mille autres causes.
 source: Platon, *Timée*, 22b-c, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
-voir: tradition-primordiale, regne-de-la-quantite, ere-du-verseau, precession
+voir: tradition-primordiale, regne-de-la-quantite, ere-du-verseau, precession, age-d-or
 
 @ ere-du-verseau
 cat: notions
@@ -321,7 +321,7 @@ texte: La Renaissance la ressuscite. [[francis-bacon|Francis Bacon]] intitule *L
 texte: L'Atlantide moderne naît avec *Atlantis* d'[[ignatius-donnelly|Ignatius Donnelly]] (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. Paul Le Cour fonde en 1926 une société d'études atlantéennes ; les nazis de l'[[ahnenerbe|Ahnenerbe]] et [[heinrich-himmler|Himmler]] rêvent d'une Atlantide nordique, berceau de la « race aryenne ». Pierre Benoit en fait un roman d'aventures (1919), et l'archéologue Spyridon Marinatos rapproche en 1939 la légende de l'éruption de Santorin, qui ravagea la Crète minoenne. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
 extrait: Ces livres nous apprennent quelle puissante armée Athènes a détruite, armée qui, venue à travers la mer Atlantique, envahissait insolemment l’Europe et l’Asie ; car cette mer était alors navigable, et il y avait au devant du détroit, que vous appelez les Colonnes d’Hercule, une île plus grande que la Libye et l’Asie. (…) Dans la suite de grands tremblements de terre et des inondations engloutirent, en un seul jour et en une nuit fatale, tout ce qu’il y avait chez vous de guerriers ; l’île atlantide disparut sous la mer ; aussi depuis ce temps la mer est-elle devenue inaccessible et a-t-elle cessé d’être navigable par la quantité de limon que l’île abîmée a laissé à sa place.
 source: Platon, *Timée*, 24e-25d, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
-voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale, ignatius-donnelly, francis-bacon, jules-verne, anciens-astronautes, hieron-du-val-d-or
+voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale, ignatius-donnelly, francis-bacon, jules-verne, anciens-astronautes, hieron-du-val-d-or, deluge
 
 @ lemurie
 cat: notions
@@ -339,7 +339,7 @@ alias: Agarttha, Agharti, Asgartha, Shambhala, Roi du monde, terre creuse
 def: Royaume souterrain légendaire, situé sous l'Asie, où un souverain spirituel, le Roi du monde, garderait la sagesse primordiale de l'humanité.
 texte: Le mot apparaît dans les livres de l'écrivain Louis Jacolliot sur l'Inde, dans les années 1870. [[saint-yves-d-alveydre]] le développe dans *Mission de l'Inde* : l'Agartha abriterait des millions d'habitants, des bibliothèques de pierre et un pontife suprême. En 1922, le voyageur Ferdinand Ossendowski rapporte de Mongolie des récits sur l'« Agharti » et le Roi du monde, que [[rene-guenon]] commente dans *Le Roi du monde* (1927).
 texte: On rapproche souvent l'Agartha de Shambhala, royaume mythique du bouddhisme tibétain, associé au cycle du Kâlachakra. La légende nourrit aussi les théories de la « terre creuse ».
-voir: saint-yves-d-alveydre, tradition-primordiale, synarchie, maitres-de-sagesse, pretre-jean
+voir: saint-yves-d-alveydre, tradition-primordiale, synarchie, maitres-de-sagesse, pretre-jean, melchisedech, nicolas-roerich
 
 @ synarchie
 cat: notions
@@ -392,7 +392,7 @@ nom: Écriture automatique
 alias: psychographie, planchette, automatisme psychique
 def: Écriture produite sans contrôle conscient, que les spirites attribuent aux esprits et que les psychologues et les surréalistes ont étudiée comme une expression de l'inconscient.
 texte: Dans les séances spirites, le médium écrit, la main guidée par une force qu'il dit étrangère, parfois à l'aide d'une planchette munie d'un crayon. Le psychologue Pierre Janet, dans *L'Automatisme psychologique* (1889), explique ces textes par une dissociation de la conscience.
-texte: Les surréalistes reprennent la méthode à leur compte : André Breton et Philippe Soupault écrivent en 1919 *Les Champs magnétiques*, et le *Manifeste du surréalisme* (1924) définit le mouvement comme un « automatisme psychique pur ».
+texte: Les [[surrealisme|surréalistes]] reprennent la méthode à leur compte : André Breton et Philippe Soupault écrivent en 1919 *Les Champs magnétiques*, et le *Manifeste du surréalisme* (1924) définit le mouvement comme un « automatisme psychique pur ».
 voir: medium, spiritisme, ouija
 
 @ voyage-astral

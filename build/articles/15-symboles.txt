@@ -85,16 +85,16 @@ alias: branche d'acacia, l'acacia m'est connu
 def: Arbuste dont la branche, dans la légende maçonnique, marquait la tombe de l'architecte Hiram, et qui symbolise l'immortalité et la connaissance du maître.
 texte: Selon la [[legende-d-hiram|légende du grade de maître]], les compagnons partis à la recherche d'Hiram assassiné découvrent sa tombe grâce à une branche d'acacia plantée sur la terre fraîchement remuée. Le bois d'acacia, réputé imputrescible, était celui de l'[[arche-d-alliance|arche d'alliance]].
 texte: La formule « l'acacia m'est connu » permet à un maître de se faire reconnaître. L'acacia est devenu l'image de l'espérance d'une vie qui triomphe de la mort.
-voir: legende-d-hiram, maitre-macon, franc-maconnerie
+voir: legende-d-hiram, maitre-macon, franc-maconnerie, histoire-de-la-reine-du-matin, huppe
 
 @ labyrinthe
 cat: symboles
 nom: Labyrinthe
 alias: labyrinthes, chemin de Jérusalem, labyrinthe de Chartres, Minotaure, fil d'Ariane
 def: Construction ou tracé aux chemins sinueux, symbole du parcours difficile qui mène au centre, à soi-même ou à Dieu, et de l'épreuve initiatique.
-texte: Le mythe grec raconte que Dédale construisit en Crète le labyrinthe où le roi Minos enferma le Minotaure, et que Thésée en sortit grâce au fil d'Ariane. Les cathédrales gothiques, comme Chartres vers 1200, tracent sur leur sol de grands labyrinthes à chemin unique, que l'on parcourait en prière : on les appelait parfois « chemins de Jérusalem ».
+texte: Le mythe grec raconte que Dédale construisit en Crète le labyrinthe où le roi Minos enferma le Minotaure, et que Thésée en sortit grâce au fil d'Ariane. Les cathédrales gothiques, comme Chartres vers 1200, tracent sur leur sol de grands labyrinthes à chemin unique, que l'on parcourait en prière : on les appelait parfois « chemins de Jérusalem », et leur centre « ciel » ou « Jérusalem ». Celui de Reims, posé en 1240, fut détruit en 1779 parce que les enfants qui le suivaient pendant les offices faisaient trop de bruit ; celui d'Amiens, de 1288, montrait au centre l'évêque et les architectes de la cathédrale. Plus anciens, les petits labyrinthes de Pavie et de Lucques figuraient [[thesee-et-le-minotaure|Thésée et le Minotaure]].
 texte: Pour l'ésotérisme, le labyrinthe figure l'[[initiation]] : un chemin qui semble s'éloigner du but et qui pourtant y conduit, une mort symbolique au centre suivie d'un retour transformé.
-voir: initiation, mandala, mysteres-antiques, bomarzo, cathedrale-de-chartres, minotaure, chartres
+voir: initiation, mandala, mysteres-antiques, bomarzo, cathedrale-de-chartres, minotaure, chartres, thesee-et-le-minotaure, ariane, dedale-et-icare
 
 @ mandala
 cat: symboles
@@ -113,7 +113,7 @@ def: Figure en forme d'amande formée par l'intersection de deux cercles de mêm
 texte: Le nom latin signifie « vessie de poisson ». La figure est la première construction des *Éléments* d'Euclide, qui s'en sert pour tracer un triangle équilatéral. Dans l'art chrétien, elle devient la mandorle qui entoure le Christ en gloire ou la Vierge, et le poisson, *ichthus*, est un symbole du Christ.
 texte: La géométrie sacrée y voit l'image de la naissance du monde, de l'union de deux principes d'où naît le troisième ; elle est au point de départ de la [[fleur-de-vie|fleur de vie]].
 schema: vesica-piscis
-voir: fleur-de-vie, arcane-monde, tetramorphe, poisson
+voir: fleur-de-vie, arcane-monde, tetramorphe, poisson, cent-cinquante-trois
 
 @ fleur-de-vie
 cat: symboles
@@ -141,7 +141,7 @@ alias: Baphomet de Lévi, bouc de Mendès, idole des Templiers
 def: Nom d'une idole que les templiers furent accusés d'adorer, devenu sous la plume d'Éliphas Lévi une figure androgyne à tête de bouc, symbole de l'équilibre des contraires.
 texte: Lors du procès des [[templiers]], certains accusés parlent d'une tête qu'ils auraient vénérée, nommée « Baphomet », probablement une déformation de « Mahomet ». Au XIXe siècle, des auteurs y cherchent un symbole gnostique secret.
 texte: [[eliphas-levi]] dessine en 1856, en frontispice de son *[[dogme-et-rituel|Rituel de la haute magie]]*, un Baphomet assis : tête de bouc portant un flambeau et un [[pentagramme]], ailes, seins de femme, caducée au ventre, un bras levé marqué *[[solve-et-coagula|Solve]]*, l'autre abaissé marqué *Coagula*. Pour Lévi, c'est l'image de la [[lumiere-astrale]] et de l'union des contraires, non du Diable. L'image a pourtant inspiré le [[arcane-diable|Diable]] du tarot Rider-Waite et l'emblème du [[satanisme]] moderne.
-voir: eliphas-levi, templiers, solve-et-coagula, arcane-diable, satanisme, androgyne, atbash, pan
+voir: eliphas-levi, templiers, solve-et-coagula, arcane-diable, satanisme, androgyne, atbash, pan, le-sabbat-des-sorcieres, jean-baptiste
 
 @ androgyne
 cat: symboles
@@ -150,7 +150,9 @@ alias: androgynie, hermaphrodite, Adam androgyne, mythe d'Aristophane
 def: Être à la fois homme et femme, symbole de la totalité originelle, de l'union des contraires et de l'humanité réconciliée.
 texte: Dans le *Banquet* de [[platon]], Aristophane raconte que les premiers humains étaient sphériques et doubles ; Zeus les coupa en deux, et chacun cherche depuis sa moitié perdue. Des commentateurs juifs de la Genèse comprennent qu'Adam, créé « homme et femme », était d'abord androgyne, avant d'être séparé en deux.
 texte: L'alchimie figure l'achèvement de l'œuvre par le [[rebis]], être à deux têtes ; [[jakob-boehme]] pense qu'Adam a perdu en tombant sa compagne intérieure, [[sophia]]. Le Baphomet d'Éliphas Lévi est androgyne, et Joséphin Péladan intitule *L'Androgyne* l'un de ses romans. Le thème hante le symbolisme fin de siècle.
-voir: rebis, sophia, baphomet, platon, adam-kadmon
+extrait: La nature humaine était primitivement bien différente de ce qu’elle est aujourd’hui. D’abord, il y avait trois sortes d’hommes, les deux sexes qui subsistent encore, et un troisième composé des deux premiers et qui les renfermait tous deux : il s’appelait androgyne ; il a été détruit, et la seule chose qui en reste, est le nom qui est en opprobre. Puis tous les hommes généralement étaient d’une figure ronde, avaient des épaules et des côtes attachées ensemble, quatre bras, quatre jambes, deux visages opposés l’un à l’autre et parfaitement semblables, sortant d’un seul cou et tenant à une seule tête, quatre oreilles, un double appareil des organes de la génération, et tout le reste dans la même proportion. Leur démarche était droite comme la nôtre, et ils n’avaient pas besoin de se tourner pour suivre tous les chemins qu’ils voulaient prendre ; quand ils voulaient aller plus vite, ils s’appuyaient de leurs huit membres, par un mouvement circulaire, comme ceux qui les pieds en l’air imitent la roue. La différence qui se trouve entre ces trois espèces d’hommes vient de la différence de leurs principes : le sexe masculin est produit par le soleil, le féminin par la terre, et celui qui est composé de deux, par la lune, qui participe de la terre et du soleil.
+source: Platon, *Le Banquet*, 189e-190b, trad. Victor Cousin, *Œuvres de Platon*, tome VI | ws Le Banquet (trad. Cousin)
+voir: rebis, sophia, baphomet, platon, adam-kadmon, mythe, attelage-aile, evangile-de-philippe
 
 @ arbre-cosmique
 cat: symboles
@@ -159,7 +161,7 @@ alias: axe du monde, axis mundi, arbre du monde, Yggdrasil, arbre de vie
 def: Arbre immense qui, dans de nombreuses mythologies, relie le ciel, la terre et le monde souterrain, et forme l'axe autour duquel s'organise l'univers.
 texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
 texte: L'historien des religions Mircea Eliade a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
-voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh
+voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin
 
 @ etoile-flamboyante
 cat: maconnerie
@@ -180,7 +182,7 @@ texte: Dans les loges maçonniques, elles encadrent la porte du [[temple-maconni
 schema: plan-de-loge/colonnes
 extrait: Il fit les deux colonnes d'airain. La première avait dix-huit coudées de hauteur, et un fil de douze coudées mesurait la circonférence de la seconde. Il fondit deux chapiteaux d'airain, pour mettre sur les sommets des colonnes ; le premier avait cinq coudées de hauteur, et le second avait cinq coudées de hauteur. (…) Il dressa les colonnes dans le portique du temple ; il dressa la colonne de droite, et la nomma Jakin ; puis il dressa la colonne de gauche, et la nomma Boaz. Il y avait sur le sommet des colonnes un travail figurant des lis. Ainsi fut achevé l'ouvrage des colonnes.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Premier livre des Rois, chap. VII, versets 15-22 | ws Bible Segond 1910/Premier livre des Rois
-voir: salomon, temple-de-salomon, franc-maconnerie, arcane-papesse, arbre-des-sephiroth, jakin, boaz
+voir: salomon, temple-de-salomon, franc-maconnerie, arcane-papesse, arbre-des-sephiroth, jakin, boaz, construction-du-temple, tubal-cain
 
 @ chaine-d-union
 cat: maconnerie
@@ -226,7 +228,7 @@ alias: quatre vivants, quatre évangélistes, homme lion taureau aigle
 def: Les quatre « vivants » — un homme, un lion, un taureau et un aigle — de la vision d'Ézéchiel et de l'Apocalypse, devenus les symboles des quatre évangélistes et, pour l'ésotérisme, des quatre éléments et des quatre signes fixes du zodiaque.
 texte: Le prophète Ézéchiel voit le char de Dieu porté par quatre créatures à quatre faces ; l'Apocalypse place autour du trône un lion, un taureau, un être à face d'homme et un aigle. Saint Jérôme les attribue aux évangélistes : l'homme à Matthieu, le lion à Marc, le taureau à Luc, l'aigle à Jean. Ils entourent le Christ en gloire des portails romans.
 texte: Les astrologues remarquent qu'ils répondent aux quatre signes fixes : [[verseau|Verseau]], [[lion|Lion]], [[taureau|Taureau]] et [[scorpion|Scorpion]], dont l'aigle était une figure ancienne. Ils occupent les coins des arcanes du [[arcane-monde|Monde]] et, dans le Rider-Waite, de la [[arcane-roue-de-fortune|Roue de Fortune]] ; [[eliphas-levi]] les réunit dans son [[sphinx]].
-voir: arcane-monde, sphinx, triplicites, merkavah, quatre-elements, quatre, aigle, lion-symbole, taureau-symbole
+voir: arcane-monde, sphinx, triplicites, merkavah, quatre-elements, quatre, aigle, lion-symbole, taureau-symbole, irenee-de-lyon, apocalypse, jean-l-evangeliste
 
 @ trois-points
 cat: maconnerie
@@ -246,7 +248,7 @@ texte: Dans le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chré
 texte: L'ésotérisme moderne s'en est emparé : [[josephin-peladan]] place sa Rose-Croix sous le signe du Graal, [[rene-guenon]] y voit un symbole du centre spirituel, [[julius-evola]] lui consacre un livre, et [[otto-rahn|Otto Rahn]] le cherche chez les [[catharisme|cathares]] de [[montsegur|Montségur]]. Les récits contemporains d'une descendance secrète du Christ n'ont aucune base historique.
 extrait: Le Cycle étant breton, peut-on voir dans la conception de cette Massénie un avatar de l’esprit druidique ? ¶ L’idée initiatique du Saint-Graal a-t-elle été rapportée de Palestine par des croisés ? ¶ (…) N’était-ce pas là un refuge offert aux Albigeois, aux Cathares, aux Parfaits, à tous ces mystiques dissidents qui s’étaient séparés de l’Église pour chercher l’Évangile.
 source: Joséphin Péladan, *Le Secret des troubadours. De Parsifal à Don Quichotte*, 1906, chap. II | gallica bd6t53938446f | ws Le Secret des troubadours (Péladan)/3
-voir: catharisme, templiers, josephin-peladan, tradition-primordiale, glastonbury, montserrat, broceliande, galaad, perceval, sainte-lance, kyot, lohengrin, colombe, fecamp, l-enigme-sacree, roi-arthur
+voir: catharisme, templiers, josephin-peladan, tradition-primordiale, glastonbury, montserrat, broceliande, galaad, perceval, sainte-lance, kyot, lohengrin, colombe, fecamp, l-enigme-sacree, roi-arthur, evangile-de-nicodeme
 
 @ oeuf-cosmique
 cat: symboles

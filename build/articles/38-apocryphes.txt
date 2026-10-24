@@ -1,0 +1,202 @@
+# Apocryphes et écrits gnostiques : les évangiles et livres écartés du canon,
+# les textes gnostiques retrouvés en Égypte et les courants qui les lisaient. Version 1.6.
+
+@ apocryphes
+cat: apocryphes
+nom: Apocryphes
+alias: écrits apocryphes, apocryphes chrétiens, apocryphes du Nouveau Testament, évangiles apocryphes, livres cachés, Décret de Gélase, canon des Écritures
+def: Écrits juifs et chrétiens des premiers siècles, attribués à des patriarches, à des apôtres ou à Jésus lui-même, que les Églises n'ont pas retenus dans le canon des Écritures.
+texte: Le mot grec *apokryphos* signifie « caché ». Il désigna d'abord des livres secrets réservés à un petit nombre, puis, chez les Pères de l'Église, des écrits écartés comme douteux ou hérétiques. Le canon du Nouveau Testament se fixe peu à peu entre le IIe et le IVe siècle : la lettre pascale d'Athanase d'Alexandrie, en 367, est la première à donner la liste des vingt-sept livres aujourd'hui reçus. Au VIe siècle, un texte latin, le *Décret de Gélase*, dresse la liste des écrits « à ne pas recevoir ».
+texte: Cette littérature est immense : évangiles de l'enfance comme le *[[protevangile-de-jacques|Protévangile de Jacques]]*, récits de la Passion comme l'*[[evangile-de-nicodeme|Évangile de Nicodème]]* ou l'*[[evangile-de-pierre|Évangile de Pierre]]*, actes d'apôtres, d'où vient l'*[[hymne-de-la-perle|Hymne de la perle]]*, apocalypses, et les écrits gnostiques que révélèrent le [[codex-de-berlin|codex de Berlin]], la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] et le [[codex-tchacos|codex Tchacos]]. Écartés du canon, plusieurs ont pourtant nourri la piété et l'art : l'âne et le bœuf de la crèche, les noms de Joachim et d'Anne, parents de Marie, ou la descente du Christ aux enfers viennent des apocryphes.
+texte: L'ésotérisme moderne y voit volontiers le dépôt d'un enseignement secret de Jésus que l'Église aurait étouffé ; les historiens y lisent surtout la diversité des premiers christianismes. Leur édition critique, du *Nouveau Testament apocryphe* de Montague Rhodes James (1924) aux *Écrits apocryphes chrétiens* de la Pléiade (1997 et 2005), en a fait un champ d'étude à part entière.
+voir: evangile-de-judas, evangile-de-marie, evangile-de-thomas, bibliotheque-de-nag-hammadi, gnosticisme, livre-d-henoch, protevangile-de-jacques, testament-de-salomon
+
+@ evangile-de-judas
+cat: apocryphes
+nom: Évangile de Judas
+alias: Gospel of Judas, Judas Iscariote, treizième démon, treizième esprit, Saklas
+an: 150
+dates: écrit au IIe siècle ; copie copte des IIIe-IVe siècles ; publié en 2006
+def: Écrit gnostique du IIe siècle, connu par une copie copte du codex Tchacos publiée en 2006, où Jésus révèle à Judas seul les mystères du royaume et lui annonce qu'il sacrifiera « l'homme » qui lui sert d'enveloppe.
+texte: Vers 180, [[irenee-de-lyon|Irénée de Lyon]] signale que des gnostiques, ceux qu'on appellera les [[cainites|caïnites]], possèdent un *Évangile de Judas* où le traître, seul à connaître la vérité, accomplit « le mystère de la trahison ». On le croyait perdu. Une version copte, traduite d'un original grec du milieu du IIe siècle, occupe les pages 33 à 58 du [[codex-tchacos|codex Tchacos]], copié aux IIIe-IVe siècles et retrouvé dans les années 1970 en Moyenne-Égypte ; la National Geographic Society en publie la traduction en avril 2006.
+texte: Le texte s'ouvre sur un rire : Jésus trouve ses disciples rendant grâce sur le pain et se moque d'eux, car ils prient sans le savoir le dieu inférieur qui a fait le monde, le [[demiurge|démiurge]]. Judas seul ose se tenir devant lui et lui dit qu'il vient « du royaume immortel de [[barbelo|Barbélo]] ». Jésus le prend à part et lui enseigne la cosmologie des [[sethiens|séthiens]] : le Grand Esprit invisible, les luminaires et les [[eon|éons]], puis les anges du chaos, Nebrô et Saklas, qui ont façonné l'homme. Judas raconte une vision où les douze disciples le lapident ; Jésus lui annonce qu'il sera maudit par les autres générations mais qu'il régnera sur elles, car il sacrifiera « l'homme » qui le porte. Le récit s'arrête sur la remise de Jésus aux grands prêtres contre un peu d'argent, sans crucifixion ni résurrection.
+texte: La première traduction, de Rodolphe Kasser, Marvin Meyer et Gregor Wurst, présentait Judas comme le disciple initié et la trahison comme une délivrance : l'esprit de Jésus devait être libéré de sa prison de chair. Plusieurs coptologues, dont April DeConick en 2007, ont contesté cette lecture : Jésus appelle Judas « treizième démon » plutôt que « treizième esprit », et la phrase rendue par « tu les surpasseras tous » pourrait signifier « tu feras pire qu'eux tous ». Judas serait alors, dans un évangile ironique, le serviteur de Saklas et des archontes. Le débat reste ouvert.
+extrait: Others again declare that Cain derived his being from the Power above, and acknowledge that Esau, Korah, the Sodomites, and all such persons, are related to themselves. On this account, they add, they have been assailed by the Creator, yet no one of them has suffered injury. For Sophia was in the habit of carrying off that which belonged to her from them to herself. They declare that Judas the traitor was thoroughly acquainted with these things, and that he alone, knowing the truth as no others did, accomplished the mystery of the betrayal; by him all things, both earthly and heavenly, were thus thrown into confusion. They produce a fictitious history of this kind, which they style the Gospel of Judas.
+source: Irénée de Lyon, *Contre les hérésies*, I, 31, 1, trad. anglaise, *Ante-Nicene Fathers*, vol. I, 1885 | wsen Ante-Nicene Fathers/Volume I/IRENAEUS/Against Heresies: Book I
+voir: codex-tchacos, cainites, sethiens, barbelo, irenee-de-lyon, demiurge, archonte, gnosticisme
+
+@ codex-tchacos
+cat: apocryphes
+nom: Codex Tchacos
+alias: Frieda Tchacos, Frieda Nussberger-Tchacos, fondation Maecenas, Lettre de Pierre à Philippe, Apocalypse de Jacques, Allogène, Rodolphe Kasser
+an: 1978
+dates: copié aux IIIe-IVe siècles ; retrouvé vers 1978
+def: Manuscrit copte sur papyrus des IIIe-IVe siècles, retrouvé vers 1978 en Moyenne-Égypte et longtemps malmené par le marché des antiquités, qui contient le seul texte connu de l'Évangile de Judas.
+texte: Le codex a été découvert dans les années 1970, sans doute en 1978, près d'El-Minya, en Moyenne-Égypte, par des fouilleurs clandestins. Il passe de marchand en marchand : proposé en vain à des savants dans les années 1980, il reste seize ans dans un coffre de banque de Hicksville, près de New York, où l'humidité l'abîme ; un autre détenteur le met au congélateur. Quand l'antiquaire zurichoise Frieda Nussberger-Tchacos l'achète en 2000, puis le confie en 2001 à la fondation Maecenas de Bâle, le papyrus s'est effrité en plus d'un millier de fragments. Le coptologue Rodolphe Kasser et ses collègues le reconstituent pendant cinq ans ; il porte le nom du père de l'antiquaire, Dimaratos Tchacos.
+texte: On y lit, en copte sahidique, la *Lettre de Pierre à Philippe* et une *Apocalypse de Jacques*, déjà connues par [[bibliotheque-de-nag-hammadi|Nag Hammadi]], l'[[evangile-de-judas|Évangile de Judas]] et un fragment d'un livre d'Allogène. L'analyse au carbone 14 le date d'environ 220 à 340. Une douzaine de pages vues par des savants dans les années 1970 manquent toujours ; deux autres fragments ont été retrouvés en 2012 dans les collections du Lafayette College, à Easton, en Pennsylvanie.
+voir: evangile-de-judas, bibliotheque-de-nag-hammadi, codex-de-berlin, gnosticisme
+
+@ evangile-de-marie
+cat: apocryphes
+nom: Évangile de Marie
+alias: Évangile de Marie-Madeleine, Gospel of Mary, papyrus de Berlin 8502, papyrus Rylands 463, papyrus d'Oxyrhynque 3525
+an: 150
+dates: écrit au IIe siècle
+def: Écrit chrétien du IIe siècle, connu par le codex de Berlin et deux fragments grecs, où Marie, sans doute Marie-Madeleine, rapporte aux disciples un enseignement secret du Sauveur sur l'ascension de l'âme, au grand dépit de Pierre.
+texte: Le texte nous est parvenu mutilé. Le [[codex-de-berlin|codex de Berlin]], acheté au Caire en 1896, en donne la version copte, à laquelle manquent les pages 1 à 6 et 11 à 14 ; deux fragments grecs du IIIe siècle, l'un trouvé à Oxyrhynque, l'autre conservé à Manchester, attestent l'original. Il commence au milieu d'un dialogue : le Sauveur ressuscité enseigne que le péché n'existe pas en soi, mais que ce sont les hommes qui le font en s'attachant à la matière ; puis il envoie les disciples prêcher et disparaît.
+texte: Les disciples pleurent et ont peur. Marie les console et, à la demande de Pierre — « Sœur, nous savons que le Sauveur t'aimait plus que toutes les autres femmes » —, rapporte une vision. L'âme qui remonte vers le repos y affronte des Puissances qui veulent la retenir : le Désir, l'Ignorance, et une quatrième aux sept formes, Ténèbres, Désir, Ignorance, Zèle de la mort, Royaume de la chair, Sagesse insensée de la chair et Sagesse de la colère ; elle les dépasse, car elle ne leur appartient pas. André refuse de croire que le Sauveur ait dit des choses si étranges ; Pierre s'indigne qu'il ait parlé en secret à une femme plutôt qu'à eux. Lévi prend sa défense : si le Sauveur l'a rendue digne, qui est Pierre pour la rejeter ? Et les disciples partent prêcher.
+texte: Le texte ne dit que « Marie » ; la plupart des historiens y reconnaissent [[marie-madeleine|Marie-Madeleine]], d'autres la mère de Jésus. Publié en entier seulement en 1955, il est devenu, avec l'[[evangile-de-philippe|Évangile selon Philippe]] et la *[[pistis-sophia|Pistis Sophia]]*, où Pierre se plaint aussi de Marie, le témoin d'un christianisme où une femme est la disciple la plus avancée, et le point de départ de bien des lectures modernes, historiennes, féministes ou ésotériques.
+voir: marie-madeleine, codex-de-berlin, evangile-de-philippe, evangile-de-thomas, pistis-sophia, apocryphes, gnosticisme
+
+@ codex-de-berlin
+cat: apocryphes
+nom: Codex de Berlin
+alias: papyrus de Berlin 8502, Papyrus Berolinensis 8502, codex gnostique de Berlin, BG 8502, Carl Reinhardt, Carl Schmidt
+an: 1896
+dates: copié au Ve siècle ; acheté en 1896
+def: Manuscrit copte du Ve siècle acheté au Caire en 1896, qui contient l'Évangile de Marie, l'Apocryphon de Jean, la Sagesse de Jésus-Christ et un Acte de Pierre.
+texte: En janvier 1896, le diplomate allemand Carl Reinhardt achète au Caire un petit codex de papyrus relié de bois et de cuir, qui proviendrait d'une sépulture chrétienne d'Akhmim. Entré aux musées de Berlin, il est présenté la même année à l'Académie de Prusse par le coptologue Carl Schmidt, mais sa publication complète n'aboutit qu'en 1955, par les soins de Walter Till ; entre-temps, la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] a livré d'autres copies de deux de ses textes.
+texte: Il contient, traduits du grec en copte sahidique, l'[[evangile-de-marie|Évangile de Marie]], dont il est le principal témoin, l'[[apocryphon-de-jean|Apocryphon de Jean]], la *Sagesse de Jésus-Christ* et un épisode abrégé des *Actes de Pierre*. Il est conservé dans la collection de papyrus de Berlin sous le numéro 8502.
+voir: evangile-de-marie, apocryphon-de-jean, bibliotheque-de-nag-hammadi, codex-tchacos
+
+@ evangile-de-thomas
+cat: apocryphes
+nom: Évangile selon Thomas
+alias: Évangile de Thomas, Gospel of Thomas, Didyme Jude Thomas, logia, paroles cachées de Jésus, papyrus d'Oxyrhynque
+an: 140
+dates: Ier ou IIe siècle
+def: Recueil de cent quatorze paroles attribuées à Jésus, « les paroles cachées que Jésus le Vivant a dites », connu par une copie copte de Nag Hammadi et par des fragments grecs trouvés à Oxyrhynque.
+texte: Le texte se présente comme les paroles secrètes de Jésus mises par écrit par Didyme Jude Thomas, et promet que celui qui en trouvera l'interprétation ne goûtera pas la mort. Il ne raconte ni la naissance, ni les miracles, ni la Passion : ce sont des sentences, des paraboles et de courts dialogues, dont près de la moitié ont un parallèle dans les évangiles canoniques. D'autres lui sont propres, comme celle où Jésus dit qu'on le trouvera en fendant du bois ou en soulevant une pierre.
+texte: Les papyrologues Bernard Grenfell et Arthur Hunt en avaient retrouvé à Oxyrhynque, en 1897 et 1903, des fragments grecs sans savoir à quel livre ils appartenaient ; la copie copte complète, dans le deuxième codex de [[bibliotheque-de-nag-hammadi|Nag Hammadi]], permit de les identifier. Sa date est très discutée, du milieu du Ier siècle pour les uns au milieu du IIe pour les autres, et sa parenté avec la [[gnose]], nette pour certains passages, n'est pas admise par tous. La dernière parole met en scène Pierre, qui demande que Marie s'éloigne, « car les femmes ne sont pas dignes de la vie », et Jésus, qui répond qu'il la guidera pour qu'elle devienne un esprit vivant.
+voir: bibliotheque-de-nag-hammadi, evangile-de-philippe, evangile-de-marie, gnose, gnosticisme, apocryphes, evangile-de-jean
+
+@ evangile-de-philippe
+cat: apocryphes
+nom: Évangile selon Philippe
+alias: Évangile de Philippe, Gospel of Philip, chambre nuptiale, compagne du Sauveur, koinônos
+an: 250
+dates: IIe-IIIe siècle
+def: Recueil gnostique d'esprit valentinien, retrouvé à Nag Hammadi, méditation sur les sacrements et sur l'union de l'âme, où Marie-Madeleine est appelée la « compagne » du Sauveur.
+texte: Découvert dans le deuxième codex de [[bibliotheque-de-nag-hammadi|Nag Hammadi]], ce texte n'est pas un récit : c'est une suite d'extraits et de méditations, d'esprit [[valentin|valentinien]], sur les noms, sur la résurrection et sur cinq sacrements, le baptême, l'onction, l'eucharistie, la rédemption et la « chambre nuptiale », où l'âme s'unit à son ange, image de la réunion de ce qui avait été séparé.
+texte: Deux passages ont fait sa célébrité : trois femmes marchaient toujours avec le Seigneur, Marie sa mère, la sœur de celle-ci et Madeleine, « celle qu'on appelle sa compagne » ; et, dans une page trouée de lacunes, le Sauveur aimait Marie plus que tous les disciples et l'embrassait souvent sur la… : le mot manque. Le terme grec employé pour « compagne », *koinônos*, peut désigner une associée comme une épouse. Ces lignes, souvent lues comme la preuve d'un mariage de Jésus, ont nourri *[[l-enigme-sacree|L'Énigme sacrée]]* puis le *[[da-vinci-code|Da Vinci Code]]* ; les spécialistes y voient plutôt le langage symbolique de la chambre nuptiale.
+voir: marie-madeleine, bibliotheque-de-nag-hammadi, evangile-de-marie, valentin, da-vinci-code, l-enigme-sacree, androgyne
+
+@ evangile-de-verite
+cat: apocryphes
+nom: Évangile de vérité
+alias: Évangile de la vérité, Gospel of Truth, Evangelium Veritatis, codex Jung
+an: 150
+dates: milieu du IIe siècle
+def: Méditation gnostique d'esprit valentinien sur l'oubli et la connaissance du Père, mentionnée par Irénée de Lyon et retrouvée à Nag Hammadi, que certains attribuent à Valentin lui-même.
+texte: [[irenee-de-lyon|Irénée de Lyon]] reproche aux disciples de [[valentin|Valentin]] de lire un « Évangile de vérité » qui ne ressemble en rien aux évangiles des apôtres. Le texte retrouvé dans le premier codex de [[bibliotheque-de-nag-hammadi|Nag Hammadi]], le « codex Jung », et en partie dans le douzième, n'a rien d'un récit : c'est un sermon sur l'Erreur, née de l'ignorance du Père, qui a façonné un monde où les hommes vivent comme dans un cauchemar, et sur Jésus, venu leur rendre la connaissance qui dissipe l'oubli et les réveille.
+texte: Sa langue poétique et sa profondeur ont conduit plusieurs savants, depuis sa publication en 1956, à y reconnaître une œuvre de Valentin, attribution qui reste discutée.
+voir: valentin, irenee-de-lyon, bibliotheque-de-nag-hammadi, gnose, gnosticisme
+
+@ apocryphon-de-jean
+cat: apocryphes
+nom: Apocryphon de Jean
+alias: Livre secret de Jean, Apocryphe de Jean, Secret Book of John, Ialdabaoth, Yaldabaoth, Pronoia, la Mère-Père
+an: 180
+dates: IIe siècle
+def: Le grand récit des origines des gnostiques séthiens : le Christ révèle à l'apôtre Jean comment le Dieu invisible engendra Barbélo, comment Sophia enfanta le démiurge Ialdabaoth et comment l'étincelle divine fut enfermée dans l'homme.
+texte: Après la Passion, Jean, désemparé, voit le ciel s'ouvrir ; le Sauveur lui apparaît sous plusieurs formes et lui révèle ce qui est, ce qui fut et ce qui doit advenir. Au-dessus de tout règne l'Esprit invisible, que nul nom ne peut dire ; de sa pensée naît [[barbelo|Barbélo]], la Mère-Père, d'où procèdent les éons du [[plerome|plérôme]]. Le dernier éon, [[sophia|Sophia]], veut enfanter sans son conjoint : de son désir naît un être difforme, un serpent à tête de lion, Ialdabaoth, qu'elle cache dans une nuée. Ignorant ce qui est au-dessus de lui, Ialdabaoth crée les [[archonte|archontes]] et le monde, et s'écrie qu'il est un dieu jaloux, et qu'il n'en est pas d'autre que lui.
+texte: Pour reprendre la puissance qu'il a volée à sa mère, les êtres de lumière l'amènent à souffler sur l'homme qu'il a modelé : Adam s'anime et brille plus que ses créateurs, qui l'enferment dans un corps de matière. Toute l'histoire du salut devient la lutte entre ces archontes et la Providence qui réveille l'étincelle cachée en l'homme. L'ouvrage est connu par quatre copies coptes, trois de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] et celle du [[codex-de-berlin|codex de Berlin]] ; [[irenee-de-lyon|Irénée]] en résumait déjà la doctrine vers 180.
+voir: barbelo, demiurge, sophia, archonte, plerome, sethiens, codex-de-berlin, bibliotheque-de-nag-hammadi, gnosticisme
+
+@ barbelo
+cat: apocryphes
+nom: Barbélo
+alias: Barbelo, barbélognostiques, la Mère-Père, Pronoia, la première Pensée
+def: Dans les textes gnostiques séthiens, la première émanation du Dieu invisible, sa Pensée et son image, appelée la Mère-Père, d'où procèdent les éons de lumière.
+texte: L'[[apocryphon-de-jean|Apocryphon de Jean]] la décrit comme la pensée du Père devenue réelle, la première puissance, la Providence de toutes choses, à la fois mère et père. [[irenee-de-lyon|Irénée de Lyon]], vers 180, décrit déjà des gnostiques qui placent au sommet de leur système un « éon qui ne vieillit jamais » nommé Barbélo ; les hérésiologues postérieurs les appellent barbélognostiques. Dans l'[[evangile-de-judas|Évangile de Judas]], Judas reconnaît en Jésus celui qui vient du royaume immortel de Barbélo.
+texte: L'étymologie du nom reste obscure : on y a cherché un mot hébreu signifiant « Dieu dans le quatre », allusion au [[tetragramme|nom divin aux quatre lettres]], ou une forme de « fille du Seigneur ».
+voir: apocryphon-de-jean, evangile-de-judas, sethiens, sophia, plerome, eon, tetragramme
+
+@ sethiens
+cat: apocryphes
+nom: Séthiens
+alias: gnose séthienne, séthianisme, race de Seth, race inébranlable, Sethians
+def: Courant gnostique des IIe-IVe siècles qui se disait issu de Seth, troisième fils d'Adam, et dont relèvent l'Apocryphon de Jean et l'Évangile de Judas.
+texte: Les séthiens se tenaient pour la postérité spirituelle de Seth, le fils qu'Adam et Ève eurent après la mort d'Abel, la « race inébranlable » qui garde la mémoire du Dieu véritable contre les archontes du monde. Leur mythe met en scène l'Esprit invisible, [[barbelo|Barbélo]], quatre grands luminaires, la chute de [[sophia|Sophia]] et le démiurge Ialdabaoth ; Seth lui-même, descendu à plusieurs reprises, revêt Jésus pour sauver les siens.
+texte: Les Pères de l'Église mentionnent des « séthiens » ; c'est la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] qui a permis à l'historien allemand Hans-Martin Schenke, dans les années 1970, de regrouper sous ce nom une dizaine de traités : l'*[[apocryphon-de-jean|Apocryphon de Jean]]*, l'*Évangile des Égyptiens*, les *Trois Stèles de Seth*, *Zostrien*, *Allogène*… L'[[evangile-de-judas|Évangile de Judas]] s'y rattache.
+attention: Les séthiens n'ont rien à voir avec le dieu égyptien [[seth|Seth]], dont le nom s'écrit de la même façon en français.
+voir: apocryphon-de-jean, barbelo, evangile-de-judas, gnosticisme, cainites, ophites
+
+@ cainites
+cat: apocryphes
+nom: Caïnites
+alias: Cainites, Caïn, gnostiques inverseurs, mystère de la trahison
+def: Gnostiques décrits par Irénée de Lyon vers 180, qui honoraient Caïn, Ésaü, Coré et les Sodomites, victimes du créateur, et tenaient Judas pour le seul apôtre qui connût la vérité.
+texte: Selon [[irenee-de-lyon|Irénée]], ces gnostiques renversaient la Bible : le dieu créateur étant mauvais, ceux qu'il a punis, [[cain-et-abel|Caïn]], Ésaü, Coré, les habitants de Sodome, appartenaient à la race d'en haut, que la Sagesse protégeait. Judas, seul à connaître la vérité, aurait accompli le « mystère de la trahison », et ils possédaient un écrit intitulé *[[evangile-de-judas|Évangile de Judas]]*. Ils enseignaient aussi, comme Carpocrate, qu'on ne peut être sauvé qu'après être passé par toutes les expériences.
+texte: Irénée ne les nomme pas ; le nom de caïnites leur est donné par des auteurs postérieurs, le Pseudo-Tertullien et Épiphane de Salamine. On ignore s'ils formèrent une secte organisée ou s'il s'agit d'une manière de lire les Écritures à rebours. La découverte de l'Évangile de Judas, en 2006, leur a rendu une actualité inattendue.
+voir: evangile-de-judas, irenee-de-lyon, sethiens, ophites, gnosticisme, demiurge, cain-et-abel
+
+@ ophites
+cat: apocryphes
+nom: Ophites
+alias: naassènes, adorateurs du serpent, diagramme des ophites, serpent de la Genèse
+def: Gnostiques des IIe-IIIe siècles qui voyaient dans le serpent du jardin d'Éden non le tentateur, mais le révélateur de la connaissance que le créateur voulait cacher aux hommes.
+texte: Le nom vient du grec *ophis*, « serpent » ; Hippolyte de Rome décrit sous le nom hébreu équivalent de naassènes des gnostiques proches. Pour eux, le dieu qui défendit à Adam de manger du fruit de l'arbre de la connaissance est un [[demiurge|démiurge]] jaloux, et le [[serpent]], envoyé par la Sagesse d'en haut, a ouvert les yeux des hommes. [[irenee-de-lyon|Irénée de Lyon]] rapporte une doctrine de ce genre, où le serpent, ennemi du créateur d'Adam, « mit la connaissance dans les hommes ». Origène, au IIIe siècle, décrit un « diagramme des ophites », carte des cercles célestes que l'âme doit traverser en récitant aux [[archonte|archontes]] de chaque porte les formules qui lui ouvrent le passage.
+texte: Ce renversement a fasciné les occultistes modernes : le serpent porteur de lumière rejoint Lucifer et [[promethee|Prométhée]], et [[helena-blavatsky|Helena Blavatsky]] voit dans le serpent de la Genèse un symbole de la sagesse divine.
+voir: serpent, demiurge, archonte, cainites, sethiens, promethee, gnosticisme, serpent-d-airain, jardin-d-eden
+
+@ hymne-de-la-perle
+cat: apocryphes
+nom: Hymne de la perle
+alias: Chant de la perle, Hymne de l'âme, Hymn of the Pearl, Actes de Thomas, la robe de gloire, Bardesane
+an: 220
+dates: IIIe siècle
+def: Poème syriaque inséré dans les Actes de Thomas : un prince d'Orient, envoyé en Égypte chercher une perle gardée par un serpent, y oublie sa mission jusqu'à ce qu'une lettre de ses parents le réveille ; allégorie de l'âme exilée et de son retour.
+texte: Un fils de roi, encore enfant, quitte le palais de ses parents en Orient, dépouillé de sa robe de gloire ; on lui promet de la lui rendre s'il rapporte d'Égypte la perle unique qui repose au milieu de la mer, près du serpent au souffle bruyant. En Égypte, il revêt les habits du pays, mange la nourriture des Égyptiens, oublie qu'il est fils de roi et tombe dans un profond sommeil. Ses parents lui écrivent une lettre qui vole comme un aigle et se fait parole : qu'il se souvienne qu'il est fils de rois. Il s'éveille, endort le serpent en prononçant sur lui le nom de son père, saisit la perle et repart ; à la frontière, sa robe vient au-devant de lui, et il s'y reconnaît comme dans un miroir.
+texte: Le poème, conservé en syriaque et en grec, est peut-être plus ancien que les *Actes de Thomas* qui le contiennent, écrits à Édesse au IIIe siècle ; on l'a attribué au poète chrétien Bardesane. On y lit l'une des expressions les plus pures du mythe gnostique : l'âme descendue dans la matière, l'oubli, l'appel venu d'en haut, la [[gnose]] qui réveille et le retour au royaume, comme dans l'[[odyssee-de-l-ame|Odyssée de l'âme]] des néoplatoniciens.
+extrait: Call to mind that thou art a son of kings! // See the slavery,--whom thou servest! // Remember the pearl, // for which thou was sent to Egypt! ¶ It flew in the likeness of an eagle, // the king of all birds; // it flew and alight beside me, // and became all speech. // At its voice and the sound of its rustling, // I started and arose from my sleep. ¶ I remembered that I was a son of royal parents, // and my noble birth asserted itself. // I remembered the pearl, // for which I had been sent to Egypt, // and I began to charm him, // the terrible loud breathing serpent.
+source: *Hymn of the Pearl*, des *Actes de Thomas*, trad. William Wright, *Apocryphal Acts of the Apostles*, Londres, 1871 | wsen Hymn of the Pearl
+voir: gnose, gnosticisme, odyssee-de-l-ame, apocryphes, serpent, mandeens
+
+@ protevangile-de-jacques
+cat: apocryphes
+nom: Protévangile de Jacques
+alias: Nativité de Marie, Livre de Jacques, Joachim et Anne, Protevangelium Jacobi
+an: 150
+dates: milieu du IIe siècle
+def: Récit apocryphe du IIe siècle sur la naissance et l'enfance de la Vierge Marie, fille de Joachim et d'Anne, source de nombreuses fêtes et images de la piété mariale.
+texte: Joachim et Anne, riches et pieux, désespèrent d'avoir un enfant ; un ange leur annonce la naissance de Marie, qu'ils consacrent au Temple de Jérusalem, où elle grandit, nourrie par un ange. À douze ans, on la confie à Joseph, un veuf déjà âgé désigné par une colombe sortie de son bâton. Le récit raconte ensuite la naissance de Jésus dans une grotte, le témoignage d'une sage-femme et de Salomé sur la virginité de Marie, puis le massacre des innocents.
+texte: Très lu dans l'Orient chrétien, le texte est révélé à l'Occident par l'humaniste [[guillaume-postel|Guillaume Postel]], dont la traduction latine paraît à Bâle en 1552 sous le titre de *Protevangelion*, d'où son nom. Il est à l'origine des noms de Joachim et d'Anne, de la fête de la Présentation de Marie au Temple et de nombreuses scènes peintes, comme la *Rencontre à la Porte dorée* de Giotto à Padoue.
+voir: apocryphes, guillaume-postel, evangile-de-nicodeme, legende-doree
+
+@ evangile-de-nicodeme
+cat: apocryphes
+nom: Évangile de Nicodème
+alias: Actes de Pilate, Descente aux enfers, Descensus Christi ad inferos, Longin
+an: 350
+dates: IVe-Ve siècle
+def: Récit apocryphe de la Passion et de la descente du Christ aux enfers, attribué à Nicodème, qui a donné au Moyen Âge l'histoire de Joseph d'Arimathie, le nom du centurion Longin et l'image du Christ brisant les portes de l'enfer.
+texte: La première partie, les *Actes de Pilate*, raconte le procès de Jésus, la crucifixion et l'enquête menée sur la résurrection ; [[joseph-d-arimathie|Joseph d'Arimathie]], qui a enseveli Jésus, est emprisonné, puis délivré miraculeusement. La seconde, conservée en latin, est la *Descente aux enfers* : deux fils du vieillard Siméon, ressuscités, racontent comment le Christ est entré chez les morts, a brisé les portes d'airain, enchaîné Satan et ramené au paradis Adam et les justes.
+texte: Le texte connaît au Moyen Âge un succès immense : il donne son nom à Longin, le soldat qui perça le côté du Christ, fournit à la [[legende-doree|Légende dorée]] et aux mystères la scène de la descente aux enfers, et inspire, vers 1200, le *Joseph d'Arimathie* de Robert de Boron, où Joseph recueille dans le vase de la Cène le sang du Christ : c'est l'une des sources de la légende du [[graal|Graal]].
+voir: joseph-d-arimathie, graal, legende-doree, apocryphes, protevangile-de-jacques, evangile-de-pierre
+
+@ evangile-de-pierre
+cat: apocryphes
+nom: Évangile de Pierre
+alias: Gospel of Peter, fragment d'Akhmim, la croix qui parle, Sérapion d'Antioche
+an: 150
+dates: IIe siècle ; retrouvé en 1886-1887
+def: Évangile du IIe siècle connu par un fragment trouvé en 1886-1887 dans une tombe d'Akhmim, qui raconte la Passion et décrit la sortie du tombeau du Christ, suivi d'une croix qui parle.
+texte: Vers l'an 200, l'évêque Sérapion d'Antioche découvre qu'une communauté lit un évangile « selon Pierre » ; il l'autorise d'abord, puis le condamne quand on lui signale des passages suspects de docétisme, la doctrine selon laquelle le Christ n'aurait eu qu'une apparence de corps. L'historien Eusèbe rapporte l'affaire. Le texte reparaît en 1886-1887, lors des fouilles d'une mission archéologique française dans une tombe d'Akhmim, en Haute-Égypte, et Urbain Bouriant le publie en 1892.
+texte: Le fragment raconte la Passion, où le Seigneur se tait comme s'il ne sentait aucune douleur, puis, chose unique, la sortie du tombeau : deux hommes descendent du ciel, entrent dans le sépulcre et en ressortent soutenant un troisième dont la tête dépasse les cieux, suivis d'une croix ; une voix demande s'il a prêché à ceux qui dorment, et la croix répond : « Oui. »
+voir: apocryphes, evangile-de-nicodeme, evangile-de-thomas
+
+@ irenee-de-lyon
+cat: figures
+nom: Irénée de Lyon
+alias: saint Irénée, Irénée, Contre les hérésies, Adversus haereses, Dénonciation et réfutation de la gnose au nom menteur
+dates: vers 130 – vers 202
+an: 130
+def: Évêque de Lyon au IIe siècle, venu d'Asie Mineure, dont le traité Contre les hérésies, vers 180, fut jusqu'au XXe siècle la principale source sur les gnostiques et défendit les quatre évangiles.
+texte: Né à Smyrne vers 130, il a entendu dans sa jeunesse l'évêque Polycarpe, disciple de l'apôtre Jean. Prêtre à Lugdunum, l'actuelle Lyon, il est envoyé à Rome en 177 ; à son retour, après la persécution qui a fait périr l'évêque Pothin et les martyrs de Lyon, il lui succède. Il meurt vers 202 ; la tradition en fait un martyr.
+texte: Vers 180, il écrit en grec les cinq livres de la *Dénonciation et réfutation de la gnose au nom menteur*, connus sous le titre latin d'*Adversus haereses*, « Contre les hérésies » ; le texte complet ne survit que dans une ancienne traduction latine. Il y décrit avec précision les systèmes de [[valentin|Valentin]], de [[basilide|Basilide]], de [[simon-le-magicien|Simon le Magicien]], des [[cainites|caïnites]] et de leur *[[evangile-de-judas|Évangile de Judas]]*, que la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] a souvent confirmés. Contre eux, il défend une règle de foi, la succession des évêques et l'autorité de quatre évangiles, ni plus ni moins, qu'il compare aux quatre vivants de l'Apocalypse : d'où le [[tetramorphe|tétramorphe]].
+repere: vers 130 — Naissance à Smyrne, en Asie Mineure.
+repere: 177 — Persécution de Lyon ; il succède à l'évêque Pothin.
+repere: vers 180 — *Contre les hérésies*, en cinq livres.
+repere: vers 202 — Mort à Lyon.
+voir: gnosticisme, valentin, basilide, cainites, evangile-de-judas, tetramorphe, apocryphes, jean-l-evangeliste

@@ -1182,3 +1182,153 @@ vallee-des-rois: wp Vallée des Rois
 vierges-noires: wp Vierge noire
 vouivre: wp Vouivre
 walter-scott: wp Walter Scott | ws Auteur:Walter Scott
+
+# Version 1.6 : Mythes et allégories, Apocryphes et écrits gnostiques.
+mythe: wp Mythe
+allegorese: wp Allégorèse
+evhemerisme: wp Évhémérisme
+mythologie-solaire: wp Mythe solaire | ws Comme quoi Napoléon n’a jamais existé
+charles-francois-dupuis: wp Charles-François Dupuis | ws Abrégé de l’origine de tous les cultes
+argonautes: wp Argonautes
+medee: wp Médée (mythologie)
+travaux-d-hercule: wp Travaux d'Héraclès
+hercule-a-la-croisee-des-chemins: wp Apologue de Prodicos
+thesee-et-le-minotaure: wp Thésée
+ariane: wp Ariane (mythologie)
+dedale-et-icare: wp Icare
+promethee: wp Prométhée | ws Promètheus enchaîné (Eschyle, Leconte de Lisle)
+pandore: wp Pandore | ws Les Travaux et les Jours (Hésiode, traduction Leconte de Lisle)
+odyssee-de-l-ame: wp Ulysse | ws Ennéades (trad. Bouillet)/I/Livre 6
+circe: wp Circé
+antre-des-nymphes: en On the Cave of the Nymphs in the Odyssey | ws L’Odyssée/Traduction Leconte de Lisle/13
+eros-et-psyche: wp Psyché (mythologie) | ws L’Âne d’or ou les Métamorphoses/V
+narcisse: wp Narcisse (mythologie)
+dionysos-zagreus: wp Zagreus
+de-iside-et-osiride: ws Sur Isis et Osiris
+allegorie-de-la-caverne: wp Allégorie de la caverne | ws La République (trad. Chambry)/Livre VII
+mythe-d-er: wp Mythe d'Er | ws La République (trad. Chambry)/Livre X
+attelage-aile: wp Phèdre (Platon) | ws Phèdre (Platon, trad. Cousin)
+age-d-or: wp Âge d'or
+deluge: wp Déluge
+atalante: wp Atalante
+oedipe: wp Œdipe
+jugement-de-paris: wp Jugement de Pâris
+trois-graces: wp Charites
+sacrifice-d-odin: wp Hávamál | wsen The Poetic Edda (tr. Bellows)/Hovamol
+gilgamesh: wp Épopée de Gilgamesh
+barattage-de-la-mer-de-lait: wp Barattage de la Mer de lait
+de-la-sagesse-des-anciens: wsen The Wisdom of the Ancients
+fables-egyptiennes-et-grecques-devoilees: wp Antoine-Joseph Pernety
+apocryphes: wp Apocryphe biblique
+evangile-de-judas: wp Évangile de Judas
+codex-tchacos: wp Codex Tchacos
+evangile-de-marie: wp Évangile de Marie
+codex-de-berlin: wp Codex de Berlin
+evangile-de-thomas: wp Évangile selon Thomas
+evangile-de-philippe: wp Évangile selon Philippe
+evangile-de-verite: wp Évangile de la vérité
+apocryphon-de-jean: wp Livre des secrets de Jean
+barbelo: en Barbelo
+sethiens: en Sethianism
+cainites: wp Caïnites
+ophites: wp Ophites
+hymne-de-la-perle: wp Hymne de la Perle | wsen Hymn of the Pearl
+protevangile-de-jacques: wp Protévangile de Jacques
+evangile-de-nicodeme: wp Évangile de Nicodème
+evangile-de-pierre: wp Évangile de Pierre
+irenee-de-lyon: wp Irénée de Lyon
+
+# Version 1.6, suite : mythes de la Bible, Littérature, Peinture et gravure.
+mythes-bibliques: wp Quatre sens de l'Écriture
+reine-de-saba: wp Reine de Saba
+jugement-de-salomon: wp Jugement de Salomon
+construction-du-temple: wp Temple de Salomon | wp Hiram Ier
+ophir: wp Ophir
+legende-de-la-vraie-croix: wp La Légende de la Vraie Croix
+jardin-d-eden: wp Éden
+lilith: wp Lilith
+cain-et-abel: wp Caïn
+tour-de-babel: wp Tour de Babel
+jonas: wp Livre de Jonas
+festin-de-balthazar: wp Mene tekel
+songe-de-nabuchodonosor: wp Livre de Daniel
+salome: wp Salomé (fille d'Hérodiade)
+juif-errant: wp Juif errant
+rois-mages: wp Rois mages
+shamir: en Solomon's shamir
+huppe: wp Huppe fasciée
+serpent-d-airain: en Nehushtan
+jerusalem-celeste: wp Jérusalem céleste
+quatre-cavaliers: wp Cavaliers de l'Apocalypse
+femme-revetue-du-soleil: wp Femme de l'Apocalypse
+cent-cinquante-trois: wp 153 (nombre)
+tubal-cain: wp Tubal-Caïn
+loges-de-saint-jean: -
+logos: wp Logos
+elias-artista: -
+mandeens: wp Mandéisme
+cantique-des-cantiques: wp Cantique des cantiques | ws Bible Segond 1910/Cantique des cantiques
+livre-de-la-sagesse: wp Livre de la Sagesse
+evangile-de-jean: wp Évangile selon Jean | ws Bible Segond 1910/Évangile selon Jean
+apocalypse: wp Apocalypse | ws Bible Segond 1910/Apocalypse
+kebra-nagast: wp Kebra Nagast
+testament-de-salomon: wp Testament de Salomon | wsen The Testament of Solomon
+moise: wp Moïse
+melchisedech: wp Melchisédech
+jean-l-evangeliste: wp Jean (apôtre)
+jean-baptiste: wp Jean le Baptiste
+patmos: wp Patmos
+ephese: wp Éphèse
+histoire-de-la-reine-du-matin: wp Voyage en Orient (Nerval) | ws Voyage en Orient (Nerval)
+la-reine-du-sabbat: -
+rouletabille-chez-les-bohemiens: ws Rouletabille chez les bohémiens | wp Rouletabille chez les Bohémiens (film)
+aurelia: wp Aurélia ou le Rêve et la Vie | ws Aurélia (1855, Revue de Paris)
+les-chimeres: wp Les Filles du feu | ws Les Chimères
+le-pot-d-or: en The Golden Pot | ws Le Pot d’or
+frankenstein: wp Frankenstein ou le Prométhée moderne | wsen Frankenstein, or the Modern Prometheus (Revised Edition, 1831)
+vathek: wp Vathek | ws Vathek
+joseph-balsamo: wp Joseph Balsamo (roman) | ws Joseph Balsamo
+axel: wp Axël | ws Axël
+a-rebours: wp À rebours | ws À rebours
+la-bas: wp Là-bas (roman) | ws Là-bas
+la-tentation-de-saint-antoine: wp La Tentation de saint Antoine (Flaubert) | ws La Tentation de saint Antoine – Éd. L. Conard (1910)
+la-fin-de-satan: wp La Fin de Satan | ws La Fin de Satan
+le-paradis-perdu: wp Le Paradis perdu | ws Le Paradis perdu
+les-mines-du-roi-salomon: wp Les Mines du roi Salomon (roman) | wsen King Solomon's Mines
+le-necronomicon: wp Necronomicon
+le-pendule-de-foucault: wp Le Pendule de Foucault
+arcane-17: wp Arcane 17 (André Breton)
+le-manuscrit-trouve-a-saragosse: wp Manuscrit trouvé à Saragosse
+sara-la-kali: wp Sara la noire
+arthur-rimbaud: wp Arthur Rimbaud | ws Auteur:Arthur Rimbaud
+gustav-meyrink: wp Gustav Meyrink
+le-tarot-des-bohemiens: ia clefabsoluedelas00papuuoft = édition originale (1889)
+symbolisme: wp Symbolisme (art)
+salons-de-la-rose-croix: en Salon de la Rose + Croix
+preraphaelites: wp Préraphaélisme
+les-nabis: wp Les Nabis
+surrealisme: wp Surréalisme
+abstraction-et-theosophie: en Theosophy and visual arts
+vanites: wp Vanité (peinture)
+le-jardin-des-delices: wp Le Jardin des délices
+l-agneau-mystique: wp L'Agneau mystique
+apocalypse-de-durer: wp L'Apocalypse (Dürer)
+tenture-de-l-apocalypse: wp Tenture de l'Apocalypse
+le-printemps: wp Le Printemps (Botticelli)
+l-amour-sacre-et-l-amour-profane: wp Amour sacré et Amour profane
+les-trois-philosophes: wp Les Trois Philosophes
+les-ambassadeurs: wp Les Ambassadeurs
+faust-dans-son-cabinet: -
+le-cauchemar: en The Nightmare
+le-sabbat-des-sorcieres: wp Le Sabbat des sorcières (Goya, 1798)
+l-ile-des-morts: wp L'Île des morts (Böcklin)
+l-ecole-d-athenes: wp L'École d'Athènes
+gustave-moreau: wp Gustave Moreau
+odilon-redon: wp Odilon Redon
+jean-delville: wp Jean Delville
+hilma-af-klint: wp Hilma af Klint
+wassily-kandinsky: wp Vassily Kandinsky
+piet-mondrian: wp Piet Mondrian
+nicolas-roerich: wp Nicolas Roerich
+formes-pensees: en Thought-Forms
+cathedrale-de-sienne: wp Cathédrale Santa Maria Assunta de Sienne

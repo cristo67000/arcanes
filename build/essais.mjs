@@ -130,6 +130,58 @@ try {
   await attendre('!Fiche.ouverte', 3000, 'fermeture');
   await pause(500);
 
+  // ── Les parcours guidés ───────────────────────────────────────────────────
+  ok(await js("return document.querySelectorAll('#parcours-accueil .parcours-carte').length") === MANIFESTE.parcours,
+    'l’accueil présente les ' + MANIFESTE.parcours + ' parcours');
+  ok(await js('return document.documentElement.scrollWidth <= innerWidth'), 'le bandeau des parcours ne fait pas déborder la page');
+  await js("document.querySelector('#parcours-accueil .parcours-carte[data-parcours=\"temple\"]').click(); return 1");
+  await attendre("Fiche.ouverte && Fiche.parcours === 'temple' && document.querySelector('#fiche .parcours-fil')", 4000, 'la carte d’un parcours ouvre une étape');
+  const etapes = await js("return Dictionnaire.unParcours('temple').e");
+  const i0 = etapes.indexOf(await js('return Fiche.ref'));
+  ok(i0 >= 0 && i0 < etapes.length - 1, 'l’étape ouverte appartient au parcours');
+  await js("document.querySelector('#fiche .parcours-pas .suiv').click(); return 1");
+  await attendre("Fiche.ref === " + JSON.stringify(etapes[i0 + 1]), 3000, 'l’étape suivante du parcours');
+  ok(await js("return document.querySelector('#fiche .parcours-position').textContent") === (i0 + 2) + ' / ' + etapes.length, 'le fil dit à quelle étape on est');
+  ok(await js("return document.querySelectorAll('#fiche .parcours-point').length") === etapes.length, 'un point par étape');
+  await js("document.querySelectorAll('#fiche .parcours-point')[3].click(); return 1");
+  await attendre("Fiche.ref === " + JSON.stringify(etapes[3]) + " && Fiche.parcours === 'temple'", 3000, 'un point mène à son étape');
+  ok(await js("return !!document.querySelector('#fiche .parcours-suite .parcours-suivant')"), 'après la lecture, l’étape suivante est proposée');
+  // un renvoi vers un article hors du parcours le quitte ; « retour » le retrouve
+  const dehors = await js("const e = Dictionnaire.unParcours('temple').e; const a = Array.from(document.querySelectorAll('#fiche .article-texte a.renvoi')).find((x) => !e.includes(x.getAttribute('data-ref'))); if (!a) return null; a.click(); return a.getAttribute('data-ref')");
+  ok(!!dehors, 'l’étape contient un renvoi hors du parcours');
+  if (dehors) {
+    await attendre('Fiche.ref === ' + JSON.stringify(dehors), 3000, 'suivre le renvoi hors du parcours');
+    ok(await js("return Fiche.parcours === null && !document.querySelector('#fiche .parcours-fil')"), 'hors du parcours, le fil disparaît');
+    await js('history.back(); return 1');
+    await attendre("Fiche.ref === " + JSON.stringify(etapes[3]) + " && Fiche.parcours === 'temple' && !!document.querySelector('#fiche .parcours-fil')", 3000, '« retour » retrouve le parcours');
+  }
+  await js("document.querySelector('#fiche .parcours-quitter').click(); return 1");
+  await attendre("Fiche.parcours === null && !document.querySelector('#fiche .parcours-fil')", 3000, 'quitter le parcours');
+  await js('Fiche.fermer(); return 1');
+  await attendre('!Fiche.ouverte', 3000, 'fermeture');
+  await pause(500);
+
+  // ── La carte des liens ────────────────────────────────────────────────────
+  await js("Fiche.ouvrir('salomon'); return 1");
+  await attendre("Fiche.ref === 'salomon' && document.querySelectorAll('#fiche .cl-noeud').length >= 9", 4000, 'la carte des liens de Salomon');
+  await pause(300);
+  const debordeCarte = await js(`
+    return Array.from(document.querySelectorAll('#fiche .cl-noeud')).filter((n) => {
+      const b = n.querySelector('text').getBBox();
+      const r = parseFloat(n.querySelector('circle').getAttribute('r'));
+      return !b.width || b.width > r * 1.7 || b.height > r * 1.6;
+    }).map((n) => n.getAttribute('aria-label'))`);
+  ok(debordeCarte.length === 0, 'chaque nom tient dans sa bulle' + (debordeCarte.length ? ' : ' + debordeCarte.join(', ') : ''));
+  const voisin = await js("const n = document.querySelector('#fiche .cl-noeud:not(.cl-noeud-centre)'); n.dispatchEvent(new MouseEvent('click', { bubbles: true })); return n.getAttribute('data-centre')");
+  await attendre("document.querySelector('#fiche .cl-noeud-centre').getAttribute('data-centre') === " + JSON.stringify(voisin), 3000, 'toucher un voisin le met au centre');
+  ok(await js("return Fiche.ref") === 'salomon', 'se promener dans la carte ne quitte pas la fiche');
+  ok(await js("return document.querySelectorAll('#fiche .cl-etape').length") === 2, 'le chemin parcouru s’affiche');
+  await js("document.querySelector('#fiche .cl-lire').click(); return 1");
+  await attendre('Fiche.ref === ' + JSON.stringify(voisin), 3000, '« Lire » ouvre l’article du centre');
+  await js('Fiche.fermer(); return 1');
+  await attendre('!Fiche.ouverte', 3000, 'fermeture');
+  await pause(500);
+
   // ── Toutes les figures, tous leurs arguments : rien ne sort du cadre ─────
   const debordements = await js(`
     const sortie = [];

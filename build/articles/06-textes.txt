@@ -12,7 +12,7 @@ texte: Ces traités, de longueur et d'inspiration variées, se présentent comme
 texte: En 1462, un moine rapporte de Macédoine un manuscrit à [[florence|Florence]] ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
 extrait: Et voilà pourquoi, seul de tous les êtres qui vivent sur la terre, l’homme est double, mortel par le corps, immortel par sa propre essence. Immortel et souverain de toutes choses, il est soumis à la destinée qui régit ce qui est mortel ; supérieur à l’harmonie du monde, il est captif dans ses liens ; mâle et femelle comme son père et supérieur au sommeil, il est dominé par le sommeil.
 source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
-voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose, florence
+voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose, florence, logos, cathedrale-de-sienne
 
 @ poimandres
 cat: textes
@@ -24,7 +24,7 @@ texte: Le narrateur, plongé dans une méditation, voit apparaître un être imm
 texte: À la mort, l'âme remonte à travers les sept sphères en rendant à chacune le vice qu'elle en avait reçu, jusqu'à se fondre en Dieu. Ce récit, proche des cosmogonies [[gnosticisme|gnostiques]] et de la Genèse, est l'un des textes fondateurs de l'[[hermetisme]].
 extrait: Je réfléchissais un jour sur les êtres ; ma pensée planait dans les hauteurs, et toutes mes sensations corporelles étaient engourdies comme dans le lourd sommeil qui suit la satiété, les excès ou la fatigue. Il me sembla qu’un être immense, sans limites déterminées, m’appelait par mon nom et me disait : Que veux-tu entendre et voir, que veux-tu apprendre et connaître ? — Qui donc es-tu, répondis-je ? — Je suis, dit-il, Poimandrès (le pasteur de l’homme), l’intelligence souveraine. Je sais ce que tu désires, et partout je suis avec toi.
 source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
-voir: corpus-hermetique, hermetisme, gnose, adam-kadmon, microcosme-macrocosme
+voir: corpus-hermetique, hermetisme, gnose, adam-kadmon, microcosme-macrocosme, logos
 
 @ asclepius
 cat: textes
@@ -70,35 +70,35 @@ texte: Rassemblés et publiés par Karl Preisendanz de 1928 à 1931, ils sont la
 voir: magie, amulette, voces-magicae, theurgie
 
 @ bibliotheque-de-nag-hammadi
-cat: textes
+cat: apocryphes
 nom: Bibliothèque de Nag Hammadi
 alias: Nag Hammadi, codex de Nag Hammadi, Évangile de Thomas, Évangile de Philippe, Apocryphon de Jean, codex Jung
 an: 1945
 dates: copiés au IVe siècle ; découverts en 1945
 def: Ensemble de treize volumes coptes du IVe siècle, découverts en 1945 en Haute-Égypte, qui ont révélé les écrits des gnostiques eux-mêmes.
-texte: En décembre 1945, près de la ville de Nag Hammadi, un paysan découvre dans une jarre enterrée une série de codex reliés de cuir. Ils contiennent une cinquantaine de textes traduits du grec en copte : l'*Évangile selon Thomas*, recueil de paroles de Jésus, l'*Évangile de Philippe*, l'*Apocryphon de Jean*, l'*Évangile de vérité*, mais aussi un extrait de la *République* de Platon et des traités [[hermetisme|hermétiques]].
-texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich.
-voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius, marie-madeleine, ogdoade
+texte: En décembre 1945, au pied de la falaise du Djebel el-Tarif, près de la ville de Nag Hammadi, un paysan, Mohammed Ali al-Samman, découvre dans une jarre enterrée treize codex de papyrus reliés de cuir. Ils contiennent cinquante-deux traités traduits du grec en copte : l'*[[evangile-de-thomas|Évangile selon Thomas]]*, recueil de paroles de Jésus, l'*[[evangile-de-philippe|Évangile selon Philippe]]*, l'*[[apocryphon-de-jean|Apocryphon de Jean]]*, l'*[[evangile-de-verite|Évangile de vérité]]*, mais aussi un extrait de la *République* de Platon et des traités [[hermetisme|hermétiques]].
+texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich, puis rendu à l'Égypte ; l'ensemble est conservé au Musée copte du Caire.
+voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius, marie-madeleine, ogdoade, evangile-de-thomas, evangile-de-philippe, apocryphon-de-jean, sethiens, codex-tchacos, apocryphes
 
 @ pistis-sophia
-cat: textes
+cat: apocryphes
 nom: Pistis Sophia
 alias: codex Askew, Pistis-Sophia
 an: 300
 def: Écrit gnostique copte où Jésus ressuscité révèle à ses disciples la chute et la repentance de Sophia, puissance divine égarée dans le chaos.
-texte: Le texte est conservé dans un manuscrit copte acquis au XVIIIe siècle par un médecin londonien, Anthony Askew, et entré au British Museum en 1785. Pendant onze ans après la Résurrection, Jésus instruit ses disciples, et notamment Marie-Madeleine, interlocutrice privilégiée ; il raconte comment Pistis Sophia, « Foi-Sagesse », trompée par une fausse lumière, est tombée dans les régions inférieures, puis sauvée après treize repentances.
+texte: Le texte est conservé dans un manuscrit copte acquis au XVIIIe siècle par un médecin londonien, Anthony Askew, et entré au British Museum en 1785. Pendant onze ans après la Résurrection, Jésus instruit ses disciples, et notamment Marie-Madeleine, interlocutrice privilégiée ; il raconte comment Pistis Sophia, « Foi-Sagesse », trompée par une fausse lumière, est tombée dans les régions inférieures, puis sauvée après treize repentances. Marie y parle tant que Pierre s'en plaint au Seigneur, comme dans l'*[[evangile-de-marie|Évangile de Marie]]*.
 texte: Longtemps l'un des rares écrits gnostiques connus de première main, il fascine les occultistes de la fin du XIXe siècle : il est traduit en français en 1895 et en anglais en 1896 par un secrétaire de [[helena-blavatsky]].
-voir: gnosticisme, sophia, eon, plerome, bibliotheque-de-nag-hammadi, marie-madeleine
+voir: gnosticisme, sophia, eon, plerome, bibliotheque-de-nag-hammadi, marie-madeleine, evangile-de-marie, apocryphes
 
 @ livre-d-henoch
-cat: textes
+cat: apocryphes
 nom: Livre d'Hénoch
 alias: Hénoch, Enoch, 1 Hénoch, Veilleurs, Livre des Veilleurs
 an: -250
 def: Écrit juif des derniers siècles avant notre ère, attribué au patriarche Hénoch, qui raconte la chute des anges « Veilleurs » et décrit les secrets du ciel.
 texte: Selon la Genèse, Hénoch « marcha avec Dieu, puis il ne fut plus, car Dieu l'avait pris ». Le livre placé sous son nom raconte que deux cents anges, les Veilleurs, descendirent sur terre, s'unirent aux femmes et enseignèrent aux hommes la métallurgie, les fards, la magie et l'astrologie ; leurs fils, des géants, ravagèrent la terre, d'où le Déluge. Hénoch, emmené au ciel, en visite les demeures et apprend le cours des astres.
 texte: Perdu en Occident, le livre a été conservé intégralement en éthiopien : l'Église d'Éthiopie le tient pour canonique. L'explorateur James Bruce en rapporte des copies en 1773. Le nom d'Hénoch a été donné à la [[magie-enochienne|magie énochienne]] de [[john-dee]], que les anges présentaient comme la langue enseignée au patriarche.
-voir: anges, magie-enochienne, demonologie
+voir: anges, magie-enochienne, demonologie, apocryphes, deluge
 
 @ sefer-yetsirah
 cat: textes
@@ -180,7 +180,7 @@ dates: manuscrits des XIVe – XVIIIe siècles
 def: Grimoire attribué au roi Salomon, connu par des manuscrits de la fin du Moyen Âge, qui décrit les purifications, les instruments et les pentacles nécessaires pour invoquer les esprits.
 texte: La *Clavicule* — la « petite clé » — prescrit au magicien un long temps de préparation : jeûnes, prières, bains, vêtements de lin, choix du jour et de l'heure planétaires. Elle décrit la fabrication du couteau, de la baguette, du parchemin vierge, le tracé du [[cercle-magique]] et des dizaines de [[pentacle|pentacles]] aux figures et aux inscriptions hébraïques, chacun consacré à une planète et à un effet.
 texte: Des versions latines, italiennes et françaises circulent du XVe au XVIIIe siècle et s'enrichissent sans cesse. [[samuel-liddell-mathers]] en publie une traduction anglaise en 1889, qui fixe pour longtemps l'image du [[grimoire]] classique.
-voir: grimoire, salomon, pentacle, cercle-magique, lemegeton, instruments-magiques, asmodee
+voir: grimoire, salomon, pentacle, cercle-magique, lemegeton, instruments-magiques, asmodee, testament-de-salomon
 
 @ lemegeton
 cat: textes
@@ -191,7 +191,7 @@ dates: manuscrits du XVIIe siècle
 def: Grimoire anglais du XVIIe siècle en cinq parties, dont la première, la Goétie, décrit soixante-douze démons et la manière de les contraindre.
 texte: La *Goétie* donne pour chacun des soixante-douze esprits que [[salomon]] aurait enfermés dans un vase d'airain son rang (roi, duc, prince, marquis…), son apparence, ses pouvoirs, le nombre de légions qu'il commande et son sceau. Les autres parties traitent des esprits des points cardinaux, des anges des heures, d'une invocation par l'intermédiaire d'un autel de cire, et d'un *[[ars-notoria|Art notoire]]* censé donner la science par la prière.
 texte: La liste des démons rejoint celle que le médecin [[jean-wier|Jean Wier]] avait publiée en 1577 pour montrer l'absurdité des croyances démonologiques. [[aleister-crowley]] et [[samuel-liddell-mathers]] éditent la *Goétie* en 1904, et elle reste l'un des textes les plus utilisés de la magie cérémonielle.
-voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau, soixante-douze, asmodee
+voir: goetie, demonologie, salomon, clavicule-de-salomon, sceau, soixante-douze, asmodee, testament-de-salomon
 
 @ livre-d-abramelin
 cat: textes
@@ -352,7 +352,7 @@ an: 1617
 def: Livre d'emblèmes alchimiques de Michael Maier publié en 1617, où chacune des cinquante gravures s'accompagne d'une épigramme, d'un commentaire et d'une fugue musicale.
 texte: Le titre renvoie au mythe d'Atalante, la coureuse que le prétendant Hippomène vainc en laissant tomber trois pommes d'or : Atalante figure le mercure volatil, Hippomène le soufre qui le fixe, la pomme d'or la matière qui les unit. Les gravures, de l'atelier de Matthäus Merian, montrent un enfant nourri par la Terre, un hermaphrodite couché dans le feu, un loup qui dévore le roi, une femme qui lave le linge.
 texte: Les cinquante fugues à trois voix — Atalante, Hippomène et la pomme — sont l'une des premières tentatives d'unir musique et image dans un livre. C'est un sommet de l'art des [[emblemes]].
-voir: michael-maier, emblemes, alchimie, mercure-philosophique, crapaud
+voir: michael-maier, emblemes, alchimie, mercure-philosophique, crapaud, atalante
 
 @ aurore-naissante
 cat: textes
@@ -490,7 +490,7 @@ an: 1888
 def: Ouvrage principal d'Helena Blavatsky, publié en 1888, qui expose la cosmologie et l'histoire de l'humanité selon la théosophie, à partir d'un livre tibétain inconnu.
 texte: Le premier volume, *Cosmogenèse*, commente les *Stances de Dzyan*, extraites d'un livre que [[helena-blavatsky|Blavatsky]] dit avoir lu dans un monastère : il décrit la naissance des univers par cycles, de l'Absolu aux mondes manifestés. Le second, *Anthropogenèse*, raconte l'évolution de l'humanité à travers sept « races-racines », dont celles de la [[lemurie|Lémurie]] et de l'[[atlantide|Atlantide]].
 texte: Aucun spécialiste n'a jamais retrouvé de *Livre de Dzyan*. L'ouvrage, immense et touffu, est devenu le texte de référence de la [[theosophie]] ; sa théorie des races a malheureusement été récupérée par l'[[ariosophie]].
-voir: helena-blavatsky, theosophie, cycles-cosmiques, atlantide, lemurie
+voir: helena-blavatsky, theosophie, cycles-cosmiques, atlantide, lemurie, promethee
 
 @ les-grands-inities
 cat: textes
@@ -498,9 +498,9 @@ nom: Les Grands Initiés
 alias: Grands Initiés
 an: 1889
 def: Livre d'Édouard Schuré publié en 1889, qui présente huit fondateurs de religions et de philosophies, de Rama à Jésus, comme les initiés d'une même vérité secrète.
-texte: Rama, Krishna, Hermès, Moïse, Orphée, Pythagore, Platon et Jésus y apparaissent comme les maillons d'une chaîne de révélateurs, chacun ayant reçu dans les sanctuaires de l'[[initiation]] la même doctrine de l'âme et de Dieu, qu'il a adaptée à son peuple. Le style est lyrique, plus romanesque qu'historique.
+texte: Rama, Krishna, Hermès, [[moise|Moïse]], Orphée, Pythagore, Platon et Jésus y apparaissent comme les maillons d'une chaîne de révélateurs, chacun ayant reçu dans les sanctuaires de l'[[initiation]] la même doctrine de l'âme et de Dieu, qu'il a adaptée à son peuple. Le style est lyrique, plus romanesque qu'historique.
 texte: Le livre a été l'un des plus grands succès de l'édition ésotérique en français et a fait découvrir à des générations de lecteurs l'idée d'une sagesse universelle.
-voir: edouard-schure, prisca-theologia, initiation, mysteres-antiques
+voir: edouard-schure, prisca-theologia, initiation, mysteres-antiques, moise
 
 @ kybalion
 cat: textes
@@ -548,7 +548,7 @@ an: 1945
 def: Ouvrage de René Guénon publié en 1945, qui décrit le monde moderne comme l'aboutissement d'un déclin cyclique, où la qualité cède partout la place à la quantité.
 texte: [[rene-guenon|Guénon]] y soutient que l'humanité, au terme du [[cycles-cosmiques|cycle]] présent, se « solidifie » : le matérialisme, la mesure, l'uniformité et la machine envahissent tout, puis viennent des « fissures » par où s'engouffrent des influences inférieures — il range le [[spiritisme]], le [[new-age|néo-spiritualisme]] et certaines psychologies parmi ces « contre-initiations ».
 texte: Le livre est l'exposé le plus complet de sa critique de la modernité et le texte de référence du [[traditionalisme]].
-voir: rene-guenon, traditionalisme, cycles-cosmiques, tradition-primordiale
+voir: rene-guenon, traditionalisme, cycles-cosmiques, tradition-primordiale, age-d-or
 
 @ matin-des-magiciens
 cat: textes
@@ -558,7 +558,7 @@ an: 1960
 def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle science, ésotérisme et histoire secrète, et lança en France la vogue du « réalisme fantastique ».
 texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
 texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
-voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril, anciens-astronautes
+voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril, anciens-astronautes, le-pendule-de-foucault
 
 # ── Textes ajoutés en 1.2 ───────────────────────────────────────────────────
 
@@ -578,7 +578,7 @@ repere: 1637 — Édition révisée à Paris.
 voir: tommaso-campanella, art-de-la-memoire, astrologie, magie-naturelle, rose-croix
 
 @ zanoni
-cat: textes
+cat: litterature
 nom: Zanoni
 alias: Bulwer-Lytton, gardien du seuil, Mejnour
 dates: 1842

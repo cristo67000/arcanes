@@ -23,7 +23,7 @@ repere: 1489 — *De vita* ; il doit défendre son livre contre des accusations 
 repere: 1492 — Publication de sa traduction de Plotin.
 repere: 1499 — Mort à Careggi.
 oeuvres: Traduction du Corpus Hermeticum (1463, imprimée en 1471) ; De l'amour (1469) ; Théologie platonicienne (1482) ; De vita libri tres (1489) ; traduction de Plotin (1492)
-voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte, harmonie-des-spheres, villa-de-careggi, florence, sandro-botticelli
+voir: prisca-theologia, corpus-hermetique, de-vita, neoplatonisme, pic-de-la-mirandole, philosophie-occulte, harmonie-des-spheres, villa-de-careggi, florence, sandro-botticelli, trois-graces, narcisse, le-printemps, l-amour-sacre-et-l-amour-profane, cathedrale-de-sienne
 
 @ pic-de-la-mirandole
 cat: figures
@@ -47,7 +47,7 @@ repere: 1494 — Mort à Florence, le jour où l'armée de Charles VIII entre da
 repere: 1496 — Publication posthume de ses *Disputes contre l'astrologie divinatoire*.
 repere: 2008 — L'étude de ses restes conforte l'hypothèse d'un empoisonnement à l'arsenic.
 oeuvres: Neuf cents conclusions (1486) ; Discours sur la dignité de l'homme (1486, publié en 1496) ; Heptaplus (1489) ; De l'être et de l'un (1491) ; Disputes contre l'astrologie divinatoire (1496)
-voir: kabbale-chretienne, discours-sur-la-dignite-de-l-homme, marsile-ficin, jean-reuchlin, prisca-theologia, magie-naturelle
+voir: kabbale-chretienne, discours-sur-la-dignite-de-l-homme, marsile-ficin, jean-reuchlin, prisca-theologia, magie-naturelle, trois-graces
 
 @ jean-reuchlin
 cat: figures
@@ -110,7 +110,7 @@ texte: Né à Cologne en 1486, dans une famille de petite noblesse au service de
 texte: En 1510, il rend visite à l'abbé [[jean-tritheme|Trithème]], à Würzburg, et lui dédie la première version du *[[de-occulta-philosophia|De occulta philosophia]]*. En Italie, où il passe sept ans, il commente à Pavie le *Pimandre* d'Hermès et fréquente les kabbalistes. Avocat de la ville de Metz, il obtient en 1519 la libération d'une paysanne accusée de sorcellerie parce que sa mère avait été brûlée. Médecin de Louise de Savoie, mère de François Ier, il perd sa faveur en refusant de lui faire des prédictions astrologiques ; il devient ensuite historiographe de Marguerite d'Autriche aux Pays-Bas.
 texte: Il publie en 1530 un pamphlet sceptique, *De l'incertitude et de la vanité des sciences*, qui n'épargne aucun savoir, pas même la magie, puis, à partir de 1531, le *De occulta philosophia* remanié et augmenté. Ses trois livres correspondent aux trois mondes : le monde élémentaire, objet de la [[magie-naturelle|magie naturelle]] — vertus des plantes, des pierres, des animaux, [[sympathie-universelle|sympathies]] et antipathies ; le monde céleste, objet de la magie mathématique — nombres, [[carre-magique|carrés magiques]] des planètes, sceaux et images astrologiques ; le monde intellectuel, objet de la magie cérémonielle — noms divins, [[anges]], [[kabbale]], alphabets secrets. C'est la grande somme de la magie savante de la Renaissance. Il avait écrit dès sa jeunesse un éloge de la supériorité des femmes.
 texte: Emprisonné un temps pour dettes à Bruxelles, puis arrêté en France pour avoir médit de la reine mère, il meurt à Grenoble en 1535. Sa légende le fait suivre d'un chien noir démoniaque, que son disciple [[jean-wier|Jean Wier]], l'adversaire des procès de sorcellerie, décrit comme un chien bien ordinaire. Un *Quatrième livre de philosophie occulte*, rituel de conjuration paru après sa mort, lui est faussement attribué.
-texte: Agrippa est devenu le magicien type : le [[faust|Faust]] de Marlowe veut l'égaler, le héros de *Frankenstein* se perd dans la lecture de ses livres. Son traité, recopié en anglais par [[francis-barrett|Francis Barrett]] dans *The Magus* en 1801, a nourri toute la magie cérémonielle moderne, de la [[golden-dawn|Golden Dawn]] aux occultistes d'aujourd'hui.
+texte: Agrippa est devenu le magicien type : le [[faust|Faust]] de Marlowe veut l'égaler, le héros de *[[frankenstein|Frankenstein]]* se perd dans la lecture de ses livres. Son traité, recopié en anglais par [[francis-barrett|Francis Barrett]] dans *The Magus* en 1801, a nourri toute la magie cérémonielle moderne, de la [[golden-dawn|Golden Dawn]] aux occultistes d'aujourd'hui.
 repere: 1486 — Naissance à Cologne.
 repere: 1509 — À Dole, ses leçons sur la kabbale le font accuser d'hérésie.
 repere: 1510 — Il rend visite à l'abbé Trithème et lui dédie la première version du *De occulta philosophia*.
@@ -122,7 +122,7 @@ repere: 1533 — Édition complète du *De occulta philosophia*, à Cologne.
 repere: 1535 — Mort à Grenoble.
 repere: 1563 — Son disciple Jean Wier publie *Des illusions des démons*, contre la chasse aux sorcières.
 oeuvres: De la noblesse et de la préexcellence du sexe féminin (1529) ; De l'incertitude et de la vanité des sciences (1530) ; De occulta philosophia (rédigé en 1510, publié en 1531-1533)
-voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman, intelligences-planetaires, alphabets-magiques, chien
+voir: de-occulta-philosophia, philosophie-occulte, jean-tritheme, magie-naturelle, carre-magique, talisman, intelligences-planetaires, alphabets-magiques, chien, frankenstein
 
 @ paracelse
 cat: figures
@@ -146,7 +146,7 @@ repere: 1536 — *La Grande Chirurgie*, son seul grand succès de librairie.
 repere: 1541 — Mort à Salzbourg.
 repere: 1589 — Johann Huser commence l'édition de ses œuvres complètes.
 oeuvres: Paragranum (1530) ; Opus paramirum (1531) ; Grande Chirurgie (1536) ; Astronomia magna (1537-1538) ; Liber de nymphis, sylphis, pygmaeis et salamandris (publié en 1566)
-voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie, salamandre, le-comte-de-gabalis, momie
+voir: paracelsisme, iatrochimie, tria-prima, archee, elementaux, signatures, spagyrie, salamandre, le-comte-de-gabalis, momie, frankenstein, elias-artista
 
 @ guillaume-postel
 cat: figures
@@ -170,7 +170,7 @@ repere: 1552 — Il publie sa traduction latine du *Sefer Yetsirah*.
 repere: 1555 — L'Inquisition de Venise le déclare fou ; il est emprisonné à Rome jusqu'en 1559.
 repere: vers 1563 — Assigné à résidence au prieuré de Saint-Martin-des-Champs, à Paris.
 repere: 1581 — Mort à Paris.
-voir: kabbale-chretienne, zohar, sefer-yetsirah, kabbale
+voir: kabbale-chretienne, zohar, sefer-yetsirah, kabbale, protevangile-de-jacques
 
 @ nostradamus
 cat: figures
@@ -229,7 +229,7 @@ repere: 1608 ou 1609 — Mort à Mortlake, dans la pauvreté.
 repere: 1659 — Méric Casaubon publie ses journaux de séances pour le discréditer.
 oeuvres: Propaedeumata aphoristica (1558) ; Monas hieroglyphica (1564) ; préface à l'Euclide anglais (1570) ; General and Rare Memorials pertayning to the Perfect Arte of Navigation (1577)
 schema: monade-hieroglyphique
-voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie, elias-ashmole, londres, prague, manuscrit-de-voynich, alphabets-magiques
+voir: edward-kelley, magie-enochienne, monas-hieroglyphica, miroir-magique, anges, cristallomancie, elias-ashmole, londres, prague, manuscrit-de-voynich, alphabets-magiques, le-necronomicon, gustav-meyrink, tour-de-babel
 
 @ edward-kelley
 cat: figures
@@ -340,7 +340,7 @@ repere: 1617 — *Atalanta fugiens*, *Symbola aureae mensae* et *Silentium post 
 repere: 1618 — *Themis aurea*, sur les lois de la Fraternité de la Rose-Croix.
 repere: 1622 — Mort à Magdebourg.
 oeuvres: Arcana arcanissima (1614) ; Atalanta fugiens (1617) ; Symbola aureae mensae (1617) ; Silentium post clamores (1617) ; Themis aurea (1618)
-voir: atalanta-fugiens, emblemes, rose-croix, alchimie, marie-la-juive, robert-fludd, crapaud
+voir: atalanta-fugiens, emblemes, rose-croix, alchimie, marie-la-juive, robert-fludd, crapaud, atalante, argonautes
 
 @ robert-fludd
 cat: figures
@@ -482,7 +482,7 @@ dates: 1602 – 1680
 an: 1602
 def: Jésuite allemand, savant universel du Collège romain, qui crut déchiffrer les hiéroglyphes égyptiens comme des symboles d'une sagesse divine.
 texte: Né en 1602 à Geisa, près de Fulda, dernier de neuf enfants, Athanase Kircher entre chez les jésuites en 1618. La guerre de Trente Ans bouscule ses études ; il enseigne les mathématiques et les langues orientales à Würzburg, fuit en 1631 l'armée suédoise pour Avignon, où il se lie avec le savant Peiresc, puis s'installe en 1633 à Rome, au Collège romain, où il passera le reste de sa vie.
-texte: Son œuvre est encyclopédique : une quarantaine d'ouvrages, souvent monumentaux, sur le magnétisme, la lumière et l'ombre — il décrit une lanterne magique —, la musique, les volcans, la Chine, l'arche de Noé, la tour de Babel. En 1638, il se fait descendre dans le cratère du Vésuve pour observer le feu souterrain. Il réunit au Collège romain un célèbre musée de curiosités, de machines et d'antiquités. Il est l'un des premiers à montrer que le copte descend de la langue des anciens Égyptiens, intuition juste qui servira à Champollion.
+texte: Son œuvre est encyclopédique : une quarantaine d'ouvrages, souvent monumentaux, sur le magnétisme, la lumière et l'ombre — il décrit une lanterne magique —, la musique, les volcans, la Chine, l'arche de Noé, la [[tour-de-babel|tour de Babel]]. En 1638, il se fait descendre dans le cratère du Vésuve pour observer le feu souterrain. Il réunit au Collège romain un célèbre musée de curiosités, de machines et d'antiquités. Il est l'un des premiers à montrer que le copte descend de la langue des anciens Égyptiens, intuition juste qui servira à Champollion.
 texte: Dans son *Œdipe égyptien* (1652-1654), il interprète les [[hieroglyphes]] non comme une écriture, mais comme des emblèmes philosophiques qui cachent une sagesse divine, et il « traduit » les inscriptions des obélisques que Bernin dresse sur les places de Rome. Il rattache l'Égypte à l'[[hermetisme]], à la [[kabbale]], à Platon et aux sagesses de la Chine et du Mexique, dans une vaste [[prisca-theologia]].
 texte: Il y publie aussi une représentation de l'[[arbre-des-sephiroth|arbre des séphiroth]] avec ses vingt-deux sentiers, qui deviendra, à travers les occultistes du XIXe siècle et la [[golden-dawn|Golden Dawn]], le modèle de la [[kabbale-hermetique|kabbale hermétique]]. Son *Grand Art du savoir* reprend la combinatoire de [[raymond-lulle]].
 texte: Kircher meurt à Rome en 1680. Le déchiffrement de Champollion, en 1822, ruine ses lectures des hiéroglyphes ; mais son œuvre, abondamment illustrée, a nourri l'imaginaire ésotérique, de l'[[egyptosophie]] aux romans d'Umberto Eco, et fait de lui le symbole du dernier savant qui prétendait tout connaître.
@@ -584,7 +584,7 @@ repere: 1704 — *Optique*.
 repere: 1727 — Mort à Londres ; inhumé à l'abbaye de Westminster.
 repere: 1936 — Vente aux enchères de ses manuscrits ; Keynes en achète une partie.
 repere: 2019 — William Newman publie *Newton the Alchemist*.
-voir: alchimie, eirenee-philalethe, prisca-theologia, michel-sendivogius, temple-de-salomon
+voir: alchimie, eirenee-philalethe, prisca-theologia, michel-sendivogius, temple-de-salomon, songe-de-nabuchodonosor, apocalypse
 
 # ── Figures ajoutées en 1.2 ─────────────────────────────────────────────────
 
@@ -819,7 +819,7 @@ def: Empereur germanique installé à Prague, protecteur des astronomes, des alc
 texte: Fils de l'empereur Maximilien II, Rodolphe naît à Vienne en 1552 et passe huit ans de sa jeunesse en Espagne, à la cour austère de son oncle Philippe II. Élu empereur en 1576, il installe en 1583 sa cour à [[prague|Prague]], qu'il ne quittera presque plus. Mélancolique, solitaire, peu doué pour la politique, il se passionne pour les arts, les sciences et les secrets de la nature.
 texte: Dans son château, il réunit une immense chambre des merveilles : tableaux, sculptures, horloges et automates, instruments scientifiques, pierres précieuses, coraux, cornes de [[licorne|licorne]] et racines de [[mandragore]]. Le peintre Arcimboldo le représente en Vertumne, dieu des saisons, le visage composé de fruits et de légumes. Il achète, dit-on, le mystérieux manuscrit Voynich, qu'on croyait de Roger Bacon.
 texte: Prague devient la capitale européenne des sciences secrètes. L'empereur reçoit [[john-dee]] et [[edward-kelley]], fait de Kelley son alchimiste, accueille [[michel-sendivogius]], [[michael-maier]], et d'innombrables souffleurs ; il installe un laboratoire au château. Il protège les astronomes [[tycho-brahe|Tycho Brahe]] et [[johannes-kepler]], qui lui dédie ses *Tables rudolphines*. La légende de la « ruelle d'or », où auraient travaillé ses alchimistes, est plus tardive : y logeaient surtout des gardes et des orfèvres.
-texte: Son règne s'achève mal. Pendant la longue guerre contre les Turcs, son frère Matthias lui enlève une à une ses couronnes ; en 1609, Rodolphe accorde aux protestants de Bohême la liberté religieuse par la *Lettre de Majesté*, mais il doit abdiquer la couronne de Bohême en 1611 et meurt l'année suivante à Prague. Sa cour a laissé l'image d'une « Prague magique » chère aux écrivains, de Gustav Meyrink à Angelo Maria Ripellino.
+texte: Son règne s'achève mal. Pendant la longue guerre contre les Turcs, son frère Matthias lui enlève une à une ses couronnes ; en 1609, Rodolphe accorde aux protestants de Bohême la liberté religieuse par la *Lettre de Majesté*, mais il doit abdiquer la couronne de Bohême en 1611 et meurt l'année suivante à Prague. Sa cour a laissé l'image d'une « Prague magique » chère aux écrivains, de Gustav [[gustav-meyrink|Meyrink]] à Angelo Maria Ripellino.
 repere: 1552 — Naissance à Vienne.
 repere: 1563 — Il est envoyé à la cour d'Espagne, chez son oncle Philippe II.
 repere: 1576 — Empereur du Saint-Empire.
@@ -831,4 +831,4 @@ repere: 1609 — *Lettre de Majesté*, qui accorde la liberté religieuse aux pr
 repere: 1611 — Son frère Matthias le force à abdiquer la couronne de Bohême.
 repere: 1612 — Mort à Prague.
 repere: 1627 — Kepler publie les *Tables rudolphines*, qui portent son nom.
-voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie, chateau-de-prague, prague, tycho-brahe, manuscrit-de-voynich
+voir: john-dee, edward-kelley, michel-sendivogius, michael-maier, johannes-kepler, alchimie, chateau-de-prague, prague, tycho-brahe, manuscrit-de-voynich, gustav-meyrink

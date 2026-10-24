@@ -22,7 +22,7 @@ def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée 
 texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
-voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze, cathedrale-de-chartres
+voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze, cathedrale-de-chartres, travaux-d-hercule, mythologie-solaire
 
 @ belier
 cat: astrologie
@@ -33,7 +33,7 @@ def: Premier signe du zodiaque, signe de feu cardinal gouverné par Mars, que le
 texte: Le Bélier ouvre l'année astrologique au printemps. Le mythe grec y voit le bélier à la toison d'or qui emporta Phrixos et Hellé à travers les airs. Signe de feu et de commencement, il est associé par les astrologues à l'élan, au courage et à l'impulsivité. [[mars|Mars]] y a son domicile, et le [[soleil|Soleil]] son exaltation.
 texte: Dans la [[melothesie]], il gouverne la tête. Son symbole figure les cornes de l'animal.
 schema: zodiaque/belier
-voir: zodiaque, mars, triplicites, balance, belier-symbole
+voir: zodiaque, mars, triplicites, balance, belier-symbole, argonautes
 
 @ taureau
 cat: astrologie
@@ -66,7 +66,7 @@ def: Quatrième signe du zodiaque, signe d'eau cardinal gouverné par la Lune, q
 texte: Le Cancer est le crabe que la déesse Héra envoya contre Héraclès pendant son combat contre l'Hydre, et que le héros écrasa. Le Soleil y entre au solstice d'été, son point le plus haut, après quoi il redescend. Signe d'eau, il est associé à la sensibilité, à la mémoire, à la famille et au foyer. La [[lune|Lune]] y a son domicile, [[jupiter|Jupiter]] son exaltation.
 texte: Il gouverne la poitrine et l'estomac. Son symbole évoque les pinces du crabe, ou deux spirales enroulées.
 schema: zodiaque/cancer
-voir: zodiaque, lune, triplicites, capricorne
+voir: zodiaque, lune, triplicites, capricorne, antre-des-nymphes
 
 @ lion
 cat: astrologie
@@ -77,7 +77,7 @@ def: Cinquième signe du zodiaque, signe de feu fixe gouverné par le Soleil, qu
 texte: Le Lion est le lion de Némée, invulnérable, étouffé par Héraclès lors de son premier travail. Au cœur de l'été, il est associé à la vitalité, à la générosité, à la fierté et au besoin de briller. Le [[soleil|Soleil]] y a son domicile : c'est le signe royal par excellence.
 texte: Il gouverne le cœur et le dos. Son symbole évoque la crinière ou la queue de l'animal.
 schema: zodiaque/lion
-voir: zodiaque, soleil, triplicites, verseau, lion-symbole
+voir: zodiaque, soleil, triplicites, verseau, lion-symbole, travaux-d-hercule
 
 @ vierge
 cat: astrologie
@@ -132,7 +132,7 @@ def: Dixième signe du zodiaque, signe de terre cardinal gouverné par Saturne, 
 texte: Le Capricorne est un animal composite, chèvre à queue de poisson, hérité de la Babylonie ; les Grecs l'associent au dieu Pan ou à la chèvre Amalthée, nourrice de Zeus. Le Soleil y entre au solstice d'hiver, d'où il recommence à monter. Signe de terre, il est associé à l'ambition, à l'endurance, à la discipline et au temps. [[saturne|Saturne]] y a son domicile, [[mars|Mars]] son exaltation.
 texte: Il gouverne les genoux. Son symbole, difficile à tracer, mêle la corne de la chèvre et la queue enroulée du poisson.
 schema: zodiaque/capricorne
-voir: zodiaque, saturne, triplicites, cancer
+voir: zodiaque, saturne, triplicites, cancer, antre-des-nymphes
 
 @ verseau
 cat: astrologie
@@ -320,7 +320,7 @@ alias: décan, decan, decans, trente-six décans
 def: Divisions du zodiaque en trente-six parts de dix degrés, héritées de l'astronomie égyptienne, chacune gouvernée par une planète et figurée par une image.
 texte: Dans l'Égypte ancienne, trente-six étoiles ou groupes d'étoiles, se levant successivement à l'horizon, marquaient les heures de la nuit et les semaines de l'année. L'astrologie hellénistique les intègre au zodiaque : chaque signe compte trois décans, gouvernés par des planètes et représentés par des figures souvent étranges.
 texte: Ces images, transmises par le *[[picatrix|Picatrix]]* et les astrologues arabes, ornent les fresques du palais Schifanoia à Ferrare (vers 1470) : l'historien de l'art Aby Warburg en a reconstitué la généalogie en 1912, à l'origine de l'étude moderne des images astrologiques.
-voir: zodiaque, picatrix, talisman, egyptosophie
+voir: zodiaque, picatrix, talisman, egyptosophie, testament-de-salomon
 
 @ triplicites
 cat: astrologie
@@ -394,7 +394,7 @@ alias: noeuds lunaires, tête du dragon, queue du dragon, Rahu, Ketu, nœud nord
 def: Les deux points où l'orbite de la Lune croise le chemin apparent du Soleil ; les éclipses ne peuvent se produire qu'à leur voisinage.
 texte: Les astrologues médiévaux appellent « tête du dragon » le nœud ascendant et « queue du dragon » le nœud descendant, imaginant un dragon qui avale le Soleil ou la Lune lors des éclipses. Dans l'astrologie indienne, ce sont Rahu et Ketu, la tête et le corps d'un démon tranché par le dieu Vishnou, comptés comme des planètes invisibles.
 texte: Les nœuds font le tour du zodiaque en dix-huit ans et demi, en sens inverse des planètes. L'astrologie moderne en a fait l'axe de la « destinée karmique » d'une personne.
-voir: lune, astrologie-vedique, ephemerides, dragon
+voir: lune, astrologie-vedique, ephemerides, dragon, barattage-de-la-mer-de-lait
 
 @ heures-planetaires
 cat: astrologie

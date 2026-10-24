@@ -198,7 +198,7 @@ lieu: Prague, Tchéquie
 geo: 50.0900, 14.4000
 def: Résidence de l'empereur Rodolphe II, qui y réunit à la fin du XVIe siècle alchimistes, astrologues et savants : le cœur de la « Prague magique ».
 texte: Installé à [[prague|Prague]] en 1583, [[rodolphe-ii|Rodolphe II]] fait du château le centre d'une cour savante et étrange. Il y entasse ses collections, tableaux, automates, objets naturels et curiosités, et y accueille [[john-dee|John Dee]] et [[edward-kelley|Edward Kelley]], [[michael-maier|Michael Maier]], [[michel-sendivogius|Michel Sendivogius]], l'astronome [[tycho-brahe|Tycho Brahe]] et [[johannes-kepler|Kepler]]. Une tour du château, la Mihulka, aurait abrité des laboratoires.
-texte: La ruelle d'Or, une rangée de minuscules maisons adossées au rempart, passe pour avoir logé les alchimistes de l'empereur ; elle abritait en fait des gardes et des orfèvres. Dans la ville basse, la synagogue Vieille-Nouvelle est liée à la légende du [[golem]] du rabbin Loew. Le XIXe et le XXe siècle, avec le roman *Le Golem* de Gustav Meyrink (1915), ont fixé l'image d'une capitale de l'occulte.
+texte: La ruelle d'Or, une rangée de minuscules maisons adossées au rempart, passe pour avoir logé les alchimistes de l'empereur ; elle abritait en fait des gardes et des orfèvres. Dans la ville basse, la synagogue Vieille-Nouvelle est liée à la légende du [[golem]] du rabbin Loew. Le XIXe et le XXe siècle, avec le roman *Le Golem* de Gustav [[gustav-meyrink|Meyrink]] (1915), ont fixé l'image d'une capitale de l'occulte.
 repere: 1583 — Rodolphe II fait de Prague sa résidence.
 repere: 1584 — John Dee et Edward Kelley arrivent à la cour.
 repere: 1612 — Mort de Rodolphe II.
@@ -292,7 +292,7 @@ alias: Alexandrie d'Égypte, Bibliothèque d'Alexandrie, Sérapéum, Musée d'Al
 lieu: Alexandrie, Égypte
 geo: 31.1981, 29.9192
 def: Ville fondée par Alexandre le Grand en 331 avant notre ère, capitale intellectuelle du monde grec, où se sont mêlés philosophie grecque, religion égyptienne et judaïsme : le creuset de l'hermétisme, de la gnose et du néoplatonisme.
-texte: Sous les Ptolémées, le Musée et la Bibliothèque font d'Alexandrie le centre du savoir antique ; on y traduit en grec la Bible hébraïque, et le culte de Sérapis y unit dieux grecs et égyptiens. [[philon-d-alexandrie|Philon]] y lit Moïse en platonicien ; au IIe siècle, les gnostiques [[valentin|Valentin]] et [[basilide|Basilide]] y enseignent, et c'est dans l'Égypte de langue grecque que sont rédigés les traités du *[[corpus-hermetique|Corpus Hermeticum]]* et les premiers textes de l'[[alchimie]].
+texte: Sous les Ptolémées, le Musée et la Bibliothèque font d'Alexandrie le centre du savoir antique ; on y traduit en grec la Bible hébraïque, et le culte de Sérapis y unit dieux grecs et égyptiens. [[philon-d-alexandrie|Philon]] y lit [[moise|Moïse]] en platonicien ; au IIe siècle, les gnostiques [[valentin|Valentin]] et [[basilide|Basilide]] y enseignent, et c'est dans l'Égypte de langue grecque que sont rédigés les traités du *[[corpus-hermetique|Corpus Hermeticum]]* et les premiers textes de l'[[alchimie]].
 texte: [[plotin|Plotin]] y suit l'enseignement d'Ammonios Saccas avant de fonder le [[neoplatonisme|néoplatonisme]] à Rome ; la philosophe Hypatie y est massacrée par une foule chrétienne en 415. La disparition de la Bibliothèque, dont on ignore les circonstances exactes, est devenue le symbole d'un savoir perdu, que bien des ésotéristes ont rêvé de retrouver.
 repere: 331 av. J.-C. — Fondation de la ville par Alexandre le Grand.
 repere: 391 — Destruction du Sérapéum.

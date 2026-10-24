@@ -1,0 +1,363 @@
+# Version 1.6 : la peinture et la gravure ésotériques — les œuvres que l'on a
+# lues comme des énigmes, les mouvements nourris d'occultisme, leurs peintres.
+
+@ symbolisme
+cat: peinture
+nom: Symbolisme
+alias: peinture symboliste, symbolistes, idéalisme, décadentisme, art idéaliste
+dates: 1886 – 1900 environ
+an: 1886
+def: Mouvement littéraire et artistique de la fin du XIXe siècle qui, contre le naturalisme, veut suggérer l'idée par l'image et le rêve ; ses peintres, de Gustave Moreau à Odilon Redon, ont puisé dans les mythes, l'occultisme et la théosophie.
+texte: Le mot s'impose en 1886, quand le poète Jean Moréas publie dans *Le Figaro* un « Manifeste du symbolisme » qui veut « vêtir l'Idée d'une forme sensible ». Les écrivains se réclament de [[charles-baudelaire|Baudelaire]] et de ses [[correspondances]], de Mallarmé et de Verlaine ; les peintres ont déjà leurs maîtres, [[gustave-moreau|Gustave Moreau]], Puvis de Chavannes, [[odilon-redon|Odilon Redon]], que *[[a-rebours|À rebours]]* de Huysmans a révélés en 1884. Le mouvement est européen : Arnold Böcklin en Suisse et en Allemagne, Fernand Khnopff et [[jean-delville|Jean Delville]] en Belgique, les [[preraphaelites|préraphaélites]] en Angleterre, Gustav Klimt à Vienne.
+texte: Ses thèmes reviennent sans cesse : [[salome|Salomé]], [[orphee|Orphée]], le [[sphinx]], la Chimère, l'androgyne, la femme fatale, l'[[l-ile-des-morts|île des morts]]. Beaucoup de ses artistes fréquentent l'occultisme : [[josephin-peladan|Péladan]] organise de 1892 à 1897 les [[salons-de-la-rose-croix|Salons de la Rose-Croix]], Delville passe à la théosophie, les [[les-nabis|nabis]] lisent [[edouard-schure|Schuré]]. Le symbolisme a préparé l'art abstrait, dont plusieurs pionniers venaient de la [[abstraction-et-theosophie|théosophie]], et le [[surrealisme|surréalisme]].
+voir: gustave-moreau, odilon-redon, jean-delville, salons-de-la-rose-croix, josephin-peladan, preraphaelites, les-nabis, a-rebours, axel, correspondances
+
+@ salons-de-la-rose-croix
+cat: peinture
+nom: Salons de la Rose-Croix
+alias: Salon de la Rose + Croix, Ordre de la Rose-Croix catholique et esthétique du Temple et du Graal, Rose-Croix esthétique, Sâr Péladan, Erik Satie
+dates: 1892 – 1897
+an: 1892
+def: Six expositions d'art idéaliste organisées à Paris de 1892 à 1897 par Joséphin Péladan, au nom de son Ordre de la Rose-Croix catholique et esthétique du Temple et du Graal, pour « ruiner le réalisme » et rendre à l'art sa mission sacrée.
+texte: En 1891, [[josephin-peladan|Joséphin Péladan]], qui se fait appeler le Sâr, rompt avec l'[[ordre-kabbalistique-de-la-rose-croix|Ordre kabbalistique de la Rose-Croix]] de [[stanislas-de-guaita|Guaita]] et de [[papus|Papus]] et fonde sa propre Rose-Croix, catholique et esthétique. Le premier Salon ouvre en mars 1892, à la galerie Durand-Ruel, au son des *Sonneries de la Rose-Croix* composées par Erik Satie, sous une affiche de Carlos Schwabe. Son règlement proscrit la peinture d'histoire, les scènes militaires, les paysages, les natures mortes et les portraits ordinaires, et accueille « le Mythe, l'Allégorie, le Rêve », la légende catholique et l'Orient. Les femmes n'y sont pas admises comme exposantes.
+texte: Fernand Khnopff, Jan Toorop, Ferdinand Hodler, Alexandre Séon, Armand Point, Charles Filiger, [[jean-delville|Jean Delville]] et des dizaines d'autres y exposent, tandis que les grands noms, Moreau et Puvis de Chavannes, déclinent l'invitation. Le sixième et dernier Salon se tient en 1897. Raillés par la presse, les Salons ont pourtant été le principal rendez-vous européen de l'art idéaliste et de l'ésotérisme fin de siècle ; Delville en prolonge l'esprit à Bruxelles avec ses Salons d'Art idéaliste.
+voir: josephin-peladan, rose-croix, symbolisme, jean-delville, stanislas-de-guaita, ordre-kabbalistique-de-la-rose-croix, graal
+
+@ preraphaelites
+cat: peinture
+nom: Préraphaélites
+alias: confrérie préraphaélite, Pre-Raphaelite Brotherhood, préraphaélisme, Rossetti, Burne-Jones, Waterhouse, Millais, Hunt
+dates: 1848 – fin du XIXe siècle
+an: 1848
+def: Confrérie de peintres anglais fondée en 1848 qui voulait retrouver la sincérité de l'art d'avant Raphaël ; leurs héritiers ont peuplé la peinture victorienne de Béatrice, de Lilith, du Graal, de magiciennes et de cercles magiques.
+texte: En 1848, trois jeunes élèves de la Royal Academy, Dante Gabriel Rossetti, William Holman Hunt et John Everett Millais, fondent la Pre-Raphaelite Brotherhood et signent leurs toiles des initiales PRB. Ils prônent l'observation minutieuse de la nature et les sujets sérieux, religieux ou littéraires, contre l'académisme. [[dante-gabriel-rossetti|Rossetti]], fils d'un exilé italien commentateur ésotérique de [[dante|Dante]], peint la *Beata Beatrix*, la *Lady Lilith* ([[lilith]]) et la *Proserpine* ; il est rejoint par Edward Burne-Jones et William Morris, qui tirent leurs sujets de la légende arthurienne et du [[graal|Graal]].
+texte: La seconde génération, avec John William Waterhouse, peint les magiciennes et les devineresses : *Le Cercle magique* (1886), où une sorcière trace un [[cercle-magique|cercle]] autour d'elle avec sa baguette, *La Boule de cristal* (1902), *Circé* ([[circe]]), *Ulysse et les Sirènes*. Le mouvement a nourri le [[symbolisme|symbolisme]] européen et l'imagerie de l'occultisme anglais, jusqu'au tarot que dessina [[pamela-colman-smith|Pamela Colman Smith]] pour un membre de la [[golden-dawn|Golden Dawn]].
+voir: dante-gabriel-rossetti, lilith, graal, cercle-magique, symbolisme, circe, pamela-colman-smith, roi-arthur
+
+@ les-nabis
+cat: peinture
+nom: Nabis
+alias: les nabis, nabi, Paul Sérusier, Maurice Denis, Paul Ranson, Pierre Bonnard, Édouard Vuillard, Le Talisman, ETPMVMP
+dates: 1888 – 1900
+an: 1888
+def: Groupe de jeunes peintres réunis à Paris à partir de 1888 autour de Paul Sérusier, qui prirent le nom hébreu de *nabi*, « prophète », et cherchèrent dans la couleur pure, l'Orient, la théosophie et l'ésotérisme les voies d'un art spirituel.
+texte: L'été 1888, à Pont-Aven, Paul Sérusier peint sous la dictée de Gauguin un petit paysage aux couleurs pures, *Le Talisman* ; de retour à Paris, il le montre à ses camarades de l'académie Julian, Maurice Denis, Pierre Bonnard, Paul Ranson, Henri-Gabriel Ibels, bientôt rejoints par Édouard Vuillard et Ker-Xavier Roussel. Ils se donnent le nom de nabis, c'est-à-dire prophètes ou inspirés, se décernent des surnoms et signent leurs lettres du sigle « ETPMVMP », « En ta paume mon verbe et ma pensée ».
+texte: Plusieurs d'entre eux cherchent dans des doctrines nouvelles une spiritualité pour l'art : Sérusier lit *[[les-grands-inities|Les Grands Initiés]]* d'[[edouard-schure|Édouard Schuré]], s'initie aux règles des proportions sacrées enseignées par les moines peintres de Beuron et les expose dans son *ABC de la peinture* ; Paul Ranson, passionné de théosophie, de spiritisme et de magie, les reçoit à partir de 1889 dans son atelier du boulevard du Montparnasse, qu'ils rebaptisent « le Temple » ; Maurice Denis formule le principe qu'un tableau, « avant d'être un cheval de bataille, une femme nue ou une quelconque anecdote, est essentiellement une surface plane recouverte de couleurs en un certain ordre assemblées ». Le groupe se disperse vers 1900.
+voir: symbolisme, edouard-schure, les-grands-inities, theosophie, salons-de-la-rose-croix
+
+@ surrealisme
+cat: peinture
+nom: Surréalisme
+alias: surréalistes, André Breton, occultation du surréalisme, Max Ernst, Victor Brauner, Kurt Seligmann, Leonora Carrington, Remedios Varo, Jeu de Marseille
+dates: 1924 – 1969
+an: 1924
+def: Mouvement fondé par André Breton en 1924, qui voulut libérer la pensée de la raison par le rêve, l'automatisme et le hasard ; il a fait de l'alchimie, du tarot et de la magie des modèles de la création poétique et picturale.
+texte: Le *Manifeste du surréalisme* de 1924 définit l'« automatisme psychique pur » ; le *Second Manifeste*, en 1929, réclame « l'occultation profonde, véritable du surréalisme » et rapproche l'entreprise surréaliste de celle des alchimistes, en citant [[nicolas-flamel|Nicolas Flamel]]. Les surréalistes vénèrent [[gerard-de-nerval|Nerval]], [[arthur-rimbaud|Rimbaud]] et l'« alchimie du verbe », [[gustave-moreau|Gustave Moreau]], dont Breton découvrit le musée à seize ans, et le *[[le-jardin-des-delices|Jardin des délices]]* de Bosch.
+texte: À Marseille, en 1941, en attendant les bateaux pour l'Amérique, Breton et ses amis dessinent un jeu de cartes, le *Jeu de Marseille*, qui remplace les rois et les dames par Paracelse, Novalis, Freud ou Lautréamont. Victor Brauner peint des talismans, Kurt Seligmann publie à New York en 1948 une histoire illustrée de la magie, *Le Miroir de la magie*, Leonora Carrington et Remedios Varo, exilées au Mexique, peignent des alchimistes et des sorcières. Breton place en 1944 son *[[arcane-17|Arcane 17]]* sous le signe de l'[[arcane-etoile|Étoile]] du tarot, et l'exposition internationale de 1947 est organisée comme un parcours d'initiation.
+voir: arcane-17, symbolisme, nicolas-flamel, arthur-rimbaud, gerard-de-nerval, tarot, marcel-duchamp, le-jardin-des-delices
+
+@ abstraction-et-theosophie
+cat: peinture
+nom: Abstraction et théosophie
+alias: art abstrait et théosophie, peinture abstraite, Hilma af Klint, Kandinsky, Mondrian, Kupka, Formes-pensées, néoplasticisme
+dates: 1906 – 1920
+an: 1906
+def: Les pionniers de la peinture abstraite, Hilma af Klint, Kandinsky, Mondrian, Kupka, venaient de la théosophie ou du spiritisme : ils cherchaient à peindre l'invisible, les forces et les « formes-pensées » plutôt que les apparences.
+texte: En 1901, [[annie-besant|Annie Besant]] et [[charles-webster-leadbeater|Charles Leadbeater]] publient *[[formes-pensees|Formes-pensées]]*, où des planches en couleurs montrent les formes que prendraient dans l'invisible les pensées, les émotions et la musique. En Suède, [[hilma-af-klint|Hilma af Klint]], qui pratique la médiumnité avec quatre amies depuis 1896, reçoit des « messages » qui la conduisent à peindre, dès 1906, ses premières toiles abstraites, des années avant ses contemporains.
+texte: [[wassily-kandinsky|Kandinsky]], lecteur de [[helena-blavatsky|Blavatsky]] et de [[rudolf-steiner|Steiner]], publie fin 1911 *Du spirituel dans l'art* ; [[piet-mondrian|Mondrian]] entre en 1909 à la Société théosophique néerlandaise et passe, par le triptyque *Évolution*, aux grilles du néoplasticisme ; le Tchèque František Kupka, ancien médium, peint des disques de couleurs et des rythmes cosmiques. Les historiens de l'art ont longtemps minimisé ces sources, que des expositions ont remises en lumière depuis les années 1980.
+voir: hilma-af-klint, wassily-kandinsky, piet-mondrian, formes-pensees, theosophie, annie-besant, charles-webster-leadbeater, anthroposophie, nicolas-roerich
+
+@ vanites
+cat: peinture
+nom: Vanités
+alias: vanité, vanitas, memento mori, nature morte, crâne, sablier, Philippe de Champaigne, Steenwijck
+dates: XVIe – XVIIe siècle
+an: 1600
+def: Natures mortes du XVIIe siècle, nées aux Pays-Bas, où le crâne, le sablier, la bougie éteinte et les fleurs fanées rappellent, selon le mot de l'Ecclésiaste, que « tout est vanité ».
+texte: Le genre tire son nom du début de l'Ecclésiaste, « vanité des vanités », dans la Vulgate *vanitas vanitatum*. Il se développe vers 1620 à Leyde, ville universitaire calviniste, puis dans toute l'Europe : livres et instruments de savoir, bijoux et pièces d'or, coquillages, montres, instruments de musique, pipes et verres renversés y voisinent avec le crâne, image de la mort, la bougie qui fume, le sablier, la bulle de savon. Harmen Steenwijck, Pieter Claesz, Philippe de Champaigne, qui ne peint qu'une tulipe, un crâne et un sablier, en sont les maîtres.
+texte: Le genre prolonge le *memento mori* médiéval, les danses macabres et le crâne déformé des *[[les-ambassadeurs|Ambassadeurs]]* de Holbein ; la philosophie de la vanité est celle des moralistes chrétiens et de Pascal. L'ésotérisme y a lu une méditation sur la mort initiatique : le crâne posé sur les livres est aussi celui du [[cabinet-de-reflexion|cabinet de réflexion]] maçonnique, avec le sablier, et l'alchimie connaît la tête de mort du noircissement, la [[nigredo]].
+extrait: Vanité des vanités, dit l’Ecclésiaste, vanité des vanités, tout est vanité. Quel avantage revient-il à l’homme de toute la peine qu’il se donne sous le soleil ? Une génération s’en va, une autre vient, et la terre subsiste toujours. Le soleil se lève, le soleil se couche ; il soupire après le lieu d’où il se lève de nouveau. Le vent se dirige vers le midi, tourne vers le nord ; puis il tourne encore, et reprend les mêmes circuits. Tous les fleuves vont à la mer, et la mer n’est point remplie ; ils continuent à aller vers le lieu où ils se dirigent. Toutes choses sont en travail au delà de ce qu’on peut dire ; l’oeil ne se rassasie pas de voir, et l’oreille ne se lasse pas d’entendre. Ce qui a été, c’est ce qui sera, et ce qui s’est fait, c’est ce qui se fera, il n’y a rien de nouveau sous le soleil.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Ecclésiaste, chap. I, versets 2-9 | ws Bible Segond 1910/Ecclésiaste
+voir: les-ambassadeurs, cabinet-de-reflexion, nigredo, melencolia, salomon
+
+@ le-jardin-des-delices
+cat: peinture
+nom: Le Jardin des délices
+alias: Jardin des délices, triptyque du Jardin des délices, Hieronymus Bosch, Adamites, Wilhelm Fraenger, enfer musical
+dates: vers 1490 – 1510
+an: 1500
+def: Triptyque de Jérôme Bosch, peint vers 1490-1510 et conservé au musée du Prado, qui montre le Paradis, un immense jardin de plaisirs et l'Enfer ; on y a lu un sermon contre la luxure, l'évangile d'une secte, ou le Grand Œuvre des alchimistes.
+texte: Fermé, le triptyque montre en grisaille la création du monde, une sphère transparente sous le regard de Dieu. Ouvert, il déploie à gauche le [[jardin-d-eden|Paradis]], où Dieu présente Ève à Adam près d'une fontaine de vie rose ; au centre, une foule d'hommes et de femmes nus jouent, s'unissent, chevauchent des bêtes, s'enferment dans des bulles et des coquilles, mangent des fraises et des cerises géantes ; à droite, un enfer nocturne où les instruments de musique deviennent des instruments de supplice, sous le regard de l'« homme-arbre ». Acquis par Philippe II, il est resté trois siècles et demi à l'Escurial avant d'entrer au Prado en 1939.
+texte: Aucune œuvre n'a reçu autant de lectures. La plupart des historiens y voient une mise en garde contre les plaisirs de la chair, dans un monde sans Dieu après le péché. En 1947, Wilhelm Fraenger y lut le manifeste secret d'une secte hérétique, les Adamites ou Frères du Libre-Esprit, dont [[jerome-bosch|Bosch]] aurait fait partie ; d'autres ont reconnu dans les sphères de verre, les tubes et les fruits les cornues, les alambics et les couleurs du [[grand-oeuvre|Grand Œuvre]] alchimique. Les [[surrealisme|surréalistes]] l'ont tenu pour un précurseur du rêve.
+voir: jerome-bosch, jardin-d-eden, grand-oeuvre, surrealisme, la-tentation-de-saint-antoine, alchimie
+
+@ l-agneau-mystique
+cat: peinture
+nom: L'Agneau mystique
+alias: Agneau mystique, retable de Gand, Adoration de l'Agneau mystique, Het Lam Gods, Juges intègres, Van Eyck, cathédrale Saint-Bavon
+dates: 1432
+an: 1432
+def: Polyptyque des frères Hubert et Jan van Eyck, achevé en 1432 pour l'église Saint-Jean de Gand, aujourd'hui cathédrale Saint-Bavon, autour de l'adoration de l'Agneau de l'Apocalypse ; l'un de ses panneaux, volé en 1934, n'a jamais été retrouvé.
+texte: Commandé par un riche bourgeois, Joost Vijdt, le retable fut commencé par Hubert van Eyck et achevé par son frère Jan, qui le plaça sur l'autel le 6 mai 1432, comme le dit un chronogramme de l'inscription. Ouvert, il montre en haut Dieu en majesté entre la Vierge et [[jean-baptiste|saint Jean-Baptiste]], Adam et Ève nus, des anges musiciens ; en bas, dans une prairie fleurie, les saints, les prophètes, les martyrs et les vierges convergent vers l'Agneau qui saigne dans un calice, sur un autel devant lequel jaillit la fontaine de vie : la vision de l'[[apocalypse|Apocalypse]] où la foule innombrable adore l'Agneau. Les juges et les chevaliers du Christ s'avancent sur les volets.
+texte: Le retable a connu un destin de roman : emporté au Louvre par les armées de la Révolution en 1794, démembré, ses volets vendus au roi de Prusse, saisi par les nazis en 1942 et retrouvé en 1945 dans une mine de sel autrichienne. En 1934, le panneau des *Juges intègres* est volé ; le suspect, Arsène Goedertier, meurt la même année en disant être seul à connaître la cachette. Le panneau a été remplacé par une copie de Jef Vanderveken, et l'énigme a nourri des chasses au trésor et des théories qui y voient un message secret, jusque dans *La Chute* de Camus.
+voir: apocalypse, jean-baptiste, jardin-d-eden, graal, jerusalem-celeste
+
+@ apocalypse-de-durer
+cat: peinture
+nom: Apocalypse de Dürer
+alias: Apocalypsis cum figuris, Apocalypse, quinze gravures sur bois, Les Quatre Cavaliers, saint Michel terrassant le dragon
+dates: 1498
+an: 1498
+def: Suite de quinze grandes gravures sur bois publiée par Albrecht Dürer à Nuremberg en 1498, qui illustre l'Apocalypse de Jean avec une puissance sans précédent : les Quatre Cavaliers, saint Michel et le dragon, la Femme revêtue du soleil.
+texte: [[albrecht-durer|Dürer]], qui n'a pas trente ans, publie lui-même, en latin et en allemand, ce livre où l'image occupe tout le recto et le texte le verso. On y voit le martyre de Jean dans l'huile bouillante, la vision des sept chandeliers, le trône de Dieu, les [[quatre-cavaliers|quatre cavaliers]] qui fauchent les hommes, l'ouverture du cinquième et du sixième sceau, les anges qui retiennent les vents, la [[femme-revetue-du-soleil|femme revêtue du soleil]], [[saint-michel|saint Michel]] terrassant le dragon, la Bête et la grande prostituée de Babylone, et enfin l'ange qui enchaîne Satan avec la Jérusalem nouvelle à l'horizon.
+texte: L'ouvrage paraît à la veille de l'an 1500, quand l'attente de la fin des temps hante l'Europe, et il a fixé pour des siècles l'image de l'[[apocalypse|Apocalypse]]. Il a fait la réputation européenne de son auteur, qui gravera plus tard la *[[melencolia|Melencolia I]]*.
+voir: albrecht-durer, apocalypse, quatre-cavaliers, femme-revetue-du-soleil, saint-michel, melencolia, tenture-de-l-apocalypse
+
+@ tenture-de-l-apocalypse
+cat: peinture
+nom: Tenture de l'Apocalypse
+alias: Apocalypse d'Angers, tapisseries de l'Apocalypse, Nicolas Bataille, Hennequin de Bruges, château d'Angers, Louis Ier d'Anjou
+lieu: château d'Angers, Maine-et-Loire, Pays de la Loire, France
+geo: 47.4700, -0.5600
+dates: vers 1373 – 1382
+an: 1377
+def: Immense tapisserie tissée à la fin du XIVe siècle pour le duc Louis Ier d'Anjou, qui illustrait l'Apocalypse en six pièces de quatorze tableaux sur près de cent quarante mètres ; il en reste une centaine, exposée au château d'Angers.
+texte: Le duc Louis Ier d'Anjou, frère du roi Charles V, la commande entre 1373 et 1377 au marchand tapissier parisien Nicolas Bataille ; les cartons sont du peintre du roi, Hennequin de Bruges, qui s'inspire de manuscrits de l'[[apocalypse|Apocalypse]], dont un exemplaire prêté par Charles V. Achevée vers 1380-1382, elle mesurait environ six mètres de haut sur cent quarante de long. Chaque pièce s'ouvre sur un grand personnage assis sous un dais, qui lit le livre, puis se déploie en scènes sur fond alternativement rouge et bleu : les [[quatre-cavaliers|cavaliers]], la [[femme-revetue-du-soleil|femme et le dragon]], la Bête, la [[jerusalem-celeste|Jérusalem céleste]].
+texte: Léguée à la cathédrale d'Angers, elle fut découpée et vendue après la Révolution, utilisée pour protéger des orangers ou boucher des trous, avant d'être rachetée et restaurée au XIXe siècle. C'est le plus grand ensemble de tapisseries médiévales conservé, et l'un des chefs-d'œuvre de l'art gothique.
+voir: apocalypse, quatre-cavaliers, femme-revetue-du-soleil, jerusalem-celeste, apocalypse-de-durer, art-gothique
+
+@ le-printemps
+cat: peinture
+nom: Le Printemps
+alias: Primavera, Printemps de Botticelli, allégorie du Printemps, Trois Grâces de Botticelli, Mercure et les nuages
+dates: vers 1480
+an: 1480
+def: Tableau de Botticelli, peint vers 1480 pour les Médicis et conservé aux Offices, où Vénus règne sur un jardin d'orangers parmi les Grâces, Flore, Zéphyr et Mercure ; on l'a lu comme une allégorie de l'amour néoplatonicien de Ficin.
+texte: De droite à gauche, Zéphyr, vent du printemps, saisit la nymphe Chloris, qui se change en Flore, couronnée de fleurs ; au centre, Vénus, sous un Cupidon qui tire à l'aveugle ; à gauche, les [[trois-graces|trois Grâces]] dansent en se tenant les mains, et Mercure, de son caducée, chasse les nuages. Le tableau ornait en 1499 le palais florentin de Lorenzo di Pierfrancesco de' Médicis, l'élève de [[marsile-ficin|Marsile Ficin]].
+texte: Les historiens de l'art y ont cherché les doctrines de l'Académie platonicienne de Florence : Vénus serait la *Venus Humanitas* que Ficin proposait au jeune Médicis, les Grâces les trois moments de l'amour, Edgar Wind les nommant Volupté, Chasteté et Beauté, Mercure le guide qui élève l'âme au-delà des nuages ([[neoplatonisme|néoplatonisme]]). D'autres y voient simplement une fête du mariage et du printemps. La *Naissance de Vénus*, du même [[sandro-botticelli|Botticelli]], a reçu des lectures semblables.
+voir: sandro-botticelli, trois-graces, marsile-ficin, neoplatonisme, l-amour-sacre-et-l-amour-profane, hermes-trismegiste
+
+@ l-amour-sacre-et-l-amour-profane
+cat: peinture
+nom: L'Amour sacré et l'Amour profane
+alias: Amour sacré et Amour profane, Amor sacro e Amor profano, Titien, deux Vénus, Vénus céleste, Vénus terrestre
+dates: vers 1514
+an: 1514
+def: Tableau de Titien, peint vers 1514 et conservé à la galerie Borghèse, où deux femmes, l'une vêtue et l'autre nue, encadrent une fontaine-sarcophage ; Panofsky y a reconnu les deux Vénus du néoplatonisme, la terrestre et la céleste.
+texte: L'œuvre fut sans doute commandée par Niccolò Aurelio, secrétaire du Conseil des Dix de Venise, dont les armes figurent sur le sarcophage, pour son mariage avec Laura Bagarotto. Une jeune femme richement vêtue, couronnée de myrte, est assise au bord d'une vasque de marbre ; une autre, presque nue, tient une lampe allumée ; entre elles, un petit Amour plonge la main dans l'eau. 
+texte: Erwin Panofsky y a lu la doctrine de [[marsile-ficin|Marsile Ficin]], d'après le *Banquet* de [[platon|Platon]] : la Vénus vêtue est la Vénus terrestre, qui engendre la beauté dans le monde visible, la Vénus nue la Vénus céleste, qui contemple la beauté divine, la nudité étant celle de la vérité. D'autres historiens n'y voient qu'une allégorie nuptiale. Le tableau compte parmi les grandes énigmes de la Renaissance vénitienne, avec les *[[les-trois-philosophes|Trois Philosophes]]* de Giorgione.
+voir: marsile-ficin, neoplatonisme, platon, le-printemps, les-trois-philosophes, androgyne
+
+@ les-trois-philosophes
+cat: peinture
+nom: Les Trois Philosophes
+alias: Trois Philosophes, Giorgione, les trois Mages, la caverne, Kunsthistorisches Museum
+dates: vers 1509
+an: 1509
+def: Tableau de Giorgione, achevé vers 1509 et conservé à Vienne, où un vieillard, un homme au turban et un jeune homme, devant une caverne, tiennent des instruments de savoir ; on y a vu les trois Mages, trois âges de la philosophie ou l'allégorie de la caverne.
+texte: Le titre vient du Vénitien Marcantonio Michiel, qui vit le tableau quelques années après sa création chez un collectionneur et le décrit comme « trois philosophes dans un paysage ». Un vieillard barbu tient une feuille couverte de signes astronomiques, un homme d'âge mûr coiffé d'un turban se tient debout, un jeune homme assis, un compas et une équerre à la main, regarde l'ouverture sombre d'une grotte.
+texte: Les lectures se sont multipliées : les trois [[rois-mages|mages]] attendant l'étoile, les trois âges de l'homme, trois philosophies — l'ancienne avec Aristote, l'arabe avec Averroès, la nouvelle science de la Renaissance —, ou la méditation sur l'[[allegorie-de-la-caverne|allégorie de la caverne]] de Platon. Le tableau est l'une des grandes énigmes de la peinture vénitienne.
+voir: allegorie-de-la-caverne, rois-mages, l-amour-sacre-et-l-amour-profane, l-ecole-d-athenes, astrologie
+
+@ les-ambassadeurs
+cat: peinture
+nom: Les Ambassadeurs
+alias: Ambassadeurs, Hans Holbein, crâne anamorphique, anamorphose, Jean de Dinteville, Georges de Selve, memento mori
+dates: 1533
+an: 1533
+def: Double portrait peint par Hans Holbein le Jeune à Londres en 1533, aujourd'hui à la National Gallery : deux diplomates français entourés d'instruments de science, au pied desquels flotte un crâne déformé qu'on ne voit qu'en se plaçant de biais.
+texte: Jean de Dinteville, ambassadeur de François Ier auprès d'Henri VIII, et son ami Georges de Selve, évêque de Lavaur, posent de part et d'autre d'un meuble à deux étages : en haut, un globe céleste, des cadrans solaires, un torquetum et d'autres instruments d'astronomie ; en bas, un globe terrestre, un livre d'arithmétique, un luth dont une corde est cassée et un livre de cantiques luthériens, images de la discorde qui déchire alors l'Europe. Au sol, une forme oblongue se change, vue de côté, en tête de mort : c'est l'une des plus célèbres anamorphoses de la peinture.
+texte: Le crâne, avec un petit crucifix à demi caché par le rideau, en haut à gauche, fait du tableau un *memento mori* qui rappelle la vanité des savoirs et des honneurs ([[vanites]]). L'historien des sciences John North a soutenu que les instruments indiquaient l'après-midi du Vendredi saint de 1533 et cachaient une méditation astrologique et religieuse ; Jurgis Baltrušaitis a consacré à l'anamorphose un livre célèbre. Le tableau est devenu une énigme favorite des amateurs de [[cryptographie|codes]] cachés dans les œuvres.
+voir: vanites, cryptographie, astrologie, les-trois-philosophes, melencolia
+
+@ faust-dans-son-cabinet
+cat: peinture
+nom: Faust dans son cabinet
+alias: Faust de Rembrandt, le docteur Faustus, disque magique, INRI, eau-forte de Rembrandt, Un savant dans son cabinet
+dates: vers 1652
+an: 1652
+def: Eau-forte de Rembrandt, vers 1652, où un savant debout devant sa fenêtre voit apparaître un disque lumineux couvert de lettres, avec INRI en son centre, que tend une main sortie de l'ombre ; elle porte depuis le XVIIIe siècle le titre de *Faust*.
+texte: Dans un cabinet encombré de livres et d'un globe, un homme en bonnet et robe de chambre s'est levé de sa table ; devant la fenêtre, un disque rayonnant porte au centre les lettres INRI, l'inscription de la croix, et autour d'elles des mots énigmatiques que l'on a lus comme une anagramme ou une formule magique. Une main à demi visible semble montrer un miroir au savant. Le titre de *Faust* lui fut donné par les catalogues du XVIIIe siècle et l'image servit de frontispice au *Faust, ein Fragment* de Goethe en 1790.
+texte: On y a reconnu tour à tour le docteur [[faust|Faust]] évoquant un esprit, un alchimiste, un savant juif ou un kabbaliste chrétien contemplant un talisman, un rose-croix ; l'inscription a été rapprochée des cercles et des [[pentacle|pentacles]] des grimoires et des amulettes de la [[kabbale]]. L'eau-forte reste l'image même du savant face à l'apparition de l'invisible.
+voir: faust, kabbale, pentacle, johann-wolfgang-von-goethe, rose-croix
+
+@ le-cauchemar
+cat: peinture
+nom: Le Cauchemar
+alias: The Nightmare, Füssli, Johann Heinrich Füssli, Henry Fuseli, incube, la jument de la nuit
+dates: 1781
+an: 1781
+def: Tableau de Johann Heinrich Füssli exposé à Londres en 1781 : une femme endormie, renversée sur son lit, porte sur sa poitrine un démon accroupi, tandis qu'une tête de jument aux yeux vides surgit des rideaux.
+texte: Le Suisse Johann Heinrich Füssli, installé à Londres, peint l'œuvre qui fait sa gloire et dont il donnera plusieurs versions ; la première est à Détroit. Le titre joue sur le mot anglais *nightmare*, où *mare* désigne à la fois la jument et le démon qui oppresse les dormeurs, l'[[incube-et-succube|incube]] des démonologues. Les gravures la répandent dans toute l'Europe, et la satire politique la parodie.
+texte: L'image a nourri le [[roman-gothique|roman gothique]] : Mary Shelley, dont les parents connaissaient Füssli, s'en souvient dans la scène de *[[frankenstein|Frankenstein]]* où la créature tue Élisabeth. Freud en gardait une gravure dans son appartement de Vienne, et Ernest Jones la mit en frontispice de son livre *Le Cauchemar* (1931). Elle reste la grande image de la paralysie du sommeil et des visiteurs nocturnes.
+voir: incube-et-succube, demonologie, frankenstein, roman-gothique, oniromancie
+
+@ le-sabbat-des-sorcieres
+cat: peinture
+nom: Le Sabbat des sorcières
+alias: El aquelarre, Goya, le Grand Bouc, Aquelarre, peintures noires, Caprices
+dates: 1798
+an: 1798
+def: Tableau de Goya peint en 1798 pour le duc et la duchesse d'Osuna : sous un croissant de lune, un grand bouc couronné de pampres reçoit les enfants que lui offrent des sorcières ; Goya reprendra le thème dans le *Grand Bouc* de ses peintures noires.
+texte: Le tableau fait partie de six petites toiles sur la sorcellerie achetées en 1798 par les Osuna pour leur maison de campagne de l'Alameda, près de Madrid ; il est aujourd'hui au musée Lázaro Galdiano. Le bouc, le diable du [[sabbat]], tend sa patte vers un nouveau-né que présente une vieille, tandis que des enfants morts pendent à une perche et que des chauves-souris volent dans le ciel. Goya, ami des ilustrados, y moque sans doute la crédulité et le fanatisme autant qu'il en exprime l'effroi, comme dans les *Caprices* parus l'année suivante, où « le sommeil de la raison engendre des monstres ».
+texte: Entre 1819 et 1823, sur les murs de sa maison, la Quinta del Sordo, il peint à l'huile un *Grand Bouc* présidant une assemblée de sorcières hagardes, aujourd'hui au Prado. Le bouc de Goya a nourri l'imagerie du [[baphomet|Baphomet]] et du [[satanisme]], et le thème de la *[[la-reine-du-sabbat|Reine du Sabbat]]*.
+voir: sabbat, sorcellerie, baphomet, satanisme, sorciere, chasse-aux-sorcieres
+
+@ l-ile-des-morts
+cat: peinture
+nom: L'Île des morts
+alias: Île des morts, Die Toteninsel, Arnold Böcklin, Rachmaninov, cyprès, Charon
+dates: 1880 – 1886
+an: 1880
+def: Tableau d'Arnold Böcklin, peint en cinq versions entre 1880 et 1886 : une barque conduit vers un îlot rocheux planté de cyprès, percé de tombeaux, une silhouette blanche debout près d'un cercueil ; l'une des images les plus reproduites du symbolisme.
+texte: Böcklin peint la première version à Florence, en 1880, pour une jeune veuve qui voulait un « tableau pour rêver » ; il en fera quatre autres, dont l'une est à Bâle, une autre à New York, une troisième à Berlin. Le titre, *Die Toteninsel*, lui est donné en 1883 par son marchand. On a cherché le modèle de l'île dans le cimetière des Anglais de Florence, à Corfou ou à Ischia ; la barque rappelle celle de Charon, le passeur des Enfers, et le cyprès est l'arbre des morts.
+texte: L'image fut si populaire en Allemagne qu'on en trouvait une reproduction dans d'innombrables intérieurs ; Freud et Lénine en possédaient une, Rachmaninov en tira en 1909 un poème symphonique, Strindberg la fit paraître dans une pièce, et Adolf Hitler acheta en 1933 la troisième version. Le [[symbolisme]] a rarement donné une image aussi juste du passage de l'âme vers l'autre rive.
+voir: symbolisme, mythe-d-er, orphee, initiation
+
+@ l-ecole-d-athenes
+cat: peinture
+nom: L'École d'Athènes
+alias: École d'Athènes, Raphaël, chambre de la Signature, Platon et Aristote, Pythagore, Zoroastre, Héraclite
+dates: 1509 – 1511
+an: 1509
+def: Fresque de Raphaël peinte de 1509 à 1511 au Vatican, dans la chambre de la Signature, qui réunit sous une voûte antique les philosophes de la Grèce autour de Platon et d'Aristote, avec Pythagore, Euclide, Ptolémée et Zoroastre.
+texte: Au centre, [[platon|Platon]], le doigt levé vers le ciel, tient le *Timée* ; près de lui, Aristote, la main tendue vers la terre, l'*Éthique*. Autour d'eux, Socrate discute, Diogène s'étend sur les marches, [[pythagore|Pythagore]] écrit, entouré de disciples qui lui présentent une tablette des harmonies musicales ; Euclide, sous les traits de l'architecte Bramante, trace des figures au compas ; [[claude-ptolemee|Ptolémée]], couronné, tient le globe terrestre face à [[zoroastre|Zoroastre]], qui porte le globe céleste. On a reconnu Léonard de Vinci dans Platon et Michel-Ange dans Héraclite, pensif sur les marches ; Raphaël s'est peint près de Ptolémée.
+texte: Peinte pour le pape Jules II, la fresque fait face à la *Dispute du Saint-Sacrement* : la vérité découverte par la raison répond à la vérité révélée, et le programme est celui de la Renaissance qui, de [[marsile-ficin|Ficin]] à [[pic-de-la-mirandole|Pic de la Mirandole]], réconciliait les sages païens et la foi chrétienne ([[prisca-theologia|théologie antique]]). Dans la même salle, Raphaël a peint le *[[jugement-de-salomon|Jugement de Salomon]]*.
+voir: platon, pythagore, zoroastre, claude-ptolemee, prisca-theologia, marsile-ficin, pic-de-la-mirandole, jugement-de-salomon, les-trois-philosophes
+
+@ gustave-moreau
+cat: figures
+nom: Gustave Moreau
+alias: Moreau, musée Gustave-Moreau, Jupiter et Sémélé, L'Apparition, Œdipe et le Sphinx, Les Chimères, Salomé
+dates: 1826 – 1898
+an: 1826
+def: Peintre français, maître du symbolisme, qui peupla ses toiles de Salomé, d'Orphée, de chimères et de dieux couverts d'or et de pierreries ; il légua à l'État sa maison et son atelier, devenus le musée Gustave-Moreau.
+texte: Né à Paris en 1826, disciple de Chassériau, il se fait connaître au Salon de 1864 avec *Œdipe et le Sphinx* ([[oedipe]]), puis s'isole dans sa maison de la rue de La Rochefoucauld et ne montre plus que de loin en loin ses tableaux, chargés d'ornements, de bijoux et de références à toutes les mythologies. En 1876, *Salomé dansant devant Hérode* et l'aquarelle *L'Apparition* ([[salome|Salomé]]) fascinent [[joris-karl-huysmans|Huysmans]], qui les décrit dans *[[a-rebours|À rebours]]* et fait de Moreau le peintre de la décadence. Il peint *Jason*, *Orphée*, les *Chimères*, et, en 1895, *Jupiter et Sémélé*, véritable somme de sa théologie de la beauté.
+texte: Professeur à l'École des beaux-arts à partir de 1891, il forme Henri Matisse, Albert Marquet et Georges Rouault. À sa mort, en 1898, il lègue à l'État sa maison avec près de mille deux cents peintures et aquarelles et plus de dix mille dessins ; le musée ouvre en 1903, avec Rouault pour conservateur. André Breton raconta que sa découverte, à seize ans, avait « conditionné pour toujours » sa façon d'aimer.
+repere: 1826 — Naissance à Paris, le 6 avril.
+repere: 1864 — *Œdipe et le Sphinx* au Salon.
+repere: 1876 — *Salomé dansant devant Hérode* et *L'Apparition*.
+repere: 1895 — *Jupiter et Sémélé*.
+repere: 1898 — Mort à Paris, le 18 avril.
+repere: 1903 — Ouverture du musée Gustave-Moreau.
+voir: salome, symbolisme, a-rebours, oedipe, sphinx, orphee, chimere, odilon-redon, surrealisme
+
+@ odilon-redon
+cat: figures
+nom: Odilon Redon
+alias: Redon, les Noirs, Dans le rêve, À Edgar Poe, Les Origines, Le Cyclope, œil-ballon
+dates: 1840 – 1916
+an: 1840
+def: Peintre et lithographe français dont les « noirs », fusains et lithographies peuplés d'yeux, de têtes coupées et de monstres, ont fait le peintre du rêve et de l'invisible ; il illustra Flaubert et Edgar Poe.
+texte: Né à Bordeaux en 1840, Redon apprend la gravure auprès de Rodolphe Bresdin et l'observation de la nature auprès d'un botaniste, Armand Clavaud, qui lui fait découvrir les êtres microscopiques et la pensée indienne. Il travaille longtemps en noir, au fusain et à la lithographie : *Dans le rêve* (1879), *À Edgar Poe* (1882), où un œil, comme un ballon, se dirige vers l'infini, *Les Origines* (1883), *Hommage à Goya* (1885) ; une araignée y sourit, une tête de martyr repose sur une coupe. [[joris-karl-huysmans|Huysmans]] le révèle en 1884 dans *[[a-rebours|À rebours]]*.
+texte: Il consacre trois albums de lithographies à *[[la-tentation-de-saint-antoine|La Tentation de saint Antoine]]* de [[gustave-flaubert|Flaubert]] (1888, 1889, 1896), puis, après 1900, passe à la couleur, au pastel et à l'huile : bouquets, bouddhas, Orphée, Pégase, Cyclope. Proche des poètes [[symbolisme|symbolistes]] et des [[les-nabis|nabis]], il disait mettre « la logique du visible au service de l'invisible ». Il meurt à Paris en 1916.
+repere: 1840 — Naissance à Bordeaux, le 20 avril.
+repere: 1879 — Premier album de lithographies, *Dans le rêve*.
+repere: 1884 — Huysmans le révèle dans *À rebours*.
+repere: 1888 — Premier album pour *La Tentation de saint Antoine*.
+repere: 1916 — Mort à Paris, le 6 juillet.
+extrait: Ceux-là étaient signés : Odilon Redon. ¶ Ils renfermaient dans leurs baguettes de poirier brut, liséré d’or, des apparitions inconcevables : une tête d’un style mérovingien, posée sur une coupe ; un homme barbu, tenant tout à la fois, du bonze et de l’orateur de réunion publique, touchant du doigt un boulet de canon colossal ; une épouvantable araignée logeant au milieu de son corps une face humaine ; puis des fusains partaient plus loin encore dans l’effroi du rêve tourmenté par la congestion. Ici c’était un énorme dé à jouer où clignait une paupière triste ; là des paysages, secs, arides, des plaines calcinées, des mouvements de sol, des soulèvements volcaniques accrochant des nuées en révolte, des ciels stagnants et livides ; (…) Pris d’un indéfinissable malaise, devant ces dessins, comme devant certains Proverbes de Goya qu’ils rappelaient ; comme au sortir aussi d’une lecture d’Edgar Poe dont Odilon Redon semblait avoir transposé, dans un art différent, les mirages d’hallucination et les effets de peur
+source: Joris-Karl Huysmans, *À rebours*, 1884, chap. V, G. Crès, 1922 | ws À rebours/Chapitre V
+voir: symbolisme, a-rebours, la-tentation-de-saint-antoine, gustave-flaubert, gustave-moreau, les-nabis, edgar-allan-poe
+
+@ jean-delville
+cat: figures
+nom: Jean Delville
+alias: Delville, L'École de Platon, Salons d'Art idéaliste, Pour l'Art, L'Amour des âmes, Les Trésors de Satan, La Mission de l'art
+dates: 1867 – 1953
+an: 1867
+def: Peintre, poète et théoricien belge, disciple de Péladan puis théosophe convaincu, auteur de *L'École de Platon* (1898) et fondateur à Bruxelles des Salons d'Art idéaliste.
+texte: Né à Louvain en 1867, il expose de 1892 à 1895 aux [[salons-de-la-rose-croix|Salons de la Rose-Croix]] de [[josephin-peladan|Péladan]] et fonde à Bruxelles le cercle Pour l'Art, puis, en 1896, ses propres Salons d'Art idéaliste. Nourri d'[[eliphas-levi|Éliphas Lévi]], de [[edouard-schure|Schuré]] et de [[saint-yves-d-alveydre|Saint-Yves d'Alveydre]], il rompt avec Péladan et adhère à la [[theosophie|Société théosophique]] ; il expose ses idées dans *La Mission de l'art* (1900) et peint *L'Amour des âmes*, *Les Trésors de Satan*, *Orphée mort*.
+texte: *L'École de Platon* (1898), aujourd'hui au musée d'Orsay, montre un Platon aux traits christiques enseignant à douze disciples aux corps androgynes, dans un jardin de lumière : un manifeste de l'idéalisme ésotérique, où la philosophie antique ([[platon]]) et le Christ se confondent. Delville reste théosophe jusqu'à sa mort, à Bruxelles, en 1953.
+repere: 1867 — Naissance à Louvain, le 19 janvier.
+repere: 1892 — Expose au premier Salon de la Rose-Croix.
+repere: 1896 — Fonde les Salons d'Art idéaliste.
+repere: 1898 — *L'École de Platon*.
+repere: 1953 — Mort à Bruxelles, le 19 janvier.
+voir: salons-de-la-rose-croix, josephin-peladan, theosophie, symbolisme, platon, androgyne, edouard-schure
+
+@ hilma-af-klint
+cat: figures
+nom: Hilma af Klint
+alias: af Klint, Les Cinq, De Fem, Peintures pour le Temple, Les Dix Plus Grands, société Edelweiss
+dates: 1862 – 1944
+an: 1862
+def: Peintre suédoise, médium et théosophe, qui peignit dès 1906 des toiles abstraites dictées, selon elle, par des esprits supérieurs, et voulut qu'on ne les montre que vingt ans après sa mort ; on la tient aujourd'hui pour l'une des pionnières de l'abstraction.
+texte: Formée à l'Académie royale de Stockholm, peintre de paysages et de botanique, elle s'intéresse au spiritisme et à la théosophie et forme en 1896 avec quatre amies un groupe, « Les Cinq », qui tient des séances et reçoit des messages des « Maîtres supérieurs ». En 1906, elle reçoit la commande de peindre des « Peintures pour le Temple » : cent onze toiles, réalisées jusqu'en 1915, où spirales, cercles, lettres et couleurs symboliques décrivent l'évolution spirituelle et l'union des contraires. *Les Dix Plus Grands* (1907), de plus de trois mètres de haut, racontent les âges de la vie.
+texte: Elle rencontre [[rudolf-steiner|Rudolf Steiner]] en 1908, qui reste réservé devant son œuvre, et adhère plus tard à l'[[anthroposophie]]. Convaincue que son temps n'était pas prêt, elle demanda que ses tableaux restent cachés vingt ans après sa mort, survenue en 1944. Révélée au public dans les années 1980, elle a bouleversé l'histoire de l'art abstrait ([[abstraction-et-theosophie|abstraction et théosophie]]).
+repere: 1862 — Naissance à Solna, près de Stockholm, le 26 octobre.
+repere: 1896 — Fonde avec quatre amies le groupe des Cinq.
+repere: 1906 — Premières toiles abstraites, pour le Temple.
+repere: 1908 — Rencontre Rudolf Steiner.
+repere: 1944 — Mort à Djursholm, le 21 octobre.
+voir: abstraction-et-theosophie, theosophie, anthroposophie, rudolf-steiner, spiritisme, wassily-kandinsky, piet-mondrian
+
+@ wassily-kandinsky
+cat: figures
+nom: Wassily Kandinsky
+alias: Kandinsky, Vassily Kandinsky, Du spirituel dans l'art, Le Cavalier bleu, Der Blaue Reiter, Point et ligne sur plan, nécessité intérieure
+dates: 1866 – 1944
+an: 1866
+def: Peintre russe, l'un des fondateurs de l'art abstrait, qui expose dans *Du spirituel dans l'art* (1911) une théorie de la couleur et de la forme comme résonance de l'âme, nourrie de théosophie.
+texte: Né à Moscou en 1866, juriste, il renonce à une carrière universitaire pour la peinture et s'installe à Munich en 1896. Il lit [[helena-blavatsky|Blavatsky]], s'intéresse à [[rudolf-steiner|Rudolf Steiner]] et aux *[[formes-pensees|Formes-pensées]]* de Besant et Leadbeater, et cherche une peinture qui agisse sur l'âme comme la musique. *Du spirituel dans l'art*, publié à Munich fin 1911, décrit le triangle spirituel de l'humanité qui s'élève lentement, la « nécessité intérieure », la sonorité intérieure des couleurs et des formes ; Kandinsky y cite la théosophie comme l'un des signes du tournant spirituel de son époque.
+texte: Avec Franz Marc, il fonde la même année le groupe du *Blaue Reiter*, le Cavalier bleu. Professeur au Bauhaus de 1922 à 1933, il publie *Point et ligne sur plan* (1926), puis s'installe en France, à Neuilly, où il meurt en 1944. On a longtemps présenté son *Aquarelle abstraite* de 1910 comme la première œuvre abstraite, avant la redécouverte de [[hilma-af-klint|Hilma af Klint]] ([[abstraction-et-theosophie|abstraction et théosophie]]).
+repere: 1866 — Naissance à Moscou, le 16 décembre.
+repere: 1911 — *Du spirituel dans l'art* ; fondation du Blaue Reiter.
+repere: 1922 — Professeur au Bauhaus.
+repere: 1926 — *Point et ligne sur plan*.
+repere: 1944 — Mort à Neuilly-sur-Seine, le 13 décembre.
+voir: abstraction-et-theosophie, theosophie, helena-blavatsky, rudolf-steiner, formes-pensees, hilma-af-klint, piet-mondrian, correspondances
+
+@ piet-mondrian
+cat: figures
+nom: Piet Mondrian
+alias: Mondrian, Piet Mondriaan, néoplasticisme, De Stijl, Évolution, Broadway Boogie-Woogie
+dates: 1872 – 1944
+an: 1872
+def: Peintre néerlandais, théosophe, qui passa des paysages symbolistes aux grilles de lignes noires et de couleurs primaires du néoplasticisme, une peinture de l'équilibre universel.
+texte: Né à Amersfoort en 1872, il peint d'abord des paysages, des moulins et des arbres. Il s'intéresse en 1908 à la théosophie de [[helena-blavatsky|Blavatsky]] et entre en 1909 à la section néerlandaise de la [[theosophie|Société théosophique]] ; son triptyque *Évolution* (1910-1911), où trois femmes nues, les yeux fermés puis ouverts, s'entourent de triangles et d'étoiles, illustre l'éveil de la conscience selon la doctrine théosophique.
+texte: À Paris, au contact du cubisme, il simplifie l'arbre jusqu'au réseau de lignes, puis fonde en 1917 avec Theo van Doesburg la revue *De Stijl*. Le néoplasticisme, fait de verticales et d'horizontales, de rouge, de jaune, de bleu, de blanc et de noir, veut exprimer l'harmonie des contraires — l'esprit et la matière, le masculin et le féminin — que la théosophie lui avait enseignée. Il meurt à New York en 1944, après *Broadway Boogie-Woogie*.
+repere: 1872 — Naissance à Amersfoort, le 7 mars.
+repere: 1909 — Entre à la Société théosophique néerlandaise.
+repere: 1911 — Triptyque *Évolution*.
+repere: 1917 — Fonde la revue *De Stijl*.
+repere: 1944 — Mort à New York, le 1er février.
+voir: abstraction-et-theosophie, theosophie, helena-blavatsky, wassily-kandinsky, hilma-af-klint
+
+@ nicolas-roerich
+cat: figures
+nom: Nicolas Roerich
+alias: Nikolaï Rerikh, Roerich, Agni Yoga, pacte Roerich, Bannière de la paix, Shambhala, Helena Roerich
+dates: 1874 – 1947
+an: 1874
+def: Peintre, archéologue et théosophe russe, qui fonda avec sa femme Helena l'enseignement de l'Agni Yoga, peignit l'Himalaya et le royaume caché de Shambhala, et fit signer en 1935 un pacte pour la protection des œuvres d'art.
+texte: Né à Saint-Pétersbourg en 1874, Roerich est archéologue et peintre de la Russie ancienne ; il dessine les décors et les costumes du *Sacre du printemps* de Stravinsky (1913). Avec sa femme Helena, traductrice de *La Doctrine secrète* de [[helena-blavatsky|Blavatsky]], il fonde à Londres, en 1920, l'Agni Yoga, une « éthique vivante » reçue, disaient-ils, d'un Maître de la Fraternité blanche ([[maitres-de-sagesse|maîtres de sagesse]]).
+texte: De 1925 à 1928, il conduit une expédition à travers l'Asie centrale, le Tibet et la Mongolie, à la recherche de [[agartha|Shambhala]], le royaume caché d'où doit venir le Bouddha futur. Il peint des milliers de tableaux de l'Himalaya, aux bleus et aux rouges éclatants. En 1935, le pacte Roerich pour la protection des biens culturels en temps de guerre est signé à la Maison-Blanche par les États-Unis et vingt pays d'Amérique. Il meurt en 1947 dans la vallée de Kullu, en Inde.
+repere: 1874 — Naissance à Saint-Pétersbourg, le 9 octobre.
+repere: 1913 — Décors du *Sacre du printemps*.
+repere: 1920 — Fonde à Londres l'Agni Yoga avec Helena Roerich.
+repere: 1935 — Signature du pacte Roerich à Washington, le 15 avril.
+repere: 1947 — Mort à Kullu, le 13 décembre.
+voir: agartha, maitres-de-sagesse, helena-blavatsky, theosophie, abstraction-et-theosophie, alexandra-david-neel
+
+@ formes-pensees
+cat: textes
+nom: Formes-pensées
+alias: Thought-Forms, Formes-pensées, Annie Besant, Charles Leadbeater, aura, clairvoyance, couleurs des émotions
+dates: 1901
+an: 1901
+def: Livre d'Annie Besant et Charles Leadbeater, illustré de planches en couleurs, qui prétend montrer les formes et les couleurs que prennent, pour le clairvoyant, les pensées, les émotions et la musique ; l'une des sources de l'art abstrait.
+texte: En 1896, [[annie-besant|Annie Besant]] annonce dans la revue théosophique *Lucifer* que deux théosophes clairvoyants — elle-même et [[charles-webster-leadbeater|Charles Leadbeater]] — observent la « substance de la pensée ». Le livre qu'ils en tirent explique que chaque pensée crée une vibration et une forme dans la matière mentale et astrale, colorée selon sa nature : le rose de l'affection, le bleu de la dévotion, le rouge sombre de la colère, l'éclair jaune de l'intelligence. Des planches montrent l'aura d'un homme en colère, l'élan d'une prière, les formes que soulèvent la musique de Mendelssohn, de Gounod ou de Wagner.
+texte: Les historiens de l'art y voient l'une des premières images non figuratives diffusées en Europe : [[wassily-kandinsky|Kandinsky]] et [[hilma-af-klint|Hilma af Klint]] l'ont connue, et l'on y a cherché une source de la peinture abstraite ([[abstraction-et-theosophie|abstraction et théosophie]]). Le livre a aussi fixé pour longtemps la doctrine théosophique des couleurs de l'[[aura]].
+voir: annie-besant, charles-webster-leadbeater, theosophie, abstraction-et-theosophie, aura, wassily-kandinsky, hilma-af-klint
+
+@ cathedrale-de-sienne
+cat: lieux
+nom: Cathédrale de Sienne
+alias: Duomo de Sienne, Santa Maria Assunta de Sienne, pavement de Sienne, Hermès Trismégiste de Sienne, Sibylles de Sienne
+lieu: Sienne, Toscane, Italie
+geo: 43.3176, 11.3287
+def: Cathédrale gothique de Sienne, célèbre pour son pavement de marbre incrusté, dont le panneau d'entrée, en 1488, représente Hermès Trismégiste, « contemporain de Moïse », entouré de sages, et dont les bas-côtés montrent les dix Sibylles.
+texte: Le pavement, auquel une quarantaine d'artistes travaillèrent du XIVe au XVIe siècle, couvre le sol de scènes en marbres de couleur. À l'entrée de la nef, un panneau dessiné par Giovanni di Stefano en 1488 montre [[hermes-trismegiste|Hermès Trismégiste]], vieillard en robe et chapeau d'Orient, tendant un livre ouvert à un personnage coiffé à l'orientale, qu'un autre suit en s'inclinant ; on lit sur le livre « Recevez, ô Égyptiens, les lettres et les lois », l'inscription du sol le dit *contemporaneus Moysi*, contemporain de [[moise|Moïse]], et une tablette portée par des sphinx cite l'*[[asclepius|Asclépius]]* hermétique. Le panneau illustre la conviction de la Renaissance, après la traduction du *[[corpus-hermetique|Corpus Hermeticum]]* par [[marsile-ficin|Ficin]] en 1463, qu'une sagesse antique avait annoncé le christianisme ([[prisca-theologia|théologie antique]]).
+texte: Les bas-côtés montrent les dix [[sibylles]] païennes, persique, hellespontique, érythréenne, phrygienne, samienne, delphique, libyque, cimmérienne, cuméenne et tiburtine, qui passaient pour avoir prophétisé le Christ ; au centre, la Roue de la Fortune et les scènes de l'Ancien Testament, dont Moïse, par Beccafumi. Le pavement, découvert quelques semaines par an, est l'un des plus beaux témoignages de l'hermétisme chrétien de la Renaissance.
+voir: hermes-trismegiste, sibylles, prisca-theologia, marsile-ficin, corpus-hermetique, asclepius, moise, hermetisme

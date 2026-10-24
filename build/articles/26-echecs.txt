@@ -134,7 +134,7 @@ texte: Le biographe de [[william-butler-yeats|Yeats]] raconte que Mathers jouait
 voir: golden-dawn, magie-enochienne, john-dee, jeu-d-echecs, samuel-liddell-mathers
 
 @ de-l-autre-cote-du-miroir
-cat: textes
+cat: litterature
 nom: De l'autre côté du miroir
 alias: Through the Looking-Glass, Alice de l'autre côté du miroir, De l'autre côté du miroir et ce qu'Alice y trouva
 dates: 1871
@@ -154,7 +154,7 @@ dates: 1832 – 1898
 an: 1832
 def: Mathématicien et logicien d'Oxford, auteur d'*Alice au pays des merveilles* et de *De l'autre côté du miroir*, dont les jeux de logique et de miroirs ont nourri les lectures symboliques.
 texte: Charles Dodgson enseigne les mathématiques au collège de Christ Church, à Oxford ; diacre de l'Église anglicane, photographe, il invente des énigmes, des jeux de mots et des problèmes de logique. Sous le nom de Lewis Carroll, il publie en 1865 *Alice au pays des merveilles*, puis en 1871 *[[de-l-autre-cote-du-miroir|De l'autre côté du miroir]]*, construit sur une partie d'échecs.
-texte: L'un des premiers membres de la [[society-for-psychical-research|Society for Psychical Research]], fondée en 1882, il s'intéresse aux phénomènes psychiques, et une de ses lettres montre qu'il tenait pour réelle la « lecture de pensée ». Les surréalistes ont fait de lui un précurseur, et des commentateurs ont lu dans ses livres des allégories initiatiques ou kabbalistiques, des lectures qu'aucun document de l'auteur ne confirme.
+texte: L'un des premiers membres de la [[society-for-psychical-research|Society for Psychical Research]], fondée en 1882, il s'intéresse aux phénomènes psychiques, et une de ses lettres montre qu'il tenait pour réelle la « lecture de pensée ». Les [[surrealisme|surréalistes]] ont fait de lui un précurseur, et des commentateurs ont lu dans ses livres des allégories initiatiques ou kabbalistiques, des lectures qu'aucun document de l'auteur ne confirme.
 repere: 1865 — *Alice au pays des merveilles*.
 repere: 1871 — *De l'autre côté du miroir*.
 repere: 1882 — Fondation de la Society for Psychical Research, dont il est l'un des premiers membres.
@@ -172,4 +172,4 @@ texte: Dans les années 1960, le critique Arturo Schwarz a interprété le *Gran
 repere: 1911 — *Les Joueurs d'échecs*.
 repere: 1915-1923 — *Le Grand Verre*.
 repere: 1928-1933 — Il joue quatre olympiades d'échecs pour la France.
-voir: jeu-d-echecs, alchimie, noces-chymiques, rouen
+voir: jeu-d-echecs, alchimie, noces-chymiques, rouen, surrealisme

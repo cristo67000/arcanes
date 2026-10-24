@@ -66,6 +66,7 @@ const CATEGORIES = [
   { id: 'courants',   nom: 'Courants et traditions' },
   { id: 'figures',    nom: 'Figures' },
   { id: 'textes',     nom: 'Textes et livres' },
+  { id: 'apocryphes', nom: 'Apocryphes et écrits gnostiques' },
   { id: 'notions',    nom: 'Notions et doctrines' },
   { id: 'alchimie',   nom: 'Alchimie' },
   { id: 'kabbale',    nom: 'Kabbale' },
@@ -75,6 +76,9 @@ const CATEGORIES = [
   { id: 'societes',   nom: 'Ordres et sociétés' },
   { id: 'maconnerie', nom: 'Franc-maçonnerie' },
   { id: 'symboles',   nom: 'Symboles' },
+  { id: 'mythes',     nom: 'Mythes et allégories' },
+  { id: 'litterature', nom: 'Littérature' },
+  { id: 'peinture',   nom: 'Peinture et gravure' },
   { id: 'bestiaire',  nom: 'Animaux fantastiques et symboliques' },
   { id: 'egypte',     nom: 'Égyptologie' },
   { id: 'codes',      nom: 'Codes secrets' },
@@ -96,7 +100,7 @@ const PORTES = ['esoterisme', 'hermetisme', 'alchimie', 'kabbale', 'gnose', 'ros
  * nom propre. Les catégories de noms communs passent en minuscule, sauf les
  * noms propres de la liste ci-dessous (et les arcanes, qui sont des titres). */
 const CATEGORIES_COMMUNES = new Set(['courants', 'notions', 'alchimie', 'kabbale', 'astrologie', 'divination', 'magie', 'symboles', 'maconnerie',
-  'nombres', 'astronomie', 'pierres', 'echecs', 'bestiaire', 'egypte', 'codes']);
+  'nombres', 'astronomie', 'pierres', 'echecs', 'bestiaire', 'egypte', 'codes', 'mythes', 'apocryphes']);
 const NOMS_PROPRES = new Set([
   'atlantide', 'lemurie', 'agartha', 'sophia', 'shekhina', 'ein-sof', 'adam-kadmon', 'keter', 'hokhmah', 'binah',
   'daat', 'hesed', 'gueboura', 'tiferet', 'netsah', 'hod', 'yesod', 'malkhout', 'shem-ha-meforash', 'grand-oeuvre',
@@ -119,6 +123,16 @@ const NOMS_PROPRES = new Set([
   'enneade', 'ogdoade', 'livre-des-morts', 'textes-des-pyramides', 'enigma', 'codex-copiale', 'le-scarabee-d-or',
   'les-hommes-dansants', 'grand-chiffre', 'pegase', 'cerbere', 'minotaure', 'tarasque', 'leviathan', 'behemoth',
   'quinotaure', 'simurgh', 'asmodee', 'toison-d-or', 'neuf-preux', 'sacre-coeur',
+  // les héros et les livres des mythes ; les évangiles et les écrits apocryphes, qui sont des titres
+  'argonautes', 'medee', 'promethee', 'pandore', 'circe', 'ariane', 'narcisse', 'atalante', 'oedipe',
+  'thesee-et-le-minotaure', 'dedale-et-icare', 'eros-et-psyche', 'dionysos-zagreus', 'hercule-a-la-croisee-des-chemins',
+  'de-iside-et-osiride', 'de-la-sagesse-des-anciens', 'deluge',
+  'evangile-de-judas', 'evangile-de-marie', 'evangile-de-thomas', 'evangile-de-philippe', 'evangile-de-verite',
+  'evangile-de-nicodeme', 'evangile-de-pierre', 'apocryphon-de-jean', 'protevangile-de-jacques', 'hymne-de-la-perle',
+  'barbelo', 'pistis-sophia', 'livre-d-henoch',
+  // les personnages, les livres et les lieux des mythes de la Bible
+  'lilith', 'jonas', 'ophir', 'salome', 'cain-et-abel', 'jerusalem-celeste', 'tubal-cain', 'elias-artista',
+  'testament-de-salomon', 'juif-errant',
 ]);
 function enMinuscule(a) {
   return CATEGORIES_COMMUNES.has(a.cat) && !NOMS_PROPRES.has(a.id) && !a.id.startsWith('arcane-')
@@ -475,6 +489,49 @@ function lireIllustrations(ids) {
   return resultat;
 }
 
+// ── Les parcours ────────────────────────────────────────────────────────────
+
+/* build/parcours.txt : des chemins guidés d'article en article (le format est
+ * en tête du fichier). Dans le JSON : { id, n (nom), d (ce qu'il raconte),
+ * e (les étapes, dans l'ordre) }. Une étape inconnue ou en double : erreur. */
+function lireParcours(ids) {
+  const fichier = path.join(ICI, 'parcours.txt');
+  const sortie = [];
+  if (!fs.existsSync(fichier)) return sortie;
+  const lignes = fs.readFileSync(fichier, 'utf-8').replace(/\r\n?/g, '\n').split('\n');
+  let p = null;
+  let champ = null;
+  lignes.forEach((ligne, i) => {
+    const lieu = 'parcours.txt:' + (i + 1);
+    if (!ligne.trim()) { champ = null; return; }
+    if (ligne.startsWith('#')) return;
+    if (ligne.startsWith('= ')) {
+      const id = ligne.slice(2).trim();
+      if (!/^[a-z0-9][a-z0-9-]*$/.test(id)) erreur(lieu, 'identifiant de parcours invalide « ' + id + ' »');
+      if (sortie.some((x) => x.id === id)) erreur(lieu, 'parcours en double « ' + id + ' »');
+      p = { id, nom: '', def: '', etapes: '', lieu };
+      sortie.push(p);
+      champ = null;
+      return;
+    }
+    if (!p) { erreur(lieu, 'contenu avant le premier « = parcours »'); return; }
+    if (ligne.startsWith('  ') && champ) { p[champ] += ' ' + ligne.trim(); return; }
+    const m = /^(nom|def|etapes):\s?(.*)$/.exec(ligne);
+    if (!m) { erreur(lieu, 'ligne incomprise « ' + ligne.slice(0, 60) + ' »'); return; }
+    champ = m[1];
+    p[champ] = m[2].trim();
+  });
+  return sortie.map((x) => {
+    const etapes = x.etapes.split(',').map((s) => s.trim()).filter(Boolean);
+    if (!x.nom) erreur(x.lieu, 'parcours sans « nom: »');
+    if (!x.def) erreur(x.lieu, 'parcours sans « def: »');
+    if (etapes.length < 4) erreur(x.lieu, 'un parcours compte au moins quatre étapes');
+    for (const e of etapes) if (!ids.has(e)) erreur(x.lieu, 'étape inexistante « ' + e + ' »');
+    if (new Set(etapes).size !== etapes.length) erreur(x.lieu, 'étape en double dans « ' + x.id + ' »');
+    return { id: x.id, n: typographie(x.nom), d: typographie(x.def), e: etapes };
+  });
+}
+
 // ── Assemblage ──────────────────────────────────────────────────────────────
 
 function main() {
@@ -546,6 +603,7 @@ function main() {
   }
   const illustrations = lireIllustrations(ids);
   const liensExterieurs = lireLiens(ids);
+  const parcours = lireParcours(ids);
   for (const p of PORTES) if (!ids.has(p)) erreur('PORTES', 'article inexistant « ' + p + ' »');
   for (const id of NOMS_PROPRES) if (!ids.has(id)) erreur('NOMS_PROPRES', 'article inexistant « ' + id + ' »');
   for (const nomFigure of Object.keys(figures)) {
@@ -566,6 +624,7 @@ function main() {
     format: 1,
     cats: CATEGORIES,
     portes: PORTES,
+    parcours,
     articles: articles.map((a) => {
       const o = { id: a.id, c: a.cat, n: a.nom, d: typographie(a.def), t: a.textes.map(typographie) };
       if (a.al.length) o.al = a.al;
@@ -600,6 +659,7 @@ function main() {
     images: illustrations.nombre, octetsImages: illustrations.octets,
     lieux: articles.filter((a) => a.geo).length,
     extraits: articles.reduce((n, a) => n + a.extraitsLus.length, 0),
+    parcours: parcours.length,
   };
   fs.writeFileSync(path.join(RACINE, 'data', 'manifeste.json'), JSON.stringify(manifeste) + '\n', 'utf-8');
 
@@ -620,6 +680,7 @@ function main() {
       + articles.reduce((n, a) => n + a.extraitsLus.length, 0) + ' extraits dans ' + articles.filter((a) => a.extraitsLus.length).length + ' articles',
     illustrations.nombre + ' illustrations (' + Math.round(illustrations.octets / 1024) + ' Ko) dans '
       + illustrations.parArticle.size + ' articles, ' + illustrations.planches.size + ' planche(s)',
+    parcours.length + ' parcours (' + parcours.reduce((n, p) => n + p.e.length, 0) + ' étapes)',
     Buffer.byteLength(json) + ' octets de JSON',
     '',
     ...CATEGORIES.map((c) => '  ' + c.id.padEnd(11) + String(parCat[c.id] || 0).padStart(4)),

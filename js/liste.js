@@ -169,6 +169,33 @@
       el.portes.appendChild(rang);
     }
 
+    // Les parcours guidés : chacun reprend à la première étape pas encore lue
+    el.parcours.textContent = '';
+    if (!etat.cat && Dictionnaire.parcours.length) {
+      el.parcours.appendChild(element('h3', 'rubrique', 'Parcours guidés'));
+      const grille = element('div', 'parcours-cartes');
+      for (const p of Dictionnaire.parcours) {
+        const lu = (id) => !!(etat.suivis.get(id) || {}).vu;
+        const lus = p.e.filter(lu).length;
+        const reprise = p.e.find((id) => !lu(id)) || p.e[0];
+        const carte = bouton('parcours-carte', '', () => Fiche.ouvrir(reprise, { parcours: p.id }));
+        carte.setAttribute('data-parcours', p.id);
+        carte.appendChild(element('span', 'parcours-carte-nom', p.n));
+        carte.appendChild(element('span', 'parcours-carte-def', p.d));
+        const avancee = lus === p.e.length ? 'parcours achevé'
+          : (lus ? Outils.pluriel(lus, 'étape lue', 'étapes lues') + ' sur ' + p.e.length : Outils.pluriel(p.e.length, 'étape', 'étapes'));
+        carte.appendChild(element('span', 'parcours-carte-meta', avancee));
+        const barre = element('span', 'parcours-carte-barre');
+        const plein = element('span', 'parcours-carte-plein');
+        plein.style.width = Math.round((100 * lus) / p.e.length) + '%';
+        barre.appendChild(plein);
+        carte.appendChild(barre);
+        carte.setAttribute('aria-label', p.n + ', ' + avancee + (lus && lus < p.e.length ? ', reprendre' : ''));
+        grille.appendChild(carte);
+      }
+      el.parcours.appendChild(grille);
+    }
+
     let recents = [];
     try { recents = await Store.historique(); } catch (e) { recents = []; }
     if (jeton !== etat.jeton) return;
@@ -382,6 +409,7 @@
       accueil: document.getElementById('accueil'),
       duJour: document.getElementById('du-jour'),
       portes: document.getElementById('portes'),
+      parcours: document.getElementById('parcours-accueil'),
       recents: document.getElementById('recents'),
       compte: document.getElementById('compte'),
       hasard: document.getElementById('b-hasard'),

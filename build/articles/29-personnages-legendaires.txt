@@ -9,7 +9,7 @@ alias: Galahad, le Bon Chevalier, Siège périlleux, chevalier élu
 dates: personnage légendaire
 def: Le chevalier parfait des romans du Graal, fils de Lancelot, seul assez pur pour contempler les mystères du vase sacré, et qui meurt dans l'extase après les avoir vus.
 texte: Galaad apparaît dans la *Quête du saint Graal*, roman en prose écrit vers 1225 dans l'esprit des moines cisterciens. Fils de Lancelot et de la fille du Roi Pêcheur, il prend place au « Siège périlleux » de la Table ronde, où tout autre périrait, tire l'épée du perron et part en quête avec [[perceval|Perceval]] et Bohort. Au château de Corbénic, puis dans la ville de Sarras, il voit à découvert ce que le [[graal]] cache, demande à quitter le monde et meurt ; une main venue du ciel emporte le vase.
-texte: Là où Perceval apprend par ses erreurs, Galaad est l'élu dès sa naissance : il incarne la chevalerie céleste opposée à la chevalerie terrestre, la grâce plutôt que l'effort. Les poètes victoriens, comme Tennyson, et les peintres préraphaélites en ont fait l'image de l'idéal chaste ; les ésotéristes y voient le terme de la quête initiatique.
+texte: Là où Perceval apprend par ses erreurs, Galaad est l'élu dès sa naissance : il incarne la chevalerie céleste opposée à la chevalerie terrestre, la grâce plutôt que l'effort. Les poètes victoriens, comme Tennyson, et les peintres [[preraphaelites|préraphaélites]] en ont fait l'image de l'idéal chaste ; les ésotéristes y voient le terme de la quête initiatique.
 repere: vers 1225 — *La Quête du saint Graal*, en prose.
 repere: 1485 — Thomas Malory, *Le Morte d'Arthur*.
 voir: graal, perceval, joseph-d-arimathie, roi-pecheur, conte-du-graal, roi-arthur
@@ -49,7 +49,7 @@ texte: Les quatre Évangiles le présentent comme un homme riche, membre du cons
 texte: Au XIIIe siècle, les moines de [[glastonbury|Glastonbury]] le disent venu en Grande-Bretagne fonder leur abbaye ; son bâton, planté sur une colline, aurait donné l'aubépine qui fleurit à Noël. Une tradition anglaise plus tardive veut même qu'il ait amené Jésus enfant sur l'île, ce qu'évoque le poème de [[william-blake|William Blake]] devenu l'hymne *Jerusalem*.
 repere: vers 1200 — Robert de Boron, *Joseph d'Arimathie*.
 repere: XIIIe siècle — Les moines de Glastonbury revendiquent sa venue.
-voir: graal, glastonbury, galaad, longin, conte-du-graal, fecamp
+voir: graal, glastonbury, galaad, longin, conte-du-graal, fecamp, evangile-de-nicodeme
 
 @ kyot
 cat: figures
@@ -97,7 +97,7 @@ texte: Le *Roman de Mélusine*, écrit en 1393 par Jean d'Arras pour le duc Jean
 texte: La légende a servi la gloire de la maison de Lusignan, rois de Chypre et de Jérusalem. [[paracelse|Paracelse]] appelle « mélusines » les esprits des eaux, [[elementaux|élémentaux]] qui cherchent à s'unir aux hommes pour obtenir une âme ; les alchimistes l'ont représentée en sirène double, et [[carl-gustav-jung|Jung]] l'a lue comme une figure de l'anima.
 repere: 1393 — Jean d'Arras, *Roman de Mélusine*.
 repere: vers 1401 — Le roman en vers de Coudrette.
-voir: lusignan, elementaux, paracelse, serpent, dragon, vouivre, sirene
+voir: lusignan, elementaux, paracelse, serpent, dragon, vouivre, sirene, arcane-17, les-chimeres
 
 @ pretre-jean
 cat: figures
@@ -137,7 +137,7 @@ repere: 1808 — Goethe, *Faust*, première partie.
 repere: 1828 — Traduction de Gérard de Nerval.
 extrait: Philosophie, jurisprudence, médecine, et toi aussi, malheureuse théologie ! je vous ai donc étudiées avec grand'peine, et maintenant me voici, pauvre fou, tout aussi sage que devant. (…) Il ne me reste plus qu'à me jeter dans la magie. Oh ! si la force de l'esprit et de la parole me dévoilait les secrets qui me restent à connaître, et que je ne fusse plus obligé de dire péniblement ce que je ne sais pas ; si enfin je pouvais connaître tout ce que le monde cache en lui-même, et, sans m'attacher davantage à des mots inutiles, voir ce que la nature contient de forces et de semences éternelles !
 source: Goethe, *Faust*, première partie, « Nuit », trad. Gérard de Nerval, 1828 | ws Faust (Goethe, trad. Nerval, 1828)
-voir: johann-wolfgang-von-goethe, walpurgis, magie, gerard-de-nerval, demonologie, chien
+voir: johann-wolfgang-von-goethe, walpurgis, magie, gerard-de-nerval, demonologie, chien, faust-dans-son-cabinet, lilith
 
 @ longin
 cat: figures
