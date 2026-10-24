@@ -9,10 +9,11 @@
  * sont des fractions de l'image ; les calques sont des SVG de même mesure,
  * posés exactement sur elle, et l'image elle-même n'est jamais modifiée.
  *
- * Trois calques : la « teinte », mêlée à la gravure en mode produit (comme une
+ * Quatre calques, de bas en haut : les morceaux d'image qui bougent ; la
+ * « teinte », mêlée en mode produit à la gravure et à ces morceaux (comme une
  * aquarelle sur un tirage : les traits restent noirs, le papier prend la
- * couleur) ; le calque « normal », où sont les cartes et les morceaux d'image
- * qui bougent ; la « lumière », mêlée en mode superposition (lueurs, éclairs).
+ * couleur) ; le calque « normal », où sont les cartes, les figures ajoutées, la
+ * mer, la fumée ; la « lumière », mêlée en mode superposition (lueurs, éclairs).
  * Une partie qui bouge est une copie de l'image découpée par un polygone ; sous
  * elle, une copie floue cache l'original quand elle s'en écarte.
  *
@@ -121,9 +122,9 @@
       const monte = e.mode === 'leve' || e.mode === 'flotte';
       const decale = monte ? 1.4 * (e.ampleur === undefined ? 0.04 : e.ampleur) * c.H : 0;
       const flou = c.filtre('flou-dessous', (monte ? 0.005 : 0.012) * c.W);
-      const dessous = noeud('g', { 'clip-path': 'url(#' + id + 'l)', class: 'an-dessous' }, c.normal);
+      const dessous = noeud('g', { 'clip-path': 'url(#' + id + 'l)', class: 'an-dessous' }, c.mobile);
       noeud('image', { href: c.src, width: c.W, height: c.H, y: (-decale).toFixed(1), filter: 'url(#' + flou + ')' }, dessous);
-      const g = noeud('g', { class: 'an-bouge an-mode-' + e.mode }, c.normal);
+      const g = noeud('g', { class: 'an-bouge an-mode-' + e.mode }, c.mobile);
       const [px, py] = c.P(e.pivot);
       g.style.transformOrigin = px.toFixed(1) + 'px ' + py.toFixed(1) + 'px';
       const ampleurs = { tourne: 3, balance: 9, leve: 0.06, tremble: 0.006, flotte: 0.02 };
@@ -224,6 +225,100 @@
           + ' L' + (x + r * Math.cos(a2)).toFixed(1) + ' ' + (y + r * Math.sin(a2)).toFixed(1) + 'Z', fill: 'url(#' + id + ')' }, g);
       }
     },
+
+    /* Une figure découpée d'une autre gravure (« detourer: » dans
+     * build/illustrations.txt) qui entre en scène : à la nage, en surgissant
+     * des eaux, ou en apparaissant ; elle passe du gris à la couleur, puis vit
+     * doucement. `ovale` : le médaillon hors duquel elle ne déborde pas. */
+    lutin(e, c) {
+      const im = e.image;
+      const w = e.largeur * c.W;
+      const h = (w * im.h) / im.w;
+      const [x, y] = c.P(e.point);
+      const mode = e.mode || 'apparait';
+      const duree = e.duree || 3;
+      const delai = e.delai === undefined ? 1 : e.delai;
+      const entree = noeud('g', { class: 'an-revele an-lutin an-entre-' + mode }, c.ovale(e.ovale));
+      const [dx, dy] = e.depuis ? [e.depuis[0] * c.W, e.depuis[1] * c.H] : [0, 0.08 * c.H];
+      entree.style.setProperty('--dx', dx.toFixed(1) + 'px');
+      entree.style.setProperty('--dy', dy.toFixed(1) + 'px');
+      entree.style.animationDuration = duree + 's';
+      entree.style.animationDelay = delai.toFixed(2) + 's';
+      const vie = noeud('g', { class: 'an-lutin-vie an-vie-' + mode }, entree);
+      vie.style.transformOrigin = x.toFixed(1) + 'px ' + y.toFixed(1) + 'px';
+      vie.style.animationDelay = (delai + duree).toFixed(2) + 's';
+      const image = noeud('image', { href: im.f + '?v=' + im.v, x: (x - w / 2).toFixed(1), y: (y - h / 2).toFixed(1),
+        width: w.toFixed(1), height: h.toFixed(1), class: 'an-lutin-image' + (e.couleurs === 0 ? '' : ' an-colore') }, vie);
+      image.style.animationDelay = (delai + duree * 0.6).toFixed(2) + 's';
+    },
+
+    /* La mer : une bande de vagues qui monte, puis défile sans fin ; deux
+     * bandes, l'une derrière les figures, l'autre devant, les y plongent. */
+    vagues(e, c) {
+      const y0 = e.ligne * c.H;
+      const amp = (e.hauteur || 0.012) * c.H;
+      const L = (e.longueur || 0.1) * c.W;
+      const g = noeud('g', { class: 'an-revele an-vagues' }, c.ovale(e.ovale));
+      g.style.setProperty('--dy', (0.12 * c.H).toFixed(1) + 'px');
+      c.retard(g, e.delai, 0.8);
+      const defile = noeud('g', { class: 'an-vagues-defile' }, g);
+      defile.style.setProperty('--L', L.toFixed(1) + 'px');
+      defile.style.animationDuration = (e.vitesse || 5) + 's';
+      let crete = 'M' + (-L).toFixed(1) + ' ' + y0.toFixed(1);
+      for (let x = -L, haut = true; x < c.W + L; x += L / 2, haut = !haut) {
+        crete += ' Q' + (x + L / 4).toFixed(1) + ' ' + (y0 + (haut ? -amp : amp) * 2).toFixed(1) + ' ' + (x + L / 2).toFixed(1) + ' ' + y0.toFixed(1);
+      }
+      const fin = Math.ceil((c.W + 2 * L) / (L / 2)) * (L / 2) - L;
+      // l'eau s'assombrit vers le fond
+      const couleur = e.couleur || '#2f6f8f';
+      const id = c.uid + '-v' + c.rang;
+      const grad = noeud('linearGradient', { id, gradientUnits: 'userSpaceOnUse', x1: 0, y1: (y0 - amp * 2).toFixed(1), x2: 0, y2: (y0 + 0.14 * c.H).toFixed(1) }, c.defs);
+      noeud('stop', { offset: '0', 'stop-color': couleur, 'stop-opacity': '0.78' }, grad);
+      noeud('stop', { offset: '1', 'stop-color': '#10283a', 'stop-opacity': '0.95' }, grad);
+      const eau = noeud('path', { d: crete + ' L' + fin.toFixed(1) + ' ' + (c.H + 4) + ' L' + (-L).toFixed(1) + ' ' + (c.H + 4) + 'Z',
+        fill: 'url(#' + id + ')' }, defile);
+      eau.setAttribute('opacity', (e.force === undefined ? 0.9 : e.force).toFixed(2));
+      // des tailles parallèles sous la crête, de plus en plus pâles : le trait d'une gravure
+      for (let k = 1; k <= 5; k += 1) {
+        const taille = noeud('path', { d: crete, fill: 'none', stroke: '#0c1f2c', 'stroke-width': (0.0016 * c.W).toFixed(2), opacity: (0.55 - k * 0.08).toFixed(2) }, defile);
+        taille.setAttribute('transform', 'translate(' + ((k % 2) * L / 4).toFixed(1) + ' ' + (k * amp * 1.5).toFixed(1) + ')');
+      }
+      noeud('path', { d: crete, fill: 'none', stroke: e.ecume || '#e6f6ff', 'stroke-width': (0.0032 * c.W).toFixed(2), 'stroke-linecap': 'round', opacity: '0.9' }, defile);
+    },
+
+    /* La pluie : des traits obliques qui tombent sans fin dans une zone. */
+    pluie(e, c) {
+      const [x, y, w, h] = e.zone || [0, 0, 1, 1];
+      const alea = hasard(c.uid + 'p' + c.rang);
+      const g = noeud('g', { class: 'an-revele an-pluie' }, c.normal);
+      c.retard(g, e.delai, 0.5);
+      const n = e.nombre || 60;
+      const long = 0.05 * c.H;
+      const pente = e.pente === undefined ? 0.25 : e.pente;
+      for (let i = 0; i < n; i += 1) {
+        const px = (x + alea() * w) * c.W;
+        const py = (y + alea() * h) * c.H;
+        const goutte = noeud('line', { x1: px.toFixed(1), y1: py.toFixed(1), x2: (px - pente * long).toFixed(1), y2: (py + long).toFixed(1),
+          stroke: e.couleur || '#dfe8f0', 'stroke-width': (0.0022 * c.W).toFixed(2), 'stroke-linecap': 'round', class: 'an-goutte' }, g);
+        goutte.style.setProperty('--x', (-pente * h * c.H * 0.5).toFixed(1) + 'px');
+        goutte.style.setProperty('--y', (h * c.H * 0.5).toFixed(1) + 'px');
+        goutte.style.animationDuration = (0.7 + alea() * 0.5).toFixed(2) + 's';
+        goutte.style.animationDelay = (-alea() * 1.2).toFixed(2) + 's';
+      }
+    },
+
+    /* Une inscription qui s'allume : le mot qui anime le Golem, une formule. */
+    inscription(e, c) {
+      const [x, y] = c.P(e.point);
+      const flou = c.filtre('flou-inscription', 0.006 * c.W);
+      const g = noeud('g', { class: 'an-revele an-inscription' }, c.normal);
+      c.retard(g, e.delai, 1);
+      g.style.transformOrigin = x.toFixed(1) + 'px ' + y.toFixed(1) + 'px';
+      const attrs = { x: x.toFixed(1), y: y.toFixed(1), 'text-anchor': 'middle', 'dominant-baseline': 'middle', fill: e.couleur || '#ffd36b',
+        'font-size': ((e.taille || 0.05) * c.W).toFixed(1), class: 'an-inscription-texte' };
+      noeud('text', Object.assign({ filter: 'url(#' + flou + ')' }, attrs), g).textContent = e.texte;
+      noeud('text', attrs, g).textContent = e.texte;
+    },
   };
 
   // ── Habiller une image ────────────────────────────────────────────────────
@@ -241,6 +336,9 @@
       porteur.appendChild(s);
       return s;
     };
+    // de bas en haut : les morceaux d'image qui bougent, la couleur (qui les
+    // teinte aussi), les figures ajoutées, la lumière
+    const mobile = calque('an-mobile');
     const teinte = calque('an-teinte');
     const normal = calque('an-normal');
     const lumiere = calque('an-lumiere');
@@ -248,7 +346,7 @@
     const defsLumiere = noeud('defs', {}, lumiere);
     const filtres = new Map();
     const c = {
-      W, H, uid, teinte, normal, lumiere, defs, defsLumiere, rang: 0, src: img.getAttribute('src'),
+      W, H, uid, mobile, teinte, normal, lumiere, defs, defsLumiere, rang: 0, src: img.getAttribute('src'),
       P: (p) => [p[0] * W, p[1] * H],
       filtre(nom, ecart) {
         const cle = nom + ':' + ecart.toFixed(1);
@@ -262,13 +360,26 @@
         return id;
       },
       retard(el, delai, defaut) { el.style.animationDelay = (delai === undefined ? defaut : delai).toFixed(2) + 's'; },
+      /* Un groupe du calque normal découpé par une ellipse (cx cy rx ry), ou
+       * le calque lui-même. */
+      ovale(o) {
+        if (!o) return normal;
+        const cle = 'ovale:' + o.join(' ');
+        if (filtres.has(cle)) return filtres.get(cle);
+        const id = uid + '-o' + filtres.size;
+        const clip = noeud('clipPath', { id }, defs);
+        noeud('ellipse', { cx: o[0] * W, cy: o[1] * H, rx: o[2] * W, ry: o[3] * H }, clip);
+        const g = noeud('g', { 'clip-path': 'url(#' + id + ')' }, normal);
+        filtres.set(cle, g);
+        return g;
+      },
     };
     im.an.e.forEach((e, i) => {
       c.rang = i;
       if (EFFETS[e.t]) EFFETS[e.t](e, c);
     });
 
-    const calques = [teinte, normal, lumiere];
+    const calques = [mobile, teinte, normal, lumiere];
     function placer() {
       if (!img.offsetWidth) return;
       for (const s of calques) {

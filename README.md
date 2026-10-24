@@ -88,7 +88,15 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   colorie et ses guéridons se mettent à tourner ; la table d'Eusapia Palladino
   se soulève, le pendule de Foucault oscille, la flamme de la Madeleine vacille,
   le chaudron du *Cercle magique* fume, l'orage éclate sur *Frankenstein*, la
-  voûte de la Reine de la Nuit scintille… — une trentaine de gravures, chacune
+  voûte de la Reine de la Nuit scintille ; dans le médaillon de Mérovée, la mer
+  monte, le monstre marin arrive à la nage et la reine sort des eaux, deux
+  figures découpées d'autres gravures anciennes, qui passent du gris à la
+  couleur pendant que le portrait se colorie ; Méphistophélès, pris à une
+  lithographie de Delacroix, passe devant la fenêtre du *Faust* de Rembrandt ;
+  Pernelle vient prier auprès de Nicolas Flamel ; le coq d'Aldrovandi chante
+  au-dessus du basilic, qui tremble ; le Golem s'éveille, le mot *emet* allumé
+  au front ; le Juif errant marche sous l'orage, Léviathan se tord sous la foudre,
+  l'homoncule luit dans sa fiole… — près de quarante gravures, chacune
   avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong, feu),
   fabriqué sur place par l'appareil ; « Rejouer » relance l'animation ;
 - des **sons** du domaine public, sous « À écouter » : les cris du loup, du
@@ -245,8 +253,8 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations (4 764)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, extraits, révision, hors-ligne (138)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations (4 814)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, extraits, révision, hors-ligne (139)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)

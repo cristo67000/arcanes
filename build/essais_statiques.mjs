@@ -134,7 +134,11 @@ ok(poidsImages === meta.octetsImages && fichiersImg.length === meta.images, 'le 
 ok(!liste.some((f) => f.startsWith('img/')), 'les images ne sont pas dans la coquille (elles ont leur cache)');
 const vues = new Set();
 for (const a of dico.articles) {
-  for (const im of a.im || []) vues.add(im.f);
+  for (const im of a.im || []) {
+    vues.add(im.f);
+    // une figure découpée ne paraît que posée par l'animation d'une autre image
+    for (const e of (im.an && im.an.e) || []) if (e.image) { vues.add(e.image.f); ok(fs.existsSync(path.join(RACINE, e.image.f)), 'la figure animée existe : ' + e.image.f); }
+  }
   for (const p of a.pl || []) for (const im of p.im) { vues.add(im.f); if (im.r) ok(ids.has(im.r), 'la vignette mène à un article : ' + im.r); }
 }
 ok(vues.size === images.length, 'chaque image paraît dans au moins un article (' + vues.size + ' / ' + images.length + ')');

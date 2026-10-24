@@ -531,10 +531,15 @@ const EFFETS = {
   fumee: { point: 'point', couleur: 'couleur', hauteur: 'nombre', largeur: 'nombre', nombre: 'nombre', delai: 'nombre', duree: 'nombre' },
   eclair: { trace: 'points', couleur: 'couleur', delai: 'nombre', fois: 'nombre' },
   rayons: { point: 'point', rayon: 'nombre', nombre: 'nombre', couleur: 'couleur', delai: 'nombre' },
+  lutin: { image: 'image', point: 'point', largeur: 'nombre', mode: 'mot', depuis: 'decalage', ovale: 'nombres', delai: 'nombre', duree: 'nombre', couleurs: 'nombre' },
+  pluie: { zone: 'nombres', nombre: 'nombre', couleur: 'couleur', pente: 'nombre', delai: 'nombre' },
+  inscription: { texte: 'texte', point: 'point', taille: 'nombre', couleur: 'couleur', delai: 'nombre' },
+  vagues: { ligne: 'nombre', hauteur: 'nombre', longueur: 'nombre', couleur: 'couleur', ecume: 'couleur', ovale: 'nombres', force: 'nombre', delai: 'nombre', vitesse: 'nombre' },
 };
 const OBLIGATOIRES = { carte: ['coins', 'figure'], teinte: ['couleur'], bouge: ['polygone', 'pivot', 'mode'], lueur: ['point', 'rayon'],
-  etincelles: ['zone'], fumee: ['point'], eclair: [], rayons: ['point'] };
-const MOTS = { figure: ['as-coeur', 'as-carreau', 'as-pique', 'as-trefle'], mode: ['tourne', 'leve', 'tremble', 'balance', 'flotte', 'vacille', 'pulse', 'eclat'] };
+  etincelles: ['zone'], fumee: ['point'], eclair: [], rayons: ['point'], lutin: ['image', 'point', 'largeur'], vagues: ['ligne'], pluie: [], inscription: ['texte', 'point'] };
+const MOTS = { figure: ['as-coeur', 'as-carreau', 'as-pique', 'as-trefle'],
+  mode: ['tourne', 'leve', 'tremble', 'balance', 'flotte', 'vacille', 'pulse', 'eclat', 'nage', 'surgit', 'apparait'] };
 const SONS_SYNTHESE = ['carte', 'coups', 'tonnerre', 'vent', 'feu', 'cloche', 'gong', 'tic', 'coeur', 'enchantement', 'souffle', 'eau'];
 
 function lireAnimations(sons) {
@@ -565,6 +570,18 @@ function lireAnimations(sons) {
       if (!/^#[0-9a-f]{6}$/i.test(brut)) erreur(lieu, '« ' + cle + ' » : couleur #rrggbb attendue');
       return brut.toLowerCase();
     }
+    if (sorte === 'decalage') {
+      // un déplacement, pas une place : il peut partir de hors de l'image
+      const p = brut.split(/\s+/).map(Number);
+      if (p.length !== 2 || !p.every((v) => Number.isFinite(v) && Math.abs(v) <= 1)) erreur(lieu, '« ' + cle + ' » : deux fractions entre -1 et 1 attendues');
+      return p;
+    }
+    if (sorte === 'image') {
+      // une figure découpée de build/illustrations.txt, posée par l'animation
+      const im = images[brut];
+      if (!im) { erreur(lieu, 'image inconnue pour le lutin : ' + brut); return null; }
+      return { id: brut, f: im.f, v: im.v, w: im.w, h: im.h, l: typographie(im.l), cr: typographie(im.cr) };
+    }
     if (MOTS[cle] && !MOTS[cle].includes(brut)) erreur(lieu, '« ' + cle + ' » inconnu : ' + brut);
     return brut;
   }
@@ -583,6 +600,7 @@ function lireAnimations(sons) {
     const m = /^([a-z]+):\s*(.*)$/.exec(ligne);
     if (!m || !courant) { erreur(lieu, 'ligne illisible'); return; }
     if (m[1] === 'titre') { courant.ti = typographie(m[2].trim()); return; }
+    if (m[1] === 'credit') { courant.cr = typographie(m[2].trim()); return; }
     if (m[1] === 'son') {
       const s = m[2].trim();
       if (s.startsWith('synth:')) {

@@ -971,6 +971,38 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 @keyframes an-rayonne { from { opacity: 0; } }
 @keyframes an-gloire { to { transform: rotate(360deg); } }
 
+/* les figures qui entrent en scène, et la mer */
+.an-lutin, .an-lutin-vie, .an-vagues, .an-vagues-defile { transform-box: view-box; }
+.an-joue .an-entre-nage { animation: an-entre 3s cubic-bezier(.25, .7, .3, 1) both; }
+.an-joue .an-entre-surgit { animation: an-entre 3s cubic-bezier(.2, .6, .25, 1) both; }
+.an-joue .an-entre-apparait { animation: an-apparait 2.5s ease-out both; }
+@keyframes an-entre { from { opacity: 0; transform: translate(var(--dx), var(--dy)); } 30% { opacity: 1; } to { opacity: 1; transform: none; } }
+@keyframes an-apparait { from { opacity: 0; transform: scale(.92); } }
+.an-joue .an-vie-nage { animation: an-nage 3.4s ease-in-out infinite; }
+.an-joue .an-vie-surgit, .an-joue .an-vie-apparait { animation: an-berce 4.6s ease-in-out infinite; }
+@keyframes an-nage {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(1.5px, -1.8px) rotate(-3deg); }
+  75% { transform: translate(-1.5px, 1.6px) rotate(2.5deg); }
+}
+@keyframes an-berce { 0%, 100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-2.2px) rotate(-1deg); } }
+.an-attente .an-colore { filter: grayscale(1); }
+.an-joue .an-colore { animation: an-colore 2.6s ease-out both; }
+@keyframes an-colore { from { filter: grayscale(1) contrast(1.15); } to { filter: grayscale(0); } }
+.an-joue .an-vagues { animation: an-monte 2.4s ease-out both; }
+@keyframes an-monte { from { opacity: 0; transform: translateY(var(--dy)); } }
+.an-joue .an-vagues-defile { animation: an-defile-vagues 5s linear infinite; }
+@keyframes an-defile-vagues { to { transform: translateX(calc(var(--L) * -1)); } }
+.an-goutte { opacity: 0; }
+.an-joue .an-goutte { animation: an-tombe 1s linear infinite; }
+@keyframes an-tombe { 0% { opacity: 0; transform: translate(0, 0); } 15% { opacity: .75; } 100% { opacity: 0; transform: translate(var(--x), var(--y)); } }
+.an-inscription { transform-box: view-box; }
+.an-inscription-texte { font-family: "Times New Roman", "Noto Serif Hebrew", serif; font-weight: 700; }
+.an-joue .an-inscription { animation: an-ecrit 2.4s ease-out both, an-brille 2.8s ease-in-out 2.4s infinite alternate; }
+@keyframes an-ecrit { from { opacity: 0; transform: scale(.6); } }
+@keyframes an-brille { from { opacity: 1; } to { opacity: .55; } }
+.illustration-animation { display: block; font-size: .7rem; color: var(--encre-legere); font-style: italic; }
+
 /* les boutons sous l'image */
 .an-commandes { display: flex; flex-wrap: wrap; justify-content: center; gap: .35rem; margin: .45rem 0 -.1rem; }
 .an-bouton {

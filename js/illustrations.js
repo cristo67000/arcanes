@@ -57,6 +57,10 @@
     const leg = element(classe === 'figcaption' ? 'figcaption' : 'div', classe === 'figcaption' ? null : classe);
     leg.appendChild(element('span', 'illustration-legende')).appendChild(Rendu.fragment(im.l));
     leg.appendChild(element('span', 'illustration-credit')).appendChild(Rendu.fragment(im.cr + ' · ' + im.li));
+    // ce qu'une animation ajoute à la gravure, et d'où elle le tient
+    if (im.an && im.an.cr && racine.Animations && Animations.actives()) {
+      leg.appendChild(element('span', 'illustration-credit illustration-animation')).appendChild(Rendu.fragment('Animation : ' + im.an.cr));
+    }
     return leg;
   }
 
@@ -182,7 +186,11 @@
   function toutesLesAdresses() {
     const s = new Set();
     for (const a of Dictionnaire.articles) {
-      for (const im of a.im || []) s.add(adresse(im));
+      for (const im of a.im || []) {
+        s.add(adresse(im));
+        // les figures découpées qu'une animation pose sur l'image
+        for (const e of (im.an && im.an.e) || []) if (e.image) s.add(adresse(e.image));
+      }
       for (const p of a.pl || []) for (const im of p.im) s.add(adresse(im));
     }
     return Array.from(s);

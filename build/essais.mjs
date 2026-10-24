@@ -257,7 +257,7 @@ try {
 
   // ── Les images animées et les sons ────────────────────────────────────────
   await js("Fiche.ouvrir('mademoiselle-lenormand'); return 1");
-  await attendre("Fiche.ref === 'mademoiselle-lenormand' && document.querySelectorAll('#fiche .an-calque').length === 3", 4000, 'les calques de la gravure de Mlle Lenormand');
+  await attendre("Fiche.ref === 'mademoiselle-lenormand' && document.querySelectorAll('#fiche .an-calque').length === 4", 4000, 'les calques de la gravure de Mlle Lenormand');
   await js("document.querySelector('#fiche .illustration').scrollIntoView({ block: 'center' }); return 1");
   await attendre("document.querySelector('#fiche .an-porteur').classList.contains('an-joue')", 4000, 'l’animation part quand l’image paraît');
   const calquesPoses = await js(`
@@ -278,6 +278,10 @@ try {
   await js("document.querySelector('#fiche .illustration').scrollIntoView({ block: 'center' }); document.querySelector('#fiche .an-rejouer').click(); Sons.arreter(); return 1");
   await pause(2600);
   ok(await js("return Array.from(document.querySelectorAll('#fiche .an-bouge')).some((g) => getComputedStyle(g).transform !== 'none' && getComputedStyle(g).transform !== 'matrix(1, 0, 0, 1, 0, 0)')"), 'un guéridon tourne');
+  await js("Fiche.ouvrir('quinotaure'); return 1");
+  await attendre("Fiche.ref === 'quinotaure' && document.querySelectorAll('#fiche .an-lutin').length === 2 && document.querySelectorAll('#fiche .an-vagues').length === 2", 4000, 'Mérovée : la reine et le monstre marin, et la mer');
+  await attendre("Array.from(document.querySelectorAll('#fiche .an-lutin-image')).every((i) => i.getBBox().width > 0)", 4000, 'les deux figures découpées sont posées');
+  ok(await js("return /Ambroise Paré/.test(document.querySelector('#fiche .illustration-animation').textContent)"), 'la légende dit d’où viennent les figures ajoutées');
   await js("Fiche.ouvrir('loup'); return 1");
   await attendre("Fiche.ref === 'loup' && document.querySelector('#fiche .sons .son-bouton')", 3000, 'le loup a son cri à écouter');
   ok(await js("return /domaine public|CC0/.test(document.querySelector('#fiche .son-credit').textContent) && /^https:\\/\\/commons\\.wikimedia\\.org\\//.test(document.querySelector('#fiche .son-source').href)"), 'le son dit sa licence et sa source');

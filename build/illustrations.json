@@ -12871,6 +12871,66 @@
     "hermes-trismegiste"
    ],
    "sig": "Pavimento di siena, ermete trismegisto (giovanni di stefano) 01.jpg||400|74"
+  },
+  "lutin-altina": {
+   "f": "img/lutin-altina.webp",
+   "v": "3a1c8f7b51",
+   "w": 240,
+   "h": 224,
+   "l": "La reine Altina, « femme de Clodion », la mère de Mérovée selon la légende",
+   "cr": "portrait gravé du recueil des reines de France — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Recueil._Portraits_de_la_reine_des_Francs_Altina,_femme_de_Clodion_-_btv1b8530146g.jpg",
+   "pour": [],
+   "sig": "Recueil. Portraits de la reine des Francs Altina, femme de Clodion - btv1b8530146g.jpg|0 0 1 0.3417|240|74|d0.17 0.24, 0.21 0.18, 0.30 0.165, 0.45 0.155, 0.58 0.12, 0.65 0.11, 0.72 0.15, 0.785 0.21, 0.79 0.31, 0.75 0.41, 0.73 0.50, 0.745 0.60, 0.765 0.70, 0.80 0.80, 0.82 0.90, 0.845 1.00, 0.07 1.00, 0.08 0.90, 0.10 0.80, 0.13 0.70, 0.18 0.62, 0.16 0.46, 0.14 0.32|t#9a5a34;#f2cdb0 ellipse 0.57 0.66 0.19 0.22;#f2cdb0 ellipse 0.56 0.97 0.22 0.1;#d9ad3c polygone 0.18 0.18, 0.40 0.13, 0.62 0.10, 0.80 0.20, 0.79 0.40, 0.55 0.43, 0.30 0.44, 0.17 0.35"
+  },
+  "lutin-pourceau-de-mer": {
+   "f": "img/lutin-pourceau-de-mer.webp",
+   "v": "ecedfe62c6",
+   "w": 360,
+   "h": 155,
+   "l": "Le « monstrueux pourceau de mer » d’Ambroise Paré",
+   "cr": "gravure sur bois, Ambroise Paré, *Of Monsters and Prodigies*, Londres, 1649",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Monsters_%26_Prodigies_46.jpg",
+   "pour": [],
+   "sig": "Monsters & Prodigies 46.jpg|0 0.06 1 1|360|74|d0.020 0.255, 0.080 0.277, 0.120 0.383, 0.220 0.255, 0.300 0.170, 0.360 0.106, 0.450 0.043, 0.550 0.021, 0.620 0.043, 0.650 0.043, 0.700 0.085, 0.740 0.064, 0.780 0.106, 0.800 0.170, 0.830 0.191, 0.840 0.223, 0.920 0.287, 0.950 0.340, 0.930 0.415, 0.900 0.489, 0.860 0.574, 0.820 0.638, 0.800 0.734, 0.860 0.840, 0.880 0.968, 0.760 0.979, 0.720 0.809, 0.620 0.787, 0.480 0.830, 0.470 0.979, 0.330 0.979, 0.300 0.840, 0.200 0.766, 0.120 0.787, 0.040 0.979, 0.010 0.787, 0.050 0.596, 0.020 0.415|t#5fa08f;#d39a86 ellipse 0.87 0.38 0.10 0.24;#e6c473 polygone 0.250 0.149, 0.600 0.000, 0.800 0.043, 0.780 0.223, 0.300 0.287;#d99a42 ellipse 0.06 0.62 0.07 0.38"
+  },
+  "lutin-mephisto": {
+   "f": "img/lutin-mephisto.webp",
+   "v": "8a495f4839",
+   "w": 360,
+   "h": 282,
+   "l": "Méphistophélès dans les airs, d’Eugène Delacroix",
+   "cr": "lithographie d’Eugène Delacroix pour le *Faust* de Goethe, 1828 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Delacroix_-_M%C3%A9phistoph%C3%A9l%C3%A8s_dans_les_airs,_4e_%C3%A9tat,_btv1b10029724n.jpeg",
+   "pour": [],
+   "sig": "Delacroix - Méphistophélès dans les airs, 4e état, btv1b10029724n.jpeg|0.15 0.20 0.80 0.52|360|74|d0.069 0.100, 0.131 0.172, 0.192 0.281, 0.246 0.359, 0.285 0.312, 0.315 0.391, 0.385 0.250, 0.423 0.162, 0.538 0.172, 0.692 0.219, 0.846 0.312, 0.938 0.422, 0.785 0.438, 0.569 0.453, 0.492 0.500, 0.608 0.547, 0.669 0.625, 0.731 0.719, 0.792 0.797, 0.800 0.906, 0.723 0.891, 0.646 0.828, 0.538 0.812, 0.492 0.734, 0.446 0.719, 0.385 0.703, 0.323 0.750, 0.277 0.703, 0.185 0.656, 0.123 0.672, 0.077 0.703, 0.038 0.625, 0.062 0.578, 0.154 0.547, 0.215 0.500, 0.185 0.406, 0.123 0.281|t#b23a2e;#4b3b62 polygone 0.062 0.094, 0.415 0.156, 0.938 0.422, 0.569 0.453, 0.231 0.406|c0.5"
+  },
+  "lutin-pernelle": {
+   "f": "img/lutin-pernelle.webp",
+   "v": "97011e6f94",
+   "w": 220,
+   "h": 278,
+   "l": "Pernelle, la femme de Nicolas Flamel, agenouillée",
+   "cr": "gravure d’après la peinture du charnier des Innocents, dans Paul Lacroix, *Mœurs, usages et costumes au Moyen Âge*, 1871",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nicholas_Flamel_from_Lacroix_Manners_Customs.png",
+   "pour": [],
+   "sig": "Nicholas Flamel from Lacroix Manners Customs.png|0.03 0.52 0.27 0.88|220|74|d0.271 0.097, 0.375 0.042, 0.521 0.056, 0.604 0.153, 0.625 0.278, 0.708 0.278, 0.792 0.389, 0.729 0.500, 0.667 0.611, 0.708 0.778, 0.875 0.986, 0.083 0.986, 0.125 0.722, 0.229 0.500, 0.208 0.333, 0.250 0.222|t#3f5f8c;#f3e8d8 ellipse 0.42 0.12 0.2 0.12;#f0c9a8 ellipse 0.45 0.16 0.1 0.07"
+  },
+  "lutin-coq": {
+   "f": "img/lutin-coq.webp",
+   "v": "0caded6311",
+   "w": 240,
+   "h": 190,
+   "l": "Le coq d’Ulisse Aldrovandi",
+   "cr": "aquarelle des collections d’Ulisse Aldrovandi, avant 1600 — bibliothèque universitaire de Bologne",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ulisse_Aldrovandi_%E2%80%93_Gallus_hirsutis_pedibus.jpg",
+   "pour": [],
+   "sig": "Ulisse Aldrovandi – Gallus hirsutis pedibus.jpg||240|74|d0.06 0.33, 0.12 0.20, 0.22 0.15, 0.30 0.18, 0.36 0.30, 0.40 0.40, 0.55 0.37, 0.65 0.30, 0.70 0.20, 0.78 0.11, 0.81 0.08, 0.83 0.12, 0.86 0.18, 0.88 0.22, 0.84 0.26, 0.85 0.33, 0.82 0.36, 0.79 0.50, 0.72 0.62, 0.64 0.70, 0.66 0.80, 0.70 0.83, 0.58 0.84, 0.52 0.72, 0.44 0.68, 0.48 0.80, 0.50 0.84, 0.42 0.84, 0.40 0.72, 0.34 0.65, 0.26 0.58, 0.20 0.62, 0.12 0.58, 0.07 0.48|c0.72"
   }
  },
  "planches": {

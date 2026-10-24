@@ -7,6 +7,7 @@
 #
 #   = portrait-lenormand
 #   titre: L’as de cœur           le libellé du bouton « Rejouer » sous l'image
+#   credit: …                     (facultatif) d'où viennent les figures ajoutées
 #   son: synth:carte              (facultatif) un bruit fabriqué sur place (carte,
 #                                 coups, tonnerre, vent, feu, cloche, gong, tic, coeur,
 #                                 enchantement, souffle, eau) ou un son de build/sons.txt
@@ -29,8 +30,51 @@
 #   fumee       une fumée qui monte : point=x y ; couleur ; hauteur ; largeur ; nombre
 #   eclair      l'image s'illumine ; trace=… (facultatif) le trait de l'éclair
 #   rayons      une gloire qui tourne : point=x y ; rayon ; nombre ; couleur
+#   lutin       une figure découpée d'une autre gravure (« detourer: » dans
+#               build/illustrations.txt) qui entre en scène : image=identifiant ;
+#               point=x y (son centre) ; largeur ; mode=nage | surgit | apparait ;
+#               depuis=dx dy (d'où elle part) ; duree ; couleurs=0 (rester en gris)
+#   pluie       des traits obliques qui tombent : zone=x y l h ; nombre ; couleur ; pente
+#   inscription un mot qui s'allume : texte=… ; point=x y ; taille ; couleur
+#   vagues      une bande de mer qui monte puis défile : ligne=y (la crête) ; hauteur ;
+#               longueur (d'une vague) ; couleur ; ecume ; force ; vitesse (s)
+#
+# `ovale=cx cy rx ry` découpe un lutin ou des vagues dans le médaillon d'un portrait ;
+# les effets se superposent dans l'ordre du fichier (la mer de derrière, les
+# figures, la mer de devant).
 #
 # Tous acceptent delai=… (secondes avant de commencer).
+
+# ── Mérovée, né d'une reine et d'un monstre marin ───────────────────────────
+# Le portrait de Larmessin se colorie ; la mer monte dans le médaillon, le
+# monstre arrive à la nage, la reine sort des eaux, et tous deux prennent leurs
+# couleurs.
+
+= merovee-larmessin
+titre: La reine et le monstre marin
+credit: la reine Altina, « femme de Clodion », portrait gravé (BnF) ; le pourceau de mer d’Ambroise Paré (1649)
+son: vagues
+effet: teinte; couleur=#f2e4c4; force=0.35
+effet: teinte; ellipse=0.33 0.26 0.07 0.1; couleur=#4f7896; force=0.5
+effet: teinte; ellipse=0.69 0.25 0.06 0.1; couleur=#4f7896; force=0.5
+effet: teinte; ellipse=0.47 0.235 0.15 0.05; couleur=#6f9a46; force=0.6
+effet: teinte; ellipse=0.49 0.37 0.075 0.085; couleur=#e9b994; force=0.55
+effet: teinte; ellipse=0.49 0.45 0.07 0.03; couleur=#b8a080; force=0.4
+effet: teinte; ellipse=0.30 0.40 0.07 0.06; couleur=#8e2a35; force=0.55
+effet: teinte; ellipse=0.66 0.42 0.06 0.1; couleur=#8e2a35; force=0.5
+effet: teinte; ellipse=0.33 0.51 0.09 0.07; couleur=#d1a052; force=0.6
+effet: teinte; ellipse=0.60 0.53 0.07 0.06; couleur=#d1a052; force=0.6
+effet: teinte; ellipse=0.50 0.62 0.2 0.07; couleur=#7d8fa3; force=0.5
+effet: teinte; ellipse=0.20 0.19 0.07 0.06; couleur=#d98aa0; force=0.5
+effet: teinte; ellipse=0.83 0.19 0.07 0.06; couleur=#d98aa0; force=0.5
+effet: teinte; ellipse=0.51 0.09 0.09 0.03; couleur=#d98aa0; force=0.5
+effet: teinte; ellipse=0.51 0.76 0.055 0.045; couleur=#2f55a8; force=0.6
+effet: vagues; ligne=0.585; hauteur=0.011; longueur=0.1; couleur=#3b7690; ecume=#e8f4f4; ovale=0.505 0.415 0.275 0.265; force=0.85; delai=2.2; vitesse=6
+effet: lutin; image=lutin-pourceau-de-mer; point=0.40 0.572; largeur=0.31; mode=nage; depuis=-0.32 0.02; ovale=0.505 0.415 0.275 0.265; delai=3; duree=3.5
+effet: lutin; image=lutin-altina; point=0.645 0.553; largeur=0.20; mode=surgit; depuis=0 0.13; ovale=0.505 0.415 0.275 0.265; delai=4.2; duree=3
+effet: vagues; ligne=0.62; hauteur=0.009; longueur=0.08; couleur=#4a8aa0; ecume=#f4fbfb; ovale=0.505 0.415 0.275 0.265; force=0.9; delai=2.6; vitesse=4.5
+effet: etincelles; zone=0.27 0.57 0.48 0.09; nombre=12; couleur=#ffffff; taille=0.008; delai=3
+effet: lueur; point=0.53 0.55; rayon=0.09; couleur=#ffc0d0; mode=pulse; force=0.6; delai=7.5
 
 # ── Divination et spiritisme ────────────────────────────────────────────────
 
@@ -217,3 +261,110 @@ titre: Le cygne tire la nacelle
 son: cygnes-chanteurs
 effet: bouge; polygone=0.0 0.44, 1.0 0.44, 1.0 0.93, 0.0 0.93; pivot=0.5 0.7; mode=flotte; ampleur=0.012; duree=3.2; fois=3; delai=0.6
 effet: etincelles; zone=0.02 0.02 0.96 0.22; nombre=14; couleur=#ffe9a0; taille=0.012
+
+# ── D'autres gravures mises en scène ────────────────────────────────────────
+
+= faust-rembrandt
+titre: Méphistophélès paraît
+credit: Méphistophélès dans les airs, lithographie d’Eugène Delacroix (1828)
+son: faust-veau-d-or
+effet: teinte; couleur=#efe0c0; force=0.35
+effet: teinte; rect=0.45 0.10 0.42 0.27; couleur=#f3d58a; force=0.45
+effet: teinte; ellipse=0.62 0.43 0.12 0.10; couleur=#ffe8a0; force=0.55
+effet: teinte; ellipse=0.27 0.62 0.12 0.24; couleur=#7a3b2a; force=0.5
+effet: teinte; rect=0 0.05 0.15 0.8; couleur=#3b3550; force=0.35
+effet: teinte; rect=0.05 0.80 0.9 0.15; couleur=#8a6a40; force=0.4
+effet: rayons; point=0.62 0.43; rayon=0.22; nombre=18; couleur=#fff4c8; delai=1.2
+effet: lueur; point=0.62 0.43; rayon=0.12; couleur=#fff4c8; mode=pulse; delai=1.2
+effet: etincelles; zone=0.5 0.33 0.24 0.2; nombre=12; couleur=#fff6d0; delai=1.5
+effet: lutin; image=lutin-mephisto; point=0.68 0.22; largeur=0.36; mode=nage; depuis=0.35 -0.22; delai=3; duree=3.5
+
+= portrait-flamel
+titre: L’or de Flamel
+credit: Pernelle, gravure d’après la peinture du charnier des Innocents (Paul Lacroix, 1871)
+son: synth:enchantement
+effet: teinte; couleur=#f2e4c4; force=0.35
+effet: teinte; ellipse=0.50 0.25 0.2 0.12; couleur=#5a2730; force=0.55
+effet: teinte; ellipse=0.47 0.48 0.13 0.12; couleur=#e9b994; force=0.5
+effet: teinte; ellipse=0.47 0.66 0.13 0.1; couleur=#c8bfae; force=0.35
+effet: teinte; ellipse=0.52 0.83 0.36 0.1; couleur=#2d4a3a; force=0.5
+effet: teinte; ellipse=0.2 0.3 0.08 0.15; couleur=#d8c08a; force=0.45
+effet: teinte; ellipse=0.82 0.3 0.08 0.15; couleur=#d8c08a; force=0.45
+effet: teinte; rect=0.06 0.03 0.1 0.09; couleur=#b8343c; force=0.5
+effet: teinte; ellipse=0.9 0.07 0.05 0.04; couleur=#6f9a46; force=0.5
+effet: lutin; image=lutin-pernelle; point=0.76 0.72; largeur=0.3; mode=apparait; ovale=0.52 0.48 0.43 0.43; delai=2.5; duree=2.5
+effet: etincelles; zone=0.15 0.55 0.7 0.35; nombre=24; couleur=#ffd84a; taille=0.014; delai=4
+effet: lueur; point=0.47 0.47; rayon=0.3; couleur=#ffd870; mode=pulse; force=0.35; delai=5
+
+= basilic-aldrovandi
+titre: Le chant du coq
+credit: le coq d’Ulisse Aldrovandi, aquarelle d’avant 1600
+son: coq-chant
+effet: teinte; polygone=0.32 0.66, 0.40 0.40, 0.55 0.30, 0.72 0.29, 0.84 0.34, 0.86 0.55, 0.80 0.74, 0.55 0.78, 0.36 0.76; couleur=#6f9a46; force=0.6; flou=0.008
+effet: teinte; polygone=0.86 0.30, 0.94 0.30, 0.96 0.50, 0.90 0.58, 0.86 0.52; couleur=#d9a441; force=0.6; flou=0.006
+effet: teinte; ellipse=0.905 0.38 0.012 0.03; couleur=#d42a1e; force=0.85; flou=0.004; delai=0.6
+effet: etincelles; zone=0.89 0.33 0.03 0.1; nombre=6; couleur=#e0281e; taille=0.008; delai=0.8
+effet: lutin; image=lutin-coq; point=0.60 0.15; largeur=0.17; mode=apparait; delai=2.6; duree=1.5
+effet: bouge; polygone=0.85 0.28, 0.97 0.28, 0.97 0.6, 0.85 0.6; pivot=0.9 0.6; mode=tremble; ampleur=0.005; fois=16; delai=3.6
+
+= golem-ales
+titre: Le Golem s’éveille
+son: synth:souffle
+effet: teinte; couleur=#f0e2c4; force=0.3
+effet: teinte; ellipse=0.28 0.17 0.14 0.15; couleur=#b07a4a; force=0.55
+effet: teinte; ellipse=0.75 0.6 0.15 0.33; couleur=#34406a; force=0.45
+effet: teinte; ellipse=0.70 0.18 0.05 0.05; couleur=#e2b48e; force=0.5
+effet: teinte; ellipse=0.55 0.2 0.1 0.15; couleur=#9aa6b8; force=0.35
+effet: teinte; ellipse=0.25 0.55 0.06 0.06; couleur=#d9a441; force=0.45
+effet: inscription; texte=אמת; point=0.255 0.122; taille=0.06; couleur=#c8501e; delai=1.5
+effet: fumee; point=0.5 0.30; couleur=#8d96a6; hauteur=0.25; largeur=0.08; delai=2
+effet: bouge; polygone=0.12 0.03, 0.45 0.03, 0.45 0.33, 0.12 0.33; pivot=0.28 0.33; mode=tremble; ampleur=0.004; fois=12; delai=3
+
+= juif-errant-dore
+titre: L’errance sous l’orage
+son: pluie-tonnerre
+effet: teinte; couleur=#5d7896; force=0.35
+effet: teinte; rect=0 0.05 1 0.3; couleur=#3a5578; force=0.35
+effet: teinte; ellipse=0.15 0.25 0.06 0.18; couleur=#e8d8a8; force=0.4
+effet: teinte; ellipse=0.54 0.6 0.08 0.18; couleur=#7a4a3a; force=0.45
+effet: teinte; rect=0 0.75 1 0.2; couleur=#3e5a6e; force=0.4
+effet: lueur; point=0.15 0.22; rayon=0.1; couleur=#fff0c8; mode=pulse
+effet: bouge; polygone=0.43 0.36, 0.62 0.33, 0.67 0.55, 0.64 0.82, 0.50 0.84, 0.44 0.60; pivot=0.55 0.82; mode=flotte; ampleur=0.006; duree=1.3; fois=8; delai=1
+effet: pluie; zone=0 0.05 1 0.75; nombre=70; couleur=#d8e4f0; pente=0.2
+effet: eclair; trace=0.78 0.06, 0.72 0.15, 0.76 0.17, 0.68 0.30; fois=2; delai=2.5
+
+= leviathan-dore
+titre: La destruction de Léviathan
+son: synth:tonnerre
+effet: teinte; couleur=#3b6a7a; force=0.4
+effet: teinte; rect=0 0 1 0.35; couleur=#4a4a6a; force=0.3
+effet: teinte; ellipse=0.64 0.12 0.12 0.12; couleur=#f2dc9a; force=0.45
+effet: teinte; ellipse=0.48 0.62 0.25 0.18; couleur=#3f6b3a; force=0.45
+effet: rayons; point=0.64 0.1; rayon=0.35; nombre=20; couleur=#fff0c0
+effet: lueur; point=0.64 0.1; rayon=0.12; couleur=#fff0c0; mode=pulse
+effet: bouge; polygone=0.32 0.5, 0.6 0.48, 0.62 0.78, 0.33 0.8; pivot=0.47 0.78; mode=tourne; ampleur=2.2; duree=0.9; fois=6; delai=2.5
+effet: pluie; zone=0 0 1 0.5; nombre=50; couleur=#dfe8f0
+effet: eclair; trace=0.62 0.18, 0.56 0.30, 0.60 0.32, 0.50 0.48; fois=3; delai=2
+
+= homoncule-faust
+titre: L’homoncule s’éveille dans sa fiole
+son: synth:eau
+effet: teinte; couleur=#e9d6b0; force=0.3
+effet: teinte; ellipse=0.25 0.6 0.15 0.25; couleur=#7a3030; force=0.45
+effet: teinte; ellipse=0.74 0.55 0.07 0.06; couleur=#8fd3c8; force=0.5
+effet: teinte; ellipse=0.74 0.72 0.06 0.04; couleur=#ff8a30; force=0.5
+effet: lueur; point=0.74 0.55; rayon=0.11; couleur=#c8f6ff; mode=pulse
+effet: etincelles; zone=0.69 0.5 0.1 0.1; nombre=10; couleur=#ffffff
+effet: lueur; point=0.74 0.72; rayon=0.09; couleur=#ff9a40; mode=vacille
+effet: fumee; point=0.66 0.42; couleur=#d8dde2; hauteur=0.3; largeur=0.05
+
+= blocksberg-praetorius
+titre: La nuit de Walpurgis
+son: mont-chauve
+effet: teinte; couleur=#f0dcb0; force=0.3
+effet: teinte; rect=0 0 1 0.2; couleur=#6f8fc0; force=0.45
+effet: teinte; ellipse=0.5 0.34 0.3 0.16; couleur=#c9a46a; force=0.4
+effet: teinte; rect=0.15 0.75 0.7 0.17; couleur=#6a8a4a; force=0.35
+effet: bouge; polygone=0.08 0.02, 0.30 0.02, 0.30 0.14, 0.08 0.14; pivot=0.19 0.08; mode=flotte; ampleur=0.012; duree=2.2; fois=4; delai=1
+effet: bouge; polygone=0.72 0.02, 0.92 0.02, 0.92 0.15, 0.72 0.15; pivot=0.82 0.08; mode=flotte; ampleur=0.012; duree=2.6; fois=4; delai=1.6
+effet: fumee; point=0.48 0.4; couleur=#8f8a80; hauteur=0.2; largeur=0.06

@@ -26,7 +26,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from PIL import Image
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageOps
 
 ICI = os.path.dirname(os.path.abspath(__file__))
 RACINE = os.path.dirname(ICI)
@@ -43,7 +43,9 @@ QUALITE = 74
 # l'original (souvent plusieurs mégaoctets) : c'est assez pour réduire ensuite.
 LARGEUR_SOURCE = 1280
 
-CHAMPS = {'commons', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite', 'page'}
+CHAMPS = {'commons', 'legende', 'credit', 'pour', 'largeur', 'recadrer', 'qualite', 'page', 'detourer', 'teinter', 'clair'}
+# un champ qui peut revenir plusieurs fois
+MULTIPLES = {'teinter'}
 CHAMPS_PLANCHE = {'titre', 'images'}
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -92,7 +94,10 @@ def lire():
         if cle not in permis:
             erreur(lieu, 'champ inconnu « ' + cle + ' »')
             continue
-        cible[cle] = valeur
+        if cle in MULTIPLES:
+            cible.setdefault(cle, []).append(valeur)
+        else:
+            cible[cle] = valeur
     return images, planches
 
 
@@ -188,8 +193,62 @@ def convertir(chemin, image, sortie):
         largeur = int(image.get('largeur') or LARGEUR_DEFAUT)
         if im.width > largeur:
             im = im.resize((largeur, round(im.height * largeur / im.width)), Image.LANCZOS)
+        fond = im.convert('L')
+        if image.get('teinter'):
+            im = teinter(im, image['teinter'])
+        if image.get('detourer'):
+            im = detourer(im, image['detourer'], float(image['clair']) if image.get('clair') else None, fond)
         im.save(sortie, 'WEBP', quality=int(image.get('qualite') or QUALITE), method=6)
         return im.width, im.height
+
+
+def points(texte, W, H):
+    return [(float(x) * W, float(y) * H) for x, y in (p.split() for p in texte.split(','))]
+
+
+def teinter(im, lignes):
+    """Une gravure coloriée à la main, pour les figures qu'une animation fait
+    paraître : le papier ramené au blanc, puis multiplié par des taches de
+    couleur fondues (« #rrggbb », « #rrggbb ellipse cx cy rx ry »,
+    « #rrggbb rect x y l h », « #rrggbb polygone x y, x y… »)."""
+    W, H = im.size
+    gris = ImageOps.autocontrast(im.convert('L'), cutoff=2).convert('RGB')
+    couleurs = Image.new('RGB', im.size, (255, 255, 255))
+    d = ImageDraw.Draw(couleurs)
+    for ligne in lignes:
+        couleur, _, forme = ligne.partition(' ')
+        rgb = tuple(int(couleur[i:i + 2], 16) for i in (1, 3, 5))
+        if not forme:
+            d.rectangle([0, 0, W, H], fill=rgb)
+        elif forme.startswith('ellipse '):
+            cx, cy, rx, ry = [float(x) for x in forme[8:].split()]
+            d.ellipse([(cx - rx) * W, (cy - ry) * H, (cx + rx) * W, (cy + ry) * H], fill=rgb)
+        elif forme.startswith('rect '):
+            x, y, l, h = [float(x) for x in forme[5:].split()]
+            d.rectangle([x * W, y * H, (x + l) * W, (y + h) * H], fill=rgb)
+        elif forme.startswith('polygone '):
+            d.polygon(points(forme[9:], W, H), fill=rgb)
+    couleurs = couleurs.filter(ImageFilter.GaussianBlur(0.02 * W))
+    return ImageChops.multiply(gris, couleurs)
+
+
+def detourer(im, contour, clair=None, gris=None):
+    """Garde ce qui est dans le polygone (fractions de l'image recadrée), aux
+    bords adoucis ; le reste devient transparent. `clair` (0 à 1) : ce qui,
+    dans la gravure d'origine, est plus clair que ce seuil s'efface aussi — le
+    ciel autour d'une figure, le papier."""
+    W, H = im.size
+    masque = Image.new('L', im.size, 0)
+    ImageDraw.Draw(masque).polygon(points(contour, W, H), fill=255)
+    masque = masque.filter(ImageFilter.GaussianBlur(0.008 * W))
+    if clair is not None and gris is not None:
+        seuil = clair * 255
+        # opaque sous le seuil, transparent 0,12 au-dessus, en fondu
+        cle = gris.point(lambda v: 255 if v <= seuil else max(0, round(255 - (v - seuil) * 255 / (0.12 * 255))))
+        masque = ImageChops.multiply(masque, cle.filter(ImageFilter.GaussianBlur(0.6)))
+    im = im.convert('RGBA')
+    im.putalpha(masque)
+    return im
 
 
 def main():
@@ -224,7 +283,10 @@ def main():
     for i, image in enumerate(images):
         sortie = os.path.join(DOSSIER_IMG, image['id'] + '.webp')
         signature = '|'.join([image['commons'], image.get('recadrer', ''), str(image.get('largeur') or LARGEUR_DEFAUT),
-                              str(image.get('qualite') or QUALITE)] + (['p' + image['page']] if image.get('page') else []))
+                              str(image.get('qualite') or QUALITE)] + (['p' + image['page']] if image.get('page') else [])
+                             + (['d' + image['detourer']] if image.get('detourer') else [])
+                             + (['t' + ';'.join(image['teinter'])] if image.get('teinter') else [])
+                             + (['c' + image['clair']] if image.get('clair') else []))
         ancien = precedent.get(image['id'])
         if ancien and ancien.get('sig') == signature and os.path.exists(sortie):
             info = {'page': ancien['src'], 'licence': ancien['lic']}
