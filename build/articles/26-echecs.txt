@@ -16,7 +16,7 @@ repere: vers 1300 — Jacques de Cessoles moralise le jeu.
 repere: vers 1475-1497 — En Espagne, la dame et le fou prennent leur marche moderne.
 extrait: Toujours dans l'intention de déployer sa grande pompe, voulant, en outre de ce que nous avons conté, montrer l'excessive suprématie de l'universalité de toutes ses excellentes et très-rares magnificences, elle ordonna que par l'entrée fermée de tapisseries pénétrassent trente-deux jeunes filles, dont seize, vêtues de drap d'or, avaient une d'entre elles portant un habit de Roi, une autre mise en Reine, deux en gardes du Roc ou de la Tour, deux Muets ou Secrétaires, deux Cavaliers, et les huit autres costumées uniformément. (…) ¶ Chaque fois que les officiers de l'un et de l'autre Roi trouvaient des adversaires sans gardes et sans escorte, ils les faisaient prisonniers ; les deux pièces s'entre-baisaient alors, et le vaincu sortait. C'est ainsi qu'une fameuse partie fut livrée sous la forme d'un ballet très-élégant, en la dansant et la jouant gaîment en mesure avec la musique, de façon que le Roi d'argent demeura vainqueur, à la vive allégresse et aux applaudissements de tous.
 source: Francesco Colonna, *Le Songe de Poliphile*, trad. Claudius Popelin, Liseux, 1883, t. I | ws Le Songe de Poliphile/10
-voir: chaturanga, echiquier, jeu-des-echecs-moralise, legende-de-sissa, echecs-enochiens, pave-mosaique, songe-de-poliphile
+voir: chaturanga, echiquier, jeu-des-echecs-moralise, legende-de-sissa, echecs-enochiens, pave-mosaique, songe-de-poliphile, alan-turing
 
 @ chaturanga
 cat: echecs
@@ -34,7 +34,7 @@ alias: damier, soixante-quatre cases, plateau, Échiquier de Normandie, excheque
 def: Le plateau de soixante-quatre cases alternativement claires et sombres sur lequel se joue la partie, lu comme une image du monde partagé entre la lumière et les ténèbres.
 texte: Soixante-quatre cases, huit sur huit : les commentateurs ont rapproché ce nombre des soixante-quatre hexagrammes du *[[yi-king|Yi King]]*, des puissances de deux qu'illustre la [[legende-de-sissa|légende de Sissa]], et du [[huit]], nombre de l'équilibre. Le damier de deux couleurs, qui apparaît avec l'arrivée du jeu en Europe autour de l'an mil (le plateau indien était d'une seule couleur), a été comparé au [[pave-mosaique|pavé mosaïque]] des temples maçonniques, image de la dualité du monde où l'initié doit avancer.
 texte: Le mot a une autre histoire : en Normandie et en Angleterre, l'« échiquier » désigne au Moyen Âge la cour où l'on vérifie les comptes du roi, parce que l'on y calculait avec des jetons sur un tapis à carreaux. L'Échiquier de Normandie, siégeant à [[rouen|Rouen]], devient en 1515 le parlement de la province ; l'*Exchequer* anglais désigne encore aujourd'hui le Trésor britannique.
-voir: jeu-d-echecs, pave-mosaique, yi-king, legende-de-sissa, huit, rouen
+voir: jeu-d-echecs, pave-mosaique, yi-king, legende-de-sissa, huit, rouen, jacques-de-cessoles
 
 @ roi-echecs
 cat: echecs
@@ -43,7 +43,7 @@ alias: roi des échecs, shâh, échec et mat, mat
 def: La pièce maîtresse du jeu d'échecs, dont la capture — le mat — met fin à la partie ; elle figure le souverain, centre immobile autour duquel tout s'ordonne.
 texte: Le roi ne se déplace que d'une case et ne peut être pris : on le met « en échec », et quand il ne peut plus échapper la partie est perdue. Jacques de Cessoles en fait le modèle du souverain juste, qui doit être miséricordieux, chaste et fidèle à la vérité. Les auteurs symbolistes y voient le centre, le principe immobile qui fait mouvoir les autres pièces sans agir lui-même, comme le [[roi-pecheur|Roi pêcheur]] ou le [[le-roi-du-monde|Roi du monde]] de René Guénon.
 texte: Dans les [[echecs-enochiens|échecs énochiens]] de la Golden Dawn, le roi est Osiris ; dans l'iconographie médiévale, il porte la couronne, et la partie perdue rappelle que la mort abat les rois comme les pions.
-voir: jeu-d-echecs, dame-echecs, echiquier, roi-pecheur
+voir: jeu-d-echecs, dame-echecs, echiquier, roi-pecheur, jacques-de-cessoles
 
 @ dame-echecs
 cat: echecs
@@ -61,7 +61,7 @@ alias: fol, alfil, éléphant, aufin, évêque, bishop
 def: La pièce qui se déplace en diagonale, éléphant dans le jeu indien, devenue le « fou » en France, l'évêque en Angleterre et le messager en Allemagne.
 texte: L'éléphant du chaturanga est devenu en arabe *al-fil*, que l'ancien français a déformé en « aufin » puis en « fol » : le fou du roi, son bouffon, a pris la place de l'éléphant que l'Europe ne connaissait pas. Les Anglais y ont vu un évêque, les Allemands un coureur, les Italiens un porte-étendard.
 texte: Le fou est le seul personnage qui reste toujours sur la même couleur, prisonnier de la lumière ou de l'ombre. Les lecteurs symbolistes l'ont rapproché du [[arcane-mat|Mat]] du tarot, le fou errant, et de la folie sacrée qui dit la vérité aux rois.
-voir: jeu-d-echecs, arcane-mat, cavalier-echecs, tour-echecs
+voir: jeu-d-echecs, arcane-mat, cavalier-echecs, tour-echecs, jacques-de-cessoles
 
 @ cavalier-echecs
 cat: echecs
@@ -111,9 +111,12 @@ dates: XIIIe siècle – après 1322
 an: 1300
 def: Dominicain lombard, auteur vers 1300 d'un livre de sermons qui fit du jeu d'échecs une image morale de la société.
 texte: On ne sait presque rien de sa vie : il est lombard, peut-être originaire de Cessole, dans le Piémont, et les archives de Gênes le mentionnent entre 1317 et 1322 comme vicaire de l'inquisiteur. Son *[[jeu-des-echecs-moralise|Jeu des échecs moralisé]]*, qui réunit des sermons, connut un succès immense dans toute l'Europe et fixa pour des siècles la lecture allégorique du jeu.
+texte: Son livre attribue l'invention du jeu au philosophe Xerxès, ou Philométor, qui voulait corriger le roi de Babylone Évilmérodach, fils de Nabuchodonosor, tyran qui avait fait dépecer le cadavre de son père. Chacun des huit pions y représente un métier : le laboureur, le forgeron, le notaire ou le drapier, le marchand, le médecin, le tavernier, le gardien de la cité, et enfin les ribauds, joueurs et messagers (voir [[pion-echecs|pion]]).
+texte: Plus d'une centaine de manuscrits, les traductions françaises de Jean de Vignay et de Jean Ferron au XIVe siècle, puis l'édition anglaise de William Caxton (1474), ont assuré sa renommée. Ses images de la société en pièces d'échecs ont nourri les sermons, les enluminures et, plus tard, les lectures symboliques du [[jeu-d-echecs|jeu]].
+texte: Les pièces nobles reçoivent elles aussi leur leçon : le [[roi-echecs|roi]] doit être juste et miséricordieux, les juges que figurent les [[fou-echecs|fous]] doivent rendre le droit sans faveur. Le dernier livre compare l'[[echiquier]] à la cité de Babylone, et la marche de chaque pièce à une manière de se conduire.
 repere: vers 1300 — Il compose le *Livre des mœurs des hommes* d'après le jeu des échecs.
 repere: 1317-1322 — Il est vicaire de l'inquisiteur à Gênes.
-voir: jeu-des-echecs-moralise, jeu-d-echecs
+voir: jeu-des-echecs-moralise, jeu-d-echecs, pion-echecs, roi-echecs, fou-echecs, echiquier
 
 @ legende-de-sissa
 cat: echecs

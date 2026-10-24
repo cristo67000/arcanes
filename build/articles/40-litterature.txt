@@ -24,7 +24,7 @@ an: 1910
 def: Roman de Gaston Leroux paru en feuilleton dans *Le Matin* en 1910 : dans la crypte des Saintes-Maries-de-la-Mer, les Bohémiens élisent leur roi et sacrent une reine au cours d'une nuit d'orgie ; puis l'intrigue gagne un empire imaginaire calqué sur l'Autriche.
 texte: Après un prologue à Paris, la première partie, « Les secrets de la crypte », conduit le lecteur aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]] pendant le pèlerinage de mai. Des tribus venues de toute l'Europe se rassemblent autour de [[sara-la-kali|sainte Sara]], la patronne des Gitans ; dans la crypte de l'église, parmi les cierges et les litanies, elles élisent tous les cinq ans leur roi, le « grand Coësre » — le titre que l'[[argot]] du XVIIe siècle donnait au roi des gueux —, et la reine élue au cours d'une nuit d'orgie y reçut le nom de « Reine du Sabbat ». On y croise un horloger parisien, un jeune géant, un nain à trois bras et une sorcière de la Forêt-Noire, Giska.
 texte: Le roman gagne ensuite l'Austrasie, empire imaginaire gouverné par la dynastie des Wolfburg, transparente image de l'Autriche des Habsbourg : la Hofburg, le drame de Mayerling, les complots des nationalités et le rêve d'une confédération des peuples du Danube où les Tziganes auraient leur place. Le livre paraît en volume chez Fayard en 1913. Leroux s'en souviendra en 1922, dans *[[rouletabille-chez-les-bohemiens|Rouletabille chez les Bohémiens]]*, où l'on évoque « la fameuse année où fut sacrée la Reine du Sabbat ». Une traduction anglaise de Hannaford Bennett, *The Midnight Lady*, paraît à Londres en 1930.
-voir: gaston-leroux, saintes-maries-de-la-mer, sara-la-kali, rouletabille-chez-les-bohemiens, sabbat, argot, le-tarot-des-bohemiens
+voir: gaston-leroux, saintes-maries-de-la-mer, sara-la-kali, rouletabille-chez-les-bohemiens, sabbat, argot, le-tarot-des-bohemiens, frederic-mistral
 
 @ rouletabille-chez-les-bohemiens
 cat: litterature
@@ -52,7 +52,7 @@ repere: 1521 — Vincent Philippon la nomme pour la première fois, comme servan
 repere: XIXe siècle — La présence des Gitans au pèlerinage est attestée.
 repere: 1910 — Gaston Leroux place dans sa crypte le début de *La Reine du Sabbat*.
 repere: 1935 — Première procession de sa statue jusqu'à la mer.
-voir: saintes-maries-de-la-mer, vierges-noires, marie-madeleine, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, le-tarot-des-bohemiens
+voir: saintes-maries-de-la-mer, vierges-noires, marie-madeleine, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, le-tarot-des-bohemiens, frederic-mistral
 
 @ le-tarot-des-bohemiens
 cat: textes
@@ -234,7 +234,7 @@ dates: 1667
 an: 1667
 def: Épopée de John Milton (1667) qui chante la révolte des anges, la chute de Satan, la création du monde et la faute d'Adam et Ève ; son Satan grandiose a fait de lui le héros romantique de la révolte.
 texte: Aveugle et ruiné après la restauration de la monarchie, le poète puritain John Milton dicte en vers blancs les dix chants publiés en 1667, puis répartis en douze en 1674. Satan, précipité dans l'abîme avec ses légions, se relève sur le lac de feu, bâtit la capitale des démons, le Pandémonium, puis franchit le chaos pour gagner le monde nouveau ; caché dans le serpent, il séduit Ève dans le [[jardin-d-eden|jardin d'Éden]], et l'archange Michel fait voir à Adam l'avenir de l'humanité avant de les chasser du Paradis.
-texte: Chateaubriand en publie en 1836 une traduction en prose, Gustave Doré l'illustre en 1866. [[william-blake|William Blake]], qui l'illustra aussi, écrivit que Milton « était du parti du diable sans le savoir » ; Byron, Shelley et les romantiques français ont fait du Satan de Milton le héros de la liberté révoltée, celui que l'on retrouve chez Hugo dans *[[la-fin-de-satan|La Fin de Satan]]*. La créature de *[[frankenstein|Frankenstein]]* apprend à lire dans ce livre.
+texte: Chateaubriand en publie en 1836 une traduction en prose, [[gustave-dore|Gustave Doré]] l'illustre en 1866. [[william-blake|William Blake]], qui l'illustra aussi, écrivit que Milton « était du parti du diable sans le savoir » ; Byron, Shelley et les romantiques français ont fait du Satan de Milton le héros de la liberté révoltée, celui que l'on retrouve chez Hugo dans *[[la-fin-de-satan|La Fin de Satan]]*. La créature de *[[frankenstein|Frankenstein]]* apprend à lire dans ce livre.
 extrait: La première désobéissance de l’homme et le fruit de cet arbre défendu dont le mortel goût apporta la mort dans le monde, et tous nos malheurs, avec la perte d’Éden, jusqu’à ce qu’un homme plus grand nous rétablît et reconquît le séjour bienheureux, chante, Muse céleste ! Sur le sommet secret d’Oreb et de Sinaï tu inspiras le berger qui le premier apprit à la race choisie comment, dans le commencement, le Ciel et la Terre sortirent du chaos.
 source: John Milton, *Le Paradis perdu*, 1667, livre I, trad. François-René de Chateaubriand, Renault et Cie, 1861 | ws Le Paradis perdu/Livre I
 voir: jardin-d-eden, william-blake, la-fin-de-satan, frankenstein, satanisme, saint-michel, demonologie

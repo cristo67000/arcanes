@@ -221,7 +221,7 @@ alias: École d'Athènes, Raphaël, chambre de la Signature, Platon et Aristote,
 dates: 1509 – 1511
 an: 1509
 def: Fresque de Raphaël peinte de 1509 à 1511 au Vatican, dans la chambre de la Signature, qui réunit sous une voûte antique les philosophes de la Grèce autour de Platon et d'Aristote, avec Pythagore, Euclide, Ptolémée et Zoroastre.
-texte: Au centre, [[platon|Platon]], le doigt levé vers le ciel, tient le *Timée* ; près de lui, Aristote, la main tendue vers la terre, l'*Éthique*. Autour d'eux, Socrate discute, Diogène s'étend sur les marches, [[pythagore|Pythagore]] écrit, entouré de disciples qui lui présentent une tablette des harmonies musicales ; Euclide, sous les traits de l'architecte Bramante, trace des figures au compas ; [[claude-ptolemee|Ptolémée]], couronné, tient le globe terrestre face à [[zoroastre|Zoroastre]], qui porte le globe céleste. On a reconnu Léonard de Vinci dans Platon et Michel-Ange dans Héraclite, pensif sur les marches ; Raphaël s'est peint près de Ptolémée.
+texte: Au centre, [[platon|Platon]], le doigt levé vers le ciel, tient le *Timée* ; près de lui, Aristote, la main tendue vers la terre, l'*Éthique*. Autour d'eux, Socrate discute, Diogène s'étend sur les marches, [[pythagore|Pythagore]] écrit, entouré de disciples qui lui présentent une tablette des harmonies musicales ; Euclide, sous les traits de l'architecte Bramante, trace des figures au compas ; [[claude-ptolemee|Ptolémée]], couronné, tient le globe terrestre face à [[zoroastre|Zoroastre]], qui porte le globe céleste. On a reconnu Léonard de Vinci dans Platon et [[michel-ange|Michel-Ange]] dans Héraclite, pensif sur les marches ; Raphaël s'est peint près de Ptolémée.
 texte: Peinte pour le pape Jules II, la fresque fait face à la *Dispute du Saint-Sacrement* : la vérité découverte par la raison répond à la vérité révélée, et le programme est celui de la Renaissance qui, de [[marsile-ficin|Ficin]] à [[pic-de-la-mirandole|Pic de la Mirandole]], réconciliait les sages païens et la foi chrétienne ([[prisca-theologia|théologie antique]]). Dans la même salle, Raphaël a peint le *[[jugement-de-salomon|Jugement de Salomon]]*.
 voir: platon, pythagore, zoroastre, claude-ptolemee, prisca-theologia, marsile-ficin, pic-de-la-mirandole, jugement-de-salomon, les-trois-philosophes
 
@@ -290,7 +290,7 @@ repere: 1896 — Fonde avec quatre amies le groupe des Cinq.
 repere: 1906 — Premières toiles abstraites, pour le Temple.
 repere: 1908 — Rencontre Rudolf Steiner.
 repere: 1944 — Mort à Djursholm, le 21 octobre.
-voir: abstraction-et-theosophie, theosophie, anthroposophie, rudolf-steiner, spiritisme, wassily-kandinsky, piet-mondrian
+voir: abstraction-et-theosophie, theosophie, anthroposophie, rudolf-steiner, spiritisme, wassily-kandinsky, piet-mondrian, goetheanum
 
 @ wassily-kandinsky
 cat: figures

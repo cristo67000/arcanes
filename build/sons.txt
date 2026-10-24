@@ -27,7 +27,7 @@
 commons: Wolf howls.ogg
 titre: Hurlements de loups
 credit: enregistrement versé au domaine public
-pour: loup
+pour: loup, loup-garou
 
 = corbeau-grand
 commons: Yellowstone sound library - Common Raven - 001.mp3
@@ -58,7 +58,7 @@ extrait: 20 50
 commons: Rattlesnake.ogg
 titre: La crécelle d’un crotale
 credit: enregistrement versé au domaine public
-pour: serpent
+pour: serpent, basilic
 
 = crapaud-commun
 commons: Erdkröte Paarungsruf.OGG
@@ -94,7 +94,7 @@ pour: cygne
 commons: Jem howls.ogg
 titre: Un chien hurle
 credit: amethysta, pdsounds.org, 2007
-pour: chien
+pour: chien, cerbere
 
 = chouette-cheveche
 commons: Steinkauz.OGG
@@ -108,6 +108,73 @@ commons: Humpbackwhale2.ogg
 titre: Le chant des baleines à bosse
 credit: Spyrogumas
 pour: leviathan, jonas
+
+= lion-rugissement
+commons: Lion raring-sound1TamilNadu178.ogg
+titre: Le rugissement d’un lion
+credit: த. உழவன், lion d’un parc zoologique du Tamil Nadu
+pour: lion-symbole, sphinx
+
+= cheval-hennissement
+commons: Wiehern.ogg
+titre: Le hennissement d’un cheval
+credit: enregistrement versé au domaine public
+pour: pegase, centaure, hippogriffe
+
+= chevaux-galop
+commons: Six Horses Galloping By.ogg
+titre: Six chevaux passent au galop
+credit: Bruno Auzet, Freesound Community et Pixabay
+pour: quatre-cavaliers
+
+= ane-braiment
+commons: 157763 felix-blume a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav
+titre: Un âne brait dans son enclos, dans le Midi de la France
+credit: Félix Blume, freesound.org
+pour: apulee
+
+= dauphins
+commons: 161691 felixblume dolphin-screaming-underwater-in-caribbean-sea-mexico.wav
+titre: Des dauphins s’appellent sous l’eau, dans la mer des Caraïbes
+credit: Félix Blume, freesound.org, au large du Mexique
+pour: dauphin
+
+= mouton-belement
+commons: Sheep bleating.ogg
+titre: Le bêlement d’un mouton
+credit: earthcalling, pdsounds.org
+pour: agneau, belier-symbole
+
+= chevres-troupeau
+commons: Herd of goats bleating.ogg
+titre: Un troupeau de chèvres
+credit: stephan, pdsounds.org
+pour: baphomet, pan
+
+= ours-grizzlis
+commons: Yellowstone sound library - Grizzly Bears Roar - 001.mp3
+titre: Deux grizzlis grondent l’un contre l’autre, sur une carcasse de bison
+credit: Jennifer Jerrett, NPS et MSU Acoustic Atlas, parc de Yellowstone
+pour: ours
+
+= cerf-brame
+commons: American Elk Bugling.ogg
+titre: Le brame d’un wapiti, le grand cerf d’Amérique du Nord
+credit: Jim Pisarowicz, parc national de Wind Cave (National Park Service)
+pour: cerf
+
+= elephant-barrissement
+commons: Elephant voice - trumpeting.ogg
+titre: Le barrissement d’un éléphant
+credit: தகவலுழவன், Tamil Nadu
+pour: elephant, behemoth
+
+= rossignol-1910
+commons: Song of a nightingale (1910).opus
+titre: Le chant d’un rossignol, sur un disque de 1910
+credit: Max Hampe, dans la volière de Karl Reich à Brême, disque Gramophone, 1910
+pour: langue-des-oiseaux
+extrait: 0 75
 
 % Musiques
 
@@ -211,6 +278,34 @@ titre: *Dies irae*, le jour de colère, chant grégorien
 credit: Membeth, 2010
 pour: apocalypse
 extrait: 0 100
+
+% Cloches
+
+= notre-dame-emmanuel
+commons: ND G1 Emmanuel.ogg
+titre: Le bourdon Emmanuel, la grande cloche de Notre-Dame, fondue en 1686
+credit: Rongaman, enregistré avant l’incendie de 2019
+pour: notre-dame-de-paris, victor-hugo
+extrait: 0 60
+
+= paris-saint-gervais
+commons: Saint gervais saint pro - Paris.oga
+titre: Les cloches de Saint-Gervais-Saint-Protais, à Paris
+credit: aldor, pdsounds.org
+pour: paris, la-bas
+
+= venise-saint-marc
+commons: GlockenSMarco.ogg
+titre: Les cloches de Saint-Marc, à Venise
+credit: Mafs, enregistrement versé au domaine public
+pour: venise
+
+= strasbourg-plenum
+commons: Plénum de la Cathédrale Notre Dame de Strasbourg - 9 juillet 2000.ogg
+titre: Toutes les cloches de la cathédrale de Strasbourg sonnent ensemble, le 9 juillet 2000
+credit: Claude Truong-Ngoc
+pour: cathedrale-de-strasbourg
+extrait: 0 75
 
 % Bruits
 

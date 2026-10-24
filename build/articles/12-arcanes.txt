@@ -56,10 +56,10 @@ cat: divination
 nom: L'Amoureux
 alias: Amoureux, les Amoureux, arcane VI, les Amants
 def: Sixième arcane majeur : un jeune homme entre deux femmes, sous un Cupidon qui bande son arc, figure du choix, du désir et de l'union.
-texte: Dans le tarot de Marseille, l'Amoureux hésite entre deux femmes, l'une plus âgée, l'autre plus jeune, qu'on a lues comme le vice et la vertu, la mère et l'épouse, ou deux voies de la vie. Au-dessus, un Cupidon ailé s'apprête à décocher sa flèche : le choix est aussi un coup du sort.
-texte: Le Rider-Waite, qui l'appelle les Amoureux, montre Adam et Ève nus sous un ange, devant l'arbre de la connaissance ; la Golden Dawn lui attribue les [[gemeaux|Gémeaux]]. En divination, il signifie une décision, un sentiment, une alliance.
+texte: Dans le [[tarot-de-marseille|tarot de Marseille]], l'Amoureux hésite entre deux femmes, l'une plus âgée, l'autre plus jeune, qu'on a lues comme le vice et la vertu, la mère et l'épouse, ou deux voies de la vie. Au-dessus, un Cupidon ailé, l'Éros des Grecs (voir [[eros-et-psyche|Éros et Psyché]]), s'apprête à décocher sa flèche : le choix est aussi un coup du sort.
+texte: Le [[tarot-rider-waite|Rider-Waite]], qui l'appelle les Amoureux, montre Adam et Ève nus sous un ange, devant l'arbre de la connaissance du [[jardin-d-eden|jardin d'Éden]] ; la Golden Dawn lui attribue les [[gemeaux|Gémeaux]]. En divination, il signifie une décision, un sentiment, une alliance.
 schema: arcanes-majeurs/6
-voir: arcanes-majeurs, androgyne, gemeaux
+voir: arcanes-majeurs, androgyne, gemeaux, eros-et-psyche, jardin-d-eden, tarot-rider-waite, tarot-de-marseille
 
 @ arcane-chariot
 cat: divination
@@ -116,10 +116,10 @@ cat: divination
 nom: Le Pendu
 alias: Pendu, arcane XII
 def: Douzième arcane majeur : un homme attaché par un pied à une potence, la tête en bas, les mains derrière le dos, figure de l'épreuve, du sacrifice et du renversement des valeurs.
-texte: L'image vient des « peintures infamantes » de l'Italie de la Renaissance, où l'on représentait les traîtres et les débiteurs en fuite pendus par un pied. Le Pendu a pourtant un visage serein, et ses jambes croisées dessinent la forme d'un quatre.
-texte: Les ésotéristes y voient l'initié qui accepte de voir le monde à l'envers pour le comprendre autrement, voire le Christ, ou Odin suspendu à l'arbre pour conquérir les runes. La Golden Dawn l'associe à l'élément eau. En divination, il signifie l'attente, l'impuissance provisoire, le lâcher-prise, le sacrifice consenti.
+texte: L'image vient des « peintures infamantes » de l'Italie de la Renaissance, où l'on représentait les traîtres et les débiteurs en fuite pendus par un pied. Le Pendu a pourtant un visage serein, et ses jambes croisées dessinent la forme d'un [[quatre]].
+texte: Les ésotéristes y voient l'initié qui accepte de voir le monde à l'envers pour le comprendre autrement, voire le Christ, ou [[sacrifice-d-odin|Odin suspendu à l'arbre]] pour conquérir les [[runes]]. La Golden Dawn l'associe à l'élément eau. En divination, il signifie l'attente, l'impuissance provisoire, le lâcher-prise, le sacrifice consenti.
 schema: arcanes-majeurs/12
-voir: arcanes-majeurs, runes, initiation
+voir: arcanes-majeurs, runes, initiation, francois-villon, sacrifice-d-odin, quatre, tarot-de-marseille
 
 @ arcane-sans-nom
 cat: divination
@@ -167,9 +167,11 @@ nom: L'Étoile
 alias: Étoile, arcane XVII, les Étoiles
 def: Dix-septième arcane majeur : une jeune femme nue, à genoux au bord de l'eau, qui verse deux cruches sous un ciel de huit étoiles, figure de l'espérance et de l'inspiration.
 texte: Sous une grande étoile entourée de sept plus petites, la femme répand une eau sur la terre et l'autre dans le courant ; un oiseau se pose sur un arbuste. La nudité dit la simplicité, la vérité sans voile ; l'eau qui coule, la générosité de la nature.
+texte: Dans les tarots peints pour les Visconti vers 1450 (voir [[milan|Milan]]), l'Étoile est une dame en robe longue qui élève une étoile de la main ; la jeune femme nue aux deux cruches est celle des [[tarot-de-marseille|tarots de Marseille]].
 texte: La Golden Dawn lui attribue le [[verseau|Verseau]]. En divination, elle signifie l'espoir, la guérison, la confiance, la protection.
+texte: [[eliphas-levi|Éliphas Lévi]] lui fait correspondre la lettre hébraïque *pé*, la [[golden-dawn|Golden Dawn]] la lettre *tsadé* ; [[aleister-crowley|Crowley]], sur la foi du *Livre de la Loi*, l'échange avec l'[[arcane-empereur|Empereur]]. En 1944, André Breton a pris la carte pour titre et pour emblème d'*[[arcane-17|Arcane 17]]*, méditation sur l'amour et l'espérance écrite au bord de la mer, en Gaspésie.
 schema: arcanes-majeurs/17
-voir: arcanes-majeurs, verseau, arcane-lune, arcane-17, les-chimeres
+voir: arcanes-majeurs, verseau, arcane-lune, arcane-17, les-chimeres, tarot-de-marseille, milan, arcane-soleil
 
 @ arcane-lune
 cat: divination
@@ -177,9 +179,11 @@ nom: La Lune
 alias: arcane XVIII, arcane XVIII la Lune
 def: Dix-huitième arcane majeur : une lune au visage de profil, entre deux tours, au-dessus de deux chiens qui hurlent et d'une écrevisse sortant d'un étang, figure du rêve, de l'illusion et des peurs.
 texte: La Lune répand des gouttes vers la terre ; deux chiens, ou un chien et un loup, aboient vers elle ; au premier plan, une écrevisse émerge de l'eau. Tout évoque la nuit, l'inconscient, l'imagination, les instincts et les dangers cachés.
+texte: Dans les tarots peints pour les Visconti vers 1450 (voir [[milan|Milan]]), la Lune est une femme qui tient un croissant ; le jeu dit de Charles VI, peint en Italie au XVe siècle, montre sous l'astre deux savants qui mesurent le ciel au compas. Les chiens, les tours et l'écrevisse sont ceux des [[tarot-de-marseille|tarots de Marseille]], que le [[tarot-rider-waite|Rider-Waite]] reprend en 1909.
 texte: La Golden Dawn lui attribue les [[poissons|Poissons]]. En divination, elle signifie l'incertitude, l'illusion, l'intuition, le monde des rêves.
+texte: [[eliphas-levi|Éliphas Lévi]] lui donne la lettre *tsadé*, la [[golden-dawn|Golden Dawn]] la lettre *qof*. Avec l'[[arcane-etoile|Étoile]] et le [[arcane-soleil|Soleil]], elle forme la suite des trois luminaires, de la nuit au plein jour.
 schema: arcanes-majeurs/18
-voir: arcanes-majeurs, lune, arcane-soleil
+voir: arcanes-majeurs, lune, arcane-soleil, arcane-etoile, tarot-de-marseille, milan
 
 @ arcane-soleil
 cat: divination
@@ -187,9 +191,10 @@ nom: Le Soleil
 alias: arcane XVIIII, arcane XIX, arcane le Soleil
 def: Dix-neuvième arcane majeur : un soleil rayonnant au visage humain, au-dessus de deux enfants qui se tiennent devant un muret, figure de la joie, de la clarté et de la réussite.
 texte: Le Soleil répand ses rayons et ses gouttes d'or sur deux enfants presque nus, qui se touchent avec tendresse. Après les inquiétudes de la Lune, c'est la lumière du jour, l'amitié, la fraternité, la vie retrouvée.
-texte: Le Rider-Waite montre un enfant nu sur un cheval blanc, devant des tournesols. La Golden Dawn lui attribue naturellement le [[soleil|Soleil]]. En divination, c'est l'une des cartes les plus favorables : succès, bonheur, union.
+texte: Le [[tarot-rider-waite|Rider-Waite]] montre un enfant nu sur un cheval blanc, devant des tournesols. La Golden Dawn lui attribue naturellement le [[soleil|Soleil]]. En divination, c'est l'une des cartes les plus favorables : succès, bonheur, union.
+texte: [[eliphas-levi|Éliphas Lévi]] lui donne la lettre *qof*, la [[golden-dawn|Golden Dawn]] la lettre *resh*, qui signifie « tête ». Il clôt la suite des trois luminaires, après l'[[arcane-etoile|Étoile]] et la Lune.
 schema: arcanes-majeurs/19
-voir: arcanes-majeurs, soleil, arcane-lune
+voir: arcanes-majeurs, soleil, arcane-lune, arcane-etoile, tarot-rider-waite, eliphas-levi
 
 @ arcane-jugement
 cat: divination

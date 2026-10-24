@@ -244,7 +244,7 @@ alias: momification, embaumement, mumia, poudre de momie, Osiris végétant
 def: Corps desséché et embaumé pour l'éternité selon les rites égyptiens ; l'Europe en a fait, du Moyen Âge au XVIIIe siècle, un remède, la « mumie », puis un personnage de roman.
 texte: L'embaumement durait soixante-dix jours : on ôtait le cerveau par le nez et les viscères par une incision, on desséchait le corps sous le natron, puis on l'enveloppait de centaines de mètres de bandelettes semées d'amulettes, sous la protection d'[[anubis|Anubis]]. Le premier momifié était [[osiris|Osiris]] ; chaque mort, devenu « un Osiris », devait garder son corps pour que son [[ka-et-ba|ka et son ba]] s'y rattachent. Les Égyptiens momifiaient aussi les animaux sacrés : chats de Bastet, ibis de [[thot|Thot]], crocodiles, taureaux.
 texte: Le mot vient du persan *mumiya*, le bitume : les médecins arabes prescrivaient ce bitume, et l'on prit l'habitude de broyer les corps embaumés qui en paraissaient imprégnés. La « mumie » figura dans les pharmacies européennes jusqu'au XVIIIe siècle ; [[paracelse|Paracelse]] fit de la *mumia* une force vitale subtile, qui joue un rôle dans la médecine magnétique de ses disciples. Le XIXe siècle découvre la momie dans les salons, où on la déroule en public, et dans la littérature : *[[le-roman-de-la-momie|Le Roman de la momie]]* de Gautier (1858), *L'Anneau de Thot* d'[[arthur-conan-doyle|Arthur Conan Doyle]] (1890), puis la [[malediction-du-pharaon|malédiction du pharaon]].
-voir: ka-et-ba, anubis, osiris, paracelse, malediction-du-pharaon, le-roman-de-la-momie
+voir: ka-et-ba, anubis, osiris, paracelse, malediction-du-pharaon, le-roman-de-la-momie, bezoard
 
 @ djed
 cat: egypte

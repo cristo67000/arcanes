@@ -9,6 +9,9 @@
  *
  * Chaque ligne ouvre l'article ; pour une note, la fiche s'ouvre au niveau
  * de « Mes notes ».
+ *
+ * Une cinquième rubrique, « Progression », fait les comptes : les articles
+ * ouverts, rubrique par rubrique, les parcours achevés, la révision.
  */
 (function (racine) {
 
@@ -70,6 +73,71 @@
     } catch (e) { /* sans magasin, pas de compte */ }
   }
 
+  /* Une barre de progression : `part` entre 0 et 1. */
+  function barre(part, classe) {
+    const j = element('span', 'pg-barre' + (classe ? ' ' + classe : ''));
+    const plein = element('span', 'pg-plein');
+    plein.style.width = Math.round(Math.max(0, Math.min(1, part)) * 100) + '%';
+    j.appendChild(plein);
+    return j;
+  }
+
+  async function dessinerProgression() {
+    let suivis = [];
+    try { suivis = await Store.tousLesSuivis(); } catch (e) { suivis = []; }
+    const parRef = new Map(suivis.map((s) => [s.ref, s]));
+    const lu = (id) => !!(parRef.get(id) || {}).vu;
+    const livres = Dictionnaire.livres;
+    const lus = livres.filter((a) => lu(a.id)).length;
+    const tete = element('section', 'pg-tete');
+    tete.appendChild(element('p', 'pg-chiffre', lus.toLocaleString('fr-FR')));
+    tete.appendChild(element('p', 'discret', 'article' + (lus > 1 ? 's' : '') + ' ouvert' + (lus > 1 ? 's' : '') + ' sur ' + livres.length.toLocaleString('fr-FR')));
+    tete.appendChild(barre(lus / (livres.length || 1), 'pg-total'));
+    el.contenu.appendChild(tete);
+
+    el.contenu.appendChild(element('h3', 'rubrique', 'Par rubrique'));
+    const ul = element('ul', 'pg-liste');
+    for (const c of Dictionnaire.categories) {
+      const dans = livres.filter((a) => a.c === c.id);
+      if (!dans.length) continue;
+      const n = dans.filter((a) => lu(a.id)).length;
+      const li = element('li', 'pg-ligne cat-' + c.id);
+      const nom = element('span', 'pg-nom');
+      nom.appendChild(element('span', 'point-cat'));
+      nom.appendChild(document.createTextNode(c.nom));
+      li.appendChild(nom);
+      li.appendChild(element('span', 'pg-compte', n + ' / ' + dans.length));
+      li.appendChild(barre(n / dans.length));
+      ul.appendChild(li);
+    }
+    el.contenu.appendChild(ul);
+
+    const parcours = Dictionnaire.parcours;
+    if (parcours.length) {
+      const acheves = parcours.filter((p) => p.e.every(lu)).length;
+      el.contenu.appendChild(element('h3', 'rubrique', 'Parcours : ' + acheves + ' achevé' + (acheves > 1 ? 's' : '') + ' sur ' + parcours.length));
+      const lp = element('ul', 'pg-liste');
+      for (const p of parcours) {
+        const n = p.e.filter(lu).length;
+        const li = element('li', 'pg-ligne pg-parcours');
+        const b = bouton('pg-nom lien-parcours', p.n, () => Fiche.ouvrir(p.e.find((id) => !lu(id)) || p.e[0], { parcours: p.id }));
+        li.appendChild(b);
+        li.appendChild(element('span', 'pg-compte', n === p.e.length ? 'achevé' : n + ' / ' + p.e.length));
+        li.appendChild(barre(n / p.e.length, n === p.e.length ? 'pg-fini' : ''));
+        lp.appendChild(li);
+      }
+      el.contenu.appendChild(lp);
+    }
+
+    const justes = suivis.reduce((n, s) => n + (s.ok || 0), 0);
+    const fausses = suivis.reduce((n, s) => n + (s.ko || 0), 0);
+    const revoir = suivis.filter((s) => s.aRevoir && Dictionnaire.parId(s.ref)).length;
+    el.contenu.appendChild(element('h3', 'rubrique', 'Révision'));
+    el.contenu.appendChild(element('p', 'discret', justes + fausses
+      ? Outils.pluriel(justes, 'bonne réponse', 'bonnes réponses') + ' sur ' + (justes + fausses) + ', ' + Outils.pluriel(revoir, 'article', 'articles') + ' à revoir.'
+      : 'Aucune séance de révision pour l’instant.'));
+  }
+
   async function dessiner() {
     const rub = etat.rubrique;
     el.contenu.textContent = '';
@@ -77,6 +145,8 @@
       b.setAttribute('aria-pressed', b.getAttribute('data-rubrique') === rub ? 'true' : 'false');
     }
     compter();
+    el.filtre.hidden = rub === 'progression';
+    if (rub === 'progression') { await dessinerProgression(); return; }
     const filtre = Outils.normaliser(etat.filtre);
     const bonne = (texte) => !filtre || Outils.normaliser(texte).includes(filtre);
     let lignes = [];

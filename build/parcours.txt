@@ -109,3 +109,60 @@ def: Le temple, les colonnes, la pierre à tailler, la mort et la résurrection 
 etapes: franc-maconnerie, loges-de-saint-jean, cabinet-de-reflexion, initiation-maconnique, temple-maconnique,
   colonnes-jakin-et-boaz, apprenti, pierre-brute, compagnon, maitre-macon, legende-d-hiram, acacia,
   tubal-cain, parole-perdue, grades-maconniques
+
+= arbre-de-vie
+nom: L'Arbre de vie
+def: De l'Infini caché au Royaume : les dix séphiroth de la kabbale, de la Couronne à Malkhout, avec leurs sentiers, leurs mondes, leur envers et leurs lectures hermétiques.
+etapes: ein-sof, tsimtsoum, arbre-des-sephiroth, sephiroth, keter, hokhmah, binah, daat, hesed, gueboura,
+  tiferet, netsah, hod, yesod, malkhout, shekhina, sentiers, quatre-mondes, qlipoth, kabbale-hermetique
+
+= planetes-zodiaque
+nom: Les planètes et le zodiaque
+def: Les sept astres errants des Anciens, les trois astres découverts depuis 1781, puis les douze signes qu'ils gouvernent, du Bélier aux Poissons.
+etapes: planetes, soleil, lune, mercure, venus, mars, jupiter, saturne, uranus, neptune, pluton, zodiaque,
+  belier, taureau, gemeaux, cancer, lion, vierge, balance, scorpion, sagittaire, capricorne, verseau, poissons,
+  dignites, triplicites
+
+= ciel-des-anciens
+nom: Le ciel des Anciens
+def: Comment les bâtisseurs de Stonehenge, les Égyptiens, les Grecs et les savants de la Renaissance ont lu le ciel : étoiles fixes, constellations, sphères, éclipses et comètes, jusqu'à Tycho Brahe et Kepler.
+etapes: stonehenge, dendera, constellation, ecliptique, equinoxes-et-solstices, precession, etoile-polaire,
+  grande-ourse, orion, sirius, pleiades, voie-lactee, etoiles-royales, etoiles-beheniennes, cosmos-geocentrique,
+  claude-ptolemee, harmonie-des-spheres, astrolabe, eclipse, comete, tycho-brahe, johannes-kepler
+
+= pierres-vertus
+nom: Les pierres et leurs vertus
+def: Les gemmes et les minéraux auxquels on a prêté des pouvoirs : lapidaires médiévaux, pierres de la Bible, talismans, contrepoisons et pierres de naissance, et ce qu'en disent les études.
+etapes: lapidaire, pectoral-du-grand-pretre, jerusalem-celeste, emeraude, saphir, rubis, escarboucle, diamant,
+  cristal-de-roche, amethyste, jade, lapis-lazuli, turquoise, cornaline, corail, ambre, aimant, obsidienne,
+  crapaudine, bezoard, pierre-de-foudre, pierres-de-naissance, lithotherapie
+
+= echecs-symboliques
+nom: Le jeu d'échecs symbolique
+def: Du chaturanga indien aux échecs énochiens de la Golden Dawn : les pièces, l'échiquier, le grain de blé de Sissa et les allégories morales, littéraires et magiques du jeu.
+etapes: chaturanga, legende-de-sissa, jeu-d-echecs, echiquier, roi-echecs, dame-echecs, fou-echecs,
+  cavalier-echecs, tour-echecs, pion-echecs, jacques-de-cessoles, jeu-des-echecs-moralise, lewis-carroll,
+  de-l-autre-cote-du-miroir, echecs-enochiens, marcel-duchamp, alan-turing
+
+= codes-secrets
+nom: Les codes secrets
+def: De l'atbash biblique à l'Enigma : vingt-cinq siècles de chiffres et d'écritures cachées, des cryptographes de la Renaissance aux énigmes que nul n'a percées.
+etapes: cryptographie, atbash, scytale, carre-de-polybe, chiffre-de-cesar, analyse-des-frequences,
+  disque-d-alberti, jean-tritheme, steganographie, grille-de-cardan, chiffre-de-vigenere,
+  chiffre-de-marie-stuart, chiffre-de-bacon, grand-chiffre, codex-copiale, alphabet-maconnique,
+  le-scarabee-d-or, cryptogrammes-de-beale, chiffre-adfgvx, enigma, alan-turing, manuscrit-de-voynich
+
+= paris-esoterique
+nom: Paris ésotérique
+def: D’une maison de Nicolas Flamel à la tombe d’Allan Kardec : les lieux, les livres et les figures du Paris des alchimistes, des devineresses, des loges et des spirites.
+etapes: paris, notre-dame-de-paris, mystere-des-cathedrales, fulcanelli, julien-champagne, tour-saint-jacques,
+  nicolas-flamel, maison-de-nicolas-flamel, livre-des-figures-hieroglyphiques, saint-sulpice, affaire-des-poisons,
+  mademoiselle-lenormand, les-neuf-soeurs, eliphas-levi, salons-de-la-rose-croix, opera-garnier, pere-lachaise,
+  allan-kardec
+
+= rennes-le-chateau
+nom: L’énigme de Rennes-le-Château
+def: Un curé, un trésor et des parchemins : comment une église du Razès est devenue la grande énigme ésotérique du XXe siècle, et ce qu’en ont montré les enquêtes.
+etapes: rennes-le-chateau, berenger-sauniere, henri-boudet, rennes-les-bains, bugarach, parchemins-de-rennes-le-chateau,
+  nicolas-poussin, inscription-de-shugborough, gerard-de-sede, pierre-plantard, prieure-de-sion, merovingiens,
+  catharisme, montsegur, otto-rahn, peyrepertuse, queribus

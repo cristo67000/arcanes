@@ -15,3 +15,18 @@ ul { padding-left: 1.3rem; }
 li { margin: .3rem 0; }
 .retour { margin: 0 0 .5rem; font-family: var(--sans); }
 .mise-a-jour { color: var(--encre-legere); font-size: .9rem; }
+
+/* les pages des articles (a/*.html, build/pages.mjs) */
+.page-article .rubrique-page { margin: 1rem 0 0; font: 700 .75rem var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--encre-legere); }
+.page-article h1 { margin-top: .2rem; }
+.page-article .dates { margin: -.6rem 0 .8rem; color: var(--encre-douce); font-family: var(--sans); font-size: .92rem; }
+.page-article figure { margin: 1rem 0; text-align: center; }
+.page-article figure img { max-width: 100%; height: auto; border-radius: 8px; }
+.page-article figcaption { font-size: .88rem; color: var(--encre-douce); line-height: 1.4; }
+.page-article .credit { font-size: .8rem; color: var(--encre-legere); }
+.page-article .definition { font-style: italic; padding: .6rem .9rem; border-left: 3px solid var(--or); background: var(--carte); border-radius: 8px; }
+.page-article .attention { padding: .6rem .9rem; background: var(--warn-fond); border-radius: 8px; }
+.page-article blockquote { margin: .8rem 0 .3rem; padding: .2rem 1rem; border-left: 3px solid var(--or); font-style: italic; color: var(--encre-douce); }
+.page-article .source, .page-article .voisins { font-size: .92rem; }
+.page-article .reperes { padding-left: 1.1rem; }
+.page-article .pied { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--trait); font-family: var(--sans); }

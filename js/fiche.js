@@ -48,7 +48,7 @@
 
   // ── Ouverture et fermeture ────────────────────────────────────────────────
 
-  /* options : { surligne: requête, defiler: 'notes' | false, parcours: id }.
+  /* options : { surligne: requête, defiler: 'notes' | 'outil' | false, parcours: id }.
    * Le parcours suivi se poursuit d'un article à l'autre tant qu'il passe par
    * l'article ouvert ; « retour » retrouve celui du niveau précédent. */
   function ouvrir(ref, options) {
@@ -108,6 +108,7 @@
     if (guetteur) { guetteur.disconnect(); guetteur = null; }
     Voix.taire();
     Sons.arreter();
+    Manipuler.arreter();
     document.body.classList.remove('fiche-ouverte');
     document.dispatchEvent(new CustomEvent('fiche-fermee'));
     rendreLeFocus();
@@ -139,7 +140,9 @@
   // ── Partager, écouter ─────────────────────────────────────────────────────
 
   async function partager(a) {
-    const adresse = Installer.ADRESSE + '?article=' + encodeURIComponent(a.id);
+    // la page web de l'article : un aperçu à son nom dans les messageries,
+    // et un lien qui l'ouvre dans l'application
+    const adresse = Installer.ADRESSE + 'a/' + encodeURIComponent(a.id) + '.html';
     const contenu = { title: a.n + ' — Arcanes', text: a.defNue, url: adresse };
     if (racine.navigator.share) {
       try { await racine.navigator.share(contenu); return; } catch (e) { if (e && e.name === 'AbortError') return; }
@@ -437,6 +440,7 @@
       Store.notesDe(ref).catch(() => []),
     ]);
     if (jeton !== etat.jeton) return;
+    Manipuler.arreter();
     corps.textContent = '';
     if (!a) { corps.appendChild(element('p', 'vide', 'Cet article n’existe plus.')); return; }
     etat.notes = notes.sort((x, y) => x.cree - y.cree);
@@ -531,6 +535,10 @@
     for (const reste of insertions) texte.appendChild(reste);
     corps.appendChild(texte);
 
+    // Un outil à manipuler : tirer le tarot, chiffrer un message…
+    const outil = Manipuler.bloc(a);
+    if (outil) corps.appendChild(outil);
+
     const extraits = blocExtraits(a, surligne);
     if (extraits) corps.appendChild(extraits);
 
@@ -584,8 +592,8 @@
 
     conteneur.setAttribute('aria-label', a.n);
     guetterTitre(titre, barre);
-    if (defiler === 'notes') {
-      const n = document.getElementById('mes-notes');
+    if (defiler === 'notes' || defiler === 'outil') {
+      const n = document.getElementById(defiler === 'notes' ? 'mes-notes' : 'manipuler');
       conteneur.scrollTop = n ? n.offsetTop - 60 : 0;
     } else if (defiler !== false) {
       conteneur.scrollTop = 0;

@@ -394,13 +394,14 @@ an: 1912
 def: Mathématicien britannique, fondateur de l'informatique théorique, qui dirigea à Bletchley Park le déchiffrement de l'Enigma navale ; condamné pour homosexualité, il mourut en 1954 et fut réhabilité en 2013.
 texte: En 1936, Turing imagine une machine abstraite capable d'exécuter tout calcul décrit par une règle : la « machine de Turing » fonde la théorie des ordinateurs. Recruté en 1939 par le service du chiffre britannique, il rejoint [[bletchley-park|Bletchley Park]], où il conçoit avec Gordon Welchman les « bombes » électromécaniques qui testent les réglages d'[[enigma|Enigma]], et dirige la Hut 8, chargée des messages de la marine allemande : les convois de l'Atlantique en dépendaient.
 texte: Après la guerre, il participe aux premiers ordinateurs de Manchester, propose en 1950 le « jeu de l'imitation », devenu le test de Turing, et étudie la formation des formes chez les êtres vivants. Poursuivi en 1952 pour homosexualité, il accepte une castration chimique ; on le trouve mort le 7 juin 1954, empoisonné au cyanure, une pomme entamée près de lui. Le gouvernement britannique s'est excusé en 2009 et la reine l'a gracié en 2013 ; son portrait orne depuis 2021 le billet de cinquante livres.
+texte: Il écrit aussi en 1948, avec David Champernowne, l'un des premiers programmes de [[jeu-d-echecs|jeu d'échecs]], qu'il doit exécuter à la main faute de machine assez puissante. Ses travaux sur la morphogenèse le conduisent à étudier la disposition des feuilles et des graines selon la suite de Fibonacci, liée au [[nombre-d-or|nombre d'or]].
 repere: 1912 — Naissance à Londres, le 23 juin.
 repere: 1936 — « Sur les nombres calculables ».
 repere: 1939 — Il rejoint Bletchley Park.
 repere: 1950 — « Les ordinateurs et l'intelligence ».
 repere: 1954 — Mort à Wilmslow, le 7 juin.
 repere: 2013 — Grâce royale posthume.
-voir: enigma, bletchley-park, cryptographie
+voir: enigma, bletchley-park, cryptographie, nombre-d-or, jeu-d-echecs
 
 @ edgar-allan-poe
 cat: figures
@@ -674,12 +675,13 @@ an: 1431
 def: Poète français du XVe siècle, clerc et mauvais garçon, auteur du *Testament* et de la *Ballade des pendus*, qui composa des ballades dans le jargon secret des Coquillards.
 texte: Né à Paris vers 1431, élevé par le chapelain Guillaume de Villon dont il prend le nom, maître ès arts, François de Montcorbier tue un prêtre dans une rixe en 1455, participe l'année suivante au vol du collège de Navarre et fréquente les Coquillards, bande de malfaiteurs dont la justice de Dijon venait de relever le jargon. Il compose le *Lais* (1456) et le *Testament* (1461), où se mêlent la peur de la mort, la satire et la prière, comme dans la *Ballade pour prier Notre-Dame*, qui porte son nom en [[acrostiche]]. Condamné à être pendu en 1462, il voit sa peine commuée en bannissement en janvier 1463 ; on perd alors sa trace.
 texte: L'imprimeur Pierre Levet publie en 1489 ses six ballades « en jargon », écrites dans l'[[argot]] des Coquillards, langue secrète que l'on n'a jamais entièrement déchiffrée. La *Ballade des pendus*, écrite dans l'attente de la potence, est l'un des plus célèbres poèmes de la langue française.
+texte: Sa légende de poète voyou s'est formée très tôt : [[francois-rabelais|Rabelais]] lui prête des farces dans le *Quart Livre*. La *Ballade des pendus* fait parler les corps balancés par le vent ; le [[arcane-pendu|Pendu]] des tarots, suspendu par un pied, relève d'un autre châtiment, celui des peintures infamantes.
 repere: vers 1431 — Naissance à Paris.
 repere: 1455 — Il tue un prêtre ; procès des Coquillards à Dijon.
 repere: 1461 — *Le Testament*.
 repere: 1463 — Sa condamnation à mort est commuée en bannissement.
 repere: 1489 — Première édition de ses œuvres, avec les ballades en jargon.
-voir: argot, acrostiche, argot-des-batisseurs
+voir: argot, acrostiche, argot-des-batisseurs, arcane-pendu, francois-rabelais
 
 @ frederic-mistral
 cat: figures
@@ -690,9 +692,10 @@ an: 1830
 def: Poète provençal, fondateur du Félibrige et prix Nobel de littérature en 1904, dont l'épopée *Mireille* (1859) s'achève aux Saintes-Maries-de-la-Mer, où l'héroïne mourante voit les saintes venir sur la mer.
 texte: Né à Maillane, fils d'un riche propriétaire, Mistral fonde le 21 mai 1854, avec six autres poètes, le Félibrige, qui veut rendre au provençal sa dignité de langue littéraire. *Mirèio* (1859), qu'il publie avec sa propre traduction française en regard, raconte en douze chants l'amour de la fille d'un riche fermier pour un pauvre vannier ; Lamartine la salue comme une épopée homérique et Gounod en tire un opéra en 1864. Mireille, fuyant la ferme, traverse la Crau et la Camargue pour implorer les saintes Maries et meurt dans leur église.
 texte: Il consacre vingt ans à un grand dictionnaire de la langue d'oc, *Lou Tresor dóu Felibrige*, et emploie l'argent de son prix Nobel, en 1904, au Museon Arlaten d'Arles, musée de la vie provençale. Il meurt à Maillane en 1914. Son œuvre a fixé l'image de la Provence des légendes, des [[saintes-maries-de-la-mer|Saintes-Maries]] à la [[tarasque|Tarasque]].
+texte: Mistral est mort trop tôt pour voir la procession des Gitans vers la mer, qui n'a lieu qu'à partir de 1935, avec [[sara-la-kali|Sara la Kali]] ; mais *Mireille* avait déjà fait des Saintes-Maries un haut lieu de la Provence légendaire, que Gaston Leroux reprend en 1910 dans *[[la-reine-du-sabbat|La Reine du Sabbat]]*.
 repere: 1830 — Naissance à Maillane, le 8 septembre.
 repere: 1854 — Fondation du Félibrige.
 repere: 1859 — *Mirèio*.
 repere: 1904 — Prix Nobel de littérature.
 repere: 1914 — Mort à Maillane, le 25 mars.
-voir: saintes-maries-de-la-mer, marie-madeleine, tarasque
+voir: saintes-maries-de-la-mer, marie-madeleine, tarasque, sara-la-kali, la-reine-du-sabbat

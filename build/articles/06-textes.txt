@@ -9,10 +9,10 @@ an: 200
 dates: IIe – IIIe siècles ; traduit par Ficin en 1463
 def: Recueil de dix-sept traités grecs attribués à Hermès Trismégiste, composés dans l'Égypte romaine, qui enseignent la connaissance de Dieu, du monde et de l'homme.
 texte: Ces traités, de longueur et d'inspiration variées, se présentent comme des dialogues entre [[hermes-trismegiste|Hermès]] et ses disciples, Tat, Asclépius ou Ammon. Ils ont été réunis par des copistes byzantins, peut-être au XIe siècle. Le premier, le *[[poimandres|Poimandrès]]*, raconte la création du monde et la chute de l'homme ; d'autres enseignent que Dieu est bon, que le monde est son image et que l'homme peut devenir divin par la connaissance, ou décrivent une renaissance spirituelle.
-texte: En 1462, un moine rapporte de Macédoine un manuscrit à [[florence|Florence]] ; [[marsile-ficin]] le traduit en latin pour Cosme de Médicis, et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
+texte: En 1462, un moine rapporte de Macédoine un manuscrit à [[florence|Florence]] ; [[marsile-ficin]] le traduit en latin pour [[cosme-de-medicis|Cosme de Médicis]], et la traduction, imprimée en 1471 sous le titre de *Pimander*, connaît seize éditions avant la fin du XVIe siècle. L'édition savante de référence est celle d'Arthur Darby Nock et d'André-Jean Festugière (1945-1954).
 extrait: Et voilà pourquoi, seul de tous les êtres qui vivent sur la terre, l’homme est double, mortel par le corps, immortel par sa propre essence. Immortel et souverain de toutes choses, il est soumis à la destinée qui régit ce qui est mortel ; supérieur à l’harmonie du monde, il est captif dans ses liens ; mâle et femelle comme son père et supérieur au sommeil, il est dominé par le sommeil.
 source: Hermès Trismégiste, *Poimandrès*, trad. Louis Ménard, 1866 | gallica bpt6k480243v = l’édition de 1867 numérisée | ws Hermès Trismégiste (trad. Ménard)/Poimandrès
-voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose, florence, logos, cathedrale-de-sienne
+voir: hermetisme, hermes-trismegiste, poimandres, asclepius, marsile-ficin, gnose, florence, logos, cathedrale-de-sienne, kybalion
 
 @ poimandres
 cat: textes
@@ -46,7 +46,7 @@ an: 800
 def: Bref texte attribué à Hermès Trismégiste, connu d'abord en arabe, qui résume en quelques sentences énigmatiques le secret de l'unité du monde et de l'œuvre alchimique.
 texte: La plus ancienne version connue figure, vers l'an 800, à la fin d'un livre arabe attribué à [[apollonius-de-tyane|Balînâs]], où elle est censée avoir été trouvée dans un caveau, entre les mains d'Hermès mort. Traduite en latin au XIIe siècle, elle devient le texte le plus cité de l'[[alchimie]]. Sa phrase la plus célèbre : « Ce qui est en bas est comme ce qui est en haut, et ce qui est en haut est comme ce qui est en bas, pour accomplir les miracles d'une seule chose. »
 texte: Elle évoque une chose unique dont le père est le Soleil, la mère la Lune, que le vent a portée dans son ventre et que la Terre nourrit ; il faut séparer le subtil de l'épais, monter de la terre au ciel et redescendre. Les alchimistes y lisaient la recette de la [[pierre-philosophale]] ; les ésotéristes y voient la formule même des [[correspondances]] et du rapport entre [[microcosme-macrocosme|microcosme et macrocosme]]. [[isaac-newton]] en a fait une traduction.
-voir: hermes-trismegiste, alchimie, correspondances, microcosme-macrocosme, apollonius-de-tyane
+voir: hermes-trismegiste, alchimie, correspondances, microcosme-macrocosme, apollonius-de-tyane, kybalion
 
 @ oracles-chaldaiques
 cat: textes
@@ -98,7 +98,7 @@ an: -250
 def: Écrit juif des derniers siècles avant notre ère, attribué au patriarche Hénoch, qui raconte la chute des anges « Veilleurs » et décrit les secrets du ciel.
 texte: Selon la Genèse, Hénoch « marcha avec Dieu, puis il ne fut plus, car Dieu l'avait pris ». Le livre placé sous son nom raconte que deux cents anges, les Veilleurs, descendirent sur terre, s'unirent aux femmes et enseignèrent aux hommes la métallurgie, les fards, la magie et l'astrologie ; leurs fils, des géants, ravagèrent la terre, d'où le Déluge. Hénoch, emmené au ciel, en visite les demeures et apprend le cours des astres.
 texte: Perdu en Occident, le livre a été conservé intégralement en éthiopien : l'Église d'Éthiopie le tient pour canonique. L'explorateur James Bruce en rapporte des copies en 1773. Le nom d'Hénoch a été donné à la [[magie-enochienne|magie énochienne]] de [[john-dee]], que les anges présentaient comme la langue enseignée au patriarche.
-voir: anges, magie-enochienne, demonologie, apocryphes, deluge
+voir: anges, magie-enochienne, demonologie, apocryphes, deluge, evangile-de-pierre
 
 @ sefer-yetsirah
 cat: textes
@@ -157,9 +157,9 @@ nom: Turba philosophorum
 alias: Turba, Assemblée des philosophes, Code de vérité
 an: 1100
 def: Texte alchimique traduit de l'arabe en latin vers le XIIe siècle, mise en scène d'une assemblée de philosophes antiques débattant du secret de l'œuvre.
-texte: Sous la présidence de Pythagore, des philosophes grecs aux noms souvent déformés — Anaxagore, Empédocle, Socrate… — prennent tour à tour la parole pour exposer, chacun à sa manière, la préparation de la [[pierre-philosophale]]. Les discours se contredisent en apparence ; le lecteur doit découvrir sous les noms divers une seule matière et une seule opération.
+texte: Sous la présidence de [[pythagore|Pythagore]], des philosophes grecs aux noms souvent déformés — Anaxagore, Empédocle, Socrate… — prennent tour à tour la parole pour exposer, chacun à sa manière, la préparation de la [[pierre-philosophale]]. Les discours se contredisent en apparence ; le lecteur doit découvrir sous les noms divers une seule matière et une seule opération.
 texte: L'original arabe, perdu, remonte sans doute au Xe siècle. La *Turba* devient au Moyen Âge l'une des plus hautes autorités de l'[[alchimie]] : on la cite sans cesse, et son style d'assemblée énigmatique est souvent imité.
-voir: alchimie, pierre-philosophale, materia-prima
+voir: alchimie, pierre-philosophale, materia-prima, pythagore
 
 @ rosaire-des-philosophes
 cat: textes
@@ -362,7 +362,8 @@ an: 1612
 def: Premier livre de Jakob Boehme, écrit en 1612, qui décrit la vie de Dieu, la création et la chute des anges à partir de l'illumination de son auteur.
 texte: Boehme y rapporte ce qu'il a vu en 1600 : la nature entière manifeste un combat de forces, la colère et l'amour, le dur et le doux, au sein de Dieu même. Il décrit sept « esprits sources » à l'œuvre dans toute chose, la chute de Lucifer qui a corrompu la nature, et l'espérance d'une aube nouvelle.
 texte: Copié à son insu, le manuscrit parvient au pasteur de Görlitz, qui fait condamner l'auteur au silence. Publié après la mort de [[jakob-boehme]], le livre devient le texte fondateur de la [[theosophie-chretienne|théosophie chrétienne]].
-voir: jakob-boehme, theosophie-chretienne
+texte: [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]], qui appelait Boehme son « second maître », le traduit en français en 1800 sous le titre *L'Aurore naissante, ou la Racine de la philosophie, de l'astrologie et de la théologie*. Ses [[sept]] esprits sources et sa chute des [[anges]] ont nourri toute la théosophie de langue allemande, de [[friedrich-christoph-oetinger|Friedrich Christoph Oetinger]] à Franz von Baader.
+voir: jakob-boehme, theosophie-chretienne, louis-claude-de-saint-martin, sept, anges
 
 @ splendor-solis
 cat: textes
@@ -418,7 +419,8 @@ an: 1749
 def: Œuvre maîtresse d'Emanuel Swedenborg, publiée en latin à Londres de 1749 à 1756, qui révèle verset par verset le sens spirituel de la Genèse et de l'Exode.
 texte: Dans ces huit volumes, [[emanuel-swedenborg|Swedenborg]] soutient que l'Écriture possède, sous le sens littéral, un sens interne fondé sur les [[correspondances]] : chaque mot désigne une réalité spirituelle. Entre les chapitres, il rapporte ce qu'il a vu et entendu dans le monde des esprits, où il dit séjourner depuis des années.
 texte: Publiés anonymement, les *Arcanes célestes* se vendent d'abord très mal. Ils deviennent pourtant le texte de référence de l'Église de la Nouvelle Jérusalem et de tous les lecteurs de Swedenborg.
-voir: emanuel-swedenborg, correspondances, anges
+texte: Le premier livre lit ainsi le récit du [[jardin-d-eden|jardin d'Éden]] comme l'histoire spirituelle de la « très ancienne Église ». Le poète [[william-blake|William Blake]], qui assista en 1789 à la première conférence de la Nouvelle Église à Londres, annota les livres de Swedenborg avant de s'en moquer dans *Le Mariage du Ciel et de l'Enfer*.
+voir: emanuel-swedenborg, correspondances, anges, william-blake, jardin-d-eden
 
 @ monde-primitif
 cat: textes
@@ -510,7 +512,8 @@ an: 1908
 def: Petit livre publié à Chicago en 1908 par « Trois Initiés », qui expose sept principes présentés comme ceux de l'hermétisme antique.
 texte: Les sept principes sont ceux du mentalisme (« le Tout est esprit »), de la correspondance, de la vibration, de la polarité, du rythme, de la cause et de l'effet, et du genre. Le livre se présente comme le commentaire d'un recueil de maximes hermétiques très ancien.
 texte: Il est en réalité attribué à William Walker Atkinson, auteur prolifique de la [[nouvelle-pensee|Nouvelle Pensée]], et ne doit presque rien aux textes de l'[[hermetisme]] antique. Il reste très lu dans les milieux ésotériques et dans le développement personnel.
-voir: nouvelle-pensee, hermetisme, correspondances
+texte: Son principe de correspondance, « ce qui est en haut est comme ce qui est en bas », reprend une formule de la [[table-d-emeraude|Table d'émeraude]], texte arabe puis latin du Moyen Âge attribué à [[hermes-trismegiste|Hermès Trismégiste]] ; les traités grecs du [[corpus-hermetique|Corpus hermétique]], eux, ne connaissent pas ses sept principes.
+voir: nouvelle-pensee, hermetisme, correspondances, table-d-emeraude, hermes-trismegiste, corpus-hermetique
 
 @ livre-de-la-loi
 cat: textes
@@ -529,7 +532,7 @@ alias: Mystère des cathédrales, Le Mystère des cathédrales et l'interprétat
 an: 1926
 dates: 1926 ; réédition augmentée en 1957
 def: Livre de l'alchimiste anonyme Fulcanelli, publié en 1926, qui interprète les sculptures des cathédrales gothiques comme un livre de pierre de l'alchimie.
-texte: Publié à Paris en 1926 chez Jean Schemit, avec une préface d'[[eugene-canseliet|Eugène Canseliet]] et des planches du peintre Julien Champagne, le livre s'ouvre sur un souvenir d'enfance : l'émotion d'un garçon de sept ans devant une cathédrale. Pour [[fulcanelli]], la cathédrale gothique n'est pas seulement un monument de la foi chrétienne : c'est le « sanctuaire de la Tradition, de la Science et de l'Art », un livre d'images où les bâtisseurs, héritiers des philosophes, ont gravé dans la pierre les secrets du [[grand-oeuvre|Grand Œuvre]].
+texte: Publié à Paris en 1926 chez Jean Schemit, avec une préface d'[[eugene-canseliet|Eugène Canseliet]] et des planches du peintre [[julien-champagne|Julien Champagne]], le livre s'ouvre sur un souvenir d'enfance : l'émotion d'un garçon de sept ans devant une cathédrale. Pour [[fulcanelli]], la cathédrale gothique n'est pas seulement un monument de la foi chrétienne : c'est le « sanctuaire de la Tradition, de la Science et de l'Art », un livre d'images où les bâtisseurs, héritiers des philosophes, ont gravé dans la pierre les secrets du [[grand-oeuvre|Grand Œuvre]].
 texte: Il lit ainsi le grand portail de [[notre-dame-de-paris|Notre-Dame de Paris]] : la femme assise au pied du trumeau, tenant un sceptre et une échelle à neuf échelons, serait l'Alchimie elle-même, et les médaillons des vertus et des vices montreraient les matières et les opérations de l'œuvre. Il étudie de même le portail d'Amiens, puis, à Bourges, l'[[hotel-lallemant|hôtel Lallemant]] et la maison de Jacques Cœur. Tout au long, il joue sur l'argot des bâtisseurs et sur la « [[langue-des-oiseaux|langue des oiseaux]] », une lecture des mots par leurs sonorités : l'art « gothique » serait l'art « goth », l'argot, langue secrète des initiés.
 texte: La réédition de 1957 ajoute un chapitre sur la [[croix-d-hendaye|croix d'Hendaye]], où l'auteur annonce la fin d'un cycle du monde. Les historiens de l'art et de l'alchimie, comme Robert Halleux ou Didier Kahn, ne retiennent pas ces interprétations, qui prêtent aux sculpteurs médiévaux un savoir qu'aucun document n'atteste. Mais le livre, réédité sans cesse et popularisé par *Le Matin des magiciens*, a profondément marqué l'image populaire des cathédrales comme lieux de savoirs cachés, et l'on cherche encore sur les portails de Notre-Dame les figures qu'il décrit.
 repere: 1926 — Première édition, chez Jean Schemit, à Paris.
@@ -617,7 +620,7 @@ an: 1200
 def: Traité médiéval de magie rituelle attribué à Salomon, qui promettait d'acquérir en peu de temps tous les savoirs par des prières, des mots mystérieux et la contemplation de figures.
 texte: L'*Art notoire* apparaît en latin vers la fin du XIIe siècle et circule dans de nombreux manuscrits, souvent richement illustrés. Il se présente comme une révélation faite au roi [[salomon]] par un ange, qui lui enseigna en une nuit toute la sagesse. Son but n'est ni de faire de l'or ni d'invoquer des démons, mais d'obtenir la connaissance : maîtriser en quelques semaines les arts libéraux, la philosophie et la théologie, acquérir une mémoire infaillible et l'éloquence.
 texte: La méthode associe des prières, mêlées de mots étranges dits chaldéens, grecs ou hébreux, des jeûnes et des purifications, à la contemplation de « notes » : des figures complexes, faites de cercles, de lettres et d'entrelacs, propres à chaque discipline, qu'il faut regarder en récitant les oraisons à des jours et à des heures déterminés. Pratique d'étudiants et de clercs, l'Art notoire était une magie savante et pieuse, aux frontières de la prière.
-texte: L'Église ne l'entendit pas ainsi. Thomas d'Aquin le condamne comme une superstition qui suppose un pacte tacite avec les démons, et la faculté de théologie de Paris le range en 1398 parmi les pratiques défendues. Au XIVe siècle, un moine bénédictin, Jean de Morigny, raconte comment l'Art notoire l'a conduit à des visions démoniaques, puis compose un livre de prières destiné à le remplacer. Le texte a continué de circuler jusqu'à l'époque moderne ; il est traduit en anglais en 1657 et appartient à la vaste littérature de la [[magie-ceremonielle|magie cérémonielle]] placée sous le nom de Salomon, à côté de la *[[clavicule-de-salomon|Clavicule]]*.
+texte: L'Église ne l'entendit pas ainsi. [[thomas-d-aquin|Thomas d'Aquin]] le condamne comme une superstition qui suppose un pacte tacite avec les démons, et la faculté de théologie de Paris le range en 1398 parmi les pratiques défendues. Au XIVe siècle, un moine bénédictin, Jean de Morigny, raconte comment l'Art notoire l'a conduit à des visions démoniaques, puis compose un livre de prières destiné à le remplacer. Le texte a continué de circuler jusqu'à l'époque moderne ; il est traduit en anglais en 1657 et appartient à la vaste littérature de la [[magie-ceremonielle|magie cérémonielle]] placée sous le nom de Salomon, à côté de la *[[clavicule-de-salomon|Clavicule]]*.
 repere: fin du XIIe siècle — Premières versions latines de l'*Art notoire*.
 repere: vers 1270 — Thomas d'Aquin condamne l'Art notoire.
 repere: vers 1310 — Jean de Morigny compose un livre de prières pour le remplacer.

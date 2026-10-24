@@ -440,6 +440,9 @@
       };
     },
     recettes: Object.keys(RECETTES),
+    /* Le contexte audio partagé, pour les outils qui jouent leurs propres sons
+     * (le Morse de js/manipuler.js) ; null si le navigateur n'en a pas. */
+    contexte: ctx,
   };
   racine.Bruiteur = Bruiteur;
 

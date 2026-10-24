@@ -11,12 +11,15 @@
  *
  * Les dates antiques et médiévales sont souvent incertaines : l'article dit
  * « vers », la frise ne fait que ranger.
+ *
+ * Deux façons de la lire : le bandeau (js/bandeau.js), où les siècles vont en
+ * largeur et les vies en barres, et la liste, de haut en bas.
  */
 (function (racine) {
 
   const { element, bouton } = Outils;
 
-  const etat = { cat: null, dessinee: false };
+  const etat = { cat: null, dessinee: false, vue: 'bandeau' };
   let el = {};
 
   function dessinerFiltres(presentes) {
@@ -53,6 +56,24 @@
     const tous = Dictionnaire.frise();
     dessinerFiltres(new Set(tous.map((a) => a.c)));
     const liste = etat.cat ? tous.filter((a) => a.c === etat.cat) : tous;
+    for (const b of el.vues.children) b.setAttribute('aria-pressed', b.getAttribute('data-vue') === etat.vue ? 'true' : 'false');
+    el.contenu.hidden = etat.vue !== 'liste';
+    el.bandeau.hidden = etat.vue !== 'bandeau';
+    el.compte.textContent = Outils.pluriel(liste.length, 'date', 'dates');
+    etat.dessinee = true;
+    if (etat.vue === 'bandeau') {
+      el.contenu.textContent = '';
+      el.epoques.textContent = '';
+      let debut = -2700;
+      for (const e of Dictionnaire.EPOQUES) {
+        const an = debut;
+        el.epoques.appendChild(bouton('epoque', e.nom, () => Bandeau.allerA(an)));
+        debut = e.fin;
+      }
+      Bandeau.montrer(el.bandeau, etat.cat);
+      return;
+    }
+    Bandeau.fermer();
     el.contenu.textContent = '';
     el.epoques.textContent = '';
     let epoque = null;
@@ -88,8 +109,12 @@
       li.appendChild(b);
       bloc.appendChild(li);
     }
-    el.compte.textContent = Outils.pluriel(liste.length, 'date', 'dates');
-    etat.dessinee = true;
+  }
+
+  function changerVue(vue) {
+    if (vue === etat.vue) return;
+    etat.vue = vue;
+    dessiner();
   }
 
   function montrer() {
@@ -104,9 +129,20 @@
     };
     el.compte = element('p', 'discret compte-frise');
     el.epoques.parentNode.insertBefore(el.compte, el.epoques);
+    el.vues = element('div', 'segments segments-frise');
+    el.vues.setAttribute('role', 'group');
+    el.vues.setAttribute('aria-label', 'Présentation de la frise');
+    for (const [v, nom] of [['bandeau', 'Bandeau'], ['liste', 'Liste']]) {
+      const b = bouton('', nom, () => changerVue(v));
+      b.setAttribute('data-vue', v);
+      el.vues.appendChild(b);
+    }
+    el.filtres.parentNode.insertBefore(el.vues, el.filtres);
+    el.bandeau = element('div', 'frise-bandeau');
+    el.contenu.parentNode.insertBefore(el.bandeau, el.contenu);
     document.addEventListener('perso-change', () => { etat.dessinee = false; });
   }
 
-  racine.Frise = { brancher, montrer, dessiner };
+  racine.Frise = { brancher, montrer, dessiner, changerVue, get vue() { return etat.vue; } };
 
 })(window);

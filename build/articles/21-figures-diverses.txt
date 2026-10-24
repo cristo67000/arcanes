@@ -66,7 +66,7 @@ repere: 1552 — *Quart Livre*.
 repere: 1553 — Mort à Paris.
 repere: 1564 — Publication posthume du *Cinquième Livre*.
 oeuvres: Pantagruel (1532) ; Gargantua (1534) ; Tiers Livre (1546) ; Quart Livre (1552)
-voir: thelema, abbaye-de-theleme, aleister-crowley, langue-des-oiseaux, anagramme, pan
+voir: thelema, abbaye-de-theleme, aleister-crowley, langue-des-oiseaux, anagramme, pan, francois-villon
 
 @ gerard-de-nerval
 cat: figures

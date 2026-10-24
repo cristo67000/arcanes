@@ -7,11 +7,11 @@
        d'audience. `connect-src 'self'` suffit, et le dit. -->
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="no-referrer">
-  <meta name="description" content="Dictionnaire encyclopédique de l'ésotérisme : près de treize cents articles sur l'hermétisme, l'alchimie, la kabbale, l'astrologie, le tarot, la magie, la franc-maçonnerie, les Rose-Croix, les cathares, la théosophie, l'égyptologie, les codes secrets, les animaux fantastiques et symboliques, le symbolisme des nombres, l'astronomie, les pierres et lieux d'énergie, le jeu d'échecs, les mythes et leurs allégories, les mythes de la Bible, les apocryphes et les écrits gnostiques, la littérature et la peinture ésotériques, leurs figures, leurs légendes et leurs lieux, illustrés de gravures, de tableaux et de photographies anciennes, dont certaines s'animent, avec des sons et des musiques du domaine public, des extraits d'œuvres, des parcours guidés, une carte des liens, une carte des lieux, des schémas, une frise chronologique, des notes et une révision. Hors ligne, sans compte, sans publicité.">
+  <meta name="description" content="Dictionnaire encyclopédique de l'ésotérisme : plus de treize cents articles sur l'hermétisme, l'alchimie, la kabbale, l'astrologie, le tarot, la magie, la franc-maçonnerie, les Rose-Croix, les cathares, la théosophie, l'égyptologie, les codes secrets, les animaux fantastiques et symboliques, le symbolisme des nombres, l'astronomie, les pierres et lieux d'énergie, le jeu d'échecs, les mythes et leurs allégories, les mythes de la Bible, les apocryphes et les écrits gnostiques, la littérature et la peinture ésotériques, leurs figures, leurs légendes et leurs lieux, illustrés de gravures, de tableaux et de photographies anciennes, dont certaines s'animent, avec des sons et des musiques du domaine public, des extraits d'œuvres, des parcours guidés, une carte des liens, une carte des lieux, des schémas, des outils à manipuler (tarot, Yi King, géomancie, chiffres, gématrie), une frise chronologique en bandeau, des notes et une révision. Hors ligne, sans compte, sans publicité.">
   <meta name="theme-color" content="#1d1630">
   <!-- La version de la coquille, la même que dans sw.js : à l'installation,
        le service worker refuse une page d'une autre version. -->
-  <meta name="application-version" content="v1.7.1">
+  <meta name="application-version" content="v1.9.0">
   <title>Arcanes — dictionnaire encyclopédique de l'ésotérisme</title>
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -21,7 +21,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Arcanes">
   <meta property="og:title" content="Arcanes — dictionnaire encyclopédique de l'ésotérisme">
-  <meta property="og:description" content="Hermétisme, alchimie, kabbale, astrologie, tarot, magie, franc-maçonnerie, Rose-Croix, cathares, théosophie, Égypte, codes secrets, bestiaire, nombres, astronomie, pierres, échecs, mythes, Bible, apocryphes, littérature, peinture : près de treize cents articles illustrés, des parcours guidés, une carte des liens et une carte des lieux, des extraits d'œuvres, des schémas et une frise, hors ligne.">
+  <meta property="og:description" content="Hermétisme, alchimie, kabbale, astrologie, tarot, magie, franc-maçonnerie, Rose-Croix, cathares, théosophie, Égypte, codes secrets, bestiaire, nombres, astronomie, pierres, échecs, mythes, Bible, apocryphes, littérature, peinture : plus de treize cents articles illustrés, des outils à manipuler, des parcours guidés, une carte des liens et une carte des lieux, des extraits d'œuvres, des schémas et une frise, hors ligne.">
   <meta property="og:url" content="https://cristo67000.github.io/arcanes/">
   <meta property="og:image" content="https://cristo67000.github.io/arcanes/icons/apercu-1200x630.png">
   <meta property="og:image:width" content="1200">
@@ -80,6 +80,8 @@
         <section id="du-jour" hidden></section>
         <section id="portes"></section>
         <section id="parcours-accueil" aria-label="Parcours guidés"></section>
+        <section id="outils-accueil" aria-label="Outils à manipuler"></section>
+        <section id="anniversaires" aria-label="Anniversaires de l’année"></section>
         <div id="recents"></div>
       </div>
 
@@ -120,6 +122,7 @@
       <h2>Carte des lieux</h2>
       <p class="discret intro-carte">Les lieux de l’ésotérisme, des châteaux cathares aux temples d’Égypte. Touchez un point pour le nommer, puis lisez son article ou ouvrez l’itinéraire. La carte fonctionne hors ligne.</p>
       <div id="carte-cadre" class="carte-cadre"></div>
+      <div id="carte-parcours" class="carte-parcours"></div>
       <div id="carte-choix" hidden></div>
       <div id="carte-position"></div>
       <div class="rubrique-ligne carte-tete-liste">
@@ -142,6 +145,7 @@
         <button type="button" data-rubrique="a-revoir" aria-pressed="false"><span>À revoir</span><span class="nombre-rubrique" hidden></span></button>
         <button type="button" data-rubrique="notes" aria-pressed="false"><span>Notes</span><span class="nombre-rubrique" hidden></span></button>
         <button type="button" data-rubrique="articles" aria-pressed="false"><span>Mes articles</span><span class="nombre-rubrique" hidden></span></button>
+        <button type="button" data-rubrique="progression" aria-pressed="false"><span>Progression</span><span class="nombre-rubrique" hidden></span></button>
       </div>
       <input id="carnet-filtre" type="search" autocomplete="off" autocapitalize="off"
              spellcheck="false" placeholder="Filtrer…" aria-label="Filtrer la liste">
@@ -221,8 +225,10 @@
   <script src="js/editeur.js"></script>
   <script src="js/carte.js"></script>
   <script src="js/constellation.js"></script>
+  <script src="js/manipuler.js"></script>
   <script src="js/fiche.js"></script>
   <script src="js/liste.js"></script>
+  <script src="js/bandeau.js"></script>
   <script src="js/frise.js"></script>
   <script src="js/carnet.js"></script>
   <script src="js/cartes.js"></script>

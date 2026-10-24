@@ -24,7 +24,7 @@ texte: Les maçons se réunissent en [[loge|loges]], lors de [[tenue|tenues]] ri
 texte: La franc-maçonnerie n'est pas en elle-même un courant ésotérique : beaucoup d'obédiences sont tournées vers la morale, la philanthropie ou l'engagement civique. Mais elle a servi de cadre à de nombreux courants ésotériques — hermétistes, kabbalistes, martinistes, alchimistes —, qui y ont créé des rites et des grades, du [[rite-ecossais-rectifie|Régime écossais rectifié]] au [[rite-de-memphis-misraim|rite de Memphis-Misraïm]]. Son secret supposé a nourri, dès le XVIIIe siècle, un [[antimaconnisme]] tenace.
 texte: Elle a compté parmi ses membres Montesquieu, Voltaire, [[benjamin-franklin]], [[wolfgang-amadeus-mozart|Mozart]], [[gotthold-ephraim-lessing|Lessing]], [[johann-wolfgang-von-goethe|Goethe]], [[joseph-de-maistre]] ou [[rudyard-kipling|Kipling]], et une grande part des élites politiques des XVIIIe et XIXe siècles, des deux côtés de l'Atlantique. Exclue en principe des femmes, elle s'est ouverte à elles par la [[maconnerie-d-adoption|maçonnerie d'adoption]], puis par des obédiences mixtes et féminines ; aux États-Unis, la [[prince-hall|maçonnerie de Prince Hall]] est née de la ségrégation.
 schema: plan-de-loge
-voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal, maconnerie-egyptienne, alphabet-maconnique, codex-copiale, rudyard-kipling, loges-de-saint-jean, construction-du-temple, tubal-cain
+voir: loge, obedience, grades-maconniques, initiation-maconnique, grande-loge-de-londres, grand-orient-de-france, antimaconnisme, compagnonnage, art-royal, maconnerie-egyptienne, alphabet-maconnique, codex-copiale, rudyard-kipling, loges-de-saint-jean, construction-du-temple, tubal-cain, affaire-des-fiches
 
 @ grades-maconniques
 cat: maconnerie
@@ -46,7 +46,7 @@ def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1
 texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
 texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
 texte: Le roman et l'image ont fait leur part : [[walter-scott|Walter Scott]] met en scène dans *Ivanhoé* (1819) un templier cruel et un grand maître qui accuse une juive de sorcellerie ; on a cru reconnaître dans le Pégase de l'Inner Temple de Londres une lecture fautive de leur sceau aux deux cavaliers, et l'Agnus Dei orne les sceaux de leurs maîtres provinciaux. Le procès voulu par [[philippe-le-bel|Philippe le Bel]] est mieux connu depuis la redécouverte, en 2001, du parchemin de [[chinon|Chinon]], où le pape absout les dignitaires en 1308 ; parmi les accusations figurait l'adoration d'un [[chat]].
-voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat, jean-baptiste, le-pendule-de-foucault
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat, jean-baptiste, le-pendule-de-foucault, rite-suedois
 
 @ rite-ecossais-ancien-et-accepte
 cat: maconnerie
@@ -170,8 +170,10 @@ an: 1891
 dates: 1891 – 1918
 def: Ordre fondé en 1891 par Joséphin Péladan, qui voulait unir la tradition rosicrucienne, la foi catholique et l'art idéaliste.
 texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses [[salons-de-la-rose-croix|Salons de la Rose+Croix]], de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'Erik Satie.
+texte: Péladan, qui se proclame « Sâr », publie des mandements solennels et donne au mouvement un théâtre : sa pièce *Le Fils des étoiles*, jouée en mars 1892 pendant le premier Salon, est accompagnée des préludes d'Erik Satie, alors maître de chapelle de l'ordre. Satie rompt avec lui dès l'été suivant et fonde bientôt sa propre Église métropolitaine d'art de Jésus conducteur.
 texte: L'ordre, très lié à la personnalité de son fondateur, s'éteint avec lui.
-voir: josephin-peladan, rose-croix, ordre-kabbalistique-de-la-rose-croix, graal
+texte: La pensée de Péladan mêle la [[magie]], le culte du génie et un catholicisme très personnel. Le romancier de *La Décadence latine*, cycle ouvert en 1884 par *Le Vice suprême*, voit dans l'artiste un prêtre et un mage : c'est l'idéal que l'ordre a voulu servir, au cœur du [[symbolisme]].
+voir: josephin-peladan, rose-croix, ordre-kabbalistique-de-la-rose-croix, graal, salons-de-la-rose-croix, symbolisme
 
 @ eglise-gnostique
 cat: societes
@@ -237,8 +239,10 @@ an: 1913
 dates: depuis 1913
 def: Organisation fondée en 1913 par les disciples de Rudolf Steiner après leur rupture avec la Société théosophique, dont le siège est le Goetheanum, à Dornach, en Suisse.
 texte: La section allemande de la [[societe-theosophique|Société théosophique]], dirigée par [[rudolf-steiner]], refuse de suivre [[annie-besant]] dans sa promotion de [[jiddu-krishnamurti]] ; exclue, elle devient la Société anthroposophique. Steiner la refonde à Noël 1923 sous le nom de Société anthroposophique universelle, avec une École de science spirituelle.
+texte: Le premier [[goetheanum|Goetheanum]], à Dornach, brûle dans la nuit du Nouvel An 1922-1923. Un an plus tard, au congrès de Noël 1923-1924, Steiner prend lui-même la présidence et donne à la Société sa « Méditation de la pierre de fondation ». Après sa mort, en 1925, les querelles de succession conduisent en 1935 à l'exclusion d'Ita Wegman et d'Elisabeth Vreede, membres du comité directeur, et de plusieurs sociétés nationales.
 texte: La Société chapeaute aujourd'hui un vaste réseau d'institutions : écoles Steiner-Waldorf, fermes biodynamiques, établissements de soins et entreprises.
-voir: anthroposophie, rudolf-steiner, societe-theosophique
+texte: La première école Waldorf ouvre à Stuttgart en 1919 pour les enfants des ouvriers de la fabrique de cigarettes Waldorf-Astoria ; l'agriculture biodynamique naît d'un cours donné par Steiner à Koberwitz, en Silésie, en 1924. Les études comparatives n'ont pas montré d'effet propre des préparations biodynamiques, comme la bouse enterrée dans des cornes de vache, au-delà de celui des pratiques biologiques qui les accompagnent.
+voir: anthroposophie, rudolf-steiner, societe-theosophique, goetheanum
 
 @ amorc
 cat: societes
@@ -259,8 +263,10 @@ an: 1909
 dates: depuis 1909
 def: Association fondée en 1909 par Max Heindel, installée à Oceanside, en Californie, qui enseigne un christianisme ésotérique, l'astrologie et la guérison spirituelle.
 texte: [[max-heindel]] la fonde après la publication de sa *Cosmogonie des Rose-Croix*. Elle s'installe en 1911 sur une colline d'Oceanside, Mount Ecclesia, et diffuse par correspondance des cours de philosophie, d'astrologie et de guérison par la prière.
+texte: Le temple de guérison du mont Ecclesia est consacré en 1920, un an après la mort du fondateur. Sa veuve, Augusta Foss Heindel, dirige l'association jusqu'à sa propre mort, en 1949. La revue *Rays from the Rose Cross*, fondée en 1913, paraît toujours, et le service de guérison réunit ses groupes de prière à des dates fixées d'après la position de la [[lune|Lune]].
 texte: Elle se distingue de l'[[amorc|AMORC]], avec lequel on la confond souvent, par son orientation chrétienne et théosophique.
-voir: max-heindel, rose-croix, astrologie, rudolf-steiner
+texte: Ses éphémérides et ses tables de maisons ont servi à des générations d'astrologues de langue anglaise. Pour devenir « probationnaire », l'étudiant doit renoncer à la viande, à l'alcool et au tabac. Comme [[max-heindel|Heindel]] avait suivi les conférences de [[rudolf-steiner|Rudolf Steiner]], sa cosmologie reprend de près celle de l'[[anthroposophie]].
+voir: max-heindel, rose-croix, astrologie, rudolf-steiner, anthroposophie
 
 @ lectorium-rosicrucianum
 cat: societes
@@ -302,9 +308,9 @@ alias: OTS, Temple solaire, Luc Jouret, Joseph Di Mambro
 an: 1984
 dates: 1984 – 1997
 def: Groupe néo-templier et apocalyptique fondé en 1984, responsable de la mort de soixante-quatorze personnes en Suisse, au Québec et en France entre 1994 et 1997.
-texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
-texte: En octobre 1994, cinquante-trois personnes meurent en Suisse et au Québec, dans des incendies volontaires et des assassinats présentés comme un « transit » vers l'étoile Sirius ; seize autres en 1995 dans le Vercors, cinq en 1997 au Québec. Cette tragédie a profondément marqué la perception des groupes ésotériques et la lutte contre les dérives sectaires en France.
-voir: templiers, rose-croix
+texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde, une [[apocalypse]] par le feu. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
+texte: En octobre 1994, cinquante-trois personnes meurent en Suisse et au Québec, dans des incendies volontaires et des assassinats présentés comme un « transit » vers l'étoile [[sirius|Sirius]] ; seize autres en 1995 dans le Vercors, cinq en 1997 au Québec. Cette tragédie a profondément marqué la perception des groupes ésotériques et la lutte contre les dérives sectaires en France.
+voir: templiers, rose-croix, sirius, apocalypse, stricte-observance
 
 @ society-for-psychical-research
 cat: societes
@@ -315,7 +321,7 @@ an: 1882
 def: Société savante fondée à Londres en 1882 pour étudier scientifiquement les phénomènes dits paranormaux — télépathie, apparitions, médiums —, qui forgea le mot « télépathie » et démasqua de nombreuses fraudes.
 texte: La Society for Psychical Research est fondée à [[londres|Londres]] en 1882 par des universitaires de Cambridge, dont le philosophe Henry Sidgwick, son premier président, et les écrivains Frederic Myers et Edmund Gurney. Ils veulent examiner « sans préjugé ni parti pris » les faits allégués par le [[spiritisme]] et le magnétisme, avec les méthodes de la science. Myers forge dès 1882 le mot « télépathie ».
 texte: Ses enquêtes sont considérables. *Les Fantômes des vivants* (1886) rassemblent des centaines de témoignages d'apparitions au moment d'une mort ; un « recensement des hallucinations » interroge dix-sept mille personnes. La Société met aussi à l'épreuve les [[medium|médiums]] et les prodiges : en 1885, le rapport de Richard Hodgson déclare frauduleux les phénomènes de [[helena-blavatsky]], et plusieurs médiums célèbres sont surpris à tricher. D'autres, comme Leonora Piper aux États-Unis ou [[eusapia-palladino]] à Naples, résistent davantage à l'examen.
-texte: Elle a compté parmi ses présidents des philosophes et des savants de premier plan : William James, Henri Bergson, [[charles-richet]], le physicien Oliver Lodge. Une société sœur naît aux États-Unis en 1885. Ses *Proceedings* sont une mine pour l'histoire de la [[metapsychique|métapsychique]] et de la parapsychologie.
+texte: Elle a compté parmi ses présidents des philosophes et des savants de premier plan : William James, [[henri-bergson|Henri Bergson]], [[charles-richet]], le physicien Oliver Lodge. Une société sœur naît aux États-Unis en 1885. Ses *Proceedings* sont une mine pour l'histoire de la [[metapsychique|métapsychique]] et de la parapsychologie.
 texte: La Society for Psychical Research existe toujours. Son histoire montre à la fois le sérieux avec lequel une partie de l'élite intellectuelle a pris ces questions à la fin du XIXe siècle, et la difficulté d'obtenir, dans ce domaine, des preuves qui résistent à la critique.
 repere: 1882 — Fondation à Londres ; Frederic Myers forge le mot « télépathie ».
 repere: 1885 — Le rapport Hodgson déclare frauduleux les phénomènes de Blavatsky ; fondation d'une société sœur américaine.

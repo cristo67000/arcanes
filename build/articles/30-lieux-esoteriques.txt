@@ -76,7 +76,7 @@ repere: 1209 — Siège et prise de la ville par les croisés.
 repere: 1303 — Bernard Délicieux soulève Carcassonne contre l'Inquisition.
 repere: 1853 — Viollet-le-Duc commence la restauration de la Cité.
 repere: 1997 — Inscription au patrimoine mondial.
-voir: catharisme, parfaits, montsegur, deodat-roche, rennes-le-chateau, queribus
+voir: catharisme, parfaits, montsegur, deodat-roche, rennes-le-chateau, queribus, peyrepertuse
 
 @ milan
 cat: lieux
@@ -176,7 +176,7 @@ alias: Firenze, Florence des Médicis, Académie platonicienne, Florence ésoté
 lieu: Florence, Toscane, Italie
 geo: 43.7714, 11.2542
 def: La ville des Médicis, où Marsile Ficin traduisit le *Corpus hermeticum* et fit renaître Platon, et où Botticelli peignit les mythes du néoplatonisme : le berceau de l'hermétisme de la Renaissance.
-texte: En 1439, le concile de Florence amène en Italie le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]], qui enthousiasme Cosme de Médicis pour Platon. Cosme confie au jeune [[marsile-ficin|Marsile Ficin]] la [[villa-de-careggi|villa de Careggi]] et, en 1463, lui fait traduire d'abord le *[[corpus-hermetique|Corpus hermeticum]]*, tenu pour plus ancien que Platon. Autour de Ficin, l'« Académie platonicienne » réunit [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et les artistes, comme [[sandro-botticelli|Botticelli]].
+texte: En 1439, le concile de Florence amène en Italie le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]], qui enthousiasme [[cosme-de-medicis|Cosme de Médicis]] pour Platon. Cosme confie au jeune [[marsile-ficin|Marsile Ficin]] la [[villa-de-careggi|villa de Careggi]] et, en 1463, lui fait traduire d'abord le *[[corpus-hermetique|Corpus hermeticum]]*, tenu pour plus ancien que Platon. Autour de Ficin, l'« Académie platonicienne » réunit [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et les artistes, comme [[sandro-botticelli|Botticelli]].
 texte: [[dante|Dante]] était né à Florence deux siècles plus tôt. En 1497, le prédicateur Savonarole y fait brûler sur un « bûcher des vanités » livres, tableaux et parures, avant d'être brûlé à son tour l'année suivante. [[leonard-de-vinci|Léonard de Vinci]] y fit son apprentissage.
 repere: 1439 — Concile de Florence ; venue de Gémiste Pléthon.
 repere: 1463 — Ficin traduit le *Corpus hermeticum*.

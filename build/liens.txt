@@ -1332,3 +1332,16 @@ piet-mondrian: wp Piet Mondrian
 nicolas-roerich: wp Nicolas Roerich
 formes-pensees: en Thought-Forms
 cathedrale-de-sienne: wp Cathédrale Santa Maria Assunta de Sienne
+flavius-josephe: wp Flavius Josèphe | ws Auteur:Flavius Josèphe
+clement-d-alexandrie: wp Clément d'Alexandrie
+thomas-d-aquin: wp Thomas d'Aquin | ws Auteur:Thomas d’Aquin
+robert-de-boron: wp Robert de Boron
+cosme-de-medicis: wp Cosme de Médicis
+michel-ange: wp Michel-Ange | ws Auteur:Michel-Ange
+gustave-dore: wp Gustave Doré
+james-frazer: wp James George Frazer
+henri-bergson: wp Henri Bergson | ws Auteur:Henri Bergson
+hermann-hesse: wp Hermann Hesse
+mircea-eliade: wp Mircea Eliade
+code-morse: wp Code Morse international
+cathedrale-de-strasbourg: wp Cathédrale Notre-Dame de Strasbourg

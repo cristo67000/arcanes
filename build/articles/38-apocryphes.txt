@@ -172,7 +172,7 @@ an: 350
 dates: IVe-Ve siècle
 def: Récit apocryphe de la Passion et de la descente du Christ aux enfers, attribué à Nicodème, qui a donné au Moyen Âge l'histoire de Joseph d'Arimathie, le nom du centurion Longin et l'image du Christ brisant les portes de l'enfer.
 texte: La première partie, les *Actes de Pilate*, raconte le procès de Jésus, la crucifixion et l'enquête menée sur la résurrection ; [[joseph-d-arimathie|Joseph d'Arimathie]], qui a enseveli Jésus, est emprisonné, puis délivré miraculeusement. La seconde, conservée en latin, est la *Descente aux enfers* : deux fils du vieillard Siméon, ressuscités, racontent comment le Christ est entré chez les morts, a brisé les portes d'airain, enchaîné Satan et ramené au paradis Adam et les justes.
-texte: Le texte connaît au Moyen Âge un succès immense : il donne son nom à Longin, le soldat qui perça le côté du Christ, fournit à la [[legende-doree|Légende dorée]] et aux mystères la scène de la descente aux enfers, et inspire, vers 1200, le *Joseph d'Arimathie* de Robert de Boron, où Joseph recueille dans le vase de la Cène le sang du Christ : c'est l'une des sources de la légende du [[graal|Graal]].
+texte: Le texte connaît au Moyen Âge un succès immense : il donne son nom à Longin, le soldat qui perça le côté du Christ, fournit à la [[legende-doree|Légende dorée]] et aux mystères la scène de la descente aux enfers, et inspire, vers 1200, le *Joseph d'Arimathie* de [[robert-de-boron|Robert de Boron]], où Joseph recueille dans le vase de la Cène le sang du Christ : c'est l'une des sources de la légende du [[graal|Graal]].
 voir: joseph-d-arimathie, graal, legende-doree, apocryphes, protevangile-de-jacques, evangile-de-pierre
 
 @ evangile-de-pierre
@@ -184,7 +184,8 @@ dates: IIe siècle ; retrouvé en 1886-1887
 def: Évangile du IIe siècle connu par un fragment trouvé en 1886-1887 dans une tombe d'Akhmim, qui raconte la Passion et décrit la sortie du tombeau du Christ, suivi d'une croix qui parle.
 texte: Vers l'an 200, l'évêque Sérapion d'Antioche découvre qu'une communauté lit un évangile « selon Pierre » ; il l'autorise d'abord, puis le condamne quand on lui signale des passages suspects de docétisme, la doctrine selon laquelle le Christ n'aurait eu qu'une apparence de corps. L'historien Eusèbe rapporte l'affaire. Le texte reparaît en 1886-1887, lors des fouilles d'une mission archéologique française dans une tombe d'Akhmim, en Haute-Égypte, et Urbain Bouriant le publie en 1892.
 texte: Le fragment raconte la Passion, où le Seigneur se tait comme s'il ne sentait aucune douleur, puis, chose unique, la sortie du tombeau : deux hommes descendent du ciel, entrent dans le sépulcre et en ressortent soutenant un troisième dont la tête dépasse les cieux, suivis d'une croix ; une voix demande s'il a prêché à ceux qui dorment, et la croix répond : « Oui. »
-voir: apocryphes, evangile-de-nicodeme, evangile-de-thomas
+texte: Akhmim est l'ancienne Panopolis, patrie de l'alchimiste [[zosime-de-panopolis|Zosime]]. Le même manuscrit, le codex d'Akhmim, contient aussi un fragment de l'*Apocalypse de Pierre* et un long fragment grec du *[[livre-d-henoch|Livre d'Hénoch]]*. Le Christ qui « prêche à ceux qui dorment » annonce la descente aux Enfers racontée par l'*[[evangile-de-nicodeme|Évangile de Nicodème]]*.
+voir: apocryphes, evangile-de-nicodeme, evangile-de-thomas, zosime-de-panopolis, livre-d-henoch
 
 @ irenee-de-lyon
 cat: figures

@@ -224,6 +224,21 @@ ok(extraits.every(([, [p, ref, li]]) => p.length && p.every((t) => t.length > 20
 ok(extraits.every(([, [, , li]]) => li.every((l) => l.length === 3 && /^https:\/\/(gallica\.bnf\.fr|(fr|en)\.wikisource\.org|archive\.org|data\.bnf\.fr)\//.test(l[2]))), 'les extraits mènent au livre : Gallica, Wikisource, l’Internet Archive ou la notice de la BnF');
 ok(extraits.filter(([, [, , li]]) => li.some((l) => l[2].includes('gallica.bnf.fr'))).length >= 15, 'la plupart des extraits mènent à Gallica');
 
+// ── Les pages des articles (a/*.html) ───────────────────────────────────────
+const pagesA = fs.existsSync(path.join(RACINE, 'a')) ? fs.readdirSync(path.join(RACINE, 'a')).filter((f) => f.endsWith('.html')) : [];
+ok(pagesA.length === dico.articles.length && dico.articles.every((a) => pagesA.includes(a.id + '.html')), 'chaque article a sa page web (' + pagesA.length + ')');
+let pagesLiens = 0;
+let pagesMortes = [];
+for (const f of pagesA) {
+  const t = fs.readFileSync(path.join(RACINE, 'a', f), 'utf-8');
+  if (!/<script/i.test(t) && /<h1>[^<]+<\/h1>/.test(t) && /property="og:title"/.test(t) && /index\.html\?article=/.test(t)) pagesLiens += 1;
+  for (const m of t.matchAll(/href="([a-z0-9-]+)\.html"/g)) if (!pagesA.includes(m[1] + '.html')) pagesMortes.push(f + ' → ' + m[1]);
+}
+ok(pagesLiens === pagesA.length, 'chaque page a son titre, ses balises Open Graph, son lien vers l’application, et aucun script');
+ok(!pagesMortes.length, 'les renvois des pages mènent à d’autres pages (' + pagesMortes.slice(0, 5).join(', ') + ')');
+const plan = lire('sitemap.xml');
+ok((plan.match(/<url>/g) || []).length === dico.articles.length + 1, 'le plan du site liste l’accueil et toutes les pages');
+
 console.log(bons + ' épreuve(s) statique(s) réussie(s)');
 if (echecs.length) {
   console.log(echecs.length + ' ÉCHEC(S) :');

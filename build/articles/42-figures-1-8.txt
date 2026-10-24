@@ -1,0 +1,220 @@
+# Figures de la version 1.8 : des noms que le dictionnaire citait souvent sans
+# leur consacrer d'article — historiens, théologiens, artistes, savants —, et le
+# code Morse, que l'outil des chiffres fait entendre.
+
+@ flavius-josephe
+cat: figures
+nom: Flavius Josèphe
+alias: Josèphe, Joseph ben Matthias, Yosef ben Matityahou, Flavius Josephus, Antiquités judaïques, La Guerre des Juifs
+dates: 37 – vers 100
+an: 37
+def: Historien juif du Ier siècle, prêtre de Jérusalem rallié aux Romains, auteur de *La Guerre des Juifs* et des *Antiquités judaïques*, source majeure sur le Temple, sur Salomon et sur les débuts du christianisme.
+texte: Né à Jérusalem en 37 dans une famille de prêtres, Joseph fils de Matthias commande en Galilée les insurgés de la grande révolte contre Rome. Assiégé à Jotapata en 67, il se rend à Vespasien, à qui il prédit l'Empire ; libéré quand la prophétie s'accomplit, il prend le nom de la famille impériale, les Flavii, et assiste aux côtés de Titus au siège de Jérusalem et à l'incendie du Temple, en 70. Il vit ensuite à Rome, pensionné par les empereurs.
+texte: Il y écrit *La Guerre des Juifs*, vers 75, puis les vingt livres des *Antiquités judaïques* (93-94), une histoire de son peuple depuis la Création. On y lit la sagesse magique prêtée à [[salomon|Salomon]], qui aurait composé des incantations contre les démons, et la description du [[temple-de-salomon|Temple]], du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] et de la [[menorah|ménorah]], dont il donne une lecture cosmique : les douze pierres répondent aux mois ou aux signes du zodiaque, les sept lampes aux planètes.
+texte: Les chrétiens l'ont conservé pour un passage célèbre sur Jésus, le *Testimonium Flavianum*, sans doute retouché par un copiste chrétien, et pour ce qu'il rapporte de [[jean-baptiste|Jean-Baptiste]] et de [[salome|Salomé]], dont il est le premier à donner le nom. Jean Fouquet a illustré ses *Antiquités* vers 1470 (voir [[construction-du-temple]]).
+repere: 37 — Naissance à Jérusalem, dans une famille de prêtres.
+repere: 67 — Assiégé à Jotapata, il se rend aux Romains et prédit l'Empire à Vespasien.
+repere: 70 — Il assiste à la prise de Jérusalem et à l'incendie du Temple.
+repere: vers 75 — *La Guerre des Juifs*.
+repere: 93-94 — *Antiquités judaïques*.
+oeuvres: La Guerre des Juifs (vers 75) ; Antiquités judaïques (93-94) ; Autobiographie ; Contre Apion
+voir: salomon, temple-de-salomon, pectoral-du-grand-pretre, menorah, jean-baptiste, salome, philon-d-alexandrie, construction-du-temple, pierres-de-naissance
+
+@ clement-d-alexandrie
+cat: figures
+nom: Clément d'Alexandrie
+alias: Clément, Titus Flavius Clemens, Clemens Alexandrinus, Stromates, Protreptique
+dates: vers 150 – vers 215
+an: 150
+def: Théologien chrétien d'Alexandrie, vers 200, qui voulut faire du chrétien le vrai « gnostique » et conserva, pour les réfuter, des fragments de Basilide, de Valentin et des mystères païens.
+texte: Né vers 150, sans doute à Athènes, dans une famille païenne, Clément se convertit et voyage avant de se fixer à Alexandrie auprès de Pantène, à qui il succède à la tête de l'école chrétienne de la ville. La persécution de Septime Sévère, en 202, le fait partir pour la Cappadoce ; il meurt vers 215.
+texte: Son *Protreptique*, ou *Exhortation aux Grecs*, presse les païens de quitter les mystères, dont il dévoile les rites et les objets : c'est l'une des rares sources sur ce qu'on faisait à [[eleusis|Éleusis]] (voir [[mysteres-antiques]]). Il les invite à passer devant leurs séductions comme Ulysse devant les [[sirene|Sirènes]], attaché au mât de la croix. Les *Stromates*, les « tapisseries », font de la philosophie grecque une préparation à l'Évangile et du chrétien parfait le vrai gnostique, celui qui connaît Dieu ; il y cite de nombreux fragments de [[basilide]], de [[valentin]] et d'autres maîtres de la [[gnose]], que nous ne connaissons souvent que par lui.
+texte: Les *Stromates* distinguent aussi les trois écritures des Égyptiens, épistolaire, hiératique et hiéroglyphique, l'une des rares descriptions antiques des [[hieroglyphes]], et décrivent une procession où les prêtres portaient les quarante-deux livres d'[[hermes-trismegiste|Hermès]]. Comme [[philon-d-alexandrie|Philon]], dont il reprend la méthode, il lit la Bible par l'[[allegorese|allégorie]].
+repere: vers 150 — Naissance, sans doute à Athènes.
+repere: vers 190 — Il enseigne à l'école chrétienne d'Alexandrie.
+repere: 202 — La persécution de Septime Sévère le chasse d'Alexandrie.
+oeuvres: Protreptique ; Pédagogue ; Stromates
+voir: gnose, basilide, valentin, philon-d-alexandrie, mysteres-antiques, eleusis, hermes-trismegiste, hieroglyphes, sirene, evhemerisme, odyssee-de-l-ame
+
+@ thomas-d-aquin
+cat: figures
+nom: Thomas d'Aquin
+alias: saint Thomas d'Aquin, Docteur angélique, Thomas Aquinas, Tommaso d'Aquino, Somme théologique, Aurora consurgens
+dates: vers 1225 – 1274
+an: 1225
+def: Dominicain italien, élève d'Albert le Grand, le plus influent des théologiens du Moyen Âge, qui accorda la foi et la philosophie d'Aristote et fixa pour l'Église la doctrine de la magie, de l'astrologie et des démons.
+texte: Né vers 1225 au château de Roccasecca, près d'Aquino, dans une famille noble, Thomas entre chez les Dominicains malgré les siens, qui l'enferment pendant un an. Il étudie à Paris et à Cologne auprès d'[[albert-le-grand|Albert le Grand]], enseigne à Paris et en Italie, et meurt en 1274 à l'abbaye de Fossanova, en route vers le concile de Lyon. Il est canonisé en 1323.
+texte: Sa *Somme théologique* et sa *Somme contre les Gentils* font la synthèse de la foi chrétienne et de la pensée d'Aristote. Il y admet l'influence des astres sur les corps, mais non sur la volonté libre : l'[[astrologie]] qui prétend prédire les actes humains est une superstition, et celle qui recourt aux démons, un pacte. Il condamne l'[[ars-notoria|Art notoire]], et explique que les [[incube-et-succube|incubes]] ne peuvent engendrer qu'avec une semence dérobée : sa [[demonologie|démonologie]] servira aux juges des sorcières.
+texte: L'hymne *Adoro te*, qu'on lui attribue, fait du [[pelican|pélican]] l'image du Christ. La légende veut qu'il ait brisé l'automate parlant d'Albert ; on a mis sous son nom un traité d'alchimie mystique, l'*Aurora consurgens*, que Marie-Louise von Franz, l'élève de [[carl-gustav-jung|Jung]], a publié et commenté en 1957.
+repere: vers 1225 — Naissance à Roccasecca, près d'Aquino.
+repere: 1245 — Élève d'Albert le Grand à Paris, puis à Cologne.
+repere: 1265-1273 — Il compose la *Somme théologique*.
+repere: 1274 — Mort à Fossanova, en route vers le concile de Lyon.
+repere: 1323 — Canonisation.
+oeuvres: Somme contre les Gentils (vers 1259-1265) ; Somme théologique (1265-1273)
+voir: albert-le-grand, ars-notoria, incube-et-succube, demonologie, pelican, pseudo-denys, astrologie
+
+@ robert-de-boron
+cat: figures
+nom: Robert de Boron
+alias: Robert de Borron, Boron, Joseph d'Arimathie, Roman de l'estoire dou Graal
+dates: fin du XIIᵉ – début du XIIIᵉ siècle
+an: 1200
+def: Poète français de la fin du XIIe siècle, qui fit du Graal le vase de la Cène où Joseph d'Arimathie recueillit le sang du Christ, et raconta la naissance de Merlin.
+texte: On ne sait de lui que ce qu'il dit : il est clerc, sans doute originaire de Boron, près de Belfort, et il écrit pour un seigneur, Gautier de Montbéliard, qui partit en croisade en 1202. Son *Roman de l'estoire dou Graal*, ou *Joseph d'Arimathie*, en vers, prolonge l'*[[evangile-de-nicodeme|Évangile de Nicodème]]* : [[joseph-d-arimathie|Joseph]] recueille dans le vase de la Cène le sang du crucifié, et ce vase, le [[graal]], passe à sa famille, qui doit l'emporter vers l'Occident, « dans les vaux d'Avaron ».
+texte: Il commence ensuite un *[[merlin|Merlin]]*, dont seul le début en vers nous est parvenu : les démons veulent engendrer un Antéchrist, mais l'enfant né d'une vierge et d'un démon est baptisé et met ses pouvoirs au service du [[roi-arthur|roi Arthur]]. Mis en prose et prolongés, ces récits ont donné au Graal sa couleur chrétienne et préparé les grands cycles en prose du XIIIe siècle, quand [[chretien-de-troyes|Chrétien de Troyes]] n'en faisait encore qu'un plat mystérieux.
+repere: vers 1200 — *Joseph d'Arimathie*, ou *Roman de l'estoire dou Graal*.
+repere: vers 1200 — *Merlin*, dont il reste le début en vers.
+oeuvres: Joseph d'Arimathie ou Roman de l'estoire dou Graal (vers 1200) ; Merlin (vers 1200)
+voir: graal, joseph-d-arimathie, merlin, chretien-de-troyes, wolfram-von-eschenbach, evangile-de-nicodeme, roi-arthur
+
+@ cosme-de-medicis
+cat: figures
+nom: Cosme de Médicis
+alias: Cosme l'Ancien, Côme de Médicis, Cosimo de' Medici, Cosme, Père de la patrie
+dates: 1389 – 1464
+an: 1389
+def: Banquier et maître de Florence au XVe siècle, qui fit traduire le *Corpus hermétique* et Platon par Marsile Ficin et ouvrit ainsi la voie à l'hermétisme de la Renaissance.
+texte: Héritier de la banque fondée par son père, Giovanni di Bicci, Cosme de Médicis gouverne [[florence|Florence]] sans titre officiel à partir de 1434, au retour d'un bref exil. Mécène de Brunelleschi, de Donatello et de Fra Angelico, il fonde au couvent Saint-Marc une bibliothèque ouverte aux savants. La Seigneurie fait graver sur sa tombe le titre de « Père de la patrie ».
+texte: Le concile de Florence, en 1439, lui fait entendre [[gemiste-plethon|Gémiste Pléthon]] ; selon [[marsile-ficin|Marsile Ficin]], c'est alors qu'il conçoit le projet de faire revivre l'Académie de [[platon|Platon]]. Il donne au fils de son médecin la [[villa-de-careggi|villa de Careggi]] et lui demande, en 1463, de traduire d'abord le *[[corpus-hermetique|Corpus hermétique]]*, qu'un moine venait de rapporter de Macédoine : Cosme, malade, voulait lire [[hermes-trismegiste|Hermès]] avant Platon. Il meurt à Careggi l'année suivante.
+repere: 1389 — Naissance à Florence.
+repere: 1434 — Rentré d'exil, il devient le maître de Florence.
+repere: 1439 — Le concile de Florence ; il entend Gémiste Pléthon.
+repere: 1463 — Il fait traduire le *Corpus hermétique* par Ficin.
+repere: 1464 — Mort à Careggi.
+voir: marsile-ficin, corpus-hermetique, florence, villa-de-careggi, gemiste-plethon, hermetisme, platon, hermes-trismegiste, neoplatonisme
+
+@ michel-ange
+cat: figures
+nom: Michel-Ange
+alias: Michelangelo Buonarroti, Michel-Ange Buonarroti, Michelangelo, chapelle Sixtine, Moïse de Michel-Ange
+dates: 1475 – 1564
+an: 1475
+def: Sculpteur, peintre, architecte et poète florentin, nourri du néoplatonisme de Ficin, qui réunit au plafond de la chapelle Sixtine les prophètes et les sibylles, et sculpta un Moïse cornu.
+texte: Né en 1475 à Caprese, en Toscane, Michel-Ange grandit à [[florence|Florence]] ; adolescent, il est accueilli dans la maison de Laurent de Médicis, où il côtoie [[marsile-ficin|Ficin]], [[pic-de-la-mirandole|Pic de la Mirandole]] et Politien, les maîtres du [[neoplatonisme|néoplatonisme]]. Il sculpte la *Pietà* de Saint-Pierre et le *David*, peint de 1508 à 1512 le plafond de la chapelle Sixtine, puis, de 1536 à 1541, le *Jugement dernier* de son mur d'autel. Il meurt à Rome en 1564, architecte de la basilique Saint-Pierre.
+texte: Au plafond de la Sixtine, cinq [[sibylles]] alternent avec sept prophètes, comme si la sagesse païenne annonçait elle aussi le Christ ; [[jonas|Jonas]] domine l'autel et le [[serpent-d-airain|serpent d'airain]] occupe un angle. Depuis Erwin Panofsky, des historiens de l'art y ont lu un programme néoplatonicien, l'âme s'élevant de la prison du corps vers la lumière ; la lecture reste débattue. Le *[[moise|Moïse]]* du tombeau de Jules II porte des cornes parce que la Vulgate traduisait ainsi le visage « rayonnant » du prophète.
+texte: Ses poèmes disent l'amour platonicien, qui monte de la beauté des corps à celle de Dieu. Le romantisme a fait de lui le génie solitaire par excellence ; un descendant de sa famille, [[filippo-buonarroti|Philippe Buonarroti]], fut l'un des grands conspirateurs du XIXe siècle. On a cru le reconnaître dans l'Héraclite de *[[l-ecole-d-athenes|L'École d'Athènes]]*.
+repere: 1475 — Naissance à Caprese, en Toscane.
+repere: vers 1490 — Il entre dans la maison de Laurent de Médicis.
+repere: 1508-1512 — Plafond de la chapelle Sixtine.
+repere: 1513 — Il commence le *Moïse* du tombeau de Jules II.
+repere: 1536-1541 — Le *Jugement dernier*.
+repere: 1564 — Mort à Rome.
+voir: sibylles, jonas, serpent-d-airain, moise, marsile-ficin, pic-de-la-mirandole, neoplatonisme, florence, l-ecole-d-athenes, filippo-buonarroti
+
+@ gustave-dore
+cat: figures
+nom: Gustave Doré
+alias: Paul Gustave Doré, Doré
+dates: 1832 – 1883
+an: 1832
+def: Dessinateur, graveur et peintre français, dont les illustrations de Dante, de la Bible, de Milton et de l'Arioste ont fixé pour des générations l'image de l'enfer, des anges et des créatures fantastiques.
+texte: Né à Strasbourg en 1832, Gustave Doré dessine dès quinze ans pour *Le Journal pour rire*, à Paris. Il compose sur le bois des milliers d'images que des graveurs taillent ensuite : le *[[juif-errant|Juif errant]]* (1856), l'*Enfer* de [[dante|Dante]] (1861), *Don Quichotte* (1863), la Bible (1866), *[[le-paradis-perdu|Le Paradis perdu]]* de Milton (1866), le *Roland furieux* de l'Arioste (1879), et *Le Corbeau* d'[[edgar-allan-poe|Edgar Poe]], paru en 1884, l'année qui suit sa mort à Paris.
+texte: Ses cercles de l'Enfer et sa rose céleste de la *[[divine-comedie|Divine Comédie]]*, Satan précipité, le [[deluge|Déluge]], l'[[hippogriffe]] de l'Arioste ou le Juif errant devant les nuages sont devenus les images mêmes de ces récits, que reprennent encore les livres, le cinéma et la bande dessinée. Il a aussi peint de grandes toiles religieuses, que montrait de son vivant une galerie Doré à Londres.
+repere: 1832 — Naissance à Strasbourg.
+repere: 1856 — *La Légende du Juif errant*.
+repere: 1861 — L'*Enfer* de Dante.
+repere: 1866 — La Bible et *Le Paradis perdu*.
+repere: 1883 — Mort à Paris.
+voir: divine-comedie, dante, le-paradis-perdu, juif-errant, hippogriffe, edgar-allan-poe, deluge
+
+@ james-frazer
+cat: figures
+nom: James George Frazer
+alias: James Frazer, Frazer, sir James Frazer, Le Rameau d'or, The Golden Bough
+dates: 1854 – 1941
+an: 1854
+def: Anthropologue écossais, auteur du *Rameau d'or*, vaste comparaison des mythes, des rites et de la magie, qui fit du roi sacrifié et des cultes agraires les clés des religions.
+texte: Né à Glasgow en 1854, fellow du Trinity College de Cambridge presque toute sa vie, Frazer n'a guère voyagé : il travaille sur les récits des missionnaires, des voyageurs et des auteurs anciens. *Le Rameau d'or* (*The Golden Bough*, 1890) part d'une énigme : pourquoi, dans le bois sacré de Némi, près de Rome, le prêtre de Diane devait-il tuer son prédécesseur ? L'ouvrage grossit jusqu'à douze volumes (1906-1915), avant un abrégé en 1922. Frazer est anobli en 1914 et meurt à Cambridge en 1941.
+texte: Il distingue deux principes de la [[magie]], la similitude et la contagion — le semblable produit le semblable, ce qui a été en contact continue d'agir —, et fait se succéder la magie, la religion et la science. Ses dieux qui meurent et renaissent avec la végétation, Adonis, Attis, [[osiris|Osiris]], ont inspiré à T. S. Eliot *La Terre vaine* et nourri la lecture des [[mythe|mythes]] par les rites agraires (voir [[allegorese]]). Les ethnologues ont depuis abandonné son évolutionnisme et sa méthode, qui arrache les faits à leur contexte.
+repere: 1854 — Naissance à Glasgow.
+repere: 1890 — *Le Rameau d'or*, en deux volumes.
+repere: 1906-1915 — La troisième édition, en douze volumes.
+repere: 1914 — Il est anobli.
+repere: 1941 — Mort à Cambridge.
+oeuvres: Le Rameau d'or (1890 ; 1906-1915) ; Le Totémisme et l'Exogamie (1910)
+voir: magie, allegorese, mythe, osiris, chamanisme, mircea-eliade
+
+@ henri-bergson
+cat: figures
+nom: Henri Bergson
+alias: Bergson, élan vital
+dates: 1859 – 1941
+an: 1859
+def: Philosophe français de l'intuition et de l'élan vital, prix Nobel de littérature, qui présida la Society for Psychical Research et prit au sérieux les phénomènes « psychiques ».
+texte: Né à Paris en 1859, normalien, Henri Bergson enseigne au Collège de France de 1900 à 1921 ; ses cours attirent le Tout-Paris. L'*Essai sur les données immédiates de la conscience* (1889), *Matière et Mémoire* (1896) et *L'Évolution créatrice* (1907) opposent à l'intelligence, qui découpe et mesure, l'intuition de la durée vécue et d'un « élan vital » à l'œuvre dans l'évolution. Prix Nobel de littérature en 1927, il meurt à Paris, sous l'Occupation, en janvier 1941.
+texte: Sa sœur Mina épouse en 1890 [[samuel-liddell-mathers|Samuel Liddell Mathers]], l'un des fondateurs de la [[golden-dawn|Golden Dawn]], et devient sous le nom de Moina Mathers une figure de l'occultisme. Bergson assiste lui-même aux séances d'[[eusapia-palladino|Eusapia Palladino]] et préside en 1913 la [[society-for-psychical-research|Society for Psychical Research]] de Londres, devant laquelle il parle des « fantômes de vivants » et de la [[metapsychique|recherche psychique]]. *Les Deux Sources de la morale et de la religion* (1932) font une large place aux mystiques chrétiens.
+repere: 1859 — Naissance à Paris.
+repere: 1907 — *L'Évolution créatrice*.
+repere: 1913 — Il préside la Society for Psychical Research.
+repere: 1927 — Prix Nobel de littérature.
+repere: 1941 — Mort à Paris.
+oeuvres: Essai sur les données immédiates de la conscience (1889) ; Matière et Mémoire (1896) ; L'Évolution créatrice (1907) ; Les Deux Sources de la morale et de la religion (1932)
+voir: samuel-liddell-mathers, golden-dawn, society-for-psychical-research, eusapia-palladino, metapsychique
+
+@ hermann-hesse
+cat: figures
+nom: Hermann Hesse
+alias: Hesse, Emil Sinclair, Demian, Siddhartha, Le Loup des steppes, Le Jeu des perles de verre
+dates: 1877 – 1962
+an: 1877
+def: Écrivain allemand devenu suisse, prix Nobel de littérature, dont *Demian*, *Siddhartha*, *Le Loup des steppes* et *Le Jeu des perles de verre* racontent une initiation intérieure nourrie de Jung, de l'Inde et de la gnose.
+texte: Né en 1877 à Calw, dans le Wurtemberg, fils de missionnaires piétistes, Hermann Hesse s'enfuit du séminaire de Maulbronn, devient libraire, puis écrivain. Il séjourne en 1907 au [[monte-verita|Monte Verità]] d'Ascona, voyage en Asie en 1911, s'oppose à la guerre et s'installe en 1919 au Tessin, où il meurt en 1962, à Montagnola. Il reçoit le prix Nobel de littérature en 1946.
+texte: Après une analyse auprès de Josef Lang, un élève de [[carl-gustav-jung|Jung]], il publie sous le nom d'Emil Sinclair *Demian* (1919), où le jeune héros découvre [[abraxas|Abraxas]], le dieu qui unit le bien et le mal, venu des gnostiques par l'intermédiaire de Jung (voir [[basilide]]). Suivent *Siddhartha* (1922), une vie au temps du Bouddha, *Le Loup des steppes* (1927) et son « théâtre magique », *Le Voyage en Orient* (1932), qui suit une confrérie secrète à travers les siècles, et *Le Jeu des perles de verre* (1943), où un ordre de lettrés joue avec toutes les connaissances. La contre-culture des années 1960 a fait de lui un maître.
+repere: 1877 — Naissance à Calw, dans le Wurtemberg.
+repere: 1919 — *Demian*, sous le nom d'Emil Sinclair.
+repere: 1927 — *Le Loup des steppes*.
+repere: 1946 — Prix Nobel de littérature.
+repere: 1962 — Mort à Montagnola, au Tessin.
+oeuvres: Demian (1919) ; Siddhartha (1922) ; Le Loup des steppes (1927) ; Le Voyage en Orient (1932) ; Le Jeu des perles de verre (1943)
+voir: abraxas, basilide, carl-gustav-jung, monte-verita, gnose
+
+@ mircea-eliade
+cat: figures
+nom: Mircea Eliade
+alias: Eliade, Le Sacré et le Profane, Traité d'histoire des religions
+dates: 1907 – 1986
+an: 1907
+def: Historien des religions roumain, installé à Paris puis à Chicago, qui fit du sacré, du mythe, du chamanisme et du « symbolisme du centre » des catégories universelles de l'expérience religieuse.
+texte: Né à Bucarest en 1907, Mircea Eliade étudie la philosophie, puis le sanskrit et le yoga à Calcutta de 1928 à 1931. Romancier dans la Roumanie des années 1930, il y publie aussi des articles favorables à la Garde de fer, le mouvement fasciste, qui lui seront longtemps reprochés. Attaché culturel à Londres et à Lisbonne pendant la guerre, il s'installe à Paris en 1945, puis enseigne à l'université de Chicago de 1957 à sa mort, en 1986.
+texte: Le *Traité d'histoire des religions* et *Le Mythe de l'éternel retour* (1949), *Le Chamanisme et les techniques archaïques de l'extase* (1951) et *Le Sacré et le Profane* (1957) opposent l'homme religieux, qui vit dans un temps cyclique et un espace orienté autour d'un centre, l'[[axis-mundi]] ou l'[[omphalos]], à l'homme moderne, qui a perdu le sens du sacré. Il y définit le [[chamanisme]] comme une technique de l'[[extase]] et le [[mythe]] comme une « histoire sacrée » des commencements.
+texte: Habitué des rencontres d'Eranos, à Ascona (voir [[monte-verita]]), avec [[carl-gustav-jung|Jung]], [[henry-corbin|Henry Corbin]] et [[gershom-scholem|Gershom Scholem]], il a donné à l'étude de l'ésotérisme une place à l'université. Les historiens d'aujourd'hui lui reprochent de généraliser sans tenir compte des contextes, et de chercher partout une même religion intemporelle.
+repere: 1928-1931 — Il étudie le sanskrit et le yoga en Inde.
+repere: 1949 — *Traité d'histoire des religions* et *Le Mythe de l'éternel retour*.
+repere: 1951 — *Le Chamanisme et les techniques archaïques de l'extase*.
+repere: 1957 — Professeur à l'université de Chicago.
+repere: 1986 — Mort à Chicago.
+oeuvres: Traité d'histoire des religions (1949) ; Le Mythe de l'éternel retour (1949) ; Le Chamanisme et les techniques archaïques de l'extase (1951) ; Le Sacré et le Profane (1957)
+voir: chamanisme, extase, axis-mundi, omphalos, arbre-cosmique, mythe, carl-gustav-jung, gershom-scholem, henry-corbin, monte-verita
+
+@ julien-champagne
+cat: figures
+nom: Julien Champagne
+alias: Jean-Julien Champagne, Champagne
+dates: 1877 – 1932
+an: 1877
+def: Peintre et alchimiste français, illustrateur du *Mystère des cathédrales* et des *Demeures philosophales*, que certains ont pris pour Fulcanelli lui-même.
+texte: Né en 1877, ancien élève du peintre Gérôme, Jean-Julien Champagne se passionne pour l'[[alchimie]] et fréquente les cercles parisiens où se croisent le jeune [[eugene-canseliet|Eugène Canseliet]], à qui il fait lire *L'Alchimie et les alchimistes* de Louis Figuier, et le libraire [[pierre-dujols|Pierre Dujols]]. Avec Canseliet et [[jules-boucher|Jules Boucher]], il aurait formé autour du maître le petit cercle des « Frères d'Héliopolis ». Il dessine les planches des deux livres parus sous le nom de [[fulcanelli|Fulcanelli]] : les trente-six du *[[mystere-des-cathedrales|Mystère des cathédrales]]* (1926), les quarante des *[[les-demeures-philosophales|Demeures philosophales]]* (1930).
+texte: Champagne vit pauvrement et meurt en 1932. Sa personnalité et son goût des canulars ont fait de lui, pour [[robert-ambelain|Robert Ambelain]] et d'autres, le véritable auteur des livres de Fulcanelli ; Canseliet l'a toujours nié, et d'autres hypothèses désignent Dujols ou des savants de l'époque.
+repere: 1877 — Naissance, le 23 janvier.
+repere: 1926 — Il illustre *Le Mystère des cathédrales*.
+repere: 1930 — Il illustre *Les Demeures philosophales*.
+repere: 1932 — Mort de Champagne, six ans après la parution du *Mystère*.
+voir: fulcanelli, eugene-canseliet, mystere-des-cathedrales, les-demeures-philosophales, pierre-dujols, robert-ambelain, jules-boucher, alchimie
+
+@ code-morse
+cat: codes
+nom: Code Morse
+alias: morse, alphabet morse, Morse international, SOS, télégraphe, Samuel Morse
+dates: depuis 1838
+an: 1838
+def: Code télégraphique qui note les lettres et les chiffres par des signaux brefs et longs, mis au point vers 1838 par Samuel Morse et Alfred Vail, et longtemps resté la langue des opérateurs radio.
+texte: Le peintre américain Samuel Morse imagine en 1832 un télégraphe électrique ; avec le mécanicien Alfred Vail, il fixe vers 1838 un code de points et de traits, en donnant les signes les plus courts aux lettres les plus fréquentes, que Vail aurait comptées dans les casses d'un imprimeur : E est un point, T un trait. Le 24 mai 1844, la première ligne, de Washington à Baltimore, transmet un verset de la Bible : *What hath God wrought*, « Ce que Dieu a accompli ! ».
+texte: Le code européen, réformé par Friedrich Gerke en 1848 et adopté à la conférence télégraphique de Paris en 1865, est devenu le Morse international. Le signal de détresse SOS, trois points, trois traits, trois points, choisi à Berlin en 1906, ne veut rien dire : on l'a retenu parce qu'il est facile à émettre et à reconnaître. La marine a cessé de veiller le Morse en 1999, mais les radioamateurs le pratiquent toujours.
+texte: Un code n'est pas un chiffre : le Morse ne cache rien, il transcrit (voir [[cryptographie]]). Il a pourtant porté bien des messages chiffrés, comme ceux du [[chiffre-adfgvx|chiffre ADFGVX]], dont les lettres furent choisies pour ne pas se confondre en Morse. Le spiritisme naissant, contemporain du télégraphe, a vu dans les coups frappés des [[soeurs-fox|sœurs Fox]] une télégraphie de l'au-delà : l'un des premiers journaux spirites américains s'appelait *The Spiritual Telegraph* (1852).
+repere: 1838 — Morse et Vail présentent leur code.
+repere: 1844 — Première ligne télégraphique, de Washington à Baltimore.
+repere: 1865 — Le Morse international est adopté à Paris.
+repere: 1906 — Le signal SOS est choisi à Berlin.
+repere: 1999 — Fin de la veille du Morse en mer.
+voir: cryptographie, chiffre-adfgvx, soeurs-fox, spiritisme, steganographie

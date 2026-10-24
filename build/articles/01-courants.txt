@@ -21,7 +21,7 @@ an: 100
 dates: IIe – IIIe siècles ; renouveau en 1463
 def: Courant philosophique et religieux fondé sur les écrits attribués à Hermès Trismégiste, qui enseigne que l'homme peut, par la connaissance, remonter vers le divin dont il est issu.
 texte: Les écrits hermétiques sont composés en grec, en Égypte romaine, entre le Ier et le IIIe siècle de notre ère. On y distingue des traités « techniques » ([[astrologie]], [[alchimie]], [[magie]], médecine des plantes et des pierres) et des traités « philosophiques », réunis plus tard dans le [[corpus-hermetique|Corpus Hermeticum]] et l'[[asclepius|Asclépius]]. Ils mêlent [[platon|platonisme]], stoïcisme et piété égyptienne : un Dieu unique et inconnaissable, un monde vivant traversé de [[correspondances]], un homme divin par son intellect, déchu dans la matière, appelé à renaître par la gnose.
-texte: Oublié en Occident latin, à l'exception de l'Asclépius, l'hermétisme renaît en 1463 lorsque [[marsile-ficin]] traduit en latin, pour Cosme de Médicis, le manuscrit grec du Corpus Hermeticum. Hermès passe alors pour un sage contemporain de [[moise|Moïse]], maillon d'une sagesse primordiale qui annonçait le christianisme : c'est la [[prisca-theologia]]. En 1614, le philologue Isaac Casaubon démontre par l'analyse de la langue que ces textes datent de l'ère chrétienne ; l'aura d'Hermès n'en survit pas moins dans l'alchimie, la [[rose-croix|Rose-Croix]] et l'[[occultisme]].
+texte: Oublié en Occident latin, à l'exception de l'Asclépius, l'hermétisme renaît en 1463 lorsque [[marsile-ficin]] traduit en latin, pour [[cosme-de-medicis|Cosme de Médicis]], le manuscrit grec du Corpus Hermeticum. Hermès passe alors pour un sage contemporain de [[moise|Moïse]], maillon d'une sagesse primordiale qui annonçait le christianisme : c'est la [[prisca-theologia]]. En 1614, le philologue Isaac Casaubon démontre par l'analyse de la langue que ces textes datent de l'ère chrétienne ; l'aura d'Hermès n'en survit pas moins dans l'alchimie, la [[rose-croix|Rose-Croix]] et l'[[occultisme]].
 texte: Par extension, on appelle « hermétique » tout ce qui touche à l'alchimie (la « philosophie hermétique ») et, dans le langage courant, ce qui est fermé ou difficile à comprendre — d'après le sceau d'Hermès qui scellait les vases des alchimistes.
 voir: hermes-trismegiste, corpus-hermetique, asclepius, table-d-emeraude, prisca-theologia, gnose
 
@@ -381,7 +381,7 @@ cat: courants
 nom: Chamanisme
 alias: chaman, chamane, shaman, néo-chamanisme, neochamanisme
 def: Ensemble de pratiques religieuses où un spécialiste, le chamane, entre en transe pour voyager dans le monde des esprits, afin de guérir, de deviner ou de protéger sa communauté.
-texte: Le mot vient de la langue des Toungouses de Sibérie, où les explorateurs russes l'ont recueilli au XVIIe siècle. L'historien des religions Mircea Eliade, dans *Le Chamanisme et les techniques archaïques de l'extase* (1951), en a fait une catégorie universelle, retrouvée en Asie, dans les Amériques et ailleurs : le chamane monte au ciel ou descend aux enfers par l'arbre ou l'axe du monde, aidé d'esprits auxiliaires souvent animaux.
+texte: Le mot vient de la langue des Toungouses de Sibérie, où les explorateurs russes l'ont recueilli au XVIIe siècle. L'historien des religions [[mircea-eliade|Mircea Eliade]], dans *Le Chamanisme et les techniques archaïques de l'extase* (1951), en a fait une catégorie universelle, retrouvée en Asie, dans les Amériques et ailleurs : le chamane monte au ciel ou descend aux enfers par l'arbre ou l'axe du monde, aidé d'esprits auxiliaires souvent animaux.
 texte: Depuis les années 1960, un « néo-chamanisme » occidental, popularisé par les livres de Carlos Castaneda et par l'anthropologue Michael Harner, propose des stages de voyage chamanique au son du tambour. Les peuples autochtones dénoncent souvent ces emprunts comme une appropriation de leurs traditions.
 voir: new-age, arbre-cosmique, neopaganisme, psychopompe, extase, axis-mundi, sacrifice-d-odin
 
@@ -427,7 +427,8 @@ dates: depuis 1912
 def: Enseignement de Georges Gurdjieff, qui propose d'éveiller l'homme ordinaire, « machine » endormie, par un travail sur soi mené au milieu de la vie quotidienne.
 texte: [[georges-gurdjieff]] distingue trois voies traditionnelles : celle du fakir, qui travaille sur le corps, celle du moine, sur les émotions, celle du yogi, sur l'intellect. La quatrième les réunit sans exiger de quitter le monde. L'homme, dit-il, n'a pas d'unité : il est fait de « moi » multiples et vit dans le sommeil. Par l'effort de « se rappeler soi-même », il peut acquérir une âme et une volonté réelles.
 texte: L'enseignement, exposé par [[piotr-ouspensky]] dans *Fragments d'un enseignement inconnu* (1949), comprend une cosmologie (le « rayon de création », la loi de trois et la loi de sept), le symbole de l'[[enneagramme|ennéagramme]] et des danses sacrées, les « mouvements ». Il se transmet dans des groupes à travers le monde.
-voir: georges-gurdjieff, piotr-ouspensky, enneagramme
+texte: La loi de [[trois]] veut que tout phénomène naisse de la rencontre d'une force active, d'une force passive et d'une force neutralisante ; la loi de [[sept]], ou loi des octaves, que tout processus progresse par intervalles inégaux, comme la gamme, et dévie s'il ne reçoit pas un choc aux endroits voulus.
+voir: georges-gurdjieff, piotr-ouspensky, enneagramme, trois, sept
 
 @ egyptosophie
 cat: egypte

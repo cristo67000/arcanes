@@ -18,14 +18,14 @@
   --carte: #fffcf5;
   --encre: #231b33;
   --encre-douce: #4b4260;
-  --encre-legere: #7a7189;
+  --encre-legere: #6a617b;   /* 5,2 : 1 sur le vélin, au-dessus du seuil d'accessibilité (4,5) */
   --trait: #e3dac7;
   --trait-fort: #c9bca1;
   --accent: #5a3796;
   --accent-fort: #432474;
   --accent-clair: #ece5f6;
   --sur-accent: #ffffff;
-  --or: #9c7212;
+  --or: #8a6410;
   --or-clair: #f3e7c5;
   --ok: #1d7a55;
   --ok-fond: #e1f2e9;
@@ -97,7 +97,7 @@
     --carte: #1c1829;
     --encre: #ece6f6;
     --encre-douce: #bdb3d0;
-    --encre-legere: #887e9c;
+    --encre-legere: #9a90ae;
     --trait: #2c2640;
     --trait-fort: #423a5c;
     --accent: #c4a6ff;
@@ -164,7 +164,7 @@
   --carte: #1c1829;
   --encre: #ece6f6;
   --encre-douce: #bdb3d0;
-  --encre-legere: #887e9c;
+  --encre-legere: #9a90ae;
   --trait: #2c2640;
   --trait-fort: #423a5c;
   --accent: #c4a6ff;

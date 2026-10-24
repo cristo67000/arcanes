@@ -125,7 +125,7 @@ try {
   await attendre("Fiche.ref === 'arbre-des-sephiroth' && document.querySelector('#fiche .f-lien[data-ref=\"keter\"]')", 3000, 'arbre des séphiroth');
   await js("document.querySelector('#fiche .f-lien[data-ref=\"keter\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
   await attendre("Fiche.ref === 'keter'", 3000, 'toucher Keter dans la figure ouvre son article');
-  ok(await js("return !!document.querySelector('#fiche .f-noeud-actif')"), 'la séphira de l’article est mise en avant');
+  ok(await attendre("document.querySelector('#fiche .f-noeud-actif')", 3000, 'la séphira de l’article est mise en avant'), 'la séphira de l’article est mise en avant');
   await js('Fiche.fermer(); return 1');
   await attendre('!Fiche.ouverte', 3000, 'fermeture');
   await pause(500);
@@ -420,9 +420,35 @@ try {
   await pause(300);
   ok(await js("return document.querySelectorAll('#carnet-contenu .article-ligne').length") === 1, 'l’article à soi apparaît dans le carnet');
 
-  // ── La frise ──────────────────────────────────────────────────────────────
+  // ── La frise : le bandeau ─────────────────────────────────────────────────
   await js("App.aller('frise'); return 1");
+  await pause(500);
+  ok(await js("return Frise.vue === 'bandeau' && !document.querySelector('.frise-bandeau').hidden && document.getElementById('frise-contenu').hidden"), 'la frise s’ouvre en bandeau');
+  ok(await js("return document.querySelectorAll('.bd-item').length") === MANIFESTE_DATES(), 'le bandeau montre tous les articles datés');
+  const vies = await js("return document.querySelectorAll('.bd-item.bd-vie').length");
+  ok(vies >= 300, 'les vies et les durées y sont des barres (' + vies + ')');
+  ok(await js("const B = Bandeau._; return B.periode({ c: 'figures', da: '530 – 495 av. J.-C.' }).join() === '-530,-495,false' && B.periode({ c: 'figures', da: 'vers 4 av. J.-C. – vers 65' }).join() === '-4,65,false' && B.periode({ c: 'figures', da: 'XIIIᵉ siècle – après 1322' }).join() === '1250,1322,false' && B.periode({ c: 'societes', da: 'depuis 1913' })[0] === 1913 && B.periode({ c: 'figures', da: 'figure légendaire' }) === null"), 'les dates des vies se lisent, avant et après notre ère');
+  ok(await js("const s = document.querySelector('.bd-svg').getBoundingClientRect(); const c = document.querySelector('.bd-cadre'); return s.width > c.clientWidth * 2 && document.documentElement.scrollWidth <= innerWidth"), 'le bandeau glisse dans son cadre sans élargir la page');
+  await js("document.querySelector('.bd-item[data-ref=\"paracelse\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
+  await pause(300);
+  ok(await js("const p = document.querySelector('.bd-choix'); return !p.hidden && p.querySelector('.bd-choix-nom').textContent === 'Paracelse'"), 'toucher une vie ouvre son panneau');
+  ok(await js("return Array.from(document.querySelectorAll('.bd-proches .voisin')).some((b) => /Agrippa/.test(b.textContent)) && document.querySelector('.bd-item[data-ref=\"cornelius-agrippa\"]').classList.contains('bd-proche')"), 'Agrippa vivait en même temps que Paracelse, et s’éclaire');
+  ok(await js("return !document.querySelector('.bd-item[data-ref=\"carl-gustav-jung\"]').classList.contains('bd-proche')"), 'Jung, qui n’a pas croisé Paracelse, reste dans l’ombre');
+  ok(await js("return document.querySelectorAll('.bd-repere').length") === await js("return Dictionnaire.parId('paracelse').re.length"), 'les repères de Paracelse se posent sur sa vie');
+  await js("const c = document.querySelector('.bd-champ'); c.value = 'Jung'; c.dispatchEvent(new Event('change')); return 1");
   await pause(400);
+  ok(await js("return document.querySelector('.bd-choix-nom').textContent === 'Carl Gustav Jung'"), '« Qui vivait en même temps que… ? » trouve une figure par son nom');
+  const avant = await js("return document.querySelector('.bd-svg').getBoundingClientRect().width");
+  await js("document.querySelector('.bd-zoom .bd-bouton-zoom:last-child').click(); return 1");
+  await pause(300);
+  ok(await js("return document.querySelector('.bd-svg').getBoundingClientRect().width") > avant * 1.2, 'le bouton « + » agrandit le bandeau');
+  ok(await js("return document.querySelector('.bd-item.bd-choisi[data-ref=\"carl-gustav-jung\"]') !== null && !document.querySelector('.bd-choix').hidden"), 'la vie choisie le reste après le zoom');
+  ok(await js("return document.querySelectorAll('#frise-epoques .epoque').length") === 7, 'les sept époques ont leur bouton dans le bandeau');
+
+  // ── La frise : la liste ───────────────────────────────────────────────────
+  await js("Array.from(document.querySelectorAll('.segments-frise button')).find((b) => b.textContent === 'Liste').click(); return 1");
+  await pause(400);
+  ok(await js("return document.querySelector('.bd-choix').hidden && document.querySelector('.frise-bandeau').hidden"), 'passer à la liste referme le bandeau');
   const dates = await js("return document.querySelectorAll('#frise-contenu .frise-ligne').length");
   ok(dates === MANIFESTE_DATES(), 'la frise montre tous les articles datés (' + dates + ')');
   ok(await js("return document.querySelectorAll('#frise-epoques .epoque').length") === 7, 'les sept époques ont leur bouton');
@@ -431,9 +457,79 @@ try {
   await pause(300);
   ok(await js("return Array.from(document.querySelectorAll('#frise-contenu .frise-ligne')).every((b) => Dictionnaire.parId(b.getAttribute('data-ref')).c === 'figures')"), 'le filtre « Figures » ne garde que les figures');
 
+  // ── Les outils à manipuler ────────────────────────────────────────────────
+  await js("App.aller('dictionnaire'); return 1");
+  await pause(300);
+  ok(await js("return document.querySelectorAll('#outils-accueil .outil-porte').length") === 5, 'l’accueil propose les cinq outils');
+  await js("document.querySelector('#outils-accueil [data-outil=\"tarot\"]').click(); return 1");
+  await attendre("Fiche.ref === 'tarot' && document.getElementById('manipuler')", 4000, 'l’outil du tarot s’ouvre dans son article');
+  await js("document.querySelector('#manipuler .bouton-principal').click(); return 1");
+  await attendre("document.querySelectorAll('#manipuler .tt-carte.retournee').length === 3", 4000, 'trois cartes se retournent');
+  ok(await js("const c = Array.from(document.querySelectorAll('#manipuler .tt-carte')); const ids = Array.from(document.querySelectorAll('#manipuler .tt-lecture .voisin')).map((b) => b.getAttribute('data-ref')); return c.length === 3 && new Set(ids).size === 3 && ids.every((id) => /^arcane-/.test(id)) && c.every((x) => /conver-/.test(x.querySelector('img').getAttribute('src')))"), 'le tirage donne trois arcanes distincts, avec leur gravure de Conver');
+  await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => b.textContent === '10 cartes').click(); return 1");
+  await attendre("document.querySelectorAll('#manipuler .tt-croix .tt-carte').length === 10", 4000, 'la croix de dix cartes se dispose');
+  await js("Fiche.ouvrir('yi-king', { defiler: 'outil' }); return 1");
+  await attendre("Fiche.ref === 'yi-king' && document.getElementById('manipuler')", 4000, 'l’outil du Yi King s’ouvre');
+  await js("for (let i = 0; i < 6; i += 1) document.querySelector('#manipuler .bouton-principal').click(); return 1");
+  ok(await js("return /^\\d+\\. /.test(document.querySelector('#manipuler .yk-nom').textContent)"), 'six jets de pièces donnent un hexagramme numéroté');
+  await js("Fiche.ouvrir('geomancie', { defiler: 'outil' }); return 1");
+  await attendre("Fiche.ref === 'geomancie' && document.getElementById('manipuler')", 4000, 'l’outil de géomancie s’ouvre');
+  await js("document.querySelector('#manipuler .outil-boutons .bouton-discret').click(); return 1");
+  ok(await js("const c = Array.from(document.querySelectorAll('#manipuler .gm-case')); const juge = c[c.length - 1].querySelectorAll('.gm-point').length; return c.length === 15 && juge % 2 === 0"), 'le bouclier géomantique a ses quinze figures et un Juge pair');
+  await js("Fiche.ouvrir('chiffre-de-cesar', { defiler: 'outil' }); return 1");
+  await attendre("Fiche.ref === 'chiffre-de-cesar' && document.getElementById('manipuler')", 4000, 'l’outil des chiffres s’ouvre');
+  ok(await js("return document.querySelector('#manipuler .outil-sortie').textContent") === 'VRXYLHQV-WRL GH OD PRUW', 'César décale de trois : « Souviens-toi de la mort » devient VRXYLHQV-WRL GH OD PRUW');
+  await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => b.textContent === 'Morse').click(); return 1");
+  ok(await js("return document.querySelector('#manipuler .outil-sortie').textContent.startsWith('··· ––– ··– ···–')"), 'le Morse s’écrit en points et en traits');
+  await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => b.textContent === 'Maçonnique').click(); return 1");
+  ok(await js("return document.querySelectorAll('#manipuler .mc-lettre').length") === 19, 'l’alphabet maçonnique dessine chaque lettre');
+  await js("Fiche.ouvrir('gematrie', { defiler: 'outil' }); return 1");
+  await attendre("Fiche.ref === 'gematrie' && document.getElementById('manipuler')", 4000, 'l’outil des nombres s’ouvre');
+  ok(await js("return document.querySelector('#manipuler .nb-somme').textContent") === '= 26', 'le Tétragramme vaut 26');
+  await js("Array.from(document.querySelectorAll('#manipuler .nb-exemples .filtre')).find((b) => b.textContent === 'ΙΗΣΟΥΣ').click(); return 1");
+  ok(await js("return document.querySelector('#manipuler .nb-somme').textContent") === '= 888', 'ΙΗΣΟΥΣ vaut 888 en isopsephie');
+  await js("Fiche.fermer(); return 1");
+  await pause(300);
+
+  // ── Le plus court chemin, la progression, les anniversaires ──────────────
+  const trajet = await js("return Constellation.cheminEntre('pythagore', 'rennes-le-chateau')");
+  ok(Array.isArray(trajet) && trajet[0] === 'pythagore' && trajet[trajet.length - 1] === 'rennes-le-chateau' && trajet.length <= 8, 'un plus court chemin mène de Pythagore à Rennes-le-Château (' + (trajet || []).length + ' étapes)');
+  ok(await js("const c = Constellation.cheminEntre('pythagore', 'rennes-le-chateau'); return c.every((id, i) => i === 0 || Constellation.voisins(Dictionnaire.parId(c[i - 1])).some((v) => v.a.id === id) || Constellation.voisins(Dictionnaire.parId(id)).some((v) => v.a.id === c[i - 1]))"), 'chaque pas du chemin suit un vrai lien');
+  await js("Fiche.ouvrir('pythagore'); return 1");
+  await attendre("Fiche.ref === 'pythagore' && document.querySelector('.cl-trajet-champ')", 4000, 'le champ du plus court chemin paraît sous la carte des liens');
+  await js("const c = document.querySelector('.cl-trajet-champ'); c.value = 'Rennes-le-Château'; c.dispatchEvent(new Event('input')); return 1");
+  await pause(200);
+  await js("document.querySelector('.cl-trajet-propositions .voisin').click(); return 1");
+  ok(await js("const e = Array.from(document.querySelectorAll('.cl-trajet-etapes .cl-etape')).map((b) => b.getAttribute('data-ref')); return e[0] === 'pythagore' && e[e.length - 1] === 'rennes-le-chateau'"), 'le chemin s’affiche, de l’article à celui qu’on cherche');
+  await js("Fiche.fermer(); App.aller('carnet'); return 1");
+  await pause(300);
+  await js("document.querySelector('#carnet-onglets [data-rubrique=\"progression\"]').click(); return 1");
+  await pause(400);
+  ok(await js("return document.querySelectorAll('#carnet-contenu .pg-ligne').length") >= Dictionnaire_CATS() + 20, 'la progression montre chaque rubrique et chaque parcours');
+  ok(await js("return Number(document.querySelector('#carnet-contenu .pg-chiffre').textContent.replace(/\\s/g, '')) > 0"), 'la progression compte les articles déjà ouverts');
+  await js("App.aller('dictionnaire'); return 1");
+  await pause(300);
+  ok(await js("const a = Array.from(document.querySelectorAll('#anniversaires .anniv')); const an = new Date().getFullYear(); return a.length > 0 && a.every((b) => { const m = /(\\d+)(?: av\\. J\\.-C\\.)?, il y a (\\d+) ans/.exec(b.textContent); return m && Number(m[2]) % 50 === 0; })"), 'l’accueil donne les anniversaires de l’année, par multiples de cinquante ans');
+
+  // ── Un parcours sur la carte ──────────────────────────────────────────────
+  await js("App.aller('carte'); return 1");
+  await attendre("document.querySelector('#carte-parcours select')", 6000, 'le choix d’un parcours paraît sous la carte');
+  await js("const s = document.querySelector('#carte-parcours select'); s.value = 'paris-esoterique'; s.dispatchEvent(new Event('change')); return 1");
+  await pause(700);
+  ok(await js("return !!document.querySelector('.carte-dessus .c-trace-ligne') && document.querySelectorAll('.carte-dessus .c-trace-rang').length === Carte.parcoursDeLieux().find((x) => x.p.id === 'paris-esoterique').lieux.length"), 'le parcours « Paris ésotérique » se trace sur la carte, ses lieux numérotés');
+  ok(await js("return document.querySelectorAll('.carte-parcours-etapes li').length") >= 5, 'ses étapes sont listées sous la carte');
+  await js("const s = document.querySelector('#carte-parcours select'); s.value = ''; s.dispatchEvent(new Event('change')); return 1");
+
   // ── La révision ───────────────────────────────────────────────────────────
   await js("App.aller('quiz'); return 1");
   await pause(400);
+  for (const sens of ['image', 'son', 'extrait']) {
+    const qs = await js("const q = await Quiz.construire({ source: 'tous', sens: '" + sens + "', n: 10, mode: 'qcm' }); return q.map((x) => ({ s: x.sens, c: x.cible.id, ids: x.propositions.map((p) => p.article.id), media: !!(x.image || x.son || x.sens === 'extrait') }))");
+    ok(qs.length === 10 && qs.every((q) => q.s === sens && q.media && new Set(q.ids).size === 4 && q.ids.includes(q.c)), 'dix questions « ' + sens + ' » se construisent, chacune avec son support et quatre propositions');
+  }
+  const ordres = await js("const q = await Quiz.construire({ source: 'tous', sens: 'ordre', n: 5, mode: 'qcm' }); return q.map((x) => x.bonne.map((id) => Dictionnaire.parId(id).an))");
+  ok(ordres.length === 5 && ordres.every((ans) => ans.length === 4 && ans.every((a, i) => i === 0 || ans[i - 1] < a)), 'les questions « remettre en ordre » ont quatre dates croissantes');
+  ok(await js("const q = await Quiz.construire({ source: 'tous', sens: 'son', n: 10, mode: 'qcm' }); return q.every((x) => x.propositions.every((p) => p.article.id === x.cible.id || !(p.article.so || []).some((s) => s.id === x.son.id)))"), 'aucun leurre ne partage le son de la question');
   for (const sens of ['def-nom', 'nom-def', 'chrono']) {
     const qs = await js("const q = await Quiz.construire({ source: 'tous', sens: '" + sens + "', n: 20, mode: 'qcm' }); return q.map((x) => ({ s: x.sens, ids: x.propositions.map((p) => p.article.id), c: x.cible.id, e: x.enonce, t: x.propositions.map((p) => p.texte), an: x.propositions.map((p) => p.article.an) }))");
     ok(qs.length === 20, 'vingt questions « ' + sens + ' » se construisent');
@@ -539,6 +635,11 @@ try {
   }
   await fermerChrome(chrome);
   try { await serveur.arreter(); } catch (e) { /* déjà arrêté */ }
+}
+
+function Dictionnaire_CATS() {
+  const d = JSON.parse(fs.readFileSync(path.join(RACINE, 'data', 'dictionnaire.json'), 'utf-8'));
+  return new Set(d.articles.map((a) => a.c)).size;
 }
 
 function MANIFESTE_DATES() {

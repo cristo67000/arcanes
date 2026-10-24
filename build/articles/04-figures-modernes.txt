@@ -75,7 +75,7 @@ repere: 1795 — Élève de l'École normale, il y affronte le professeur Garat.
 repere: 1800 — Traduction de *L'Aurore naissante* de Boehme.
 repere: 1803 — Mort à Aulnay, près de Paris.
 oeuvres: Des erreurs et de la vérité (1775) ; Tableau naturel des rapports qui existent entre Dieu, l'homme et l'univers (1782) ; L'Homme de désir (1790) ; De l'esprit des choses (1800) ; Le Ministère de l'homme-esprit (1802)
-voir: martinisme, martinez-de-pasqually, jakob-boehme, reintegration, des-erreurs-et-de-la-verite, illuminisme
+voir: martinisme, martinez-de-pasqually, jakob-boehme, reintegration, des-erreurs-et-de-la-verite, illuminisme, aurore-naissante
 
 @ jean-baptiste-willermoz
 cat: figures
@@ -230,7 +230,7 @@ repere: 1788 — Il fonde la Société des interprètes du Livre de Thot.
 repere: 1789 — Publication de son tarot « rectifié ».
 repere: 1791 — Mort à Paris.
 repere: 1996 — Decker, Depaulis et Dummett retracent son histoire dans *A Wicked Pack of Cards*.
-voir: cartomancie, tarot, court-de-gebelin, divination, mademoiselle-lenormand, thot, livre-de-thot
+voir: cartomancie, tarot, court-de-gebelin, divination, mademoiselle-lenormand, thot, livre-de-thot, jeu-lenormand
 
 @ dom-pernety
 cat: figures
@@ -364,7 +364,7 @@ repere: 1875 — Mort à Paris.
 oeuvres: Dogme et rituel de la haute magie (1854-1856) ; Histoire de la magie (1860) ; La Clef des grands mystères (1861) ; La Science des esprits (1865) ; Le Grand Arcane (publié en 1898)
 extrait: Depuis trop longtemps on confond la magie avec les prestiges des charlatans, avec les hallucinations des malades, et avec les crimes de certains malfaiteurs exceptionnels. (…) ¶ La magie ne saurait être ce que la font ceux qui ne la connaissent pas. Il n’appartient d’ailleurs à personne de la faire ceci ou cela ; elle est ce qu’elle est, elle est par elle-même, comme les mathématiques, car c’est la science exacte et absolue de la nature et de ses lois. ¶ La magie est la science des anciens mages ; et la religion chrétienne, qui a imposé silence aux oracles menteurs, et fait cesser tous les prestiges des faux dieux, révère elle-même ces mages qui vinrent de l’Orient, guidés par une étoile, pour adorer le Sauveur du monde dans son berceau.
 source: Éliphas Lévi, *Histoire de la magie*, 1860, introduction | gallica bpt6k75611x | ia histoiredelamagi21013gut = le texte du Projet Gutenberg
-voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique, sphinx, pan
+voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique, sphinx, pan, arcane-soleil
 
 @ allan-kardec
 cat: figures
@@ -673,7 +673,7 @@ def: Occultiste britannique, cofondateur et principal concepteur des rituels de 
 texte: Samuel Liddell Mathers naît à [[londres|Londres]] en 1854, fils d'un employé de commerce ; il grandit avec sa mère, veuve, à Bournemouth. Passionné d'histoire militaire et d'occultisme, il ajoute à son nom celui de MacGregor, en souvenir d'ancêtres écossais réels ou rêvés. Franc-maçon en 1877, il entre dans la Societas Rosicruciana in Anglia, où il rencontre [[william-wynn-westcott]].
 texte: Érudit autodidacte, il passe ses journées au British Museum à copier et traduire des manuscrits. Il publie en 1887 *The Kabbalah Unveiled*, traduction d'une partie de la *[[kabbala-denudata|Kabbala denudata]]*, puis la *[[clavicule-de-salomon|Clavicule de Salomon]]* (1889) et le *[[livre-d-abramelin|Livre d'Abramelin]]* (1898), d'après un manuscrit de la bibliothèque de l'Arsenal, à Paris.
 texte: En 1888, il fonde la [[golden-dawn|Golden Dawn]] avec Westcott et William Robert Woodman. Il en écrit les rituels de grades et le système d'enseignement, qui réunit [[kabbale]], [[tarot]], [[astrologie]], [[geomancie]], [[magie-enochienne|magie énochienne]] et [[alchimie]] en une synthèse sans précédent. En 1892, il crée un « second ordre », la Rose de rubis et la Croix d'or, où l'on pratique réellement la magie, et dit avoir reçu ses enseignements de « chefs secrets ».
-texte: Il épouse en 1890 Mina Bergson, artiste peintre et sœur du philosophe Henri Bergson, qui prend le nom de Moina. Le couple s'installe à Paris, où il célèbre au théâtre des « rites d'Isis ». Son autoritarisme provoque en 1900 la révolte des membres londoniens et l'éclatement de l'ordre ; il se brouille avec son disciple [[aleister-crowley]], qui le peindra plus tard sous les traits d'un mage malfaisant.
+texte: Il épouse en 1890 Mina Bergson, artiste peintre et sœur du philosophe [[henri-bergson|Henri Bergson]], qui prend le nom de Moina. Le couple s'installe à Paris, où il célèbre au théâtre des « rites d'Isis ». Son autoritarisme provoque en 1900 la révolte des membres londoniens et l'éclatement de l'ordre ; il se brouille avec son disciple [[aleister-crowley]], qui le peindra plus tard sous les traits d'un mage malfaisant.
 texte: Il meurt à Paris en 1918, peut-être de la grippe espagnole. Moina poursuit son œuvre à la tête de l'ordre fidèle à son mari. Ses rituels et ses traductions, publiés au XXe siècle par [[israel-regardie]], restent la base de la magie cérémonielle anglophone.
 repere: 1854 — Naissance à Londres.
 repere: 1877 — Reçu franc-maçon.
@@ -853,7 +853,7 @@ repere: 1819 — Il dessine des « têtes visionnaires » pour l'astrologue John
 repere: 1826 — *Illustrations du livre de Job*.
 repere: 1827 — Mort à Londres.
 repere: 1893 — W. B. Yeats publie une édition de son œuvre.
-voir: emanuel-swedenborg, jakob-boehme, imagination-creatrice, mystique, william-butler-yeats, femme-revetue-du-soleil, le-paradis-perdu, jerusalem-celeste, jardin-d-eden
+voir: emanuel-swedenborg, jakob-boehme, imagination-creatrice, mystique, william-butler-yeats, femme-revetue-du-soleil, le-paradis-perdu, jerusalem-celeste, jardin-d-eden, arcanes-celestes
 
 @ francis-barrett
 cat: figures

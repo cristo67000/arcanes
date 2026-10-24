@@ -42,7 +42,7 @@ dates: 3
 def: Le nombre qui réconcilie l'un et le deux, et qui achève ce qui a commencement, milieu et fin ; il est celui de la Trinité chrétienne, des trois principes alchimiques et des trois points des francs-maçons.
 texte: Pour les pythagoriciens, le trois est le premier nombre véritable, celui qui a un commencement, un milieu et une fin, et le triangle la première figure fermée. Les triades divines abondent : Osiris, Isis et Horus en Égypte, Brahma, Vishnou et Shiva dans l'hindouisme, et dans le christianisme la Trinité du Père, du Fils et de l'Esprit. Hermès est dit « trois fois grand », [[hermes-trismegiste|Trismégiste]].
 texte: [[paracelse|Paracelse]] fonde la chimie sur les [[tria-prima|trois principes]], le sel, le soufre et le mercure ; la kabbale répartit les séphiroth en trois piliers. La [[franc-maconnerie]] fait du trois un nombre fondateur : trois grades symboliques, trois grandes lumières, trois coups de maillet, et les [[trois-points|trois points]] en triangle de la signature maçonnique.
-voir: deux, quatre, tria-prima, trois-points, trois-grandes-lumieres, hermes-trismegiste
+voir: deux, quatre, tria-prima, trois-points, trois-grandes-lumieres, hermes-trismegiste, quatrieme-voie
 
 @ quatre
 cat: nombres
@@ -52,7 +52,7 @@ dates: 4
 def: Le nombre de la stabilité et de l'ordre du monde matériel : quatre éléments, quatre saisons, quatre points cardinaux, et les quatre lettres du nom divin.
 texte: Le quatre est le nombre du carré et de la croix, de ce qui est solide et organisé. Empédocle répartit le monde en [[quatre-elements|quatre éléments]], la médecine en quatre humeurs, le temps en quatre saisons et la vie en quatre âges. Le prophète Ézéchiel voit quatre vivants, devenus les symboles des évangélistes, le [[tetramorphe]].
 texte: Les pythagoriciens juraient par la [[tetractys|tétractys]], triangle de dix points rangés en quatre lignes (1 + 2 + 3 + 4 = 10) : le quatre contient en germe la perfection du dix. La kabbale vénère le [[tetragramme|Tétragramme]], le nom divin de quatre lettres, et distingue [[quatre-mondes|quatre mondes]]. Le tarot a quatre couleurs, l'alchimie quatre couleurs de l'œuvre.
-voir: trois, cinq, quatre-elements, tetractys, tetragramme, tetramorphe, dix
+voir: trois, cinq, quatre-elements, tetractys, tetragramme, tetramorphe, dix, arcane-pendu
 
 @ cinq
 cat: nombres
@@ -84,7 +84,7 @@ dates: 7
 def: Le nombre sacré par excellence dans les traditions du Proche-Orient et de l'Europe : sept planètes, sept jours de la semaine, sept arts libéraux, sept sacrements, sept branches de la menorah.
 texte: Les sept astres errants visibles à l'œil nu — Soleil, Lune, Mercure, Vénus, Mars, Jupiter et Saturne — ont donné leurs noms aux sept jours de la semaine et fondé le système des correspondances : sept métaux, sept couleurs, sept notes de musique, sept [[heures-planetaires|heures planétaires]] qui reviennent. La Bible fait reposer Dieu le septième jour ; l'Apocalypse compte sept églises, sept sceaux, sept trompettes.
 texte: Le christianisme médiéval enseigne sept vertus, sept péchés capitaux, sept sacrements et sept arts libéraux ; la [[menorah]] a sept branches, et les sept étoiles de la [[grande-ourse|Grande Ourse]] veillent sur le nord. La [[theosophie|théosophie]] divise l'homme en sept principes, le tantrisme compte sept [[chakra|chakras]], et la loge maçonnique est « juste et parfaite » quand sept frères la composent.
-voir: six, huit, planetes, heures-planetaires, menorah, chakra, grande-ourse
+voir: six, huit, planetes, heures-planetaires, menorah, chakra, grande-ourse, aurore-naissante, quatrieme-voie
 
 @ huit
 cat: nombres

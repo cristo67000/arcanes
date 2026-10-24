@@ -1251,3 +1251,300 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 }
 .cl-etape.actif { background: var(--accent-clair); }
 .cl-etape:hover { border-color: var(--accent); }
+
+/* ── À manipuler : les outils (js/manipuler.js) ─────────────────────────── */
+
+.manipuler {
+  margin: 1.3rem 0; padding: .2rem 1rem 1rem; border: 1px solid var(--trait); border-radius: var(--rayon);
+  background: var(--carte); border-top: 3px solid var(--accent);
+}
+.manipuler .rubrique { margin-top: .9rem; }
+.manipuler-titre { margin: -.15rem 0 .55rem; font: 600 1.2rem/1.25 var(--serif); }
+.manipuler-avis { margin: .9rem 0 0; font-size: .84rem; line-height: 1.45; color: var(--encre-legere); }
+.outil-aide p, .outil-aide-ligne { margin: 0 0 .7rem; font-size: .93rem; line-height: 1.5; color: var(--encre-douce); }
+.segments-outil { flex-wrap: wrap; }
+.segments-outil button { flex: 1 1 auto; font-size: .86rem; padding: .45rem .6rem; min-height: 2.5rem; }
+.outil-boutons { display: flex; flex-wrap: wrap; gap: .5rem; margin: .55rem 0; }
+.outil-boutons .bouton-principal { flex: 1 1 14rem; width: auto; }
+.outil-renvois { margin-top: .7rem; }
+.outil-lien { margin-top: .6rem; }
+.outil-champ {
+  display: block; width: 100%; padding: .65rem .8rem; border: 1px solid var(--trait-fort); border-radius: 10px;
+  background: var(--fond); color: var(--encre); font: 1.02rem/1.4 var(--serif); resize: vertical;
+}
+.outil-champ:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.outil-champ-court { font-size: 1.25rem; }
+.outil-ligne { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .9rem; margin: .6rem 0; }
+.outil-ligne .segments { margin: 0; flex: 0 1 15rem; }
+.outil-reglages { display: flex; flex-wrap: wrap; gap: .5rem; }
+.outil-option { display: inline-flex; align-items: center; gap: .45rem; font-size: .9rem; color: var(--encre-douce); }
+.outil-option input {
+  width: 5.5rem; padding: .45rem .55rem; border: 1px solid var(--trait-fort); border-radius: 8px;
+  background: var(--fond); color: var(--encre); font: inherit;
+}
+.outil-option input[type="text"] { width: 9rem; text-transform: uppercase; }
+.outil-sortie {
+  min-height: 3rem; padding: .75rem .85rem; border-radius: 10px; background: var(--accent-clair); color: var(--encre);
+  font: 600 1.05rem/1.55 ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace; letter-spacing: .04em;
+  overflow-wrap: anywhere; white-space: pre-wrap;
+}
+.morse-sortie { letter-spacing: .12em; }
+
+/* le tarot */
+.tt-tapis { display: flex; flex-wrap: wrap; justify-content: center; gap: .7rem; margin: 1rem 0 .6rem; perspective: 1000px; }
+.tt-carte {
+  position: relative; width: 6.6rem; aspect-ratio: 440 / 809; padding: 0; border: 0; background: none; cursor: pointer;
+}
+.tt-un .tt-carte { width: 9.5rem; }
+.tt-interieur {
+  position: absolute; inset: 0; transform-style: preserve-3d; transition: transform .65s cubic-bezier(.3, .7, .2, 1);
+}
+.tt-carte.retournee .tt-interieur { transform: rotateY(180deg); }
+.tt-dos, .tt-face {
+  position: absolute; inset: 0; border-radius: 7px; overflow: hidden; backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  box-shadow: 0 2px 8px rgba(20, 12, 40, .25);
+}
+.tt-dos {
+  border: 3px solid var(--carte);
+  background: radial-gradient(circle at 50% 50%, var(--or) 0 9%, transparent 10%),
+    repeating-linear-gradient(45deg, var(--accent) 0 5px, var(--accent-fort) 5px 10px);
+}
+.tt-face { transform: rotateY(180deg); background: var(--carte); }
+.tt-image { display: block; width: 100%; height: 100%; object-fit: cover; }
+.tt-numero {
+  position: absolute; top: -.5rem; left: -.45rem; z-index: 3; min-width: 1.45rem; height: 1.45rem; border-radius: 50%;
+  background: var(--accent); color: var(--sur-accent); font: 700 .78rem/1.45rem var(--sans); text-align: center;
+  box-shadow: 0 0 0 2px var(--carte);
+}
+.tt-carte:hover .tt-face, .tt-carte:focus-visible .tt-face { box-shadow: 0 0 0 3px var(--accent); }
+.tt-croix {
+  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .55rem .45rem; justify-items: center; align-items: center;
+  grid-template-areas: ". c3 . c10" "c5 c1 c6 c9" ". c4 . c8" ". . . c7"; max-width: 25rem; margin-inline: auto;
+}
+.tt-croix .tt-carte { width: 100%; max-width: 5.4rem; }
+.tt-croix .tt-place-1 { grid-area: c1; }
+.tt-croix .tt-place-2 { grid-area: c1; z-index: 2; transform: rotate(90deg) scale(.8); }
+.tt-croix .tt-place-2 .tt-numero { transform: rotate(-90deg); }
+.tt-croix .tt-place-3 { grid-area: c3; }
+.tt-croix .tt-place-4 { grid-area: c4; }
+.tt-croix .tt-place-5 { grid-area: c5; }
+.tt-croix .tt-place-6 { grid-area: c6; }
+.tt-croix .tt-place-7 { grid-area: c7; }
+.tt-croix .tt-place-8 { grid-area: c8; }
+.tt-croix .tt-place-9 { grid-area: c9; }
+.tt-croix .tt-place-10 { grid-area: c10; }
+.tt-lecture { margin: .4rem 0 0; padding-left: 1.4rem; }
+.tt-lecture li { margin: .3rem 0; }
+.tt-lecture .voisin { margin-left: .4rem; }
+.tt-place { font-size: .9rem; color: var(--encre-douce); }
+.tt-un + .tt-lecture { list-style: none; padding: 0; text-align: center; }
+
+/* le Yi King */
+.yk-pieces { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; min-height: 2.6rem; margin: .6rem 0; }
+.yk-piece {
+  display: inline-grid; place-items: center; width: 2.3rem; height: 2.3rem; border-radius: 50%;
+  font: 700 1rem var(--sans); border: 2px solid var(--or); background: var(--or-clair); color: var(--encre);
+}
+.yk-piece.yin { background: var(--carte); }
+.yk-piece.lance { animation: yk-lance .5s cubic-bezier(.3, .8, .3, 1.2) both; }
+@keyframes yk-lance { from { transform: translateY(-.9rem) rotateX(540deg); opacity: 0; } to { transform: none; opacity: 1; } }
+.yk-somme { font-size: .92rem; color: var(--encre-douce); }
+.yk-montee { display: flex; align-items: center; gap: .8rem; }
+.yk-dessin { width: 5.4rem; height: auto; flex: none; }
+.yk-trait { fill: var(--encre); }
+.yk-vide { fill: none; stroke: var(--trait-fort); stroke-dasharray: 3 3; }
+.yk-mutant { fill: none; stroke: var(--or); stroke-width: 2; }
+.yk-hexagramme { display: flex; align-items: center; gap: .9rem; margin: .8rem 0; }
+.yk-titre { margin: 0; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--encre-legere); font-weight: 700; }
+.yk-nom { margin: .1rem 0; font: 600 1.15rem/1.3 var(--serif); }
+.yk-sous { margin: 0; font-size: .88rem; color: var(--encre-douce); }
+
+/* la géomancie */
+.gm-traces { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: .6rem; margin: .6rem 0; }
+.gm-mere-traces { padding: .4rem .55rem; border: 1px solid var(--trait); border-radius: 9px; }
+.gm-mere-traces .gm-role { margin: 0 0 .2rem; }
+.gm-ligne { display: flex; justify-content: space-between; gap: .4rem; font-size: .78rem; line-height: 1.5; }
+.gm-pts { color: var(--encre-douce); letter-spacing: .05em; overflow-wrap: anywhere; }
+.gm-parite { flex: none; color: var(--or); font-weight: 700; }
+.gm-rang-titre { margin: .8rem 0 .3rem; font-size: .8rem; color: var(--encre-legere); font-weight: 700; }
+.gm-rang { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem; }
+.gm-case {
+  display: flex; flex-direction: column; align-items: center; gap: .1rem; width: 4.9rem; padding: .35rem .2rem .4rem;
+  border: 1px solid var(--trait); border-radius: 9px; background: var(--fond); text-align: center;
+}
+.gm-dessin { width: 2.3rem; height: auto; }
+.gm-point { fill: var(--encre); }
+.gm-role { font-size: .68rem; color: var(--encre-legere); text-transform: uppercase; letter-spacing: .04em; }
+.gm-nom { font: italic 600 .82rem/1.2 var(--serif); }
+.gm-sens { font-size: .72rem; line-height: 1.2; color: var(--encre-douce); }
+
+/* l’alphabet maçonnique */
+.mc-sortie { display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; font: inherit; letter-spacing: 0; }
+.mc-mot { display: inline-flex; flex-wrap: wrap; gap: .15rem; }
+.mc-lettre { width: 1.7rem; height: 1.7rem; }
+.mc-trait { fill: none; stroke: var(--encre); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+.mc-point { fill: var(--encre); }
+
+/* le nombre d’un nom */
+.nb-claviers, .nb-exemples { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; margin: .55rem 0; }
+.nb-touches { display: flex; flex-wrap: wrap; gap: .25rem; direction: ltr; }
+.nb-touche {
+  min-width: 2.3rem; min-height: 2.3rem; border: 1px solid var(--trait-fort); border-radius: 7px; background: var(--fond);
+  font: 1.15rem var(--serif); color: var(--encre); cursor: pointer;
+}
+.nb-touche:hover { border-color: var(--accent); }
+.nb-espace, .nb-effacer { font: .85rem var(--sans); padding: 0 .6rem; }
+.nb-systeme { margin: .7rem 0 0; padding: .55rem .75rem .6rem; border-radius: 10px; background: var(--accent-clair); }
+.nb-titre { margin: 0 0 .3rem; font-size: .78rem; font-weight: 700; color: var(--encre-douce); }
+.nb-lettres { display: flex; flex-wrap: wrap; align-items: center; gap: .2rem .25rem; margin: 0; }
+.nb-lettre { display: inline-flex; flex-direction: column; align-items: center; min-width: 1.6rem; }
+.nb-signe { font: 1.25rem/1.1 var(--serif); }
+.nb-valeur { font: 700 .72rem var(--sans); color: var(--accent); }
+.nb-plus { color: var(--encre-legere); font-size: .85rem; }
+.nb-somme { margin: .35rem 0 0; font: 700 1.25rem var(--serif); }
+.nb-reduction { margin: .2rem 0 0; font-size: .86rem; color: var(--encre-douce); }
+
+@media (prefers-reduced-motion: reduce) {
+  .tt-interieur { transition: none; }
+  .yk-piece.lance { animation: none; }
+}
+
+/* ── La frise en bandeau (js/bandeau.js) ────────────────────────────────── */
+
+.segments-frise { max-width: 18rem; }
+.bd-outils { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .8rem; margin: .2rem 0 .4rem; }
+.bd-chercher { flex: 1 1 15rem; }
+.bd-champ {
+  width: 100%; padding: .6rem .8rem; border: 1px solid var(--trait-fort); border-radius: 10px;
+  background: var(--carte); color: var(--encre); font: inherit;
+}
+.bd-zoom { display: inline-flex; align-items: center; gap: .35rem; }
+.bd-bouton-zoom { font: 600 1.25rem/1 var(--sans); }
+.bd-bouton-zoom[disabled] { opacity: .4; cursor: default; }
+.bd-zoom-valeur { min-width: 2.6rem; text-align: center; font: 600 .85rem var(--sans); color: var(--encre-douce); font-variant-numeric: tabular-nums; }
+.bd-aide { margin: .2rem 0 .5rem; font-size: .82rem; }
+.bd-cadre {
+  overflow-x: auto; overflow-y: hidden; margin: 0 -1rem; padding-bottom: .4rem;
+  border-top: 1px solid var(--trait); border-bottom: 1px solid var(--trait); background: var(--fond);
+  -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; cursor: grab;
+}
+.bd-cadre.bd-glisse { cursor: grabbing; user-select: none; }
+.bd-toile { position: relative; }
+.bd-svg { position: absolute; left: 0; top: 0; display: block; }
+.bd-etiquettes { position: absolute; left: 0; top: 0; pointer-events: none; }
+.bd-couloir-tete { position: absolute; left: 0; height: 1.1rem; }
+.bd-couloir-nom {
+  position: sticky; left: .4rem; display: inline-flex; align-items: center; gap: .35rem; padding: .05rem .5rem;
+  border-radius: 999px; background: var(--carte); border: 1px solid var(--trait);
+  font: 700 .7rem var(--sans); letter-spacing: .04em; text-transform: uppercase; color: var(--encre-douce); white-space: nowrap;
+}
+.bd-epoque-a { fill: var(--fond); }
+.bd-epoque-b { fill: color-mix(in srgb, var(--accent) 5%, var(--fond)); }
+.bd-epoque-nom { font: 700 10.5px var(--sans); letter-spacing: .03em; fill: var(--encre-legere); }
+.bd-graduation { stroke: var(--trait); stroke-width: 1; }
+.bd-an { font: 600 10.5px var(--sans); fill: var(--encre-legere); font-variant-numeric: tabular-nums; }
+.bd-regle { stroke: var(--trait-fort); stroke-width: 1; }
+.bd-rupture { fill: none; stroke: var(--or); stroke-width: 1.4; }
+.bd-couloir-fin { stroke: var(--trait-fort); stroke-width: 1; stroke-dasharray: 2 3; }
+.bd-bande { fill: color-mix(in srgb, var(--accent) 13%, transparent); }
+.bd-item { cursor: pointer; outline: none; }
+.bd-cible { fill: transparent; }
+.bd-nom { font: 600 11px var(--serif); fill: var(--encre); }
+.bd-barre { fill: var(--cc, var(--accent)); }
+.bd-an-rappel { fill: color-mix(in srgb, var(--encre-legere) 70%, transparent); font-size: 9.5px; }
+.bd-nom-choisi { fill: var(--accent); font-weight: 700; paint-order: stroke; stroke: var(--fond); stroke-width: 3px; }
+.bd-losange { fill: var(--cc, var(--accent)); stroke: var(--fond); stroke-width: 1; }
+.bd-item:hover .bd-nom, .bd-item:focus-visible .bd-nom { fill: var(--accent); text-decoration: underline; }
+.bd-item:focus-visible .bd-cible { fill: none; stroke: var(--accent); stroke-width: 1.5; }
+.bd-choix-actif .bd-item { opacity: .22; transition: opacity .2s; }
+.bd-choix-actif .bd-item.bd-proche, .bd-choix-actif .bd-item.bd-choisi { opacity: 1; }
+.bd-choisi .bd-nom { fill: var(--accent); font-weight: 700; }
+.bd-choisi .bd-barre { height: 6px; }
+.bd-repere { fill: var(--carte); stroke: var(--encre); stroke-width: 1.6; }
+
+/* le panneau de la vie choisie, au-dessus des onglets */
+.bd-choix {
+  position: fixed; z-index: 15; left: .6rem; right: .6rem; bottom: calc(4.1rem + env(safe-area-inset-bottom) + .5rem);
+  max-width: 40rem; max-height: min(42vh, 24rem); margin: 0 auto; overflow-y: auto; overscroll-behavior: contain;
+  padding: .35rem .9rem .8rem; border-radius: var(--rayon); background: var(--carte);
+  border: 1px solid var(--trait); border-left: 4px solid var(--cc, var(--accent)); box-shadow: var(--ombre);
+}
+.bd-choix-tete { display: flex; align-items: flex-start; justify-content: space-between; gap: .6rem; }
+.bd-choix-cat { margin: .35rem 0 0; font-size: .78rem; color: var(--encre-legere); }
+.bd-choix-nom { margin: .05rem 0 0; font: 600 1.15rem/1.2 var(--serif); }
+.bd-choix-def { flex: 1 1 14rem; margin: 0; font-size: .9rem; line-height: 1.4; color: var(--encre-douce); }
+.bd-choix-ligne { display: flex; flex-wrap: wrap; align-items: flex-start; gap: .5rem .8rem; margin: .3rem 0 0; }
+.bd-lire { flex: none; min-height: 2.4rem; padding: .4rem .8rem; }
+.bd-replie .bd-choix-corps { display: none; }
+.bd-replie { overflow: hidden; }
+.bd-choix-tete .choix-fermer { flex: none; width: 2.3rem; height: 2.3rem; }
+.bd-choix-titres { flex: 1; min-width: 0; }
+.bd-choix-sous { margin: .75rem 0 .35rem; font-size: .78rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--encre-legere); }
+.bd-proche-dates { font: .76rem var(--sans); color: var(--encre-legere); }
+.bd-choix-reperes { margin: 0; padding-left: 1.1rem; font-size: .88rem; line-height: 1.45; }
+.bd-choix-reperes li { margin: .2rem 0; }
+.bd-repere-an { font-weight: 700; color: var(--encre-douce); }
+.frise-bandeau { margin-bottom: 1rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .bd-choix-actif .bd-item { transition: none; }
+}
+
+/* le plus court chemin entre deux articles */
+.cl-trajet { margin-top: .9rem; padding-top: .7rem; border-top: 1px dashed var(--trait-fort); }
+.cl-trajet-titre { margin: 0 0 .4rem; font-size: .8rem; font-weight: 700; color: var(--encre-douce); }
+.cl-trajet-ligne { display: flex; gap: .45rem; }
+.cl-trajet-champ {
+  flex: 1; min-width: 0; padding: .55rem .75rem; border: 1px solid var(--trait-fort); border-radius: 10px;
+  background: var(--carte); color: var(--encre); font: inherit;
+}
+.cl-trajet-hasard { flex: none; }
+.cl-trajet-propositions { margin-top: .45rem; }
+.cl-trajet-compte { margin: .55rem 0 0; font-size: .88rem; color: var(--encre-douce); }
+
+/* la progression, dans le carnet */
+.pg-tete { margin: .3rem 0 .4rem; text-align: center; }
+.pg-chiffre { margin: 0; font: 700 2.4rem/1.1 var(--serif); color: var(--accent); }
+.pg-tete .discret { margin: .1rem 0 .55rem; }
+.pg-barre { display: block; height: .45rem; border-radius: 999px; background: var(--trait); overflow: hidden; }
+.pg-plein { display: block; height: 100%; border-radius: inherit; background: var(--cc, var(--accent)); transition: width .5s ease; }
+.pg-total { height: .65rem; }
+.pg-fini .pg-plein { background: var(--ok); }
+.pg-liste { list-style: none; margin: 0; padding: 0; }
+.pg-ligne { display: grid; grid-template-columns: 1fr auto; gap: .15rem .6rem; align-items: center; padding: .4rem 0; border-bottom: 1px solid var(--trait); }
+.pg-ligne .pg-barre { grid-column: 1 / -1; }
+.pg-nom { display: inline-flex; align-items: center; gap: .4rem; font: 600 .95rem var(--serif); color: var(--encre); }
+.pg-compte { font: 600 .8rem var(--sans); color: var(--encre-legere); font-variant-numeric: tabular-nums; }
+.lien-parcours { border: 0; background: none; padding: 0; text-align: left; cursor: pointer; }
+.lien-parcours:hover { color: var(--accent); text-decoration: underline; }
+
+/* les anniversaires de l'année, sur l'accueil */
+.anniv-liste { display: flex; gap: .4rem; overflow-x: auto; padding: .1rem .1rem .45rem; scroll-snap-type: x proximity; -webkit-overflow-scrolling: touch; }
+.anniv { flex: none; display: inline-flex; flex-direction: column; align-items: flex-start; text-align: left; scroll-snap-align: start; }
+@media (min-width: 48rem) { .anniv-liste { flex-wrap: wrap; overflow-x: visible; } }
+.anniv-quand { font: .74rem var(--sans); color: var(--encre-legere); }
+
+/* la révision : gravures, sons, extraits, remise en ordre */
+.enonce-image { display: flex; justify-content: center; padding: .5rem; }
+.q-image { display: block; max-width: 100%; max-height: 46vh; width: auto; height: auto; border-radius: 8px; box-shadow: var(--ombre); }
+.enonce-son { text-align: center; }
+.enonce-son .bouton-principal { max-width: 18rem; margin: 0 auto .3rem; }
+.enonce-extrait { margin: 0 0 .9rem; padding: .8rem 1rem; border-left: 3px solid var(--or); background: var(--carte); border-radius: var(--rayon); }
+.enonce-extrait p { margin: 0; font: italic 1.02rem/1.55 var(--serif); color: var(--encre-douce); }
+.choix-ordre.range { border-color: var(--accent); background: var(--accent-clair); }
+.choix-ordre.range .touche { background: var(--accent); color: var(--sur-accent); }
+.verdict-ordre { margin: .4rem 0 .6rem; padding-left: 1.3rem; }
+.verdict-ordre li { margin: .2rem 0; }
+.verdict-lien { padding: 0; font: 600 .98rem var(--serif); color: var(--accent); }
+.carte-echeance { background: var(--accent-clair); border-color: var(--accent); }
+
+/* un parcours suivi sur la carte */
+.c-trace-ligne { fill: none; stroke: var(--accent); stroke-width: 2.4; stroke-dasharray: 6 5; stroke-linejoin: round; opacity: .85; }
+.c-trace-rang circle { fill: var(--accent); stroke: var(--carte); stroke-width: 1.5; }
+.c-trace-rang text { fill: var(--sur-accent); font: 700 10px system-ui, sans-serif; text-anchor: middle; }
+.carte-parcours { margin: .7rem 0 0; }
+.carte-parcours-choix { display: flex; flex-direction: column; gap: .3rem; }
+.carte-parcours-choix .rubrique { margin: 0; }
+.carte-parcours-etapes { margin: .5rem 0 .5rem; padding-left: 1.5rem; }
+.carte-parcours-etapes li { margin: .15rem 0; }
+.carte-parcours-lieu { padding: 0; font: 600 .98rem var(--serif); color: var(--accent); text-align: left; }

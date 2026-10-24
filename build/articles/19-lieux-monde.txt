@@ -91,7 +91,7 @@ alias: Careggi, Académie platonicienne, villa médicéenne de Careggi
 lieu: Florence, Toscane, Italie
 geo: 43.8079, 11.2503
 def: Villa des Médicis aux portes de Florence, où Cosme l'Ancien installa Marsile Ficin pour traduire Platon et les écrits d'Hermès : le berceau de l'Académie platonicienne de la Renaissance.
-texte: Cosme de Médicis, qui avait entendu à [[florence|Florence]] le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]] célébrer Platon, confie au jeune [[marsile-ficin|Marsile Ficin]] la traduction des dialogues et lui offre une maison près de sa villa de Careggi. En 1463, il lui demande d'interrompre Platon pour traduire d'abord le *[[corpus-hermetique|Corpus Hermeticum]]*, récemment arrivé de Macédoine, qu'il veut lire avant de mourir.
+texte: [[cosme-de-medicis|Cosme de Médicis]], qui avait entendu à [[florence|Florence]] le philosophe byzantin [[gemiste-plethon|Gémiste Pléthon]] célébrer Platon, confie au jeune [[marsile-ficin|Marsile Ficin]] la traduction des dialogues et lui offre une maison près de sa villa de Careggi. En 1463, il lui demande d'interrompre Platon pour traduire d'abord le *[[corpus-hermetique|Corpus Hermeticum]]*, récemment arrivé de Macédoine, qu'il veut lire avant de mourir.
 texte: Autour de Ficin se réunit un cercle d'amis lettrés, l'« Académie platonicienne », où l'on célèbre l'anniversaire de Platon par un banquet. [[pic-de-la-mirandole|Pic de la Mirandole]], Ange Politien et Laurent le Magnifique le fréquentent. Cosme meurt à Careggi en 1464, Laurent en 1492. C'est ici que s'élabore la synthèse de l'[[neoplatonisme|néoplatonisme]], de l'[[hermetisme|hermétisme]] et du christianisme qui marque tout l'ésotérisme occidental.
 repere: 1463 — Ficin traduit le *Corpus Hermeticum* à la demande de Cosme de Médicis.
 repere: 1464 — Mort de Cosme l'Ancien à Careggi.
@@ -144,10 +144,11 @@ geo: 39.6036, -8.4193
 def: Château des templiers portugais fondé en 1160, devenu le siège de l'ordre du Christ, qui leur succéda : le seul lieu où l'ordre du Temple se prolongea sans rupture.
 texte: Le grand maître portugais Gualdim Pais fonde en 1160 le château de Tomar, avec sa rotonde, la *charola*, imitée du Saint-Sépulcre de Jérusalem. Quand le pape supprime les [[templiers]] en 1312, le roi Denis du Portugal obtient la création d'un nouvel ordre, l'ordre du Christ (1319), qui reçoit leurs biens et une partie de leurs membres.
 texte: Gouverné au XVe siècle par Henri le Navigateur, l'ordre finance les grandes découvertes : sa croix rouge orne les voiles des caravelles. Le couvent s'agrandit de cloîtres et de la célèbre fenêtre manuéline de la salle du chapitre, couverte de cordages, de coraux et de sphères armillaires. Cette continuité, réelle, a nourri les spéculations néotemplières sur une survivance secrète de l'ordre.
+texte: La maçonnerie templière du XVIIIe siècle, comme la [[stricte-observance|Stricte Observance]], invoquait une filiation secrète du Temple ; l'exemple portugais montre au contraire une transmission publique, faite avec l'accord du pape.
 repere: 1160 — Gualdim Pais fonde le château templier.
 repere: 1319 — Création de l'ordre du Christ, héritier des templiers portugais.
 repere: 1983 — Inscription au patrimoine mondial de l'UNESCO.
-voir: templiers, quinta-da-regaleira, chinon
+voir: templiers, quinta-da-regaleira, chinon, stricte-observance
 
 @ montserrat
 cat: lieux
@@ -228,10 +229,11 @@ geo: 47.4861, 7.6203
 def: Siège de la Société anthroposophique à Dornach, près de Bâle, dessiné par Rudolf Steiner : un premier édifice de bois incendié en 1922, puis le grand bâtiment de béton achevé en 1928.
 texte: [[rudolf-steiner|Rudolf Steiner]] fait commencer en 1913 un premier Goetheanum, construction de bois à deux coupoles entrecroisées, sculptée et peinte par des bénévoles venus de toute l'Europe pendant la guerre, pour y jouer ses drames-mystères et les pièces de Goethe. Dans la nuit du Nouvel An 1922-1923, un incendie, probablement criminel, le détruit entièrement.
 texte: Steiner dessine aussitôt un second édifice, en béton, aux formes sculptées sans angle droit, achevé en 1928, trois ans après sa mort. Siège de la [[societe-anthroposophique|Société anthroposophique]] et de l'École de science de l'esprit, le Goetheanum accueille des congrès, des représentations d'eurythmie et le *Faust* de Goethe joué en entier. Il est l'un des monuments importants de l'architecture expressionniste.
+texte: Son nom rend hommage à [[johann-wolfgang-von-goethe|Goethe]], dont Steiner avait édité les écrits scientifiques et dont il tenait la vision de la nature pour une première « science de l'esprit ». Les deux parties du *[[faust|Faust]]* y sont jouées intégralement depuis 1938.
 repere: 1913 — Pose de la première pierre du premier Goetheanum.
 repere: 1923 — L'édifice de bois brûle dans la nuit du Nouvel An.
 repere: 1928 — Achèvement du second Goetheanum, en béton.
-voir: rudolf-steiner, anthroposophie, societe-anthroposophique
+voir: rudolf-steiner, anthroposophie, societe-anthroposophique, johann-wolfgang-von-goethe, faust, hilma-af-klint
 
 @ monte-verita
 cat: lieux
@@ -240,8 +242,8 @@ alias: Ascona, mont de la Vérité, Eranos, Olga Fröbe-Kapteyn
 lieu: Ascona, Tessin, Suisse
 geo: 46.1589, 8.7629
 def: Colline d'Ascona, au bord du lac Majeur, où une colonie végétarienne et naturiste attira dès 1900 artistes, anarchistes et théosophes, près du lieu des futures rencontres d'Eranos.
-texte: En 1900, un fils d'industriel belge, Henri Oedenkoven, la pianiste Ida Hofmann et quelques amis fondent sur la colline une communauté qui refuse la civilisation industrielle : végétarisme, bains de soleil, vêtements amples, travail de la terre, liberté des mœurs. Écrivains comme Hermann Hesse, danseurs comme Rudolf Laban et Mary Wigman, psychanalystes, anarchistes et théosophes y passent, et la colline devient un laboratoire des « réformes de la vie ».
-texte: À quelques kilomètres, Olga Fröbe-Kapteyn, proche des milieux théosophiques, crée en 1933 les rencontres d'Eranos, qui réunissent chaque été [[carl-gustav-jung|Jung]], Mircea Eliade, [[gershom-scholem|Gershom Scholem]], [[henry-corbin|Henry Corbin]] et bien d'autres autour de l'histoire des religions et des symboles : elles ont profondément marqué l'étude universitaire de l'ésotérisme.
+texte: En 1900, un fils d'industriel belge, Henri Oedenkoven, la pianiste Ida Hofmann et quelques amis fondent sur la colline une communauté qui refuse la civilisation industrielle : végétarisme, bains de soleil, vêtements amples, travail de la terre, liberté des mœurs. Écrivains comme [[hermann-hesse|Hermann Hesse]], danseurs comme Rudolf Laban et Mary Wigman, psychanalystes, anarchistes et théosophes y passent, et la colline devient un laboratoire des « réformes de la vie ».
+texte: À quelques kilomètres, Olga Fröbe-Kapteyn, proche des milieux théosophiques, crée en 1933 les rencontres d'Eranos, qui réunissent chaque été [[carl-gustav-jung|Jung]], [[mircea-eliade|Mircea Eliade]], [[gershom-scholem|Gershom Scholem]], [[henry-corbin|Henry Corbin]] et bien d'autres autour de l'histoire des religions et des symboles : elles ont profondément marqué l'étude universitaire de l'ésotérisme.
 repere: 1900 — Fondation de la colonie du Monte Verità.
 repere: 1933 — Premières rencontres d'Eranos, à Ascona.
 voir: carl-gustav-jung, henry-corbin, gershom-scholem, theosophie, new-age
@@ -280,10 +282,11 @@ lieu: Macédoine-Orientale-et-Thrace, Grèce
 geo: 40.5008, 25.5301
 def: Île de l'Égée du Nord dont le sanctuaire des Grands Dieux, les Cabires, accueillait des mystères réputés protéger les marins, rivaux de ceux d'Éleusis.
 texte: Les divinités du sanctuaire, appelées simplement les « Grands Dieux » et souvent confondues avec les Cabires, restent mal connues : un culte d'origine préhellénique, associé à une grande déesse mère. À la différence d'Éleusis, les mystères étaient ouverts toute l'année, aux esclaves comme aux étrangers, et l'initiation promettait la protection en mer. Le futur Philippe II de Macédoine y aurait rencontré Olympias, la mère d'Alexandre.
+texte: Selon les *Argonautiques* d'Apollonios de Rhodes, les [[argonautes|Argonautes]] y abordent sur le conseil d'[[orphee|Orphée]] pour se faire initier avant de poursuivre leur navigation.
 texte: En 1863, le consul français Charles Champoiseau y découvre la Victoire de Samothrace, aujourd'hui au Louvre. Les érudits de la Renaissance et les occultistes du XIXe siècle ont fait des Cabires les dépositaires d'une sagesse primordiale, une idée qui doit plus aux spéculations sur les [[mysteres-antiques|mystères antiques]] qu'aux fouilles.
 repere: 1863 — Découverte de la Victoire de Samothrace.
 repere: 1938 — Début des fouilles américaines de Karl Lehmann.
-voir: mysteres-antiques, eleusis, initiation
+voir: mysteres-antiques, eleusis, initiation, argonautes, orphee
 
 @ alexandrie
 cat: lieux

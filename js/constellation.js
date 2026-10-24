@@ -26,6 +26,10 @@
  *
  * Les noms sont coupés en lignes, puis, une fois la carte à l'écran, réduits
  * s'il le faut pour tenir dans leur bulle (`ajuster`).
+ *
+ * Sous la carte, « le plus court chemin vers… » cherche, de proche en proche,
+ * la plus courte suite de liens qui mène de l'article à un autre : un parcours
+ * en largeur dans le réseau entier, les renvois comptant dans les deux sens.
  */
 (function (racine) {
 
@@ -59,6 +63,119 @@
     for (const id of a.ci || []) ajouter(id, 1.5, 'entre');
     return Array.from(liens, ([id, l]) => Object.assign({ a: Dictionnaire.parId(id) }, l))
       .sort((x, y) => (y.poids - x.poids) || x.a.cleTri.localeCompare(y.a.cleTri, 'fr'));
+  }
+
+  // ── Le plus court chemin ──────────────────────────────────────────────────
+
+  /* Le réseau du dictionnaire, sans les articles de la personne : chaque
+   * renvoi (texte ou « voir aussi ») relie deux articles dans les deux sens. */
+  let reseau = null;
+  function graphe() {
+    if (reseau) return reseau;
+    reseau = new Map();
+    const lier = (x, y) => {
+      if (x === y || !Dictionnaire.parId(y)) return;
+      if (!reseau.has(x)) reseau.set(x, new Set());
+      if (!reseau.has(y)) reseau.set(y, new Set());
+      reseau.get(x).add(y);
+      reseau.get(y).add(x);
+    };
+    for (const a of Dictionnaire.livres) {
+      for (const id of Dictionnaire.citesPar(a)) lier(a.id, id);
+      for (const id of a.v || []) lier(a.id, id);
+    }
+    return reseau;
+  }
+
+  /* Les identifiants du chemin le plus court de `depart` à `arrivee`, bornes
+   * comprises, ou null s'il n'y en a pas. */
+  function cheminEntre(depart, arrivee) {
+    if (depart === arrivee) return [depart];
+    const g = graphe();
+    const avant = new Map([[depart, null]]);
+    let front = [depart];
+    while (front.length) {
+      const suivant = [];
+      for (const x of front) {
+        for (const y of g.get(x) || []) {
+          if (avant.has(y)) continue;
+          avant.set(y, x);
+          if (y === arrivee) {
+            const ids = [y];
+            let z = x;
+            while (z !== null) { ids.unshift(z); z = avant.get(z); }
+            return ids;
+          }
+          suivant.push(y);
+        }
+      }
+      front = suivant;
+    }
+    return null;
+  }
+
+  /* Le bloc « Le plus court chemin vers… » sous la carte d'une fiche. */
+  function blocTrajet(a, ouvrir) {
+    const bloc = element('div', 'cl-trajet');
+    bloc.appendChild(element('p', 'cl-trajet-titre', 'Le plus court chemin vers…'));
+    const ligne = element('div', 'cl-trajet-ligne');
+    const champ = element('input', 'cl-trajet-champ');
+    champ.type = 'search';
+    champ.placeholder = 'un autre article';
+    champ.setAttribute('aria-label', 'Le plus court chemin vers un autre article');
+    champ.setAttribute('autocomplete', 'off');
+    ligne.appendChild(champ);
+    const hasard = bouton('bouton-discret cl-trajet-hasard', 'Au hasard', () => {
+      const tous = Dictionnaire.livres.filter((x) => x.id !== a.id && graphe().has(x.id));
+      montrer(tous[Math.floor(Math.random() * tous.length)]);
+    });
+    ligne.appendChild(hasard);
+    bloc.appendChild(ligne);
+    const propositions = element('div', 'voisins cl-trajet-propositions');
+    bloc.appendChild(propositions);
+    const resultat = element('div', 'cl-trajet-resultat');
+    resultat.setAttribute('aria-live', 'polite');
+    bloc.appendChild(resultat);
+
+    function montrer(cible) {
+      propositions.textContent = '';
+      resultat.textContent = '';
+      if (!cible) return;
+      champ.value = cible.n;
+      const ids = cheminEntre(a.id, cible.id);
+      if (!ids) {
+        resultat.appendChild(element('p', 'discret', 'Aucun chemin ne mène à « ' + cible.n + ' ».'));
+        return;
+      }
+      const n = ids.length - 1;
+      resultat.appendChild(element('p', 'cl-trajet-compte', 'De « ' + a.n + ' » à « ' + cible.n + ' » : ' + Outils.pluriel(n, 'lien', 'liens')));
+      const suite = element('nav', 'cl-chemin cl-trajet-etapes');
+      suite.setAttribute('aria-label', 'Le plus court chemin');
+      ids.forEach((id, i) => {
+        const x = Dictionnaire.parId(id);
+        if (i) suite.appendChild(element('span', 'cl-chemin-sep', '›'));
+        const b = bouton('cl-etape cat-' + x.c + (i === 0 ? ' actif' : ''), x.n, () => { if (id !== a.id) ouvrir(id); });
+        b.setAttribute('data-ref', id);
+        suite.appendChild(b);
+      });
+      resultat.appendChild(suite);
+    }
+
+    champ.addEventListener('input', () => {
+      propositions.textContent = '';
+      resultat.textContent = '';
+      if (Outils.normaliser(champ.value).length < 2) return;
+      const trouves = Dictionnaire.chercher(champ.value).map((r) => r.article)
+        .filter((x) => !x.perso && x.id !== a.id).slice(0, 6);
+      for (const x of trouves) propositions.appendChild(bouton('voisin cat-' + x.c, x.n, () => montrer(x)));
+    });
+    champ.addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      const premier = propositions.querySelector('button');
+      if (premier) premier.click();
+    });
+    return bloc;
   }
 
   function lies(x, y) {
@@ -171,6 +288,7 @@
     const chemin = element('nav', 'cl-chemin');
     chemin.setAttribute('aria-label', 'Chemin parcouru dans la carte');
     section.appendChild(chemin);
+    section.appendChild(blocTrajet(a, ouvrir));
 
     function centrer(id, depuis) {
       const i = etat.chemin.indexOf(id);
@@ -400,6 +518,6 @@
     if (!mesure && !essai) racine.requestAnimationFrame(() => ajuster(carte, true));
   }
 
-  racine.Constellation = { bloc, voisins, couper, ajuster };
+  racine.Constellation = { bloc, voisins, couper, ajuster, cheminEntre };
 
 })(window);

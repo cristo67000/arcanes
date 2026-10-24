@@ -1115,7 +1115,7 @@ largeur: 640
 commons: Michelangelo - Delphic Sibyl.jpg
 legende: La sibylle de Delphes, par Michel-Ange
 credit: Michel-Ange, vers 1509 — chapelle Sixtine
-pour: sibylles
+pour: sibylles, michel-ange
 largeur: 440
 
 = kircher-atlantide
@@ -4563,7 +4563,7 @@ largeur: 320
 commons: Clement alexandrin.jpg
 legende: Clément d’Alexandrie, défenseur d’une « gnose » chrétienne
 credit: André Thevet, *Les Vrais Pourtraits et vies des hommes illustres*, 1584
-pour: gnose
+pour: clement-d-alexandrie, gnose
 
 = graal-espinques
 commons: Holy-grail-round-table-ms-fr-112-3-f5r-1470-detail.jpg
@@ -4603,7 +4603,7 @@ largeur: 520
 commons: Creation of Light.png
 legende: *La Création de la lumière*
 credit: Gustave Doré, Bible illustrée, 1866
-pour: illuminisme
+pour: illuminisme, gustave-dore
 
 = roquetaillade-manuscrit
 commons: 1350 Rupescissa.jpg
@@ -5340,7 +5340,7 @@ largeur: 440
 commons: Construction du Temple de Jérusalem.jpg
 legende: La construction du Temple de Jérusalem, dans les *Antiquités judaïques* de Flavius Josèphe
 credit: Jean Fouquet, vers 1470 — Bibliothèque nationale de France
-pour: construction-du-temple
+pour: construction-du-temple, flavius-josephe
 
 = ophir-montano
 commons: 1571 Arias Montanus World Map Altea Gallery.jpg
@@ -5943,6 +5943,162 @@ images: durer-chandeliers, durer-cavaliers, durer-bete, durer-femme, durer-miche
 + symbolisme
 titre: Le symbolisme et ses voisins, de Gustave Moreau à Hilma af Klint. Touchez une image pour lire l’article.
 images: moreau-semele, moreau-apparition, redon-yeux-clos, toteninsel, delville-satan, rose-croix-affiche, axel-affiche, waterhouse-cercle, nabis-talisman, klint-jeunesse, mondrian-evolution
+
+% Portraits et images des figures qui n’en avaient pas (1.8)
+
+= portrait-david-neel
+commons: Alexandra David-Neel in Lhassa 1924.jpg
+legende: Alexandra David-Néel, avec son fils adoptif Aphur Yongden et un enfant tibétain, devant le Potala de Lhassa
+credit: photographie, février-avril 1924 — Maison Alexandra David-Néel, Digne-les-Bains
+largeur: 520
+pour: alexandra-david-neel
+
+= portrait-alice-bailey
+commons: Alice Bailey in 1940s.jpg
+legende: Alice Bailey
+credit: photographie de Clara E. Sipprell, années 1940 — Amon Carter Museum of American Art
+pour: alice-bailey
+
+= portrait-leadbeater
+commons: Charles Webster Leadbeater.004.jpg
+legende: Charles Webster Leadbeater en décors maçonniques du 33e degré, « The V. Ill. Bro. C. W. Leadbeater, 33° »
+credit: photographie, début du XXe siècle
+pour: charles-webster-leadbeater
+
+= portrait-scholem
+commons: Gershom Scholem 1935 (cropped).jpg
+legende: Gershom Scholem en 1935
+credit: photographie, 1935
+pour: gershom-scholem
+
+= portrait-spencer-lewis
+commons: Photograph of Harvey Spencer Lewis.jpg
+legende: Harvey Spencer Lewis
+credit: photographie, vers 1930
+pour: harvey-spencer-lewis
+
+= portrait-wronski
+commons: Józef Hoene-Wroński by Vallotton.jpg
+legende: Hoëné-Wronski, par Félix Vallotton
+credit: gravure sur bois, 1897 — BnF
+pour: hoene-wronski
+
+= portrait-van-helmont
+commons: John Baptist van Helmont, PA07845.jpg
+legende: Jean-Baptiste van Helmont
+credit: gravure sur acier de Robert Cooper, début du XIXe siècle — KU Leuven
+pour: jan-baptist-van-helmont
+
+= bacon-maier
+commons: Roger bacon conducting an experiment LCCN2006681058.jpg
+legende: Roger Bacon pèse les éléments : *Elementorum fac aequationem, et habebis*, « fais l’égalité des éléments, et tu l’auras »
+credit: gravure des *Symbola aureae mensae* de Michael Maier, 1617 — Library of Congress
+recadrer: 0.245 0.13 0.865 0.615
+largeur: 520
+pour: roger-bacon
+
+= portrait-reuss
+commons: Theodor Reuss.png
+legende: Theodor Reuss, en tablier maçonnique
+credit: photographie, début du XXe siècle
+pour: theodor-reuss
+
+= portrait-guido-von-list
+commons: Guido von List - Atelier Veritas, 1905.jpg
+legende: Guido von List
+credit: photographie de l’atelier Veritas, Munich, 1905
+pour: guido-von-list
+
+= portrait-alan-leo
+commons: The life and work of Alan Leo, theosophist, astrologer, mason (IA lifeworkofalanle00leob).pdf
+page: 8
+legende: Alan Leo
+credit: frontispice de Bessie Leo, *The Life and Work of Alan Leo*, 1919
+recadrer: 0.05 0.07 0.95 0.95
+pour: alan-leo
+
+= zosime-marcianus
+commons: Marcianus gr. 299 fol 6.jpg
+legende: Les signes des métaux et des matières dans le *Marcianus graecus 299*, le recueil des alchimistes grecs où sont copiés les écrits de Zosime
+credit: reproduction de Marcelin Berthelot et Charles-Émile Ruelle, *Collection des anciens alchimistes grecs*, 1888, d’après le manuscrit de Venise (Xe-XIe siècle)
+pour: zosime-de-panopolis
+
+= mani-naissance
+commons: Painting of Mani’s Birth.jpg
+legende: La naissance de Mani, peinture manichéenne de Chine du Sud
+credit: fragment de rouleau, or et couleurs sur soie, XIVe-XVe siècle — musée national de Kyūshū
+largeur: 520
+pour: mani
+
+= dermott-dessin
+commons: Page from Ancient Grand lodge transactions vol 1.jpg
+legende: Dessin de Laurence Dermott dans le premier registre de la Grande Loge des Anciens, signé « Lau Dermott »
+credit: manuscrit, vers 1752-1755, reproduit par W. M. Bywater, *Notes on Laurence Dermott*, 1884
+pour: laurence-dermott
+
+
+% Portraits des figures ajoutées en 1.8
+
+= portrait-thomas-d-aquin
+commons: St-thomas-aquinasFXD.jpg
+legende: Saint Thomas d’Aquin, le soleil sur la poitrine, un livre et une église à la main
+credit: Carlo Crivelli, polyptyque d’Ascoli, 1476 — National Gallery, Londres
+pour: thomas-d-aquin
+
+= portrait-cosme-de-medicis
+commons: Jacopo Pontormo 055.jpg
+legende: Cosme l’Ancien, par Pontormo
+credit: Jacopo Pontormo, vers 1519-1520, portrait posthume — galerie des Offices, Florence
+pour: cosme-de-medicis
+
+= portrait-michel-ange
+commons: Michelangelo Daniele da Volterra (dettaglio).jpg
+legende: Michel-Ange
+credit: attribué à Daniele da Volterra, vers 1545 — Metropolitan Museum of Art, New York
+pour: michel-ange
+
+= portrait-gustave-dore
+commons: Photograph of Gustave Doré by Nadar, between 1856 and 1858.jpg
+legende: Gustave Doré, par Nadar
+credit: photographie de Nadar, entre 1856 et 1858
+pour: gustave-dore
+
+= portrait-frazer
+commons: Musée Ingres-Bourdelle - SIR JAMES GEORGE FRAZER (1854-1941) - Bronze - Antoine Bourdelle - Joconde000SC013124.jpg
+legende: Sir James George Frazer, buste par Antoine Bourdelle
+credit: bronze d’Antoine Bourdelle — musée Ingres-Bourdelle, Montauban
+pour: james-frazer
+
+= portrait-bergson
+commons: Henri Bergson (Nobel).jpg
+legende: Henri Bergson en 1927, l’année de son prix Nobel
+credit: photographie, 1927
+pour: henri-bergson
+
+= portrait-hesse
+commons: Hermann Hesse 1927 Photo Gret Widmann.jpg
+legende: Hermann Hesse
+credit: photographie de Gret Widmann, vers 1927
+pour: hermann-hesse
+
+= morse-brady
+commons: Samuel Morse with his Recorder by Brady, 1857.png
+legende: Samuel Morse à côté de son récepteur télégraphique
+credit: photographie de Mathew Brady, 1857
+pour: code-morse
+
+= merlin-blaise
+commons: Merlin (illustration from middle ages).jpg
+legende: Merlin dicte ses prophéties à son scribe Blaise, dans le *Merlin* en prose tiré de Robert de Boron
+credit: miniature d’un manuscrit français, vers 1300
+pour: robert-de-boron, merlin
+
+
+= strasbourg-cathedrale
+commons: Strassburg um 1900 (cropped).jpg
+legende: La cathédrale de Strasbourg et sa flèche unique, vers 1900
+credit: photochrome, entre 1890 et 1905
+pour: cathedrale-de-strasbourg
 
 % Figures découpées pour les animations (build/animations.txt) : sans « pour »,
 % elles ne paraissent qu'animées, par-dessus une autre gravure

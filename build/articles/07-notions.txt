@@ -383,8 +383,10 @@ nom: Périsprit
 alias: perisprit, enveloppe semi-matérielle
 def: Dans le spiritisme d'Allan Kardec, enveloppe semi-matérielle qui unit l'esprit au corps pendant la vie et lui sert de corps après la mort.
 texte: [[allan-kardec]] forge le mot sur le modèle du « périsperme » qui entoure la graine. Le périsprit, tiré du fluide universel, explique comment un esprit immatériel peut agir sur la matière : c'est par lui qu'il fait tourner les tables, apparaît aux vivants ou impressionne un médium.
+texte: Le mot paraît dans *[[livre-des-esprits|Le Livre des Esprits]]* (1857), où les Esprits enseignent que le périsprit est puisé « dans le fluide universel de chaque globe » : un Esprit qui change de monde change d'enveloppe. *Le Livre des médiums* (1861) en fait la clé des phénomènes physiques et des apparitions.
 texte: La notion rejoint les [[corps-subtils]] des autres traditions et le « double » des occultistes.
-voir: spiritisme, allan-kardec, corps-subtils, medium
+texte: Les métapsychistes de la fin du XIXe siècle, comme [[charles-richet|Charles Richet]], cherchèrent à observer une matière qui sortirait du corps des médiums, l'[[ectoplasme]] ; beaucoup de séances se sont révélées truquées, et aucune expérience contrôlée n'a mis en évidence une telle enveloppe. Le spiritisme brésilien, très vivant, garde la notion au centre de sa doctrine.
+voir: spiritisme, allan-kardec, corps-subtils, medium, livre-des-esprits, ectoplasme, charles-richet
 
 @ ecriture-automatique
 cat: notions

@@ -126,6 +126,45 @@
 
   // ── Accueil ───────────────────────────────────────────────────────────────
 
+  /* Il y a cinquante, cent, deux cents ans… : les naissances, les morts, les
+   * livres et les fondations dont l'année tombe un multiple de cinquante ans
+   * avant celle-ci. Les dates approximatives (« vers », siècles) sont écartées. */
+  function anniversaires(annee) {
+    const sortie = [];
+    for (const a of Dictionnaire.frise()) {
+      if (/vers|siècle|légend|incertain|entre|selon|années|actif|anonyme|pseudonyme|supposé/i.test(a.da || '')) continue;
+      const p = Bandeau._.periode(a);
+      const debut = p ? p[0] : a.an;
+      // « naissance » seulement quand l'article donne une vie entière, « 1493 – 1541 »
+      const dates = [[debut, p && a.c === 'figures' ? 'naissance' : '']];
+      if (p && a.c === 'figures' && !p[2]) dates.push([p[1], 'mort']);
+      for (const [an, quoi] of dates) {
+        const ecart = annee - an;
+        if (ecart >= 50 && ecart % 50 === 0) sortie.push({ a, an, quoi, ecart });
+      }
+    }
+    // les centenaires d'abord, puis les demi-siècles ; les plus anciens devant
+    return sortie.sort((x, y) => (x.ecart % 100) - (y.ecart % 100) || y.ecart - x.ecart);
+  }
+
+  function dessinerAnniversaires() {
+    el.anniversaires.textContent = '';
+    if (etat.cat) return;
+    const annee = new Date().getFullYear();
+    const liste = anniversaires(annee).slice(0, 10);
+    if (!liste.length) return;
+    el.anniversaires.appendChild(element('h3', 'rubrique', 'Il y a cent ans, deux cents ans… (' + annee + ')'));
+    const rang = element('div', 'anniv-liste');
+    for (const x of liste) {
+      const b = bouton('voisin anniv cat-' + x.a.c, '', () => Fiche.ouvrir(x.a.id));
+      b.setAttribute('data-ref', x.a.id);
+      b.appendChild(element('span', 'anniv-nom', x.a.n));
+      b.appendChild(element('span', 'anniv-quand', (x.quoi ? x.quoi + ' en ' : '') + Dictionnaire.annee(x.an) + ', il y a ' + x.ecart + ' ans'));
+      rang.appendChild(b);
+    }
+    el.anniversaires.appendChild(rang);
+  }
+
   async function dessinerAccueil() {
     etat.jeton += 1;
     const jeton = etat.jeton;
@@ -195,6 +234,11 @@
       }
       el.parcours.appendChild(grille);
     }
+
+    // Les outils à manipuler : chacun ouvre son article
+    if (etat.cat) el.outils.textContent = '';
+    else Manipuler.accueil(el.outils);
+    dessinerAnniversaires();
 
     let recents = [];
     try { recents = await Store.historique(); } catch (e) { recents = []; }
@@ -410,6 +454,8 @@
       duJour: document.getElementById('du-jour'),
       portes: document.getElementById('portes'),
       parcours: document.getElementById('parcours-accueil'),
+      outils: document.getElementById('outils-accueil'),
+      anniversaires: document.getElementById('anniversaires'),
       recents: document.getElementById('recents'),
       compte: document.getElementById('compte'),
       hasard: document.getElementById('b-hasard'),

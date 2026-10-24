@@ -9,7 +9,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Wolf_howls.ogg",
    "pour": [
-    "loup"
+    "loup",
+    "loup-garou"
    ],
    "sig": "Wolf howls.ogg|"
   },
@@ -74,7 +75,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Rattlesnake.ogg",
    "pour": [
-    "serpent"
+    "serpent",
+    "basilic"
    ],
    "sig": "Rattlesnake.ogg|"
   },
@@ -152,7 +154,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Jem_howls.ogg",
    "pour": [
-    "chien"
+    "chien",
+    "cerbere"
    ],
    "sig": "Jem howls.ogg|"
   },
@@ -182,6 +185,155 @@
     "jonas"
    ],
    "sig": "Humpbackwhale2.ogg|"
+  },
+  "lion-rugissement": {
+   "f": "son/lion-rugissement.mp3",
+   "v": "daf71742c7",
+   "d": 9.1,
+   "ti": "Le rugissement d’un lion",
+   "cr": "த. உழவன், lion d’un parc zoologique du Tamil Nadu",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg",
+   "pour": [
+    "lion-symbole",
+    "sphinx"
+   ],
+   "sig": "Lion raring-sound1TamilNadu178.ogg|"
+  },
+  "cheval-hennissement": {
+   "f": "son/cheval-hennissement.mp3",
+   "v": "b3322acbeb",
+   "d": 2.3,
+   "ti": "Le hennissement d’un cheval",
+   "cr": "enregistrement versé au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Wiehern.ogg",
+   "pour": [
+    "pegase",
+    "centaure",
+    "hippogriffe"
+   ],
+   "sig": "Wiehern.ogg|"
+  },
+  "chevaux-galop": {
+   "f": "son/chevaux-galop.mp3",
+   "v": "28485a3fa4",
+   "d": 25.2,
+   "ti": "Six chevaux passent au galop",
+   "cr": "Bruno Auzet, Freesound Community et Pixabay",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Six_Horses_Galloping_By.ogg",
+   "pour": [
+    "quatre-cavaliers"
+   ],
+   "sig": "Six Horses Galloping By.ogg|"
+  },
+  "ane-braiment": {
+   "f": "son/ane-braiment.mp3",
+   "v": "6f9dafebd9",
+   "d": 22.4,
+   "ti": "Un âne brait dans son enclos, dans le Midi de la France",
+   "cr": "Félix Blume, freesound.org",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:157763_felix-blume_a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav",
+   "pour": [
+    "apulee"
+   ],
+   "sig": "157763 felix-blume a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav|"
+  },
+  "dauphins": {
+   "f": "son/dauphins.mp3",
+   "v": "8b0b2a835d",
+   "d": 44.0,
+   "ti": "Des dauphins s’appellent sous l’eau, dans la mer des Caraïbes",
+   "cr": "Félix Blume, freesound.org, au large du Mexique",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav",
+   "pour": [
+    "dauphin"
+   ],
+   "sig": "161691 felixblume dolphin-screaming-underwater-in-caribbean-sea-mexico.wav|"
+  },
+  "mouton-belement": {
+   "f": "son/mouton-belement.mp3",
+   "v": "fd83d63823",
+   "d": 8.3,
+   "ti": "Le bêlement d’un mouton",
+   "cr": "earthcalling, pdsounds.org",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sheep_bleating.ogg",
+   "pour": [
+    "agneau",
+    "belier-symbole"
+   ],
+   "sig": "Sheep bleating.ogg|"
+  },
+  "chevres-troupeau": {
+   "f": "son/chevres-troupeau.mp3",
+   "v": "d6f167f0e4",
+   "d": 42.9,
+   "ti": "Un troupeau de chèvres",
+   "cr": "stephan, pdsounds.org",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Herd_of_goats_bleating.ogg",
+   "pour": [
+    "baphomet",
+    "pan"
+   ],
+   "sig": "Herd of goats bleating.ogg|"
+  },
+  "ours-grizzlis": {
+   "f": "son/ours-grizzlis.mp3",
+   "v": "3b42475417",
+   "d": 10.6,
+   "ti": "Deux grizzlis grondent l’un contre l’autre, sur une carcasse de bison",
+   "cr": "Jennifer Jerrett, NPS et MSU Acoustic Atlas, parc de Yellowstone",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Yellowstone_sound_library_-_Grizzly_Bears_Roar_-_001.mp3",
+   "pour": [
+    "ours"
+   ],
+   "sig": "Yellowstone sound library - Grizzly Bears Roar - 001.mp3|"
+  },
+  "cerf-brame": {
+   "f": "son/cerf-brame.mp3",
+   "v": "5634985c43",
+   "d": 5.2,
+   "ti": "Le brame d’un wapiti, le grand cerf d’Amérique du Nord",
+   "cr": "Jim Pisarowicz, parc national de Wind Cave (National Park Service)",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:American_Elk_Bugling.ogg",
+   "pour": [
+    "cerf"
+   ],
+   "sig": "American Elk Bugling.ogg|"
+  },
+  "elephant-barrissement": {
+   "f": "son/elephant-barrissement.mp3",
+   "v": "12e5b4bb29",
+   "d": 1.5,
+   "ti": "Le barrissement d’un éléphant",
+   "cr": "தகவலுழவன், Tamil Nadu",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg",
+   "pour": [
+    "elephant",
+    "behemoth"
+   ],
+   "sig": "Elephant voice - trumpeting.ogg|"
+  },
+  "rossignol-1910": {
+   "f": "son/rossignol-1910.mp3",
+   "v": "4f45f50cdc",
+   "d": 75.0,
+   "ti": "Le chant d’un rossignol, sur un disque de 1910",
+   "cr": "Max Hampe, dans la volière de Karl Reich à Brême, disque Gramophone, 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Song_of_a_nightingale_(1910).opus",
+   "pour": [
+    "langue-des-oiseaux"
+   ],
+   "sig": "Song of a nightingale (1910).opus|0 75"
   },
   "reine-de-la-nuit": {
    "f": "son/reine-de-la-nuit.mp3",
@@ -381,6 +533,60 @@
     "apocalypse"
    ],
    "sig": "Dies.irae.ogg|0 100"
+  },
+  "notre-dame-emmanuel": {
+   "f": "son/notre-dame-emmanuel.mp3",
+   "v": "70f6b67d2a",
+   "d": 60.0,
+   "ti": "Le bourdon Emmanuel, la grande cloche de Notre-Dame, fondue en 1686",
+   "cr": "Rongaman, enregistré avant l’incendie de 2019",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:ND_G1_Emmanuel.ogg",
+   "pour": [
+    "notre-dame-de-paris",
+    "victor-hugo"
+   ],
+   "sig": "ND G1 Emmanuel.ogg|0 60"
+  },
+  "paris-saint-gervais": {
+   "f": "son/paris-saint-gervais.mp3",
+   "v": "84daa26735",
+   "d": 44.5,
+   "ti": "Les cloches de Saint-Gervais-Saint-Protais, à Paris",
+   "cr": "aldor, pdsounds.org",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Saint_gervais_saint_pro_-_Paris.oga",
+   "pour": [
+    "paris",
+    "la-bas"
+   ],
+   "sig": "Saint gervais saint pro - Paris.oga|"
+  },
+  "venise-saint-marc": {
+   "f": "son/venise-saint-marc.mp3",
+   "v": "346048ce47",
+   "d": 20.2,
+   "ti": "Les cloches de Saint-Marc, à Venise",
+   "cr": "Mafs, enregistrement versé au domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:GlockenSMarco.ogg",
+   "pour": [
+    "venise"
+   ],
+   "sig": "GlockenSMarco.ogg|"
+  },
+  "strasbourg-plenum": {
+   "f": "son/strasbourg-plenum.mp3",
+   "v": "823f673343",
+   "d": 75.0,
+   "ti": "Toutes les cloches de la cathédrale de Strasbourg sonnent ensemble, le 9 juillet 2000",
+   "cr": "Claude Truong-Ngoc",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Pl%C3%A9num_de_la_Cath%C3%A9drale_Notre_Dame_de_Strasbourg_-_9_juillet_2000.ogg",
+   "pour": [
+    "cathedrale-de-strasbourg"
+   ],
+   "sig": "Plénum de la Cathédrale Notre Dame de Strasbourg - 9 juillet 2000.ogg|0 75"
   },
   "notre-dame-cloches": {
    "f": "son/notre-dame-cloches.mp3",

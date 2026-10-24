@@ -1,6 +1,6 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble près de **treize
+Une application web progressive (PWA), hors ligne, qui rassemble plus de **treize
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
 l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, Jeanne
@@ -55,10 +55,12 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   téléphone (Plans, Google Maps, OpenStreetMap) avec la seule destination ;
   chaque fiche de lieu a son plan de situation et ses coordonnées ;
 - des **extraits d'œuvres** du domaine public sous plus de deux cents
-  articles — Hermès Trismégiste traduit par Ménard, Homère, Hésiode et Eschyle
+  articles — l'*Encyclopédie* de Diderot et d'Alembert (la cabale, l'astrologie,
+  la divination), Hermès Trismégiste traduit par Ménard, Homère, Hésiode et Eschyle
   traduits par Leconte de Lisle, Platon, Ovide, Sénèque, Plutarque, Pline
   traduit par Littré, Apulée, Plotin, Irénée de Lyon, l'*Hymne de la perle*,
-  Boèce, l'*Edda*, la Bible de Segond et de Sacy, Flavius Josèphe, le Coran
+  Boèce, l'*Edda*, la Bible de Segond et de Sacy, Flavius Josèphe, La Fontaine,
+  Collin de Plancy, Tolstoï (l'initiation de Pierre Bézoukhov), le Coran
   traduit par Kazimirski, saint Augustin, la *Légende dorée*, Dante,
   l'Arioste, Nostradamus, Francis Bacon, Poussin, Milton traduit par
   Chateaubriand, Dupuis, Beckford,
@@ -100,7 +102,11 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong, feu),
   fabriqué sur place par l'appareil ; « Rejouer » relance l'animation ;
 - des **sons** du domaine public, sous « À écouter » : les cris du loup, du
-  corbeau, de la chouette d'Athéna, du coq, des abeilles ou des baleines ; la
+  corbeau, de la chouette d'Athéna, du coq, des abeilles ou des baleines, le
+  rugissement du lion, le brame du cerf, le hennissement des chevaux de
+  l'Apocalypse, les dauphins, un rossignol gravé sur disque en 1910 ; les
+  cloches de Notre-Dame (le bourdon Emmanuel), de Saint-Marc de Venise et de la
+  cathédrale de Strasbourg ; la
   Reine de la Nuit de *La Flûte enchantée*, le récit du Graal de *Lohengrin*,
   *Parsifal*, *Les Planètes* de Holst (sous chaque planète), le sabbat de la
   *Symphonie fantastique* et du *Mont Chauve*, le Veau d'or de *Faust*, une
@@ -113,21 +119,49 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   eux-mêmes — ils ne s'ouvrent que si on les touche, et demandent une connexion ;
 
 - des renvois partout : chaque article mène aux autres, et dit qui le cite ;
-- quatorze **parcours guidés**, d'article en article (Salomon et le Temple,
-  saint Jean, les mythes de la Bible, la gnose, le Grand Œuvre, la peinture
-  ésotérique, le roman, les Bohémiens, le Graal, la loge…) : un fil d'étapes
-  en tête de fiche, l'étape suivante en bas, l'avancement sur l'accueil ;
+- vingt-deux **parcours guidés**, d'article en article (Salomon et le Temple,
+  saint Jean, les mythes de la Bible, la gnose, le Grand Œuvre, l'Arbre de vie,
+  les planètes et le zodiaque, le ciel des Anciens, les pierres et leurs vertus,
+  le jeu d'échecs, les codes secrets, Paris ésotérique, l'énigme de
+  Rennes-le-Château, la peinture ésotérique, le roman, les Bohémiens, le Graal,
+  la loge…) : un fil d'étapes
+  en tête de fiche, l'étape suivante en bas, l'avancement sur l'accueil ; ceux
+  qui passent par des lieux se suivent aussi sur la carte, leurs étapes
+  numérotées et reliées ;
 - une **carte des liens** sous chaque article, en ciel étoilé : des liens
   teintés des couleurs des rubriques, où des points lumineux vont de l'article
   qui cite vers l'article cité ; touchez un voisin, il glisse au centre avec ses
   propres voisins, et l'on voyage ainsi d'idée en idée sans quitter la fiche ;
+  dessous, « le plus court chemin vers… » trouve la plus courte suite de liens
+  d'un article à un autre (de Pythagore à Rennes-le-Château…) ;
 - **36 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
   Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
   d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
-- une **frise chronologique** de plus de quatre cents dates ;
+- des **outils à manipuler**, chacun dans son article et rangés sur l'accueil :
+  tirer le tarot (une, trois ou dix cartes, avec les gravures de Conver, qui se
+  retournent), lancer le Yi King (trois pièces, six fois, et l'hexagramme qui en
+  sort, avec ses traits mutants), tracer une géomancie (seize lignes de points,
+  puis le bouclier des Mères au Juge), chiffrer et déchiffrer un message (César,
+  Atbash, Vigenère, Polybe, la scytale, l'alphabet maçonnique dessiné, le Morse,
+  qu'on écoute), compter le nombre d'un nom (gématrie hébraïque, isopsephie
+  grecque, numérologie, avec un clavier de lettres) ; tous présentent un procédé
+  et disent qu'ils ne prédisent rien ;
+- une **frise chronologique** de plus de cinq cents dates, en **bandeau** ou en
+  liste : les siècles en largeur, les vies des figures en barres, un couloir par
+  rubrique ; on la fait glisser, on la zoome, et l'on touche une vie pour voir
+  « qui vivait en même temps », ses repères posés sur sa barre ;
 - une **révision** : quatre choix (définition → article, article → définition,
-  « lequel est le plus ancien ? ») ou cartes à retourner ;
-- un **carnet** : favoris, articles à revoir, notes, articles écrits soi-même ;
+  « lequel est le plus ancien ? », la gravure, le son ou l'extrait d'un article,
+  quatre dates à remettre en ordre) ou cartes à retourner, avec une
+  **répétition espacée** : un article bien su revient après un jour, puis trois,
+  sept, quinze… ;
+- sur l'accueil, les **anniversaires** de l'année : il y a cent, deux cents ans… ;
+- un **carnet** : favoris, articles à revoir, notes, articles écrits soi-même, et
+  sa **progression** : les articles ouverts, rubrique par rubrique, les parcours
+  achevés ;
+- une **page web par article** (`a/<id>.html`, avec le plan du site), lisible
+  sans script, que les moteurs de recherche trouvent et qui donne son aperçu à un
+  lien partagé ;
 - la **lecture à voix haute** des articles, par une voix française de l'appareil
   (France avant Canada) ;
 - deux thèmes, « vélin » et « nuit », trois tailles de texte, une police à
@@ -193,8 +227,11 @@ js/carte.js     la carte des lieux, le plan de situation des fiches, la position
 js/constellation.js  la carte des liens de chaque fiche
 js/animations.js  les images animées, dessinées par-dessus les gravures
 js/sons.js      les sons, leur cache hors ligne, et les bruits de synthèse
+js/manipuler.js  les outils : tarot, Yi King, géomancie, chiffres, nombres
+js/bandeau.js   la frise en bandeau, les vies en barres
 data/       dictionnaire.json, manifeste.json — produits par build/construire.mjs ;
             carte.json, le fond de carte — produit par build/fond_de_carte.mjs
+a/          une page HTML par article, et sitemap.xml — écrits par build/pages.mjs
 img/        les illustrations en WebP — produites par build/illustrer.py
 son/        les sons en MP3 — produits par build/sonoriser.py
 icons/      icônes, image d'aperçu (build/generer-icones.py)
@@ -253,8 +290,8 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations (4 814)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, extraits, révision, hors-ligne (139)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (8 950)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, outils, frise en bandeau, plus court chemin, progression, parcours sur la carte, extraits, révision, hors-ligne (175)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)

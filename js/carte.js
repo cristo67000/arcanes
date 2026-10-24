@@ -22,6 +22,11 @@
  * « à 240 km au sud-ouest ». Les liens d'itinéraire ne la transmettent pas :
  * ils ne portent que la destination, et l'application de cartes du téléphone
  * sait d'où l'on part.
+ *
+ * ── Les parcours ───────────────────────────────────────────────────────────
+ *
+ * Un parcours guidé qui passe par plusieurs lieux se suit aussi sur la carte :
+ * ses lieux, numérotés dans l'ordre des étapes, sont reliés par un trait.
  */
 (function (racine) {
 
@@ -34,6 +39,7 @@
     recherche: false,       // une demande de position est en cours
     choix: null,            // le lieu choisi sur la grande carte
     tri: 'pays',
+    parcours: null,         // le parcours suivi sur la grande carte
     dessinee: false,
   };
   let principale = null;
@@ -210,9 +216,11 @@
     const gPosition = svg('g', { class: 'c-position' });
     const gLieux = svg('g', { class: 'c-lieux' });
     const gNoms = svg('g', { class: 'c-noms' });
+    const gTrace = svg('g', { class: 'c-trace' });
     // les points des lieux passent au-dessus des noms : un nom forcé (celui du
     // lieu choisi) ne cache jamais un lieu voisin
     dessus.appendChild(gVilles);
+    dessus.appendChild(gTrace);
     dessus.appendChild(gNoms);
     dessus.appendChild(gPosition);
     dessus.appendChild(gLieux);
@@ -223,6 +231,7 @@
     let L = 1;
     let H = 1;
     let choisi = null;
+    let trace = [];          // les lieux d'un parcours suivi, dans l'ordre
     let animation = null;
     let attente = 0;
 
@@ -295,6 +304,22 @@
         m.g.classList.toggle('choisi', m.a.id === choisi);
         if (m.dedans) pris.push({ x1: m.px - 6, y1: m.py - 6, x2: m.px + 6, y2: m.py + 6, point: true });
       }
+
+      // Le parcours suivi : un trait d'un lieu à l'autre, et le rang de chacun
+      gTrace.textContent = '';
+      const etapes = trace.map((id) => marqueurs.find((m) => m.a.id === id)).filter(Boolean);
+      if (etapes.length > 1) {
+        gTrace.appendChild(svg('polyline', {
+          class: 'c-trace-ligne', points: etapes.map((m) => m.px.toFixed(1) + ',' + m.py.toFixed(1)).join(' '),
+        }));
+      }
+      etapes.forEach((m, i) => {
+        const g = svg('g', { class: 'c-trace-rang', transform: 'translate(' + (m.px - 11).toFixed(1) + ' ' + (m.py - 11).toFixed(1) + ')' });
+        g.appendChild(svg('circle', { r: 8 }));
+        g.appendChild(svg('text', { y: 3.6 }, String(i + 1)));
+        gTrace.appendChild(g);
+        pris.push({ x1: m.px - 19, y1: m.py - 19, x2: m.px - 3, y2: m.py - 3, point: true });
+      });
 
       // La position
       gPosition.textContent = '';
@@ -559,10 +584,16 @@
       new ResizeObserver(() => { mesurer(); appliquer(); }).observe(boite);
     }
 
+    /* Suit un parcours : `ids`, les lieux dans l'ordre (ou rien). */
+    function tracer(ids) {
+      trace = (ids || []).slice();
+      planifier();
+    }
+
     return {
       noeud: boite,
       demarrer() { mesurer(); appliquer(); },
-      centrer, englober, zoomer, choisir,
+      centrer, englober, zoomer, choisir, tracer,
       rafraichir: planifier,
       get choisi() { return choisi; },
     };
@@ -614,6 +645,7 @@
     principale.demarrer();
     principale.englober(DEPART, false, true);
     etat.dessinee = true;
+    dessinerParcours();
     if (etat.choix) montrerChoix(etat.choix, true);
     dessinerPosition();
     dessinerListe();
@@ -677,6 +709,58 @@
     carte.appendChild(blocItineraire(a, 'choix-itineraire'));
     el.choix.appendChild(carte);
     el.choix.hidden = false;
+  }
+
+  // ── Les parcours sur la carte ─────────────────────────────────────────────
+
+  /* Les parcours qui passent par au moins deux lieux, avec ces lieux dans l'ordre. */
+  function parcoursDeLieux() {
+    return Dictionnaire.parcours
+      .map((p) => ({ p, lieux: p.e.map((id) => Dictionnaire.parId(id)).filter((a) => a && a.g) }))
+      .filter((x) => x.lieux.length >= 2);
+  }
+
+  function suivreParcours(id) {
+    etat.parcours = id || null;
+    const x = parcoursDeLieux().find((y) => y.p.id === id);
+    if (principale) {
+      principale.tracer(x ? x.lieux.map((a) => a.id) : []);
+      if (x) principale.englober(x.lieux.map((a) => a.g), true);
+    }
+    dessinerParcours();
+  }
+
+  function dessinerParcours() {
+    const zone = el.parcours;
+    if (!zone) return;
+    zone.textContent = '';
+    const liste = parcoursDeLieux();
+    if (!liste.length) return;
+    const tete = element('label', 'carte-parcours-choix');
+    tete.appendChild(element('span', 'rubrique', 'Suivre un parcours sur la carte'));
+    const sel = element('select', 'saisie-texte');
+    const aucun = element('option', null, 'Aucun');
+    aucun.value = '';
+    sel.appendChild(aucun);
+    for (const x of liste) {
+      const o = element('option', null, x.p.n + ' (' + x.lieux.length + ' lieux)');
+      o.value = x.p.id;
+      if (x.p.id === etat.parcours) o.selected = true;
+      sel.appendChild(o);
+    }
+    sel.addEventListener('change', () => suivreParcours(sel.value));
+    tete.appendChild(sel);
+    zone.appendChild(tete);
+    const choisi = liste.find((x) => x.p.id === etat.parcours);
+    if (!choisi) return;
+    const ol = element('ol', 'carte-parcours-etapes');
+    for (const a of choisi.lieux) {
+      const li = element('li');
+      li.appendChild(bouton('lien-discret carte-parcours-lieu', a.n, () => montrerChoix(a.id, true)));
+      ol.appendChild(li);
+    }
+    zone.appendChild(ol);
+    zone.appendChild(bouton('bouton-discret', 'Suivre le parcours article par article', () => Fiche.ouvrir(choisi.p.e[0], { parcours: choisi.p.id })));
   }
 
   // ── La position ───────────────────────────────────────────────────────────
@@ -873,6 +957,7 @@
       tri: document.getElementById('carte-tri'),
       liste: document.getElementById('carte-liste'),
       compte: document.getElementById('carte-compte'),
+      parcours: document.getElementById('carte-parcours'),
     };
   }
 
@@ -881,6 +966,7 @@
     distance, degres, itineraires, eloignement, lieux,
     get position() { return etat.position; },
     get principale() { return principale; },
+    suivreParcours, parcoursDeLieux,
   };
 
 })(window);

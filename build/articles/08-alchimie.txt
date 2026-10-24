@@ -188,8 +188,9 @@ alias: œuvre au jaune, oeuvre au jaune, xanthose, jaunissement
 def: Phase de jaunissement placée par certains alchimistes entre le blanc et le rouge du Grand Œuvre, comme une aurore annonçant le soleil.
 texte: Les alchimistes grecs de l'Antiquité comptaient quatre couleurs : noir, blanc, jaune et violet ou rouge, en correspondance avec les [[quatre-elements|quatre éléments]]. À partir de la fin du Moyen Âge, beaucoup de traités suppriment le jaune et ne retiennent que trois étapes.
 texte: Quand elle est conservée, la citrinitas évoque l'éveil d'une lumière solaire dans la matière déjà blanche, qui annonce sa maturité.
+texte: Ces quatre étapes portent en grec les noms de *mélanose* (noircissement), *leucose* (blanchiment), *xanthose* (jaunissement) et *iose* (violet), comme chez les commentateurs de [[zosime-de-panopolis|Zosime de Panopolis]]. [[carl-gustav-jung|Jung]], dans *Psychologie et Alchimie* (1944), note que la xanthose disparaît peu à peu des traités vers le XVe ou le XVIe siècle, quand les couleurs de l'Œuvre se réduisent à trois : le noir de la [[nigredo]], le blanc et le rouge de la [[rubedo]].
 schema: grand-oeuvre/citrinitas
-voir: grand-oeuvre, albedo, rubedo
+voir: grand-oeuvre, albedo, rubedo, zosime-de-panopolis, carl-gustav-jung, nigredo
 
 @ rubedo
 cat: alchimie
@@ -208,8 +209,10 @@ alias: cauda pavonis, paon, couleurs de l'arc-en-ciel
 def: Apparition de couleurs irisées dans le vase alchimique, entre le noir et le blanc, que les alchimistes tenaient pour le signe que l'œuvre était sur la bonne voie.
 texte: Après la [[nigredo]], la surface de la matière se couvre d'irisations changeantes, comme les plumes déployées d'un paon ou un arc-en-ciel. Les traités y voient l'annonce de l'[[albedo]] : la matière morte commence à revivre.
 texte: Le paon, oiseau dont la chair passait pour incorruptible, était déjà dans l'art chrétien un symbole de résurrection. Il figure dans de nombreuses images alchimiques, comme celles du *[[splendor-solis|Splendor solis]]*.
+texte: Saint Augustin raconte dans *La Cité de Dieu* (XXI, 4) qu'il avait fait garder un morceau de paon rôti : au bout d'un an, la chair ne s'était pas corrompue, elle avait seulement séché. Ovide dit que Junon sema sur la queue de son oiseau les cent yeux d'Argus (voir [[paon]]). Les traités tardifs, que [[carl-gustav-jung|Jung]] commente dans *Mysterium conjunctionis*, voient dans la queue de paon la réunion de toutes les couleurs, que la blancheur contiendra ensuite en une seule.
+texte: À la surface d'un métal fondu ou d'un sel chauffé, des pellicules d'oxyde très minces produisent de telles irisations : les opérateurs pouvaient réellement les voir dans leurs vaisseaux.
 schema: grand-oeuvre
-voir: grand-oeuvre, nigredo, albedo, splendor-solis, paon
+voir: grand-oeuvre, nigredo, albedo, splendor-solis, paon, carl-gustav-jung
 
 @ solve-et-coagula
 cat: alchimie
@@ -335,8 +338,10 @@ nom: Sublimation
 alias: sublimer, aludel, sublimé
 def: Opération par laquelle une substance solide, chauffée, passe à l'état de vapeur puis se dépose plus haut sous forme de cristaux purifiés.
 texte: Le sel ammoniac, l'arsenic, le soufre ou les sels de mercure se subliment : leur vapeur monte dans l'aludel et se condense sur les parois froides en une matière plus pure. Les alchimistes y voyaient l'« élévation » de la partie subtile, séparée de l'épaisse.
+texte: La *Summa perfectionis* attribuée à Geber (voir [[jabir-ibn-hayyan|Jabir]]), vers 1300, ouvre l'exposé des opérations par la sublimation et décrit les aludels de terre ou de verre où l'on sublime le mercure, le soufre et l'arsenic. Le « sublimé corrosif », obtenu en sublimant le mercure avec du sel et du vitriol, est le chlorure de mercure : remède contre la syphilis pendant des siècles, et poison redoutable.
 texte: Le mot est passé au langage moral, puis à la psychanalyse, où il désigne la transformation d'une pulsion en activité valorisée.
-voir: operations-alchimiques, distillation, alambic
+texte: Les chimistes appellent aujourd'hui sublimation le passage direct de l'état solide à l'état gazeux, comme celui de l'iode, du camphre ou de la glace carbonique ; les alchimistes donnaient au mot un sens plus large, qui comprenait des matières fondues avant de s'évaporer.
+voir: operations-alchimiques, distillation, alambic, jabir-ibn-hayyan
 
 @ distillation
 cat: alchimie
@@ -362,8 +367,10 @@ nom: Alkahest
 alias: alcahest, dissolvant universel, liquor alkahest
 def: Dissolvant universel imaginé par Paracelse et recherché par Van Helmont, capable de réduire toute substance à sa matière première.
 texte: Le mot apparaît chez [[paracelse]] ; Jean-Baptiste van Helmont en fait le grand secret de la [[iatrochimie]] : un liquide qui dissoudrait toute chose sans s'altérer lui-même, et permettrait de préparer des remèdes d'une puissance inouïe.
+texte: [[jan-baptist-van-helmont|Van Helmont]], pour qui toute chose est faite d'eau, le décrit comme une liqueur très subtile qui ramène les corps à leur eau première et sépare leurs principes sans les détruire. L'étymologie reste obscure : Johann Rudolf Glauber y lisait le latin *alkali est*, « c'est un alcali ».
 texte: Le chimiste Johann Kunckel souleva une objection restée célèbre : si l'alkahest dissout tout, dans quel vase pourrait-on le conserver ? Les chimistes ont cessé de le chercher au XVIIIe siècle.
-voir: iatrochimie, paracelse, mercure-philosophique, materia-prima
+texte: George Starkey, que l'on croit l'auteur des traités d'[[eirenee-philalethe|Eirénée Philalèthe]], y travailla des années, et son *Liquor Alchahest* parut en 1675, après sa mort ; Robert Boyle s'y intéressa aussi. L'alkahest reste, avec la [[pierre-philosophale|pierre philosophale]], l'un des grands rêves de la chimie du XVIIe siècle.
+voir: iatrochimie, paracelse, mercure-philosophique, materia-prima, jan-baptist-van-helmont, eirenee-philalethe
 
 @ homoncule
 cat: alchimie
@@ -435,8 +442,9 @@ nom: Archée
 alias: archeus, archée, alchimiste intérieur
 def: Selon Paracelse, principe vital qui gouverne chaque organisme et agit en lui comme un alchimiste intérieur, séparant dans les aliments le pur de l'impur.
 texte: Pour [[paracelse]], chaque organe, chaque être possède son archée, sorte d'esprit artisan qui dirige la nutrition, la croissance et la guérison. Dans l'estomac, il trie les aliments, garde ce qui nourrit et rejette le poison : l'alchimie se fait d'abord dans le corps.
-texte: Jean-Baptiste van Helmont développe la notion et parle d'une pluralité d'archées. Elle annonce les doctrines vitalistes de la médecine des XVIIIe et XIXe siècles.
-voir: paracelse, iatrochimie, paracelsisme
+texte: [[jan-baptist-van-helmont|Jean-Baptiste van Helmont]] développe la notion. Il distingue une archée « influente », qui gouverne tout le corps depuis l'orifice de l'estomac, et des archées « implantées » dans chaque organe. La maladie n'est plus pour lui un déséquilibre des humeurs, mais une « idée » étrangère, une semence qui s'impose à l'archée et la détourne.
+texte: Georg Ernst Stahl, avec son âme qui gouverne le corps, puis les médecins de Montpellier, comme Paul-Joseph Barthez et son « principe vital », reprennent au XVIIIe siècle l'idée d'une force propre au vivant, irréductible à la chimie. Le mot vient du grec *archê*, le principe, le commencement.
+voir: paracelse, iatrochimie, paracelsisme, jan-baptist-van-helmont
 
 @ arbre-de-diane
 cat: alchimie

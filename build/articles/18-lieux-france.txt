@@ -45,7 +45,7 @@ repere: 1965 — La commune interdit les fouilles.
 repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
 repere: 1982 — *L'Énigme sacrée* lie le village à une descendance du Christ.
 repere: 2003 — Le *Da Vinci Code* reprend la légende du prieuré de Sion.
-voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc, parchemins-de-rennes-le-chateau, asmodee, marie-madeleine, dagobert-ii, saint-sulpice, arcadie
+voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc, parchemins-de-rennes-le-chateau, asmodee, marie-madeleine, dagobert-ii, saint-sulpice, arcadie, peyrepertuse
 
 @ rennes-les-bains
 cat: lieux
@@ -91,10 +91,11 @@ geo: 42.8708, 2.5554
 def: Immense forteresse des Corbières étirée sur une crête de calcaire, passée au roi de France en 1240 et associée dans l'imaginaire populaire aux châteaux cathares.
 texte: Bâtie sur une arête de près de trois cents mètres de long, la forteresse appartient au début du XIIIe siècle aux seigneurs de Peyrepertuse, vassaux du roi d'Aragon, qui protègent des [[catharisme|cathares]]. Guillaume de Peyrepertuse se soumet au roi de France en 1240. Saint Louis fait alors élever, sur le point le plus haut, le donjon de San Jordi, auquel on accède par un escalier taillé dans le roc.
 texte: Comme [[queribus|Quéribus]], Peyrepertuse fut surtout, après la croisade, une forteresse royale tenant la frontière de l'Aragon jusqu'au traité des Pyrénées de 1659. Le tourisme l'a rangée parmi les « châteaux cathares », et les amateurs d'énigmes l'ont reliée aux légendes du Razès voisin. Elle fait partie, depuis 2026, des forteresses royales du Languedoc inscrites au patrimoine mondial.
+texte: Elle compte parmi les « cinq fils de Carcassonne », les forteresses royales qui gardaient la frontière sous l'autorité de la cité de [[carcassonne|Carcassonne]], avec Quéribus, Aguilar, Termes et Puilaurens. [[rennes-le-chateau|Rennes-le-Château]], au cœur du Razès, est à vingt-cinq kilomètres environ à l'ouest.
 repere: 1240 — Guillaume de Peyrepertuse se soumet au roi de France.
 repere: 1659 — Le traité des Pyrénées éloigne la frontière : la forteresse perd son rôle.
 repere: 2026 — Inscription au patrimoine mondial de l'UNESCO.
-voir: queribus, montsegur, catharisme
+voir: queribus, montsegur, catharisme, rennes-le-chateau, carcassonne
 
 @ grotte-de-lombrives
 cat: lieux
@@ -124,7 +125,7 @@ repere: 2019 — Incendie de la flèche et de la charpente.
 repere: 2024 — Réouverture après la restauration.
 extrait: Il est certain encore que l’archidiacre s’était épris d’une passion singulière pour le portail symbolique de Notre-Dame, cette page de grimoire écrite en pierre par l’évêque Guillaume de Paris, lequel a sans doute été damné pour avoir attaché un si infernal frontispice au saint poëme que chante éternellement le reste de l’édifice. (…) Mais, ce que tout le monde avait pu remarquer, c’étaient les interminables heures qu’il employait souvent, assis sur le parapet du parvis, à contempler les sculptures du portail, examinant tantôt les vierges folles avec leurs lampes renversées, tantôt les vierges sages avec leurs lampes droites ; d’autres fois calculant l’angle du regard de ce corbeau qui tient au portail de gauche et qui regarde dans l’église un point mystérieux où est certainement cachée la pierre philosophale, si elle n’est pas dans la cave de Nicolas Flamel.
 source: Victor Hugo, *Notre-Dame de Paris*, 1831, livre IV, chap. V | gallica bpt6k6497134z = l’édition originale numérisée | ws Notre-Dame de Paris/Livre quatrième
-voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques, paris, art-gothique, gothique, chimere, gargouille
+voir: fulcanelli, mystere-des-cathedrales, victor-hugo, cathedrale-de-chartres, tour-saint-jacques, paris, art-gothique, gothique, chimere, gargouille, cathedrale-de-strasbourg
 
 @ tour-saint-jacques
 cat: lieux
@@ -175,7 +176,7 @@ extrait: Songez que Chartres est le premier oratoire que Notre-Dame ait eu en Fr
 source: Joris-Karl Huysmans, *La Cathédrale*, 1898, chap. III (l’abbé Plomb parle) | gallica bpt6k663741 = l’édition originale numérisée | ws La Cathédrale (Huysmans)/III
 extrait: Un homme de chez nous, de la glèbe féconde // A fait jaillir ici d’un seul enlèvement, // Et d’une seule source et d’un seul portement, // Vers votre assomption la flèche unique au monde. ¶ Tour de David voici votre tour beauceronne. // C’est l’épi le plus dur qui soit jamais monté // Vers un ciel de clémence et de sérénité, // Et le plus beau fleuron dedans votre couronne. ¶ Un homme de chez nous a fait ici jaillir, // Depuis le ras du sol jusqu’au pied de la croix, // Plus haut que tous les saints, plus haut que tous les rois, // La flèche irréprochable et qui ne peut faillir. ¶ C’est la gerbe et le blé qui ne périra point, // Qui ne fanera point au soleil de septembre, // Qui ne gèlera point aux rigueurs de décembre, // C’est votre serviteur et c’est votre témoin.
 source: Charles Péguy, *Présentation de la Beauce à Notre-Dame de Chartres*, 1913, *Œuvres complètes*, NRF, 1919, t. VI | ws Présentation de la Beauce à Notre Dame de Chartres
-voir: labyrinthe, druidisme, joris-karl-huysmans, notre-dame-de-paris, nombre-d-or, chartres, ecole-de-chartres, vierges-noires, art-gothique
+voir: labyrinthe, druidisme, joris-karl-huysmans, notre-dame-de-paris, nombre-d-or, chartres, ecole-de-chartres, vierges-noires, art-gothique, cathedrale-de-strasbourg
 
 @ hotel-lallemant
 cat: lieux
@@ -197,7 +198,8 @@ geo: 43.3589, -1.7744
 def: Croix de pierre du XVIIe siècle, près de l'église d'Hendaye, que Fulcanelli présenta comme l'annonce chiffrée d'une catastrophe qui clôturerait un cycle du monde.
 texte: Venue de l'ancien cimetière, la croix se dresse sur le parvis de l'église Saint-Vincent d'Hendaye, à la frontière espagnole ; elle est inscrite aux monuments historiques. Son socle porte sur ses faces un soleil, une lune, une étoile et un écusson divisé en quatre où figure la lettre A ; la croix elle-même porte l'inscription *O crux ave spes unica*, « salut, ô croix, unique espérance », tirée d'un hymne liturgique.
 texte: Dans un chapitre ajouté à la réédition de 1957 du *[[mystere-des-cathedrales|Mystère des cathédrales]]*, [[fulcanelli]] y lit un monument « cyclique » : les symboles du socle annonceraient un embrasement de l'hémisphère nord, la fin d'un âge du monde, et désigneraient le lieu où se trouverait le salut. Ces pages ont fait de la modeste croix basque un objet de pèlerinage et de spéculation pour les amateurs d'eschatologie et de [[cycles-cosmiques|cycles cosmiques]].
-voir: fulcanelli, mystere-des-cathedrales, cycles-cosmiques
+texte: Cette réédition est due à [[eugene-canseliet|Eugène Canseliet]], disciple et éditeur de Fulcanelli. Les amateurs y ont lu une [[apocalypse]] au sens propre, une révélation chiffrée de la fin des temps, à la manière des prophéties de [[nostradamus|Nostradamus]].
+voir: fulcanelli, mystere-des-cathedrales, cycles-cosmiques, eugene-canseliet, apocalypse
 
 @ carnac
 cat: lieux
@@ -251,3 +253,22 @@ texte: Le cimetière abrite aussi les tombes de [[papus]], de la cartomancienne 
 repere: 1804 — Ouverture du cimetière.
 repere: 1870 — Le dolmen d'Allan Kardec est inauguré.
 voir: allan-kardec, spiritisme, papus, mademoiselle-lenormand, reincarnation, paris, egyptomanie, obelisque
+
+@ cathedrale-de-strasbourg
+cat: lieux
+nom: Cathédrale de Strasbourg
+alias: Notre-Dame de Strasbourg, cathédrale Notre-Dame de Strasbourg, horloge astronomique de Strasbourg, Erwin de Steinbach, rayon vert, pilier des anges, loge de Strasbourg
+lieu: Bas-Rhin, Grand Est, France
+geo: 48.5818, 7.7509
+def: Cathédrale gothique de grès rose, longtemps le plus haut édifice du monde, dont la loge de tailleurs de pierre dirigea au XVe siècle celles de l'Empire, et dont l'horloge astronomique calcule le ciel et le temps.
+texte: Commencée en 1176 à la place d'une cathédrale romane, la cathédrale de grès rose des Vosges reçoit à partir de 1277 une façade dessinée par Erwin de Steinbach ; Ulrich d'Ensingen puis Jean Hültz élèvent la tour nord, dont la flèche, achevée en 1439, culmine à 142 mètres : de 1647 à 1874, c'est le plus haut édifice du monde. Étudiant à Strasbourg, le jeune [[johann-wolfgang-von-goethe|Goethe]] fait en 1772, dans *De l'architecture allemande*, l'éloge d'Erwin et du [[gothique]], qu'on méprisait encore.
+texte: En 1459, l'assemblée des tailleurs de pierre réunie à Ratisbonne fait du maître d'œuvre de Strasbourg le chef de toutes les loges de l'Empire : la loge de Strasbourg reste la loge suprême des bâtisseurs de langue allemande jusqu'à sa suppression, en 1707. Les francs-maçons, qui se veulent les héritiers de ces loges [[operatifs-et-speculatifs|opératives]], y voient un jalon de leur légende (voir [[franc-maconnerie]] et [[art-gothique]]).
+texte: Dans le bras sud du transept, le pilier des anges, sculpté vers 1230, figure le Jugement dernier ; l'horloge astronomique, refaite de 1838 à 1842 par Jean-Baptiste Schwilgué après celles de 1354 et de 1574, calcule les fêtes mobiles, le mouvement des planètes et la [[precession|précession des équinoxes]]. Depuis 1972, on observe qu'aux équinoxes un rayon vert, tombé d'un vitrail, se pose sur le Christ de la chaire : un effet de lumière que des visiteurs ont lu comme un message des bâtisseurs.
+texte: Au XVIIIe siècle, la ville est un foyer de l'[[illuminisme]] : [[cagliostro|Cagliostro]] y soigne les pauvres en 1780 sous la protection du cardinal de Rohan, et [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]] y découvre [[jakob-boehme|Jakob Boehme]] en 1788. [[edouard-schure|Édouard Schuré]] et [[gustave-dore|Gustave Doré]] y sont nés.
+repere: 1176 — Début de la cathédrale gothique.
+repere: 1277 — Erwin de Steinbach commence la façade.
+repere: 1439 — Achèvement de la flèche, à 142 mètres.
+repere: 1459 — À Ratisbonne, la loge de Strasbourg devient la loge suprême des tailleurs de pierre de l'Empire.
+repere: 1772 — Goethe publie *De l'architecture allemande*.
+repere: 1842 — Achèvement de l'horloge astronomique de Schwilgué.
+voir: art-gothique, gothique, operatifs-et-speculatifs, franc-maconnerie, johann-wolfgang-von-goethe, notre-dame-de-paris, cathedrale-de-chartres, precession, cagliostro, louis-claude-de-saint-martin

@@ -135,7 +135,7 @@ alias: Philippe Buonarroti, Buonarroti, Sublimes Maîtres Parfaits, Conspiration
 dates: 1761 – 1837
 an: 1761
 def: Révolutionnaire italien naturalisé français, compagnon de Babeuf, qui consacra sa vie à organiser des sociétés secrètes hiérarchisées, empruntant leurs formes à la franc-maçonnerie.
-texte: Descendant de la famille de Michel-Ange, né à Pise, Buonarroti rejoint la Révolution française, devient citoyen français et participe en 1796 à la Conspiration des Égaux de Gracchus Babeuf, dont il publie l'histoire en 1828. Libéré après des années de détention, il vit à Genève, à Bruxelles puis à Paris.
+texte: Descendant de la famille de [[michel-ange|Michel-Ange]], né à Pise, Buonarroti rejoint la Révolution française, devient citoyen français et participe en 1796 à la Conspiration des Égaux de Gracchus Babeuf, dont il publie l'histoire en 1828. Libéré après des années de détention, il vit à Genève, à Bruxelles puis à Paris.
 texte: Il crée ou anime des sociétés secrètes emboîtées les unes dans les autres, comme les Sublimes Maîtres Parfaits, où seuls les grades supérieurs connaissaient le but révolutionnaire, et cherche à fédérer les [[carbonarisme|carbonari]] et les ventes de la [[charbonnerie|Charbonnerie]]. Les auteurs antimaçonniques ont vu en lui la preuve d'un complot des loges ; les historiens y voient l'un des inventeurs de la conspiration révolutionnaire moderne, qui inspira Blanqui.
 repere: 1796 — Conspiration des Égaux.
 repere: 1828 — *Conspiration pour l'égalité dite de Babeuf*.

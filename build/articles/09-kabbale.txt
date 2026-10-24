@@ -45,6 +45,8 @@ def: Dans la kabbale, les dix puissances ou attributs par lesquels le Dieu cach�
 texte: Dans le *[[sefer-yetsirah|Sefer Yetsirah]]*, le mot désigne dix nombres primordiaux. La kabbale médiévale en fait dix aspects de la divinité, qui émanent de l'[[ein-sof|Ein Sof]] : [[keter|Couronne]], [[hokhmah|Sagesse]], [[binah|Intelligence]], [[hesed|Grâce]], [[gueboura|Rigueur]], [[tiferet|Beauté]], [[netsah|Victoire]], [[hod|Splendeur]], [[yesod|Fondement]] et [[malkhout|Royauté]]. Elles forment un organisme : un arbre, un homme primordial, un système de canaux où circule la lumière divine.
 texte: On les répartit en trois colonnes : à droite la miséricorde, à gauche la rigueur, au centre l'équilibre. Le juste, par ses actes, contribue à l'union des séphiroth, notamment à celle de Tiferet et de Malkhout, le roi et sa [[shekhina]]. Les kabbalistes discutent pour savoir si elles sont l'essence même de Dieu ou seulement ses instruments.
 schema: arbre-sephiroth
+extrait: Il y a dix séphirots ; on les représente quelquefois sous la figure d’un arbre, parce que les uns sont comme la racine & le tronc, & les autres comme autant de branches qui en sortent. On les range souvent en dix cercles différens, parce qu’ils sont enfermés les unes dans les autres : ces dix séphirots sont la couronne, la sagesse, l’intelligence, la force ou la sévérité, la miséricorde ou la magnificence, la beauté, la victoire ou l’éternité, la gloire, le fondement, & le royaume.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Cabale (Philosophie) », tome II, 1752 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CABALE
 voir: arbre-des-sephiroth, ein-sof, kabbale, shekhina, emanation, sentiers, dix
 
 @ arbre-des-sephiroth
@@ -65,6 +67,8 @@ def: Première des séphiroth, la Couronne : volonté primordiale de Dieu, si ca
 texte: Keter est au sommet de l'arbre, au-dessus du pilier du milieu. Plus proche de l'[[ein-sof|Ein Sof]], elle est la source de toutes les autres, la volonté qui précède toute pensée. Les kabbalistes la nomment *Ayin*, « Rien », parce qu'aucune intelligence ne peut la saisir ; le nom divin qui lui répond est *Ehyeh*, « Je suis ».
 texte: La [[kabbale-hermetique|kabbale hermétique]] lui associe le « premier mobile », la sphère qui met tout le ciel en mouvement, et le point originel.
 schema: arbre-sephiroth/keter
+extrait: La couronne est la premiere des grandes splendeurs ; parce que comme la couronne est le dernier habit qui couvre l’homme, & qu’on porte sur la tête, cette splendeur est la plus proche de l’infini, & le chef du monde Azileutique : elle est pleine de mille petits canaux, d’où coulent les effets de la bonté & de l’amour de Dieu. Toutes les troupes des Anges attendent avec impatience qu’une portion de cette splendeur descende sur eux, parce que c’est elle qui leur fournit les alimens & la nourriture. On l’appelle le non-être ; parce qu’elle se retire dans le sein caché de Dieu, dans un abysme inaccessible de lumiere.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Cabale (Philosophie) », tome II, 1752 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CABALE
 voir: sephiroth, ein-sof, hokhmah, binah, arbre-des-sephiroth
 
 @ hokhmah
@@ -84,8 +88,10 @@ alias: Bina, Intelligence, Discernement, Imma, Mère, troisième séphira
 def: Troisième des séphiroth, l'Intelligence : matrice où la sagesse se différencie en formes, figure de la Mère supérieure.
 texte: En haut de la colonne de gauche, Binah reçoit le point de [[hokhmah|Hokhmah]] et le développe, comme un palais qui accueille ou une mère qui porte l'enfant. Les sept séphiroth inférieures naissent d'elle. Elle est associée au repentir (*techouva*), retour à la source, et au jubilé.
 texte: La [[kabbale-hermetique|kabbale hermétique]] lui attribue [[saturne|Saturne]] ; pour [[aleister-crowley]], elle est la Grande Mère, au-delà de l'abîme.
+texte: Le Talmud (*Roch ha-Chana* 21b) enseigne que « cinquante portes de l'intelligence » furent créées et que toutes, sauf une, furent données à Moïse. Les kabbalistes les placent en Binah, d'où ses liens avec le jubilé, la cinquantième année, et avec les cinquante jours qui mènent de la Pâque à la Pentecôte. Le *[[zohar|Zohar]]* l'appelle la Mère d'en haut, et [[malkhout|Malkhout]] la Mère d'en bas.
+texte: Saturne a le plus petit des carrés magiques planétaires, celui de [[trois]] cases de côté. [[dion-fortune|Dion Fortune]], dans *La Cabale mystique* (1935), distingue en Binah une mère obscure et stérile et une mère lumineuse et féconde, et la nomme aussi *Marah*, la grande mer amère d'où sortent les formes.
 schema: arbre-sephiroth/binah
-voir: sephiroth, hokhmah, daat, arbre-des-sephiroth
+voir: sephiroth, hokhmah, daat, arbre-des-sephiroth, trois, saturne, dion-fortune
 
 @ daat
 cat: kabbale
@@ -104,8 +110,10 @@ alias: Chesed, Hessed, Grâce, Amour, Miséricorde, Guedoulah, Gedulah, quatriè
 def: Quatrième des séphiroth, la Grâce : amour divin qui se répand sans mesure, associé à Abraham et au bras droit.
 texte: Au milieu de la colonne de droite, Hesed est la générosité qui donne sans compter, la lumière qui s'étend. On l'appelle aussi *Guedoulah*, la Grandeur. Elle répond à la figure d'Abraham, modèle d'hospitalité, et à la couleur blanche.
 texte: Livrée à elle-même, elle déborderait tout ; elle doit être équilibrée par [[gueboura|Gueboura]], la rigueur. La [[kabbale-hermetique|kabbale hermétique]] lui associe [[jupiter|Jupiter]].
+texte: Le nom divin qui lui répond est *El*, « Dieu », nom de la bonté. Parmi les sept « hôtes » (*ouchpizin*) que le *[[zohar|Zohar]]* invite sous la cabane de la fête des Tentes, Abraham vient le premier soir : le midrash raconte que sa tente avait une porte de chaque côté, pour accueillir les voyageurs venus des quatre horizons.
+texte: Jupiter a le carré magique de [[quatre]] cases de côté, comme Hesed est la quatrième séphira (voir [[carre-magique|carré magique]]). Dans la [[golden-dawn|Golden Dawn]], Hesed est le grade d'*Adeptus Exemptus* (7 = 4), le plus haut de l'ordre intérieur, et sa couleur est le bleu.
 schema: arbre-sephiroth/hesed
-voir: sephiroth, gueboura, tiferet, arbre-des-sephiroth
+voir: sephiroth, gueboura, tiferet, arbre-des-sephiroth, golden-dawn, quatre, jupiter
 
 @ gueboura
 cat: kabbale
@@ -134,8 +142,10 @@ alias: Netzach, Netsakh, Victoire, Éternité, Endurance, septième séphira
 def: Septième des séphiroth, la Victoire ou l'Éternité : persistance de la grâce divine dans le monde, associée à Moïse et à la jambe droite.
 texte: En bas de la colonne de droite, Netsah prolonge [[hesed|Hesed]] vers le monde : c'est la force qui dure et l'emporte. Avec [[hod|Hod]], elle forme une paire, comme les deux jambes du corps divin, et toutes deux sont la source de la prophétie.
 texte: La [[kabbale-hermetique|kabbale hermétique]] lui associe [[venus|Vénus]], les émotions et l'art.
+texte: Joseph Gikatilla, dans ses *Portes de lumière* (fin du XIIIe siècle), traite ensemble Netsah et [[hod|Hod]], réunies sous le nom de *Tsevaot*, « les armées » ; les tables plus tardives donnent à Netsah *YHVH Tsevaot*. Parmi les sept « hôtes » (*ouchpizin*) que le *[[zohar|Zohar]]* invite sous la cabane de la fête des Tentes, celui de Netsah est [[moise|Moïse]], le plus grand des prophètes.
+texte: La [[golden-dawn|Golden Dawn]] en fait le grade du *Philosophus* (4 = 7), consacré à l'élément feu. Son nombre est le [[sept]], comme le carré magique de Vénus, qui a sept cases de côté, et sa couleur le vert.
 schema: arbre-sephiroth/netsah
-voir: sephiroth, hod, hesed, arbre-des-sephiroth
+voir: sephiroth, hod, hesed, arbre-des-sephiroth, golden-dawn, sept, moise
 
 @ hod
 cat: kabbale
@@ -144,8 +154,10 @@ alias: Splendeur, Gloire, Majesté, huitième séphira
 def: Huitième des séphiroth, la Splendeur : écho de la rigueur divine dans le monde, associée à Aaron et à la jambe gauche.
 texte: En bas de la colonne de gauche, Hod prolonge [[gueboura|Gueboura]] et répond à [[netsah|Netsah]]. On l'associe à Aaron, le grand prêtre, et à la louange.
 texte: La [[kabbale-hermetique|kabbale hermétique]] lui fait correspondre [[mercure|Mercure]], l'intellect et la parole, et en fait la sphère de la magie cérémonielle.
+texte: Le nom divin qui lui répond est *Elohim Tsevaot*, « Dieu des armées », en miroir du *YHVH Tsevaot* de [[netsah|Netsah]]. Les kabbalistes du *[[zohar|Zohar]]* invitent sous la cabane de la fête des Tentes sept « hôtes » (*ouchpizin*), un pour chacune des séphiroth inférieures : celui de Hod est Aaron, frère de [[moise|Moïse]] et premier grand prêtre, dont le [[pectoral-du-grand-pretre|pectoral]] portait les douze pierres.
+texte: Dans les grades de la [[golden-dawn|Golden Dawn]], Hod est le degré du *Practicus* (3 = 8), consacré à l'élément eau. Son nombre est le [[huit]], comme le carré magique de Mercure, qui a huit cases de côté (voir [[carre-magique|carré magique]]), et sa couleur l'orange.
 schema: arbre-sephiroth/hod
-voir: sephiroth, netsah, gueboura, arbre-des-sephiroth
+voir: sephiroth, netsah, gueboura, arbre-des-sephiroth, golden-dawn, huit, carre-magique
 
 @ yesod
 cat: kabbale
@@ -154,8 +166,10 @@ alias: Iesod, Fondement, Tsaddik, le Juste, neuvième séphira
 def: Neuvième des séphiroth, le Fondement : canal qui recueille toutes les forces supérieures pour les transmettre à Malkhout, associé à Joseph et au sexe.
 texte: Sur le pilier du milieu, sous [[tiferet|Tiferet]], Yesod rassemble les influences de toutes les séphiroth et les fait passer dans [[malkhout|Malkhout]], comme l'organe de la génération transmet la vie. On l'appelle le Juste (*Tsaddik*), « fondement du monde », et on l'associe à Joseph, qui résista à la tentation.
 texte: La [[kabbale-hermetique|kabbale hermétique]] lui attribue la [[lune|Lune]], les rêves et le plan astral.
+texte: Le titre de « Juste » vient d'un verset des *Proverbes* (10, 25) que les kabbalistes lisent « le juste est le fondement du monde » (*tsaddik yesod olam*). Les noms divins qui lui répondent sont *Chaddaï* et *El Haï*, « le Dieu vivant ». Joseph est l'« hôte » (*ouchpizin*) de Yesod parmi les sept que le *[[zohar|Zohar]]* invite sous la cabane de la fête des Tentes.
+texte: Dans la [[golden-dawn|Golden Dawn]], Yesod est le grade du *Theoricus* (2 = 9), consacré à l'air. Son nombre est le [[neuf]], comme le carré magique de la Lune, qui a neuf cases de côté. [[dion-fortune|Dion Fortune]], dans *La Cabale mystique* (1935), l'appelle le « trésor des images » : c'est là que les occultistes placent la [[lumiere-astrale|lumière astrale]].
 schema: arbre-sephiroth/yesod
-voir: sephiroth, malkhout, tiferet, arbre-des-sephiroth
+voir: sephiroth, malkhout, tiferet, arbre-des-sephiroth, golden-dawn, neuf, lumiere-astrale
 
 @ malkhout
 cat: kabbale
@@ -173,8 +187,12 @@ nom: Ein Sof
 alias: En Sof, Ain Soph, Aïn Soph, l'Infini, Ain Soph Aur
 def: Dans la kabbale, Dieu en lui-même, infini et caché, au-delà de toute pensée et de toute qualité, d'où émanent les séphiroth.
 texte: L'expression hébraïque signifie « sans fin ». Les kabbalistes de Gérone, au XIIIe siècle, distinguent ainsi la divinité absolument cachée, dont on ne peut rien dire, de ses manifestations, les [[sephiroth|séphiroth]], qui seules peuvent être décrites et invoquées.
+texte: Avant Gérone, le terme apparaît en Provence, dans le cercle d'Isaac l'Aveugle, dont Azriel de Gérone fut l'élève. Le *[[zohar|Zohar]]* parle de la « Cause des causes » et du « plus caché des cachés ». À Safed, au XVIe siècle, [[moise-cordovero|Moïse Cordovero]] fait des séphiroth à la fois l'essence divine et les « vases » par lesquels l'Ein Sof agit.
 texte: La [[kabbale-hermetique|kabbale hermétique]] distingue trois « voiles » au-dessus de l'arbre : *Ain* (le Rien), *Ain Soph* (l'Infini) et *Ain Soph Aur* (la Lumière infinie).
-voir: sephiroth, keter, tsimtsoum, kabbale, emanation
+texte: Pour [[isaac-louria|Isaac Louria]], la création commence par le [[tsimtsoum]], le retrait de l'Ein Sof en lui-même. Les trois voiles de la kabbale hermétique viennent de l'introduction de [[samuel-liddell-mathers|Mathers]] à *The Kabbalah Unveiled* (1887), sa traduction partielle de la *[[kabbala-denudata|Kabbala denudata]]* de [[knorr-von-rosenroth|Knorr von Rosenroth]].
+extrait: L’ensoph qu’on met au-dessus de l’arbre séphirotique, ou des splendeurs divines, est l’infini. On l’appelle tantôt l’être, & tantôt le non-être : c’est un être, puisque toutes choses tirent de lui leur existence ; c’est le non-être, parce qu’il est impossible à l’homme de pénétrer son essence & sa nature. Il s’enveloppe d’une lumiere inaccessible ; il est caché dans une majesté impénétrable : d’ailleurs il n’y a dans la nature aucun objet qu’on puisse lui comparer, & qui le représente tel qu’il est. C’est en ce sens que Denys l’Aréopagite a osé dire, que Dieu n’étoit rien, ou que c’étoit le néant.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Cabale (Philosophie) », tome II, 1752 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CABALE
+voir: sephiroth, keter, tsimtsoum, kabbale, emanation, isaac-louria, moise-cordovero, zohar
 
 @ adam-kadmon
 cat: kabbale
@@ -183,6 +201,8 @@ alias: Adam Qadmon, homme primordial, homme archétype, Anthropos
 def: Dans la kabbale, l'Homme primordial, première forme que prend la lumière divine, dont le corps est fait des séphiroth.
 texte: Les kabbalistes lisent dans la Genèse que l'homme est créé « à l'image de Dieu » : la structure divine elle-même a donc une forme humaine. Dans la kabbale d'[[isaac-louria]], Adam Kadmon est la toute première émanation après le [[tsimtsoum]] ; les lumières qui jaillissent de ses yeux, de sa bouche et de ses oreilles forment les mondes.
 texte: La figure rappelle l'Homme primordial du *[[poimandres|Poimandrès]]* et l'Anthropos des gnostiques. Les occultistes y voient le [[microcosme-macrocosme|microcosme]] parfait.
+extrait: (…) en commençant par l’Adam céleste qui est souverainement élevé, on descend jusqu’aux créatures les plus viles & les plus basses. On le représente comme un homme qui a un crane, un cerveau, des yeux, & des mains ; & chacune de ses parties renferme des mysteres profonds. La sagesse (…) est le crane du premier Adam, & s’étend jusqu’aux oreilles ; l’intelligence est son oreille droite ; la prudence fait son oreille gauche ; ses piés ne s’allongent pas au-delà d’un certain monde inférieur, de peur que s’ils s’étendoient jusqu’au dernier ils ne touchassent à l’infini, & qu’il ne devînt lui-même infini. Sur son diaphragme est un amas de lumiere qu’il y a condensée : mais une autre partie s’est échappée par les yeux & par les oreilles. La ligne qui a servi de canal à la lumiere, lui a communiqué avec l’intelligence & la bonté, le pouvoir de produire d’autres mondes. Le monde de cet Adam premier est plus grand que tous les autres ; ils reçoivent de lui leurs influences, & en dépendent.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Cabale (Philosophie) », tome II, 1752 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CABALE
 voir: sephiroth, isaac-louria, poimandres, microcosme-macrocosme, tsimtsoum
 
 @ tsimtsoum
@@ -192,6 +212,8 @@ alias: tsimtsum, tzimtzum, contraction, retrait de Dieu
 def: Selon Isaac Louria, retrait de Dieu en lui-même, par lequel l'Infini libère un espace vide où le monde pourra exister.
 texte: Si Dieu est infini, où trouver la place du monde ? [[isaac-louria]] répond que le premier acte divin n'est pas une expansion mais une contraction : l'[[ein-sof|Ein Sof]] se retire, laissant un espace vide, dans lequel il fait ensuite pénétrer un rayon de sa lumière. La création commence par un exil de Dieu.
 texte: Cette idée audacieuse a fasciné les philosophes et les théologiens modernes, juifs et chrétiens, qui y ont vu une réflexion sur la liberté de la créature et l'absence apparente de Dieu.
+extrait: Dieu voulant donc créer l’univers, il y trouva deux grandes difficultés. Premierement tout étoit plein, car la lumiere éclatante & subtile (…) qui émanoit de l’Essence divine, remplissoit toutes choses : il falloit donc former un vuide pour placer les émanations & l’univers. Pour cet effet, Dieu pressa un peu la lumiere qui l’environnoit, & cette lumiere comprimée se retira aux côtés, & laissa au milieu un grand cercle vuide, dans lequel on pouvoit situer le monde. On explique cela par la comparaison d’un homme qui se trouvant chargé d’une robe longue la retrousse.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Cabale (Philosophie) », tome II, 1752 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CABALE
 voir: isaac-louria, chevirat-ha-kelim, tikkoun, ein-sof
 
 @ chevirat-ha-kelim
@@ -358,7 +380,7 @@ alias: section dorée, divine proportion, proportion dorée, phi, 1,618
 def: Proportion mathématique d'environ 1,618, dite aussi « divine proportion », à laquelle on a prêté depuis le XIXe siècle une présence universelle dans la nature et dans l'art.
 texte: Euclide définit le partage d'une ligne en « extrême et moyenne raison » : le tout est à la grande partie ce que la grande partie est à la petite. Le rapport vaut (1 + √5) / 2, environ 1,618. En 1509, le moine mathématicien Luca Pacioli lui consacre un traité, *De divina proportione*, illustré par [[leonard-de-vinci|Léonard de Vinci]]. Le rapport de deux termes successifs de la suite de Fibonacci s'en approche.
 texte: Au XIXe siècle, Adolf Zeising affirme le retrouver partout, du corps humain aux temples grecs ; le diplomate roumain Matila Ghyka popularise en France, dans les années 1930, l'idée d'une harmonie cachée de l'univers. Les mathématiciens et les historiens de l'art ont montré que beaucoup de ces affirmations relèvent de mesures choisies après coup.
-voir: arithmologie, pyramides, schwaller-de-lubicz, pentagramme, dodecaedre, solides-de-platon
+voir: arithmologie, pyramides, schwaller-de-lubicz, pentagramme, dodecaedre, solides-de-platon, alan-turing
 
 @ tetractys
 cat: nombres
@@ -387,4 +409,4 @@ def: Tableau de nombres dont les lignes, les colonnes et les diagonales ont la m
 texte: Le plus ancien connu est le Lo Shu chinois, de trois cases sur trois, dont chaque ligne vaut 15 ; la légende dit qu'il apparut sur la carapace d'une tortue. Les mathématiciens arabes en étudient de nombreux. [[cornelius-agrippa]] publie sept carrés, de trois à neuf cases de côté, attribués aux planètes dans l'ordre chaldéen : Saturne (3 × 3), Jupiter, Mars, le Soleil, Vénus, Mercure et la Lune (9 × 9).
 texte: Gravés sur une plaque du métal de la planète, ils servent de [[talisman|talismans]] ; on trace aussi sur eux les [[sceau|sceaux]] des intelligences planétaires, en reliant les nombres qui correspondent aux lettres d'un nom. La gravure *Melencolia I* de [[albrecht-durer|Dürer]] (1514) montre un carré de Jupiter, planète censée tempérer la mélancolie saturnienne ; ses deux cases centrales du bas donnent la date, 1514.
 schema: sceau-de-saturne
-voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator, melencolia, cavalier-echecs, sagrada-familia, tortue
+voir: talisman, sceau, intelligences-planetaires, cornelius-agrippa, saturne, carre-sator, melencolia, cavalier-echecs, sagrada-familia, tortue, sigil

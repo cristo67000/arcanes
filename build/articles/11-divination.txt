@@ -8,6 +8,8 @@ alias: arts divinatoires, mancie, mancies, devin, devins, présages, oracles
 def: Ensemble des pratiques qui prétendent connaître l'avenir, le caché ou la volonté des dieux en interprétant des signes : astres, cartes, songes, entrailles, tirages au sort.
 texte: Toutes les civilisations ont pratiqué la divination. Les Romains distinguaient la divination « naturelle », par l'inspiration, les transes et les rêves, de la divination « artificielle », par l'interprétation de signes : vol des oiseaux, entrailles des victimes, éclairs. Les noms savants des techniques se forment avec le suffixe grec *-mancie* : [[chiromancie]], [[cartomancie]], [[oniromancie]], [[geomancie]], [[necromancie]]. On consulte aussi des livres ouverts au hasard : c'est la [[bibliomancie]].
 texte: Le christianisme a condamné la divination comme une curiosité coupable ou un commerce avec les démons, sans jamais la faire disparaître. Les historiens y voient un moyen de prendre des décisions et d'apaiser l'incertitude ; les psychologues expliquent sa force persuasive par l'« effet Barnum », la tendance à se reconnaître dans des descriptions vagues. Aucune étude contrôlée n'a montré qu'une méthode divinatoire prévoie l'avenir mieux que le hasard.
+extrait: Une femme, à Paris, faisait la pythonisse : // On l’allait consulter sur chaque événement, // Perdait-on un chiffon, avait-on un amant, // Un mari vivant trop, au gré de son épouse, // Une mère fâcheuse, une femme jalouse ; // Chez la devineuse on courait // Pour se faire annoncer ce que l’on désirait. // Son fait consistait en adresse : // Quelques termes de l’art, beaucoup de hardiesse, // Du hasard quelquefois, tout cela concourait, // Tout cela bien souvent faisait crier miracle. // Enfin, quoique ignorante à vingt et trois carats, // Elle passait pour un oracle.
+source: Jean de La Fontaine, *Fables*, livre VII, fable XV, « Les Devineresses », 1678 | ws Fables de La Fontaine (éd. 1874)/Les Devineresses
 voir: astrologie, tarot, cartomancie, oracle, yi-king, geomancie, voyance
 
 @ tarot
@@ -22,7 +24,9 @@ texte: Le tarot apparaît vers 1440 à [[milan|Milan]] et à Ferrare : on ajoute
 texte: En 1781, [[court-de-gebelin]] affirme que le tarot est un livre égyptien de sagesse. [[etteilla]] en fait un jeu divinatoire, [[eliphas-levi]] le relie à la [[kabbale]] et aux lettres hébraïques, et la [[golden-dawn|Golden Dawn]] l'intègre à son système de [[correspondances]]. Le XXe siècle voit naître des centaines de jeux nouveaux, dont le [[tarot-rider-waite|Rider-Waite]] (1909) et le [[tarot-de-thoth|tarot de Thoth]] (1944).
 texte: On distingue les vingt-deux [[arcanes-majeurs|arcanes majeurs]] et les cinquante-six [[arcanes-mineurs|arcanes mineurs]]. Le tirage dispose les cartes selon des schémas, dont la croix celtique, chaque position ayant un sens (passé, obstacle, avenir…).
 schema: arcanes-majeurs
-voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin, milan, le-tarot-des-bohemiens
+extrait: On a même des raisons de croire que primitivement les cartes offraient une représentation exacte des échecs ; pour laisser quelque chose à décider au sort, et pour mieux égaliser les chances, les fous, les chevaliers et les tours ou rocs se retrouvaient sans doute dans les premières cartes, dont le jeu n’était qu’un jeu d’échecs double ; peut-être le jouait-on à quatre, chaque adversaire ayant sa couleur, et, pour ainsi dire, son armée à faire manœuvrer. — Ces analogies des cartes avec les échecs sont presque prouvées par l’inspection des vieux tarots du XV siècle, dans lesquels il y a le fou et la tour, dite maison de Dieu. — Quant au sens allégorique, il est à peu près identique dans les deux jeux, qui sont une image de la guerre : il y a encore dans les tarots une carte qui devait, par son apparition, produire le résultat de l’échec et mat : c’est la Mort, montée sur le cheval pâle que lui donne l’Apocalypse.
+source: Paul Lacroix, « L’Origine des cartes à jouer », dans *Dissertations philologiques et bibliographiques*, Techener, 1834 | ws Dissertations philologiques et bibliographiques/18
+voir: arcanes-majeurs, arcanes-mineurs, tarot-de-marseille, tarot-rider-waite, cartomancie, court-de-gebelin, milan, le-tarot-des-bohemiens, jeu-lenormand
 
 @ arcanes-majeurs
 cat: divination
@@ -51,7 +55,7 @@ an: 1650
 def: Modèle de tarot gravé sur bois, fixé au XVIIe siècle et produit en masse au XVIIIe, notamment à Marseille, devenu la référence du tarot en France.
 texte: Les cartiers de [[lyon|Lyon]], de Paris puis de Marseille impriment un modèle de tarot aux figures colorées au pochoir, d'un dessin populaire et vigoureux. Parmi les jeux les plus anciens figurent ceux de Jean Noblet (vers 1650) et de Jean Dodal (vers 1701) ; celui de Nicolas Conver, cartier à Marseille, daté de 1760, est le plus reproduit. Le nom de « tarot de Marseille », employé en 1869 par le collectionneur Romain Merlin, ne s'impose qu'au XXe siècle.
 texte: Les occultistes français, d'[[eliphas-levi]] à [[oswald-wirth]] et [[papus]], ont commenté ce modèle, et le tarologue Paul Marteau en publie en 1930 une édition qui a longtemps fait autorité. Des « restaurations » récentes prétendent retrouver ses couleurs et ses détails d'origine.
-voir: tarot, arcanes-majeurs, oswald-wirth, cartomancie
+voir: tarot, arcanes-majeurs, oswald-wirth, cartomancie, arcane-amoureux, arcane-pendu
 
 @ tarot-rider-waite
 cat: divination
@@ -61,7 +65,7 @@ an: 1909
 def: Tarot conçu en 1909 par Arthur Edward Waite et dessiné par Pamela Colman Smith, dont toutes les cartes sont illustrées de scènes, devenu le plus répandu du monde.
 texte: Publié à [[londres|Londres]] par l'éditeur William Rider & Son, ce jeu applique les enseignements de la [[golden-dawn|Golden Dawn]] : la Force devient le numéro VIII et la Justice le XI, la Papesse devient la Grande Prêtresse, le Pape le Hiérophante. Surtout, [[pamela-colman-smith]] illustre chacune des cinquante-six cartes mineures d'une scène humaine — un homme qui porte dix bâtons, trois épées plantées dans un cœur —, ce qui les rend aussi parlantes que les arcanes majeurs.
 texte: La plupart des tarots modernes en reprennent les compositions. [[arthur-edward-waite]] l'accompagne de *La Clef illustrée du tarot* (1910).
-voir: arthur-edward-waite, pamela-colman-smith, golden-dawn, tarot, arcanes-mineurs
+voir: arthur-edward-waite, pamela-colman-smith, golden-dawn, tarot, arcanes-mineurs, arcane-amoureux, arcane-soleil
 
 @ tarot-de-thoth
 cat: divination
@@ -80,6 +84,8 @@ alias: cartomancien, cartomancienne, tireuse de cartes, tirer les cartes
 def: Divination par les cartes, à jouer ou spécialement conçues, dont on interprète la valeur et la position dans un tirage.
 texte: La pratique est attestée à partir du XVIe siècle, mais c'est à Paris, au XVIIIe, qu'[[etteilla]] publie la première méthode et fait de la tireuse de cartes un personnage de la ville. Au XIXe siècle, [[mademoiselle-lenormand]] en devient la figure la plus célèbre. On utilise un jeu de trente-deux ou de cinquante-deux cartes, le [[tarot]] ou des jeux d'oracle illustrés, comme le [[jeu-lenormand|Petit Lenormand]].
 texte: L'interprète dispose les cartes selon un schéma — en ligne, en croix, en cercle — et compose un récit à partir de leurs sens conventionnels et de leurs combinaisons. La cartomancie est l'un des arts divinatoires les plus pratiqués aujourd'hui.
+extrait: Il n’est pas besoin de dire qu’on a trouvé tout dans les cartes, histoire, sabéisme, sorcellerie. Il y a même eu des doctes qui ont vu toute l’alchimie dans les figures ; et certains cabalistes ont prétendu y reconnaître les esprits des quatre éléments. Les carreaux sont les salamandres, les cœurs sont les sylphes, les trèfles les ondins, et les piques les gnomes. ¶ (…) Arrivons à l’art de tirer les cartes. On se sert presque toujours, pour la cartomancie, d’un jeu de piquet de trente-deux cartes, où les figures n’ont qu’une tête. Les cœurs et les trèfles sont généralement bons et heureux ; les carreaux et les piques, généralement mauvais et malheureux. Les figures en cœur et en carreau annoncent des personnes blondes ou châtain-blond ; les figures en pique ou en trèfle annoncent des personnes brunes ou châtain-brun.
+source: Jacques Collin de Plancy, *Dictionnaire infernal*, article « Cartomancie », 6e éd., Henri Plon, 1863 | ws Dictionnaire infernal/6e éd., 1863/Cartomancie
 voir: tarot, etteilla, mademoiselle-lenormand, jeu-lenormand, divination, le-tarot-des-bohemiens
 
 @ jeu-lenormand
@@ -90,7 +96,8 @@ an: 1846
 def: Jeu divinatoire de trente-six cartes illustrées d'objets simples — le cavalier, le trèfle, le navire, la maison… —, publié vers 1846 sous le nom de Mademoiselle Lenormand.
 texte: Le jeu dérive d'un jeu de société allemand, le « jeu de l'espérance », créé vers 1800 par Johann Kaspar Hechtel, qui se jouait avec des dés. Les éditeurs lui donnent ensuite le nom de la célèbre [[mademoiselle-lenormand|voyante parisienne]], morte en 1843, pour profiter de sa réputation.
 texte: Chaque carte a un sens simple — le cercueil, la fin ; l'ancre, la stabilité ; le cœur, l'amour — et les cartes se lisent par paires ou en grand tableau, d'une manière plus narrative que le tarot.
-voir: mademoiselle-lenormand, cartomancie, divination
+texte: Plusieurs de ses figures viennent du bestiaire et gardent le sens des fables : le renard et le [[serpent]] la ruse, le [[chien]] la fidélité, l'[[ours]] la force. Plus simple que le [[tarot]] d'[[etteilla|Etteilla]], le jeu connaît depuis quelques années un vif regain.
+voir: mademoiselle-lenormand, cartomancie, divination, tarot, etteilla, serpent, chien, ours
 
 @ geomancie
 cat: divination
@@ -120,6 +127,8 @@ alias: chiromancien, lignes de la main, ligne de vie, ligne de cœur, ligne de t
 def: Divination par l'examen des lignes, des monts et de la forme de la main, censés révéler le caractère et le destin d'une personne.
 texte: La chiromancie lit dans la paume trois lignes principales — la ligne de vie, autour du pouce, la ligne de tête et la ligne de cœur —, et d'autres secondaires, comme la ligne de chance. Les « monts » sont attribués aux planètes : le mont de Vénus à la base du pouce, celui de Jupiter sous l'index, de Saturne sous le majeur, du Soleil sous l'annulaire, de Mercure sous l'auriculaire.
 texte: Pratiquée dans l'Antiquité et en Inde, elle fleurit dans l'Europe des XVe et XVIe siècles, à côté de la [[physiognomonie]]. Elle reste associée aux diseuses de bonne aventure et aux fêtes foraines.
+extrait: S’il est des évenemens fortuits qui secondent la découverte des vérités, il en est aussi qui favorisent les progrès de l’erreur : tel fut l’oubli du sens des caracteres hiéroglyphiques, qui suivit nécessairement l’établissement des caracteres de l’alphabet. On attribua donc aux caracteres hiéroglyphiques telle vertu qu’on desira ; ces signes passerent dans la magie : le système de la divination n’en devint que plus composé, plus obscur, & plus merveilleux. ¶ Les hiéroglyphes renfermoient des traits de toute espece : il n’y eut donc plus de ligne qui ne devînt un signe ; il ne fut plus question que de chercher ce signe sur quelque partie du corps humain, dans la main par exemple, pour donner naissance à la chiromantie.
+source: Denis Diderot, *L’Encyclopédie*, article « Divination », tome IV, 1754 (orthographe d’origine) | ws L’Encyclopédie/1re édition/DIVINATION
 voir: physiognomonie, divination, planetes
 
 @ physiognomonie
@@ -138,6 +147,8 @@ alias: interprétation des rêves, clef des songes, songes, onirocritique, Arté
 def: Divination par l'interprétation des rêves, considérés comme des messages des dieux ou des présages de l'avenir.
 texte: Les rêves passent dans l'Antiquité pour un moyen privilégié de communication avec le divin : on dormait dans les temples d'Asclépios pour obtenir un songe de guérison. Au IIe siècle, Artémidore de Daldis rédige *La Clef des songes*, vaste répertoire de rêves et de leurs interprétations, selon le métier, l'âge et la situation du rêveur.
 texte: Les « clefs des songes » populaires, répertoires alphabétiques d'images, se vendent jusqu'à nos jours. La psychanalyse a profondément renouvelé l'interprétation des rêves en y cherchant non l'avenir mais les désirs et les conflits du rêveur.
+extrait: L’imagination des hommes n’agit jamais plus fortement & plus capricieusement que dans le sommeil ; mais à qui la superstition pouvoit elle attribuer ces scenes d’objets si singulieres & si frappantes qui nous sont offertes dans certains songes, si ce n’est aux dieux ? Telle fut l’origine de l’oneirocritique : il étoit difficile qu’on n’apperçût pas entre les évenemens du jour & les représentations nocturnes quelques vestiges d’analogie ; ces vestiges devinrent le fondement de l’oneirocritique : on attacha tel évenement à tel objet ; & bien-tôt il se trouva des gens qui eurent des prédictions prêtes pour tout ce qu’on avoit rêvé. Il arriva même ici une bisarrerie, c’est que le contraire de ce que l’on avoit rêvé pendant la nuit, étant quelquefois arrivé pendant le jour, on en fit la regle de prédire par les contraires.
+source: Denis Diderot, *L’Encyclopédie*, article « Divination », tome IV, 1754 (orthographe d’origine) | ws L’Encyclopédie/1re édition/DIVINATION
 voir: divination, oracle, carl-gustav-jung, serapis
 
 @ necromancie
@@ -164,7 +175,7 @@ nom: Sibylles
 alias: sibylle, oracles sibyllins, livres sibyllins, sibylle de Cumes
 def: Prophétesses inspirées de l'Antiquité, dont les oracles, recueillis dans des livres, furent lus par les chrétiens comme des annonces du Christ.
 texte: Les Anciens comptaient jusqu'à dix sibylles, de Delphes, d'Érythrée, de Cumes… À Rome, les *Livres sibyllins*, achetés selon la légende par le roi Tarquin, étaient gardés au Capitole et consultés en cas de crise. Des *Oracles sibyllins* rédigés par des juifs et des chrétiens imitent leur style pour annoncer le vrai Dieu.
-texte: Le christianisme médiéval associe les sibylles aux prophètes de l'Ancien Testament : le chant du *Dies irae* les invoque, et Michel-Ange les peint au plafond de la chapelle Sixtine.
+texte: Le christianisme médiéval associe les sibylles aux prophètes de l'Ancien Testament : le chant du *Dies irae* les invoque, et [[michel-ange|Michel-Ange]] les peint au plafond de la chapelle Sixtine.
 voir: oracle, divination, prisca-theologia, antre-de-la-sibylle, cathedrale-de-sienne
 
 @ augures

@@ -24,7 +24,7 @@ alias: tenue maçonnique, tenue blanche, tenue funèbre, ouverture des travaux, 
 def: Réunion rituelle d'une loge maçonnique, ouverte et fermée selon un cérémonial fixé par le rite, au cours de laquelle les frères travaillent à un grade donné.
 texte: Une tenue commence par l'ouverture des « travaux » : le [[venerable-maitre|Vénérable]] s'assure que le temple est couvert, c'est-à-dire à l'abri des regards profanes, que les présents sont maçons, et fait allumer les lumières. Viennent ensuite la lecture du compte rendu de la tenue précédente, les initiations ou les augmentations de salaire, la présentation d'une [[planche]] et sa discussion, la circulation du tronc de bienfaisance. La fermeture, tout aussi rituelle, renvoie les frères « contents et satisfaits ».
 texte: Les maçons distinguent plusieurs sortes de tenues : au grade d'apprenti, de compagnon ou de maître, selon le degré auquel la loge est ouverte ; la tenue « blanche », ouverte à des invités non maçons pour une conférence ; la tenue funèbre, en mémoire d'un frère disparu. Elle se prolonge souvent par des [[agapes]].
-voir: loge, temple-maconnique, planche, agapes, batterie, temps-maconnique
+voir: loge, temple-maconnique, planche, agapes, batterie, temps-maconnique, gants-blancs
 
 @ temple-maconnique
 cat: maconnerie
@@ -54,7 +54,7 @@ def: Le maître élu pour présider une loge maçonnique, qui ouvre et ferme les
 texte: Élu pour un an par les maîtres de la loge, souvent réélu deux ou trois fois au plus, le Vénérable siège à l'[[orient|Orient]], sous le [[oeil-de-la-providence|delta lumineux]]. Il dirige les travaux avec un [[maillet]], dont les coups ponctuent le rituel, confère les grades, accorde ou refuse la parole. Son bijou est l'équerre, instrument de la rectitude.
 texte: Il est secondé par les deux [[surveillants|Surveillants]] et entouré des autres [[officiers-de-loge|officiers]]. Dans les pays anglophones, l'*installation* d'un nouveau maître est une cérémonie secrète réservée aux anciens Vénérables, les *Past Masters*. Sa sortie de charge fait de lui un « passé Vénérable », qui garde un rang d'honneur dans la loge.
 schema: plan-de-loge/venerable
-voir: surveillants, officiers-de-loge, maillet, orient, loge
+voir: surveillants, officiers-de-loge, maillet, orient, loge, niveau-et-perpendiculaire
 
 @ surveillants
 cat: maconnerie
@@ -119,7 +119,8 @@ alias: landmark, bornes, anciennes bornes, principes immuables, Mackey
 def: Les « bornes » de la franc-maçonnerie : règles réputées immuables, que nul ne peut modifier sans cesser d'être maçon, mais dont aucune liste n'a jamais fait l'unanimité.
 texte: Le mot, qui désigne en anglais une borne de champ, vient de la Bible (« Ne déplace pas la borne ancienne », Proverbes 22) et apparaît dans les *[[constitutions-d-anderson|Constitutions]]* de 1723, qui demandent de préserver les « anciens landmarks » sans les énumérer. Au XIXe siècle, chaque Grande Loge américaine voulut en dresser la liste.
 texte: La plus célèbre est celle de l'Américain Albert Mackey, publiée en 1858 : vingt-cinq landmarks, parmi lesquels les moyens de reconnaissance, la division en trois grades, la légende du troisième, la croyance en Dieu et en une vie future, le Livre de la Loi dans la loge, l'égalité des maçons, le secret. D'autres listes en comptent beaucoup moins, ou davantage ; aucune ne s'est imposée. La notion sert surtout à fonder la [[regularite|régularité]].
-voir: regularite, constitutions-d-anderson, grande-loge-unie-d-angleterre
+texte: En 1877, le [[grand-orient-de-france|Grand Orient de France]] supprime de sa constitution l'obligation de croire en Dieu et en l'immortalité de l'âme ; la Grande Loge unie d'Angleterre y voit la violation d'un landmark et rompt avec lui. La croyance au [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]] reste depuis la ligne de partage entre maçonneries dites régulières et libérales.
+voir: regularite, constitutions-d-anderson, grande-loge-unie-d-angleterre, grand-architecte-de-l-univers, grand-orient-de-france
 
 # ── L'initiation et les grades ──────────────────────────────────────────────
 
@@ -139,6 +140,8 @@ alias: réception, initiation, voyages, épreuves, bandeau, recevoir la lumière
 def: Cérémonie par laquelle un profane est reçu franc-maçon au grade d'apprenti, au terme d'épreuves symboliques qui figurent une mort et une renaissance.
 texte: Présenté par un parrain et interrogé par plusieurs maçons lors d'« enquêtes », le candidat est d'abord enfermé dans le [[cabinet-de-reflexion|cabinet de réflexion]], où il rédige son testament philosophique. Dépouillé de ses métaux, symbole des passions et de l'argent, le genou droit et le sein gauche découverts, ni nu ni vêtu, les yeux bandés, il est introduit dans le temple et accomplit des « voyages » symboliques, purifiés selon les rites par l'air, l'eau et le feu.
 texte: Après avoir prêté serment, il « reçoit la lumière » : on lui ôte le bandeau, et il découvre les frères qui l'entourent. Le [[venerable-maitre|Vénérable]] le revêt du [[tablier]] et des [[gants-blancs|gants blancs]] et lui confie les [[mots-signes-attouchements|mots et signes]] d'[[apprenti]]. Ce scénario reprend celui des [[mysteres-antiques|mystères antiques]] tel que les Lumières se le représentaient : mort au monde profane, épreuves, renaissance — le schéma de toute [[initiation]].
+extrait: — En signe d’obéissance, je vous demande de vous dévêtir. ¶ Pierre ôta son habit, son gilet et, sur l’indication du rhéteur, sa bottine gauche. Le maçon ouvrit la chemise sur la poitrine, du côté gauche, puis, il se pencha et releva la jambe gauche du pantalon au-dessus du genou. Pierre voulait se presser d’ôter sa bottine de droite et de relever le pantalon afin de débarrasser de ce travail cette personne qu’il ne connaissait pas. Mais le maçon lui dit que ce n’était pas nécessaire et lui donna une pantoufle pour le pied gauche.
+source: Léon Tolstoï, *Guerre et Paix* (1865-1869), livre II, deuxième partie, chap. III, trad. J.-Wladimir Bienstock, Stock, 1903 | ws Guerre et Paix (trad. Bienstock)/V/03
 voir: cabinet-de-reflexion, apprenti, initiation, profane, tablier
 
 @ cabinet-de-reflexion
@@ -148,6 +151,8 @@ alias: chambre de réflexion, testament philosophique, crâne, sablier, sel et s
 def: Petite pièce obscure où le candidat à l'initiation maçonnique est laissé seul, face à des symboles de la mort et de la transformation, avant d'être introduit dans la loge.
 texte: Les murs sont noirs ; sur une table, éclairés d'une bougie, un crâne, un sablier, du pain et de l'eau, du sel et du [[soufre]], une image de coq, et l'inscription V.I.T.R.I.O.L. — « Visite l'intérieur de la terre, et en rectifiant tu trouveras la pierre cachée ». Des sentences mettent en garde : « Si la curiosité t'a conduit ici, va-t'en ! » Le candidat y rédige son testament philosophique, en répondant à des questions sur ses devoirs envers lui-même, les autres et l'humanité.
 texte: Le cabinet apparaît dans les rites français dans la seconde moitié du XVIIIe siècle. Il figure l'épreuve de la terre, la descente au tombeau qui précède toute renaissance ; le sel, le soufre et le mercure évoquent les trois principes des alchimistes (voir [[tria-prima]]), et le [[vitriol|VITRIOL]] la quête de la [[pierre-philosophale]] au fond de soi.
+extrait: Des coups vigoureux retentirent à la porte. Pierre ôta le bandeau et regarda autour de lui. La chambre était toute noire, seulement dans un endroit une veilleuse brillait dans quelque chose de blanc. Pierre s’approcha et vit que la veilleuse était posée sur une table noire où se trouvait un livre ouvert. ¶ Ce livre était les évangiles. Ce quelque chose de blanc où brûlait la veilleuse, c’était un crâne humain avec les trous et les dents. Après avoir lu les premières paroles de l’évangile : Au commencement était le Verbe et le Verbe était Dieu… Pierre fit le tour de la table et aperçut une grande boîte remplie et ouverte. C’était un cercueil plein d’ossements. Il n’était nullement étonné de ce qu’il voyait. Espérant entrer dans une vie nouvelle toute différente de l’ancienne, il s’attendait à voir des choses encore plus extraordinaires que celles-ci. Le crâne, le cercueil, l’évangile, il lui semblait avoir attendu tout cela et attendre encore davantage. En s’efforçant d’exciter en soi l’attendrissement, il regardait tout autour de lui : « Dieu, la mort, l’amour, la fraternité des hommes, » se disait-il, concentrant en des paroles la représentation vague mais joyeuse de quelque chose.
+source: Léon Tolstoï, *Guerre et Paix* (1865-1869), livre II, deuxième partie, chap. III, trad. J.-Wladimir Bienstock, Stock, 1903 | ws Guerre et Paix (trad. Bienstock)/V/03
 voir: initiation-maconnique, vitriol, tria-prima, nigredo, coq, vanites
 
 @ apprenti
@@ -158,7 +163,7 @@ def: Le premier grade de la franc-maçonnerie, celui du nouvel initié, qui trav
 texte: L'apprenti a symboliquement « trois ans ». Il siège sur la colonne du Septentrion, la moins éclairée du temple, sous l'autorité du Second [[surveillants|Surveillant]], et, dans la tradition française, ne prend pas la parole en loge. Son travail est figuré par la [[pierre-brute|pierre brute]], qu'il taille avec le [[maillet]] et le ciseau : c'est lui-même qu'il s'agit de dégrossir.
 texte: Son [[tablier]] est blanc, la bavette relevée. Il apprend les symboles du premier degré — les [[colonnes-jakin-et-boaz|deux colonnes]], le [[pave-mosaique|pavé mosaïque]], les [[trois-grandes-lumieres|trois grandes lumières]] — et présente au bout d'un an ou deux un travail qui permet son passage au grade de [[compagnon]].
 schema: degres-maconniques
-voir: compagnon, maitre-macon, pierre-brute, initiation-maconnique, temps-maconnique
+voir: compagnon, maitre-macon, pierre-brute, initiation-maconnique, temps-maconnique, gants-blancs, planche
 
 @ compagnon
 cat: maconnerie
@@ -168,7 +173,7 @@ def: Le deuxième grade de la franc-maçonnerie, celui du travail et de l'étude
 texte: Le compagnon a « cinq ans » ; il siège sur la colonne du Midi, sous l'autorité du Premier [[surveillants|Surveillant]]. Lors de son « passage », il accomplit cinq voyages au cours desquels on lui remet successivement les outils du métier, et découvre l'[[etoile-flamboyante|étoile flamboyante]] marquée de la lettre G. Il travaille la [[pierre-cubique|pierre cubique]].
 texte: Le grade invite à l'étude : les cinq sens, les sept arts libéraux — grammaire, rhétorique, logique, arithmétique, géométrie, musique, astronomie —, les ordres d'architecture, les nombres. On ne le confondra pas avec le compagnon du [[compagnonnage|compagnonnage]], l'ouvrier qui fait son Tour de France.
 schema: degres-maconniques
-voir: apprenti, maitre-macon, etoile-flamboyante, pierre-cubique, william-preston, compagnonnage
+voir: apprenti, maitre-macon, etoile-flamboyante, pierre-cubique, william-preston, compagnonnage, planche
 
 @ maitre-macon
 cat: maconnerie
@@ -214,9 +219,9 @@ cat: maconnerie
 nom: Gants blancs
 alias: gants, gants maçonniques, gants de femme
 def: Les gants que portent les francs-maçons en loge, signe de mains pures, qui n'ont trempé dans aucune injustice.
-texte: À l'[[initiation-maconnique|initiation]], le nouvel apprenti reçoit une paire de gants blancs, qu'il doit garder sans tache. La couleur dit la pureté des actes ; elle efface aussi, entre les frères, la différence entre mains de travailleur et mains de rentier.
-texte: Dans la maçonnerie française du XVIIIe siècle, on lui remettait en outre une paire de gants de femme, destinée à celle qu'il estimait le plus. Les gants restent de rigueur dans beaucoup de loges, avec le [[tablier]] et les autres [[decors-maconniques|décors]].
-voir: tablier, decors-maconniques, initiation-maconnique
+texte: À l'[[initiation-maconnique|initiation]], le nouvel [[apprenti]] reçoit une paire de gants blancs, qu'il doit garder sans tache. La couleur dit la pureté des actes ; elle efface aussi, entre les frères, la différence entre mains de travailleur et mains de rentier.
+texte: Dans la maçonnerie française du XVIIIe siècle, on lui remettait en outre une paire de gants de femme, destinée à celle qu'il estimait le plus ; les loges d'adoption, ouvertes aux femmes, naissent dans la même France du XVIIIe siècle (voir [[maconnerie-d-adoption|maçonnerie d'adoption]]). Les gants restent de rigueur dans beaucoup de loges, avec le [[tablier]] et les autres [[decors-maconniques|décors]].
+voir: tablier, decors-maconniques, initiation-maconnique, apprenti, maconnerie-d-adoption, tenue
 
 @ decors-maconniques
 cat: maconnerie
@@ -256,7 +261,7 @@ texte: Certains rites la surmontent d'une pyramide, parfois fendue d'une hache :
 schema: plan-de-loge/pierres
 extrait: My new-cut ashlar takes the light // Where crimson-blank the windows flare; // By my own work, before the night, // Great Overseer, I make my prayer. ¶ If there be good in that I wrought, // Thy hand compelled it, Master, Thine; // Where I have failed to meet Thy thought // I know, through Thee, the blame is mine. ¶ One instant's toil to Thee denied // Stands all Eternity's offence, // Of that I did with Thee to guide // To Thee, through Thee, be excellence. ¶ Who, lest all thought of Eden fade, // Bring'st Eden to the craftsman's brain, // Godlike to muse o'er his own trade // And Manlike stand with God again. ¶ The depth and dream of my desire, // The bitter paths wherein I stray, // Thou knowest Who hast made the Fire, // Thou knowest Who hast made the Clay. ¶ One stone the more swings to her place // In that dread Temple of Thy Worth— // It is enough that through Thy grace // I saw naught common on Thy earth. ¶ Take not that vision from my ken; // Oh whatso'er may spoil or speed, // Help me to need no aid from men // That I may help such men as need!
 source: Rudyard Kipling, « L’Envoi » de *Life’s Handicap*, 1891 (texte original anglais) | wsen Life's Handicap/L'Envoi
-voir: pierre-brute, compagnon, pierre-philosophale, outils-maconniques, rudyard-kipling, argot-des-batisseurs
+voir: pierre-brute, compagnon, pierre-philosophale, outils-maconniques, rudyard-kipling, argot-des-batisseurs, niveau-et-perpendiculaire
 
 @ pave-mosaique
 cat: maconnerie
@@ -284,7 +289,8 @@ alias: niveau, perpendiculaire, fil à plomb, level, plumb
 def: Les deux instruments de contrôle du maçon : le niveau, qui vérifie l'horizontale, et le fil à plomb, qui vérifie la verticale ; ils sont les bijoux des deux Surveillants.
 texte: Le niveau, triangle d'où pend un fil, est le bijou du Premier [[surveillants|Surveillant]] : il dit l'égalité des hommes, que la mort met tous à la même hauteur et que la loge reconnaît sans distinction de rang. La perpendiculaire, ou fil à plomb, bijou du Second Surveillant, dit la rectitude, la droiture morale et l'approfondissement de soi, du haut vers le bas.
 texte: Ensemble, horizontale et verticale dessinent la croix et l'angle droit de l'équerre : l'ordre social et l'élévation spirituelle. Les maçons disent qu'ils se rencontrent « sur le niveau » et se séparent « sur l'équerre ».
-voir: surveillants, outils-maconniques, compas-et-equerre
+texte: Dès la *[[masonry-dissected|Masonry Dissected]]* de 1730, l'équerre, le niveau et la règle à plomb comptent parmi les « joyaux » de la loge ; ce sont aujourd'hui les bijoux du [[venerable-maitre|Vénérable]] et des deux Surveillants. Ils servent à vérifier la [[pierre-cubique|pierre cubique]], dont les faces doivent être d'aplomb et de niveau.
+voir: surveillants, outils-maconniques, compas-et-equerre, pierre-cubique, venerable-maitre, masonry-dissected
 
 @ tableau-de-loge
 cat: maconnerie
@@ -294,7 +300,7 @@ def: Image qui rassemble les symboles d'un grade, autrefois tracée à la craie 
 texte: Au XVIIIe siècle, on dessinait à la craie ou au charbon, sur le plancher de la salle louée pour la réunion, les symboles du grade : colonnes, outils, pierres, étoile, soleil et lune. À la fin de la tenue, le nouvel initié l'effaçait lui-même avec un balai et un seau d'eau, pour que rien ne subsiste aux yeux des profanes. Le dessin fut ensuite peint sur une toile qu'on roule, ou sur des panneaux.
 texte: En Angleterre, les tableaux dessinés par le peintre John Harris dans les années 1820 à 1840 sont devenus un modèle. Chaque grade a le sien : celui de l'apprenti montre les [[colonnes-jakin-et-boaz|colonnes]], le [[pave-mosaique|pavé mosaïque]], l'[[echelle-de-jacob|échelle de Jacob]] ; celui du maître, le cercueil et l'[[acacia]]. Le tableau sert de support à l'instruction : on le commente, on l'explique.
 schema: plan-de-loge/tableau
-voir: pave-mosaique, temple-maconnique, apprenti, echelle-de-jacob
+voir: pave-mosaique, temple-maconnique, apprenti, echelle-de-jacob, planche
 
 @ trois-grandes-lumieres
 cat: maconnerie
@@ -321,7 +327,7 @@ alias: GADLU, G∴A∴D∴L∴U∴, Grand Architecte, à la gloire du Grand Arch
 def: Nom par lequel la franc-maçonnerie désigne le principe créateur, sans préciser s'il s'agit du Dieu d'une religion révélée, d'un ordre du monde ou d'un symbole.
 texte: L'expression figure dans les *[[constitutions-d-anderson|Constitutions]]* d'Anderson (1723), qui présentent Dieu comme « le grand Architecte de l'Univers », et elle convenait à une société qui voulait réunir des hommes de confessions différentes. Les maçons ouvrent leurs travaux et datent leurs documents « à la gloire du Grand Architecte de l'Univers », abrégé en A∴L∴G∴D∴G∴A∴D∴L∴U∴.
 texte: En 1877, le [[grand-orient-de-france|Grand Orient de France]], sur la proposition du pasteur Frédéric Desmons, retire de sa constitution l'obligation de croire en Dieu et en l'immortalité de l'âme ; la Grande Loge d'Angleterre rompt avec lui l'année suivante. Depuis, la référence au Grand Architecte est le principal critère de la [[regularite|régularité]] ; la [[grande-loge-de-france|Grande Loge de France]] l'a conservée, tandis que les loges du Grand Orient l'emploient ou non.
-voir: regularite, grand-orient-de-france, constitutions-d-anderson, trois-grandes-lumieres
+voir: regularite, grand-orient-de-france, constitutions-d-anderson, trois-grandes-lumieres, landmarks
 
 @ mots-signes-attouchements
 cat: maconnerie
@@ -346,9 +352,9 @@ cat: maconnerie
 nom: Planche
 alias: planches, planche tracée, tracer une planche, morceau d'architecture
 def: Exposé écrit qu'un franc-maçon présente en loge sur un sujet symbolique, philosophique ou social ; aussi, le compte rendu d'une tenue ou une lettre.
-texte: Le mot vient de la planche à tracer de l'architecte, sur laquelle le maître dessine les plans que les ouvriers exécutent. Présenter une planche, c'est livrer un travail à la discussion des frères : sur un symbole, un passage du rituel, une question de société. Les apprentis et les compagnons en présentent pour passer au grade suivant ; on dit aussi « morceau d'architecture ».
+texte: Le mot vient de la planche à tracer de l'architecte, sur laquelle le maître dessine les plans que les ouvriers exécutent. Présenter une planche, c'est livrer un travail à la discussion des frères : sur un symbole, un passage du rituel, une question de société. Les [[apprenti|apprentis]] et les [[compagnon|compagnons]] en présentent pour passer au grade suivant ; on dit aussi « morceau d'architecture ».
 texte: Le secrétaire rédige la « planche tracée », compte rendu de la [[tenue]], lu et approuvé à la tenue suivante. Une lettre entre maçons est une planche, et les « planches » d'une loge forment ses archives, précieuses pour les historiens.
-voir: tenue, officiers-de-loge, loge
+voir: tenue, officiers-de-loge, loge, tableau-de-loge, apprenti, compagnon
 
 @ agapes
 cat: maconnerie
@@ -375,7 +381,7 @@ alias: secret, serment maçonnique, discrétion, société secrète, société d
 def: L'engagement que prend le franc-maçon de ne pas révéler les rituels, les moyens de reconnaissance et l'appartenance de ses frères ; et ce que, selon la tradition, aucune parole ne peut transmettre.
 texte: Le serment de l'[[initiation-maconnique|initiation]] promettait autrefois d'atroces châtiments symboliques au parjure. Pourtant, les rituels sont imprimés depuis 1730 (voir [[divulgations-maconniques|divulgations]]) et les obédiences ont des sièges, des sites et des porte-parole : la maçonnerie se dit aujourd'hui « discrète » plutôt que secrète. Ce qui reste caché est d'abord l'appartenance de chacun, que nul ne peut dévoiler sans son accord.
 texte: Une idée plus profonde court chez les auteurs ésotériques : le vrai secret maçonnique serait incommunicable par nature, parce qu'il tient à l'expérience intérieure de l'initiation, que les mots ne peuvent pas donner à qui ne l'a pas vécue. Le secret a nourri, en sens inverse, tous les soupçons de l'[[antimaconnisme]].
-voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique, alphabet-maconnique
+voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique, alphabet-maconnique, affaire-des-fiches
 
 @ maconnerie-d-adoption
 cat: maconnerie
@@ -384,7 +390,7 @@ alias: loges d'adoption, adoption, maçonnerie féminine, apprentie, compagnonne
 def: Forme de franc-maçonnerie féminine apparue en France vers 1740, dont les loges de femmes étaient « adoptées » et présidées par une loge masculine.
 texte: Les *Constitutions* d'Anderson excluaient les femmes. La France, où la sociabilité mondaine était mixte, inventa des loges d'adoption, rattachées à une loge d'hommes, avec leurs grades propres — apprentie, compagnonne, maîtresse, maîtresse parfaite — et un symbolisme tiré de la Genèse : le [[jardin-d-eden|jardin d'Éden]], l'arche de Noé, la [[tour-de-babel|tour de Babel]]. Le [[grand-orient-de-france|Grand Orient]] les reconnut en 1774. La duchesse de Bourbon et la princesse de Lamballe en furent grandes maîtresses.
 texte: Disparue avec la Révolution, réveillée au XIXe siècle, l'adoption survit dans les loges que la [[grande-loge-de-france|Grande Loge de France]] ouvre au début du XXe siècle ; devenues indépendantes en 1945, elles forment en 1952 la [[grande-loge-feminine-de-france|Grande Loge féminine de France]]. Entre-temps, le [[droit-humain|Droit humain]] avait fondé en 1893 la première maçonnerie mixte.
-voir: grande-loge-feminine-de-france, droit-humain, maria-deraismes, grand-orient-de-france
+voir: grande-loge-feminine-de-france, droit-humain, maria-deraismes, grand-orient-de-france, gants-blancs
 
 @ operatifs-et-speculatifs
 cat: maconnerie
@@ -393,7 +399,7 @@ alias: maçonnerie opérative, maçonnerie spéculative, maçons acceptés, acce
 def: Distinction entre les maçons de métier, tailleurs de pierre et bâtisseurs, et les francs-maçons « acceptés », étrangers au métier, qui en firent une société philosophique.
 texte: Les loges de maçons opératifs du Moyen Âge et de la Renaissance réglaient le travail, l'apprentissage et l'entraide ; en Écosse, les statuts rédigés en 1598 et 1599 par William Schaw, maître des travaux du roi, les organisent, et les procès-verbaux des loges commencent en 1599. On y voit entrer des hommes étrangers au métier : un gentilhomme, John Boswell, assiste à une réunion de la loge d'Édimbourg en 1600 ; [[robert-moray]] est reçu en 1641, [[elias-ashmole]] en 1646 en Angleterre.
 texte: Au début du XVIIIe siècle, ces « acceptés » l'emportent : les loges de [[londres|Londres]] qui forment la [[grande-loge-de-londres|Grande Loge]] sont des cercles de gentilshommes, et l'on parle de maçonnerie « spéculative », qui ne bâtit plus que l'homme et la société. Les historiens discutent encore la part de continuité entre les deux, que la légende maçonnique, avec ses *[[old-charges|Old Charges]]*, fait remonter à Euclide et au Temple de Salomon.
-voir: old-charges, robert-moray, elias-ashmole, grande-loge-de-londres, compagnonnage, argot-des-batisseurs, art-gothique
+voir: old-charges, robert-moray, elias-ashmole, grande-loge-de-londres, compagnonnage, argot-des-batisseurs, art-gothique, cathedrale-de-strasbourg
 
 @ antimaconnisme
 cat: maconnerie
@@ -460,7 +466,7 @@ def: Rite maçonnique chrétien en dix grades, pratiqué en Scandinavie, qui con
 texte: Élaboré à Stockholm à partir des années 1750 par Carl Friedrich Eckleff, le rite est refondu par le duc Charles de Södermanland, futur roi Charles XIII, en 1780 et en 1800. Il comprend les trois grades de Saint-Jean, trois grades de Saint-André, inspirés de l'[[ecossisme]] français, et les grades du chapitre, de tonalité templière et mystique.
 texte: Seuls des chrétiens y sont admis. Charles XIII créa en 1811 un ordre de chevalerie royal réservé aux plus hauts dignitaires maçons. Le rite est pratiqué en Suède, en Norvège, au Danemark, en Islande et, sous une forme proche, en Allemagne.
 schema: rites-maconniques/suedois
-voir: ecossisme, stricte-observance, rite-ecossais-rectifie
+voir: ecossisme, stricte-observance, rite-ecossais-rectifie, templiers, loges-de-saint-jean
 
 @ rite-schroder
 cat: maconnerie
@@ -472,7 +478,7 @@ def: Rituel en trois grades composé en 1801 à Hambourg par l'acteur Friedrich 
 texte: Directeur de théâtre et réformateur de la scène allemande, Friedrich Ludwig Schröder (1744-1816) fut le grand maître de la Grande Loge provinciale de Hambourg. Hostile aux hauts grades chevaleresques et occultistes qui avaient proliféré avec la [[stricte-observance|Stricte Observance]], il rédigea un rituel sobre, fondé sur les sources anglaises et limité aux trois grades symboliques.
 texte: Le rite Schröder reste l'un des plus pratiqués dans les loges de langue allemande. Il témoigne, comme le [[rite-francais|Rite français]], du mouvement de simplification qui suivit l'âge des systèmes de hauts grades.
 schema: rites-maconniques/schroder
-voir: stricte-observance, rite-emulation, rite-francais
+voir: stricte-observance, rite-emulation, rite-francais, convent-de-wilhelmsbad
 
 @ stricte-observance
 cat: maconnerie
@@ -483,7 +489,7 @@ dates: des années 1750 à 1782
 def: Système maçonnique allemand fondé par le baron von Hund, qui faisait de la franc-maçonnerie l'héritière secrète de l'ordre du Temple et exigeait l'obéissance à des « supérieurs inconnus ».
 texte: [[karl-gotthelf-von-hund]] affirme avoir été reçu en 1743, à Paris, dans un ordre templier par des chefs dont il ne peut dire les noms. À partir des années 1750, il organise en Allemagne des loges dont les membres, après les grades bleus, deviennent chevaliers sous un nom latin et prêtent obéissance aux « supérieurs inconnus ». Le système gagne une grande partie de la maçonnerie allemande, puis la Suisse, la Russie et, en France, Strasbourg et [[lyon|Lyon]].
 texte: Faute de voir paraître ces supérieurs et de prouver la filiation templière, le mouvement se divise. Au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), il renonce à se dire héritier des [[templiers]] et adopte la réforme lyonnaise de [[jean-baptiste-willermoz]], d'où sort le [[rite-ecossais-rectifie|Régime écossais rectifié]].
-voir: karl-gotthelf-von-hund, templiers, convent-de-wilhelmsbad, rite-ecossais-rectifie
+voir: karl-gotthelf-von-hund, templiers, convent-de-wilhelmsbad, rite-ecossais-rectifie, ordre-du-temple-solaire, couvent-du-christ
 
 @ rite-de-perfection
 cat: maconnerie
@@ -571,7 +577,7 @@ dates: depuis 1773
 def: La plus ancienne et la plus nombreuse des obédiences françaises, fondée en 1773, connue pour son engagement républicain et laïque et sa liberté de conscience absolue.
 texte: La maçonnerie s'installe en France vers 1725 ; une première Grande Loge se constitue dans les années 1730, sous des grands maîtres comme le comte de Clermont. En 1773, elle se réorganise sous le nom de Grand Orient de France, avec pour grand maître le duc de Chartres, futur Philippe Égalité. Sous l'Empire, Joseph Bonaparte en est le grand maître et Cambacérès le véritable chef ; c'est l'époque où la maçonnerie devient un instrument du régime.
 texte: Sous la IIIe République, beaucoup de ses membres sont des républicains militants, et il participe aux combats pour l'école laïque et la séparation des Églises et de l'État. En 1877, il supprime l'obligation de croire en Dieu (voir [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]]), ce qui le rend « irrégulier » aux yeux de Londres ; en 1904, l'[[affaire-des-fiches|affaire des fiches]] le compromet. Son siège est rue Cadet, à Paris. Il pratique surtout le [[rite-francais|Rite français]], et admet des femmes depuis 2010.
-voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite, hieron-du-val-d-or
+voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite, hieron-du-val-d-or, landmarks
 
 @ grande-loge-de-france
 cat: maconnerie
@@ -639,7 +645,7 @@ dates: 16 juillet – 1er septembre 1782
 def: Congrès maçonnique international réuni en 1782 près de Hanau, qui mit fin à la légende de la filiation templière de la Stricte Observance et consacra le Régime écossais rectifié.
 texte: Convoqué par le duc Ferdinand de Brunswick, grand maître de la [[stricte-observance|Stricte Observance]], le convent réunit les délégués de nombreuses provinces pour trancher la crise du système : ses « supérieurs inconnus » ne se sont jamais montrés. [[jean-baptiste-willermoz]], venu de [[lyon|Lyon]], y fait adopter la réforme du convent des Gaules de 1778 : les maçons ne sont plus les successeurs des [[templiers]], mais leurs héritiers spirituels, sous le nom de Chevaliers bienfaisants de la Cité sainte.
 texte: Le convent consacre ainsi le [[rite-ecossais-rectifie|Régime écossais rectifié]] et la diffusion discrète de la doctrine des [[elus-coens|Élus Coëns]]. Il fut aussi un terrain de recrutement pour les [[illumines-de-baviere|Illuminés de Bavière]], et [[joseph-de-maistre]] y fit parvenir un mémoire resté célèbre.
-voir: stricte-observance, rite-ecossais-rectifie, jean-baptiste-willermoz, joseph-de-maistre
+voir: stricte-observance, rite-ecossais-rectifie, jean-baptiste-willermoz, joseph-de-maistre, rite-schroder
 
 @ affaire-des-fiches
 cat: maconnerie
@@ -649,8 +655,8 @@ an: 1904
 dates: 1904
 def: Scandale politique de 1904 : le ministère de la Guerre faisait noter les opinions religieuses et politiques des officiers par le Grand Orient de France pour décider de leur avancement.
 texte: Depuis 1900, le général André, ministre de la Guerre, voulait républicaniser une armée jugée cléricale. Son cabinet s'appuie sur le secrétariat du [[grand-orient-de-france|Grand Orient]], dont les loges, présentes dans toutes les villes de garnison, renseignent des milliers de fiches : tel officier va à la messe, tel autre envoie ses enfants chez les jésuites.
-texte: Le 28 octobre 1904, le député Jean Guyot de Villeneuve révèle le système à la Chambre ; le 4 novembre, le nationaliste Gabriel Syveton gifle le ministre en pleine séance. André démissionne, et le gouvernement Combes tombe peu après. L'affaire a durablement nourri l'[[antimaconnisme]] et l'image d'une maçonnerie gouvernant en sous-main.
-voir: grand-orient-de-france, antimaconnisme
+texte: Le 28 octobre 1904, le député Jean Guyot de Villeneuve révèle le système à la Chambre ; le 4 novembre, le nationaliste Gabriel Syveton gifle le ministre en pleine séance. André démissionne, et le gouvernement Combes tombe peu après. L'affaire a durablement nourri l'[[antimaconnisme]] et l'image d'une [[franc-maconnerie|maçonnerie]] gouvernant en sous-main, quelques années après la mystification de [[leo-taxil|Léo Taxil]].
+voir: grand-orient-de-france, antimaconnisme, franc-maconnerie, secret-maconnique, leo-taxil
 
 @ les-neuf-soeurs
 cat: maconnerie

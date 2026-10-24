@@ -72,7 +72,7 @@ texte: En 1950, les ethnologues Marcel Griaule et Germaine Dieterlen rapportent 
 repere: 1862 — Alvan Clark observe Sirius B, le compagnon de Sirius.
 repere: 1950 — Griaule et Dieterlen publient *Un système soudanais de Sirius*.
 repere: 1976 — Robert Temple, *Le Mystère de Sirius*.
-voir: orion, egyptosophie, constellation, astrologie, isis, chien
+voir: orion, egyptosophie, constellation, astrologie, isis, chien, ordre-du-temple-solaire
 
 @ voie-lactee
 cat: astronomie

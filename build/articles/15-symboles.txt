@@ -84,8 +84,10 @@ nom: Acacia
 alias: branche d'acacia, l'acacia m'est connu
 def: Arbuste dont la branche, dans la légende maçonnique, marquait la tombe de l'architecte Hiram, et qui symbolise l'immortalité et la connaissance du maître.
 texte: Selon la [[legende-d-hiram|légende du grade de maître]], les compagnons partis à la recherche d'Hiram assassiné découvrent sa tombe grâce à une branche d'acacia plantée sur la terre fraîchement remuée. Le bois d'acacia, réputé imputrescible, était celui de l'[[arche-d-alliance|arche d'alliance]].
+texte: Dans la *[[masonry-dissected|Masonry Dissected]]* de Samuel Prichard (1730), le premier récit imprimé de la légende, c'est une branche de *cassia*, plante aromatique voisine de la cannelle, qui est placée « à la tête de sa tombe » ; le mot devient ensuite acacia, plus conforme à la Bible. L'arche et le tabernacle du désert étaient faits de « bois de *chittim* », que les traductions rendent par acacia.
 texte: La formule « l'acacia m'est connu » permet à un maître de se faire reconnaître. L'acacia est devenu l'image de l'espérance d'une vie qui triomphe de la mort.
-voir: legende-d-hiram, maitre-macon, franc-maconnerie, histoire-de-la-reine-du-matin, huppe
+texte: Au même grade, le maître déclare avoir « sept ans et plus », quand l'apprenti en a trois et le compagnon cinq : l'acacia est l'emblème de ce dernier degré des loges bleues (voir [[sept]]).
+voir: legende-d-hiram, maitre-macon, franc-maconnerie, histoire-de-la-reine-du-matin, huppe, masonry-dissected, sept
 
 @ labyrinthe
 cat: symboles
@@ -160,7 +162,7 @@ nom: Arbre cosmique
 alias: axe du monde, axis mundi, arbre du monde, Yggdrasil, arbre de vie
 def: Arbre immense qui, dans de nombreuses mythologies, relie le ciel, la terre et le monde souterrain, et forme l'axe autour duquel s'organise l'univers.
 texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
-texte: L'historien des religions Mircea Eliade a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
+texte: L'historien des religions [[mircea-eliade|Mircea Eliade]] a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
 voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin
 
 @ etoile-flamboyante
@@ -169,8 +171,10 @@ nom: Étoile flamboyante
 alias: étoile flamboyante, étoile maçonnique, lettre G
 def: Étoile à cinq branches entourée de rayons, souvent marquée en son centre de la lettre G, symbole du grade de compagnon dans la franc-maçonnerie.
 texte: Présentée au compagnon après son [[initiation]], l'étoile flamboyante figure l'homme régénéré, éclairé par la connaissance, à l'image du [[pentagramme]] de la tradition hermétique. La lettre G a reçu de nombreuses interprétations : Géométrie, Gnose, Génération, Gravitation, ou Dieu (*God*).
+texte: La *[[masonry-dissected|Masonry Dissected]]* de Samuel Prichard (1730) range déjà la *Blazing Star* parmi le mobilier de la loge : le [[pave-mosaique|pavé mosaïque]] en est le sol, l'étoile flamboyante le centre, et la houppe dentelée la bordure (voir [[chaine-d-union|chaîne d'union]]). Le compagnon y est reçu « pour l'amour de la lettre G », qui signifie la Géométrie, « la cinquième science ».
 texte: Elle brille à l'orient du temple, au-dessus ou à côté du vénérable, et rappelle l'étoile qui guida les Mages.
-voir: compagnon, grades-maconniques, pentagramme, compas-et-equerre, cinq
+texte: Un ouvrage célèbre, attribué au baron Théodore-Henri de Tschoudy, porte son nom : *L'Étoile flamboyante, ou la Société des francs-maçons considérée sous tous les aspects* (1766). Dans les loges d'aujourd'hui, elle reste l'emblème du compagnon, dont l'âge symbolique est de « cinq ans », comme les cinq branches de l'étoile (voir [[cinq]]).
+voir: compagnon, grades-maconniques, pentagramme, compas-et-equerre, cinq, masonry-dissected, pave-mosaique
 
 @ colonnes-jakin-et-boaz
 cat: symboles
@@ -244,7 +248,7 @@ cat: symboles
 nom: Graal
 alias: Saint-Graal, saint Graal, Perceval, Parzival, Parsifal, quête du Graal
 def: Objet mystérieux des romans arthuriens, d'abord un plat, puis la coupe de la Cène ou une pierre tombée du ciel, devenu le symbole d'une quête spirituelle et d'un secret caché.
-texte: Dans le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]], vers 1180, le jeune [[perceval|Perceval]] voit passer au château du [[roi-pecheur|Roi Pêcheur]] un « graal », un plat d'or, sans oser demander à qui il sert. Robert de Boron en fait la coupe où [[joseph-d-arimathie|Joseph d'Arimathie]] recueillit le sang du Christ ; [[wolfram-von-eschenbach|Wolfram von Eschenbach]], dans son *[[parzival|Parzival]]*, une pierre tombée du ciel. Wagner en tire *Parsifal* (1882).
+texte: Dans le *[[conte-du-graal|Conte du Graal]]* de [[chretien-de-troyes|Chrétien de Troyes]], vers 1180, le jeune [[perceval|Perceval]] voit passer au château du [[roi-pecheur|Roi Pêcheur]] un « graal », un plat d'or, sans oser demander à qui il sert. [[robert-de-boron|Robert de Boron]] en fait la coupe où [[joseph-d-arimathie|Joseph d'Arimathie]] recueillit le sang du Christ ; [[wolfram-von-eschenbach|Wolfram von Eschenbach]], dans son *[[parzival|Parzival]]*, une pierre tombée du ciel. Wagner en tire *Parsifal* (1882).
 texte: L'ésotérisme moderne s'en est emparé : [[josephin-peladan]] place sa Rose-Croix sous le signe du Graal, [[rene-guenon]] y voit un symbole du centre spirituel, [[julius-evola]] lui consacre un livre, et [[otto-rahn|Otto Rahn]] le cherche chez les [[catharisme|cathares]] de [[montsegur|Montségur]]. Les récits contemporains d'une descendance secrète du Christ n'ont aucune base historique.
 extrait: Le Cycle étant breton, peut-on voir dans la conception de cette Massénie un avatar de l’esprit druidique ? ¶ L’idée initiatique du Saint-Graal a-t-elle été rapportée de Palestine par des croisés ? ¶ (…) N’était-ce pas là un refuge offert aux Albigeois, aux Cathares, aux Parfaits, à tous ces mystiques dissidents qui s’étaient séparés de l’Église pour chercher l’Évangile.
 source: Joséphin Péladan, *Le Secret des troubadours. De Parsifal à Don Quichotte*, 1906, chap. II | gallica bd6t53938446f | ws Le Secret des troubadours (Péladan)/3

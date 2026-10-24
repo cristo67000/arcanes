@@ -12,6 +12,8 @@ texte: Les devins de Mésopotamie observent les cieux comme un livre de présage
 texte: Distinguée de l'astronomie au XVIIe siècle, l'astrologie perd sa place dans le savoir officiel quand la cosmologie de Copernic et de Newton ruine l'idée de sphères célestes agissant sur la Terre. Elle renaît à la fin du XIXe siècle grâce à la [[theosophie]], puis sous une forme psychologique au XXe, et se répand dans la presse avec l'[[horoscope]] des signes solaires.
 texte: Les tests scientifiques menés depuis le XXe siècle — comme l'expérience en double aveugle publiée dans la revue *Nature* en 1985 — n'ont pas montré que des astrologues puissent associer un thème astral à une personnalité mieux que le hasard ; l'« effet Mars » que le statisticien [[michel-gauquelin|Michel Gauquelin]] croyait avoir découvert chez les champions sportifs n'a pas résisté aux vérifications. Aucun mécanisme physique connu ne pourrait expliquer de telles influences. L'astrologie reste un fait culturel et historique majeur, au cœur de l'ésotérisme.
 schema: zodiaque
+extrait: L’Astrologie judiciaire à laquelle on donne proprement le nom d’Astrologie, est l’art prétendu d’annoncer les évenemens moraux avant qu’ils arrivent. J’entends par évenemens moraux, ceux qui dépendent de la volonté & des actions libres de l’homme ; comme si les astres avoient quelque autorité sur lui, & qu’il en fût dirigé. (…) ¶ Ceux qui professent cet Art prétendent que « le ciel est un grand livre où Dieu a écrit de sa main l’histoire du monde, & où tout homme peut lire sa destinée. Notre Art, disent-ils, a eu le même berceau que l’Astronomie. Les anciens Assyriens qui joüissoient d’un ciel dont la beauté & la sérénité favorisoient les observations astronomiques, s’occuperent des mouvemens & des révolutions périodiques des corps célestes : ils remarquerent une analogie constante entre ces corps & les corps terrestres ; & ils en conclurrent que les astres étoient réellement ces parques & ce destin dont il étoit tant parlé, qu’ils présidoient à notre naissance, & qu’ils disposoient de notre état futur ».
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Astrologie », par l’abbé Edme Mallet et d’Alembert, tome I, 1751 (orthographe d’origine) | ws L’Encyclopédie/1re édition/ASTROLOGIE
 voir: zodiaque, planetes, theme-astral, maisons, aspects, tetrabiblos, claude-ptolemee
 
 @ zodiaque
@@ -22,6 +24,8 @@ def: Bande du ciel que parcourent le Soleil, la Lune et les planètes, divisée 
 texte: Vu de la Terre, le Soleil semble faire en un an le tour du ciel le long d'un grand cercle, l'écliptique ; la Lune et les planètes restent près de lui. Les astronomes babyloniens, vers le Ve siècle avant notre ère, divisent cette bande en douze parts égales, nommées d'après des constellations : c'est le zodiaque, du grec *zôidion*, « petit animal ». Chaque signe est associé à un élément, à un mode et à une planète maîtresse, et se divise en trois [[decans|décans]] de dix degrés.
 texte: L'astrologie occidentale fait commencer le zodiaque au point où se trouve le Soleil à l'équinoxe de printemps, le début du [[belier|Bélier]] : c'est le zodiaque « tropical ». Or, du fait de la [[precession|précession des équinoxes]], ce point a glissé d'environ vingt-quatre degrés depuis l'Antiquité : les signes ne coïncident plus avec les constellations qui portent leur nom. L'[[astrologie-vedique|astrologie indienne]] utilise un zodiaque « sidéral », calé sur les étoiles.
 schema: zodiaque
+extrait: La liaison qu’on est si fort tenté de supposer entre les noms & les choses, dirigerent dans la dispensation des caracteres qu’on cherchoit à attacher aux êtres : la flaterie avoit donné à une planete le nom de Jupiter, de Mars, de Venus : la superstition rendit ces astres dispensateurs des dignités, de la force, de la beauté : les signes du Zodiaque dûrent leurs vertus aux animaux d’après lesquels ils avoient été formés. Mais toute qualité a ses analogues : l’analogie arrondit donc le cortége des bonnes ou mauvaises qualités qu’un corps céleste pouvoit darder sur un être à la naissance duquel il présidoit ; l’action des corps célestes se tempéra réciproquement. ¶ Ce système étoit exposé à beaucoup de difficultés : mais ou l’on ne daignoit pas s’y arrêter, ou l’on n’étoit guere embarrassé d’y trouver des réponses. Voilà donc le système d’Astrologie judiciaire élevé : on fait des prédictions ; on en fait une bonne sur neuf cents quatre-vingts-dix-neuf mauvaises ; mais la bonne est la seule dont on parle, & sur laquelle on juge de l’art.
+source: Denis Diderot, *L’Encyclopédie*, article « Divination », tome IV, 1754 (orthographe d’origine) | ws L’Encyclopédie/1re édition/DIVINATION
 voir: astrologie, triplicites, precession, belier, melothesie, dignites, dendera, ophiuchus, douze, cathedrale-de-chartres, travaux-d-hercule, mythologie-solaire
 
 @ belier
@@ -42,9 +46,11 @@ alias: taurus, signe du taureau
 glyphe: taureau
 def: Deuxième signe du zodiaque, signe de terre fixe gouverné par Vénus, que le Soleil traverse environ du 21 avril au 21 mai.
 texte: Le Taureau rappelle le dieu Zeus métamorphosé en taureau blanc pour enlever Europe. Signe de terre au cœur du printemps, il est associé à la stabilité, à la patience, à la sensualité et aux biens matériels. [[venus|Vénus]] y a son domicile, la [[lune|Lune]] son exaltation.
+texte: La constellation renferme deux amas célèbres, les [[pleiades|Pléiades]], sur l'épaule de l'animal, et les Hyades, qui dessinent sa tête autour d'Aldébaran, l'« œil du Taureau », l'une des quatre [[etoiles-royales|étoiles royales]]. Les listes babyloniennes d'étoiles la nomment déjà le « Taureau du ciel », comme le monstre qu'Ishtar obtient des dieux contre [[gilgamesh|Gilgamesh]] et que le héros tue avec Enkidou.
 texte: Il gouverne le cou et la gorge. Son symbole, un cercle surmonté de cornes, figure la tête de l'animal.
+texte: Il y a quatre à six mille ans, l'équinoxe de printemps tombait dans le Taureau ; certains auteurs y ont vu l'origine des cultes du taureau, d'Apis en Égypte au taureau de Mithra, une hypothèse discutée. Le Taureau est un signe fixe, comme le [[lion|Lion]], le [[scorpion|Scorpion]] et le [[verseau|Verseau]], dont les figures se retrouvent dans les quatre vivants du [[tetramorphe]].
 schema: zodiaque/taureau
-voir: zodiaque, venus, triplicites, scorpion, taureau-symbole
+voir: zodiaque, venus, triplicites, scorpion, taureau-symbole, pleiades, etoiles-royales, gilgamesh, tetramorphe
 
 @ gemeaux
 cat: astrologie
@@ -53,9 +59,11 @@ alias: gemini, signe des gémeaux, Castor et Pollux
 glyphe: gemeaux
 def: Troisième signe du zodiaque, signe d'air mutable gouverné par Mercure, que le Soleil traverse environ du 22 mai au 21 juin.
 texte: Les Gémeaux sont Castor et Pollux, les jumeaux divins, l'un mortel et l'autre immortel, qui partagèrent l'immortalité en vivant alternativement un jour sur deux. Signe d'air et de dualité, il est associé à la curiosité, à la communication, à la mobilité. [[mercure|Mercure]] y a son domicile.
+texte: Les deux étoiles les plus brillantes de la constellation portent les noms des jumeaux, Castor et Pollux, la seconde un peu plus éclatante. Hygin rapporte que d'autres y voyaient Apollon et Héraclès. Protecteurs des marins, les Dioscures passaient pour se montrer pendant les tempêtes dans les flammes qui s'allument au sommet des mâts, le futur feu de Saint-Elme.
 texte: Il gouverne les bras, les épaules et les poumons. Son symbole figure deux colonnes reliées.
+texte: Chaque année, vers le 13 ou le 14 décembre, une pluie d'étoiles filantes, les Géminides, semble jaillir de la constellation. Ptolémée range les Gémeaux parmi les signes « bicorps », avec la [[vierge|Vierge]], le [[sagittaire|Sagittaire]] et les [[poissons|Poissons]] : venus à la fin d'une saison, ils tiennent de deux natures. Mercure a son autre domicile dans la Vierge.
 schema: zodiaque/gemeaux
-voir: zodiaque, mercure, triplicites, sagittaire
+voir: zodiaque, mercure, triplicites, sagittaire, vierge, poissons
 
 @ cancer
 cat: astrologie
@@ -119,9 +127,11 @@ alias: sagittarius, signe du sagittaire, centaure
 glyphe: sagittaire
 def: Neuvième signe du zodiaque, signe de feu mutable gouverné par Jupiter, que le Soleil traverse environ du 23 novembre au 21 décembre.
 texte: Le Sagittaire est un centaure qui tend son arc, parfois identifié au sage Chiron, maître d'Achille et d'Asclépios. Signe de feu tourné vers le lointain, il est associé à l'idéal, aux voyages, à la philosophie, à la foi et à l'optimisme. [[jupiter|Jupiter]] y a son domicile.
+texte: Pour Ératosthène et Hygin, l'archer du ciel n'est pas un centaure, car les centaures ne tiraient pas à l'arc : c'est Crotos, fils de Pan et de la nourrice des Muses, inventeur du tir à l'arc, que les Muses firent placer parmi les étoiles. Chiron, lui, est la constellation du [[centaure|Centaure]].
 texte: Il gouverne les cuisses et les hanches. Son symbole est une flèche.
+texte: La constellation du Sagittaire contient le centre de la [[voie-lactee|Voie lactée]], là où la bande lumineuse est la plus dense. Par l'effet de la [[precession|précession des équinoxes]], le Soleil la traverse aujourd'hui du 18 décembre au 20 janvier environ, près d'un mois après le signe qui porte son nom. Ptolémée le range parmi les signes « bicorps », avec les [[gemeaux|Gémeaux]], la [[vierge|Vierge]] et les [[poissons|Poissons]].
 schema: zodiaque/sagittaire
-voir: zodiaque, jupiter, triplicites, gemeaux, centaure
+voir: zodiaque, jupiter, triplicites, gemeaux, centaure, voie-lactee, precession
 
 @ capricorne
 cat: astrologie
@@ -260,8 +270,10 @@ alias: planète Neptune, Le Verrier
 glyphe: neptune
 def: Planète découverte en 1846, que l'astrologie moderne associe aux rêves, à la dissolution des limites, à la mystique et à l'illusion, et au signe des Poissons.
 texte: Neptune est découverte en 1846 grâce aux calculs du Français Urbain Le Verrier, qui en avait déduit la position à partir des perturbations du mouvement d'Uranus. L'astrologie lui associe l'océan, l'inspiration, la compassion, mais aussi la confusion et les drogues.
+texte: La planète est observée comme telle le 23 septembre 1846 à l'observatoire de Berlin par Johann Gottfried Galle, à environ un degré de la position calculée par Le Verrier. En Angleterre, John Couch Adams avait fait des calculs semblables, d'où une longue querelle de priorité. Galilée l'avait vue dès 1612 et 1613, mais l'avait prise pour une étoile fixe.
 texte: Elle a été donnée pour maîtresse aux [[poissons|Poissons]]. Son symbole est le trident du dieu des mers.
-voir: planetes, poissons, uranus, pluton
+texte: Neptune met près de 165 ans à faire le tour du zodiaque et reste environ quatorze ans dans chaque signe. Avant sa découverte, la tradition donnait les Poissons à [[jupiter|Jupiter]], qui en garde la co-maîtrise chez beaucoup d'astrologues. Ceux-ci aiment rappeler qu'elle fut trouvée deux ans avant les coups frappés chez les [[soeurs-fox|sœurs Fox]], d'où l'on date le [[spiritisme]] moderne.
+voir: planetes, poissons, uranus, pluton, soeurs-fox, jupiter
 
 @ pluton
 cat: astrologie
@@ -270,8 +282,10 @@ alias: planète Pluton, planète naine
 glyphe: pluton
 def: Astre découvert en 1930, reclassé en 2006 parmi les planètes naines, que l'astrologie moderne associe à la mort, à la transformation et aux forces cachées.
 texte: Clyde Tombaugh découvre Pluton en 1930 à l'observatoire Lowell, en Arizona. Les astrologues lui confient les profondeurs, la puissance, la crise et la régénération, et lui donnent la maîtrise du [[scorpion|Scorpion]].
+texte: La recherche partait des calculs de Percival Lowell, fondateur de l'observatoire, qui croyait qu'une « planète X » troublait le mouvement d'[[uranus|Uranus]]. Tombaugh trouve l'astre en comparant des plaques photographiques prises à quelques jours d'intervalle. On sait aujourd'hui que Pluton est bien trop petite pour troubler Uranus : sa découverte près de la position prévue fut une coïncidence. Le nom, proposé par une écolière anglaise de onze ans, Venetia Burney, est celui du dieu des Enfers, époux de [[persephone|Perséphone]] ; ses deux premières lettres sont les initiales de Lowell, d'où le symbole astronomique ♇, monogramme de P et L.
 texte: En 2006, l'Union astronomique internationale cesse de compter Pluton parmi les planètes ; la plupart des astrologues continuent de l'utiliser.
-voir: planetes, scorpion, neptune, uranus
+texte: Son orbite très allongée, parcourue en 248 ans, la fait rester de douze à plus de trente ans dans un même signe : les astrologues lui prêtent surtout un sens collectif, celui d'une génération. Le plutonium, isolé en 1940-1941, a reçu son nom, comme le neptunium celui de [[neptune|Neptune]] et l'uranium celui d'Uranus.
+voir: planetes, scorpion, neptune, uranus, persephone
 
 @ theme-astral
 cat: astrologie
@@ -349,6 +363,8 @@ alias: horoscopes, horoscope du jour, astrologie des signes solaires
 def: À l'origine, l'ascendant d'un thème, puis le thème astral entier ; aujourd'hui, surtout les prévisions publiées dans la presse pour chacun des douze signes solaires.
 texte: Le mot grec *hôroskopos* désignait le degré du zodiaque qui se lève à l'heure de la naissance. Il a ensuite nommé le [[theme-astral|thème astral]] lui-même, puis toute prédiction astrologique.
 texte: L'horoscope des journaux, classé par signe solaire, naît en 1930 : un quotidien britannique demande à l'astrologue R. H. Naylor le thème de la princesse Margaret, qui vient de naître, et le succès est tel qu'il devient une rubrique. Dès la fin du XIXe siècle, l'astrologue théosophe [[alan-leo|Alan Leo]] avait vendu par correspondance des horoscopes assemblés à partir de paragraphes types. Les astrologues eux-mêmes jugent ces prévisions, valables pour un douzième de l'humanité, très éloignées de leur pratique.
+extrait: Un astrologue un jour se laissa choir // Au fond d’un puits. On lui dit : Pauvre bête, // Tandis qu’à peine à tes pieds tu peux voir, // Penses-tu lire au-dessus de ta tête ? ¶ (…) Charlatans, faiseurs d’horoscope, // Quittez les cours des princes de l’Europe : // Emmenez avec vous les souffleurs tout d’un temps ; // Vous ne méritez pas plus de foi que ces gens.
+source: Jean de La Fontaine, *Fables*, livre II, fable XIII, « L’Astrologue qui se laisse tomber dans un puits », 1668 | ws Fables de La Fontaine (éd. 1874)/L’Astrologue qui se laisse tomber dans un puits
 voir: theme-astral, ascendant, astrologie, zodiaque
 
 @ astrologie-mondiale

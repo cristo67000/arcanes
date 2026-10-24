@@ -57,6 +57,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
+import { ecrirePages } from './pages.mjs';
 
 const ICI = path.dirname(fileURLToPath(import.meta.url));
 const RACINE = path.dirname(ICI);
@@ -807,6 +808,8 @@ function main() {
     sons: sons.nombre, octetsSons: sons.octets, animations: animations.size,
   };
   fs.writeFileSync(path.join(RACINE, 'data', 'manifeste.json'), JSON.stringify(manifeste) + '\n', 'utf-8');
+  // une page web par article, et le plan du site (build/pages.mjs)
+  const pages = ecrirePages(RACINE, sortie);
 
   // Rapport
   const parCat = {};
@@ -828,7 +831,7 @@ function main() {
     parcours.length + ' parcours (' + parcours.reduce((n, p) => n + p.e.length, 0) + ' étapes)',
     sons.nombre + ' sons (' + Math.round(sons.octets / 1024) + ' Ko) dans ' + sons.parArticle.size + ' articles, '
       + animations.size + ' images animées',
-    Buffer.byteLength(json) + ' octets de JSON',
+    Buffer.byteLength(json) + ' octets de JSON, ' + pages + ' pages dans a/',
     '',
     ...CATEGORIES.map((c) => '  ' + c.id.padEnd(11) + String(parCat[c.id] || 0).padStart(4)),
     '',

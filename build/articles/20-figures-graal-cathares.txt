@@ -213,7 +213,7 @@ dates: vers 1135 – vers 1185
 an: 1135
 def: Poète champenois, le premier grand romancier de la littérature française, dont le Conte du Graal, inachevé, a fait entrer le Graal dans la littérature européenne.
 texte: On sait peu de chose de sa vie : il écrit pour Marie de Champagne, puis pour Philippe d'Alsace, comte de Flandre. Ses romans en vers, *Érec et Énide*, *Cligès*, *Lancelot ou le Chevalier de la charrette*, *Yvain ou le Chevalier au lion*, créent le roman de chevalerie arthurien et la figure du chevalier en quête.
-texte: Son dernier roman, *[[conte-du-graal|Perceval ou le Conte du Graal]]*, vers 1180, reste inachevé. Le jeune Perceval y voit passer au château du Roi Pêcheur une lance qui saigne et un « graal », un plat précieux, sans oser demander à qui l'on en sert. Ce silence et cette énigme ont suscité les continuations, les réécritures de Robert de Boron et de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], puis un millénaire de spéculations sur la nature du [[graal|Graal]].
+texte: Son dernier roman, *[[conte-du-graal|Perceval ou le Conte du Graal]]*, vers 1180, reste inachevé. Le jeune Perceval y voit passer au château du Roi Pêcheur une lance qui saigne et un « graal », un plat précieux, sans oser demander à qui l'on en sert. Ce silence et cette énigme ont suscité les continuations, les réécritures de [[robert-de-boron|Robert de Boron]] et de [[wolfram-von-eschenbach|Wolfram von Eschenbach]], puis un millénaire de spéculations sur la nature du [[graal|Graal]].
 repere: vers 1170 — *Érec et Énide*.
 repere: vers 1180 — *Perceval ou le Conte du Graal*, resté inachevé.
 oeuvres: Érec et Énide ; Lancelot ou le Chevalier de la charrette ; Yvain ou le Chevalier au lion ; Perceval ou le Conte du Graal

@@ -2565,7 +2565,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Michelangelo_-_Delphic_Sibyl.jpg",
    "pour": [
-    "sibylles"
+    "sibylles",
+    "michel-ange"
    ],
    "sig": "Michelangelo - Delphic Sibyl.jpg||440|74"
   },
@@ -10057,6 +10058,7 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Clement_alexandrin.jpg",
    "pour": [
+    "clement-d-alexandrie",
     "gnose"
    ],
    "sig": "Clement alexandrin.jpg||400|74"
@@ -10142,7 +10144,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Creation_of_Light.png",
    "pour": [
-    "illuminisme"
+    "illuminisme",
+    "gustave-dore"
    ],
    "sig": "Creation of Light.png||400|74"
   },
@@ -11639,7 +11642,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Construction_du_Temple_de_J%C3%A9rusalem.jpg",
    "pour": [
-    "construction-du-temple"
+    "construction-du-temple",
+    "flavius-josephe"
    ],
    "sig": "Construction du Temple de Jérusalem.jpg||400|74"
   },
@@ -12871,6 +12875,343 @@
     "hermes-trismegiste"
    ],
    "sig": "Pavimento di siena, ermete trismegisto (giovanni di stefano) 01.jpg||400|74"
+  },
+  "portrait-david-neel": {
+   "f": "img/portrait-david-neel.webp",
+   "v": "83479c1262",
+   "w": 520,
+   "h": 343,
+   "l": "Alexandra David-Néel, avec son fils adoptif Aphur Yongden et un enfant tibétain, devant le Potala de Lhassa",
+   "cr": "photographie, février-avril 1924 — Maison Alexandra David-Néel, Digne-les-Bains",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alexandra_David-Neel_in_Lhassa_1924.jpg",
+   "pour": [
+    "alexandra-david-neel"
+   ],
+   "sig": "Alexandra David-Neel in Lhassa 1924.jpg||520|74"
+  },
+  "portrait-alice-bailey": {
+   "f": "img/portrait-alice-bailey.webp",
+   "v": "17692f95a8",
+   "w": 332,
+   "h": 410,
+   "l": "Alice Bailey",
+   "cr": "photographie de Clara E. Sipprell, années 1940 — Amon Carter Museum of American Art",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alice_Bailey_in_1940s.jpg",
+   "pour": [
+    "alice-bailey"
+   ],
+   "sig": "Alice Bailey in 1940s.jpg||400|74"
+  },
+  "portrait-leadbeater": {
+   "f": "img/portrait-leadbeater.webp",
+   "v": "1ca302f7c0",
+   "w": 400,
+   "h": 663,
+   "l": "Charles Webster Leadbeater en décors maçonniques du 33e degré, « The V. Ill. Bro. C. W. Leadbeater, 33° »",
+   "cr": "photographie, début du XXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Charles_Webster_Leadbeater.004.jpg",
+   "pour": [
+    "charles-webster-leadbeater"
+   ],
+   "sig": "Charles Webster Leadbeater.004.jpg||400|74"
+  },
+  "portrait-scholem": {
+   "f": "img/portrait-scholem.webp",
+   "v": "b7b4561459",
+   "w": 295,
+   "h": 364,
+   "l": "Gershom Scholem en 1935",
+   "cr": "photographie, 1935",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gershom_Scholem_1935_(cropped).jpg",
+   "pour": [
+    "gershom-scholem"
+   ],
+   "sig": "Gershom Scholem 1935 (cropped).jpg||400|74"
+  },
+  "portrait-spencer-lewis": {
+   "f": "img/portrait-spencer-lewis.webp",
+   "v": "738ceba602",
+   "w": 400,
+   "h": 529,
+   "l": "Harvey Spencer Lewis",
+   "cr": "photographie, vers 1930",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Photograph_of_Harvey_Spencer_Lewis.jpg",
+   "pour": [
+    "harvey-spencer-lewis"
+   ],
+   "sig": "Photograph of Harvey Spencer Lewis.jpg||400|74"
+  },
+  "portrait-wronski": {
+   "f": "img/portrait-wronski.webp",
+   "v": "b2b4ac3f37",
+   "w": 400,
+   "h": 468,
+   "l": "Hoëné-Wronski, par Félix Vallotton",
+   "cr": "gravure sur bois, 1897 — BnF",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:J%C3%B3zef_Hoene-Wro%C5%84ski_by_Vallotton.jpg",
+   "pour": [
+    "hoene-wronski"
+   ],
+   "sig": "Józef Hoene-Wroński by Vallotton.jpg||400|74"
+  },
+  "portrait-van-helmont": {
+   "f": "img/portrait-van-helmont.webp",
+   "v": "e1527fd92b",
+   "w": 400,
+   "h": 666,
+   "l": "Jean-Baptiste van Helmont",
+   "cr": "gravure sur acier de Robert Cooper, début du XIXe siècle — KU Leuven",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:John_Baptist_van_Helmont,_PA07845.jpg",
+   "pour": [
+    "jan-baptist-van-helmont"
+   ],
+   "sig": "John Baptist van Helmont, PA07845.jpg||400|74"
+  },
+  "bacon-maier": {
+   "f": "img/bacon-maier.webp",
+   "v": "35495ce1f6",
+   "w": 520,
+   "h": 506,
+   "l": "Roger Bacon pèse les éléments : *Elementorum fac aequationem, et habebis*, « fais l’égalité des éléments, et tu l’auras »",
+   "cr": "gravure des *Symbola aureae mensae* de Michael Maier, 1617 — Library of Congress",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Roger_bacon_conducting_an_experiment_LCCN2006681058.jpg",
+   "pour": [
+    "roger-bacon"
+   ],
+   "sig": "Roger bacon conducting an experiment LCCN2006681058.jpg|0.245 0.13 0.865 0.615|520|74"
+  },
+  "portrait-reuss": {
+   "f": "img/portrait-reuss.webp",
+   "v": "dcf1899a9b",
+   "w": 286,
+   "h": 392,
+   "l": "Theodor Reuss, en tablier maçonnique",
+   "cr": "photographie, début du XXe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Theodor_Reuss.png",
+   "pour": [
+    "theodor-reuss"
+   ],
+   "sig": "Theodor Reuss.png||400|74"
+  },
+  "portrait-guido-von-list": {
+   "f": "img/portrait-guido-von-list.webp",
+   "v": "a0d9bf4afc",
+   "w": 400,
+   "h": 695,
+   "l": "Guido von List",
+   "cr": "photographie de l’atelier Veritas, Munich, 1905",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Guido_von_List_-_Atelier_Veritas,_1905.jpg",
+   "pour": [
+    "guido-von-list"
+   ],
+   "sig": "Guido von List - Atelier Veritas, 1905.jpg||400|74"
+  },
+  "portrait-alan-leo": {
+   "f": "img/portrait-alan-leo.webp",
+   "v": "94b3da73f4",
+   "w": 400,
+   "h": 634,
+   "l": "Alan Leo",
+   "cr": "frontispice de Bessie Leo, *The Life and Work of Alan Leo*, 1919",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_life_and_work_of_Alan_Leo,_theosophist,_astrologer,_mason_(IA_lifeworkofalanle00leob).pdf",
+   "pour": [
+    "alan-leo"
+   ],
+   "sig": "The life and work of Alan Leo, theosophist, astrologer, mason (IA lifeworkofalanle00leob).pdf|0.05 0.07 0.95 0.95|400|74|p8"
+  },
+  "zosime-marcianus": {
+   "f": "img/zosime-marcianus.webp",
+   "v": "92e5fd6ac0",
+   "w": 400,
+   "h": 612,
+   "l": "Les signes des métaux et des matières dans le *Marcianus graecus 299*, le recueil des alchimistes grecs où sont copiés les écrits de Zosime",
+   "cr": "reproduction de Marcelin Berthelot et Charles-Émile Ruelle, *Collection des anciens alchimistes grecs*, 1888, d’après le manuscrit de Venise (Xe-XIe siècle)",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Marcianus_gr._299_fol_6.jpg",
+   "pour": [
+    "zosime-de-panopolis"
+   ],
+   "sig": "Marcianus gr. 299 fol 6.jpg||400|74"
+  },
+  "mani-naissance": {
+   "f": "img/mani-naissance.webp",
+   "v": "a443eb632d",
+   "w": 520,
+   "h": 324,
+   "l": "La naissance de Mani, peinture manichéenne de Chine du Sud",
+   "cr": "fragment de rouleau, or et couleurs sur soie, XIVe-XVe siècle — musée national de Kyūshū",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Painting_of_Mani%E2%80%99s_Birth.jpg",
+   "pour": [
+    "mani"
+   ],
+   "sig": "Painting of Mani’s Birth.jpg||520|74"
+  },
+  "dermott-dessin": {
+   "f": "img/dermott-dessin.webp",
+   "v": "cab655b83c",
+   "w": 400,
+   "h": 362,
+   "l": "Dessin de Laurence Dermott dans le premier registre de la Grande Loge des Anciens, signé « Lau Dermott »",
+   "cr": "manuscrit, vers 1752-1755, reproduit par W. M. Bywater, *Notes on Laurence Dermott*, 1884",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Page_from_Ancient_Grand_lodge_transactions_vol_1.jpg",
+   "pour": [
+    "laurence-dermott"
+   ],
+   "sig": "Page from Ancient Grand lodge transactions vol 1.jpg||400|74"
+  },
+  "portrait-thomas-d-aquin": {
+   "f": "img/portrait-thomas-d-aquin.webp",
+   "v": "6754c090e8",
+   "w": 400,
+   "h": 599,
+   "l": "Saint Thomas d’Aquin, le soleil sur la poitrine, un livre et une église à la main",
+   "cr": "Carlo Crivelli, polyptyque d’Ascoli, 1476 — National Gallery, Londres",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg",
+   "pour": [
+    "thomas-d-aquin"
+   ],
+   "sig": "St-thomas-aquinasFXD.jpg||400|74"
+  },
+  "portrait-cosme-de-medicis": {
+   "f": "img/portrait-cosme-de-medicis.webp",
+   "v": "86517fae3c",
+   "w": 400,
+   "h": 538,
+   "l": "Cosme l’Ancien, par Pontormo",
+   "cr": "Jacopo Pontormo, vers 1519-1520, portrait posthume — galerie des Offices, Florence",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_055.jpg",
+   "pour": [
+    "cosme-de-medicis"
+   ],
+   "sig": "Jacopo Pontormo 055.jpg||400|74"
+  },
+  "portrait-michel-ange": {
+   "f": "img/portrait-michel-ange.webp",
+   "v": "1e561f63c9",
+   "w": 400,
+   "h": 463,
+   "l": "Michel-Ange",
+   "cr": "attribué à Daniele da Volterra, vers 1545 — Metropolitan Museum of Art, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_(dettaglio).jpg",
+   "pour": [
+    "michel-ange"
+   ],
+   "sig": "Michelangelo Daniele da Volterra (dettaglio).jpg||400|74"
+  },
+  "portrait-gustave-dore": {
+   "f": "img/portrait-gustave-dore.webp",
+   "v": "a96c6b5a98",
+   "w": 400,
+   "h": 503,
+   "l": "Gustave Doré, par Nadar",
+   "cr": "photographie de Nadar, entre 1856 et 1858",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gustave_Dor%C3%A9_by_Nadar,_between_1856_and_1858.jpg",
+   "pour": [
+    "gustave-dore"
+   ],
+   "sig": "Photograph of Gustave Doré by Nadar, between 1856 and 1858.jpg||400|74"
+  },
+  "portrait-frazer": {
+   "f": "img/portrait-frazer.webp",
+   "v": "0c5571ce54",
+   "w": 400,
+   "h": 600,
+   "l": "Sir James George Frazer, buste par Antoine Bourdelle",
+   "cr": "bronze d’Antoine Bourdelle — musée Ingres-Bourdelle, Montauban",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Ingres-Bourdelle_-_SIR_JAMES_GEORGE_FRAZER_(1854-1941)_-_Bronze_-_Antoine_Bourdelle_-_Joconde000SC013124.jpg",
+   "pour": [
+    "james-frazer"
+   ],
+   "sig": "Musée Ingres-Bourdelle - SIR JAMES GEORGE FRAZER (1854-1941) - Bronze - Antoine Bourdelle - Joconde000SC013124.jpg||400|74"
+  },
+  "portrait-bergson": {
+   "f": "img/portrait-bergson.webp",
+   "v": "1d385744f3",
+   "w": 280,
+   "h": 396,
+   "l": "Henri Bergson en 1927, l’année de son prix Nobel",
+   "cr": "photographie, 1927",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Henri_Bergson_(Nobel).jpg",
+   "pour": [
+    "henri-bergson"
+   ],
+   "sig": "Henri Bergson (Nobel).jpg||400|74"
+  },
+  "portrait-hesse": {
+   "f": "img/portrait-hesse.webp",
+   "v": "8dcc5504b9",
+   "w": 360,
+   "h": 492,
+   "l": "Hermann Hesse",
+   "cr": "photographie de Gret Widmann, vers 1927",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hermann_Hesse_1927_Photo_Gret_Widmann.jpg",
+   "pour": [
+    "hermann-hesse"
+   ],
+   "sig": "Hermann Hesse 1927 Photo Gret Widmann.jpg||400|74"
+  },
+  "morse-brady": {
+   "f": "img/morse-brady.webp",
+   "v": "8e834d21de",
+   "w": 400,
+   "h": 466,
+   "l": "Samuel Morse à côté de son récepteur télégraphique",
+   "cr": "photographie de Mathew Brady, 1857",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Samuel_Morse_with_his_Recorder_by_Brady,_1857.png",
+   "pour": [
+    "code-morse"
+   ],
+   "sig": "Samuel Morse with his Recorder by Brady, 1857.png||400|74"
+  },
+  "merlin-blaise": {
+   "f": "img/merlin-blaise.webp",
+   "v": "bb0b6499a9",
+   "w": 400,
+   "h": 436,
+   "l": "Merlin dicte ses prophéties à son scribe Blaise, dans le *Merlin* en prose tiré de Robert de Boron",
+   "cr": "miniature d’un manuscrit français, vers 1300",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Merlin_(illustration_from_middle_ages).jpg",
+   "pour": [
+    "robert-de-boron",
+    "merlin"
+   ],
+   "sig": "Merlin (illustration from middle ages).jpg||400|74"
+  },
+  "strasbourg-cathedrale": {
+   "f": "img/strasbourg-cathedrale.webp",
+   "v": "96bba474eb",
+   "w": 400,
+   "h": 534,
+   "l": "La cathédrale de Strasbourg et sa flèche unique, vers 1900",
+   "cr": "photochrome, entre 1890 et 1905",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Strassburg_um_1900_(cropped).jpg",
+   "pour": [
+    "cathedrale-de-strasbourg"
+   ],
+   "sig": "Strassburg um 1900 (cropped).jpg||400|74"
   },
   "lutin-altina": {
    "f": "img/lutin-altina.webp",

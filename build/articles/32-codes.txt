@@ -29,7 +29,7 @@ def: Bâton de Sparte autour duquel on enroulait une bande de parchemin pour y �
 texte: [[plutarque|Plutarque]], dans sa *Vie de Lysandre*, décrit le procédé : les éphores gardent un bâton et en donnent un identique au général qui part ; ils enroulent une bande de cuir ou de parchemin, écrivent dans la longueur, puis envoient la bande seule, où les lettres paraissent en désordre. C'est le premier exemple connu de chiffre par transposition : les lettres restent les mêmes, seul leur ordre change. Les historiens se demandent si les Spartiates s'en servaient vraiment pour chiffrer, ou plutôt pour authentifier leurs messages officiels, que l'on appelait aussi « scytales ».
 extrait: Voici, du reste, ce que c’est que la scytale. Quand un général part pour une expédition de terre ou de mer les éphores prennent deux bâtons ronds, parfaitement égaux en longueur et en épaisseur, de façon à se correspondre exactement l’un à l’autre, dans toutes les dimensions. Ils gardent l’un de ces bâtons et donnent l’autre au général : ils appellent ces bâtons scytales. Lorsqu’ils veulent mander au général quelque secret d’importance, ils taillent une bande de parchemin, longue et étroite comme une courroie, la roulent autour de la scytale qu’ils ont gardée, sans laisser le moindre intervalle entre les bords de la bande, de telle sorte, que le parchemin couvre entièrement la surface du bâton. Sur ce parchemin ainsi roulé autour de la scytale, ils écrivent ce qu’ils veulent ; et, quand ils ont écrit, ils enlèvent la bande, et l’envoient au général sans le bâton. Le général qui l’a reçue n’y saurait rien lire d’ailleurs, parce que les mots, tout dérangés et épars, ne forment aucune suite ; mais il prend la scytale qu’il a emportée, et roule autour la bande de parchemin, dont les différents tours, se trouvant alors réunis, remettent les mots dans l’ordre où ils ont été écrits, et présentent toute la suite de la lettre. On appelle cette lettre scytale, du nom même du bâton, comme ce qui est mesuré prend le nom de ce qui lui sert de mesure.
 source: Plutarque, *Vies des hommes illustres*, « Lysandre », chap. XIX, trad. Alexis Pierron, Charpentier, 1853 | ws Vies des hommes illustres/Lysandre
-voir: cryptographie, plutarque, chiffre-de-cesar, steganographie
+voir: cryptographie, plutarque, chiffre-de-cesar, steganographie, chiffre-adfgvx
 
 @ carre-de-polybe
 cat: codes
@@ -78,7 +78,7 @@ alias: carré de Vigenère, chiffre indéchiffrable, tabula recta, Bellaso, Kasi
 def: Chiffre à plusieurs alphabets où un mot-clé, répété le long du message, indique pour chaque lettre le décalage à appliquer ; on le crut « indéchiffrable » jusqu'au XIXe siècle.
 texte: [[jean-tritheme|Trithème]] avait publié en 1518, dans sa *Polygraphie*, le tableau de tous les alphabets décalés, la *tabula recta*. L'Italien Giovan Battista Bellaso eut en 1553 l'idée d'y choisir les lignes au moyen d'un mot-clé ; [[blaise-de-vigenere|Blaise de Vigenère]], dans son *Traicté des chiffres* (1586), décrivit une variante plus solide, où le message lui-même sert de clé. Le nom de Vigenère est resté, à tort, à la méthode de Bellaso.
 texte: Le chiffre gagna sa réputation d'inviolabilité. Le mathématicien Charles Babbage le perça vers 1854 sans publier sa méthode ; l'officier prussien Friedrich Kasiski la publia en 1863 : en repérant les séquences répétées, on devine la longueur de la clé, puis on attaque chaque alphabet par l'[[analyse-des-frequences|analyse des fréquences]].
-voir: blaise-de-vigenere, jean-tritheme, disque-d-alberti, analyse-des-frequences, chiffre-de-cesar
+voir: blaise-de-vigenere, jean-tritheme, disque-d-alberti, analyse-des-frequences, chiffre-de-cesar, chiffre-adfgvx, chiffre-de-marie-stuart
 
 @ steganographie
 cat: codes
@@ -89,7 +89,7 @@ texte: Hérodote raconte qu'Histiée, retenu à la cour de Perse, fit raser la t
 texte: Le mot vient de la *[[steganographia|Steganographia]]* de [[jean-tritheme|Trithème]], écrite vers 1499 et publiée en 1606, où des procédés de chiffrement se cachent derrière de prétendues invocations d'esprits. L'[[acrostiche]] et le [[chiffre-de-bacon|chiffre bilitère de Bacon]], qui loge un message dans le choix de deux caractères d'imprimerie, sont des formes de stéganographie ; le XXe siècle y a ajouté les micropoints photographiques, et le numérique les images qui cachent des données.
 extrait: Sur ces entrefaites, il arriva de Suses un courrier qui lui enjoignait de prendre les armes. Cet ordre était empreint sur la tête du courrier. Histiée, voulant mander à Aristagoras de se soulever, ne trouva pas d’autre moyen pour le faire avec sûreté, parce que les chemins étaient soigneusement gardés. Il fit raser la tête au plus fidèle de ses esclaves, y imprima des caractères, et attendit que ses cheveux fussent revenus. Lorsqu’ils le furent, il l’envoya aussitôt à Milet, avec ordre seulement de dire, à son arrivée, à Aristagoras de lui raser la tête, et de l’examiner ensuite. Ces caractères, comme je viens de le dire, lui ordonnaient de se révolter. Histiée prit cette résolution, parce qu’il se trouvait très-malheureux d’être retenu à Suses, et qu’il avait de grandes espérances que, si Milet se soulevait, Darius l’enverrait vers la mer pour lui amener Aristagoras. Il sentait, en effet, que, s’il ne suscitait point de troubles en cette ville, il n’y retournerait jamais.
 source: Hérodote, *Histoire*, livre V, chap. XXXV, trad. Pierre-Henri Larcher, Charpentier, 1850 | ws Histoire (Hérodote)/Trad. Larcher, 1850/Livre V
-voir: steganographia, jean-tritheme, giambattista-della-porta, chiffre-de-bacon, acrostiche, cryptographie
+voir: steganographia, jean-tritheme, giambattista-della-porta, chiffre-de-bacon, acrostiche, cryptographie, chiffre-de-marie-stuart
 
 @ grille-de-cardan
 cat: codes
@@ -127,7 +127,8 @@ alias: complot de Babington, Walsingham, Thomas Phelippes, lettres de Marie Stua
 def: Code de signes dont se servait la reine d'Écosse captive pour sa correspondance secrète ; son déchiffrement par les agents d'Élisabeth Ire, lors du complot de Babington, la conduisit à l'échafaud en 1587.
 texte: Prisonnière en Angleterre depuis 1568, Marie Stuart correspondait avec ses partisans par des lettres cachées dans des tonneaux de bière. En 1586, Anthony Babington lui expose dans une lettre chiffrée un plan pour assassiner Élisabeth et la délivrer ; elle l'approuve. Mais le porteur, Gilbert Gifford, était un agent double, et le secrétaire de Walsingham, Thomas Phelippes, lisait tout : il ajouta même à une lettre de la reine un post-scriptum, dans le même chiffre, demandant les noms des conjurés. Marie fut condamnée et décapitée à Fotheringhay le 8 février 1587.
 texte: Son chiffre, une nomenclature d'une vingtaine de signes pour les lettres et de symboles pour des mots, n'était qu'une substitution améliorée. En 2023, trois cryptologues, George Lasry, Norbert Biermann et Satoshi Tomokiyo, ont déchiffré cinquante-sept lettres de Marie Stuart, conservées sans titre à la Bibliothèque nationale de France et adressées à l'ambassadeur de France.
-voir: cryptographie, grand-chiffre, analyse-des-frequences
+texte: Cacher les lettres dans les tonneaux relevait de la [[steganographie|stéganographie]], l'art de dissimuler le message plutôt que de le rendre illisible. La même année 1586, Blaise de Vigenère publie à Paris son *Traicté des chiffres*, où il expose un chiffre à plusieurs alphabets bien plus sûr que la nomenclature de la reine (voir [[chiffre-de-vigenere|chiffre de Vigenère]]).
+voir: cryptographie, grand-chiffre, analyse-des-frequences, steganographie, chiffre-de-vigenere
 
 @ alphabet-maconnique
 cat: codes
@@ -179,9 +180,10 @@ cat: codes
 nom: Chiffre ADFGVX
 alias: ADFGVX, ADFGX, Painvin, radiogramme de la victoire
 def: Chiffre de campagne de l'armée allemande en 1918, qui combinait un carré de six lettres et une transposition ; le lieutenant français Georges Painvin le perça en juin 1918, à la veille d'une offensive.
-texte: Inventé par Fritz Nebel, le chiffre n'emploie que les lettres A, D, F, G, V et X, choisies parce qu'elles ne se confondent pas en morse : chaque lettre du message est remplacée par ses coordonnées dans un [[carre-de-polybe|carré de Polybe]] de six sur six, puis les paires sont mêlées par une transposition selon un mot-clé. Mis en service en mars 1918, il parut inviolable.
+texte: Inventé par Fritz Nebel, le chiffre n'emploie que les lettres A, D, F, G, V et X, choisies parce qu'elles ne se confondent pas en [[code-morse|morse]] : chaque lettre du message est remplacée par ses coordonnées dans un [[carre-de-polybe|carré de Polybe]] de six sur six, puis les paires sont mêlées par une transposition selon un mot-clé. Mis en service en mars 1918, il parut inviolable.
 texte: Le lieutenant Georges Painvin, du Bureau du chiffre, travailla nuit et jour et réussit, le 2 juin 1918, à lire un message pressant d'accélérer l'acheminement des munitions vers un secteur de l'Oise : ce « radiogramme de la victoire » permit de deviner le point de la prochaine attaque allemande, repoussée le 11 juin.
-voir: carre-de-polybe, enigma, cryptographie
+texte: Comme la [[scytale]] antique, sa seconde étape est une transposition : les signes ne changent pas, seul leur ordre est brouillé. Painvin ne put casser le système que parce que plusieurs messages du même jour, chiffrés avec la même clé, commençaient de la même manière : c'est la faiblesse de toute clé employée trop souvent, la même qui avait trahi le [[chiffre-de-vigenere|chiffre de Vigenère]] au XIXe siècle.
+voir: carre-de-polybe, enigma, cryptographie, code-morse, scytale, chiffre-de-vigenere
 
 @ cryptogrammes-de-beale
 cat: codes

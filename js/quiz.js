@@ -26,6 +26,15 @@
  *
  * Chaque réponse met à jour le suivi : une erreur range l'article dans « À
  * revoir » ; deux bonnes réponses de suite l'en sortent.
+ *
+ * Quatre autres sortes de questions : retrouver l'article d'une gravure, d'un
+ * son (on l'écoute avant de choisir) ou d'un extrait d'œuvre, et remettre
+ * quatre dates dans l'ordre, en touchant de la plus ancienne à la plus récente.
+ *
+ * La répétition espacée : une bonne réponse repousse la prochaine question
+ * sur l'article d'un jour, puis de trois, sept, quinze, trente, soixante ; une
+ * erreur la ramène aussitôt. L'accueil propose les articles dont le jour est
+ * venu.
  */
 (function (racine) {
 
@@ -40,12 +49,35 @@
   let zone = null;
   let tete = null;
 
-  const SENS = { mixte: 'Mélangé', 'def-nom': 'Définition → article', 'nom-def': 'Article → définition', chrono: 'Chronologie' };
+  const SENS = {
+    mixte: 'Mélangé', 'def-nom': 'Définition → article', 'nom-def': 'Article → définition', chrono: 'Le plus ancien',
+    image: 'Gravures', son: 'Sons', extrait: 'Extraits', ordre: 'Remettre en ordre',
+  };
   const CONSIGNES = {
     'def-nom': 'Quel article répond à cette définition ?',
     'nom-def': 'Quelle est la bonne définition ?',
     chrono: 'Lequel est le plus ancien ?',
+    image: 'Quel article montre cette image ?',
+    son: 'Écoutez : quel article fait entendre ce son ?',
+    extrait: 'De quel article vient cet extrait ?',
+    ordre: 'Touchez ces quatre articles du plus ancien au plus récent.',
   };
+  /* Le mélange : la part de chaque sorte de question. */
+  const MELANGE = [['def-nom', 0.3], ['nom-def', 0.26], ['chrono', 0.1], ['image', 0.12], ['extrait', 0.1], ['son', 0.06], ['ordre', 0.06]];
+  /* Les jours avant la prochaine question sur un article, selon la série de bonnes réponses. */
+  const INTERVALLES = [1, 3, 7, 15, 30, 60];
+  const JOUR = 86400000;
+
+  const avecImage = (a) => !!(a.im && a.im.length && !a.perso);
+  const avecSon = (a) => !!(a.so && a.so.length && !a.perso);
+  const avecExtrait = (a) => !!(a.ex && a.ex.length && !a.perso);
+  const QUALIFIE = { image: avecImage, son: avecSon, extrait: avecExtrait, chrono: (a) => typeof a.an === 'number', ordre: (a) => typeof a.an === 'number' };
+
+  function tirerSens() {
+    let r = Math.random();
+    for (const [s, part] of MELANGE) { r -= part; if (r < 0) return s; }
+    return 'def-nom';
+  }
 
   // ── Construction des questions ────────────────────────────────────────────
 
@@ -55,13 +87,54 @@
     return texte;
   }
 
+  /* Le jour est venu de revoir cet article : il a déjà été demandé, et sa
+   * prochaine échéance est passée. */
+  const echu = (s, maintenant) => typeof s.prochaine === 'number' && s.prochaine <= maintenant;
+
   async function articlesDeLaSource(source) {
     const tous = Dictionnaire.articles.filter((a) => a.defNue);
     if (source === 'tous') return tous;
     if (source.startsWith('cat:')) return tous.filter((x) => x.c === source.slice(4));
     const suivis = await Store.tousLesSuivis().catch(() => []);
-    const refs = new Set(suivis.filter((s) => (source === 'favoris' ? s.favori : s.aRevoir)).map((s) => s.ref));
+    const maintenant = Date.now();
+    const garder = (s) => (source === 'favoris' ? s.favori : source === 'echeance' ? echu(s, maintenant) : s.aRevoir);
+    const refs = new Set(suivis.filter(garder).map((s) => s.ref));
     return tous.filter((x) => refs.has(x.id));
+  }
+
+  /* Les articles qu'on ne peut pas proposer à côté de la cible : ses voisins,
+   * et ceux qui partagent la même image ou le même son. */
+  function exclus(cible, sens) {
+    const ids = voisinsDe(cible);
+    if (sens === 'image') {
+      const fichiers = new Set(cible.im.map((i) => i.f));
+      for (const x of Dictionnaire.livres) if ((x.im || []).some((i) => fichiers.has(i.f))) ids.add(x.id);
+    }
+    if (sens === 'son') {
+      const sons = new Set(cible.so.map((s) => s.id));
+      for (const x of Dictionnaire.livres) if ((x.so || []).some((s) => sons.has(s.id))) ids.add(x.id);
+    }
+    return ids;
+  }
+
+  /* Quatre articles datés, séparés d'au moins trente ans, à remettre en ordre. */
+  function questionOrdre(cible) {
+    if (typeof cible.an !== 'number') return null;
+    const pris = [cible];
+    for (const x of melanger(Dictionnaire.frise())) {
+      if (pris.length === 4) break;
+      if (pris.every((p) => Math.abs(p.an - x.an) >= 30)) pris.push(x);
+    }
+    if (pris.length < 4) return null;
+    const range = pris.slice().sort((x, y) => x.an - y.an);
+    return { type: 'ordre', sens: 'ordre', cible, items: melanger(pris), bonne: range.map((x) => x.id) };
+  }
+
+  /* Le premier paragraphe d'un extrait, raccourci, les noms des propositions tus. */
+  function texteExtrait(cible, concernes) {
+    let texte = cible.ex[0][0].join(' ').replace(/\n/g, ' / ');
+    if (texte.length > 330) texte = texte.slice(0, 330).replace(/\s+\S*$/, '') + '…';
+    return Dictionnaire.masquer(texte, concernes);
   }
 
   function voisinsDe(cible) {
@@ -94,15 +167,15 @@
     // les moins bien sus d'abord, à égalité au hasard
     const ordre = melanger(source).sort((a, b) => ((suivis.get(a.id) || {}).serie || 0) - ((suivis.get(b.id) || {}).serie || 0));
     const questions = [];
-    for (const cible of ordre) {
+    // une sorte de question choisie : seuls les articles qui s'y prêtent
+    const candidatsDeSens = QUALIFIE[cfg.sens] && cfg.mode !== 'cartes' ? ordre.filter(QUALIFIE[cfg.sens]) : ordre;
+    for (const cible of candidatsDeSens) {
       if (questions.length >= cfg.n) break;
       let sens = cfg.sens;
-      if (sens === 'mixte') {
-        const tirage = Math.random();
-        sens = tirage < 0.42 ? 'def-nom' : (tirage < 0.84 ? 'nom-def' : 'chrono');
-      }
+      if (sens === 'mixte') sens = tirerSens();
+      if (QUALIFIE[sens] && sens !== 'chrono' && sens !== 'ordre' && !QUALIFIE[sens](cible)) sens = 'def-nom';
       if (cfg.mode === 'cartes') {
-        if (sens === 'chrono') sens = 'def-nom';
+        if (sens !== 'nom-def') sens = 'def-nom';
         questions.push({
           type: 'carte', cible, sens,
           recto: sens === 'def-nom' ? Dictionnaire.masquer(courte(cible), [cible]) : cible.n,
@@ -114,21 +187,34 @@
         if (q && !questions.some((x) => x.cible.id === q.cible.id)) { questions.push(q); continue; }
         sens = 'def-nom';
       }
-      const interdits = voisinsDe(cible);
-      const candidats = Dictionnaire.articles.filter((x) => !interdits.has(x.id) && x.defNue && !x.perso);
+      if (sens === 'ordre') {
+        const q = questionOrdre(cible);
+        if (q) { questions.push(q); continue; }
+        sens = 'def-nom';
+      }
+      const interdits = exclus(cible, sens);
+      // pour un son, les leurres font eux aussi entendre quelque chose : on ne
+      // devine pas la réponse au seul fait qu'un article a un son
+      const filtre = sens === 'son' ? avecSon : sens === 'image' ? avecImage : () => true;
+      const candidats = Dictionnaire.articles.filter((x) => !interdits.has(x.id) && x.defNue && !x.perso && filtre(x));
       if (candidats.length < 3) continue;
       const memes = melanger(candidats.filter((x) => x.c === cible.c));
       const autres = melanger(candidats.filter((x) => x.c !== cible.c));
       const leurres = memes.concat(autres).slice(0, 3);
       const concernes = [cible].concat(leurres);
-      questions.push({
+      const parNom = sens !== 'nom-def';
+      const q = {
         type: 'qcm', cible, sens,
         propositions: melanger(concernes).map((x) => ({
           article: x,
-          texte: sens === 'def-nom' ? x.n : Dictionnaire.masquer(courte(x), concernes),
+          texte: parNom ? x.n : Dictionnaire.masquer(courte(x), concernes),
         })),
         enonce: sens === 'def-nom' ? Dictionnaire.masquer(courte(cible), concernes) : cible.n,
-      });
+      };
+      if (sens === 'image') q.image = cible.im[0];
+      if (sens === 'son') q.son = cible.so[0];
+      if (sens === 'extrait') q.enonce = texteExtrait(cible, concernes);
+      questions.push(q);
     }
     return questions;
   }
@@ -199,6 +285,15 @@
       commencer(questions);
     };
 
+    const maintenant = Date.now();
+    const echus = suivis.filter((s) => echu(s, maintenant) && Dictionnaire.parId(s.ref)).length;
+    if (echus) {
+      const carte = bouton('carte-revoir carte-echeance', '', () => lancer('echeance'));
+      carte.appendChild(element('span', 'carte-revoir-titre', Outils.pluriel(echus, 'article à revoir', 'articles à revoir') + ' aujourd’hui'));
+      carte.appendChild(element('span', 'carte-revoir-aide', 'Leur jour est venu : un, trois, sept jours… après la dernière bonne réponse.'));
+      zone.appendChild(carte);
+    }
+
     if (rev) {
       const carte = bouton('carte-revoir', '', () => lancer('a-revoir'));
       carte.appendChild(element('span', 'carte-revoir-titre', 'Revoir ' + Outils.pluriel(rev, 'article raté', 'articles ratés')));
@@ -215,7 +310,7 @@
       : 'Choisissez la bonne réponse parmi quatre propositions.'));
 
     bloc.appendChild(element('h4', null, 'Sur quels articles'));
-    const options = [['tous', 'Tout le dictionnaire'], ['favoris', 'Mes favoris (' + fav + ')'], ['a-revoir', 'À revoir (' + rev + ')']];
+    const options = [['tous', 'Tout le dictionnaire'], ['favoris', 'Mes favoris (' + fav + ')'], ['a-revoir', 'À revoir (' + rev + ')'], ['echeance', 'Dont le jour est venu (' + echus + ')']];
     for (const c of Dictionnaire.categories) options.push(['cat:' + c.id, c.nom]);
     const sel = element('select', 'saisie-texte');
     sel.setAttribute('aria-label', 'Sur quels articles');
@@ -229,7 +324,7 @@
     bloc.appendChild(sel);
 
     bloc.appendChild(element('h4', null, 'Questions'));
-    const sens = r.quizMode === 'cartes' ? ['mixte', 'def-nom', 'nom-def'] : ['mixte', 'def-nom', 'nom-def', 'chrono'];
+    const sens = r.quizMode === 'cartes' ? ['mixte', 'def-nom', 'nom-def'] : ['mixte', 'def-nom', 'nom-def', 'chrono', 'image', 'son', 'extrait', 'ordre'];
     bloc.appendChild(segments('sens', sens, sens.includes(r.quizSens) ? r.quizSens : 'mixte',
       async (v) => { await App.ecrireReglage('quizSens', v); dessinerAccueil(); }, (v) => SENS[v]));
     bloc.appendChild(element('h4', null, 'Nombre de questions'));
@@ -298,11 +393,14 @@
     try {
       await Store.modifierSuivi(q.cible.id, (s) => {
         if (juste) { s.ok = (s.ok || 0) + 1; s.serie = (s.serie || 0) + 1; if (s.aRevoir && s.serie >= 2) s.aRevoir = false; } else { s.ko = (s.ko || 0) + 1; s.serie = 0; s.aRevoir = true; }
+        // la répétition espacée : la prochaine question sur cet article
+        s.prochaine = juste ? Date.now() + INTERVALLES[Math.min(s.serie, INTERVALLES.length) - 1] * JOUR : Date.now();
       });
     } catch (e) { /* le suivi est un plus : la séance continue sans */ }
   }
 
   function dessinerQuestion() {
+    Sons.arreter();
     const q = etat.questions[etat.i];
     etat.repondu = false;
     etat.touches = null;
@@ -319,8 +417,24 @@
       return;
     }
 
+    if (q.type === 'ordre') { dessinerOrdre(q); return; }
+
     zone.appendChild(element('p', 'consigne', CONSIGNES[q.sens]));
-    if (q.sens !== 'chrono') {
+    if (q.sens === 'image') {
+      const cadre = element('div', 'enonce enonce-image');
+      cadre.appendChild(Illustrations.image(q.image, 'q-image'));
+      zone.appendChild(cadre);
+    } else if (q.sens === 'son') {
+      const cadre = element('div', 'enonce enonce-son');
+      const b = bouton('bouton-principal q-ecouter', '▶ Écouter le son', () => Sons.jouer(q.son, b));
+      cadre.appendChild(b);
+      cadre.appendChild(element('p', 'discret', 'Durée : ' + Math.round(q.son.d || 0) + ' s'));
+      zone.appendChild(cadre);
+    } else if (q.sens === 'extrait') {
+      const cadre = element('blockquote', 'enonce enonce-extrait');
+      cadre.appendChild(element('p', null, q.enonce));
+      zone.appendChild(cadre);
+    } else if (q.sens !== 'chrono') {
       const enonce = element('div', 'enonce');
       enonce.appendChild(element('p', q.sens === 'nom-def' ? 'enonce-nom' : 'enonce-definition', q.enonce));
       zone.appendChild(enonce);
@@ -341,6 +455,83 @@
       liste.appendChild(b);
     });
     zone.appendChild(liste);
+    zone.appendChild(verdict);
+    etat.touches = (e) => {
+      if (etat.repondu) {
+        if ((e.key === 'Enter' || e.key === 'ArrowRight') && e.target.tagName !== 'BUTTON' && !verdict.hidden) { suivante(); return true; }
+        return false;
+      }
+      const i = ['1', '2', '3', '4'].indexOf(e.key);
+      if (i === -1 || !liste.children[i]) return false;
+      liste.children[i].click();
+      return true;
+    };
+    racine.scrollTo(0, 0);
+  }
+
+  /* « Remettre en ordre » : on touche les quatre articles l'un après l'autre. */
+  function dessinerOrdre(q) {
+    zone.appendChild(element('p', 'consigne', CONSIGNES.ordre));
+    const choisis = [];
+    const liste = element('div', 'choix-liste');
+    const verdict = element('div', 'verdict');
+    verdict.setAttribute('role', 'status');
+    verdict.hidden = true;
+    const effacer = bouton('lien-discret', 'Recommencer l’ordre', () => {
+      choisis.length = 0;
+      for (const b of liste.children) { b.classList.remove('range'); b.querySelector('.touche').textContent = String(Array.from(liste.children).indexOf(b) + 1); }
+      effacer.hidden = true;
+    });
+    effacer.hidden = true;
+    q.items.forEach((x, i) => {
+      const b = element('button', 'choix choix-nom choix-ordre');
+      b.type = 'button';
+      const touche = element('span', 'touche', String(i + 1));
+      touche.setAttribute('aria-hidden', 'true');
+      b.appendChild(touche);
+      b.appendChild(element('span', 'choix-texte', x.n));
+      b.addEventListener('click', async () => {
+        if (etat.repondu || choisis.includes(x.id)) return;
+        choisis.push(x.id);
+        b.classList.add('range');
+        touche.textContent = String(choisis.length);
+        effacer.hidden = false;
+        if (choisis.length < 4) return;
+        etat.repondu = true;
+        effacer.hidden = true;
+        const juste = choisis.every((id, k) => id === q.bonne[k]);
+        Array.from(liste.children).forEach((bt, k) => {
+          const art = q.items[k];
+          bt.disabled = true;
+          const rang = q.bonne.indexOf(art.id);
+          bt.classList.add(choisis.indexOf(art.id) === rang ? 'bonne' : 'mauvaise');
+          bt.querySelector('.choix-texte').appendChild(element('span', 'choix-annee', ' · ' + (art.da || Dictionnaire.annee(art.an))));
+        });
+        await noter(q, juste);
+        verdict.hidden = false;
+        verdict.className = 'verdict ' + (juste ? 'juste' : 'faux');
+        verdict.appendChild(element('p', 'verdict-texte', juste ? 'Juste !' : 'Ce n’est pas le bon ordre.'));
+        const carte = element('ol', 'verdict-ordre');
+        for (const id of q.bonne) {
+          const art = Dictionnaire.parId(id);
+          const li = element('li');
+          li.appendChild(bouton('lien-discret verdict-lien', art.n, () => Fiche.ouvrir(id)));
+          li.appendChild(element('span', 'discret', ' — ' + (art.da || Dictionnaire.annee(art.an))));
+          carte.appendChild(li);
+        }
+        verdict.appendChild(carte);
+        const ligne = element('div', 'ligne-boutons');
+        const dernier = etat.i === etat.questions.length - 1;
+        const suite = bouton('bouton-principal', dernier ? 'Voir le bilan' : 'Question suivante', suivante);
+        ligne.appendChild(suite);
+        verdict.appendChild(ligne);
+        verdict.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        suite.focus({ preventScroll: true });
+      });
+      liste.appendChild(b);
+    });
+    zone.appendChild(liste);
+    zone.appendChild(effacer);
     zone.appendChild(verdict);
     etat.touches = (e) => {
       if (etat.repondu) {
@@ -388,6 +579,7 @@
   }
 
   function finSeance(complete) {
+    Sons.arreter();
     etat.ecran = 'bilan';
     etat.jeton += 1;
     etat.touches = null;

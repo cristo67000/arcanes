@@ -29,7 +29,7 @@ nom: Pectoral du grand prêtre
 alias: pectoral d'Aaron, pectoral du jugement, Urim et Thummim, douze pierres
 def: Pièce d'étoffe ornée de douze pierres gravées des noms des tribus d'Israël, que le grand prêtre portait sur la poitrine selon l'Exode, et où certains voient l'origine des pierres de naissance.
 texte: L'Exode décrit ce « pectoral du jugement », tissé d'or, de pourpre et de fin lin, sur lequel sont serties quatre rangées de trois pierres, chacune gravée du nom d'une tribu. Il contenait aussi les mystérieux Urim et Thummim, instruments d'[[oracle]] par lesquels le grand prêtre consultait Dieu. L'identification des douze pierres hébraïques reste incertaine : les traductions grecques et latines les ont rendues par des noms de gemmes qui ne correspondent pas toujours aux minéraux d'origine.
-texte: Flavius Josèphe et Philon d'Alexandrie rapprochent déjà ces douze pierres des douze mois et des signes du [[zodiaque]]. L'Apocalypse donne à son tour douze pierres pour fondations à la [[jerusalem-celeste|Jérusalem céleste]]. Ces listes ont nourri les lapidaires chrétiens, la symbolique maçonnique des hauts grades et, au XIXe et au XXe siècle, l'invention des [[pierres-de-naissance|pierres de naissance]].
+texte: [[flavius-josephe|Flavius Josèphe]] et Philon d'Alexandrie rapprochent déjà ces douze pierres des douze mois et des signes du [[zodiaque]]. L'Apocalypse donne à son tour douze pierres pour fondations à la [[jerusalem-celeste|Jérusalem céleste]]. Ces listes ont nourri les lapidaires chrétiens, la symbolique maçonnique des hauts grades et, au XIXe et au XXe siècle, l'invention des [[pierres-de-naissance|pierres de naissance]].
 extrait: Tu feras le pectoral du jugement, artistement travaillé ; tu le feras du même travail que l'éphod, tu le feras d'or, de fil bleu, pourpre et cramoisi, et de fin lin retors. Il sera carré et double ; sa longueur sera d'un empan, et sa largeur d'un empan. Tu y enchâsseras une garniture de pierres, quatre rangées de pierres : première rangée, une sardoine, une topaze, une émeraude ; seconde rangée, une escarboucle, un saphir, un diamant ; troisième rangée, une opale, une agate, une améthyste ; quatrième rangée, une chrysolithe, un onyx, un jaspe. Ces pierres seront enchâssées dans leurs montures d'or. Il y en aura douze, d'après les noms des fils d'Israël ; elles seront gravées comme des cachets, chacune avec le nom de l'une des douze tribus.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Exode, chap. XXVIII, versets 15-21 | ws Bible Segond 1910/Exode
 voir: pierres-de-naissance, douze, lapidaire, temple-de-salomon, oracle, jerusalem-celeste, shamir
@@ -41,7 +41,7 @@ alias: pierre de naissance, pierres zodiacales, pierres du mois, birthstones
 def: Pierres associées à chaque mois ou à chaque signe du zodiaque, réputées porter chance à ceux qui sont nés sous lui ; leur liste actuelle a été fixée par des joailliers au XXe siècle.
 texte: L'idée vient des douze pierres du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] et de la [[jerusalem-celeste|Jérusalem céleste]], que des commentateurs ont rapprochées des mois de l'année et des signes du [[zodiaque]]. L'usage de porter la pierre de son mois apparaît en Europe à l'époque moderne, sans qu'aucune liste ne fasse autorité : les correspondances varient selon les auteurs et les pays.
 texte: En 1912, l'association des joailliers américains publie une liste standard — grenat pour janvier, améthyste pour février, aigue-marine pour mars, diamant pour avril, émeraude pour mai… —, révisée depuis à plusieurs reprises, qui est devenue un argument de vente. Les astrologues et la [[lithotherapie|lithothérapie]] proposent leurs propres listes par signe.
-repere: Ier siècle — Flavius Josèphe rapproche les douze pierres du pectoral des douze mois et des signes du zodiaque.
+repere: Ier siècle — [[flavius-josephe|Flavius Josèphe]] rapproche les douze pierres du pectoral des douze mois et des signes du zodiaque.
 repere: 1912 — Les joailliers américains fixent une liste standard des pierres du mois.
 voir: pectoral-du-grand-pretre, zodiaque, lithotherapie, douze, cornaline, jade, turquoise, escarboucle
 
@@ -197,9 +197,10 @@ alias: bézoards, pierre de bézoard, pad-zahr, contrepoison
 def: Concrétion formée dans l'estomac de certains animaux, que l'on croyait capable de neutraliser tous les poisons ; Ambroise Paré en démontra l'inefficacité en 1567.
 texte: Le mot vient du persan *pad-zahr*, « contrepoison ». Les médecins arabes, puis ceux de l'Europe de la Renaissance, prescrivaient ces boules de poils et de sels formées dans l'estomac des chèvres sauvages ou des gazelles, enchâssées dans l'or et payées à prix d'or par les princes, qui craignaient l'empoisonnement.
 texte: En 1567, Ambroise Paré propose au roi Charles IX une expérience : un cuisinier condamné à mort accepte de prendre un poison, puis du bézoard, contre la promesse de sa grâce. Il meurt dans d'atroces douleurs. Cette expérience, rapportée par Paré, est l'un des premiers essais d'un remède sur un sujet humain. Le bézoard resta pourtant en usage jusqu'au XVIIIe siècle.
+texte: Dans son *Discours de la mumie, de la licorne, des venins et de la peste* (1582), Paré s'attaque de même aux poudres de [[momie]] et de corne de [[licorne]], autres remèdes coûteux auxquels il ne trouvait aucun effet.
 repere: 1563 — Garcia de Orta décrit les bézoards de l'Inde dans ses *Colloques des simples*.
 repere: 1567 — Ambroise Paré éprouve le bézoard sur un condamné.
-voir: crapaudine, amulette, lapidaire
+voir: crapaudine, amulette, lapidaire, licorne, momie
 
 @ crapaudine
 cat: pierres

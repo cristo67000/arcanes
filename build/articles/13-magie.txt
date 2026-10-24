@@ -9,7 +9,7 @@ glyphe: pentagramme
 def: Ensemble de pratiques qui prétendent agir sur les êtres, les choses et les événements par des moyens cachés — paroles, gestes, objets, rites, invocations —, en s'appuyant sur des forces naturelles ou sur des esprits.
 texte: Le mot vient du grec *mageia*, l'art des *magoi*, prêtres de la Perse ancienne. Les Grecs et les Romains l'opposent déjà aux cultes officiels : elle est privée, secrète, souvent suspecte. Le Moyen Âge chrétien distingue une [[magie-naturelle|magie naturelle]], qui utilise les vertus cachées des choses, d'une magie démoniaque, condamnée ; la Renaissance réhabilite une magie savante, la [[philosophie-occulte]]. L'opposition populaire entre magie « blanche », bienfaisante, et magie « noire », malfaisante, recoupe en partie ces distinctions.
 texte: Au XIXe siècle, [[eliphas-levi]] fait de la magie une science de la volonté appliquée à la [[lumiere-astrale]] ; [[aleister-crowley]], qui écrit *magick* pour la distinguer des tours de scène, la définit comme « la science et l'art de provoquer un changement conformément à la volonté ». La [[magie-ceremonielle|magie cérémonielle]] de la [[golden-dawn|Golden Dawn]], la [[wicca]] et la [[magie-du-chaos|magie du chaos]] en sont les formes modernes.
-texte: Les anthropologues ont beaucoup débattu de la nature de la magie. James Frazer, dans *Le Rameau d'or* (1890), décrit une magie « sympathique » fondée sur deux lois : le semblable agit sur le semblable, et ce qui a été en contact reste lié. Marcel Mauss y voit au début du XXe siècle un fait social, distinct de la religion par son caractère privé. Les historiens rappellent que la frontière entre magie, religion et science a beaucoup varié selon les époques.
+texte: Les anthropologues ont beaucoup débattu de la nature de la magie. [[james-frazer|James Frazer]], dans *Le Rameau d'or* (1890), décrit une magie « sympathique » fondée sur deux lois : le semblable agit sur le semblable, et ce qui a été en contact reste lié. Marcel Mauss y voit au début du XXe siècle un fait social, distinct de la religion par son caractère privé. Les historiens rappellent que la frontière entre magie, religion et science a beaucoup varié selon les époques.
 voir: magie-naturelle, magie-ceremonielle, theurgie, goetie, philosophie-occulte, sorcellerie, talisman
 
 @ magie-naturelle
@@ -46,7 +46,7 @@ alias: goetia, goétie, goétique, Ars Goetia
 def: Magie qui invoque les démons, considérée comme la forme basse et dangereuse de la magie ; par extension, la première partie du Lemegeton, qui décrit soixante-douze esprits infernaux.
 texte: Le grec *goêteia* désignait la sorcellerie, l'art des charlatans et des enchanteurs. La Renaissance l'oppose à la [[theurgie]] : le goète commande aux démons, ou croit les commander, au péril de son âme.
 texte: La *Goétie* du *[[lemegeton|Lemegeton]]* énumère soixante-douze démons, leurs sceaux, leurs fonctions et la manière de les contraindre à apparaître dans un triangle placé hors du [[cercle-magique|cercle]] du magicien. Elle reste très utilisée par certains courants de la magie contemporaine.
-voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau, soixante-douze, asmodee, testament-de-salomon
+voir: lemegeton, demonologie, theurgie, evocation, cercle-magique, sceau, soixante-douze, asmodee, testament-de-salomon, sigil
 
 @ magie-enochienne
 cat: magie
@@ -129,7 +129,8 @@ alias: sigils, sigillisation, sigille, méthode de Spare
 def: Dans la magie moderne, symbole abstrait formé à partir des lettres d'un souhait, que le magicien charge d'énergie puis oublie pour que l'inconscient en réalise l'objet.
 texte: La méthode est mise au point par [[austin-osman-spare]] : on écrit une phrase d'intention (« je veux guérir »), on supprime les lettres répétées, on combine celles qui restent en un dessin unique, méconnaissable. Le sigil est ensuite « chargé » dans un moment de concentration extrême, d'épuisement ou d'extase, puis volontairement oublié, pour que le désir échappe au contrôle de la conscience.
 texte: La [[magie-du-chaos|magie du chaos]] en a fait l'une de ses techniques favorites ; elle s'est répandue bien au-delà, jusqu'au développement personnel.
-voir: austin-osman-spare, magie-du-chaos, sceau
+texte: La méthode de Spare renouvelle un procédé ancien : les grimoires traçaient le sceau d'un esprit en reliant, sur un [[carre-magique|carré magique]] planétaire, les cases qui répondent aux lettres de son nom, et la *[[goetie|Goétie]]* donne à chacun de ses soixante-douze démons un sceau propre.
+voir: austin-osman-spare, magie-du-chaos, sceau, carre-magique, goetie
 
 @ intelligences-planetaires
 cat: magie
@@ -226,7 +227,7 @@ def: Êtres spirituels, messagers de Dieu selon les religions juive, chrétienne
 texte: Le mot grec *angelos* signifie « messager ». La Bible nomme trois archanges, Michel, Gabriel et Raphaël ; le *[[livre-d-henoch|Livre d'Hénoch]]* en ajoute d'autres, dont Uriel. Le [[pseudo-denys]] les répartit en neuf chœurs, les [[hierarchies-celestes|hiérarchies célestes]]. La kabbale associe des anges aux [[sephiroth|séphiroth]], aux lettres et aux soixante-douze noms divins du [[shem-ha-meforash|Shem ha-Meforash]].
 texte: La magie angélique, qui prétend obtenir des anges la connaissance ou la protection, traverse les siècles, de l'*[[ars-notoria|Art notoire]]* médiéval aux conversations de [[john-dee]] et à l'[[ange-gardien|ange gardien]] d'[[livre-d-abramelin|Abramelin]]. [[emanuel-swedenborg]] décrit les sociétés angéliques qu'il dit avoir visitées. Les anges connaissent un vif regain de popularité dans le [[new-age|New Age]].
 schema: hierarchies-celestes
-voir: hierarchies-celestes, ange-gardien, magie-enochienne, shem-ha-meforash, pseudo-denys, demonologie, saint-michel, asmodee
+voir: hierarchies-celestes, ange-gardien, magie-enochienne, shem-ha-meforash, pseudo-denys, demonologie, saint-michel, asmodee, aurore-naissante
 
 @ hierarchies-celestes
 cat: magie
