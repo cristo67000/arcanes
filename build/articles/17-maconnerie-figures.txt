@@ -550,7 +550,7 @@ texte: Dans le sillage de *Humanum genus*, la mystification de [[leo-taxil|Léo 
 voir: antimaconnisme, secret-maconnique, franc-maconnerie, leo-taxil, augustin-barruel
 
 @ la-flute-enchantee
-cat: litterature
+cat: musique
 nom: La Flûte enchantée
 alias: Die Zauberflöte, Flûte enchantée, Sarastro, Tamino, Pamina, Papageno, Reine de la Nuit
 an: 1791

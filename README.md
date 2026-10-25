@@ -23,7 +23,7 @@ des morts*, la pierre de Rosette, l'égyptomanie…), **codes secrets** (de la
 scytale et du chiffre de César à Vigenère, Enigma, au manuscrit de Voynich et
 aux hommes dansants de Conan Doyle, avec l'argot et l'argot des bâtisseurs),
 **animaux fantastiques et symboliques** (dragon, licorne, basilic, sphinx,
-griffon, Tarasque… et serpent, coq, poisson, pélican, abeille…), quatre
+griffon, Tarasque… et serpent, coq, poisson, pélican, abeille…), cinq
 rubriques nouvelles — **mythes et allégories** (Jason et la toison d'or lus
 comme le Grand Œuvre, les douze travaux d'Hercule, Osiris, Thésée et le
 labyrinthe, Prométhée, l'Odyssée de l'âme, la caverne de Platon, Éros et
@@ -38,10 +38,16 @@ de Berlin, l'*Hymne de la perle*, le *Testament de Salomon*, Irénée de Lyon…
 aux *Chimères* ; Gaston Leroux, *La Reine du Sabbat* et *Rouletabille chez les
 Bohémiens*, avec Sara la Kali et les Saintes-Maries-de-la-Mer ; Hoffmann,
 *Frankenstein*, *Vathek*, *Axël*, *À rebours*, *Là-bas*, Meyrink, *Le Pendule
-de Foucault*…) et **peinture et gravure** (le symbolisme, les Salons de la
+de Foucault*…), **peinture et gravure** (le symbolisme, les Salons de la
 Rose-Croix, les préraphaélites, les nabis, l'abstraction née de la théosophie
 avec Hilma af Klint, Kandinsky et Mondrian, Bosch, l'*Apocalypse* de Dürer, le
 retable de Gand, la tenture d'Angers, *Les Ambassadeurs*, *L'Île des morts*…)
+et **musique** (Debussy, *La Mer* et *Pelléas et Mélisande* ; Ravel et
+*Gaspard de la nuit* ; Berlioz, la *Symphonie fantastique* et *La Damnation de
+Faust* ; le *Faust* de Gounod ; *La Flûte enchantée* ; Scriabine, *Prométhée* et
+le *Mystère* ; Satie, les *Sonneries de la Rose+Croix* et *Le Fils des
+étoiles* ; Scelsi, *Aion* et *Konx-Om-Pax* ; le *Licht* de Stockhausen ; les
+*Tetragrams* et les *Pentagrams* de Dane Rudhyar)
 —, et ses **lieux** — de Montségur et
 Rennes-le-Château à Paris, Chartres, le Mont-Saint-Michel, la Sainte-Baume,
 Orval, Louxor, Nazca ou la Sagrada Família.
@@ -66,8 +72,9 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   Chateaubriand, Dupuis, Beckford,
   le *Songe de Poliphile*, Léonard de Vinci, Vasari, Rabelais, Cazotte, Ramsay,
   Goethe traduit par Nerval et par Porchat, Hoffmann, Mary Shelley, Walter
-  Scott, Kardec, Michelet, Dumas, Flaubert, Baudelaire, Hugo, Nerval, Balzac,
-  Mistral, Jules Verne, Villiers de l'Isle-Adam, Rimbaud, Huysmans, Maspero,
+  Scott, Aloysius Bertrand, les *Mémoires* de Berlioz, Kardec, Michelet, Dumas,
+  Flaubert, Baudelaire, Hugo, Nerval, Balzac, Mistral, Jules Verne, Villiers de
+  l'Isle-Adam, Rimbaud, Huysmans, Maeterlinck, Debussy, Satie, Maspero,
   Péguy, Kipling (en anglais et en français), Rider Haggard, Gaston Leroux,
   Lovecraft, Éliphas Lévi, Papus, Péladan, Odilon Redon,
   Oswald Wirth, Maurice Leblanc, Fulcanelli, René Guénon… —, avec le lien vers le
@@ -79,7 +86,9 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   médiévaux, des statuettes et des papyrus égyptiens, les mythes peints de
   Titien à Waterhouse, la Bible peinte de Fouquet, Piero della Francesca,
   Bruegel, Poussin et Rembrandt à Blake, les Beatus, l'*Apocalypse* de Dürer,
-  Moreau, Redon, Khnopff, Hilma af Klint, Kandinsky et Mondrian, les papyrus
+  Moreau, Redon, Khnopff, Hilma af Klint, Kandinsky et Mondrian, les
+  partitions de Debussy, de Satie et de Scriabine (*Prométhée* sous une
+  couverture de Jean Delville), l'affiche de *Pelléas et Mélisande*, les papyrus
   d'Oxyrhynque, de Nag Hammadi et du codex Tchacos, des portraits, des
   gravures alchimiques et maçonniques, des photographies anciennes des lieux ;
   touchées, elles s'agrandissent et donnent leur source ; des **planches** de
@@ -101,19 +110,19 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   l'homoncule luit dans sa fiole… — près de quarante gravures, chacune
   avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong, feu),
   fabriqué sur place par l'appareil ; « Rejouer » relance l'animation ;
-- des **sons** du domaine public, sous « À écouter » : les cris du loup, du
-  corbeau, de la chouette d'Athéna, du coq, des abeilles ou des baleines, le
-  rugissement du lion, le brame du cerf, le hennissement des chevaux de
-  l'Apocalypse, les dauphins, un rossignol gravé sur disque en 1910 ; les
-  cloches de Notre-Dame (le bourdon Emmanuel), de Saint-Marc de Venise et de la
-  cathédrale de Strasbourg ; la
-  Reine de la Nuit de *La Flûte enchantée*, le récit du Graal de *Lohengrin*,
-  *Parsifal*, *Les Planètes* de Holst (sous chaque planète), le sabbat de la
-  *Symphonie fantastique* et du *Mont Chauve*, le Veau d'or de *Faust*, une
-  *Gnossienne* de Satie, le *Dies irae*, les cloches de Notre-Dame ; des poèmes
-  dits (*Correspondances*, *Voyelles*, *The Raven*) et la voix de Houdini, en
-  1914 ; rien ne joue tout seul, et chacun reste disponible hors ligne une fois
-  écouté ;
+- des **sons** du domaine public, sous « À écouter » : la Reine de la Nuit de
+  *La Flûte enchantée*, le récit du Graal de *Lohengrin*, *Parsifal*, *Les
+  Planètes* de Holst (sous chaque planète), la « Marche au supplice » et le
+  sabbat de la *Symphonie fantastique*, la Marche hongroise et « Voici des
+  roses » de *La Damnation de Faust*, le Veau d'or et l'air des bijoux du *Faust*
+  de Gounod, le *Mont Chauve*, le « Dialogue du vent et de la mer » de *La Mer*
+  et *Syrinx* de Debussy, « Ondine » de *Gaspard de la nuit*, une mazurka jouée
+  par Scriabine lui-même en 1910, une *Gnossienne* et la première *Gymnopédie*
+  de Satie, le *Dies irae* ; les cloches de Notre-Dame (le bourdon Emmanuel), de
+  Saint-Gervais, de Saint-Marc de Venise et de la cathédrale de Strasbourg ; la
+  mer et l'orage ; des poèmes dits (*Correspondances*, *Voyelles*, *The Raven*)
+  et la voix de Houdini, en 1914 ; rien ne joue tout seul, et chacun reste
+  disponible hors ligne une fois écouté ;
 - **« Pour aller plus loin »** : sous la plupart des articles, des liens vers
   Wikipédia, Wikisource, la BnF ou Internet Archive, où lire les textes
   eux-mêmes — ils ne s'ouvrent que si on les touche, et demandent une connexion ;
@@ -203,9 +212,13 @@ une page d'un livre numérisé (PDF, DjVu) s'y désigne par `page:`.
 
 Les sons viennent aussi de Wikimedia Commons, dans le domaine public ou sous
 CC0 : `build/sonoriser.py` refuse toute autre licence, prend la version MP3 que
-Commons tire de chaque enregistrement et, si on le demande, n'en garde qu'un
-passage, coupé entre deux trames sans réencodage. Leur liste est dans
-`build/sons.txt`. Les animations des images sont décrites dans
+Commons tire de chaque enregistrement, n'en garde, si on le demande, qu'un
+passage, adouci d'un fondu, et le réencode avec **ffmpeg** en MP3 à débit
+constant : 96 kbit/s en stéréo pour la musique et les cloches, 80 pour les
+bruits, 48 à 80 en mono pour les 78 tours, les cylindres et les lectures. Leur
+liste et leurs débits sont dans `build/sons.txt`. ffmpeg n'est utile que pour
+refaire un son ; on lui donne son chemin par `--ffmpeg=` ou la variable
+`FFMPEG`, s'il n'est pas dans le PATH. Les animations des images sont décrites dans
 `build/animations.txt` (le format est en tête du fichier) ; la construction
 vérifie chacune.
 
@@ -290,7 +303,7 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (8 950)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (9 016)
 node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, outils, frise en bandeau, plus court chemin, progression, parcours sur la carte, extraits, révision, hors-ligne (175)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit

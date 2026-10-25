@@ -1,13 +1,17 @@
 """Les sons de l'application : build/sons.txt → son/*.mp3 et build/sons.json.
 
-    python build/sonoriser.py             télécharge ce qui manque, coupe les extraits
+    python build/sonoriser.py             télécharge ce qui manque, coupe et compresse
     python build/sonoriser.py --verifier  échoue si un son est à refaire (sans réseau)
+    python build/sonoriser.py --ffmpeg=C:/chemin/ffmpeg.exe
 
 Chaque son vient de Wikimedia Commons, dans le domaine public ou sous CC0 : le
 script refuse toute autre licence. Il prend la version MP3 que Commons tire de
-chaque enregistrement (lisible par tous les navigateurs), et, si `extrait:`
-le demande, n'en garde qu'un passage : la coupe se fait entre deux trames MP3,
-sans réencoder. Les originaux restent dans build/.sources-sons/, hors du dépôt.
+chaque enregistrement, n'en garde que le passage que demande `extrait:`, avec
+un fondu au début et à la fin de la coupe, et le réencode avec ffmpeg en MP3 à
+débit constant (`debit:`), lisible par tous les navigateurs. ffmpeg se cherche
+dans --ffmpeg=, puis dans la variable d'environnement FFMPEG, puis dans le PATH ;
+il n'est utile que pour les sons à refaire. Les originaux restent dans
+build/.sources-sons/, hors du dépôt.
 
 Le format de build/sons.txt est décrit en tête de ce fichier.
 """
@@ -17,6 +21,8 @@ import io
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -30,7 +36,10 @@ SORTIE = os.path.join(ICI, 'sons.json')
 DOSSIER = os.path.join(RACINE, 'son')
 CACHE = os.path.join(ICI, '.sources-sons')
 AGENT = {'User-Agent': 'ArcanesSons/1.0 (https://cristo67000.github.io/arcanes/; cristo67apps@gmail.com)'}
-CHAMPS = {'commons', 'titre', 'credit', 'pour', 'extrait'}
+CHAMPS = {'commons', 'titre', 'credit', 'pour', 'extrait', 'debit'}
+DEBIT = '96'           # kbit/s, en stéréo, quand ni le son ni son lot n'en donnent
+FONDU = (0.3, 2.0)     # secondes de fondu à l'entrée et à la sortie d'une coupe
+RECETTE = 'lame-cbr|%g|%g' % FONDU   # entre dans la signature : la changer refait tout
 erreurs = []
 
 
@@ -48,23 +57,32 @@ def fin():
 def lire():
     sons = []
     courant = None
+    lot = {}
     for n, ligne in enumerate(io.open(SOURCE, encoding='utf-8').read().splitlines(), 1):
         lieu = 'sons.txt:%d' % n
-        if not ligne.strip() or ligne.startswith('#') or ligne.startswith('%'):
+        if not ligne.strip() or ligne.startswith('#'):
+            continue
+        if ligne.startswith('%'):
+            courant, lot = None, {}
             continue
         if ligne.startswith('= '):
             ident = ligne[2:].strip()
             if not re.fullmatch(r'[a-z0-9-]+', ident):
                 erreur(lieu, 'identifiant invalide « ' + ident + ' »')
-            courant = {'id': ident, 'lieu': lieu}
+            courant = dict(lot, id=ident, lieu=lieu)
             sons.append(courant)
             continue
         m = re.match(r'^([a-z]+):\s*(.*)$', ligne)
-        if not m or courant is None:
+        if not m:
             erreur(lieu, 'ligne illisible')
             continue
         if m.group(1) not in CHAMPS:
             erreur(lieu, 'champ inconnu « ' + m.group(1) + ' »')
+            continue
+        if courant is None:
+            if m.group(1) != 'debit':
+                erreur(lieu, 'seul « debit: » vaut pour tout un lot')
+            lot[m.group(1)] = m.group(2).strip()
             continue
         courant[m.group(1)] = m.group(2).strip()
     return sons
@@ -163,16 +181,45 @@ def trames(donnees):
     return sortie
 
 
-def couper(donnees, debut, fin_):
-    t = 0.0
-    morceaux = []
-    duree = 0.0
-    for a, b, d in trames(donnees):
-        if t >= debut and (fin_ is None or t < fin_):
-            morceaux.append(donnees[a:b])
-            duree += d
-        t += d
-    return b''.join(morceaux), duree
+def chercher_ffmpeg():
+    for a in sys.argv[1:]:
+        if a.startswith('--ffmpeg='):
+            return a.split('=', 1)[1]
+    return os.environ.get('FFMPEG') or shutil.which('ffmpeg')
+
+
+def encoder(ffmpeg, original, sortie, debut, fin_, debit):
+    """Coupe [debut, fin_] dans l'original et le réencode en MP3 à débit constant.
+    En mono, à 64 kbit/s ou moins, on descend à 22 050 Hz : la voix et les
+    enregistrements anciens n'ont rien au-dessus, et le MP3 y est plus économe."""
+    kbps, mono = int(debit.split()[0]), 'mono' in debit.split()
+    with open(original, 'rb') as f:
+        total = sum(d for _, _, d in trames(f.read()))
+    fin_ = total if fin_ is None else min(fin_, total)
+    longueur = fin_ - debut
+    filtres = []
+    if debut > 0:
+        filtres.append('afade=t=in:d=%g' % FONDU[0])
+    if fin_ < total - 0.5:
+        filtres.append('afade=t=out:st=%.2f:d=%g' % (longueur - FONDU[1], FONDU[1]))
+    commande = [ffmpeg, '-hide_banner', '-loglevel', 'error', '-y',
+                '-ss', '%.3f' % debut, '-t', '%.3f' % longueur, '-i', original,
+                '-map', '0:a:0', '-map_metadata', '-1']
+    if filtres:
+        commande += ['-af', ','.join(filtres)]
+    commande += ['-c:a', 'libmp3lame', '-b:a', '%dk' % kbps]
+    if mono:
+        commande += ['-ac', '1'] + (['-ar', '22050'] if kbps <= 64 else [])
+    provisoire = sortie + '.tmp'
+    commande += ['-id3v2_version', '0', '-f', 'mp3', provisoire]
+    r = subprocess.run(commande, capture_output=True, text=True, encoding='utf-8', errors='replace')
+    if r.returncode or not os.path.exists(provisoire):
+        if os.path.exists(provisoire):
+            os.remove(provisoire)
+        return None, (r.stderr or '').strip()[-300:]
+    os.replace(provisoire, sortie)
+    with open(sortie, 'rb') as f:
+        return f.read(), None
 
 
 def main():
@@ -188,8 +235,12 @@ def main():
                 erreur(s['lieu'], 'pas de « ' + champ + ': » pour « ' + s['id'] + ' »')
         if s.get('extrait') and not re.fullmatch(r'\d+(\.\d+)? (\d+(\.\d+)?|fin)', s['extrait']):
             erreur(s['lieu'], 'extrait illisible « ' + s['extrait'] + ' » (« début fin » en secondes)')
+        s.setdefault('debit', DEBIT)
+        if not re.fullmatch(r'(32|40|48|56|64|80|96|112|128|160|192)( mono)?', s['debit']):
+            erreur(s['lieu'], 'debit illisible « ' + s['debit'] + ' » (« 96 », « 48 mono »…)')
     if erreurs:
         fin()
+    ffmpeg = None
     precedent = {}
     if os.path.exists(SORTIE):
         precedent = json.load(io.open(SORTIE, encoding='utf-8')).get('sons', {})
@@ -199,7 +250,7 @@ def main():
     faits = 0
     for s in sons:
         sortie = os.path.join(DOSSIER, s['id'] + '.mp3')
-        signature = s['commons'] + '|' + s.get('extrait', '')
+        signature = '|'.join([s['commons'], s.get('extrait', ''), s['debit'], RECETTE])
         ancien = precedent.get(s['id'])
         if ancien and ancien.get('sig') == signature and os.path.exists(sortie):
             info = {'page': ancien['src'], 'licence': ancien['lic']}
@@ -227,20 +278,21 @@ def main():
                 with open(original, 'wb') as f:
                     f.write(donnees)
                 time.sleep(1)
-            with open(original, 'rb') as f:
-                donnees = f.read()
             debut, fin_ = 0.0, None
             if s.get('extrait'):
                 a, b = s['extrait'].split()
                 debut, fin_ = float(a), (None if b == 'fin' else float(b))
-            coupe, duree = couper(donnees, debut, fin_)
+            ffmpeg = ffmpeg or chercher_ffmpeg()
+            if not ffmpeg or not os.path.exists(shutil.which(ffmpeg) or ffmpeg):
+                erreur(s['lieu'], 'ffmpeg introuvable : donnez --ffmpeg=CHEMIN ou la variable FFMPEG')
+                fin()
+            coupe, message = encoder(ffmpeg, original, sortie, debut, fin_, s['debit'])
             if not coupe:
-                erreur(s['lieu'], 'aucune trame MP3 lisible dans ' + s['commons'])
+                erreur(s['lieu'], 'ffmpeg n’a rien tiré de ' + s['commons'] + ' : ' + (message or '?'))
                 continue
-            with open(sortie, 'wb') as f:
-                f.write(coupe)
+            duree = sum(d for _, _, d in trames(coupe))
             faits += 1
-            print('  ✓', s['id'], '%.1f s' % duree, round(len(coupe) / 1024), 'Ko', '(' + info['licence'] + ')')
+            print('  ✓', s['id'], '%.1f s' % duree, s['debit'], 'kbit/s', round(len(coupe) / 1024), 'Ko', '(' + info['licence'] + ')')
         with open(sortie, 'rb') as f:
             empreinte = hashlib.sha1(f.read()).hexdigest()[:10]
         resultat[s['id']] = {

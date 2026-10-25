@@ -169,7 +169,7 @@ alias: Rose-Croix catholique et esthétique du Temple et du Graal, Rose+Croix du
 an: 1891
 dates: 1891 – 1918
 def: Ordre fondé en 1891 par Joséphin Péladan, qui voulait unir la tradition rosicrucienne, la foi catholique et l'art idéaliste.
-texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses [[salons-de-la-rose-croix|Salons de la Rose+Croix]], de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'Erik Satie.
+texte: Après sa rupture avec [[stanislas-de-guaita]], [[josephin-peladan]] crée un ordre « catholique et esthétique », dont la mission est de restaurer le culte de l'idéal dans l'art. Ses [[salons-de-la-rose-croix|Salons de la Rose+Croix]], de 1892 à 1897, présentent des peintres symbolistes et sont accompagnés de musique, dont celle d'[[erik-satie|Erik Satie]].
 texte: Péladan, qui se proclame « Sâr », publie des mandements solennels et donne au mouvement un théâtre : sa pièce *Le Fils des étoiles*, jouée en mars 1892 pendant le premier Salon, est accompagnée des préludes d'Erik Satie, alors maître de chapelle de l'ordre. Satie rompt avec lui dès l'été suivant et fonde bientôt sa propre Église métropolitaine d'art de Jésus conducteur.
 texte: L'ordre, très lié à la personnalité de son fondateur, s'éteint avec lui.
 texte: La pensée de Péladan mêle la [[magie]], le culte du génie et un catholicisme très personnel. Le romancier de *La Décadence latine*, cycle ouvert en 1884 par *Le Vice suprême*, voit dans l'artiste un prêtre et un mage : c'est l'idéal que l'ordre a voulu servir, au cœur du [[symbolisme]].

@@ -17,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.9.0';
+const VERSION = 'v1.10.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [

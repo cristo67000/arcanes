@@ -13213,6 +13213,217 @@
    ],
    "sig": "Strassburg um 1900 (cropped).jpg||400|74"
   },
+  "portrait-debussy": {
+   "f": "img/portrait-debussy.webp",
+   "v": "57d0463a9d",
+   "w": 400,
+   "h": 559,
+   "l": "Claude Debussy, par l’atelier Nadar",
+   "cr": "photographie de l’atelier Nadar, entre 1890 et 1910 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_by_Atelier_Nadar.jpg",
+   "pour": [
+    "claude-debussy"
+   ],
+   "sig": "Claude Debussy by Atelier Nadar.jpg||400|74"
+  },
+  "la-mer-couverture": {
+   "f": "img/la-mer-couverture.webp",
+   "v": "f55ff4f981",
+   "w": 400,
+   "h": 606,
+   "l": "*La Mer*, la couverture de la première édition, d’après *La Grande Vague de Kanagawa* d’Hokusai",
+   "cr": "édition Durand, Paris, 1905 — Bibliothèque nationale de France, département de la Musique",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_La_mer_couverture.PNG",
+   "pour": [
+    "la-mer"
+   ],
+   "sig": "Claude Debussy La mer couverture.PNG||400|74"
+  },
+  "pelleas-rochegrosse": {
+   "f": "img/pelleas-rochegrosse.webp",
+   "v": "895801c191",
+   "w": 400,
+   "h": 551,
+   "l": "Pelléas et Mélisande enlacés, sur l’affiche de la création à l’Opéra-Comique, le 30 avril 1902",
+   "cr": "Georges Rochegrosse, 1902 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Georges_Rochegrosse_-_Poster_for_the_pr%C3%A8miere_of_Claude_Debussy_and_Maurice_Maeterlinck%27s_Pell%C3%A9as_et_M%C3%A9lisande.jpg",
+   "pour": [
+    "pelleas-et-melisande"
+   ],
+   "sig": "Georges Rochegrosse - Poster for the prèmiere of Claude Debussy and Maurice Maeterlinck's Pelléas et Mélisande.jpg||400|74"
+  },
+  "portrait-ravel": {
+   "f": "img/portrait-ravel.webp",
+   "v": "619cd3b726",
+   "w": 400,
+   "h": 533,
+   "l": "Maurice Ravel en 1925",
+   "cr": "photographie publiée en 1925 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Maurice_Ravel_1925.jpg",
+   "pour": [
+    "maurice-ravel"
+   ],
+   "sig": "Maurice Ravel 1925.jpg||400|74"
+  },
+  "gaspard-1842": {
+   "f": "img/gaspard-1842.webp",
+   "v": "30026a0850",
+   "w": 400,
+   "h": 621,
+   "l": "*Gaspard de la nuit*, « fantaisies à la manière de Rembrandt et de Callot », la première édition",
+   "cr": "Victor Pavie, Angers, et Labitte, Paris, 1842",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gaspard_de_la_Nuit1842.JPG",
+   "pour": [
+    "gaspard-de-la-nuit"
+   ],
+   "sig": "Gaspard de la Nuit1842.JPG||400|74"
+  },
+  "portrait-berlioz": {
+   "f": "img/portrait-berlioz.webp",
+   "v": "e05d57a0ae",
+   "w": 400,
+   "h": 491,
+   "l": "Hector Berlioz, par Pierre Petit",
+   "cr": "photographie de Pierre Petit, 1863 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Berlioz_Petit_BNF_Gallica.png",
+   "pour": [
+    "hector-berlioz"
+   ],
+   "sig": "Berlioz Petit BNF Gallica.png||400|74"
+  },
+  "fantastique-manuscrit": {
+   "f": "img/fantastique-manuscrit.webp",
+   "v": "74b2b7b848",
+   "w": 400,
+   "h": 465,
+   "l": "La page de titre du manuscrit autographe de la *Symphonie fantastique*",
+   "cr": "Hector Berlioz, 1830 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Symphonie_Fantastique.png",
+   "pour": [
+    "symphonie-fantastique"
+   ],
+   "sig": "Symphonie Fantastique.png||400|74"
+  },
+  "damnation-manuscrit": {
+   "f": "img/damnation-manuscrit.webp",
+   "v": "d393ef92a4",
+   "w": 400,
+   "h": 551,
+   "l": "La première page du manuscrit de *La Damnation de Faust*, « opéra de concert en 4 parties », sur des paroles de Gandonnière et de Gérard de Nerval",
+   "cr": "Hector Berlioz, 1846",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Berlioz_LDdF.jpg",
+   "pour": [
+    "la-damnation-de-faust"
+   ],
+   "sig": "Berlioz LDdF.jpg||400|74"
+  },
+  "portrait-gounod": {
+   "f": "img/portrait-gounod.webp",
+   "v": "8a2cf45298",
+   "w": 400,
+   "h": 587,
+   "l": "Charles Gounod, par Nadar",
+   "cr": "photographie de Nadar, 1890 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Charles_Gounod_(1890)_by_Nadar.jpg",
+   "pour": [
+    "charles-gounod"
+   ],
+   "sig": "Charles Gounod (1890) by Nadar.jpg||400|74"
+  },
+  "faust-jardin-1859": {
+   "f": "img/faust-jardin-1859.webp",
+   "v": "557b7a52e6",
+   "w": 400,
+   "h": 299,
+   "l": "Le jardin de Marguerite, au troisième acte de *Faust*, lors de la création au Théâtre-Lyrique",
+   "cr": "gravure de Pierre-Auguste Lamy d’après les décors de Cambon et Thierry, 1859",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Faust_by_Gounod_Act3_1859_engraving_by_Lamy_NGO2p134.jpg",
+   "pour": [
+    "faust-gounod"
+   ],
+   "sig": "Faust by Gounod Act3 1859 engraving by Lamy NGO2p134.jpg||400|74"
+  },
+  "portrait-scriabine": {
+   "f": "img/portrait-scriabine.webp",
+   "v": "5425c07eba",
+   "w": 400,
+   "h": 556,
+   "l": "Alexandre Scriabine, dessiné par Leonid Pasternak",
+   "cr": "Leonid Pasternak, 1909",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leonid_Pasternak_-_Alexander_Scriabin.jpg",
+   "pour": [
+    "alexandre-scriabine"
+   ],
+   "sig": "Leonid Pasternak - Alexander Scriabin.jpg||400|74"
+  },
+  "promethee-delville": {
+   "f": "img/promethee-delville.webp",
+   "v": "a20b867d20",
+   "w": 400,
+   "h": 545,
+   "l": "La couverture de *Prométhée* : un visage au cœur d’un soleil, que traversent les cordes d’une lyre",
+   "cr": "Jean Delville, Éditions russes de musique, Berlin et Moscou, 1911 — collection du Boston Symphony Orchestra",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Prometheus,_The_Poem_of_Fire,_Op._60,_by_Alexander_Scriabin,_cover,_1911,_from_Boston_Symphony_Orchestra_collection.jpg",
+   "pour": [
+    "promethee-poeme-du-feu",
+    "jean-delville"
+   ],
+   "sig": "Prometheus, The Poem of Fire, Op. 60, by Alexander Scriabin, cover, 1911, from Boston Symphony Orchestra collection.jpg||400|74"
+  },
+  "portrait-satie": {
+   "f": "img/portrait-satie.webp",
+   "v": "436d3563d8",
+   "w": 400,
+   "h": 728,
+   "l": "Erik Satie, peint par Suzanne Valadon",
+   "cr": "Suzanne Valadon, 1893 — musée national d’Art moderne, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Suzanne_Valadon_-_Portrait_d%27Erik_Satie.jpg",
+   "pour": [
+    "erik-satie"
+   ],
+   "sig": "Suzanne Valadon - Portrait d'Erik Satie.jpg||400|74"
+  },
+  "sonneries-couverture": {
+   "f": "img/sonneries-couverture.webp",
+   "v": "04529a9802",
+   "w": 400,
+   "h": 504,
+   "l": "Trois cavaliers sonnant de la trompe, d’après *La Guerre* de Puvis de Chavannes, sur la couverture des *Sonneries de la Rose+Croix*",
+   "cr": "partition, Paris, 1892 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Sonneries_de_la_Rose%2BCroix_de_Satie.jpg",
+   "pour": [
+    "sonneries-de-la-rose-croix"
+   ],
+   "sig": "Sonneries de la Rose+Croix de Satie.jpg||400|74"
+  },
+  "fils-des-etoiles-titre": {
+   "f": "img/fils-des-etoiles-titre.webp",
+   "v": "9a4f4346fc",
+   "w": 400,
+   "h": 576,
+   "l": "*Le Fils des étoiles*, « wagnérie kaldéenne du Sar Peladan », la page de titre des préludes de Satie",
+   "cr": "E. Baudoux, Paris, 1896 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_fils_des_%C3%A9toiles_de_Satie.jpg",
+   "pour": [
+    "le-fils-des-etoiles"
+   ],
+   "sig": "Le fils des étoiles de Satie.jpg||400|74"
+  },
   "lutin-altina": {
    "f": "img/lutin-altina.webp",
    "v": "3a1c8f7b51",

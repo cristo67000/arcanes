@@ -80,6 +80,7 @@ const CATEGORIES = [
   { id: 'mythes',     nom: 'Mythes et allégories' },
   { id: 'litterature', nom: 'Littérature' },
   { id: 'peinture',   nom: 'Peinture et gravure' },
+  { id: 'musique',    nom: 'Musique' },
   { id: 'bestiaire',  nom: 'Animaux fantastiques et symboliques' },
   { id: 'egypte',     nom: 'Égyptologie' },
   { id: 'codes',      nom: 'Codes secrets' },

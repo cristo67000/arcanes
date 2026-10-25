@@ -62,6 +62,7 @@
   --c-apocryphes: #7a4b26;
   --c-litterature: #4d4520;
   --c-peinture: #ca1652;
+  --c-musique: #5c0b0b;
   --c-perso: #6b6577;
 
   /* la carte des lieux */
@@ -139,6 +140,7 @@
     --c-apocryphes: #e3ab7d;
     --c-litterature: #f4db34;
     --c-peinture: #f65a8e;
+    --c-musique: #f53838;
     --c-perso: #aaa3b8;
     --mer: #0e1522;
     --terre: #221d31;
@@ -206,6 +208,7 @@
   --c-apocryphes: #e3ab7d;
   --c-litterature: #f4db34;
   --c-peinture: #f65a8e;
+  --c-musique: #f53838;
   --c-perso: #aaa3b8;
   --mer: #0e1522;
   --terre: #221d31;

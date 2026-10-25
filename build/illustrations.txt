@@ -6100,6 +6100,98 @@ legende: La cathédrale de Strasbourg et sa flèche unique, vers 1900
 credit: photochrome, entre 1890 et 1905
 pour: cathedrale-de-strasbourg
 
+% Musique (1.10)
+
+= portrait-debussy
+commons: Claude Debussy by Atelier Nadar.jpg
+legende: Claude Debussy, par l’atelier Nadar
+credit: photographie de l’atelier Nadar, entre 1890 et 1910 — Bibliothèque nationale de France
+pour: claude-debussy
+
+= la-mer-couverture
+commons: Claude Debussy La mer couverture.PNG
+legende: *La Mer*, la couverture de la première édition, d’après *La Grande Vague de Kanagawa* d’Hokusai
+credit: édition Durand, Paris, 1905 — Bibliothèque nationale de France, département de la Musique
+pour: la-mer
+
+= pelleas-rochegrosse
+commons: Georges Rochegrosse - Poster for the prèmiere of Claude Debussy and Maurice Maeterlinck's Pelléas et Mélisande.jpg
+legende: Pelléas et Mélisande enlacés, sur l’affiche de la création à l’Opéra-Comique, le 30 avril 1902
+credit: Georges Rochegrosse, 1902 — Bibliothèque nationale de France
+pour: pelleas-et-melisande
+
+= portrait-ravel
+commons: Maurice Ravel 1925.jpg
+legende: Maurice Ravel en 1925
+credit: photographie publiée en 1925 — Bibliothèque nationale de France
+pour: maurice-ravel
+
+= gaspard-1842
+commons: Gaspard de la Nuit1842.JPG
+legende: *Gaspard de la nuit*, « fantaisies à la manière de Rembrandt et de Callot », la première édition
+credit: Victor Pavie, Angers, et Labitte, Paris, 1842
+pour: gaspard-de-la-nuit
+
+= portrait-berlioz
+commons: Berlioz Petit BNF Gallica.png
+legende: Hector Berlioz, par Pierre Petit
+credit: photographie de Pierre Petit, 1863 — Bibliothèque nationale de France
+pour: hector-berlioz
+
+= fantastique-manuscrit
+commons: Symphonie Fantastique.png
+legende: La page de titre du manuscrit autographe de la *Symphonie fantastique*
+credit: Hector Berlioz, 1830 — Bibliothèque nationale de France
+pour: symphonie-fantastique
+
+= damnation-manuscrit
+commons: Berlioz LDdF.jpg
+legende: La première page du manuscrit de *La Damnation de Faust*, « opéra de concert en 4 parties », sur des paroles de Gandonnière et de Gérard de Nerval
+credit: Hector Berlioz, 1846
+pour: la-damnation-de-faust
+
+= portrait-gounod
+commons: Charles Gounod (1890) by Nadar.jpg
+legende: Charles Gounod, par Nadar
+credit: photographie de Nadar, 1890 — Bibliothèque nationale de France
+pour: charles-gounod
+
+= faust-jardin-1859
+commons: Faust by Gounod Act3 1859 engraving by Lamy NGO2p134.jpg
+legende: Le jardin de Marguerite, au troisième acte de *Faust*, lors de la création au Théâtre-Lyrique
+credit: gravure de Pierre-Auguste Lamy d’après les décors de Cambon et Thierry, 1859
+pour: faust-gounod
+
+= portrait-scriabine
+commons: Leonid Pasternak - Alexander Scriabin.jpg
+legende: Alexandre Scriabine, dessiné par Leonid Pasternak
+credit: Leonid Pasternak, 1909
+pour: alexandre-scriabine
+
+= promethee-delville
+commons: Prometheus, The Poem of Fire, Op. 60, by Alexander Scriabin, cover, 1911, from Boston Symphony Orchestra collection.jpg
+legende: La couverture de *Prométhée* : un visage au cœur d’un soleil, que traversent les cordes d’une lyre
+credit: Jean Delville, Éditions russes de musique, Berlin et Moscou, 1911 — collection du Boston Symphony Orchestra
+pour: promethee-poeme-du-feu, jean-delville
+
+= portrait-satie
+commons: Suzanne Valadon - Portrait d'Erik Satie.jpg
+legende: Erik Satie, peint par Suzanne Valadon
+credit: Suzanne Valadon, 1893 — musée national d’Art moderne, Paris
+pour: erik-satie
+
+= sonneries-couverture
+commons: Sonneries de la Rose+Croix de Satie.jpg
+legende: Trois cavaliers sonnant de la trompe, d’après *La Guerre* de Puvis de Chavannes, sur la couverture des *Sonneries de la Rose+Croix*
+credit: partition, Paris, 1892 — Bibliothèque nationale de France
+pour: sonneries-de-la-rose-croix
+
+= fils-des-etoiles-titre
+commons: Le fils des étoiles de Satie.jpg
+legende: *Le Fils des étoiles*, « wagnérie kaldéenne du Sar Peladan », la page de titre des préludes de Satie
+credit: E. Baudoux, Paris, 1896 — Bibliothèque nationale de France
+pour: le-fils-des-etoiles
+
 % Figures découpées pour les animations (build/animations.txt) : sans « pour »,
 % elles ne paraissent qu'animées, par-dessus une autre gravure
 

@@ -1,4 +1,4 @@
-# Les sons de l'application : cris d'animaux, musiques, poèmes dits.
+# Les sons de l'application : musiques, cloches, bruits, poèmes dits.
 #
 #     python build/sonoriser.py      télécharge, vérifie la licence, coupe l'extrait
 #                                    dans son/ et écrit build/sons.json
@@ -12,183 +12,36 @@
 #
 # ── Un son ──────────────────────────────────────────────────────────────────
 #
-#   = loup-hurlements             identifiant : le fichier sera son/loup-hurlements.mp3
-#   commons: Wolf howls.ogg       le fichier sur Wikimedia Commons, sans « File: »
-#   titre: Hurlements de loups    ce qu'on lit à côté du bouton (*italique* permise)
+#   = dies-irae                   identifiant : le fichier sera son/dies-irae.mp3
+#   commons: Dies.irae.ogg        le fichier sur Wikimedia Commons, sans « File: »
+#   titre: Le *Dies irae*         ce qu'on lit à côté du bouton (*italique* permise)
 #   credit: …                     l'interprète, la date — la licence s'ajoute seule
-#   pour: loup                    les articles où il s'écoute
+#   pour: apocalypse              les articles où il s'écoute
 #   extrait: 0 90                 (facultatif) le passage gardé, en secondes ; « 30 fin »
+#   debit: 64 mono                (facultatif) le débit du MP3 réencodé, en kbit/s, et
+#                                 « mono » pour un enregistrement qui l'est : 96 en stéréo
+#                                 par défaut ; en mono à 64 ou moins, on passe à 22 050 Hz
 #
-# « % un titre » ne sert qu'à ranger le fichier.
-
-% Animaux
-
-= loup-hurlements
-commons: Wolf howls.ogg
-titre: Hurlements de loups
-credit: enregistrement versé au domaine public
-pour: loup, loup-garou
-
-= corbeau-grand
-commons: Yellowstone sound library - Common Raven - 001.mp3
-titre: Le grand corbeau appelle et s’envole
-credit: David Restivo, National Park Service, parc de Yellowstone, 2013
-pour: corbeau
-
-= chat-ronronnement
-commons: Purring cat.oga
-titre: Le ronronnement d’un chat
-credit: Mysid, 2007
-pour: chat
-
-= coq-chant
-commons: Medium rooster crowing.ogg
-titre: Le chant du coq
-credit: alys, pdsounds.org, 2008
-pour: coq
-
-= abeilles-ruche
-commons: Honeybee-hive.ogg
-titre: Des abeilles carnioliennes dans leur ruche
-credit: Skinkie, 2010
-pour: abeille
-extrait: 20 50
-
-= serpent-crotale
-commons: Rattlesnake.ogg
-titre: La crécelle d’un crotale
-credit: enregistrement versé au domaine public
-pour: serpent, basilic
-
-= crapaud-commun
-commons: Erdkröte Paarungsruf.OGG
-titre: L’appel du crapaud commun au printemps
-credit: Rabe19, 2013
-pour: crapaud
-
-= colombe-roucoulement
-commons: Dove cooing.ogg
-titre: Une colombe roucoule
-credit: mary905, pdsounds.org, 2008
-pour: colombe
-
-= paon-cri
-commons: Pavo cristatus (call).ogg
-titre: Le cri du paon
-credit: Ke4roh, zoo de Denver, 2009
-pour: paon
-
-= aigle-cri
-commons: Yellowstone sound library - Bald Eagle - 003.mp3
-titre: Le cri du pygargue à tête blanche
-credit: Jennifer Jerrett, National Park Service et Acoustic Atlas, parc de Yellowstone, 2014
-pour: aigle
-
-= cygnes-chanteurs
-commons: Tundra swans.ogg
-titre: Des cygnes siffleurs en vol
-credit: U.S. Fish and Wildlife Service
-pour: cygne
-
-= chien-hurlement
-commons: Jem howls.ogg
-titre: Un chien hurle
-credit: amethysta, pdsounds.org, 2007
-pour: chien, cerbere
-
-= chouette-cheveche
-commons: Steinkauz.OGG
-titre: La chevêche, la petite chouette d’Athéna
-credit: Rabe19, 2013
-pour: chouette
-extrait: 0 30
-
-= baleine-chant
-commons: Humpbackwhale2.ogg
-titre: Le chant des baleines à bosse
-credit: Spyrogumas
-pour: leviathan, jonas
-
-= lion-rugissement
-commons: Lion raring-sound1TamilNadu178.ogg
-titre: Le rugissement d’un lion
-credit: த. உழவன், lion d’un parc zoologique du Tamil Nadu
-pour: lion-symbole, sphinx
-
-= cheval-hennissement
-commons: Wiehern.ogg
-titre: Le hennissement d’un cheval
-credit: enregistrement versé au domaine public
-pour: pegase, centaure, hippogriffe
-
-= chevaux-galop
-commons: Six Horses Galloping By.ogg
-titre: Six chevaux passent au galop
-credit: Bruno Auzet, Freesound Community et Pixabay
-pour: quatre-cavaliers
-
-= ane-braiment
-commons: 157763 felix-blume a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav
-titre: Un âne brait dans son enclos, dans le Midi de la France
-credit: Félix Blume, freesound.org
-pour: apulee
-
-= dauphins
-commons: 161691 felixblume dolphin-screaming-underwater-in-caribbean-sea-mexico.wav
-titre: Des dauphins s’appellent sous l’eau, dans la mer des Caraïbes
-credit: Félix Blume, freesound.org, au large du Mexique
-pour: dauphin
-
-= mouton-belement
-commons: Sheep bleating.ogg
-titre: Le bêlement d’un mouton
-credit: earthcalling, pdsounds.org
-pour: agneau, belier-symbole
-
-= chevres-troupeau
-commons: Herd of goats bleating.ogg
-titre: Un troupeau de chèvres
-credit: stephan, pdsounds.org
-pour: baphomet, pan
-
-= ours-grizzlis
-commons: Yellowstone sound library - Grizzly Bears Roar - 001.mp3
-titre: Deux grizzlis grondent l’un contre l’autre, sur une carcasse de bison
-credit: Jennifer Jerrett, NPS et MSU Acoustic Atlas, parc de Yellowstone
-pour: ours
-
-= cerf-brame
-commons: American Elk Bugling.ogg
-titre: Le brame d’un wapiti, le grand cerf d’Amérique du Nord
-credit: Jim Pisarowicz, parc national de Wind Cave (National Park Service)
-pour: cerf
-
-= elephant-barrissement
-commons: Elephant voice - trumpeting.ogg
-titre: Le barrissement d’un éléphant
-credit: தகவலுழவன், Tamil Nadu
-pour: elephant, behemoth
-
-= rossignol-1910
-commons: Song of a nightingale (1910).opus
-titre: Le chant d’un rossignol, sur un disque de 1910
-credit: Max Hampe, dans la volière de Karl Reich à Brême, disque Gramophone, 1910
-pour: langue-des-oiseaux
-extrait: 0 75
+# « % un titre » ouvre un lot : un « debit: » écrit juste après vaut pour tous
+# les sons suivants, jusqu'au prochain « % ». Les 78 tours, les cylindres et les
+# lectures sont en mono : ils n'ont rien à perdre à être compressés comme tels.
 
 % Musiques
+debit: 96
 
 = reine-de-la-nuit
 commons: W. A. Mozart - Die Zauberflöte - 18. Der Hölle Rache kocht in meinem Herzen (Ferenc Fricsay, 1953).ogg
 titre: Mozart, *La Flûte enchantée* : l’air de la Reine de la Nuit, « Der Hölle Rache »
 credit: Rita Streich, orchestre de la RIAS, direction Ferenc Fricsay, 1953
 pour: la-flute-enchantee, wolfgang-amadeus-mozart
+debit: 80 mono
 
 = lohengrin-graal
 commons: In fernem Land - Hermann Jadlowker.ogg
 titre: Wagner, *Lohengrin* : « In fernem Land », le récit du Graal
 credit: Hermann Jadlowker, Victor Orchestra, 1912
 pour: lohengrin, graal
+debit: 64 mono
 
 = parsifal-prelude
 commons: Parsifal Act III- Prelude.ogg
@@ -196,6 +49,7 @@ titre: Wagner, *Parsifal* : le prélude du troisième acte
 credit: orchestre de l’Opéra d’État de Berlin, direction Karl Muck, 1928
 pour: perceval, richard-wagner
 extrait: 0 150
+debit: 64 mono
 
 = holst-mars
 commons: Holst- mars.ogg
@@ -231,6 +85,7 @@ titre: Holst, *Les Planètes* : « Saturne, celui qui apporte la vieillesse »
 credit: Orchestre symphonique de Londres, direction Gustav Holst, 1923
 pour: saturne
 extrait: 0 120
+debit: 64 mono
 
 = holst-uranus
 commons: Holst- uranus.ogg
@@ -245,12 +100,13 @@ titre: Holst, *Les Planètes* : « Neptune, le mystique »
 credit: Orchestre symphonique de Londres, direction Gustav Holst, 1923
 pour: neptune
 extrait: 0 120
+debit: 64 mono
 
 = berlioz-sabbat
 commons: Hector Berlioz - Symphonie fantastique, op. 14 - 5. Songe d'une nuit du Sabbat (Igor Markevitch, Orchestre Lamoureux, 1962).ogg
 titre: Berlioz, *Symphonie fantastique* : « Songe d’une nuit du sabbat »
 credit: Orchestre Lamoureux, direction Igor Markevitch, 1962
-pour: sabbat, le-sabbat-des-sorcieres
+pour: sabbat, le-sabbat-des-sorcieres, symphonie-fantastique
 extrait: 0 150
 
 = mont-chauve
@@ -264,13 +120,14 @@ extrait: 0 150
 commons: Faust de Gounod Le veau d'or.ogg
 titre: Gounod, *Faust* : « Le Veau d’or », chanté par Méphistophélès
 credit: Fédor Chaliapine, avant 1938
-pour: faust
+pour: faust, faust-gounod
+debit: 64 mono
 
 = satie-gnossienne
 commons: Satie - Gnossienne 1.ogg
 titre: Satie, *Gnossienne n° 1*, composée en 1890, à la veille de ses années rose-croix
 credit: La Pianista
-pour: salons-de-la-rose-croix
+pour: salons-de-la-rose-croix, erik-satie
 
 = dies-irae
 commons: Dies.irae.ogg
@@ -279,7 +136,68 @@ credit: Membeth, 2010
 pour: apocalypse
 extrait: 0 100
 
+= lamer-dialogue
+commons: La mer - III. Dialogue du vent et de la mer - Concert Band - United States Air Force Band.mp3
+titre: Debussy, *La Mer* : « Dialogue du vent et de la mer », transcrit pour orchestre d’harmonie
+credit: Concert Band de l’United States Air Force Band, 2000
+pour: la-mer, claude-debussy
+extrait: 0 110
+
+= debussy-syrinx
+commons: Debussy - Syrinx.ogg
+titre: Debussy, *Syrinx*, pour flûte seule (1913), la flûte de Pan
+credit: Sarah Bassingthwaite, université de Washington, 2006
+pour: claude-debussy, pan
+
+= ravel-ondine
+commons: Maurice Ravel Ondine.ogg
+titre: Ravel, *Gaspard de la nuit* : « Ondine »
+credit: Bernd Krüger, 2008
+pour: gaspard-de-la-nuit, maurice-ravel
+extrait: 0 100
+
+= berlioz-supplice
+commons: Hector Berlioz - Symphonie fantastique, op. 14 - 4. Marche au supplice (Igor Markevitch, Orchestre Lamoureux, 1962).flac
+titre: Berlioz, *Symphonie fantastique* : « Marche au supplice »
+credit: Orchestre Lamoureux, direction Igor Markevitch, 1962
+pour: symphonie-fantastique, hector-berlioz
+extrait: 0 100
+
+= damnation-marche-hongroise
+commons: Marche Hongroise - U.S. Marine Band.ogg
+titre: Berlioz, *La Damnation de Faust* : la Marche hongroise, sur le thème de Rákóczi
+credit: United States Marine Band
+pour: la-damnation-de-faust, hector-berlioz
+extrait: 0 100
+
+= damnation-voici-des-roses
+commons: Voici des roses.ogg
+titre: Berlioz, *La Damnation de Faust* : « Voici des roses », air de Méphistophélès
+credit: Maurice Renaud, 1909
+pour: la-damnation-de-faust
+debit: 64 mono
+
+= faust-air-des-bijoux
+commons: Gounod - Melba - Ah je ris de me voir si belle (Faust, air des bijoux) - 1910.ogg
+titre: Gounod, *Faust* : l’air des bijoux, « Ah ! je ris de me voir si belle »
+credit: Nellie Melba, 1910
+pour: faust-gounod, charles-gounod
+debit: 64 mono
+
+= scriabine-mazurka-1910
+commons: Skrjabin op 40 2.ogg
+titre: Scriabine joue lui-même sa *Mazurka* op. 40 n° 2, sur un rouleau Welte-Mignon
+credit: Alexandre Scriabine, Moscou, janvier 1910
+pour: alexandre-scriabine
+
+= satie-gymnopedie
+commons: Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg
+titre: Satie, *Première Gymnopédie*, « lent et douloureux » (1888)
+credit: Robin Alciatore
+pour: erik-satie
+
 % Cloches
+debit: 96
 
 = notre-dame-emmanuel
 commons: ND G1 Emmanuel.ogg
@@ -299,6 +217,7 @@ commons: GlockenSMarco.ogg
 titre: Les cloches de Saint-Marc, à Venise
 credit: Mafs, enregistrement versé au domaine public
 pour: venise
+debit: 80 mono
 
 = strasbourg-plenum
 commons: Plénum de la Cathédrale Notre Dame de Strasbourg - 9 juillet 2000.ogg
@@ -308,6 +227,7 @@ pour: cathedrale-de-strasbourg
 extrait: 0 75
 
 % Bruits
+debit: 80
 
 = notre-dame-cloches
 commons: 2011 Christmas bells at Notre-Dame de Paris (excerpt).wav
@@ -328,8 +248,10 @@ commons: Rain and thunder (1).ogg
 titre: La pluie et le tonnerre
 credit: ezwa, pdsounds.org, 2008
 pour: pierre-de-foudre
+debit: 80 mono
 
 % Paroles
+debit: 48 mono
 
 = correspondances-lue
 commons: Fleursdumal 004 baudelaire 128kb.mp3

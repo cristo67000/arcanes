@@ -1,0 +1,331 @@
+# Musique (1.10) : les compositeurs, dans les Figures, et leurs œuvres, dans
+# la rubrique « Musique ». Les extraits sont tirés des textes du domaine public
+# (Maeterlinck, Aloysius Bertrand, Berlioz, Debussy, Satie) ; les enregistrements
+# sont dans build/sons.txt. Les œuvres de Scelsi, de Stockhausen et de Rudhyar
+# ne sont pas libres : ni extrait ni son.
+
+@ claude-debussy
+cat: figures
+nom: Claude Debussy
+alias: Debussy, Claude-Achille Debussy, Monsieur Croche
+dates: 1862 – 1918
+an: 1862
+def: Compositeur français, maître de l'impressionnisme musical et ami des poètes symbolistes, auteur de *Pelléas et Mélisande* et de *La Mer*, que de faux documents ont fait grand maître du Prieuré de Sion.
+texte: Né en 1862 à Saint-Germain-en-Laye, Claude Debussy entre à dix ans au Conservatoire de Paris et obtient le prix de Rome en 1884. Il découvre Wagner à Bayreuth, le gamelan javanais à l'Exposition universelle de 1889, et fréquente les mardis de Mallarmé, dont *L'Après-midi d'un faune* lui inspire un prélude (1894). Il meurt à Paris en mars 1918, pendant les bombardements allemands.
+texte: Il est un habitué de la Librairie de l'Art indépendant d'Edmond Bailly, rue de la Chaussée-d'Antin, où se croisent les poètes, [[erik-satie|Erik Satie]] et les occultistes de la fin du siècle. Il met en musique *La Damoiselle élue* de [[dante-gabriel-rossetti|Rossetti]] (1888), des poèmes de [[charles-baudelaire|Baudelaire]], rêve d'opéras d'après [[edgar-allan-poe|Poe]] et compose avec Gabriele D'Annunzio *Le Martyre de saint Sébastien* (1911), un mystère. Sa *Cathédrale engloutie* (1910) évoque la ville d'Ys qui sort des eaux.
+texte: Dans les années 1960, les « Dossiers secrets » fabriqués par [[pierre-plantard|Pierre Plantard]] le rangent parmi les grands maîtres du [[prieure-de-sion|Prieuré de Sion]], entre Victor Hugo et Jean Cocteau : une liste inventée, que l'enquête a démontée.
+repere: 1862 — Naissance à Saint-Germain-en-Laye.
+repere: 1884 — Prix de Rome.
+repere: 1894 — *Prélude à l'après-midi d'un faune*.
+repere: 1902 — Création de *Pelléas et Mélisande* à l'Opéra-Comique.
+repere: 1905 — *La Mer*.
+repere: 1918 — Mort à Paris.
+oeuvres: Prélude à l'après-midi d'un faune (1894) ; Pelléas et Mélisande (1902) ; La Mer (1905) ; Préludes (1910-1913) ; Le Martyre de saint Sébastien (1911) ; Monsieur Croche, antidilettante (1921)
+extrait: Il reprit : « La musique est un total de forces éparses… On en fait une chanson spéculative ! J’aime mieux les quelques notes de la flûte d’un berger égyptien, il collabore au paysage et entend des harmonies ignorées de vos traités… Les musiciens n’écoutent que la musique écrite par des mains adroites ; jamais celle qui est inscrite dans la nature. Voir le jour se lever est plus utile que d’entendre la Symphonie Pastorale. À quoi bon votre art presque incompréhensible ? Ne devriez-vous pas en supprimer les complications parasites qui l’assimilent pour l’ingéniosité à une serrure de coffre-fort… Vous piétinez parce que vous ne savez que la musique et obéissez à des lois barbares et inconnues… On vous salue d’épithètes somptueuses et vous n’êtes que malins ! Quelque chose entre le singe et le domestique. »
+source: Claude Debussy, *Monsieur Croche, antidilettante*, chap. I, « Monsieur Croche antidilettante », Dorbon-aîné, 1921 | ws Monsieur Croche/Monsieur Croche antidilettante
+voir: pelleas-et-melisande, la-mer, maurice-maeterlinck, erik-satie, symbolisme, prieure-de-sion, edgar-allan-poe, dante-gabriel-rossetti, maurice-ravel, faust-gounod
+
+@ la-mer
+cat: musique
+nom: La Mer
+alias: La Mer de Debussy, trois esquisses symphoniques, De l'aube à midi sur la mer, Jeux de vagues, Dialogue du vent et de la mer
+dates: 1905
+an: 1905
+def: Trois esquisses symphoniques de Claude Debussy, créées à Paris en 1905, dont la partition parut sous la grande vague d'Hokusai : la mer peinte par l'orchestre, du lever du jour au dialogue du vent et des flots.
+texte: [[claude-debussy|Debussy]], qui se disait destiné à être marin, compose *La Mer* de 1903 à 1905, loin de la côte, en Bourgogne, puis à Jersey et à Eastbourne. Les trois mouvements, « De l'aube à midi sur la mer », « Jeux de vagues » et « Dialogue du vent et de la mer », ne racontent rien : ils suivent les changements de la lumière et du mouvement de l'eau. L'œuvre est créée le 15 octobre 1905 par les Concerts Lamoureux, sous la direction de Camille Chevillard.
+texte: À la demande du compositeur, la couverture de la première édition reproduit *La Grande Vague de Kanagawa* d'Hokusai. Mal reçue d'abord, *La Mer* est devenue l'un des sommets de la musique symphonique, et l'exemple même d'une musique qui veut rendre, comme l'écrivait Debussy, ce qui est « invisible » dans la nature.
+voir: claude-debussy, pelleas-et-melisande, symbolisme
+
+@ pelleas-et-melisande
+cat: musique
+nom: Pelléas et Mélisande
+alias: Pelléas, Mélisande, Golaud, Allemonde, opéra de Debussy
+dates: 1902
+an: 1902
+def: Drame de Maurice Maeterlinck (1892), devenu en 1902 l'unique opéra achevé de Claude Debussy : dans le royaume imaginaire d'Allemonde, l'amour sans issue de Pelléas et de Mélisande, la femme venue de nulle part.
+texte: [[maurice-maeterlinck|Maeterlinck]] publie en 1892 ce drame [[symbolisme|symboliste]] où rien n'est dit en clair : Golaud trouve au bord d'une fontaine, dans la forêt, une jeune femme en pleurs qui ne sait d'où elle vient ; il l'épouse, et elle aime son demi-frère Pelléas. Tout fait signe, la fontaine des aveugles où Mélisande laisse tomber son anneau, les souterrains du château, la tour d'où ses cheveux descendent jusqu'à Pelléas, les brebis qu'on mène à l'abattoir.
+texte: [[claude-debussy|Debussy]] y travaille de 1893 à 1902. L'opéra est créé à l'Opéra-Comique le 30 avril 1902, avec l'Écossaise Mary Garden en Mélisande, sous la direction d'André Messager. Maeterlinck, qui voulait le rôle pour sa compagne Georgette Leblanc, désavoue publiquement l'œuvre ; elle est pourtant devenue le modèle d'un théâtre lyrique où la musique dit ce que les mots taisent.
+extrait: Mes longs cheveux descendent jusqu’au seuil de la tour ! // Mes cheveux vous attendent tout le long de la tour ! // Et tout le long du jour ! // Et tout le long du jour ! // Saint Daniel et Saint Michel, // Saint Michel et Saint Raphaël, // Je suis née un Dimanche ! // Un Dimanche à midi ! ¶ PELLÉAS. (…) Que fais-tu là à la fenêtre en chantant comme un oiseau qui n’est pas d’ici ? ¶ MÉLISANDE. J’arrange mes cheveux pour la nuit… ¶ PELLÉAS. C’est là ce que je vois sur le mur !… Je croyais que c’était un rayon de lumière…
+source: Maurice Maeterlinck, *Pelléas et Mélisande*, 1892, acte III, scène I, éd. Paul Lacomblez, 1907 | ws Pelléas et Mélisande/Acte 3
+voir: maurice-maeterlinck, claude-debussy, symbolisme, la-mer
+
+@ maurice-ravel
+cat: figures
+nom: Maurice Ravel
+alias: Ravel
+dates: 1875 – 1937
+an: 1875
+def: Compositeur français, orfèvre de l'orchestre et du piano, qui mit en musique les sortilèges des contes et les fantômes d'Aloysius Bertrand dans *Gaspard de la nuit*.
+texte: Né en 1875 à Ciboure, au Pays basque, Maurice Ravel étudie au Conservatoire de Paris avec Gabriel Fauré ; ses échecs répétés au prix de Rome font scandale en 1905. Il fréquente le groupe des « Apaches », artistes et poètes, avec le pianiste Ricardo Viñes, qui créera la plupart de ses œuvres pour piano. Il meurt à Paris en 1937, après une opération du cerveau.
+texte: Son goût du merveilleux traverse son œuvre : les contes de *Ma mère l'Oye* (1910), *Shéhérazade* (1903), les objets et les bêtes qui s'animent dans *L'Enfant et les sortilèges* (1925), sur un livret de Colette, et surtout *[[gaspard-de-la-nuit|Gaspard de la nuit]]* (1908), où passent une ondine, un pendu et un lutin. Le *Boléro* (1928) l'a rendu universel.
+repere: 1875 — Naissance à Ciboure.
+repere: 1905 — L'« affaire Ravel » : il est écarté du prix de Rome.
+repere: 1908 — *Gaspard de la nuit*.
+repere: 1928 — *Boléro*.
+repere: 1937 — Mort à Paris.
+oeuvres: Shéhérazade (1903) ; Gaspard de la nuit (1908) ; Ma mère l'Oye (1910) ; L'Enfant et les sortilèges (1925) ; Boléro (1928)
+voir: gaspard-de-la-nuit, claude-debussy, elementaux
+
+@ gaspard-de-la-nuit
+cat: musique
+nom: Gaspard de la nuit
+alias: Gaspard de la Nuit, Ondine, Le Gibet, Scarbo, Aloysius Bertrand, fantaisies à la manière de Rembrandt et de Callot
+dates: 1842 ; 1908
+an: 1908
+def: Recueil de poèmes en prose d'Aloysius Bertrand (1842), « fantaisies à la manière de Rembrandt et de Callot », dont Ravel tira en 1908 trois poèmes pour piano : *Ondine*, *Le Gibet* et *Scarbo*.
+texte: Aloysius Bertrand, poète dijonnais mort pauvre en 1841, laisse un manuscrit publié l'année suivante grâce à Sainte-Beuve. Dans la préface, un inconnu remet au narrateur ce livre de visions avant de disparaître : c'est Gaspard de la Nuit, autrement dit le diable. Les poèmes peuplent le Moyen Âge de Dijon d'alchimistes, de lépreux, de gnomes et de nains railleurs ; Baudelaire y trouvera le modèle de ses *Petits poèmes en prose*.
+texte: [[maurice-ravel|Ravel]] en retient trois. Ondine, l'esprit des eaux des [[elementaux|élémentaires]] de Paracelse, chante pour séduire un mortel ; Le Gibet fait sonner une cloche au-dessus d'un pendu ; Scarbo, nain malfaisant, tournoie dans la chambre comme un cauchemar. Ricardo Viñes crée l'œuvre le 9 janvier 1909 : Ravel voulait que *Scarbo* fût plus difficile qu'*Islamey* de Balakirev, réputé le morceau le plus redoutable du répertoire.
+extrait: — « Écoute ! — Écoute ! — C’est moi, c’est Ondine qui frôle de ces gouttes d’eau les losanges sonores de ta fenêtre illuminée par les mornes rayons de la lune ; et voici, en robe de moire, la dame châtelaine qui contemple à son balcon la belle nuit étoilée et le beau lac endormi. ¶ » Chaque flot est un ondin qui nage dans le courant, chaque courant est un sentier qui serpente vers mon palais, et mon palais est bâti fluide, au fond du lac, dans le triangle du feu, de la terre et de l’air. ¶ (…) Sa chanson murmurée, elle me supplia de recevoir son anneau à mon doigt, pour être l’époux d’une Ondine, et de visiter avec elle son palais, pour être le roi des lacs. ¶ Et comme je lui répondais que j’aimais une mortelle, boudeuse et dépitée, elle pleura quelques larmes, poussa un éclat de rire, et s’évanouit en giboulées qui ruisselèrent blanches le long de mes vitraux bleus.
+source: Aloysius Bertrand, *Gaspard de la nuit*, livre III, « Ondine », 1842, éd. Mercure de France, 1920 | ws Gaspard de la nuit (éd. 1920)/Ondine
+voir: maurice-ravel, elementaux, paracelse, charles-baudelaire
+
+@ hector-berlioz
+cat: figures
+nom: Hector Berlioz
+alias: Berlioz
+dates: 1803 – 1869
+an: 1803
+def: Compositeur romantique français, inventeur de l'orchestre moderne, qui fit entendre le sabbat des sorcières dans la *Symphonie fantastique* et la chevauchée de Faust vers l'abîme dans *La Damnation de Faust*.
+texte: Né en 1803 à La Côte-Saint-André, en Dauphiné, fils de médecin, Hector Berlioz abandonne la médecine pour le Conservatoire. En 1827, il voit l'actrice irlandaise Harriet Smithson jouer Shakespeare et en tombe éperdument amoureux ; il l'épousera en 1833. Prix de Rome en 1830, critique redouté du *Journal des débats*, il dirige ses œuvres dans toute l'Europe mais reste méconnu à Paris, où il meurt en 1869.
+texte: Le [[faust|Faust]] de [[johann-wolfgang-von-goethe|Goethe]], lu dans la traduction de [[gerard-de-nerval|Gérard de Nerval]], ne le quitte plus : il en tire dès 1829 des *Huit scènes de Faust*, puis la *[[symphonie-fantastique|Symphonie fantastique]]* et *[[la-damnation-de-faust|La Damnation de Faust]]*. Sa *Grande Messe des morts* (1837) déchaîne quatre orchestres de cuivres aux angles de la salle pour le *Tuba mirum*, et *Les Troyens* (1856-1858) ressuscitent l'Énéide.
+extrait: Je dois encore signaler comme un des incidents remarquables de ma vie, l’impression étrange et profonde que je reçus en lisant pour la première fois le Faust de Gœthe traduit en français par Gérard de Nerval. Le merveilleux livre me fascina de prime-abord ; je ne le quittai plus ; je le lisais sans cesse, à table, au théâtre, dans les rues, partout.
+source: Hector Berlioz, *Mémoires*, chap. XXVI, Michel Lévy, 1870 | ws Mémoires de Hector Berlioz/26
+repere: 1803 — Naissance à La Côte-Saint-André.
+repere: 1827 — Il voit Harriet Smithson jouer Shakespeare à l'Odéon.
+repere: 1830 — *Symphonie fantastique* ; prix de Rome.
+repere: 1846 — *La Damnation de Faust*.
+repere: 1869 — Mort à Paris.
+oeuvres: Symphonie fantastique (1830) ; Grande Messe des morts (1837) ; La Damnation de Faust (1846) ; Les Troyens (1856-1858) ; Mémoires (1870)
+voir: symphonie-fantastique, la-damnation-de-faust, faust, gerard-de-nerval, johann-wolfgang-von-goethe, sabbat, charles-gounod
+
+@ symphonie-fantastique
+cat: musique
+nom: Symphonie fantastique
+alias: Épisode de la vie d'un artiste, Songe d'une nuit du sabbat, idée fixe, Marche au supplice
+dates: 1830
+an: 1830
+def: Symphonie d'Hector Berlioz créée à Paris en 1830, « épisode de la vie d'un artiste » qui, empoisonné d'opium, voit sa bien-aimée devenue sorcière dans un sabbat infernal.
+texte: [[hector-berlioz|Berlioz]] l'écrit au sortir de sa passion pour Harriet Smithson et la fait créer au Conservatoire le 5 décembre 1830, sous la direction de François-Antoine Habeneck. Un programme, distribué au public, raconte l'histoire : un jeune musicien, désespéré par l'amour, s'empoisonne à l'opium ; la bien-aimée lui revient sans cesse sous la forme d'une mélodie, l'« idée fixe », à travers une rêverie, un bal, une scène aux champs, la marche qui le mène à l'échafaud.
+texte: Le dernier mouvement, « Songe d'une nuit du [[sabbat]] », est un sabbat de sorcières : la mélodie aimée y devient grimaçante, les cloches sonnent le glas, le *Dies irae* de la messe des morts est parodié, puis se mêle à la ronde infernale. La symphonie a fait de l'orchestre un conteur et a ouvert la voie au poème symphonique.
+extrait: Immédiatement après cette composition sur Faust, et toujours sous l’influence du poëme de Gœthe, j’écrivis ma symphonie fantastique avec beaucoup de peine pour certaines parties, avec une facilité incroyable pour d’autres. Ainsi l’adagio (scène aux champs), qui impressionne toujours si vivement le public et moi-même, me fatigua pendant plus de trois semaines ; je l’abandonnai et le repris deux ou trois fois. La Marche au supplice, au contraire, fut écrite en une nuit. J’ai néanmoins beaucoup retouché ces deux morceaux et tous les autres du même ouvrage pendant plusieurs années.
+source: Hector Berlioz, *Mémoires*, chap. XXVI, Michel Lévy, 1870 | ws Mémoires de Hector Berlioz/26
+voir: hector-berlioz, sabbat, le-sabbat-des-sorcieres, la-damnation-de-faust, walpurgis
+
+@ la-damnation-de-faust
+cat: musique
+nom: La Damnation de Faust
+alias: Damnation de Faust, légende dramatique, Marche hongroise, Rákóczi, Pandæmonium, Course à l'abîme, Voici des roses
+dates: 1846
+an: 1846
+def: « Légende dramatique » d'Hector Berlioz, créée à Paris en 1846 d'après le *Faust* de Goethe traduit par Nerval, qui conduit Faust de la plaine de Hongrie à la course à l'abîme et au Pandæmonium.
+texte: [[hector-berlioz|Berlioz]] reprend ses *Huit scènes de Faust* de 1829 et écrit presque tout le livret lui-même, en voyage, avec l'aide d'Almire Gandonnière et la traduction de [[gerard-de-nerval|Nerval]]. Pour placer la marche hongroise de Rákóczi qui avait triomphé à Pest, il fait commencer l'action en Hongrie. Méphistophélès endort Faust sur les bords de l'Elbe au milieu d'un ballet de sylphes, lui livre Marguerite, puis l'entraîne au galop dans une « course à l'abîme ».
+texte: Au Pandæmonium, les démons accueillent leur proie dans une langue infernale inventée par Berlioz (« Has ! Irimiru Karabrao ! »), tandis que Marguerite est reçue au ciel. Créée à l'Opéra-Comique le 6 décembre 1846 devant une salle à moitié vide, l'œuvre ruine son auteur ; elle est aujourd'hui l'une de ses plus jouées.
+extrait: Ce fut pendant ce voyage en Autriche, en Hongrie, en Bohême et en Silésie que je commençai la composition de ma légende de Faust, dont je ruminais le plan depuis longtemps. (…) J’ai dit à quelle occasion et comment je fis en une nuit, à Vienne également, la marche sur le thème hongrois de Rákóczy. L’effet extraordinaire qu’elle produisit à Pesth, m’engagea à l’introduire dans ma partition de Faust, en prenant la liberté de placer mon héros en Hongrie au début de l’action, et en le faisant assister au passage d’une armée hongroise à travers la plaine où il promène ses rêveries.
+source: Hector Berlioz, *Mémoires*, chap. LIV, Michel Lévy, 1870 | ws Mémoires de Hector Berlioz/54
+voir: hector-berlioz, faust, gerard-de-nerval, johann-wolfgang-von-goethe, faust-gounod, symphonie-fantastique
+
+@ charles-gounod
+cat: figures
+nom: Charles Gounod
+alias: Gounod
+dates: 1818 – 1893
+an: 1818
+def: Compositeur français, un temps séminariste, dont le *Faust* (1859) devint l'opéra le plus joué de son siècle, et l'auteur de *Mireille* d'après Mistral et d'un *Ave Maria* sur un prélude de Bach.
+texte: Né à Paris en 1818, prix de Rome en 1839, Charles Gounod découvre à Rome la musique sacrée de Palestrina. De retour à Paris, il étudie la théologie au séminaire de [[saint-sulpice|Saint-Sulpice]] et signe un temps « l'abbé Gounod », avant de choisir le théâtre. Son *[[faust-gounod|Faust]]* (1859) lui apporte une gloire mondiale ; *Mireille* (1864), d'après [[frederic-mistral|Mistral]], et *Roméo et Juliette* (1867) suivent.
+texte: Il passe la guerre de 1870 à Londres, puis revient à la musique religieuse avec deux grands oratorios, *La Rédemption* (1882) et *Mors et vita* (1885). Il meurt à Saint-Cloud en 1893.
+repere: 1818 — Naissance à Paris.
+repere: 1839 — Prix de Rome.
+repere: 1859 — Création de *Faust* au Théâtre-Lyrique.
+repere: 1864 — *Mireille*, d'après Mistral.
+repere: 1893 — Mort à Saint-Cloud.
+oeuvres: Faust (1859) ; Mireille (1864) ; Roméo et Juliette (1867) ; La Rédemption (1882) ; Mors et vita (1885)
+voir: faust-gounod, faust, frederic-mistral, saint-sulpice, hector-berlioz
+
+@ faust-gounod
+cat: musique
+nom: Faust (Gounod)
+alias: Faust de Gounod, Le Veau d'or, Air des bijoux, Méphistophélès, Marguerite, opéra Faust
+dates: 1859
+an: 1859
+def: Opéra de Charles Gounod sur un livret de Jules Barbier et Michel Carré d'après Goethe, créé à Paris en 1859 : le pacte de Faust, l'amour de Marguerite, le Veau d'or chanté par Méphistophélès et la nuit de Walpurgis.
+texte: Le livret retient du *[[faust|Faust]]* de [[johann-wolfgang-von-goethe|Goethe]] la seule tragédie de Marguerite. Le vieux docteur, prêt à s'empoisonner, appelle Satan ; Méphistophélès lui rend la jeunesse et lui montre en vision Marguerite au rouet. À la kermesse, le diable chante le règne de l'or (« Le veau d'or est toujours debout ») ; au jardin, Marguerite se pare des bijoux qu'il a laissés. Séduite, abandonnée, infanticide, elle meurt en prison, sauvée, pendant que les anges chantent la résurrection du Christ.
+texte: Créé au Théâtre-Lyrique le 19 mars 1859, l'opéra entre en 1869 à l'Opéra, augmenté d'un ballet de la nuit de [[walpurgis|Walpurgis]]. Il y est joué plus de deux mille fois : le *Faust* de [[charles-gounod|Gounod]] a fait plus que Goethe pour rendre populaire, en France, la figure du savant qui vend son âme.
+extrait: Beaucoup de gens sans parti pris, c’est-à-dire qui ne sont pas musiciens, se demandent pourquoi l’Opéra s’obstine à jouer Faust. Il y a à cela plusieurs raisons dont la meilleure est que l’art de Gounod représente un moment de la sensibilité française. Qu’on le veuille ou non, ces choses-là ne s’oublient pas. ¶ À propos de Faust, des musicographes éminents ont reproché à Gounod d’avoir travesti la pensée de Gœthe ; les mêmes éminents personnages ne pensèrent jamais à s’apercevoir que Wagner avait peut-être faussé le personnage de Tannhæuser qui, dans la légende, n’est pas du tout le bon petit garçon repentant qu’en a fait Wagner et dont le bâton brûlé du souvenir de Vénus n’a jamais voulu refleurir.
+source: Claude Debussy, *Monsieur Croche, antidilettante*, chap. XXIV, « Gounod », Dorbon-aîné, 1921 | ws Monsieur Croche/Gounod
+voir: charles-gounod, faust, walpurgis, la-damnation-de-faust, johann-wolfgang-von-goethe, richard-wagner
+
+@ alexandre-scriabine
+cat: figures
+nom: Alexandre Scriabine
+alias: Scriabine, Alexandre Skriabine, Aleksandr Scriabin, Skrjabin, accord mystique
+dates: 1872 – 1915
+an: 1872
+def: Compositeur et pianiste russe, lecteur de Blavatsky, qui voulut faire de la musique un rite de transfiguration du monde : *Le Poème de l'extase*, *Prométhée* et le *Mystère* resté inachevé.
+texte: Né à Moscou en 1872, Alexandre Scriabine est d'abord un pianiste prodige, nourri de Chopin. Au début du XXe siècle, il découvre la [[theosophie]] : il lit *La Clef de la théosophie* d'[[helena-blavatsky|Helena Blavatsky]] dans sa traduction française et vit à Bruxelles, de 1908 à 1910, parmi des théosophes, dont le peintre [[jean-delville|Jean Delville]].
+texte: Sa musique abandonne alors la tonalité pour des harmonies fondées sur un « accord mystique » de quartes superposées. *Le Poème de l'[[extase]]* (1908) chante l'esprit qui se crée lui-même en jouant ; *[[promethee-poeme-du-feu|Prométhée]]* (1910) ajoute à l'orchestre un clavier à lumières. Il prépare un *[[le-mystere-scriabine|Mystère]]* qui devait transfigurer l'humanité, quand il meurt d'une septicémie à Moscou, en 1915.
+repere: 1872 — Naissance à Moscou.
+repere: 1908 — *Le Poème de l'extase*.
+repere: 1910 — *Prométhée, le Poème du feu*.
+repere: janvier 1910 — Il enregistre ses œuvres sur des rouleaux de piano Welte-Mignon.
+repere: 1915 — Mort à Moscou.
+oeuvres: Le Divin Poème (1904) ; Le Poème de l'extase (1908) ; Prométhée, le Poème du feu (1910) ; Sonates pour piano n° 5 à 10 ; L'Acte préalable (esquisses)
+voir: promethee-poeme-du-feu, le-mystere-scriabine, theosophie, helena-blavatsky, jean-delville, extase
+
+@ promethee-poeme-du-feu
+cat: musique
+nom: Prométhée, le Poème du feu
+alias: Prométhée, Prometheus, Poème du feu, op. 60, clavier à lumières, tastiera per luce
+dates: 1910
+an: 1910
+def: Poème symphonique d'Alexandre Scriabine (1910) pour orchestre, piano, orgue, chœur et clavier à lumières, qui devait baigner la salle de couleurs accordées aux harmonies, sous une couverture dessinée par Jean Delville.
+texte: Pour [[alexandre-scriabine|Scriabine]], [[promethee|Prométhée]], porteur du feu, figure l'éveil de la conscience dans la matière, comme le Lucifer, « porteur de lumière », des théosophes. Toute l'œuvre sort d'un seul accord, l'« accord mystique », d'où naissent mélodies et harmonies. Une portée de la partition, *luce*, note les couleurs qu'un clavier à lumières doit projeter : Scriabine associait chaque tonalité à une couleur.
+texte: Créé à Moscou le 15 mars 1911 sous la direction de Serge Koussevitzky, sans lumières, *Prométhée* n'est joué avec elles qu'en 1915, à New York. La couverture de la partition, dessinée par le peintre théosophe [[jean-delville|Jean Delville]], montre un visage au cœur d'un soleil, que traversent les cordes d'une lyre, parmi les flammes et les nébuleuses ; une étoile à six branches en orne le pied.
+voir: alexandre-scriabine, le-mystere-scriabine, promethee, jean-delville, theosophie
+
+@ le-mystere-scriabine
+cat: musique
+nom: Le Mystère (Scriabine)
+alias: Mystère, Mysterium, L'Acte préalable, Acte préalable, Mystère de Scriabine
+dates: vers 1903 – 1915
+an: 1903
+def: Œuvre totale rêvée par Scriabine : un rite de sept jours, au pied de l'Himalaya, où musique, couleurs, parfums, danse et lumière devaient conduire l'humanité à l'extase et à la fin d'un cycle du monde.
+texte: [[alexandre-scriabine|Scriabine]] y pense à partir de 1903 : le *Mystère* serait joué en Inde, dans un temple hémisphérique au bord d'un lac, par des milliers d'interprètes, sans spectateurs, car tous y prendraient part. Il mêlerait la musique aux couleurs, aux parfums, aux caresses et aux danses, et s'achèverait par une transfiguration où la matière se dissoudrait dans l'esprit, selon les [[cycles-cosmiques|cycles cosmiques]] de la théosophie.
+texte: Conscient de l'énormité du projet, il commence une œuvre préparatoire, l'*Acte préalable*, dont il laisse à sa mort, en 1915, un poème et une cinquantaine de pages d'esquisses. Le compositeur russe Alexandre Nemtin en a tiré, de 1973 à 1996, une réalisation de près de trois heures.
+voir: alexandre-scriabine, promethee-poeme-du-feu, theosophie, extase, cycles-cosmiques, licht
+
+@ erik-satie
+cat: figures
+nom: Erik Satie
+alias: Satie, Éric Satie, Gymnopédies, Gnossiennes, Église métropolitaine d'art de Jésus conducteur
+dates: 1866 – 1925
+an: 1866
+def: Compositeur français, pianiste de cabaret et ironiste, maître de chapelle de la Rose-Croix de Péladan, inventeur d'une musique dépouillée qui annonce le XXe siècle, de la *Gymnopédie* aux *Vexations*.
+texte: Né à Honfleur en 1866, Erik Satie quitte le Conservatoire, où l'on ne voit en lui aucun talent, et devient pianiste au Chat noir, à Montmartre. Ses trois *Gymnopédies* (1888) et ses *Gnossiennes* (1890), sans barres de mesure, inventent une musique immobile et rituelle. En 1891, il devient le maître de chapelle de l'[[ordre-de-la-rose-croix-catholique|Ordre de la Rose-Croix catholique]] de [[josephin-peladan|Péladan]], pour lequel il compose *[[le-fils-des-etoiles|Le Fils des étoiles]]* et les *[[sonneries-de-la-rose-croix|Sonneries de la Rose+Croix]]*.
+texte: Il rompt avec Péladan dès 1892 et fonde, seul fidèle, l'« Église métropolitaine d'art de Jésus conducteur », d'où il fulmine des excommunications. Retiré à Arcueil, ami de [[claude-debussy|Debussy]], il retourne à quarante ans étudier le contrepoint à la Schola Cantorum, puis devient avec *Parade* (1917) le maître des jeunes musiciens. Il meurt à Paris en 1925.
+extrait: L’artiste doit régler sa vie. ¶ Voici l’horaire précis de mes actes journaliers : ¶ Mon lever : à 7 h. 18 ; inspiré : de 10 h. 23 à 11 h. 47. Je déjeune à 12 h. 11 et quitte la table à 12 h. 14. ¶ Salutaire promenade à cheval, dans le fond de mon parc : de 13 h. 19 à 14 h. 53. Autre inspiration : de 15 h. 12 à 16 h. 07. ¶ Occupations diverses (escrime, réflexions, immobilité, visites, contemplation, dextérité, natation, etc.) : de 16 h. 21 à 18 h. 47. ¶ Le dîner est servi à 19 h. 16 et terminé à 19 h. 20. Viennent des lectures symphoniques, à haute voix : de 20 h. 09 à 21 h. 59. ¶ Mon coucher a lieu régulièrement à 22 h. 37. Hebdomadairement, réveil et sursaut à 3 h. 19 (le mardi).
+source: Erik Satie, *Mémoires d’un amnésique*, « La Journée du musicien », *Revue musicale S. I. M.*, 15 janvier 1913 | ws La Journée du musicien
+repere: 1866 — Naissance à Honfleur.
+repere: 1888 — Les trois *Gymnopédies*.
+repere: 1891 — Maître de chapelle de la Rose-Croix de Péladan.
+repere: 1893 — Il fonde l'Église métropolitaine d'art de Jésus conducteur.
+repere: 1917 — *Parade*, avec Cocteau, Picasso et les Ballets russes.
+repere: 1925 — Mort à Paris.
+oeuvres: Gymnopédies (1888) ; Gnossiennes (1890) ; Le Fils des étoiles (1891) ; Sonneries de la Rose+Croix (1892) ; Vexations (vers 1893) ; Parade (1917) ; Socrate (1918)
+voir: sonneries-de-la-rose-croix, le-fils-des-etoiles, josephin-peladan, ordre-de-la-rose-croix-catholique, salons-de-la-rose-croix, claude-debussy
+
+@ sonneries-de-la-rose-croix
+cat: musique
+nom: Sonneries de la Rose+Croix
+alias: Sonneries de la Rose-Croix, Air de l'Ordre, Air du Grand Maître, Air du Grand Prieur
+dates: 1892
+an: 1892
+def: Trois pièces d'Erik Satie, écrites en 1892 pour l'Ordre de la Rose-Croix catholique de Péladan : l'*Air de l'Ordre*, l'*Air du Grand Maître* et l'*Air du Grand Prieur*, musique de cérémonie pour trompettes et harpes.
+texte: [[erik-satie|Satie]], maître de chapelle de l'[[ordre-de-la-rose-croix-catholique|ordre]], compose ces sonneries pour accompagner les cérémonies et l'ouverture du premier [[salons-de-la-rose-croix|Salon de la Rose+Croix]], en mars 1892. L'*Air du Grand Maître* est dédié à [[josephin-peladan|Péladan]], l'*Air du Grand Prieur* au comte Antoine de La Rochefoucauld, qui finance le Salon. Prévues pour trompettes et harpes, elles ont été publiées dans une version pour piano.
+texte: Des accords lents qui s'enchaînent sans se résoudre, des phrases qui reviennent comme des formules : Satie cherche une musique liturgique et hiératique, sans développement, à l'image de l'art « idéaliste » que prônait Péladan.
+voir: erik-satie, josephin-peladan, ordre-de-la-rose-croix-catholique, salons-de-la-rose-croix, le-fils-des-etoiles, rose-croix
+
+@ le-fils-des-etoiles
+cat: musique
+nom: Le Fils des étoiles
+alias: Fils des étoiles, wagnérie kaldéenne, La Vocation, L'Initiation, L'Incantation
+dates: 1891 – 1892
+an: 1891
+def: « Wagnérie kaldéenne » de Joséphin Péladan, dont Erik Satie écrivit en 1891 la musique de scène, trois préludes joués en mars 1892 pendant le premier Salon de la Rose+Croix.
+texte: La pièce de [[josephin-peladan|Péladan]] se passe en Chaldée, au temps des mages, et suit l'initiation d'un jeune poète, le « fils des étoiles ». [[erik-satie|Satie]] en écrit les trois préludes, « La Vocation », « L'Initiation » et « L'Incantation », que la Rose-Croix fait jouer lors de la représentation donnée à la galerie Durand-Ruel, pendant le premier [[salons-de-la-rose-croix|Salon]].
+texte: Satie y pousse à l'extrême ses enchaînements d'accords de quartes, qui flottent sans tonalité fixe ; on y a vu l'une des premières musiques immobiles du siècle. La rupture avec Péladan intervient quelques mois plus tard.
+voir: erik-satie, josephin-peladan, sonneries-de-la-rose-croix, salons-de-la-rose-croix, ordre-de-la-rose-croix-catholique
+
+@ giacinto-scelsi
+cat: figures
+nom: Giacinto Scelsi
+alias: Scelsi, comte d'Ayala Valva
+dates: 1905 – 1988
+an: 1905
+def: Compositeur italien, aristocrate et poète, qui guérit d'une crise par la contemplation d'une seule note et fit de la vibration du son, nourrie de spiritualité orientale, toute la matière de sa musique.
+texte: Né en 1905 à La Spezia dans une famille noble, Giacinto Scelsi étudie à Vienne la musique dodécaphonique et mène une vie mondaine entre Paris, Londres et Rome. À la fin des années 1940, une grave crise nerveuse le conduit en clinique ; il dira s'être soigné en jouant une même note au piano, pendant des heures, jusqu'à en entendre la vie intérieure. Il en naît les *Quattro pezzi su una nota sola* (1959).
+texte: Ses œuvres creusent un son unique par des quarts de ton, des timbres et des vibrations ; elles se veulent l'écho d'une sagesse venue de l'Inde et du Tibet, et des [[mantra|mantras]]. Scelsi refusait d'être photographié et signait d'un cercle posé sur une ligne. Après sa mort, à Rome en 1988, son assistant Vieri Tosatti révéla qu'il transcrivait les improvisations du maître, ce qui fit débattre de la notion d'auteur.
+repere: 1905 — Naissance à La Spezia.
+repere: 1959 — *Quattro pezzi su una nota sola*.
+repere: 1961 — *Aion*.
+repere: 1969 — *Konx-Om-Pax*.
+repere: 1988 — Mort à Rome.
+oeuvres: Quattro pezzi su una nota sola (1959) ; Aion (1961) ; Konx-Om-Pax (1969) ; Pfhat (1974)
+voir: aion-scelsi, konx-om-pax, mantra, cycles-cosmiques
+
+@ aion-scelsi
+cat: musique
+nom: Aion
+alias: Aion de Scelsi, Quatre épisodes d'une journée de Brahma, Quattro episodi di una giornata di Brahma
+dates: 1961
+an: 1961
+def: Œuvre pour orchestre de Giacinto Scelsi (1961), « quatre épisodes d'une journée de Brahma » : le temps cosmique de l'hindouisme, où un jour du dieu créateur dure des milliards d'années humaines.
+texte: Le titre reprend le mot grec *aiôn*, le temps de l'éternité, que les gnostiques ont fait une puissance divine. [[giacinto-scelsi|Scelsi]] y transpose le temps de l'Inde : selon les textes hindous, un jour de Brahma, un *kalpa*, embrasse mille cycles d'âges du monde, au terme desquels l'univers se résorbe avant de renaître (voir [[cycles-cosmiques]]).
+texte: Les quatre épisodes ne décrivent rien : de lentes masses sonores, des sons tenus qui changent de couleur, des explosions de percussions, donnent à entendre une durée sans commune mesure avec celle de l'auditeur. L'œuvre n'est créée qu'en 1985, à Cologne.
+voir: giacinto-scelsi, konx-om-pax, cycles-cosmiques, gnose
+
+@ konx-om-pax
+cat: musique
+nom: Konx-Om-Pax
+alias: Konx Om Pax, Konx-Om-Pax de Scelsi
+dates: 1969
+an: 1969
+def: Œuvre de Giacinto Scelsi (1969) pour orchestre, orgue et chœur, dont le titre dit le mot « paix » en trois langues, et qui fait chanter au chœur la syllabe sacrée *Om*.
+texte: Selon [[giacinto-scelsi|Scelsi]], *Konx* serait la paix en ancien assyrien, *Om* en sanskrit, *Pax* en latin, et les trois mouvements montrent trois aspects du son : le premier mouvement de l'immobile, la force créatrice, la syllabe *Om*, que le chœur fait vibrer dans le dernier, comme un [[mantra]].
+texte: La formule n'est pas inventée : le lexicographe grec Hésychius rapporte un « konx ompax » prononcé dans les mystères, qu'on a rattaché à [[eleusis|Éleusis]], et [[aleister-crowley|Aleister Crowley]] en avait fait le titre d'un recueil en 1907.
+voir: giacinto-scelsi, aion-scelsi, mantra, eleusis, aleister-crowley, mysteres-antiques
+
+@ karlheinz-stockhausen
+cat: figures
+nom: Karlheinz Stockhausen
+alias: Stockhausen
+dates: 1928 – 2007
+an: 1928
+def: Compositeur allemand, pionnier de la musique électronique et sérielle, qui consacra vingt-six ans à *Licht*, un cycle de sept opéras pour les sept jours de la semaine, et disait avoir été instruit sur Sirius.
+texte: Né en 1928 à Mödrath, près de Cologne, Karlheinz Stockhausen perd sa mère, internée, victime du programme nazi d'euthanasie, et son père à la guerre. Il étudie à Cologne et à Paris auprès d'Olivier Messiaen, puis compose au studio électronique de la radio de Cologne le *Chant des adolescents* (1956), mêlant une voix d'enfant aux sons de synthèse. Il meurt à Kürten en 2007.
+texte: À partir des années 1960, sa musique se veut spirituelle : *Stimmung* (1968) fait chanter des noms divins sur un seul accord, *Sirius* (1977) célèbre l'étoile où il disait avoir été formé (voir [[sirius]]). La lecture du *Livre d'Urantia*, une révélation américaine des années 1950, inspire les trois personnages de *[[licht|Licht]]* : Michel, Ève et Lucifer.
+repere: 1928 — Naissance à Mödrath, près de Cologne.
+repere: 1956 — *Gesang der Jünglinge*, le *Chant des adolescents*.
+repere: 1977 — Il commence *Licht*.
+repere: 2003 — Il achève *Licht*.
+repere: 2007 — Mort à Kürten.
+oeuvres: Gesang der Jünglinge (1956) ; Stimmung (1968) ; Sirius (1977) ; Licht (1977-2003)
+voir: licht, sirius, heures-planetaires, saint-michel, le-mystere-scriabine
+
+@ licht
+cat: musique
+nom: Licht
+alias: Licht de Stockhausen, Lumière, les sept jours de la semaine, Donnerstag, Samstag, Montag, Dienstag, Freitag, Mittwoch, Sonntag
+dates: 1977 – 2003
+an: 1977
+def: Cycle de sept opéras de Karlheinz Stockhausen, un pour chaque jour de la semaine, composé de 1977 à 2003 : vingt-neuf heures de musique autour de Michel, d'Ève et de Lucifer.
+texte: [[karlheinz-stockhausen|Stockhausen]] bâtit toute l'œuvre sur une « superformule » de trois mélodies, celles de Michel, d'Ève et de Lucifer, dont chaque journée développe une partie. Chaque jour a ses qualités, comme dans la vieille tradition des [[heures-planetaires|jours planétaires]] : le lundi est le jour d'Ève et de la naissance, le mardi celui de la guerre entre Michel et Lucifer, le samedi celui de Lucifer et de la mort, le dimanche celui de l'union mystique de Michel et d'Ève.
+texte: *Donnerstag* est créé à la Scala de Milan en 1981 ; les sept journées ne sont achevées qu'en 2003, et les deux dernières ne sont montées qu'après la mort du compositeur, *Sonntag* à Cologne en 2011 et *Mittwoch* à Birmingham en 2012. *Mittwoch* contient le célèbre *Quatuor à cordes pour hélicoptères*, où chaque musicien joue dans un hélicoptère en vol. Comme le *[[le-mystere-scriabine|Mystère]]* de Scriabine, *Licht* veut être un rite plus qu'un spectacle.
+voir: karlheinz-stockhausen, heures-planetaires, saint-michel, sirius, le-mystere-scriabine, planetes
+
+@ dane-rudhyar
+cat: figures
+nom: Dane Rudhyar
+alias: Rudhyar, Daniel Chennevière, astrologie humaniste
+dates: 1895 – 1985
+an: 1895
+def: Compositeur, peintre et astrologue d'origine française, installé aux États-Unis, fondateur de l'astrologie humaniste et l'un de ceux qui répandirent l'expression « Nouvel Âge ».
+texte: Né Daniel Chennevière à Paris en 1895, il publie à dix-huit ans un essai sur [[claude-debussy|Debussy]], puis part en 1916 pour New York, où ses premières œuvres sont jouées l'année suivante. Il prend le nom de Rudhyar, tiré du sanskrit, découvre la [[theosophie]] et fréquente les compositeurs américains d'avant-garde. Il meurt à San Francisco en 1985.
+texte: À la demande d'[[alice-bailey|Alice Bailey]], il écrit des articles d'astrologie, réunis dans *The Astrology of Personality* (1936) : l'horoscope y devient une carte des possibilités de l'être plutôt qu'une prédiction, une « astrologie humaniste » qui inspire une grande part de l'[[astrologie]] occidentale moderne et du [[new-age|New Age]]. Sa musique, faite de grands accords résonants, cherche elle aussi à rendre sensible une vibration spirituelle : ainsi les cycles pour piano des *[[tetragrams-et-pentagrams|Tetragrams et Pentagrams]]*.
+repere: 1895 — Naissance à Paris.
+repere: 1916 — Il s'installe à New York.
+repere: 1936 — *The Astrology of Personality*.
+repere: 1969 — Il fonde un comité international d'astrologie humaniste.
+repere: 1985 — Mort à San Francisco.
+oeuvres: The Astrology of Personality (1936) ; Pentagrams (1924-1926) ; Tetragrams (1920-1967) ; Granites (1929)
+voir: tetragrams-et-pentagrams, astrologie, theosophie, alice-bailey, new-age
+
+@ tetragrams-et-pentagrams
+cat: musique
+nom: Tetragrams et Pentagrams
+alias: Tetragrams, Pentagrams, Rudhyar piano
+dates: 1920 – 1967
+an: 1920
+def: Cycles de pièces pour piano de Dane Rudhyar, les *Pentagrams* (1924-1926) et les *Tetragrams* (commencés en 1920, achevés en 1967), dont les titres disent la place des nombres dans sa pensée.
+texte: [[dane-rudhyar|Rudhyar]] voulait une musique de résonance plutôt que de mélodie : de grands accords tenus, qu'on laisse vibrer, des répétitions incantatoires, des contrastes de registres. Ses cycles pour piano, nommés d'après le quatre et le cinq (voir [[tetractys]] et [[pentagramme]]), sont pour lui des étapes d'un chemin intérieur, comme les phases d'un cycle astrologique.
+texte: Écrits pour l'essentiel dans les années 1920, au temps des « ultramodernes » américains, ces cycles furent oubliés pendant que Rudhyar se consacrait à l'astrologie ; il en reprit et compléta une partie à la fin de sa vie, quand on redécouvrit sa musique.
+voir: dane-rudhyar, pentagramme, tetractys, quatre, cinq

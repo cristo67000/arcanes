@@ -1,343 +1,8 @@
 {
  "sons": {
-  "loup-hurlements": {
-   "f": "son/loup-hurlements.mp3",
-   "v": "2c3a6a61ef",
-   "d": 28.4,
-   "ti": "Hurlements de loups",
-   "cr": "enregistrement versé au domaine public",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Wolf_howls.ogg",
-   "pour": [
-    "loup",
-    "loup-garou"
-   ],
-   "sig": "Wolf howls.ogg|"
-  },
-  "corbeau-grand": {
-   "f": "son/corbeau-grand.mp3",
-   "v": "ea004f7888",
-   "d": 12.6,
-   "ti": "Le grand corbeau appelle et s’envole",
-   "cr": "David Restivo, National Park Service, parc de Yellowstone, 2013",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Yellowstone_sound_library_-_Common_Raven_-_001.mp3",
-   "pour": [
-    "corbeau"
-   ],
-   "sig": "Yellowstone sound library - Common Raven - 001.mp3|"
-  },
-  "chat-ronronnement": {
-   "f": "son/chat-ronronnement.mp3",
-   "v": "9bb190fdbe",
-   "d": 9.8,
-   "ti": "Le ronronnement d’un chat",
-   "cr": "Mysid, 2007",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Purring_cat.oga",
-   "pour": [
-    "chat"
-   ],
-   "sig": "Purring cat.oga|"
-  },
-  "coq-chant": {
-   "f": "son/coq-chant.mp3",
-   "v": "47c849a965",
-   "d": 8.4,
-   "ti": "Le chant du coq",
-   "cr": "alys, pdsounds.org, 2008",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Medium_rooster_crowing.ogg",
-   "pour": [
-    "coq"
-   ],
-   "sig": "Medium rooster crowing.ogg|"
-  },
-  "abeilles-ruche": {
-   "f": "son/abeilles-ruche.mp3",
-   "v": "f1e9e139d4",
-   "d": 30.0,
-   "ti": "Des abeilles carnioliennes dans leur ruche",
-   "cr": "Skinkie, 2010",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:Honeybee-hive.ogg",
-   "pour": [
-    "abeille"
-   ],
-   "sig": "Honeybee-hive.ogg|20 50"
-  },
-  "serpent-crotale": {
-   "f": "son/serpent-crotale.mp3",
-   "v": "150ac0b534",
-   "d": 15.2,
-   "ti": "La crécelle d’un crotale",
-   "cr": "enregistrement versé au domaine public",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Rattlesnake.ogg",
-   "pour": [
-    "serpent",
-    "basilic"
-   ],
-   "sig": "Rattlesnake.ogg|"
-  },
-  "crapaud-commun": {
-   "f": "son/crapaud-commun.mp3",
-   "v": "344d25f008",
-   "d": 10.4,
-   "ti": "L’appel du crapaud commun au printemps",
-   "cr": "Rabe19, 2013",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Erdkr%C3%B6te_Paarungsruf.OGG",
-   "pour": [
-    "crapaud"
-   ],
-   "sig": "Erdkröte Paarungsruf.OGG|"
-  },
-  "colombe-roucoulement": {
-   "f": "son/colombe-roucoulement.mp3",
-   "v": "e3a2b160ad",
-   "d": 7.9,
-   "ti": "Une colombe roucoule",
-   "cr": "mary905, pdsounds.org, 2008",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Dove_cooing.ogg",
-   "pour": [
-    "colombe"
-   ],
-   "sig": "Dove cooing.ogg|"
-  },
-  "paon-cri": {
-   "f": "son/paon-cri.mp3",
-   "v": "0cdd329865",
-   "d": 8.8,
-   "ti": "Le cri du paon",
-   "cr": "Ke4roh, zoo de Denver, 2009",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Pavo_cristatus_(call).ogg",
-   "pour": [
-    "paon"
-   ],
-   "sig": "Pavo cristatus (call).ogg|"
-  },
-  "aigle-cri": {
-   "f": "son/aigle-cri.mp3",
-   "v": "5a2b367b44",
-   "d": 10.1,
-   "ti": "Le cri du pygargue à tête blanche",
-   "cr": "Jennifer Jerrett, National Park Service et Acoustic Atlas, parc de Yellowstone, 2014",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Yellowstone_sound_library_-_Bald_Eagle_-_003.mp3",
-   "pour": [
-    "aigle"
-   ],
-   "sig": "Yellowstone sound library - Bald Eagle - 003.mp3|"
-  },
-  "cygnes-chanteurs": {
-   "f": "son/cygnes-chanteurs.mp3",
-   "v": "522f3703d1",
-   "d": 19.1,
-   "ti": "Des cygnes siffleurs en vol",
-   "cr": "U.S. Fish and Wildlife Service",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Tundra_swans.ogg",
-   "pour": [
-    "cygne"
-   ],
-   "sig": "Tundra swans.ogg|"
-  },
-  "chien-hurlement": {
-   "f": "son/chien-hurlement.mp3",
-   "v": "044d8814b0",
-   "d": 5.9,
-   "ti": "Un chien hurle",
-   "cr": "amethysta, pdsounds.org, 2007",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Jem_howls.ogg",
-   "pour": [
-    "chien",
-    "cerbere"
-   ],
-   "sig": "Jem howls.ogg|"
-  },
-  "chouette-cheveche": {
-   "f": "son/chouette-cheveche.mp3",
-   "v": "d853651139",
-   "d": 30.0,
-   "ti": "La chevêche, la petite chouette d’Athéna",
-   "cr": "Rabe19, 2013",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Steinkauz.OGG",
-   "pour": [
-    "chouette"
-   ],
-   "sig": "Steinkauz.OGG|0 30"
-  },
-  "baleine-chant": {
-   "f": "son/baleine-chant.mp3",
-   "v": "5c7357c815",
-   "d": 38.0,
-   "ti": "Le chant des baleines à bosse",
-   "cr": "Spyrogumas",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:Humpbackwhale2.ogg",
-   "pour": [
-    "leviathan",
-    "jonas"
-   ],
-   "sig": "Humpbackwhale2.ogg|"
-  },
-  "lion-rugissement": {
-   "f": "son/lion-rugissement.mp3",
-   "v": "daf71742c7",
-   "d": 9.1,
-   "ti": "Le rugissement d’un lion",
-   "cr": "த. உழவன், lion d’un parc zoologique du Tamil Nadu",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg",
-   "pour": [
-    "lion-symbole",
-    "sphinx"
-   ],
-   "sig": "Lion raring-sound1TamilNadu178.ogg|"
-  },
-  "cheval-hennissement": {
-   "f": "son/cheval-hennissement.mp3",
-   "v": "b3322acbeb",
-   "d": 2.3,
-   "ti": "Le hennissement d’un cheval",
-   "cr": "enregistrement versé au domaine public",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Wiehern.ogg",
-   "pour": [
-    "pegase",
-    "centaure",
-    "hippogriffe"
-   ],
-   "sig": "Wiehern.ogg|"
-  },
-  "chevaux-galop": {
-   "f": "son/chevaux-galop.mp3",
-   "v": "28485a3fa4",
-   "d": 25.2,
-   "ti": "Six chevaux passent au galop",
-   "cr": "Bruno Auzet, Freesound Community et Pixabay",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:Six_Horses_Galloping_By.ogg",
-   "pour": [
-    "quatre-cavaliers"
-   ],
-   "sig": "Six Horses Galloping By.ogg|"
-  },
-  "ane-braiment": {
-   "f": "son/ane-braiment.mp3",
-   "v": "6f9dafebd9",
-   "d": 22.4,
-   "ti": "Un âne brait dans son enclos, dans le Midi de la France",
-   "cr": "Félix Blume, freesound.org",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:157763_felix-blume_a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav",
-   "pour": [
-    "apulee"
-   ],
-   "sig": "157763 felix-blume a-donkey-is-braying-in-his-enclosure-in-south-of-france.wav|"
-  },
-  "dauphins": {
-   "f": "son/dauphins.mp3",
-   "v": "8b0b2a835d",
-   "d": 44.0,
-   "ti": "Des dauphins s’appellent sous l’eau, dans la mer des Caraïbes",
-   "cr": "Félix Blume, freesound.org, au large du Mexique",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:161691_felixblume_dolphin-screaming-underwater-in-caribbean-sea-mexico.wav",
-   "pour": [
-    "dauphin"
-   ],
-   "sig": "161691 felixblume dolphin-screaming-underwater-in-caribbean-sea-mexico.wav|"
-  },
-  "mouton-belement": {
-   "f": "son/mouton-belement.mp3",
-   "v": "fd83d63823",
-   "d": 8.3,
-   "ti": "Le bêlement d’un mouton",
-   "cr": "earthcalling, pdsounds.org",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Sheep_bleating.ogg",
-   "pour": [
-    "agneau",
-    "belier-symbole"
-   ],
-   "sig": "Sheep bleating.ogg|"
-  },
-  "chevres-troupeau": {
-   "f": "son/chevres-troupeau.mp3",
-   "v": "d6f167f0e4",
-   "d": 42.9,
-   "ti": "Un troupeau de chèvres",
-   "cr": "stephan, pdsounds.org",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Herd_of_goats_bleating.ogg",
-   "pour": [
-    "baphomet",
-    "pan"
-   ],
-   "sig": "Herd of goats bleating.ogg|"
-  },
-  "ours-grizzlis": {
-   "f": "son/ours-grizzlis.mp3",
-   "v": "3b42475417",
-   "d": 10.6,
-   "ti": "Deux grizzlis grondent l’un contre l’autre, sur une carcasse de bison",
-   "cr": "Jennifer Jerrett, NPS et MSU Acoustic Atlas, parc de Yellowstone",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Yellowstone_sound_library_-_Grizzly_Bears_Roar_-_001.mp3",
-   "pour": [
-    "ours"
-   ],
-   "sig": "Yellowstone sound library - Grizzly Bears Roar - 001.mp3|"
-  },
-  "cerf-brame": {
-   "f": "son/cerf-brame.mp3",
-   "v": "5634985c43",
-   "d": 5.2,
-   "ti": "Le brame d’un wapiti, le grand cerf d’Amérique du Nord",
-   "cr": "Jim Pisarowicz, parc national de Wind Cave (National Park Service)",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:American_Elk_Bugling.ogg",
-   "pour": [
-    "cerf"
-   ],
-   "sig": "American Elk Bugling.ogg|"
-  },
-  "elephant-barrissement": {
-   "f": "son/elephant-barrissement.mp3",
-   "v": "12e5b4bb29",
-   "d": 1.5,
-   "ti": "Le barrissement d’un éléphant",
-   "cr": "தகவலுழவன், Tamil Nadu",
-   "lic": "CC0",
-   "src": "https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg",
-   "pour": [
-    "elephant",
-    "behemoth"
-   ],
-   "sig": "Elephant voice - trumpeting.ogg|"
-  },
-  "rossignol-1910": {
-   "f": "son/rossignol-1910.mp3",
-   "v": "4f45f50cdc",
-   "d": 75.0,
-   "ti": "Le chant d’un rossignol, sur un disque de 1910",
-   "cr": "Max Hampe, dans la volière de Karl Reich à Brême, disque Gramophone, 1910",
-   "lic": "Public domain",
-   "src": "https://commons.wikimedia.org/wiki/File:Song_of_a_nightingale_(1910).opus",
-   "pour": [
-    "langue-des-oiseaux"
-   ],
-   "sig": "Song of a nightingale (1910).opus|0 75"
-  },
   "reine-de-la-nuit": {
    "f": "son/reine-de-la-nuit.mp3",
-   "v": "d950d06fe8",
+   "v": "88753e3d27",
    "d": 242.7,
    "ti": "Mozart, *La Flûte enchantée* : l’air de la Reine de la Nuit, « Der Hölle Rache »",
    "cr": "Rita Streich, orchestre de la RIAS, direction Ferenc Fricsay, 1953",
@@ -347,11 +12,11 @@
     "la-flute-enchantee",
     "wolfgang-amadeus-mozart"
    ],
-   "sig": "W. A. Mozart - Die Zauberflöte - 18. Der Hölle Rache kocht in meinem Herzen (Ferenc Fricsay, 1953).ogg|"
+   "sig": "W. A. Mozart - Die Zauberflöte - 18. Der Hölle Rache kocht in meinem Herzen (Ferenc Fricsay, 1953).ogg||80 mono|lame-cbr|0.3|2"
   },
   "lohengrin-graal": {
    "f": "son/lohengrin-graal.mp3",
-   "v": "e886264dde",
+   "v": "41a409a3fe",
    "d": 225.0,
    "ti": "Wagner, *Lohengrin* : « In fernem Land », le récit du Graal",
    "cr": "Hermann Jadlowker, Victor Orchestra, 1912",
@@ -361,12 +26,12 @@
     "lohengrin",
     "graal"
    ],
-   "sig": "In fernem Land - Hermann Jadlowker.ogg|"
+   "sig": "In fernem Land - Hermann Jadlowker.ogg||64 mono|lame-cbr|0.3|2"
   },
   "parsifal-prelude": {
    "f": "son/parsifal-prelude.mp3",
-   "v": "f563de6bc2",
-   "d": 150.0,
+   "v": "ab8e7d4f17",
+   "d": 150.1,
    "ti": "Wagner, *Parsifal* : le prélude du troisième acte",
    "cr": "orchestre de l’Opéra d’État de Berlin, direction Karl Muck, 1928",
    "lic": "Public domain",
@@ -375,11 +40,11 @@
     "perceval",
     "richard-wagner"
    ],
-   "sig": "Parsifal Act III- Prelude.ogg|0 150"
+   "sig": "Parsifal Act III- Prelude.ogg|0 150|64 mono|lame-cbr|0.3|2"
   },
   "holst-mars": {
    "f": "son/holst-mars.mp3",
-   "v": "1133911d40",
+   "v": "5b57182e19",
    "d": 120.0,
    "ti": "Holst, *Les Planètes* : « Mars, celui qui apporte la guerre »",
    "cr": "United States Air Force Band, 1998",
@@ -388,11 +53,11 @@
    "pour": [
     "mars"
    ],
-   "sig": "Holst- mars.ogg|0 120"
+   "sig": "Holst- mars.ogg|0 120|96|lame-cbr|0.3|2"
   },
   "holst-venus": {
    "f": "son/holst-venus.mp3",
-   "v": "8074b3886b",
+   "v": "8751e4f25a",
    "d": 120.0,
    "ti": "Holst, *Les Planètes* : « Vénus, celle qui apporte la paix »",
    "cr": "United States Air Force Band, 1998",
@@ -401,11 +66,11 @@
    "pour": [
     "venus"
    ],
-   "sig": "Holst- venus.ogg|0 120"
+   "sig": "Holst- venus.ogg|0 120|96|lame-cbr|0.3|2"
   },
   "holst-mercure": {
    "f": "son/holst-mercure.mp3",
-   "v": "6ce662764e",
+   "v": "ecfcc820ef",
    "d": 100.0,
    "ti": "Holst, *Les Planètes* : « Mercure, le messager ailé »",
    "cr": "United States Air Force Band, 1998",
@@ -414,11 +79,11 @@
    "pour": [
     "mercure"
    ],
-   "sig": "Holst The Planets Mercury.ogg|0 100"
+   "sig": "Holst The Planets Mercury.ogg|0 100|96|lame-cbr|0.3|2"
   },
   "holst-jupiter": {
    "f": "son/holst-jupiter.mp3",
-   "v": "a25bd769b6",
+   "v": "7a53f60592",
    "d": 120.0,
    "ti": "Holst, *Les Planètes* : « Jupiter, celui qui apporte la gaieté »",
    "cr": "United States Air Force Band, 1998",
@@ -427,12 +92,12 @@
    "pour": [
     "jupiter"
    ],
-   "sig": "Holst The Planets Jupiter.ogg|0 120"
+   "sig": "Holst The Planets Jupiter.ogg|0 120|96|lame-cbr|0.3|2"
   },
   "holst-saturne": {
    "f": "son/holst-saturne.mp3",
-   "v": "a73e96c9e8",
-   "d": 120.0,
+   "v": "9d83e94a16",
+   "d": 120.1,
    "ti": "Holst, *Les Planètes* : « Saturne, celui qui apporte la vieillesse »",
    "cr": "Orchestre symphonique de Londres, direction Gustav Holst, 1923",
    "lic": "Public domain",
@@ -440,11 +105,11 @@
    "pour": [
     "saturne"
    ],
-   "sig": "Holst - Saturn.ogg|0 120"
+   "sig": "Holst - Saturn.ogg|0 120|64 mono|lame-cbr|0.3|2"
   },
   "holst-uranus": {
    "f": "son/holst-uranus.mp3",
-   "v": "6051ad43e9",
+   "v": "a8dffd9241",
    "d": 100.0,
    "ti": "Holst, *Les Planètes* : « Uranus, le magicien »",
    "cr": "United States Air Force Band, 1998",
@@ -453,12 +118,12 @@
    "pour": [
     "uranus"
    ],
-   "sig": "Holst- uranus.ogg|0 100"
+   "sig": "Holst- uranus.ogg|0 100|96|lame-cbr|0.3|2"
   },
   "holst-neptune": {
    "f": "son/holst-neptune.mp3",
-   "v": "22fae82a0c",
-   "d": 120.0,
+   "v": "1ebb967bdc",
+   "d": 120.1,
    "ti": "Holst, *Les Planètes* : « Neptune, le mystique »",
    "cr": "Orchestre symphonique de Londres, direction Gustav Holst, 1923",
    "lic": "Public domain",
@@ -466,11 +131,11 @@
    "pour": [
     "neptune"
    ],
-   "sig": "Holst - Neptune.ogg|0 120"
+   "sig": "Holst - Neptune.ogg|0 120|64 mono|lame-cbr|0.3|2"
   },
   "berlioz-sabbat": {
    "f": "son/berlioz-sabbat.mp3",
-   "v": "c21b66ae37",
+   "v": "ac9d1c59c4",
    "d": 150.0,
    "ti": "Berlioz, *Symphonie fantastique* : « Songe d’une nuit du sabbat »",
    "cr": "Orchestre Lamoureux, direction Igor Markevitch, 1962",
@@ -478,13 +143,14 @@
    "src": "https://commons.wikimedia.org/wiki/File:Hector_Berlioz_-_Symphonie_fantastique,_op._14_-_5._Songe_d%27une_nuit_du_Sabbat_(Igor_Markevitch,_Orchestre_Lamoureux,_1962).ogg",
    "pour": [
     "sabbat",
-    "le-sabbat-des-sorcieres"
+    "le-sabbat-des-sorcieres",
+    "symphonie-fantastique"
    ],
-   "sig": "Hector Berlioz - Symphonie fantastique, op. 14 - 5. Songe d'une nuit du Sabbat (Igor Markevitch, Orchestre Lamoureux, 1962).ogg|0 150"
+   "sig": "Hector Berlioz - Symphonie fantastique, op. 14 - 5. Songe d'une nuit du Sabbat (Igor Markevitch, Orchestre Lamoureux, 1962).ogg|0 150|96|lame-cbr|0.3|2"
   },
   "mont-chauve": {
    "f": "son/mont-chauve.mp3",
-   "v": "f5d7a42434",
+   "v": "21df491541",
    "d": 150.0,
    "ti": "Moussorgski, *Une nuit sur le mont Chauve*, le sabbat de la Saint-Jean",
    "cr": "Musopen",
@@ -493,37 +159,39 @@
    "pour": [
     "sabbat"
    ],
-   "sig": "Modest Mussorgsky - night on bald mountain.ogg|0 150"
+   "sig": "Modest Mussorgsky - night on bald mountain.ogg|0 150|96|lame-cbr|0.3|2"
   },
   "faust-veau-d-or": {
    "f": "son/faust-veau-d-or.mp3",
-   "v": "6d69bb545f",
-   "d": 218.5,
+   "v": "b30a0d2c55",
+   "d": 218.6,
    "ti": "Gounod, *Faust* : « Le Veau d’or », chanté par Méphistophélès",
    "cr": "Fédor Chaliapine, avant 1938",
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Faust_de_Gounod_Le_veau_d%27or.ogg",
    "pour": [
-    "faust"
+    "faust",
+    "faust-gounod"
    ],
-   "sig": "Faust de Gounod Le veau d'or.ogg|"
+   "sig": "Faust de Gounod Le veau d'or.ogg||64 mono|lame-cbr|0.3|2"
   },
   "satie-gnossienne": {
    "f": "son/satie-gnossienne.mp3",
-   "v": "9916959ff0",
+   "v": "b9631783cc",
    "d": 218.0,
    "ti": "Satie, *Gnossienne n° 1*, composée en 1890, à la veille de ses années rose-croix",
    "cr": "La Pianista",
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Satie_-_Gnossienne_1.ogg",
    "pour": [
-    "salons-de-la-rose-croix"
+    "salons-de-la-rose-croix",
+    "erik-satie"
    ],
-   "sig": "Satie - Gnossienne 1.ogg|"
+   "sig": "Satie - Gnossienne 1.ogg||96|lame-cbr|0.3|2"
   },
   "dies-irae": {
    "f": "son/dies-irae.mp3",
-   "v": "fda8d6a5c7",
+   "v": "a49aca569c",
    "d": 100.0,
    "ti": "*Dies irae*, le jour de colère, chant grégorien",
    "cr": "Membeth, 2010",
@@ -532,11 +200,134 @@
    "pour": [
     "apocalypse"
    ],
-   "sig": "Dies.irae.ogg|0 100"
+   "sig": "Dies.irae.ogg|0 100|96|lame-cbr|0.3|2"
+  },
+  "lamer-dialogue": {
+   "f": "son/lamer-dialogue.mp3",
+   "v": "0a1dbeecaa",
+   "d": 110.0,
+   "ti": "Debussy, *La Mer* : « Dialogue du vent et de la mer », transcrit pour orchestre d’harmonie",
+   "cr": "Concert Band de l’United States Air Force Band, 2000",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:La_mer_-_III._Dialogue_du_vent_et_de_la_mer_-_Concert_Band_-_United_States_Air_Force_Band.mp3",
+   "pour": [
+    "la-mer",
+    "claude-debussy"
+   ],
+   "sig": "La mer - III. Dialogue du vent et de la mer - Concert Band - United States Air Force Band.mp3|0 110|96|lame-cbr|0.3|2"
+  },
+  "debussy-syrinx": {
+   "f": "son/debussy-syrinx.mp3",
+   "v": "16fb445fd0",
+   "d": 146.3,
+   "ti": "Debussy, *Syrinx*, pour flûte seule (1913), la flûte de Pan",
+   "cr": "Sarah Bassingthwaite, université de Washington, 2006",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Debussy_-_Syrinx.ogg",
+   "pour": [
+    "claude-debussy",
+    "pan"
+   ],
+   "sig": "Debussy - Syrinx.ogg||96|lame-cbr|0.3|2"
+  },
+  "ravel-ondine": {
+   "f": "son/ravel-ondine.mp3",
+   "v": "62b276f979",
+   "d": 100.0,
+   "ti": "Ravel, *Gaspard de la nuit* : « Ondine »",
+   "cr": "Bernd Krüger, 2008",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Maurice_Ravel_Ondine.ogg",
+   "pour": [
+    "gaspard-de-la-nuit",
+    "maurice-ravel"
+   ],
+   "sig": "Maurice Ravel Ondine.ogg|0 100|96|lame-cbr|0.3|2"
+  },
+  "berlioz-supplice": {
+   "f": "son/berlioz-supplice.mp3",
+   "v": "5eb31c33ba",
+   "d": 100.0,
+   "ti": "Berlioz, *Symphonie fantastique* : « Marche au supplice »",
+   "cr": "Orchestre Lamoureux, direction Igor Markevitch, 1962",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hector_Berlioz_-_Symphonie_fantastique,_op._14_-_4._Marche_au_supplice_(Igor_Markevitch,_Orchestre_Lamoureux,_1962).flac",
+   "pour": [
+    "symphonie-fantastique",
+    "hector-berlioz"
+   ],
+   "sig": "Hector Berlioz - Symphonie fantastique, op. 14 - 4. Marche au supplice (Igor Markevitch, Orchestre Lamoureux, 1962).flac|0 100|96|lame-cbr|0.3|2"
+  },
+  "damnation-marche-hongroise": {
+   "f": "son/damnation-marche-hongroise.mp3",
+   "v": "628b34322e",
+   "d": 100.0,
+   "ti": "Berlioz, *La Damnation de Faust* : la Marche hongroise, sur le thème de Rákóczi",
+   "cr": "United States Marine Band",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Marche_Hongroise_-_U.S._Marine_Band.ogg",
+   "pour": [
+    "la-damnation-de-faust",
+    "hector-berlioz"
+   ],
+   "sig": "Marche Hongroise - U.S. Marine Band.ogg|0 100|96|lame-cbr|0.3|2"
+  },
+  "damnation-voici-des-roses": {
+   "f": "son/damnation-voici-des-roses.mp3",
+   "v": "9381323c02",
+   "d": 201.7,
+   "ti": "Berlioz, *La Damnation de Faust* : « Voici des roses », air de Méphistophélès",
+   "cr": "Maurice Renaud, 1909",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Voici_des_roses.ogg",
+   "pour": [
+    "la-damnation-de-faust"
+   ],
+   "sig": "Voici des roses.ogg||64 mono|lame-cbr|0.3|2"
+  },
+  "faust-air-des-bijoux": {
+   "f": "son/faust-air-des-bijoux.mp3",
+   "v": "09688a7777",
+   "d": 174.5,
+   "ti": "Gounod, *Faust* : l’air des bijoux, « Ah ! je ris de me voir si belle »",
+   "cr": "Nellie Melba, 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Gounod_-_Melba_-_Ah_je_ris_de_me_voir_si_belle_(Faust,_air_des_bijoux)_-_1910.ogg",
+   "pour": [
+    "faust-gounod",
+    "charles-gounod"
+   ],
+   "sig": "Gounod - Melba - Ah je ris de me voir si belle (Faust, air des bijoux) - 1910.ogg||64 mono|lame-cbr|0.3|2"
+  },
+  "scriabine-mazurka-1910": {
+   "f": "son/scriabine-mazurka-1910.mp3",
+   "v": "ece63a7990",
+   "d": 49.1,
+   "ti": "Scriabine joue lui-même sa *Mazurka* op. 40 n° 2, sur un rouleau Welte-Mignon",
+   "cr": "Alexandre Scriabine, Moscou, janvier 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Skrjabin_op_40_2.ogg",
+   "pour": [
+    "alexandre-scriabine"
+   ],
+   "sig": "Skrjabin op 40 2.ogg||96|lame-cbr|0.3|2"
+  },
+  "satie-gymnopedie": {
+   "f": "son/satie-gymnopedie.mp3",
+   "v": "fe186ec9f7",
+   "d": 183.6,
+   "ti": "Satie, *Première Gymnopédie*, « lent et douloureux » (1888)",
+   "cr": "Robin Alciatore",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg",
+   "pour": [
+    "erik-satie"
+   ],
+   "sig": "Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg||96|lame-cbr|0.3|2"
   },
   "notre-dame-emmanuel": {
    "f": "son/notre-dame-emmanuel.mp3",
-   "v": "70f6b67d2a",
+   "v": "2eea6cf20b",
    "d": 60.0,
    "ti": "Le bourdon Emmanuel, la grande cloche de Notre-Dame, fondue en 1686",
    "cr": "Rongaman, enregistré avant l’incendie de 2019",
@@ -546,11 +337,11 @@
     "notre-dame-de-paris",
     "victor-hugo"
    ],
-   "sig": "ND G1 Emmanuel.ogg|0 60"
+   "sig": "ND G1 Emmanuel.ogg|0 60|96|lame-cbr|0.3|2"
   },
   "paris-saint-gervais": {
    "f": "son/paris-saint-gervais.mp3",
-   "v": "84daa26735",
+   "v": "041aa51565",
    "d": 44.5,
    "ti": "Les cloches de Saint-Gervais-Saint-Protais, à Paris",
    "cr": "aldor, pdsounds.org",
@@ -560,11 +351,11 @@
     "paris",
     "la-bas"
    ],
-   "sig": "Saint gervais saint pro - Paris.oga|"
+   "sig": "Saint gervais saint pro - Paris.oga||96|lame-cbr|0.3|2"
   },
   "venise-saint-marc": {
    "f": "son/venise-saint-marc.mp3",
-   "v": "346048ce47",
+   "v": "4d5202c0c0",
    "d": 20.2,
    "ti": "Les cloches de Saint-Marc, à Venise",
    "cr": "Mafs, enregistrement versé au domaine public",
@@ -573,11 +364,11 @@
    "pour": [
     "venise"
    ],
-   "sig": "GlockenSMarco.ogg|"
+   "sig": "GlockenSMarco.ogg||80 mono|lame-cbr|0.3|2"
   },
   "strasbourg-plenum": {
    "f": "son/strasbourg-plenum.mp3",
-   "v": "823f673343",
+   "v": "6114b9241a",
    "d": 75.0,
    "ti": "Toutes les cloches de la cathédrale de Strasbourg sonnent ensemble, le 9 juillet 2000",
    "cr": "Claude Truong-Ngoc",
@@ -586,11 +377,11 @@
    "pour": [
     "cathedrale-de-strasbourg"
    ],
-   "sig": "Plénum de la Cathédrale Notre Dame de Strasbourg - 9 juillet 2000.ogg|0 75"
+   "sig": "Plénum de la Cathédrale Notre Dame de Strasbourg - 9 juillet 2000.ogg|0 75|96|lame-cbr|0.3|2"
   },
   "notre-dame-cloches": {
    "f": "son/notre-dame-cloches.mp3",
-   "v": "e0709b1496",
+   "v": "768a2c99d3",
    "d": 45.0,
    "ti": "Les cinq cloches de Notre-Dame à la messe du soir de Noël 2011",
    "cr": "Mxsmanic, freesound.org, 2011",
@@ -599,11 +390,11 @@
    "pour": [
     "notre-dame-de-paris"
    ],
-   "sig": "2011 Christmas bells at Notre-Dame de Paris (excerpt).wav|0 45"
+   "sig": "2011 Christmas bells at Notre-Dame de Paris (excerpt).wav|0 45|80|lame-cbr|0.3|2"
   },
   "vagues": {
    "f": "son/vagues.mp3",
-   "v": "8ebeb9c8fa",
+   "v": "0b1e6f246b",
    "d": 40.0,
    "ti": "Les vagues de l’océan",
    "cr": "J. D. Savanyu",
@@ -612,11 +403,11 @@
    "pour": [
     "atlantide"
    ],
-   "sig": "Ocean Waves on a Tropical Beach.ogg|0 40"
+   "sig": "Ocean Waves on a Tropical Beach.ogg|0 40|80|lame-cbr|0.3|2"
   },
   "pluie-tonnerre": {
    "f": "son/pluie-tonnerre.mp3",
-   "v": "1b79d36482",
+   "v": "503a674906",
    "d": 60.1,
    "ti": "La pluie et le tonnerre",
    "cr": "ezwa, pdsounds.org, 2008",
@@ -625,11 +416,11 @@
    "pour": [
     "pierre-de-foudre"
    ],
-   "sig": "Rain and thunder (1).ogg|"
+   "sig": "Rain and thunder (1).ogg||80 mono|lame-cbr|0.3|2"
   },
   "correspondances-lue": {
    "f": "son/correspondances-lue.mp3",
-   "v": "fe8a895419",
+   "v": "7eac0e9284",
    "d": 69.7,
    "ti": "Baudelaire, *Correspondances*, dit en français",
    "cr": "lecture LibriVox, 2020",
@@ -639,11 +430,11 @@
     "correspondances",
     "charles-baudelaire"
    ],
-   "sig": "Fleursdumal 004 baudelaire 128kb.mp3|"
+   "sig": "Fleursdumal 004 baudelaire 128kb.mp3||48 mono|lame-cbr|0.3|2"
   },
   "voyelles-lue": {
    "f": "son/voyelles-lue.mp3",
-   "v": "65d508fe44",
+   "v": "f2f6aaea36",
    "d": 97.9,
    "ti": "Rimbaud, *Voyelles*, dit en français",
    "cr": "Thalie Envolée, 2013",
@@ -652,12 +443,12 @@
    "pour": [
     "arthur-rimbaud"
    ],
-   "sig": "Thalie Envolée - Arthur Rimbaud - Voyelles.oga|"
+   "sig": "Thalie Envolée - Arthur Rimbaud - Voyelles.oga||48 mono|lame-cbr|0.3|2"
   },
   "corbeau-poe-lu": {
    "f": "son/corbeau-poe-lu.mp3",
-   "v": "3a8ea068ec",
-   "d": 110.0,
+   "v": "989e41f30a",
+   "d": 110.1,
    "ti": "Poe, *The Raven*, le début du poème, dit en anglais",
    "cr": "Chris Goringe, LibriVox",
    "lic": "Public domain",
@@ -666,11 +457,11 @@
     "edgar-allan-poe",
     "corbeau"
    ],
-   "sig": "LibriVox - The Raven - Chris Goringe.ogg|0 110"
+   "sig": "LibriVox - The Raven - Chris Goringe.ogg|0 110|48 mono|lame-cbr|0.3|2"
   },
   "houdini-voix": {
    "f": "son/houdini-voix.mp3",
-   "v": "08db33708f",
+   "v": "6301da128e",
    "d": 10.4,
    "ti": "La voix de Harry Houdini, qui démasquait les médiums",
    "cr": "cylindre Edison, Flatbush, New York, 29 octobre 1914",
@@ -679,7 +470,7 @@
    "pour": [
     "arthur-conan-doyle"
    ],
-   "sig": "Harry Houdini's voice.ogg|"
+   "sig": "Harry Houdini's voice.ogg||48 mono|lame-cbr|0.3|2"
   }
  }
 }

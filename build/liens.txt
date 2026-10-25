@@ -1345,3 +1345,22 @@ hermann-hesse: wp Hermann Hesse
 mircea-eliade: wp Mircea Eliade
 code-morse: wp Code Morse international
 cathedrale-de-strasbourg: wp Cathédrale Notre-Dame de Strasbourg
+claude-debussy: wp Claude Debussy | ws Auteur:Claude Debussy
+la-mer: wp La Mer (Debussy)
+pelleas-et-melisande: wp Pelléas et Mélisande (opéra) | ws Pelléas et Mélisande
+maurice-ravel: wp Maurice Ravel
+gaspard-de-la-nuit: wp Gaspard de la nuit (Ravel) | ws Gaspard de la nuit (éd. 1920)
+hector-berlioz: wp Hector Berlioz | ws Auteur:Hector Berlioz
+symphonie-fantastique: wp Symphonie fantastique
+la-damnation-de-faust: wp La Damnation de Faust
+charles-gounod: wp Charles Gounod
+faust-gounod: wp Faust (Gounod)
+alexandre-scriabine: wp Alexandre Scriabine
+promethee-poeme-du-feu: wp Prométhée ou le Poème du feu
+erik-satie: wp Erik Satie | ws Auteur:Erik Satie
+sonneries-de-la-rose-croix: wp Sonneries de la Rose+Croix
+le-fils-des-etoiles: wp Le Fils des étoiles
+giacinto-scelsi: wp Giacinto Scelsi
+karlheinz-stockhausen: wp Karlheinz Stockhausen
+licht: wp Licht (Stockhausen)
+dane-rudhyar: wp Dane Rudhyar

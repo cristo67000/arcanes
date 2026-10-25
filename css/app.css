@@ -38,7 +38,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-nombres { --cc: var(--c-nombres); } .cat-astronomie { --cc: var(--c-astronomie); } .cat-pierres { --cc: var(--c-pierres); }
 .cat-echecs { --cc: var(--c-echecs); } .cat-lieux { --cc: var(--c-lieux); } .cat-perso { --cc: var(--c-perso); }
 .cat-bestiaire { --cc: var(--c-bestiaire); } .cat-egypte { --cc: var(--c-egypte); } .cat-codes { --cc: var(--c-codes); } .cat-mythes { --cc: var(--c-mythes); } .cat-apocryphes { --cc: var(--c-apocryphes); }
-.cat-litterature { --cc: var(--c-litterature); } .cat-peinture { --cc: var(--c-peinture); }
+.cat-litterature { --cc: var(--c-litterature); } .cat-peinture { --cc: var(--c-peinture); } .cat-musique { --cc: var(--c-musique); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));

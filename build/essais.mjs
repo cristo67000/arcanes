@@ -282,15 +282,15 @@ try {
   await attendre("Fiche.ref === 'quinotaure' && document.querySelectorAll('#fiche .an-lutin').length === 2 && document.querySelectorAll('#fiche .an-vagues').length === 2", 4000, 'Mérovée : la reine et le monstre marin, et la mer');
   await attendre("Array.from(document.querySelectorAll('#fiche .an-lutin-image')).every((i) => i.getBBox().width > 0)", 4000, 'les deux figures découpées sont posées');
   ok(await js("return /Ambroise Paré/.test(document.querySelector('#fiche .illustration-animation').textContent)"), 'la légende dit d’où viennent les figures ajoutées');
-  await js("Fiche.ouvrir('loup'); return 1");
-  await attendre("Fiche.ref === 'loup' && document.querySelector('#fiche .sons .son-bouton')", 3000, 'le loup a son cri à écouter');
+  await js("Fiche.ouvrir('notre-dame-de-paris'); return 1");
+  await attendre("Fiche.ref === 'notre-dame-de-paris' && document.querySelector('#fiche .sons .son-bouton')", 3000, 'Notre-Dame a ses cloches à écouter');
   ok(await js("return /domaine public|CC0/.test(document.querySelector('#fiche .son-credit').textContent) && /^https:\\/\\/commons\\.wikimedia\\.org\\//.test(document.querySelector('#fiche .son-source').href)"), 'le son dit sa licence et sa source');
   await js("document.querySelector('#fiche .son-bouton').click(); return 1");
-  await attendre("document.querySelector('#fiche .son-bouton').classList.contains('joue')", 6000, 'le hurlement se joue');
+  await attendre("document.querySelector('#fiche .son-bouton').classList.contains('joue')", 6000, 'les cloches se jouent');
   await attendre("parseFloat(document.querySelector('#fiche .son-avance').style.width) > 0", 6000, 'la barre d’avancement progresse');
   await js("document.querySelector('#fiche .son-bouton').click(); return 1");
   ok(await js("return !document.querySelector('#fiche .son-bouton').classList.contains('joue') && !Sons.enCours"), 'toucher de nouveau arrête le son');
-  ok(await js("return caches.open('arcanes-sons').then((c) => c.keys()).then((k) => k.some((r) => /son\\/loup-hurlements\\.mp3/.test(r.url)))"), 'le son écouté est rangé pour l’écoute hors ligne');
+  ok(await js("return caches.open('arcanes-sons').then((c) => c.keys()).then((k) => k.some((r) => /son\\/notre-dame-/.test(r.url)))"), 'le son écouté est rangé pour l’écoute hors ligne');
 
   // ── Les repères et les liens « Pour aller plus loin » ─────────────────────
   await js("Fiche.ouvrir('paracelse'); return 1");

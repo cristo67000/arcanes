@@ -197,7 +197,7 @@ effet: lueur; point=0.56 0.43; rayon=0.12; couleur=#fff0c0; mode=pulse
 
 = colombe-giaquinto
 titre: La colombe
-son: colombe-roucoulement
+son: synth:enchantement
 effet: rayons; point=0.45 0.35; rayon=0.42; nombre=20; couleur=#fff3c4
 effet: lueur; point=0.45 0.35; rayon=0.12; couleur=#ffffff; mode=pulse
 
@@ -248,17 +248,16 @@ effet: bouge; polygone=0.50 0.15, 0.57 0.15, 0.88 0.65, 0.88 0.79, 0.70 0.81, 0.
 
 = chouette-athenes
 titre: La chouette d’Athéna
-son: chouette-cheveche
+son: synth:souffle
 effet: etincelles; zone=0.2 0.15 0.6 0.65; nombre=12; couleur=#ffffff; taille=0.014
 
 = abeilles-childeric
 titre: L’or des abeilles
-son: abeilles-ruche
 effet: etincelles; zone=0.1 0.1 0.8 0.6; nombre=16; couleur=#fff3b0; taille=0.012
 
 = cygne-chevalier
 titre: Le cygne tire la nacelle
-son: cygnes-chanteurs
+son: synth:eau
 effet: bouge; polygone=0.0 0.44, 1.0 0.44, 1.0 0.93, 0.0 0.93; pivot=0.5 0.7; mode=flotte; ampleur=0.012; duree=3.2; fois=3; delai=0.6
 effet: etincelles; zone=0.02 0.02 0.96 0.22; nombre=14; couleur=#ffe9a0; taille=0.012
 
@@ -299,7 +298,6 @@ effet: lueur; point=0.47 0.47; rayon=0.3; couleur=#ffd870; mode=pulse; force=0.3
 = basilic-aldrovandi
 titre: Le chant du coq
 credit: le coq d’Ulisse Aldrovandi, aquarelle d’avant 1600
-son: coq-chant
 effet: teinte; polygone=0.32 0.66, 0.40 0.40, 0.55 0.30, 0.72 0.29, 0.84 0.34, 0.86 0.55, 0.80 0.74, 0.55 0.78, 0.36 0.76; couleur=#6f9a46; force=0.6; flou=0.008
 effet: teinte; polygone=0.86 0.30, 0.94 0.30, 0.96 0.50, 0.90 0.58, 0.86 0.52; couleur=#d9a441; force=0.6; flou=0.006
 effet: teinte; ellipse=0.905 0.38 0.012 0.03; couleur=#d42a1e; force=0.85; flou=0.004; delai=0.6
