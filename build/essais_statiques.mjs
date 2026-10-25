@@ -177,7 +177,26 @@ for (const a of dico.articles) {
   }
 }
 ok(animees >= meta.animations && meta.animations >= 20, 'des images s’animent (' + meta.animations + ')');
-ok(effets.length >= 8 && recettes.length >= 10, 'les effets et les bruits de synthèse sont déclarés (' + effets.length + ', ' + recettes.length + ')');
+ok(effets.length >= 11 && recettes.length >= 10, 'les effets et les bruits de synthèse sont déclarés (' + effets.length + ', ' + recettes.length + ')');
+
+// ── La lecture du tarot ─────────────────────────────────────────────────────
+const manipuler = lire('js/manipuler.js');
+const sensTarot = Array.from(/const SENS_ARCANES = \{([\s\S]*?)\n  \};/.exec(manipuler)[1]
+  .matchAll(/'(arcane-[a-z-]+)': \{ e: '([^']*)', r: '([^']*)' \}/g));
+const arcanesIds = dico.articles.filter((a) => /^arcanes-majeurs\/\d+$/.test(a.sc || '')).map((a) => a.id);
+ok(arcanesIds.length === 22, 'les vingt-deux arcanes majeurs sont dans le dictionnaire');
+ok(sensTarot.length === 22 && arcanesIds.every((id) => sensTarot.some((m) => m[1] === id)), 'chaque arcane a son sens de cartomancien');
+ok(sensTarot.every((m) => m[2].length >= 30 && m[3].length >= 30), 'les sens du tarot, à l’endroit et renversés, sont des phrases');
+
+// ── Les sentences du Yi King, les figures et les maisons de la géomancie ────
+const sentences = Array.from(/const HEXAGRAMMES = \[null,([\s\S]*?)\n  \];/.exec(manipuler)[1]
+  .matchAll(/\['[^']+', '[^']+', '([^']{20,})'\]/g));
+ok(sentences.length === 64, 'les soixante-quatre hexagrammes ont leur sentence résumée (' + sentences.length + ')');
+const figuresGm = Array.from(/const GEOMANCIE = \[([\s\S]*?)\n  \];/.exec(manipuler)[1]
+  .matchAll(/\['[^']+', '[^']+', \[[0-9, ]+\], '([^']{20,})'\]/g));
+ok(figuresGm.length === 16, 'les seize figures de géomancie ont leur sens (' + figuresGm.length + ')');
+const maisonsGm = /const MAISONS = \[([\s\S]*?)\n  \];/.exec(manipuler)[1].match(/'[^']+'/g);
+ok(maisonsGm.length === 12, 'les douze maisons de la géomancie ont leur domaine');
 
 // ── Les repères et les liens « Pour aller plus loin » ───────────────────────
 const avecReperes = dico.articles.filter((a) => a.re);

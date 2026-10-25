@@ -282,6 +282,12 @@ try {
   await attendre("Fiche.ref === 'quinotaure' && document.querySelectorAll('#fiche .an-lutin').length === 2 && document.querySelectorAll('#fiche .an-vagues').length === 2", 4000, 'Mérovée : la reine et le monstre marin, et la mer');
   await attendre("Array.from(document.querySelectorAll('#fiche .an-lutin-image')).every((i) => i.getBBox().width > 0)", 4000, 'les deux figures découpées sont posées');
   ok(await js("return /Ambroise Paré/.test(document.querySelector('#fiche .illustration-animation').textContent)"), 'la légende dit d’où viennent les figures ajoutées');
+  await js("Fiche.ouvrir('melencolia'); return 1");
+  await attendre("Fiche.ref === 'melencolia' && document.querySelectorAll('#fiche .an-comete').length === 1", 4000, 'une étoile file dans le ciel de Melencolia I');
+  await js("Fiche.ouvrir('stonehenge'); return 1");
+  await attendre("Fiche.ref === 'stonehenge' && document.querySelectorAll('#fiche .an-brume').length >= 4", 4000, 'la brume dérive sur Stonehenge');
+  await js("Fiche.ouvrir('aurelia'); return 1");
+  await attendre("Fiche.ref === 'aurelia' && document.querySelectorAll('#fiche .an-flocon').length >= 30", 4000, 'la neige tombe sur la rue de la Vieille-Lanterne');
   await js("Fiche.ouvrir('notre-dame-de-paris'); return 1");
   await attendre("Fiche.ref === 'notre-dame-de-paris' && document.querySelector('#fiche .sons .son-bouton')", 3000, 'Notre-Dame a ses cloches à écouter');
   ok(await js("return /domaine public|CC0/.test(document.querySelector('#fiche .son-credit').textContent) && /^https:\\/\\/commons\\.wikimedia\\.org\\//.test(document.querySelector('#fiche .son-source').href)"), 'le son dit sa licence et sa source');
@@ -466,16 +472,36 @@ try {
   await js("document.querySelector('#manipuler .bouton-principal').click(); return 1");
   await attendre("document.querySelectorAll('#manipuler .tt-carte.retournee').length === 3", 4000, 'trois cartes se retournent');
   ok(await js("const c = Array.from(document.querySelectorAll('#manipuler .tt-carte')); const ids = Array.from(document.querySelectorAll('#manipuler .tt-lecture .voisin')).map((b) => b.getAttribute('data-ref')); return c.length === 3 && new Set(ids).size === 3 && ids.every((id) => /^arcane-/.test(id)) && c.every((x) => /conver-/.test(x.querySelector('img').getAttribute('src')))"), 'le tirage donne trois arcanes distincts, avec leur gravure de Conver');
+  ok(await js("const s = Array.from(document.querySelectorAll('#manipuler .tt-lecture .tt-sens')); return s.length === 3 && s.every((x) => x.textContent.length > 15)"), 'la lecture donne un sens à chaque carte tirée');
+  ok(await js("const S = Manipuler._.SENS_ARCANES; const ids = Dictionnaire.livres.filter((a) => /^arcanes-majeurs\\/\\d+$/.test(a.sc || '')).map((a) => a.id); return ids.length === 22 && ids.every((id) => S[id] && S[id].e.length > 15 && S[id].r.length > 15)"), 'les vingt-deux arcanes ont leur sens, à l’endroit et renversé');
+  ok(await js("return !!document.querySelector('#manipuler .tt-paquet') && !!document.querySelector('#manipuler .tt-copier')"), 'le paquet se mélange sous les yeux et la lecture se copie');
+  await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => /renversées/.test(b.textContent)).click(); return 1");
+  await attendre("document.querySelectorAll('#manipuler .tt-carte').length === 3 && /Etteilla/.test(document.querySelector('#manipuler .outil-aide').textContent)", 4000, 'le tirage à cartes renversées crédite Etteilla');
+  ok(await js("return document.querySelectorAll('#manipuler .tt-carte.tt-renversee').length === document.querySelectorAll('#manipuler .tt-lecture .tt-renverse-note').length"), 'chaque carte renversée est dite renversée dans la lecture');
   await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => b.textContent === '10 cartes').click(); return 1");
   await attendre("document.querySelectorAll('#manipuler .tt-croix .tt-carte').length === 10", 4000, 'la croix de dix cartes se dispose');
+  ok(await js("return document.querySelectorAll('#manipuler .tt-lecture .tt-sens').length === 10"), 'la croix se lit carte par carte');
+  const notesAvant = await js('return (await Store.toutesLesNotes()).length');
+  await js("document.querySelector('#manipuler .outil-garder').click(); return 1");
+  await attendre('(await Store.toutesLesNotes()).length === ' + (notesAvant + 1), 4000, 'le tirage entre dans le carnet');
+  ok(await js("const n = (await Store.toutesLesNotes()).sort((a, b) => b.modifie - a.modifie)[0]; return n.titre === 'Tirage du tarot' && /^Tirage du tarot/.test(n.texte) && n.texte.split('\\n').length === 11 && !!Dictionnaire.parId(n.ref)"), 'la note du tirage dit ses dix cartes');
+  await pause(300);
+  ok(await js("return document.querySelectorAll('#manipuler .tt-carte').length === 10 && document.querySelectorAll('#fiche .note-carte').length >= 1"), 'le tirage reste affiché après « Garder », et la note paraît sous « Mes notes »');
   await js("Fiche.ouvrir('yi-king', { defiler: 'outil' }); return 1");
   await attendre("Fiche.ref === 'yi-king' && document.getElementById('manipuler')", 4000, 'l’outil du Yi King s’ouvre');
   await js("for (let i = 0; i < 6; i += 1) document.querySelector('#manipuler .bouton-principal').click(); return 1");
   ok(await js("return /^\\d+\\. /.test(document.querySelector('#manipuler .yk-nom').textContent)"), 'six jets de pièces donnent un hexagramme numéroté');
+  ok(await js("return /^La sentence : .{15,}\\.$/.test(document.querySelector('#manipuler .yk-jugement').textContent)"), 'l’hexagramme donne sa sentence, résumée');
+  ok(await js("const H = Manipuler._.HEXAGRAMMES; return H.length === 65 && H.slice(1).every((h) => h[2] && h[2].length > 15)"), 'les soixante-quatre hexagrammes ont chacun leur sentence');
+  ok(await js("return !!document.querySelector('#manipuler .outil-garder')"), 'le tirage du Yi King se garde dans le carnet');
   await js("Fiche.ouvrir('geomancie', { defiler: 'outil' }); return 1");
   await attendre("Fiche.ref === 'geomancie' && document.getElementById('manipuler')", 4000, 'l’outil de géomancie s’ouvre');
   await js("document.querySelector('#manipuler .outil-boutons .bouton-discret').click(); return 1");
   ok(await js("const c = Array.from(document.querySelectorAll('#manipuler .gm-case')); const juge = c[c.length - 1].querySelectorAll('.gm-point').length; return c.length === 15 && juge % 2 === 0"), 'le bouclier géomantique a ses quinze figures et un Juge pair');
+  ok(await js("return /^Le Juge répond : /.test(document.querySelector('#manipuler .gm-juge-sens').textContent)"), 'le Juge donne sa réponse en clair');
+  await js("Array.from(document.querySelectorAll('#manipuler .segments-outil button')).find((b) => b.textContent === 'Les douze maisons').click(); return 1");
+  ok(await js("return document.querySelectorAll('#manipuler .gm-maison').length === 12 && document.querySelector('#manipuler .gm-bouclier').hidden === true"), 'le thème des douze maisons remplace le bouclier');
+  ok(await js("return document.querySelectorAll('#manipuler .gm-lexique li').length >= 1 && Manipuler._.GEOMANCIE.every((g) => g[3] && g[3].length > 15) && Manipuler._.MAISONS.length === 12"), 'chaque figure a son sens, et le lexique du tirage les donne');
   await js("Fiche.ouvrir('chiffre-de-cesar', { defiler: 'outil' }); return 1");
   await attendre("Fiche.ref === 'chiffre-de-cesar' && document.getElementById('manipuler')", 4000, 'l’outil des chiffres s’ouvre');
   ok(await js("return document.querySelector('#manipuler .outil-sortie').textContent") === 'VRXYLHQV-WRL GH OD PRUW', 'César décale de trois : « Souviens-toi de la mort » devient VRXYLHQV-WRL GH OD PRUW');
@@ -583,11 +609,12 @@ try {
     const donnees = { application: 'arcanes', format: 1, date: new Date().toISOString(),
       reglages: await Store.lireReglages(), notes: await Store.toutesLesNotes(),
       perso: await Store.tousLesArticlesPerso(), suivis: await Store.tousLesSuivis() };
+    const avant = donnees.notes.length;
     for (const n of donnees.notes) await Store.supprimerNote(n.id);
     const b = await Sauvegarde.fusionner(donnees);
-    return { valide: Sauvegarde.valide(donnees), ajoutes: b.ajoutes, notes: (await Store.toutesLesNotes()).length };
+    return { valide: Sauvegarde.valide(donnees), ajoutes: b.ajoutes, avant, notes: (await Store.toutesLesNotes()).length };
   `);
-  ok(aller.valide && aller.ajoutes >= 1 && aller.notes === 1, 'une sauvegarde rechargée rend la note effacée');
+  ok(aller.valide && aller.ajoutes >= 1 && aller.avant >= 2 && aller.notes === aller.avant, 'une sauvegarde rechargée rend les notes effacées (' + aller.notes + ')');
   ok(await js("return Sauvegarde.valide({ application: 'code-en-clair', format: 1, notes: [] })") === false, 'une sauvegarde d’une autre application est refusée');
 
   // ── L'adresse partagée ouvre l'article ────────────────────────────────────

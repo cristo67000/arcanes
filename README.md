@@ -107,9 +107,15 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   Pernelle vient prier auprès de Nicolas Flamel ; le coq d'Aldrovandi chante
   au-dessus du basilic, qui tremble ; le Golem s'éveille, le mot *emet* allumé
   au front ; le Juif errant marche sous l'orage, Léviathan se tord sous la foudre,
-  l'homoncule luit dans sa fiole… — près de quarante gravures, chacune
-  avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong, feu),
-  fabriqué sur place par l'appareil ; « Rejouer » relance l'animation ;
+  l'homoncule luit dans sa fiole ; une étoile file dans le ciel de
+  *Melencolia I*, la brume du matin dérive sur Stonehenge et sur les
+  alignements de Carnac, l'archange des *Très Riches Heures* rayonne au-dessus
+  du Mont-Saint-Michel, Jupiter resplendit devant Sémélé, la mer brumeuse
+  retient Ulysse chez Calypso, et la neige de janvier tombe sur la rue de la
+  Vieille-Lanterne de Doré, où mourut Nerval… — plus de quarante gravures,
+  chacune avec son bruit (coups frappés, carte qu'on retourne, tonnerre, gong,
+  feu, vent, cloche), fabriqué sur place par l'appareil ; « Rejouer » relance
+  l'animation ;
 - des **sons** du domaine public, sous « À écouter » : la Reine de la Nuit de
   *La Flûte enchantée*, le récit du Graal de *Lohengrin*, *Parsifal*, *Les
   Planètes* de Holst (sous chaque planète), la « Marche au supplice » et le
@@ -147,14 +153,21 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
   d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
 - des **outils à manipuler**, chacun dans son article et rangés sur l'accueil :
-  tirer le tarot (une, trois ou dix cartes, avec les gravures de Conver, qui se
-  retournent), lancer le Yi King (trois pièces, six fois, et l'hexagramme qui en
-  sort, avec ses traits mutants), tracer une géomancie (seize lignes de points,
-  puis le bouclier des Mères au Juge), chiffrer et déchiffrer un message (César,
-  Atbash, Vigenère, Polybe, la scytale, l'alphabet maçonnique dessiné, le Morse,
-  qu'on écoute), compter le nombre d'un nom (gématrie hébraïque, isopsephie
-  grecque, numérologie, avec un clavier de lettres) ; tous présentent un procédé
-  et disent qu'ils ne prédisent rien ;
+  tirer le tarot — une, trois ou dix cartes, avec les gravures de Conver : le
+  paquet se mélange sous les yeux, les cartes volent à leur place et se
+  retournent, à l'endroit ou, si on le demande, renversées, comme chez
+  Etteilla ; sous le tirage, la **lecture** que ferait un cartomancien, carte
+  par carte à sa place, d'après les sens que la tradition attache à chaque
+  arcane, et qu'on peut copier —, lancer le Yi King (trois pièces, six fois,
+  l'hexagramme qui en sort avec ses traits mutants, et sa sentence résumée),
+  tracer une géomancie (seize lignes de points, puis le bouclier des Mères au
+  Juge — qui répond en clair — ou le thème des douze maisons, avec le sens que
+  les traités donnaient à chaque figure), chiffrer et déchiffrer un message
+  (César, Atbash, Vigenère, Polybe, la scytale, l'alphabet maçonnique dessiné,
+  le Morse, qu'on écoute), compter le nombre d'un nom (gématrie hébraïque,
+  isopsephie grecque, numérologie, avec un clavier de lettres) ; un tirage du
+  tarot, du Yi King ou de la géomancie se garde en note du carnet ; tous
+  présentent un procédé et disent qu'ils ne prédisent rien ;
 - une **frise chronologique** de plus de cinq cents dates, en **bandeau** ou en
   liste : les siècles en largeur, les vies des figures en barres, un couloir par
   rubrique ; on la fait glisser, on la zoome, et l'on touche une vie pour voir

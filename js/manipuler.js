@@ -3,12 +3,16 @@
  * « À manipuler » : cinq outils pour voir de ses yeux comment procédaient
  * les traditions.
  *
- *   tirer le tarot (une, trois ou dix cartes, avec les gravures de Conver),
- *   lancer le Yi King (trois pièces, six fois), tracer une géomancie (seize
- *   lignes de points, puis le bouclier), chiffrer et déchiffrer un message
- *   (César, Atbash, Vigenère, Polybe, la scytale, l'alphabet maçonnique, le
- *   Morse, qu'on écoute), compter le nombre d'un nom (gématrie, isopsephie,
- *   numérologie).
+ *   tirer le tarot (une, trois ou dix cartes, avec les gravures de Conver,
+ *   mélangées et distribuées sous les yeux, à l'endroit ou renversées, et la
+ *   lecture que la tradition des cartomanciens ferait du tirage),
+ *   lancer le Yi King (trois pièces, six fois, et la sentence de l'hexagramme,
+ *   résumée), tracer une géomancie (seize lignes de points, puis le bouclier
+ *   ou le thème des douze maisons, avec le sens des figures), chiffrer et
+ *   déchiffrer un message (César, Atbash, Vigenère, Polybe, la scytale,
+ *   l'alphabet maçonnique, le Morse, qu'on écoute), compter le nombre d'un nom
+ *   (gématrie, isopsephie, numérologie). Tarot, Yi King et géomancie se
+ *   gardent en note du carnet.
  *
  * Chaque outil vit dans son article, sous le texte (`Manipuler.bloc`) ; l'accueil
  * en donne la liste (`Manipuler.accueil`). Ils montrent un procédé et ne
@@ -68,6 +72,22 @@
     return rang;
   }
 
+  /* Garde un tirage en note du carnet, sur l'article où l'on est ; `texte` est
+   * une fonction, pour prendre le tirage tel qu'il est au moment du clic. */
+  function boutonGarder(ref, titre, texte) {
+    return bouton('bouton-discret outil-garder', 'Garder dans le carnet', async () => {
+      try {
+        const maintenant = Date.now();
+        await Store.ecrireNote({ id: Outils.identifiant('n'), ref, type: 'note', titre,
+          texte: texte(), cree: maintenant, modifie: maintenant });
+        document.dispatchEvent(new CustomEvent('notes-changees'));
+        Outils.annoncer('Tirage gardé dans le carnet, sous « Notes ».');
+      } catch (e) {
+        Outils.annoncer('Le carnet est indisponible sur cet appareil.');
+      }
+    });
+  }
+
   // ── Le tarot ──────────────────────────────────────────────────────────────
 
   const TIRAGES = {
@@ -80,6 +100,34 @@
     ],
   };
 
+  /* Ce que la tradition des cartomanciens, d'Etteilla à Waite, lit dans chaque
+   * arcane : un sens à l'endroit (`e`), un sens renversé (`r`). Résumés dans
+   * l'esprit des articles, qui en disent plus ; rien de tout cela ne prédit. */
+  const SENS_ARCANES = {
+    'arcane-bateleur': { e: 'un début, une initiative, un savoir-faire : quelque chose commence, et l’on a les outils en main', r: 'l’habileté qui tourne à la ruse, un projet qui tarde à prendre forme, des moyens mal employés' },
+    'arcane-papesse': { e: 'le secret, l’étude, la réserve : la réponse mûrit dans le silence', r: 'un savoir gardé trop longtemps, la passivité, un secret qui pèse' },
+    'arcane-imperatrice': { e: 'l’abondance, la création, l’expression : un projet naît et rayonne', r: 'un projet qui ne mûrit pas, la vanité, une création empêchée' },
+    'arcane-empereur': { e: 'la solidité, l’ordre, la protection d’un pouvoir établi', r: 'la rigidité, l’autorité qui pèse, un pouvoir contesté' },
+    'arcane-pape': { e: 'le conseil, l’enseignement, une union consacrée, l’appui d’une institution', r: 'le conformisme, un conseil intéressé, la rupture avec la tradition' },
+    'arcane-amoureux': { e: 'une décision à prendre, un sentiment, une alliance', r: 'l’hésitation qui s’éternise, un choix manqué, la discorde' },
+    'arcane-chariot': { e: 'le succès, l’avancée, un voyage : des forces contraires enfin menées ensemble', r: 'un triomphe prématuré, la dispersion, un départ retardé' },
+    'arcane-justice': { e: 'le jugement, l’équité, la conséquence des actes : chacun reçoit son dû', r: 'un jugement partial, une affaire qui s’enlise, l’excès de rigueur' },
+    'arcane-hermite': { e: 'la prudence, la patience, la méditation : un retrait qui éclaire', r: 'l’isolement, la méfiance excessive, la peur d’avancer' },
+    'arcane-roue-de-fortune': { e: 'un changement, une chance, un tournant du destin', r: 'un retournement défavorable, une chance qui se fait attendre' },
+    'arcane-force': { e: 'la maîtrise de soi, l’énergie, la confiance : la douceur l’emporte sur la violence', r: 'la force mal employée, la colère, le découragement' },
+    'arcane-pendu': { e: 'l’attente, le lâcher-prise, un sacrifice consenti qui prépare autre chose', r: 'un sacrifice inutile, le refus de l’épreuve, l’immobilité subie' },
+    'arcane-sans-nom': { e: 'la fin d’un cycle, le dépouillement, une transformation profonde plus qu’une mort', r: 'une fin qui n’en finit pas, la stagnation, la peur du changement' },
+    'arcane-temperance': { e: 'la patience, la conciliation, la guérison : les contraires se mêlent sans heurt', r: 'le déséquilibre, l’excès, des intérêts mal accordés' },
+    'arcane-diable': { e: 'les désirs puissants, l’attachement, une énergie vitale à dompter', r: 'une emprise, une dépendance dont on peut se défaire, la faiblesse devant la tentation' },
+    'arcane-maison-dieu': { e: 'l’écroulement d’un édifice trompeur, une rupture, la vérité qui éclate', r: 'une catastrophe évitée de peu, un enfermement qui se prolonge, le même ébranlement, atténué' },
+    'arcane-etoile': { e: 'l’espoir, la guérison, la protection : une éclaircie après l’épreuve', r: 'l’espérance déçue, le doute, une aide qui tarde' },
+    'arcane-lune': { e: 'l’incertitude, les rêves, l’intuition : rien n’est encore clair', r: 'des illusions qui se dissipent, de petites tromperies, des peurs sans objet' },
+    'arcane-soleil': { e: 'la réussite, la clarté, une union heureuse : la carte la plus favorable', r: 'le même bonheur, voilé ou différé, une réussite moindre' },
+    'arcane-jugement': { e: 'un renouveau, une révélation, un appel auquel répondre', r: 'un appel qu’on n’entend pas, un bilan repoussé, la crainte du verdict' },
+    'arcane-monde': { e: 'la réalisation, la réussite complète, l’harmonie : le cycle s’achève', r: 'un achèvement qui se fait attendre, un succès inachevé, la difficulté à conclure' },
+    'arcane-mat': { e: 'un départ, l’imprévu, la liberté : tout reste ouvert', r: 'l’imprudence, l’errance, une fuite qui coûte' },
+  };
+
   function arcanes() {
     return Dictionnaire.livres
       .filter((a) => /^arcanes-majeurs\/\d+$/.test(a.sc || '') && a.im && a.im.length)
@@ -87,11 +135,14 @@
       .sort((x, y) => x.n - y.n);
   }
 
-  function tarot(zone) {
-    const etat = { mode: 'trois', minuteurs: [] };
+  function tarot(zone, article) {
+    const etat = { mode: 'trois', renversees: false, minuteurs: [] };
     const aide = element('div', 'outil-aide');
+    const paquetVisuel = element('div', 'tt-paquet');
+    paquetVisuel.setAttribute('aria-hidden', 'true');
+    for (let i = 0; i < 3; i += 1) paquetVisuel.appendChild(element('span', 'tt-dos tt-paquet-carte'));
     const tapis = element('div', 'tt-tapis');
-    const lecture = element('ol', 'tt-lecture');
+    const bloc = element('div', 'tt-lecture-bloc');
     const tirer = bouton('bouton-principal', 'Mélanger et tirer', () => dessiner());
 
     function expliquer() {
@@ -102,6 +153,16 @@
         croix: 'La « méthode celtique » que [[arthur-edward-waite|Waite]] publie en 1910 dans *The Pictorial Key to the Tarot* : six cartes en croix, quatre en colonne. Waite tire aussi les arcanes mineurs ; on ne garde ici que les majeurs.',
       };
       aide.appendChild(Rendu.paragraphe(textes[etat.mode]));
+      if (etat.renversees) {
+        aide.appendChild(Rendu.paragraphe('Une carte peut sortir la tête en bas : [[etteilla|Etteilla]], le premier, imprime pour chaque carte un sens à l’endroit et un sens renversé, et les cartomanciens l’ont suivi.'));
+      }
+    }
+
+    /* La lecture d'une carte à sa place : la phrase des cartomanciens. */
+    function sensDe(c) {
+      const s = SENS_ARCANES[c.a.id];
+      if (!s) return '';
+      return c.renversee ? s.r : s.e;
     }
 
     function dessiner() {
@@ -115,37 +176,90 @@
         const j = hasard(i + 1);
         [paquet[i], paquet[j]] = [paquet[j], paquet[i]];
       }
-      const tirees = paquet.slice(0, places.length);
+      const tirees = paquet.slice(0, places.length)
+        .map((c) => Object.assign({ renversee: etat.renversees && hasard(2) === 1 }, c));
       tapis.textContent = '';
       tapis.className = 'tt-tapis tt-' + etat.mode;
-      lecture.textContent = '';
+      bloc.textContent = '';
       const immobile = sansMouvement();
+      const lecture = element('ol', 'tt-lecture');
+      const attente = immobile ? 0 : 950;   // le temps du mélange
+      if (!immobile) {
+        paquetVisuel.classList.remove('melange');
+        void paquetVisuel.offsetWidth;
+        paquetVisuel.classList.add('melange');
+        Bruiteur.jouer('carte');
+        etat.minuteurs.push(racine.setTimeout(() => Bruiteur.jouer('carte'), 420));
+      }
+      const cartes = [];
       tirees.forEach((c, i) => {
-        const b = element('button', 'tt-carte tt-place-' + (i + 1));
+        const b = element('button', 'tt-carte tt-place-' + (i + 1) + (c.renversee ? ' tt-renversee' : ''));
         b.type = 'button';
-        b.setAttribute('aria-label', (i + 1) + '. ' + places[i] + ' : ' + c.a.n);
+        b.setAttribute('aria-label', (i + 1) + '. ' + places[i] + ' : ' + c.a.n + (c.renversee ? ', renversée' : ''));
+        const vol = element('span', 'tt-vol');
         const interieur = element('span', 'tt-interieur');
         interieur.appendChild(element('span', 'tt-dos'));
         const face = element('span', 'tt-face');
         face.appendChild(Illustrations.image(c.im, 'tt-image'));
         interieur.appendChild(face);
-        b.appendChild(interieur);
+        vol.appendChild(interieur);
+        b.appendChild(vol);
         if (etat.mode !== 'un') b.appendChild(element('span', 'tt-numero', String(i + 1)));
         b.addEventListener('click', () => Fiche.ouvrir(c.a.id));
         tapis.appendChild(b);
-        if (immobile) b.classList.add('retournee');
-        else {
-          etat.minuteurs.push(racine.setTimeout(() => {
-            b.classList.add('retournee');
-            if (i < 3) Bruiteur.jouer('carte');
-          }, 250 + i * 320));
-        }
-        const li = element('li');
+        cartes.push({ c, b, vol });
+        const li = element('li', immobile ? '' : 'tt-a-venir');
         li.appendChild(element('span', 'tt-place', places[i]));
         const r = renvoi(c.a.id, c.a.n);
         if (r) li.appendChild(r);
+        if (c.renversee) li.appendChild(element('em', 'tt-renverse-note', 'renversée'));
+        const s = sensDe(c);
+        if (s) li.appendChild(element('span', 'tt-sens', s + '.'));
         lecture.appendChild(li);
       });
+      // les cartes volent du paquet à leur place, puis se retournent
+      if (!immobile) {
+        const dRect = paquetVisuel.getBoundingClientRect();
+        for (const { b, vol } of cartes) {
+          const r = b.getBoundingClientRect();
+          const dx = dRect.left + dRect.width / 2 - (r.left + r.width / 2);
+          const dy = dRect.top + dRect.height / 2 - (r.top + r.height / 2);
+          vol.style.transform = 'translate(' + dx.toFixed(0) + 'px, ' + dy.toFixed(0) + 'px) rotate(-6deg) scale(.7)';
+          vol.style.opacity = '0';
+        }
+      }
+      cartes.forEach(({ b, vol }, i) => {
+        if (immobile) { b.classList.add('retournee'); return; }
+        etat.minuteurs.push(racine.setTimeout(() => {
+          vol.classList.add('tt-posee');
+          vol.style.transform = '';
+          vol.style.opacity = '';
+        }, attente + i * 130));
+        etat.minuteurs.push(racine.setTimeout(() => {
+          b.classList.add('retournee');
+          if (i < 3) Bruiteur.jouer('carte');
+          const li = lecture.children[i];
+          if (li) li.classList.remove('tt-a-venir');
+        }, attente + cartes.length * 130 + 300 + i * 320));
+      });
+      bloc.appendChild(lecture);
+      const note = element('p', 'discret tt-note');
+      note.textContent = 'Les sens donnés ici résument ce que la tradition des cartomanciens attache à chaque arcane ; l’article de chaque carte en dit plus.';
+      bloc.appendChild(note);
+      const texteTirage = () => {
+        const lignes = tirees.map((c, i) => (i + 1) + '. ' + places[i] + ' — ' + c.a.n
+          + (c.renversee ? ', renversée' : '') + ' : ' + (sensDe(c) || ''));
+        return 'Tirage du tarot (' + places.length + ' carte' + (places.length > 1 ? 's' : '')
+          + ', arcanes majeurs du tarot de Conver), le ' + Outils.dateLisible(Date.now()) + '\n' + lignes.join('\n');
+      };
+      const copier = bouton('bouton-discret tt-copier', 'Copier la lecture', async () => {
+        const ok = await Outils.copier(texteTirage());
+        Outils.annoncer(ok ? 'Lecture copiée.' : 'Copie impossible.');
+      });
+      const actions = element('div', 'outil-boutons');
+      actions.appendChild(copier);
+      actions.appendChild(boutonGarder(article.id, 'Tirage du tarot', texteTirage));
+      bloc.appendChild(actions);
       tirer.textContent = 'Mélanger et tirer à nouveau';
     }
 
@@ -154,10 +268,18 @@
       expliquer();
       dessiner();
     }, 'Nombre de cartes'));
+    const renv = segments([[false, 'Toutes à l’endroit'], [true, 'Avec cartes renversées']], false, (v) => {
+      etat.renversees = v;
+      expliquer();
+      dessiner();
+    }, 'Cartes renversées ou non');
+    renv.classList.add('tt-choix-renversees');
+    zone.appendChild(renv);
     zone.appendChild(aide);
     zone.appendChild(tirer);
+    zone.appendChild(paquetVisuel);
     zone.appendChild(tapis);
-    zone.appendChild(lecture);
+    zone.appendChild(bloc);
     expliquer();
   }
 
@@ -174,23 +296,73 @@
     [1, 25, 6, 33, 12, 44, 13, 10], [34, 51, 40, 62, 16, 32, 55, 54], [5, 3, 29, 39, 8, 48, 63, 60], [26, 27, 4, 52, 23, 18, 22, 41],
     [11, 24, 7, 15, 2, 46, 36, 19], [9, 42, 59, 53, 20, 57, 37, 61], [14, 21, 64, 56, 35, 50, 30, 38], [43, 17, 47, 31, 45, 28, 49, 58],
   ];
+  /* Pour chaque hexagramme : le pinyin, le nom, et sa sentence (le « jugement »
+   * du Livre des mutations), résumée dans nos mots — rien n'est cité. */
   const HEXAGRAMMES = [null,
-    ['Qian', 'Le Créateur'], ['Kun', 'Le Réceptif'], ['Zhun', 'La Difficulté initiale'], ['Meng', 'La Folie juvénile'],
-    ['Xu', 'L’Attente'], ['Song', 'Le Conflit'], ['Shi', 'L’Armée'], ['Bi', 'La Solidarité'],
-    ['Xiao Chu', 'Le Petit Apprivoiseur'], ['Lü', 'La Marche'], ['Tai', 'La Paix'], ['Pi', 'La Stagnation'],
-    ['Tong Ren', 'La Communauté avec les hommes'], ['Da You', 'Le Grand Avoir'], ['Qian', 'L’Humilité'], ['Yu', 'L’Enthousiasme'],
-    ['Sui', 'La Suite'], ['Gu', 'Le Travail sur ce qui est gâté'], ['Lin', 'L’Approche'], ['Guan', 'La Contemplation'],
-    ['Shi He', 'Mordre au travers'], ['Bi', 'La Grâce'], ['Bo', 'L’Éclatement'], ['Fu', 'Le Retour'],
-    ['Wu Wang', 'L’Innocence'], ['Da Chu', 'Le Grand Apprivoiseur'], ['Yi', 'La Nourriture'], ['Da Guo', 'La Prépondérance du grand'],
-    ['Kan', 'L’Insondable'], ['Li', 'Ce qui s’attache'], ['Xian', 'L’Influence'], ['Heng', 'La Durée'],
-    ['Dun', 'La Retraite'], ['Da Zhuang', 'La Puissance du grand'], ['Jin', 'Le Progrès'], ['Ming Yi', 'L’Obscurcissement de la lumière'],
-    ['Jia Ren', 'La Famille'], ['Kui', 'L’Opposition'], ['Jian', 'L’Obstacle'], ['Xie', 'La Libération'],
-    ['Sun', 'La Diminution'], ['Yi', 'L’Augmentation'], ['Guai', 'La Percée'], ['Gou', 'Venir à la rencontre'],
-    ['Cui', 'Le Rassemblement'], ['Sheng', 'La Poussée vers le haut'], ['Kun', 'L’Accablement'], ['Jing', 'Le Puits'],
-    ['Ge', 'La Révolution'], ['Ding', 'Le Chaudron'], ['Zhen', 'L’Éveilleur'], ['Gen', 'L’Immobilisation'],
-    ['Jian', 'Le Progrès graduel'], ['Gui Mei', 'L’Épousée'], ['Feng', 'L’Abondance'], ['Lü', 'Le Voyageur'],
-    ['Xun', 'Le Doux'], ['Dui', 'Le Serein'], ['Huan', 'La Dispersion'], ['Jie', 'La Limitation'],
-    ['Zhong Fu', 'La Vérité intérieure'], ['Xiao Guo', 'La Prépondérance du petit'], ['Ji Ji', 'Après l’accomplissement'], ['Wei Ji', 'Avant l’accomplissement'],
+    ['Qian', 'Le Créateur', 'sublime réussite : la force créatrice agit ; persévérer dans la droiture'],
+    ['Kun', 'Le Réceptif', 'réussir en se laissant porter : qui prend les devants s’égare, qui suit trouve un guide'],
+    ['Zhun', 'La Difficulté initiale', 'les débuts sont difficiles : ne rien entreprendre à la légère, s’entourer d’aides'],
+    ['Meng', 'La Folie juvénile', 'l’inexpérience réussit si elle interroge avec sérieux ; on ne répond pas à qui questionne sans fin'],
+    ['Xu', 'L’Attente', 'attendre le bon moment avec confiance : alors on peut traverser la grande eau'],
+    ['Song', 'Le Conflit', 'dans un différend, s’arrêter à mi-chemin porte chance ; aller jusqu’au bout porte malheur'],
+    ['Shi', 'L’Armée', 'une entreprise collective réussit sous un chef expérimenté et droit'],
+    ['Bi', 'La Solidarité', 'l’union porte chance ; que celui qui hésite vienne à temps, trop tard c’est le malheur'],
+    ['Xiao Chu', 'Le Petit Apprivoiseur', 'de petites forces ne retiennent qu’un temps : des nuages denses, mais pas encore de pluie'],
+    ['Lü', 'La Marche', 'marcher sur la queue du tigre : avec prudence et courtoisie, il ne mord pas'],
+    ['Tai', 'La Paix', 'le petit s’en va, le grand vient : le ciel et la terre s’unissent, tout prospère'],
+    ['Pi', 'La Stagnation', 'le grand s’en va, le petit vient : les échanges se rompent, temps de repli'],
+    ['Tong Ren', 'La Communauté avec les hommes', 'la communauté réussit au grand jour, non dans les coteries'],
+    ['Da You', 'Le Grand Avoir', 'posséder beaucoup est une réussite suprême — à porter avec mesure'],
+    ['Qian', 'L’Humilité', 'l’humilité mène toute chose à bien : on abaisse ce qui est trop haut, on élève ce qui est bas'],
+    ['Yu', 'L’Enthousiasme', 'l’élan gagne les autres : bon moment pour instituer et mettre en marche'],
+    ['Sui', 'La Suite', 'savoir suivre obtient tout, à condition de rester droit'],
+    ['Gu', 'Le Travail sur ce qui est gâté', 'ce qui est gâté peut être réparé : réfléchir avant d’agir, veiller après'],
+    ['Lin', 'L’Approche', 'un temps favorable approche : en profiter sans oublier qu’il passera'],
+    ['Guan', 'La Contemplation', 'observer avec gravité : l’exemple de celui qui regarde juste inspire confiance'],
+    ['Shi He', 'Mordre au travers', 'trancher ce qui fait obstacle : il est bon de laisser agir la justice'],
+    ['Bi', 'La Grâce', 'l’ornement réussit dans les petites choses : la forme ne remplace pas le fond'],
+    ['Bo', 'L’Éclatement', 'quand tout s’effrite, ne rien entreprendre : laisser passer le mauvais moment'],
+    ['Fu', 'Le Retour', 'après le déclin, la lumière revient : les entreprises retrouvent un sens'],
+    ['Wu Wang', 'L’Innocence', 'agir sans arrière-pensée réussit ; qui n’est pas droit attire le malheur'],
+    ['Da Chu', 'Le Grand Apprivoiseur', 'une grande énergie contenue : se mettre au service du dehors et oser l’entreprise'],
+    ['Yi', 'La Nourriture', 'regarder ce que l’on nourrit, en soi et chez les autres'],
+    ['Da Guo', 'La Prépondérance du grand', 'la poutre fléchit, la charge excède les forces : agir, mais en déplaçant l’appui'],
+    ['Kan', 'L’Insondable', 'dans le danger répété, la sincérité et la constance font passer'],
+    ['Li', 'Ce qui s’attache', 'la lumière tient à ce qu’elle éclaire : cultiver la clarté avec douceur'],
+    ['Xian', 'L’Influence', 'l’attirance mutuelle réussit : une union se noue'],
+    ['Heng', 'La Durée', 'la durée réussit : persévérer dans un chemin qui a fait ses preuves'],
+    ['Dun', 'La Retraite', 'se retirer à temps réussit : le petit croît, le grand s’écarte sans faiblir'],
+    ['Da Zhuang', 'La Puissance du grand', 'la grande force demande la droiture : sans justice, elle n’est que violence'],
+    ['Jin', 'Le Progrès', 'un temps d’avancement : les mérites sont reconnus et récompensés'],
+    ['Ming Yi', 'L’Obscurcissement de la lumière', 'la lumière est blessée : dans l’adversité, garder sa clarté au-dedans'],
+    ['Jia Ren', 'La Famille', 'chacun à sa juste place, la maison prospère'],
+    ['Kui', 'L’Opposition', 'dans l’opposition, seules les petites choses réussissent encore'],
+    ['Jian', 'L’Obstacle', 'l’obstacle invite au détour : revenir vers les siens plutôt que forcer'],
+    ['Xie', 'La Libération', 'la tension se dénoue : revenir est bien ; s’il reste à faire, faire vite'],
+    ['Sun', 'La Diminution', 'se priver du superflu, sans honte : la simplicité sincère porte chance'],
+    ['Yi', 'L’Augmentation', 'un temps de croissance : entreprendre, et traverser la grande eau'],
+    ['Guai', 'La Percée', 'la vérité perce : la dire au grand jour, sans recourir à la force'],
+    ['Gou', 'Venir à la rencontre', 'ce qui s’insinue paraît faible : ne pas lui donner prise'],
+    ['Cui', 'Le Rassemblement', 'le rassemblement réussit autour de ce qui est grand et juste'],
+    ['Sheng', 'La Poussée vers le haut', 'l’ascension se fait degré par degré, avec confiance'],
+    ['Kun', 'L’Accablement', 'accablé, rester serein : les paroles ne sont pas crues, seuls comptent les actes'],
+    ['Jing', 'Le Puits', 'la ville change, le puits demeure : il nourrit qui vient y puiser, s’il est entretenu'],
+    ['Ge', 'La Révolution', 'le changement n’obtient créance qu’une fois accompli : qu’il soit juste et nécessaire'],
+    ['Ding', 'Le Chaudron', 'l’établissement du neuf : nourrir ce qui en vaut la peine'],
+    ['Zhen', 'L’Éveilleur', 'le tonnerre effraie à cent lieues, mais la coupe sacrée ne se renverse pas'],
+    ['Gen', 'L’Immobilisation', 's’arrêter quand il faut s’arrêter, avancer quand il faut avancer'],
+    ['Jian', 'Le Progrès graduel', 'le progrès par degrés, comme l’oie qui gagne la falaise : rien ne presse'],
+    ['Gui Mei', 'L’Épousée', 'entrer dans un ordre qu’on n’a pas fixé : s’y avancer avec tact, ne rien forcer'],
+    ['Feng', 'L’Abondance', 'la plénitude ne dure qu’un midi : en jouir sans tristesse'],
+    ['Lü', 'Le Voyageur', 'en voyage, les petites choses réussissent : être prudent et droit en terre étrangère'],
+    ['Xun', 'Le Doux', 'le doux pénètre peu à peu : de petites réussites ; il faut un but, et un guide'],
+    ['Dui', 'Le Serein', 'la joie réussit quand elle reste droite : la douceur vraie n’est pas complaisance'],
+    ['Huan', 'La Dispersion', 'ce qui se défait se rassemble autour de l’essentiel'],
+    ['Jie', 'La Limitation', 'des bornes réussissent ; des bornes amères ne peuvent durer'],
+    ['Zhong Fu', 'La Vérité intérieure', 'la sincérité intérieure gagne même les êtres les plus frustes'],
+    ['Xiao Guo', 'La Prépondérance du petit', 'comme l’oiseau, ne pas monter mais descendre : les petites choses, pas les grandes'],
+    ['Ji Ji', 'Après l’accomplissement', 'au but, rester attentif : l’ordre du début se défait à la fin si l’on se relâche'],
+    ['Wei Ji', 'Avant l’accomplissement', 'presque au but : le petit renard mouille sa queue juste avant la rive'],
   ];
 
   function trigramme(traits) {
@@ -221,7 +393,7 @@
   }
 
   function carteHexagramme(n, traits, mutants, titre) {
-    const [pinyin, nom] = HEXAGRAMMES[n];
+    const [pinyin, nom, sentence] = HEXAGRAMMES[n];
     const bas = TRIGRAMMES[trigramme(traits.slice(0, 3))];
     const haut = TRIGRAMMES[trigramme(traits.slice(3))];
     const c = element('div', 'yk-hexagramme');
@@ -230,11 +402,12 @@
     t.appendChild(element('p', 'yk-titre', titre));
     t.appendChild(element('p', 'yk-nom', n + '. ' + pinyin + ' — ' + nom));
     t.appendChild(element('p', 'yk-sous', haut[0] + ', ' + haut[1] + ', au-dessus de ' + bas[0] + ', ' + bas[1]));
+    if (sentence) t.appendChild(element('p', 'yk-jugement', 'La sentence : ' + sentence + '.'));
     c.appendChild(t);
     return c;
   }
 
-  function yiKing(zone) {
+  function yiKing(zone, article) {
     let tirage = [];
     const aide = element('div', 'outil-aide');
     aide.appendChild(Rendu.paragraphe('On jette trois pièces six fois, du trait du bas à celui du haut. Un côté vaut 3 (yang), l’autre 2 (yin) : 7 donne un trait plein, 8 un trait brisé ; 9 et 6, plus rares, sont de « vieux » traits qui se changent en leur contraire et donnent un second hexagramme. C’est la méthode des pièces, plus rapide que celle des tiges d’achillée.'));
@@ -292,12 +465,20 @@
       resultat.textContent = '';
       const n = hexagramme(traits);
       resultat.appendChild(carteHexagramme(n, traits, tirage.map((v) => (v === 6 || v === 9 ? v : 0)), 'Hexagramme obtenu'));
+      let apres = null;
       if (tirage.some((v) => v === 6 || v === 9)) {
         const changes = tirage.map((v) => (v === 9 ? 0 : v === 6 ? 1 : v === 7 ? 1 : 0));
-        resultat.appendChild(carteHexagramme(hexagramme(changes), changes, null, 'Après le changement des vieux traits'));
+        apres = hexagramme(changes);
+        resultat.appendChild(carteHexagramme(apres, changes, null, 'Après le changement des vieux traits'));
       } else {
         resultat.appendChild(element('p', 'discret', 'Aucun trait ne change : l’hexagramme se lit seul.'));
       }
+      resultat.appendChild(element('p', 'discret outil-source', 'Les sentences du Livre des mutations sont ici résumées dans nos mots ; les traductions les donnent en entier.'));
+      resultat.appendChild(boutonGarder(article.id, 'Tirage du Yi King', () => {
+        const ligne = (k) => k + '. ' + HEXAGRAMMES[k][0] + ' — ' + HEXAGRAMMES[k][1] + ' : ' + HEXAGRAMMES[k][2] + '.';
+        return 'Tirage du Yi King, le ' + Outils.dateLisible(Date.now()) + '\n' + ligne(n)
+          + (apres ? '\nAprès le changement des vieux traits : ' + ligne(apres) : '\nAucun trait ne change.');
+      }));
       resultat.appendChild(renvois([['yi-king', 'Lire l’article « Yi King »'], 'yin-et-yang']));
     }
 
@@ -312,15 +493,37 @@
 
   // ── La géomancie ──────────────────────────────────────────────────────────
 
-  /* De haut en bas : tête, cou, corps, pieds ; 1 = un point, 2 = deux points. */
+  /* De haut en bas : tête, cou, corps, pieds ; 1 = un point, 2 = deux points.
+   * Le quatrième champ résume ce que les traités de géomancie, d'al-Zanati aux
+   * latins repris par Agrippa, lisaient dans la figure. */
   const GEOMANCIE = [
-    ['Via', 'la Voie', [1, 1, 1, 1]], ['Populus', 'le Peuple', [2, 2, 2, 2]], ['Conjunctio', 'la Conjonction', [2, 1, 1, 2]],
-    ['Carcer', 'la Prison', [1, 2, 2, 1]], ['Fortuna major', 'la Grande Fortune', [2, 2, 1, 1]], ['Fortuna minor', 'la Petite Fortune', [1, 1, 2, 2]],
-    ['Acquisitio', 'le Gain', [2, 1, 2, 1]], ['Amissio', 'la Perte', [1, 2, 1, 2]], ['Laetitia', 'la Joie', [1, 2, 2, 2]],
-    ['Tristitia', 'la Tristesse', [2, 2, 2, 1]], ['Puella', 'la Fille', [1, 2, 1, 1]], ['Puer', 'le Garçon', [1, 1, 2, 1]],
-    ['Albus', 'le Blanc', [2, 2, 1, 2]], ['Rubeus', 'le Rouge', [2, 1, 2, 2]], ['Caput draconis', 'la Tête du Dragon', [2, 1, 1, 1]],
-    ['Cauda draconis', 'la Queue du Dragon', [1, 1, 1, 2]],
+    ['Via', 'la Voie', [1, 1, 1, 1], 'le mouvement, le voyage, le changement : bonne aux départs, mauvaise à ce qui doit durer'],
+    ['Populus', 'le Peuple', [2, 2, 2, 2], 'la foule, l’assemblée : figure neutre et changeante, qui prend la couleur de ses voisines'],
+    ['Conjunctio', 'la Conjonction', [2, 1, 1, 2], 'la rencontre, l’union des contraires : bonne aux accords et aux retrouvailles'],
+    ['Carcer', 'la Prison', [1, 2, 2, 1], 'l’enfermement, le retard : mauvaise, sinon pour garder et conserver'],
+    ['Fortuna major', 'la Grande Fortune', [2, 2, 1, 1], 'le succès durable, acquis par soi-même : la meilleure des figures'],
+    ['Fortuna minor', 'la Petite Fortune', [1, 1, 2, 2], 'un succès rapide mais passager, venu d’un appui : bonne à court terme'],
+    ['Acquisitio', 'le Gain', [2, 1, 2, 1], 'l’acquisition : favorable à tout ce qu’on cherche à obtenir'],
+    ['Amissio', 'la Perte', [1, 2, 1, 2], 'la perte : mauvaise au gain, bonne à qui veut se défaire de quelque chose'],
+    ['Laetitia', 'la Joie', [1, 2, 2, 2], 'la joie, la santé, les heureux commencements : favorable'],
+    ['Tristitia', 'la Tristesse', [2, 2, 2, 1], 'la tristesse, l’abaissement : mauvaise, sinon aux choses qui demandent d’être enfouies et stables'],
+    ['Puella', 'la Fille', [1, 2, 1, 1], 'la douceur, l’agrément : bonne en amour, inconstante ailleurs'],
+    ['Puer', 'le Garçon', [1, 1, 2, 1], 'l’ardeur, la témérité : bonne à la lutte et à l’amour, mauvaise au reste'],
+    ['Albus', 'le Blanc', [2, 2, 1, 2], 'la paix, la sagesse : bonne aux études et aux affaires paisibles'],
+    ['Rubeus', 'le Rouge', [2, 1, 2, 2], 'la passion, la violence : la plus mauvaise des figures pour presque tout'],
+    ['Caput draconis', 'la Tête du Dragon', [2, 1, 1, 1], 'le seuil qui s’ouvre : bonne aux commencements'],
+    ['Cauda draconis', 'la Queue du Dragon', [1, 1, 1, 2], 'la sortie, la fin : mauvaise, sinon pour achever et quitter'],
   ];
+
+  /* Ce que chaque maison du thème demande, dans l'ordre des douze maisons que
+   * la géomancie a prises à l'astrologie. */
+  const MAISONS = [
+    'la vie, celui qui interroge', 'les biens, le gain', 'les frères et sœurs, les courts trajets',
+    'le père, la maison, les héritages', 'les enfants, les plaisirs', 'les maladies, les serviteurs',
+    'le mariage, les associés, l’adversaire', 'la mort, les biens d’autrui', 'les longs voyages, la religion, le savoir',
+    'les honneurs, le métier', 'les amis, les espérances', 'les ennemis cachés, la prison, les épreuves',
+  ];
+  const ROMAINS = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
 
   function nomFigure(f) {
     return GEOMANCIE.find((g) => g[2].every((v, i) => v === f[i]));
@@ -357,12 +560,16 @@
     return c;
   }
 
-  function geomancie(zone) {
+  function geomancie(zone, article) {
     let lignes = [];
+    let vue = 'bouclier';
     const aide = element('div', 'outil-aide');
-    aide.appendChild(Rendu.paragraphe('Le géomancien trace seize lignes de points sans les compter, quatre par figure. Il ne garde de chaque ligne que sa parité : un point si elle est impaire, deux si elle est paire. Les quatre premières figures, les « Mères », engendrent par des règles fixes les Filles, les Nièces, les deux Témoins et le Juge, que l’on range en « bouclier », de droite à gauche.'));
+    aide.appendChild(Rendu.paragraphe('Le géomancien trace seize lignes de points sans les compter, quatre par figure. Il ne garde de chaque ligne que sa parité : un point si elle est impaire, deux si elle est paire. Les quatre premières figures, les « Mères », engendrent par des règles fixes les Filles, les Nièces, les deux Témoins et le Juge, que l’on range en « bouclier », de droite à gauche — ou dans les douze maisons prises à l’astrologie.'));
     const traces = element('div', 'gm-traces');
+    const choixVue = element('div', 'gm-choix-vue');
     const bouclier = element('div', 'gm-bouclier');
+    const maisons = element('div', 'gm-maisons-vue');
+    const pied = element('div', 'gm-pied');
     const tracer = bouton('bouton-principal', 'Tracer une ligne de points', () => { ligne(); dessiner(); });
     const tout = bouton('bouton-discret', 'Tracer les seize lignes d’un coup', () => {
       if (lignes.length >= 16) lignes = [];
@@ -373,6 +580,27 @@
     function ligne() {
       if (lignes.length >= 16) lignes = [];
       lignes.push(4 + hasard(13));
+    }
+
+    /* Le lexique des figures du tirage : chaque figure une fois, et son sens. */
+    function lexique(toutes) {
+      const vues = [];
+      for (const f of toutes) {
+        const g = nomFigure(f);
+        if (!vues.includes(g)) vues.push(g);
+      }
+      const d = element('details', 'gm-lexique');
+      const s = element('summary', null, 'Ce que les géomanciens lisaient dans ces figures');
+      d.appendChild(s);
+      const ul = element('ul');
+      for (const g of vues) {
+        const li = element('li');
+        li.appendChild(element('em', null, g[0]));
+        li.appendChild(document.createTextNode(', ' + g[1] + ' — ' + g[3] + '.'));
+        ul.appendChild(li);
+      }
+      d.appendChild(ul);
+      return d;
     }
 
     function dessiner() {
@@ -394,7 +622,10 @@
       }
       tracer.textContent = lignes.length >= 16 ? 'Recommencer : une première ligne'
         : 'Tracer la ligne ' + (lignes.length + 1) + ' sur 16';
+      choixVue.textContent = '';
       bouclier.textContent = '';
+      maisons.textContent = '';
+      pied.textContent = '';
       if (lignes.length < 16) return;
       const meres = [0, 1, 2, 3].map((m) => lignes.slice(m * 4, m * 4 + 4).map((n) => (n % 2 ? 1 : 2)));
       const filles = [0, 1, 2, 3].map((e) => meres.map((f) => f[e]));
@@ -402,6 +633,14 @@
       const droit = ajouter(nieces[0], nieces[1]);
       const gauche = ajouter(nieces[2], nieces[3]);
       const juge = ajouter(droit, gauche);
+      choixVue.appendChild(segments([['bouclier', 'Le bouclier'], ['maisons', 'Les douze maisons']], vue, (v) => {
+        vue = v;
+        bouclier.hidden = v !== 'bouclier';
+        maisons.hidden = v !== 'maisons';
+      }, 'Bouclier ou maisons'));
+      bouclier.hidden = vue !== 'bouclier';
+      maisons.hidden = vue !== 'maisons';
+      // ── le bouclier ──
       const rang = (titre, cases) => {
         bouclier.appendChild(element('p', 'gm-rang-titre', titre));
         const r = element('div', 'gm-rang');
@@ -414,8 +653,37 @@
       rang('Les Nièces, sommes des figures deux à deux', nieces.map((f, i) => caseFigure(f, 'Nièce ' + (i + 1))).reverse());
       rang('Les Témoins', [caseFigure(gauche, 'Témoin gauche'), caseFigure(droit, 'Témoin droit')]);
       rang('Le Juge', [caseFigure(juge, 'Juge')]);
+      const j = nomFigure(juge);
+      bouclier.appendChild(element('p', 'gm-juge-sens', 'Le Juge répond : ' + j[0] + ', ' + j[1] + ' — ' + j[3] + '.'));
       bouclier.appendChild(element('p', 'discret', 'Le Juge a toujours un nombre pair de points : c’est la vérification du géomancien.'));
-      bouclier.appendChild(renvois([['geomancie', 'Lire l’article « Géomancie »']]));
+      // ── les douze maisons ──
+      maisons.appendChild(element('p', 'discret', 'Les Mères occupent les maisons I à IV, les Filles les maisons V à VIII, les Nièces les maisons IX à XII : le géomancien lit la figure tombée dans la maison de sa question.'));
+      const douze = meres.concat(filles, nieces);
+      const grille = element('div', 'gm-maisons');
+      douze.forEach((f, i) => {
+        const g = nomFigure(f);
+        const c = element('div', 'gm-maison');
+        c.appendChild(element('p', 'gm-maison-titre', 'Maison ' + ROMAINS[i]));
+        c.appendChild(element('p', 'gm-maison-domaine', MAISONS[i]));
+        c.appendChild(dessinFigure(f));
+        c.appendChild(element('span', 'gm-nom', g[0]));
+        c.appendChild(element('span', 'gm-sens', g[1]));
+        c.setAttribute('role', 'img');
+        c.setAttribute('aria-label', 'Maison ' + ROMAINS[i] + ', ' + MAISONS[i] + ' : ' + g[0] + ', ' + g[1]);
+        grille.appendChild(c);
+      });
+      maisons.appendChild(grille);
+      // ── sous les deux vues : le lexique, garder, le renvoi ──
+      pied.appendChild(lexique(douze.concat([gauche, droit, juge])));
+      pied.appendChild(boutonGarder(article.id, 'Géomancie', () => {
+        const nomme = (f) => { const g = nomFigure(f); return g[0] + ' (' + g[1] + ')'; };
+        return 'Géomancie, le ' + Outils.dateLisible(Date.now())
+          + '\nMères : ' + meres.map(nomme).join(', ') + '\nFilles : ' + filles.map(nomme).join(', ')
+          + '\nNièces : ' + nieces.map(nomme).join(', ')
+          + '\nTémoins : ' + nomme(gauche) + ' et ' + nomme(droit)
+          + '\nJuge : ' + nomme(juge) + ' — ' + nomFigure(juge)[3] + '.';
+      }));
+      pied.appendChild(renvois([['geomancie', 'Lire l’article « Géomancie »']]));
     }
 
     zone.appendChild(aide);
@@ -424,7 +692,10 @@
     boutons.appendChild(tout);
     zone.appendChild(boutons);
     zone.appendChild(traces);
+    zone.appendChild(choixVue);
     zone.appendChild(bouclier);
+    zone.appendChild(maisons);
+    zone.appendChild(pied);
     dessiner();
   }
 
@@ -935,7 +1206,7 @@
     bloc, accueil, arreter: arreterMorse,
     outils: OUTILS.map((o) => ({ id: o.id, nom: o.nom, article: o.article, articles: o.articles.slice() })),
     // pour les épreuves
-    _: { hexagramme, ajouter, nomFigure, decaler, vigenere, polybe, scytale, versMorse, deMorse, reduire, compter, HEBREU, GREC, grecPrepare, hebreuPrepare },
+    _: { hexagramme, ajouter, nomFigure, decaler, vigenere, polybe, scytale, versMorse, deMorse, reduire, compter, HEBREU, GREC, grecPrepare, hebreuPrepare, SENS_ARCANES, HEXAGRAMMES, GEOMANCIE, MAISONS },
   };
 
 })(window);

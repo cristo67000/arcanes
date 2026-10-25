@@ -996,6 +996,17 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .an-goutte { opacity: 0; }
 .an-joue .an-goutte { animation: an-tombe 1s linear infinite; }
 @keyframes an-tombe { 0% { opacity: 0; transform: translate(0, 0); } 15% { opacity: .75; } 100% { opacity: 0; transform: translate(var(--x), var(--y)); } }
+.an-comete { opacity: 0; transform-box: view-box; }
+.an-joue .an-comete { animation: an-file 2.6s cubic-bezier(.3, .1, .6, .9) both; }
+@keyframes an-file { 0% { opacity: 0; transform: translateX(0); } 8% { opacity: 1; } 70% { opacity: .9; } 100% { opacity: 0; transform: translateX(var(--d)); } }
+.an-brume-nappe { transform-box: view-box; }
+.an-joue .an-brume-nappe { animation: an-peint 2.6s ease-out both; }
+.an-brume { transform-box: fill-box; transform-origin: center; }
+.an-joue .an-brume { animation: an-derive 9s ease-in-out infinite alternate; }
+@keyframes an-derive { to { transform: translateX(var(--x)); } }
+.an-flocon { opacity: 0; }
+.an-joue .an-flocon { animation: an-neige 5s linear infinite; }
+@keyframes an-neige { 0% { opacity: 0; transform: translate(0, 0); } 12% { opacity: .85; } 100% { opacity: 0; transform: translate(var(--x), var(--y)); } }
 .an-inscription { transform-box: view-box; }
 .an-inscription-texte { font-family: "Times New Roman", "Noto Serif Hebrew", serif; font-weight: 700; }
 .an-joue .an-inscription { animation: an-ecrit 2.4s ease-out both, an-brille 2.8s ease-in-out 2.4s infinite alternate; }
@@ -1334,10 +1345,31 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .tt-croix .tt-place-9 { grid-area: c9; }
 .tt-croix .tt-place-10 { grid-area: c10; }
 .tt-lecture { margin: .4rem 0 0; padding-left: 1.4rem; }
-.tt-lecture li { margin: .3rem 0; }
+.tt-lecture li { margin: .45rem 0; transition: opacity .5s ease, transform .5s ease; }
+.tt-lecture li.tt-a-venir { opacity: 0; transform: translateY(.3rem); }
 .tt-lecture .voisin { margin-left: .4rem; }
 .tt-place { font-size: .9rem; color: var(--encre-douce); }
-.tt-un + .tt-lecture { list-style: none; padding: 0; text-align: center; }
+.tt-un + .tt-lecture-bloc .tt-lecture { list-style: none; padding: 0; text-align: center; }
+
+/* le paquet, son mélange, et le vol des cartes vers leur place */
+.tt-paquet { position: relative; width: 3.6rem; aspect-ratio: 440 / 809; margin: .8rem auto .2rem; }
+.tt-paquet-carte { position: absolute; inset: 0; border-radius: 5px; box-shadow: 0 1px 5px rgba(20, 12, 40, .3); }
+.tt-paquet-carte:nth-child(1) { transform: translate(-3px, 2px) rotate(-3deg); }
+.tt-paquet-carte:nth-child(3) { transform: translate(3px, -2px) rotate(2.5deg); }
+.tt-paquet.melange .tt-paquet-carte:nth-child(1) { animation: tt-melange-g .45s ease-in-out 2; }
+.tt-paquet.melange .tt-paquet-carte:nth-child(3) { animation: tt-melange-d .45s ease-in-out .22s 2; }
+@keyframes tt-melange-g { 50% { transform: translate(-2.4rem, .3rem) rotate(-14deg); } }
+@keyframes tt-melange-d { 50% { transform: translate(2.4rem, -.3rem) rotate(14deg); } }
+.tt-vol { position: absolute; inset: 0; }
+.tt-vol.tt-posee { transition: transform .5s cubic-bezier(.25, .7, .3, 1), opacity .35s ease; }
+
+/* une carte renversée : la gravure la tête en bas */
+.tt-renversee .tt-image { transform: rotate(180deg); }
+.tt-renverse-note { margin-left: .35rem; font-size: .85rem; color: var(--or); }
+.tt-sens { display: block; font-size: .92rem; color: var(--encre-douce); }
+.tt-note { margin: .6rem 0 .3rem; font-size: .84rem; }
+.tt-choix-renversees { margin-top: .45rem; }
+.tt-copier { margin-top: .2rem; }
 
 /* le Yi King */
 .yk-pieces { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; min-height: 2.6rem; margin: .6rem 0; }
@@ -1358,6 +1390,9 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .yk-titre { margin: 0; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--encre-legere); font-weight: 700; }
 .yk-nom { margin: .1rem 0; font: 600 1.15rem/1.3 var(--serif); }
 .yk-sous { margin: 0; font-size: .88rem; color: var(--encre-douce); }
+.yk-jugement { margin: .3rem 0 0; font-size: .92rem; line-height: 1.45; }
+.outil-source { margin: .5rem 0 .2rem; font-size: .84rem; }
+.outil-garder { margin-top: .2rem; }
 
 /* la géomancie */
 .gm-traces { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr)); gap: .6rem; margin: .6rem 0; }
@@ -1377,6 +1412,20 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .gm-role { font-size: .68rem; color: var(--encre-legere); text-transform: uppercase; letter-spacing: .04em; }
 .gm-nom { font: italic 600 .82rem/1.2 var(--serif); }
 .gm-sens { font-size: .72rem; line-height: 1.2; color: var(--encre-douce); }
+.gm-choix-vue { margin: .7rem 0 .2rem; }
+.gm-juge-sens { margin: .7rem 0 .2rem; font-size: .92rem; }
+.gm-maisons { display: grid; grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr)); gap: .5rem; margin: .6rem 0; }
+.gm-maison {
+  display: flex; flex-direction: column; align-items: center; gap: .15rem; padding: .5rem .35rem .55rem;
+  border: 1px solid var(--trait); border-radius: 9px; background: var(--fond); text-align: center;
+}
+.gm-maison .gm-dessin { width: 1.9rem; }
+.gm-maison-titre { margin: 0; font-size: .7rem; font-weight: 700; color: var(--encre-legere); text-transform: uppercase; letter-spacing: .05em; }
+.gm-maison-domaine { margin: 0 0 .2rem; font-size: .76rem; line-height: 1.25; color: var(--encre-douce); min-height: 2em; }
+.gm-lexique { margin: .8rem 0 .4rem; font-size: .9rem; }
+.gm-lexique summary { cursor: pointer; color: var(--accent-fort); font-weight: 600; }
+.gm-lexique ul { margin: .4rem 0 0; padding-left: 1.3rem; }
+.gm-lexique li { margin: .25rem 0; line-height: 1.45; }
 
 /* l’alphabet maçonnique */
 .mc-sortie { display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; font: inherit; letter-spacing: 0; }
@@ -1405,8 +1454,8 @@ body.fiche-ouverte #annonce, body.panneau-ouvert #annonce, body.fiche-ouverte #m
 .nb-reduction { margin: .2rem 0 0; font-size: .86rem; color: var(--encre-douce); }
 
 @media (prefers-reduced-motion: reduce) {
-  .tt-interieur { transition: none; }
-  .yk-piece.lance { animation: none; }
+  .tt-interieur, .tt-vol.tt-posee, .tt-lecture li { transition: none; }
+  .yk-piece.lance, .tt-paquet.melange .tt-paquet-carte { animation: none; }
 }
 
 /* ── La frise en bandeau (js/bandeau.js) ────────────────────────────────── */

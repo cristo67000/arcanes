@@ -35,6 +35,11 @@
 #               point=x y (son centre) ; largeur ; mode=nage | surgit | apparait ;
 #               depuis=dx dy (d'où elle part) ; duree ; couleurs=0 (rester en gris)
 #   pluie       des traits obliques qui tombent : zone=x y l h ; nombre ; couleur ; pente
+#   comete      une étoile filante, tête et traîne : de=x y ; vers=x y ; taille (la
+#               traîne, fraction de la largeur) ; couleur ; duree (s) ; fois
+#   brume       une nappe de brume qui dérive : zone=x y l h ; nombre ; couleur ;
+#               force ; flou (fraction de la largeur)
+#   neige       des flocons qui tombent sans fin : zone=x y l h ; nombre ; couleur ; taille
 #   inscription un mot qui s'allume : texte=… ; point=x y ; taille ; couleur
 #   vagues      une bande de mer qui monte puis défile : ligne=y (la crête) ; hauteur ;
 #               longueur (d'une vague) ; couleur ; ecume ; force ; vitesse (s)
@@ -366,3 +371,66 @@ effet: teinte; rect=0.15 0.75 0.7 0.17; couleur=#6a8a4a; force=0.35
 effet: bouge; polygone=0.08 0.02, 0.30 0.02, 0.30 0.14, 0.08 0.14; pivot=0.19 0.08; mode=flotte; ampleur=0.012; duree=2.2; fois=4; delai=1
 effet: bouge; polygone=0.72 0.02, 0.92 0.02, 0.92 0.15, 0.72 0.15; pivot=0.82 0.08; mode=flotte; ampleur=0.012; duree=2.6; fois=4; delai=1.6
 effet: fumee; point=0.48 0.4; couleur=#8f8a80; hauteur=0.2; largeur=0.06
+
+# ── La comète de Melencolia I ────────────────────────────────────────────────
+# L'astre rayonnant de la gravure s'éveille ; une étoile filante traverse le
+# ciel vers la mer, sous l'arc-en-ciel.
+
+= melencolia-durer
+titre: La comète
+son: synth:vent
+effet: teinte; rect=0 0 0.46 0.27; couleur=#cfe0ee; force=0.3
+effet: lueur; point=0.27 0.155; rayon=0.085; couleur=#fff0b8; mode=pulse; force=0.5
+effet: comete; de=0.42 0.05; vers=0.10 0.21; taille=0.09; couleur=#fff3c8; delai=1.2
+
+# ── La brume de Stonehenge ───────────────────────────────────────────────────
+
+= lieu-stonehenge
+titre: La brume du matin
+son: synth:vent
+effet: brume; zone=0 0.5 1 0.28; couleur=#e9ebe3; force=0.4; nombre=6
+
+# ── La brume sur les alignements de Carnac ───────────────────────────────────
+
+= lieu-carnac
+titre: La brume sur les alignements
+son: synth:vent
+effet: brume; zone=0.02 0.42 0.96 0.22; couleur=#e3e7ec; force=0.38; nombre=6
+
+# ── L'archange des Très Riches Heures ────────────────────────────────────────
+# Saint Michel rayonne au-dessus du Mont ; le ciel d'or scintille, la cloche
+# de l'abbaye sonne.
+
+= mont-saint-michel-limbourg
+titre: L’archange au-dessus du Mont
+son: synth:cloche
+effet: lueur; point=0.42 0.15; rayon=0.1; couleur=#ffe49a; mode=pulse; force=0.55
+effet: etincelles; zone=0.2 0.08 0.58 0.22; nombre=10; couleur=#ffeab0; taille=0.011
+
+# ── La gloire de Jupiter, chez Moreau ────────────────────────────────────────
+
+= moreau-semele
+titre: La gloire de Jupiter
+son: synth:enchantement
+effet: rayons; point=0.5 0.235; rayon=0.2; nombre=18; couleur=#ffd9a0
+effet: lueur; point=0.5 0.235; rayon=0.08; couleur=#ffe9c0; mode=pulse; force=0.5
+effet: etincelles; zone=0.1 0.5 0.8 0.4; nombre=12; couleur=#ffd9b0; taille=0.009
+
+# ── La mer du côté d'Ithaque ─────────────────────────────────────────────────
+# Chez Böcklin, une brume de mer dérive devant Ulysse.
+
+= mythe-ulysse-calypso-bocklin
+titre: La mer du côté d’Ithaque
+son: synth:eau
+effet: brume; zone=0 0.3 0.3 0.35; couleur=#d4dde0; force=0.32; nombre=5
+
+# ── La nuit de janvier, rue de la Vieille-Lanterne ───────────────────────────
+# Sur la lithographie de Doré, la neige tombe sur la nuit où mourut Nerval ;
+# la torche de la Mort vacille, l'âme luit près du corps.
+
+= nerval-vieille-lanterne
+titre: La nuit de janvier
+son: synth:vent
+effet: neige; zone=0 0 1 0.95; nombre=45; couleur=#eceae4; taille=0.005
+effet: lueur; point=0.53 0.18; rayon=0.07; couleur=#ffd27a; mode=vacille; force=0.6
+effet: lueur; point=0.65 0.52; rayon=0.08; couleur=#e8f0ff; mode=pulse; force=0.35

@@ -4,8 +4,8 @@ Dictionnaire construit le 2026-10-25
 101 sur la carte, 248 extraits dans 232 articles
 960 illustrations (32747 Ko) dans 935 articles, 15 planche(s)
 22 parcours (387 étapes)
-35 sons (40297 Ko) dans 44 articles, 37 images animées
-3217376 octets de JSON, 1335 pages dans a/
+35 sons (40297 Ko) dans 44 articles, 44 images animées
+3219833 octets de JSON, 1335 pages dans a/
 
   courants     42
   figures     318

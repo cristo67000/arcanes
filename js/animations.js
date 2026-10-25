@@ -307,6 +307,67 @@
       }
     },
 
+    /* Une étoile filante : une tête lumineuse et sa traîne, qui file d'un
+     * point à un autre, plusieurs fois. */
+    comete(e, c) {
+      const [x1, y1] = c.P(e.de);
+      const [x2, y2] = c.P(e.vers);
+      const d = Math.hypot(x2 - x1, y2 - y1);
+      const angle = (Math.atan2(y2 - y1, x2 - x1) * 180) / Math.PI;
+      const long = (e.taille || 0.08) * c.W;
+      const id = c.uid + '-c' + c.rang;
+      const grad = noeud('linearGradient', { id, x1: 1, y1: 0, x2: 0, y2: 0 }, c.defsLumiere);
+      noeud('stop', { offset: '0', 'stop-color': e.couleur || '#fff8dc', 'stop-opacity': '0.95' }, grad);
+      noeud('stop', { offset: '1', 'stop-color': e.couleur || '#fff8dc', 'stop-opacity': '0' }, grad);
+      const porte = noeud('g', { transform: 'translate(' + x1.toFixed(1) + ' ' + y1.toFixed(1) + ') rotate(' + angle.toFixed(1) + ')' }, c.lumiere);
+      const g = noeud('g', { class: 'an-comete' }, porte);
+      g.style.setProperty('--d', d.toFixed(1) + 'px');
+      g.style.animationDuration = (e.duree || 2.6) + 's';
+      g.style.animationIterationCount = String(e.fois || 3);
+      c.retard(g, e.delai, 0.8);
+      noeud('polygon', { points: '0,0 ' + (-long).toFixed(1) + ',' + (-long * 0.045).toFixed(1) + ' ' + (-long).toFixed(1) + ',' + (long * 0.045).toFixed(1), fill: 'url(#' + id + ')' }, g);
+      noeud('circle', { cx: 0, cy: 0, r: (0.006 * c.W).toFixed(1), fill: e.couleur || '#fff8dc' }, g);
+    },
+
+    /* Une nappe de brume qui dérive lentement dans une zone. */
+    brume(e, c) {
+      const [x, y, w, h] = e.zone;
+      const alea = hasard(c.uid + 'b' + c.rang);
+      const n = e.nombre || 5;
+      const flou = c.filtre('flou-brume', (e.flou === undefined ? 0.035 : e.flou) * c.W);
+      const g = noeud('g', { class: 'an-revele an-brume-nappe' }, c.normal);
+      g.setAttribute('opacity', (e.force === undefined ? 0.5 : e.force).toFixed(2));
+      c.retard(g, e.delai, 0.6);
+      for (let i = 0; i < n; i += 1) {
+        const bande = noeud('ellipse', {
+          cx: ((x + alea() * w) * c.W).toFixed(1), cy: ((y + alea() * h) * c.H).toFixed(1),
+          rx: (w * c.W * (0.25 + alea() * 0.3)).toFixed(1), ry: (h * c.H * (0.2 + alea() * 0.25)).toFixed(1),
+          fill: e.couleur || '#e8e4da', filter: 'url(#' + flou + ')', class: 'an-brume',
+        }, g);
+        bande.style.setProperty('--x', ((0.04 + alea() * 0.05) * c.W * (i % 2 ? -1 : 1)).toFixed(1) + 'px');
+        bande.style.animationDuration = (7 + alea() * 6).toFixed(1) + 's';
+        bande.style.animationDelay = (-alea() * 8).toFixed(1) + 's';
+      }
+    },
+
+    /* De la neige : des flocons qui tombent doucement, sans fin. */
+    neige(e, c) {
+      const [x, y, w, h] = e.zone || [0, 0, 1, 1];
+      const alea = hasard(c.uid + 'n' + c.rang);
+      const g = noeud('g', { class: 'an-revele an-neige' }, c.normal);
+      c.retard(g, e.delai, 0.5);
+      const n = e.nombre || 40;
+      for (let i = 0; i < n; i += 1) {
+        const r = (e.taille || 0.004) * c.W * (0.6 + alea() * 0.8);
+        const flocon = noeud('circle', { cx: ((x + alea() * w) * c.W).toFixed(1), cy: ((y + alea() * h) * c.H).toFixed(1),
+          r: r.toFixed(2), fill: e.couleur || '#f4f2ec', class: 'an-flocon' }, g);
+        flocon.style.setProperty('--y', (h * c.H * (0.4 + alea() * 0.4)).toFixed(1) + 'px');
+        flocon.style.setProperty('--x', ((alea() - 0.5) * 0.06 * c.W).toFixed(1) + 'px');
+        flocon.style.animationDuration = (4 + alea() * 4).toFixed(2) + 's';
+        flocon.style.animationDelay = (-alea() * 8).toFixed(2) + 's';
+      }
+    },
+
     /* Une inscription qui s'allume : le mot qui anime le Golem, une formule. */
     inscription(e, c) {
       const [x, y] = c.P(e.point);

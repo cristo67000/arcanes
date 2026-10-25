@@ -535,11 +535,15 @@ const EFFETS = {
   rayons: { point: 'point', rayon: 'nombre', nombre: 'nombre', couleur: 'couleur', delai: 'nombre' },
   lutin: { image: 'image', point: 'point', largeur: 'nombre', mode: 'mot', depuis: 'decalage', ovale: 'nombres', delai: 'nombre', duree: 'nombre', couleurs: 'nombre' },
   pluie: { zone: 'nombres', nombre: 'nombre', couleur: 'couleur', pente: 'nombre', delai: 'nombre' },
+  comete: { de: 'point', vers: 'point', taille: 'nombre', couleur: 'couleur', duree: 'nombre', fois: 'nombre', delai: 'nombre' },
+  brume: { zone: 'nombres', nombre: 'nombre', couleur: 'couleur', force: 'nombre', flou: 'nombre', delai: 'nombre' },
+  neige: { zone: 'nombres', nombre: 'nombre', couleur: 'couleur', taille: 'nombre', delai: 'nombre' },
   inscription: { texte: 'texte', point: 'point', taille: 'nombre', couleur: 'couleur', delai: 'nombre' },
   vagues: { ligne: 'nombre', hauteur: 'nombre', longueur: 'nombre', couleur: 'couleur', ecume: 'couleur', ovale: 'nombres', force: 'nombre', delai: 'nombre', vitesse: 'nombre' },
 };
 const OBLIGATOIRES = { carte: ['coins', 'figure'], teinte: ['couleur'], bouge: ['polygone', 'pivot', 'mode'], lueur: ['point', 'rayon'],
-  etincelles: ['zone'], fumee: ['point'], eclair: [], rayons: ['point'], lutin: ['image', 'point', 'largeur'], vagues: ['ligne'], pluie: [], inscription: ['texte', 'point'] };
+  etincelles: ['zone'], fumee: ['point'], eclair: [], rayons: ['point'], lutin: ['image', 'point', 'largeur'], vagues: ['ligne'], pluie: [],
+  comete: ['de', 'vers'], brume: ['zone'], neige: ['zone'], inscription: ['texte', 'point'] };
 const MOTS = { figure: ['as-coeur', 'as-carreau', 'as-pique', 'as-trefle'],
   mode: ['tourne', 'leve', 'tremble', 'balance', 'flotte', 'vacille', 'pulse', 'eclat', 'nage', 'surgit', 'apparait'] };
 const SONS_SYNTHESE = ['carte', 'coups', 'tonnerre', 'vent', 'feu', 'cloche', 'gong', 'tic', 'coeur', 'enchantement', 'souffle', 'eau'];

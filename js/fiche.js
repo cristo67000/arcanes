@@ -318,6 +318,19 @@
     return bloc;
   }
 
+  /* Recharge « Mes notes » seul : garder un tirage ou retoucher une note ne
+   * doit pas redessiner toute la fiche, qui perdrait le tirage affiché. */
+  async function rafraichirNotes() {
+    const ref = etat.pile[etat.pile.length - 1];
+    const a = Dictionnaire.parId(ref);
+    const vieux = corps.querySelector('#mes-notes');
+    if (!a || !vieux) { dessiner(false); return; }
+    let notes = [];
+    try { notes = await Store.notesDe(ref); } catch (e) { notes = []; }
+    etat.notes = notes.sort((x, y) => x.cree - y.cree);
+    vieux.replaceWith(dessinerNotes(a));
+  }
+
   function carteNote(note) {
     const carte = element('article', 'note-carte');
     if (note.titre) carte.appendChild(element('strong', 'note-titre', note.titre));
@@ -632,7 +645,7 @@
     corps.addEventListener('animationend', () => corps.classList.remove('change'));
     corps.addEventListener('click', surClic);
     corps.addEventListener('keydown', surTouche);
-    document.addEventListener('notes-changees', () => { if (etat.ouverte) dessiner(false); });
+    document.addEventListener('notes-changees', () => { if (etat.ouverte) rafraichirNotes(); });
     document.addEventListener('perso-change', () => { if (etat.ouverte) dessiner(false); });
     document.addEventListener('reglages-changes', () => { if (etat.ouverte) dessiner(false); });
     document.addEventListener('position-change', () => {
