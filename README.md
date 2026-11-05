@@ -1,14 +1,17 @@
 # Arcanes — dictionnaire encyclopédique de l'ésotérisme
 
-Une application web progressive (PWA), hors ligne, qui rassemble plus de **treize
+Une application web progressive (PWA), hors ligne, qui rassemble plus de **quatorze
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
 l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, Jeanne
-d'Arc, Nostradamus, Jules Verne ou Gaudí, et sans complaisance jusqu'à Himmler),
+d'Arc, Nostradamus, Casanova, Mallarmé, Jules Verne, Gaudí, Emma Calvé ou
+Raspoutine, et sans complaisance jusqu'à Himmler),
 personnages de légende (Merlin, le roi Arthur, Perceval, Mélusine, Faust,
 Sarastro, Arsène Lupin…), **textes** (Corpus Hermeticum, Zohar,
 manifestes rose-croix, *Légende dorée*, *Divine Comédie*, *Songe de Poliphile*,
-*Le Serpent vert*…), **notions**, **alchimie**, **kabbale**, **astrologie**,
+*Le Serpent vert*…), **notions** (jusqu'aux mots de tous les jours : mage,
+agnostique, athéisme, déisme, panthéisme, syncrétisme, hérésie, superstition,
+charlatan, libertin, prophète, starets…), **alchimie**, **kabbale**, **astrologie**,
 **tarot et divination** (les vingt-deux arcanes majeurs ont chacun leur
 article), **magie**, **ordres et sociétés** (de la Sainte-Vehme aux carbonari),
 **franc-maçonnerie** (la loge, ses officiers et ses usages, les grades, les
@@ -50,11 +53,21 @@ le *Mystère* ; Satie, les *Sonneries de la Rose+Croix* et *Le Fils des
 *Tetragrams* et les *Pentagrams* de Dane Rudhyar)
 —, et ses **lieux** — de Montségur et
 Rennes-le-Château à Paris, Chartres, le Mont-Saint-Michel, la Sainte-Baume,
-Orval, Louxor, Nazca ou la Sagrada Família.
+Orval, Louxor, Nazca ou la Sagrada Família, sans oublier le cabaret du Chat noir,
+le château de Cabrières, qu'habita Emma Calvé, le mont Sainte-Odile, le Larzac
+des Templiers et Qumrân.
+
+La version 1.12 ajoute notamment le procès et le trésor des Templiers, les
+Hospitaliers, l'affaire du Collier de la reine, les sept métaux et le passage de
+l'alchimie à la chimie (Boyle, Lavoisier, le phosphore, le phlogistique), les
+manuscrits de la mer Morte et les Esséniens, les Assassins et Alamut, les insignes
+du Saint-Empire, quatre romans de Maurice Leblanc, *Le Fantôme de l'Opéra*, la
+biodynamie et la pédagogie Waldorf, Vivekananda, Maître Eckhart, la pensée magique
+et le réalisme fantastique, et les légendes des Grands Travaux de Paris.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
-- une **carte des lieux** (près de cent), dessinée par l'application
+- une **carte des lieux** (plus de cent), dessinée par l'application
   elle-même et donc hors ligne : on la déplace au doigt, on touche un point, on
   lit l'article ; « **Me situer** », facultatif, range les lieux du plus proche
   au plus lointain, et « **Itinéraire** » ouvre l'application de cartes du
@@ -77,9 +90,12 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   l'Isle-Adam, Rimbaud, Huysmans, Maeterlinck, Debussy, Satie, Maspero,
   Péguy, Kipling (en anglais et en français), Rider Haggard, Gaston Leroux,
   Lovecraft, Éliphas Lévi, Papus, Péladan, Odilon Redon,
-  Oswald Wirth, Maurice Leblanc, Fulcanelli, René Guénon… —, avec le lien vers le
+  Oswald Wirth, Maurice Leblanc, Fulcanelli, René Guénon, et depuis la 1.12
+  Casanova (sa réception maçonnique à Lyon), Voltaire, Mallarmé (le Livre,
+  « Magie », *L'Après-midi d'un faune*), Dostoïevski, Émile Goudeau, Jules Bois,
+  Maurice Paléologue, Thomas Huxley… —, avec le lien vers le
   livre numérisé par **Gallica**, Wikisource ou l'Internet Archive ;
-- plus de **neuf cents illustrations** du domaine public : les cartes des
+- plus de **mille illustrations** du domaine public : les cartes des
   tarots de Nicolas Conver (1760) et de Pamela Colman Smith (1909), les quinze
   planches du *Mutus liber* (1677), le zodiaque du *Miroir d'Uranie* (1825), les
   sept planètes de Beham (1539), les minéraux de Kurr (1859), des bestiaires
@@ -122,7 +138,8 @@ Orval, Louxor, Nazca ou la Sagrada Família.
   sabbat de la *Symphonie fantastique*, la Marche hongroise et « Voici des
   roses » de *La Damnation de Faust*, le Veau d'or et l'air des bijoux du *Faust*
   de Gounod, le *Mont Chauve*, le « Dialogue du vent et de la mer » de *La Mer*
-  et *Syrinx* de Debussy, « Ondine » de *Gaspard de la nuit*, une mazurka jouée
+  *Syrinx* et le début du *Prélude à l'après-midi d'un faune* de Debussy
+  (orchestre Straram, 1930), « Ondine » de *Gaspard de la nuit*, une mazurka jouée
   par Scriabine lui-même en 1910, une *Gnossienne* et la première *Gymnopédie*
   de Satie, le *Dies irae* ; les cloches de Notre-Dame (le bourdon Emmanuel), de
   Saint-Gervais, de Saint-Marc de Venise et de la cathédrale de Strasbourg ; la
@@ -316,8 +333,8 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (9 016)
-node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, outils, frise en bandeau, plus court chemin, progression, parcours sur la carte, extraits, révision, hors-ligne (175)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (9 657)
+node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, outils, frise en bandeau, plus court chemin, progression, parcours sur la carte, extraits, révision, hors-ligne (188)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit
 node build/essais_en_ligne.mjs     # le site publié : fichiers identiques au dépôt, hors-ligne réel (14)

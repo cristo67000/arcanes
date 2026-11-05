@@ -135,6 +135,8 @@ const NOMS_PROPRES = new Set([
   // les personnages, les livres et les lieux des mythes de la Bible
   'lilith', 'jonas', 'ophir', 'salome', 'cain-et-abel', 'jerusalem-celeste', 'tubal-cain', 'elias-artista',
   'testament-de-salomon', 'juif-errant',
+  // la version 1.12
+  'esseniens', 'irminsul',
 ]);
 function enMinuscule(a) {
   return CATEGORIES_COMMUNES.has(a.cat) && !NOMS_PROPRES.has(a.id) && !a.id.startsWith('arcane-')

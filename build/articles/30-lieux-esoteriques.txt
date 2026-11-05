@@ -15,7 +15,8 @@ repere: 1623 — Les placards des Rose-Croix sont affichés dans Paris.
 repere: 1778 — Voltaire est reçu à la loge des Neuf Sœurs ; Mesmer arrive à Paris.
 repere: 1892 — Premier Salon de la Rose+Croix de Péladan.
 repere: 1926 — *Le Mystère des cathédrales* de Fulcanelli.
-voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme, opera-garnier, saint-sulpice, gaston-leroux
+repere: 1989 — Ouverture de la pyramide du Louvre, pièce des [[grands-travaux|Grands Travaux]] de François Mitterrand.
+voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme, opera-garnier, saint-sulpice, gaston-leroux, le-chat-noir, enclos-du-temple, grands-travaux
 
 @ londres
 cat: lieux
@@ -39,14 +40,14 @@ alias: Nürnberg, Nuremberg ésotérique, ville de Dürer
 lieu: Bavière, Allemagne
 geo: 49.4579, 11.0759
 def: Ville impériale de Franconie, patrie de Dürer et des astronomes de la Renaissance, gardienne des joyaux du Saint-Empire et de la sainte lance, puis ville des congrès du parti nazi et du procès de ses chefs.
-texte: Au XVe siècle, Nuremberg est l'une des villes les plus riches d'Europe : l'empereur Sigismond lui confie en 1424 les joyaux impériaux, couronne, globe et [[sainte-lance|sainte lance]], qu'elle garde jusqu'en 1796. L'astronome Regiomontanus y installe en 1471 un observatoire et une imprimerie, Martin Behaim y fait en 1492 le plus ancien globe terrestre conservé, et la *Chronique* de Hartmann Schedel y paraît en 1493 ; [[albrecht-durer|Albrecht Dürer]] y naît, y grave sa *[[melencolia|Melencolia I]]* et y dresse les premières cartes imprimées du ciel. Un tract de 1561 y décrit une bataille de globes et de croix dans le ciel, que les amateurs d'ovnis citent encore et où les historiens voient un halo solaire.
-texte: Le régime nazi en fait la ville de ses congrès, où sont proclamées en 1935 les lois raciales, et Hitler y ramène de [[vienne|Vienne]] les joyaux impériaux en 1938. C'est à Nuremberg que les principaux dirigeants nazis sont jugés en 1945 et 1946. La ville des *Maîtres chanteurs* de [[richard-wagner|Wagner]] porte ainsi les deux visages du rêve germanique.
+texte: Au XVe siècle, Nuremberg est l'une des villes les plus riches d'Europe : l'empereur Sigismond lui confie en 1424 les [[insignes-du-saint-empire|joyaux impériaux]], couronne, globe et [[sainte-lance|sainte lance]], qu'elle garde jusqu'en 1796. L'astronome Regiomontanus y installe en 1471 un observatoire et une imprimerie, Martin Behaim y fait en 1492 le plus ancien globe terrestre conservé, et la *Chronique* de Hartmann Schedel y paraît en 1493 ; [[albrecht-durer|Albrecht Dürer]] y naît, y grave sa *[[melencolia|Melencolia I]]* et y dresse les premières cartes imprimées du ciel. Un tract de 1561 y décrit une bataille de globes et de croix dans le ciel, que les amateurs d'ovnis citent encore et où les historiens voient un halo solaire.
+texte: Le régime nazi en fait la ville de ses congrès, où sont proclamées en 1935 les lois raciales, et Hitler y ramène de [[vienne|Vienne]] les joyaux impériaux en 1938 ; cachés sous la ville à la fin de la guerre, ils sont retrouvés en août 1945 par l'officier américain Walter Horn et rendus à l'Autriche. C'est à Nuremberg que les principaux dirigeants nazis sont jugés en 1945 et 1946. La ville des *Maîtres chanteurs* de [[richard-wagner|Wagner]] porte ainsi les deux visages du rêve germanique.
 repere: 1424 — Les joyaux du Saint-Empire sont confiés à Nuremberg.
 repere: 1471 — Regiomontanus y installe son observatoire.
 repere: 1514 — Dürer grave *Melencolia I*.
 repere: 1935 — Les lois raciales de Nuremberg.
 repere: 1945-1946 — Procès des dirigeants nazis.
-voir: albrecht-durer, sainte-lance, melencolia, vienne, heinrich-himmler
+voir: albrecht-durer, sainte-lance, melencolia, vienne, heinrich-himmler, insignes-du-saint-empire
 
 @ venise
 cat: lieux
@@ -56,12 +57,12 @@ lieu: Vénétie, Italie
 geo: 45.4344, 12.3397
 def: La Sérénissime, ville des imprimeurs du *Songe de Poliphile*, où Giordano Bruno fut arrêté, où Casanova jouait les kabbalistes et où Wagner mourut.
 texte: Capitale de l'imprimerie à la Renaissance, Venise publie les classiques grecs d'Alde Manuce et, en 1499, le *[[songe-de-poliphile|Songe de Poliphile]]*, avec ses hiéroglyphes et ses jardins énigmatiques. En 1592, le philosophe [[giordano-bruno|Giordano Bruno]], invité par le patricien Mocenigo qui voulait apprendre de lui l'art de la mémoire, est dénoncé à l'Inquisition et livré à Rome, où il sera brûlé. Le lion ailé de saint Marc, emblème de la ville, est le symbole de l'évangéliste dans le [[tetramorphe|tétramorphe]].
-texte: Venise et Raguse inventent l'isolement des navires suspects de peste, porté à quarante jours, la [[quarante|quarantaine]]. Au XVIIIe siècle, Giacomo Casanova y séduit des patriciens crédules avec une « kabbale » numérique de son invention, avant d'être enfermé sous les Plombs pour libertinage et magie, d'où il s'évade en 1756. [[richard-wagner|Richard Wagner]] meurt au palais Vendramin en 1883.
+texte: Venise et Raguse inventent l'isolement des navires suspects de peste, porté à quarante jours, la [[quarante|quarantaine]]. Au XVIIIe siècle, [[casanova|Giacomo Casanova]] y séduit des patriciens crédules avec une « kabbale » numérique de son invention, avant d'être enfermé sous les Plombs pour libertinage et magie, d'où il s'évade en 1756. [[richard-wagner|Richard Wagner]] meurt au palais Vendramin en 1883.
 repere: 1499 — *Le Songe de Poliphile* sort des presses d'Alde Manuce.
 repere: 1592 — Arrestation de Giordano Bruno.
 repere: 1756 — Casanova s'évade des Plombs.
 repere: 1883 — Mort de Wagner au palais Vendramin.
-voir: songe-de-poliphile, giordano-bruno, quarante, richard-wagner, art-de-la-memoire, lion-symbole, phenix
+voir: songe-de-poliphile, giordano-bruno, quarante, richard-wagner, art-de-la-memoire, lion-symbole, phenix, casanova
 
 @ carcassonne
 cat: lieux
@@ -146,13 +147,13 @@ alias: Wien, Vienne (Autriche), Vienne ésotérique, Hofburg
 lieu: Vienne, Autriche
 geo: 48.2083, 16.3725
 def: La capitale autrichienne, où l'on garde la sainte lance du Saint-Empire, où fut créée *La Flûte enchantée*, et où se formèrent Mesmer, Steiner et les ariosophes.
-texte: Le trésor impérial de la Hofburg conserve la [[sainte-lance|sainte lance]] et les joyaux du Saint-Empire, revenus de [[nuremberg|Nuremberg]] en 1946. La Vienne des Lumières est maçonnique : la loge « À la vraie concorde » du savant Ignaz von Born réunit l'élite de la ville, et [[wolfgang-amadeus-mozart|Mozart]], initié en 1784, y crée en 1791 *[[la-flute-enchantee|La Flûte enchantée]]*, avant que Joseph II ne restreigne les loges. [[franz-anton-mesmer|Mesmer]] y commence ses cures magnétiques dans les années 1770.
+texte: Le trésor impérial de la Hofburg conserve la [[sainte-lance|sainte lance]] et les [[insignes-du-saint-empire|joyaux du Saint-Empire]], revenus de [[nuremberg|Nuremberg]] en 1946. La Vienne des Lumières est maçonnique : la loge « À la vraie concorde » du savant Ignaz von Born réunit l'élite de la ville, et [[wolfgang-amadeus-mozart|Mozart]], initié en 1784, y crée en 1791 *[[la-flute-enchantee|La Flûte enchantée]]*, avant que Joseph II ne restreigne les loges. [[franz-anton-mesmer|Mesmer]] y commence ses cures magnétiques dans les années 1770.
 texte: Au tournant du XXe siècle, la ville de Freud est aussi celle de [[rudolf-steiner|Rudolf Steiner]], qui y étudie, et des ariosophes [[guido-von-list|Guido von List]] et [[jorg-lanz-von-liebenfels|Jörg Lanz von Liebenfels]], dont le racisme mystique influence le jeune Hitler, qui vit à Vienne de 1908 à 1913.
 repere: 1784 — Mozart est initié à la franc-maçonnerie.
 repere: 1791 — Création de *La Flûte enchantée*.
 repere: 1908 — Guido von List publie sa doctrine des runes.
 repere: 1946 — Retour à Vienne des joyaux impériaux.
-voir: sainte-lance, la-flute-enchantee, wolfgang-amadeus-mozart, franz-anton-mesmer, guido-von-list, sarastro
+voir: sainte-lance, la-flute-enchantee, wolfgang-amadeus-mozart, franz-anton-mesmer, guido-von-list, sarastro, insignes-du-saint-empire
 
 @ prague
 cat: lieux
@@ -201,18 +202,18 @@ voir: richard-wagner, louis-ii-de-baviere, graal, perceval, lohengrin
 @ etretat
 cat: lieux
 nom: Étretat
-alias: Aiguille d'Étretat, Aiguille creuse, Porte d'Aval, Manneporte, Clos Lupin
+alias: Aiguille d'Étretat, Porte d'Aval, Manneporte, Clos Lupin
 lieu: Seine-Maritime, Normandie, France
 geo: 49.7064, 0.1948
 def: Station de la côte d'Albâtre, aux falaises percées d'arches, dont Maurice Leblanc fit, avec *L'Aiguille creuse*, la cachette du trésor des rois de France.
-texte: Les falaises de craie d'Étretat, avec la Porte d'Aval, la Manneporte et l'aiguille de plus de cinquante mètres qui se dresse dans la mer, ont attiré au XIXe siècle les peintres, de Courbet à Monet, et les écrivains, comme Maupassant. En 1909, [[maurice-leblanc|Maurice Leblanc]] imagine dans *L'Aiguille creuse* que l'aiguille est vide, aménagée depuis l'époque de César en forteresse secrète, et qu'[[arsene-lupin|Arsène Lupin]] y a caché les trésors des rois de France.
-texte: Leblanc s'installe en 1918 dans une villa d'Étretat, le Clos Lupin, devenue un musée. Le roman a donné à la falaise une aura ésotérique et a nourri les mythes du « secret des rois », repris par les inventeurs du mystère de [[rennes-le-chateau|Rennes-le-Château]]. En 1927, l'avion de Nungesser et Coli, *L'Oiseau blanc*, fut aperçu pour la dernière fois au-dessus d'Étretat.
+texte: Les falaises de craie d'Étretat, avec la Porte d'Aval, la Manneporte et l'aiguille de plus de cinquante mètres qui se dresse dans la mer, ont attiré au XIXe siècle les peintres, de Courbet à Monet, et les écrivains, comme Maupassant. En 1909, [[maurice-leblanc|Maurice Leblanc]] imagine dans *[[l-aiguille-creuse|L'Aiguille creuse]]* que l'aiguille est vide, aménagée depuis l'époque de César en forteresse secrète, et qu'[[arsene-lupin|Arsène Lupin]] y a caché les trésors des rois de France.
+texte: Leblanc s'installe en 1918 dans une villa d'Étretat, le Clos Lupin, devenue un musée. En 1955, le maire de la ville, le magistrat Raymond Lindon, publie sous le nom de Valère Catogan un essai-pastiche, *Le Secret des rois de France ou la véritable identité d'Arsène Lupin*, qui feint de tenir le roman pour vrai. Le roman a donné à la falaise une aura ésotérique et a nourri les mythes du « secret des rois », repris par les inventeurs du mystère de [[rennes-le-chateau|Rennes-le-Château]]. En 1927, l'avion de Nungesser et Coli, *L'Oiseau blanc*, fut aperçu pour la dernière fois au-dessus d'Étretat.
 repere: 1909 — *L'Aiguille creuse*.
 repere: 1918 — Leblanc s'installe au Clos Lupin.
 repere: 1927 — *L'Oiseau blanc* disparaît après avoir survolé Étretat.
 extrait: À quarante ou cinquante mètres de cette arche imposante qu'on appelle la Porte d'Aval et qui s'élance du haut de la falaise, ainsi que la branche colossale d'un arbre, pour prendre racine dans les rocs sous-marins, s'érige un cône calcaire démesuré ; et ce cône n'est qu'un bonnet d'écorce pointu posé sur du vide.
 source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
-voir: arsene-lupin, maurice-leblanc, rouen, rennes-le-chateau, fecamp, abbayes-normandes
+voir: arsene-lupin, maurice-leblanc, rouen, rennes-le-chateau, fecamp, abbayes-normandes, l-aiguille-creuse, la-comtesse-de-cagliostro
 
 @ lusignan
 cat: lieux

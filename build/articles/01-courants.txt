@@ -23,7 +23,7 @@ def: Courant philosophique et religieux fondé sur les écrits attribués à Her
 texte: Les écrits hermétiques sont composés en grec, en Égypte romaine, entre le Ier et le IIIe siècle de notre ère. On y distingue des traités « techniques » ([[astrologie]], [[alchimie]], [[magie]], médecine des plantes et des pierres) et des traités « philosophiques », réunis plus tard dans le [[corpus-hermetique|Corpus Hermeticum]] et l'[[asclepius|Asclépius]]. Ils mêlent [[platon|platonisme]], stoïcisme et piété égyptienne : un Dieu unique et inconnaissable, un monde vivant traversé de [[correspondances]], un homme divin par son intellect, déchu dans la matière, appelé à renaître par la gnose.
 texte: Oublié en Occident latin, à l'exception de l'Asclépius, l'hermétisme renaît en 1463 lorsque [[marsile-ficin]] traduit en latin, pour [[cosme-de-medicis|Cosme de Médicis]], le manuscrit grec du Corpus Hermeticum. Hermès passe alors pour un sage contemporain de [[moise|Moïse]], maillon d'une sagesse primordiale qui annonçait le christianisme : c'est la [[prisca-theologia]]. En 1614, le philologue Isaac Casaubon démontre par l'analyse de la langue que ces textes datent de l'ère chrétienne ; l'aura d'Hermès n'en survit pas moins dans l'alchimie, la [[rose-croix|Rose-Croix]] et l'[[occultisme]].
 texte: Par extension, on appelle « hermétique » tout ce qui touche à l'alchimie (la « philosophie hermétique ») et, dans le langage courant, ce qui est fermé ou difficile à comprendre — d'après le sceau d'Hermès qui scellait les vases des alchimistes.
-voir: hermes-trismegiste, corpus-hermetique, asclepius, table-d-emeraude, prisca-theologia, gnose
+voir: hermes-trismegiste, corpus-hermetique, asclepius, table-d-emeraude, prisca-theologia, gnose, syncretisme
 
 @ gnose
 cat: courants
@@ -32,7 +32,7 @@ alias: gnosis, connaissance salvatrice
 def: Connaissance intérieure et révélée qui, selon ceux qui s'en réclament, sauve celui qui la reçoit en lui faisant découvrir son origine divine.
 texte: Le mot grec *gnôsis* signifie simplement « connaissance ». Dans les premiers siècles de notre ère, il désigne une connaissance d'un genre particulier : non pas un savoir appris, mais une révélation qui transforme. Celui qui sait d'où il vient, où il est tombé et où il retourne est sauvé par ce savoir même. Cette idée se trouve dans les mouvements que l'on appelle [[gnosticisme|gnostiques]], dans l'[[hermetisme]] et, sous d'autres formes, dans le [[manicheisme]].
 texte: Le mot a connu une seconde vie. Les théosophes chrétiens comme [[jakob-boehme]] parlent de « gnose » pour une connaissance de Dieu et de la nature fondée sur l'illumination ; au XIXe siècle, [[jules-doinel]] fonde une Église gnostique ; [[rene-guenon]] emploie le terme pour la connaissance métaphysique pure. Les historiens distinguent donc la gnose, attitude religieuse qui traverse les siècles, du gnosticisme, ensemble de mouvements datés de l'Antiquité.
-voir: gnosticisme, plerome, demiurge, sophia, bibliotheque-de-nag-hammadi, eglise-gnostique, pneuma, syzygie, hymne-de-la-perle, mandeens, evangile-de-jean
+voir: gnosticisme, plerome, demiurge, sophia, bibliotheque-de-nag-hammadi, eglise-gnostique, pneuma, syzygie, hymne-de-la-perle, mandeens, evangile-de-jean, agnostique, heresie, syncretisme
 
 @ gnosticisme
 cat: courants
@@ -44,7 +44,7 @@ def: Ensemble de mouvements religieux des premiers siècles chrétiens selon les
 texte: Les gnostiques de l'Antiquité forment des écoles diverses — séthiens, valentiniens, disciples de [[basilide]] — mais partagent un récit. Au-dessus de tout règne un Dieu inconnaissable, entouré du [[plerome]], la plénitude de ses [[eon|éons]]. À la suite d'une faute, souvent celle de [[sophia]], naît un [[demiurge]] ignorant qui façonne le monde matériel et s'y croit le seul dieu. Des parcelles de lumière divine ont été enfermées dans les corps humains ; un révélateur, le Christ pour les gnostiques chrétiens, vient leur rappeler leur origine.
 texte: Combattus par les Pères de l'Église — [[irenee-de-lyon|Irénée de Lyon]] écrit vers 180 son *Contre les hérésies*, qui en fait remonter l'origine à [[simon-le-magicien|Simon le Magicien]] —, les gnostiques ne nous étaient longtemps connus que par leurs adversaires. La découverte en 1945 des manuscrits coptes de la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] a donné accès à leurs propres textes et renouvelé leur étude.
 attention: Le gnosticisme, ensemble de mouvements antiques, ne se confond pas avec la [[gnose]], notion plus large qui désigne une connaissance salvatrice à toutes les époques.
-voir: gnose, valentin, basilide, demiurge, archonte, pistis-sophia, manicheisme, sethiens, apocryphon-de-jean, evangile-de-judas, ophites, apocryphes, mandeens, evangile-de-jean
+voir: gnose, valentin, basilide, demiurge, archonte, pistis-sophia, manicheisme, sethiens, apocryphon-de-jean, evangile-de-judas, ophites, apocryphes, mandeens, evangile-de-jean, heresie
 
 @ manicheisme
 cat: courants
@@ -134,7 +134,7 @@ an: 1463
 def: Idée, chère à la Renaissance, d'une sagesse divine révélée dès l'origine et transmise par une chaîne de sages antiques, d'Hermès et Zoroastre jusqu'à Platon.
 texte: [[marsile-ficin]] établit la liste de ces « anciens théologiens » : [[zoroastre]], [[hermes-trismegiste]], [[orphee]], Aglaophamus, [[pythagore]] et enfin [[platon]]. Tous auraient enseigné, à mots couverts, les mêmes vérités que le christianisme, qui en est l'accomplissement. Cette généalogie permet d'accueillir dans la pensée chrétienne les textes païens et kabbalistiques sans craindre l'hérésie.
 texte: En 1540, Agostino Steuco parle de « philosophie pérenne » (*philosophia perennis*) pour désigner ce fonds commun de sagesse. L'idée traverse toute l'histoire de l'ésotérisme : on la retrouve dans la [[theosophie]] de [[helena-blavatsky]], qui la fait remonter à l'[[atlantide|Atlantide]], et dans la [[tradition-primordiale]] de [[rene-guenon]].
-voir: marsile-ficin, tradition-primordiale, hermetisme, pic-de-la-mirandole, traditionalisme, cathedrale-de-sienne, l-ecole-d-athenes
+voir: marsile-ficin, tradition-primordiale, hermetisme, pic-de-la-mirandole, traditionalisme, cathedrale-de-sienne, l-ecole-d-athenes, syncretisme, deisme
 
 @ paracelsisme
 cat: courants
@@ -189,9 +189,9 @@ alias: mesmérisme, mesmerisme, magnétiseur, magnetiseur, baquet de Mesmer, flu
 an: 1779
 dates: depuis 1779
 def: Doctrine de Franz Anton Mesmer selon laquelle un fluide invisible baigne l'univers et les corps vivants, et dont la bonne circulation, rétablie par le magnétiseur, guérit les maladies.
-texte: Arrivé à Paris en 1778, [[franz-anton-mesmer]] soigne ses patients autour d'un « baquet » d'où sortent des tiges de fer, provoquant des crises convulsives qu'il juge salutaires. En 1784, une commission royale où siègent Lavoisier et Benjamin Franklin conclut que le fluide n'existe pas et que les effets observés viennent de l'imagination. La même année, le marquis de [[puysegur]] découvre le « somnambulisme magnétique » : un sommeil provoqué pendant lequel le sujet parle, se diagnostique et semble voir à distance.
+texte: Arrivé à Paris en 1778, [[franz-anton-mesmer]] soigne ses patients autour d'un « baquet » d'où sortent des tiges de fer, provoquant des crises convulsives qu'il juge salutaires. En 1784, une commission royale où siègent [[antoine-lavoisier|Lavoisier]] et [[benjamin-franklin|Benjamin Franklin]] conclut que le fluide n'existe pas et que les effets observés viennent de l'imagination. La même année, le marquis de [[puysegur]] découvre le « somnambulisme magnétique » : un sommeil provoqué pendant lequel le sujet parle, se diagnostique et semble voir à distance.
 texte: Le magnétisme connaît une immense vogue au XIXe siècle. Il donne naissance à l'[[hypnose|hypnose]], que le médecin écossais James Braid nomme en 1843 en la débarrassant du fluide, et prépare le [[spiritisme]] : les somnambules annonçaient déjà des communications avec les esprits. Les occultistes, d'[[eliphas-levi]] à [[papus]], identifient le fluide de Mesmer à la [[lumiere-astrale]].
-voir: franz-anton-mesmer, puysegur, lumiere-astrale, od, spiritisme, nouvelle-pensee, edgar-allan-poe, gustave-flaubert
+voir: franz-anton-mesmer, puysegur, lumiere-astrale, od, spiritisme, nouvelle-pensee, edgar-allan-poe, gustave-flaubert, antoine-lavoisier
 
 @ naturphilosophie
 cat: courants
@@ -237,7 +237,7 @@ dates: 1850 – 1914
 def: Courant de la seconde moitié du XIXe siècle qui veut réunir magie, kabbale, astrologie, alchimie et tarot en une science unique et rationnelle de l'invisible, capable de rivaliser avec la science moderne.
 texte: Le mot est popularisé par [[eliphas-levi]], dont le *[[dogme-et-rituel|Dogme et rituel de la haute magie]]* (1854-1856) fonde le mouvement. L'occultisme ne rejette pas la science : il prétend la compléter. Il emprunte au [[magnetisme-animal|magnétisme]] l'idée d'un fluide universel, la [[lumiere-astrale]], qu'une volonté exercée peut diriger ; il lit dans le [[tarot]] un livre de sagesse égyptienne ; il voit dans toutes les traditions les fragments d'un même savoir caché.
 texte: En France, il s'épanouit autour de [[papus]], de [[stanislas-de-guaita]] et de [[josephin-peladan]], dans l'[[ordre-kabbalistique-de-la-rose-croix]] et l'[[ordre-martiniste]] ; en Angleterre, dans la [[golden-dawn|Golden Dawn]]. Il influence les poètes symbolistes et les peintres. Les historiens parlent d'« occultisme » au sens strict pour ce moment de l'histoire ; dans l'usage courant, le mot désigne tout intérêt pour les « sciences occultes ».
-voir: eliphas-levi, papus, lumiere-astrale, golden-dawn, ordre-kabbalistique-de-la-rose-croix, philosophie-occulte
+voir: eliphas-levi, papus, lumiere-astrale, golden-dawn, ordre-kabbalistique-de-la-rose-croix, philosophie-occulte, jules-bois
 
 @ theosophie
 cat: courants
@@ -261,8 +261,8 @@ an: 1913
 dates: depuis 1913
 def: Doctrine fondée par Rudolf Steiner, qui se présente comme une « science de l'esprit » capable de connaître les mondes spirituels par un développement méthodique des facultés humaines.
 texte: Secrétaire général de la section allemande de la [[societe-theosophique|Société théosophique]], [[rudolf-steiner]] rompt avec elle en 1913, notamment parce qu'il refuse de reconnaître dans le jeune [[jiddu-krishnamurti]] un nouveau messie, et fonde la [[societe-anthroposophique|Société anthroposophique]]. Sa doctrine garde le cadre théosophique — [[corps-subtils]], [[reincarnation]], [[karma]], [[annales-akashiques]] — mais place au centre le Christ, dont la mort sur le Golgotha serait l'événement décisif de l'évolution cosmique.
-texte: L'anthroposophie est surtout connue par ses applications : la pédagogie des écoles Steiner-Waldorf, l'agriculture biodynamique, une médecine dite anthroposophique, l'eurythmie et une architecture, celle du Goetheanum de Dornach, en Suisse. Ces pratiques reposent sur les visions de Steiner et non sur des preuves expérimentales, ce qui leur vaut de vives critiques.
-voir: rudolf-steiner, societe-anthroposophique, theosophie, corps-subtils, annales-akashiques, goetheanum, hilma-af-klint
+texte: L'anthroposophie est surtout connue par ses applications : la [[pedagogie-waldorf|pédagogie des écoles Steiner-Waldorf]], l'agriculture [[biodynamie|biodynamique]], une médecine dite anthroposophique, l'[[eurythmie]] et une architecture, celle du Goetheanum de Dornach, en Suisse. Ces pratiques reposent sur les visions de Steiner et non sur des preuves expérimentales, ce qui leur vaut de vives critiques.
+voir: rudolf-steiner, societe-anthroposophique, theosophie, corps-subtils, annales-akashiques, goetheanum, hilma-af-klint, pedagogie-waldorf, biodynamie, eurythmie
 
 @ traditionalisme
 cat: courants
@@ -291,13 +291,13 @@ voir: aleister-crowley, livre-de-la-loi, oto, a-a, magie-ceremonielle, abbaye-de
 @ nouvelle-pensee
 cat: courants
 nom: Nouvelle Pensée
-alias: new thought, mind cure, pensée positive, loi de l'attraction
+alias: new thought, mind cure, pensée positive
 an: 1860
 dates: depuis 1860
 def: Mouvement américain du XIXe siècle selon lequel la pensée façonne la réalité, et qui promet la santé et la prospérité par la maîtrise de l'esprit.
-texte: Phineas Parkhurst Quimby, horloger et magnétiseur du Maine, conclut dans les années 1850 que la maladie vient de croyances erronées et qu'il suffit de les corriger pour guérir. Ses disciples, dont Warren Felt Evans, fondent la « cure mentale », que Mary Baker Eddy transforme en religion, la Science chrétienne. La Nouvelle Pensée étend le principe à la vie entière : nos pensées attirent ce qui nous arrive.
+texte: Phineas Parkhurst Quimby, horloger et magnétiseur du Maine, conclut dans les années 1850 que la maladie vient de croyances erronées et qu'il suffit de les corriger pour guérir. Ses disciples, dont Warren Felt Evans, fondent la « cure mentale », que Mary Baker Eddy transforme en religion, la Science chrétienne. La Nouvelle Pensée étend le principe à la vie entière : nos pensées attirent ce qui nous arrive. C'est la [[loi-de-l-attraction|loi de l'attraction]], que Prentice Mulford formule dans les années 1880 et que William Walker Atkinson met en titre en 1906.
 texte: Ce courant, qui puise dans le [[magnetisme-animal]], l'[[hermetisme]] et Swedenborg, est à l'origine de la « pensée positive » et d'une grande partie de la littérature de développement personnel. *[[kybalion|Le Kybalion]]* (1908) en est un produit.
-voir: magnetisme-animal, kybalion, new-age
+voir: magnetisme-animal, kybalion, new-age, loi-de-l-attraction, vivekananda
 
 @ metapsychique
 cat: courants
@@ -319,7 +319,7 @@ dates: depuis les années 1970
 def: Nébuleuse de croyances et de pratiques apparue dans les années 1970, qui annonce l'entrée de l'humanité dans une ère de conscience élargie et puise librement dans toutes les traditions.
 texte: Le nom vient de l'[[ere-du-verseau|ère du Verseau]], que l'astrologie fait succéder à celle des Poissons et que la comédie musicale *Hair* (1967) a rendue célèbre. Le New Age ne forme ni une église ni une doctrine, mais un réseau de groupes, de livres et de stages : il hérite de la [[theosophie]] (notamment d'[[alice-bailey]]), de la [[nouvelle-pensee|Nouvelle Pensée]], de la psychologie de [[carl-gustav-jung]], des religions orientales et du [[chamanisme]].
 texte: On y retrouve la [[reincarnation]], le [[karma]], les [[chakra|chakras]], la canalisation (la transmission de messages d'entités spirituelles par un médium), les cristaux, l'[[astrologie]] et les médecines dites douces, autour d'une idée centrale : chacun porte en soi une étincelle divine à éveiller. Les sociologues y voient une religiosité à la carte, typique des sociétés modernes.
-voir: ere-du-verseau, theosophie, alice-bailey, chakra, nouvelle-pensee, chamanisme
+voir: ere-du-verseau, theosophie, alice-bailey, chakra, nouvelle-pensee, chamanisme, loi-de-l-attraction, realisme-fantastique
 
 @ neopaganisme
 cat: courants
@@ -350,9 +350,9 @@ alias: druidisme, druides, druide, néodruidisme, gorsedd
 an: 1792
 dates: depuis le XVIIIe siècle
 def: Mouvement moderne qui se réclame des druides de la Gaule et de la Bretagne antiques, dont il reconstitue ou invente les rites et la sagesse.
-texte: Les druides de l'Antiquité ne nous sont connus que par quelques auteurs grecs et romains, comme César : ils n'écrivaient pas leur enseignement, qui portait sur l'immortalité de l'âme, les astres et la nature. Le néo-druidisme naît au XVIIIe siècle dans les milieux antiquaires britanniques, qui voient dans les monuments mégalithiques (pourtant bien plus anciens) des temples druidiques ; le poète gallois Iolo Morganwg crée en 1792 une assemblée de bardes, la Gorsedd, en s'appuyant sur des textes qu'il a lui-même fabriqués.
+texte: Les druides de l'Antiquité ne nous sont connus que par quelques auteurs grecs et romains, comme César : ils n'écrivaient pas leur enseignement, qui portait sur l'immortalité de l'âme, les astres et la nature. Le néo-druidisme naît au XVIIIe siècle dans les milieux antiquaires britanniques, qui voient dans les monuments mégalithiques (pourtant bien plus anciens) des temples druidiques ; le poète gallois Iolo Morganwg crée en 1792 une assemblée de bardes, la Gorsedd, en s'appuyant sur des textes qu'il a lui-même fabriqués. En France, le XIXe siècle prête de même aux druides des sanctuaires de hauteur : [[edouard-schure|Édouard Schuré]] décrit en 1883 le [[mont-sainte-odile|mont Sainte-Odile]] comme un temple gaulois du Soleil, et voit au [[donon|Donon]] les restes d'un autre.
 texte: Aujourd'hui, le druidisme regroupe des associations culturelles bretonnes, galloises et cornouaillaises et des groupes religieux néo-païens, qui célèbrent les solstices à [[stonehenge|Stonehenge]] ou dans les forêts, sous des emblèmes comme le [[triskele|triskèle]].
-voir: neopaganisme, wicca, carnac, stonehenge, broceliande, chartres, cerf, roue-solaire
+voir: neopaganisme, wicca, carnac, stonehenge, broceliande, chartres, cerf, roue-solaire, mont-sainte-odile, donon, taennchel
 
 @ soufisme
 cat: courants
@@ -362,8 +362,8 @@ an: 750
 dates: depuis le VIIIe siècle
 def: Courant mystique de l'islam, qui cherche à purifier le cœur et à réaliser l'union intime avec Dieu, sous la direction d'un maître et au sein de confréries.
 texte: Le soufisme apparaît dans les premiers siècles de l'islam chez des ascètes vêtus de laine (*sûf*). Il se dote d'une doctrine — avec [[ibn-arabi]], théoricien de l'« unicité de l'être » — et de confréries (*tarîqa*), chacune avec sa chaîne de maîtres remontant au Prophète, ses rites de rappel de Dieu (*dhikr*) et, chez certaines, la musique et la danse, comme les derviches tourneurs de Konya, disciples de Rûmî.
-texte: Le soufisme n'est pas un courant de l'ésotérisme occidental, mais il l'a beaucoup fasciné. [[rene-guenon]], installé au Caire en 1930, y voit l'ésotérisme de l'islam et s'y rattache ; [[georges-gurdjieff]] a dit tenir une part de son enseignement de maîtres soufis.
-voir: ibn-arabi, rene-guenon, initiation, mystique, enneagramme, huppe
+texte: Le soufisme n'est pas un courant de l'ésotérisme occidental, mais il l'a beaucoup fasciné. [[rene-guenon]], installé au Caire en 1930, y voit l'ésotérisme de l'islam et s'y rattache ; [[georges-gurdjieff]] a dit tenir une part de son enseignement de maîtres soufis. C'est sous le couvert du soufisme que survécurent en Perse, après la chute d'[[alamut|Alamut]] en 1256, les ismaéliens nizârites que l'Europe appelait [[assassins|Assassins]].
+voir: ibn-arabi, rene-guenon, initiation, mystique, enneagramme, huppe, assassins
 
 @ tantrisme
 cat: courants
@@ -393,8 +393,8 @@ an: 1160
 dates: XIIe – XIVe siècles
 def: Mouvement chrétien dissident du Moyen Âge, implanté surtout en Languedoc et en Italie, qui opposait le Dieu bon, créateur des âmes, au mauvais principe, auteur du monde visible.
 texte: Les « bons hommes » et « bonnes femmes », comme ils se nommaient eux-mêmes, rejettent les sacrements de l'Église romaine et ne connaissent qu'un rite, le [[consolamentum|consolament]], imposition des mains qui fait du croyant un « [[parfaits|parfait]] » astreint à une vie d'ascèse. L'Église lance contre eux la croisade des Albigeois (1209-1229), puis l'Inquisition ; [[montsegur|Montségur]] tombe en 1244, et le dernier parfait connu est brûlé en 1321.
-texte: Au XIXe siècle, l'historien [[napoleon-peyrat|Napoléon Peyrat]] puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand [[otto-rahn|Otto Rahn]] cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ».
-voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur, carcassonne, evangile-de-jean
+texte: Au XIXe siècle, l'historien [[napoleon-peyrat|Napoléon Peyrat]] puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand [[otto-rahn|Otto Rahn]] cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ». En 1959, [[rene-nelli|René Nelli]] réunit et traduit dans *Écritures cathares* les textes conservés de l'hérésie — la *Cène secrète*, le *Livre des deux principes*, les rituels.
+voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur, carcassonne, evangile-de-jean, heresie, rene-nelli
 
 @ ariosophie
 cat: courants
@@ -416,7 +416,7 @@ dates: XIXe siècle ; organisé depuis 1966
 def: Ensemble de représentations et de mouvements qui font de Satan une figure positive, qu'elle soit symbole de révolte et de liberté ou objet de culte.
 texte: Pendant des siècles, le « satanisme » est surtout une accusation : les inquisiteurs l'attribuent aux [[sorciere|sorcières]], les polémistes à leurs adversaires. Au XIXe siècle, les romantiques font de Satan un héros prométhéen ; [[joris-karl-huysmans|Huysmans]] décrit des messes noires dans *[[la-bas|Là-bas]]* (1891) ; le journaliste Léo Taxil invente de toutes pièces un culte satanique franc-maçon, avant d'avouer la mystification en 1897.
 texte: Le satanisme organisé naît en 1966, quand [[anton-lavey|Anton LaVey]] fonde à San Francisco l'Église de Satan. Pour lui, Satan n'est pas un être réel mais le symbole de l'affirmation de soi contre la morale chrétienne. D'autres groupes, plus rares, rendent un culte à Satan comme entité. Les grandes « paniques sataniques » des années 1980, qui dénonçaient des réseaux criminels de sectes, n'ont jamais été étayées par les enquêtes.
-voir: messe-noire, baphomet, demonologie, sorcellerie, seth, gilles-de-rais, la-bas, le-paradis-perdu, vathek
+voir: messe-noire, baphomet, demonologie, sorcellerie, seth, gilles-de-rais, la-bas, le-paradis-perdu, vathek, jules-bois
 
 @ quatrieme-voie
 cat: courants

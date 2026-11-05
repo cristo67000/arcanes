@@ -9,8 +9,8 @@ glyphe: pentagramme
 def: Ensemble de pratiques qui prétendent agir sur les êtres, les choses et les événements par des moyens cachés — paroles, gestes, objets, rites, invocations —, en s'appuyant sur des forces naturelles ou sur des esprits.
 texte: Le mot vient du grec *mageia*, l'art des *magoi*, prêtres de la Perse ancienne. Les Grecs et les Romains l'opposent déjà aux cultes officiels : elle est privée, secrète, souvent suspecte. Le Moyen Âge chrétien distingue une [[magie-naturelle|magie naturelle]], qui utilise les vertus cachées des choses, d'une magie démoniaque, condamnée ; la Renaissance réhabilite une magie savante, la [[philosophie-occulte]]. L'opposition populaire entre magie « blanche », bienfaisante, et magie « noire », malfaisante, recoupe en partie ces distinctions.
 texte: Au XIXe siècle, [[eliphas-levi]] fait de la magie une science de la volonté appliquée à la [[lumiere-astrale]] ; [[aleister-crowley]], qui écrit *magick* pour la distinguer des tours de scène, la définit comme « la science et l'art de provoquer un changement conformément à la volonté ». La [[magie-ceremonielle|magie cérémonielle]] de la [[golden-dawn|Golden Dawn]], la [[wicca]] et la [[magie-du-chaos|magie du chaos]] en sont les formes modernes.
-texte: Les anthropologues ont beaucoup débattu de la nature de la magie. [[james-frazer|James Frazer]], dans *Le Rameau d'or* (1890), décrit une magie « sympathique » fondée sur deux lois : le semblable agit sur le semblable, et ce qui a été en contact reste lié. Marcel Mauss y voit au début du XXe siècle un fait social, distinct de la religion par son caractère privé. Les historiens rappellent que la frontière entre magie, religion et science a beaucoup varié selon les époques.
-voir: magie-naturelle, magie-ceremonielle, theurgie, goetie, philosophie-occulte, sorcellerie, talisman
+texte: Les anthropologues ont beaucoup débattu de la nature de la magie. [[james-frazer|James Frazer]], dans *Le Rameau d'or* (1890), décrit une magie « sympathique » fondée sur deux lois : le semblable agit sur le semblable, et ce qui a été en contact reste lié. Marcel Mauss y voit au début du XXe siècle un fait social, distinct de la religion par son caractère privé. Lévy-Bruhl, Malinowski, Freud puis Piaget ont discuté à leur tour ce qu'on nomme la [[pensee-magique|pensée magique]]. Les historiens rappellent que la frontière entre magie, religion et science a beaucoup varié selon les époques.
+voir: magie-naturelle, magie-ceremonielle, theurgie, goetie, philosophie-occulte, sorcellerie, talisman, mage, pensee-magique
 
 @ magie-naturelle
 cat: magie
@@ -101,7 +101,7 @@ alias: amulettes, porte-bonheur, phylactère, gri-gri, œil d'Horus, scarabée
 def: Petit objet porté sur soi ou placé dans une maison pour protéger des malheurs, des maladies et du mauvais œil.
 texte: Les amulettes existent dans toutes les civilisations : l'œil d'Horus et le scarabée égyptiens, la *bulla* des enfants romains, la main de Fatma, les médailles et les scapulaires chrétiens, les petits rouleaux de versets bibliques. Elles tirent leur force de leur matière, de leur forme, d'une inscription, comme le mot [[abracadabra]], ou d'une bénédiction.
 texte: Les pierres gravées de l'Antiquité tardive, dites « gnostiques », associent des figures comme Abraxas à des [[voces-magicae|mots magiques]]. Le langage courant confond souvent amulette et [[talisman]].
-voir: talisman, abracadabra, voces-magicae, papyrus-grecs-magiques, oeil-d-horus, scarabee, croix-ansee
+voir: talisman, abracadabra, voces-magicae, papyrus-grecs-magiques, oeil-d-horus, scarabee, croix-ansee, superstition
 
 @ pentacle
 cat: magie
@@ -208,7 +208,7 @@ alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus malefic
 def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
 texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
 texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin [[jean-wier|Jean Wier]] en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
-voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem, sorciere
+voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem, sorciere, heresie, libertin
 
 @ demonologie
 cat: magie
@@ -217,7 +217,7 @@ alias: démonologue, démons, démon, diable, Dictionnaire infernal, Collin de P
 def: Étude et classement des démons, de leur nature, de leurs noms, de leurs pouvoirs et de leurs relations avec les hommes, développée par les théologiens et les magiciens.
 texte: La tradition chrétienne voit dans les démons des anges déchus, révoltés avec Lucifer. Les démonologues de la Renaissance, comme le juriste [[jean-bodin|Jean Bodin]] (*De la démonomanie des sorciers*, 1580), décrivent leurs ruses et justifient la répression de la sorcellerie. D'autres, comme le médecin [[jean-wier|Jean Wier]] (*Des illusions des démons*, 1563), expliquent par la maladie les cas de possession et publient une liste de démons pour en montrer l'absurdité.
 texte: Les grimoires dressent des hiérarchies infernales, avec rois, ducs et marquis. Au XIXe siècle, le *Dictionnaire infernal* de Jacques Collin de Plancy (1818, illustré en 1863) devient une référence populaire. La [[goetie]] et la littérature fantastique puisent abondamment dans cette tradition.
-voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet, incube-et-succube, asmodee, leviathan, behemoth
+voir: goetie, lemegeton, sorcellerie, anges, qlipoth, baphomet, incube-et-succube, asmodee, leviathan, behemoth, exorcisme
 
 @ anges
 cat: magie
@@ -255,7 +255,7 @@ alias: élémentals, esprits élémentaires, sylphes, ondines, gnomes, salamandr
 def: Esprits des quatre éléments décrits par Paracelse — sylphes de l'air, ondines de l'eau, gnomes de la terre, salamandres du feu —, repris par la littérature et l'occultisme.
 texte: Dans son *Livre des nymphes, des sylphes, des pygmées et des salamandres*, [[paracelse]] décrit des êtres faits d'une chair subtile, mortels mais sans âme, qui habitent chacun leur élément ; les ondines pourraient acquérir une âme en épousant un homme. Le roman satirique *Le Comte de Gabalis* de l'abbé de Villars (1670) popularise ces êtres dans les salons, en les prêtant aux Rose-Croix.
 texte: L'occultisme du XIXe siècle les intègre à ses systèmes : pour [[eliphas-levi]] et la [[golden-dawn|Golden Dawn]], le magicien doit maîtriser les élémentaux de chaque élément. Le conte d'Ondine, de La Motte-Fouqué à Giraudoux, et les fées des contes en sont les cousins littéraires.
-voir: paracelse, quatre-elements, rose-croix, rituel-du-pentagramme, salamandre, le-comte-de-gabalis, sirene, le-pot-d-or
+voir: paracelse, quatre-elements, rose-croix, rituel-du-pentagramme, salamandre, le-comte-de-gabalis, sirene, le-pot-d-or, nymphe
 
 @ miroir-magique
 cat: magie

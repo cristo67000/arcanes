@@ -150,7 +150,7 @@ alias: Sarapis, Osiris-Apis, Sérapéum d'Alexandrie
 def: Dieu gréco-égyptien créé sous Ptolémée Ier, qui fondait Osiris-Apis avec Zeus et Hadès ; son Sérapéum d'Alexandrie fut détruit par les chrétiens en 391.
 texte: Pour donner à son royaume un dieu que Grecs et Égyptiens pussent honorer ensemble, Ptolémée Ier fit venir, dit la tradition, une statue de Sinope et la proclama Sérapis : un Zeus barbu, couronné d'une corbeille à grain, qui reprenait le nom d'Osiris-Apis, le taureau sacré mort et divinisé de Memphis. Dieu guérisseur, il rendait des oracles par les songes à ceux qui dormaient dans ses temples ; son culte accompagna partout celui d'[[isis|Isis]].
 texte: Le Sérapéum d'[[alexandrie|Alexandrie]], sur la colline du Rhakotis, abritait une partie de la bibliothèque ; sa destruction par l'évêque Théophile, en 391, marqua pour les païens la fin d'un monde. Il ne faut pas le confondre avec le Sérapéum de [[saqqarah|Saqqarah]], les galeries des taureaux Apis découvertes par [[auguste-mariette|Mariette]] en 1850.
-voir: isis, alexandrie, osiris, saqqarah, oniromancie, culte-d-isis
+voir: isis, alexandrie, osiris, saqqarah, oniromancie, culte-d-isis, syncretisme
 
 @ apophis
 cat: egypte
@@ -262,7 +262,7 @@ alias: obélisques, tekhen, aiguille de Cléopâtre, obélisque de la Concorde, 
 def: Haut monolithe de pierre à quatre faces terminé en pyramidion, consacré au soleil dans l'Égypte ancienne, transporté depuis à Rome, Paris, Londres et New York.
 texte: L'obélisque, *tekhen* en égyptien, prolonge vers le ciel la pierre *benben* d'Héliopolis, sur laquelle le soleil s'était posé au premier matin ; son sommet, souvent couvert d'électrum, recevait le premier rayon. Les rois du Nouvel Empire en dressaient par paires devant les temples de [[karnak|Karnak]] et de [[louxor|Louxor]]. Les empereurs romains en firent venir une douzaine à Rome ; renversés au Moyen Âge, ils furent relevés par les papes, comme celui que Sixte V fit dresser devant Saint-Pierre en 1586. [[athanasius-kircher|Athanase Kircher]] crut déchiffrer leurs hiéroglyphes, et le Bernin posa en 1667 un petit obélisque sur le dos d'un [[elephant|éléphant]], imité du *[[songe-de-poliphile|Songe de Poliphile]]*.
 texte: L'obélisque de Louxor, choisi sur le conseil de [[jean-francois-champollion|Champollion]] et offert par Méhémet Ali, est dressé place de la Concorde le 25 octobre 1836 ; ses jumeaux de Thoutmôsis III, les « aiguilles de Cléopâtre », partent pour Londres en 1878 et New York en 1881, où la pierre de fondation est posée par les francs-maçons de la ville. La [[franc-maconnerie]] américaine avait déjà béni en 1848 la première pierre du monument à Washington, obélisque géant ; l'obélisque est devenu un symbole maçonnique de la lumière et du souvenir, que l'on voit sur bien des tombes du [[pere-lachaise|Père-Lachaise]].
-voir: pyramides, karnak, louxor, ra, egyptomanie, athanasius-kircher, elephant, franc-maconnerie
+voir: pyramides, karnak, louxor, ra, egyptomanie, athanasius-kircher, elephant, franc-maconnerie, grands-travaux
 
 @ pierre-de-rosette
 cat: egypte
@@ -316,5 +316,5 @@ nom: Égyptomanie
 alias: style égyptien, retour d'Égypte, néo-égyptien, pyramide du Louvre, Egyptian Revival
 def: Goût pour les formes et les motifs de l'Égypte ancienne dans l'art, l'architecture et la décoration européens, de la Rome antique à nos jours, avec ses grandes vagues après Bonaparte et Toutânkhamon.
 texte: Rome avait déjà ses [[obelisque|obélisques]], ses sphinx et la pyramide de Caius Cestius. La Renaissance redécouvre ces vestiges et les recopie ; le XVIIIe siècle peuple les jardins de fabriques égyptiennes et les loges de décors « isiaques ». L'[[expedition-d-egypte|expédition d'Égypte]] lance le « retour d'Égypte » : meubles à têtes de sphinx, pendules, fontaine du Fellah à Paris (1806). Les cimetières se couvrent d'obélisques et de tombes en forme de temple, comme au [[pere-lachaise|Père-Lachaise]] ; les loges maçonniques s'ornent de colonnes papyriformes, et le temple maçonnique de Philadelphie a sa « salle égyptienne » (1889).
-texte: La découverte de Toutânkhamon, en 1922, provoque une seconde vague, de l'Art déco au cinéma. La pyramide de verre du Louvre, inaugurée en 1989, a ses légendes : on la dit faite de 666 losanges, nombre de la Bête, alors qu'elle en compte 673. L'égyptomanie, goût des formes, se distingue de l'[[egyptosophie]], qui prête à l'Égypte une sagesse secrète.
-voir: egyptosophie, obelisque, expedition-d-egypte, pere-lachaise, nombre-de-la-bete, sphinx, pyramides, le-roman-de-la-momie
+texte: La découverte de Toutânkhamon, en 1922, provoque une seconde vague, de l'Art déco au cinéma. La pyramide de verre du Louvre, inaugurée en 1989, a ses légendes : on la dit faite de 666 vitres, nombre de la Bête, ce qu'aucun décompte ne confirme (voir [[grands-travaux|Grands Travaux de Paris]]). L'égyptomanie, goût des formes, se distingue de l'[[egyptosophie]], qui prête à l'Égypte une sagesse secrète.
+voir: egyptosophie, obelisque, expedition-d-egypte, pere-lachaise, nombre-de-la-bete, sphinx, pyramides, le-roman-de-la-momie, grands-travaux

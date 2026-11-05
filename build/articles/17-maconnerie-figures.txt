@@ -131,7 +131,7 @@ repere: 1772 — Le duc Ferdinand de Brunswick devient grand maître de l'ordre.
 repere: 1775 — Au convent de Brunswick, il ne peut produire les « supérieurs inconnus ».
 repere: 1776 — Mort à Meiningen.
 repere: 1782 — Le convent de Wilhelmsbad abandonne la filiation templière.
-voir: stricte-observance, templiers, convent-de-wilhelmsbad, jean-baptiste-willermoz
+voir: stricte-observance, templiers, convent-de-wilhelmsbad, jean-baptiste-willermoz, neo-templarisme
 
 @ joseph-de-maistre
 cat: figures
@@ -177,7 +177,7 @@ repere: 1778 — Il assiste à l'initiation de Voltaire aux Neuf Sœurs.
 repere: 1779 — Vénérable de la loge des Neuf Sœurs.
 repere: 1784 — Il préside la commission sur le magnétisme animal.
 repere: 1790 — Mort à Philadelphie.
-voir: les-neuf-soeurs, constitutions-d-anderson, franz-anton-mesmer, magnetisme-animal
+voir: les-neuf-soeurs, constitutions-d-anderson, franz-anton-mesmer, magnetisme-animal, antoine-lavoisier
 
 @ gotthold-ephraim-lessing
 cat: figures
@@ -233,24 +233,27 @@ alias: Goethe, Faust, Das Märchen, Le Conte, Les Mystères
 an: 1780
 dates: 1749 – 1832
 def: Poète et savant allemand, franc-maçon et un temps Illuminé de Bavière, dont l'œuvre est nourrie de lectures alchimiques, hermétiques et néoplatoniciennes.
-texte: Johann Wolfgang Goethe naît à Francfort en 1749, dans une famille bourgeoise aisée. Étudiant en droit à Leipzig, il tombe gravement malade en 1768 et passe sa convalescence dans la maison familiale. Sous l'influence de la piétiste Susanne von Klettenberg, amie de sa mère, il lit [[paracelse]], [[basile-valentin|Basile Valentin]] et l'*Opus mago-cabbalisticum* de Welling, et fait avec elle des expériences d'[[alchimie]] sur un petit fourneau : il en reste l'esprit de *Faust*.
-texte: Célèbre dès 1774 avec *Les Souffrances du jeune Werther*, il s'installe en 1775 à Weimar, à l'invitation du duc Charles-Auguste, dont il devient le ministre. Reçu franc-maçon dans la loge *Amalia* le 23 juin 1780, il entre en 1783 chez les [[illumines-de-baviere|Illuminés de Bavière]]. Il commence un poème, *Les Mystères*, sur une fraternité de chevaliers réunis autour d'une croix entourée de roses, resté inachevé.
+texte: Johann Wolfgang Goethe naît à Francfort en 1749, dans une famille bourgeoise aisée. Étudiant en droit à Leipzig, il tombe gravement malade en 1768 et passe sa convalescence dans la maison familiale. Sous l'influence de la piétiste Susanne von Klettenberg, amie de sa mère, il lit [[paracelse]], [[basile-valentin|Basile Valentin]] et l'*Opus mago-cabbalisticum* de Welling, et fait avec elle des expériences d'[[alchimie]] sur un petit fourneau : il en reste l'esprit de *Faust*. D'avril 1770 à août 1771, il achève son droit à Strasbourg, où il se lie avec Herder et s'enthousiasme pour la [[cathedrale-de-strasbourg|cathédrale]], dont il fera l'éloge dans *De l'architecture allemande*.
+texte: Célèbre dès 1774 avec *Les Souffrances du jeune Werther*, il s'installe en 1775 à Weimar, à l'invitation du duc Charles-Auguste, dont il devient le ministre. Reçu franc-maçon dans la loge *Amalia* le 23 juin 1780, il entre en 1783 chez les [[illumines-de-baviere|Illuminés de Bavière]]. Il commence un poème, *Les Mystères*, sur une fraternité de chevaliers réunis autour d'une croix entourée de roses, resté inachevé. En avril 1787, de passage à Palerme, il se fait montrer la généalogie de Joseph Balsamo et rend visite, en se donnant pour un Anglais, à la mère et à la sœur de [[cagliostro|Cagliostro]]. L'[[affaire-du-collier|affaire du Collier de la reine]], où il voyait un signe de la ruine de l'Ancien Régime, lui inspire en 1791 la comédie du *Grand Cophte* : le mage, le [[cardinal-de-rohan|cardinal]] et l'intrigante y paraissent sous des noms d'emprunt.
 texte: Savant autant que poète, il étudie les os, les plantes — il cherche la « plante originelle » dont toutes les autres dériveraient —, la géologie et les couleurs. Son *Traité des couleurs* (1810), dirigé contre Newton, prolonge la [[naturphilosophie]] : une science qui veut saisir la nature vivante dans ses métamorphoses plutôt que la mesurer. Son *Conte du serpent vert et de la belle Lys* (1795), récit symbolique peuplé de feux follets et de rois de métal, a été lu comme un rituel alchimique ; [[rudolf-steiner]], éditeur de ses écrits scientifiques, en tira son premier drame-mystère.
 texte: *Faust*, auquel il travaille toute sa vie, met en scène le savant qui vend son âme pour connaître et jouir ; la seconde partie fait naître dans une cornue un homoncule et descendre le héros chez les mystérieuses « Mères ». Goethe meurt à Weimar en 1832. Ses poèmes maçonniques, comme *Symbolum*, sont encore lus en loge.
 repere: 1749 — Naissance à Francfort.
 repere: 1768 — Convalescent, il découvre l'alchimie auprès de Susanne von Klettenberg.
+repere: 1770 — Il arrive en avril à Strasbourg, où il rencontre Herder ; il y reste jusqu'en août 1771.
 repere: 1774 — *Les Souffrances du jeune Werther*.
 repere: 1775 — Il s'installe à Weimar.
 repere: 1780 — Reçu franc-maçon à Weimar, le 23 juin.
 repere: 1783 — Il entre chez les Illuminés de Bavière.
 repere: 1784 — Il commence *Les Mystères*, poème sur une fraternité de la croix aux roses.
+repere: 1787 — À Palerme, il enquête sur la famille de Cagliostro et rend visite à sa mère.
 repere: 1790 — *La Métamorphose des plantes*.
+repere: 1791 — *Le Grand Cophte*, comédie tirée de l'affaire du Collier, est créé à Weimar.
 repere: 1795 — *Le Conte du serpent vert et de la belle Lys*.
 repere: 1808 — Première partie de *Faust*.
 repere: 1810 — *Traité des couleurs*.
 repere: 1832 — Mort à Weimar ; publication de la seconde partie de *Faust*.
 oeuvres: Faust (1808, 1832) ; Le Conte du serpent vert et de la belle Lys (1795) ; La Métamorphose des plantes (1790) ; Traité des couleurs (1810)
-voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner, homoncule, faust, walpurgis, le-serpent-vert, faust-dans-son-cabinet, goetheanum
+voir: naturphilosophie, illumines-de-baviere, alchimie, rudolf-steiner, homoncule, faust, walpurgis, le-serpent-vert, faust-dans-son-cabinet, goetheanum, cagliostro, affaire-du-collier, cardinal-de-rohan, cathedrale-de-strasbourg
 
 @ augustin-barruel
 cat: figures
@@ -501,7 +504,7 @@ texte: Le maçon ne sera « jamais un athée stupide ni un libertin irréligieux
 oeuvres: The Constitutions of the Free-Masons (1723) ; The New Book of Constitutions (1738)
 extrait: Devoirs envers Dieu et la Religion. — Le maçon, par sa profession, est obligé d'obéir à la loi morale, et s'il entend bien l'art, il ne sera ni un athée stupide, ni un libertin irréligieux. Mais quoique, aux anciens temps, les maçons fussent tenus, dans chaque pays, d'être de la religion de ce pays ou de cette nation, quelle qu'elle fût, maintenant on croit plus expédient de ne plus les obliger qu'à la religion dans laquelle tous les hommes s'accordent, en laissant à chacun ses opinions particulières ; c'est-à-dire que les maçons doivent être des hommes bons et véridiques — (good men and true) — ou des hommes d'honneur et de probité, par quelques dénominations ou convictions qu'ils soient [du reste] distincts. Par là, la maçonnerie devient le centre d'union et le moyen de constituer une véritable amitié entre les gens qui [sans cela] seraient forcément restés dans un perpétuel éloignement les uns des autres.
 source: *Constitutions* de 1723, première obligation, trad. Gustave Gautherot dans l'article « Franc-maçonnerie » du *Dictionnaire apologétique de la foi catholique*, Beauchesne, t. II | ws Dictionnaire apologétique de la foi catholique/Franc-maçonnerie
-voir: james-anderson, grande-loge-de-londres, regularite, grand-architecte-de-l-univers, landmarks
+voir: james-anderson, grande-loge-de-londres, regularite, grand-architecte-de-l-univers, landmarks, deisme, atheisme, libertin
 
 @ discours-de-ramsay
 cat: textes
@@ -511,7 +514,7 @@ an: 1736
 dates: décembre 1736 ; version de 1737
 def: Discours prononcé à Paris en 1736 par le chevalier de Ramsay, qui fait naître la franc-maçonnerie aux croisades et lui assigne une mission universelle.
 texte: Prononcé en décembre 1736 dans une loge parisienne, puis remanié pour une assemblée générale que le cardinal de Fleury, hostile, empêcha de se tenir en mars 1737, le discours de [[andrew-michael-ramsay]] présente la maçonnerie comme une société de vertu, de secret et de goût pour les beaux-arts, appelée à réunir les hommes de toutes les nations.
-texte: Il en situe l'origine au temps des croisades, où des princes et des chevaliers auraient fait vœu de rebâtir les temples de la Terre sainte, avant de transmettre leur institution aux loges d'Écosse. Ce récit chevaleresque inspira les grades écossais (voir [[ecossisme]]) et, bientôt, la légende templière de la [[stricte-observance|Stricte Observance]].
+texte: Il en situe l'origine au temps des croisades, où des princes et des chevaliers auraient fait vœu de rebâtir les temples de la Terre sainte, et se seraient unis aux [[hospitaliers|chevaliers de Saint-Jean de Jérusalem]], avant de transmettre leur institution aux loges d'Écosse. Ce récit chevaleresque inspira les grades écossais (voir [[ecossisme]]) et, bientôt, la légende templière de la [[stricte-observance|Stricte Observance]].
 extrait: Du temps des guerres saintes dans la Palestine, plusieurs Princes, Seigneurs et Citoyens entrèrent en Société, firent vœu de rétablir les temples des Chrétiens dans la Terre Sainte, et s’engagèrent par serment à employer leurs talens et leurs biens pour ramener l’Architecture à primitive institution. Ils convinrent de plusieurs signes anciens, de mots symboliques tirés du fond de la religion, pour se distinguer des Infidèles, et se reconnoître d’avec les Sarasins. On ne communiquoit ces signes et ces paroles qu’à ceux qui promettoient solemnellement et souvent même au pieds des Autels de ne jamais les révéler.
 source: Andrew Michael Ramsay, *Discours* prononcé à la loge de Paris, 1737 (texte imprimé en 1744) | ws Discours de Ramsay
 voir: andrew-michael-ramsay, ecossisme, stricte-observance, templiers

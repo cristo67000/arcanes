@@ -88,7 +88,7 @@ texte: Aîné d'une famille de treize enfants, Jean-Baptiste Willermoz naît à 
 texte: Initié aux [[elus-coens|Élus Coëns]] en 1767, il entretient avec [[martinez-de-pasqually]] une longue correspondance, mais les « passes » attendues tardent à venir, et l'ordre décline après le départ de son fondateur. Willermoz accueille [[louis-claude-de-saint-martin]] à Lyon, où celui-ci écrit son premier livre. Il veut alors transmettre la doctrine de la [[reintegration]] au sein d'une maçonnerie plus large.
 texte: Entré en 1773 dans la [[stricte-observance|Stricte Observance templière]], le grand système allemand qui se dit héritier des Templiers, il la réforme de l'intérieur. Au convent des Gaules, réuni à Lyon en 1778, puis au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]], en 1782, il fait renoncer à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte : c'est le [[rite-ecossais-rectifie|Régime écossais rectifié]], dont deux classes secrètes, la profession et la grande profession, transmettent à quelques-uns l'enseignement de Martinez sous forme d'instructions.
 texte: Dans les années 1780, il se passionne pour le [[magnetisme-animal|magnétisme]] et recueille, de 1785 à 1788, les messages d'une somnambule, une chanoinesse qu'on appelle l'« Agent inconnu », et qui se présente comme le porte-parole du monde spirituel. Il traverse la Révolution, échappe à la répression qui suit le siège de Lyon en 1793, et meurt dans sa ville en 1824, à quatre-vingt-treize ans, en ayant veillé jusqu'au bout sur son rite.
-texte: Conservé en Suisse au XIXe siècle, le Régime écossais rectifié a été réveillé en France au XXe et reste pratiqué par plusieurs obédiences : c'est l'héritage le plus durable de l'[[illuminisme]] lyonnais.
+texte: Conservé en Suisse au XIXe siècle, le Régime écossais rectifié a été réveillé en France au XXe, à partir de 1910, par [[camille-savoire|Camille Savoire]] et [[edouard-de-ribaucourt|Édouard de Ribaucourt]], et reste pratiqué par plusieurs obédiences : c'est l'héritage le plus durable de l'[[illuminisme]] lyonnais.
 repere: 1730 — Naissance à Lyon.
 repere: 1750 — Reçu franc-maçon, à vingt ans.
 repere: 1767 — Initié aux Élus Coëns.
@@ -98,7 +98,7 @@ repere: 1782 — Au convent de Wilhelmsbad, le Régime écossais rectifié est a
 repere: 1785 — Il commence à recueillir les messages de l'« Agent inconnu ».
 repere: 1793 — Il échappe à la répression qui suit le siège de Lyon.
 repere: 1824 — Mort à Lyon.
-voir: rite-ecossais-rectifie, elus-coens, martinez-de-pasqually, reintegration, templiers, stricte-observance, convent-de-wilhelmsbad, lyon
+voir: rite-ecossais-rectifie, elus-coens, martinez-de-pasqually, reintegration, templiers, stricte-observance, convent-de-wilhelmsbad, lyon, camille-savoire
 
 @ cagliostro
 cat: figures
@@ -108,23 +108,26 @@ dates: 1743 – 1795
 an: 1743
 def: Aventurier sicilien, guérisseur et fondateur d'une maçonnerie égyptienne, célèbre dans toute l'Europe des Lumières avant de mourir dans une prison pontificale.
 texte: Giuseppe Balsamo naît à Palerme en 1743 dans une famille modeste. Novice chez les Frères hospitaliers, il y apprend la pharmacie, puis se fait chasser ; jeune homme, il vit d'escroqueries, dont une fausse chasse au trésor aux dépens d'un orfèvre, et doit fuir la Sicile. À Rome, en 1768, il épouse une très jeune fille, Lorenza Feliciani, avec qui il parcourt l'Europe, vivant d'expédients. L'identification de Cagliostro à Balsamo, contestée par ses défenseurs, est aujourd'hui admise.
-texte: À [[londres|Londres]], en 1777, il est reçu franc-maçon et prend le titre de comte de Cagliostro. Il élabore une « Haute Maçonnerie égyptienne », dont il est le Grand Cophte, qui promet la régénération physique et morale et admet aussi les femmes, sous la direction de Lorenza, devenue Séraphina. À Mitau, en Courlande, il fait voir l'avenir à de jeunes enfants penchés sur des carafes d'eau ; à Strasbourg, de 1780 à 1783, il soigne gratuitement les pauvres et gagne la protection du cardinal de Rohan. En 1784, il fonde à [[lyon|Lyon]] la loge mère de son rite, la Sagesse triomphante, puis triomphe à Paris.
-texte: Compromis dans l'affaire du Collier de la reine, il est enfermé à la Bastille en 1785. Acquitté l'année suivante, il est néanmoins expulsé de France ; son *Mémoire* de défense raconte une enfance fabuleuse à Médine et en Égypte auprès d'un sage nommé Althotas, et une lettre au peuple français annonce que la Bastille sera démolie et deviendra une promenade. À Londres, un journaliste révèle son identité.
-texte: En 1789, revenu à Rome, il est dénoncé par sa femme et arrêté par l'Inquisition pour franc-maçonnerie, hérésie et magie. Condamné à mort en 1791, il voit sa peine commuée en prison à vie et meurt en 1795 dans la forteresse de San Leo, dans un cachot creusé dans le roc.
-texte: Goethe, qui visita sa famille à Palerme, lui consacre une comédie, *Le Grand Cophte* ; Schiller s'en inspire dans *Le Visionnaire*, et Alexandre Dumas fait de Joseph Balsamo le héros d'une série de romans. Les rites maçonniques « égyptiens », de [[rite-de-memphis-misraim|Memphis-Misraïm]] notamment, se réclament de lui, et l'occultiste Marc Haven a écrit sa vie comme celle d'un « maître inconnu ».
-repere: 1743 — Naissance à Palerme sous le nom de Giuseppe Balsamo.
+texte: À [[londres|Londres]], où il a pris le nom de comte de Cagliostro — celui d'un grand-oncle de Messine, mari de sa marraine —, il est reçu franc-maçon le 12 avril 1777, dans la loge de langue française L'Espérance. Il élabore une « Haute Maçonnerie égyptienne », dont il est le Grand Cophte, qui promet la régénération physique et morale et admet aussi les femmes, sous la direction de Lorenza, devenue Séraphina. À Mitau, en Courlande, il fait voir l'avenir à de jeunes enfants penchés sur des carafes d'eau ; à Strasbourg, où il arrive vers septembre 1780, il soigne gratuitement les pauvres, donne des séances de son rite et gagne la protection du [[cardinal-de-rohan|cardinal de Rohan]], qui le reçoit à Saverne ; un médecin de la ville, le docteur Ostertag, l'attaque en 1781, mais le Magistrat le désavoue. Il quitte l'Alsace en juin 1783, passe par Naples et séjourne près d'un an à Bordeaux. À l'automne 1784, il fonde à [[lyon|Lyon]] la loge mère de son rite, la Sagesse triomphante, puis s'installe à Paris, le 30 janvier 1785, où la haute société se dispute ses séances.
+texte: Compromis dans l'[[affaire-du-collier|affaire du Collier de la reine]] par les accusations de Mme de La Motte, il est enfermé à la Bastille en août 1785 ; son *Mémoire* de défense raconte une enfance fabuleuse à Médine et en Égypte auprès d'un sage nommé Althotas. Le Parlement de Paris le décharge de toute accusation le 31 mai 1786, mais un ordre du roi le bannit aussitôt du royaume. De Londres, en juin, il adresse aux Français une *Lettre* contre les lettres de cachet et la Bastille : il ne rentrera, écrit-il, que si elle devient une promenade publique, et un prince viendra qui convoquera les États généraux. Après 1789, on y a lu une prophétie ; mais il n'y annonce pas la prise de la forteresse, dont la démolition était projetée depuis longtemps. À Londres, le journaliste Théveneau de Morande révèle dans le *Courrier de l'Europe* le passé de Balsamo.
+texte: Chassé de ville en ville, il gagne Rome au printemps de 1789 et tente d'y fonder une loge. Dénoncé au Saint-Office — par sa femme, dit la tradition, mais aussi par la famille de celle-ci et par des espions qui s'étaient fait initier —, il est arrêté le 27 décembre 1789 et enfermé au château Saint-Ange pour franc-maçonnerie, hérésie et magie. Condamné à mort, il voit sa peine commuée en prison à vie en avril 1791 et meurt le 26 août 1795 dans la forteresse de San Leo, dans le *pozzetto*, cellule où on l'avait descendu par une trappe. Le *Compendio* de sa vie, que le Saint-Office fit paraître dès 1791 d'après les pièces du procès pour justifier la sentence, a nourri la plupart des biographies : c'est le récit de ses juges, à lire comme tel.
+texte: [[johann-wolfgang-von-goethe|Goethe]], qui visita sa mère et sa sœur à Palerme en 1787, lui consacre une comédie, *Le Grand Cophte* (1791) ; Schiller s'en inspire dans *Le Visionnaire*, et Alexandre Dumas fait de Joseph Balsamo le héros d'une série de romans ; Maurice Leblanc lui invente une fille, Joséphine Balsamo, dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924). Les rites maçonniques « égyptiens », de [[rite-de-memphis-misraim|Memphis-Misraïm]] notamment, se réclament de lui, et l'occultiste Marc Haven a écrit sa vie comme celle d'un « maître inconnu ».
+repere: 1743 — Naissance à Palerme, le 2 juin, sous le nom de Giuseppe Balsamo.
 repere: 1768 — À Rome, il épouse Lorenza Feliciani.
-repere: 1777 — Reçu franc-maçon à Londres.
+repere: 1777 — Reçu franc-maçon à Londres, le 12 avril, dans la loge L'Espérance.
 repere: 1780 — À Strasbourg, il soigne gratuitement les pauvres et gagne la protection du cardinal de Rohan.
+repere: 1783 — Il quitte Strasbourg en juin, passe par Naples et s'établit à Bordeaux à la fin de l'année.
 repere: 1784 — Il fonde à Lyon la loge mère de sa Haute Maçonnerie égyptienne.
 repere: 1785 — Compromis dans l'affaire du Collier de la reine, il est enfermé à la Bastille.
-repere: 1786 — Acquitté, il est expulsé de France.
-repere: 1789 — Arrêté à Rome par l'Inquisition.
+repere: 1786 — Acquitté le 31 mai par le Parlement de Paris, il est banni par ordre du roi et passe en Angleterre en juin.
+repere: 1787 — À Palerme, Goethe se fait montrer sa généalogie et rend visite à sa mère et à sa sœur.
+repere: 1789 — Arrêté à Rome par l'Inquisition, le 27 décembre.
 repere: 1791 — Condamné à mort, peine commuée en prison à vie.
-repere: 1795 — Mort dans la forteresse de San Leo.
+repere: 1791 — Le Saint-Office publie à Rome le *Compendio* de sa vie, tiré des pièces du procès.
+repere: 1795 — Mort dans la forteresse de San Leo, le 26 août.
 extrait: Sa femme, qui était fort belle et d’une intelligence élevée, l’avait suivi dans tous ses voyages. Elle présida à ce fameux souper où assistèrent la plupart des philosophes du temps, et dans lequel on fit apparaître plusieurs personnages morts depuis peu de temps : selon le système de Cagliostro, il n’y a pas de morts. Aussi avait-on mis douze couverts, quoiqu’il n’y eût que six invités : d’Alembert, Diderot, Voltaire, le duc de Choiseul, l’abbé de Voisenon et on ne sait quel autre, vinrent s’asseoir, quoique morts, aux places qui leur avaient été destinées, et causèrent avec les conviés, de omni re scibili et quibusdam aliis. ¶ Vers cette époque, Cagliostro fonda la célèbre loge égyptienne, laissant à sa femme le soin d’en établir une autre en faveur de son sexe, laquelle fut mise sous l’invocation d’Isis.
 source: Gérard de Nerval, *Les Illuminés*, 1852, « Cagliostro » | gallica bpt6k108403r | ws Les Illuminés (1852)/Cagliostro
-voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin, maconnerie-egyptienne, sethos, joseph-balsamo
+voir: rite-de-memphis-misraim, egyptosophie, franc-maconnerie, comte-de-saint-germain, elixir-de-longue-vie, maconnerie-d-adoption, gerard-de-nerval, lyon, arsene-lupin, maconnerie-egyptienne, sethos, joseph-balsamo, casanova, charlatan, affaire-du-collier, cardinal-de-rohan, johann-wolfgang-von-goethe, la-comtesse-de-cagliostro
 
 @ comte-de-saint-germain
 cat: figures
@@ -135,7 +138,7 @@ an: 1700
 def: Aventurier et virtuose d'origine inconnue, familier de Louis XV, qui laissait entendre qu'il avait vécu plusieurs siècles et devint pour les théosophes un maître immortel.
 texte: Nul ne sait d'où vient le comte de Saint-Germain. On en a fait le fils d'un prince de Transylvanie, François II Rákóczi, ce qu'il laissa lui-même entendre à la fin de sa vie, celui d'une reine d'Espagne ou d'un juif portugais. Il apparaît à [[londres|Londres]] en 1745, où il est brièvement arrêté comme espion jacobite ; l'écrivain Horace Walpole le décrit alors comme un homme qui chante, joue du violon à merveille, compose, et refuse de dire qui il est. Plusieurs de ses compositions musicales ont été conservées.
 texte: Présenté à Louis XV vers 1758, il fascine la cour par sa conversation, sa connaissance des langues, sa musique et ses secrets de teinture et de pierres précieuses ; on raconte qu'il savait effacer les défauts des diamants. Le roi lui donne un appartement au château de Chambord pour ses recherches. En 1760, il se lance en Hollande dans une négociation de paix officieuse qui le brouille avec le ministre Choiseul, et doit fuir.
-texte: Commence une vie errante sous divers noms — Surmont, Welldone, Tzarogy, anagramme de Ragotzy —, en Angleterre, en Russie, en Belgique, où Casanova le voit, dit-il, changer une pièce de cuivre en or, en Italie et en Allemagne. Il se garde de démentir les rumeurs qui lui prêtent un âge prodigieux et la connaissance de l'[[elixir-de-longue-vie|élixir de longue vie]]. Il passe ses dernières années dans le Schleswig, chez le prince Charles de Hesse-Cassel, passionné d'ésotérisme, avec qui il fonde une fabrique de teintures, et meurt à Eckernförde en 1784.
+texte: Commence une vie errante sous divers noms — Surmont, Welldone, Tzarogy, anagramme de Ragotzy —, en Angleterre, en Russie, en Belgique, où [[casanova|Casanova]] le voit, dit-il, changer une pièce de cuivre en or, en Italie et en Allemagne. Il se garde de démentir les rumeurs qui lui prêtent un âge prodigieux et la connaissance de l'[[elixir-de-longue-vie|élixir de longue vie]]. Il passe ses dernières années dans le Schleswig, chez le prince Charles de Hesse-Cassel, passionné d'ésotérisme, avec qui il fonde une fabrique de teintures, et meurt à Eckernförde en 1784.
 texte: Sa légende ne s'arrête pas là. On prétend l'avoir revu après sa mort ; de faux *Souvenirs sur Marie-Antoinette*, publiés en 1836, le montrent avertissant la reine de la Révolution. La [[theosophie]] fait de lui l'un des [[maitres-de-sagesse|Maîtres de sagesse]], le maître Rakoczi ; le mouvement « I AM », fondé aux États-Unis dans les années 1930, puis d'autres groupes du [[new-age|New Age]] le vénèrent comme un maître ascensionné, patron de l'ère du Verseau.
 repere: 1745 — À Londres, il est brièvement arrêté comme espion jacobite.
 repere: vers 1758 — Présenté à Louis XV, qui l'installe à Chambord.
@@ -145,7 +148,7 @@ repere: 1779 — Il s'établit dans le Schleswig, auprès du prince Charles de H
 repere: 1784 — Mort à Eckernförde, le 27 février.
 repere: 1836 — De faux *Souvenirs* le montrent avertissant Marie-Antoinette.
 repere: années 1930 — Le mouvement « I AM » fait de lui un maître ascensionné.
-voir: cagliostro, maitres-de-sagesse, elixir-de-longue-vie, new-age, ere-du-verseau, juif-errant, le-pendule-de-foucault
+voir: cagliostro, maitres-de-sagesse, elixir-de-longue-vie, new-age, ere-du-verseau, juif-errant, le-pendule-de-foucault, casanova, charlatan
 
 @ franz-anton-mesmer
 cat: figures
@@ -157,7 +160,7 @@ def: Médecin allemand, inventeur du magnétisme animal, théorie d'un fluide un
 texte: Né en 1734 à Iznang, au bord du lac de Constance, fils d'un garde forestier, Franz Anton Mesmer étudie chez les jésuites, puis la théologie, le droit et la médecine à Vienne. Sa thèse de doctorat, en 1766, porte sur l'influence des planètes sur le corps humain, qu'il attribue à un fluide subtil. Il épouse une riche veuve et tient à Vienne une maison ouverte, où l'on joue la musique du jeune Mozart.
 texte: En 1774, il soigne une jeune femme atteinte de crises nerveuses en lui appliquant des aimants ; il conclut bientôt que la force curative ne vient pas des aimants, mais de lui-même : c'est le « magnétisme animal ». Il magnétise par des passes de la main, provoque des « crises » salutaires et prétend guérir. En 1777, le traitement d'une jeune pianiste aveugle, Maria Theresia von Paradis, tourne au scandale ; il quitte Vienne.
 texte: À Paris, à partir de 1778, il publie son *Mémoire sur la découverte du magnétisme animal* (1779) et ouvre un cabinet où les malades, réunis autour d'un « baquet » d'où sortent des tiges de fer, se tiennent par une corde et entrent en crise au son de l'harmonica de verre. Le succès est immense ; ses disciples fondent en 1783 la Société de l'Harmonie, où entrent La Fayette et de nombreux francs-maçons, et des sociétés semblables naissent dans toute la France.
-texte: En 1784, le roi nomme deux commissions, où siègent Benjamin Franklin, Lavoisier et le docteur Guillotin. Par des expériences ingénieuses — des malades croient être magnétisés quand ils ne le sont pas, et inversement —, elles concluent que le fluide n'existe pas et que les effets sont dus à l'imagination ; un rapport secret s'inquiète des dangers pour les mœurs. Mesmer quitte la France, erre en Europe et finit sa vie en Suisse puis à Meersburg, au bord du lac de Constance, où il meurt en 1815.
+texte: En 1784, le roi nomme deux commissions, où siègent [[benjamin-franklin|Benjamin Franklin]], [[antoine-lavoisier|Lavoisier]] et le docteur Guillotin. Par des expériences ingénieuses — des malades croient être magnétisés quand ils ne le sont pas, et inversement —, elles concluent que le fluide n'existe pas et que les effets sont dus à l'imagination ; un rapport secret s'inquiète des dangers pour les mœurs. Mesmer quitte la France, erre en Europe et finit sa vie en Suisse puis à Meersburg, au bord du lac de Constance, où il meurt en 1815.
 texte: Le [[magnetisme-animal|magnétisme]] continue sans lui, transformé par le marquis de [[puysegur]], puis par l'[[hypnose|hypnose]], d'où sortira en partie la psychologie de l'inconscient. Son fluide universel a été repris par l'occultisme, dans la [[lumiere-astrale|lumière astrale]] d'Éliphas Lévi ou l'[[od]] de Reichenbach.
 repere: 1734 — Naissance à Iznang, au bord du lac de Constance.
 repere: 1766 — Docteur en médecine à Vienne, avec une thèse sur l'influence des planètes.
@@ -168,7 +171,7 @@ repere: 1779 — *Mémoire sur la découverte du magnétisme animal*.
 repere: 1783 — Fondation de la Société de l'Harmonie.
 repere: 1784 — Deux commissions royales, où siègent Franklin et Lavoisier, concluent à l'inexistence du fluide.
 repere: 1815 — Mort à Meersburg.
-voir: magnetisme-animal, puysegur, lumiere-astrale, od, medium
+voir: magnetisme-animal, puysegur, lumiere-astrale, od, medium, antoine-lavoisier
 
 @ puysegur
 cat: figures
@@ -552,10 +555,10 @@ repere: 1886 — *Au seuil du mystère*.
 repere: 1887 — Avec Oswald Wirth, il enquête sur l'abbé Boullan.
 repere: 1888 — Il fonde avec Péladan l'Ordre kabbalistique de la Rose-Croix.
 repere: 1891 — *Le Temple de Satan*.
-repere: 1893 — Accusé d'avoir tué l'abbé Boullan par envoûtement, il se bat en duel avec Jules Bois.
+repere: 1893 — Accusé d'avoir tué l'abbé Boullan par envoûtement, il se bat en duel avec [[jules-bois|Jules Bois]].
 repere: 1897 — Mort au château d'Alteville, à trente-six ans.
 oeuvres: Au seuil du mystère (1886) ; Le Temple de Satan (1891) ; La Clef de la magie noire (1897)
-voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme, joseph-antoine-boullan, la-bas
+voir: ordre-kabbalistique-de-la-rose-croix, josephin-peladan, papus, oswald-wirth, envoutement, satanisme, joseph-antoine-boullan, la-bas, jules-bois
 
 @ josephin-peladan
 cat: figures
@@ -577,7 +580,7 @@ repere: 1892 — Premier Salon de la Rose+Croix, avec la musique d'Erik Satie.
 repere: 1897 — Sixième et dernier Salon.
 repere: 1918 — Mort à Neuilly-sur-Seine.
 oeuvres: Le Vice suprême (1884) ; Istar (1888) ; Comment on devient mage (1892) ; La Décadence latine (cycle romanesque, 1884-1925)
-voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne, salons-de-la-rose-croix, symbolisme
+voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne, salons-de-la-rose-croix, symbolisme, mage
 
 @ papus
 cat: figures
@@ -600,25 +603,25 @@ repere: 1895 — Il rencontre le guérisseur lyonnais Maître Philippe.
 repere: 1901 — Premier voyage à la cour de Nicolas II.
 repere: 1916 — Mort à Paris.
 oeuvres: Traité élémentaire de science occulte (1888) ; Le Tarot des Bohémiens (1889) ; Traité méthodique de science occulte (1891) ; La Kabbale (1892) ; Traité élémentaire de magie pratique (1893)
-voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique, le-tarot-des-bohemiens
+voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique, le-tarot-des-bohemiens, raspoutine, jules-bois, emma-calve
 
 @ jules-doinel
 cat: figures
 nom: Jules Doinel
 alias: Doinel, Valentin II, Église gnostique, Jean Kostka
-dates: 1842 – 1903
+dates: 1842 – 1902
 an: 1842
 def: Archiviste français, fondateur en 1890 de l'Église gnostique, qui prétendait restaurer la religion des anciens gnostiques et des cathares.
 texte: Né à Moulins en 1842, Jules Doinel devient archiviste départemental et s'installe à Orléans, où il dirige les archives du Loiret. Franc-maçon du Grand Orient, spiritualiste, il se passionne pour les hérésies du Moyen Âge, en particulier pour les chanoines d'Orléans brûlés en 1022 et pour les cathares, dont il découvre des traces dans ses archives.
 texte: À la fin des années 1880, au cours de séances spirites tenues dans le salon parisien de la duchesse de Pomar, il dit recevoir de l'Éon Jésus, puis des esprits d'évêques cathares, la mission de restaurer la [[gnose]]. En 1890, il fonde l'[[eglise-gnostique|Église gnostique]], se proclame patriarche sous le nom de Valentin II, en souvenir de [[valentin]], et sacre des évêques, parmi lesquels [[papus]] ; des femmes y reçoivent le titre de « sophias ».
 texte: En 1895, il renie son œuvre, revient au catholicisme et publie sous le pseudonyme de Jean Kostka un pamphlet dénonçant la franc-maçonnerie comme luciférienne, *Lucifer démasqué*, dans le sillage de la mystification de [[leo-taxil|Léo Taxil]], que celui-ci avouera deux ans plus tard.
-texte: Il finit par revenir à l'Église qu'il avait fondée, qui le réintègre parmi ses évêques. Il meurt à [[carcassonne|Carcassonne]] en 1903. Ses successeurs ont multiplié les Églises gnostiques, souvent liées au [[martinisme]] ; elles ont inspiré jusqu'à la « messe gnostique » d'[[aleister-crowley]].
+texte: Il finit par revenir à l'Église qu'il avait fondée, qui le réintègre parmi ses évêques. Il meurt à [[carcassonne|Carcassonne]] en 1902. Ses successeurs ont multiplié les Églises gnostiques, souvent liées au [[martinisme]] ; elles ont inspiré jusqu'à la « messe gnostique » d'[[aleister-crowley]].
 repere: 1842 — Naissance à Moulins.
 repere: vers 1889 — Lors de séances spirites, il dit recevoir la mission de restaurer la gnose.
 repere: 1890 — Il fonde l'Église gnostique et prend le nom de Valentin II.
 repere: 1895 — Revenu au catholicisme, il publie *Lucifer démasqué* sous un pseudonyme.
 repere: 1897 — Léo Taxil avoue sa mystification antimaçonnique.
-repere: 1903 — Mort à Carcassonne.
+repere: 1902 — Mort à Carcassonne, le 16 mars.
 voir: eglise-gnostique, gnose, gnosticisme, catharisme, valentin, leo-taxil
 
 @ oswald-wirth
@@ -650,7 +653,7 @@ alias: Schuré, Les Grands Initiés
 dates: 1841 – 1929
 an: 1841
 def: Écrivain alsacien, auteur des Grands Initiés, récit de l'histoire religieuse de l'humanité comme une succession de révélateurs d'une même vérité.
-texte: Né à Strasbourg en 1841, dans une famille protestante, Édouard Schuré perd tôt ses parents. Il étudie le droit, mais se passionne pour la musique et la poésie, voyage en Allemagne et découvre [[richard-wagner|Wagner]], qu'il rencontre à Munich en 1865 et dont il devient l'un des premiers défenseurs en France avec *Le Drame musical* (1875). La guerre de 1870 le marque profondément : Alsacien, il choisit la France.
+texte: Né à Strasbourg en 1841, dans une famille protestante, Édouard Schuré perd tôt ses parents. Il étudie le droit, mais se passionne pour la musique et la poésie, voyage en Allemagne et découvre [[richard-wagner|Wagner]], qu'il rencontre à Munich en 1865 et dont il devient l'un des premiers défenseurs en France avec *Le Drame musical* (1875). La guerre de 1870 le marque profondément : Alsacien, il choisit la France. En 1883, il donne à la *Revue des Deux Mondes* « Les Légendes de l'Alsace », où le [[mont-sainte-odile|mont Sainte-Odile]] devient un temple gaulois du Soleil.
 texte: Une amitié avec une Italienne, Marguerita Albana Mignaty, qu'il tient pour une inspiratrice spirituelle, l'oriente vers l'ésotérisme. En 1889, il publie *[[les-grands-inities|Les Grands Initiés]]*, qui présente Rama, Krishna, Hermès, [[moise|Moïse]], Orphée, Pythagore, Platon et Jésus comme les initiés successifs d'une même doctrine secrète, transmise dans les mystères des temples. Le livre, écrit avec chaleur et sans souci d'exactitude historique, a été l'un des plus grands succès de la littérature ésotérique en français, constamment réédité et traduit.
 texte: Proche de la [[theosophie]], il rencontre en 1906 [[rudolf-steiner]], dont il devient l'ami, le traducteur et le propagateur en France. Il fait jouer ses « drames mystères » et les siens propres, des drames sacrés inspirés de l'Antiquité. La Grande Guerre l'éloigne un temps de Steiner, Allemand, mais il lui reste attaché.
 texte: Il meurt à Paris en 1929. Son influence a dépassé les milieux ésotériques : *Les Grands Initiés* a nourri la sensibilité religieuse de nombreux lecteurs à la recherche d'une spiritualité au-delà des Églises, dans l'esprit de la [[prisca-theologia]] renouvelée.
@@ -661,7 +664,7 @@ repere: 1889 — *Les Grands Initiés*.
 repere: 1906 — Il rencontre Rudolf Steiner.
 repere: 1929 — Mort à Paris.
 oeuvres: Le Drame musical (1875) ; Les Grands Initiés (1889) ; Sanctuaires d'Orient (1898)
-voir: les-grands-inities, prisca-theologia, rudolf-steiner, initiation, orphee, pythagore, moise, les-nabis
+voir: les-grands-inities, prisca-theologia, rudolf-steiner, initiation, orphee, pythagore, moise, les-nabis, mont-sainte-odile
 
 @ samuel-liddell-mathers
 cat: figures
@@ -685,7 +688,7 @@ repere: 1892 — Il crée le second ordre de la Golden Dawn.
 repere: 1898 — Traduction du *Livre d'Abramelin*.
 repere: 1900 — L'autoritarisme de Mathers fait éclater l'ordre.
 repere: 1918 — Mort à Paris.
-voir: golden-dawn, william-wynn-westcott, aleister-crowley, livre-d-abramelin, clavicule-de-salomon, magie-ceremonielle, isis
+voir: golden-dawn, william-wynn-westcott, aleister-crowley, livre-d-abramelin, clavicule-de-salomon, magie-ceremonielle, isis, jules-bois
 
 @ william-wynn-westcott
 cat: figures
@@ -799,7 +802,7 @@ dates: 1765 – 1841
 an: 1765
 def: Ingénieur des mines et philosophe catholique bavarois, lecteur de Boehme et de Saint-Martin, qui fut le grand théosophe du romantisme allemand.
 texte: Franz Xaver von Baader naît à Munich en 1765. Il étudie la médecine, puis les mines à l'Académie de Freiberg, et devient l'un des grands ingénieurs de Bavière, directeur des mines, inventeur d'un procédé de fabrication du verre. Lors d'un séjour de quatre ans en Angleterre, dans les années 1790, il découvre [[jakob-boehme]] et [[louis-claude-de-saint-martin]], qui deviennent ses maîtres.
-texte: Philosophe autant qu'ingénieur, il construit une pensée chrétienne qui puise dans la [[theosophie-chretienne|théosophie]] de Boehme, chez Maître Eckhart, qu'il fait redécouvrir, et dans la [[naturphilosophie]] de ses amis romantiques, au premier rang desquels Schelling. Contre l'autonomie de la raison chez Kant, il affirme que toute connaissance est participation à la connaissance de Dieu. Il reprend le mythe de l'[[androgyne]] primitif : Adam, à l'origine homme et femme, était uni à la Sagesse divine, [[sophia]] ; l'amour humain est une nostalgie de cette unité perdue.
+texte: Philosophe autant qu'ingénieur, il construit une pensée chrétienne qui puise dans la [[theosophie-chretienne|théosophie]] de Boehme, chez [[maitre-eckhart|Maître Eckhart]], qu'il fait redécouvrir, et dans la [[naturphilosophie]] de ses amis romantiques, au premier rang desquels Schelling. Contre l'autonomie de la raison chez Kant, il affirme que toute connaissance est participation à la connaissance de Dieu. Il reprend le mythe de l'[[androgyne]] primitif : Adam, à l'origine homme et femme, était uni à la Sagesse divine, [[sophia]] ; l'amour humain est une nostalgie de cette unité perdue.
 texte: Catholique fervent mais rebelle à l'autorité romaine, il rêve de réunir les Églises chrétiennes. En 1815, il adresse aux souverains de Russie, d'Autriche et de Prusse un mémoire sur l'union de la religion et de la politique qui inspire la Sainte-Alliance. Professeur à l'université de Munich à partir de 1826, il se voit interdire en 1838 d'enseigner la philosophie de la religion, à cause de ses critiques de la papauté. Il meurt à Munich en 1841.
 texte: Ses *Fermenta cognitionis* et sa *Dogmatique spéculative* ont nourri la pensée religieuse russe, de Soloviev à Berdiaev, et les études sur l'ésotérisme : [[antoine-faivre]] lui a consacré une partie de ses travaux.
 repere: 1765 — Naissance à Munich.
@@ -956,7 +959,7 @@ repere: 1855 — Fin des séances ; il s'installe à Guernesey.
 repere: 1856 — *Les Contemplations*, avec « Ce que dit la bouche d'ombre ».
 repere: 1885 — Mort à Paris ; funérailles nationales.
 repere: 1923 — Publication des procès-verbaux des tables tournantes de Jersey.
-voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel, argot, gothique, crapaud, elephant, saint-sulpice, la-fin-de-satan
+voir: tables-tournantes, spiritisme, metempsycose, reincarnation, nicolas-flamel, argot, gothique, crapaud, elephant, saint-sulpice, la-fin-de-satan, donon
 
 @ edward-bulwer-lytton
 cat: figures
@@ -991,7 +994,7 @@ an: 1848
 def: Écrivain français, auteur d'À rebours et de Là-bas, roman du satanisme et de la messe noire, avant de revenir au catholicisme et de lire le symbolisme des cathédrales.
 texte: Charles-Marie-Georges Huysmans naît à Paris en 1848, fils d'un peintre néerlandais. Fonctionnaire au ministère de l'Intérieur pendant plus de trente ans, il commence sa carrière littéraire dans le sillage de Zola et du naturalisme, puis rompt avec lui en 1884 avec *[[a-rebours|À rebours]]*, portrait d'un esthète solitaire, des Esseintes, qui devient la bible de la décadence.
 texte: À la fin des années 1880, il se plonge dans l'étude du satanisme pour un roman sur Gilles de Rais, compagnon de Jeanne d'Arc devenu assassin d'enfants et accusé de sorcellerie. Il fréquente les milieux occultistes parisiens et se lie avec un prêtre défroqué de [[lyon|Lyon]], l'abbé [[joseph-antoine-boullan|Boullan]], qui se dit en guerre magique contre les rosicruciens de [[stanislas-de-guaita]]. *[[la-bas|Là-bas]]* (1891) suit l'écrivain Durtal, double de Huysmans, qui découvre le Paris occulte et assiste, guidé par une femme du monde, à une [[messe-noire|messe noire]] célébrée par un chanoine sacrilège. Le livre fait scandale et fixe pour longtemps l'image du [[satanisme]] fin de siècle.
-texte: Quand Boullan meurt en 1893, Huysmans accuse les rosicruciens de l'avoir tué par [[envoutement]], ce qui vaut à son ami Jules Bois un duel avec Guaita. Mais Huysmans, lui, a déjà entamé un autre chemin : une retraite à la Trappe d'Igny, en 1892, le ramène à la foi catholique. *En route* (1895) raconte cette conversion, et *La Cathédrale* (1898) déchiffre le symbolisme de [[cathedrale-de-chartres|Chartres]] — ses pierres, ses couleurs, ses animaux et ses plantes — comme un grand livre de théologie.
+texte: Quand Boullan meurt en 1893, Huysmans accuse les rosicruciens de l'avoir tué par [[envoutement]], ce qui vaut à son ami [[jules-bois|Jules Bois]] un duel avec Guaita. Mais Huysmans, lui, a déjà entamé un autre chemin : une retraite à la Trappe d'Igny, en 1892, le ramène à la foi catholique. *En route* (1895) raconte cette conversion, et *La Cathédrale* (1898) déchiffre le symbolisme de [[cathedrale-de-chartres|Chartres]] — ses pierres, ses couleurs, ses animaux et ses plantes — comme un grand livre de théologie.
 texte: Devenu oblat de l'abbaye bénédictine de Ligugé, il meurt à Paris en 1907, d'un cancer, en acceptant ses souffrances comme une expiation. Son itinéraire, de la décadence au satanisme et du satanisme à la mystique, résume les inquiétudes spirituelles de la fin du XIXe siècle.
 repere: 1848 — Naissance à Paris, d'un père peintre néerlandais.
 repere: 1884 — *À rebours*, bible de la décadence.
@@ -1003,7 +1006,7 @@ repere: 1895 — *En route*, récit de sa conversion.
 repere: 1898 — *La Cathédrale*, lecture symbolique de Chartres.
 repere: 1899 — Oblat à l'abbaye de Ligugé.
 repere: 1907 — Mort à Paris.
-voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan, gilles-de-rais, a-rebours, la-bas
+voir: satanisme, messe-noire, envoutement, stanislas-de-guaita, josephin-peladan, gilles-de-rais, a-rebours, la-bas, jules-bois
 
 @ maitre-philippe
 cat: figures
@@ -1014,7 +1017,7 @@ an: 1849
 def: Guérisseur lyonnais, qui soignait par la prière sans jamais se faire payer, maître spirituel de Papus, reçu à la cour du tsar Nicolas II.
 texte: Nizier Anthelme Philippe naît en 1849 en Savoie, dans une famille de paysans. À quatorze ans, il vient travailler à [[lyon|Lyon]] dans la boucherie d'un oncle. Très jeune, il manifeste, dit-on, des dons de guérisseur. Il suit des cours de médecine, mais il est exclu pour exercice illégal de la médecine. En 1877, il épouse une jeune femme de la bourgeoisie lyonnaise, dont la fortune le met à l'abri du besoin.
 texte: Dans son appartement de la rue Tête-d'Or, à Lyon, il reçoit chaque jour des foules de malades, qu'il soigne par la prière et la parole, sans médicaments et sans jamais demander d'argent ; il exige seulement qu'on promette de ne plus dire de mal de son prochain. Poursuivi à plusieurs reprises pour exercice illégal de la médecine, il est soutenu par ses patients. Sa doctrine, toute chrétienne, est faite de charité, d'humilité et de confiance dans le Ciel.
-texte: Les occultistes parisiens viennent le voir : en 1895, [[papus]] le reconnaît pour son « maître spirituel », et Paul Sédir lui consacrera des livres. En 1901, deux grandes-duchesses monténégrines le présentent à Nicolas II et à l'impératrice Alexandra, qui l'accueillent en Russie ; il séjourne à la cour, où on lui prête des prédictions et l'annonce de la naissance d'un héritier. L'échec de cette prophétie et l'hostilité de l'entourage du tsar provoquent sa disgrâce ; il annonce, dit-on, qu'un autre viendra après lui — on y a vu Raspoutine.
+texte: Les occultistes parisiens viennent le voir : en 1895, [[papus]] le reconnaît pour son « maître spirituel », et Paul Sédir lui consacrera des livres. En 1901, deux grandes-duchesses monténégrines le présentent à Nicolas II et à l'impératrice Alexandra, qui l'accueillent en Russie ; il séjourne à la cour, où on lui prête des prédictions et l'annonce de la naissance d'un héritier. L'échec de cette prophétie et l'hostilité de l'entourage du tsar provoquent sa disgrâce ; il annonce, dit-on, qu'un autre viendra après lui — on y a vu [[raspoutine|Raspoutine]].
 texte: Il meurt en 1905 dans sa propriété de L'Arbresle, près de Lyon. Sa tombe, au cimetière de Loyasse, reste fleurie, et ses disciples continuent de vénérer en lui un véritable thaumaturge, l'« ami de Dieu ».
 repere: 1849 — Naissance en Savoie, dans une famille de paysans.
 repere: 1863 — Il vient travailler à Lyon.
@@ -1023,7 +1026,7 @@ repere: 1887 — Premier procès pour exercice illégal de la médecine.
 repere: 1895 — Papus devient son disciple.
 repere: 1901 — Présenté à Nicolas II, il séjourne à la cour de Russie.
 repere: 1905 — Mort à L'Arbresle, près de Lyon.
-voir: papus, martinisme, ordre-martiniste, mystique, thaumaturge, lyon
+voir: papus, martinisme, ordre-martiniste, mystique, thaumaturge, lyon, raspoutine
 
 @ charles-webster-leadbeater
 cat: figures

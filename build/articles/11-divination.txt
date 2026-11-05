@@ -10,7 +10,7 @@ texte: Toutes les civilisations ont pratiqué la divination. Les Romains disting
 texte: Le christianisme a condamné la divination comme une curiosité coupable ou un commerce avec les démons, sans jamais la faire disparaître. Les historiens y voient un moyen de prendre des décisions et d'apaiser l'incertitude ; les psychologues expliquent sa force persuasive par l'« effet Barnum », la tendance à se reconnaître dans des descriptions vagues. Aucune étude contrôlée n'a montré qu'une méthode divinatoire prévoie l'avenir mieux que le hasard.
 extrait: Une femme, à Paris, faisait la pythonisse : // On l’allait consulter sur chaque événement, // Perdait-on un chiffon, avait-on un amant, // Un mari vivant trop, au gré de son épouse, // Une mère fâcheuse, une femme jalouse ; // Chez la devineuse on courait // Pour se faire annoncer ce que l’on désirait. // Son fait consistait en adresse : // Quelques termes de l’art, beaucoup de hardiesse, // Du hasard quelquefois, tout cela concourait, // Tout cela bien souvent faisait crier miracle. // Enfin, quoique ignorante à vingt et trois carats, // Elle passait pour un oracle.
 source: Jean de La Fontaine, *Fables*, livre VII, fable XV, « Les Devineresses », 1678 | ws Fables de La Fontaine (éd. 1874)/Les Devineresses
-voir: astrologie, tarot, cartomancie, oracle, yi-king, geomancie, voyance
+voir: astrologie, tarot, cartomancie, oracle, yi-king, geomancie, voyance, superstition, prophete
 
 @ tarot
 cat: divination
@@ -176,7 +176,7 @@ alias: sibylle, oracles sibyllins, livres sibyllins, sibylle de Cumes
 def: Prophétesses inspirées de l'Antiquité, dont les oracles, recueillis dans des livres, furent lus par les chrétiens comme des annonces du Christ.
 texte: Les Anciens comptaient jusqu'à dix sibylles, de Delphes, d'Érythrée, de Cumes… À Rome, les *Livres sibyllins*, achetés selon la légende par le roi Tarquin, étaient gardés au Capitole et consultés en cas de crise. Des *Oracles sibyllins* rédigés par des juifs et des chrétiens imitent leur style pour annoncer le vrai Dieu.
 texte: Le christianisme médiéval associe les sibylles aux prophètes de l'Ancien Testament : le chant du *Dies irae* les invoque, et [[michel-ange|Michel-Ange]] les peint au plafond de la chapelle Sixtine.
-voir: oracle, divination, prisca-theologia, antre-de-la-sibylle, cathedrale-de-sienne
+voir: oracle, divination, prisca-theologia, antre-de-la-sibylle, cathedrale-de-sienne, prophete
 
 @ augures
 cat: divination

@@ -149,6 +149,14 @@ titre: Debussy, *Syrinx*, pour flûte seule (1913), la flûte de Pan
 credit: Sarah Bassingthwaite, université de Washington, 2006
 pour: claude-debussy, pan
 
+= debussy-faune
+commons: Columbia-dwx1550ix-c-wlx1289.ogg
+titre: Debussy, *Prélude à l’après-midi d’un faune* : le début, et le solo de flûte du faune
+credit: Orchestre des Concerts Straram, direction Walther Straram, disque Columbia, 1930
+pour: faune, stephane-mallarme, claude-debussy
+extrait: 0 150
+debit: 64 mono
+
 = ravel-ondine
 commons: Maurice Ravel Ondine.ogg
 titre: Ravel, *Gaspard de la nuit* : « Ondine »

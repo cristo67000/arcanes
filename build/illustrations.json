@@ -1456,7 +1456,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Josephin_Peladan_2.jpg",
    "pour": [
-    "josephin-peladan"
+    "josephin-peladan",
+    "mage"
    ],
    "sig": "Josephin Peladan 2.jpg||360|74"
   },
@@ -2172,7 +2173,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg",
    "pour": [
-    "alchimie"
+    "alchimie",
+    "phosphore"
    ],
    "sig": "Joseph Wright of Derby The Alchemist.jpg||480|74"
   },
@@ -3063,7 +3065,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Berruguete_ordeal.jpg",
    "pour": [
-    "catharisme"
+    "catharisme",
+    "heresie"
    ],
    "sig": "Berruguete ordeal.jpg||400|74"
   },
@@ -6013,7 +6016,8 @@
    "lic": "CC0",
    "src": "https://commons.wikimedia.org/wiki/File:Silver_bust_of_Serapis_MET_DT6658.jpg",
    "pour": [
-    "serapis"
+    "serapis",
+    "syncretisme"
    ],
    "sig": "Silver bust of Serapis MET DT6658.jpg||400|74"
   },
@@ -11867,7 +11871,8 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Prophet_Jonah.jpg",
    "pour": [
-    "jonas"
+    "jonas",
+    "prophete"
    ],
    "sig": "Prophet Jonah.jpg||400|74"
   },
@@ -13483,6 +13488,762 @@
    "src": "https://commons.wikimedia.org/wiki/File:Ulisse_Aldrovandi_%E2%80%93_Gallus_hirsutis_pedibus.jpg",
    "pour": [],
    "sig": "Ulisse Aldrovandi – Gallus hirsutis pedibus.jpg||240|74|d0.06 0.33, 0.12 0.20, 0.22 0.15, 0.30 0.18, 0.36 0.30, 0.40 0.40, 0.55 0.37, 0.65 0.30, 0.70 0.20, 0.78 0.11, 0.81 0.08, 0.83 0.12, 0.86 0.18, 0.88 0.22, 0.84 0.26, 0.85 0.33, 0.82 0.36, 0.79 0.50, 0.72 0.62, 0.64 0.70, 0.66 0.80, 0.70 0.83, 0.58 0.84, 0.52 0.72, 0.44 0.68, 0.48 0.80, 0.50 0.84, 0.42 0.84, 0.40 0.72, 0.34 0.65, 0.26 0.58, 0.20 0.62, 0.12 0.58, 0.07 0.48|c0.72"
+  },
+  "portrait-emma-calve": {
+   "f": "img/portrait-emma-calve.webp",
+   "v": "10017c3ba4",
+   "w": 400,
+   "h": 518,
+   "l": "Emma Calvé en Carmen, par Théobald Chartran",
+   "cr": "Théobald Chartran, huile sur toile, 1894 — Clark Art Institute, Williamstown",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Emma_Calv%C3%A9,_by_Th%C3%A9obald_Chartran.jpg",
+   "pour": [
+    "emma-calve"
+   ],
+   "sig": "Emma Calvé, by Théobald Chartran.jpg||400|74"
+  },
+  "cabrieres-viala": {
+   "f": "img/cabrieres-viala.webp",
+   "v": "b3bc7f7066",
+   "w": 400,
+   "h": 305,
+   "l": "Le château de Cabrières, eau-forte d’Eugène Viala",
+   "cr": "Eugène Viala, *À travers le Rouergue*, 1898 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:A_travers_-_le_-_Rouergue_-_estampe_-_Eug%C3%A8ne_Viala_-_btv1b10462911k_(17_of_58).jpg",
+   "pour": [
+    "chateau-de-cabrieres"
+   ],
+   "sig": "A travers - le - Rouergue - estampe - Eugène Viala - btv1b10462911k (17 of 58).jpg|0.25 0.26 0.77 0.77|400|74"
+  },
+  "portrait-jules-bois": {
+   "f": "img/portrait-jules-bois.webp",
+   "v": "702c524fa6",
+   "w": 400,
+   "h": 332,
+   "l": "Jules Bois à sa table de travail, en 1906",
+   "cr": "photographie de l’agence Rol, 1906 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jules_Bois,_1906_-_btv1b53220033z.jpg",
+   "pour": [
+    "jules-bois"
+   ],
+   "sig": "Jules Bois, 1906 - btv1b53220033z.jpg|0.20 0.12 0.93 0.95|400|74"
+  },
+  "portrait-mallarme": {
+   "f": "img/portrait-mallarme.webp",
+   "v": "f007d6f72a",
+   "w": 400,
+   "h": 305,
+   "l": "Stéphane Mallarmé, par Édouard Manet",
+   "cr": "Édouard Manet, huile sur toile, 1876 — musée d’Orsay, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_St%C3%A9phane_Mallarm%C3%A9_-_Google_Art_Project.jpg",
+   "pour": [
+    "stephane-mallarme"
+   ],
+   "sig": "Edouard Manet - Stéphane Mallarmé - Google Art Project.jpg||400|74"
+  },
+  "chat-noir-steinlen": {
+   "f": "img/chat-noir-steinlen.webp",
+   "v": "8cf8ca4ff9",
+   "w": 400,
+   "h": 568,
+   "l": "L’affiche de la tournée du Chat noir, par Steinlen",
+   "cr": "Théophile-Alexandre Steinlen, lithographie en couleurs, 1896",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tourn%C3%A9e_du_Chat_Noir,_by_Th%C3%A9ophile_Alexandre_Steinlen.jpg",
+   "pour": [
+    "le-chat-noir"
+   ],
+   "sig": "Tournée du Chat Noir, by Théophile Alexandre Steinlen.jpg||400|74"
+  },
+  "portrait-casanova": {
+   "f": "img/portrait-casanova.webp",
+   "v": "d408d00d95",
+   "w": 400,
+   "h": 514,
+   "l": "Giacomo Casanova vers trente ans, par son frère Francesco",
+   "cr": "Francesco Casanova, vers 1750-1755",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Casanova_ritratto.jpg",
+   "pour": [
+    "casanova"
+   ],
+   "sig": "Casanova ritratto.jpg||400|74"
+  },
+  "portrait-raspoutine": {
+   "f": "img/portrait-raspoutine.webp",
+   "v": "63aadc1c53",
+   "w": 400,
+   "h": 527,
+   "l": "Grigori Raspoutine",
+   "cr": "photographie anonyme, années 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rasputin_PA.jpg",
+   "pour": [
+    "raspoutine"
+   ],
+   "sig": "Rasputin PA.jpg||400|74"
+  },
+  "faune-nijinski": {
+   "f": "img/faune-nijinski.webp",
+   "v": "be3247a91b",
+   "w": 400,
+   "h": 635,
+   "l": "Nijinski en faune, par Léon Bakst, sur le programme des Ballets russes",
+   "cr": "Léon Bakst, 1912",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bakst_Nizhinsky.jpg",
+   "pour": [
+    "faune"
+   ],
+   "sig": "Bakst Nizhinsky.jpg|0.135 0 1 1|400|74"
+  },
+  "nymphes-waterhouse": {
+   "f": "img/nymphes-waterhouse.webp",
+   "v": "842420563d",
+   "w": 400,
+   "h": 248,
+   "l": "*Hylas et les Nymphes*, de John William Waterhouse",
+   "cr": "John William Waterhouse, 1896 — Manchester Art Gallery",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
+   "pour": [
+    "nymphe"
+   ],
+   "sig": "Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg||400|74"
+  },
+  "portrait-huxley": {
+   "f": "img/portrait-huxley.webp",
+   "v": "31b4ee0a81",
+   "w": 400,
+   "h": 524,
+   "l": "Thomas Henry Huxley, qui forgea le mot « agnostique »",
+   "cr": "photographie de Lock & Whitfield, vers 1880",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:T.H.Huxley_resized.jpg",
+   "pour": [
+    "agnostique"
+   ],
+   "sig": "T.H.Huxley resized.jpg||400|74"
+  },
+  "etre-supreme-demachy": {
+   "f": "img/etre-supreme-demachy.webp",
+   "v": "39d8e506f4",
+   "w": 400,
+   "h": 243,
+   "l": "La fête de l’Être suprême au Champ-de-Mars, le 8 juin 1794",
+   "cr": "Pierre-Antoine Demachy, 1794 — musée Carnavalet, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:F%C3%AAte_de_l%27Etre_supr%C3%AAme_2.jpg",
+   "pour": [
+    "deisme"
+   ],
+   "sig": "Fête de l'Etre suprême 2.jpg||400|74"
+  },
+  "portrait-spinoza": {
+   "f": "img/portrait-spinoza.webp",
+   "v": "1db2cec689",
+   "w": 400,
+   "h": 527,
+   "l": "Spinoza : « Dieu, c’est-à-dire la Nature »",
+   "cr": "portrait anonyme, vers 1665 — Herzog August Bibliothek, Wolfenbüttel",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Baruch_Spinoza_portrait_HAB_original.jpg",
+   "pour": [
+    "pantheisme"
+   ],
+   "sig": "Baruch Spinoza portrait HAB original.jpg|0.20 0.14 0.82 0.79|400|74"
+  },
+  "charlatan-longhi": {
+   "f": "img/charlatan-longhi.webp",
+   "v": "c49565fa0b",
+   "w": 400,
+   "h": 500,
+   "l": "*Le Charlatan*, de Pietro Longhi : Venise au temps de Casanova",
+   "cr": "Pietro Longhi, 1757 — Ca’ Rezzonico, Venise",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Pietro_Longhi_015.jpg",
+   "pour": [
+    "charlatan"
+   ],
+   "sig": "Pietro Longhi 015.jpg||400|74"
+  },
+  "starets-seraphin": {
+   "f": "img/starets-seraphin.webp",
+   "v": "7cfaa62d90",
+   "w": 400,
+   "h": 487,
+   "l": "Séraphin de Sarov, le plus vénéré des startsy russes",
+   "cr": "icône russe anonyme, après 1903",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Seraphim_of_Sarov_(after_1903,_priv.coll).jpg",
+   "pour": [
+    "starets"
+   ],
+   "sig": "Seraphim of Sarov (after 1903, priv.coll).jpg|0.03 0.02 0.97 0.97|400|74"
+  },
+  "exorcisme-vivarini": {
+   "f": "img/exorcisme-vivarini.webp",
+   "v": "5bc403f4ba",
+   "w": 400,
+   "h": 625,
+   "l": "Saint Pierre martyr exorcise une possédée",
+   "cr": "Antonio Vivarini, vers 1450 — Art Institute of Chicago",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Antonio_Vivarini_-_Saint_Peter_Martyr_Exorcizing_a_Woman_Possessed_by_a_Devil_-_1983.384_-_Art_Institute_of_Chicago.jpg",
+   "pour": [
+    "exorcisme"
+   ],
+   "sig": "Antonio Vivarini - Saint Peter Martyr Exorcizing a Woman Possessed by a Devil - 1983.384 - Art Institute of Chicago.jpg||400|74"
+  },
+  "isaie-qumran": {
+   "f": "img/isaie-qumran.webp",
+   "v": "32b514d920",
+   "w": 400,
+   "h": 455,
+   "l": "Une colonne du Grand Rouleau d'Isaïe (chapitre 53), manuscrit hébreu sur cuir trouvé dans la première grotte de Qumrân, IIe siècle av. J.-C.",
+   "cr": "Musée d'Israël, Jérusalem — photographie d'Ardon Bar Hama",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll_Ch53.jpg",
+   "pour": [
+    "manuscrits-de-la-mer-morte"
+   ],
+   "sig": "Great Isaiah Scroll Ch53.jpg||400|74"
+  },
+  "qumran-fouilles": {
+   "f": "img/qumran-fouilles.webp",
+   "v": "8fab1086e9",
+   "w": 400,
+   "h": 281,
+   "l": "Les fouilles de Khirbet Qumrân, vue générale",
+   "cr": "Matson Photo Service, entre 1947 et 1961 — Library of Congress, collection Matson",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scrolls_and_caves_and_Qumran_Excavations_of_Essene_Monastery._Qumran_excavations._General_view,_Khirbet_Qumran_(monastery)_LOC_matpc.13009.jpg",
+   "pour": [
+    "qumran"
+   ],
+   "sig": "Dead Sea Scrolls and caves and Qumran Excavations of Essene Monastery. Qumran excavations. General view, Khirbet Qumran (monastery) LOC matpc.13009.jpg|0.04 0.05 0.96 0.90|400|74"
+  },
+  "vieux-de-la-montagne": {
+   "f": "img/vieux-de-la-montagne.webp",
+   "v": "84b73a81da",
+   "w": 400,
+   "h": 269,
+   "l": "Le Vieux de la Montagne parmi les siens, miniature du *Livre des merveilles* de Marco Polo (« Cy parle du viel de la montaigne et de son estat »)",
+   "cr": "Enlumineur anonyme — BnF, manuscrit Français 2810, folio 16 verso",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hassan-i_Sabbah-1.jpg",
+   "pour": [
+    "assassins"
+   ],
+   "sig": "Hassan-i Sabbah-1.jpg||400|74"
+  },
+  "alamut-houlagou": {
+   "f": "img/alamut-houlagou.webp",
+   "v": "a52a766e8a",
+   "w": 400,
+   "h": 616,
+   "l": "Houlagou fait détruire la forteresse d'Alamut, miniature moghole",
+   "cr": "Basawan (dessin) et Nand Gwaliori (couleur), vers 1596 — Virginia Museum of Fine Arts",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Designed_by_BASAWAN;_Colored_by_NAND_GWALIOR._Hulagu_Khan_Destroy_the_Fort_at_Alamut._ca._1596._Virginia_MOA.jpg",
+   "pour": [
+    "alamut"
+   ],
+   "sig": "Designed by BASAWAN; Colored by NAND GWALIOR. Hulagu Khan Destroy the Fort at Alamut. ca. 1596. Virginia MOA.jpg||400|74"
+  },
+  "templiers-bucher": {
+   "f": "img/templiers-bucher.webp",
+   "v": "73f3e1e0f4",
+   "w": 400,
+   "h": 296,
+   "l": "Templiers sur le bûcher, miniature d’une chronique anonyme du XIVe siècle",
+   "cr": "chronique anonyme allant de la Création à 1384, XIVe siècle — Bibliothèque municipale de Besançon",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Templars_on_Stake.jpg",
+   "pour": [
+    "proces-des-templiers"
+   ],
+   "sig": "Templars on Stake.jpg||400|74"
+  },
+  "portrait-fabre-palaprat": {
+   "f": "img/portrait-fabre-palaprat.webp",
+   "v": "2cef8b9309",
+   "w": 400,
+   "h": 570,
+   "l": "Bernard-Raymond Fabré-Palaprat en costume de grand maître de son ordre du Temple",
+   "cr": "gravure anonyme, avant 1838, reproduite dans *Le Mois littéraire et pittoresque*, 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fabr%C3%A9-Palaprat_en_grand-ma%C3%AEtre_de_l%27odre_des_templiers.jpg",
+   "pour": [
+    "neo-templarisme"
+   ],
+   "sig": "Fabré-Palaprat en grand-maître de l'odre des templiers.jpg||400|74"
+  },
+  "hospitaliers-rhodes": {
+   "f": "img/hospitaliers-rhodes.webp",
+   "v": "c44ca483ec",
+   "w": 400,
+   "h": 516,
+   "l": "Le siège de Rhodes par les Ottomans en 1480, d’après une miniature du récit de Guillaume Caoursin",
+   "cr": "dessin de Rouargue, *Le Magasin pittoresque*, 1856",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Siege_de_rhodes_d%27apr%C3%A9s_guillaume_caoursin_1480.JPG",
+   "pour": [
+    "hospitaliers"
+   ],
+   "sig": "Siege de rhodes d'aprés guillaume caoursin 1480.JPG||400|74"
+  },
+  "lieu-tour-du-temple": {
+   "f": "img/lieu-tour-du-temple.webp",
+   "v": "bc5f67fe01",
+   "w": 400,
+   "h": 311,
+   "l": "Le donjon du Temple vers 1795",
+   "cr": "école française, vers 1795 — musée Carnavalet, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tour_du_Temple_circa_1795_Ecole_Francaise_18th_century.jpg",
+   "pour": [
+    "enclos-du-temple"
+   ],
+   "sig": "Tour du Temple circa 1795 Ecole Francaise 18th century.jpg||400|74"
+  },
+  "lieu-couvertoirade": {
+   "f": "img/lieu-couvertoirade.webp",
+   "v": "feeee75db4",
+   "w": 400,
+   "h": 255,
+   "l": "La Couvertoirade et ses remparts, carte postale ancienne — la légende imprimée les date du XIIIe siècle, ils sont du XVe",
+   "cr": "C. Denuc, photographe-éditeur à Marseille, entre 1900 et 1930",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Camp_du_Larzac_-_Couvertoirade.jpg",
+   "pour": [
+    "sainte-eulalie-de-cernon"
+   ],
+   "sig": "Camp du Larzac - Couvertoirade.jpg||400|74"
+  },
+  "collier-de-la-reine": {
+   "f": "img/collier-de-la-reine.webp",
+   "v": "11129cad5b",
+   "w": 400,
+   "h": 516,
+   "l": "*Représentation exacte du grand collier en brillants des sieurs Boehmer et Bassenge*, gravé à la grandeur des diamants",
+   "cr": "Nicolas-Antoine Taunay, 1786 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_exacte_du_grand_collier_en_brillants_des_Srs_Boehmer_et_Bassenge_-_grav%C3%A9_d%27apr%C3%A8s_la_grandeur_des_diamans_-_estampe_-_Taunay_-_btv1b8410498f.jpg",
+   "pour": [
+    "affaire-du-collier"
+   ],
+   "sig": "Représentation exacte du grand collier en brillants des Srs Boehmer et Bassenge - gravé d'après la grandeur des diamans - estampe - Taunay - btv1b8410498f.jpg||400|74"
+  },
+  "arrestation-rohan": {
+   "f": "img/arrestation-rohan.webp",
+   "v": "069dbc1346",
+   "w": 400,
+   "h": 588,
+   "l": "*Arrestation du cardinal de Rohan*, à Versailles, le 15 août 1785",
+   "cr": "Charles-Amédée Colin d'après Félix Philippoteaux, XIXe siècle — KU Leuven",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Arrestation_du_cardinal_de_Rohan,_PA07778.jpg",
+   "pour": [
+    "affaire-du-collier"
+   ],
+   "sig": "Arrestation du cardinal de Rohan, PA07778.jpg||400|74"
+  },
+  "portrait-cardinal-de-rohan": {
+   "f": "img/portrait-cardinal-de-rohan.webp",
+   "v": "e72c01611d",
+   "w": 400,
+   "h": 499,
+   "l": "Le cardinal Louis-René-Édouard de Rohan, prince-évêque de Strasbourg",
+   "cr": "Jean-Pierre-Julien Dupin, 1782 — Bibliothèque nationale de France",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Louis-Ren%C3%A9-Edouard_p.ce_de_Rohan-Gu%C3%A9m%C3%A9n%C3%A9_-_cardinal_de_la_S.te_Eglise_Romaine..._-_estampe_-_Dupin_fil._sculp._-_btv1b69423330.jpg",
+   "pour": [
+    "cardinal-de-rohan"
+   ],
+   "sig": "Louis-René-Edouard p.ce de Rohan-Guéméné - cardinal de la S.te Eglise Romaine... - estampe - Dupin fil. sculp. - btv1b69423330.jpg|0.12 0.13 0.88 0.82|400|74"
+  },
+  "valentin-table-des-signes": {
+   "f": "img/valentin-table-des-signes.webp",
+   "v": "0c693f7bf9",
+   "w": 400,
+   "h": 666,
+   "l": "Table des signes des alchimistes, dans une édition anglaise du *Dernier Testament* attribué à Basile Valentin",
+   "cr": "gravure anonyme, vers 1670",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alchemical_table_Valentine_(1671).jpg",
+   "pour": [
+    "sept-metaux"
+   ],
+   "sig": "Alchemical table Valentine (1671).jpg||400|74"
+  },
+  "portrait-becher": {
+   "f": "img/portrait-becher.webp",
+   "v": "9a1e6b5617",
+   "w": 400,
+   "h": 532,
+   "l": "Johann Joachim Becher, dont la « terre grasse » devint le phlogistique de Stahl",
+   "cr": "Wolfgang Philipp Kilian, 1675",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Jjbecher.jpg",
+   "pour": [
+    "phlogistique"
+   ],
+   "sig": "Jjbecher.jpg||400|74"
+  },
+  "glauber-fourneaux": {
+   "f": "img/glauber-fourneaux.webp",
+   "v": "4b664e41e2",
+   "w": 400,
+   "h": 679,
+   "l": "Fourneaux et vases à distiller, bois gravés des *Furni novi philosophici* de Glauber",
+   "cr": "édition de Johannes Janssonius, Amsterdam, 1661 — Bibliothèque d'État et universitaire de Saxe, Dresde (Deutsche Fotothek)",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0007519_Alchemie_%5E_Chemie_%5E_Ofen_%5E_Gef%C3%A4%C3%9F.jpg",
+   "pour": [
+    "johann-rudolf-glauber"
+   ],
+   "sig": "Fotothek df tg 0007519 Alchemie ^ Chemie ^ Ofen ^ Gefäß.jpg||400|74"
+  },
+  "portrait-boyle": {
+   "f": "img/portrait-boyle.webp",
+   "v": "d68c03e15b",
+   "w": 400,
+   "h": 505,
+   "l": "Robert Boyle, deux ans avant sa mort",
+   "cr": "Johann Kerseboom, 1689 — Science History Institute",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+   "pour": [
+    "robert-boyle"
+   ],
+   "sig": "The Shannon Portrait of the Hon Robert Boyle.jpg||400|74"
+  },
+  "david-lavoisier": {
+   "f": "img/david-lavoisier.webp",
+   "v": "e89f7183e2",
+   "w": 400,
+   "h": 533,
+   "l": "*Portrait d’Antoine-Laurent Lavoisier et de sa femme*, commandé par Marie-Anne Paulze à son maître David",
+   "cr": "Jacques-Louis David, 1788 — Metropolitan Museum of Art, New York",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:David_-_Portrait_of_Monsieur_Lavoisier_and_His_Wife.jpg",
+   "pour": [
+    "antoine-lavoisier"
+   ],
+   "sig": "David - Portrait of Monsieur Lavoisier and His Wife.jpg||400|74"
+  },
+  "hortus-deliciarum-philosophie": {
+   "f": "img/hortus-deliciarum-philosophie.webp",
+   "v": "52751bcb3c",
+   "w": 400,
+   "h": 498,
+   "l": "La Philosophie entourée des sept arts libéraux, miniature de l’*Hortus deliciarum* de l’abbesse Herrade, d’après une copie prise avant l’incendie de 1870",
+   "cr": "copie coloriée, vers 1818, d’un original de la fin du XIIe siècle détruit en 1870",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG",
+   "pour": [
+    "mont-sainte-odile"
+   ],
+   "sig": "Hortus Deliciarum, Die Philosophie mit den sieben freien Künsten.JPG||400|74"
+  },
+  "mur-paien-sainte-odile": {
+   "f": "img/mur-paien-sainte-odile.webp",
+   "v": "30e06da564",
+   "w": 400,
+   "h": 258,
+   "l": "Le « mur païen » du mont Sainte-Odile, d’après la *Burgenkunde* d’Otto Piper",
+   "cr": "Otto Piper, *Burgenkunde*, Munich, 1912",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Odilienberg_Heidenmauer_Mauer.jpg",
+   "pour": [
+    "mont-sainte-odile"
+   ],
+   "sig": "Odilienberg Heidenmauer Mauer.jpg|0 0 1 0.84|400|74"
+  },
+  "donon-temple-carte-postale": {
+   "f": "img/donon-temple-carte-postale.webp",
+   "v": "501a90b21b",
+   "w": 400,
+   "h": 258,
+   "l": "Le temple-musée élevé en 1869 au sommet du Donon, sur une carte postale ancienne",
+   "cr": "Adolphe Weick, éditeur à Saint-Dié, entre 1880 et 1945 — Limédia galeries",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Carte_postale,_Le_Temple_au_sommet_du_Donon.jpg",
+   "pour": [
+    "donon"
+   ],
+   "sig": "Carte postale, Le Temple au sommet du Donon.jpg||400|74"
+  },
+  "heiltumsweisung-nuremberg-1487": {
+   "f": "img/heiltumsweisung-nuremberg-1487.webp",
+   "v": "955779cf31",
+   "w": 400,
+   "h": 535,
+   "l": "La présentation annuelle des insignes et des reliques de l’Empire au peuple de Nuremberg",
+   "cr": "gravure sur bois d’un livret imprimé à Nuremberg, 1487 — Bayerische Staatsbibliothek",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Heiltumsweisung_der_Reichskleinodien_in_N%C3%BCrnberg.jpg",
+   "pour": [
+    "insignes-du-saint-empire"
+   ],
+   "sig": "Heiltumsweisung der Reichskleinodien in Nürnberg.jpg||400|74"
+  },
+  "durer-charlemagne-insignes": {
+   "f": "img/durer-charlemagne-insignes.webp",
+   "v": "50ddb74064",
+   "w": 400,
+   "h": 763,
+   "l": "Charlemagne portant la couronne, l’épée et le globe du Saint-Empire, peint pour la maison de Nuremberg où les insignes étaient déposés pendant leur présentation annuelle",
+   "cr": "Albrecht Dürer, vers 1511-1513",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Emperor_Charlemagne.jpg",
+   "pour": [
+    "insignes-du-saint-empire"
+   ],
+   "sig": "Albrecht Dürer - Emperor Charlemagne.jpg||400|74"
+  },
+  "irminsul-leutemann": {
+   "f": "img/irminsul-leutemann.webp",
+   "v": "8c8244d8d9",
+   "w": 400,
+   "h": 617,
+   "l": "La destruction de l’Irminsul par Charlemagne, imaginée par un illustrateur du XIXe siècle",
+   "cr": "Heinrich Leutemann, 1882, pour *Nordisch-germanische Götter und Helden*",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_destruction_of_the_Irminsul_by_Charlemagne.jpg",
+   "pour": [
+    "irminsul"
+   ],
+   "sig": "The destruction of the Irminsul by Charlemagne.jpg||400|74"
+  },
+  "comtesse-grande-ourse": {
+   "f": "img/comtesse-grande-ourse.webp",
+   "v": "6e60b9a708",
+   "w": 400,
+   "h": 256,
+   "l": "Les sept abbayes du pays de Caux reliées en Grande Ourse : le schéma publié avec le feuilleton de *La Comtesse de Cagliostro*",
+   "cr": "*Le Journal*, 1923-1924 — Gallica, BnF",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leblanc_-_La_Comtesse_de_Cagliostro,_paru_dans_Le_Journal,_1923-1924_(page_83_crop).jpg",
+   "pour": [
+    "la-comtesse-de-cagliostro"
+   ],
+   "sig": "Leblanc - La Comtesse de Cagliostro, paru dans Le Journal, 1923-1924 (page 83 crop).jpg||400|74"
+  },
+  "aiguille-document": {
+   "f": "img/aiguille-document.webp",
+   "v": "35ec2031b6",
+   "w": 400,
+   "h": 213,
+   "l": "Le document chiffré de *L’Aiguille creuse* : des chiffres pour les voyelles, des points pour les consonnes",
+   "cr": "Maurice Leblanc, *L’Aiguille creuse*, éd. Pierre Lafitte, 1912",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Leblanc_-_L%E2%80%99Aiguille_creuse,_1912_(page_93_crop).jpg",
+   "pour": [
+    "l-aiguille-creuse"
+   ],
+   "sig": "Leblanc - L’Aiguille creuse, 1912 (page 93 crop).jpg||400|74"
+  },
+  "813-poulbot": {
+   "f": "img/813-poulbot.webp",
+   "v": "0e0df9d5d6",
+   "w": 400,
+   "h": 552,
+   "l": "Le meurtre de Kesselbach : affiche de Poulbot pour le feuilleton de *813* dans *Le Journal*",
+   "cr": "Francisque Poulbot, 1910",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ars%C3%A8ne_Lupin_-_813_-_affiche_de_Poulbot.jpg",
+   "pour": [
+    "huit-cent-treize"
+   ],
+   "sig": "Arsène Lupin - 813 - affiche de Poulbot.jpg||400|74"
+  },
+  "fantome-castaigne": {
+   "f": "img/fantome-castaigne.webp",
+   "v": "b069e370e9",
+   "w": 400,
+   "h": 620,
+   "l": "Erik en Mort rouge descend le grand escalier de l’Opéra, au bal masqué",
+   "cr": "André Castaigne, aquarelle pour la première édition américaine du roman, 1911",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Castaigne_Fant%C3%B4me_Op%C3%A9ra1.jpg",
+   "pour": [
+    "le-fantome-de-l-opera"
+   ],
+   "sig": "André Castaigne Fantôme Opéra1.jpg||400|74"
+  },
+  "atlantide-orazi": {
+   "f": "img/atlantide-orazi.webp",
+   "v": "cc1478955c",
+   "w": 600,
+   "h": 419,
+   "l": "Antinéa, jouée par Stacia Napierkowska : affiche de Manuel Orazi pour le film que Jacques Feyder tira de *L’Atlantide*",
+   "cr": "Manuel Orazi, 1921",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Manuel_Orazi_-_L%27Atlantide.jpg",
+   "pour": [
+    "l-atlantide-benoit"
+   ],
+   "sig": "Manuel Orazi - L'Atlantide.jpg||600|74"
+  },
+  "portrait-marie-von-sivers": {
+   "f": "img/portrait-marie-von-sivers.webp",
+   "v": "e38a0310a4",
+   "w": 400,
+   "h": 506,
+   "l": "Marie von Sivers, qui donna son nom à l'eurythmie et dirigea la première troupe",
+   "cr": "photographie anonyme, vers 1903",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Marie_Steiner.jpg",
+   "pour": [
+    "eurythmie"
+   ],
+   "sig": "Marie Steiner.jpg||400|74"
+  },
+  "koberwitz-chateau": {
+   "f": "img/koberwitz-chateau.webp",
+   "v": "1ebfe98b77",
+   "w": 400,
+   "h": 267,
+   "l": "Le château de Koberwitz (Kobierzyce, Pologne), où Rudolf Steiner donna en 1924 le *Cours aux agriculteurs*",
+   "cr": "photographie de Julo, 2006",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Kobierzyce-palac.jpg",
+   "pour": [
+    "biodynamie"
+   ],
+   "sig": "Kobierzyce-palac.jpg||400|74"
+  },
+  "waldorf-uhlandshohe": {
+   "f": "img/waldorf-uhlandshohe.webp",
+   "v": "f66df82607",
+   "w": 400,
+   "h": 225,
+   "l": "L'école Waldorf de l'Uhlandshöhe, à Stuttgart, héritière de l'école ouverte en 1919",
+   "cr": "photographie de Martin Hahn, 2019",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Landappbw_95261_1819_Waldorfschule_Uhlandsh%C3%B6he_Stuttgart.jpg",
+   "pour": [
+    "pedagogie-waldorf"
+   ],
+   "sig": "Landappbw 95261 1819 Waldorfschule Uhlandshöhe Stuttgart.jpg||400|74"
+  },
+  "portrait-vivekananda": {
+   "f": "img/portrait-vivekananda.webp",
+   "v": "017618e4ac",
+   "w": 400,
+   "h": 549,
+   "l": "Swami Vivekananda à Chicago, en septembre 1893, avec une dédicace de sa main",
+   "cr": "photographie de 1893",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Swami_Vivekananda-1893-09-signed.jpg",
+   "pour": [
+    "vivekananda"
+   ],
+   "sig": "Swami Vivekananda-1893-09-signed.jpg||400|74"
+  },
+  "eckhart-protestation-1327": {
+   "f": "img/eckhart-protestation-1327.webp",
+   "v": "c30d76a5d4",
+   "w": 400,
+   "h": 531,
+   "l": "L'acte notarié de la protestation publique de Maître Eckhart, dressé à Cologne le 13 février 1327",
+   "cr": "Wolter von Kettwig, notaire, 1327 — Archives vaticanes",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Meister_Eckhart,_recantation,_1327.jpg",
+   "pour": [
+    "maitre-eckhart"
+   ],
+   "sig": "Meister Eckhart, recantation, 1327.jpg||400|74"
+  },
+  "portrait-levy-bruhl": {
+   "f": "img/portrait-levy-bruhl.webp",
+   "v": "70ba41356e",
+   "w": 400,
+   "h": 499,
+   "l": "Lucien Lévy-Bruhl, qui décrivit une « mentalité primitive » avant d'y renoncer",
+   "cr": "photographie anonyme, 1930 — MédiHAL",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lucien_L%C3%A9vy-Bruhl_1857-1939_(M%C3%A9diHAL_541273).jpg",
+   "pour": [
+    "pensee-magique"
+   ],
+   "sig": "Lucien Lévy-Bruhl 1857-1939 (MédiHAL 541273).jpg|0 0 1 0.86|400|74"
+  },
+  "portrait-atkinson": {
+   "f": "img/portrait-atkinson.webp",
+   "v": "211bf5a541",
+   "w": 400,
+   "h": 641,
+   "l": "William Walker Atkinson en 1901, cinq ans avant son livre sur la « loi de l'attraction »",
+   "cr": "photographie anonyme, 1901",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:A_portrait_of_Dr._Herbert_A._Parkyn%27s_prot%C3%A9g%C3%A9_and_New_Thought_author,_William_Walker_Atkinson,_in_1901.png",
+   "pour": [
+    "loi-de-l-attraction"
+   ],
+   "sig": "A portrait of Dr. Herbert A. Parkyn's protégé and New Thought author, William Walker Atkinson, in 1901.png||400|74"
+  },
+  "feux-saint-jean-breton": {
+   "f": "img/feux-saint-jean-breton.webp",
+   "v": "cc2162cdcf",
+   "w": 400,
+   "h": 223,
+   "l": "Jules Breton, *La Fête de la Saint-Jean* : la ronde autour du feu, au soir du 23 juin",
+   "cr": "Jules Breton, 1875 — Philadelphia Museum of Art",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Feast_of_Saint_John.jpg",
+   "pour": [
+    "feux-de-la-saint-jean"
+   ],
+   "sig": "The Feast of Saint John.jpg||400|74"
+  },
+  "feux-saint-jean-bretagne": {
+   "f": "img/feux-saint-jean-bretagne.webp",
+   "v": "54ded5fee1",
+   "w": 400,
+   "h": 572,
+   "l": "Un feu de la Saint-Jean en Bretagne",
+   "cr": "dessin du *Petit Journal*, 1893",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Feu_de_la_Saint-Jean.jpg",
+   "pour": [
+    "feux-de-la-saint-jean"
+   ],
+   "sig": "Feu de la Saint-Jean.jpg||400|74"
+  },
+  "portrait-savoire": {
+   "f": "img/portrait-savoire.webp",
+   "v": "a27c14c9cb",
+   "w": 327,
+   "h": 500,
+   "l": "Camille Savoire",
+   "cr": "photographie anonyme, vers 1920",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Camille_Savoire_(1869-1951)_portrait.jpg",
+   "pour": [
+    "camille-savoire"
+   ],
+   "sig": "Camille Savoire (1869-1951) portrait.jpg||327|74"
+  },
+  "portrait-ribaucourt": {
+   "f": "img/portrait-ribaucourt.webp",
+   "v": "e106366a49",
+   "w": 231,
+   "h": 289,
+   "l": "Édouard de Ribaucourt",
+   "cr": "photographie anonyme, vers 1930",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%C3%89douard_de_Ribaucourt.png",
+   "pour": [
+    "edouard-de-ribaucourt"
+   ],
+   "sig": "Édouard de Ribaucourt.png||231|74"
   }
  },
  "planches": {

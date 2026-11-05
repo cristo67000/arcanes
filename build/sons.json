@@ -230,6 +230,21 @@
    ],
    "sig": "Debussy - Syrinx.ogg||96|lame-cbr|0.3|2"
   },
+  "debussy-faune": {
+   "f": "son/debussy-faune.mp3",
+   "v": "bdbe7f7e88",
+   "d": 150.1,
+   "ti": "Debussy, *Prélude à l’après-midi d’un faune* : le début, et le solo de flûte du faune",
+   "cr": "Orchestre des Concerts Straram, direction Walther Straram, disque Columbia, 1930",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Columbia-dwx1550ix-c-wlx1289.ogg",
+   "pour": [
+    "faune",
+    "stephane-mallarme",
+    "claude-debussy"
+   ],
+   "sig": "Columbia-dwx1550ix-c-wlx1289.ogg|0 150|64 mono|lame-cbr|0.3|2"
+  },
   "ravel-ondine": {
    "f": "son/ravel-ondine.mp3",
    "v": "62b276f979",

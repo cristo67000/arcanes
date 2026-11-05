@@ -14,7 +14,7 @@ texte: En 1127, il gagne l'Occident pour chercher des recrues et des donations. 
 repere: vers 1120 — Il fonde à Jérusalem la communauté des pauvres chevaliers du Christ.
 repere: 1129 — Le concile de Troyes approuve la règle de l'ordre.
 repere: 1136 — Mort en Orient.
-voir: templiers, bernard-de-clairvaux, jacques-de-molay, temple-de-salomon, godefroy-de-bouillon
+voir: templiers, bernard-de-clairvaux, jacques-de-molay, temple-de-salomon, godefroy-de-bouillon, foret-d-orient, proces-des-templiers
 
 @ jacques-de-molay
 cat: figures
@@ -23,14 +23,15 @@ alias: Molay, dernier grand maître du Temple, malédiction des templiers
 dates: vers 1245 – 1314
 an: 1245
 def: Dernier grand maître de l'ordre du Temple, arrêté en 1307 sur ordre de Philippe le Bel et brûlé à Paris en 1314, devenu le martyr de la légende templière et maçonnique.
-texte: Né en Franche-Comté vers 1245, entré dans l'ordre en 1265, Jacques de Molay sert en Orient et devient grand maître en 1292, au moment où les croisés ont perdu leurs dernières places de Terre sainte. Le 13 octobre 1307, il est arrêté à Paris avec tous les [[templiers]] du royaume. Sous la menace de la torture, il avoue en partie les accusations — reniement du Christ, crachat sur la croix —, puis se rétracte, se dédit encore, et finit par s'en remettre au pape.
+texte: Né en Franche-Comté vers 1245, entré dans l'ordre en 1265, Jacques de Molay sert en Orient et devient grand maître en 1292, au moment où les croisés ont perdu leurs dernières places de Terre sainte. Le 13 octobre 1307, il est arrêté à Paris, dans l'[[enclos-du-temple|enclos du Temple]], avec tous les [[templiers]] du royaume. Sous la menace de la torture, il avoue en partie les accusations — reniement du Christ, crachat sur la croix —, puis se rétracte, se dédit encore, et finit par s'en remettre au pape, qui s'est réservé le jugement des dignitaires (voir [[proces-des-templiers|procès des Templiers]]).
 texte: Le 18 mars 1314, devant les cardinaux chargés de le condamner à la prison perpétuelle, il proclame l'innocence de l'ordre ; il est brûlé le soir même dans une île de la Seine, avec Geoffroy de Charnay. La légende veut qu'il ait cité sur le bûcher le pape Clément V et le roi Philippe le Bel à comparaître dans l'année devant le tribunal de Dieu — ils meurent en effet tous deux en 1314. Le grade maçonnique de [[chevalier-kadosh|Kadosh]] fait de sa mort un appel à la vengeance, et une organisation de jeunesse maçonnique américaine porte son nom depuis 1919.
 repere: 1265 — Il entre dans l'ordre du Temple.
 repere: 1292 — Élu grand maître.
 repere: 1307 — Arrêté à Paris le 13 octobre.
+repere: 1307 — Il avoue le 24 octobre, puis révoque ses aveux devant les cardinaux à la fin de décembre.
 repere: 1308 — Interrogé par les cardinaux à Chinon.
 repere: 1314 — Brûlé à Paris le 18 mars.
-voir: templiers, chinon, hugues-de-payns, chevalier-kadosh, baphomet, philippe-le-bel
+voir: templiers, chinon, hugues-de-payns, chevalier-kadosh, baphomet, philippe-le-bel, proces-des-templiers, enclos-du-temple, neo-templarisme
 
 @ bernard-de-clairvaux
 cat: figures
@@ -47,7 +48,7 @@ repere: 1146 — Il prêche la deuxième croisade à Vézelay.
 repere: 1153 — Mort à Clairvaux.
 repere: 1174 — Canonisation.
 oeuvres: Éloge de la nouvelle milice (vers 1130) ; Sermons sur le Cantique des cantiques ; Traité de l'amour de Dieu
-voir: templiers, hugues-de-payns, catharisme, rene-guenon, vezelay, divine-comedie, prophetie-de-saint-malachie
+voir: templiers, hugues-de-payns, catharisme, rene-guenon, vezelay, divine-comedie, prophetie-de-saint-malachie, proces-des-templiers, foret-d-orient
 
 @ francois-rabelais
 cat: figures
@@ -117,7 +118,7 @@ repere: 1905 — *Théozoologie* et premier numéro d'*Ostara*.
 repere: 1907 — Il installe l'Ordre du Nouveau Temple au château de Werfenstein.
 repere: 1954 — Mort à Vienne.
 oeuvres: Théozoologie (1905) ; Ostara (revue, 1905-1917)
-voir: ariosophie, guido-von-list, karl-maria-wiligut, templiers, societe-thule
+voir: ariosophie, guido-von-list, karl-maria-wiligut, templiers, societe-thule, neo-templarisme
 
 @ rudolf-von-sebottendorf
 cat: figures
@@ -149,7 +150,7 @@ repere: 1875 — Il prend la tête de la secte vintrasienne de Lyon.
 repere: 1887 — Guaita et Wirth le déclarent coupable de magie noire.
 repere: 1891 — Il devient le docteur Johannès de *Là-bas*.
 repere: 1893 — Sa mort déclenche les duels de la « guerre des envoûtements ».
-voir: stanislas-de-guaita, joris-karl-huysmans, envoutement, satanisme, papus, la-bas
+voir: stanislas-de-guaita, joris-karl-huysmans, envoutement, satanisme, papus, la-bas, jules-bois, exorcisme
 
 @ albert-poisson
 cat: figures
@@ -185,11 +186,11 @@ voir: paracelse, sorcellerie, alchimie, emblemes, demonologie
 @ louis-pauwels
 cat: figures
 nom: Louis Pauwels
-alias: Pauwels, réalisme fantastique, Planète
+alias: Pauwels, Planète
 dates: 1920 – 1997
 an: 1920
 def: Écrivain et journaliste, ancien disciple de Gurdjieff, coauteur avec Jacques Bergier du Matin des magiciens et fondateur de la revue Planète, qui lança le « réalisme fantastique ».
-texte: Instituteur, puis journaliste et romancier, Louis Pauwels fréquente en 1948 et 1949 les groupes de [[georges-gurdjieff|Gurdjieff]], expérience qu'il raconte dans *Monsieur Gurdjieff* (1954). Avec [[jacques-bergier|Jacques Bergier]], il publie en 1960 *[[matin-des-magiciens|Le Matin des magiciens]]*, qui mêle alchimie, sociétés secrètes, occultisme nazi, civilisations disparues et science de pointe, sous l'étiquette de « réalisme fantastique ».
+texte: Instituteur, puis journaliste et romancier, Louis Pauwels fréquente en 1948 et 1949 les groupes de [[georges-gurdjieff|Gurdjieff]], expérience qu'il raconte dans *Monsieur Gurdjieff* (1954). Avec [[jacques-bergier|Jacques Bergier]], il publie en 1960 *[[matin-des-magiciens|Le Matin des magiciens]]*, qui mêle alchimie, sociétés secrètes, occultisme nazi, civilisations disparues et science de pointe, sous l'étiquette de « [[realisme-fantastique|réalisme fantastique]] ».
 texte: Le livre est un succès mondial ; la revue *Planète* (1961-1971), qu'il fonde dans la foulée, répand dans le grand public l'intérêt pour l'ésotérisme, la parapsychologie et l'insolite. Pauwels dirige ensuite le *Figaro Magazine* à partir de 1978 et se rapproche du catholicisme. Il meurt en 1997.
 repere: 1948 — Il entre dans les groupes de Gurdjieff.
 repere: 1960 — *Le Matin des magiciens*, avec Jacques Bergier.
@@ -197,7 +198,7 @@ repere: 1961 — Fondation de la revue *Planète*.
 repere: 1978 — Il fonde et dirige le *Figaro Magazine*.
 repere: 1997 — Mort à Suresnes.
 oeuvres: Monsieur Gurdjieff (1954) ; Le Matin des magiciens (1960, avec Jacques Bergier)
-voir: matin-des-magiciens, jacques-bergier, georges-gurdjieff, fulcanelli, anciens-astronautes
+voir: matin-des-magiciens, jacques-bergier, georges-gurdjieff, fulcanelli, anciens-astronautes, realisme-fantastique
 
 @ jacques-bergier
 cat: figures
@@ -211,7 +212,8 @@ texte: Après la guerre, il anime la vulgarisation scientifique et fait découvr
 repere: 1912 — Naissance à Odessa.
 repere: 1937 — Il dit avoir été averti par Fulcanelli des dangers de l'atome.
 repere: 1944 — Déporté à Mauthausen.
+repere: 1959 — Il publie « Pour un réalisme fantastique » dans la revue *Fiction*.
 repere: 1960 — *Le Matin des magiciens*.
 repere: 1978 — Mort à Paris.
 oeuvres: Le Matin des magiciens (1960, avec Louis Pauwels) ; Les Livres maudits (1971)
-voir: matin-des-magiciens, louis-pauwels, fulcanelli, anciens-astronautes
+voir: matin-des-magiciens, louis-pauwels, fulcanelli, anciens-astronautes, realisme-fantastique

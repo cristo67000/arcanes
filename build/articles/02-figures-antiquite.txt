@@ -68,7 +68,7 @@ repere: 1889 — [[edouard-schure|Édouard Schuré]] le range parmi les « grand
 repere: 1962 — Découverte du papyrus de Derveni, près de Thessalonique.
 extrait: Vainement Pluton ordonne : // L’Amour n’écoute personne. // Orphée, aux confins du jour, // Vers sa compagne éperdue…. // Il la voit, la perd, la tue, // Et cette fois sans retour ! ¶ Méditez bien cette histoire, // O vous qui briguez la gloire // De guider votre âme aux cieux : // Des yeux sonder le Tartare, // C’est livrer au gouffre avare // Son bien le plus précieux.
 source: Boèce, *La Consolation de la philosophie*, livre III, mètre 12, trad. Louis Judicis de Mirandol, Hachette, 1861 | ws La Consolation de la philosophie/III
-voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose, cerbere, argonautes, dionysos-zagreus, mythe-d-er, de-la-sagesse-des-anciens, samothrace
+voir: orphisme, mysteres-antiques, prisca-theologia, harmonie-des-spheres, metempsycose, cerbere, argonautes, dionysos-zagreus, mythe-d-er, de-la-sagesse-des-anciens, samothrace, stephane-mallarme
 
 @ pythagore
 cat: figures
@@ -378,7 +378,7 @@ texte: L'auteur se présente comme Denys, membre de l'Aréopage d'Athènes conve
 texte: Le corpus comprend quatre traités et dix lettres. *La Hiérarchie céleste* décrit neuf chœurs d'[[anges]] répartis en trois triades : Séraphins, Chérubins et Trônes ; Dominations, Vertus et Puissances ; Principautés, Archanges et Anges. *La Hiérarchie ecclésiastique* lui fait correspondre l'ordre de l'Église. Chaque rang reçoit la lumière divine de celui qui le précède et la transmet au suivant, en trois opérations : purifier, illuminer, parfaire.
 texte: *Les Noms divins* et *La Théologie mystique* fondent la théologie dite négative : Dieu, au-delà de tout ce qu'on peut en dire, se connaît mieux par ce qu'on en nie que par ce qu'on en affirme. L'âme qui s'élève vers lui doit abandonner les images et les concepts pour entrer dans une « ténèbre lumineuse ».
 texte: En Occident, les écrits arrivent par un cadeau diplomatique : en 827, l'empereur byzantin Michel II envoie un manuscrit à Louis le Pieux, qui le dépose à l'abbaye de Saint-Denis. L'abbé Hilduin confond alors l'Aréopagite avec saint Denis, premier évêque de Paris, et le patron de la monarchie franque se trouve ainsi auteur d'une théologie sublime. Traduit par Jean Scot Érigène, commenté par Hugues de Saint-Victor, Albert le Grand et [[thomas-d-aquin|Thomas d'Aquin]], Denys jouit au Moyen Âge d'une autorité presque égale à celle de l'Écriture.
-texte: Abélard, Lorenzo Valla, puis Érasme émettent des doutes ; ils sont confirmés en 1895, quand deux philologues allemands, Hugo Koch et Josef Stiglmayr, montrent chacun de leur côté qu'un passage entier dépend d'un traité de Proclus. Sa [[hierarchies-celestes|hiérarchie angélique]] reste celle de la tradition, de la mystique rhénane et de la [[magie]] savante qui invoque les anges, d'[[cornelius-agrippa|Agrippa]] à [[john-dee]].
+texte: Abélard, Lorenzo Valla, puis Érasme émettent des doutes ; ils sont confirmés en 1895, quand deux philologues allemands, Hugo Koch et Josef Stiglmayr, montrent chacun de leur côté qu'un passage entier dépend d'un traité de Proclus. Sa [[hierarchies-celestes|hiérarchie angélique]] reste celle de la tradition, de la [[maitre-eckhart|mystique rhénane]] et de la [[magie]] savante qui invoque les anges, d'[[cornelius-agrippa|Agrippa]] à [[john-dee]].
 repere: vers 500 — Rédaction du corpus, sans doute en Syrie.
 repere: 532 — Première mention des écrits, lors d'une conférence théologique à Constantinople.
 repere: 827 — L'empereur Michel II envoie un manuscrit des œuvres à Louis le Pieux ; il est déposé à Saint-Denis.
@@ -387,7 +387,7 @@ repere: 1121 — Abélard doute que l'Aréopagite soit le saint Denis de Paris e
 repere: 1457 — Lorenzo Valla conteste qu'il ait été un disciple de saint Paul.
 repere: 1895 — Hugo Koch et Josef Stiglmayr démontrent sa dépendance envers Proclus.
 schema: hierarchies-celestes
-voir: hierarchies-celestes, anges, proclus, neoplatonisme, mystique, art-gothique
+voir: hierarchies-celestes, anges, proclus, neoplatonisme, mystique, art-gothique, maitre-eckhart
 
 @ salomon
 cat: figures
@@ -625,7 +625,7 @@ an: -20
 def: Philosophe juif d'Alexandrie, contemporain de Jésus, qui lut la Bible à la lumière de Platon par l'allégorie et fit du Logos l'intermédiaire entre Dieu et le monde.
 texte: Philon naît vers 20 avant notre ère dans l'une des plus riches familles juives d'Alexandrie : son frère est l'un des grands financiers de l'Orient, et son neveu deviendra préfet d'Égypte. Il reçoit une éducation grecque complète — grammaire, rhétorique, philosophie — et lit la Bible dans sa traduction grecque, la Septante. Il ne fait, semble-t-il, qu'un seul pèlerinage à Jérusalem.
 texte: En 38, de violentes émeutes frappent les Juifs d'Alexandrie. Âgé, Philon conduit à Rome une ambassade auprès de l'empereur Caligula, qui la reçoit avec mépris ; il en a laissé le récit, l'*Ambassade à Gaïus*. Il meurt sans doute peu après 41, sous le règne de Claude.
-texte: Son œuvre immense commente surtout le Pentateuque par la méthode allégorique : derrière la lettre de l'Écriture se cache un sens philosophique. Adam est l'intellect, Ève la sensation, et les patriarches figurent les états de l'âme en marche vers Dieu. [[moise|Moïse]], à ses yeux, est le plus grand des philosophes, et les Grecs, Platon compris, lui auraient emprunté leur sagesse : une idée qui nourrira la [[prisca-theologia]]. Philon décrit aussi les Thérapeutes, communauté d'ascètes, hommes et femmes, vivant près d'Alexandrie dans la contemplation.
+texte: Son œuvre immense commente surtout le Pentateuque par la méthode allégorique : derrière la lettre de l'Écriture se cache un sens philosophique. Adam est l'intellect, Ève la sensation, et les patriarches figurent les états de l'âme en marche vers Dieu. [[moise|Moïse]], à ses yeux, est le plus grand des philosophes, et les Grecs, Platon compris, lui auraient emprunté leur sagesse : une idée qui nourrira la [[prisca-theologia]]. Philon décrit aussi les Thérapeutes, communauté d'ascètes, hommes et femmes, vivant près d'Alexandrie dans la contemplation, et il a laissé les deux plus anciennes notices sur les [[esseniens|Esséniens]] de Judée, qu'il dit plus de quatre mille.
 texte: Dieu, pour Philon, est absolument transcendant et inconnaissable ; il agit sur le monde par des puissances, dont la principale est le [[logos|Logos]], raison divine, « second dieu », image de Dieu et modèle du monde, que le [[demiurge|démiurge]] du *Timée* de [[platon]] annonçait déjà. Ce vocabulaire du Logos et des mystères, où la connaissance de Dieu devient une [[initiation]], fait de lui un précurseur du [[neoplatonisme]] et de la théologie chrétienne.
 texte: Ignoré des rabbins pendant quinze siècles, il a été conservé par les chrétiens : [[clement-d-alexandrie|Clément d'Alexandrie]] et Origène reprennent sa méthode, et une légende fait de lui l'ami de l'apôtre Pierre. L'humaniste juif Azaria de' Rossi le fait redécouvrir aux lecteurs juifs au XVIe siècle. Son allégorie a fourni à l'ésotérisme l'une de ses méthodes fondamentales : chercher sous le texte un sens caché.
 repere: vers 20 av. J.-C. — Naissance à Alexandrie, dans une riche famille juive.
@@ -635,7 +635,7 @@ repere: après 41 — Mort, sans doute à Alexandrie.
 repere: vers 200 — Clément d'Alexandrie, puis Origène, reprennent sa méthode allégorique.
 repere: 1573 — Azaria de' Rossi le fait redécouvrir aux lecteurs juifs.
 oeuvres: La Création du monde ; Allégories des lois ; La Vie contemplative ; Ambassade à Gaïus
-voir: platon, neoplatonisme, prisca-theologia, demiurge, mysteres-antiques, kabbale, logos, mythes-bibliques
+voir: platon, neoplatonisme, prisca-theologia, demiurge, mysteres-antiques, kabbale, logos, mythes-bibliques, esseniens
 
 @ apulee
 cat: figures

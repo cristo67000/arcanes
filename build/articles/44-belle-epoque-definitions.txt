@@ -1,0 +1,335 @@
+# Articles de la version 1.12 : autour d'Emma Calvé et du Paris occultiste de la
+# Belle Époque (Jules Bois, Mallarmé, le Chat noir), deux figures qu'on cite
+# partout (Casanova, Raspoutine), et des définitions qui manquaient : faune,
+# nymphe, mage, agnostique, athéisme, déisme, panthéisme, syncrétisme, hérésie,
+# superstition, charlatan, libertin, prophète, starets, khlysts, exorcisme.
+
+# ── Emma Calvé et les siens ─────────────────────────────────────────────────
+
+@ emma-calve
+cat: figures
+nom: Emma Calvé
+alias: Calvé, Rosa Emma Calvet, la Calvé, Carmen, Sous tous les ciels j'ai chanté
+dates: 1858 – 1942
+an: 1858
+def: Cantatrice française, la plus célèbre Carmen de la Belle Époque, familière des occultistes parisiens, compagne de Jules Bois et disciple de Vivekananda ; la légende de Rennes-le-Château en a fait l'amie de l'abbé Saunière.
+texte: Rosa Emma Calvet naît en 1858 à Decazeville, dans l'Aveyron, et grandit entre l'Espagne et le Rouergue. Formée à Paris, elle débute à la Monnaie de Bruxelles en Marguerite du *[[faust-gounod|Faust]]* de Gounod, puis chante à l'Opéra-Comique, à la Scala, à Covent Garden et, à partir de 1893, au Metropolitan Opera de New York. Massenet écrit pour elle *La Navarraise* (1894) et *Sapho* (1897) ; mais c'est Carmen, qu'elle a étudiée en Espagne auprès des cigarières et des gitanes, qui la rend célèbre dans le monde entier. En 1903, elle est la [[salome|Salomé]] de l'*Hérodiade* de Massenet. Sa voix compte parmi celles que l'on enferme en 1907 dans les urnes de l'[[opera-garnier|Opéra]], pour les générations à venir.
+texte: Curieuse de toutes les doctrines, elle fréquente le Paris de l'[[occultisme]] : on la voit, dit-on, au [[le-chat-noir|Chat noir]], auprès de [[camille-flammarion|Camille Flammarion]] et de [[papus]], qui l'aurait reçue en 1893 dans son [[ordre-martiniste|ordre martiniste]]. Elle vit une longue liaison orageuse avec l'écrivain [[jules-bois|Jules Bois]], historien du satanisme et de la magie. Sa rencontre avec le moine hindou [[vivekananda|Swami Vivekananda]], aux États-Unis, la marque plus durablement : elle voit en lui un saint, voyage avec lui et Jules Bois, en 1900, de Paris à Constantinople et en Égypte, et se rendra plus tard en Inde, au monastère de son ordre.
+texte: En 1894, au faîte de sa gloire, elle achète près de Millau le [[chateau-de-cabrieres|château de Cabrières]], où elle reçoit ses amis et forme de jeunes chanteuses. Elle quitte l'opéra en 1904, donne des concerts jusque dans les années 1920, et meurt presque ruinée, revenue au catholicisme, en janvier 1942 ; elle repose à Millau. Ses souvenirs, *Sous tous les ciels j'ai chanté*, ont paru en 1940.
+texte: Depuis 1967, les livres sur [[rennes-le-chateau|Rennes-le-Château]] font d'elle l'amie, voire la maîtresse, de l'abbé [[berenger-sauniere|Bérenger Saunière]], qu'elle aurait connu à Paris parmi les occultistes et revu dans l'Aude. Le récit vient de [[gerard-de-sede|Gérard de Sède]] ; aucune lettre, aucun témoignage ne l'appuie.
+repere: 1858 — Naissance à Decazeville, le 15 août.
+repere: 1893 — Débuts au Metropolitan Opera de New York.
+repere: 1894 — Création de *La Navarraise* à Londres ; achat du château de Cabrières.
+repere: 1900 — Voyage en Orient avec Vivekananda et Jules Bois.
+repere: 1904 — Elle quitte la scène d'opéra.
+repere: 1940 — *Sous tous les ciels j'ai chanté*, ses souvenirs.
+repere: 1942 — Mort le 6 janvier ; inhumation à Millau.
+oeuvres: My Life (1922) ; Sous tous les ciels j'ai chanté (1940)
+attention: La liaison d'Emma Calvé et de l'abbé Saunière appartient à la légende de Rennes-le-Château : elle apparaît en 1967 et n'a jamais été documentée. Sa liaison avec Jules Bois et son attachement à Vivekananda, eux, sont attestés.
+voir: jules-bois, chateau-de-cabrieres, papus, ordre-martiniste, le-chat-noir, berenger-sauniere, rennes-le-chateau, occultisme, camille-flammarion, vivekananda
+
+@ chateau-de-cabrieres
+cat: lieux
+nom: Château de Cabrières
+alias: Cabrières, château d'Emma Calvé, Compeyre
+lieu: Compeyre, Aveyron, Occitanie, France
+geo: 44.1836, 3.0835
+def: Château médiéval du Rouergue, au nord de Millau, qu'Emma Calvé acheta en 1894 et restaura pour y vivre et y enseigner le chant ; les récits sur Rennes-le-Château en ont fait un rendez-vous d'occultistes.
+texte: Le château se dresse au-dessus du vallon du Lumensonesque, sur la commune de Compeyre, à quelques kilomètres de Millau. Ses origines remontent au XIe siècle ; le logis et ses tours, repris au XVe siècle, ont traversé la guerre de Cent Ans et les guerres de Religion, et passé entre les mains d'une suite de familles du pays.
+texte: [[emma-calve|Emma Calvé]], qui avait grandi dans la région, l'achète en 1894 à la famille Buscarlet et le fait restaurer l'année suivante : elle couvre les tours, ouvre des fenêtres à meneaux, dessine un parc et des terrasses. Elle y passe ses étés entre deux tournées, y accueille de jeunes chanteuses qu'elle forme, et y reçoit ses amis de Paris, au temps de sa liaison avec l'écrivain [[jules-bois|Jules Bois]]. Le graveur rouergat Eugène Viala a laissé du château une eau-forte de 1898. Elle le revendit en 1929 à Victor Guibert, gantier de Millau, dont les héritiers l'ont gardé jusqu'en 1987.
+texte: La légende a fait le reste. On raconte que les amis de la cantatrice y faisaient [[tables-tournantes|tourner les tables]] ; les livres consacrés à [[rennes-le-chateau|Rennes-le-Château]] font de sa propriétaire l'amie de l'abbé [[berenger-sauniere|Saunière]], et l'on prête au lieu des fantômes. Rien de tout cela ne repose sur un document : Cabrières doit sa réputation à l'[[occultisme]] que cultivait sa propriétaire, non à son histoire. Le château, restauré à la fin du XXe siècle, est une propriété privée.
+repere: XIe siècle — Premières mentions de Cabrières.
+repere: 1894 — Emma Calvé achète le château.
+repere: 1895 — Restauration du logis et des tours.
+repere: 1898 — Eugène Viala grave le château à l'eau-forte.
+repere: 1929 — Emma Calvé revend le château à Victor Guibert, gantier de Millau.
+voir: emma-calve, jules-bois, rennes-le-chateau, berenger-sauniere, occultisme, sainte-eulalie-de-cernon
+
+@ jules-bois
+cat: figures
+nom: Jules Bois
+alias: Bois, Le Satanisme et la Magie, Les Petites Religions de Paris, Les Noces de Sathan, Le Monde invisible
+dates: 1868 – 1943
+an: 1868
+def: Écrivain et journaliste français, chroniqueur du Paris occultiste de la fin du XIXe siècle, auteur du *Satanisme et la Magie*, ami de Huysmans, compagnon d'Emma Calvé, qui se battit en duel contre Guaita et contre Papus.
+texte: Né à Marseille en 1868, Jules Bois monte à Paris à vingt ans, où il est le secrétaire de Catulle Mendès. Poète et dramaturge du [[symbolisme]], il fait jouer en 1892 *Les Noces de Sathan*, « drame ésotérique », et fonde l'année suivante, avec le comte Antoine de La Rochefoucauld, la revue *Le Cœur*. Il enquête en reporter sur les cultes marginaux de la capitale, des swedenborgiens aux lucifériens, sans oublier des « [[esseniens|esséniens]] » qui tiennent Jeanne d'Arc pour un second Messie : ce sont *Les Petites Religions de Paris* (1894).
+texte: Ami de [[joris-karl-huysmans|Huysmans]], il prend comme lui le parti de l'abbé [[joseph-antoine-boullan|Boullan]]. Quand celui-ci meurt, en janvier 1893, Bois accuse dans la presse [[stanislas-de-guaita|Stanislas de Guaita]] et les rose-croix de l'avoir tué par [[envoutement]] : il en sort deux duels, au pistolet contre Guaita, à l'épée contre [[papus]], dont nul ne meurt. *Le Satanisme et la Magie* (1895), préfacé par Huysmans, décrit le sorcier, le [[mage]], le [[sabbat]] et la [[messe-noire|messe noire]].
+texte: Il se lie avec [[samuel-liddell-mathers|Mathers]], le chef de la [[golden-dawn|Golden Dawn]] installé à Paris, qu'il pousse en 1899 à donner en public, au théâtre de la Bodinière, ses « rites d'Isis ». Compagnon d'[[emma-calve|Emma Calvé]] pendant des années, il accueille avec elle [[vivekananda|Swami Vivekananda]] à Paris en 1900, l'accompagne en Orient et en rapporte *Visions de l'Inde* (1903). *L'Ève nouvelle* (1896) plaide pour l'émancipation des femmes. Ses derniers livres, *Le Monde invisible* (1902) et *Le Miracle moderne* (1907), passent de l'occultisme à la [[metapsychique|métapsychique]] : il y cherche dans l'inconscient ce qu'il attribuait aux esprits. Revenu au catholicisme, envoyé en mission en Espagne puis aux États-Unis pendant la Grande Guerre, il meurt à New York en 1943.
+repere: 1868 — Naissance à Marseille, le 28 septembre.
+repere: 1892 — *Les Noces de Sathan* au Théâtre d'art.
+repere: 1893 — Duels avec Stanislas de Guaita et avec Papus, après la mort de l'abbé Boullan.
+repere: 1894 — *Les Petites Religions de Paris*.
+repere: 1895 — *Le Satanisme et la Magie*, préfacé par Huysmans.
+repere: 1900 — Voyage en Orient avec Vivekananda et Emma Calvé.
+repere: 1943 — Mort à New York, le 2 juillet.
+oeuvres: Les Noces de Sathan (1892) ; Les Petites Religions de Paris (1894) ; Le Satanisme et la Magie (1895) ; L'Ève nouvelle (1896) ; Le Monde invisible (1902) ; Visions de l'Inde (1903) ; Le Miracle moderne (1907)
+extrait: Il y a eu et il y a des sorcières, il n’a pas encore existé de « magesse ». Hypathie n’était qu’une philosophe, Sémiramis une reine somptueuse et chimérique, Hélène une courtisane en extase, les druidesses de l’île de Sein restent obscures, la reine de Saba recule dans la légende. (…) La femme parfaite et omnipotente gît dans l’avenir, inéclose ; mais cet avenir lui appartient de par cette raison, qu’ayant souffert et étant dédaignée, elle amassa de quoi devenir victorieuse, que l’ostracisme du passé, les luttes du présent lui tissent un nimbe de sang et de flamme.
+source: Jules Bois, *Le Satanisme et la Magie*, 1895, livre I, chap. IV, « Le Mage » | ws Le Satanisme et la magie/Livre I/Chapitre IV
+voir: emma-calve, joris-karl-huysmans, joseph-antoine-boullan, stanislas-de-guaita, papus, satanisme, la-bas, samuel-liddell-mathers, mage, occultisme, chateau-de-cabrieres, vivekananda
+
+# ── Le Paris des poètes ─────────────────────────────────────────────────────
+
+@ stephane-mallarme
+cat: figures
+nom: Stéphane Mallarmé
+alias: Mallarmé, Étienne Mallarmé, L'Après-midi d'un faune, Hérodiade, Igitur, Un coup de dés, Divagations, le Livre, mardis de la rue de Rome
+dates: 1842 – 1898
+an: 1842
+def: Poète français, maître du symbolisme, qui rêva d'un Livre unique, « explication orphique de la Terre », et compara son travail à la patience de l'alchimiste et le vers à une incantation.
+texte: Né à Paris en 1842, Étienne Mallarmé, dit Stéphane, apprend l'anglais « simplement pour mieux lire Poe » et l'enseigne toute sa vie, à Tournon, Besançon, Avignon puis Paris. La découverte de [[charles-baudelaire|Baudelaire]], puis une longue crise, à partir de 1866, où il dit avoir rencontré le Néant, le conduisent à une poésie qui ne nomme pas les choses mais les suggère. *Hérodiade*, *L'Après-midi d'un faune* (1876), églogue d'un [[faune]] rêveur dont [[claude-debussy|Debussy]] tirera son *Prélude*, les sonnets, puis *Un coup de dés jamais n'abolira le hasard* (1897), dispersé sur la page comme une constellation, en sont les étapes. À partir des années 1880, ses « mardis » de la rue de Rome réunissent Villiers de l'Isle-Adam, [[joris-karl-huysmans|Huysmans]], [[odilon-redon|Redon]], Debussy, Valéry : le [[symbolisme]] y reconnaît son maître. Il traduit *[[corbeau|Le Corbeau]]* et les poèmes d'[[edgar-allan-poe|Edgar Poe]], et réédite le *[[vathek|Vathek]]* de Beckford. Il meurt à Valvins, près de Fontainebleau, en 1898.
+texte: Mallarmé n'appartint à aucune école occultiste, mais il a pensé la poésie dans les mots de l'[[alchimie]] et de la [[magie]]. Dans la lettre autobiographique qu'il adresse à Verlaine en 1885, il dit avoir travaillé « avec une patience d'alchimiste » à un seul ouvrage, le Livre, « architectural et prémédité », qui serait « l'explication orphique de la Terre » : le poète y reprend la tâche d'[[orphee|Orphée]]. Le Livre n'a jamais été écrit ; il en reste des notes, publiées en 1957. En 1893, rendant compte de *[[la-bas|Là-bas]]* de Huysmans, il écrit qu'il existe entre les vieux procédés du [[grand-oeuvre|Grand Œuvre]] et la poésie « une parité secrète », et que le vers est un « trait incantatoire » ; mais il condamne qui voudrait réaliser cette magie hors du poème. Le conte inachevé *Igitur*, veillée de minuit entre un grimoire et un coup de dés, a été publié en 1925.
+texte: Les occultistes de son temps l'ont lu comme l'un des leurs, et l'on a cherché dans ses vers la [[kabbale]] ou l'hermétisme. L'adjectif « hermétique », qu'on lui applique depuis toujours, ne désigne pourtant chez lui que la difficulté d'une langue resserrée : son obscurité est un art de la suggestion, non le chiffre d'une doctrine.
+repere: 1842 — Naissance à Paris, le 18 mars.
+repere: 1866 — Crise de Tournon et de Besançon : la découverte du Néant.
+repere: 1875 — Traduction du *Corbeau* de Poe, illustrée par Manet.
+repere: 1876 — *L'Après-midi d'un faune*.
+repere: 1884 — *À rebours* de Huysmans le fait connaître.
+repere: 1885 — Lettre autobiographique à Verlaine : le Livre, « explication orphique de la Terre ».
+repere: 1893 — « Magie », article sur *Là-bas*.
+repere: 1897 — *Divagations* ; *Un coup de dés jamais n'abolira le hasard*.
+repere: 1898 — Mort à Valvins, le 9 septembre.
+oeuvres: L'Après-midi d'un faune (1876) ; Poésies (1887) ; Les Poèmes d'Edgar Poe (1888) ; Divagations (1897) ; Un coup de dés jamais n'abolira le hasard (1897) ; Igitur (1925)
+extrait: (…) j’ai toujours rêvé et tenté autre chose, avec une patience d’alchimiste, prêt à y sacrifier toute vanité et toute satisfaction, comme on brûlait jadis son mobilier et les poutres de son toit, pour alimenter le fourneau du Grand Œuvre. Quoi ? c’est difficile à dire : un livre, tout bonnement, en maints tomes, un livre qui soit un livre, architectural et prémédité, et non un recueil des inspirations de hasard, fussent-elles merveilleuses… J’irai plus loin, je dirai : le Livre, persuadé qu’au fond il n’y en a qu’un, tenté à son insu par quiconque a écrit, même les Génies. L’explication orphique de la Terre, qui est le seul devoir du poète et le jeu littéraire par excellence : car le rythme même du livre, alors impersonnel et vivant, jusque dans sa pagination, se juxtapose aux équations de ce rêve, ou Ode.
+source: Stéphane Mallarmé, lettre à Paul Verlaine du 16 novembre 1885, dite *Autobiographie* | ws Autobiographie (Stéphane Mallarmé)
+extrait: Je dis qu’existe entre les vieux procédés et le sortilège, que restera la poésie, une parité secrète ; je l’énonce ici et peut-être personnellement me suis-je complu à le marquer, par des essais, dans une mesure qui a outrepassé l’aptitude à en jouir consentie par mes contemporains. Évoquer, dans une ombre exprès, l’objet tu, par des mots allusifs, jamais directs, se réduisant à du silence égal, comporte tentative proche de créer (…). Le vers, trait incantatoire ! et, on ne déniera au cercle que perpétuellement ferme, ouvre la rime une similitude avec les ronds, parmi l’herbe, de la fée ou du magicien.
+source: Stéphane Mallarmé, « Magie », 1893, recueilli dans *Divagations*, Fasquelle, 1897 | ws Divagations (1897)/Magie
+voir: symbolisme, faune, claude-debussy, edgar-allan-poe, a-rebours, la-bas, orphee, orphisme, alchimie, charles-baudelaire, arthur-rimbaud, axel
+
+@ le-chat-noir
+cat: lieux
+nom: Le Chat noir
+alias: cabaret du Chat noir, Chat-Noir, Rodolphe Salis, théâtre d'ombres, Tournée du Chat noir, Montmartre
+lieu: Montmartre, Paris, Île-de-France, France
+geo: 48.8836, 2.3341
+def: Cabaret de Montmartre fondé en 1881 par Rodolphe Salis, rendez-vous des poètes, des peintres et des musiciens de la fin du siècle, célèbre pour son théâtre d'ombres ; une légende tardive en fait un cénacle hermétique.
+texte: Rodolphe Salis, peintre sans succès venu de Châtellerault, ouvre à la fin de 1881, au 84 boulevard de Rochechouart, un cabaret « du plus pur style Louis XIII », où il convie les poètes du club des Hydropathes d'Émile Goudeau. On y boit, on y dit des vers, on y chante — Salis y fait installer un piano, nouveauté dans un cabaret —, et le patron, « gentilhomme-cabaretier », y harangue les clients. Une revue du même nom paraît de 1882 à 1897. En 1885, le succès fait déménager le Chat noir au 12 de la rue de Laval, aujourd'hui rue Victor-Massé, dans un hôtel de trois étages au décor de bric-à-brac médiéval : vitraux de Willette, lanternes de Grasset, enseigne du chat sur un croissant de lune. Le cabaret ferme après la mort de Salis, en 1897 ; un caveau du Chat noir a rouvert en 1907 boulevard de Clichy.
+texte: On y croise Verlaine, Charles Cros, Maurice Rollinat, Alphonse Allais, Aristide Bruant, Léon Bloy, Jean Lorrain ; [[erik-satie|Erik Satie]] y tient le piano, [[claude-debussy|Debussy]] y passe. Le peintre Henri Rivière y crée en 1886 un théâtre d'ombres : des silhouettes de zinc glissent derrière un écran éclairé, sur des verres de couleur, comme les ombres de la [[allegorie-de-la-caverne|caverne]] de Platon devenues spectacle. On y donne *L'Épopée* de Caran d'Ache, *[[la-tentation-de-saint-antoine|La Tentation de saint Antoine]]* (1887), d'après Flaubert, *La Marche à l'étoile* (1890), où bergers et [[rois-mages|rois mages]] cheminent vers Bethléem, *Le Sphinx* (1896). L'affiche de Steinlen pour la « Tournée du Chat noir », en 1896, avec son chat à l'auréole, est devenue l'image même de Montmartre.
+texte: Le nom vient, selon Salis, d'un chat perdu recueilli pendant les travaux ; on l'a aussi rapproché du conte d'[[edgar-allan-poe|Edgar Poe]], et le [[chat]] noir est depuis longtemps l'animal des sorcières. L'époque mêlait volontiers la bohème et l'[[occultisme]] : les habitués du cabaret fréquentaient aussi les salons où l'on croisait [[papus]], [[jules-bois|Jules Bois]] ou [[emma-calve|Emma Calvé]]. Mais l'idée que le Chat noir ait été un centre initiatique, dont le décor cacherait un enseignement hermétique, est tardive : elle s'est répandue au XXe siècle parmi les lecteurs de [[fulcanelli]], et Richard Khaitzine l'a développée en 1997 dans *Fulcanelli et le cabaret du Chat-Noir*. Elle ne s'appuie sur aucun témoignage du temps. Goudeau, lui, décrit en 1888 la tête de chat du comptoir, « entourée de rayons dorés, comme on en voit dans les églises autour du triangle symbolique » : une parodie, non un culte.
+repere: 1881 — Ouverture boulevard de Rochechouart.
+repere: 1882 — Premier numéro de la revue *Le Chat noir*.
+repere: 1885 — Installation rue de Laval.
+repere: 1886 — Henri Rivière crée le théâtre d'ombres.
+repere: 1896 — Affiche de Steinlen pour la tournée du cabaret.
+repere: 1897 — Mort de Rodolphe Salis ; fin du cabaret.
+extrait: En ce temps-là, on commençait à peine à ouvrir des cabarets moyen âge, Renaissance ou Louis XIII. (…) Salis songea à réintroduire le tumulte, la folie haute, et la chanson bardée de fer dans nos mœurs édulcorées. De plus, sachant bien que tous les arts sont frères, il se demanda pourquoi les littérateurs ne viendraient pas s’adjoindre aux peintres, pour leur prêter quelques syllabes volantes, peut-être ornées de rimes sonores. ¶ — Je serai gentilhomme-cabaretier, se dit Salis, peintre encore, mais littérateur aussi et chansonnier. À moi l’avenir ! ¶ Et le Chat noir était fondé. (…) ¶ Sur un coin du comptoir, un buste, la Femme inconnue, du Louvre, et, au-dessus, une énorme tête de chat, entourée de rayons dorés, comme on en voit dans les églises autour du triangle symbolique.
+source: Émile Goudeau, *Dix ans de bohème*, 1888, chap. XI | ws Dix ans de bohème/11
+voir: erik-satie, claude-debussy, chat, symbolisme, paris, emma-calve, jules-bois, fulcanelli
+
+# ── Deux aventuriers ────────────────────────────────────────────────────────
+
+@ casanova
+cat: figures
+nom: Giacomo Casanova
+alias: Casanova, chevalier de Seingalt, Jacques Casanova de Seingalt, Histoire de ma vie, Mémoires de Casanova, Icosaméron, Paralis, marquise d'Urfé
+dates: 1725 – 1798
+an: 1725
+def: Aventurier et écrivain vénitien, franc-maçon, qui se fit passer pour kabbaliste et rose-croix auprès de patriciens et de la marquise d'Urfé, croisa Saint-Germain et Cagliostro, et raconta tout dans l'*Histoire de ma vie*.
+texte: Fils de comédiens, né à [[venise|Venise]] en 1725, Giacomo Casanova est tour à tour abbé, soldat, violoniste, joueur, financier, espion et bibliothécaire. En 1746, il secourt le sénateur Bragadin frappé d'apoplexie et le persuade qu'il possède une [[kabbale]] : une « pyramide » de nombres tirés des lettres d'une question, d'où il fait sortir des réponses en vers, dictées, dit-il, par son génie Paralis. Bragadin l'adopte. Reçu [[franc-maconnerie|franc-maçon]] à [[lyon|Lyon]] en 1750, il est arrêté à Venise le 26 juillet 1755 : les inquisiteurs lui reprochent son irréligion, et l'on saisit chez lui, raconte-t-il, des livres de magie, dont la *[[clavicule-de-salomon|Clavicule de Salomon]]* et un *[[picatrix|Picatrix]]*. Enfermé sous les Plombs, la prison des combles du palais ducal, il s'en évade dans la nuit du 31 octobre 1756.
+texte: À Paris, où il organise une loterie pour l'École militaire, il rencontre en 1757 la marquise d'Urfé, riche veuve passionnée d'[[alchimie]], qui possède un laboratoire et des manuscrits chiffrés. Il gagne sa confiance en déchiffrant l'un d'eux, se donne pour un adepte de la [[rose-croix|Rose-Croix]] et lui promet, pendant six ans, de la faire renaître dans le corps d'un garçon par une opération de [[palingenesie|régénération]] réglée sur les [[heures-planetaires|heures planétaires]] : il lui soutire une fortune. Il soupe chez elle avec le [[comte-de-saint-germain|comte de Saint-Germain]], qu'il admire et jalouse, et croise [[cagliostro]] à Aix-en-Provence en 1769. À partir de 1760, il se fait appeler chevalier de Seingalt, nom qu'il s'est donné lui-même.
+texte: Casanova ne croyait pas à ses prodiges : il les raconte en joueur, avec un mélange de cynisme et de remords, et son récit est l'un des meilleurs documents sur la crédulité des Lumières, le goût des grands pour les secrets et le métier de [[charlatan]]. Il n'en reste pas moins maçon fidèle, [[libertin]] au double sens du mot, et lecteur de tout ce qui touche aux sciences occultes. Dans le *Soliloque d'un penseur* (1786), il s'en prend à Cagliostro et à Saint-Germain, ses rivaux. Bibliothécaire du comte de Waldstein à Dux, en Bohême, à partir de 1785, il y publie l'*Icosaméron* (1788), roman d'un monde habité au centre de la Terre, et y écrit en français l'*Histoire de ma vie*. Il meurt en 1798 ; ses Mémoires, d'abord remaniés par leurs éditeurs, n'ont paru dans leur texte qu'en 1960, et la Bibliothèque nationale de France en a acquis le manuscrit en 2010.
+repere: 1725 — Naissance à Venise, le 2 avril.
+repere: 1746 — Il gagne la protection du sénateur Bragadin par sa « kabbale ».
+repere: 1750 — Reçu franc-maçon à Lyon.
+repere: 1755 — Arrêté à Venise, il est enfermé sous les Plombs.
+repere: 1756 — Évasion, dans la nuit du 31 octobre.
+repere: 1757 — Rencontre de la marquise d'Urfé à Paris.
+repere: 1769 — Il croise Cagliostro à Aix-en-Provence.
+repere: 1785 — Bibliothécaire du comte de Waldstein à Dux, en Bohême.
+repere: 1788 — *Icosaméron*.
+repere: 1798 — Mort à Dux, le 4 juin.
+oeuvres: Soliloque d'un penseur (1786) ; Histoire de ma fuite des prisons de la République de Venise (1787) ; Icosaméron (1788) ; Histoire de ma vie (écrite de 1789 à 1798)
+extrait: Ce fut à Lyon qu’un respectable personnage, dont je fis la connaissance chez M. de Rochebaron, me procura la grâce d’être admis à participer aux sublimes bagatelles de la franc-maçonnerie. Arrivé apprenti à Paris, quelques mois après, j’y devins compagnon et maître. La maîtrise est certainement le suprême grade de la franc-maçonnerie ; car tous les autres, que dans la suite on m’a fait prendre, ne sont que des inventions agréables qui, bien que symboliques, n’ajoutent rien à la dignité de maître. (…) ¶ Les hommes qui ne se font recevoir francs-maçons que dans l’intention de parvenir à connaître le secret de l’ordre, courent grand risque de vieillir sous la truelle sans jamais atteindre leur but. Il y a cependant un secret, mais il est tellement inviolable qu’il n’a jamais été dit ou confié à personne. Ceux qui s’arrêtent à la superficie des choses pensent que le secret consiste en mots, signes et attouchements, ou qu’enfin le grand mot est au dernier degré. Erreur. Celui qui devine le secret de la franc-maçonnerie, car on ne le sait jamais qu’en le devinant, ne parvient à cette connaissance qu’à force de fréquenter les loges, qu’à force de réfléchir, de raisonner, de comparer et de déduire. Il ne le confie pas à son meilleur ami en maçonnerie, car il sait que s’il ne l’a pas deviné comme lui, il n’aura pas le talent d’en tirer parti dès qu’il le lui aura dit à l’oreille. Il se tait, et ce secret est toujours secret.
+source: Giacomo Casanova, *Mémoires de J. Casanova de Seingalt, écrits par lui-même*, Garnier frères, vers 1880, t. II, chap. XIII | ia mmoires02casa
+voir: venise, franc-maconnerie, secret-maconnique, kabbale, comte-de-saint-germain, cagliostro, charlatan, libertin, alchimie, numerologie, cryptographie
+
+@ raspoutine
+cat: figures
+nom: Raspoutine
+alias: Grigori Raspoutine, Grigori Efimovitch Raspoutine, Rasputin, le starets, l'homme de Dieu
+dates: 1869 – 1916
+an: 1869
+def: Paysan sibérien devenu pèlerin et guérisseur par la prière, admis auprès du dernier tsar parce qu'il soulageait le tsarévitch hémophile ; haï de la cour, il fut assassiné en 1916, et sa légende n'a cessé de grandir.
+texte: Grigori Efimovitch Raspoutine naît en 1869 à Pokrovskoïé, village de Sibérie occidentale, dans une famille de paysans. Marié, père de famille, il traverse dans les années 1890 une crise religieuse, séjourne au monastère de Verkhotourié, renonce à l'alcool et à la viande et se fait *strannik*, pèlerin errant, allant à pied de sanctuaire en sanctuaire. Sa parole simple et son regard frappent ; on le dit [[starets]], bien qu'il ne soit ni moine ni prêtre. Ses ennemis l'accusent d'appartenir à la secte des [[khlysts]] : les enquêtes de l'Église ne l'ont jamais établi.
+texte: Introduit à Saint-Pétersbourg auprès de prélats, puis des grandes-duchesses monténégrines Militza et Anastasia, celles-là mêmes qui avaient présenté [[maitre-philippe|Maître Philippe]] au couple impérial, il rencontre Nicolas II le 1er novembre 1905 : « un homme de Dieu, Grigori, du gouvernement de Tobolsk », note le tsar. À partir de 1907, on l'appelle au chevet du tsarévitch Alexis, hémophile ; il prie, apaise, demande qu'on laisse l'enfant en repos, et les crises cèdent. En 1912, un télégramme envoyé de Sibérie coïncide avec la rémission d'une hémorragie que les médecins jugeaient mortelle. L'impératrice Alexandra voit dès lors en lui le protecteur de son fils et de la dynastie. Les médecins expliquent aujourd'hui ces améliorations par le calme rendu à l'enfant et à sa mère, et par l'arrêt de l'aspirine, que l'on prescrivait alors et qui aggrave les saignements.
+texte: Sa familiarité avec les souverains, ses beuveries et ses aventures, réelles ou prêtées, font scandale ; la presse et la Douma le dénoncent, et pendant la guerre, quand le tsar est au front, on lui impute les nominations de ministres et jusqu'à la trahison. Les historiens tiennent son pouvoir pour bien moindre que sa légende : il fut le bouc émissaire d'un régime qui se défaisait. Blessé d'un coup de poignard en 1914, il est assassiné dans la nuit du 29 au 30 décembre 1916, au palais Ioussoupov de Pétrograd, par le prince Félix Ioussoupov, le député Pourichkevitch et le grand-duc Dimitri. Le récit des meurtriers — gâteaux au cyanure sans effet, balles qui ne le tuent pas, noyade sous la glace — a fait de lui un être surnaturel ; l'autopsie n'a trouvé ni poison ni eau dans les poumons, mais trois balles, dont une tirée dans le front. Moins de trois mois plus tard, la monarchie tombait.
+texte: Les occultistes l'ont rangé parmi les [[thaumaturge|thaumaturges]], à la suite de Maître Philippe et de [[papus]], reçus avant lui à la cour ; on lui a prêté un pouvoir d'[[hypnose]], et la prophétie qu'après sa mort les Romanov ne régneraient plus. L'ambassadeur de France, Maurice Paléologue, a laissé de lui un portrait hostile et fasciné, où entre beaucoup de la rumeur de Pétrograd.
+repere: 1869 — Naissance à Pokrovskoïé, en Sibérie, le 21 janvier.
+repere: 1905 — Première rencontre avec Nicolas II, le 1er novembre.
+repere: 1907 — Appelé auprès du tsarévitch Alexis, hémophile.
+repere: 1912 — Crise de Spała : son télégramme coïncide avec la rémission de l'enfant.
+repere: 1914 — Une femme le poignarde à Pokrovskoïé ; il survit.
+repere: 1916 — Assassiné à Pétrograd dans la nuit du 29 au 30 décembre.
+extrait: Dès son entrée au Palais, Raspoutine prit sur les souverains un extraordinaire ascendant. Il les endoctrina, les éblouit, les subjugua : ce fut comme un ensorcellement. Non pas qu’il les flattât. Au contraire. Du premier jour, il les traita durement, avec une familiarité audacieuse et primesautière, une faconde triviale et colorée, où les deux monarques, rassasiés d’adulations, saturés de flagorneries, crurent reconnaître enfin « la voix de la terre russe. » Devenu très vite l’ami de Mme Wyroubow, qui est l’inséparable compagne de l’Impératrice, il disposa, par elle, d’une influence considérable.
+source: Maurice Paléologue, *La Russie des Tsars pendant la Grande Guerre*, III, « Raspoutine », Revue des Deux Mondes, 1921 | ws La Russie des Tsars pendant la Grande Guerre/03
+attention: La mort « impossible » de Raspoutine vient des Mémoires de ses assassins. L'autopsie de 1916 conclut à une mort par balles, sans poison ni noyade. Son appartenance aux khlysts, souvent affirmée, n'a jamais été prouvée.
+voir: starets, khlysts, maitre-philippe, papus, thaumaturge, hypnose, mystique, prophete
+
+# ── Définitions : êtres de la fable ─────────────────────────────────────────
+
+@ faune
+cat: bestiaire
+nom: Faune
+alias: faunes, Faunus, Fauna, faunesse, satyre, satyres, sylvain, silvain, Lupercales, L'Après-midi d'un faune
+def: Dans la religion romaine, génie des bois et des champs, mi-homme mi-bouc, issu du dieu Faunus et confondu avec le satyre grec ; les démonologues en ont fait un incube, les poètes et les musiciens l'image du désir et du songe.
+texte: Faunus est l'un des plus vieux dieux du Latium : protecteur des troupeaux, fêté aux Lupercales du 15 février, il rend aussi des oracles, par des voix dans les bois ou par des songes envoyés à ceux qui dorment sur la peau des bêtes sacrifiées — ainsi fait le roi Latinus dans l'*Énéide*. Les Romains l'ont assimilé à [[pan|Pan]], et multiplié en faunes, comme les Grecs avaient leurs satyres, compagnons de Dionysos : des êtres aux oreilles pointues, aux cornes et aux pieds de bouc, rieurs, buveurs, poursuivant les [[nymphe|nymphes]].
+texte: Les Pères de l'Église n'ont pas nié ces esprits des bois : ils en ont fait des démons. Saint Augustin rapporte que les Silvains et les Faunes, que le peuple appelle incubes, tourmentent les femmes ; les démonologues s'en souviendront, et le faune prête au diable, comme Pan, ses cornes et son pied fourchu (voir [[incube-et-succube]]). Pour [[paracelse|Paracelse]] et ses lecteurs, il rejoint au contraire le peuple des [[elementaux|esprits élémentaires]].
+texte: Les sculpteurs antiques l'ont montré dansant ou endormi, comme le Faune Barberini. Le XIXe siècle en fait une figure du rêve. Dans *L'Après-midi d'un faune* de [[stephane-mallarme|Mallarmé]] (1876), un faune s'éveille et ne sait plus s'il a possédé deux nymphes ou s'il les a rêvées. [[claude-debussy|Debussy]] en tire en 1894 son *Prélude à l'après-midi d'un faune*, ouvert par un solo de flûte, et Nijinski le danse en 1912 pour les Ballets russes, dans un décor de Bakst, en un ballet qui fit scandale.
+extrait: Ces nymphes, je les veux perpétuer. // Si clair, // Leur incarnat léger, qu’il voltige dans l’air // Assoupi de sommeils touffus. // Aimai-je un rêve ? // Mon doute, amas de nuit ancienne, s’achève // En maint rameau subtil, qui, demeuré les vrais // Bois mêmes, prouve, hélas ! que bien seul je m’offrais // Pour triomphe la faute idéale de roses — // Réfléchissons… // ou si les femmes dont tu gloses // Figurent un souhait de tes sens fabuleux !
+source: Stéphane Mallarmé, *L’Après-Midi d’un faune*, Alphonse Derenne, 1876 | ws L’Après-Midi d’un faune/Édition 1876
+attention: Le faune est romain, le satyre grec ; Pan est un dieu, non une espèce. La « faune » d'une région, l'ensemble de ses animaux, doit son nom à Fauna, la compagne de Faunus : c'est Linné qui l'a ainsi nommée, en 1746.
+voir: pan, nymphe, incube-et-succube, stephane-mallarme, claude-debussy, centaure, elementaux, oniromancie
+
+@ nymphe
+cat: bestiaire
+nom: Nymphe
+alias: nymphes, naïade, naïades, dryade, dryades, hamadryade, oréade, néréide, néréides, nymphée, ondine
+def: Dans la mythologie grecque, divinité féminine des sources, des arbres, des grottes et des montagnes ; les néoplatoniciens ont vu en elles les âmes qui descendent dans la matière, Paracelse les esprits de l'eau.
+texte: Le grec *nymphê* désigne la jeune fille en âge d'être mariée. Les nymphes sont les filles de Zeus ou des fleuves : naïades des eaux douces, néréides de la mer, oréades des montagnes, dryades et hamadryades des arbres, celles-ci mourant avec leur chêne. Ni tout à fait mortelles ni immortelles, elles élèvent les dieux enfants, suivent Artémis, fuient [[pan|Pan]] et les [[faune|faunes]], et enlèvent parfois les mortels qu'elles aiment, comme Hylas. On les honore dans des grottes et auprès des sources, les nymphées ; celui qu'elles saisissent, le « nympholepte », prophétise.
+texte: Dans l'*Odyssée*, Ulysse aborde à Ithaque près d'une grotte consacrée aux nymphes ; [[porphyre|Porphyre]], au IIIe siècle, y lit l'image du monde où les âmes, nymphes des eaux, viennent tisser leur corps (voir [[antre-des-nymphes]]). À la Renaissance, [[paracelse|Paracelse]] donne le nom de nymphes, ou d'ondines, aux esprits de l'eau, à côté des sylphes de l'air, des gnomes de la terre et des salamandres du feu : ce sont les [[elementaux|esprits élémentaires]], que *[[le-comte-de-gabalis|Le Comte de Gabalis]]* rendra populaires. La [[sirene|sirène]] et [[melusine|Mélusine]] sont leurs parentes.
+texte: Les naturalistes ont repris le mot pour l'insecte entre la larve et l'adulte, autre image de métamorphose (voir [[papillon]]).
+voir: faune, pan, antre-des-nymphes, elementaux, sirene, melusine, porphyre, paracelse
+
+# ── Définitions : ceux qui savent et ceux qui croient ───────────────────────
+
+@ mage
+cat: notions
+nom: Mage
+alias: mages, magus, magi, magicien, magiciens, enchanteur, Sâr, Comment on devient mage
+def: À l'origine, prêtre de la Perse ancienne, interprète des songes et des astres ; puis, chez les Grecs, le praticien de la magie ; chez les occultistes, le sage qui commande aux forces invisibles.
+texte: Hérodote nomme mages une tribu des Mèdes, d'où sortaient les prêtres de la Perse : ils sacrifient, interprètent les songes et observent le ciel. Les Grecs les rattachent à [[zoroastre|Zoroastre]] et tirent de leur nom le mot *mageia*, la [[magie]], si bien que « mage » désigne à la fois un sage oriental et un sorcier. L'Évangile de Matthieu fait venir d'Orient des mages guidés par une étoile, dont la tradition fera les [[rois-mages|rois mages]] ; les Actes des Apôtres montrent au contraire en [[simon-le-magicien|Simon le Magicien]] le rival des apôtres.
+texte: La Renaissance réhabilite le mot. Pour [[pic-de-la-mirandole|Pic de la Mirandole]] et [[marsile-ficin|Ficin]], le mage est le philosophe qui connaît les sympathies de la nature et « marie le monde » ; c'est le praticien de la [[magie-naturelle|magie naturelle]], qu'[[cornelius-agrippa|Agrippa]] complète par la [[magie-ceremonielle|magie cérémonielle]]. On l'oppose depuis lors au sorcier : le premier commande par son savoir, le second pactise.
+texte: Au XIXe siècle, [[eliphas-levi|Éliphas Lévi]] en fait l'idéal de l'[[occultisme]] : savoir, oser, vouloir, se taire. [[josephin-peladan|Joséphin Péladan]] prend le titre assyrien de Sâr et publie *Comment on devient mage* (1892) ; [[papus]] donne un traité de magie pratique ; [[jules-bois|Jules Bois]] peint un mage solitaire et sans amour. La [[golden-dawn|Golden Dawn]] fait de *Magus* l'un de ses plus hauts grades, et le Bateleur du tarot devient « le Mage » ou le Magicien (voir [[arcane-bateleur]]). Chez les anthropologues, enfin, le magicien est celui qui agit par les rites là où le prêtre prie.
+extrait: Mais a-t-il même existé des mages ? ¶ Atroce et sublime destinée s’il en fut ! Le mage est seul. (…) Le Mage, lui, est seul vraiment ; à la fois surhumain et inhumain, infortuné et inaccessible, sans épouse, sans volupté, sans faiblesse. Il est : des yeux veufs d’émotion et de sommeil, une bouche vide de sourire, — une main et un front surtout.
+source: Jules Bois, *Le Satanisme et la Magie*, 1895, livre I, chap. IV, « Le Mage » | ws Le Satanisme et la magie/Livre I/Chapitre IV
+voir: magie, rois-mages, zoroastre, simon-le-magicien, magie-naturelle, eliphas-levi, josephin-peladan, thaumaturge, adepte, sorciere, arcane-bateleur
+
+@ agnostique
+cat: notions
+nom: Agnostique
+alias: agnostiques, agnosticisme, Thomas Huxley, inconnaissable
+def: Celui qui tient pour inconnaissable ce qui dépasse l'expérience, l'existence de Dieu en particulier, et suspend son jugement ; le mot a été forgé en 1869 par Thomas Huxley, par opposition aux gnostiques.
+texte: Le naturaliste anglais Thomas Henry Huxley, défenseur de Darwin, invente le mot en 1869 à la Metaphysical Society de Londres, où chacun portait l'étiquette d'une école. Il le tire du grec *agnôstos*, « inconnu » ou « inconnaissable », et le pose, raconte-t-il, comme l'antithèse du « gnostique » de l'histoire de l'Église, qui prétendait en savoir tant sur les choses mêmes qu'il ignorait. L'agnostique n'affirme pas que Dieu n'existe pas, comme l'[[atheisme|athée]] ; il soutient qu'on ne peut le savoir, et qu'il est malhonnête de se dire certain de ce qu'on ne peut prouver. Kant, qui borne la connaissance aux phénomènes, et Herbert Spencer, avec son « Inconnaissable », lui donnent ses arguments.
+texte: Le mot éclaire par contraste celui de [[gnose]] : la gnose promet une connaissance salvatrice des choses divines, par révélation ou par illumination, là où l'agnostique déclare cette connaissance hors de portée. Les ésotéristes du XIXe siècle ont combattu l'agnosticisme autant que le matérialisme : la [[theosophie|théosophie]] d'[[helena-blavatsky|Helena Blavatsky]] se donne pour une connaissance, non pour une croyance. Les fondateurs de la [[society-for-psychical-research|Society for Psychical Research]], à l'inverse, voulurent appliquer aux phénomènes du [[spiritisme]] la réserve de l'agnostique : ne rien nier, ne rien admettre sans preuve.
+extrait: So I took thought, and invented what I conceived to be the appropriate title of "agnostic." It came into my head as suggestively antithetic to the "gnostic" of Church history, who professed to know so much about the very things of which I was ignorant; and I took the earliest opportunity of parading it at our Society, to show that I, too, had a tail, like the other foxes.
+source: Thomas Henry Huxley, « Agnosticism », 1889, recueilli dans *Essays upon some Controverted Questions*, 1892 (texte original anglais) | wsen Essays upon some Controverted Questions/IX
+attention: « Agnostique » ne s'oppose pas à « croyant » comme le fait « athée » : l'agnostique ne nie pas, il s'abstient. Et les gnostiques de l'Antiquité ne s'appelaient pas tous ainsi (voir [[gnosticisme]]).
+voir: gnose, gnosticisme, atheisme, deisme, society-for-psychical-research, metapsychique, spiritisme
+
+@ atheisme
+cat: notions
+nom: Athéisme
+alias: athée, athées, incroyance, matérialisme, « athée stupide »
+def: Doctrine ou attitude de celui qui nie l'existence de tout dieu ; longtemps simple injure lancée à qui honorait mal les dieux de la cité, le mot ne désigne une position revendiquée que depuis le XVIIIe siècle.
+texte: Le grec *atheos*, « sans dieu », est d'abord un reproche : Socrate est condamné en 399 av. J.-C. pour ne pas reconnaître les dieux d'Athènes, et les premiers chrétiens sont traités d'athées par les Romains, dont ils refusent les sacrifices. Jusqu'au XVIIe siècle, on accuse d'athéisme les hérétiques, les [[libertin|libertins]], les magiciens : Vanini est brûlé à Toulouse en 1619 comme athée, lui qui divinisait la nature à la manière de [[giordano-bruno|Giordano Bruno]] (voir [[pantheisme]]). L'athéisme déclaré apparaît avec le curé Meslier, dont le *Testament* circule après 1729, puis avec le baron d'Holbach, dont le *Système de la nature* (1770) ne voit dans l'univers que la matière et le mouvement.
+texte: La [[franc-maconnerie|franc-maçonnerie]] naît contre lui : les *[[constitutions-d-anderson|Constitutions]]* d'Anderson (1723) veulent qu'un maçon ne soit jamais « un athée stupide ni un libertin irréligieux ». Le [[grand-orient-de-france|Grand Orient de France]] supprime en 1877 l'obligation de croire en Dieu, ce qui provoque la rupture avec les loges anglaises (voir [[regularite]]). Les occultistes du XIXe siècle, de leur côté, se sont présentés comme une troisième voie entre l'athéisme des savants et la foi des Églises. On distingue l'athée, qui nie, de l'[[agnostique]], qui s'abstient, et du déiste, qui croit en Dieu sans révélation (voir [[deisme]]).
+voir: agnostique, deisme, pantheisme, libertin, grand-orient-de-france, constitutions-d-anderson, giordano-bruno
+
+@ deisme
+cat: notions
+nom: Déisme
+alias: déiste, déistes, théisme, théiste, religion naturelle, Être suprême
+def: Croyance en un Dieu créateur connu par la seule raison, sans révélation, sans dogmes ni clergé ; la religion naturelle des philosophes des Lumières, proche de celle des premières loges maçonniques.
+texte: Le mot paraît au XVIe siècle, mais la doctrine se fixe en Angleterre avec Herbert de Cherbury, dont le *De veritate* (1624) ramène toutes les religions à quelques vérités communes : un Dieu, un culte fait de vertu, une récompense après la mort. John Toland, avec *Le Christianisme sans mystères* (1696), puis Voltaire et Rousseau, dans la « Profession de foi du vicaire savoyard », lui donnent son éclat. Le Dieu des déistes est l'horloger du monde : il l'a créé et réglé, mais n'y intervient pas par des miracles, et ne demande que la justice. Voltaire préfère le mot de « théiste ». En 1794, Robespierre fait célébrer à Paris la fête de l'Être suprême.
+texte: La [[franc-maconnerie|franc-maçonnerie]] de 1723 oblige ses membres à « cette religion sur laquelle tous les hommes sont d'accord » : beaucoup y ont lu un déisme, et le [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]] en est l'expression la plus neutre. Les théosophes et les illuministes ont au contraire combattu ce Dieu lointain : [[louis-claude-de-saint-martin|Saint-Martin]] ou [[joseph-de-maistre|Joseph de Maistre]] lui opposent un Dieu qui parle, agit et se révèle à l'homme intérieur. L'idée d'une religion première commune à tous les peuples rapproche pourtant le déisme de la *[[prisca-theologia|prisca theologia]]* de la Renaissance, dont il est la version rationaliste.
+extrait: Le théiste est un homme fermement persuadé de l’existence d’un Être suprême aussi bon que puissant, qui a formé tous les êtres étendus, végétants, sentants, et réfléchissants ; qui perpétue leur espèce, qui punit sans cruauté les crimes, et récompense avec bonté les actions vertueuses. (…) ¶ Réuni dans ce principe avec le reste de l’univers, il n’embrasse aucune des sectes qui toutes se contredisent. Sa religion est la plus ancienne et la plus étendue : car l’adoration simple d’un Dieu a précédé tous les systèmes du monde. (…) Faire le bien, voilà son culte ; être soumis à Dieu, voilà sa doctrine.
+source: Voltaire, *Dictionnaire philosophique*, 1765, article « Théiste » | ws Dictionnaire philosophique/Garnier (1878)/Théiste
+voir: atheisme, agnostique, pantheisme, grand-architecte-de-l-univers, franc-maconnerie, prisca-theologia, constitutions-d-anderson
+
+@ pantheisme
+cat: notions
+nom: Panthéisme
+alias: panthéiste, panthéistes, Deus sive Natura, panenthéisme, Spinoza, John Toland
+def: Doctrine pour laquelle Dieu et le monde ne font qu'un : tout est Dieu, ou Dieu est le tout ; le mot date de 1705, l'idée traverse le stoïcisme, la Renaissance et le romantisme.
+texte: Le mot « panthéiste » est forgé en 1705 par l'Irlandais John Toland, qui décrit dans son *Pantheisticon* (1720) une société de sages n'adorant que l'univers. L'idée est bien plus ancienne : les stoïciens tiennent le monde pour un vivant divin, animé d'un souffle, le [[pneuma]] ; [[giordano-bruno|Giordano Bruno]] voit dans l'univers infini le visage même de Dieu ; Spinoza, dans l'*Éthique* (1677), écrit « Dieu, c'est-à-dire la Nature ». La querelle du panthéisme, en Allemagne, à partir de 1785, fait de Spinoza le maître de Goethe, de Schelling et de la *[[naturphilosophie|Naturphilosophie]]*.
+texte: Bien des doctrines ésotériques s'en approchent sans s'y réduire. L'[[hermetisme|hermétisme]], où Dieu est « tout et un », le [[neoplatonisme|néoplatonisme]] et son [[emanation|émanation]], l'[[ame-du-monde|âme du monde]], la [[kabbale]] où tout procède de l'[[ein-sof|Ein-Sof]], en ont été accusés ; leurs défenseurs répondent que le monde y vient de Dieu sans se confondre avec lui. On appelle panenthéisme, depuis le philosophe Krause (1828), l'idée que tout est en Dieu, qui pourtant dépasse le tout. L'Église a condamné le panthéisme dans le *Syllabus* de 1864. [[pan|Pan]], dont le nom fut compris comme « le Tout », lui a servi d'emblème, et le [[neopaganisme|néopaganisme]] s'en réclame volontiers.
+voir: giordano-bruno, ame-du-monde, emanation, hermetisme, naturphilosophie, deisme, atheisme, pan
+
+@ syncretisme
+cat: notions
+nom: Syncrétisme
+alias: syncrétique, syncrétismes, interpretatio graeca, mélange des religions
+def: Fusion de croyances, de dieux ou de rites venus de religions différentes en un ensemble nouveau ; l'ésotérisme occidental est né des syncrétismes de l'Antiquité tardive.
+texte: Le mot vient de Plutarque, pour qui « syncrétiser » est faire comme les Crétois, qui s'unissaient contre l'ennemi commun ; Érasme le reprend, et le XVIIe siècle l'applique, souvent pour le blâmer, au mélange des doctrines. Les historiens des religions en ont fait un terme neutre. L'Antiquité l'a pratiqué sans le nommer : les Grecs reconnaissent leurs dieux dans ceux des autres — [[thot|Thot]] devient Hermès —, les Ptolémées créent [[serapis|Sérapis]] pour unir Grecs et Égyptiens, et le [[culte-d-isis|culte d'Isis]] absorbe toutes les déesses.
+texte: C'est dans ce monde mêlé que naissent, à [[alexandrie|Alexandrie]] et ailleurs, l'[[hermetisme|hermétisme]], la [[gnose]], l'[[alchimie]] et la magie des [[papyrus-grecs-magiques|papyrus grecs magiques]], où un même charme invoque Iao, Hélios et Osiris ; [[hermes-trismegiste|Hermès Trismégiste]] en est la figure, [[abraxas]] le nom. La Renaissance refait l'opération : la *[[prisca-theologia|prisca theologia]]* de Ficin accorde Platon, Hermès, Zoroastre et Moïse, et [[pic-de-la-mirandole|Pic de la Mirandole]] y joint la [[kabbale]]. La [[theosophie|théosophie]] moderne, qui marie l'Inde et l'Occident, puis le [[new-age|New Age]], sont des syncrétismes déclarés. Les tenants de la [[tradition-primordiale|Tradition primordiale]] récusent le mot : là où l'historien voit un mélange, ils voient l'unité retrouvée d'une même vérité — [[rene-guenon|Guénon]] oppose ainsi le syncrétisme, assemblage du dehors, à la synthèse.
+voir: hermetisme, gnose, serapis, prisca-theologia, theosophie, tradition-primordiale, abraxas, alexandrie
+
+@ heresie
+cat: notions
+nom: Hérésie
+alias: hérétique, hérétiques, hérésiarque, hérésiologue, hétérodoxie, orthodoxie
+def: Doctrine qu'une Église condamne comme contraire à sa foi ; le mot, qui signifiait « choix » ou « école », a servi à écarter les gnostiques, les manichéens, les cathares, et bien des ésotéristes.
+texte: Le grec *hairesis* désigne un choix, puis une école de philosophie ou de médecine, sans blâme. Les chrétiens du IIe siècle en font le nom de l'erreur : [[irenee-de-lyon|Irénée de Lyon]] écrit vers 180 *Contre les hérésies* pour réfuter les maîtres de la [[gnose]], et fixe par contraste l'orthodoxie, la « droite opinion ». Les hérésiologues dressent ensuite des catalogues de sectes, de [[simon-le-magicien|Simon le Magicien]] aux [[ophites]] et aux [[cainites|caïnites]], qui furent longtemps notre seule source sur elles ; la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]], en 1945, a permis d'entendre enfin les condamnés.
+texte: Devenue religion d'État, l'Église fait de l'hérésie un crime. Le [[manicheisme|manichéisme]] est proscrit ; au XIIIe siècle, la croisade contre les Albigeois puis l'Inquisition, confiée aux Dominicains dans les années 1230, détruisent le [[catharisme]], dont [[montsegur|Montségur]] est le dernier refuge. Les [[templiers]] sont accusés d'hérésie en 1307 ; la [[sorcellerie]] lui est assimilée à la fin du Moyen Âge, ce qui ouvre la [[chasse-aux-sorcieres|chasse aux sorcières]] ; [[giordano-bruno|Giordano Bruno]] est brûlé comme hérétique en 1600.
+texte: L'ésotérisme a souvent revendiqué cette lignée : les néo-gnostiques et les néo-cathares des XIXe et XXe siècles se sont donné pour ancêtres les hérétiques d'autrefois (voir [[eglise-gnostique]]). Les historiens préfèrent parler de courants hétérodoxes, et rappellent que l'hérésie n'existe que du point de vue de qui la condamne.
+voir: gnose, gnosticisme, irenee-de-lyon, catharisme, manicheisme, chasse-aux-sorcieres, giordano-bruno, apocryphes
+
+@ superstition
+cat: notions
+nom: Superstition
+alias: superstitions, superstitieux, vaine observance, porte-bonheur, mauvais présage
+def: Croyance ou pratique jugée vaine par celui qui en parle : culte déréglé pour les Romains, pacte implicite avec le démon pour les théologiens, erreur de raisonnement pour les savants.
+texte: Les Romains opposaient la *religio*, respect scrupuleux des rites, à la *superstitio*, crainte excessive des dieux et recours à des cultes étrangers ; Plutarque la juge pire que l'athéisme. Les théologiens chrétiens changent le critère : [[thomas-d-aquin|Thomas d'Aquin]] range sous ce nom l'idolâtrie, la [[divination]] et les « vaines observances », [[amulette|amulettes]], formules et jours néfastes, qui ne peuvent agir par nature et supposent donc l'aide des démons. L'abbé Thiers en dresse l'inventaire dans son *Traité des superstitions* (1679). Les Lumières retournent l'accusation : pour Voltaire, la superstition est à la religion ce que l'astrologie est à l'astronomie, « la fille très folle d'une mère très sage ».
+texte: Le mot est donc toujours un jugement, porté du dehors : nul ne se dit superstitieux. Les ethnologues, depuis [[james-frazer|Frazer]], et les psychologues y voient plutôt des raisonnements par ressemblance et par contact, qu'ils nomment [[pensee-magique|pensée magique]], ou l'illusion de maîtriser le hasard : on se souvient du [[treize]] qui a porté malheur, non des autres. Les ésotéristes ont toujours distingué leur savoir de la superstition du vulgaire, qui garderait, sans les comprendre, les restes de symboles anciens ; c'est la thèse d'[[eliphas-levi|Éliphas Lévi]] comme de [[rene-guenon|Guénon]].
+voir: divination, amulette, talisman, magie, treize, james-frazer, thomas-d-aquin, charlatan, pensee-magique
+
+@ charlatan
+cat: notions
+nom: Charlatan
+alias: charlatans, charlatanisme, charlatanerie, empirique, orviétan, vendeur d'orviétan, saltimbanque
+def: À l'origine, vendeur de drogues qui débite ses remèdes sur les places à force de boniment ; par extension, celui qui exploite la crédulité en se vantant d'un savoir ou d'un pouvoir qu'il n'a pas.
+texte: Le mot vient de l'italien *ciarlatano*, où se mêlent *ciarlare*, « bavarder », et le nom des *cerretani*, les colporteurs de Cerreto, en Ombrie. Aux XVIe et XVIIe siècles, le charlatan monte sur des tréteaux, entre un bouffon et un singe, pour vendre l'orviétan, contrepoison à tout faire ; les médecins des facultés donnent le même nom aux « empiriques » qui soignent sans diplôme, [[paracelse|paracelsiens]] et distillateurs compris. L'*Encyclopédie* en fait un type éternel : il promet toujours de guérir, et prospère de l'espoir des malades.
+texte: Le XVIIIe siècle, celui des Lumières, est aussi celui des grands aventuriers de l'occulte : le [[comte-de-saint-germain|comte de Saint-Germain]] et son élixir, [[cagliostro]] et sa maçonnerie égyptienne, [[casanova|Casanova]] et sa kabbale, [[franz-anton-mesmer|Mesmer]] et son baquet ont tous été traités de charlatans. Le mot n'est pas une explication : il range sous une même injure l'escroc avoué, comme Casanova, le guérisseur convaincu et le chercheur hors des écoles. L'histoire de l'[[alchimie]] connaît la même frontière incertaine entre l'adepte et le [[souffleur]], et celle du [[spiritisme]] entre le [[medium|médium]] et le fraudeur.
+extrait: C’est cette espece d’hommes, qui sans avoir d’études & de principes, & sans avoir pris de degrés dans aucune université, exercent la Medecine & la Chirurgie, sous prétexte de secrets qu’ils possedent, & qu’ils appliquent à tout. (…) ¶ Les faux empyriques sont des protées qui prennent mille formes différentes. La plûpart grossiers & mal-habiles, n’attrapent que la populace ; d’autres plus fins, s’attachent aux grands & les séduisent. ¶ Depuis que les hommes vivent en société, il y a eu des charlatans & des dupes.
+source: *L’Encyclopédie* de Diderot et d’Alembert, article « Charlatan », par le chevalier de Jaucourt, tome III, 1753 (orthographe d’origine) | ws L’Encyclopédie/1re édition/CHARLATAN
+voir: casanova, cagliostro, comte-de-saint-germain, souffleur, thaumaturge, superstition, elixir-de-longue-vie, affaire-du-collier
+
+@ libertin
+cat: notions
+nom: Libertin
+alias: libertins, libertinage, libertinage érudit, esprit fort, esprits forts, libre-penseur, libre-pensée
+def: Au XVIIe siècle, l'« esprit fort » qui s'affranchit des dogmes et doute des miracles, des démons et des sorciers ; au XVIIIe siècle, celui qui s'affranchit aussi des mœurs.
+texte: Le latin *libertinus* désigne l'affranchi. Calvin, en 1545, appelle « libertins spirituels » une secte mystique qui se croit au-dessus du péché ; puis le mot passe à ceux qui pensent librement. Les libertins érudits du XVIIe siècle — La Mothe Le Vayer, Gassendi, Gabriel Naudé, Cyrano de Bergerac — cultivent le doute et expliquent par la nature ou par la politique ce que l'on attribuait au surnaturel. Naudé publie en 1625 une *Apologie pour tous les grands personnages qui ont été faussement soupçonnés de magie*, où il lave de ce soupçon [[zoroastre|Zoroastre]], [[pythagore|Pythagore]], [[albert-le-grand|Albert le Grand]] ou [[cornelius-agrippa|Agrippa]], et il raille l'émoi causé à Paris par les affiches de la [[rose-croix|Rose-Croix]] : cette critique a compté dans la fin de la [[chasse-aux-sorcieres|chasse aux sorcières]].
+texte: Au XVIIIe siècle, le sens moral l'emporte : le libertin est le séducteur, de Don Juan à [[casanova|Casanova]]. Les deux sens ne se séparent pourtant pas tout à fait. Les *[[constitutions-d-anderson|Constitutions]]* d'Anderson écartent des loges, en 1723, « le libertin irréligieux » avec l'athée (voir [[atheisme]]) ; et bien des libertins, sceptiques en religion, se montrent curieux d'alchimie, de [[kabbale]] et de sociétés secrètes, comme si le goût du secret survivait à la foi. *[[le-comte-de-gabalis|Le Comte de Gabalis]]* (1670), qui se moque des sylphes et des cabalistes tout en les faisant connaître, est le fruit de cet esprit.
+voir: atheisme, casanova, le-comte-de-gabalis, constitutions-d-anderson, chasse-aux-sorcieres, charlatan, deisme
+
+@ prophete
+cat: notions
+nom: Prophète
+alias: prophètes, prophétie, prophéties, prophétesse, prophétisme, nabi, devin, voyant
+def: Celui qui parle au nom d'un dieu et annonce sa volonté ; par extension, celui qui prédit l'avenir. Le prophète reçoit sa parole, le devin interroge des signes.
+texte: Le grec *prophêtês* est « celui qui parle pour » un dieu : à [[delphes|Delphes]], il met en forme les paroles de la Pythie. La Bible grecque traduit ainsi l'hébreu *nabi*, l'homme saisi par l'esprit de Dieu, d'Élie et d'Isaïe à Ézéchiel, dont la vision du char fonde la mystique de la [[merkavah|Merkavah]], et à Daniel, interprète des songes (voir [[songe-de-nabuchodonosor]]). Le prophète ne prédit pas d'abord : il avertit, juge et console. [[moise|Moïse]] est pour le judaïsme le plus grand d'entre eux ; l'islam tient Mahomet pour leur sceau.
+texte: Le christianisme lit dans les prophètes l'annonce du Christ, et leur associe les [[sibylles]] païennes : [[michel-ange|Michel-Ange]] les peint côte à côte au plafond de la Sixtine. L'*[[apocalypse|Apocalypse]]* clôt le canon, mais non les prophéties : [[joachim-de-flore|Joachim de Flore]] annonce au XIIe siècle l'âge de l'Esprit, et l'on fait circuler sous de grands noms des prédictions sur les papes et les rois (voir [[prophetie-de-saint-malachie]] et [[prophetie-d-orval]]). Avec les *Prophéties* de [[nostradamus|Nostradamus]] (1555), le mot glisse vers la prédiction pure, et le prophète rejoint le devin, qui lit l'avenir dans les astres, les songes ou les cartes (voir [[divination]] et [[voyance]]).
+texte: Les modernes ont gardé le nom pour l'inspiré : les peintres [[les-nabis|nabis]] se disent « prophètes » d'un art nouveau, [[arthur-rimbaud|Rimbaud]] veut le poète « voyant », et [[edgar-cayce|Edgar Cayce]] est surnommé « le prophète endormi ». Les prédictions datées, elles, ont un point commun : on ne les juge réussies qu'après coup, en relisant des textes assez vagues pour s'y prêter.
+voir: divination, sibylles, oracle, nostradamus, joachim-de-flore, voyance, apocalypse, les-nabis, raspoutine
+
+@ starets
+cat: notions
+nom: Starets
+alias: staretz, stariets, startsy, starchestvo, père spirituel, ancien
+def: Dans le monachisme russe, « ancien » reconnu pour sa sainteté, à qui moines et laïcs remettent la conduite de leur âme ; on lui prête le don de lire dans les cœurs, de guérir et de prédire.
+texte: Le russe *starets*, « vieillard », traduit le grec *gérôn* : la direction spirituelle par un ancien remonte aux Pères du désert d'Égypte et s'est transmise par le mont Athos. Elle renaît en Russie à la fin du XVIIIe siècle avec le moine Païssi Vélitchkovski, qui traduit en slavon la *Philocalie*, recueil de textes sur la prière du cœur. Nul ne nomme un starets : sa réputation le désigne. Séraphin de Sarov, ermite mort en 1833 et canonisé en 1903 à la demande de Nicolas II, et les anciens du monastère d'Optina, que visitèrent Gogol, Dostoïevski et Tolstoï, en sont les figures les plus vénérées ; Ambroise d'Optina a servi de modèle au starets Zosime des *Frères Karamazov*.
+texte: Le disciple ouvre chaque jour ses pensées à l'ancien et lui obéit en tout ; la prière de Jésus, répétée au rythme du souffle, mène, disent les textes, à la paix du cœur, l'hésychia ; on l'a rapprochée d'autres voies [[mystique|mystiques]], du [[mantra]] de l'Inde aux litanies du [[soufisme]].
+texte: On a donné le titre à [[raspoutine|Raspoutine]], qui n'était ni moine ni attaché à un monastère : il tenait plutôt du pèlerin errant et du guérisseur. L'usage a pourtant fixé l'expression, et le mot désigne souvent en français, depuis lors, un directeur de conscience à l'emprise suspecte — à l'opposé de son sens.
+extrait: Qu’est-ce qu’un starets ? Le starets, c’est celui qui absorbe votre âme et votre volonté dans les siennes. Ayant choisi un starets, vous abdiquez votre volonté et vous la lui remettez en toute obéissance, avec une entière résignation. Le pénitent subit volontairement cette épreuve, ce dur apprentissage, dans l’espoir, après un long stage, de se vaincre lui-même, de se dominer au point d’atteindre enfin, après avoir obéi toute sa vie, à la liberté parfaite, c’est-à-dire à la liberté vis-à-vis de soi-même, et d’éviter le sort de ceux qui ont vécu sans se trouver en eux-mêmes.
+source: Fédor Dostoïevski, *Les Frères Karamazov*, 1880, livre I, chap. V, trad. Henri Mongault, 1923 | ws Les Frères Karamazov (trad. Henri Mongault)/I/05
+voir: raspoutine, mystique, thaumaturge, extase, khlysts, mantra
+
+@ khlysts
+cat: courants
+nom: Khlysts
+alias: khlysty, khlyst, flagellants russes, croyants du Christ, gens de Dieu, radénié, skoptsy
+def: Secte mystique russe, apparue au XVIIe siècle en marge de l'Église orthodoxe, dont les fidèles cherchaient dans des danses extatiques la descente de l'Esprit ; on a accusé Raspoutine d'en être.
+texte: Ses fidèles se nommaient « gens de Dieu » ou « croyants du Christ » ; *khlysty*, « les fouets », est le sobriquet de leurs adversaires, peut-être par jeu de mots sur *khristy*, « les christs ». La tradition les fait naître vers 1645 de la prédication d'un paysan de Kostroma, Danila Filippovitch, en qui Dieu serait descendu. Ils enseignent que l'Esprit peut s'incarner en tout croyant : chaque communauté, ou « nef », a son christ et sa mère de Dieu. Ils rejettent les livres et le clergé, mais fréquentent l'église pour ne pas se trahir, s'abstiennent de viande, d'alcool et, en principe, de relations charnelles.
+texte: Leur culte secret, la *radénié*, se tient la nuit : vêtus de blanc, hommes et femmes chantent et tournent en rond jusqu'à l'[[extase]], où certains prophétisent. Les rapports de police et les écrits des prêtres leur attribuent des flagellations et des orgies, par lesquelles ils auraient cru vaincre le péché par le péché ; les historiens tiennent ces accusations pour invérifiables, et semblables à celles qu'on porte depuis toujours contre les cultes cachés (voir [[sabbat]]). À la fin du XVIIIe siècle, il en sort les *skoptsy*, qui poussent l'ascèse jusqu'à la castration. Persécutés sous les tsars, puis sous les Soviets, les khlysts ont à peu près disparu au XXe siècle.
+texte: Leurs ennemis ont rapproché d'eux [[raspoutine|Raspoutine]], sur qui l'Église enquêta sans rien établir. Leur christianisme sans prêtres, tout intérieur, a été comparé à la [[gnose]] et au [[catharisme]], et leurs rondes à celles des derviches du [[soufisme]] ; les écrivains russes du début du XXe siècle, d'Andreï Biély à Alexandre Blok, y ont cherché l'âme mystique du peuple.
+voir: raspoutine, starets, extase, mystique, gnose, heresie
+
+@ exorcisme
+cat: magie
+nom: Exorcisme
+alias: exorcismes, exorciste, exorciser, possession, possédé, possédés, énergumène, adjuration, Loudun
+def: Rite par lequel on ordonne à un esprit mauvais, au nom d'une puissance supérieure, de quitter une personne ou un lieu ; il est à la fois un sacramental de l'Église et l'un des gestes les plus anciens de la magie.
+texte: Le grec *exorkizein* signifie « faire jurer », « adjurer » : l'exorciste somme le démon de partir en invoquant un nom plus fort que lui. La Mésopotamie et l'Égypte ont laissé des recueils de conjurations. Dans les Évangiles, Jésus chasse les esprits d'une parole — ceux du possédé de Gérasa se nomment « Légion » — et donne ce pouvoir à ses disciples. [[flavius-josephe|Flavius Josèphe]] raconte qu'un Juif nommé Éléazar tira devant Vespasien un démon par le nez d'un possédé, grâce à un anneau et à des formules héritées de [[salomon|Salomon]] : le *[[testament-de-salomon|Testament de Salomon]]* fait du roi le maître des démons, qu'il enchaîne par son [[sceau]], et le livre de Tobie montre l'ange Raphaël chassant [[asmodee|Asmodée]].
+texte: L'Église fait de l'exorciste l'un de ses ordres mineurs, joint un exorcisme au baptême, et fixe le rite de la possession dans le *Rituel romain* de 1614, révisé en 1999 : seul un prêtre désigné par l'évêque peut le pratiquer, après avoir écarté la maladie. Le XVIIe siècle français voit les grandes possessions de couvents, dont celle des ursulines de Loudun, exorcisées en public à partir de 1632, qui coûte la vie au curé Urbain Grandier, brûlé en 1634 (voir [[demonologie]] et [[chasse-aux-sorcieres]]).
+texte: La [[magie-ceremonielle|magie cérémonielle]] retourne le rite : le magicien exorcise le sel, l'eau et le feu, puis contraint les esprits par les mêmes noms divins, à l'abri de son [[cercle-magique|cercle]] (voir [[evocation]] et [[goetie]]). Au XIXe siècle, la « guerre des envoûtements » entre l'abbé [[joseph-antoine-boullan|Boullan]] et les rose-croix de Paris se mène à coups d'exorcismes. Les médecins, depuis [[jean-wier|Jean Wier]] au XVIe siècle, puis Charcot à la Salpêtrière, ont rapproché la possession de troubles que l'on décrit aujourd'hui comme l'épilepsie, les états dissociatifs ou certaines psychoses ; les études ne lui trouvent rien que ces troubles et l'attente de l'entourage n'expliquent, et des exorcismes menés à la place de soins ont causé des morts.
+voir: demonologie, testament-de-salomon, asmodee, salomon, evocation, magie-ceremonielle, envoutement, incube-et-succube

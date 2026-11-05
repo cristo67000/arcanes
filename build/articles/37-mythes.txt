@@ -207,7 +207,7 @@ texte: Au chant XIII de l'*Odyssée*, les Phéaciens déposent Ulysse endormi pr
 texte: Pour lui, la grotte est le monde, obscur et humide comme la matière ; les nymphes des eaux sont les âmes qui descendent dans la génération, les étoffes de pourpre les corps qu'elles tissent, les [[abeille|abeilles]] les âmes justes. Les deux portes sont les deux tropiques : par la porte du [[cancer|Cancer]], au nord, les âmes descendent vers la naissance ; par celle du [[capricorne|Capricorne]], au midi, elles remontent vers les dieux. Macrobe reprend la doctrine dans son *Commentaire au Songe de Scipion*, et [[rene-guenon|René Guénon]] en fait l'un des fondements de son « symbolisme solsticial », les deux portes de Janus et des deux saint Jean.
 extrait: Dans cet antre il y a des kratères et des amphores de pierre où les abeilles font leur miel, et de longs métiers à tisser où les Nymphes travaillent des toiles pourprées admirables à voir. Et là sont aussi des sources inépuisables. Et il y a deux entrées, l’une, pour les hommes, vers le Boréas, et l’autre, vers le Notos, pour les Dieux. Et jamais les hommes n’entrent par celle-ci, mais seulement les Dieux.
 source: Homère, *L'Odyssée*, chant XIII, trad. Leconte de Lisle, Lemerre, 1893 | ws L’Odyssée/Traduction Leconte de Lisle/13
-voir: odyssee-de-l-ame, porphyre, plotin, neoplatonisme, cancer, capricorne, equinoxes-et-solstices, rene-guenon, abeille
+voir: odyssee-de-l-ame, porphyre, plotin, neoplatonisme, cancer, capricorne, equinoxes-et-solstices, rene-guenon, abeille, nymphe
 
 @ eros-et-psyche
 cat: mythes

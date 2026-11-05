@@ -38,10 +38,10 @@ lieu: Midlothian, Écosse, Royaume-Uni
 geo: 55.8554, -3.1599
 def: Chapelle écossaise fondée en 1446 par William Sinclair, couverte de sculptures, que les légendes maçonniques et templières ont transformée en reliquaire de secrets.
 texte: William Sinclair, comte d'Orkney, fonde en 1446 une collégiale à Roslin, près d'Édimbourg ; seul le chœur est achevé. Sa pierre est couverte de sculptures : anges musiciens, hommes verts, scènes bibliques, danse macabre, et le « pilier de l'Apprenti », qu'un apprenti aurait sculpté en l'absence de son maître, qui l'aurait tué de jalousie — un récit qui rappelle la [[legende-d-hiram|légende d'Hiram]].
-texte: Au XVIIIe siècle, William St Clair de Roslin devient le premier grand maître de la Grande Loge d'Écosse, ce qui nourrit l'idée d'un lien ancien entre la famille et la [[franc-maconnerie]]. À la fin du XXe siècle, des best-sellers font de la chapelle la cachette du trésor des [[templiers]], du [[graal|Graal]] ou de la tête du Christ, et y voient du maïs américain sculpté avant Christophe Colomb ; le *Da Vinci Code* y place son dénouement. Les historiens rappellent que l'ordre du Temple avait disparu plus d'un siècle avant la fondation.
+texte: Au XVIIIe siècle, William St Clair de Roslin devient le premier grand maître de la Grande Loge d'Écosse, ce qui nourrit l'idée d'un lien ancien entre la famille et la [[franc-maconnerie]]. À la fin du XXe siècle, des best-sellers font de la chapelle la cachette du [[tresor-des-templiers|trésor]] des [[templiers]], du [[graal|Graal]] ou de la tête du Christ, et y voient du maïs américain sculpté avant Christophe Colomb ; le *Da Vinci Code* y place son dénouement. Les historiens rappellent que l'ordre du Temple avait disparu plus d'un siècle avant la fondation.
 repere: 1446 — William Sinclair fonde la collégiale.
 repere: 1736 — Un Sinclair de Roslin devient le premier grand maître de la Grande Loge d'Écosse.
-voir: templiers, franc-maconnerie, legende-d-hiram, graal, da-vinci-code, walter-scott
+voir: templiers, franc-maconnerie, legende-d-hiram, graal, da-vinci-code, walter-scott, tresor-des-templiers
 
 @ boleskine-house
 cat: lieux
@@ -148,7 +148,7 @@ texte: La maçonnerie templière du XVIIIe siècle, comme la [[stricte-observanc
 repere: 1160 — Gualdim Pais fonde le château templier.
 repere: 1319 — Création de l'ordre du Christ, héritier des templiers portugais.
 repere: 1983 — Inscription au patrimoine mondial de l'UNESCO.
-voir: templiers, quinta-da-regaleira, chinon, stricte-observance
+voir: templiers, quinta-da-regaleira, chinon, stricte-observance, proces-des-templiers, hospitaliers, sainte-eulalie-de-cernon
 
 @ montserrat
 cat: lieux
@@ -166,15 +166,15 @@ voir: graal, otto-rahn, montsegur, ariosophie, vierges-noires
 @ externsteine
 cat: lieux
 nom: Externsteine
-alias: rochers des Externsteine, Irminsul, Teutoburger Wald
+alias: rochers des Externsteine, Teutoburger Wald
 lieu: Rhénanie-du-Nord-Westphalie, Allemagne
 geo: 51.8689, 8.9175
 def: Groupe de rochers de grès de la forêt de Teutberg, sculpté au Moyen Âge, dont les mouvements völkisch firent un sanctuaire solaire des anciens Germains.
 texte: Ces piliers de grès hauts de près de quarante mètres portent un grand relief de la Descente de croix, sculpté au XIIe siècle, une chapelle creusée dans le roc et une ouverture circulaire au sommet d'un des rochers. Le site était alors un lieu de pèlerinage chrétien lié à l'abbaye de Paderborn.
-texte: En 1929, le pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'Irminsul. [[heinrich-himmler|Himmler]] y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
+texte: En 1929, l'ancien pasteur Wilhelm Teudt prétend que l'ouverture de la chapelle haute est alignée sur le lever du soleil au solstice et que le lieu était le grand sanctuaire germanique de l'[[irminsul|Irminsul]], qu'il croit reconnaître, ployé, sur le relief de la Descente de croix. [[heinrich-himmler|Himmler]] y fait mener des fouilles en 1934 et 1935 et place le site sous la tutelle d'une fondation de la SS, liée à l'[[ahnenerbe|Ahnenerbe]] ; on n'y trouve rien de préchrétien. Le site attire toujours, au solstice, des néopaïens, des adeptes du New Age et des groupes d'extrême droite, à côté de simples randonneurs.
 repere: 1929 — Wilhelm Teudt en fait un sanctuaire solaire germanique.
 repere: 1934 — Fouilles menées à la demande de Himmler.
-voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme, axis-mundi
+voir: ahnenerbe, ariosophie, wewelsburg, neopaganisme, axis-mundi, irminsul
 
 @ wewelsburg
 cat: lieux
@@ -228,12 +228,12 @@ lieu: Dornach, Soleure, Suisse
 geo: 47.4861, 7.6203
 def: Siège de la Société anthroposophique à Dornach, près de Bâle, dessiné par Rudolf Steiner : un premier édifice de bois incendié en 1922, puis le grand bâtiment de béton achevé en 1928.
 texte: [[rudolf-steiner|Rudolf Steiner]] fait commencer en 1913 un premier Goetheanum, construction de bois à deux coupoles entrecroisées, sculptée et peinte par des bénévoles venus de toute l'Europe pendant la guerre, pour y jouer ses drames-mystères et les pièces de Goethe. Dans la nuit du Nouvel An 1922-1923, un incendie, probablement criminel, le détruit entièrement.
-texte: Steiner dessine aussitôt un second édifice, en béton, aux formes sculptées sans angle droit, achevé en 1928, trois ans après sa mort. Siège de la [[societe-anthroposophique|Société anthroposophique]] et de l'École de science de l'esprit, le Goetheanum accueille des congrès, des représentations d'eurythmie et le *Faust* de Goethe joué en entier. Il est l'un des monuments importants de l'architecture expressionniste.
+texte: Steiner dessine aussitôt un second édifice, en béton, aux formes sculptées sans angle droit, achevé en 1928, trois ans après sa mort. Siège de la [[societe-anthroposophique|Société anthroposophique]] et de l'École de science de l'esprit, le Goetheanum accueille des congrès, des représentations d'[[eurythmie]] et le *Faust* de Goethe joué en entier. Il est l'un des monuments importants de l'architecture expressionniste.
 texte: Son nom rend hommage à [[johann-wolfgang-von-goethe|Goethe]], dont Steiner avait édité les écrits scientifiques et dont il tenait la vision de la nature pour une première « science de l'esprit ». Les deux parties du *[[faust|Faust]]* y sont jouées intégralement depuis 1938.
 repere: 1913 — Pose de la première pierre du premier Goetheanum.
-repere: 1923 — L'édifice de bois brûle dans la nuit du Nouvel An.
+repere: 1922 — L'édifice de bois brûle dans la nuit du 31 décembre.
 repere: 1928 — Achèvement du second Goetheanum, en béton.
-voir: rudolf-steiner, anthroposophie, societe-anthroposophique, johann-wolfgang-von-goethe, faust, hilma-af-klint
+voir: rudolf-steiner, anthroposophie, societe-anthroposophique, johann-wolfgang-von-goethe, faust, hilma-af-klint, eurythmie, pedagogie-waldorf, biodynamie
 
 @ monte-verita
 cat: lieux

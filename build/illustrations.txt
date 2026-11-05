@@ -611,7 +611,7 @@ pour: joseph-de-maistre
 commons: Josephin Peladan 2.jpg
 legende: Joséphin Péladan en habit de Sâr, par Alexandre Séon
 credit: Alexandre Séon, 1891 — musée des Beaux-Arts de Lyon
-pour: josephin-peladan
+pour: josephin-peladan, mage
 
 = portrait-doinel
 commons: Doinel, Jules.jpg
@@ -926,7 +926,7 @@ pour: monde-primitif
 commons: Joseph Wright of Derby The Alchemist.jpg
 legende: *L’Alchimiste découvrant le phosphore*, par Joseph Wright of Derby
 credit: Joseph Wright of Derby, 1771 — Derby Museum and Art Gallery
-pour: alchimie
+pour: alchimie, phosphore
 largeur: 480
 
 = khunrath-table-emeraude
@@ -1368,7 +1368,7 @@ largeur: 400
 commons: Berruguete ordeal.jpg
 legende: Saint Dominique et les Albigeois : l’épreuve du feu, par Pedro Berruguete
 credit: Pedro Berruguete, vers 1493-1499 — musée du Prado
-pour: catharisme
+pour: catharisme, heresie
 largeur: 400
 
 = della-vecchia-main
@@ -2723,7 +2723,7 @@ pour: ptah
 commons: Silver bust of Serapis MET DT6658.jpg
 legende: Sérapis barbu, le dieu gréco-égyptien des Ptolémées
 credit: argent, IIe siècle — Metropolitan Museum of Art
-pour: serapis
+pour: serapis, syncretisme
 
 = ra-horakhty
 commons: Stela dedicated by Smen to Re-Horakhty, limestone - Museo Egizio, Turin C 1648 p01.jpg
@@ -5445,7 +5445,7 @@ pour: livre-de-la-sagesse
 commons: Prophet Jonah.jpg
 legende: Le prophète Jonas, par Michel-Ange
 credit: Michel-Ange, 1508-1512 — chapelle Sixtine, Vatican
-pour: jonas
+pour: jonas, prophete
 
 = nabuchodonosor-statue
 commons: The Hague, KB, 131 A 3, Nebuchadnezzar's statue.jpeg
@@ -6248,3 +6248,376 @@ credit: aquarelle des collections d’Ulisse Aldrovandi, avant 1600 — biblioth
 largeur: 240
 clair: 0.72
 detourer: 0.06 0.33, 0.12 0.20, 0.22 0.15, 0.30 0.18, 0.36 0.30, 0.40 0.40, 0.55 0.37, 0.65 0.30, 0.70 0.20, 0.78 0.11, 0.81 0.08, 0.83 0.12, 0.86 0.18, 0.88 0.22, 0.84 0.26, 0.85 0.33, 0.82 0.36, 0.79 0.50, 0.72 0.62, 0.64 0.70, 0.66 0.80, 0.70 0.83, 0.58 0.84, 0.52 0.72, 0.44 0.68, 0.48 0.80, 0.50 0.84, 0.42 0.84, 0.40 0.72, 0.34 0.65, 0.26 0.58, 0.20 0.62, 0.12 0.58, 0.07 0.48
+
+% Version 1.12 : Emma Calvé et les siens, Casanova, Raspoutine, les définitions
+
+= portrait-emma-calve
+commons: Emma Calvé, by Théobald Chartran.jpg
+legende: Emma Calvé en Carmen, par Théobald Chartran
+credit: Théobald Chartran, huile sur toile, 1894 — Clark Art Institute, Williamstown
+pour: emma-calve
+
+= cabrieres-viala
+commons: A travers - le - Rouergue - estampe - Eugène Viala - btv1b10462911k (17 of 58).jpg
+legende: Le château de Cabrières, eau-forte d’Eugène Viala
+credit: Eugène Viala, *À travers le Rouergue*, 1898 — Bibliothèque nationale de France
+pour: chateau-de-cabrieres
+recadrer: 0.25 0.26 0.77 0.77
+
+= portrait-jules-bois
+commons: Jules Bois, 1906 - btv1b53220033z.jpg
+legende: Jules Bois à sa table de travail, en 1906
+credit: photographie de l’agence Rol, 1906 — Bibliothèque nationale de France
+pour: jules-bois
+recadrer: 0.20 0.12 0.93 0.95
+
+= portrait-mallarme
+commons: Edouard Manet - Stéphane Mallarmé - Google Art Project.jpg
+legende: Stéphane Mallarmé, par Édouard Manet
+credit: Édouard Manet, huile sur toile, 1876 — musée d’Orsay, Paris
+pour: stephane-mallarme
+
+= chat-noir-steinlen
+commons: Tournée du Chat Noir, by Théophile Alexandre Steinlen.jpg
+legende: L’affiche de la tournée du Chat noir, par Steinlen
+credit: Théophile-Alexandre Steinlen, lithographie en couleurs, 1896
+pour: le-chat-noir
+
+= portrait-casanova
+commons: Casanova ritratto.jpg
+legende: Giacomo Casanova vers trente ans, par son frère Francesco
+credit: Francesco Casanova, vers 1750-1755
+pour: casanova
+
+= portrait-raspoutine
+commons: Rasputin PA.jpg
+legende: Grigori Raspoutine
+credit: photographie anonyme, années 1910
+pour: raspoutine
+
+= faune-nijinski
+commons: Bakst Nizhinsky.jpg
+legende: Nijinski en faune, par Léon Bakst, sur le programme des Ballets russes
+credit: Léon Bakst, 1912
+pour: faune
+recadrer: 0.135 0 1 1
+
+= nymphes-waterhouse
+commons: Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg
+legende: *Hylas et les Nymphes*, de John William Waterhouse
+credit: John William Waterhouse, 1896 — Manchester Art Gallery
+pour: nymphe
+
+= portrait-huxley
+commons: T.H.Huxley resized.jpg
+legende: Thomas Henry Huxley, qui forgea le mot « agnostique »
+credit: photographie de Lock & Whitfield, vers 1880
+pour: agnostique
+
+= etre-supreme-demachy
+commons: Fête de l'Etre suprême 2.jpg
+legende: La fête de l’Être suprême au Champ-de-Mars, le 8 juin 1794
+credit: Pierre-Antoine Demachy, 1794 — musée Carnavalet, Paris
+pour: deisme
+
+= portrait-spinoza
+commons: Baruch Spinoza portrait HAB original.jpg
+legende: Spinoza : « Dieu, c’est-à-dire la Nature »
+credit: portrait anonyme, vers 1665 — Herzog August Bibliothek, Wolfenbüttel
+pour: pantheisme
+recadrer: 0.20 0.14 0.82 0.79
+
+= charlatan-longhi
+commons: Pietro Longhi 015.jpg
+legende: *Le Charlatan*, de Pietro Longhi : Venise au temps de Casanova
+credit: Pietro Longhi, 1757 — Ca’ Rezzonico, Venise
+pour: charlatan
+
+= starets-seraphin
+commons: Seraphim of Sarov (after 1903, priv.coll).jpg
+legende: Séraphin de Sarov, le plus vénéré des startsy russes
+credit: icône russe anonyme, après 1903
+pour: starets
+recadrer: 0.03 0.02 0.97 0.97
+
+= exorcisme-vivarini
+commons: Antonio Vivarini - Saint Peter Martyr Exorcizing a Woman Possessed by a Devil - 1983.384 - Art Institute of Chicago.jpg
+legende: Saint Pierre martyr exorcise une possédée
+credit: Antonio Vivarini, vers 1450 — Art Institute of Chicago
+pour: exorcisme
+
+% Version 1.12, suite : lots M T C A S R P N
+
+= isaie-qumran
+commons: Great Isaiah Scroll Ch53.jpg
+legende: Une colonne du Grand Rouleau d'Isaïe (chapitre 53), manuscrit hébreu sur cuir trouvé dans la première grotte de Qumrân, IIe siècle av. J.-C.
+credit: Musée d'Israël, Jérusalem — photographie d'Ardon Bar Hama
+pour: manuscrits-de-la-mer-morte
+
+= qumran-fouilles
+commons: Dead Sea Scrolls and caves and Qumran Excavations of Essene Monastery. Qumran excavations. General view, Khirbet Qumran (monastery) LOC matpc.13009.jpg
+legende: Les fouilles de Khirbet Qumrân, vue générale
+credit: Matson Photo Service, entre 1947 et 1961 — Library of Congress, collection Matson
+pour: qumran
+recadrer: 0.04 0.05 0.96 0.90
+
+= vieux-de-la-montagne
+commons: Hassan-i Sabbah-1.jpg
+legende: Le Vieux de la Montagne parmi les siens, miniature du *Livre des merveilles* de Marco Polo (« Cy parle du viel de la montaigne et de son estat »)
+credit: Enlumineur anonyme — BnF, manuscrit Français 2810, folio 16 verso
+pour: assassins
+
+= alamut-houlagou
+commons: Designed by BASAWAN; Colored by NAND GWALIOR. Hulagu Khan Destroy the Fort at Alamut. ca. 1596. Virginia MOA.jpg
+legende: Houlagou fait détruire la forteresse d'Alamut, miniature moghole
+credit: Basawan (dessin) et Nand Gwaliori (couleur), vers 1596 — Virginia Museum of Fine Arts
+pour: alamut
+
+# Lot T (Templiers) : illustrations proposées. Licences relevées avec « outil.py commons »
+# (toutes « Public domain »). Aucune n'est déjà dans build/illustrations.txt.
+# Pas d'image pour tresor-des-templiers, foret-d-orient ni montsaunes (voir T-notes.md).
+
+= templiers-bucher
+commons: Templars on Stake.jpg
+legende: Templiers sur le bûcher, miniature d’une chronique anonyme du XIVe siècle
+credit: chronique anonyme allant de la Création à 1384, XIVe siècle — Bibliothèque municipale de Besançon
+pour: proces-des-templiers
+
+= portrait-fabre-palaprat
+commons: Fabré-Palaprat en grand-maître de l'odre des templiers.jpg
+legende: Bernard-Raymond Fabré-Palaprat en costume de grand maître de son ordre du Temple
+credit: gravure anonyme, avant 1838, reproduite dans *Le Mois littéraire et pittoresque*, 1906
+pour: neo-templarisme
+
+= hospitaliers-rhodes
+commons: Siege de rhodes d'aprés guillaume caoursin 1480.JPG
+legende: Le siège de Rhodes par les Ottomans en 1480, d’après une miniature du récit de Guillaume Caoursin
+credit: dessin de Rouargue, *Le Magasin pittoresque*, 1856
+pour: hospitaliers
+
+= lieu-tour-du-temple
+commons: Tour du Temple circa 1795 Ecole Francaise 18th century.jpg
+legende: Le donjon du Temple vers 1795
+credit: école française, vers 1795 — musée Carnavalet, Paris
+pour: enclos-du-temple
+
+= lieu-couvertoirade
+commons: Camp du Larzac - Couvertoirade.jpg
+legende: La Couvertoirade et ses remparts, carte postale ancienne — la légende imprimée les date du XIIIe siècle, ils sont du XVe
+credit: C. Denuc, photographe-éditeur à Marseille, entre 1900 et 1930
+pour: sainte-eulalie-de-cernon
+
+= collier-de-la-reine
+commons: Représentation exacte du grand collier en brillants des Srs Boehmer et Bassenge - gravé d'après la grandeur des diamans - estampe - Taunay - btv1b8410498f.jpg
+legende: *Représentation exacte du grand collier en brillants des sieurs Boehmer et Bassenge*, gravé à la grandeur des diamants
+credit: Nicolas-Antoine Taunay, 1786 — Bibliothèque nationale de France
+pour: affaire-du-collier
+
+= arrestation-rohan
+commons: Arrestation du cardinal de Rohan, PA07778.jpg
+legende: *Arrestation du cardinal de Rohan*, à Versailles, le 15 août 1785
+credit: Charles-Amédée Colin d'après Félix Philippoteaux, XIXe siècle — KU Leuven
+pour: affaire-du-collier
+
+= portrait-cardinal-de-rohan
+commons: Louis-René-Edouard p.ce de Rohan-Guéméné - cardinal de la S.te Eglise Romaine... - estampe - Dupin fil. sculp. - btv1b69423330.jpg
+legende: Le cardinal Louis-René-Édouard de Rohan, prince-évêque de Strasbourg
+credit: Jean-Pierre-Julien Dupin, 1782 — Bibliothèque nationale de France
+pour: cardinal-de-rohan
+recadrer: 0.12 0.13 0.88 0.82
+
+# Lot A (de l'alchimie à la chimie) : illustrations proposées. Licences relevées avec
+# « outil.py commons » (toutes « Public domain »). Aucune n'est déjà dans build/illustrations.txt.
+#
+# PHOSPHORE : le tableau de Joseph Wright of Derby est DÉJÀ dans build/illustrations.txt
+# (« = wright-alchimiste », commons: Joseph Wright of Derby The Alchemist.jpg, pour: alchimie).
+# Il ne faut pas le déclarer une seconde fois : il suffit d'allonger sa ligne en
+#     pour: alchimie, phosphore
+# (je n'ai pas modifié build/illustrations.txt, conformément à la consigne).
+
+# Image petite (400 × 666 points) et que je n'ai pas vue (aucun téléchargement) : à contrôler à l'œil
+# avant de la retenir ; la légende suit la notice de Commons.
+= valentin-table-des-signes
+commons: Alchemical table Valentine (1671).jpg
+legende: Table des signes des alchimistes, dans une édition anglaise du *Dernier Testament* attribué à Basile Valentin
+credit: gravure anonyme, vers 1670
+pour: sept-metaux
+
+= portrait-becher
+commons: Jjbecher.jpg
+legende: Johann Joachim Becher, dont la « terre grasse » devint le phlogistique de Stahl
+credit: Wolfgang Philipp Kilian, 1675
+pour: phlogistique
+
+= glauber-fourneaux
+commons: Fotothek df tg 0007519 Alchemie ^ Chemie ^ Ofen ^ Gefäß.jpg
+legende: Fourneaux et vases à distiller, bois gravés des *Furni novi philosophici* de Glauber
+credit: édition de Johannes Janssonius, Amsterdam, 1661 — Bibliothèque d'État et universitaire de Saxe, Dresde (Deutsche Fotothek)
+pour: johann-rudolf-glauber
+
+= portrait-boyle
+commons: The Shannon Portrait of the Hon Robert Boyle.jpg
+legende: Robert Boyle, deux ans avant sa mort
+credit: Johann Kerseboom, 1689 — Science History Institute
+pour: robert-boyle
+
+= david-lavoisier
+commons: David - Portrait of Monsieur Lavoisier and His Wife.jpg
+legende: *Portrait d’Antoine-Laurent Lavoisier et de sa femme*, commandé par Marie-Anne Paulze à son maître David
+credit: Jacques-Louis David, 1788 — Metropolitan Museum of Art, New York
+pour: antoine-lavoisier
+
+# Lot S (Alsace et Saint-Empire) : illustrations proposées. Licences relevées avec « outil.py commons »
+# (« Public domain », et « CC0 » pour la carte postale du Donon). Aucune n'est déjà dans build/illustrations.txt.
+# Pas d'image pour taennchel : Commons n'a que des photographies récentes sous CC BY-SA.
+
+= hortus-deliciarum-philosophie
+commons: Hortus Deliciarum, Die Philosophie mit den sieben freien Künsten.JPG
+legende: La Philosophie entourée des sept arts libéraux, miniature de l’*Hortus deliciarum* de l’abbesse Herrade, d’après une copie prise avant l’incendie de 1870
+credit: copie coloriée, vers 1818, d’un original de la fin du XIIe siècle détruit en 1870
+pour: mont-sainte-odile
+
+= mur-paien-sainte-odile
+commons: Odilienberg Heidenmauer Mauer.jpg
+legende: Le « mur païen » du mont Sainte-Odile, d’après la *Burgenkunde* d’Otto Piper
+credit: Otto Piper, *Burgenkunde*, Munich, 1912
+pour: mont-sainte-odile
+recadrer: 0 0 1 0.84
+
+= donon-temple-carte-postale
+commons: Carte postale, Le Temple au sommet du Donon.jpg
+legende: Le temple-musée élevé en 1869 au sommet du Donon, sur une carte postale ancienne
+credit: Adolphe Weick, éditeur à Saint-Dié, entre 1880 et 1945 — Limédia galeries
+pour: donon
+
+= heiltumsweisung-nuremberg-1487
+commons: Heiltumsweisung der Reichskleinodien in Nürnberg.jpg
+legende: La présentation annuelle des insignes et des reliques de l’Empire au peuple de Nuremberg
+credit: gravure sur bois d’un livret imprimé à Nuremberg, 1487 — Bayerische Staatsbibliothek
+pour: insignes-du-saint-empire
+
+= durer-charlemagne-insignes
+commons: Albrecht Dürer - Emperor Charlemagne.jpg
+legende: Charlemagne portant la couronne, l’épée et le globe du Saint-Empire, peint pour la maison de Nuremberg où les insignes étaient déposés pendant leur présentation annuelle
+credit: Albrecht Dürer, vers 1511-1513
+pour: insignes-du-saint-empire
+
+= irminsul-leutemann
+commons: The destruction of the Irminsul by Charlemagne.jpg
+legende: La destruction de l’Irminsul par Charlemagne, imaginée par un illustrateur du XIXe siècle
+credit: Heinrich Leutemann, 1882, pour *Nordisch-germanische Götter und Helden*
+pour: irminsul
+
+# Lot R — illustrations proposées pour les romans (format de build/illustrations.txt).
+# Toutes annoncées « Public domain » par outil.py commons pendant la session.
+# Pas d'image pour L'Île aux trente cercueils : le plan de Sarek de Commons (L'ïle de Sarek.svg) est sous CC BY-SA 4.0.
+
+= comtesse-grande-ourse
+commons: Leblanc - La Comtesse de Cagliostro, paru dans Le Journal, 1923-1924 (page 83 crop).jpg
+legende: Les sept abbayes du pays de Caux reliées en Grande Ourse : le schéma publié avec le feuilleton de *La Comtesse de Cagliostro*
+credit: *Le Journal*, 1923-1924 — Gallica, BnF
+pour: la-comtesse-de-cagliostro
+
+= aiguille-document
+commons: Leblanc - L’Aiguille creuse, 1912 (page 93 crop).jpg
+legende: Le document chiffré de *L’Aiguille creuse* : des chiffres pour les voyelles, des points pour les consonnes
+credit: Maurice Leblanc, *L’Aiguille creuse*, éd. Pierre Lafitte, 1912
+pour: l-aiguille-creuse
+
+= 813-poulbot
+commons: Arsène Lupin - 813 - affiche de Poulbot.jpg
+legende: Le meurtre de Kesselbach : affiche de Poulbot pour le feuilleton de *813* dans *Le Journal*
+credit: Francisque Poulbot, 1910
+pour: huit-cent-treize
+
+= fantome-castaigne
+commons: André Castaigne Fantôme Opéra1.jpg
+legende: Erik en Mort rouge descend le grand escalier de l’Opéra, au bal masqué
+credit: André Castaigne, aquarelle pour la première édition américaine du roman, 1911
+pour: le-fantome-de-l-opera
+
+= atlantide-orazi
+commons: Manuel Orazi - L'Atlantide.jpg
+legende: Antinéa, jouée par Stacia Napierkowska : affiche de Manuel Orazi pour le film que Jacques Feyder tira de *L’Atlantide*
+credit: Manuel Orazi, 1921
+pour: l-atlantide-benoit
+largeur: 600
+
+# Lot P — illustrations proposées (format de build/illustrations.txt).
+# Licences lues avec « outil.py commons » le 5 novembre 2026 : toutes « Public domain » ou « CC0 ».
+# Aucune image pour realisme-fantastique (couvertures de Planète sous droits) ni pour
+# grands-travaux (architecture récente : photographies sous CC BY-SA, œuvres protégées).
+
+= portrait-marie-von-sivers
+commons: Marie Steiner.jpg
+legende: Marie von Sivers, qui donna son nom à l'eurythmie et dirigea la première troupe
+credit: photographie anonyme, vers 1903
+pour: eurythmie
+
+= koberwitz-chateau
+commons: Kobierzyce-palac.jpg
+legende: Le château de Koberwitz (Kobierzyce, Pologne), où Rudolf Steiner donna en 1924 le *Cours aux agriculteurs*
+credit: photographie de Julo, 2006
+pour: biodynamie
+
+= waldorf-uhlandshohe
+commons: Landappbw 95261 1819 Waldorfschule Uhlandshöhe Stuttgart.jpg
+legende: L'école Waldorf de l'Uhlandshöhe, à Stuttgart, héritière de l'école ouverte en 1919
+credit: photographie de Martin Hahn, 2019
+pour: pedagogie-waldorf
+
+= portrait-vivekananda
+commons: Swami Vivekananda-1893-09-signed.jpg
+legende: Swami Vivekananda à Chicago, en septembre 1893, avec une dédicace de sa main
+credit: photographie de 1893
+pour: vivekananda
+
+= eckhart-protestation-1327
+commons: Meister Eckhart, recantation, 1327.jpg
+legende: L'acte notarié de la protestation publique de Maître Eckhart, dressé à Cologne le 13 février 1327
+credit: Wolter von Kettwig, notaire, 1327 — Archives vaticanes
+pour: maitre-eckhart
+
+= portrait-levy-bruhl
+commons: Lucien Lévy-Bruhl 1857-1939 (MédiHAL 541273).jpg
+legende: Lucien Lévy-Bruhl, qui décrivit une « mentalité primitive » avant d'y renoncer
+credit: photographie anonyme, 1930 — MédiHAL
+pour: pensee-magique
+recadrer: 0 0 1 0.86
+
+= portrait-atkinson
+commons: A portrait of Dr. Herbert A. Parkyn's protégé and New Thought author, William Walker Atkinson, in 1901.png
+legende: William Walker Atkinson en 1901, cinq ans avant son livre sur la « loi de l'attraction »
+credit: photographie anonyme, 1901
+pour: loi-de-l-attraction
+
+# Lot N : illustrations proposées. Licences relevées avec « outil.py commons »
+# (toutes « Public domain »). Aucune n'est déjà dans build/illustrations.txt.
+# Pas d'image pour perillos ni rene-nelli (Commons n'a que des photographies récentes
+# sous CC BY-SA). Les deux portraits sont de petits fichiers d'auteur inconnu : voir N-notes.md.
+
+= feux-saint-jean-breton
+commons: The Feast of Saint John.jpg
+legende: Jules Breton, *La Fête de la Saint-Jean* : la ronde autour du feu, au soir du 23 juin
+credit: Jules Breton, 1875 — Philadelphia Museum of Art
+pour: feux-de-la-saint-jean
+
+= feux-saint-jean-bretagne
+commons: Feu de la Saint-Jean.jpg
+legende: Un feu de la Saint-Jean en Bretagne
+credit: dessin du *Petit Journal*, 1893
+pour: feux-de-la-saint-jean
+
+= portrait-savoire
+commons: Camille Savoire (1869-1951) portrait.jpg
+legende: Camille Savoire
+credit: photographie anonyme, vers 1920
+pour: camille-savoire
+largeur: 327
+
+= portrait-ribaucourt
+commons: Édouard de Ribaucourt.png
+legende: Édouard de Ribaucourt
+credit: photographie anonyme, vers 1930
+pour: edouard-de-ribaucourt
+largeur: 231

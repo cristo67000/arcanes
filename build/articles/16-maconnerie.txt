@@ -110,7 +110,7 @@ alias: régularité, franc-maçonnerie régulière, maçonnerie régulière, rec
 def: Conformité d'une obédience aux principes fixés par la Grande Loge unie d'Angleterre, condition de sa reconnaissance par les obédiences dites régulières du monde entier.
 texte: Les « principes de base » adoptés par la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]] en 1929 exigent notamment la croyance en un Être suprême, la présence du Volume de la Loi sacrée en loge, l'exclusion des femmes, l'interdiction des discussions religieuses et politiques, et la souveraineté d'une seule Grande Loge par territoire. Une obédience qui les respecte peut être « reconnue », et ses membres visiter les loges des autres.
 texte: Le [[grand-orient-de-france|Grand Orient de France]], qui a rendu facultative en 1877 l'invocation du [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]], est depuis 1878 considéré comme irrégulier par Londres ; en France, seule la [[glnf|Grande Loge nationale française]] est reconnue. Les obédiences « libérales » ou « adogmatiques » répondent qu'elles sont fidèles à l'esprit des *[[constitutions-d-anderson|Constitutions]]* de 1723. On appelle « loge sauvage » une loge qui ne relève d'aucune obédience.
-voir: landmarks, grande-loge-unie-d-angleterre, grand-architecte-de-l-univers, obedience, glnf
+voir: landmarks, grande-loge-unie-d-angleterre, grand-architecte-de-l-univers, obedience, glnf, edouard-de-ribaucourt
 
 @ landmarks
 cat: maconnerie
@@ -327,7 +327,7 @@ alias: GADLU, G∴A∴D∴L∴U∴, Grand Architecte, à la gloire du Grand Arch
 def: Nom par lequel la franc-maçonnerie désigne le principe créateur, sans préciser s'il s'agit du Dieu d'une religion révélée, d'un ordre du monde ou d'un symbole.
 texte: L'expression figure dans les *[[constitutions-d-anderson|Constitutions]]* d'Anderson (1723), qui présentent Dieu comme « le grand Architecte de l'Univers », et elle convenait à une société qui voulait réunir des hommes de confessions différentes. Les maçons ouvrent leurs travaux et datent leurs documents « à la gloire du Grand Architecte de l'Univers », abrégé en A∴L∴G∴D∴G∴A∴D∴L∴U∴.
 texte: En 1877, le [[grand-orient-de-france|Grand Orient de France]], sur la proposition du pasteur Frédéric Desmons, retire de sa constitution l'obligation de croire en Dieu et en l'immortalité de l'âme ; la Grande Loge d'Angleterre rompt avec lui l'année suivante. Depuis, la référence au Grand Architecte est le principal critère de la [[regularite|régularité]] ; la [[grande-loge-de-france|Grande Loge de France]] l'a conservée, tandis que les loges du Grand Orient l'emploient ou non.
-voir: regularite, grand-orient-de-france, constitutions-d-anderson, trois-grandes-lumieres, landmarks
+voir: regularite, grand-orient-de-france, constitutions-d-anderson, trois-grandes-lumieres, landmarks, deisme
 
 @ mots-signes-attouchements
 cat: maconnerie
@@ -381,7 +381,7 @@ alias: secret, serment maçonnique, discrétion, société secrète, société d
 def: L'engagement que prend le franc-maçon de ne pas révéler les rituels, les moyens de reconnaissance et l'appartenance de ses frères ; et ce que, selon la tradition, aucune parole ne peut transmettre.
 texte: Le serment de l'[[initiation-maconnique|initiation]] promettait autrefois d'atroces châtiments symboliques au parjure. Pourtant, les rituels sont imprimés depuis 1730 (voir [[divulgations-maconniques|divulgations]]) et les obédiences ont des sièges, des sites et des porte-parole : la maçonnerie se dit aujourd'hui « discrète » plutôt que secrète. Ce qui reste caché est d'abord l'appartenance de chacun, que nul ne peut dévoiler sans son accord.
 texte: Une idée plus profonde court chez les auteurs ésotériques : le vrai secret maçonnique serait incommunicable par nature, parce qu'il tient à l'expérience intérieure de l'initiation, que les mots ne peuvent pas donner à qui ne l'a pas vécue. Le secret a nourri, en sens inverse, tous les soupçons de l'[[antimaconnisme]].
-voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique, alphabet-maconnique, affaire-des-fiches
+voir: mots-signes-attouchements, divulgations-maconniques, antimaconnisme, exoterique, alphabet-maconnique, affaire-des-fiches, casanova
 
 @ maconnerie-d-adoption
 cat: maconnerie
@@ -443,7 +443,7 @@ alias: York Rite, rite américain, Royal Arch Chapter, Cryptic Masonry, Knights 
 def: Ensemble de grades pratiqués surtout aux États-Unis au-delà des trois grades symboliques : Arche royale, maçonnerie « cryptique » et ordres chevaleresques templiers.
 texte: Le nom rappelle la légende, rapportée par les *[[old-charges|Old Charges]]*, d'une assemblée des maçons tenue à York sous le roi Athelstan, en 926 selon la tradition. Aux États-Unis, le maçon qui a reçu les trois grades de la loge peut poursuivre dans un chapitre de l'[[arche-royale|Arche royale]], un conseil de maîtres « royaux et choisis », puis une commanderie de Chevaliers du Temple, réservée aux chrétiens.
 texte: Le rite d'York est l'une des deux grandes voies de la maçonnerie américaine, à côté du [[rite-ecossais-ancien-et-accepte|Rite écossais ancien et accepté]] ; il nourrit l'imaginaire templier qu'exploitent romans et films sur les [[templiers]].
-voir: arche-royale, rite-ecossais-ancien-et-accepte, templiers, old-charges
+voir: arche-royale, rite-ecossais-ancien-et-accepte, templiers, old-charges, hospitaliers, neo-templarisme
 
 @ arche-royale
 cat: maconnerie
@@ -487,9 +487,9 @@ alias: Stricte Observance, SO, supérieurs inconnus, Hund, néotemplarisme maço
 an: 1751
 dates: des années 1750 à 1782
 def: Système maçonnique allemand fondé par le baron von Hund, qui faisait de la franc-maçonnerie l'héritière secrète de l'ordre du Temple et exigeait l'obéissance à des « supérieurs inconnus ».
-texte: [[karl-gotthelf-von-hund]] affirme avoir été reçu en 1743, à Paris, dans un ordre templier par des chefs dont il ne peut dire les noms. À partir des années 1750, il organise en Allemagne des loges dont les membres, après les grades bleus, deviennent chevaliers sous un nom latin et prêtent obéissance aux « supérieurs inconnus ». Le système gagne une grande partie de la maçonnerie allemande, puis la Suisse, la Russie et, en France, Strasbourg et [[lyon|Lyon]].
+texte: [[karl-gotthelf-von-hund]] affirme avoir été reçu en 1743, à Paris, dans un ordre templier par des chefs dont il ne peut dire les noms. À partir des années 1750, il organise en Allemagne des loges dont les membres, après les grades bleus, deviennent chevaliers sous un nom latin et prêtent obéissance aux « supérieurs inconnus ». La légende de l'ordre veut que le maître provincial d'Auvergne, Pierre d'Aumont, ait fui en Écosse avec quelques frères déguisés en maçons et y ait relevé le Temple. Le système gagne une grande partie de la maçonnerie allemande, puis la Suisse, la Russie et, en France, Strasbourg et [[lyon|Lyon]].
 texte: Faute de voir paraître ces supérieurs et de prouver la filiation templière, le mouvement se divise. Au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), il renonce à se dire héritier des [[templiers]] et adopte la réforme lyonnaise de [[jean-baptiste-willermoz]], d'où sort le [[rite-ecossais-rectifie|Régime écossais rectifié]].
-voir: karl-gotthelf-von-hund, templiers, convent-de-wilhelmsbad, rite-ecossais-rectifie, ordre-du-temple-solaire, couvent-du-christ
+voir: karl-gotthelf-von-hund, templiers, convent-de-wilhelmsbad, rite-ecossais-rectifie, ordre-du-temple-solaire, couvent-du-christ, neo-templarisme, proces-des-templiers
 
 @ rite-de-perfection
 cat: maconnerie
@@ -577,7 +577,7 @@ dates: depuis 1773
 def: La plus ancienne et la plus nombreuse des obédiences françaises, fondée en 1773, connue pour son engagement républicain et laïque et sa liberté de conscience absolue.
 texte: La maçonnerie s'installe en France vers 1725 ; une première Grande Loge se constitue dans les années 1730, sous des grands maîtres comme le comte de Clermont. En 1773, elle se réorganise sous le nom de Grand Orient de France, avec pour grand maître le duc de Chartres, futur Philippe Égalité. Sous l'Empire, Joseph Bonaparte en est le grand maître et Cambacérès le véritable chef ; c'est l'époque où la maçonnerie devient un instrument du régime.
 texte: Sous la IIIe République, beaucoup de ses membres sont des républicains militants, et il participe aux combats pour l'école laïque et la séparation des Églises et de l'État. En 1877, il supprime l'obligation de croire en Dieu (voir [[grand-architecte-de-l-univers|Grand Architecte de l'Univers]]), ce qui le rend « irrégulier » aux yeux de Londres ; en 1904, l'[[affaire-des-fiches|affaire des fiches]] le compromet. Son siège est rue Cadet, à Paris. Il pratique surtout le [[rite-francais|Rite français]], et admet des femmes depuis 2010.
-voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite, hieron-du-val-d-or, landmarks
+voir: rite-francais, grand-architecte-de-l-univers, affaire-des-fiches, obedience, regularite, hieron-du-val-d-or, landmarks, atheisme, edouard-de-ribaucourt, camille-savoire
 
 @ grande-loge-de-france
 cat: maconnerie
@@ -597,9 +597,9 @@ alias: GLNF, Grande Loge nationale indépendante et régulière, maçonnerie ré
 an: 1913
 dates: depuis 1913
 def: Obédience maçonnique masculine française fondée en 1913, la seule en France à être reconnue « régulière » par la Grande Loge unie d'Angleterre.
-texte: En 1913, des maçons de la loge *Le Centre des Amis*, menés par Édouard de Ribaucourt, quittent le [[grand-orient-de-france|Grand Orient]], qu'ils jugent trop engagé en politique et trop éloigné de la tradition, et fondent une Grande Loge « nationale indépendante et régulière », aussitôt reconnue par Londres. Elle prend son nom actuel en 1948.
-texte: Fidèle aux principes de la [[regularite|régularité]] — croyance en Dieu, Bible ouverte en loge, hommes seulement, aucune discussion politique ou religieuse —, elle pratique notamment le [[rite-emulation|rite Émulation]], le [[rite-ecossais-ancien-et-accepte|Rite écossais]] et le [[rite-ecossais-rectifie|Régime rectifié]]. Elle a traversé de 2009 à 2012 une grave crise interne.
-voir: regularite, grande-loge-unie-d-angleterre, rite-emulation, obedience
+texte: En 1913, des maçons de la loge *Le Centre des Amis*, menés par [[edouard-de-ribaucourt|Édouard de Ribaucourt]], quittent le [[grand-orient-de-france|Grand Orient]], qu'ils jugent trop engagé en politique et trop éloigné de la tradition, et fondent une Grande Loge « nationale indépendante et régulière », reconnue dès le mois de novembre par la [[grande-loge-unie-d-angleterre|Grande Loge unie d'Angleterre]], qui l'annonce à son assemblée du 3 décembre 1913. Elle prend son nom actuel en 1948.
+texte: Fidèle aux principes de la [[regularite|régularité]] — croyance en Dieu, Bible ouverte en loge, hommes seulement, aucune discussion politique ou religieuse —, elle pratique notamment le [[rite-emulation|rite Émulation]], le [[rite-ecossais-ancien-et-accepte|Rite écossais]] et le [[rite-ecossais-rectifie|Régime rectifié]]. La Grande Loge nationale française « Opéra » s'en est séparée en 1958. De 2009 à 2012, une grave crise de gouvernance, portée devant les tribunaux, lui vaut une administration judiciaire en 2011 et, en septembre 2012, le retrait de la reconnaissance de Londres, rétablie en juin 2014 ; une partie de ses membres l'a quittée entre-temps pour fonder la Grande Loge de l'Alliance maçonnique française.
+voir: regularite, grande-loge-unie-d-angleterre, rite-emulation, obedience, edouard-de-ribaucourt, camille-savoire
 
 @ droit-humain
 cat: maconnerie

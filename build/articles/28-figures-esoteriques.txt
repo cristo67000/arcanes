@@ -170,7 +170,7 @@ texte: Déclaré aliéné par une commission de médecins en juin 1886, il est r
 repere: 1864 — Avènement ; il appelle Wagner à Munich.
 repere: 1869 — Début de la construction de Neuschwanstein.
 repere: 1886 — Mort dans le lac de Starnberg.
-voir: richard-wagner, lohengrin, graal, bayreuth, cygne
+voir: richard-wagner, lohengrin, graal, bayreuth, cygne, l-ile-aux-trente-cercueils
 
 @ heinrich-himmler
 cat: figures
@@ -185,7 +185,7 @@ repere: 1929 — Reichsführer-SS.
 repere: 1935 — Fondation de l'Ahnenerbe.
 repere: 1941-1945 — Il organise la Shoah.
 repere: 1945 — Suicide à Lunebourg, après son arrestation.
-voir: wewelsburg, ahnenerbe, karl-maria-wiligut, otto-rahn, ariosophie, soleil-noir, atlantide
+voir: wewelsburg, ahnenerbe, karl-maria-wiligut, otto-rahn, ariosophie, soleil-noir, atlantide, irminsul
 
 @ constantin
 cat: figures
@@ -263,14 +263,16 @@ alias: Leblanc, le père d'Arsène Lupin, Clos Lupin
 dates: 1864 – 1941
 an: 1864
 def: Romancier normand, créateur d'Arsène Lupin, dont les énigmes historiques — l'Aiguille creuse, le secret des rois de France, les abbayes dessinant la Grande Ourse — ont inspiré les mythes de Rennes-le-Château.
-texte: Né à [[rouen|Rouen]], fils d'un armateur, Maurice Leblanc vient à Paris pour écrire ; le succès lui vient en 1905 avec le premier récit des aventures d'[[arsene-lupin|Arsène Lupin]], gentleman cambrioleur. Il installe son héros dans la Normandie de son enfance : *L'Aiguille creuse* (1909) fait de la falaise d'[[etretat|Étretat]] la cachette du trésor des rois de France, et *La Comtesse de Cagliostro* (1924) dispose les abbayes du pays de Caux selon la figure de la [[grande-ourse|Grande Ourse]].
-texte: Ces énigmes mêlant histoire, cryptographie et trésors royaux ont fasciné [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], qui ont emprunté à Leblanc plus d'un motif pour construire le mystère de [[rennes-le-chateau|Rennes-le-Château]] ; on a même prétendu que Leblanc aurait été initié à un secret, ce qu'aucun document n'appuie. Sa maison d'Étretat, le Clos Lupin, est aujourd'hui un musée.
+texte: Né à [[rouen|Rouen]], fils d'un armateur, Maurice Leblanc vient à Paris pour écrire ; le succès lui vient en 1905 avec le premier récit des aventures d'[[arsene-lupin|Arsène Lupin]], gentleman cambrioleur. Il installe son héros dans la Normandie de son enfance : *[[l-aiguille-creuse|L'Aiguille creuse]]* (1909) fait de la falaise d'[[etretat|Étretat]] la cachette du trésor des rois de France, et *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924) dispose les abbayes du pays de Caux selon la figure de la [[grande-ourse|Grande Ourse]]. Entre les deux, *[[huit-cent-treize|813]]* (1910) repose sur un nombre et un mot tronqué à déchiffrer, et *[[l-ile-aux-trente-cercueils|L'Île aux trente cercueils]]* (1919) sur une prophétie et une pierre miraculeuse.
+texte: Ces énigmes mêlant histoire, cryptographie et trésors royaux ont fasciné [[pierre-plantard|Pierre Plantard]] et [[gerard-de-sede|Gérard de Sède]], qui ont emprunté à Leblanc plus d'un motif pour construire le mystère de [[rennes-le-chateau|Rennes-le-Château]] ; on a même prétendu, comme Patrick Ferté dans *Arsène Lupin, supérieur inconnu* (1992), que Leblanc aurait été initié à un secret, ce qu'aucun document n'appuie. Sa maison d'Étretat, le Clos Lupin, est aujourd'hui un musée.
 repere: 1864 — Naissance à Rouen.
 repere: 1905 — Première aventure d'Arsène Lupin.
 repere: 1909 — *L'Aiguille creuse*.
+repere: 1910 — *813*.
+repere: 1919 — *L'Île aux trente cercueils*.
 repere: 1924 — *La Comtesse de Cagliostro*.
 repere: 1941 — Mort à Perpignan.
-voir: arsene-lupin, etretat, rouen, rennes-le-chateau, cagliostro, abbayes-normandes, jumieges, maurice-maeterlinck, saint-wandrille
+voir: arsene-lupin, etretat, rouen, rennes-le-chateau, cagliostro, abbayes-normandes, jumieges, maurice-maeterlinck, saint-wandrille, affaire-du-collier, l-aiguille-creuse, la-comtesse-de-cagliostro, huit-cent-treize, l-ile-aux-trente-cercueils
 
 @ jacques-de-voragine
 cat: figures

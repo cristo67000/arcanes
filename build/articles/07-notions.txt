@@ -25,9 +25,9 @@ cat: notions
 nom: Mystique
 alias: mysticisme, mystiques, expérience mystique, union mystique
 def: Expérience d'union directe et intime avec le divin ou l'absolu, et ensemble des doctrines et des pratiques qui y conduisent.
-texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : Maître Eckhart, Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
+texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : [[maitre-eckhart|Maître Eckhart]], Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
 texte: [[antoine-faivre]] distingue la mystique de l'ésotérisme : le mystique tend à dépasser toutes les images et tous les intermédiaires pour s'unir à Dieu, tandis que l'ésotériste s'attache aux symboles, aux [[correspondances]] et aux êtres intermédiaires, et cherche à connaître autant qu'à s'unir. Les deux attitudes se mêlent souvent chez les mêmes auteurs.
-voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase, marguerite-marie-alacoque
+voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase, marguerite-marie-alacoque, starets, maitre-eckhart
 
 @ initiation
 cat: notions
@@ -75,7 +75,7 @@ alias: sympathie, sympathies, antipathie, antipathies, sympatheia
 def: Lien caché par lequel des choses semblables s'attirent et agissent les unes sur les autres à distance, fondement de la magie naturelle.
 texte: Les stoïciens appelaient *sympatheia* la solidarité de toutes les parties du cosmos : la Lune agit sur les marées, le Soleil sur les plantes. [[plotin]] explique la magie par ces sympathies naturelles, que le magicien ne crée pas mais utilise. On y joint les antipathies : le lion craindrait le coq, l'aimant perdrait sa force en présence de l'ail.
 texte: La Renaissance en fait un système. [[marsile-ficin]], [[cornelius-agrippa]] et Giambattista Della Porta dressent des listes de choses solaires, lunaires ou saturniennes, que l'on peut combiner pour attirer une influence. La « poudre de sympathie » du XVIIe siècle prétendait guérir une plaie en traitant le sang resté sur un linge.
-voir: correspondances, magie-naturelle, signatures, ame-du-monde, philosophie-occulte
+voir: correspondances, magie-naturelle, signatures, ame-du-monde, philosophie-occulte, pensee-magique, loi-de-l-attraction
 
 @ signatures
 cat: notions
@@ -288,7 +288,7 @@ alias: Tradition, tradition unique, tradition hyperboréenne, centre suprême
 def: Selon René Guénon et le traditionalisme, vérité métaphysique révélée à l'origine de l'humanité, dont toutes les religions authentiques sont des adaptations.
 texte: [[rene-guenon]] soutient qu'il existe une Tradition unique, d'origine non humaine, dont les grandes religions sont les branches, adaptées à des peuples et à des époques. Elle aurait eu pour premier siège une terre polaire, l'Hyperborée, et se conserverait dans un « centre suprême » caché, qu'il associe au Roi du monde et à l'[[agartha|Agartha]].
 texte: L'idée prolonge la [[prisca-theologia]] de la Renaissance et la « philosophie pérenne ». Elle fonde le [[traditionalisme]] et son jugement sévère sur la modernité, perçue comme la fin d'un [[cycles-cosmiques|cycle]].
-voir: traditionalisme, rene-guenon, prisca-theologia, agartha, cycles-cosmiques, axis-mundi
+voir: traditionalisme, rene-guenon, prisca-theologia, agartha, cycles-cosmiques, axis-mundi, syncretisme
 
 @ cycles-cosmiques
 cat: notions
@@ -318,10 +318,10 @@ alias: Atlantis, Atlantes, continent englouti, Nouvelle Atlantide, Atlantica, or
 def: Île légendaire décrite par Platon, puissance maritime engloutie en un jour et une nuit, devenue pour l'ésotérisme moderne le berceau d'une civilisation et d'une sagesse perdues.
 texte: Dans le *Timée* et le *Critias*, [[platon]] rapporte un récit que les prêtres de Saïs auraient fait au législateur Solon : neuf mille ans plus tôt, au-delà des colonnes d'Héraclès, une île plus grande que l'Asie et la Libye réunies abritait un royaume puissant, aux murailles couvertes d'orichalque, qui tenta d'asservir la Méditerranée, fut repoussé par l'Athènes primitive et disparut sous les flots. La plupart des historiens y voient une fable philosophique.
 texte: La Renaissance la ressuscite. [[francis-bacon|Francis Bacon]] intitule *La Nouvelle Atlantide* (1627) son utopie savante ; [[athanasius-kircher|Athanase Kircher]] en dessine une carte célèbre dans son *Monde souterrain* (1665) ; le Suédois Olaus Rudbeck, dans son *Atlantica* (1679), la place en Suède, et l'astronome Jean-Sylvain Bailly, en 1779, au pôle nord. [[jules-verne|Jules Verne]] fait visiter au professeur Aronnax ses ruines sous-marines dans *Vingt mille lieues sous les mers* (1870), et le poète catalan Jacint Verdaguer lui consacre *L'Atlantide* (1877), dont [[antoni-gaudi|Gaudí]] tira un dragon de fer.
-texte: L'Atlantide moderne naît avec *Atlantis* d'[[ignatius-donnelly|Ignatius Donnelly]] (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. Paul Le Cour fonde en 1926 une société d'études atlantéennes ; les nazis de l'[[ahnenerbe|Ahnenerbe]] et [[heinrich-himmler|Himmler]] rêvent d'une Atlantide nordique, berceau de la « race aryenne ». Pierre Benoit en fait un roman d'aventures (1919), et l'archéologue Spyridon Marinatos rapproche en 1939 la légende de l'éruption de Santorin, qui ravagea la Crète minoenne. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
+texte: L'Atlantide moderne naît avec *Atlantis* d'[[ignatius-donnelly|Ignatius Donnelly]] (1882), qui en fait la source de toutes les civilisations, puis avec la [[theosophie]], pour qui les Atlantes forment la quatrième race-racine, et les visions d'[[edgar-cayce|Edgar Cayce]]. Paul Le Cour fonde en 1926 une société d'études atlantéennes ; les nazis de l'[[ahnenerbe|Ahnenerbe]] et [[heinrich-himmler|Himmler]] rêvent d'une Atlantide nordique, berceau de la « race aryenne ». Pierre Benoit en fait un roman d'aventures, *[[l-atlantide-benoit|L'Atlantide]]* (1919), qui la place au cœur du Hoggar, et l'archéologue Spyridon Marinatos rapproche en 1939 la légende de l'éruption de Santorin, qui ravagea la Crète minoenne. La géologie n'a trouvé aucune trace d'un continent englouti dans l'Atlantique.
 extrait: Ces livres nous apprennent quelle puissante armée Athènes a détruite, armée qui, venue à travers la mer Atlantique, envahissait insolemment l’Europe et l’Asie ; car cette mer était alors navigable, et il y avait au devant du détroit, que vous appelez les Colonnes d’Hercule, une île plus grande que la Libye et l’Asie. (…) Dans la suite de grands tremblements de terre et des inondations engloutirent, en un seul jour et en une nuit fatale, tout ce qu’il y avait chez vous de guerriers ; l’île atlantide disparut sous la mer ; aussi depuis ce temps la mer est-elle devenue inaccessible et a-t-elle cessé d’être navigable par la quantité de limon que l’île abîmée a laissé à sa place.
 source: Platon, *Timée*, 24e-25d, trad. Victor Cousin (*Œuvres de Platon*, t. XII) | ws Timée (trad. Cousin)/Dialogue
-voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale, ignatius-donnelly, francis-bacon, jules-verne, anciens-astronautes, hieron-du-val-d-or, deluge
+voir: lemurie, platon, theosophie, annales-akashiques, tradition-primordiale, ignatius-donnelly, francis-bacon, jules-verne, anciens-astronautes, hieron-du-val-d-or, deluge, l-atlantide-benoit
 
 @ lemurie
 cat: notions

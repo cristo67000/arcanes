@@ -10,7 +10,7 @@ dates: 37 – vers 100
 an: 37
 def: Historien juif du Ier siècle, prêtre de Jérusalem rallié aux Romains, auteur de *La Guerre des Juifs* et des *Antiquités judaïques*, source majeure sur le Temple, sur Salomon et sur les débuts du christianisme.
 texte: Né à Jérusalem en 37 dans une famille de prêtres, Joseph fils de Matthias commande en Galilée les insurgés de la grande révolte contre Rome. Assiégé à Jotapata en 67, il se rend à Vespasien, à qui il prédit l'Empire ; libéré quand la prophétie s'accomplit, il prend le nom de la famille impériale, les Flavii, et assiste aux côtés de Titus au siège de Jérusalem et à l'incendie du Temple, en 70. Il vit ensuite à Rome, pensionné par les empereurs.
-texte: Il y écrit *La Guerre des Juifs*, vers 75, puis les vingt livres des *Antiquités judaïques* (93-94), une histoire de son peuple depuis la Création. On y lit la sagesse magique prêtée à [[salomon|Salomon]], qui aurait composé des incantations contre les démons, et la description du [[temple-de-salomon|Temple]], du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] et de la [[menorah|ménorah]], dont il donne une lecture cosmique : les douze pierres répondent aux mois ou aux signes du zodiaque, les sept lampes aux planètes.
+texte: Il y écrit *La Guerre des Juifs*, vers 75, puis les vingt livres des *Antiquités judaïques* (93-94), une histoire de son peuple depuis la Création. *La Guerre des Juifs* contient la description la plus détaillée que l'on ait des [[esseniens|Esséniens]], qu'il dit avoir fréquentés et qu'il présente comme la troisième « secte » des Juifs, à côté des pharisiens et des sadducéens. On y lit la sagesse magique prêtée à [[salomon|Salomon]], qui aurait composé des incantations contre les démons, et la description du [[temple-de-salomon|Temple]], du [[pectoral-du-grand-pretre|pectoral du grand prêtre]] et de la [[menorah|ménorah]], dont il donne une lecture cosmique : les douze pierres répondent aux mois ou aux signes du zodiaque, les sept lampes aux planètes.
 texte: Les chrétiens l'ont conservé pour un passage célèbre sur Jésus, le *Testimonium Flavianum*, sans doute retouché par un copiste chrétien, et pour ce qu'il rapporte de [[jean-baptiste|Jean-Baptiste]] et de [[salome|Salomé]], dont il est le premier à donner le nom. Jean Fouquet a illustré ses *Antiquités* vers 1470 (voir [[construction-du-temple]]).
 repere: 37 — Naissance à Jérusalem, dans une famille de prêtres.
 repere: 67 — Assiégé à Jotapata, il se rend aux Romains et prédit l'Empire à Vespasien.
@@ -18,7 +18,7 @@ repere: 70 — Il assiste à la prise de Jérusalem et à l'incendie du Temple.
 repere: vers 75 — *La Guerre des Juifs*.
 repere: 93-94 — *Antiquités judaïques*.
 oeuvres: La Guerre des Juifs (vers 75) ; Antiquités judaïques (93-94) ; Autobiographie ; Contre Apion
-voir: salomon, temple-de-salomon, pectoral-du-grand-pretre, menorah, jean-baptiste, salome, philon-d-alexandrie, construction-du-temple, pierres-de-naissance
+voir: salomon, temple-de-salomon, pectoral-du-grand-pretre, menorah, jean-baptiste, salome, philon-d-alexandrie, construction-du-temple, pierres-de-naissance, esseniens, qumran
 
 @ clement-d-alexandrie
 cat: figures
@@ -126,14 +126,14 @@ dates: 1854 – 1941
 an: 1854
 def: Anthropologue écossais, auteur du *Rameau d'or*, vaste comparaison des mythes, des rites et de la magie, qui fit du roi sacrifié et des cultes agraires les clés des religions.
 texte: Né à Glasgow en 1854, fellow du Trinity College de Cambridge presque toute sa vie, Frazer n'a guère voyagé : il travaille sur les récits des missionnaires, des voyageurs et des auteurs anciens. *Le Rameau d'or* (*The Golden Bough*, 1890) part d'une énigme : pourquoi, dans le bois sacré de Némi, près de Rome, le prêtre de Diane devait-il tuer son prédécesseur ? L'ouvrage grossit jusqu'à douze volumes (1906-1915), avant un abrégé en 1922. Frazer est anobli en 1914 et meurt à Cambridge en 1941.
-texte: Il distingue deux principes de la [[magie]], la similitude et la contagion — le semblable produit le semblable, ce qui a été en contact continue d'agir —, et fait se succéder la magie, la religion et la science. Ses dieux qui meurent et renaissent avec la végétation, Adonis, Attis, [[osiris|Osiris]], ont inspiré à T. S. Eliot *La Terre vaine* et nourri la lecture des [[mythe|mythes]] par les rites agraires (voir [[allegorese]]). Les ethnologues ont depuis abandonné son évolutionnisme et sa méthode, qui arrache les faits à leur contexte.
+texte: Il distingue deux principes de la [[magie]], la similitude et la contagion — le semblable produit le semblable, ce qui a été en contact continue d'agir —, et fait se succéder la magie, la religion et la science. Ses dieux qui meurent et renaissent avec la végétation, Adonis, Attis, [[osiris|Osiris]], ont inspiré à T. S. Eliot *La Terre vaine* et nourri la lecture des [[mythe|mythes]] par les rites agraires (voir [[allegorese]]). Les ethnologues ont depuis abandonné son évolutionnisme et sa méthode, qui arrache les faits à leur contexte ; ses deux lois restent le point de départ de ce qu'on appelle la [[pensee-magique|pensée magique]].
 repere: 1854 — Naissance à Glasgow.
 repere: 1890 — *Le Rameau d'or*, en deux volumes.
 repere: 1906-1915 — La troisième édition, en douze volumes.
 repere: 1914 — Il est anobli.
 repere: 1941 — Mort à Cambridge.
 oeuvres: Le Rameau d'or (1890 ; 1906-1915) ; Le Totémisme et l'Exogamie (1910)
-voir: magie, allegorese, mythe, osiris, chamanisme, mircea-eliade
+voir: magie, allegorese, mythe, osiris, chamanisme, mircea-eliade, pensee-magique, feux-de-la-saint-jean
 
 @ henri-bergson
 cat: figures

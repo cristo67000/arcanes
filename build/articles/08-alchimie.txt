@@ -10,10 +10,10 @@ an: -200
 dates: depuis l'Égypte gréco-romaine
 def: Art de transformer la matière, né dans l'Égypte gréco-romaine, qui cherchait à changer les métaux vils en or et à préparer des remèdes universels, et que beaucoup ont vécu aussi comme une voie de transformation intérieure.
 texte: Le mot vient de l'arabe *al-kîmiyâ*, lui-même tiré du grec. Les premiers textes alchimiques sont grecs et égyptiens, autour du début de notre ère ; [[zosime-de-panopolis]] en est le premier auteur connu. L'art passe aux savants arabes — le corpus de [[jabir-ibn-hayyan|Jâbir]], al-Râzî —, qui le dotent d'une théorie des métaux faits de [[soufre]] et de [[mercure-principe|mercure]], puis à l'Europe latine au XIIe siècle. Il vise la [[pierre-philosophale]], capable de réaliser la [[transmutation]] des métaux, et l'[[elixir-de-longue-vie|élixir]] qui guérit toutes les maladies.
-texte: Jusqu'à la fin du XVIIe siècle, alchimie et chimie ne font qu'un : les historiens parlent de « chymie ». Les alchimistes ont mis au point des appareils, des acides, des procédés de distillation et de purification, et [[paracelse]] tourne l'art vers la préparation des médicaments. La séparation des deux mots se fait vers 1700 ; l'alchimie devient alors synonyme de quête chimérique.
+texte: Jusqu'à la fin du XVIIe siècle, alchimie et chimie ne font qu'un : les historiens parlent de « chymie ». Les alchimistes ont mis au point des appareils, des acides, des procédés de distillation et de purification, et [[paracelse]] tourne l'art vers la préparation des médicaments. La séparation des deux mots se fait vers 1700 ; l'alchimie devient alors synonyme de quête chimérique. À la fin du XVIIIe siècle, [[antoine-lavoisier|Lavoisier]] écarte le [[phlogistique]], dernier héritier des principes alchimiques, et la nomenclature de 1787 efface jusqu'aux noms planétaires des [[sept-metaux|sept métaux]].
 texte: Mais l'alchimie a toujours eu aussi une dimension religieuse : purifier la matière, c'est se purifier soi-même, et le [[grand-oeuvre|Grand Œuvre]] décrit la mort et la résurrection. Au XIXe siècle, certains auteurs la réduisent à une allégorie spirituelle ; [[carl-gustav-jung]] y voit une projection des processus de l'inconscient. Les historiens actuels insistent sur l'unité des deux aspects, pratique et symbolique.
 schema: grand-oeuvre
-voir: grand-oeuvre, pierre-philosophale, transmutation, hermetisme, operations-alchimiques, tria-prima
+voir: grand-oeuvre, pierre-philosophale, transmutation, hermetisme, operations-alchimiques, tria-prima, sept-metaux, robert-boyle, antoine-lavoisier, phosphore
 
 @ grand-oeuvre
 cat: alchimie
@@ -34,7 +34,7 @@ texte: Malgré son nom, la pierre est généralement décrite comme une poudre, 
 texte: La pierre est aussi la « médecine » des métaux et des hommes : la tradition lui attribue le pouvoir de rétablir la santé, d'où l'[[elixir-de-longue-vie|élixir de longue vie]]. Pour les alchimistes chrétiens, comme [[heinrich-khunrath]], le Christ est la vraie pierre ; pour [[carl-gustav-jung]], elle figure le Soi, la totalité de la personne.
 extrait: La Pierre Philosophale parfaite est une poudre rouge qui a la propriété de transformer toutes les impuretés de la nature. ¶ On croit généralement qu’elle ne peut servir, d’après les alchimistes, qu’à changer du plomb ou du mercure en or. C’est une erreur. La théorie alchimique dérive de sources bien trop spéculatives pour localiser ainsi ses effets. L’évolution étant une des grandes lois de la nature, ainsi que l’enseignait il y a plusieurs siècles l’hermétisme, la Pierre Philosophale fait évoluer rapidement ce que les formes naturelles mettent de longues années à produire, voilà pourquoi elle agit, disent les adeptes, sur les règnes végétal et animal aussi bien que sur le règne minéral et peut s’appeler médecine des trois règnes.
 source: Papus, *La Pierre philosophale*, 1889, chap. II | gallica bpt6k97563565 | ws La Pierre philosophale/II
-voir: grand-oeuvre, transmutation, projection, elixir-de-longue-vie, chrysopee, rubedo, magistere
+voir: grand-oeuvre, transmutation, projection, elixir-de-longue-vie, chrysopee, rubedo, magistere, phosphore
 
 @ elixir-de-longue-vie
 cat: alchimie
@@ -50,8 +50,8 @@ cat: alchimie
 nom: Transmutation
 alias: transmutation des métaux, transmuter
 def: Changement d'un métal en un autre, en particulier d'un métal vil en or, but principal de l'alchimie.
-texte: Pour les alchimistes, tous les métaux sont formés des mêmes principes, le [[soufre]] et le [[mercure-principe|mercure]], plus ou moins purs et équilibrés : la nature les mûrit lentement sous terre jusqu'à l'or, le plus parfait. L'art ne fait qu'accélérer ce mûrissement. Les récits de transmutations réussies devant témoins abondent au XVIIe siècle ; le plus célèbre est celui du médecin Helvétius, à La Haye, en 1666, dont le philosophe Spinoza parle dans une lettre.
-texte: La chimie moderne a établi que les éléments ne se changent pas les uns dans les autres par des réactions chimiques. La physique nucléaire a pourtant montré que la transmutation existe : la radioactivité transforme naturellement certains atomes, et l'on a obtenu en 1941 de l'or à partir de mercure dans un accélérateur — en quantités infimes et à un coût sans rapport avec sa valeur.
+texte: Pour les alchimistes, les [[sept-metaux|sept métaux]] sont tous formés des mêmes principes, le [[soufre]] et le [[mercure-principe|mercure]], plus ou moins purs et équilibrés : la nature les mûrit lentement sous terre jusqu'à l'or, le plus parfait. L'art ne fait qu'accélérer ce mûrissement. Les récits de transmutations réussies devant témoins abondent au XVIIe siècle ; le plus célèbre est celui du médecin Helvétius, à La Haye, en 1666, dont le philosophe Spinoza parle dans une lettre. [[robert-boyle|Robert Boyle]] lui-même la croyait possible, et fit abroger en 1689 la loi anglaise qui punissait les « multiplicateurs » d'or.
+texte: Depuis [[antoine-lavoisier|Lavoisier]], qui dresse en 1789 la liste des substances que l'analyse ne décompose pas, la chimie tient que les éléments ne se changent pas les uns dans les autres par des réactions chimiques. La physique nucléaire a pourtant montré que la transmutation existe : la radioactivité transforme naturellement certains atomes, et l'on a obtenu en 1941 de l'or à partir de mercure dans un accélérateur — en quantités infimes et à un coût sans rapport avec sa valeur.
 voir: pierre-philosophale, chrysopee, projection, alchimie, soufre
 
 @ chrysopee
@@ -60,8 +60,8 @@ nom: Chrysopée
 alias: chrysopoeia, argyropée, argyropee, fabrication de l'or, Chrysopée de Cléopâtre
 def: Art de faire de l'or, et, par extension, la transmutation des métaux en or ; on appelle argyropée la fabrication de l'argent.
 texte: Les deux mots viennent du grec *chrysos*, l'or, et *argyros*, l'argent. La *Chrysopée de Cléopâtre*, feuillet d'un manuscrit grec de l'alchimie antique, porte l'un des plus anciens dessins d'[[ouroboros]], le serpent qui se mord la queue, entouré des mots « Un est le Tout ».
-texte: Les alchimistes plus spirituels méprisaient parfois la chrysopée, recherche de l'or pour lui-même, qu'ils laissaient aux [[souffleur|souffleurs]] ; d'autres la tenaient pour la preuve matérielle de la réussite de l'œuvre.
-voir: transmutation, pierre-philosophale, ouroboros, souffleur, porte-alchimique
+texte: Les alchimistes plus spirituels méprisaient parfois la chrysopée, recherche de l'or pour lui-même, qu'ils laissaient aux [[souffleur|souffleurs]] ; d'autres la tenaient pour la preuve matérielle de la réussite de l'œuvre. En Angleterre, une loi de 1404 punissait la « multiplication » de l'or et de l'argent ; [[robert-boyle|Robert Boyle]], qui cherchait lui-même la chrysopée, la fit abroger en 1689.
+voir: transmutation, pierre-philosophale, ouroboros, souffleur, porte-alchimique, robert-boyle
 
 @ spagyrie
 cat: alchimie
@@ -77,9 +77,9 @@ cat: alchimie
 nom: Iatrochimie
 alias: iatrochimiste, chimiatrie, médecine chimique, guerre de l'antimoine
 def: Médecine fondée sur la chimie, inaugurée par Paracelse, qui explique la vie et la maladie par des processus chimiques et soigne par des remèdes préparés au laboratoire.
-texte: Le mot vient du grec *iatros*, médecin. Contre la médecine des humeurs, [[paracelse]] et ses disciples, puis le Flamand Jean-Baptiste van Helmont et le Hollandais Franciscus Sylvius, voient dans la digestion, la respiration ou la fièvre des fermentations et des effervescences. Ils introduisent dans la pharmacie les sels de mercure, de fer et d'[[antimoine]].
-texte: En France, la faculté de médecine de Paris interdit l'antimoine en 1566 ; la « guerre de l'antimoine » dure un siècle, jusqu'à ce que le jeune Louis XIV, guéri en 1658, dit-on, par un vin émétique, fasse lever l'interdit. L'iatrochimie est l'un des chemins par lesquels l'alchimie a conduit à la chimie et à la pharmacie modernes.
-voir: paracelse, paracelsisme, antimoine, spagyrie, archee
+texte: Le mot vient du grec *iatros*, médecin. Contre la médecine des humeurs, [[paracelse]] et ses disciples, puis le Flamand Jean-Baptiste van Helmont et le Hollandais Franciscus Sylvius, voient dans la digestion, la respiration ou la fièvre des fermentations et des effervescences. Ils introduisent dans la pharmacie les sels de mercure, de fer et d'[[antimoine]]. L'apothicaire [[johann-rudolf-glauber|Johann Rudolf Glauber]] y ajoute, au milieu du XVIIe siècle, son « sel admirable », le sulfate de sodium, purgatif qui a gardé son nom.
+texte: En France, la faculté de médecine de Paris interdit l'antimoine en 1566 ; la « guerre de l'antimoine » dure un siècle, jusqu'à ce que la guérison du jeune Louis XIV, en 1658, attribuée à un vin émétique, fasse lever l'interdit en 1666. L'iatrochimie est l'un des chemins par lesquels l'alchimie a conduit à la chimie et à la pharmacie modernes.
+voir: paracelse, paracelsisme, antimoine, spagyrie, archee, johann-rudolf-glauber
 
 @ materia-prima
 cat: alchimie
@@ -106,9 +106,9 @@ alias: soufre philosophique, principe soufre, sulphur
 glyphe: soufre
 def: Dans la théorie alchimique, principe chaud, sec, actif et combustible des métaux, opposé et complémentaire au mercure ; on l'appelle aussi l'âme de la matière.
 texte: Le corpus de [[jabir-ibn-hayyan|Jâbir]] et ses successeurs expliquent que les métaux se forment sous terre par l'union du soufre et du [[mercure-principe|mercure]]. Le soufre apporte la couleur, la fixité et la combustibilité ; selon sa pureté, il donne l'or, le cuivre ou le fer. Il ne s'agit pas du soufre ordinaire, mais d'un principe, que le soufre commun ne fait qu'évoquer.
-texte: Masculin, solaire et fixe, le soufre est figuré par le roi, le lion ou le Soleil, tandis que le mercure est la reine, l'aigle ou la Lune. [[paracelse]] l'intègre à ses [[tria-prima|trois principes]], où il représente l'âme, entre l'esprit et le corps.
+texte: Masculin, solaire et fixe, le soufre est figuré par le roi, le lion ou le Soleil, tandis que le mercure est la reine, l'aigle ou la Lune. [[paracelse]] l'intègre à ses [[tria-prima|trois principes]], où il représente l'âme, entre l'esprit et le corps. À la fin du XVIIe siècle, Becher et Stahl en tirent le [[phlogistique]], principe du feu que la chimie gardera jusqu'à Lavoisier.
 schema: tria-prima
-voir: mercure-principe, sel, tria-prima, transmutation
+voir: mercure-principe, sel, tria-prima, transmutation, phlogistique
 
 @ mercure-principe
 cat: alchimie
@@ -116,7 +116,7 @@ nom: Mercure (principe)
 alias: mercure alchimique, principe mercure, vif-argent, argent vif
 glyphe: mercure
 def: Dans la théorie alchimique, principe froid, humide, volatil et féminin des métaux, qui leur donne leur éclat et leur fusibilité ; on l'appelle aussi l'esprit de la matière.
-texte: Le vif-argent, seul métal liquide, fascinait les alchimistes : il dissout l'or, s'évapore et se condense, se fige au contact du soufre en cinabre rouge. Ils en font le principe de la « métallité » : tous les métaux sont des mercures plus ou moins « coagulés » par le [[soufre]].
+texte: Le vif-argent, seul liquide des [[sept-metaux|sept métaux]], fascinait les alchimistes : il dissout l'or, s'évapore et se condense, se fige au contact du soufre en cinabre rouge. Ils en font le principe de la « métallité » : tous les métaux sont des mercures plus ou moins « coagulés » par le [[soufre]].
 texte: Pour [[paracelse]], il est l'esprit, principe de volatilité, dans la triade qu'il forme avec le soufre et le [[sel]]. Le mercure est figuré par la reine, l'aigle, la Lune, le serpent ou le dieu Hermès avec son [[caducee|caducée]]. Le « mercure des philosophes » qu'on prépare pour l'œuvre est un agent particulier, le [[mercure-philosophique]].
 schema: tria-prima
 voir: soufre, sel, tria-prima, mercure-philosophique, mercure
@@ -138,9 +138,9 @@ nom: Trois principes
 alias: tria prima, tria principia, sel soufre mercure, trois substances
 def: Doctrine de Paracelse selon laquelle toute chose est composée de trois principes, le soufre, le mercure et le sel, correspondant à l'âme, à l'esprit et au corps.
 texte: [[paracelse]] ajoute le [[sel]] au couple traditionnel du [[soufre]] et du [[mercure-principe|mercure]]. Ces trois principes ne remplacent pas les [[quatre-elements|quatre éléments]] mais en décrivent la composition intime : chaque élément, chaque corps, contient du soufre combustible, du mercure volatil et du sel fixe, en proportions différentes. La maladie naît d'un déséquilibre entre eux.
-texte: La triade, qui s'accorde avec la Trinité, a dominé la chimie des XVIe et XVIIe siècles. Les chimistes l'ont abandonnée lorsqu'ils ont constaté qu'on ne pouvait isoler ces principes, mais elle reste un symbole majeur de l'ésotérisme.
+texte: La triade, qui s'accorde avec la Trinité, a dominé la chimie des XVIe et XVIIe siècles. [[robert-boyle|Robert Boyle]] la conteste dès 1661 dans son *Chimiste sceptique* ; les chimistes l'ont abandonnée lorsqu'ils ont constaté qu'on ne pouvait isoler ces principes, mais elle reste un symbole majeur de l'ésotérisme.
 schema: tria-prima
-voir: soufre, mercure-principe, sel, paracelse, quatre-elements
+voir: soufre, mercure-principe, sel, paracelse, quatre-elements, robert-boyle, phlogistique
 
 @ quatre-elements
 cat: alchimie
@@ -228,7 +228,7 @@ cat: alchimie
 nom: V.I.T.R.I.O.L.
 alias: VITRIOL, vitriol, Visita interiora terrae, huile de vitriol, cabinet de réflexion
 def: Acrostiche latin des alchimistes, « Visite l'intérieur de la terre, et en rectifiant tu trouveras la pierre cachée », formé sur le nom du vitriol, sel employé dans l'œuvre.
-texte: Le vitriol désignait les sulfates métalliques, dont le vitriol vert (sulfate de fer) ; en le distillant, on obtenait l'« huile de vitriol », notre acide sulfurique, l'un des plus puissants dissolvants connus. La formule *Visita Interiora Terrae Rectificando Invenies Occultum Lapidem* apparaît dans un traité attribué à [[basile-valentin]] au début du XVIIe siècle.
+texte: Le vitriol désignait les sulfates métalliques, dont le vitriol vert (sulfate de fer) ; en le distillant, on obtenait l'« huile de vitriol », notre acide sulfurique — le nom date de la nomenclature de [[antoine-lavoisier|Lavoisier]], en 1787 —, l'un des plus puissants dissolvants connus. La formule *Visita Interiora Terrae Rectificando Invenies Occultum Lapidem* apparaît dans un traité attribué à [[basile-valentin]] au début du XVIIe siècle.
 texte: Elle se lit à double sens : chercher la matière au cœur de la terre, et descendre en soi-même pour y trouver la pierre. La [[franc-maconnerie]] l'a reprise : elle est écrite sur le mur du « cabinet de réflexion » où le candidat médite avant son [[initiation]].
 voir: basile-valentin, materia-prima, franc-maconnerie, initiation, lion-vert
 
@@ -320,8 +320,8 @@ nom: Calcination
 alias: calciner, calx, chaux métallique
 def: Opération qui consiste à chauffer fortement une matière pour la réduire en poudre ou en cendres, souvent la première étape de l'œuvre.
 texte: Chauffés à l'air, les métaux se changent en une poudre, la « chaux » (*calx*). Les alchimistes y voyaient une mort du métal, dépouillé de sa forme, prélude à sa purification. Calciner une plante permet d'en extraire le [[sel]].
-texte: L'explication de la calcination a joué un rôle clé dans la naissance de la chimie moderne : Lavoisier montre en 1774-1777 que le métal calciné gagne du poids en absorbant une part de l'air, l'oxygène.
-voir: operations-alchimiques, sel, nigredo
+texte: L'explication de la calcination a joué un rôle clé dans la naissance de la chimie moderne : [[antoine-lavoisier|Lavoisier]] montre en 1774-1777, contre la théorie du [[phlogistique]], que le métal calciné gagne du poids en absorbant une part de l'air, l'oxygène.
+voir: operations-alchimiques, sel, nigredo, phlogistique, antoine-lavoisier
 
 @ putrefaction
 cat: alchimie
@@ -348,9 +348,9 @@ cat: alchimie
 nom: Distillation
 alias: distiller, eau-de-vie, rectification, eaux distillées
 def: Opération qui sépare les composants d'un liquide en le chauffant pour en recueillir les vapeurs condensées, pratiquée et perfectionnée par les alchimistes.
-texte: Connue des alchimistes gréco-égyptiens, la distillation est développée par les savants arabes, puis par les Latins, qui obtiennent au XIIe ou XIIIe siècle l'alcool, l'« eau ardente » ou « eau-de-vie ». On distille aussi les plantes pour en extraire les eaux et les huiles essentielles, et l'on répète l'opération pour obtenir des produits toujours plus purs : c'est la rectification.
+texte: Connue des alchimistes gréco-égyptiens, la distillation est développée par les savants arabes, puis par les Latins, qui obtiennent au XIIe ou XIIIe siècle l'alcool, l'« eau ardente » ou « eau-de-vie ». On distille aussi les plantes pour en extraire les eaux et les huiles essentielles, et l'on répète l'opération pour obtenir des produits toujours plus purs : c'est la rectification. C'est en distillant le résidu de l'urine évaporée que l'alchimiste Hennig Brand obtient à Hambourg, vers 1669, le [[phosphore]] ; et c'est avec des fourneaux à distiller de son invention que [[johann-rudolf-glauber|Glauber]] prépare, au milieu du XVIIe siècle, les acides minéraux.
 texte: Les alchimistes voyaient dans la distillation l'image de l'âme qui monte au ciel et redescend, et dans l'alcool, incorruptible et inflammable, la [[quintessence]].
-voir: alambic, quintessence, operations-alchimiques, bain-marie
+voir: alambic, quintessence, operations-alchimiques, bain-marie, phosphore, johann-rudolf-glauber
 
 @ projection
 cat: alchimie
@@ -367,9 +367,9 @@ nom: Alkahest
 alias: alcahest, dissolvant universel, liquor alkahest
 def: Dissolvant universel imaginé par Paracelse et recherché par Van Helmont, capable de réduire toute substance à sa matière première.
 texte: Le mot apparaît chez [[paracelse]] ; Jean-Baptiste van Helmont en fait le grand secret de la [[iatrochimie]] : un liquide qui dissoudrait toute chose sans s'altérer lui-même, et permettrait de préparer des remèdes d'une puissance inouïe.
-texte: [[jan-baptist-van-helmont|Van Helmont]], pour qui toute chose est faite d'eau, le décrit comme une liqueur très subtile qui ramène les corps à leur eau première et sépare leurs principes sans les détruire. L'étymologie reste obscure : Johann Rudolf Glauber y lisait le latin *alkali est*, « c'est un alcali ».
+texte: [[jan-baptist-van-helmont|Van Helmont]], pour qui toute chose est faite d'eau, le décrit comme une liqueur très subtile qui ramène les corps à leur eau première et sépare leurs principes sans les détruire. L'étymologie reste obscure : [[johann-rudolf-glauber|Johann Rudolf Glauber]] y lisait le latin *alkali est*, « c'est un alcali ».
 texte: Le chimiste Johann Kunckel souleva une objection restée célèbre : si l'alkahest dissout tout, dans quel vase pourrait-on le conserver ? Les chimistes ont cessé de le chercher au XVIIIe siècle.
-texte: George Starkey, que l'on croit l'auteur des traités d'[[eirenee-philalethe|Eirénée Philalèthe]], y travailla des années, et son *Liquor Alchahest* parut en 1675, après sa mort ; Robert Boyle s'y intéressa aussi. L'alkahest reste, avec la [[pierre-philosophale|pierre philosophale]], l'un des grands rêves de la chimie du XVIIe siècle.
+texte: George Starkey, que l'on croit l'auteur des traités d'[[eirenee-philalethe|Eirénée Philalèthe]], y travailla des années, et son *Liquor Alchahest* parut en 1675, après sa mort ; [[robert-boyle|Robert Boyle]] s'y intéressa aussi. L'alkahest reste, avec la [[pierre-philosophale|pierre philosophale]], l'un des grands rêves de la chimie du XVIIe siècle.
 voir: iatrochimie, paracelse, mercure-philosophique, materia-prima, jan-baptist-van-helmont, eirenee-philalethe
 
 @ homoncule
@@ -386,9 +386,9 @@ cat: alchimie
 nom: Or potable
 alias: aurum potabile, or buvable
 def: Préparation d'or rendue buvable, que les alchimistes et les médecins de la Renaissance tenaient pour un remède universel, capable de conserver la jeunesse.
-texte: L'or, métal incorruptible, devait communiquer son incorruptibilité au corps. Les recettes d'or potable se multiplient aux XVIe et XVIIe siècles ; la plupart ne contenaient que des traces d'or, voire aucune. On le vendait très cher aux princes.
+texte: L'or, métal incorruptible, devait communiquer son incorruptibilité au corps. Les recettes d'or potable se multiplient aux XVIe et XVIIe siècles ; la plupart ne contenaient que des traces d'or, voire aucune. On le vendait très cher aux princes. En 1646, l'apothicaire [[johann-rudolf-glauber|Johann Rudolf Glauber]] consacre un traité au « véritable » or potable, qu'il oppose à celui des sophistes.
 texte: En 2009, l'analyse des restes de Diane de Poitiers, favorite d'Henri II, célèbre pour sa jeunesse conservée, a révélé une concentration d'or si élevée qu'elle a pu contribuer à sa mort : elle en buvait sans doute régulièrement.
-voir: elixir-de-longue-vie, pierre-philosophale, iatrochimie
+voir: elixir-de-longue-vie, pierre-philosophale, iatrochimie, johann-rudolf-glauber
 
 @ azoth
 cat: alchimie
@@ -396,7 +396,7 @@ nom: Azoth
 alias: azoch, azot
 def: Nom alchimique du mercure des philosophes, et plus largement de l'agent universel de l'œuvre, compris comme le commencement et la fin de toutes choses.
 texte: Le mot vient de l'arabe *al-zâwûq*, le mercure. Les alchimistes de la Renaissance le décomposent en A et Z, alpha et oméga : l'azoth est le premier et le dernier, la matière et le remède. [[paracelse]] passait pour garder dans le pommeau de son épée, gravé de ce mot, un remède secret ou un esprit familier.
-texte: [[eliphas-levi]] fait de l'azoth un autre nom de la [[lumiere-astrale]]. Le mot « azote », inventé par Lavoisier pour un gaz impropre à la vie, a une tout autre origine, grecque.
+texte: [[eliphas-levi]] fait de l'azoth un autre nom de la [[lumiere-astrale]]. Le mot « azote », inventé par [[antoine-lavoisier|Lavoisier]] pour un gaz impropre à la vie, a une tout autre origine, grecque.
 voir: mercure-philosophique, paracelse, lumiere-astrale, elixir-de-longue-vie
 
 @ antimoine
@@ -407,7 +407,7 @@ glyphe: antimoine
 def: Métalloïde gris et brillant, dont le minerai, la stibine, joua un grand rôle dans l'alchimie et la médecine chimique des XVIe et XVIIe siècles.
 texte: Fondu avec de l'or impur, le minerai d'antimoine absorbe les autres métaux et laisse l'or purifié : c'est le « loup gris » qui dévore le roi dans les gravures de [[basile-valentin]], dont le *Char triomphal de l'antimoine* (1604) en fait l'éloge. Le métal obtenu, le « régule », cristallise parfois en forme d'étoile, ce qui fascinait [[isaac-newton]] et [[eirenee-philalethe|Philalèthe]] : ils l'utilisaient pour préparer le [[mercure-philosophique|mercure des philosophes]].
 texte: En médecine, les composés d'antimoine, violents émétiques, provoquent la « guerre de l'antimoine » entre partisans de la [[iatrochimie]] et défenseurs de la médecine ancienne. Le symbole alchimique de l'antimoine est un cercle surmonté d'une croix.
-voir: basile-valentin, iatrochimie, lion-vert, mercure-philosophique, materia-prima, loup
+voir: basile-valentin, iatrochimie, lion-vert, mercure-philosophique, materia-prima, loup, sept-metaux
 
 @ rosee
 cat: alchimie
@@ -425,7 +425,7 @@ alias: souffleurs, puffer, alchimiste charlatan
 def: Nom méprisant donné aux faux alchimistes qui, sans connaître la théorie, s'épuisaient à souffler sur leurs fourneaux dans l'espoir de faire de l'or.
 texte: Le souffleur actionne son soufflet pour attiser le feu ; le mot désigne celui qui ne cherche que l'or, se ruine et ruine ses dupes. Les alchimistes « philosophes » distinguent soigneusement leur art de cette pratique vulgaire.
 texte: La littérature a beaucoup moqué les souffleurs, du *Conte du valet du chanoine* de Chaucer au XIVe siècle à *L'Alchimiste* de Ben Jonson (1610). Leurs escroqueries ont contribué au discrédit de l'alchimie.
-voir: chrysopee, alchimie, transmutation, parmesan, jerome-bosch
+voir: chrysopee, alchimie, transmutation, parmesan, jerome-bosch, charlatan, phosphore
 
 @ neidan
 cat: alchimie
@@ -443,7 +443,7 @@ alias: archeus, archée, alchimiste intérieur
 def: Selon Paracelse, principe vital qui gouverne chaque organisme et agit en lui comme un alchimiste intérieur, séparant dans les aliments le pur de l'impur.
 texte: Pour [[paracelse]], chaque organe, chaque être possède son archée, sorte d'esprit artisan qui dirige la nutrition, la croissance et la guérison. Dans l'estomac, il trie les aliments, garde ce qui nourrit et rejette le poison : l'alchimie se fait d'abord dans le corps.
 texte: [[jan-baptist-van-helmont|Jean-Baptiste van Helmont]] développe la notion. Il distingue une archée « influente », qui gouverne tout le corps depuis l'orifice de l'estomac, et des archées « implantées » dans chaque organe. La maladie n'est plus pour lui un déséquilibre des humeurs, mais une « idée » étrangère, une semence qui s'impose à l'archée et la détourne.
-texte: Georg Ernst Stahl, avec son âme qui gouverne le corps, puis les médecins de Montpellier, comme Paul-Joseph Barthez et son « principe vital », reprennent au XVIIIe siècle l'idée d'une force propre au vivant, irréductible à la chimie. Le mot vient du grec *archê*, le principe, le commencement.
+texte: Georg Ernst Stahl, le théoricien du [[phlogistique]], avec son âme qui gouverne le corps, puis les médecins de Montpellier, comme Paul-Joseph Barthez et son « principe vital », reprennent au XVIIIe siècle l'idée d'une force propre au vivant, irréductible à la chimie. Le mot vient du grec *archê*, le principe, le commencement.
 voir: paracelse, iatrochimie, paracelsisme, jan-baptist-van-helmont
 
 @ arbre-de-diane

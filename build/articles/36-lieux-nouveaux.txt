@@ -23,10 +23,10 @@ lieu: vallée de la Seine et pays de Caux, Seine-Maritime, Normandie, France
 geo: 49.4442, 0.9645
 def: Grandes abbayes bénédictines de Normandie, de Jumièges et Saint-Wandrille au Mont-Saint-Michel, fondées au VIIe siècle ou restaurées par les ducs ; Maurice Leblanc en a fait le trésor de la *Comtesse de Cagliostro*.
 texte: Dès le VIIe siècle, saint Wandrille fonde [[saint-wandrille|Fontenelle]] et saint Philibert [[jumieges|Jumièges]] sur les boucles de la Seine. Les Vikings les ruinent au IXe siècle ; après 911, les ducs de Normandie, descendants de Rollon, les relèvent et en fondent d'autres : [[fecamp|Fécamp]], le [[mont-saint-michel|Mont-Saint-Michel]] (966), Le Bec-Hellouin, où enseignèrent Lanfranc et saint Anselme, Saint-Georges-de-Boscherville, et à Caen l'abbaye aux Hommes et l'abbaye aux Dames de Guillaume le Conquérant et de la reine Mathilde. La Révolution en fit des carrières ou des ruines romantiques ; une « route des abbayes normandes » les relie aujourd'hui.
-texte: Dans *La Comtesse de Cagliostro* (1924), [[maurice-leblanc|Maurice Leblanc]] imagine que les moines de sept abbayes du pays de Caux, dont Jumièges, Saint-Wandrille et Saint-Georges-de-Boscherville, ont caché les richesses de l'Église ; le jeune [[arsene-lupin|Arsène Lupin]] découvre que les abbayes dessinent sur la carte la [[grande-ourse|Grande Ourse]], et que le trésor gît à l'emplacement de la petite étoile Alcor.
+texte: Dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924), [[maurice-leblanc|Maurice Leblanc]] imagine que les moines de sept abbayes du pays de Caux, dont Jumièges, Saint-Wandrille et Saint-Georges-de-Boscherville, ont caché les richesses de l'Église ; le jeune [[arsene-lupin|Arsène Lupin]] découvre que les abbayes dessinent sur la carte la [[grande-ourse|Grande Ourse]], et que le trésor gît à l'emplacement de la petite étoile Alcor.
 extrait: Dès lors la vérité s’imposait aussitôt. À l’endroit même où Alcor se trouve sur la figure céleste, la borne doit fatalement se trouver sur la figure terrestre. Et puisque Alcor se trouve, dans le ciel, un peu à droite et au-dessous de l’étoile située au milieu de la queue de la Grande Ourse, la borne doit fatalement se trouver un peu à droite et au-dessous de l’abbaye qui correspond à cette étoile, c’est-à-dire un peu à droite, et au-dessous de l’abbaye de Jumièges, jadis la plus puissante et la plus riche des abbayes normandes.
 source: Maurice Leblanc, *La Comtesse de Cagliostro*, chap. XII, feuilleton du *Journal*, 1923-1924 | ws La Comtesse de Cagliostro/Chapitre XII
-voir: jumieges, saint-wandrille, fecamp, mont-saint-michel, maurice-leblanc, arsene-lupin, grande-ourse, etretat
+voir: jumieges, saint-wandrille, fecamp, mont-saint-michel, maurice-leblanc, arsene-lupin, grande-ourse, etretat, la-comtesse-de-cagliostro
 
 @ jumieges
 cat: lieux
@@ -36,12 +36,12 @@ lieu: Seine-Maritime, Normandie, France
 geo: 49.4319, 0.8192
 def: Abbaye bénédictine fondée en 654 dans une boucle de la Seine, ruinée après la Révolution, dont les tours blanches dominent les ruines les plus célèbres de Normandie ; la légende des Énervés y rattache les Mérovingiens.
 texte: Saint Philibert la fonde en 654 sur des terres données par Clovis II et la reine Bathilde ; elle compte bientôt des centaines de moines. Détruite par les Vikings en 841, rebâtie, elle voit l'église Notre-Dame consacrée en 1067 en présence de Guillaume le Conquérant. Vendue comme bien national en 1795, elle sert de carrière de pierre jusqu'à ce que la famille Lepel-Cointet, en 1852, protège ses ruines ; le département de la Seine-Maritime en est propriétaire depuis 2007.
-texte: Une légende du XIIe siècle raconte que deux fils de Clovis II, révoltés contre leur père, eurent les nerfs des jarrets brûlés et furent abandonnés sur la Seine dans une barque, qui s'échoua à Jumièges, où ils devinrent moines : ce sont les « Énervés de Jumièges », dont on montrait le tombeau. Agnès Sorel, favorite de Charles VII, morte en 1450 au manoir voisin du Mesnil, y fit déposer son cœur. Pour [[maurice-leblanc|Maurice Leblanc]], Jumièges, « jadis la plus puissante et la plus riche des abbayes normandes », est l'étoile qui mène au trésor.
+texte: Une légende du XIIe siècle raconte que deux fils de Clovis II, révoltés contre leur père, eurent les nerfs des jarrets brûlés et furent abandonnés sur la Seine dans une barque, qui s'échoua à Jumièges, où ils devinrent moines : ce sont les « Énervés de Jumièges », dont on montrait le tombeau. Agnès Sorel, favorite de Charles VII, morte en 1450 au manoir voisin du Mesnil, y fit déposer son cœur. Dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* de [[maurice-leblanc|Maurice Leblanc]], Jumièges, « jadis la plus puissante et la plus riche des abbayes normandes », est l'étoile qui mène au trésor, caché au Mesnil-sous-Jumièges, près du manoir d'Agnès Sorel.
 repere: 654 — Fondation par saint Philibert.
 repere: 841 — Destruction par les Vikings.
 repere: 1067 — Consécration de l'église Notre-Dame.
 repere: 1795 — Vente comme bien national.
-voir: abbayes-normandes, merovingiens, saint-wandrille, maurice-leblanc, grande-ourse
+voir: abbayes-normandes, merovingiens, saint-wandrille, maurice-leblanc, grande-ourse, la-comtesse-de-cagliostro
 
 @ fecamp
 cat: lieux
@@ -51,11 +51,11 @@ lieu: Seine-Maritime, Normandie, France
 geo: 49.7553, 0.3817
 def: Port du pays de Caux dont l'abbatiale de la Trinité garde le Précieux-Sang, relique du sang du Christ arrivée selon la légende dans un tronc de figuier ; la liqueur Bénédictine y a inventé ses moines.
 texte: La légende veut qu'Isaac, neveu de [[joseph-d-arimathie|Joseph d'Arimathie]], ait recueilli le sang du Christ, l'ait caché dans le tronc d'un figuier et confié à la mer, qui le déposa à Fécamp : *fici campus*, « le champ du figuier », a-t-on dit du nom de la ville. Le duc Richard Ier fit bâtir vers 990 une église de la Trinité, et Richard II y appela en 1001 Guillaume de Volpiano ; l'abbaye fut la nécropole des premiers ducs de Normandie. La relique, retrouvée au XIIe siècle dans un pilier, est vénérée dans un tabernacle de marbre ; ce sang du Christ apparente Fécamp aux légendes du [[graal|Graal]].
-texte: En 1863, le négociant Alexandre Le Grand lance une liqueur aux plantes qu'il prétend tirée d'une recette d'un moine de l'abbaye au XVIe siècle ; la « Bénédictine » et le palais néogothique et néorenaissance qu'il fait bâtir en 1900 doivent tout à cette légende commerciale. La côte voisine, d'[[etretat|Étretat]] aux falaises de Fécamp, est celle d'*[[arsene-lupin|Arsène Lupin]]*.
+texte: En 1863, le négociant Alexandre Le Grand lance une liqueur aux plantes qu'il prétend tirée d'une recette d'un moine de l'abbaye au XVIe siècle ; la « Bénédictine » et le palais néogothique et néorenaissance qu'il fait bâtir en 1900 doivent tout à cette légende commerciale. La côte voisine, d'[[etretat|Étretat]] aux falaises de Fécamp, est celle d'*[[arsene-lupin|Arsène Lupin]]* : dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]*, le dernier gardien du trésor des moines est un trésorier de l'abbaye de Fécamp, l'une des sept abbayes de la constellation.
 repere: vers 990 — Le duc Richard Ier fait bâtir l'église de la Trinité.
 repere: 1001 — Guillaume de Volpiano réforme l'abbaye.
 repere: 1863 — Alexandre Le Grand crée la liqueur Bénédictine.
-voir: abbayes-normandes, graal, joseph-d-arimathie, etretat, arsene-lupin, sainte-lance
+voir: abbayes-normandes, graal, joseph-d-arimathie, etretat, arsene-lupin, sainte-lance, la-comtesse-de-cagliostro
 
 @ saint-wandrille
 cat: lieux
@@ -65,11 +65,11 @@ lieu: Seine-Maritime, Normandie, France
 geo: 49.5296, 0.7665
 def: Abbaye bénédictine fondée en 649 par saint Wandrille dans le vallon de Fontenelle, où vécut de 1907 à 1914 l'écrivain Maurice Maeterlinck ; les moines y prient de nouveau depuis 1931.
 texte: Wandrille, comte de la cour de Dagobert Ier devenu moine, fonde l'abbaye en 649 ; ses abbés, dont l'historien de la maison, tiennent un des grands scriptoriums de l'époque carolingienne. Ruinée par les Vikings, restaurée au Xe siècle, elle est fermée à la Révolution et sa grande église devient une ruine. Les moines, revenus au XIXe siècle, doivent repartir en 1901 avec la loi sur les congrégations.
-texte: L'écrivain belge [[maurice-maeterlinck|Maurice Maeterlinck]] la loue en 1907 avec sa compagne Georgette Leblanc, sœur de [[maurice-leblanc|Maurice Leblanc]], qui y donne *Macbeth* dans les cloîtres et le réfectoire. La communauté bénédictine revient le 26 janvier 1931 et y chante l'office depuis. L'abbaye est l'une des sept que [[maurice-leblanc|Leblanc]] met dans la constellation de *La Comtesse de Cagliostro*.
+texte: L'écrivain belge [[maurice-maeterlinck|Maurice Maeterlinck]] la loue en 1907 avec sa compagne Georgette Leblanc, sœur de [[maurice-leblanc|Maurice Leblanc]], qui y donne *Macbeth* dans les cloîtres et le réfectoire. La communauté bénédictine revient le 26 janvier 1931 et y chante l'office depuis. L'abbaye est l'une des sept que [[maurice-leblanc|Leblanc]] met dans la constellation de *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]*.
 repere: 649 — Fondation par saint Wandrille.
 repere: 1907 — Maurice Maeterlinck s'y installe.
 repere: 1931 — Retour des moines bénédictins.
-voir: abbayes-normandes, maurice-maeterlinck, maurice-leblanc, jumieges
+voir: abbayes-normandes, maurice-maeterlinck, maurice-leblanc, jumieges, la-comtesse-de-cagliostro
 
 @ mont-saint-michel
 cat: lieux
@@ -220,7 +220,7 @@ lieu: Péloponnèse, Grèce
 geo: 37.6000, 22.2000
 def: Région montagneuse du Péloponnèse, pays de Pan et des bergers, que les poètes ont faite le séjour d'un âge d'or pastoral ; la formule *Et in Arcadia ego* y rappelle que la mort règne même au paradis.
 texte: L'Arcadie réelle est une terre de montagnes et de pâturages au centre du Péloponnèse, qui se disait la plus ancienne de la Grèce. Son nom vient d'Arcas, fils de Zeus et de la nymphe Callisto, changée en [[ours|ourse]] et placée au ciel ; son roi Lycaon, qui servit à Zeus de la chair humaine, fut changé en loup, et le culte de Zeus Lycaios, sur le mont Lycée, a nourri la légende du [[loup-garou]]. [[pan|Pan]] y joue de la syrinx. L'historien Polybe, l'inventeur du [[carre-de-polybe|carré de Polybe]], était arcadien.
-texte: Virgile, dans les *Bucoliques*, en fait le pays idéal des bergers poètes, et Sannazaro (1504) puis Philip Sidney (1590) lui consacrent des romans pastoraux. Le Guerchin, vers 1620, puis [[nicolas-poussin|Nicolas Poussin]] peignent des bergers devant un tombeau où se lit *Et in Arcadia ego*, « Moi aussi, je suis en Arcadie » : c'est la mort qui parle, selon l'historien Erwin Panofsky. L'affaire de [[rennes-le-chateau|Rennes-le-Château]] a fait des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* le gardien d'un secret, et une tombe des environs, aux Pontils, ressemblant à celle du tableau, attira tant de chercheurs qu'on la démolit en 1988.
+texte: Virgile, dans les *Bucoliques*, en fait le pays idéal des bergers poètes, et Sannazaro (1504) puis Philip Sidney (1590) lui consacrent des romans pastoraux. Le Guerchin, vers 1620, puis [[nicolas-poussin|Nicolas Poussin]] peignent des bergers devant un tombeau où se lit *Et in Arcadia ego*, « Moi aussi, je suis en Arcadie » : c'est la mort qui parle, selon l'historien Erwin Panofsky. L'affaire de [[rennes-le-chateau|Rennes-le-Château]] a fait des *[[les-bergers-d-arcadie|Bergers d'Arcadie]]* le gardien d'un secret, et une tombe des environs, aux Pontils, ressemblant à celle du tableau, attira tant de chercheurs que son propriétaire la fit démolir en 1988 ; elle n'avait pourtant été élevée qu'au début des années 1930, sur une sépulture de 1903.
 voir: les-bergers-d-arcadie, pan, nicolas-poussin, ours, loup-garou, rennes-le-chateau, inscription-de-shugborough
 
 @ philae
@@ -402,18 +402,18 @@ voir: dagobert-ii, merovingiens, prieure-de-sion, pierre-plantard, rennes-le-cha
 @ opera-garnier
 cat: lieux
 nom: Opéra Garnier
-alias: palais Garnier, Opéra de Paris, lac de l'Opéra, lustre de l'Opéra, Fantôme de l'Opéra, voix ensevelies
+alias: palais Garnier, Opéra de Paris, lac de l'Opéra, lustre de l'Opéra, voix ensevelies
 lieu: Paris 9e, Île-de-France, France
 geo: 48.8719, 2.3317
 def: Opéra de Paris bâti par Charles Garnier de 1861 à 1875, dont la cuve d'eau souterraine, le lustre et les dessous ont inspiré à Gaston Leroux *Le Fantôme de l'Opéra*.
 texte: Lauréat du concours de 1861, l'architecte Charles Garnier se heurte dès les fondations à une nappe d'eau ; il fait construire un grand cuvelage de béton rempli d'eau qui stabilise l'édifice, le « lac » de l'Opéra, où s'entraînent aujourd'hui les pompiers. Le monument, inauguré le 5 janvier 1875, mêle les marbres, les dorures et les styles. Le 20 mai 1896, l'un des contrepoids du grand lustre tombe dans la salle pendant une représentation et tue une spectatrice. En 1907, on enferme dans les sous-sols des urnes contenant des disques de phonographe, destinées à faire entendre aux générations futures les voix de l'époque ; elles ont été ouvertes en 2008.
-texte: [[gaston-leroux|Gaston Leroux]] tire de ces faits *Le Fantôme de l'Opéra* (1910) : le lac, le lustre qui tombe et le cadavre découvert « en creusant le sous-sol pour y enterrer les voix » en sont des échos directs. Chagall a peint le plafond de la salle en 1964, et des ruches sont installées depuis les années 1980 sur le toit, d'où l'on récolte le miel de l'Opéra.
+texte: [[gaston-leroux|Gaston Leroux]] tire de ces faits *[[le-fantome-de-l-opera|Le Fantôme de l'Opéra]]* (1910) : le lac, le lustre qui tombe et le cadavre découvert « en creusant le sous-sol pour y enterrer les voix » en sont des échos directs. Chagall a peint le plafond de la salle en 1964, et des ruches sont installées depuis les années 1980 sur le toit, d'où l'on récolte le miel de l'Opéra.
 repere: 1861 — Charles Garnier remporte le concours.
 repere: 1875 — Inauguration, le 5 janvier.
 repere: 1896 — Chute d'un contrepoids du lustre, le 20 mai.
 repere: 1907 — Enfouissement des disques destinés à la postérité.
 repere: 1910 — *Le Fantôme de l'Opéra*.
-voir: gaston-leroux, roman-gothique, abeille, paris
+voir: gaston-leroux, roman-gothique, abeille, paris, le-fantome-de-l-opera
 
 @ domremy
 cat: lieux

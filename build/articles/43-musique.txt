@@ -11,7 +11,7 @@ alias: Debussy, Claude-Achille Debussy, Monsieur Croche
 dates: 1862 – 1918
 an: 1862
 def: Compositeur français, maître de l'impressionnisme musical et ami des poètes symbolistes, auteur de *Pelléas et Mélisande* et de *La Mer*, que de faux documents ont fait grand maître du Prieuré de Sion.
-texte: Né en 1862 à Saint-Germain-en-Laye, Claude Debussy entre à dix ans au Conservatoire de Paris et obtient le prix de Rome en 1884. Il découvre Wagner à Bayreuth, le gamelan javanais à l'Exposition universelle de 1889, et fréquente les mardis de Mallarmé, dont *L'Après-midi d'un faune* lui inspire un prélude (1894). Il meurt à Paris en mars 1918, pendant les bombardements allemands.
+texte: Né en 1862 à Saint-Germain-en-Laye, Claude Debussy entre à dix ans au Conservatoire de Paris et obtient le prix de Rome en 1884. Il découvre Wagner à Bayreuth, le gamelan javanais à l'Exposition universelle de 1889, et fréquente les mardis de [[stephane-mallarme|Mallarmé]], dont *L'Après-midi d'un faune* lui inspire un prélude (1894). Il meurt à Paris en mars 1918, pendant les bombardements allemands.
 texte: Il est un habitué de la Librairie de l'Art indépendant d'Edmond Bailly, rue de la Chaussée-d'Antin, où se croisent les poètes, [[erik-satie|Erik Satie]] et les occultistes de la fin du siècle. Il met en musique *La Damoiselle élue* de [[dante-gabriel-rossetti|Rossetti]] (1888), des poèmes de [[charles-baudelaire|Baudelaire]], rêve d'opéras d'après [[edgar-allan-poe|Poe]] et compose avec Gabriele D'Annunzio *Le Martyre de saint Sébastien* (1911), un mystère. Sa *Cathédrale engloutie* (1910) évoque la ville d'Ys qui sort des eaux.
 texte: Dans les années 1960, les « Dossiers secrets » fabriqués par [[pierre-plantard|Pierre Plantard]] le rangent parmi les grands maîtres du [[prieure-de-sion|Prieuré de Sion]], entre Victor Hugo et Jean Cocteau : une liste inventée, que l'enquête a démontée.
 repere: 1862 — Naissance à Saint-Germain-en-Laye.
@@ -23,7 +23,7 @@ repere: 1918 — Mort à Paris.
 oeuvres: Prélude à l'après-midi d'un faune (1894) ; Pelléas et Mélisande (1902) ; La Mer (1905) ; Préludes (1910-1913) ; Le Martyre de saint Sébastien (1911) ; Monsieur Croche, antidilettante (1921)
 extrait: Il reprit : « La musique est un total de forces éparses… On en fait une chanson spéculative ! J’aime mieux les quelques notes de la flûte d’un berger égyptien, il collabore au paysage et entend des harmonies ignorées de vos traités… Les musiciens n’écoutent que la musique écrite par des mains adroites ; jamais celle qui est inscrite dans la nature. Voir le jour se lever est plus utile que d’entendre la Symphonie Pastorale. À quoi bon votre art presque incompréhensible ? Ne devriez-vous pas en supprimer les complications parasites qui l’assimilent pour l’ingéniosité à une serrure de coffre-fort… Vous piétinez parce que vous ne savez que la musique et obéissez à des lois barbares et inconnues… On vous salue d’épithètes somptueuses et vous n’êtes que malins ! Quelque chose entre le singe et le domestique. »
 source: Claude Debussy, *Monsieur Croche, antidilettante*, chap. I, « Monsieur Croche antidilettante », Dorbon-aîné, 1921 | ws Monsieur Croche/Monsieur Croche antidilettante
-voir: pelleas-et-melisande, la-mer, maurice-maeterlinck, erik-satie, symbolisme, prieure-de-sion, edgar-allan-poe, dante-gabriel-rossetti, maurice-ravel, faust-gounod
+voir: pelleas-et-melisande, la-mer, maurice-maeterlinck, erik-satie, symbolisme, prieure-de-sion, edgar-allan-poe, dante-gabriel-rossetti, maurice-ravel, faust-gounod, stephane-mallarme, faune
 
 @ la-mer
 cat: musique
@@ -200,7 +200,7 @@ alias: Satie, Éric Satie, Gymnopédies, Gnossiennes, Église métropolitaine d'
 dates: 1866 – 1925
 an: 1866
 def: Compositeur français, pianiste de cabaret et ironiste, maître de chapelle de la Rose-Croix de Péladan, inventeur d'une musique dépouillée qui annonce le XXe siècle, de la *Gymnopédie* aux *Vexations*.
-texte: Né à Honfleur en 1866, Erik Satie quitte le Conservatoire, où l'on ne voit en lui aucun talent, et devient pianiste au Chat noir, à Montmartre. Ses trois *Gymnopédies* (1888) et ses *Gnossiennes* (1890), sans barres de mesure, inventent une musique immobile et rituelle. En 1891, il devient le maître de chapelle de l'[[ordre-de-la-rose-croix-catholique|Ordre de la Rose-Croix catholique]] de [[josephin-peladan|Péladan]], pour lequel il compose *[[le-fils-des-etoiles|Le Fils des étoiles]]* et les *[[sonneries-de-la-rose-croix|Sonneries de la Rose+Croix]]*.
+texte: Né à Honfleur en 1866, Erik Satie quitte le Conservatoire, où l'on ne voit en lui aucun talent, et devient pianiste au [[le-chat-noir|Chat noir]], à Montmartre. Ses trois *Gymnopédies* (1888) et ses *Gnossiennes* (1890), sans barres de mesure, inventent une musique immobile et rituelle. En 1891, il devient le maître de chapelle de l'[[ordre-de-la-rose-croix-catholique|Ordre de la Rose-Croix catholique]] de [[josephin-peladan|Péladan]], pour lequel il compose *[[le-fils-des-etoiles|Le Fils des étoiles]]* et les *[[sonneries-de-la-rose-croix|Sonneries de la Rose+Croix]]*.
 texte: Il rompt avec Péladan dès 1892 et fonde, seul fidèle, l'« Église métropolitaine d'art de Jésus conducteur », d'où il fulmine des excommunications. Retiré à Arcueil, ami de [[claude-debussy|Debussy]], il retourne à quarante ans étudier le contrepoint à la Schola Cantorum, puis devient avec *Parade* (1917) le maître des jeunes musiciens. Il meurt à Paris en 1925.
 extrait: L’artiste doit régler sa vie. ¶ Voici l’horaire précis de mes actes journaliers : ¶ Mon lever : à 7 h. 18 ; inspiré : de 10 h. 23 à 11 h. 47. Je déjeune à 12 h. 11 et quitte la table à 12 h. 14. ¶ Salutaire promenade à cheval, dans le fond de mon parc : de 13 h. 19 à 14 h. 53. Autre inspiration : de 15 h. 12 à 16 h. 07. ¶ Occupations diverses (escrime, réflexions, immobilité, visites, contemplation, dextérité, natation, etc.) : de 16 h. 21 à 18 h. 47. ¶ Le dîner est servi à 19 h. 16 et terminé à 19 h. 20. Viennent des lectures symphoniques, à haute voix : de 20 h. 09 à 21 h. 59. ¶ Mon coucher a lieu régulièrement à 22 h. 37. Hebdomadairement, réveil et sursaut à 3 h. 19 (le mardi).
 source: Erik Satie, *Mémoires d’un amnésique*, « La Journée du musicien », *Revue musicale S. I. M.*, 15 janvier 1913 | ws La Journée du musicien
@@ -211,7 +211,7 @@ repere: 1893 — Il fonde l'Église métropolitaine d'art de Jésus conducteur.
 repere: 1917 — *Parade*, avec Cocteau, Picasso et les Ballets russes.
 repere: 1925 — Mort à Paris.
 oeuvres: Gymnopédies (1888) ; Gnossiennes (1890) ; Le Fils des étoiles (1891) ; Sonneries de la Rose+Croix (1892) ; Vexations (vers 1893) ; Parade (1917) ; Socrate (1918)
-voir: sonneries-de-la-rose-croix, le-fils-des-etoiles, josephin-peladan, ordre-de-la-rose-croix-catholique, salons-de-la-rose-croix, claude-debussy
+voir: sonneries-de-la-rose-croix, le-fils-des-etoiles, josephin-peladan, ordre-de-la-rose-croix-catholique, salons-de-la-rose-croix, claude-debussy, le-chat-noir
 
 @ sonneries-de-la-rose-croix
 cat: musique

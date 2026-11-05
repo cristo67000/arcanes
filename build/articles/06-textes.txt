@@ -67,7 +67,7 @@ dates: IIe siècle av. J.-C. – Ve siècle
 def: Ensemble de manuscrits sur papyrus trouvés en Égypte, contenant des formules, des rites et des invocations de la magie gréco-égyptienne de l'époque romaine.
 texte: La plupart proviennent d'une même collection achetée à Thèbes au début du XIXe siècle par un diplomate, Giovanni Anastasi, peut-être la bibliothèque d'un magicien. Ils mêlent dieux grecs, égyptiens et juifs, anges et démons, noms secrets et suites de voyelles, et donnent des recettes pour obtenir une vision, un rêve, un amour, une victoire ou la protection d'un [[amulette|amulette]].
 texte: Rassemblés et publiés par Karl Preisendanz de 1928 à 1931, ils sont la source la plus directe sur la [[magie]] pratique de l'Antiquité. L'un d'eux, dit *Liturgie de Mithra*, décrit une ascension de l'âme jusqu'à la vision du dieu.
-voir: magie, amulette, voces-magicae, theurgie
+voir: magie, amulette, voces-magicae, theurgie, syncretisme
 
 @ bibliotheque-de-nag-hammadi
 cat: apocryphes
@@ -77,8 +77,8 @@ an: 1945
 dates: copiés au IVe siècle ; découverts en 1945
 def: Ensemble de treize volumes coptes du IVe siècle, découverts en 1945 en Haute-Égypte, qui ont révélé les écrits des gnostiques eux-mêmes.
 texte: En décembre 1945, au pied de la falaise du Djebel el-Tarif, près de la ville de Nag Hammadi, un paysan, Mohammed Ali al-Samman, découvre dans une jarre enterrée treize codex de papyrus reliés de cuir. Ils contiennent cinquante-deux traités traduits du grec en copte : l'*[[evangile-de-thomas|Évangile selon Thomas]]*, recueil de paroles de Jésus, l'*[[evangile-de-philippe|Évangile selon Philippe]]*, l'*[[apocryphon-de-jean|Apocryphon de Jean]]*, l'*[[evangile-de-verite|Évangile de vérité]]*, mais aussi un extrait de la *République* de Platon et des traités [[hermetisme|hermétiques]].
-texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich, puis rendu à l'Égypte ; l'ensemble est conservé au Musée copte du Caire.
-voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius, marie-madeleine, ogdoade, evangile-de-thomas, evangile-de-philippe, apocryphon-de-jean, sethiens, codex-tchacos, apocryphes
+texte: Ces livres avaient sans doute été cachés par des moines quand l'Église condamna les écrits hérétiques. Leur publication, achevée dans les années 1970, a transformé la connaissance du [[gnosticisme]] et des débuts du christianisme. On rapproche souvent cette découverte de celle des [[manuscrits-de-la-mer-morte|manuscrits de la mer Morte]], faite deux ans plus tard près de [[qumran|Qumrân]] ; mais ceux-ci sont des écrits juifs, pour la plupart antérieurs au christianisme. L'un des codex fut acquis en 1952 par l'Institut C. G. Jung de Zurich, puis rendu à l'Égypte ; l'ensemble est conservé au Musée copte du Caire.
+voir: gnosticisme, gnose, pistis-sophia, valentin, asclepius, marie-madeleine, ogdoade, evangile-de-thomas, evangile-de-philippe, apocryphon-de-jean, sethiens, codex-tchacos, apocryphes, manuscrits-de-la-mer-morte
 
 @ pistis-sophia
 cat: apocryphes
@@ -97,8 +97,8 @@ alias: Hénoch, Enoch, 1 Hénoch, Veilleurs, Livre des Veilleurs
 an: -250
 def: Écrit juif des derniers siècles avant notre ère, attribué au patriarche Hénoch, qui raconte la chute des anges « Veilleurs » et décrit les secrets du ciel.
 texte: Selon la Genèse, Hénoch « marcha avec Dieu, puis il ne fut plus, car Dieu l'avait pris ». Le livre placé sous son nom raconte que deux cents anges, les Veilleurs, descendirent sur terre, s'unirent aux femmes et enseignèrent aux hommes la métallurgie, les fards, la magie et l'astrologie ; leurs fils, des géants, ravagèrent la terre, d'où le Déluge. Hénoch, emmené au ciel, en visite les demeures et apprend le cours des astres.
-texte: Perdu en Occident, le livre a été conservé intégralement en éthiopien : l'Église d'Éthiopie le tient pour canonique. L'explorateur James Bruce en rapporte des copies en 1773. Le nom d'Hénoch a été donné à la [[magie-enochienne|magie énochienne]] de [[john-dee]], que les anges présentaient comme la langue enseignée au patriarche.
-voir: anges, magie-enochienne, demonologie, apocryphes, deluge, evangile-de-pierre
+texte: Perdu en Occident, le livre a été conservé intégralement en éthiopien : l'Église d'Éthiopie le tient pour canonique. Des fragments araméens de ses parties les plus anciennes ont été retrouvés parmi les [[manuscrits-de-la-mer-morte|manuscrits de la mer Morte]], dans les grottes de [[qumran|Qumrân]]. L'explorateur James Bruce en rapporte des copies en 1773. Le nom d'Hénoch a été donné à la [[magie-enochienne|magie énochienne]] de [[john-dee]], que les anges présentaient comme la langue enseignée au patriarche.
+voir: anges, magie-enochienne, demonologie, apocryphes, deluge, evangile-de-pierre, manuscrits-de-la-mer-morte
 
 @ sefer-yetsirah
 cat: textes
@@ -148,7 +148,7 @@ alias: Secretum secretorum, Sirr al-asrâr, pseudo-Aristote
 an: 950
 def: Traité arabe présenté comme une lettre d'Aristote à Alexandre le Grand, mêlant conseils politiques, hygiène, astrologie, physiognomonie et talismans, l'un des livres les plus copiés du Moyen Âge.
 texte: Compilé en arabe vers le Xe siècle, le *Secret des secrets* prétend transmettre l'enseignement secret qu'Aristote aurait réservé à son royal élève : comment gouverner, choisir ses conseillers d'après leur visage, préserver sa santé, consulter les astres et se protéger par des pierres et des talismans.
-texte: Traduit en latin au XIIe et au XIIIe siècle, il circule en des centaines de manuscrits et en langues vulgaires. [[roger-bacon]] le commente. Certaines versions contiennent le texte de la [[table-d-emeraude|Table d'émeraude]], ce qui a beaucoup contribué à sa diffusion.
+texte: Traduit en latin deux fois — en partie par Jean de Séville, dans la première moitié du XIIe siècle, sous le titre *De regimine sanitatis*, puis en entier par Philippe de Tripoli, dans la première moitié du XIIIe siècle —, il circule en des centaines de manuscrits et en langues vulgaires. [[roger-bacon]] en donne, vers 1275-1280, une édition accompagnée de gloses. Certaines versions contiennent le texte de la [[table-d-emeraude|Table d'émeraude]], ce qui a beaucoup contribué à sa diffusion.
 voir: table-d-emeraude, physiognomonie, talisman, astrologie
 
 @ turba-philosophorum
@@ -500,9 +500,9 @@ nom: Les Grands Initiés
 alias: Grands Initiés
 an: 1889
 def: Livre d'Édouard Schuré publié en 1889, qui présente huit fondateurs de religions et de philosophies, de Rama à Jésus, comme les initiés d'une même vérité secrète.
-texte: Rama, Krishna, Hermès, [[moise|Moïse]], Orphée, Pythagore, Platon et Jésus y apparaissent comme les maillons d'une chaîne de révélateurs, chacun ayant reçu dans les sanctuaires de l'[[initiation]] la même doctrine de l'âme et de Dieu, qu'il a adaptée à son peuple. Le style est lyrique, plus romanesque qu'historique.
+texte: Rama, Krishna, Hermès, [[moise|Moïse]], Orphée, Pythagore, Platon et Jésus y apparaissent comme les maillons d'une chaîne de révélateurs, chacun ayant reçu dans les sanctuaires de l'[[initiation]] la même doctrine de l'âme et de Dieu, qu'il a adaptée à son peuple. Jésus y reçoit la sienne chez les [[esseniens|Esséniens]]. Le style est lyrique, plus romanesque qu'historique.
 texte: Le livre a été l'un des plus grands succès de l'édition ésotérique en français et a fait découvrir à des générations de lecteurs l'idée d'une sagesse universelle.
-voir: edouard-schure, prisca-theologia, initiation, mysteres-antiques, moise
+voir: edouard-schure, prisca-theologia, initiation, mysteres-antiques, moise, esseniens
 
 @ kybalion
 cat: textes
@@ -513,7 +513,7 @@ def: Petit livre publié à Chicago en 1908 par « Trois Initiés », qui expose
 texte: Les sept principes sont ceux du mentalisme (« le Tout est esprit »), de la correspondance, de la vibration, de la polarité, du rythme, de la cause et de l'effet, et du genre. Le livre se présente comme le commentaire d'un recueil de maximes hermétiques très ancien.
 texte: Il est en réalité attribué à William Walker Atkinson, auteur prolifique de la [[nouvelle-pensee|Nouvelle Pensée]], et ne doit presque rien aux textes de l'[[hermetisme]] antique. Il reste très lu dans les milieux ésotériques et dans le développement personnel.
 texte: Son principe de correspondance, « ce qui est en haut est comme ce qui est en bas », reprend une formule de la [[table-d-emeraude|Table d'émeraude]], texte arabe puis latin du Moyen Âge attribué à [[hermes-trismegiste|Hermès Trismégiste]] ; les traités grecs du [[corpus-hermetique|Corpus hermétique]], eux, ne connaissent pas ses sept principes.
-voir: nouvelle-pensee, hermetisme, correspondances, table-d-emeraude, hermes-trismegiste, corpus-hermetique
+voir: nouvelle-pensee, hermetisme, correspondances, table-d-emeraude, hermes-trismegiste, corpus-hermetique, loi-de-l-attraction
 
 @ livre-de-la-loi
 cat: textes
@@ -556,12 +556,12 @@ voir: rene-guenon, traditionalisme, cycles-cosmiques, tradition-primordiale, age
 @ matin-des-magiciens
 cat: textes
 nom: Le Matin des magiciens
-alias: Matin des magiciens, réalisme fantastique, Planète
+alias: Matin des magiciens, Planète
 an: 1960
 def: Livre de Louis Pauwels et Jacques Bergier publié en 1960, qui mêle science, ésotérisme et histoire secrète, et lança en France la vogue du « réalisme fantastique ».
-texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge.
+texte: Les auteurs y mettent bout à bout l'alchimie et la physique nucléaire, [[fulcanelli]], les civilisations disparues, les sociétés secrètes et un prétendu occultisme nazi, en invitant le lecteur à ne rien exclure par principe. Le succès est immense ; la revue *Planète*, fondée en 1961, le prolonge et donne son organe au [[realisme-fantastique|réalisme fantastique]].
 texte: Les historiens lui reprochent d'avoir accrédité de nombreuses légendes sans fondement, notamment sur les racines occultes du nazisme et la [[societe-thule|Société Thulé]]. Il a façonné pour des décennies l'image de l'ésotérisme dans le grand public.
-voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril, anciens-astronautes, le-pendule-de-foucault
+voir: fulcanelli, societe-thule, alchimie, ariosophie, louis-pauwels, jacques-bergier, vril, anciens-astronautes, le-pendule-de-foucault, realisme-fantastique
 
 # ── Textes ajoutés en 1.2 ───────────────────────────────────────────────────
 

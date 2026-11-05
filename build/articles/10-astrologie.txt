@@ -172,9 +172,9 @@ nom: Planètes
 alias: sept planètes, septénaire planétaire, astres errants, ordre chaldéen, planètes bénéfiques, planètes maléfiques
 def: Pour l'astrologie traditionnelle, les sept astres qui se déplacent parmi les étoiles — Soleil, Lune, Mercure, Vénus, Mars, Jupiter, Saturne — auxquels l'astrologie moderne a ajouté Uranus, Neptune et Pluton.
 texte: Le mot grec *planêtês* signifie « errant » : les planètes, à la différence des étoiles fixes, changent de place dans le ciel. Rangées par durée de révolution décroissante, de Saturne à la Lune, elles forment l'« ordre chaldéen », qui est aussi celui de leurs sphères dans le [[cosmos-geocentrique|cosmos géocentrique]]. Chacune gouverne un jour de la semaine, un métal, une couleur, des plantes, des organes : c'est la grande table des [[correspondances]].
-texte: L'astrologie distingue des planètes bénéfiques (Jupiter, la grande, et Vénus, la petite), maléfiques (Saturne, la grande, et Mars, la petite), et neutres ou variables (Mercure). Les [[alchimie|alchimistes]] désignent les métaux par les signes des planètes : or du Soleil, argent de la Lune, vif-argent de Mercure, cuivre de Vénus, fer de Mars, étain de Jupiter, plomb de Saturne.
+texte: L'astrologie distingue des planètes bénéfiques (Jupiter, la grande, et Vénus, la petite), maléfiques (Saturne, la grande, et Mars, la petite), et neutres ou variables (Mercure). Les [[alchimie|alchimistes]] désignent les [[sept-metaux|sept métaux]] par les signes des planètes : or du Soleil, argent de la Lune, vif-argent de Mercure, cuivre de Vénus, fer de Mars, étain de Jupiter, plomb de Saturne.
 schema: planetes-septenaire
-voir: soleil, lune, mercure, venus, mars, jupiter, saturne, heures-planetaires, dignites, sept
+voir: soleil, lune, mercure, venus, mars, jupiter, saturne, heures-planetaires, dignites, sept, sept-metaux
 
 @ soleil
 cat: astrologie
@@ -185,7 +185,7 @@ def: Astre central de l'astrologie, symbole de la vie, de la conscience et de l'
 texte: Le Soleil donne la lumière et la chaleur, rythme le jour et l'année. En astrologie, il représente la volonté, l'identité, le père, le roi. Il a son domicile dans le [[lion|Lion]] et son exaltation dans le [[belier|Bélier]]. Le « signe » qu'on désigne familièrement comme le sien est celui où le Soleil se trouvait à la naissance. Son symbole, le cercle avec un point central, est aussi celui de l'or en alchimie.
 texte: [[marsile-ficin]] recommande de s'entourer de choses solaires — or, safran, miel, encens, chants harmonieux — pour fortifier l'esprit. Les cultes solaires, de l'Égypte au *Sol invictus* romain, ont nourri toute une symbolique ésotérique du Soleil spirituel.
 schema: planetes-septenaire/soleil
-voir: planetes, lion, lune, alchimie, tiferet, arcane-soleil
+voir: planetes, lion, lune, alchimie, tiferet, arcane-soleil, sept-metaux
 
 @ lune
 cat: astrologie
@@ -196,7 +196,7 @@ def: Astre de la nuit, le plus rapide des astres errants, symbole de la sensibil
 texte: La Lune change de forme au fil de ses phases et gouverne les marées : l'astrologie lui attribue les humeurs, les fluides du corps, la fécondité, l'inconscient et les rêves. Elle a son domicile dans le [[cancer|Cancer]] et son exaltation dans le [[taureau|Taureau]]. Les [[noeuds-lunaires|nœuds lunaires]], points où son orbite croise celle du Soleil, déterminent les éclipses.
 texte: En alchimie, la Lune est l'argent, la reine, le principe féminin uni au Soleil dans les [[noces-chymiques|noces]] de l'œuvre. La [[wicca]] l'associe à la Déesse, et de nombreux rites magiques se règlent sur ses phases.
 schema: planetes-septenaire/lune
-voir: planetes, cancer, soleil, noeuds-lunaires, yesod, arcane-lune, hecate
+voir: planetes, cancer, soleil, noeuds-lunaires, yesod, arcane-lune, hecate, sept-metaux
 
 @ mercure
 cat: astrologie
@@ -207,7 +207,7 @@ def: Planète la plus proche du Soleil, messagère rapide, symbole de l'intellig
 texte: Mercure ne s'écarte jamais beaucoup du Soleil, qu'il précède ou suit de près. L'astrologie lui confie la pensée, le langage, le commerce, les voyages, les écrits — et les voleurs, que protégeait le dieu Hermès. Il a son domicile dans les [[gemeaux|Gémeaux]] et la [[vierge|Vierge]], et son exaltation dans la Vierge.
 texte: Planète double et changeante, Mercure prend la couleur des astres auxquels il s'associe. Son symbole, avec ses petites cornes, figure le [[caducee|caducée]] ou le casque ailé du dieu ; c'est aussi celui du [[mercure-principe|vif-argent]] des alchimistes.
 schema: planetes-septenaire/mercure
-voir: planetes, gemeaux, vierge, mercure-principe, hermes-trismegiste, hod
+voir: planetes, gemeaux, vierge, mercure-principe, hermes-trismegiste, hod, sept-metaux
 
 @ venus
 cat: astrologie
@@ -218,7 +218,7 @@ def: Planète la plus brillante du ciel, symbole de l'amour, de la beauté et de
 texte: L'« étoile du berger », visible à l'aube ou au crépuscule, porte le nom de la déesse de l'amour. L'astrologie lui attribue l'affection, le plaisir, les arts, l'union et les richesses : c'est la « petite bénéfique ». Elle a son domicile dans le [[taureau|Taureau]] et la [[balance|Balance]], et son exaltation dans les [[poissons|Poissons]].
 texte: Son symbole, un cercle au-dessus d'une croix, passe pour figurer le miroir de la déesse ; il désigne en biologie le sexe féminin. Le cuivre lui revient parce que l'île de Chypre, consacrée à Aphrodite, en était riche.
 schema: planetes-septenaire/venus
-voir: planetes, taureau, balance, netsah, arcane-imperatrice
+voir: planetes, taureau, balance, netsah, arcane-imperatrice, sept-metaux
 
 @ mars
 cat: astrologie
@@ -229,7 +229,7 @@ def: Planète rouge, symbole de l'énergie, du combat et du désir, associée au
 texte: Sa couleur de sang lui a valu le nom du dieu de la guerre. L'astrologie lui attribue la force, le courage, la colère, les accidents, le fer et le feu : c'est la « petite maléfique », redoutée des anciens mais jugée indispensable à l'action. Il a son domicile dans le [[belier|Bélier]] et le [[scorpion|Scorpion]], et son exaltation dans le [[capricorne|Capricorne]].
 texte: Son symbole, un cercle surmonté d'une flèche, figurerait le bouclier et la lance du dieu ; il désigne en biologie le sexe masculin.
 schema: planetes-septenaire/mars
-voir: planetes, belier, scorpion, gueboura
+voir: planetes, belier, scorpion, gueboura, sept-metaux
 
 @ jupiter
 cat: astrologie
@@ -240,7 +240,7 @@ def: Plus grande des planètes, symbole de l'expansion, de la justice et de la p
 texte: Jupiter porte le nom du roi des dieux. L'astrologie y voit la « grande bénéfique » : la croissance, la chance, la loi, la religion, la générosité. Il a son domicile dans le [[sagittaire|Sagittaire]] et les [[poissons|Poissons]], et son exaltation dans le [[cancer|Cancer]]. Sa conjonction avec Saturne, tous les vingt ans environ, est l'un des grands repères de l'[[astrologie-mondiale]].
 texte: [[marsile-ficin]] conseillait aux savants mélancoliques de rechercher les influences de Jupiter pour tempérer celles de Saturne.
 schema: planetes-septenaire/jupiter
-voir: planetes, sagittaire, poissons, grandes-conjonctions, hesed
+voir: planetes, sagittaire, poissons, grandes-conjonctions, hesed, sept-metaux
 
 @ saturne
 cat: astrologie
@@ -249,9 +249,9 @@ alias: Kronos, Cronos, planète Saturne, samedi, plomb, mélancolie
 glyphe: saturne
 def: Planète la plus lente et la plus lointaine des sept planètes anciennes, symbole du temps, de la limite et de la mélancolie, associée au plomb et au samedi.
 texte: Saturne, le Kronos grec qui dévore ses enfants, met près de trente ans à faire le tour du zodiaque. L'astrologie y voit la « grande maléfique » : la vieillesse, les obstacles, la solitude, la mort, mais aussi la patience, la rigueur et la profondeur. Il a son domicile dans le [[capricorne|Capricorne]] et le [[verseau|Verseau]], et son exaltation dans la [[balance|Balance]].
-texte: La Renaissance a fait de lui la planète des penseurs : [[marsile-ficin]], né sous Saturne, voit dans la mélancolie le tempérament des contemplatifs et des génies. Le plomb, métal lourd et sombre, lui appartient ; en alchimie, Saturne désigne aussi la matière noire du début de l'œuvre.
+texte: La Renaissance a fait de lui la planète des penseurs : [[marsile-ficin]], né sous Saturne, voit dans la mélancolie le tempérament des contemplatifs et des génies. Le plomb, métal lourd et sombre, lui appartient, d'où le nom de saturnisme donné à l'intoxication par ce métal ; en alchimie, Saturne désigne le plomb lui-même, l'un des [[sept-metaux|sept métaux]], et aussi la matière noire du début de l'œuvre.
 schema: planetes-septenaire/saturne
-voir: planetes, capricorne, verseau, carre-magique, binah, de-vita
+voir: planetes, capricorne, verseau, carre-magique, binah, de-vita, sept-metaux
 
 @ uranus
 cat: astrologie

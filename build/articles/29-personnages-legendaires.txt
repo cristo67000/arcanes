@@ -105,11 +105,11 @@ nom: Prêtre Jean
 alias: Presbyter Johannes, royaume du Prêtre Jean, Lettre du Prêtre Jean
 dates: personnage légendaire
 def: Roi-prêtre chrétien d'un royaume fabuleux d'Orient, que l'Europe médiévale chercha pendant quatre siècles, de l'Asie à l'Éthiopie, et que des romans du Graal font gardien du vase sacré.
-texte: En 1145, l'évêque Otton de Freising rapporte qu'un roi chrétien d'Orient, Jean, prêtre et souverain, aurait vaincu les Perses et voudrait secourir Jérusalem. Vers 1165 circule une lettre attribuée à ce roi, adressée à l'empereur de Byzance : elle décrit un empire immense, peuplé de monstres et de merveilles, où coule la fontaine de jouvence. Marco Polo le cherche en Asie ; au XVe siècle, les Portugais l'identifient au négus d'Éthiopie.
+texte: En 1145, l'évêque Otton de Freising rapporte qu'un roi chrétien d'Orient, Jean, prêtre et souverain, aurait vaincu les Perses et voudrait secourir Jérusalem. Vers 1165 circule une lettre attribuée à ce roi, adressée à l'empereur de Byzance : elle décrit un empire immense, peuplé de monstres et de merveilles, où coule la fontaine de jouvence. Marco Polo, qui rapporte aussi la légende du Vieux de la Montagne ([[assassins|Assassins]]), le cherche en Asie ; au XVe siècle, les Portugais l'identifient au négus d'Éthiopie.
 texte: Dans le *[[parzival|Parzival]]* de Wolfram, le Prêtre Jean est le fils de Feirefiz, demi-frère du héros, et de la porteuse du Graal ; un roman allemand du XIIIe siècle y fait emporter le [[graal]]. [[rene-guenon|René Guénon]], dans *[[le-roi-du-monde|Le Roi du monde]]*, y voit l'une des figures du chef caché d'un centre spirituel.
 repere: 1145 — Première mention, chez Otton de Freising.
 repere: vers 1165 — La *Lettre du Prêtre Jean* circule en Europe.
-voir: le-roi-du-monde, graal, parzival, agartha
+voir: le-roi-du-monde, graal, parzival, agartha, alamut
 
 @ sarastro
 cat: figures
@@ -146,24 +146,26 @@ alias: saint Longin, Longinus, le centurion, lance de Longin
 dates: Ier siècle, personnage de la légende chrétienne
 def: Le soldat romain qui perça de sa lance le flanc du Christ en croix, converti selon la légende et honoré comme saint ; sa lance est devenue une relique et un talisman de pouvoir.
 texte: L'Évangile de Jean parle d'un soldat qui ouvrit d'un coup de lance le côté de Jésus ; les autres Évangiles évoquent un centurion qui reconnut au pied de la croix le Fils de Dieu. Un évangile apocryphe, les *Actes de Pilate*, donne à ce soldat le nom de Longin, tiré du grec *lonchè*, la lance. La légende le dit guéri d'un mal des yeux par le sang du Christ, devenu moine en Cappadoce et martyr.
-texte: La ville de Mantoue vénère le sang du Christ qu'il y aurait apporté ; le Bernin l'a sculpté dans la basilique Saint-Pierre de Rome, les bras ouverts, à côté de la relique de la [[sainte-lance|sainte lance]]. Le personnage a nourri les légendes du Graal, où la lance qui saigne accompagne le vase, et les mythes modernes sur la « lance du destin ».
+texte: La ville de Mantoue vénère le sang du Christ qu'il y aurait apporté ; le Bernin l'a sculpté dans la basilique Saint-Pierre de Rome, les bras ouverts, à côté de la relique de la [[sainte-lance|sainte lance]]. Le personnage a nourri les légendes du Graal, où la lance qui saigne accompagne le vase, et les mythes modernes sur la « lance du destin » (voir [[insignes-du-saint-empire|insignes du Saint-Empire]]).
 repere: IVe-Ve siècle — Les *Actes de Pilate* lui donnent le nom de Longin.
 repere: 1638 — La statue de saint Longin par le Bernin à Saint-Pierre de Rome.
 extrait: Longin était le centurion qui avait été chargé par Pilate d'assister, avec ses soldats, à la crucifixion du Seigneur, et qui avait percé de sa lance le flanc divin. Il se convertit à la foi en voyant les signes qui suivirent la mort de Jésus, c'est-à-dire l'éclipse du soleil et le tremblement de terre. Mais on dit que ce qui contribua surtout à le convertir fut que, souffrant d'un mal d'yeux, il toucha par hasard ses yeux avec une goutte du sang du Christ, qui découlait le long de sa lance, et recouvra aussitôt la santé.
 source: Jacques de Voragine, *La Légende dorée*, « Saint Longin », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Saint Longin
-voir: sainte-lance, legende-doree, graal, joseph-d-arimathie, constantin
+voir: sainte-lance, legende-doree, graal, joseph-d-arimathie, constantin, insignes-du-saint-empire
 
 @ arsene-lupin
 cat: figures
 nom: Arsène Lupin
-alias: Lupin, gentleman cambrioleur, Raoul d'Andrésy, Aiguille creuse
+alias: Lupin, gentleman cambrioleur, Raoul d'Andrésy
 dates: personnage de roman, depuis 1905
 def: Le gentleman cambrioleur créé par Maurice Leblanc, dont plusieurs aventures normandes sont des chasses aux trésors cryptés, du « secret des rois de France » aux abbayes dessinant la Grande Ourse.
-texte: Apparu en 1905 dans le magazine *Je sais tout*, Arsène Lupin est un voleur élégant, maître du déguisement et de l'ironie, qui ne tue pas. Dans *L'Aiguille creuse* (1909), le jeune Isidore Beautrelet découvre que Lupin a fait de l'aiguille de craie d'[[etretat|Étretat]] la cachette d'un secret transmis depuis Jules César par les rois de France ; dans *La Comtesse de Cagliostro* (1924), Lupin affronte la fille de [[cagliostro|Cagliostro]] et retrouve le trésor des moines en reportant sur la carte du pays de Caux la figure de la [[grande-ourse|Grande Ourse]].
-texte: Ces romans mêlent l'histoire secrète, les documents chiffrés, les souterrains et les sociétés occultes. Les inventeurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]] s'en sont nourris, au point que l'on a parlé d'une « clé lupinienne » du mystère.
+texte: Apparu en 1905 dans le magazine *Je sais tout*, Arsène Lupin est un voleur élégant, maître du déguisement et de l'ironie, qui ne tue pas. Une nouvelle de 1906, « Le Collier de la reine », le montre à six ans volant le collier même de l'[[affaire-du-collier|affaire du Collier de la reine]]. Dans *[[l-aiguille-creuse|L'Aiguille creuse]]* (1909), le jeune Isidore Beautrelet découvre que Lupin a fait de l'aiguille de craie d'[[etretat|Étretat]] la cachette d'un secret transmis depuis Jules César par les rois de France ; dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924), Lupin affronte une aventurière qui se dit la fille de [[cagliostro|Cagliostro]] et retrouve le trésor des moines en reportant sur la carte du pays de Caux la figure de la [[grande-ourse|Grande Ourse]].
+texte: Ces romans mêlent l'histoire secrète, les documents chiffrés, les souterrains et les sociétés occultes. Les inventeurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]] s'en sont nourris, au point que l'on a parlé d'une « clé lupinienne » du mystère. Dans *[[huit-cent-treize|813]]* (1910), l'énigme tient à un nombre et à un mot tronqué ; dans *[[l-ile-aux-trente-cercueils|L'Île aux trente cercueils]]* (1919), à une prophétie et à une pierre miraculeuse. *La Comtesse de Cagliostro* range après coup ces aventures sous quatre énigmes léguées par Cagliostro ; la première, « In robore fortuna », se résout sans Lupin, dans *Dorothée, danseuse de corde* (1923).
 repere: 1905 — *L'Arrestation d'Arsène Lupin*, première aventure.
 repere: 1909 — *L'Aiguille creuse*.
+repere: 1910 — *813*.
+repere: 1919 — *L'Île aux trente cercueils*.
 repere: 1924 — *La Comtesse de Cagliostro*.
 extrait: L'aiguille d'Étretat est creuse ! ¶ Phénomène naturel ? Excavation produite par des cataclysmes intérieurs ou par l'effort insensible de la mer qui bouillonne, de la pluie qui s'infiltre ? Ou bien œuvre surhumaine, exécutée par des humains, Gaulois, Celtes, hommes préhistoriques ? (…) ¶ Pour l'avoir connu, ce mot, César peut asservir la Gaule. Pour l'avoir connu, les Normands s'imposent au pays, et de là, plus tard, adossés à ce point d'appui, conquièrent l'île voisine, conquièrent la Sicile, conquièrent l'Orient, conquièrent le Nouveau-Monde ! ¶ Maîtres du secret, les rois d'Angleterre dominent la France, l'humilient, la dépècent, se font couronner rois à Paris. Ils le perdent, et c'est la déroute.
 source: Maurice Leblanc, *L'Aiguille creuse*, 1909, chap. IX, éd. Lafitte, 1912 | ws L’Aiguille creuse/IX
-voir: maurice-leblanc, etretat, rouen, cagliostro, rennes-le-chateau, abbayes-normandes, fecamp
+voir: maurice-leblanc, etretat, rouen, cagliostro, rennes-le-chateau, abbayes-normandes, fecamp, affaire-du-collier, l-aiguille-creuse, la-comtesse-de-cagliostro, huit-cent-treize, l-ile-aux-trente-cercueils

@@ -228,8 +228,8 @@ nom: Hauts lieux énergétiques
 alias: lieux d'énergie, lieux de force, lieux sacrés, chakras de la Terre, lieux vibratoires
 def: Lieux que des traditions anciennes et des courants contemporains disent chargés d'une énergie particulière, tellurique ou cosmique, qu'ils associent aux sanctuaires, aux mégalithes et aux cathédrales.
 texte: Toutes les religions ont leurs lieux sacrés : sources, montagnes, grottes, carrefours où l'on se sent plus près du divin. À partir des années 1920, des [[radiesthesie|radiesthésistes]] prétendent mesurer au [[pendule]] l'énergie de ces lieux, notamment en [[unites-bovis|unités Bovis]], et affirment que les églises, les menhirs et les cathédrales ont été bâtis sur des points privilégiés, au croisement de [[courants-telluriques|courants telluriques]] ou de [[lignes-ley|lignes ley]].
-texte: Le [[new-age|New Age]] a dressé des listes de « chakras de la Terre », qui varient d'un auteur à l'autre et placent volontiers le mont [[mont-shasta|Shasta]], [[glastonbury|Glastonbury]], les [[pyramides]] de Gizeh ou le mont Kailash parmi les centres énergétiques de la planète. Des lieux comme [[sedona|Sedona]], [[avebury|Avebury]], [[cathedrale-de-chartres|Chartres]], [[vezelay|Vézelay]] ou le [[bugarach|Bugarach]] attirent ainsi pèlerins et curieux. Aucune mesure physique n'a mis en évidence ces énergies, mais le sentiment d'être dans un lieu chargé de sens, lui, est bien réel.
-voir: geobiologie, lignes-ley, courants-telluriques, unites-bovis, radiesthesie, sedona, crop-circles
+texte: Le [[new-age|New Age]] a dressé des listes de « chakras de la Terre », qui varient d'un auteur à l'autre et placent volontiers le mont [[mont-shasta|Shasta]], [[glastonbury|Glastonbury]], les [[pyramides]] de Gizeh ou le mont Kailash parmi les centres énergétiques de la planète. Des lieux comme [[sedona|Sedona]], [[avebury|Avebury]], [[cathedrale-de-chartres|Chartres]], [[vezelay|Vézelay]] ou le [[bugarach|Bugarach]] attirent ainsi pèlerins et curieux. Chaque région a les siens : en Alsace, des livres et des guides ont fait depuis les années 1990 du [[taennchel|Taennchel]], et avec lui du [[mont-sainte-odile|mont Sainte-Odile]] et du [[donon|Donon]], des « hauts lieux d'énergie ». Aucune mesure physique n'a mis en évidence ces énergies, mais le sentiment d'être dans un lieu chargé de sens, lui, est bien réel.
+voir: geobiologie, lignes-ley, courants-telluriques, unites-bovis, radiesthesie, sedona, crop-circles, taennchel, mont-sainte-odile, donon
 
 @ geobiologie
 cat: pierres
@@ -240,7 +240,7 @@ texte: En 1929, le baron allemand Gustav von Pohl prétend avoir montré, en par
 texte: Le géobiologue arpente la maison avec une baguette ou un [[pendule]], repère les « points géopathogènes » et conseille de déplacer le lit, de poser des appareils correcteurs ou des [[cristal-de-roche|cristaux]]. Les expériences contrôlées n'ont jamais montré que des radiesthésistes détectent ces zones mieux que le hasard, et aucun lien n'a été établi entre un lieu de sommeil et le cancer. À ne pas confondre avec la géobiologie scientifique, qui étudie les interactions entre la vie et la géologie de la Terre.
 repere: 1929 — Gustav von Pohl lie les cancers de Vilsbiburg à des « rayons terrestres ».
 repere: années 1950 — Des médecins allemands, Manfred Curry puis Ernst Hartmann, décrivent les réseaux qui portent leur nom.
-voir: reseau-hartmann, radiesthesie, courants-telluriques, unites-bovis, ondes-de-forme, vouivre, crop-circles
+voir: reseau-hartmann, radiesthesie, courants-telluriques, unites-bovis, ondes-de-forme, vouivre, crop-circles, taennchel
 
 @ reseau-hartmann
 cat: pierres
@@ -272,7 +272,7 @@ texte: En géophysique, les courants telluriques sont de faibles courants élect
 texte: Cette énergie tellurique, distincte de l'électricité des géophysiciens, est devenue un lieu commun des livres sur les [[hauts-lieux-energetiques|hauts lieux énergétiques]], de la [[geobiologie|géobiologie]] et des visites « énergétiques » des cathédrales. Aucune mesure n'en a confirmé l'existence.
 repere: 1966 — Louis Charpentier popularise la « wouivre » dans *Les Mystères de la cathédrale de Chartres*.
 repere: 1969 — John Michell, *The View Over Atlantis*, assimile les lignes ley aux « veines du dragon ».
-voir: geobiologie, hauts-lieux-energetiques, cathedrale-de-chartres, dragon, lignes-ley, vouivre
+voir: geobiologie, hauts-lieux-energetiques, cathedrale-de-chartres, dragon, lignes-ley, vouivre, taennchel
 
 @ unites-bovis
 cat: pierres

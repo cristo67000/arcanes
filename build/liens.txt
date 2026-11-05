@@ -1364,3 +1364,76 @@ giacinto-scelsi: wp Giacinto Scelsi
 karlheinz-stockhausen: wp Karlheinz Stockhausen
 licht: wp Licht (Stockhausen)
 dane-rudhyar: wp Dane Rudhyar
+
+# Version 1.12 : autour d'Emma Calvé, Casanova, Raspoutine, et des définitions.
+emma-calve: wp Emma Calvé | bnf 12409325g
+chateau-de-cabrieres: -
+jules-bois: wp Jules Bois | ws Auteur:Jules Bois | bnf 131694128
+stephane-mallarme: wp Stéphane Mallarmé | ws Auteur:Stéphane Mallarmé | bnf 11914131k
+le-chat-noir: wp Le Chat noir | bnf 119555621
+casanova: wp Giacomo Casanova | ws Auteur:Giacomo Girolamo Casanova | bnf 11895403w
+raspoutine: wp Grigori Raspoutine | bnf 11952127p
+faune: wp Faunus | wp L'Après-midi d'un faune | ws L’Après-Midi d’un faune
+nymphe: wp Nymphe
+mage: wp Mage
+agnostique: wp Agnosticisme
+atheisme: wp Athéisme
+deisme: wp Déisme
+pantheisme: wp Panthéisme
+syncretisme: wp Syncrétisme
+heresie: wp Hérésie
+superstition: wp Superstition
+libertin: wp Libertin
+prophete: wp Prophète
+starets: wp Starets
+khlysts: wp Khlysts
+exorcisme: wp Exorcisme
+charlatan: wp Charlatanisme
+
+# Version 1.12, suite : lots M T C A S R P N.
+manuscrits-de-la-mer-morte: wp Manuscrits de la mer Morte | bnf 12008383q
+qumran: wp Qumrân
+esseniens: wp Esséniens | bnf 11938553c | ws Les Petites Religions de Paris/L’Essénianisme
+assassins: wp Nizârites | ia histoiredelordre00hammuoft = Hammer-Purgstall, Histoire de l'ordre des Assassins, 1833
+alamut: wp Alamut | wp Alamut (roman)
+proces-des-templiers: wp Procès de l'ordre du Temple | wp Parchemin de Chinon | wp Vox in excelso
+tresor-des-templiers: wp Légendes au sujet des Templiers
+neo-templarisme: wp Bernard-Raymond Fabré-Palaprat | en Neo-Templarism | bnf 15622962t
+hospitaliers: wp Ordre de Saint-Jean de Jérusalem | wp Ordre souverain militaire et hospitalier de Saint-Jean de Jérusalem, de Rhodes et de Malte
+foret-d-orient: wp Parc naturel régional de la Forêt d'Orient | wp Commanderie de la Loge-Bazin
+enclos-du-temple: wp Prieuré hospitalier du Temple | wp Tour du Temple
+sainte-eulalie-de-cernon: wp Commanderie de Sainte-Eulalie-de-Cernon | wp La Couvertoirade
+montsaunes: wp Commanderie de Montsaunès | wp Église Saint-Christophe-des-Templiers de Montsaunès
+affaire-du-collier: wp Affaire du collier de la reine | bnf 120494894
+cardinal-de-rohan: wp Louis-René de Rohan | bnf 12529565v
+sept-metaux: wp Sept métaux | wp Symbolique alchimique
+phosphore: wp Hennig Brand | wp Phosphore
+phlogistique: wp Théorie du phlogistique | wp Georg Ernst Stahl | wp Johann Joachim Becher
+johann-rudolf-glauber: wp Johann Rudolf Glauber | bnf 12460045b
+robert-boyle: wp Robert Boyle | ws Auteur:Robert Boyle | bnf 119889796
+antoine-lavoisier: wp Antoine Lavoisier | wp Méthode de nomenclature chimique | ws Auteur:Antoine Laurent de Lavoisier | bnf 120790362
+mont-sainte-odile: wp Mont Sainte-Odile | wp Mur païen du mont Sainte-Odile | wp Hortus deliciarum | ws Les Légendes de l’Alsace - Promenades et Souvenirs = Édouard Schuré, « Les Légendes de l’Alsace » (1883)
+donon: wp Donon | wp Musée du Donon
+taennchel: wp Taennchel
+insignes-du-saint-empire: wp Regalia du Saint-Empire | wp Couronne du Saint-Empire | en The Spear of Destiny (book)
+irminsul: wp Irminsul | wp Château d'Eresburg
+la-comtesse-de-cagliostro: wp La Comtesse de Cagliostro | ws La Comtesse de Cagliostro
+l-aiguille-creuse: wp L'Aiguille creuse | ws L’Aiguille creuse | bnf 41660561g
+huit-cent-treize: wp 813 (Arsène Lupin) | ws 813
+l-ile-aux-trente-cercueils: wp L'Île aux trente cercueils | ws L’Île aux trente cercueils
+le-fantome-de-l-opera: wp Le Fantôme de l'Opéra | ws Le Fantôme de l’Opéra | bnf 125746591
+l-atlantide-benoit: wp L'Atlantide (roman) | bnf 13165418c
+eurythmie: wp Eurythmie anthroposophique
+biodynamie: wp Agriculture biodynamique
+pedagogie-waldorf: wp Pédagogie Steiner-Waldorf
+vivekananda: wp Vivekananda | ws Auteur:Vivekananda | bnf 121727683
+maitre-eckhart: wp Maître Eckhart | wp Mystique rhénane | ws Auteur:Maître Eckhart | bnf 119015354
+pensee-magique: wp Pensée magique
+loi-de-l-attraction: wp Loi de l'attraction (Nouvelle Pensée)
+realisme-fantastique: wp Réalisme fantastique | wp Planète (revue)
+grands-travaux: wp Grandes opérations d'architecture et d'urbanisme | wp Pyramide du Louvre
+perillos: wp Périllos | wp Opoul-Périllos | wp Château de Salveterra
+rene-nelli: wp René Nelli | bnf 11917529v
+edouard-de-ribaucourt: wp Édouard de Ribaucourt | bnf 121526014
+camille-savoire: wp Camille Savoire | wp Grand Prieuré des Gaules | bnf 12208030n
+feux-de-la-saint-jean: wp Fête de la Saint-Jean | wp Herbe de la Saint-Jean | bnf 12061577w

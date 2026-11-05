@@ -22,7 +22,7 @@ repere: 1244 — Capitulation le 2 mars ; plus de deux cents cathares sont brûl
 repere: 1870 — Napoléon Peyrat publie son *Histoire des Albigeois*.
 repere: 1933 — Otto Rahn y voit le château du Graal dans *Croisade contre le Graal*.
 repere: 2026 — Inscription au patrimoine mondial de l'UNESCO, avec les forteresses royales du Languedoc.
-voir: catharisme, guilhabert-de-castres, esclarmonde-de-foix, otto-rahn, graal, grotte-de-lombrives, carcassonne
+voir: catharisme, guilhabert-de-castres, esclarmonde-de-foix, otto-rahn, graal, grotte-de-lombrives, carcassonne, rene-nelli
 
 @ rennes-le-chateau
 cat: lieux
@@ -33,7 +33,7 @@ geo: 42.9272, 2.2636
 def: Village de l'Aude dont le curé, l'abbé Saunière, dépensa des sommes considérables vers 1900 ; une légende de trésor, puis une mystification, en ont fait le centre d'une énigme ésotérique connue dans le monde entier.
 texte: Perché au-dessus de la haute vallée de l'Aude, dans le Razès, le village compte à peine deux cents habitants quand l'abbé [[berenger-sauniere|Bérenger Saunière]] y est nommé en 1885. Le curé restaure son église, dédiée à Marie-Madeleine, et l'orne d'un décor saint-sulpicien foisonnant : un diable soutient le bénitier de l'entrée, sous l'inscription *Terribilis est locus iste*, « ce lieu est redoutable », tirée de la Genèse. Il fait bâtir la villa Béthanie, un jardin, un belvédère et la tour Magdala, qui abrite sa bibliothèque.
 texte: L'évêque de [[carcassonne|Carcassonne]], inquiet de ces dépenses, découvre que le curé sollicite dans toute la France des honoraires pour des messes qu'il ne célèbre pas : Saunière est suspendu en 1910 et meurt en 1917. En 1956, Noël Corbu, qui a repris le domaine pour en faire un hôtel-restaurant, lance dans la presse régionale l'histoire d'un trésor caché, celui de Blanche de Castille. [[pierre-plantard|Pierre Plantard]] et Philippe de Chérisey fabriquent ensuite de faux parchemins et des « dossiers secrets » glissés dans les collections de la Bibliothèque nationale, que [[gerard-de-sede|Gérard de Sède]] met en récit dans *L'Or de Rennes* (1967).
-texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]], secret du peintre [[nicolas-poussin|Poussin]] et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
+texte: Le récit s'enrichit à chaque génération : trésor des Wisigoths, des cathares ou des [[templiers]] (voir [[tresor-des-templiers|trésor des Templiers]]), secret du peintre [[nicolas-poussin|Poussin]] et de ses *Bergers d'Arcadie*, géométrie sacrée du paysage, et enfin, avec *L'Énigme sacrée* (1982) puis le roman *Da Vinci Code* (2003), une descendance de Jésus et de Marie-Madeleine que garderait le [[prieure-de-sion|prieuré de Sion]]. Depuis le milieu des années 1990, un auteur, André Douzet, déplace même l'énigme vers le hameau abandonné de [[perillos|Périllos]], dans les Corbières, sur la foi d'une maquette qu'il attribue à Saunière et dont rien n'établit la provenance. Les historiens ont établi la fausseté des documents, dont Chérisey s'est reconnu l'auteur, et l'origine banale de la richesse du curé. Les fouilles sauvages furent si nombreuses que la commune les a interdites en 1965.
 texte: Chaque élément du village est entré dans la légende : le diable du bénitier, que l'on appelle [[asmodee|Asmodée]], la dédicace de l'église à [[marie-madeleine|Marie-Madeleine]] et la tour Magdala, les [[parchemins-de-rennes-le-chateau|parchemins]] où paraissent [[dagobert-ii|Dagobert II]] et les « pommes bleues », le séjour supposé de Saunière au séminaire de [[saint-sulpice|Saint-Sulpice]], le tombeau des Pontils et l'[[arcadie|Arcadie]] de Poussin, jusqu'à l'[[inscription-de-shugborough|inscription de Shugborough]] en Angleterre.
 repere: 1885 — Bérenger Saunière est nommé curé du village.
 repere: 1897 — L'église restaurée reçoit la visite de l'évêque de Carcassonne.
@@ -45,7 +45,7 @@ repere: 1965 — La commune interdit les fouilles.
 repere: 1967 — *L'Or de Rennes*, de Gérard de Sède.
 repere: 1982 — *L'Énigme sacrée* lie le village à une descendance du Christ.
 repere: 2003 — Le *Da Vinci Code* reprend la légende du prieuré de Sion.
-voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc, parchemins-de-rennes-le-chateau, asmodee, marie-madeleine, dagobert-ii, saint-sulpice, arcadie, peyrepertuse
+voir: berenger-sauniere, rennes-les-bains, henri-boudet, pierre-plantard, gerard-de-sede, prieure-de-sion, les-bergers-d-arcadie, maurice-leblanc, parchemins-de-rennes-le-chateau, asmodee, marie-madeleine, dagobert-ii, saint-sulpice, arcadie, peyrepertuse, emma-calve, chateau-de-cabrieres, tresor-des-templiers, perillos
 
 @ rennes-les-bains
 cat: lieux
@@ -80,7 +80,7 @@ texte: Le château couronne un piton de 728 mètres, d'où la vue porte de la M�
 texte: Devenu forteresse royale à la frontière de l'Aragon, il est profondément remanié. Sa salle haute, une salle gothique dont la voûte retombe sur un pilier central, a été lue par des auteurs ésotériques comme un observatoire solaire, la lumière du solstice frappant un point précis : comme à Montségur, l'hypothèse ne repose sur rien. Il fait partie, depuis 2026, des forteresses royales du Languedoc inscrites au patrimoine mondial.
 repere: 1255 — Le château tombe aux mains des troupes royales.
 repere: 2026 — Inscription au patrimoine mondial de l'UNESCO.
-voir: montsegur, peyrepertuse, catharisme, parfaits
+voir: montsegur, peyrepertuse, catharisme, parfaits, perillos
 
 @ peyrepertuse
 cat: lieux
@@ -95,7 +95,7 @@ texte: Elle compte parmi les « cinq fils de Carcassonne », les forteresses roy
 repere: 1240 — Guillaume de Peyrepertuse se soumet au roi de France.
 repere: 1659 — Le traité des Pyrénées éloigne la frontière : la forteresse perd son rôle.
 repere: 2026 — Inscription au patrimoine mondial de l'UNESCO.
-voir: queribus, montsegur, catharisme, rennes-le-chateau, carcassonne
+voir: queribus, montsegur, catharisme, rennes-le-chateau, carcassonne, perillos
 
 @ grotte-de-lombrives
 cat: lieux
@@ -222,11 +222,12 @@ lieu: Eure, Normandie, France
 geo: 49.2808, 1.7745
 def: Forteresse normande du Vexin où un gardien affirma en 1946 avoir vu une crypte remplie de coffres : le livre de Gérard de Sède en fit le refuge du trésor des templiers.
 texte: Le château, élevé à partir du XIe siècle par les ducs de Normandie, gardait la frontière entre le domaine du roi de France et la Normandie anglaise ; devant ses murs fut coupé en 1188, selon les chroniques, un orme sous lequel les deux rois se rencontraient. Les [[templiers]] l'eurent en garde quelques années, au XIIe siècle, pendant un litige entre les deux couronnes.
-texte: En 1946, Roger Lhomoy, gardien du château, creuse en secret sous le donjon et affirme avoir découvert une chapelle souterraine contenant des sarcophages et trente coffres. Les fouilles officielles ne trouvent rien. En 1962, [[gerard-de-sede|Gérard de Sède]] publie son récit dans *Les Templiers sont parmi nous* ; c'est en commentant ce livre que [[pierre-plantard|Pierre Plantard]] entre en scène et commence à élaborer la légende du [[prieure-de-sion|prieuré de Sion]], qu'il transportera ensuite à [[rennes-le-chateau|Rennes-le-Château]].
+texte: En 1946, Roger Lhomoy, gardien du château, creuse en secret sous le donjon et affirme avoir découvert une chapelle souterraine contenant des sarcophages et trente coffres. En 1962, [[gerard-de-sede|Gérard de Sède]] publie son récit dans *Les Templiers sont parmi nous* et fait du château le refuge du [[tresor-des-templiers|trésor des Templiers]] ; les fouilles ordonnées en 1964 par le ministère de la Culture ne trouvent rien ; c'est en commentant ce livre que [[pierre-plantard|Pierre Plantard]] entre en scène et commence à élaborer la légende du [[prieure-de-sion|prieuré de Sion]], qu'il transportera ensuite à [[rennes-le-chateau|Rennes-le-Château]].
 repere: 1188 — L'« orme de Gisors » est abattu lors d'une entrevue des rois de France et d'Angleterre.
 repere: 1946 — Roger Lhomoy dit avoir vu une crypte sous le donjon.
 repere: 1962 — *Les Templiers sont parmi nous*, de Gérard de Sède.
-voir: templiers, gerard-de-sede, pierre-plantard, prieure-de-sion, chinon, philippe-le-bel
+repere: 1964 — Les fouilles ordonnées par le ministère de la Culture ne trouvent rien.
+voir: templiers, gerard-de-sede, pierre-plantard, prieure-de-sion, chinon, philippe-le-bel, tresor-des-templiers, foret-d-orient
 
 @ chinon
 cat: lieux
@@ -235,11 +236,11 @@ alias: Chinon, graffiti des templiers, tour du Coudray, parchemin de Chinon
 lieu: Indre-et-Loire, Centre-Val de Loire, France
 geo: 47.1681, 0.2361
 def: Château royal du Val de Loire où furent détenus en 1308 le grand maître du Temple et des dignitaires de l'ordre, et dont les graffiti ont été lus comme un message secret.
-texte: En 1308, pendant le procès des [[templiers]], le grand maître [[jacques-de-molay|Jacques de Molay]] et quatre dignitaires sont enfermés dans la tour du Coudray, où des cardinaux envoyés par le pape Clément V les interrogent. Le procès-verbal de ces auditions, le « parchemin de Chinon », retrouvé en 2001 dans les archives du Vatican par l'historienne Barbara Frale, montre que le pape leur accorda l'absolution, sans pour autant sauver l'ordre.
+texte: En 1308, pendant le procès des [[templiers]], le grand maître [[jacques-de-molay|Jacques de Molay]] et quatre dignitaires sont enfermés dans la tour du Coudray, où trois cardinaux envoyés par le pape Clément V les interrogent du 17 au 20 août (voir [[proces-des-templiers|procès des Templiers]]). Le procès-verbal de ces auditions, le « parchemin de Chinon », retrouvé en 2001 dans les archives du Vatican par l'historienne Barbara Frale, montre que les cardinaux, au nom du pape, leur accordèrent l'absolution après qu'ils eurent reconnu avoir renié le Christ, mais non la sodomie, sans pour autant sauver l'ordre. Le document a été publié par le Vatican en 2007.
 texte: Les murs de la tour portent des graffiti gravés dans la pierre : croix, cœurs, figures et signes divers. Les auteurs ésotériques y ont vu un message chiffré laissé par les templiers à leurs successeurs ; les historiens les attribuent à des prisonniers de diverses époques, sans pouvoir les dater avec certitude.
 repere: 1308 — Jacques de Molay et des dignitaires du Temple sont interrogés à Chinon.
 repere: 2001 — Redécouverte du parchemin de Chinon aux archives vaticanes.
-voir: templiers, jacques-de-molay, gisors, baphomet, jeanne-d-arc, philippe-le-bel
+voir: templiers, jacques-de-molay, gisors, baphomet, jeanne-d-arc, philippe-le-bel, proces-des-templiers, enclos-du-temple, montsaunes
 
 @ pere-lachaise
 cat: lieux
@@ -263,12 +264,12 @@ geo: 48.5818, 7.7509
 def: Cathédrale gothique de grès rose, longtemps le plus haut édifice du monde, dont la loge de tailleurs de pierre dirigea au XVe siècle celles de l'Empire, et dont l'horloge astronomique calcule le ciel et le temps.
 texte: Commencée en 1176 à la place d'une cathédrale romane, la cathédrale de grès rose des Vosges reçoit à partir de 1277 une façade dessinée par Erwin de Steinbach ; Ulrich d'Ensingen puis Jean Hültz élèvent la tour nord, dont la flèche, achevée en 1439, culmine à 142 mètres : de 1647 à 1874, c'est le plus haut édifice du monde. Étudiant à Strasbourg, le jeune [[johann-wolfgang-von-goethe|Goethe]] fait en 1772, dans *De l'architecture allemande*, l'éloge d'Erwin et du [[gothique]], qu'on méprisait encore.
 texte: En 1459, l'assemblée des tailleurs de pierre réunie à Ratisbonne fait du maître d'œuvre de Strasbourg le chef de toutes les loges de l'Empire : la loge de Strasbourg reste la loge suprême des bâtisseurs de langue allemande jusqu'à sa suppression, en 1707. Les francs-maçons, qui se veulent les héritiers de ces loges [[operatifs-et-speculatifs|opératives]], y voient un jalon de leur légende (voir [[franc-maconnerie]] et [[art-gothique]]).
-texte: Dans le bras sud du transept, le pilier des anges, sculpté vers 1230, figure le Jugement dernier ; l'horloge astronomique, refaite de 1838 à 1842 par Jean-Baptiste Schwilgué après celles de 1354 et de 1574, calcule les fêtes mobiles, le mouvement des planètes et la [[precession|précession des équinoxes]]. Depuis 1972, on observe qu'aux équinoxes un rayon vert, tombé d'un vitrail, se pose sur le Christ de la chaire : un effet de lumière que des visiteurs ont lu comme un message des bâtisseurs.
-texte: Au XVIIIe siècle, la ville est un foyer de l'[[illuminisme]] : [[cagliostro|Cagliostro]] y soigne les pauvres en 1780 sous la protection du cardinal de Rohan, et [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]] y découvre [[jakob-boehme|Jakob Boehme]] en 1788. [[edouard-schure|Édouard Schuré]] et [[gustave-dore|Gustave Doré]] y sont nés.
+texte: Dans le bras sud du transept, le pilier des anges, sculpté vers 1230, figure le Jugement dernier ; l'horloge astronomique, refaite de 1838 à 1842 par Jean-Baptiste Schwilgué après celles de 1354 et de 1574, calcule les fêtes mobiles, le mouvement des planètes et la [[precession|précession des équinoxes]]. À partir de 1972, on a observé qu'aux équinoxes un rayon vert, tombé d'un vitrail, se posait sur le Christ de la chaire : un effet de lumière, né d'une restauration du vitrail, que des visiteurs ont lu comme un message des bâtisseurs. Il a disparu en 2022, quand une nouvelle restauration a patiné le verre qui le laissait passer. Les légendes de l'édifice ont été recueillies au XIXe siècle : le folkloriste Auguste Stoeber rapporte en 1852, dans ses *Sagen des Elsasses*, qu'un lac s'étendrait sous la cathédrale, où l'on entendrait à minuit ramer des barques ; un journal alsacien imprime en 1859 l'histoire du vent qui tourne autour de l'édifice en attendant le diable, entré un jour dans la nef et resté prisonnier d'un pilier. Quant à Sabina, fille d'Erwin et sculptrice du portail sud, elle apparaît en 1617 chez Oseas Schadaeus, née d'une inscription mal lue : les statues qu'on lui prête, sculptées vers 1225, sont antérieures d'un demi-siècle à Erwin.
+texte: Au XVIIIe siècle, la ville est un foyer de l'[[illuminisme]] : [[cagliostro|Cagliostro]] y soigne les pauvres de 1780 à 1783 sous la protection du prince-évêque, le [[cardinal-de-rohan|cardinal de Rohan]], et [[louis-claude-de-saint-martin|Louis-Claude de Saint-Martin]] y découvre [[jakob-boehme|Jakob Boehme]] en 1788. [[edouard-schure|Édouard Schuré]] et [[gustave-dore|Gustave Doré]] y sont nés. C'est à Strasbourg qu'a brûlé en 1870, sous le bombardement prussien, l'*Hortus deliciarum*, le grand manuscrit enluminé du [[mont-sainte-odile|mont Sainte-Odile]].
 repere: 1176 — Début de la cathédrale gothique.
 repere: 1277 — Erwin de Steinbach commence la façade.
 repere: 1439 — Achèvement de la flèche, à 142 mètres.
 repere: 1459 — À Ratisbonne, la loge de Strasbourg devient la loge suprême des tailleurs de pierre de l'Empire.
 repere: 1772 — Goethe publie *De l'architecture allemande*.
 repere: 1842 — Achèvement de l'horloge astronomique de Schwilgué.
-voir: art-gothique, gothique, operatifs-et-speculatifs, franc-maconnerie, johann-wolfgang-von-goethe, notre-dame-de-paris, cathedrale-de-chartres, precession, cagliostro, louis-claude-de-saint-martin
+voir: art-gothique, gothique, operatifs-et-speculatifs, franc-maconnerie, johann-wolfgang-von-goethe, notre-dame-de-paris, cathedrale-de-chartres, precession, cagliostro, louis-claude-de-saint-martin, cardinal-de-rohan, mont-sainte-odile

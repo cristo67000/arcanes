@@ -39,14 +39,14 @@ voir: apprenti, compagnon, maitre-macon, ecossisme, rite-ecossais-ancien-et-acce
 @ templiers
 cat: societes
 nom: Templiers
-alias: ordre du Temple, chevaliers du Temple, Jacques de Molay, néo-templiers, néotemplarisme, Stricte Observance templière, mythe templier
+alias: ordre du Temple, chevaliers du Temple, Jacques de Molay, Stricte Observance templière, mythe templier
 an: 1120
 dates: 1120 – 1312 ; mythe depuis le XVIIIe siècle
 def: Ordre religieux et militaire fondé à Jérusalem vers 1120, supprimé en 1312 après un procès retentissant, devenu dans l'imaginaire ésotérique le gardien de secrets transmis à des sociétés ultérieures.
-texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
-texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un trésor caché, de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers », dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
+texte: Fondé par [[hugues-de-payns|Hugues de Payns]] pour protéger les pèlerins, reconnu au concile de Troyes en 1129, l'ordre du Temple devient une puissance militaire et financière, forte de centaines de commanderies rurales — celles du [[sainte-eulalie-de-cernon|Larzac]] ou de [[montsaunes|Montsaunès]], la [[foret-d-orient|forêt du Temple]] en Champagne — et de l'[[enclos-du-temple|enclos du Temple]] à Paris, où le roi dépose son trésor. Le 13 octobre 1307, le roi Philippe le Bel fait arrêter tous les templiers de France ; accusés de renier le Christ, d'adorer une idole et de pratiques obscènes, souvent sous la torture, ils voient leur ordre aboli par le pape Clément V en 1312 : la bulle *Vox in excelso* le supprime par mesure d'autorité, sans le condamner, et ses biens vont aux [[hospitaliers|Hospitaliers]] (voir [[proces-des-templiers|procès des Templiers]]). Le grand maître [[jacques-de-molay|Jacques de Molay]] est brûlé à Paris en 1314.
+texte: Au XVIIIe siècle, des francs-maçons prétendent que les templiers survivants ont transmis leurs secrets à la [[franc-maconnerie]] : la [[stricte-observance|Stricte Observance templière]], en Allemagne, en fait sa légende fondatrice, le grade de [[chevalier-kadosh|Kadosh]] la met en scène, et [[jean-baptiste-willermoz]] la reprend en la transformant. On a prêté depuis aux templiers la garde du [[graal|Graal]], d'un [[tresor-des-templiers|trésor caché]], de la sagesse orientale ou d'une idole, le [[baphomet|Baphomet]]. En 1818, l'orientaliste Joseph von Hammer-Purgstall les rapproche des [[assassins|Assassins]] de Syrie et leur prête comme à eux une doctrine secrète ; les chroniques ne montrent que des voisins, à qui les Assassins payaient tribut. Les historiens n'ont trouvé aucune trace d'une telle transmission ; des ordres « néo-templiers » (voir [[neo-templarisme|néo-templarisme]]), dont certains sectaires comme l'[[ordre-du-temple-solaire|Ordre du Temple solaire]], s'en réclament encore.
 texte: Le roman et l'image ont fait leur part : [[walter-scott|Walter Scott]] met en scène dans *Ivanhoé* (1819) un templier cruel et un grand maître qui accuse une juive de sorcellerie ; on a cru reconnaître dans le Pégase de l'Inner Temple de Londres une lecture fautive de leur sceau aux deux cavaliers, et l'Agnus Dei orne les sceaux de leurs maîtres provinciaux. Le procès voulu par [[philippe-le-bel|Philippe le Bel]] est mieux connu depuis la redécouverte, en 2001, du parchemin de [[chinon|Chinon]], où le pape absout les dignitaires en 1308 ; parmi les accusations figurait l'adoration d'un [[chat]].
-voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat, jean-baptiste, le-pendule-de-foucault, rite-suedois
+voir: baphomet, stricte-observance, chevalier-kadosh, rite-ecossais-rectifie, graal, ordre-du-temple-solaire, couvent-du-christ, chapelle-de-rosslyn, gisors, philippe-le-bel, walter-scott, pegase, agneau, chat, jean-baptiste, le-pendule-de-foucault, rite-suedois, assassins, proces-des-templiers, tresor-des-templiers, neo-templarisme, hospitaliers, enclos-du-temple, foret-d-orient, sainte-eulalie-de-cernon, montsaunes
 
 @ rite-ecossais-ancien-et-accepte
 cat: maconnerie
@@ -68,9 +68,9 @@ an: 1778
 dates: depuis 1778
 def: Rite maçonnique chrétien fondé à Lyon en 1778 par Jean-Baptiste Willermoz, qui transmet dans ses grades secrets la doctrine de la réintégration de Martinez de Pasqually.
 texte: Au convent des Gaules ([[lyon|Lyon]], 1778), puis au [[convent-de-wilhelmsbad|convent de Wilhelmsbad]] (1782), [[jean-baptiste-willermoz]] transforme la [[stricte-observance|Stricte Observance templière]] : il renonce à la filiation templière et crée l'ordre des Chevaliers bienfaisants de la Cité sainte. Au sommet, une classe secrète, celle des Profès et des Grands Profès, reçoit l'enseignement des [[elus-coens|Élus Coëns]] sur la chute et la [[reintegration]] de l'homme.
-texte: Le rite, conservé en Suisse au XIXe siècle, a été réveillé en France au XXe ; il est pratiqué aujourd'hui par plusieurs obédiences. Il est le principal témoin vivant de l'[[illuminisme]] dans la franc-maçonnerie.
+texte: Le rite, conservé en Suisse au XIXe siècle par le Grand Prieuré d'Helvétie, a été réveillé en France au XXe : [[camille-savoire|Camille Savoire]] et [[edouard-de-ribaucourt|Édouard de Ribaucourt]] le rapportent de Genève en 1910, et Savoire fonde en 1935 le Grand Prieuré des Gaules ; il est pratiqué aujourd'hui par plusieurs obédiences. Il est le principal témoin vivant de l'[[illuminisme]] dans la franc-maçonnerie.
 schema: rites-maconniques/rectifie
-voir: jean-baptiste-willermoz, elus-coens, reintegration, convent-de-wilhelmsbad, stricte-observance, joseph-de-maistre, evangile-de-jean, jerusalem-celeste
+voir: jean-baptiste-willermoz, elus-coens, reintegration, convent-de-wilhelmsbad, stricte-observance, joseph-de-maistre, evangile-de-jean, jerusalem-celeste, camille-savoire, edouard-de-ribaucourt
 
 @ rite-de-memphis-misraim
 cat: maconnerie
@@ -229,7 +229,7 @@ dates: depuis 1875
 def: Organisation fondée à New York en 1875 par Helena Blavatsky et Henry Olcott, établie ensuite à Adyar, en Inde, qui a diffusé dans le monde entier la théosophie et les religions orientales.
 texte: La Société se donne trois buts : former un noyau de fraternité universelle sans distinction de race, de croyance, de sexe ou de caste ; encourager l'étude comparée des religions, des philosophies et des sciences ; étudier les lois inexpliquées de la nature et les pouvoirs latents de l'homme. Sa devise est : « Il n'y a pas de religion plus élevée que la vérité. » Son sceau réunit un serpent qui se mord la queue, deux triangles entrelacés, une croix ansée et un svastika.
 texte: Installée en Inde en 1879, à Adyar, près de Madras, à partir de 1882, la Société se divise à plusieurs reprises, notamment après la mort de [[helena-blavatsky]]. Sous la présidence d'[[annie-besant]], elle atteint son apogée dans les années 1920. Elle a profondément influencé l'ésotérisme du XXe siècle, mais aussi le renouveau hindou et bouddhiste et le mouvement national indien.
-voir: theosophie, helena-blavatsky, henry-steel-olcott, annie-besant, ouroboros, hexagramme, adyar
+voir: theosophie, helena-blavatsky, henry-steel-olcott, annie-besant, ouroboros, hexagramme, adyar, vivekananda
 
 @ societe-anthroposophique
 cat: societes
@@ -240,9 +240,9 @@ dates: depuis 1913
 def: Organisation fondée en 1913 par les disciples de Rudolf Steiner après leur rupture avec la Société théosophique, dont le siège est le Goetheanum, à Dornach, en Suisse.
 texte: La section allemande de la [[societe-theosophique|Société théosophique]], dirigée par [[rudolf-steiner]], refuse de suivre [[annie-besant]] dans sa promotion de [[jiddu-krishnamurti]] ; exclue, elle devient la Société anthroposophique. Steiner la refonde à Noël 1923 sous le nom de Société anthroposophique universelle, avec une École de science spirituelle.
 texte: Le premier [[goetheanum|Goetheanum]], à Dornach, brûle dans la nuit du Nouvel An 1922-1923. Un an plus tard, au congrès de Noël 1923-1924, Steiner prend lui-même la présidence et donne à la Société sa « Méditation de la pierre de fondation ». Après sa mort, en 1925, les querelles de succession conduisent en 1935 à l'exclusion d'Ita Wegman et d'Elisabeth Vreede, membres du comité directeur, et de plusieurs sociétés nationales.
-texte: La Société chapeaute aujourd'hui un vaste réseau d'institutions : écoles Steiner-Waldorf, fermes biodynamiques, établissements de soins et entreprises.
+texte: La Société chapeaute aujourd'hui un vaste réseau d'institutions : [[pedagogie-waldorf|écoles Steiner-Waldorf]], fermes de la [[biodynamie]], établissements de soins et entreprises.
 texte: La première école Waldorf ouvre à Stuttgart en 1919 pour les enfants des ouvriers de la fabrique de cigarettes Waldorf-Astoria ; l'agriculture biodynamique naît d'un cours donné par Steiner à Koberwitz, en Silésie, en 1924. Les études comparatives n'ont pas montré d'effet propre des préparations biodynamiques, comme la bouse enterrée dans des cornes de vache, au-delà de celui des pratiques biologiques qui les accompagnent.
-voir: anthroposophie, rudolf-steiner, societe-theosophique, goetheanum
+voir: anthroposophie, rudolf-steiner, societe-theosophique, goetheanum, pedagogie-waldorf, biodynamie, eurythmie
 
 @ amorc
 cat: societes
@@ -308,9 +308,9 @@ alias: OTS, Temple solaire, Luc Jouret, Joseph Di Mambro
 an: 1984
 dates: 1984 – 1997
 def: Groupe néo-templier et apocalyptique fondé en 1984, responsable de la mort de soixante-quatorze personnes en Suisse, au Québec et en France entre 1994 et 1997.
-texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde, une [[apocalypse]] par le feu. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
+texte: Fondé par Joseph Di Mambro et le médecin homéopathe Luc Jouret, qui venait de l'Ordre rénové du Temple (voir [[neo-templarisme|néo-templarisme]]), l'Ordre du Temple solaire mêle le mythe des [[templiers]], des rites inspirés de la Rose-Croix, l'écologie et l'annonce d'une fin du monde, une [[apocalypse]] par le feu. Ses dirigeants y exercent une emprise croissante sur des membres souvent aisés.
 texte: En octobre 1994, cinquante-trois personnes meurent en Suisse et au Québec, dans des incendies volontaires et des assassinats présentés comme un « transit » vers l'étoile [[sirius|Sirius]] ; seize autres en 1995 dans le Vercors, cinq en 1997 au Québec. Cette tragédie a profondément marqué la perception des groupes ésotériques et la lutte contre les dérives sectaires en France.
-voir: templiers, rose-croix, sirius, apocalypse, stricte-observance
+voir: templiers, rose-croix, sirius, apocalypse, stricte-observance, neo-templarisme
 
 @ society-for-psychical-research
 cat: societes

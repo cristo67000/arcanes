@@ -57,7 +57,7 @@ alias: thaumaturges, thaumaturgie, faiseur de miracles, rois thaumaturges, touch
 def: Celui qui accomplit des prodiges, des guérisons ou des miracles ; le titre de saints, de mages et de rois réputés guérir par leur seule puissance.
 texte: Grégoire, évêque de Néocésarée au IIIe siècle, reçut le surnom de Thaumaturge pour les prodiges qu'on lui prêtait. L'Antiquité tardive connaissait aussi des « hommes divins » païens, comme [[apollonius-de-tyane|Apollonius de Tyane]], que ses partisans opposaient au Christ. Du Moyen Âge au XVIIIe siècle, les rois de France et d'Angleterre passaient pour guérir les écrouelles en les touchant, une croyance étudiée par l'historien Marc Bloch dans *Les Rois thaumaturges* (1924).
 texte: Le XIXe siècle eut ses thaumaturges, magnétiseurs et guérisseurs, comme le zouave Jacob ou [[maitre-philippe|Maître Philippe]] de [[lyon|Lyon]]. La [[theurgie]] désigne autre chose : l'art d'agir avec les dieux par des rites, plutôt que le pouvoir personnel de faire des miracles.
-voir: apollonius-de-tyane, maitre-philippe, theurgie, magnetisme-animal
+voir: apollonius-de-tyane, maitre-philippe, theurgie, magnetisme-animal, raspoutine, starets, charlatan
 
 # ── Le catharisme ───────────────────────────────────────────────────────────
 
@@ -96,7 +96,7 @@ nom: Langue des oiseaux
 alias: cabale phonétique, langue verte, gaie science, argot des initiés
 def: Langage secret supposé des initiés, fondé sur les sonorités des mots, les jeux de sens et les calembours, que Fulcanelli et ses lecteurs ont appliqué à la lecture des symboles.
 texte: Le thème est ancien : Salomon comprend le langage des oiseaux, le héros Siegfried aussi, après avoir goûté le sang du dragon, et le poète persan Attâr fait du *Langage des oiseaux* l'allégorie du voyage mystique. [[rene-guenon|René Guénon]] y voit le symbole d'une langue sacrée, celle de la communication avec les états supérieurs de l'être.
-texte: Chez [[fulcanelli]], la « langue des oiseaux », ou « cabale phonétique », est une méthode de lecture : les mots se décomposent par les sons, « art gothique » devient « argotique », l'argot devenant la langue cachée des bâtisseurs. Ses disciples, puis les chercheurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]], ont fait de ces calembours une clé universelle, que les linguistes tiennent pour un pur jeu.
+texte: Avant Fulcanelli, l'archéologue Claude-Sosthène Grasset d'Orcet (1828-1900) avait cherché, dans les articles qu'il donna à la *Revue britannique* à partir de 1873, les règles d'un langage chiffré caché dans le blason ; ses *Matériaux cryptographiques* ont été réunis après sa mort. Chez [[fulcanelli]], la « langue des oiseaux », ou « cabale phonétique », est une méthode de lecture : les mots se décomposent par les sons, « art gothique » devient « argotique », l'argot devenant la langue cachée des bâtisseurs. Ses disciples, puis les chercheurs de l'énigme de [[rennes-le-chateau|Rennes-le-Château]], ont fait de ces calembours une clé universelle, que les linguistes tiennent pour un pur jeu.
 voir: fulcanelli, mystere-des-cathedrales, notarikon, la-vraie-langue-celtique
 
 @ art-royal
@@ -220,7 +220,7 @@ alias: ravissement, transe, sortie de soi, techniques de l'extase
 def: État où l'esprit semble sortir de lui-même, suspendu dans la contemplation de Dieu, de l'Un ou d'un monde invisible, au point que les sens cessent d'agir.
 texte: Selon son disciple Porphyre, [[plotin|Plotin]] atteignit quatre fois l'union avec l'Un ; les mystiques chrétiens, de Paul enlevé au troisième ciel à Thérèse d'Avila, décrivent des ravissements où l'âme est saisie. Les mystères antiques, les danses des derviches, les transes de possession ou les visions des chamanes en offrent d'autres formes.
 texte: [[mircea-eliade|Mircea Eliade]] définit en 1951 le [[chamanisme]] comme une « technique archaïque de l'extase ». Le XIXe siècle observe des extases chez les somnambules du [[magnetisme-animal|magnétisme]] et les [[medium|médiums]] ; la psychologie et les neurosciences étudient aujourd'hui ces états modifiés de conscience sans trancher sur ce qu'ils révèlent.
-voir: mystique, chamanisme, plotin, voyage-astral, medium
+voir: mystique, chamanisme, plotin, voyage-astral, medium, khlysts, starets
 
 @ telepathie
 cat: notions
@@ -269,7 +269,7 @@ texte: Saint Augustin rapporte que bien des gens dignes de foi attestent les ass
 texte: Au XVIIe siècle, le franciscain Ludovico Maria Sinistrari consacre au sujet un traité, *De la démonialité*, publié seulement en 1875. Les médecins rapprochent aujourd'hui ces récits de la paralysie du sommeil, où le dormeur, à demi éveillé, sent un poids sur sa poitrine et voit une présence dans la chambre.
 extrait: Succubes, démons qui prennent des figures de femmes. (…) Hector de Boëce, dans son histoire d’Écosse, rapporte qu’un jeune homme d’une extrême beauté était poursuivi par une jeune démone, qui passait à travers sa porte fermée et venait lui offrir de l’épouser. Il s’en plaignit à son évêque, qui le fit jeûner, prier et se confesser, et la beauté d’enfer cessa de lui rendre visite.
 source: Jacques Collin de Plancy, *Dictionnaire infernal*, 6e édition, 1863, article « Succubes » | gallica bpt6k5754923d | ws Dictionnaire infernal/6e éd., 1863/Succubes
-voir: demonologie, sorcellerie, chasse-aux-sorcieres, sabbat, le-cauchemar, lilith
+voir: demonologie, sorcellerie, chasse-aux-sorcieres, sabbat, le-cauchemar, lilith, faune, exorcisme
 
 @ soleil-noir
 cat: symboles
@@ -296,10 +296,10 @@ cat: societes
 nom: Prieuré de Sion
 alias: Prieuré de Sion, grands maîtres du prieuré, mérovingiens
 def: Association fondée en 1956 par Pierre Plantard, présentée ensuite par de faux documents comme un ordre secret millénaire gardien de la descendance des Mérovingiens et du Christ.
-texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent en Haute-Savoie les statuts d'une modeste association de ce nom, qui publie un bulletin local. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, [[leonard-de-vinci|Léonard de Vinci]], Isaac Newton, Victor Hugo, [[claude-debussy|Claude Debussy]] ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
+texte: En 1956, [[pierre-plantard|Pierre Plantard]] et quelques amis déposent à la sous-préfecture de Saint-Julien-en-Genevois, en Haute-Savoie, les statuts, datés du 7 mai 1956, d'une modeste association de ce nom, dont le siège est à Annemasse, chez Plantard. Son nom vient d'une colline voisine, le mont Sion, non de Jérusalem ; son bulletin ronéotypé, *Circuit*, défend surtout les locataires des HLM de la ville, et elle cesse toute activité dès l'automne. Dans les années 1960, Plantard et Philippe de Chérisey en font, par des documents fabriqués déposés à la Bibliothèque nationale, les « [[dossiers-secrets|dossiers secrets]] », un ordre fondé à Jérusalem par Godefroy de Bouillon, inspirateur des [[templiers]], dont les grands maîtres auraient été Nicolas Flamel, [[leonard-de-vinci|Léonard de Vinci]], Isaac Newton, Victor Hugo, [[claude-debussy|Claude Debussy]] ou Jean Cocteau, et qui protégerait les descendants des rois mérovingiens.
 texte: *L'Énigme sacrée* (1982) y ajoute une descendance de Jésus et de Marie-Madeleine, et le *Da Vinci Code* (2003) présente l'existence du prieuré comme un fait. Plantard reconnut lui-même en 1993, sous serment, avoir tout inventé ; les historiens ont démonté la supercherie pièce par pièce. Le prieuré reste l'exemple type d'une société secrète imaginaire devenue un mythe mondial.
 texte: Les faussaires ont puisé partout : dans l'histoire réelle des chanoines du Mont-Sion de Jérusalem installés par [[godefroy-de-bouillon|Godefroy de Bouillon]], dans la légende des moines calabrais d'[[orval|Orval]], dans le souvenir de [[dagobert-ii|Dagobert II]] à [[stenay|Stenay]] et des [[merovingiens|Mérovingiens]], dans les idées de Paul Le Cour et du [[hieron-du-val-d-or|Hiéron du Val d'Or]]. Les [[parchemins-de-rennes-le-chateau|parchemins de Rennes-le-Château]] et *[[l-enigme-sacree|L'Énigme sacrée]]* ont achevé la construction.
-repere: 1956 — Pierre Plantard dépose les statuts de l'association.
+repere: 1956 — Statuts datés du 7 mai, enregistrés le 25 juin à la sous-préfecture de Saint-Julien-en-Genevois ; siège à Annemasse.
 repere: 1967 — Dépôt des « dossiers secrets » à la Bibliothèque nationale.
 repere: 1982 — *L'Énigme sacrée* en fait le gardien d'une descendance du Christ.
 repere: 1993 — Plantard reconnaît la supercherie sous serment.
@@ -310,13 +310,13 @@ cat: societes
 nom: Ahnenerbe
 alias: Das Ahnenerbe, héritage des ancêtres, Wolfram Sievers, Hermann Wirth
 def: Institut de recherche de la SS fondé en 1935 par Himmler pour démontrer la grandeur préhistorique de la « race nordique », devenu un instrument de propagande puis de crimes.
-texte: Créée en 1935 par [[heinrich-himmler|Heinrich Himmler]], l'historien amateur Herman Wirth et le ministre Walther Darré, la « Société d'étude de l'héritage des ancêtres » emploie des archéologues, des linguistes et des folkloristes pour retrouver dans les runes, les mégalithes, les contes et les rites populaires les traces d'une civilisation nordique originelle. Elle finance des fouilles, comme aux [[externsteine|Externsteine]], et des expéditions, dont celle d'Ernst Schäfer au Tibet en 1938-1939.
+texte: Créée en 1935 par [[heinrich-himmler|Heinrich Himmler]], l'historien amateur Herman Wirth et le ministre Walther Darré, la « Société d'étude de l'héritage des ancêtres » emploie des archéologues, des linguistes et des folkloristes pour retrouver dans les runes, les mégalithes, les contes et les rites populaires les traces d'une civilisation nordique originelle. Elle finance des fouilles, comme aux [[externsteine|Externsteine]], et des expéditions, dont celle d'Ernst Schäfer au Tibet en 1938-1939. En 1936, elle absorbe l'association de Wilhelm Teudt et en adopte l'emblème, l'[[irminsul|Irminsul]].
 texte: Intégrée à la SS, elle participe pendant la guerre au pillage des biens culturels et à des expériences sur des détenus des camps : à Dachau, les essais du médecin Sigmund Rascher, et à Strasbourg, la constitution par August Hirt d'une collection de squelettes de déportés juifs assassinés au camp de Natzweiler-Struthof. Son secrétaire général, Wolfram Sievers, est condamné à mort et exécuté en 1948.
 repere: 1935 — Fondation par Himmler, Herman Wirth et Walther Darré.
 repere: 1938 — Expédition d'Ernst Schäfer au Tibet.
 repere: 1943 — Assassinat à Natzweiler-Struthof des déportés destinés à la collection de squelettes de Strasbourg.
 repere: 1948 — Exécution de Wolfram Sievers.
-voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn, heinrich-himmler, atlantide
+voir: ariosophie, externsteine, wewelsburg, karl-maria-wiligut, otto-rahn, heinrich-himmler, atlantide, irminsul
 
 # ── Textes ──────────────────────────────────────────────────────────────────
 
@@ -327,7 +327,7 @@ alias: Kreuzzug gegen den Gral
 an: 1933
 def: Livre d'Otto Rahn paru en 1933, qui fait des cathares les gardiens du Graal et de Montségur le château du Parzival de Wolfram von Eschenbach.
 texte: [[otto-rahn|Otto Rahn]] y soutient que [[wolfram-von-eschenbach|Wolfram]] a transposé dans le *[[parzival|Parzival]]* une histoire réelle : Montsalvage, le château du [[graal|Graal]], serait [[montsegur|Montségur]], le roi Anfortas un seigneur du Languedoc, et la croisade des Albigeois la destruction d'une religion de la lumière, héritière des druides et des manichéens, par l'Église romaine. Les troubadours auraient chanté cette foi en langage voilé.
-texte: Traduit en français dès 1934, le livre passe d'abord inaperçu ; il est redécouvert après la guerre, réédité avec une préface de René Nelli, et devient l'une des sources du « catharisme ésotérique » et des récits sur la quête nazie du Graal. Les historiens du catharisme et de la littérature médiévale rejettent ses identifications, fondées sur des ressemblances de noms.
+texte: Traduit en français dès 1934, le livre passe d'abord inaperçu ; il est redécouvert après la guerre, réédité avec une préface de [[rene-nelli|René Nelli]], et devient l'une des sources du « catharisme ésotérique » et des récits sur la quête nazie du Graal. Les historiens du catharisme et de la littérature médiévale rejettent ses identifications, fondées sur des ressemblances de noms.
 voir: otto-rahn, montsegur, parzival, graal, catharisme
 
 @ la-vraie-langue-celtique
@@ -337,7 +337,7 @@ alias: La Vraie Langue celtique et le cromleck de Rennes-les-Bains, cromleck de 
 an: 1886
 def: Livre de l'abbé Henri Boudet paru en 1886, qui fait de l'anglais la langue primitive de l'humanité et voit dans les rochers de Rennes-les-Bains un immense cercle de pierres.
 texte: L'abbé [[henri-boudet|Boudet]] y part d'une idée répandue au XIXe siècle, la recherche de la langue d'avant Babel, pour soutenir que les Celtes l'ont conservée et que l'anglais en est le témoin le plus pur : les noms de lieux, de peuples et de dieux s'expliqueraient par des mots anglais décomposés. Le dernier chapitre décrit autour de [[rennes-les-bains|Rennes-les-Bains]] un « cromleck » formé par les blocs de grès des collines, accompagné d'une carte et de gravures.
-texte: Imprimé à [[carcassonne|Carcassonne]], le livre fut accueilli avec indifférence. Depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris son essor, il est lu comme un livre à clé : jeux de mots codés, indications d'un trésor, géométrie cachée du paysage. Les linguistes n'y voient qu'une étymologie fantaisiste, proche des spéculations de [[court-de-gebelin|Court de Gébelin]] et de la [[langue-des-oiseaux|langue des oiseaux]].
+texte: Imprimé à [[carcassonne|Carcassonne]], le livre fut mal accueilli des savants : critiqué dès 1887 dans la presse régionale, il concourut en vain pour le prix Gobert de l'Académie des inscriptions et belles-lettres et devant l'Académie de Toulouse. Depuis que l'affaire de [[rennes-le-chateau|Rennes-le-Château]] a pris son essor, il est lu comme un livre à clé : jeux de mots codés, indications d'un trésor, géométrie cachée du paysage. Les linguistes n'y voient qu'une étymologie fantaisiste, proche des spéculations de [[court-de-gebelin|Court de Gébelin]] et de la [[langue-des-oiseaux|langue des oiseaux]].
 voir: henri-boudet, rennes-les-bains, rennes-le-chateau, langue-des-oiseaux, druidisme
 
 @ parzival
@@ -390,6 +390,6 @@ nom: Dossiers secrets d'Henri Lobineau
 alias: dossiers secrets, Henri Lobineau, Le Serpent rouge
 an: 1967
 def: Ensemble de documents dactylographiés déposés à la Bibliothèque nationale dans les années 1960 sous des noms d'emprunt par Pierre Plantard et ses amis, pour donner corps au mythe du prieuré de Sion.
-texte: Ces brochures, attribuées à un « Henri Lobineau » et à d'autres auteurs imaginaires, contiennent des généalogies faisant descendre [[pierre-plantard|Pierre Plantard]] du roi mérovingien Dagobert II, des listes de grands maîtres du [[prieure-de-sion|prieuré de Sion]], des coupures de presse, les « parchemins » attribués à l'abbé [[berenger-sauniere|Saunière]] et un poème en prose, *Le Serpent rouge*. Leur dépôt légal leur donnait l'apparence de sources officielles.
+texte: Ces brochures, attribuées à un « Henri Lobineau » et à d'autres auteurs imaginaires, contiennent des généalogies faisant descendre [[pierre-plantard|Pierre Plantard]] du roi mérovingien Dagobert II, des listes de grands maîtres du [[prieure-de-sion|prieuré de Sion]], des coupures de presse, les « parchemins » attribués à l'abbé [[berenger-sauniere|Saunière]] et un poème en prose, *Le Serpent rouge*, dont des lecteurs ont rapproché la « Belle endormie » d'une scène de *[[l-ile-aux-trente-cercueils|L'Île aux trente cercueils]]* de Maurice Leblanc (1919). Leur dépôt légal leur donnait l'apparence de sources officielles.
 texte: Repris par [[gerard-de-sede|Gérard de Sède]], puis par les auteurs de *L'Énigme sacrée*, ils sont à l'origine de tout le mythe moderne de [[rennes-le-chateau|Rennes-le-Château]]. Philippe de Chérisey a reconnu avoir fabriqué les parchemins, et Plantard lui-même a avoué la supercherie. Ils restent consultables à la Bibliothèque nationale de France, témoins d'une des mystifications les plus réussies du XXe siècle.
-voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede, rene-d-anjou, les-bergers-d-arcadie, dagobert-ii, merovingiens, stenay, orval, l-enigme-sacree, parchemins-de-rennes-le-chateau
+voir: pierre-plantard, prieure-de-sion, rennes-le-chateau, gerard-de-sede, rene-d-anjou, les-bergers-d-arcadie, dagobert-ii, merovingiens, stenay, orval, l-enigme-sacree, parchemins-de-rennes-le-chateau, l-ile-aux-trente-cercueils

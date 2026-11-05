@@ -49,14 +49,14 @@ dates: 1268 – 1314
 an: 1268
 def: Roi de France de 1285 à 1314, qui fit arrêter les Templiers en 1307 et obtint du pape la suppression de leur ordre ; la légende veut que Jacques de Molay l'ait cité au jugement de Dieu sur le bûcher.
 texte: Philippe IV, roi à dix-sept ans, gouverne avec des légistes comme Guillaume de Nogaret, qui affirment la souveraineté du roi face au pape et aux grands. Son conflit avec Boniface VIII culmine en 1303 avec l'attentat d'Anagni, où les hommes de Nogaret humilient le pontife. Toujours à court d'argent, il manipule les monnaies, expulse les Juifs en 1306 et confisque leurs biens.
-texte: Le vendredi 13 octobre 1307, à l'aube, tous les [[templiers]] du royaume sont arrêtés sur son ordre, accusés de renier le Christ, de cracher sur la croix et d'adorer une idole, le [[baphomet|Baphomet]]. Le pape Clément V, après avoir absous en secret les dignitaires à [[chinon|Chinon]] en 1308 — un parchemin retrouvé aux archives du Vatican en 2001 l'a confirmé —, cède et supprime l'ordre en 1312. Le grand maître [[jacques-de-molay|Jacques de Molay]], rétractant ses aveux, est brûlé à Paris le 18 mars 1314. Le chroniqueur Geoffroi de Paris, témoin, lui prête l'annonce que Dieu vengerait les Templiers ; Clément V meurt en avril et Philippe en novembre. La légende d'une citation à comparaître dans l'année, puis celle d'une malédiction frappant toute la lignée — les « Rois maudits » du roman de Maurice Druon —, s'est formée ensuite, comme celle du trésor du Temple caché à [[gisors|Gisors]].
+texte: Le vendredi 13 octobre 1307, à l'aube, tous les [[templiers]] du royaume sont arrêtés sur son ordre, accusés de renier le Christ, de cracher sur la croix et d'adorer une idole, le [[baphomet|Baphomet]]. Le pape Clément V, après avoir absous en secret les dignitaires à [[chinon|Chinon]] en 1308 — un parchemin retrouvé aux archives du Vatican en 2001 l'a confirmé —, cède et supprime l'ordre en 1312, sans le condamner (voir [[proces-des-templiers|procès des Templiers]]). Le grand maître [[jacques-de-molay|Jacques de Molay]], rétractant ses aveux, est brûlé à Paris le 18 mars 1314. Le chroniqueur Geoffroi de Paris, témoin, lui prête l'annonce que Dieu vengerait les Templiers ; Clément V meurt en avril et Philippe en novembre. La légende d'une citation à comparaître dans l'année, puis celle d'une malédiction frappant toute la lignée — les « Rois maudits » du roman de Maurice Druon —, s'est formée ensuite, comme celle du [[tresor-des-templiers|trésor du Temple]] caché à [[gisors|Gisors]].
 repere: 1268 — Naissance à Fontainebleau.
 repere: 1285 — Il devient roi.
 repere: 1303 — Attentat d'Anagni contre Boniface VIII.
 repere: 1307 — Arrestation des Templiers le 13 octobre.
 repere: 1312 — Le pape supprime l'ordre du Temple.
 repere: 1314 — Jacques de Molay est brûlé le 18 mars ; Philippe meurt le 29 novembre.
-voir: templiers, jacques-de-molay, chinon, gisors, baphomet
+voir: templiers, jacques-de-molay, chinon, gisors, baphomet, proces-des-templiers, tresor-des-templiers, enclos-du-temple
 
 @ marie-madeleine
 cat: figures
@@ -120,7 +120,7 @@ dates: 1828 – 1905
 an: 1828
 def: Romancier français des *Voyages extraordinaires*, qui a fait de la science une aventure et du cryptogramme un ressort romanesque, et dont on a voulu faire, sans preuve, un initié.
 texte: Né à Nantes en 1828, Verne fait son droit à Paris, écrit pour le théâtre avec l'aide des Dumas, puis rencontre l'éditeur Pierre-Jules Hetzel, qui publie en 1863 *Cinq semaines en ballon* et lui commande deux romans par an. Viennent *Voyage au centre de la Terre* (1864), *De la Terre à la Lune* (1865), dont le héros Michel Ardan, dont le nom est l'anagramme de Nadar, est inspiré par l'ami photographe et aéronaute, *Vingt mille lieues sous les mers* (1870), *Le Tour du monde en quatre-vingts jours* (1872), *Mathias Sandorf* (1885). Installé à Amiens, conseiller municipal, il meurt en 1905 après soixante-deux romans.
-texte: Grand lecteur d'[[edgar-allan-poe|Edgar Poe]], à qui il consacre en 1864 un article où il analyse le *[[le-scarabee-d-or|Scarabée d'or]]*, il multiplie les [[cryptogrammes-de-jules-verne|cryptogrammes]] et donne une suite à *Arthur Gordon Pym* avec *Le Sphinx des glaces* (1897). Le capitaine Nemo conduit le professeur Aronnax parmi les ruines de l'[[atlantide|Atlantide]] ; *Le Château des Carpathes* (1892) explique par la science un château hanté. Des auteurs ont cru lire dans ses romans des messages initiatiques, une appartenance à des sociétés secrètes ou les clés de [[rennes-le-chateau|Rennes-le-Château]] ; rien dans sa vie ni dans sa correspondance ne l'atteste.
+texte: Grand lecteur d'[[edgar-allan-poe|Edgar Poe]], à qui il consacre en 1864 un article où il analyse le *[[le-scarabee-d-or|Scarabée d'or]]*, il multiplie les [[cryptogrammes-de-jules-verne|cryptogrammes]] et donne une suite à *Arthur Gordon Pym* avec *Le Sphinx des glaces* (1897). Le capitaine Nemo conduit le professeur Aronnax parmi les ruines de l'[[atlantide|Atlantide]] ; *Le Château des Carpathes* (1892) explique par la science un château hanté. L'universitaire Simone Vierne a étudié ses romans comme des récits d'initiation (*Jules Verne et le roman initiatique*, 1973), en critique littéraire. D'autres auteurs ont cru y lire des messages initiatiques, une appartenance à des sociétés secrètes ou les clés de [[rennes-le-chateau|Rennes-le-Château]] ; rien dans sa vie ni dans sa correspondance ne l'atteste.
 repere: 1828 — Naissance à Nantes, le 8 février.
 repere: 1863 — *Cinq semaines en ballon*, premier des *Voyages extraordinaires*.
 repere: 1864 — *Voyage au centre de la Terre* ; article sur Edgar Poe.
@@ -136,12 +136,12 @@ voir: cryptogrammes-de-jules-verne, atlantide, edgar-allan-poe, grille-de-cardan
 @ gaston-leroux
 cat: figures
 nom: Gaston Leroux
-alias: Leroux, Rouletabille, Le Fantôme de l'Opéra, Erik, Chéri-Bibi
+alias: Leroux, Rouletabille, Erik, Chéri-Bibi
 dates: 1868 – 1927
 an: 1868
 def: Journaliste et romancier français, créateur du reporter Rouletabille et auteur du *Fantôme de l'Opéra* (1910), roman gothique né des souterrains réels du palais Garnier.
 texte: Né à Paris en 1868, élevé en Normandie, Leroux est avocat puis chroniqueur judiciaire et grand reporter au *Matin* ; il couvre les procès des anarchistes et la révolution russe de 1905. *Le Mystère de la chambre jaune* (1907) lance le jeune reporter Joseph Rouletabille et le genre du crime en chambre close. Il écrit ensuite des feuilletons fantastiques ou d'aventures, *Balaoo*, *Chéri-Bibi*, *La Poupée sanglante*, et meurt à Nice en 1927.
-texte: *Le Fantôme de l'Opéra*, paru en feuilleton dans *Le Gaulois* en 1909-1910, se présente comme une enquête véridique : un être défiguré, Erik, hante l'[[opera-garnier|Opéra Garnier]], vit au bord d'un lac souterrain, fait tomber le grand lustre et enlève la cantatrice Christine Daaé. Leroux s'appuie sur des faits réels — la cuve d'eau creusée sous le bâtiment, la chute d'un contrepoids du lustre en 1896, l'enfouissement en 1907 de disques destinés à la postérité — et sur les codes du [[roman-gothique|roman gothique]]. Le film de 1925 et la comédie musicale de 1986 en ont fait un mythe mondial.
+texte: *[[le-fantome-de-l-opera|Le Fantôme de l'Opéra]]*, paru en feuilleton dans *Le Gaulois* en 1909-1910, se présente comme une enquête véridique : un être défiguré, Erik, hante l'[[opera-garnier|Opéra Garnier]], vit au bord d'un lac souterrain, fait tomber le grand lustre et enlève la cantatrice Christine Daaé. Leroux s'appuie sur des faits réels — la cuve d'eau creusée sous le bâtiment, la chute d'un contrepoids du lustre en 1896, l'enfouissement en 1907 de disques destinés à la postérité — et sur les codes du [[roman-gothique|roman gothique]]. Le film de 1925 et la comédie musicale de 1986 en ont fait un mythe mondial.
 texte: Leroux s'est aussi passionné pour les Bohémiens. *[[la-reine-du-sabbat|La Reine du Sabbat]]* (1910) mène ses personnages dans la crypte de [[sara-la-kali|sainte Sara]], aux [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], où les tribus élisent leur roi et sacrent une reine au cours d'une nuit d'orgie, puis à la cour d'un empire imaginaire calqué sur l'Autriche des Habsbourg ; en 1922, *[[rouletabille-chez-les-bohemiens|Rouletabille chez les Bohémiens]]* lance son reporter de la Camargue, à la veille du pèlerinage, jusqu'au-delà des Balkans, sur la piste d'une jeune fille enlevée que les Bohémiens tiennent pour la reine annoncée par leur *Livre des Ancêtres*.
 repere: 1868 — Naissance à Paris, le 6 mai.
 repere: 1907 — *Le Mystère de la chambre jaune*.
@@ -150,7 +150,7 @@ repere: 1922 — *Rouletabille chez les Bohémiens*, dans *Le Matin*.
 repere: 1927 — Mort à Nice, le 15 avril.
 extrait: Le Fantôme de l’Opéra a existé. Ce ne fut point, comme on l’a cru longtemps, une inspiration d’artistes, une superstition de directeurs, la création falote des cervelles excitées de ces demoiselles du corps de ballet, de leurs mères, des ouvreuses, des employés du vestiaire et de la concierge. ¶ Oui, il a existé, en chair et en os, bien qu’il se donnât toutes les apparences d’un vrai fantôme, c’est-à-dire d’une ombre. ¶ On se rappelle que dernièrement, en creusant le sous-sol de l’Opéra, pour y enterrer les voix phonographiées des artistes, le pic des ouvriers a mis à nu un cadavre ; or, j’ai eu tout de suite la preuve que ce cadavre était celui du Fantôme de l’Opéra !
 source: Gaston Leroux, *Le Fantôme de l’Opéra*, 1910, avant-propos | ws Le Fantôme de l’Opéra/Avant-propos
-voir: opera-garnier, roman-gothique, maurice-leblanc, arsene-lupin, paris, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, sara-la-kali
+voir: opera-garnier, roman-gothique, maurice-leblanc, arsene-lupin, paris, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, sara-la-kali, le-fantome-de-l-opera
 
 @ walter-scott
 cat: figures
@@ -189,7 +189,7 @@ repere: 1903 — *Les Hommes dansants*.
 repere: 1920 — Il publie les photographies des fées de Cottingley.
 repere: 1926 — *Histoire du spiritisme*.
 repere: 1930 — Mort à Crowborough, le 7 juillet.
-voir: spiritisme, society-for-psychical-research, les-hommes-dansants, malediction-du-pharaon, eusapia-palladino, elementaux, franc-maconnerie, medium
+voir: spiritisme, society-for-psychical-research, les-hommes-dansants, malediction-du-pharaon, eusapia-palladino, elementaux, franc-maconnerie, medium, huit-cent-treize, l-aiguille-creuse
 
 @ antoni-gaudi
 cat: figures
@@ -325,14 +325,14 @@ dates: 23 – 79
 an: 23
 def: Naturaliste et officier romain, auteur d'une *Histoire naturelle* en trente-sept livres, encyclopédie du savoir antique où les bestiaires, les lapidaires et les magiciens ont puisé pendant quinze siècles ; il mourut dans l'éruption du Vésuve.
 texte: Né à Côme, chevalier, Pline sert en Germanie, devient procurateur en Gaule et en Espagne, puis commande la flotte de Misène. Il travaille sans relâche, se fait lire des livres même au bain, et dédie à Titus en 77 son *Histoire naturelle* : l'univers, la terre, l'homme, les animaux, les plantes, les remèdes, les métaux et les pierres, tirés de deux mille volumes. Le 24 août 79, apercevant l'étrange nuée qui monte du Vésuve, il fait armer des navires pour secourir les habitants et meurt étouffé à Stabies ; son neveu, Pline le Jeune, a raconté sa mort à Tacite.
-texte: Il mêle l'observation et la fable : la [[licorne]], le [[basilic]], le [[phenix|phénix]], la [[manticore]], la [[salamandre]] qui éteint le feu, les vertus des gemmes. Il se méfie pourtant des mages, dont il dénonce les « mensonges » sur les pierres. Le Moyen Âge a fait de lui, à côté du *[[physiologus|Physiologus]]*, la source des [[bestiaire|bestiaires]] et des [[lapidaire|lapidaires]] ; Émile Littré l'a traduit en 1848-1850.
+texte: Il mêle l'observation et la fable : la [[licorne]], le [[basilic]], le [[phenix|phénix]], la [[manticore]], la [[salamandre]] qui éteint le feu, les vertus des gemmes. Il se méfie pourtant des mages, dont il dénonce les « mensonges » sur les pierres. On lui doit aussi quelques lignes sur les [[esseniens|Esséniens]], peuple sans femmes et sans argent qu'il situe au-dessus d'Engaddi, près de la mer Morte : le passage a pesé lourd dans l'interprétation du site de [[qumran|Qumrân]]. Le Moyen Âge a fait de lui, à côté du *[[physiologus|Physiologus]]*, la source des [[bestiaire|bestiaires]] et des [[lapidaire|lapidaires]] ; Émile Littré l'a traduit en 1848-1850.
 repere: 23 — Naissance à Côme.
 repere: 77 — Dédicace de l'*Histoire naturelle* à Titus.
 repere: 79 — Mort à Stabies, pendant l'éruption du Vésuve.
 repere: 1469 — Première édition imprimée, à Venise.
 extrait: Maintenant nous allons parler des vraies pierreries, commençant par les plus renommées. Et nous ne nous bornerons pas à cela ; mais, pour être plus utile au monde, nous réfuterons en passant les indignes mensonges des mages, car c’est surtout au sujet des pierres précieuses qu’ils ont débité leurs fables et dépassé tous les prodiges, par la séduisante apparence des remèdes tirés de ces substances.
 source: Pline l’Ancien, *Histoire naturelle*, livre XXXVII, chap. XIV, trad. Émile Littré, Dubochet, 1850, t. II | ia BIUSante_39197x02 = l’édition de 1850 numérisée
-voir: bestiaire, lapidaire, licorne, basilic, phenix, salamandre, manticore, physiologus
+voir: bestiaire, lapidaire, licorne, basilic, phenix, salamandre, manticore, physiologus, esseniens
 
 @ francis-bacon
 cat: figures
@@ -418,7 +418,7 @@ repere: 1843 — *Le Scarabée d'or*.
 repere: 1845 — *Le Corbeau* ; *La Vérité sur le cas de M. Valdemar*.
 repere: 1849 — Mort à Baltimore, le 7 octobre.
 repere: 1856 — Baudelaire publie les *Histoires extraordinaires*.
-voir: le-scarabee-d-or, corbeau, charles-baudelaire, jules-verne, magnetisme-animal, analyse-des-frequences, roman-gothique
+voir: le-scarabee-d-or, corbeau, charles-baudelaire, jules-verne, magnetisme-animal, analyse-des-frequences, roman-gothique, stephane-mallarme
 
 @ michel-scot
 cat: figures
@@ -507,11 +507,11 @@ voir: oracles-chaldaiques, sorcellerie, magie, persephone, demeter, chien, lune,
 @ pan
 cat: figures
 nom: Pan
-alias: le grand Pan, Pan est mort, faune, syrinx, panique, Hymne à Pan
+alias: le grand Pan, Pan est mort, syrinx, panique, Hymne à Pan
 dates: dieu grec
 an: -500
 def: Dieu grec des bergers et des troupeaux d'Arcadie, aux cornes et aux pattes de bouc, joueur de syrinx, dont Plutarque rapporte la mort ; il est devenu le symbole de la nature entière et a prêté ses traits au diable.
-texte: Né en [[arcadie|Arcadie]], fils d'Hermès, Pan court les montagnes, poursuit les nymphes et invente la flûte de roseaux en serrant entre ses mains la nymphe Syrinx changée en roseau. Il cause la peur soudaine des troupeaux et des armées, la « panique ». L'*Hymne homérique* explique son nom par la joie qu'il donna à « tous » les dieux, et les philosophes ont fait de ce *pan*, « tout », le dieu de l'univers. Ses traits de bouc velu ont servi, au Moyen Âge, à figurer le diable, et le [[baphomet|Baphomet]] d'Éliphas Lévi en est l'héritier.
+texte: Né en [[arcadie|Arcadie]], fils d'Hermès, Pan court les montagnes, poursuit les [[nymphe|nymphes]] et invente la flûte de roseaux en serrant entre ses mains la nymphe Syrinx changée en roseau. Il cause la peur soudaine des troupeaux et des armées, la « panique ». L'*Hymne homérique* explique son nom par la joie qu'il donna à « tous » les dieux, et les philosophes ont fait de ce *pan*, « tout », le dieu de l'univers. Ses traits de bouc velu ont servi, au Moyen Âge, à figurer le diable, et le [[baphomet|Baphomet]] d'Éliphas Lévi en est l'héritier.
 texte: [[plutarque|Plutarque]] raconte qu'un pilote nommé Thamus entendit une voix lui ordonner d'annoncer que « le grand Pan est mort » : les chrétiens y virent l'annonce de la mort du Christ ou de la fin des dieux païens, et [[francois-rabelais|Rabelais]] identifie Pan au Christ, « notre Tout ». [[nicolas-poussin|Poussin]] a peint plusieurs *Triomphes de Pan* ; [[aleister-crowley|Crowley]] écrivit en 1913 un *Hymne à Pan*, lu à ses funérailles, et le néopaganisme a fait de lui le dieu cornu de la nature.
 repere: 490 av. J.-C. — Selon Hérodote, Pan apparaît au coureur Philippidès avant Marathon ; Athènes lui consacre une grotte.
 repere: vers 100 — Plutarque rapporte l'annonce de la mort du grand Pan, sous Tibère.
@@ -519,7 +519,7 @@ repere: 1552 — Rabelais identifie Pan au Christ dans le *Quart Livre*.
 repere: 1913 — Aleister Crowley compose son *Hymne à Pan*.
 extrait: Tout le monde sait ce qui arriva au pilote Thamus. Son vaisseau étant un soir vers de certaines îles de la mer Égée, le vent cessa tout à fait. Tous les gens du vaisseau étaient bien éveillés ; la plupart même passaient le temps à boire les uns avec les autres, lorsqu’on entendit tout d’un coup une voix qui venait des îles, et qui appelait Thamus. Thamus se laissa appeler deux fois sans répondre ; mais à la troisième il répondit. La voix lui commanda que, quand il serait arrivé à un certain lieu, il criât que le grand Pan était mort. Il n’y eut personne qui ne fût saisi de frayeur et d’épouvante. On délibérait si Thamus devait obéir à la voix : mais Thamus conclut que si, quand ils seraient arrivés au lieu marqué, il faisait assez de vent pour passer outre, il ne fallait rien dire ; mais que si un calme les arrêtait là, il fallait s’acquitter de l’ordre qu’il avait reçu. Il ne manqua point d’être surpris d’un calme à cet endroit-là, et aussitôt il se mit à crier de toute sa force que le grand Pan était mort. À peine avait-il cessé de parler, que l’on entendit de tous côtés des plaintes et des gémissements, comme d’un grand nombre de personnes surprises et affligées de cette nouvelle. (…) C’est ainsi que, dans le dialogue où Plutarque traite des oracles qui ont cessé, Cléombrote conte cette histoire, et dit qu’il la tient d’Épithersès, son maître de grammaire, qui était dans le vaisseau de Thamus lorsque la chose arriva.
 source: Bernard Le Bovier de Fontenelle, *Histoire des oracles*, 1687, première dissertation, chap. I | ws Histoire des oracles
-voir: arcadie, baphomet, plutarque, oracle, francois-rabelais, nicolas-poussin, neopaganisme, de-la-sagesse-des-anciens
+voir: arcadie, baphomet, plutarque, oracle, francois-rabelais, nicolas-poussin, neopaganisme, de-la-sagesse-des-anciens, faune, nymphe, pantheisme
 
 @ saint-michel
 cat: figures
@@ -599,7 +599,7 @@ repere: 1968 — *Présence des extraterrestres*.
 repere: 1970 — Condamné pour escroquerie.
 repere: 2003 — Ouverture du Mystery Park d'Interlaken.
 repere: 2026 — Mort à Unterseen, le 10 janvier.
-voir: anciens-astronautes, nazca, pyramides, matin-des-magiciens, atlantide
+voir: anciens-astronautes, nazca, pyramides, matin-des-magiciens, atlantide, realisme-fantastique
 
 @ ignatius-donnelly
 cat: figures
@@ -615,7 +615,7 @@ repere: 1863 — Élu au Congrès des États-Unis.
 repere: 1882 — *Atlantis : The Antediluvian World*.
 repere: 1888 — *The Great Cryptogram*.
 repere: 1901 — Mort à Minneapolis, le 1er janvier.
-voir: atlantide, chiffre-de-bacon, francis-bacon, theosophie, edgar-cayce
+voir: atlantide, chiffre-de-bacon, francis-bacon, theosophie, edgar-cayce, l-atlantide-benoit
 
 @ marguerite-marie-alacoque
 cat: figures

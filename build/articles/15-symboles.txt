@@ -141,9 +141,9 @@ cat: symboles
 nom: Baphomet
 alias: Baphomet de Lévi, bouc de Mendès, idole des Templiers
 def: Nom d'une idole que les templiers furent accusés d'adorer, devenu sous la plume d'Éliphas Lévi une figure androgyne à tête de bouc, symbole de l'équilibre des contraires.
-texte: Lors du procès des [[templiers]], certains accusés parlent d'une tête qu'ils auraient vénérée, nommée « Baphomet », probablement une déformation de « Mahomet ». Au XIXe siècle, des auteurs y cherchent un symbole gnostique secret.
+texte: Lors du procès des [[templiers]], certains accusés parlent d'une tête qu'ils auraient vénérée, nommée « Baphomet », probablement une déformation de « Mahomet ». Au XIXe siècle, des auteurs y cherchent un symbole gnostique secret : ainsi l'orientaliste Joseph von Hammer-Purgstall, dans son *Mysterium Baphometis revelatum* (1818), l'année même où il publie son histoire des [[assassins|Assassins]].
 texte: [[eliphas-levi]] dessine en 1856, en frontispice de son *[[dogme-et-rituel|Rituel de la haute magie]]*, un Baphomet assis : tête de bouc portant un flambeau et un [[pentagramme]], ailes, seins de femme, caducée au ventre, un bras levé marqué *[[solve-et-coagula|Solve]]*, l'autre abaissé marqué *Coagula*. Pour Lévi, c'est l'image de la [[lumiere-astrale]] et de l'union des contraires, non du Diable. L'image a pourtant inspiré le [[arcane-diable|Diable]] du tarot Rider-Waite et l'emblème du [[satanisme]] moderne.
-voir: eliphas-levi, templiers, solve-et-coagula, arcane-diable, satanisme, androgyne, atbash, pan, le-sabbat-des-sorcieres, jean-baptiste
+voir: eliphas-levi, templiers, solve-et-coagula, arcane-diable, satanisme, androgyne, atbash, pan, le-sabbat-des-sorcieres, jean-baptiste, assassins
 
 @ androgyne
 cat: symboles
@@ -161,9 +161,9 @@ cat: symboles
 nom: Arbre cosmique
 alias: axe du monde, axis mundi, arbre du monde, Yggdrasil, arbre de vie
 def: Arbre immense qui, dans de nombreuses mythologies, relie le ciel, la terre et le monde souterrain, et forme l'axe autour duquel s'organise l'univers.
-texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
+texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. Les Saxons du continent vénéraient l'[[irminsul|Irminsul]], tronc dressé à ciel ouvert qu'un moine du IXe siècle appelle « colonne universelle ». La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
 texte: L'historien des religions [[mircea-eliade|Mircea Eliade]] a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
-voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin
+voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin, irminsul
 
 @ etoile-flamboyante
 cat: maconnerie
@@ -270,8 +270,8 @@ alias: pyramide, grande pyramide, Khéops, pyramidologie, pouvoir des pyramides,
 def: Monuments funéraires des pharaons d'Égypte, dont la Grande Pyramide de Gizeh a été chargée depuis le XIXe siècle de secrets mathématiques, prophétiques ou énergétiques.
 texte: La première, la pyramide à degrés de Djéser à [[saqqarah|Saqqarah]], est attribuée à [[imhotep|Imhotep]], vers 2650 avant notre ère ; ses successeurs lissent les faces jusqu'à la Grande Pyramide de [[gizeh|Gizeh]], tombeau du roi Khéops, bâtie vers 2560. La forme prolonge la pierre *benben* sur laquelle le soleil de [[ra|Rê]] se serait levé, et les [[textes-des-pyramides|Textes des pyramides]] gravés dans les caveaux de la Ve dynastie décrivent l'ascension du roi vers les étoiles.
 texte: En 1864, l'astronome écossais Charles Piazzi Smyth, à la suite de l'éditeur John Taylor, croit découvrir dans la Grande Pyramide une unité de mesure divine, le « pouce pyramidal », et une chronologie prophétique de l'humanité : c'est la « pyramidologie ». Au XXe siècle, la mode du « pouvoir des pyramides » prétend qu'une forme pyramidale conserve les aliments et aiguise les lames de rasoir ; en 1994, Robert Bauval soutient que les trois pyramides de Gizeh reproduisent les étoiles de la ceinture d'[[orion|Orion]], et les théoriciens des [[anciens-astronautes|anciens astronautes]] y voient l'œuvre de visiteurs venus d'ailleurs.
-texte: Les égyptologues ont montré, notamment par la découverte du village et des tombes des ouvriers, et par le journal de bord d'un chef d'équipe, Merer, retrouvé en 2013, comment les Égyptiens construisirent ces monuments. Les théories ésotériques qui leur prêtent une origine perdue ou extraterrestre ne reposent sur aucune preuve. La pyramide de verre du Louvre (1989) a reçu à son tour sa légende, celle de ses 666 losanges.
-voir: egyptosophie, nombre-d-or, schwaller-de-lubicz, oeil-de-la-providence, gizeh, textes-des-pyramides, saqqarah, imhotep, anciens-astronautes, egyptomanie
+texte: Les égyptologues ont montré, notamment par la découverte du village et des tombes des ouvriers, et par le journal de bord d'un chef d'équipe, Merer, retrouvé en 2013, comment les Égyptiens construisirent ces monuments. Les théories ésotériques qui leur prêtent une origine perdue ou extraterrestre ne reposent sur aucune preuve. La pyramide de verre du Louvre (1989) a reçu à son tour sa légende, celle de ses 666 vitres (voir [[grands-travaux|Grands Travaux de Paris]]).
+voir: egyptosophie, nombre-d-or, schwaller-de-lubicz, oeil-de-la-providence, gizeh, textes-des-pyramides, saqqarah, imhotep, anciens-astronautes, egyptomanie, grands-travaux
 
 @ hieroglyphes
 cat: egypte

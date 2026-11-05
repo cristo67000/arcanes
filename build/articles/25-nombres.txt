@@ -82,7 +82,7 @@ nom: Sept
 alias: 7, septénaire, hebdomade, sept planètes, sept jours
 dates: 7
 def: Le nombre sacré par excellence dans les traditions du Proche-Orient et de l'Europe : sept planètes, sept jours de la semaine, sept arts libéraux, sept sacrements, sept branches de la menorah.
-texte: Les sept astres errants visibles à l'œil nu — Soleil, Lune, Mercure, Vénus, Mars, Jupiter et Saturne — ont donné leurs noms aux sept jours de la semaine et fondé le système des correspondances : sept métaux, sept couleurs, sept notes de musique, sept [[heures-planetaires|heures planétaires]] qui reviennent. La Bible fait reposer Dieu le septième jour ; l'Apocalypse compte sept églises, sept sceaux, sept trompettes.
+texte: Les sept astres errants visibles à l'œil nu — Soleil, Lune, Mercure, Vénus, Mars, Jupiter et Saturne — ont donné leurs noms aux sept jours de la semaine et fondé le système des correspondances : [[sept-metaux|sept métaux]], sept couleurs, sept notes de musique, sept [[heures-planetaires|heures planétaires]] qui reviennent. La Bible fait reposer Dieu le septième jour ; l'Apocalypse compte sept églises, sept sceaux, sept trompettes.
 texte: Le christianisme médiéval enseigne sept vertus, sept péchés capitaux, sept sacrements et sept arts libéraux ; la [[menorah]] a sept branches, et les sept étoiles de la [[grande-ourse|Grande Ourse]] veillent sur le nord. La [[theosophie|théosophie]] divise l'homme en sept principes, le tantrisme compte sept [[chakra|chakras]], et la loge maçonnique est « juste et parfaite » quand sept frères la composent.
 voir: six, huit, planetes, heures-planetaires, menorah, chakra, grande-ourse, aurore-naissante, quatrieme-voie
 
@@ -92,7 +92,7 @@ nom: Huit
 alias: 8, ogdoade, octave, octogone, huitième jour
 dates: 8
 def: Le nombre de l'équilibre cosmique et du renouvellement : l'octave qui recommence la gamme, le huitième jour de la résurrection, l'octogone des baptistères.
-texte: Les prêtres d'[[hermopolis|Hermopolis]] vénéraient l'Ogdoade, huit divinités primordiales d'où était sorti le monde ; les gnostiques appellent ogdoade la sphère des étoiles fixes, au-dessus des sept planètes, où l'âme libérée se rend. Le christianisme fait du dimanche, lendemain du sabbat, le « huitième jour », celui de la résurrection et de la création nouvelle : c'est pourquoi tant de baptistères sont octogonaux.
+texte: Les prêtres d'[[hermopolis|Hermopolis]] vénéraient l'Ogdoade, huit divinités primordiales d'où était sorti le monde ; les gnostiques appellent ogdoade la sphère des étoiles fixes, au-dessus des sept planètes, où l'âme libérée se rend. Le christianisme fait du dimanche, lendemain du sabbat, le « huitième jour », celui de la résurrection et de la création nouvelle : c'est pourquoi tant de baptistères sont octogonaux ; la couronne du [[insignes-du-saint-empire|Saint-Empire]], faite de huit plaques d'or, a la même forme.
 texte: Le bouddhisme enseigne le noble sentier octuple, le Yi King compte huit trigrammes, et l'[[echiquier|échiquier]] huit cases de côté. Couché, le chiffre huit est devenu au XVIIe siècle le signe mathématique de l'infini.
 voir: sept, neuf, hermopolis, yi-king, echiquier
 
@@ -190,7 +190,7 @@ texte: Le chapitre XIII de l'Apocalypse invite celui qui a de l'intelligence à 
 texte: Au fil des siècles, on a appliqué le calcul au pape, à Mahomet, à Luther, à Napoléon, à Hitler ou aux codes-barres. [[aleister-crowley|Aleister Crowley]] se faisait appeler « la Bête 666 », et le nombre est devenu un emblème du satanisme et de la culture rock. Une rumeur tenace, et fausse, prétend que la pyramide du Louvre compte 666 vitres.
 extrait: Et elle fit que tous, petits et grands, riches et pauvres, libres et esclaves, reçussent une marque sur leur main droite ou sur leur front, et que personne ne pût acheter ni vendre, sans avoir la marque, le nom de la bête ou le nombre de son nom. C'est ici la sagesse. Que celui qui a de l'intelligence calcule le nombre de la bête. Car c'est un nombre d'homme, et son nombre est six cent soixante-six.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XIII, versets 16-18 | ws Bible Segond 1910/Apocalypse
-voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris, apocalypse
+voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris, apocalypse, grands-travaux
 
 @ geometrie-sacree
 cat: nombres
@@ -201,4 +201,4 @@ texte: Platon, dans le *Timée*, fait construire le monde au démiurge avec des 
 texte: Au XXe siècle, Matila Ghyka, avec *Le Nombre d'or* (1931), puis le mouvement du [[new-age|New Age]] ont fait de la géométrie sacrée une clé universelle, de la [[vesica-piscis|vesica piscis]] à la [[fleur-de-vie|fleur de vie]] et au [[nombre-d-or|nombre d'or]], retrouvé jusque dans les [[pyramides]]. Les historiens de l'architecture reconnaissent l'usage de tracés géométriques et de rapports simples chez les bâtisseurs, mais beaucoup des proportions « secrètes » découvertes après coup tiennent à la liberté de celui qui mesure.
 repere: vers 1230 — Le carnet de Villard de Honnecourt.
 repere: 1931 — Matila Ghyka, *Le Nombre d'or*.
-voir: nombre-d-or, vesica-piscis, fleur-de-vie, cathedrale-de-chartres, ondes-de-forme, pythagore, dodecaedre, solides-de-platon
+voir: nombre-d-or, vesica-piscis, fleur-de-vie, cathedrale-de-chartres, ondes-de-forme, pythagore, dodecaedre, solides-de-platon, montsaunes
