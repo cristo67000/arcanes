@@ -145,11 +145,11 @@ voir: carbonarisme, charbonnerie, giuseppe-mazzini, illumines-de-baviere
 @ richard-wagner
 cat: figures
 nom: Richard Wagner
-alias: Wagner, Parsifal, Lohengrin, Bayreuth, L'Anneau du Nibelung
+alias: Wagner, Parsifal, Lohengrin, Bayreuth
 dates: 1813 – 1883
 an: 1813
 def: Compositeur allemand qui a fait de l'opéra un drame sacré, nourri des mythes germaniques et des légendes du Graal ; son œuvre a été lue comme une initiation, et son antisémitisme a été récupéré par le nazisme.
-texte: Né à Leipzig, révolutionnaire en 1849, exilé, Wagner trouve en 1864 un protecteur en [[louis-ii-de-baviere|Louis II de Bavière]] et fait bâtir à [[bayreuth|Bayreuth]] un théâtre consacré à ses œuvres, inauguré en 1876 avec *L'Anneau du Nibelung*. Il puise dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram]] le sujet de *[[lohengrin|Lohengrin]]* (1850) et de *Parsifal* (1882), « festival scénique sacré » où le chaste fou rapporte la [[sainte-lance|sainte lance]] au château du [[graal]], Montsalvat. Il meurt à [[venise|Venise]] en 1883.
+texte: Né à Leipzig, révolutionnaire en 1849, exilé, Wagner trouve en 1864 un protecteur en [[louis-ii-de-baviere|Louis II de Bavière]] et fait bâtir à [[bayreuth|Bayreuth]] un théâtre consacré à ses œuvres, inauguré en 1876 avec *[[l-anneau-du-nibelung|L'Anneau du Nibelung]]*. Il puise dans le *[[parzival|Parzival]]* de [[wolfram-von-eschenbach|Wolfram]] le sujet de *[[lohengrin|Lohengrin]]* (1850) et de *Parsifal* (1882), « festival scénique sacré » où le chaste fou rapporte la [[sainte-lance|sainte lance]] au château du [[graal]], Montsalvat. Il meurt à [[venise|Venise]] en 1883.
 texte: Lecteur de Schopenhauer et du bouddhisme, il voulait une « œuvre d'art totale » qui remplace la religion. [[josephin-peladan|Péladan]] et les symbolistes ont fait de lui un mage, les théosophes ont commenté ses drames comme des mystères. Son pamphlet antisémite *Le Judaïsme dans la musique* (1850) et l'usage que le régime nazi fit de Bayreuth ont lourdement pesé sur sa réception.
 repere: 1813 — Naissance à Leipzig.
 repere: 1850 — *Lohengrin* ; pamphlet antisémite *Le Judaïsme dans la musique*.
@@ -166,11 +166,11 @@ dates: 1845 – 1886
 an: 1845
 def: Roi de Bavière, protecteur de Wagner, qui fit bâtir des châteaux de rêve inspirés des légendes du Graal et du chevalier au cygne, et mourut noyé dans des circonstances jamais éclaircies.
 texte: Monté sur le trône à dix-huit ans, Louis II appelle aussitôt [[richard-wagner|Wagner]] à Munich et finance ses œuvres. Il se retire dans des châteaux qu'il fait construire comme des décors : Neuschwanstein, dont les salles sont peintes des légendes de [[lohengrin|Lohengrin]], de [[perceval|Parsifal]] et du [[graal]], Linderhof et sa grotte de Vénus, Herrenchiemsee, réplique de Versailles. Il s'identifiait au chevalier au cygne et au roi du Graal.
-texte: Déclaré aliéné par une commission de médecins en juin 1886, il est retrouvé noyé quelques jours plus tard dans le lac de Starnberg avec son psychiatre ; la thèse du suicide, de l'accident ou du meurtre divise toujours. Son mythe de roi solitaire et visionnaire a fasciné les poètes, de Verlaine à Apollinaire.
+texte: Déclaré aliéné par une commission de médecins en juin 1886, il est retrouvé noyé quelques jours plus tard dans le lac de Starnberg avec son psychiatre ; la thèse du suicide, de l'accident ou du meurtre divise toujours. Son mythe de roi solitaire et visionnaire a fasciné les poètes, de [[paul-verlaine|Verlaine]] à Apollinaire.
 repere: 1864 — Avènement ; il appelle Wagner à Munich.
 repere: 1869 — Début de la construction de Neuschwanstein.
 repere: 1886 — Mort dans le lac de Starnberg.
-voir: richard-wagner, lohengrin, graal, bayreuth, cygne, l-ile-aux-trente-cercueils
+voir: richard-wagner, lohengrin, graal, bayreuth, cygne, l-ile-aux-trente-cercueils, l-anneau-du-nibelung
 
 @ heinrich-himmler
 cat: figures

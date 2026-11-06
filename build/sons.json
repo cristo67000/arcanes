@@ -245,6 +245,20 @@
    ],
    "sig": "Columbia-dwx1550ix-c-wlx1289.ogg|0 150|64 mono|lame-cbr|0.3|2"
   },
+  "chevauchee-walkyries": {
+   "f": "son/chevauchee-walkyries.mp3",
+   "v": "408fb2ddba",
+   "d": 140.1,
+   "ti": "Wagner, *La Walkyrie* : la Chevauchée des Walkyries",
+   "cr": "American Symphony Orchestra, pour Edison, disque Diamond 80638-R, décembre 1921",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Richard_Wagner_-_Ride_of_the_Valkyries.ogg",
+   "pour": [
+    "l-anneau-du-nibelung",
+    "richard-wagner"
+   ],
+   "sig": "Richard Wagner - Ride of the Valkyries.ogg|0 140|64 mono|lame-cbr|0.3|2"
+  },
   "ravel-ondine": {
    "f": "son/ravel-ondine.mp3",
    "v": "62b276f979",

@@ -431,7 +431,7 @@ repere: 1484 — Mort à cent six ans, selon la *Fama*.
 repere: 1604 — Découverte légendaire de son tombeau.
 repere: 1614 — La *Fama Fraternitatis* révèle son histoire.
 repere: 1616 — Publication des *Noces chymiques*.
-voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose
+voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose, fernando-pessoa
 
 @ basile-valentin
 cat: figures

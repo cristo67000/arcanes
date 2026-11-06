@@ -82,7 +82,7 @@ def: Rite maçonnique « égyptien » à très nombreux degrés, issu de la fusi
 texte: Le rite de Misraïm (nom hébreu de l'Égypte), apparu en Italie vers 1805 et implanté en France par les frères Bédarride, compte quatre-vingt-dix degrés. Le rite de Memphis est fondé à Paris en 1838 par Jacques-Étienne Marconis de Nègre. Tous deux s'inscrivent dans l'[[egyptosophie]] maçonnique ouverte par la Haute Maçonnerie égyptienne de [[cagliostro]]. Giuseppe Garibaldi les réunit en 1881.
 texte: Le rite a attiré les occultistes, de [[papus]] à [[robert-ambelain]], qui l'ont réorganisé au XXe siècle. Il est pratiqué par plusieurs obédiences en France et en Italie.
 schema: rites-maconniques/memphis
-voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus, jean-marie-ragon, maconnerie-egyptienne, ptah, crata-repoa
+voir: cagliostro, egyptosophie, franc-maconnerie, robert-ambelain, papus, jean-marie-ragon, maconnerie-egyptienne, ptah, crata-repoa, fudosi
 
 @ elus-coens
 cat: societes
@@ -147,8 +147,8 @@ alias: ordre martiniste, Supérieur Inconnu, S.I., martinistes
 an: 1891
 dates: depuis 1887-1891
 def: Ordre initiatique fondé par Papus et Augustin Chaboseau à la fin du XIXe siècle, qui se réclame de Louis-Claude de Saint-Martin et transmet le grade de « Supérieur Inconnu ».
-texte: [[papus]] et Augustin Chaboseau affirment avoir reçu chacun, par des chaînes distinctes, une initiation remontant à [[louis-claude-de-saint-martin]] ; ils les mettent en commun et créent en 1891 un Suprême Conseil. L'initiation, transmise de personne à personne, se fait en loge, masqué et vêtu d'une cape, et confère le grade de « Supérieur Inconnu ». L'ordre attire de nombreux occultistes et essaime en Europe et en Amérique.
-texte: Après la mort de Papus, il se divise en de multiples branches, dont celles animées par [[robert-ambelain]]. L'ordre est le cœur du [[martinisme]] moderne.
+texte: [[papus]] et Augustin Chaboseau affirment avoir reçu chacun, par des chaînes distinctes, une initiation remontant à [[louis-claude-de-saint-martin]] ; ils les mettent en commun et créent en 1891 un Suprême Conseil. L'initiation, transmise de personne à personne, se fait en loge, masqué et vêtu d'une cape, et confère le grade de « Supérieur Inconnu ». L'ordre attire de nombreux occultistes, dont [[marc-haven|Marc Haven]], et essaime en Europe et en Amérique.
+texte: Après la mort de Papus, il se divise en de multiples branches, dont celles animées par [[robert-ambelain]] ; celles de Victor Blanchard et d'Augustin Chaboseau entrent à la [[fudosi|FUDOSI]], en 1934 et à la fin de 1939. L'ordre est le cœur du [[martinisme]] moderne.
 voir: martinisme, papus, louis-claude-de-saint-martin, robert-ambelain, occultisme
 
 @ ordre-kabbalistique-de-la-rose-croix
@@ -252,7 +252,7 @@ an: 1915
 dates: depuis 1915
 def: Ordre rosicrucien fondé à New York en 1915 par Harvey Spencer Lewis, devenu le plus grand ordre rosicrucien du monde, qui enseigne par correspondance.
 texte: [[harvey-spencer-lewis]] présente l'AMORC comme l'héritier d'une tradition remontant à l'Égypte du pharaon Akhenaton. Installé à San José, en Californie, l'ordre y construit le parc rosicrucien et un musée égyptien. Il diffuse ses « monographies », leçons hebdomadaires de mysticisme, de métaphysique et de développement personnel, envoyées aux membres par la poste.
-texte: Implanté dans de nombreux pays, dont la France depuis l'entre-deux-guerres, l'AMORC a été au XXe siècle la porte d'entrée de beaucoup de gens dans l'ésotérisme.
+texte: Principal soutien de la [[fudosi|FUDOSI]] à partir de 1934, implanté dans de nombreux pays, dont la France depuis l'entre-deux-guerres, l'AMORC a été au XXe siècle la porte d'entrée de beaucoup de gens dans l'ésotérisme.
 voir: harvey-spencer-lewis, rose-croix, egyptosophie, akhenaton
 
 @ rosicrucian-fellowship

@@ -4,8 +4,8 @@ Une application web progressive (PWA), hors ligne, qui rassemble plus de **quato
 cents articles** sur l'ésotérisme occidental et ses voisins : courants
 (hermétisme, gnose, néoplatonisme, théosophie, occultisme…), **figures** de
 l'Antiquité à nos jours (de Dante, Léonard de Vinci et Dürer à Wagner, Jeanne
-d'Arc, Nostradamus, Casanova, Mallarmé, Jules Verne, Gaudí, Emma Calvé ou
-Raspoutine, et sans complaisance jusqu'à Himmler),
+d'Arc, Nostradamus, Casanova, Dumas, Verlaine, Mallarmé, Jules Verne, Gaudí,
+Emma Calvé, Pessoa, Breton ou Raspoutine, et sans complaisance jusqu'à Himmler),
 personnages de légende (Merlin, le roi Arthur, Perceval, Mélusine, Faust,
 Sarastro, Arsène Lupin…), **textes** (Corpus Hermeticum, Zohar,
 manifestes rose-croix, *Légende dorée*, *Divine Comédie*, *Songe de Poliphile*,
@@ -63,7 +63,9 @@ l'alchimie à la chimie (Boyle, Lavoisier, le phosphore, le phlogistique), les
 manuscrits de la mer Morte et les Esséniens, les Assassins et Alamut, les insignes
 du Saint-Empire, quatre romans de Maurice Leblanc, *Le Fantôme de l'Opéra*, la
 biodynamie et la pédagogie Waldorf, Vivekananda, Maître Eckhart, la pensée magique
-et le réalisme fantastique, et les légendes des Grands Travaux de Paris.
+et le réalisme fantastique, et les légendes des Grands Travaux de Paris ; la version 1.13, Verlaine, Pessoa,
+Breton, Alexandre Dumas, Marc Haven, Grasset d'Orcet, la FUDOSI et *L'Anneau du
+Nibelung*.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
@@ -133,7 +135,7 @@ et le réalisme fantastique, et les légendes des Grands Travaux de Paris.
   feu, vent, cloche), fabriqué sur place par l'appareil ; « Rejouer » relance
   l'animation ;
 - des **sons** du domaine public, sous « À écouter » : la Reine de la Nuit de
-  *La Flûte enchantée*, le récit du Graal de *Lohengrin*, *Parsifal*, *Les
+  *La Flûte enchantée*, le récit du Graal de *Lohengrin*, *Parsifal*, la Chevauchée de *La Walkyrie*, *Les
   Planètes* de Holst (sous chaque planète), la « Marche au supplice » et le
   sabbat de la *Symphonie fantastique*, la Marche hongroise et « Voici des
   roses » de *La Damnation de Faust*, le Veau d'or et l'air des bijoux du *Faust*
@@ -333,7 +335,7 @@ au moins quatre étapes, des articles existants, chacun une seule fois.
 
 ```
 node build/construire.mjs          # le dictionnaire, et build/rapport.txt
-node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (9 657)
+node build/essais_statiques.mjs    # fichiers, version, classes, données, images, repères, liens, carte, extraits, parcours, sons, animations, outils, pages (9 721)
 node build/essais.mjs              # Chrome réel : recherche, fiches, figures, images, carte, parcours, carte des liens, images animées, sons, outils, frise en bandeau, plus court chemin, progression, parcours sur la carte, extraits, révision, hors-ligne (188)
 node build/verifier_liens.mjs      # chaque lien, des articles et des extraits, répond (en ligne, ~1 700 adresses)
 node build/capture_galerie.mjs <dossier>   # toutes les figures en images, vélin et nuit

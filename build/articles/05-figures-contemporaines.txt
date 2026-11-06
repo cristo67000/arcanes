@@ -11,7 +11,7 @@ def: Occultiste, poète et alpiniste britannique, fondateur de Thelema, dont la 
 texte: Edward Alexander Crowley naît en 1875 à Leamington, dans une riche famille de brasseurs. Son père, prédicateur de la secte puritaine des Frères de Plymouth, meurt quand il a onze ans ; l'enfant se rebelle contre une éducation religieuse étouffante et contre sa mère, qui l'appelle « la Bête ». Héritier d'une fortune, il étudie à Cambridge sans passer de diplôme, publie des poèmes, joue aux [[jeu-d-echecs|échecs]] et pratique l'alpinisme avec audace.
 texte: En 1898, il entre à la [[golden-dawn|Golden Dawn]], dont il apprend les rituels auprès d'Allan Bennett et de [[samuel-liddell-mathers]], et prend son parti lors de l'éclatement de l'ordre en 1900. Il voyage au Mexique, en Inde, où il étudie le yoga, participe en 1902 à la première tentative sur le K2 et dirige en 1905 une expédition au Kangchenjunga qui tourne au drame. En avril 1904, au Caire, avec sa femme Rose, il dit recevoir sous la dictée d'une entité, Aiwass, le *[[livre-de-la-loi|Livre de la Loi]]*, fondement de [[thelema|Thelema]] : « Fais ce que tu veux sera le tout de la Loi. »
 texte: Il fonde en 1907 son propre ordre, l'[[a-a|A∴A∴]], publie dans sa revue *The Equinox* les rituels secrets de la Golden Dawn, et prend la tête de la branche britannique de l'[[oto|Ordo Templi Orientis]], dont il deviendra le chef mondial ; il y introduit sa [[magie-sexuelle|magie sexuelle]]. En 1920, il installe à Cefalù, en Sicile, une « abbaye de Thélème » où l'on pratique la magie, le yoga et les drogues ; après la mort d'un jeune disciple, la presse britannique se déchaîne contre « l'homme le plus méchant du monde », et Mussolini l'expulse en 1923.
-texte: Ruiné, il erre en Tunisie, en France, en Allemagne et au Portugal, où il met en scène avec le poète Fernando Pessoa sa fausse disparition. Ses livres — *Magick en théorie et en pratique* (1929), ses *Confessions*, *Le Livre de Thoth* (1944), qui accompagne le [[tarot-de-thoth|tarot]] peint pour lui par Lady Frieda Harris — font de la [[magie]] une discipline de la volonté et de la conscience, qu'il écrit « magick » pour la distinguer de la prestidigitation. Il meurt dans la pauvreté à Hastings en 1947.
+texte: Ruiné, il erre en Tunisie, en France, en Allemagne et au Portugal, où il met en scène en septembre 1930, à la Boca do Inferno, près de Lisbonne, avec le poète [[fernando-pessoa|Fernando Pessoa]], sa fausse disparition. Ses livres — *Magick en théorie et en pratique* (1929), ses *Confessions*, *Le Livre de Thoth* (1944), qui accompagne le [[tarot-de-thoth|tarot]] peint pour lui par Lady Frieda Harris — font de la [[magie]] une discipline de la volonté et de la conscience, qu'il écrit « magick » pour la distinguer de la prestidigitation. Il meurt dans la pauvreté à Hastings en 1947.
 texte: Méprisé de son vivant, Crowley est devenu une icône de la contre-culture : son visage figure sur la pochette d'un album des Beatles, et son influence s'étend de la [[wicca]], dont le fondateur l'a rencontré, à la [[magie-du-chaos|magie du chaos]] et à de nombreux groupes thélémites. Les historiens voient en lui l'un des inventeurs de l'ésotérisme moderne, et l'un de ses provocateurs les plus calculés.
 repere: 1875 — Naissance à Leamington, dans une riche famille de brasseurs.
 repere: 1887 — Mort de son père, prédicateur des Frères de Plymouth.
@@ -25,6 +25,7 @@ repere: 1912 — Il prend la tête de la branche britannique de l'OTO.
 repere: 1920 — Il fonde l'abbaye de Thélème à Cefalù.
 repere: 1923 — Mussolini l'expulse d'Italie.
 repere: 1929 — *Magick en théorie et en pratique*.
+repere: 1930 — À Lisbonne, faux suicide à la Boca do Inferno, avec Fernando Pessoa.
 repere: 1944 — *Le Livre de Thoth*.
 repere: 1947 — Mort à Hastings.
 oeuvres: Le Livre de la Loi (1904) ; Le Livre des mensonges (1913) ; Magick en théorie et en pratique (1929) ; Confessions (1929) ; Le Livre de Thoth (1944)
@@ -55,7 +56,7 @@ repere: 1922 — Incendie du premier Goetheanum, dans la nuit de la Saint-Sylves
 repere: 1924 — Cours aux agriculteurs, d'où naît l'agriculture biodynamique.
 repere: 1925 — Mort à Dornach.
 oeuvres: Philosophie de la liberté (1894) ; Théosophie (1904) ; Comment acquérir des connaissances sur les mondes supérieurs (1904-1905) ; La Science de l'occulte (1910)
-voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert, abeille, hilma-af-klint, evangile-de-jean, eurythmie, biodynamie, pedagogie-waldorf
+voir: anthroposophie, societe-anthroposophique, theosophie, corps-subtils, edouard-schure, annales-akashiques, goetheanum, le-serpent-vert, abeille, hilma-af-klint, evangile-de-jean, eurythmie, biodynamie, pedagogie-waldorf, l-anneau-du-nibelung
 
 @ dion-fortune
 cat: figures
@@ -250,7 +251,7 @@ repere: 1955 — *Mysterium conjunctionis*.
 repere: 1961 — Mort à Küsnacht.
 repere: 2009 — Publication du *Livre rouge*.
 oeuvres: Types psychologiques (1921) ; Psychologie et alchimie (1944) ; Aiôn (1951) ; Synchronicité (1952) ; Mysterium conjunctionis (1955-1956) ; Ma vie (1962)
-voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide, archetype, synchronicite, monte-verita
+voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide, archetype, synchronicite, monte-verita, l-anneau-du-nibelung
 
 @ fulcanelli
 cat: figures
@@ -269,7 +270,7 @@ repere: 1937 — Selon Jacques Bergier, un inconnu, peut-être Fulcanelli, le me
 repere: 1954 — Canseliet dit l'avoir revu, rajeuni, en Espagne.
 repere: 1960 — *Le Matin des magiciens* popularise sa légende.
 oeuvres: Le Mystère des cathédrales (1926) ; Les Demeures philosophales (1930)
-voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel, les-demeures-philosophales, croix-d-hendaye, hotel-lallemant, langue-des-oiseaux, argot, art-gothique, pierre-dujols, vierges-noires, gargouille
+voir: mystere-des-cathedrales, eugene-canseliet, alchimie, grand-oeuvre, matin-des-magiciens, nicolas-flamel, les-demeures-philosophales, croix-d-hendaye, hotel-lallemant, langue-des-oiseaux, argot, art-gothique, pierre-dujols, vierges-noires, gargouille, grasset-d-orcet
 
 @ eugene-canseliet
 cat: figures
@@ -368,13 +369,14 @@ def: Publicitaire et occultiste américain, fondateur de l'AMORC, le plus grand 
 texte: Harvey Spencer Lewis naît en 1883 dans le New Jersey, dans une famille méthodiste. Illustrateur et publicitaire à New York, il s'intéresse très tôt aux phénomènes psychiques et fonde en 1904 un institut de recherches psychiques. Il raconte avoir été initié en 1909 à Toulouse par une ancienne fraternité rosicrucienne, qui l'aurait chargé de réveiller l'ordre en Amérique.
 texte: Il fonde à New York, en 1915, l'Ancien et mystique ordre de la Rose-Croix, l'[[amorc|AMORC]], dont il prend le titre d'*Imperator*. L'année suivante, il prétend réaliser publiquement une transmutation de zinc en or. L'ordre s'installe en 1927 à San José, en Californie, où il aménage un parc de style égyptien, un musée égyptien, encore ouvert, et un planétarium.
 texte: Publicitaire de métier, il recrute par des annonces dans la presse et diffuse son enseignement par des monographies envoyées par la poste, ce qui fait de l'AMORC une organisation mondiale. Son enseignement mêle la tradition rosicrucienne, une Égypte idéalisée — Akhenaton y devient un grand maître —, le mysticisme, le développement personnel et la réincarnation. Il écrit aussi une *Vie mystique de Jésus* et, sous pseudonyme, un livre sur le continent perdu de la [[lemurie|Lémurie]].
-texte: Il meurt à San José en 1939 ; son fils Ralph lui succède. L'AMORC revendique aujourd'hui des membres dans le monde entier, notamment en France, où il est très implanté.
+texte: En août 1934, à Bruxelles, il est l'un des trois « imperators » de la [[fudosi|FUDOSI]], sous le nom de Sar Alden, et son rival américain Reuben Swinburne Clymer la combat. Il meurt à San José en 1939 ; son fils Ralph lui succède. L'AMORC revendique aujourd'hui des membres dans le monde entier, notamment en France, où il est très implanté.
 repere: 1883 — Naissance dans le New Jersey.
 repere: 1904 — Il fonde à New York un institut de recherches psychiques.
 repere: 1909 — Il dit avoir été initié à Toulouse par des Rose-Croix.
 repere: 1915 — Fondation de l'AMORC à New York.
 repere: 1916 — Il prétend réaliser publiquement une transmutation de zinc en or.
 repere: 1927 — L'ordre s'installe à San José, en Californie.
+repere: 1934 — À Bruxelles, l'un des trois imperators de la FUDOSI.
 repere: 1939 — Mort à San José.
 voir: amorc, rose-croix, egyptosophie, lemurie, akhenaton
 
@@ -431,7 +433,7 @@ dates: 1907 – 1997
 an: 1907
 def: Écrivain et occultiste français, figure majeure du martinisme et de la franc-maçonnerie égyptienne au XXe siècle, auteur de nombreux ouvrages de kabbale, d'astrologie et de magie.
 texte: Robert Ambelain naît à Paris en 1907. Autodidacte, il publie dans les années 1930 des ouvrages d'[[astrologie]], puis en 1939 *Dans l'ombre des cathédrales*, qui prolonge la lecture alchimique de l'art gothique de [[fulcanelli]], dont il soutiendra plus tard qu'il n'était autre que le peintre [[julien-champagne|Julien Champagne]].
-texte: Sous l'Occupation, alors que le régime de Vichy interdit la franc-maçonnerie et poursuit ses membres, il réactive clandestinement des loges et des rites, notamment le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], dont le grand maître, Constant Chevillon, est assassiné par la Milice en 1944. Initié dans plusieurs ordres [[martinisme|martinistes]] et gnostiques, il entreprend de ranimer les opérations théurgiques des [[elus-coens]] de Martinez de Pasqually.
+texte: Sous l'Occupation, alors que le régime de Vichy interdit la franc-maçonnerie et poursuit ses membres, il réactive clandestinement des loges et des rites, notamment le [[rite-de-memphis-misraim|rite de Memphis-Misraïm]], dont le grand maître, Constant Chevillon, chef de la FUDOFSI, rivale de la [[fudosi|FUDOSI]], est assassiné par la Milice en 1944. Initié dans plusieurs ordres [[martinisme|martinistes]] et gnostiques, il entreprend de ranimer les opérations théurgiques des [[elus-coens]] de Martinez de Pasqually.
 texte: Après la guerre, il dirige l'[[ordre-martiniste|Ordre martiniste initiatique]], est consacré évêque d'une Église gnostique et devient grand hiérophante du rite de Memphis-Misraïm. Il publie *Le Martinisme* (1946), *La Kabbale pratique* (1951), des traités de magie et d'astrologie, et une histoire des sociétés initiatiques.
 texte: Dans les années 1970, il se fait connaître du grand public par une série d'essais iconoclastes sur les origines du christianisme, *Jésus ou le mortel secret des Templiers*, *La Vie secrète de saint Paul*, *Les Lourds Secrets du Golgotha*, puis par des livres sur les arcanes de l'histoire. Il meurt à Paris en 1997. Ses ouvrages ont formé des générations d'occultistes et de maçons « égyptiens » français.
 repere: 1907 — Naissance à Paris.

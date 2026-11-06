@@ -1437,3 +1437,13 @@ rene-nelli: wp René Nelli | bnf 11917529v
 edouard-de-ribaucourt: wp Édouard de Ribaucourt | bnf 121526014
 camille-savoire: wp Camille Savoire | wp Grand Prieuré des Gaules | bnf 12208030n
 feux-de-la-saint-jean: wp Fête de la Saint-Jean | wp Herbe de la Saint-Jean | bnf 12061577w
+
+# Version 1.12, suite : lots V.
+paul-verlaine: wp Paul Verlaine | ws Auteur:Paul Verlaine | bnf 119279849
+fernando-pessoa: wp Fernando Pessoa | ws Auteur:Fernando Pessoa | bnf 11887252t
+andre-breton: wp André Breton | url https://www.andrebreton.fr/ = le site de l'Association Atelier André Breton | bnf 118939509
+alexandre-dumas: wp Alexandre Dumas | ws Auteur:Alexandre Dumas | bnf 119010630
+marc-haven: en Marc Haven
+grasset-d-orcet: wp Claude Sosthène Grasset d'Orcet | bnf 12610258j
+fudosi: en FUDOSI
+l-anneau-du-nibelung: wp L'Anneau du Nibelung | ws L’Anneau du Nibelung | bnf 13985302h

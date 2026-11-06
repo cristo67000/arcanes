@@ -251,7 +251,7 @@ nom: Anagramme
 alias: anagrammes, Alcofribas Nasier, anagramme de Galilée, Rapis, Avida Dollars
 def: Mot ou phrase obtenu en changeant l'ordre des lettres d'un autre ; procédé des devins, des kabbalistes, des savants soucieux de priorité et des écrivains masqués.
 texte: Les Grecs pratiquaient déjà l'anagramme comme un oracle : le poète Lycophron flattait Ptolémée en tirant de son nom *apo melitos*, « fait de miel ». La [[kabbale]] permute les lettres des noms divins par la [[temourah]]. [[francois-rabelais|François Rabelais]] publie *Pantagruel* sous le nom d'Alcofribas Nasier, anagramme du sien, et l'on a lu dans les « Rapis » et « Nersaf » de [[nostradamus|Nostradamus]] Paris et la France.
-texte: Les savants du XVIIe siècle s'en servaient pour prendre date sans révéler leur découverte : Galilée annonça en 1610 par une suite de lettres incompréhensible qu'il avait vu Saturne « triple » ; Huygens fit de même pour l'anneau de Saturne. André Breton fit de Salvador Dalí « Avida Dollars ». La [[langue-des-oiseaux|langue des oiseaux]] et la « cabale phonétique » de [[fulcanelli|Fulcanelli]] jouent sur les sons comme l'anagramme joue sur les lettres.
+texte: Les savants du XVIIe siècle s'en servaient pour prendre date sans révéler leur découverte : Galilée annonça en 1610 par une suite de lettres incompréhensible qu'il avait vu Saturne « triple » ; Huygens fit de même pour l'anneau de Saturne. [[andre-breton|André Breton]] fit de Salvador Dalí « Avida Dollars ». La [[langue-des-oiseaux|langue des oiseaux]] et la « cabale phonétique » de [[fulcanelli|Fulcanelli]] jouent sur les sons comme l'anagramme joue sur les lettres.
 voir: temourah, palindrome, acrostiche, francois-rabelais, nostradamus, langue-des-oiseaux, notarikon
 
 @ acrostiche

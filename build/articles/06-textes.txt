@@ -210,7 +210,7 @@ alias: Arbatel de magia veterum, esprits olympiques, Aratron, Bethor, Phaleg, Oc
 an: 1575
 def: Petit traité de magie imprimé à Bâle en 1575, d'inspiration chrétienne et paracelsienne, connu pour ses sept « esprits olympiques » qui gouvernent les planètes.
 texte: Anonyme, l'*Arbatel* se compose d'aphorismes groupés par sept. Il présente la magie comme une sagesse donnée par Dieu à ceux qui le craignent, et condamne la magie démoniaque. Il décrit sept esprits célestes, chacun préposé à une planète et à une période de l'histoire : Aratron (Saturne), Bethor (Jupiter), Phaleg (Mars), Och (Soleil), Hagith (Vénus), Ophiel (Mercure) et Phul (Lune), avec leurs caractères à tracer.
-texte: Très apprécié des théosophes chrétiens et des rosicruciens, l'*Arbatel* contraste avec les grimoires de conjuration par sa tonalité pieuse et optimiste.
+texte: Très apprécié des théosophes chrétiens et des rosicruciens, l'*Arbatel* contraste avec les grimoires de conjuration par sa tonalité pieuse et optimiste. [[marc-haven|Marc Haven]] en publie une traduction française en 1910.
 voir: intelligences-planetaires, grimoire, planetes, theosophie-chretienne
 
 @ grand-albert

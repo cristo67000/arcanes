@@ -251,7 +251,7 @@ def: Planète la plus lente et la plus lointaine des sept planètes anciennes, s
 texte: Saturne, le Kronos grec qui dévore ses enfants, met près de trente ans à faire le tour du zodiaque. L'astrologie y voit la « grande maléfique » : la vieillesse, les obstacles, la solitude, la mort, mais aussi la patience, la rigueur et la profondeur. Il a son domicile dans le [[capricorne|Capricorne]] et le [[verseau|Verseau]], et son exaltation dans la [[balance|Balance]].
 texte: La Renaissance a fait de lui la planète des penseurs : [[marsile-ficin]], né sous Saturne, voit dans la mélancolie le tempérament des contemplatifs et des génies. Le plomb, métal lourd et sombre, lui appartient, d'où le nom de saturnisme donné à l'intoxication par ce métal ; en alchimie, Saturne désigne le plomb lui-même, l'un des [[sept-metaux|sept métaux]], et aussi la matière noire du début de l'œuvre.
 schema: planetes-septenaire/saturne
-voir: planetes, capricorne, verseau, carre-magique, binah, de-vita, sept-metaux
+voir: planetes, capricorne, verseau, carre-magique, binah, de-vita, sept-metaux, paul-verlaine
 
 @ uranus
 cat: astrologie

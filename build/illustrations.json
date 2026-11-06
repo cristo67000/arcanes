@@ -14244,6 +14244,90 @@
     "edouard-de-ribaucourt"
    ],
    "sig": "Édouard de Ribaucourt.png||231|74"
+  },
+  "verlaine-carriere": {
+   "f": "img/verlaine-carriere.webp",
+   "v": "7210aa02a4",
+   "w": 400,
+   "h": 518,
+   "l": "Paul Verlaine, par Eugène Carrière",
+   "cr": "Eugène Carrière — Art Institute of Chicago",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Carri%C3%A8re_-_Portrait_of_Paul_Verlaine,_1938.1259.jpg",
+   "pour": [
+    "paul-verlaine"
+   ],
+   "sig": "Carrière - Portrait of Paul Verlaine, 1938.1259.jpg||400|74"
+  },
+  "pessoa-mensagem": {
+   "f": "img/pessoa-mensagem.webp",
+   "v": "13fca6d671",
+   "w": 400,
+   "h": 594,
+   "l": "*Mensagem*, de Fernando Pessoa : la première édition, 1934",
+   "cr": "Lisbonne, Parceria António Maria Pereira, 1934",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1edicao_Mensagem_1934.jpg",
+   "pour": [
+    "fernando-pessoa"
+   ],
+   "sig": "1edicao Mensagem 1934.jpg||400|74"
+  },
+  "breton-smith-martien": {
+   "f": "img/breton-smith-martien.webp",
+   "v": "3ee709d108",
+   "w": 400,
+   "h": 473,
+   "l": "Le premier texte « martien » écrit par la médium Hélène Smith, à la séance du 22 août 1897",
+   "cr": "Hélène Smith, 1897 — dans Théodore Flournoy, *Des Indes à la planète Mars*",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:H%C3%A9l%C3%A8neSmith_martien01.jpg",
+   "pour": [
+    "andre-breton"
+   ],
+   "sig": "HélèneSmith martien01.jpg||400|74"
+  },
+  "dumas-nadar": {
+   "f": "img/dumas-nadar.webp",
+   "v": "aa8017d088",
+   "w": 400,
+   "h": 537,
+   "l": "Alexandre Dumas photographié par Nadar",
+   "cr": "Nadar, 1855 — Cleveland Museum of Art",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nadar_-_Alexandre_Dumas_p%C3%A8re_(1802-1870)_-_1983.198_-_Cleveland_Museum_of_Art.jpg",
+   "pour": [
+    "alexandre-dumas"
+   ],
+   "sig": "Nadar - Alexandre Dumas père (1802-1870) - 1983.198 - Cleveland Museum of Art.jpg||400|74"
+  },
+  "fudosi-embleme": {
+   "f": "img/fudosi-embleme.webp",
+   "v": "fafb2c6592",
+   "w": 202,
+   "h": 283,
+   "l": "L'emblème de la FUDOSI, dessiné par Harvey Spencer Lewis",
+   "cr": "Harvey Spencer Lewis, 1934",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Logo_of_FUDOSI.jpg",
+   "pour": [
+    "fudosi"
+   ],
+   "sig": "Logo of FUDOSI.jpg||400|74"
+  },
+  "anneau-rackham-alberich": {
+   "f": "img/anneau-rackham-alberich.webp",
+   "v": "be4e1500a2",
+   "w": 400,
+   "h": 552,
+   "l": "Les filles du Rhin se moquent d'Alberich, au début de *L'Or du Rhin*",
+   "cr": "Arthur Rackham, 1910 — *The Rhinegold & the Valkyrie*, Londres, Heinemann",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Rhinegold_and_the_Valkyries_p_010.jpg",
+   "pour": [
+    "l-anneau-du-nibelung"
+   ],
+   "sig": "Rhinegold and the Valkyries p 010.jpg||400|74"
   }
  },
  "planches": {

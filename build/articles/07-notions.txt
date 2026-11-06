@@ -394,7 +394,7 @@ nom: Écriture automatique
 alias: psychographie, planchette, automatisme psychique
 def: Écriture produite sans contrôle conscient, que les spirites attribuent aux esprits et que les psychologues et les surréalistes ont étudiée comme une expression de l'inconscient.
 texte: Dans les séances spirites, le médium écrit, la main guidée par une force qu'il dit étrangère, parfois à l'aide d'une planchette munie d'un crayon. Le psychologue Pierre Janet, dans *L'Automatisme psychologique* (1889), explique ces textes par une dissociation de la conscience.
-texte: Les [[surrealisme|surréalistes]] reprennent la méthode à leur compte : André Breton et Philippe Soupault écrivent en 1919 *Les Champs magnétiques*, et le *Manifeste du surréalisme* (1924) définit le mouvement comme un « automatisme psychique pur ».
+texte: Les [[surrealisme|surréalistes]] reprennent la méthode à leur compte : [[andre-breton|André Breton]] et Philippe Soupault écrivent en 1919 *Les Champs magnétiques*, et le *Manifeste du surréalisme* (1924) définit le mouvement comme un « automatisme psychique pur ».
 voir: medium, spiritisme, ouija
 
 @ voyage-astral

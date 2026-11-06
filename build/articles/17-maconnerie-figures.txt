@@ -276,7 +276,7 @@ repere: 1802 — Rentré en France, il se rallie au Concordat.
 repere: 1806 — Il reçoit la lettre de Simonini, qui accuse les juifs.
 repere: 1820 — Mort à Paris.
 oeuvres: Les Helviennes (1781) ; Mémoires pour servir à l'histoire du jacobinisme (1797-1798)
-voir: antimaconnisme, illumines-de-baviere, adam-weishaupt, joseph-balsamo, bulle-in-eminenti
+voir: antimaconnisme, illumines-de-baviere, adam-weishaupt, joseph-balsamo, bulle-in-eminenti, alexandre-dumas
 
 @ laurence-dermott
 cat: figures

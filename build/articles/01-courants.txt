@@ -251,7 +251,7 @@ texte: La [[societe-theosophique|Société théosophique]], installée en Inde �
 attention: À ne pas confondre avec la [[theosophie-chretienne|théosophie chrétienne]] de Jakob Boehme et de ses disciples.
 extrait: En effet, bien antérieurement à la création de la Société dite Théosophique, le vocable de théosophie servait de dénomination commune à des doctrines assez diverses, mais appartenant cependant toutes à un même type, ou du moins procédant d’un même ensemble de tendances ; il convient donc de lui garder la signification qu’il a historiquement. (…) Telles sont, par exemple, des doctrines comme celles de Jacob Bœhme, de Gichtel, de William Law, de Jane Lead, de Swedenborg, de Louis-Claude de Saint-Martin, d’Eckartshausen ; nous ne prétendons pas donner une liste complète, nous nous bornons à citer quelques noms parmi les plus connus.
 source: René Guénon, *Le Théosophisme, histoire d’une pseudo-religion*, 1921, avant-propos | gallica bd6t5924664v | ws Le Théosophisme, histoire d'une pseudo-religion/Avant-propos
-voir: helena-blavatsky, societe-theosophique, doctrine-secrete, maitres-de-sagesse, karma, corps-subtils, ignatius-donnelly, atlantide, abstraction-et-theosophie, formes-pensees, hilma-af-klint, wassily-kandinsky, piet-mondrian, nicolas-roerich
+voir: helena-blavatsky, societe-theosophique, doctrine-secrete, maitres-de-sagesse, karma, corps-subtils, ignatius-donnelly, atlantide, abstraction-et-theosophie, formes-pensees, hilma-af-klint, wassily-kandinsky, piet-mondrian, nicolas-roerich, fernando-pessoa
 
 @ anthroposophie
 cat: courants

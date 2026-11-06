@@ -6621,3 +6621,47 @@ legende: Édouard de Ribaucourt
 credit: photographie anonyme, vers 1930
 pour: edouard-de-ribaucourt
 largeur: 231
+
+% Version 1.12, suite : lots V
+
+# Lot V — illustrations proposées (format de build/illustrations.txt).
+# Toutes annoncées « Public domain » par outil.py commons pendant la session.
+# Pas d'image pour Marc Haven et Grasset d'Orcet : aucun portrait libre trouvé.
+# Pas de portrait de Breton : « André Breton 1924.jpg » est un photomaton de Breton lui-même (mort en 1966),
+# marqué à tort domaine public ; on donne à la place le premier texte « martien » d'Hélène Smith.
+
+= verlaine-carriere
+commons: Carrière - Portrait of Paul Verlaine, 1938.1259.jpg
+legende: Paul Verlaine, par Eugène Carrière
+credit: Eugène Carrière — Art Institute of Chicago
+pour: paul-verlaine
+
+= pessoa-mensagem
+commons: 1edicao Mensagem 1934.jpg
+legende: *Mensagem*, de Fernando Pessoa : la première édition, 1934
+credit: Lisbonne, Parceria António Maria Pereira, 1934
+pour: fernando-pessoa
+
+= breton-smith-martien
+commons: HélèneSmith martien01.jpg
+legende: Le premier texte « martien » écrit par la médium Hélène Smith, à la séance du 22 août 1897
+credit: Hélène Smith, 1897 — dans Théodore Flournoy, *Des Indes à la planète Mars*
+pour: andre-breton
+
+= dumas-nadar
+commons: Nadar - Alexandre Dumas père (1802-1870) - 1983.198 - Cleveland Museum of Art.jpg
+legende: Alexandre Dumas photographié par Nadar
+credit: Nadar, 1855 — Cleveland Museum of Art
+pour: alexandre-dumas
+
+= fudosi-embleme
+commons: Logo of FUDOSI.jpg
+legende: L'emblème de la FUDOSI, dessiné par Harvey Spencer Lewis
+credit: Harvey Spencer Lewis, 1934
+pour: fudosi
+
+= anneau-rackham-alberich
+commons: Rhinegold and the Valkyries p 010.jpg
+legende: Les filles du Rhin se moquent d'Alberich, au début de *L'Or du Rhin*
+credit: Arthur Rackham, 1910 — *The Rhinegold & the Valkyrie*, Londres, Heinemann
+pour: l-anneau-du-nibelung

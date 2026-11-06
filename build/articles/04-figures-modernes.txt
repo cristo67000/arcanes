@@ -111,7 +111,7 @@ texte: Giuseppe Balsamo naît à Palerme en 1743 dans une famille modeste. Novic
 texte: À [[londres|Londres]], où il a pris le nom de comte de Cagliostro — celui d'un grand-oncle de Messine, mari de sa marraine —, il est reçu franc-maçon le 12 avril 1777, dans la loge de langue française L'Espérance. Il élabore une « Haute Maçonnerie égyptienne », dont il est le Grand Cophte, qui promet la régénération physique et morale et admet aussi les femmes, sous la direction de Lorenza, devenue Séraphina. À Mitau, en Courlande, il fait voir l'avenir à de jeunes enfants penchés sur des carafes d'eau ; à Strasbourg, où il arrive vers septembre 1780, il soigne gratuitement les pauvres, donne des séances de son rite et gagne la protection du [[cardinal-de-rohan|cardinal de Rohan]], qui le reçoit à Saverne ; un médecin de la ville, le docteur Ostertag, l'attaque en 1781, mais le Magistrat le désavoue. Il quitte l'Alsace en juin 1783, passe par Naples et séjourne près d'un an à Bordeaux. À l'automne 1784, il fonde à [[lyon|Lyon]] la loge mère de son rite, la Sagesse triomphante, puis s'installe à Paris, le 30 janvier 1785, où la haute société se dispute ses séances.
 texte: Compromis dans l'[[affaire-du-collier|affaire du Collier de la reine]] par les accusations de Mme de La Motte, il est enfermé à la Bastille en août 1785 ; son *Mémoire* de défense raconte une enfance fabuleuse à Médine et en Égypte auprès d'un sage nommé Althotas. Le Parlement de Paris le décharge de toute accusation le 31 mai 1786, mais un ordre du roi le bannit aussitôt du royaume. De Londres, en juin, il adresse aux Français une *Lettre* contre les lettres de cachet et la Bastille : il ne rentrera, écrit-il, que si elle devient une promenade publique, et un prince viendra qui convoquera les États généraux. Après 1789, on y a lu une prophétie ; mais il n'y annonce pas la prise de la forteresse, dont la démolition était projetée depuis longtemps. À Londres, le journaliste Théveneau de Morande révèle dans le *Courrier de l'Europe* le passé de Balsamo.
 texte: Chassé de ville en ville, il gagne Rome au printemps de 1789 et tente d'y fonder une loge. Dénoncé au Saint-Office — par sa femme, dit la tradition, mais aussi par la famille de celle-ci et par des espions qui s'étaient fait initier —, il est arrêté le 27 décembre 1789 et enfermé au château Saint-Ange pour franc-maçonnerie, hérésie et magie. Condamné à mort, il voit sa peine commuée en prison à vie en avril 1791 et meurt le 26 août 1795 dans la forteresse de San Leo, dans le *pozzetto*, cellule où on l'avait descendu par une trappe. Le *Compendio* de sa vie, que le Saint-Office fit paraître dès 1791 d'après les pièces du procès pour justifier la sentence, a nourri la plupart des biographies : c'est le récit de ses juges, à lire comme tel.
-texte: [[johann-wolfgang-von-goethe|Goethe]], qui visita sa mère et sa sœur à Palerme en 1787, lui consacre une comédie, *Le Grand Cophte* (1791) ; Schiller s'en inspire dans *Le Visionnaire*, et Alexandre Dumas fait de Joseph Balsamo le héros d'une série de romans ; Maurice Leblanc lui invente une fille, Joséphine Balsamo, dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924). Les rites maçonniques « égyptiens », de [[rite-de-memphis-misraim|Memphis-Misraïm]] notamment, se réclament de lui, et l'occultiste Marc Haven a écrit sa vie comme celle d'un « maître inconnu ».
+texte: [[johann-wolfgang-von-goethe|Goethe]], qui visita sa mère et sa sœur à Palerme en 1787, lui consacre une comédie, *Le Grand Cophte* (1791) ; Schiller s'en inspire dans *Le Visionnaire*, et [[alexandre-dumas|Alexandre Dumas]] fait de Joseph Balsamo le héros d'une série de romans ; Maurice Leblanc lui invente une fille, Joséphine Balsamo, dans *[[la-comtesse-de-cagliostro|La Comtesse de Cagliostro]]* (1924). Les rites maçonniques « égyptiens », de [[rite-de-memphis-misraim|Memphis-Misraïm]] notamment, se réclament de lui, et l'occultiste [[marc-haven|Marc Haven]] a écrit sa vie comme celle d'un « maître inconnu ».
 repere: 1743 — Naissance à Palerme, le 2 juin, sous le nom de Giuseppe Balsamo.
 repere: 1768 — À Rome, il épouse Lorenza Feliciani.
 repere: 1777 — Reçu franc-maçon à Londres, le 12 avril, dans la loge L'Espérance.
@@ -367,7 +367,7 @@ repere: 1875 — Mort à Paris.
 oeuvres: Dogme et rituel de la haute magie (1854-1856) ; Histoire de la magie (1860) ; La Clef des grands mystères (1861) ; La Science des esprits (1865) ; Le Grand Arcane (publié en 1898)
 extrait: Depuis trop longtemps on confond la magie avec les prestiges des charlatans, avec les hallucinations des malades, et avec les crimes de certains malfaiteurs exceptionnels. (…) ¶ La magie ne saurait être ce que la font ceux qui ne la connaissent pas. Il n’appartient d’ailleurs à personne de la faire ceci ou cela ; elle est ce qu’elle est, elle est par elle-même, comme les mathématiques, car c’est la science exacte et absolue de la nature et de ses lois. ¶ La magie est la science des anciens mages ; et la religion chrétienne, qui a imposé silence aux oracles menteurs, et fait cesser tous les prestiges des faux dieux, révère elle-même ces mages qui vinrent de l’Orient, guidés par une étoile, pour adorer le Sauveur du monde dans son berceau.
 source: Éliphas Lévi, *Histoire de la magie*, 1860, introduction | gallica bpt6k75611x | ia histoiredelamagi21013gut = le texte du Projet Gutenberg
-voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique, sphinx, pan, arcane-soleil
+voir: occultisme, dogme-et-rituel, lumiere-astrale, baphomet, tarot, pentagramme, kabbale-hermetique, sphinx, pan, arcane-soleil, andre-breton, grasset-d-orcet
 
 @ allan-kardec
 cat: figures
@@ -418,7 +418,7 @@ repere: 1885 — Le rapport Hodgson déclare ses phénomènes frauduleux ; elle 
 repere: 1888 — *La Doctrine secrète*.
 repere: 1891 — Mort à Londres, le 8 mai.
 oeuvres: Isis dévoilée (1877) ; La Doctrine secrète (1888) ; La Clef de la théosophie (1889) ; La Voix du silence (1889)
-voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques, isis, promethee, abstraction-et-theosophie, nicolas-roerich
+voir: theosophie, societe-theosophique, doctrine-secrete, maitres-de-sagesse, henry-steel-olcott, annales-akashiques, isis, promethee, abstraction-et-theosophie, nicolas-roerich, fernando-pessoa
 
 @ henry-steel-olcott
 cat: figures
@@ -580,7 +580,7 @@ repere: 1892 — Premier Salon de la Rose+Croix, avec la musique d'Erik Satie.
 repere: 1897 — Sixième et dernier Salon.
 repere: 1918 — Mort à Neuilly-sur-Seine.
 oeuvres: Le Vice suprême (1884) ; Istar (1888) ; Comment on devient mage (1892) ; La Décadence latine (cycle romanesque, 1884-1925)
-voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne, salons-de-la-rose-croix, symbolisme, mage
+voir: ordre-de-la-rose-croix-catholique, stanislas-de-guaita, rose-croix, occultisme, graal, androgyne, salons-de-la-rose-croix, symbolisme, mage, fudosi
 
 @ papus
 cat: figures
@@ -603,7 +603,7 @@ repere: 1895 — Il rencontre le guérisseur lyonnais Maître Philippe.
 repere: 1901 — Premier voyage à la cour de Nicolas II.
 repere: 1916 — Mort à Paris.
 oeuvres: Traité élémentaire de science occulte (1888) ; Le Tarot des Bohémiens (1889) ; Traité méthodique de science occulte (1891) ; La Kabbale (1892) ; Traité élémentaire de magie pratique (1893)
-voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique, le-tarot-des-bohemiens, raspoutine, jules-bois, emma-calve
+voir: ordre-martiniste, occultisme, martinisme, tarot, saint-yves-d-alveydre, eglise-gnostique, le-tarot-des-bohemiens, raspoutine, jules-bois, emma-calve, marc-haven
 
 @ jules-doinel
 cat: figures
@@ -1017,13 +1017,14 @@ an: 1849
 def: Guérisseur lyonnais, qui soignait par la prière sans jamais se faire payer, maître spirituel de Papus, reçu à la cour du tsar Nicolas II.
 texte: Nizier Anthelme Philippe naît en 1849 en Savoie, dans une famille de paysans. À quatorze ans, il vient travailler à [[lyon|Lyon]] dans la boucherie d'un oncle. Très jeune, il manifeste, dit-on, des dons de guérisseur. Il suit des cours de médecine, mais il est exclu pour exercice illégal de la médecine. En 1877, il épouse une jeune femme de la bourgeoisie lyonnaise, dont la fortune le met à l'abri du besoin.
 texte: Dans son appartement de la rue Tête-d'Or, à Lyon, il reçoit chaque jour des foules de malades, qu'il soigne par la prière et la parole, sans médicaments et sans jamais demander d'argent ; il exige seulement qu'on promette de ne plus dire de mal de son prochain. Poursuivi à plusieurs reprises pour exercice illégal de la médecine, il est soutenu par ses patients. Sa doctrine, toute chrétienne, est faite de charité, d'humilité et de confiance dans le Ciel.
-texte: Les occultistes parisiens viennent le voir : en 1895, [[papus]] le reconnaît pour son « maître spirituel », et Paul Sédir lui consacrera des livres. En 1901, deux grandes-duchesses monténégrines le présentent à Nicolas II et à l'impératrice Alexandra, qui l'accueillent en Russie ; il séjourne à la cour, où on lui prête des prédictions et l'annonce de la naissance d'un héritier. L'échec de cette prophétie et l'hostilité de l'entourage du tsar provoquent sa disgrâce ; il annonce, dit-on, qu'un autre viendra après lui — on y a vu [[raspoutine|Raspoutine]].
+texte: Les occultistes parisiens viennent le voir : en 1895, [[papus]] le reconnaît pour son « maître spirituel », et Paul Sédir lui consacrera des livres. En 1896, Papus lui envoie le docteur Emmanuel Lalande, dit [[marc-haven|Marc Haven]], qui épouse sa fille Victoire l'année suivante. En 1901, deux grandes-duchesses monténégrines le présentent à Nicolas II et à l'impératrice Alexandra, qui l'accueillent en Russie ; il séjourne à la cour, où on lui prête des prédictions et l'annonce de la naissance d'un héritier. L'échec de cette prophétie et l'hostilité de l'entourage du tsar provoquent sa disgrâce ; il annonce, dit-on, qu'un autre viendra après lui — on y a vu [[raspoutine|Raspoutine]].
 texte: Il meurt en 1905 dans sa propriété de L'Arbresle, près de Lyon. Sa tombe, au cimetière de Loyasse, reste fleurie, et ses disciples continuent de vénérer en lui un véritable thaumaturge, l'« ami de Dieu ».
 repere: 1849 — Naissance en Savoie, dans une famille de paysans.
 repere: 1863 — Il vient travailler à Lyon.
 repere: 1877 — Il épouse une jeune femme de la bourgeoisie lyonnaise.
 repere: 1887 — Premier procès pour exercice illégal de la médecine.
 repere: 1895 — Papus devient son disciple.
+repere: 1897 — Sa fille Victoire épouse le docteur Emmanuel Lalande, dit Marc Haven.
 repere: 1901 — Présenté à Nicolas II, il séjourne à la cour de Russie.
 repere: 1905 — Mort à L'Arbresle, près de Lyon.
 voir: papus, martinisme, ordre-martiniste, mystique, thaumaturge, lyon, raspoutine

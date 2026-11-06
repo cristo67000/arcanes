@@ -157,6 +157,14 @@ pour: faune, stephane-mallarme, claude-debussy
 extrait: 0 150
 debit: 64 mono
 
+= chevauchee-walkyries
+commons: Richard Wagner - Ride of the Valkyries.ogg
+titre: Wagner, *La Walkyrie* : la Chevauchée des Walkyries
+credit: American Symphony Orchestra, pour Edison, disque Diamond 80638-R, décembre 1921
+pour: l-anneau-du-nibelung, richard-wagner
+extrait: 0 140
+debit: 64 mono
+
 = ravel-ondine
 commons: Maurice Ravel Ondine.ogg
 titre: Ravel, *Gaspard de la nuit* : « Ondine »
