@@ -37,6 +37,10 @@
  *                                   que rien ne traduit librement, comme les poèmes de Kipling)
  *                                   la référence (le titre en italique), puis des
  *                                   liens comme dans build/liens.txt, sans libellé
+ *     langue: en                    (avec traduction, obligatoire pour un extrait en
+ *     traduction: Le passage…       langue étrangère) la langue et le passage en français,
+ *                                   mêmes « ¶ » que l'extrait ; la fiche passe de l'un
+ *                                   à l'autre quand on touche le texte
  *     voir: id, id                  articles voisins
  *
  * Dans « def », « texte », « repere » et « attention » :
@@ -81,6 +85,7 @@ const CATEGORIES = [
   { id: 'litterature', nom: 'Littérature' },
   { id: 'peinture',   nom: 'Peinture et gravure' },
   { id: 'musique',    nom: 'Musique' },
+  { id: 'croix',      nom: 'Croix' },
   { id: 'bestiaire',  nom: 'Animaux fantastiques et symboliques' },
   { id: 'egypte',     nom: 'Égyptologie' },
   { id: 'codes',      nom: 'Codes secrets' },
@@ -144,7 +149,7 @@ function enMinuscule(a) {
 }
 
 const CLES = new Set(['cat', 'nom', 'alias', 'dates', 'an', 'glyphe', 'def', 'texte', 'repere', 'oeuvres',
-  'attention', 'schema', 'geo', 'lieu', 'extrait', 'source', 'voir']);
+  'attention', 'schema', 'geo', 'lieu', 'extrait', 'source', 'langue', 'traduction', 'voir']);
 
 const erreurs = [];
 const avertissements = [];
@@ -255,6 +260,14 @@ function lireFichier(fichier, articles) {
         champ = { cible: dernier, cle: 'source' };
         break;
       }
+      case 'langue':
+      case 'traduction': {
+        const dernier = article.extraits[article.extraits.length - 1];
+        if (!dernier || !dernier.source) { erreur(lieu, '« ' + cle + ': » sans « extrait: » et « source: » juste avant'); break; }
+        dernier[cle] = valeur;
+        champ = { cible: dernier, cle };
+        break;
+      }
       case 'voir': article.voir = valeur.split(',').map((s) => s.trim()).filter(Boolean); break;
       default: break;
     }
@@ -345,7 +358,9 @@ function lireReperes(a, lieu, ids, liens) {
 /* Un extrait est un passage recopié d'une œuvre du domaine public : pas de
  * renvoi dedans (ce n'est pas notre texte), une source qui dit d'où il vient,
  * le titre de l'œuvre en italique, et au moins un lien vers le document.
- * Dans le JSON : [paragraphes, référence, liens]. */
+ * Dans le JSON : [paragraphes, référence, liens], et, pour un texte en langue
+ * étrangère, un quatrième élément { l: langue, t: paragraphes en français }. */
+const LANGUES_EXTRAITS = new Set(['en', 'pt', 'la', 'de', 'it', 'es', 'el']);
 function lireExtraits(a) {
   const sortie = [];
   for (const ex of a.extraits) {
@@ -363,8 +378,20 @@ function lireExtraits(a) {
     const liens = morceaux.map((m) => lireLien(m, lieu, LIBELLES_SOURCE)).filter(Boolean);
     if (!liens.length) erreur(lieu, 'la source d’un extrait mène au document (gallica, ws, ia…)');
     // « // » sépare deux vers : la fiche les pose sur deux lignes
-    const paragraphes = ex.texte.split(/\s*¶\s*/).map((p) => typographie(p).replace(/\s*\/\/\s*/g, '\n'));
-    sortie.push([paragraphes, typographie(reference.trim()), liens]);
+    const enParagraphes = (t) => t.split(/\s*¶\s*/).map((p) => typographie(p).replace(/\s*\/\/\s*/g, '\n'));
+    const paragraphes = enParagraphes(ex.texte);
+    const entree = [paragraphes, typographie(reference.trim()), liens];
+    // Un texte en langue étrangère porte sa traduction : la fiche la donne quand on le touche.
+    if (/\| *wsen |pt\.wikisource\.org/.test(ex.source) && !ex.langue) erreur(lieu, 'extrait en langue étrangère sans « langue: » ni « traduction: »');
+    if (Boolean(ex.langue) !== Boolean(ex.traduction)) erreur(lieu, '« langue: » et « traduction: » vont ensemble');
+    if (ex.langue) {
+      if (!LANGUES_EXTRAITS.has(ex.langue)) erreur(lieu, 'langue d’extrait inconnue « ' + ex.langue + ' »');
+      if ((ex.traduction.match(/\*/g) || []).length % 2) erreur(lieu, 'italique mal fermée dans la traduction');
+      const parties = enParagraphes(ex.traduction);
+      if (parties.length !== paragraphes.length) erreur(lieu, 'la traduction n’a pas autant de paragraphes que l’extrait (' + parties.length + ' au lieu de ' + paragraphes.length + ')');
+      entree.push({ l: ex.langue, t: parties });
+    }
+    sortie.push(entree);
   }
   return sortie;
 }

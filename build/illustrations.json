@@ -14328,6 +14328,274 @@
     "l-anneau-du-nibelung"
    ],
    "sig": "Rhinegold and the Valkyries p 010.jpg||400|74"
+  },
+  "musee-moreau-atelier": {
+   "f": "img/musee-moreau-atelier.webp",
+   "v": "f6516b54d1",
+   "w": 400,
+   "h": 300,
+   "l": "Le grand atelier du deuxième étage, musée Gustave-Moreau, où les toiles couvrent les murs",
+   "cr": "Photographie d'Andreas Praefcke",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Paris_Musee_Gustave-Moreau_4.jpg",
+   "pour": [
+    "musee-gustave-moreau"
+   ],
+   "sig": "Paris Musee Gustave-Moreau 4.jpg||400|74"
+  },
+  "musee-moreau-facade": {
+   "f": "img/musee-moreau-facade.webp",
+   "v": "294993ae99",
+   "w": 400,
+   "h": 533,
+   "l": "La façade de la maison de Gustave Moreau, rue de La Rochefoucauld",
+   "cr": "Photographie de Tangopaso",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hotel_Gustave_Moreau.jpg",
+   "pour": [
+    "musee-gustave-moreau"
+   ],
+   "sig": "Hotel Gustave Moreau.jpg||400|74"
+  },
+  "nouvelle-atlantide-titre": {
+   "f": "img/nouvelle-atlantide-titre.webp",
+   "v": "a0c53c1777",
+   "w": 400,
+   "h": 673,
+   "l": "*New Atlantis. A Worke unfinished* : la page de titre de l'édition de 1628",
+   "cr": "Francis Bacon, Londres, 1628",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Bacon_1628_New_Atlantis_title_page_wpreview.png",
+   "pour": [
+    "la-nouvelle-atlantide"
+   ],
+   "sig": "Bacon 1628 New Atlantis title page wpreview.png|0.05 0.01 0.95 0.97|400|74"
+  },
+  "nouvelle-atlantide-sylva": {
+   "f": "img/nouvelle-atlantide-sylva.webp",
+   "v": "b83e4462b9",
+   "w": 400,
+   "h": 599,
+   "l": "Le titre gravé de la *Sylva Sylvarum*, à laquelle *La Nouvelle Atlantide* fut jointe : le globe entre deux colonnes",
+   "cr": "Thomas Cecill, graveur, Londres, 1627 — Houghton Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Houghton_STC_1168_-_Bacon,_Sylva_sylvarum.jpg",
+   "pour": [
+    "la-nouvelle-atlantide"
+   ],
+   "sig": "Houghton STC 1168 - Bacon, Sylva sylvarum.jpg||400|74"
+  },
+  "ichthys-licinia": {
+   "f": "img/ichthys-licinia.webp",
+   "v": "a678b610d0",
+   "w": 400,
+   "h": 346,
+   "l": "Stèle de Licinia Amias, Rome, début du IIIe siècle : ΙΧΘΥϹ ΖΩΝΤΩΝ, « poisson des vivants », deux poissons et une ancre",
+   "cr": "Musée national romain, Thermes de Dioclétien — photographie de Marie-Lan Nguyen",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Stele_Licinia_Amias_Terme_67646.jpg",
+   "pour": [
+    "ichthys",
+    "acrostiche"
+   ],
+   "sig": "Stele Licinia Amias Terme 67646.jpg||400|74"
+  },
+  "croix-alexamene": {
+   "f": "img/croix-alexamene.webp",
+   "v": "ca0ac5b4bb",
+   "w": 394,
+   "h": 450,
+   "l": "Le graffiti d'Alexamène, Rome, vers 200 : « Alexamène adore son dieu », un crucifié à tête d'âne",
+   "cr": "Musée du Palatin, Rome",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Alexorig.jpg",
+   "pour": [
+    "croix"
+   ],
+   "sig": "Alexorig.jpg||400|74"
+  },
+  "croix-saint-andre-preti": {
+   "f": "img/croix-saint-andre-preti.webp",
+   "v": "f8b33be1ae",
+   "w": 400,
+   "h": 558,
+   "l": "*Le Crucifiement de saint André*, Mattia Preti, XVIIe siècle",
+   "cr": "Mattia Preti",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mattia_Preti_-_The_crucifixion_of_St_Andrew_-_Google_Art_Project.jpg",
+   "pour": [
+    "croix-de-saint-andre"
+   ],
+   "sig": "Mattia Preti - The crucifixion of St Andrew - Google Art Project.jpg||400|74"
+  },
+  "croix-saint-andre-caravage": {
+   "f": "img/croix-saint-andre-caravage.webp",
+   "v": "82ae7e8fde",
+   "w": 400,
+   "h": 531,
+   "l": "*Le Crucifiement de saint André*, Le Caravage, 1606-1607 : ici encore, la croix n'est pas en X",
+   "cr": "Le Caravage — Cleveland Museum of Art",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_The_Crucifixion_of_Saint_Andrew_-_Post-Restoration.jpg",
+   "pour": [
+    "croix-de-saint-andre"
+   ],
+   "sig": "Caravaggio - The Crucifixion of Saint Andrew - Post-Restoration.jpg||400|74"
+  },
+  "croix-saint-pierre-caravage": {
+   "f": "img/croix-saint-pierre-caravage.webp",
+   "v": "ec9f308132",
+   "w": 400,
+   "h": 526,
+   "l": "*Le Crucifiement de saint Pierre*, Le Caravage, vers 1600, Sainte-Marie-du-Peuple, Rome",
+   "cr": "Le Caravage",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Michelangelo_Caravaggio_038.jpg",
+   "pour": [
+    "croix-de-saint-pierre"
+   ],
+   "sig": "Michelangelo Caravaggio 038.jpg||400|74"
+  },
+  "croix-tau-vitrail": {
+   "f": "img/croix-tau-vitrail.webp",
+   "v": "2f5387be2a",
+   "w": 400,
+   "h": 600,
+   "l": "Le tau des Antonins, sur un vitrail de 1605 de l'abbaye de Saint-Antoine",
+   "cr": "Saint-Antoine-l'Abbaye, Isère — photographie d'Olivier Parent",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Tau_vitrail,_Saint-Antoine-l%27Abbaye.jpg",
+   "pour": [
+    "croix-en-tau"
+   ],
+   "sig": "Tau vitrail, Saint-Antoine-l'Abbaye.jpg||400|74"
+  },
+  "croix-lorraine-juno": {
+   "f": "img/croix-lorraine-juno.webp",
+   "v": "f9046a85ca",
+   "w": 400,
+   "h": 601,
+   "l": "La croix de Lorraine de Juno Beach, en Normandie, élevée au souvenir du retour du général de Gaulle en 1944",
+   "cr": "Photographie de Jebulon",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Croix_de_Lorraine_Juno_Beach_Calvados,_France.jpg",
+   "pour": [
+    "croix-de-lorraine"
+   ],
+   "sig": "Croix de Lorraine Juno Beach Calvados, France.jpg||400|74"
+  },
+  "croix-khatchkar": {
+   "f": "img/croix-khatchkar.webp",
+   "v": "7318a28416",
+   "w": 400,
+   "h": 533,
+   "l": "Un khatchkar, pierre à croix arménienne, devant l'église Saint-Sarkis",
+   "cr": "Photographie de Wikistreet",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Khachkar_2,_Saint_Sargis_armenian_church.jpg",
+   "pour": [
+    "croix-armenienne"
+   ],
+   "sig": "Khachkar 2, Saint Sargis armenian church.jpg||400|74"
+  },
+  "croix-ethiopienne-walters": {
+   "f": "img/croix-ethiopienne-walters.webp",
+   "v": "d45c7e66f1",
+   "w": 400,
+   "h": 568,
+   "l": "Croix de procession éthiopienne, en métal ajouré, avec sa douille pour la hampe",
+   "cr": "Éthiopie — Walters Art Museum, Baltimore",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Ethiopian_-_Processional_Cross_-_Walters_542891.jpg",
+   "pour": [
+    "croix-ethiopienne"
+   ],
+   "sig": "Ethiopian - Processional Cross - Walters 542891.jpg||400|74"
+  },
+  "croix-muiredach": {
+   "f": "img/croix-muiredach.webp",
+   "v": "42ad28f06b",
+   "w": 400,
+   "h": 599,
+   "l": "Les hautes croix de Monasterboice, en Irlande, couvertes de scènes bibliques",
+   "cr": "Monasterboice, comté de Louth",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Muiredach%27s_Cross,_north_side,_1987.jpg",
+   "pour": [
+    "croix-celtique",
+    "croix-monumentale"
+   ],
+   "sig": "Muiredach's Cross, north side, 1987.jpg||400|74"
+  },
+  "croix-huguenote-arcachon": {
+   "f": "img/croix-huguenote-arcachon.webp",
+   "v": "a22ea8d7f3",
+   "w": 400,
+   "h": 424,
+   "l": "Une croix huguenote dans un vitrail, à Arcachon",
+   "cr": "Photographie de Hypsibius",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Arcachon_croix_huguenote2.jpg",
+   "pour": [
+    "croix-huguenote"
+   ],
+   "sig": "Arcachon croix huguenote2.jpg||400|74"
+  },
+  "croix-malte-wignacourt": {
+   "f": "img/croix-malte-wignacourt.webp",
+   "v": "4f0f36ea56",
+   "w": 400,
+   "h": 579,
+   "l": "Alof de Wignacourt, grand maître de l'ordre de Malte, par Le Caravage, 1607-1608",
+   "cr": "Le Caravage — musée du Louvre",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Caravage_-_Portrait_d%27Alof_de_Wignacourt.jpg",
+   "pour": [
+    "croix-de-malte"
+   ],
+   "sig": "Le Caravage - Portrait d'Alof de Wignacourt.jpg||400|74"
+  },
+  "croix-tannhauser-manesse": {
+   "f": "img/croix-tannhauser-manesse.webp",
+   "v": "7226f52063",
+   "w": 400,
+   "h": 587,
+   "l": "Le poète Tannhäuser, en habit de l'ordre Teutonique, avec la croix noire sur le manteau blanc",
+   "cr": "*Codex Manesse*, vers 1305-1340 — bibliothèque de Heidelberg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Manesse_Tannh%C3%A4user.jpg",
+   "pour": [
+    "croix-teutonique"
+   ],
+   "sig": "Codex Manesse Tannhäuser.jpg||400|74"
+  },
+  "croix-gama-armada": {
+   "f": "img/croix-gama-armada.webp",
+   "v": "c7629099b4",
+   "w": 520,
+   "h": 270,
+   "l": "Caraques portugaises au large d'une côte rocheuse, la croix de l'ordre du Christ sur les voiles",
+   "cr": "École flamande, vers 1540 — National Maritime Museum, Greenwich",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Portuguese_Carracks_off_a_Rocky_Coast.jpg",
+   "pour": [
+    "croix-de-l-ordre-du-christ"
+   ],
+   "sig": "Portuguese Carracks off a Rocky Coast.jpg||520|74"
+  },
+  "croix-velazquez-santiago": {
+   "f": "img/croix-velazquez-santiago.webp",
+   "v": "ebcad0f0f7",
+   "w": 400,
+   "h": 600,
+   "l": "Velázquez dans *Les Ménines* (1656), la croix de Santiago ajoutée sur sa poitrine après 1659",
+   "cr": "Diego Velázquez — musée du Prado",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Las_Meninas_-_Selfportrait.jpg",
+   "pour": [
+    "croix-de-saint-jacques"
+   ],
+   "sig": "Diego Velázquez - Las Meninas - Selfportrait.jpg||400|74"
   }
  },
  "planches": {

@@ -6665,3 +6665,123 @@ commons: Rhinegold and the Valkyries p 010.jpg
 legende: Les filles du Rhin se moquent d'Alberich, au début de *L'Or du Rhin*
 credit: Arthur Rackham, 1910 — *The Rhinegold & the Valkyrie*, Londres, Heinemann
 pour: l-anneau-du-nibelung
+
+% Version 1.14 : le musée Moreau, La Nouvelle Atlantide, l'ichthys
+
+= musee-moreau-atelier
+commons: Paris Musee Gustave-Moreau 4.jpg
+legende: Le grand atelier du deuxième étage, musée Gustave-Moreau, où les toiles couvrent les murs
+credit: Photographie d'Andreas Praefcke
+pour: musee-gustave-moreau
+
+= musee-moreau-facade
+commons: Hotel Gustave Moreau.jpg
+legende: La façade de la maison de Gustave Moreau, rue de La Rochefoucauld
+credit: Photographie de Tangopaso
+pour: musee-gustave-moreau
+
+= nouvelle-atlantide-titre
+commons: Bacon 1628 New Atlantis title page wpreview.png
+legende: *New Atlantis. A Worke unfinished* : la page de titre de l'édition de 1628
+credit: Francis Bacon, Londres, 1628
+pour: la-nouvelle-atlantide
+recadrer: 0.05 0.01 0.95 0.97
+
+= nouvelle-atlantide-sylva
+commons: Houghton STC 1168 - Bacon, Sylva sylvarum.jpg
+legende: Le titre gravé de la *Sylva Sylvarum*, à laquelle *La Nouvelle Atlantide* fut jointe : le globe entre deux colonnes
+credit: Thomas Cecill, graveur, Londres, 1627 — Houghton Library
+pour: la-nouvelle-atlantide
+
+= ichthys-licinia
+commons: Stele Licinia Amias Terme 67646.jpg
+legende: Stèle de Licinia Amias, Rome, début du IIIe siècle : ΙΧΘΥϹ ΖΩΝΤΩΝ, « poisson des vivants », deux poissons et une ancre
+credit: Musée national romain, Thermes de Dioclétien — photographie de Marie-Lan Nguyen
+pour: ichthys, acrostiche
+
+% Version 1.14 : les croix
+
+= croix-alexamene
+commons: Alexorig.jpg
+legende: Le graffiti d'Alexamène, Rome, vers 200 : « Alexamène adore son dieu », un crucifié à tête d'âne
+credit: Musée du Palatin, Rome
+pour: croix
+
+= croix-saint-andre-preti
+commons: Mattia Preti - The crucifixion of St Andrew - Google Art Project.jpg
+legende: *Le Crucifiement de saint André*, Mattia Preti, XVIIe siècle
+credit: Mattia Preti
+pour: croix-de-saint-andre
+
+= croix-saint-andre-caravage
+commons: Caravaggio - The Crucifixion of Saint Andrew - Post-Restoration.jpg
+legende: *Le Crucifiement de saint André*, Le Caravage, 1606-1607 : ici encore, la croix n'est pas en X
+credit: Le Caravage — Cleveland Museum of Art
+pour: croix-de-saint-andre
+
+= croix-saint-pierre-caravage
+commons: Michelangelo Caravaggio 038.jpg
+legende: *Le Crucifiement de saint Pierre*, Le Caravage, vers 1600, Sainte-Marie-du-Peuple, Rome
+credit: Le Caravage
+pour: croix-de-saint-pierre
+
+= croix-tau-vitrail
+commons: Tau vitrail, Saint-Antoine-l'Abbaye.jpg
+legende: Le tau des Antonins, sur un vitrail de 1605 de l'abbaye de Saint-Antoine
+credit: Saint-Antoine-l'Abbaye, Isère — photographie d'Olivier Parent
+pour: croix-en-tau
+
+= croix-lorraine-juno
+commons: Croix de Lorraine Juno Beach Calvados, France.jpg
+legende: La croix de Lorraine de Juno Beach, en Normandie, élevée au souvenir du retour du général de Gaulle en 1944
+credit: Photographie de Jebulon
+pour: croix-de-lorraine
+
+= croix-khatchkar
+commons: Khachkar 2, Saint Sargis armenian church.jpg
+legende: Un khatchkar, pierre à croix arménienne, devant l'église Saint-Sarkis
+credit: Photographie de Wikistreet
+pour: croix-armenienne
+
+= croix-ethiopienne-walters
+commons: Ethiopian - Processional Cross - Walters 542891.jpg
+legende: Croix de procession éthiopienne, en métal ajouré, avec sa douille pour la hampe
+credit: Éthiopie — Walters Art Museum, Baltimore
+pour: croix-ethiopienne
+
+= croix-muiredach
+commons: Muiredach's Cross, north side, 1987.jpg
+legende: Les hautes croix de Monasterboice, en Irlande, couvertes de scènes bibliques
+credit: Monasterboice, comté de Louth
+pour: croix-celtique, croix-monumentale
+
+= croix-huguenote-arcachon
+commons: Arcachon croix huguenote2.jpg
+legende: Une croix huguenote dans un vitrail, à Arcachon
+credit: Photographie de Hypsibius
+pour: croix-huguenote
+
+= croix-malte-wignacourt
+commons: Le Caravage - Portrait d'Alof de Wignacourt.jpg
+legende: Alof de Wignacourt, grand maître de l'ordre de Malte, par Le Caravage, 1607-1608
+credit: Le Caravage — musée du Louvre
+pour: croix-de-malte
+
+= croix-tannhauser-manesse
+commons: Codex Manesse Tannhäuser.jpg
+legende: Le poète Tannhäuser, en habit de l'ordre Teutonique, avec la croix noire sur le manteau blanc
+credit: *Codex Manesse*, vers 1305-1340 — bibliothèque de Heidelberg
+pour: croix-teutonique
+
+= croix-gama-armada
+commons: Portuguese Carracks off a Rocky Coast.jpg
+legende: Caraques portugaises au large d'une côte rocheuse, la croix de l'ordre du Christ sur les voiles
+credit: École flamande, vers 1540 — National Maritime Museum, Greenwich
+pour: croix-de-l-ordre-du-christ
+largeur: 520
+
+= croix-velazquez-santiago
+commons: Diego Velázquez - Las Meninas - Selfportrait.jpg
+legende: Velázquez dans *Les Ménines* (1656), la croix de Santiago ajoutée sur sa poitrine après 1659
+credit: Diego Velázquez — musée du Prado
+pour: croix-de-saint-jacques

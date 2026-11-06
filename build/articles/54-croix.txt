@@ -1,0 +1,507 @@
+# La rubrique Croix (version 1.14) : les formes, les Églises, les ordres de
+# chevalerie, le blason, les monogrammes. Les dessins sont dans js/figures/croix.js.
+
+@ croix
+cat: croix
+nom: Croix
+alias: la croix, crux, stauros, croix chrétienne, symbole de la croix, porter sa croix, faire une croix, la croix et la bannière, croix de bois croix de fer, patibulum, croix enveloppée
+glyphe: croix-latine
+schema: croix
+def: Deux traits qui se coupent : l'un des signes les plus simples et les plus anciens, gibet romain devenu le symbole du christianisme, emblème des ordres, des États et des blasons, et, pour les auteurs ésotériques, image du monde et de ses quatre directions.
+texte: Le mot vient du latin *crux*, le gibet, la potence ; dès Plaute, au IIe siècle avant notre ère, il entre dans des locutions proverbiales et prend le sens de torture morale. Le grec des Évangiles dit *stauros*, le pieu. Le supplice, réservé dans le monde romain aux esclaves et aux non-citoyens, est fait pour humilier : on attache le condamné à une traverse, le *patibulum*, que l'on fixe à un poteau peu élevé. Les techniques ont varié selon les époques et les régions, et les textes anciens ne donnent pas une forme unique.
+texte: Les premiers chrétiens la montrent peu. Un graffiti romain des environs de l'an 200 raille un certain Alexamène, qui adore un crucifié à tête d'âne ; vers 204, Tertullien rapporte que les chrétiens se tracent une croix sur le front ([[signe-de-croix|signe de croix]]), et le païen de Minucius Félix les accuse d'adorer un gibet. Elle ne devient leur emblème principal qu'au IVe siècle : [[constantin|Constantin]] prend d'abord le [[chrisme]], puis la tradition place vers 326 la découverte de la [[legende-de-la-vraie-croix|Vraie Croix]] par sa mère Hélène. Le corps du Christ n'y paraît que plus tard : c'est le [[crucifix]].
+texte: Chaque Église, chaque ordre, chaque pays a ensuite dessiné la sienne. On la lit dans le plan des églises ([[croix-latine|croix latine]], [[croix-grecque|croix grecque]]), aux carrefours et dans les cimetières ([[croix-monumentale|croix monumentales]]), sur le manteau des chevaliers ([[croix-des-ordres-militaires|ordres militaires]]), dans les [[croix-heraldiques|blasons]] et sur les drapeaux. Hors du christianisme, on connaît la [[croix-ansee|croix ansée]] des Égyptiens, le [[svastika]], la [[roue-solaire|croix solaire]], le [[lauburu]] basque, la [[croix-d-agadez|croix d'Agadez]] des Touaregs et, en Nouvelle-Calédonie, la croix enveloppée de l'art kanak, gravée sur les pétroglyphes, sculptée sur bois ou tatouée sur l'épaule, dont le sens reste obscur.
+texte: Les dictionnaires de symboles en font la base de tous les signes d'orientation : ses branches indiquent les [[quatre|quatre]] points cardinaux, la verticale relie le ciel et la terre, l'horizontale met en rapport les équinoxes et les solstices, et le point de rencontre unit les contraires. Pour les alchimistes, écrivent-ils, la branche dressée figure le principe masculin, la branche couchée le principe féminin, et leur conjonction la vie ; les signes du [[soufre]] et de l'[[antimoine]] portent une croix, et la [[monade]] de [[john-dee|John Dee]] en fait un de ses éléments. Les [[rose-croix|Rose-Croix]] lui unissent [[la-rose|la rose]] ; [[rene-guenon|René Guénon]] en tire tout un traité, *[[le-symbolisme-de-la-croix|Le Symbolisme de la croix]]*. Ce sont là des lectures, datées et signées, et non « le » sens d'un signe que tant de peuples ont tracé pour tant de raisons.
+texte: Le signe sert aussi à écrire et à compter : c'est le X de notre alphabet et le khi des Grecs, le dix des Romains, héritier de l'entaille des bergers, le « + » de l'addition, en usage depuis la fin du XVe siècle, et l'[[obele|obèle]] des typographes. La langue l'a gardé : on *porte sa croix*, on *fait une croix* sur ce qu'on abandonne, c'est *la croix et la bannière* quand tout est difficile, et les enfants jurent *croix de bois, croix de fer, si je mens je vais en enfer*.
+repere: vers 200 — Le graffiti d'Alexamène, sur le Palatin, à Rome.
+repere: vers 204 — Tertullien atteste que les chrétiens se signent le front.
+repere: 312 — Bataille du pont Milvius : Constantin adopte le chrisme.
+repere: vers 326 — Date que la tradition donne à la découverte de la Vraie Croix.
+repere: 1095 — Concile de Clermont : les premiers croisés se cousent une croix sur l'épaule.
+extrait: CROIX, s. f. (Hist.) instrument composé de deux pieces de bois, qui se coupent & se traversent ordinairement à angles droits. ¶ La croix étoit anciennement le supplice des malfaiteurs & des esclaves. On la plantoit en differens endroits pour inspirer de la terreur aux scélérats, comme on faisoit autrefois les estrapades, & comme on fait encore aujourd’hui en quelques occasions les potences. Selon Sozomene, Constantin converti au Christianisme abolit le premier le supplice de la croix, qui jusque-là avoit toûjours été en usage chez les Romains. Il l’avoit aussi été chez les Assyriens, les Egyptiens, les Perses, les Carthaginois, & même les Grecs, comme il paroît par les auteurs profanes.
+source: *L’Encyclopédie*, t. IV, article « Croix » | ws L’Encyclopédie/1re édition/CROIX
+extrait: Car la prédication de la croix est une folie pour ceux qui périssent ; mais pour nous qui sommes sauvés, elle est une puissance de Dieu.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Première épître aux Corinthiens, chap. I, verset 18 | ws Bible Segond 1910/Première épître aux Corinthiens
+voir: croix-latine, croix-grecque, croix-des-ordres-militaires, croix-heraldiques, crucifix, signe-de-croix, legende-de-la-vraie-croix, chrisme, le-symbolisme-de-la-croix, quatre, rose-croix, croix-ansee, svastika, ichthys
+
+@ croix-latine
+cat: croix
+nom: Croix latine
+alias: crux immissa, croix christique, croix d'Occident, plan en croix latine
+glyphe: croix-latine
+schema: croix/latine
+def: Croix dont la branche basse est plus longue que les trois autres : la forme du gibet tel que l'Occident le représente depuis le Moyen Âge, aujourd'hui le signe de presque toutes les Églises chrétiennes.
+texte: Les Latins l'appellent *crux immissa*, parce que le montant dépasse la traverse. Sa forme est celle que peintres et sculpteurs ont donnée à la Crucifixion, et c'est par eux qu'elle s'est imposée comme le signe principal du catholicisme, du protestantisme et des Églises évangéliques. Les [[crucifix|crucifix]] en reprennent le dessin, et les plus grandes croix du monde aussi, à commencer par celle de 150 mètres du Valle de los Caídos, en Espagne ([[croix-monumentale|croix monumentales]]).
+texte: Son empreinte se lit surtout au sol. Dans le plan des églises d'Occident, la nef répond au long montant, le transept à la traverse, le chœur à la tête. Les auteurs médiévaux y ont vu le corps même du Christ, Durand de Mende et les liturgistes en tête, et [[joris-karl-huysmans|Huysmans]] a popularisé l'idée que la déviation de l'axe de certaines cathédrales imite sa tête penchée ; les archéologues l'expliquent plus souvent par les contraintes du chantier. Dans les livres, l'[[obele|obèle]], qui lui ressemble, signale les morts.
+extrait: Jésus est mort ; son crâne est l’autel, ses bras étendus sont les deux allées du transept ; ses mains percées sont les portes ; ses jambes sont cette nef où nous sommes et ses pieds troués sont le porche par lequel nous venons d’entrer. Regardez maintenant la déviation systématique de l’axe de cette église ; elle imite l’attitude du corps affaissé sur le bois du supplice, et dans certaines cathédrales, telles que celle de Reims, l’exiguïté, l’étranglement du sanctuaire et du chœur par rapport à la nef, simule d’autant mieux le chef et le cou de l’homme tombés sur l’épaule, après qu’il a rendu l’âme.
+source: Joris-Karl Huysmans, *La Cathédrale*, 1898, chap. VI | ws La Cathédrale (Huysmans)/VI
+voir: croix, croix-grecque, crucifix, croix-de-saint-pierre, croix-monumentale, gothique, chartres, joris-karl-huysmans, obele
+
+@ croix-grecque
+cat: croix
+nom: Croix grecque
+alias: croix à branches égales, plan en croix grecque, croix de la Croix-Rouge
+glyphe: croix-grecque
+schema: croix/grecque
+def: Croix aux quatre branches égales, qui se croisent en leur milieu : le plan des églises byzantines coiffées d'une coupole, et la forme dont dérivent la plupart des croix du blason.
+texte: C'est la croix la plus simple, celle qu'on trouve déjà sur les plus anciens édifices chrétiens : Viollet-le-Duc note que les plus anciennes croix sculptées ont presque toujours quatre branches égales. Dans l'empire d'Orient, le plan basilical cède la place, à partir du Ve siècle, à un plan centré en croix libre, sous une coupole ; il reste celui des églises orthodoxes jusqu'à Saint-Sava de Belgrade, dessinée en 1939. L'Occident l'a reçu par ses ports, à Saint-Marc de Venise ou à la cathédrale d'Ancône, et l'architecture profane le reprend au château de Chambord.
+texte: Elle est la base de [[croix-heraldiques|presque toutes les croix du blason]], qui n'en varient que les extrémités, et de maints emblèmes : la [[croix-de-saint-georges|croix de saint Georges]], la [[croix-scandinave|croix scandinave]], ou le drapeau suisse, dont la Croix-Rouge a repris le dessin en en inversant les couleurs. Le signe « + » de l'addition lui ressemble, mais il vient d'une abréviation du latin *et*. Ses branches égales en font, chez les auteurs de symboles, l'image de la Terre et de ses [[quatre]] orients.
+voir: croix, croix-latine, croix-heraldiques, croix-de-saint-georges, croix-scandinave, croix-de-malte, quatre
+
+@ croix-de-saint-andre
+cat: croix
+nom: Croix de saint André
+alias: sautoir, crux decussata, croix décussée, croix en X, saltire, saint André, Andrew's cross
+glyphe: croix-en-x
+schema: croix/saint-andre
+def: Croix en forme de X, sur laquelle la tradition fait mourir l'apôtre André, frère de Pierre : le sautoir du blason, emblème de l'Écosse, de la Bourgogne, de la marine russe, et pièce de charpente qui raidit les colombages.
+texte: Les textes anciens ne parlent pas d'un X : *La [[legende-doree|Légende dorée]]* fait lier André « par les mains et les pieds » à une croix qu'il salue longuement, à Patras, sans en dire la forme. La croix en X apparaît au Xe siècle et reste rare jusqu'au XIVe ; un vitrail de Bourges donne encore à l'apôtre une croix latine, et [[joris-karl-huysmans|Huysmans]] s'amuse d'en trouver une à Chartres. On a pu l'imaginer en pendant à la [[croix-de-saint-pierre|croix renversée]] de son frère. C'est surtout l'art bourguignon qui l'a imposée, et elle ne s'est pas imposée à tous : à Naples, en 1607, le Caravage cloue encore l'apôtre à une croix ordinaire, quand Mattia Preti, quelques décennies plus tard, peint le grand X que l'on attend.
+texte: André étant le patron de plusieurs princes, son sautoir devient un signe d'identité : blanc sur bleu pour l'Écosse, où il entre dans le drapeau britannique ; bleu sur blanc pour la marine de guerre russe ; rouge pour les ducs de Bourgogne, dont le cri est « Montjoie Saint-André » et dont la [[croix-de-bourgogne|croix noueuse]] passe à l'Espagne ; on le trouve en Franche-Comté comme chez les carlistes. Par analogie de forme, on appelle aussi croix de saint André les deux pièces de bois croisées qui empêchent un pan de colombage ou une charpente de se déformer.
+extrait: Puis, du plus loin qu’il aperçut la croix, il la salua, disant : « Salut, croix, qui as été sanctifiée par le corps du Christ, et ornée de ses membres comme de pierres précieuses ! Avant que le Seigneur fût attaché sur toi, tu inspirais la peur terrestre ; mais, désormais, tu obtiens l’amour céleste, et l’on te souhaite comme un bienfait. Aussi vais-je à toi assuré et joyeux, pour que tu m’accueilles amicalement, moi, le disciple de Celui qu’on a pendu sur toi : car je t’ai toujours aimée, et ai aspiré à ton embrassement.
+source: Jacques de Voragine, *La Légende dorée*, « Saint André », trad. Teodor de Wyzewa, Perrin, 1910 | ws La Légende dorée/Saint André
+voir: croix, croix-de-saint-pierre, croix-de-bourgogne, legende-doree, croix-heraldiques, croix-de-saint-georges
+
+@ croix-de-saint-pierre
+cat: croix
+nom: Croix de saint Pierre
+alias: croix renversée, croix inversée, croix de Néron, crux inversa, martyre de saint Pierre
+glyphe: croix-renversee
+schema: croix/saint-pierre
+def: Croix latine renversée, en souvenir de l'apôtre Pierre, crucifié la tête en bas sur sa demande : signe d'humilité et de la papauté dans la tradition chrétienne, signe d'opposition au christianisme dans le cinéma d'horreur et le metal.
+texte: La tradition remonte aux *Actes de Pierre*, apocryphe de la fin du IIe ou du début du IIIe siècle, et à Origène, que cite Eusèbe de Césarée : Pierre, condamné à Rome sous Néron, se serait jugé indigne de mourir comme son maître. La croix renversée est donc d'abord un symbole catholique, associé à Pierre et à ses successeurs : quand Jean-Paul II visite Israël, en 2000, elle est sculptée au dossier de son trône. Le Caravage en a tiré, pour Sainte-Marie-du-Peuple, l'une de ses toiles les plus physiques.
+texte: Comme elle inverse le signe principal du christianisme, on l'emploie aussi pour dire le contraire. Le cinéma l'a associée à Satan, de *Rosemary's Baby* à *La Malédiction* et à *Conjuring*, et le black metal l'arbore à son tour.
+attention: La croix renversée n'est pas par elle-même un signe satanique : pour l'Église catholique, c'est toujours celle de Pierre.
+extrait: Pierre paraît avoir prêché dans le Pont, en Galatie, en Bithynie, en Cappadoce et en Asie aux juifs de la dispersion. Venu lui aussi à Rome en dernier lieu, il y fut crucifié la tête en bas, ayant demandé de souffrir ainsi.
+source: Eusèbe de Césarée, *Histoire ecclésiastique*, III, 1, citant Origène, trad. Émile Grapin, 1905 | ws Histoire Ecclésiastique/Livre 3/Chapitre 1
+voir: croix, croix-latine, croix-de-saint-andre, croix-papale, apocalypse
+
+@ croix-en-tau
+cat: croix
+nom: Croix en tau
+alias: tau, croix de saint Antoine, crux commissa, thau, tav, Antonins, saint François d'Assise, mal des ardents
+glyphe: croix-tau
+schema: croix/tau
+def: Croix en forme de T, sans tête : la lettre tau des Grecs et le tav des Hébreux, marque des justes chez Ézéchiel, emblème des Antonins et signature de saint François d'Assise.
+texte: Le prophète Ézéchiel voit un homme marquer le front des justes de Jérusalem d'un *tav*, la dernière lettre de l'alphabet hébreu, que l'on traduit par « marque ». Les chrétiens y ont lu l'annonce de leur croix, d'autant qu'en grec le T vaut trois cents : dès l'*Épître de Barnabé*, puis chez [[clement-d-alexandrie|Clément d'Alexandrie]], l'[[isopsephie]] voit dans les 318 serviteurs d'Abraham la croix (T = 300) et les deux premières lettres de Jésus (ΙΗ = 18). Le pape Innocent III l'invoque à l'ouverture du concile de Latran de 1215 : « Soyez les champions du Tau et de la croix ! »
+texte: C'est la croix des Antonins, religieux hospitaliers qui, depuis Saint-Antoine-l'Abbaye en Dauphiné, soignaient les malades du « mal des ardents » : ils la portaient sur leur robe, et son tracé rappelle la béquille des infirmes. François d'Assise en signe ses lettres et en bénit frère Léon ; il la peint sur les murs de l'ermitage de Fonte Colombo, et elle reste l'emblème de la famille franciscaine. Les chantres d'Éthiopie dansent avec un bâton de prière en tau. Quand [[jules-doinel|Jules Doinel]] fonde à la fin du XIXe siècle l'[[eglise-gnostique|Église gnostique]], ses évêques prennent ce signe et font précéder leur nom du mot « Tau ».
+repere: 1215 — Innocent III prêche le Tau au quatrième concile de Latran.
+repere: vers 1223 — François d'Assise écrit sa Règle à Fonte Colombo, où un tau est peint de sa main.
+extrait: L’Éternel lui dit : Passe au milieu de la ville, au milieu de Jérusalem, et fais une marque sur le front des hommes qui soupirent et qui gémissent à cause de toutes les abominations qui s’y commettent. Et, à mes oreilles, il dit aux autres : Passez après lui dans la ville, et frappez ; que votre œil soit sans pitié, et n’ayez point de miséricorde ! Tuez, détruisez les vieillards, les jeunes hommes, les vierges, les enfants et les femmes ; mais n’approchez pas de quiconque aura sur lui la marque.
+source: *La Sainte Bible*, trad. Louis Segond, 1910, Ézéchiel, chap. IX, versets 4-6 | ws Bible Segond 1910/Livre d’Ézéchiel
+voir: croix, croix-latine, croix-ansee, isopsephie, clement-d-alexandrie, eglise-gnostique, jules-doinel, croix-ethiopienne
+
+@ croix-de-lorraine
+cat: croix
+nom: Croix de Lorraine
+alias: croix d'Anjou, croix patriarcale, croix archiépiscopale, croix à double traverse, croix double, croix de la France libre, Vraie Croix d'Anjou, croix de Hongrie
+glyphe: croix-double
+schema: croix/lorraine
+def: Croix à deux traverses, la seconde figurant l'écriteau de Pilate : croix d'Anjou, des archevêques, des ducs de Lorraine et des rois de Hongrie, devenue en 1940 l'emblème de la France libre.
+texte: Elle représente la [[legende-de-la-vraie-croix|Vraie Croix]] avec son écriteau, le *titulus* où Pilate fit écrire INRI ; on la nomme aussi croix patriarcale, et dans les blasons elle signale un archevêque. Les croisades en répandent le culte. L'abbaye de la Boissière, en Anjou, acquiert en 1244 un fragment venu de Constantinople ; Louis Ier d'Anjou le vénère au point de faire poser ce signe sur sa bannière et au-dessus des grands personnages de la [[tenture-de-l-apocalypse|tenture de l'Apocalypse]]. Une croix double est aussi l'emblème des rois de Hongrie, sur leurs monnaies depuis Béla III : elle reste sur les armes de la Hongrie, de la Slovaquie et de la Lituanie. [[rene-d-anjou|René d'Anjou]], héritier de ces deux traditions et duc de Lorraine en 1431, la transmet à ce duché.
+texte: Le 1er juillet 1940, à Londres, le vice-amiral Muselier propose à de Gaulle, en présence de Thierry d'Argenlieu, de l'adopter pour emblème, en opposition à la croix gammée ; son ordre du 3 juillet en fait le signe des forces navales et aériennes françaises libres, puis les Forces françaises de l'intérieur la reprennent. Elle est aujourd'hui l'emblème du gaullisme, et le mémorial de Colombey-les-Deux-Églises en a dressé une immense sur la colline. Au XXe siècle, elle a aussi servi d'emblème international à la lutte contre la tuberculose. [[joris-karl-huysmans|Huysmans]] note que l'abbatiale de Cluny, avec ses deux transepts, en dessine le plan.
+repere: 1244 — L'abbaye de la Boissière, en Anjou, acquiert la relique de la Vraie Croix.
+repere: 1431 — René d'Anjou devient duc de Lorraine.
+repere: 1940 — Le 3 juillet, Muselier en fait l'emblème des Français libres.
+repere: 1972 — Le mémorial de Colombey-les-Deux-Églises.
+voir: croix, legende-de-la-vraie-croix, rene-d-anjou, tenture-de-l-apocalypse, croix-papale, croix-orthodoxe, croix-de-jerusalem
+
+@ croix-papale
+cat: croix
+nom: Croix papale
+alias: croix pontificale, croix à trois traverses, férule papale, férule, férule pontificale, triple croix
+glyphe: croix-triple
+schema: croix/papale
+def: Croix à trois traverses, de plus en plus courtes vers le haut, emblème de la fonction de pape dans le blason : elle ajoute une traverse à la croix des archevêques, comme la tiare superpose trois couronnes.
+texte: Elle apparaît surtout dans les blasons, la statuaire et l'iconographie, où elle marque un rang supérieur à celui d'archevêque, à qui revient la [[croix-de-lorraine|croix à deux traverses]]. On rapporte ses trois barres à celles de la tiare et aux trois pouvoirs du pape : d'ordre, de juridiction et de magistère. Une pomme de pin, symbole de vie éternelle, en orne souvent le pied.
+texte: Elle est bien plus un dessin qu'un objet. Le bâton pastoral n'appartient pas aux insignes traditionnels du pape : quand il en porte un, c'est une férule, surmontée d'une croix simple. Paul VI inaugure en 1965 celle de l'orfèvre Lello Scorzelli, avec un crucifix ; Benoît XVI prend en 2008 une croix de Pie IX, puis, en 2009, une férule offerte par le Cercle Saint-Pierre ; François en a porté une de bois, faite de barques naufragées, à Lampedusa, en 2013. Les rares croix à trois traverses qui existent sont des croix de procession, tenues pour franchir la Porte sainte.
+voir: croix, croix-de-lorraine, croix-de-saint-pierre, croix-orthodoxe
+
+@ croix-orthodoxe
+cat: croix
+nom: Croix orthodoxe
+alias: croix russe, croix à huit pointes, croix byzantine, bon larron, mauvais larron, croix slave
+glyphe: croix-orthodoxe
+schema: croix/orthodoxe
+def: Croix à trois traverses : l'écriteau de Pilate, les bras du Christ et, en bas, l'appui de ses pieds, en biais dans la tradition russe, qui monte vers le bon larron et descend vers le mauvais.
+texte: La traverse du haut figure l'écriteau, la plus longue reçoit les bras, et la dernière le repose-pieds, qui manque aux croix d'Occident. D'après la coutume russe, celle-ci penche vers la droite de qui la regarde, là où se tenait le mauvais larron, et désigne ainsi l'enfer, tandis que son autre bout se relève vers le paradis, du côté du bon larron. L'Église grecque, elle, la laisse droite. On la nomme aussi croix à huit pointes, à cause des extrémités de ses branches.
+texte: Le dessin diffère de la [[croix-de-lorraine|croix patriarcale]] par ce seul appui des pieds. Il est celui des Églises de Russie, de Serbie, de Pologne, de Tchéquie et de Slovaquie, et des blasons de l'Orient orthodoxe.
+voir: croix, croix-de-lorraine, croix-papale, croix-serbe, raspoutine, starets
+
+@ croix-armenienne
+cat: croix
+nom: Croix arménienne
+alias: croix fleurie, khatchkar, khachkar, pierre à croix, Haykakan khatch
+schema: croix/armenienne
+def: Croix aux extrémités fleuries, symbole du christianisme arménien depuis le VIe siècle : sculptée sur les khatchkars, les « pierres à croix » que l'UNESCO a inscrites en 2010 au patrimoine immatériel de l'humanité.
+texte: Le plus souvent latine et légèrement pattée, elle s'achève à chaque branche par deux lobes qui s'enroulent comme des feuilles : on l'appelle aussi « croix fleurie », et l'on y a vu la croix devenue arbre de vie. Le [[crucifix]] n'est pas d'usage dans l'Église apostolique arménienne, qui présente la croix sans le corps du Christ.
+texte: Elle trouve sa forme la plus célèbre sur le *khatchkar*, stèle de pierre qui se dresse dans les cimetières, près des églises ou au bord des routes, finement ciselée d'entrelacs : il en existe des milliers, et l'art s'en transmet encore. Le 17 novembre 2010, l'UNESCO a inscrit sur sa liste du patrimoine culturel immatériel « l'art des croix de pierre arméniennes, symbolisme et savoir-faire des khatchkars ».
+repere: VIe siècle — La croix fleurie apparaît comme symbole du christianisme arménien.
+repere: 2010 — Le 17 novembre, l'art des khatchkars est inscrit par l'UNESCO.
+voir: croix, croix-latine, croix-copte, croix-monumentale, crucifix
+
+@ croix-copte
+cat: croix
+nom: Croix copte
+alias: croix de l'Église copte, croix tréflée copte, tatouage copte, croix d'Égypte
+schema: croix/copte
+def: Croix de l'Église d'Égypte : deux barres égales dont chaque extrémité se divise en trois pointes, soit douze pointes pour les apôtres, souvent autour d'un cercle ; les Coptes l'ont longtemps dessinée d'après l'ânkh des temples.
+texte: Le nom recouvre plusieurs dessins. Le plus courant, dans l'Église copte orthodoxe, dérive de la croix grecque : deux traits égaux, trois pointes à chaque bout pour la Trinité, douze pointes au total pour les apôtres, et souvent un cercle au centre, nimbe du Christ et image de l'amour éternel de Dieu. Plus anciennement, les chrétiens d'Égypte ont repris la [[croix-ansee|croix ansée]] des pharaons, qu'on voit gravée sur les murs du temple de [[philae|Philæ]] devenu église, et les tissus coptes en gardent le souvenir.
+texte: Beaucoup de Coptes se font tatouer cette croix à l'intérieur du poignet droit, signe de foi qui les distingue dans une Égypte très majoritairement musulmane. Une variante moderne, à trois barres se coupant à angle droit dans l'espace, couronne depuis 1984 le siège de la Conférence des Églises de toute l'Afrique, à Nairobi.
+voir: croix, croix-ansee, croix-ethiopienne, croix-armenienne, philae, trois, douze
+
+@ croix-ethiopienne
+cat: croix
+nom: Croix éthiopienne
+alias: croix d'Abyssinie, croix de Lalibela, croix de Gondar, croix d'Axoum, croix de procession
+schema: croix/ethiopienne
+def: Croix de l'Église d'Éthiopie, faite d'un entrelacs de métal ajouré que chaque artisan dessine à sa manière : pendentif des fidèles, croix à main du prêtre, grande croix de procession.
+texte: Il faudrait dire « les » croix éthiopiennes, car elles varient selon la région et la ville ; on distingue d'ordinaire les styles de Lalibela, de Gondar et d'Axoum. Elles se présentent sous trois formes : le pendentif, la croix manuelle avec laquelle le prêtre bénit, et l'imposante croix de procession, percée d'une douille pour être fixée à une hampe et portée dans les cérémonies. Les plus anciennes sont de fer, de cuivre ou de bronze.
+texte: Leur marque est la dentelle : un treillis de lignes entrecroisées, où l'on voit la vie éternelle. Il n'y en a pas deux pareilles, les artisans ayant toute liberté de forme et de motif. Les chantres, de leur côté, rythment leurs chants d'un bâton de prière en [[croix-en-tau|tau]].
+voir: croix, croix-copte, croix-en-tau, croix-armenienne, arche-d-alliance
+
+@ croix-celtique
+cat: croix
+nom: Croix celtique
+alias: croix nimbée, haute croix, high cross, croix de Kells, croix de Monasterboice, croix eucharistique, Celtic Revival
+glyphe: croix-celtique
+schema: croix/celtique
+def: Croix dont les branches dépassent d'un anneau, symbole du christianisme celtique, dressée dès le VIIe siècle en Irlande et en Grande-Bretagne sous la forme des hautes croix de pierre.
+texte: Dans les pays celtiques, où la croix n'est plus seulement un ornement ou un objet liturgique, elle devient dès le VIIe siècle un monument auprès duquel, à défaut d'église, on célèbre le culte. Les plus connues se dressent en Irlande, à Kells et à Monasterboice ; on en trouve aussi en Écosse, au pays de Galles et en Cornouailles, et quelques-unes en France. L'anneau semble avoir d'abord consolidé les branches, avant de devenir un motif pour lui-même. La Réforme met fin à cet art : l'une des dernières est, vers 1515, la croix dite de MacLean, sur l'île d'Iona.
+texte: Dans les années 1850, le « Celtic Revival » la remet à la mode dans la bijouterie et l'image ; à la fin du siècle, elle orne les tombes des émigrés irlandais et écossais, signe de reconnaissance de leurs origines, puis se répand en Irlande. On l'a dite païenne et solaire, sans preuve ; elle ne doit pas être confondue avec la [[roue-solaire|croix solaire]], où les branches ne dépassent pas.
+attention: Sous une forme écourtée, un rond barré d'une croix régulière, elle sert depuis les années 1940-1950 d'emblème à des mouvements d'extrême droite et à des groupes suprémacistes. Ce n'est plus alors la croix des moines irlandais.
+voir: croix, roue-solaire, croix-monumentale, druidisme
+
+@ croix-de-saint-thomas
+cat: croix
+nom: Croix de saint Thomas
+alias: Mar Thoma Sliva, croix de Mylapore, croix du mont Saint-Thomas, croix de Kottayam, chrétiens de saint Thomas
+schema: croix/saint-thomas
+def: Ancienne croix des chrétiens du Kerala, dressée sur un lotus et touchée par une colombe : l'exemplaire le plus vieux, du VIe ou du VIIe siècle, porte une inscription en pehlevi, signe des liens de ces chrétiens avec la Perse.
+texte: Les chrétiens orientaux de l'Inde du Sud font remonter leur Église à l'apôtre Thomas, qu'une tradition invérifiable, celle des *Actes de Thomas* et de l'*[[hymne-de-la-perle|Hymne de la perle]]*, fait venir chez eux. Une croix de pierre noire, redécouverte en 1547 au mont Saint-Thomas, près de Madras, est devenue leur emblème : latine, aux extrémités lobées, elle sort d'une fleur de lotus, et une colombe, l'Esprit saint, touche du bec sa pointe. Autour court une inscription en pehlevi, langue et écriture qui permettent de la dater du VIe ou du VIIe siècle. Une autre, presque identique, se trouve dans une ancienne église de Kottayam.
+texte: Cette croix sans corps fut d'usage courant au Kerala jusqu'à l'arrivée des Portugais, au XVIe siècle, et à la latinisation qui s'ensuivit.
+voir: croix, hymne-de-la-perle, evangile-de-thomas, croix-armenienne, croix-copte
+
+@ croix-huguenote
+cat: croix
+nom: Croix huguenote
+alias: croix protestante, croix du Languedoc protestant, trissou, colombe huguenote, Maistre de Nîmes
+glyphe: croix-malte
+schema: croix/huguenote
+def: Bijou et symbole du protestantisme français : une croix de Malte perlée, quatre fleurs de lys et une colombe suspendue, créée, dit-on, vers 1688 par un orfèvre de Nîmes, après la révocation de l'édit de Nantes.
+texte: Elle se compose d'une [[croix-de-malte|croix de Malte]] dont les huit pointes s'achèvent par une petite perle, de quatre fleurs de lys glissées entre les bras, qui dessinent des cœurs dans leurs creux, et d'une colombe mobile, ailes ouvertes, tête en bas, parfois remplacée par une larme, le *trissou*. L'explication la plus répandue en attribue l'invention, vers 1688, à un orfèvre protestant de Nîmes du nom de Maistre ; aucune n'est sûre, et le dessin doit beaucoup aux décorations déjà en usage, celle de l'[[croix-du-saint-esprit|ordre du Saint-Esprit]] en tête, qui l'a précédée de plus d'un siècle.
+texte: Sa symbolique est venue après coup : les huit pointes pour les huit béatitudes, quatre fleurs pour les quatre Évangiles, les douze pétales pour les apôtres, la colombe pour l'Esprit. Elle reste aujourd'hui le signe de ralliement le plus connu des protestants de France.
+voir: croix, croix-de-malte, croix-du-saint-esprit, croix-occitane, huit
+
+@ croix-serbe
+cat: croix
+nom: Croix serbe
+alias: croix aux quatre C, srpski krst, ocila, briquets, Samo sloga Srbina spasava
+glyphe: croix-grecque
+schema: croix/serbe
+def: Croix grecque cantonnée de quatre signes en forme de C, emblème de la Serbie et de son Église : on y lit des bêta byzantins, des briquets ou les initiales d'une devise.
+texte: Le signe vient de l'empire byzantin, dont les monnaies et les drapeaux portaient quatre bêta, initiales de la devise des Paléologues, *Basileus Basileon Basileuon Basileuonton*, « roi des rois, régnant sur les rois », le roi étant le Christ. L'Église serbe, devenue autocéphale en 1219 avec saint Sava, l'adopte, et les États serbes après elle.
+texte: Le bêta, tourné, ressemble à un С cyrillique, ce qui a fait naître de nouvelles lectures. La plus répandue dit *Samo sloga Srbina spasava*, « seule la concorde sauve les Serbes » ; le blason y voit des briquets d'acier, en serbe *ocila*.
+voir: croix, croix-grecque, croix-orthodoxe, croix-heraldiques
+
+@ croix-des-ordres-militaires
+cat: croix
+nom: Croix des ordres militaires
+alias: ordres religieux-militaires, ordres de chevalerie, prendre la croix, croisés, moines-soldats, chevaliers du Christ, ordres militaires, ordre de Saint-Georges d'Alfama
+schema: croix-des-ordres
+def: Les chevaliers-moines nés des croisades et de la Reconquista se distinguent par un manteau et une croix : rouge pour le Temple, blanche pour Saint-Jean, noire pour les Teutoniques, verte pour Saint-Lazare, fleurdelisée en Espagne.
+texte: Partir pour Jérusalem, c'est « prendre la croix », et les croisés en cousent une sur leur vêtement, d'où leur nom. Les ordres religieux-militaires nés au XIIe siècle en font un uniforme : chaque ordre a son habit, souvent blanc à l'imitation de Cîteaux, et sa croix. Le [[croix-des-templiers|Temple]] la porte rouge, l'[[croix-de-malte|Hôpital de Saint-Jean]] blanche sur le noir, les [[croix-teutonique|Teutoniques]] noire sur le blanc ; [[croix-de-saint-lazare|Saint-Lazare]] verte, le [[croix-de-jerusalem|Saint-Sépulcre]] rouge et potencée.
+texte: La Reconquista multiplie les ordres ibériques, souvent liés à Cîteaux : [[croix-de-calatrava|Calatrava et Alcántara]] portent la croix fleurdelisée, [[croix-de-saint-jacques|Saint-Jacques]] la croix-épée. Après la suppression du Temple, en 1312, le roi de Portugal crée l'[[croix-de-l-ordre-du-christ|ordre du Christ]], et celui d'Aragon l'ordre de Montesa, qui reprennent ses biens et une croix de ses couleurs. Plus tard, les rois fondent des ordres d'honneur sans vocation militaire, comme celui du [[croix-du-saint-esprit|Saint-Esprit]].
+texte: Il faut se garder de prendre les dessins d'aujourd'hui pour ceux des croisades : les Hospitaliers n'ont fixé leur croix à huit pointes qu'à la fin du Moyen Âge, et les formes du Temple ont varié. La [[franc-maconnerie]] chevaleresque a repris plusieurs de ces croix pour ses grades de [[templiers|chevalier du Temple]] et de [[hospitaliers|chevalier de Malte]], sans en descendre ([[neo-templarisme|néo-templarisme]]).
+repere: 1129 — Le concile de Troyes donne aux Templiers le manteau blanc.
+repere: vers 1147 — La croix rouge du Temple.
+repere: 1175 — Alexandre III reconnaît l'ordre de Santiago.
+repere: 1205 — Innocent III accorde la croix noire aux Teutoniques.
+repere: 1312 — Suppression du Temple.
+repere: 1319 — Bulle fondant l'ordre du Christ, au Portugal.
+voir: croix, croix-des-templiers, croix-de-malte, croix-teutonique, croix-de-jerusalem, croix-de-saint-lazare, croix-de-saint-jacques, croix-de-calatrava, croix-de-l-ordre-du-christ, croix-du-saint-esprit, templiers, hospitaliers, neo-templarisme
+
+@ croix-des-templiers
+cat: croix
+nom: Croix des Templiers
+alias: croix templière, croix du Temple, croix rouge du Temple, manteau blanc, baussant
+glyphe: croix-pattee
+schema: croix/templiers
+def: Croix rouge que les chevaliers du Temple portent sur leur manteau blanc depuis 1147 environ, symbole du martyre ; on la dessine aujourd'hui pattée, mais sa forme n'a jamais été fixée.
+texte: Le concile de Troyes donne en 1129 le manteau blanc aux chevaliers [[templiers|du Temple]], en signe de pureté ; les sergents portent du noir ou du brun. La croix vient ensuite : le 27 avril 1147, à une réunion tenue à Paris avant le départ de la deuxième croisade, en présence de Louis VII, le pape Eugène III permet aux frères de la porter, et tous, chevaliers, sergents et chapelains, l'arborent désormais. Elle figure le martyre : mourir au combat est pour eux un honneur qui assure le ciel.
+texte: Ni la Règle ni les chroniques n'en donnent le dessin. Sceaux et peintures montrent des croix simples, pattées, ou d'autres encore : la [[croix-pattee|croix pattée]] qu'on voit partout aujourd'hui est une forme parmi d'autres. C'est cette croix que l'accusation retourne contre eux en 1307 : au [[proces-des-templiers|procès]], on leur reproche de l'avoir reniée et d'y avoir craché à leur réception. Un frère reconnaît avoir perdu son âme le jour où il l'a prise.
+texte: Elle survit dans l'[[croix-de-l-ordre-du-christ|ordre du Christ]] portugais, sur les voiles de ses caravelles, et chez les [[neo-templarisme|néo-templiers]] et les grades maçonniques du [[chevalier-kadosh|Kadosh]], qui ont fait d'elle un signe d'initiation.
+extrait: Nous avons le texte de ce document des temps héroïques, où tous les détails de la vie des moines-soldats sont prévus : qu’ils aient des armes solides, mais simples ; ni or ni argent aux étriers ou aux éperons ; qu’ils aient, par-dessus le haubert de mailles, un manteau d’uniforme, blanc pour les chevaliers, noir ou roussâtre pour les sergens et les écuyers : « Blanche robe signifie, pour ceux qui ont abandonné la vie ténébreuse du monde, réconciliation avec le Créateur. » Eugène III ajouta plus tard la croix rouge au manteau blanc.
+source: Charles-Victor Langlois, « Le Procès des Templiers », *Revue des Deux Mondes*, 1891 | ws Le Procès des Templiers
+voir: templiers, croix-pattee, croix-des-ordres-militaires, croix-de-l-ordre-du-christ, proces-des-templiers, hugues-de-payns, neo-templarisme
+
+@ croix-de-malte
+cat: croix
+nom: Croix de Malte
+alias: croix de saint Jean, croix de Saint-Jean de Jérusalem, croix d'Amalfi, croix à huit pointes, croix des Hospitaliers, huit béatitudes, huit langues
+glyphe: croix-malte
+schema: croix/malte
+def: Croix blanche à huit pointes de l'ordre de Saint-Jean de Jérusalem, faite de quatre fers de flèche qui se rejoignent au centre : elle n'a pris sa forme moderne qu'au XVIe siècle, et elle orne depuis ordres de mérite, monnaies et marques de champagne.
+texte: Pendant les croisades, les [[hospitaliers|Hospitaliers]] portent une simple croix latine, blanche sur leur habit noir. Une croix à huit pointes paraît sur leurs monnaies sous le grand maître Foulques de Villaret (1305-1319) ; en 1489, les statuts imposent à tous les chevaliers « la croix blanche à huit pointes ». Le tracé actuel se précise lentement à Rhodes, et on le trouve achevé sur une monnaie de cuivre de 1567, sous Jean de Valette, deux ans après le Grand Siège. La ville d'Amalfi, dont des marchands fondèrent l'hôpital de Jérusalem, en revendique l'origine, sur la foi de monnaies du XIe siècle dont le dessin est discuté.
+texte: On dit que ses huit pointes figurent les huit béatitudes, ou les huit « langues » de l'ordre, ses nations d'origine : l'explication par les béatitudes semble venir des protestants français, dont la [[croix-huguenote|croix huguenote]] la reprend. Elle a été copiée partout : ordres de [[croix-de-saint-lazare|Saint-Lazare]] en vert, de [[croix-du-saint-esprit|Saint-Esprit]], de Saint-Louis ; *Pour le Mérite* prussien ; ordre polonais de l'Aigle blanc ; armes du Queensland ; pièces maltaises d'un et deux euros ; champagne Lanson, montres Vacheron Constantin, maillots de l'AJ Auxerre. Le mécanisme qui fait avancer la pellicule d'un projecteur de cinéma en a pris le nom.
+repere: 1305 — Foulques de Villaret grand maître : première croix à huit pointes sur les monnaies de l'ordre.
+repere: 1489 — Les statuts imposent la croix blanche à huit pointes.
+repere: 1567 — Le dessin moderne, sur une monnaie de Jean de Valette.
+voir: hospitaliers, croix-des-ordres-militaires, croix-huguenote, croix-de-saint-lazare, croix-du-saint-esprit, huit, jean-baptiste, loges-de-saint-jean
+
+@ croix-teutonique
+cat: croix
+nom: Croix teutonique
+alias: croix noire, chevaliers teutoniques, ordre Teutonique, ordre des Teutoniques, Krzyżacy, croix de fer, Eisernes Kreuz, Schinkel, Hermann von Salza
+glyphe: croix-pattee
+schema: croix/teutonique
+def: Croix noire sur manteau blanc, accordée par le pape en 1205 aux chevaliers de l'ordre Teutonique, né à Saint-Jean-d'Acre ; elle a engendré la croix de fer prussienne et l'emblème de l'armée allemande.
+texte: Fondé à Saint-Jean-d'Acre à la fin du XIIe siècle autour d'un hôpital allemand, l'ordre devient militaire et reçoit d'Innocent III, en 1205, la croix noire sur surcot blanc. Une croix pattée est parfois employée. Le grand maître la surcharge d'une croix d'or fleuronnée et de l'aigle impériale ; la légende attribue ce privilège à Saint Louis, comme une variante de la [[croix-de-jerusalem|croix de Jérusalem]]. Conquérant de la Prusse et de la Livonie, l'ordre y bâtit un État, sécularisé en 1525 quand le grand maître Albert de Brandebourg passe à la Réforme, et sa croix passe à la Prusse. Il survit aujourd'hui comme ordre charitable, en Europe centrale.
+texte: Le 10 mars 1813, Frédéric-Guillaume III de Prusse crée à Breslau la croix de fer, dessinée par l'architecte Karl Friedrich Schinkel d'après la croix pattée noire des chevaliers. Renouvelée en 1870, en 1914 et par Hitler en 1939, elle est devenue l'insigne militaire allemand ; une version stylisée marque depuis les années 1950 les véhicules et les avions de la Bundeswehr. Le poète Tannhäuser paraît en habit de l'ordre, croix noire au manteau, dans le *Codex Manesse*.
+repere: 1205 — Innocent III accorde aux chevaliers la croix noire sur blanc.
+repere: 1525 — Sécularisation de l'ordre en Prusse.
+repere: 1813 — Création de la croix de fer, le 10 mars.
+voir: croix-pattee, croix-des-ordres-militaires, croix-de-jerusalem, insignes-du-saint-empire, croix-des-templiers
+
+@ croix-de-jerusalem
+cat: croix
+nom: Croix de Jérusalem
+alias: croix de Terre sainte, croix quintuple, croix du Saint-Sépulcre, ordre du Saint-Sépulcre, ordre équestre du Saint-Sépulcre, armes à enquérir, custodie de Terre sainte, cinq plaies
+glyphe: croix-jerusalem
+schema: croix/jerusalem
+def: Croix potencée cantonnée de quatre croisettes, emblème du royaume latin de Jérusalem et de la custodie franciscaine de Terre sainte : d'or sur argent, elle viole volontairement, dit-on, la grande règle du blason.
+texte: Son origine est incertaine : le signe figure sur des monnaies, des sceaux et des mosaïques qui n'ont rien à voir avec les croisades. Il est toutefois associé au royaume fondé en 1099, dont les armes sont attribuées à [[godefroy-de-bouillon|Godefroy de Bouillon]] : « d'argent à la croix potencée d'or, cantonnée de quatre croisettes du même ». Or l'héraldique interdit de poser un métal sur un métal. On appelle ces armes fautives des armes « à enquérir », parce qu'on doit s'enquérir de la raison de l'écart : on a voulu marquer ainsi le prestige sans égal de la ville.
+texte: Le nombre des croix a reçu plusieurs sens : les cinq plaies du Christ, les quatre Évangiles autour du Christ, les quatre directions où la Parole partit de Jérusalem. Elle est passée dans les armes des maisons qui revendiquaient le titre de roi de Jérusalem, Habsbourg ou Savoie ([[rene-d-anjou|René d'Anjou]] aussi l'a portée), sur le blason de nombreuses communes, et sur le drapeau de la Géorgie. L'ordre du Saint-Sépulcre la porte rouge. Les franciscains de la custodie de Terre sainte l'ont adoptée pour la Passion qu'elle rappelle.
+voir: croix, croix-potencee, godefroy-de-bouillon, rene-d-anjou, croix-heraldiques, croix-teutonique, croix-des-ordres-militaires, cinq
+
+@ croix-de-saint-lazare
+cat: croix
+nom: Croix de Saint-Lazare
+alias: ordre de Saint-Lazare, ordre de Saint-Lazare de Jérusalem, lazaristes militaires, chevaliers lépreux, Boigny, croix verte
+glyphe: croix-malte
+schema: croix/saint-lazare
+def: Croix verte des chevaliers de Saint-Lazare, ordre né d'une léproserie de Jérusalem, dont les frères étaient d'abord eux-mêmes lépreux.
+texte: Les conditions de sa fondation ne sont pas connues avec certitude : la première mention sûre date de 1142, quand Foulques, roi de Jérusalem, accorde des terres à l'établissement des lépreux de Saint-Lazare. L'ordre se distingue des autres en ce que ses membres sont d'abord atteints de la maladie. Sa participation aux combats est attestée à partir de 1234 ; on reconnaît ses frères à la croix verte de leur manteau, dessinée plus tard à la manière de la [[croix-de-malte|croix de Malte]].
+texte: Replié en Occident après la perte des États latins, il subsiste en France, à Boigny, jusqu'à la Révolution. Plusieurs associations se réclament aujourd'hui de lui, sans continuité juridique établie avec l'ordre médiéval.
+repere: 1142 — Première mention de la léproserie de Saint-Lazare, à Jérusalem.
+repere: 1234 — Première mention sûre d'un rôle militaire.
+voir: croix-des-ordres-militaires, croix-de-malte, hospitaliers
+
+@ croix-de-saint-jacques
+cat: croix
+nom: Croix de saint Jacques
+alias: croix de Santiago, cruz de Santiago, cruz espada, croix-épée, ordre de Santiago, Clavijo, Santiago Matamoros, tarte de Santiago
+schema: croix/saint-jacques
+def: Croix rouge en forme d'épée, fleurs de lys en haut et lame en bas : l'insigne de l'ordre militaire espagnol de Santiago, reconnu en 1175, que Velázquez porte sur la poitrine dans *Les Ménines*.
+texte: Elle tire son nom de Jacques le Majeur et du récit de son apparition à la bataille de Clavijo, en 844, où l'apôtre aurait combattu les Maures. Le blason la décrit comme une croix [[croix-heraldiques|fichée]], au pied aiguisé, dont les autres branches sont fleuries ; on dit que le pied en pointe vient des croisés, qui plantaient leur petite croix en terre pour prier. Les trois fleurs de lys signifieraient « l'honneur sans tache ».
+texte: L'ordre de Santiago, fondé au XIIe siècle et reconnu par une bulle d'Alexandre III du 5 juillet 1175, protège les pèlerins de [[saint-jacques-de-compostelle|Compostelle]] et combat pendant la Reconquista ; ses chevaliers portent la croix sur leur étendard et leur cape blanche. Être admis est un très grand honneur : quand Velázquez l'obtient, en 1659, trois ans après avoir peint *Les Ménines*, on ajoute la croix rouge à sa poitrine sur la toile, et Palomino rapporte qu'on disait le roi l'avoir peinte lui-même. Elle marque encore le chemin de Compostelle, et l'on en découpe le pochoir sur la tarte aux amandes de Galice.
+repere: 844 — Bataille légendaire de Clavijo.
+repere: 1175 — Bulle d'Alexandre III, le 5 juillet.
+repere: 1659 — Velázquez reçoit l'habit de Santiago.
+voir: croix-des-ordres-militaires, croix-de-calatrava, saint-jacques-de-compostelle, croix-heraldiques
+
+@ croix-de-calatrava
+cat: croix
+nom: Croix de Calatrava
+alias: ordre de Calatrava, ordre d'Alcántara, croix d'Alcántara, croix fleurdelisée, Qal'at Rabah, Raymond de Fitero, San Julián del Pereiro
+schema: croix/calatrava
+def: Croix fleurdelisée des deux grands ordres militaires de Castille et de León : noire puis rouge pour Calatrava, le plus ancien ordre espagnol ; verte pour Alcántara.
+texte: En 1147, Alphonse VII de Castille prend la forteresse de Calatrava et la confie aux [[templiers|Templiers]], qui, dix ans plus tard, se disent incapables de la défendre. Sanche III l'offre à qui voudra s'en charger : à la surprise de tous, Raymond, abbé cistercien de Fitero, s'en empare, et s'y installe le 1er janvier 1158 avec le moine Diego Velázquez, ancien soldat. Le pape Alexandre III érige en 1164 cette communauté en ordre militaire, soumis à une règle très dure. Ses chevaliers portent la robe blanche de Cîteaux et une croix fleurdelisée, noire d'abord, qui devient rouge au XVIe siècle.
+texte: Né vers le même temps à San Julián del Pereiro, autour d'un poirier qui orne son sceau, l'ordre d'Alcántara reçoit en 1218 la forteresse de ce nom et passe sous l'autorité de Calatrava, dont il garde l'habit. Le poirier cède alors la place à la croix fleurdelisée, de couleur verte. Les deux ordres, rattachés à la couronne d'Espagne à la fin du XVe siècle, ne sont plus aujourd'hui que des distinctions d'honneur.
+repere: 1158 — Le 1er janvier, Raymond de Fitero s'installe à Calatrava.
+repere: 1164 — Bulle d'Alexandre III, le 14 septembre.
+repere: 1218 — Alcántara confiée à l'ordre de San Julián du Pereiro.
+voir: croix-des-ordres-militaires, croix-de-saint-jacques, templiers, croix-heraldiques
+
+@ croix-de-l-ordre-du-christ
+cat: croix
+nom: Croix de l'ordre du Christ
+alias: ordre du Christ, croix du Christ, cruz de Cristo, croix de Tomar, ordre de Montesa, Montesa, croix des caravelles, Ad ea ex quibus, Ad fructus uberes, Henri le Navigateur
+glyphe: croix-pattee
+schema: croix/ordre-du-christ
+def: Croix pattée rouge évidée de blanc, héritière de celle du Temple au Portugal, où l'ordre du Christ reprit en 1319 les biens et les hommes des Templiers ; elle a navigué sur les voiles des caravelles. Son cousin d'Aragon est l'ordre de Montesa.
+texte: Quand Clément V supprime le Temple en 1312, le roi Denis de Portugal refuse de poursuivre les chevaliers. Il négocie avec Jean XXII, et la bulle *Ad ea ex quibus*, du 14 mars 1319, reconnaît un nouvel ordre, dit de Notre-Seigneur Jésus-Christ, qui hérite des biens et des frères portugais du Temple, et que le [[couvent-du-christ|couvent de Tomar]] accueille à partir de 1357. Administrateur de l'ordre, l'infant Henri le Navigateur en emploie les ressources aux découvertes : la croix du Christ part sur les voiles des caravelles, pour Vasco de Gama ou Cabral, et devient un emblème national. On la voit encore sur les ailes de l'aviation portugaise et sur le drapeau de Madère.
+texte: Le royaume d'Aragon a sa propre solution : à la bulle *Ad fructus uberes* du 10 juin 1317, le roi Jacques II obtient, dans son royaume de Valence, un ordre nouveau, nommé d'après sa forteresse de Montesa, qui fusionne les biens du Temple et de l'Hôpital. En 1400, il absorbe l'ordre de Saint-Georges d'Alfama et prend sa croix rouge pleine. L'héritage du Temple alla ainsi, dans ces deux royaumes, à des ordres nouveaux ; ni l'un ni l'autre ne prouve la survie d'un secret ([[tresor-des-templiers|trésor des Templiers]], [[neo-templarisme|néo-templarisme]]).
+repere: 1317 — Bulle *Ad fructus uberes*, le 10 juin : l'ordre de Montesa.
+repere: 1319 — Bulle *Ad ea ex quibus*, le 14 mars : l'ordre du Christ.
+repere: 1357 — L'ordre s'établit à Tomar.
+repere: 1497 — La flotte de Vasco de Gama part sous la croix du Christ.
+voir: croix-des-templiers, couvent-du-christ, templiers, croix-pattee, croix-des-ordres-militaires, neo-templarisme, tresor-des-templiers, proces-des-templiers
+
+@ croix-du-saint-esprit
+cat: croix
+nom: Croix du Saint-Esprit
+alias: ordre du Saint-Esprit, cordon bleu, chevaliers du Saint-Esprit, Henri III, Hospitaliers du Saint-Esprit, Guy de Montpellier, Santo Spirito
+glyphe: croix-malte
+schema: croix/saint-esprit
+def: Insigne du plus prestigieux ordre de la monarchie française, fondé par Henri III en 1578 : une croix de Malte boutonnée, des fleurs de lys et une colombe. Ses chevaliers la portaient à un large ruban, d'où notre « cordon bleu ».
+texte: Le 31 décembre 1578, en pleines guerres de religion, Henri III fonde l'ordre du Saint-Esprit, réservé aux catholiques. Tous ses chevaliers sont faits aussi chevaliers de Saint-Michel, d'où leur titre de « chevaliers des ordres du roi ». Leur insigne reprend la forme de la [[croix-de-malte|croix de Malte]] : quatre branches à huit pointes boutonnées, des fleurs de lys dans les angles, et, au centre, une colombe aux ailes déployées, tête en bas ; au revers, saint Michel. Ils la portent en écharpe à un large ruban moiré bleu ciel, de l'épaule droite à la hanche gauche, et l'expression de « cordon bleu » est restée. L'ordre n'est plus attribué par l'État depuis 1830.
+texte: Il ne doit pas être confondu avec l'ordre hospitalier du Saint-Esprit, fondé à Montpellier vers 1180 par Guy de Montpellier, reconnu par Innocent III en 1198, qui voue ses hôpitaux aux déshérités et prend pour signe une croix à double traverse. La [[croix-huguenote|croix huguenote]], un siècle après celle d'Henri III, en reprend à peu près tout le dessin, au service de la foi que ce roi combattait.
+repere: 1198 — Innocent III reconnaît les Hospitaliers du Saint-Esprit, le 23 avril.
+repere: 1578 — Henri III crée l'ordre du Saint-Esprit, le 31 décembre.
+repere: 1830 — Fin de son attribution par l'État.
+voir: croix-de-malte, croix-huguenote, croix-des-ordres-militaires, huit
+
+@ croix-pattee
+cat: croix
+nom: Croix pattée
+alias: croix pattée, croix de Crozant, croix formée, croix pattées du Vexin
+glyphe: croix-pattee
+schema: croix/pattee
+def: Croix aux branches étroites au centre et larges à la périphérie, comme des pattes d'animal : celle qu'on prête d'ordinaire aux Templiers, aux chevaliers teutoniques et à la croix de fer.
+texte: Le blason l'a beaucoup employée : pour la [[croix-teutonique|croix noire des Teutoniques]] et, plus tard, de la Prusse et de l'Allemagne ; en rouge sur fond blanc pour les [[croix-des-templiers|Templiers]], telle du moins qu'on les représente depuis. Le caractère Unicode nommé « croix de Malte » s'affiche d'ailleurs presque toujours comme une croix pattée, ce qui entretient la confusion.
+texte: On la trouve aussi au bord des chemins. Le Vexin en est couvert de bornes et de croix monumentales ; à la limite de la Creuse et de l'Indre, autour de Crozant, une cinquantaine de petites croix de granite grossièrement taillées, peut-être du haut Moyen Âge, ont donné le type dit de Crozant. La Bretagne, vers Redon, en a de larges, aux extrémités arrondies.
+voir: croix-des-templiers, croix-teutonique, croix-de-malte, croix-monumentale, croix-heraldiques, croix-de-l-ordre-du-christ
+
+@ croix-potencee
+cat: croix
+nom: Croix potencée
+alias: croix à béquilles, croix scoute, Père Sevin, Scouts de France, Front patriotique, Dollfuss
+glyphe: croix-potencee
+schema: croix/potencee
+def: Croix aux bras égaux dont chaque branche s'achève en T, comme une potence : la base de la croix de Jérusalem, l'insigne des scouts catholiques, et l'emblème du Front patriotique autrichien.
+texte: C'est, avec ses quatre croisettes, la [[croix-de-jerusalem|croix de Jérusalem]]. Le père Sevin la prend en 1916 comme signe de reconnaissance de scouts belges qui, sous l'occupation allemande, ne peuvent porter l'uniforme ; à la fondation des Scouts de France, en 1920, elle en devient l'insigne, accompagnée d'une fleur de lys, et elle reste le signe distinctif des scouts catholiques.
+texte: En Autriche, elle orne les décorations et les monnaies d'après la Grande Guerre, avant de devenir en 1933 l'emblème du Front patriotique d'Engelbert Dollfuss, opposé à la [[svastika|croix gammée]] des nazis.
+voir: croix-de-jerusalem, croix-heraldiques, svastika, croix-en-tau
+
+@ croix-de-saint-georges
+cat: croix
+nom: Croix de saint Georges
+alias: saint Georges, drapeau de l'Angleterre, drapeau de Gênes, croix génoise, Union Jack
+glyphe: croix-grecque
+schema: croix/saint-georges
+def: Croix rouge pleine sur fond blanc : le drapeau de l'Angleterre et de Gênes, signe des croisés et, avec les sautoirs de saint André et de saint Patrick, l'une des composantes du drapeau britannique.
+texte: Gênes l'emploie depuis le haut Moyen Âge : son usage y est attesté en 1096, au départ de la première croisade. Elle devient la bannière de la Ligue lombarde, et les croisés la portent pour se distinguer. On raconte que Richard Cœur de Lion, qui demanda en 1190 aux Génois des navires pour gagner Jérusalem, obtint de battre leur pavillon en Méditerranée, moyennant tribut. Devenue celle de l'Angleterre dont le saint est le patron, elle passe dans l'*Union Jack*.
+texte: On la voit sur les armes de Barcelone, de Londres, de Fribourg-en-Brisgau, de la Sardaigne et du royaume d'Aragon, et la Géorgie la reprend en 2004 sur son drapeau, avec quatre [[croix-de-jerusalem|croisettes]]. À Milan et à Padoue, le même dessin renvoie à un tout autre saint, Ambroise. Une croix rouge sur fond blanc est aussi, à une forme près, celle des [[croix-des-templiers|Templiers]], et de [[la-nouvelle-atlantide|l'intendant de Bensalem]] dans *La Nouvelle Atlantide*.
+voir: croix, croix-de-saint-andre, croix-grecque, croix-des-templiers, croix-scandinave, la-nouvelle-atlantide
+
+@ croix-scandinave
+cat: croix
+nom: Croix scandinave
+alias: croix nordique, Dannebrog, drapeau du Danemark, croix de Scandinavie
+glyphe: croix-grecque
+schema: croix/scandinave
+def: Croix décalée vers la hampe des drapeaux du Nord, héritière du Dannebrog danois, tombé du ciel selon la légende en 1219 lors d'une bataille contre les Estoniens païens.
+texte: Tous ses drapeaux descendent du drapeau national danois, l'un des plus anciens d'Europe. La légende veut qu'il soit apparu dans le ciel en 1219, pendant une bataille victorieuse des Danois chrétiens ; il n'est officiellement adopté qu'en 1625, bien qu'utilisé auparavant. Suède, Norvège, Finlande, Islande et îles Féroé l'ont repris à leurs couleurs.
+texte: C'est au fond une [[croix-grecque|croix grecque]] : sa branche flottante, allongée, compense l'effet d'optique d'un tissu qui bat au vent. Pour ces pays voisins, tous chrétiens, elle n'a plus guère de sens religieux.
+voir: croix-grecque, croix-de-saint-georges, croix
+
+@ croix-de-bourgogne
+cat: croix
+nom: Croix de Bourgogne
+alias: cruz de Borgoña, sautoir écoté, croix noueuse, croix des ducs de Bourgogne, Montjoie Saint-André, Tercios
+glyphe: croix-en-x
+schema: croix/bourgogne
+def: Croix de saint André rouge, hérissée de moignons de branches coupées : emblème des ducs de Bourgogne, passé avec leur héritage à la monarchie espagnole et à ses régiments, jusqu'aux Amériques.
+texte: Les ducs de Valois-Bourgogne prennent [[croix-de-saint-andre|saint André]] pour patron et pour cri d'armes « Montjoie Saint-André ». Leurs armées portent le sautoir rouge dès Jean sans Peur (1371-1419), pendant la guerre des Armagnacs et des Bourguignons, pour se distinguer de la croix anglaise et de la croix française ; le blason le dit « écoté », aux branches écourtées. L'héritage bourguignon l'amène en Espagne avec Philippe le Beau, et les vieux régiments des Tercios l'emportent en Flandre et en Amérique ; on le voit encore sur divers drapeaux hérités de l'empire espagnol, et en Belgique, ancienne terre bourguignonne.
+texte: Il fut l'un des emblèmes des rois d'Espagne jusqu'en 2014, où Felipe VI renonce à l'employer ; il demeure sur le blason de Juan Carlos Ier.
+voir: croix-de-saint-andre, croix-heraldiques, croix, toison-d-or
+
+@ croix-occitane
+cat: croix
+nom: Croix occitane
+alias: croix du Languedoc, croix de Toulouse, croix raimondine, croix cathare, croix pommetée, croix cléchée, croix d'Arles
+schema: croix/occitane
+def: Croix « cléchée, vidée et pommetée de douze perles », aux armes des comtes de Toulouse dès la seconde moitié du XIIe siècle, puis de la province de Languedoc ; elle est aujourd'hui l'emblème de l'Occitanie.
+texte: Ses origines sont discutées : on a évoqué la Provence, Marseille et un souvenir de Tortose, en Terre sainte. Elle apparaît dans la seconde moitié du XIIe siècle sur le blason des comtes de la dynastie raimondine, et devient la croix de Toulouse, puis, sous l'Ancien Régime, l'emblème de la province de Languedoc. On lui a prêté des sens solaires, zodiacaux, ou ésotériques, à partir de ses douze perles que d'autres donnent aux [[douze]] apôtres. Depuis la réforme territoriale de 2015, elle sert de signe à la région d'Occitanie.
+attention: On l'appelle parfois « croix cathare », et le blason de Montségur la nomme ainsi ; René Nelli y voyait « un symbole de ralliement cathare », parce qu'elle était aux armes des comtes de Toulouse, leurs protecteurs. Ce n'est pas leur signe : les [[catharisme|cathares]] refusaient de vénérer la croix, qu'ils tenaient pour un instrument de supplice.
+voir: croix, catharisme, montsegur, croix-heraldiques, croix-huguenote
+
+@ lauburu
+cat: croix
+nom: Lauburu
+alias: croix basque, lau buru, quatre têtes, stèles discoïdales, croix à virgules
+schema: croix/lauburu
+def: Croix basque aux quatre têtes en forme de virgule, sculptée sur les maisons et les stèles funéraires du Pays basque ; ses origines restent inconnues, et son nom ne s'est imposé que dans les années 1950.
+texte: En basque, *lau* veut dire quatre et *buru* tête. Chaque branche est une virgule formée de trois demi-cercles. Dans la première moitié du XXe siècle, les chercheurs parlent encore de turbine, d'hélice, de svastika courbé ou de croix à virgules : c'est depuis les années 1950 que le nom basque se fixe et que le signe devient un emblème identitaire. On le rencontre surtout en Basse-Navarre, mais aussi tout le long des Pyrénées, en Gascogne, en Aragon, en Galice, et jusqu'en Alsace, sur des maisons de la fin du XVIIIe siècle.
+texte: Le sens de ce signe a suscité des hypothèses sans fin et sans preuve : rotation du soleil et du ciel, cycle de la vie, quatre saisons ou quatre éléments, héritage préchrétien que l'Église aurait laissé subsister quand elle s'imposa dans une région longtemps peu christianisée, ou signe proprement chrétien de la croix. On ne sait ni ce qui amena les Basques à l'adopter, ni pourquoi ils l'ont exposé sur leurs maisons et leurs tombes.
+voir: croix, svastika, roue-solaire, triskele, quatre-elements
+
+@ croix-camarguaise
+cat: croix
+nom: Croix camarguaise
+alias: croix de Camargue, croix des gardians, Folco de Baroncelli, Hermann-Paul, Nacioun gardiano
+schema: croix/camarguaise
+def: Croix créée de toutes pièces en 1926 par le peintre Hermann-Paul pour le marquis de Baroncelli, où se lisent la foi (la croix aux tridents des gardians), l'espérance (l'ancre des pêcheurs) et la charité (le cœur).
+texte: Le marquis Folco de Baroncelli (1869-1943), écrivain et manadier, fonde en 1904 la Nacioun gardiano, pour maintenir les usages du pays d'Arles et de la Camargue. Il demande à son ami le peintre Hermann-Paul (1864-1940) un emblème pour cette « nation » de gardians et de pêcheurs. Le forgeron Joseph Barbanson, des [[saintes-maries-de-la-mer|Saintes-Maries-de-la-Mer]], la façonne en fer forgé, et c'est lui qui remplace par des tridents les fleurs de lys prévues. Elle est inaugurée le 7 juillet 1926, devant le poète Joseph d'Arbaud et les amis du marquis.
+texte: Voilà donc une « vieille » croix qui n'a pas cent ans. Sa gloire vient de son air d'antiquité, et elle orne aujourd'hui le pays entier, des bijoux aux maisons de gardians. Elle unit les trois vertus théologales au pays des saintes Maries : le cœur rappelle celui des saintes.
+repere: 1904 — Baroncelli fonde la Nacioun gardiano.
+repere: 1926 — La croix est inaugurée aux Saintes-Maries-de-la-Mer, le 7 juillet.
+voir: croix, saintes-maries-de-la-mer, sara-la-kali, croix-occitane
+
+@ croix-d-agadez
+cat: croix
+nom: Croix d'Agadez
+alias: croix du Sud, tineghlet, bijou touareg, croix touarègue, Aïr
+schema: croix/agadez
+def: Pendentif touareg de l'Aïr, au Niger : un losange surmonté d'un anneau à deux antennes, dont les autres pointes s'achèvent par un bouton conique. Malgré son nom, elle n'a rien de chrétien.
+texte: Création des Kel Tamasheq, elle serait née dans l'Aïr et de là se serait répandue chez les Touaregs du Hoggar, de l'Adrar des Ifoghas, de l'Azawak et jusqu'en pays haoussa. La plus ancienne photographie connue, prise en 1899 par Fernand Foureau, la montre au cou de femmes touarègues ; les militaires français en poste au Sahara furent parmi les premiers étrangers à s'y intéresser.
+texte: Une légende raconte qu'au XIIe siècle, un guerrier fit forger pour la fille d'un roi jaloux un bijou formé de deux lettres touarègues, *t* et *r*, qui disent *tara*, l'amour. Le forgeron répondit au gardien qu'il portait une *tineghlet*, une chose fondue, et la princesse comprit. C'est aujourd'hui le bijou touareg le plus célèbre du monde, reproduit partout sans profit pour ses créateurs.
+voir: croix, amulette, croix-ansee
+
+@ crucifix
+cat: croix
+nom: Crucifix
+alias: Christ en croix, INRI, titulus, croix de procession, Christ triomphant
+glyphe: croix-latine
+def: Croix portant l'image du Christ crucifié, longtemps absente de l'art chrétien, qui montra d'abord la croix nue ; les Églises protestantes et l'Église arménienne s'en tiennent encore à celle-ci.
+texte: Le mot vient du latin ecclésiastique *crucifixus*, participe de *crucifigere*, « fixer sur une croix ». L'une des premières images de la Crucifixion, sur les portes de bois de Sainte-Sabine, à Rome, ne remonte qu'au Ve siècle ; c'est au VIe et surtout après le XIIe que le type se répand, le Christ restant longtemps debout et vivant, le regard ouvert, avant que l'art gothique ne le montre mort, le corps affaissé. Au sommet, l'écriteau porte le sigle INRI, *Iesus Nazarenus Rex Iudaeorum*, ou Jésus de Nazareth, roi des Juifs, que le [[chevalier-rose-croix|chevalier Rose-Croix]] lit à sa façon : *Igne Natura Renovatur Integra*. Sous la croix, une tête de mort rappelle le crâne d'Adam ([[legende-de-la-vraie-croix|Vraie Croix]]).
+texte: Il orne les églises catholiques et orthodoxes, les luthériennes et les anglicanes, et on y accroche d'ordinaire un rameau béni. La plupart des protestants et des évangéliques, comme l'Église apostolique arménienne et l'Église assyrienne de l'Orient, gardent la croix sans le corps. Dans les maisons, il a longtemps passé pour protéger de tout mal.
+extrait: Il est bon d’observer, tout d’abord, que l’image du Christ ne fut suspendue à la croix que vers le VIe ou VIIe siècle ; jusqu’alors, l’instrument de supplice, devenu sous Constantin le signe symbolique des chrétiens, fut représenté nu. Dans les catacombes de Rome, il existe des représentations de la croix, ornée de gemmes ; aux deux bras sont suspendues des lampes. Mais nous ne pensons pas qu’il existe une seule représentation peinte ou sculptée du crucifix avant le VIe siècle, et encore, à dater de cette époque jusqu’au XIIe siècle, ces images sont-elles fort rares.
+source: Eugène Viollet-le-Duc, *Dictionnaire raisonné de l’architecture française*, article « Croix », 1854-1868 | ws Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle/Croix
+voir: croix, croix-latine, legende-de-la-vraie-croix, chevalier-rose-croix, croix-armenienne, signe-de-croix
+
+@ signe-de-croix
+cat: croix
+nom: Signe de croix
+alias: se signer, signe de la croix, geste de bénédiction, deux doigts, vieux-croyants, signation
+def: Geste par lequel un chrétien trace une croix sur lui-même, attesté dès la fin du IIe siècle sur le front, puis en grand du front à la poitrine et d'une épaule à l'autre, de gauche à droite chez les catholiques, de droite à gauche chez les orthodoxes.
+texte: Il renvoie à la prophétie d'Ézéchiel, où un [[croix-en-tau|tav]] marque le front des élus. Tertullien, vers 204, décrit les chrétiens se signant à tout propos, en s'habillant, en se couchant ou en se mettant à table, au point que les Romains y voient une pratique magique ; Origène et Hippolyte le confirment. Jusqu'au VIIe siècle, on le fait sur le front, avec le pouce, comme encore au baptême. Sa forme large, en s'accompagnant des mots « au nom du Père, et du Fils, et du Saint-Esprit », devient une profession de foi.
+texte: La manière de le faire a pu diviser : les réformes du patriarche Nikon, au milieu du XVIIe siècle, imposent aux Russes de se signer à trois doigts, pour la Trinité, et le concile de 1666-1667 consomme le schisme des vieux-croyants, qui en tiennent pour deux, pour les deux natures du Christ. Dès les premiers siècles, on dénonce aussi son usage superstitieux pour chasser les démons. La [[golden-dawn|Golden Dawn]] en a tiré sa « croix kabbalistique », au début du [[rituel-du-pentagramme|rituel du pentagramme]].
+voir: croix, croix-en-tau, rituel-du-pentagramme, exorcisme, crucifix, trois
+
+@ croix-monumentale
+cat: croix
+nom: Croix monumentale
+alias: calvaire, croix de chemin, croix de mission, croix de carrefour, croix triomphale, Haute croix, enclos paroissial, croix hosannière
+def: Grande croix de pierre, de bois ou de métal, isolée au bord d'un chemin ou au centre d'un calvaire : née en Irlande au VIIe siècle, elle se répand sur le continent à partir du XIe, offre le droit d'asile et finit en croix de mission au XIXe siècle.
+texte: Constantin aurait fait dresser la première, une croix d'or, sur le Golgotha. Mais ce sont les moines irlandais qui, au VIIe siècle, font de la croix un véritable monument ([[croix-celtique|croix celtique]]). Sur le continent, elle n'en devient un que vers le XIe siècle, avec l'art roman. En 1095, le concile de Clermont étend le droit d'asile aux croix de chemin, qui sont dès lors à la fois guide et protection : elles se multiplient. Elles atteignent leur apogée au XVIe siècle, ravagées ensuite par les guerres de religion et la Révolution ; le XIXe siècle les relève, sous forme de calvaires et de croix de mission.
+texte: En Bretagne, les calvaires de Plougastel-Daoulas ou de Guimiliau racontent toute la Passion en granit. On s'y rassemble pour les Rogations, on y sollicite la pluie ou le beau temps. Une simple croix de cimetière, à [[croix-d-hendaye|Hendaye]], a suffi à [[fulcanelli|Fulcanelli]] pour annoncer une fin de cycle. Au XXe siècle, le gigantisme l'emporte : 150 mètres au Valle de los Caídos, 86 à Coquimbo, au Chili, 66 à Branson, au Missouri.
+extrait: CROIX, s. f. Crois. Pendant le moyen âge, on plaçait des croix de pierre ou de métal au sommet des édifices religieux, sur les chemins, à l’entrée des villes et dans les cimetières. (…) Les plus anciennes croix sculptées sont presque toujours à quatre branches égales : elles décorent le sommet des pignons, les tympans des portes d’églises, les faces des contre-forts ou des piliers.
+source: Eugène Viollet-le-Duc, *Dictionnaire raisonné de l’architecture française*, article « Croix », 1854-1868 | ws Dictionnaire raisonné de l’architecture française du XIe au XVIe siècle/Croix
+voir: croix, croix-celtique, croix-d-hendaye, croix-pattee, croix-armenienne, constantin
+
+@ croix-heraldiques
+cat: croix
+nom: Croix héraldiques
+alias: croix (blason), croix ancrée, croix moline, croix fleurdelisée, croix fleuronnée, croix pommetée, croix pommée, croix tréflée, croix de saint Maurice, croix recroisetée, croix fichée, croix patonnée, croix fourchée, croix alésée, croisette, armes à enquérir
+schema: croix-heraldiques
+def: Le blason a nommé des dizaines de croix d'après la façon dont leurs branches s'achèvent : ancrée, moline, pommetée, tréflée, fleurdelisée, recroisetée, fichée… Elle y est l'une des pièces les plus honorables.
+texte: En héraldique, la croix est une pièce quand elle occupe tout l'écu, et un meuble quand, plus petite, elle n'en touche pas les bords : on la dit alors alésée. L'*Encyclopédie* en dénombre trente-neuf sortes. Elles se distinguent d'abord par leurs extrémités : [[croix-pattee|pattée]], évasée ; [[croix-potencee|potencée]], terminée en T ; ancrée, recourbée comme une ancre ; moline, comme le fer qui tient la meule d'un moulin ; pommetée, à boules ; tréflée, ou croix de saint Maurice ; fleurdelisée ([[croix-de-calatrava|Calatrava]]) ; recroisetée, chaque bras barré d'une petite traverse ; fichée, au pied en pointe ([[croix-de-saint-jacques|Saint-Jacques]]) ; fourchée, en Y.
+texte: Le blason écrit ses croix comme une langue : la [[croix-de-saint-andre|croix de saint André]] s'y dit sautoir, celle de [[croix-de-bourgogne|Bourgogne]] sautoir écoté, celle de [[croix-de-lorraine|Lorraine]] croix à double traverse. Chacune a ses couleurs réglées : « de gueules » pour le rouge, « de sable » pour le noir, « de sinople » pour le vert, et une règle défend de poser métal sur métal, sauf à [[croix-de-jerusalem|Jérusalem]]. Les armoriaux sont ainsi le plus grand catalogue de croix qui existe.
+extrait: Cette armoirie fut accordée originairement à ceux qui avoient exécuté ou au moins entrepris quelque action d’éclat pour le service de Jesus-Christ & pour l’honneur du nom chrétien, & est regardée par plusieurs comme la plus honorable de tout le Blason. Ce qui la rendit fort fréquente, ce furent sans doute les expéditions & les voyages multipliés qu’on fit en la Terre-sainte ; car la plûpart de ceux qui en revinrent, chargerent leur écu d’une croix, & la croix devint une enseigne militaire. ¶ On prétend que dans ces guerres saintes les Ecossois portoient la croix de S. André, les François une croix d’argent, les Anglois une croix d’or, les Allemands de sable, les Italiens d’azur, les Espagnols de gueules.
+source: *L’Encyclopédie*, t. IV, article « Croix, en termes de Blason » | ws L’Encyclopédie/1re édition/CROIX
+voir: croix, croix-pattee, croix-potencee, croix-de-saint-andre, croix-de-bourgogne, croix-de-lorraine, croix-de-jerusalem, croix-grecque
+
+@ obele
+cat: croix
+nom: Obèle
+alias: obel, obélisque typographique, dague, croix du typographe, crux critica, crux desperationis, Aristophane de Byzance
+glyphe: croix-latine
+schema: croix/obele
+def: Signe typographique en forme de petite croix († et ‡), qui marque un renvoi ou signale un mort ; le philologue s'en sert pour désigner un passage altéré, désespéré.
+texte: Le mot grec *obelos* signifie « broche ». Le savant alexandrin Aristophane de Byzance invente vers 200 avant notre ère un signe, ÷ ou un simple trait, pour noter dans les marges d'Homère les vers douteux. Origène et saint Jérôme s'en servent dans leurs révisions de la Bible. Sous sa forme moderne, c'est une dague, simple ou double, que les philologues nomment encore *crux desperationis*, la « croix de désespoir », quand ils renoncent à corriger un mot.
+texte: Sa ressemblance avec la [[croix-latine|croix latine]] lui a donné son emploi le plus courant : il indique une date de décès dans les généalogies et les notices, et, en paléontologie, une espèce disparue.
+voir: croix, croix-latine
+
+@ le-symbolisme-de-la-croix
+cat: textes
+nom: Le Symbolisme de la croix
+alias: Symbolisme de la croix, Guénon croix, croix à trois dimensions, Homme universel, arbre du milieu
+an: 1931
+dates: 1931
+def: Traité de René Guénon, publié en 1931, qui lit dans la croix le signe de « l'Homme universel » commun à toutes les traditions, bien plus large que son sens chrétien.
+texte: [[rene-guenon|René Guénon]] en publie une première version en 1910-1911 dans sa revue *La Gnose*, et le livre paraît aux Éditions Véga en 1931, après son installation au Caire ; il le dédie à la mémoire du cheikh Abder Rahman Elish el-Kebir, le maître soufi dont il tient, par l'intermédiaire d'Ivan Aguéli, son rattachement à l'islam, et à qui il attribue « la première idée de ce livre ». Il y écarte d'emblée la seule lecture historique : pour lui, le gibet du Calvaire n'épuise pas le signe, qui appartient à presque toutes les doctrines traditionnelles.
+texte: Le livre fait de la croix à trois dimensions l'image de l'espace et de l'être manifesté, dont les branches rayonnent d'un centre immobile ; la verticale figure les états supérieurs, l'horizontale le degré d'existence où nous sommes, et la croisée le point où l'homme réalise l'[[adam-kadmon|Homme universel]] de la tradition islamique. Il y rapproche l'arbre du milieu, le tissage, la chaîne et la trame, les six directions du *[[sefer-yetsirah|Sefer Yetsirah]]* et la doctrine soufie d'Ibn Arabi. Cette construction est la sienne : ni les chrétiens, ni les musulmans, ni les indianistes ne s'y reconnaissent toujours, et les historiens y voient d'abord un moment de la pensée de son auteur.
+repere: 1910 — Premiers chapitres dans la revue *La Gnose*.
+repere: 1931 — Publication aux Éditions Véga.
+voir: rene-guenon, croix, axis-mundi, adam-kadmon, tradition-primordiale, chrisme

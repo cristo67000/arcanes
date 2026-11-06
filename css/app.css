@@ -38,7 +38,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .cat-nombres { --cc: var(--c-nombres); } .cat-astronomie { --cc: var(--c-astronomie); } .cat-pierres { --cc: var(--c-pierres); }
 .cat-echecs { --cc: var(--c-echecs); } .cat-lieux { --cc: var(--c-lieux); } .cat-perso { --cc: var(--c-perso); }
 .cat-bestiaire { --cc: var(--c-bestiaire); } .cat-egypte { --cc: var(--c-egypte); } .cat-codes { --cc: var(--c-codes); } .cat-mythes { --cc: var(--c-mythes); } .cat-apocryphes { --cc: var(--c-apocryphes); }
-.cat-litterature { --cc: var(--c-litterature); } .cat-peinture { --cc: var(--c-peinture); } .cat-musique { --cc: var(--c-musique); }
+.cat-litterature { --cc: var(--c-litterature); } .cat-peinture { --cc: var(--c-peinture); } .cat-musique { --cc: var(--c-musique); } .cat-croix { --cc: var(--c-croix); }
 .point-cat, .pastille-cat .point {
   flex: none; display: inline-block; width: .62rem; height: .62rem; border-radius: 50%;
   background: var(--cc, var(--c-perso));
@@ -477,6 +477,15 @@ body.visionneuse-ouverte { overflow: hidden; }
 .extrait-texte p { margin: 0 0 .55rem; font: italic 1.02rem/1.55 var(--serif); color: var(--encre-douce); hyphens: auto; white-space: pre-line; }
 .extrait-texte p:first-child::before { content: open-quote; }
 .extrait-texte p:last-child::after { content: close-quote; }
+/* Un extrait en langue étrangère : on touche le texte pour lire le français */
+.extrait-a-traduire, .extrait-francais { cursor: pointer; }
+.extrait-a-traduire:hover p, .extrait-francais:hover p { color: var(--encre); }
+.extrait-note { margin: 0 0 .35rem; font-size: .8rem; color: var(--encre-legere); }
+.extrait-traduire {
+  display: inline-block; margin: 0 0 .5rem; padding: .22rem .7rem; min-height: 2rem; border-radius: 999px;
+  font: 600 .84rem var(--sans); color: var(--accent); background: var(--accent-clair); border: 1px solid var(--accent); cursor: pointer;
+}
+.extrait-traduire:hover, .extrait-traduire:focus-visible { background: var(--accent); color: var(--sur-accent); }
 .extrait-source { margin: .2rem 0 0; font-size: .86rem; color: var(--encre-legere); line-height: 1.4; }
 .extrait-source::before { content: "— "; }
 .extrait-liens { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .45rem; }

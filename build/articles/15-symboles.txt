@@ -45,20 +45,22 @@ voir: hermes-trismegiste, mercure, serpent, kundalini, mercure-principe
 cat: symboles
 nom: Rose
 alias: la rose, rose mystique, rose sur la croix, rose-croix (symbole), sceau de Luther
+schema: croix/rose-croix
 def: Fleur symbolique par excellence de l'Occident, image de la beauté, de l'amour, du secret et de la perfection spirituelle, unie à la croix dans le symbole rosicrucien.
 texte: La rose est la fleur de Vénus et de l'amour courtois dans le *Roman de la Rose* ; dans la *Divine Comédie*, [[dante|Dante]] contemple le paradis sous la forme d'une immense rose blanche où siègent les bienheureux. Le latin *sub rosa*, « sous la rose », signifie « en secret ». Pour les alchimistes, le *Rosaire* est le jardin de la sagesse.
 texte: Le sceau de Luther montrait une croix dans un cœur posé sur une rose blanche, et les armoiries de la famille d'[[johann-valentin-andreae]] portaient une croix et des roses : l'emblème des [[rose-croix|Rose-Croix]] est né dans ce milieu luthérien. La rose épanouie au centre de la croix figure l'âme qui fleurit au cœur de l'épreuve, ou l'union du principe féminin et du principe masculin.
-voir: rose-croix, christian-rosenkreutz, rosaire-des-philosophes, pelican
+voir: croix, rose-croix, christian-rosenkreutz, rosaire-des-philosophes, pelican
 
 @ croix-ansee
-cat: egypte
+cat: croix
 nom: Croix ansée
-alias: ankh, ânkh, clé de vie, croix égyptienne, nœud d'Isis, tit
+alias: ankh, ânkh, clé de vie, croix égyptienne, nœud d'Isis, tit, ânkh oudja seneb
 glyphe: ankh
+schema: croix/ansee
 def: Signe égyptien en forme de croix surmontée d'une boucle, qui signifie « vie » dans l'écriture hiéroglyphique, et que les dieux tiennent à la main.
-texte: Dans les représentations égyptiennes, les dieux tendent l'*ânkh* vers le nez du pharaon pour lui donner le souffle de vie ; à [[amarna|Amarna]], les rayons du disque d'Aton se terminent par des mains qui le présentent au roi. L'origine de la forme est discutée : nœud de sandale, lien, ou symbole d'union. Il voisine dans les amulettes avec le pilier [[djed]] et le nœud d'[[isis|Isis]], ou *tit*. Les chrétiens coptes d'Égypte l'ont adopté comme forme de la croix, et l'on en voit gravées sur les murs du temple de [[philae|Philæ]] devenu église.
+texte: Dans les représentations égyptiennes, les dieux tendent l'*ânkh* vers le nez du pharaon pour lui donner le souffle de vie ; à [[amarna|Amarna]], les rayons du disque d'Aton se terminent par des mains qui le présentent au roi. L'origine de la forme est discutée : nœud de sandale, lien, ou symbole d'union. Il voisine dans les amulettes avec le pilier [[djed]] et le nœud d'[[isis|Isis]], ou *tit*. C'est le [[hieroglyphes|hiéroglyphe]] de la vie, qu'on associe au sceptre *ouas* (prospérité) et au vêtement plié *seneb* (santé) dans la formule qui suit le nom du roi : « vie, prospérité, santé ». Les chrétiens [[croix-copte|coptes]] d'Égypte l'ont adopté comme forme de la croix, et l'on en voit gravées sur les murs du temple de [[philae|Philæ]] devenu église.
 texte: L'[[egyptosophie]] moderne, la [[societe-theosophique|Société théosophique]], qui l'inscrit dans son sceau, puis la contre-culture et le [[new-age|New Age]] en ont fait un symbole très répandu d'immortalité et de sagesse égyptienne.
-voir: egyptosophie, hieroglyphes, societe-theosophique, djed, isis, amulette
+voir: croix, croix-copte, egyptosophie, hieroglyphes, societe-theosophique, djed, isis, amulette
 
 @ oeil-de-la-providence
 cat: symboles
@@ -219,11 +221,12 @@ voir: yi-king, neidan, astrologie-chinoise, androgyne
 @ svastika
 cat: symboles
 nom: Svastika
-alias: swastika, croix gammée, svastika, sauvastika
+alias: swastika, croix gammée, svastika, sauvastika, sautoir gammé
+schema: croix/svastika
 def: Croix aux branches coudées, l'un des plus anciens symboles de l'humanité, signe de bon augure en Inde, détourné au XXe siècle par le nazisme qui en a fait en Occident un symbole de haine.
-texte: Le mot sanskrit dérive de *svasti*, « bien-être ». Le signe apparaît dès le Néolithique en Eurasie et se retrouve chez les Grecs, les Celtes, les Germains et les Amérindiens. Il reste sacré dans l'hindouisme, le jaïnisme et le bouddhisme, où il orne les temples et les maisons. La [[societe-theosophique|Société théosophique]] l'inscrit dans son sceau à la fin du XIXe siècle.
+texte: Le mot sanskrit dérive de *svasti*, « bien-être ». Le signe apparaît dès le Néolithique en Eurasie et se retrouve chez les Grecs, les Celtes, les Germains et les Amérindiens. Il reste sacré dans l'hindouisme, le jaïnisme et le bouddhisme, où il orne les temples et les maisons. La [[societe-theosophique|Société théosophique]] l'inscrit dans son sceau à la fin du XIXe siècle. Il figure ici sous sa forme indienne, droit et cantonné de quatre points.
 texte: Les mouvements völkisch et l'[[ariosophie]] en font un emblème « aryen » ; le parti nazi l'adopte en 1920. Depuis, son usage est banni ou interdit dans plusieurs pays européens, tandis qu'il garde en Asie sa signification religieuse et bienfaisante.
-voir: ariosophie, societe-thule, societe-theosophique, runes, roue-solaire
+voir: croix, ariosophie, societe-thule, societe-theosophique, runes, roue-solaire, lauburu
 
 @ tetramorphe
 cat: symboles

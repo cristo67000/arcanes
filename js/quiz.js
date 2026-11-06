@@ -132,7 +132,9 @@
 
   /* Le premier paragraphe d'un extrait, raccourci, les noms des propositions tus. */
   function texteExtrait(cible, concernes) {
-    let texte = cible.ex[0][0].join(' ').replace(/\n/g, ' / ');
+    // un extrait en langue étrangère se présente dans sa traduction
+    const ex = cible.ex[0];
+    let texte = (ex[3] ? ex[3].t : ex[0]).join(' ').replace(/\n/g, ' / ');
     if (texte.length > 330) texte = texte.slice(0, 330).replace(/\s+\S*$/, '') + '…';
     return Dictionnaire.masquer(texte, concernes);
   }

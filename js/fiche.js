@@ -254,17 +254,58 @@
     return bloc;
   }
 
+  const NOMS_LANGUES = { en: 'anglais', pt: 'portugais', la: 'latin', de: 'allemand', it: 'italien', es: 'espagnol', el: 'grec' };
+
+  /* Un extrait en langue étrangère : on le touche (ou on presse le bouton) pour
+   * lire le français, et de même pour revenir au texte. Le bouton reste le
+   * chemin du clavier et des lecteurs d'écran. Un texte qu'on sélectionne pour
+   * le copier ne bascule pas. */
+  function poserTraduction(fig, citation, { l, t }, surligne) {
+    const langue = NOMS_LANGUES[l] || l;
+    citation.lang = l;
+    citation.classList.add('extrait-a-traduire');
+    const francais = element('blockquote', 'extrait-texte extrait-francais');
+    francais.lang = 'fr';
+    francais.hidden = true;
+    for (const p of t) francais.appendChild(Rendu.paragraphe(p, null, surligne));
+    fig.appendChild(francais);
+    const note = element('p', 'extrait-note', 'Traduction française écrite pour ce dictionnaire.');
+    note.hidden = true;
+    fig.appendChild(note);
+    const bouton = element('button', 'extrait-traduire', 'Lire en français');
+    bouton.type = 'button';
+    bouton.setAttribute('aria-expanded', 'false');
+    fig.appendChild(bouton);
+    const basculer = () => {
+      const versFrancais = francais.hidden;
+      francais.hidden = !versFrancais;
+      note.hidden = !versFrancais;
+      citation.hidden = versFrancais;
+      bouton.textContent = versFrancais ? 'Revoir le texte en ' + langue : 'Lire en français';
+      bouton.setAttribute('aria-expanded', String(versFrancais));
+    };
+    bouton.addEventListener('click', basculer);
+    for (const bloc of [citation, francais]) {
+      bloc.addEventListener('click', () => {
+        const choix = window.getSelection && window.getSelection();
+        if (choix && !choix.isCollapsed && bloc.contains(choix.anchorNode)) return;
+        basculer();
+      });
+    }
+  }
+
   /* Les extraits : des passages d'œuvres du domaine public, recopiés tels
    * quels, avec leur source et le lien vers le livre numérisé. */
   function blocExtraits(a, surligne) {
     if (!a.ex || !a.ex.length) return null;
     const bloc = element('section', 'extraits');
     bloc.appendChild(element('h3', 'rubrique', a.ex.length > 1 ? 'Extraits' : 'Extrait'));
-    for (const [paragraphes, reference, liens] of a.ex) {
+    for (const [paragraphes, reference, liens, traduction] of a.ex) {
       const fig = element('figure', 'extrait');
       const citation = element('blockquote', 'extrait-texte');
       for (const p of paragraphes) citation.appendChild(Rendu.paragraphe(p, null, surligne));
       fig.appendChild(citation);
+      if (traduction) poserTraduction(fig, citation, traduction, surligne);
       const legende = element('figcaption', 'extrait-source');
       legende.appendChild(Rendu.fragment(reference));
       const rang = element('span', 'extrait-liens');

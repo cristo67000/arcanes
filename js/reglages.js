@@ -75,7 +75,7 @@
     const b = bloc('Sons');
     const m = infos.manifeste;
     if (m && m.sons) {
-      b.appendChild(element('p', 'discret', Outils.pluriel(m.sons, 'son', 'sons') + ' du domaine public — cris d’animaux, musiques de Mozart, Wagner, Holst ou Berlioz, poèmes dits —, '
+      b.appendChild(element('p', 'discret', Outils.pluriel(m.sons, 'son', 'sons') + ' du domaine public — musiques de Mozart, Wagner, Holst ou Berlioz, cloches, poèmes dits —, '
         + Outils.humain(m.octetsSons) + '. Rien ne joue tout seul : chacun s’écoute en touchant son bouton, et reste ensuite disponible hors ligne.'));
     }
     const ligne = element('div', 'ligne-maj');

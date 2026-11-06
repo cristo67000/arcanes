@@ -65,7 +65,11 @@ du Saint-Empire, quatre romans de Maurice Leblanc, *Le Fantôme de l'Opéra*, la
 biodynamie et la pédagogie Waldorf, Vivekananda, Maître Eckhart, la pensée magique
 et le réalisme fantastique, et les légendes des Grands Travaux de Paris ; la version 1.13, Verlaine, Pessoa,
 Breton, Alexandre Dumas, Marc Haven, Grasset d'Orcet, la FUDOSI et *L'Anneau du
-Nibelung*.
+Nibelung* ; la version 1.14, une rubrique **Croix** (quarante croix dessinées, des
+formes premières aux Églises, aux ordres de chevalerie, au blason et aux provinces,
+avec leur histoire et leurs usages), *La Nouvelle Atlantide* de Bacon, le musée
+Gustave-Moreau, l'acrostiche ΙΧΘΥΣ dessiné, et la traduction française de tous les
+extraits en langue étrangère : on touche le texte pour la lire.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;
@@ -168,7 +172,7 @@ Nibelung*.
   propres voisins, et l'on voyage ainsi d'idée en idée sans quitter la fiche ;
   dessous, « le plus court chemin vers… » trouve la plus courte suite de liens
   d'un article à un autre (de Pythagore à Rennes-le-Château…) ;
-- **36 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
+- **40 figures** dessinées (arbre des séphiroth, zodiaque, sept planètes, Grand
   Œuvre, carré de Saturne, arcanes, géomancie, trigrammes, ennéagramme, plan
   d'une loge, rites maçonniques…), dont les éléments sont cliquables ;
 - des **outils à manipuler**, chacun dans son article et rangés sur l'accueil :
@@ -225,7 +229,10 @@ chacune avec son auteur et sa date, sans qu'aucune passe pour le sens du mythe.
 Les textes sont **originaux** : aucune source tierce n'est recopiée, il n'y a
 donc pas de question de licence. Seuls les **extraits**, présentés comme tels,
 sont des citations d'œuvres du domaine public, recopiées des transcriptions de
-Wikisource (ou du Projet Gutenberg) et accompagnées de leur référence. Les dates
+Wikisource (ou du Projet Gutenberg) et accompagnées de leur référence. Ceux qui
+sont en langue étrangère portent une traduction française écrite pour ce
+dictionnaire : on touche le texte pour la lire, on le touche encore pour revenir
+à l'original. Les dates
 anciennes sont souvent approximatives et le disent (« vers »).
 
 Les liens extérieurs sont rangés à part, dans `build/liens.txt` (une ligne par
@@ -266,7 +273,7 @@ index.html  manifest.webmanifest  sw.js  confidentialite.html
 css/        theme.css (couleurs, polices) · figure.css · app.css · page.css
 js/         un module par écran ou par rôle — voir l'en-tête de chacun
 js/glyphes.js   les signes (planètes, zodiaque, éléments) dessinés au trait
-js/figure.js    le moteur des figures ; js/figures/*.js, les 36 figures
+js/figure.js    le moteur des figures ; js/figures/*.js, les 40 figures
 js/illustrations.js  les images, la visionneuse, leur cache hors ligne
 js/carte.js     la carte des lieux, le plan de situation des fiches, la position
 js/constellation.js  la carte des liens de chaque fiche
@@ -323,7 +330,8 @@ d'une phrase (règle dans `construire.mjs`, liste des noms propres à garder).
 Un lieu porte `geo: 42.8756, 1.8322` (d'après Wikidata) et `lieu: Ariège,
 Occitanie, France` ; un extrait s'écrit `extrait: le passage…` suivi de
 `source: Auteur, *Titre*, date, chapitre | gallica bpt6k… | ws Page Wikisource`
-(`wsen` pour la Wikisource anglaise, quand on cite le texte original).
+(`wsen` pour la Wikisource anglaise, quand on cite le texte original, suivi alors
+de `langue: en` et `traduction: le passage en français`).
 Les `repere:` s'écrivent « date — fait. », dans l'ordre chronologique : la
 construction le vérifie.
 

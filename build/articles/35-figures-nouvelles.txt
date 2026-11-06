@@ -337,12 +337,12 @@ voir: bestiaire, lapidaire, licorne, basilic, phenix, salamandre, manticore, phy
 @ francis-bacon
 cat: figures
 nom: Francis Bacon
-alias: Bacon, lord Verulam, La Nouvelle Atlantide, Maison de Salomon, Novum Organum, théorie baconienne
+alias: Bacon, lord Verulam, Novum Organum, théorie baconienne
 dates: 1561 – 1626
 an: 1561
 def: Philosophe et homme d'État anglais, chancelier d'Angleterre, apôtre de la science expérimentale, auteur de *La Nouvelle Atlantide* ; on lui a prêté l'œuvre de Shakespeare, la fondation des Rose-Croix et celle de la franc-maçonnerie.
 texte: Fils d'un garde des Sceaux, Bacon fait carrière sous Élisabeth et Jacques Ier jusqu'à devenir lord chancelier en 1618 ; condamné pour corruption en 1621, il se retire. Son *Novum Organum* (1620) veut refonder la connaissance sur l'expérience et l'induction ; le *De augmentis scientiarum* (1623) contient son [[chiffre-de-bacon|chiffre bilitère]]. Il meurt en 1626 d'un refroidissement contracté, dit-on, en farcissant de neige un poulet pour étudier la conservation.
-texte: Sa *Nouvelle Atlantide*, publiée en 1627, décrit une île inconnue gouvernée par les savants de la « Maison de Salomon », qui étudient secrètement toute la nature : l'utopie a inspiré la Société royale de Londres. [[frances-yates|Frances Yates]] a rapproché ces idées des manifestes [[rose-croix]], et bien des auteurs ont fait de Bacon un chef caché des Rose-Croix ou le père de la [[franc-maconnerie]] spéculative. Depuis Delia Bacon (1857) et [[ignatius-donnelly|Ignatius Donnelly]], des « baconiens » voient en lui le véritable auteur des pièces de Shakespeare ; aucune de ces thèses n'a résisté aux historiens.
+texte: Sa *[[la-nouvelle-atlantide|Nouvelle Atlantide]]*, publiée après sa mort, décrit une île inconnue gouvernée par les savants de la « Maison de Salomon », qui étudient secrètement toute la nature : l'utopie a inspiré la Société royale de Londres. [[frances-yates|Frances Yates]] a rapproché ces idées des manifestes [[rose-croix]], et bien des auteurs ont fait de Bacon un chef caché des Rose-Croix ou le père de la [[franc-maconnerie]] spéculative. Depuis Delia Bacon (1857) et [[ignatius-donnelly|Ignatius Donnelly]], des « baconiens » voient en lui le véritable auteur des pièces de Shakespeare ; aucune de ces thèses n'a résisté aux historiens.
 repere: 1561 — Naissance à Londres, le 22 janvier.
 repere: 1605 — *Du progrès et de la promotion des savoirs*.
 repere: 1618 — Lord chancelier.
@@ -350,7 +350,7 @@ repere: 1620 — *Novum Organum*.
 repere: 1623 — *De augmentis scientiarum*, avec le chiffre bilitère.
 repere: 1626 — Mort à Highgate, le 9 avril.
 repere: 1627 — Publication posthume de *La Nouvelle Atlantide*.
-voir: chiffre-de-bacon, atlantide, rose-croix, frances-yates, ignatius-donnelly, salomon, franc-maconnerie, de-la-sagesse-des-anciens
+voir: la-nouvelle-atlantide, chiffre-de-bacon, atlantide, rose-croix, frances-yates, ignatius-donnelly, salomon, franc-maconnerie, de-la-sagesse-des-anciens
 
 @ blaise-de-vigenere
 cat: figures

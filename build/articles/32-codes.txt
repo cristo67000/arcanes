@@ -257,11 +257,11 @@ voir: temourah, palindrome, acrostiche, francois-rabelais, nostradamus, langue-d
 @ acrostiche
 cat: codes
 nom: Acrostiche
-alias: acrostiches, ichthys, acrostiche sibyllin, Poliam frater Franciscus Columna
+alias: acrostiches, acrostiche sibyllin, Poliam frater Franciscus Columna
 def: Texte dont les initiales des vers ou des chapitres, lues de haut en bas, forment un mot ou une phrase ; le poisson des chrétiens et l'auteur du *Songe de Poliphile* se cachent dans des acrostiches.
-texte: Le mot grec ΙΧΘΥΣ, « poisson », forme l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » : c'est le [[poisson]] des premiers chrétiens. Un poème des *Oracles sibyllins* sur le jugement dernier, que saint Augustin cite dans *La Cité de Dieu*, fait lire la même formule à ses initiales, signe qu'on attribuait aux [[sibylles]] l'annonce du Christ. Villon signe de son nom, en acrostiche, sa *Ballade pour prier Notre-Dame*.
+texte: Le mot grec ΙΧΘΥΣ, « poisson », forme l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » : c'est l'[[ichthys]], le [[poisson]] des premiers chrétiens. Un poème des *Oracles sibyllins* sur le jugement dernier, que saint Augustin cite dans *La Cité de Dieu*, fait lire la même formule à ses initiales, signe qu'on attribuait aux [[sibylles]] l'annonce du Christ. Villon signe de son nom, en acrostiche, sa *Ballade pour prier Notre-Dame*.
 texte: Les lettres ornées qui ouvrent les trente-huit chapitres du *[[songe-de-poliphile|Songe de Poliphile]]* (1499) forment la phrase latine *Poliam frater Franciscus Columna peramavit*, « frère Francesco Colonna aima passionnément Polia » : c'est par cet acrostiche qu'on connaît l'auteur du livre. L'acrostiche est une [[steganographie|stéganographie]] élémentaire, souvent employée pour cacher une dédicace ou une signature.
-voir: poisson, songe-de-poliphile, sibylles, anagramme, palindrome, steganographie
+voir: ichthys, poisson, songe-de-poliphile, sibylles, anagramme, palindrome, steganographie
 
 @ argot
 cat: codes

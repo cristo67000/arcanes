@@ -622,6 +622,38 @@ try {
   await attendre("Fiche.ouverte && Fiche.ref === 'kabbale'", 4000, '« ?article=kabbale » ouvre l’article');
   ok(await js("return Fiche.ref") === 'kabbale', 'l’adresse « ?article=kabbale » ouvre l’article');
 
+  // ── Un extrait en langue étrangère : on le touche, on lit le français ─────
+  await demarrage(BASE + 'index.html?article=oedipe');
+  await attendre("Fiche.ouverte && Fiche.ref === 'oedipe' && document.querySelector('.extrait-traduire')", 4000, 'l’extrait de Bacon a son bouton');
+  const traduction = await js(`
+    const fig = document.querySelector('figure.extrait');
+    const original = fig.querySelector('.extrait-a-traduire');
+    const francais = fig.querySelector('.extrait-francais');
+    const bouton = fig.querySelector('.extrait-traduire');
+    const avant = { original: !original.hidden, francais: !francais.hidden };
+    original.querySelector('p').click();
+    const apres = { original: !original.hidden, francais: !francais.hidden, texte: francais.textContent, bouton: bouton.textContent };
+    francais.querySelector('p').click();
+    const retour = { original: !original.hidden, francais: !francais.hidden };
+    bouton.click();
+    const auBouton = { francais: !francais.hidden, deplie: bouton.getAttribute('aria-expanded') };
+    return { avant, apres, retour, auBouton, langue: original.lang };
+  `);
+  ok(traduction.avant.original && !traduction.avant.francais && traduction.langue === 'en', 'un extrait en anglais s’affiche d’abord en anglais');
+  ok(traduction.apres.francais && !traduction.apres.original && /homme pénétrant/.test(traduction.apres.texte) && /anglais/.test(traduction.apres.bouton), 'toucher le texte donne le français');
+  ok(traduction.retour.original && !traduction.retour.francais, 'toucher le français rend le texte d’origine');
+  ok(traduction.auBouton.francais && traduction.auBouton.deplie === 'true', 'le bouton fait de même, pour le clavier');
+
+  // ── La rubrique Croix : une planche de croix, chacune mène à son article ──
+  await demarrage(BASE + 'index.html?article=croix');
+  await attendre("Fiche.ouverte && Fiche.ref === 'croix' && document.querySelector('.figure-svg')", 4000, 'la planche des croix s’affiche');
+  ok(await js("return document.querySelectorAll('.figure-svg .f-case-croix[data-ref]').length") === 40, 'la planche montre quarante croix cliquables');
+  ok(await js("return Array.from(document.querySelectorAll('.figure-svg .f-case-croix path, .figure-svg .f-case-croix circle, .figure-svg .f-case-croix ellipse, .figure-svg .f-case-croix line')).every((e) => { const b = e.getBBox(); return b.width + b.height > 0; })"), 'chaque croix a bien un dessin');
+  await js("document.querySelector('.figure-svg .f-case-croix[data-ref=\"croix-de-malte\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
+  await attendre("Fiche.ref === 'croix-de-malte' && document.querySelector('.figure-svg')", 4000, 'toucher la croix de Malte ouvre son article');
+  ok(await js("return Fiche.ref") === 'croix-de-malte', 'une croix de la planche mène à son article');
+  ok(await js("return Dictionnaire.parId('musee-gustave-moreau').c") === 'lieux', 'le musée Gustave-Moreau est parmi les lieux');
+
   // ── Le service worker, la coquille et le hors-ligne ───────────────────────
   await demarrage();
   const sonde = await js("try { const c = await caches.open('sonde'); await c.put('/sonde', new Response('bonjour')); await caches.delete('sonde'); return true; } catch (e) { return String(e); }");

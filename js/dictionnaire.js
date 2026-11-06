@@ -83,7 +83,7 @@
     a.cles = cles;
     a.defNue = nu(a.d);
     a.texte = normaliser(a.defNue + ' ' + (a.t || []).map(nu).join(' ') + ' ' + (a.re || []).map((r) => nu(r[1])).join(' ')
-      + ' ' + (a.lo || '') + ' ' + (a.ex || []).map((x) => nu(x[0].join(' '))).join(' '));
+      + ' ' + (a.lo || '') + ' ' + (a.ex || []).map((x) => nu(x[0].join(' ') + (x[3] ? ' ' + x[3].t.join(' ') : ''))).join(' '));
     const premiere = a.cleTri.charAt(0).toUpperCase();
     a.lettre = /[A-Z]/.test(premiere) ? premiere : '#';
     return a;

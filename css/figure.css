@@ -127,8 +127,32 @@
 .f-grade-bleu { fill: var(--c-maconnerie); }
 .f-grade-haut { fill: var(--or-clair); stroke: var(--or); stroke-width: 1; }
 
+/* Les croix : couleurs du thème, ou émaux fixes pour les ordres et les drapeaux */
+.f-croix { fill: var(--encre-douce); stroke: none; }
+.f-croix-ligne, .f-croix-ligne-fine, .f-croix-ligne-moyenne { fill: none; stroke: var(--encre-douce); stroke-linecap: round; stroke-linejoin: round; }
+.f-croix-ligne { stroke-width: 8; }
+.f-croix-ligne-moyenne { stroke-width: 6; }
+.f-croix-ligne-fine { stroke-width: 3; }
+.f-croix-vide { fill: var(--carte); stroke: none; }
+.f-croix-grande .f-croix { fill: var(--accent); }
+.f-croix-grande .f-croix-ligne, .f-croix-grande .f-croix-ligne-fine, .f-croix-grande .f-croix-ligne-moyenne { stroke: var(--accent); }
+.f-halo-croix { fill: var(--carte); stroke: var(--trait); stroke-width: 1; }
+.f-cadre-croix { fill: var(--carte); stroke: var(--trait); stroke-width: 1; }
+.f-lien:hover .f-cadre-croix { stroke: var(--accent); stroke-width: 1.6; }
+.f-lien:hover .f-croix { fill: var(--accent); }
+.f-lien:hover .f-croix-ligne, .f-lien:hover .f-croix-ligne-fine, .f-lien:hover .f-croix-ligne-moyenne { stroke: var(--accent); }
+.f-plein-rouge { fill: #b3261e; } .f-plein-noir { fill: #1b1720; } .f-plein-blanc { fill: #f7f5ef; }
+.f-plein-vert { fill: #1f7a3f; } .f-plein-or { fill: #c9a227; }
+.f-fond-blanc { fill: #f7f5ef; stroke: #8d8778; stroke-width: 1.5; }
+.f-fond-noir { fill: #1b1720; stroke: #8d8778; stroke-width: 1.5; }
+.f-fond-rouge { fill: #b3261e; stroke: #8d8778; stroke-width: 1.5; }
+.f-fond-bleu { fill: #2a4f96; stroke: #8d8778; stroke-width: 1.5; }
+.f-rose-coeur { fill: #e25b4f; }
+.f-poisson { fill: none; stroke: var(--accent); stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.f-poisson-corps { fill: var(--accent-clair); stroke: none; }
+
 /* Les groupes : sans style propre, ils rassemblent ce qu'un lien rend cliquable */
-.f-phase, .f-sommet, .f-operation, .f-secteur-zodiaque, .f-ligne-table, .f-sentiers, .f-noeud, .f-niveau, .f-zone { }
+.f-phase, .f-sommet, .f-operation, .f-secteur-zodiaque, .f-ligne-table, .f-sentiers, .f-noeud, .f-niveau, .f-zone, .f-case-croix, .f-groupe-poisson, .f-croix-grande { }
 
 /* Les éléments cliquables d'une figure ouvrent un article */
 .f-lien { cursor: pointer; }

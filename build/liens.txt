@@ -1447,3 +1447,49 @@ marc-haven: en Marc Haven
 grasset-d-orcet: wp Claude Sosthène Grasset d'Orcet | bnf 12610258j
 fudosi: en FUDOSI
 l-anneau-du-nibelung: wp L'Anneau du Nibelung | ws L’Anneau du Nibelung | bnf 13985302h
+
+# Version 1.14 : le musée Moreau, La Nouvelle Atlantide, l'ichthys, les croix
+musee-gustave-moreau: wp Musée Gustave-Moreau | url https://musee-moreau.fr/ = le site du musée
+la-nouvelle-atlantide: wp La Nouvelle Atlantide | en New Atlantis | ws Nouvelle Atlantide (trad. Lasalle) | wsen The New Atlantis
+ichthys: wp Ichthus | en Ichthys | wp Pectorios d'Autun
+croix: wp Croix | en Christian cross
+croix-latine: wp Croix latine
+croix-grecque: wp Croix grecque
+croix-de-saint-andre: wp Croix de saint André
+croix-de-saint-pierre: wp Croix de saint Pierre
+croix-en-tau: wp Croix de saint Antoine | en Tau cross
+croix-de-lorraine: wp Croix de Lorraine
+croix-papale: wp Férule papale | en Papal cross
+croix-orthodoxe: wp Croix orthodoxe
+croix-armenienne: wp Croix arménienne | wp Khatchkar
+croix-copte: en Coptic cross
+croix-ethiopienne: wp Croix éthiopienne | en Ethiopian cross
+croix-celtique: wp Croix celtique
+croix-de-saint-thomas: wp Croix de saint Thomas
+croix-huguenote: wp Croix huguenote
+croix-serbe: wp Croix serbe
+croix-des-ordres-militaires: wp Ordre militaire
+croix-des-templiers: wp Ordre du Temple | en Knights Templar
+croix-de-malte: wp Croix de Malte | en Maltese cross
+croix-teutonique: wp Ordre Teutonique | wp Croix de fer | en Teutonic Order
+croix-de-jerusalem: wp Croix de Jérusalem
+croix-de-saint-lazare: wp Ordre de Saint-Lazare de Jérusalem
+croix-de-saint-jacques: wp Croix de saint Jacques | en Order of Santiago
+croix-de-calatrava: wp Ordre de Calatrava | wp Ordre d'Alcántara
+croix-de-l-ordre-du-christ: en Military Order of Christ | wp Ordre de Montesa
+croix-du-saint-esprit: wp Ordre du Saint-Esprit | wp Ordre des Hospitaliers du Saint-Esprit
+croix-pattee: wp Croix pattée
+croix-potencee: wp Croix potencée
+croix-de-saint-georges: wp Croix de saint Georges
+croix-scandinave: wp Croix scandinave
+croix-de-bourgogne: wp Croix de Bourgogne
+croix-occitane: wp Croix occitane
+lauburu: wp Croix basque
+croix-camarguaise: wp Croix camarguaise
+croix-d-agadez: wp Croix d'Agadez
+crucifix: wp Crucifix
+signe-de-croix: wp Signe de croix
+croix-monumentale: wp Croix monumentale
+croix-heraldiques: wp Croix (héraldique)
+obele: wp Obèle
+le-symbolisme-de-la-croix: ws Le symbolisme de la croix/Préface = la préface de l'édition de 1957

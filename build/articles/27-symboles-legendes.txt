@@ -68,13 +68,15 @@ source: *La Sainte Bible*, trad. Louis Segond, 1910, Exode, chap. XXV, versets 1
 voir: temple-de-salomon, acacia, menorah, templiers, salomon, kebra-nagast, moise, construction-du-temple
 
 @ chrisme
-cat: symboles
+cat: croix
 nom: Chrisme
-alias: chi-rhô, monogramme du Christ, labarum, In hoc signo vinces
+alias: chi-rhô, monogramme du Christ, labarum, In hoc signo vinces, staurogramme, tau-rhô, croix monogrammatique, alpha et oméga
+schema: croix/chrisme
 def: Monogramme formé des deux premières lettres grecques du nom du Christ, X et P, que l'empereur Constantin aurait fait peindre sur les boucliers de ses soldats avant sa victoire de 312.
 texte: Le signe entrelace le chi (X) et le rhô (P) de *Christos* ; les scribes grecs l'employaient déjà pour marquer un passage remarquable. Lactance, vers 315, raconte que [[constantin|Constantin]] fut averti en songe, avant la bataille du pont Milvius contre Maxence, de faire mettre sur les boucliers le « signe céleste de Dieu » ; Eusèbe de Césarée, plus tard, parle d'une croix de lumière apparue dans le ciel avec ces mots : « Par ce signe, tu vaincras ». L'empereur fit faire un étendard portant le chrisme, le labarum.
 texte: Souvent encadré de l'alpha et de l'oméga, le chrisme orne les sarcophages, les mosaïques et les tympans romans, comme celui de la cathédrale de Jaca, en Aragon, où il reçoit une lecture trinitaire. [[rene-guenon|René Guénon]] l'a étudié comme une forme de la roue et du symbole du centre, et l'a retrouvé dans les marques des anciennes corporations.
-voir: constantin, sainte-lance, legende-doree, triskele
+texte: Son cousin, le staurogramme, superpose le tau et le rhô. Le signe existe déjà sur les monnaies d'Hérode, en 37 avant notre ère, comme simple ligature. Les plus anciens manuscrits du Nouveau Testament, les papyrus 𝔓⁶⁶, 𝔓⁴⁵ et 𝔓⁷⁵, l'emploient pour abréger *stauros*, la croix, et il dessine peut-être à leurs yeux Jésus crucifié : c'est l'une des plus vieilles images de la croix qu'on connaisse. Comme monogramme du Christ, il se répand en Occident aux Ve et VIe siècles, parfois avec l'alpha et l'oméga.
+voir: croix, constantin, sainte-lance, legende-doree, triskele, le-symbolisme-de-la-croix
 
 @ sainte-lance
 cat: symboles

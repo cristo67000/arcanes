@@ -60,6 +60,21 @@
     pentagramme: { nom: 'Pentagramme', d: 'M12 3.5L17.29 19.78L3.44 9.72H20.56L6.71 19.78Z' },
     hexagramme: { nom: 'Hexagramme', d: 'M12 3L19.79 16.5H4.21ZM12 21L19.79 7.5H4.21Z' },
     ankh: { nom: 'Croix ansée', d: 'M12 11C8.5 9 8.3 3 12 3C15.7 3 15.5 9 12 11ZM12 11V21.5M6.5 12.2H17.5' },
+
+    // ── Les croix ───────────────────────────────────────────────────────────
+    'croix-latine': { nom: 'Croix latine', d: 'M12 2.5V21.5M5.5 8.5H18.5' },
+    'croix-grecque': { nom: 'Croix grecque', d: 'M12 3.5V20.5M3.5 12H20.5' },
+    'croix-en-x': { nom: 'Croix de saint André', d: 'M5 5L19 19M19 5L5 19' },
+    'croix-renversee': { nom: 'Croix renversée', d: 'M12 2.5V21.5M5.5 15.5H18.5' },
+    'croix-tau': { nom: 'Croix en tau', d: 'M4.5 4.5H19.5M12 4.5V21' },
+    'croix-double': { nom: 'Croix à double traverse', d: 'M12 2.5V21.5M8.5 6H15.5M5.5 11H18.5' },
+    'croix-triple': { nom: 'Croix papale', d: 'M12 2.5V21.5M9.5 5H14.5M7.5 8.8H16.5M5.5 12.6H18.5' },
+    'croix-orthodoxe': { nom: 'Croix orthodoxe', d: 'M12 2.5V21.5M9 5.5H15M5.5 9.5H18.5M8.5 15.5L15.5 18' },
+    'croix-celtique': { nom: 'Croix celtique', d: CERCLE(12, 9, 5.5) + 'M12 2V22M4.5 9H19.5' },
+    'croix-pattee': { nom: 'Croix pattée', d: 'M12 12L8.5 3H15.5ZM12 12L21 8.5V15.5ZM12 12L15.5 21H8.5ZM12 12L3 15.5V8.5Z' },
+    'croix-malte': { nom: 'Croix de Malte', d: 'M12 12L7.5 2.5L12 5.5L16.5 2.5ZM12 12L21.5 7.5L18.5 12L21.5 16.5ZM12 12L16.5 21.5L12 18.5L7.5 21.5ZM12 12L2.5 16.5L5.5 12L2.5 7.5Z' },
+    'croix-potencee': { nom: 'Croix potencée', d: 'M12 3V21M3 12H21M8 3H16M8 21H16M3 8V16M21 8V16' },
+    'croix-jerusalem': { nom: 'Croix de Jérusalem', d: 'M12 3.5V20.5M3.5 12H20.5M9 3.5H15M9 20.5H15M3.5 9V15M20.5 9V15M6.5 5V8M5 6.5H8M17.5 5V8M16 6.5H19M6.5 16V19M5 17.5H8M17.5 16V19M16 17.5H19' },
   };
 
   /* Les signes du zodiaque dans l'ordre, et les planètes dans l'ordre

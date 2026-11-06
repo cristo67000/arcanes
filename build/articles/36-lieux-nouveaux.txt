@@ -119,7 +119,7 @@ repere: 1888 — Séjour de Van Gogh.
 repere: 1935 — Première procession de Sara jusqu'à la mer.
 extrait: Car le portail (paupière — de cette chapelle bénie), — regarde sur l’église : — là-bas, dans l’extrême lointain, — on voit de là la blanche limite — qui joint ensemble et sépare — le ciel rond et l’onde amère ; — on voit de la grande mer l’éternelle révolution. ¶ Sans cesse les vagues insensées — qui se montent les unes sur les autres, jamais lasses — de se perdre en mugissant dans les monceaux de sable ; — du côté de la terre, une plaine — interminable ; pas une éminence — qui enceigne son horizon ; — un ciel immense et clair sur des savanes prodigieuses. ¶ Des tamaris (au feuillage) clair, — et au moindre vent mobiles ; — de longues friches de salicornes, et dans l’onde parfois — une volée de cygnes qui se purifie ; — ou bien dans la sansouire stérile — un troupeau de bœufs qui pâture, — ou qui passe à la nage l’eau du Vaccarés. (…) Elles sont sur une barque sans voile, — s’écria Mireille… — Devant elles, — ne voyez-vous pas comme l’onde aplanit ses tourbillons ? — Oh ! c’est bien elles ! L’air est clair, — et l’haleine suave qui les amène, — aussi lentement qu’elle peut voltige… — Les oiseaux de la mer les saluent à volées.
 source: Frédéric Mistral, *Mireille*, 1859, chant XII, traduction de l’auteur, Charpentier, 1861 | ws Mireille/Chant XII
-voir: marie-madeleine, rene-d-anjou, vierges-noires, sainte-baume, saint-maximin, tarasque, frederic-mistral, sara-la-kali, la-reine-du-sabbat, rouletabille-chez-les-bohemiens
+voir: marie-madeleine, rene-d-anjou, vierges-noires, sainte-baume, saint-maximin, tarasque, frederic-mistral, sara-la-kali, la-reine-du-sabbat, rouletabille-chez-les-bohemiens, croix-camarguaise
 
 @ sainte-baume
 cat: lieux

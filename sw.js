@@ -17,7 +17,7 @@
  * `build/essais.mjs` compare les deux et échoue à la moindre différence.
  */
 
-const VERSION = 'v1.13.0';
+const VERSION = 'v1.14.0';
 const COQUILLE = 'arcanes-coquille-' + VERSION;
 
 const FICHIERS = [
@@ -41,6 +41,7 @@ const FICHIERS = [
   'js/figures/alchimie.js',
   'js/figures/tarot.js',
   'js/figures/symboles.js',
+  'js/figures/croix.js',
   'js/sons.js',
   'js/animations.js',
   'js/illustrations.js',

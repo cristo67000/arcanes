@@ -221,13 +221,13 @@ voir: cabinet-de-reflexion, abraxas, platon, aigle, soleil
 @ poisson
 cat: bestiaire
 nom: Poisson
-alias: poissons, ichthys, ichtus, poisson chrétien, Oannès, Jonas, ère des Poissons
-def: Animal des eaux devenu le signe secret des premiers chrétiens, le mot grec *ichthys* formant l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » ; il est aussi le signe zodiacal des Poissons.
-texte: Les lettres du mot grec ΙΧΘΥΣ, « poisson », sont les initiales de *Iêsous Christos Theou Yios Sôtêr* : cet [[acrostiche]] a fait du poisson un signe de reconnaissance, gravé dans les catacombes et sur les épitaphes. Les apôtres étaient pêcheurs, le Christ multiplie les pains et les poissons, et [[jonas|Jonas]], resté trois jours dans le ventre d'un grand poisson, préfigure la résurrection. Le livre de Tobie fait guérir l'aveugle et chasser le démon [[asmodee|Asmodée]] par le cœur et le fiel d'un poisson. La [[vesica-piscis|vesica piscis]], « vessie de poisson », est la figure en amande des auréoles.
+alias: poissons, Oannès, Jonas, ère des Poissons
+def: Animal des eaux devenu le signe des premiers chrétiens, le mot grec *ichthys* formant l'acrostiche de « Jésus-Christ, Fils de Dieu, Sauveur » ; il est aussi le signe zodiacal des Poissons.
+texte: Les lettres du mot grec ΙΧΘΥΣ, « poisson », sont les initiales de *Iêsous Christos Theou Yios Sôtêr* : cet [[acrostiche]], l'[[ichthys]], a fait du poisson un signe chrétien, gravé dans les catacombes et sur les épitaphes. Les apôtres étaient pêcheurs, le Christ multiplie les pains et les poissons, et [[jonas|Jonas]], resté trois jours dans le ventre d'un grand poisson, préfigure la résurrection. Le livre de Tobie fait guérir l'aveugle et chasser le démon [[asmodee|Asmodée]] par le cœur et le fiel d'un poisson. La [[vesica-piscis|vesica piscis]], « vessie de poisson », est la figure en amande des auréoles.
 texte: Les Babyloniens racontaient qu'un être mi-homme mi-poisson, Oannès, sortit de la mer pour enseigner aux hommes l'écriture et les arts ; le dieu Vishnou s'incarne en poisson pour sauver le premier homme du déluge. Le [[roi-pecheur|Roi Pêcheur]] garde le [[graal|Graal]]. Les astrologues font coïncider l'ère chrétienne avec l'« ère des [[poissons|Poissons]] », que doit remplacer l'[[ere-du-verseau|ère du Verseau]].
 extrait: L’Éternel fit venir un grand poisson pour engloutir Jonas, et Jonas fut dans le ventre du poisson trois jours et trois nuits. Jonas, dans le ventre du poisson, pria l’Éternel, son Dieu. Il dit : ¶ Dans ma détresse, j’ai invoqué l’Éternel, // Et il m’a exaucé ; // Du sein du séjour des morts j’ai crié, // Et tu as entendu ma voix.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Jonas, chap. II, versets 1-3 | ws Bible Segond 1910/Jonas
-voir: acrostiche, vesica-piscis, poissons, ere-du-verseau, roi-pecheur, quinotaure, asmodee, dauphin, cent-cinquante-trois, jonas
+voir: ichthys, acrostiche, vesica-piscis, poissons, ere-du-verseau, roi-pecheur, quinotaure, asmodee, dauphin, cent-cinquante-trois, jonas
 
 @ aigle
 cat: bestiaire

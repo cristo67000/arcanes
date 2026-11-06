@@ -243,6 +243,38 @@ ok(extraits.every(([, [p, ref, li]]) => p.length && p.every((t) => t.length > 20
 ok(extraits.every(([, [, , li]]) => li.every((l) => l.length === 3 && /^https:\/\/(gallica\.bnf\.fr|(fr|en|pt)\.wikisource\.org|archive\.org|data\.bnf\.fr)\//.test(l[2]))), 'les extraits mènent au livre : Gallica, Wikisource, l’Internet Archive ou la notice de la BnF');
 ok(extraits.filter(([, [, , li]]) => li.some((l) => l[2].includes('gallica.bnf.fr'))).length >= 15, 'la plupart des extraits mènent à Gallica');
 
+// Un texte en langue étrangère porte sa traduction : la fiche la donne quand on le touche.
+const MOTS = (texte) => texte.toLowerCase().match(/\p{L}+/gu) || [];
+const proportion = (texte, liste) => { const m = MOTS(texte); return m.filter((x) => liste.has(x)).length / Math.max(1, m.length); };
+const MOTS_FR = new Set('le la les des une est que qui dans pour avec sur par son ses ces cette être il elle nous vous ne pas et du de au aux un'.split(' '));
+const traduits = extraits.filter(([, x]) => x[3]);
+ok(traduits.length >= 15, 'des extraits en langue étrangère ont leur traduction (' + traduits.length + ')');
+for (const [id, [p, , , tr]] of traduits) {
+  ok(tr.t.length === p.length && tr.t.every((x, i) => x.length > 20 && !/\/\/|¶|\[\[/.test(x) && x.split('\n').length === p[i].split('\n').length), 'la traduction de « ' + id + ' » suit l’extrait, paragraphe par paragraphe et vers par vers');
+  const rapport = tr.t.join(' ').length / p.join(' ').length;
+  ok(rapport > 0.75 && rapport < 1.6, 'la traduction de « ' + id + ' » a la longueur de l’original (' + rapport.toFixed(2) + ')');
+  ok(proportion(tr.t.join(' '), MOTS_FR) >= 0.12, 'la traduction de « ' + id + ' » est bien en français');
+}
+for (const [id, [p, , , tr]] of extraits) {
+  if (!tr) ok(proportion(p.join(' '), new Set('the of and that which with for was his from they this have not are but were had upon their shall will'.split(' '))) < 0.1, 'l’extrait de « ' + id + ' » n’est pas de l’anglais sans traduction');
+}
+const fiche = lire('js/fiche.js');
+ok(fiche.includes('extrait-traduire') && fiche.includes('poserTraduction'), 'la fiche donne la traduction quand on touche le texte');
+ok(lire('build/pages.mjs').includes('<details class="traduction">'), 'les pages sans script donnent aussi la traduction');
+
+// La rubrique Croix : chaque dessin mène à un article, et chaque article nommé a son dessin
+const croixJs = lire('js/figures/croix.js');
+const idsCroix = new Set(dico.articles.map((a) => a.id));
+const renvoisCroix = [...croixJs.matchAll(/\br: '([a-z0-9-]+)'/g)].map((m) => m[1]);
+ok(renvoisCroix.length >= 35 && renvoisCroix.every((r) => idsCroix.has(r)), 'chaque croix dessinée mène à un article (' + renvoisCroix.length + ')');
+const rubriqueCroix = dico.articles.filter((a) => a.c === 'croix');
+ok(rubriqueCroix.length >= 30, 'la rubrique Croix a ses articles (' + rubriqueCroix.length + ')');
+for (const a of rubriqueCroix) {
+  ok(['croix', 'croix-des-ordres', 'croix-heraldiques'].includes(String(a.sc || '').split('/')[0]) || ['crucifix', 'signe-de-croix', 'croix-monumentale'].includes(a.id), 'l’article « ' + a.id + ' » a son dessin');
+}
+ok(dico.articles.find((a) => a.id === 'ichthys').sc === 'ichthys', 'l’acrostiche ΙΧΘΥΣ est dessiné dans son article');
+ok(dico.articles.find((a) => a.id === 'musee-gustave-moreau').c === 'lieux' && !!dico.articles.find((a) => a.id === 'musee-gustave-moreau').g, 'le musée Gustave-Moreau est sur la carte');
+
 // ── Les pages des articles (a/*.html) ───────────────────────────────────────
 const pagesA = fs.existsSync(path.join(RACINE, 'a')) ? fs.readdirSync(path.join(RACINE, 'a')).filter((f) => f.endsWith('.html')) : [];
 ok(pagesA.length === dico.articles.length && dico.articles.every((a) => pagesA.includes(a.id + '.html')), 'chaque article a sa page web (' + pagesA.length + ')');

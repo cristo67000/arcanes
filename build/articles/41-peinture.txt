@@ -10,7 +10,7 @@ an: 1886
 def: Mouvement littéraire et artistique de la fin du XIXe siècle qui, contre le naturalisme, veut suggérer l'idée par l'image et le rêve ; ses peintres, de Gustave Moreau à Odilon Redon, ont puisé dans les mythes, l'occultisme et la théosophie.
 texte: Le mot s'impose en 1886, quand le poète Jean Moréas publie dans *Le Figaro* un « Manifeste du symbolisme » qui veut « vêtir l'Idée d'une forme sensible ». Les écrivains se réclament de [[charles-baudelaire|Baudelaire]] et de ses [[correspondances]], de Mallarmé et de [[paul-verlaine|Verlaine]] ; les peintres ont déjà leurs maîtres, [[gustave-moreau|Gustave Moreau]], Puvis de Chavannes, [[odilon-redon|Odilon Redon]], que *[[a-rebours|À rebours]]* de Huysmans a révélés en 1884. Le mouvement est européen : Arnold Böcklin en Suisse et en Allemagne, Fernand Khnopff et [[jean-delville|Jean Delville]] en Belgique, les [[preraphaelites|préraphaélites]] en Angleterre, Gustav Klimt à Vienne.
 texte: Ses thèmes reviennent sans cesse : [[salome|Salomé]], [[orphee|Orphée]], le [[sphinx]], la Chimère, l'androgyne, la femme fatale, l'[[l-ile-des-morts|île des morts]]. Beaucoup de ses artistes fréquentent l'occultisme : [[josephin-peladan|Péladan]] organise de 1892 à 1897 les [[salons-de-la-rose-croix|Salons de la Rose-Croix]], Delville passe à la théosophie, les [[les-nabis|nabis]] lisent [[edouard-schure|Schuré]]. Le symbolisme a préparé l'art abstrait, dont plusieurs pionniers venaient de la [[abstraction-et-theosophie|théosophie]], et le [[surrealisme|surréalisme]].
-voir: gustave-moreau, odilon-redon, jean-delville, salons-de-la-rose-croix, josephin-peladan, preraphaelites, les-nabis, a-rebours, axel, correspondances, stephane-mallarme, le-chat-noir
+voir: gustave-moreau, musee-gustave-moreau, odilon-redon, jean-delville, salons-de-la-rose-croix, josephin-peladan, preraphaelites, les-nabis, a-rebours, axel, correspondances, stephane-mallarme, le-chat-noir
 
 @ salons-de-la-rose-croix
 cat: peinture
@@ -228,19 +228,19 @@ voir: platon, pythagore, zoroastre, claude-ptolemee, prisca-theologia, marsile-f
 @ gustave-moreau
 cat: figures
 nom: Gustave Moreau
-alias: Moreau, musée Gustave-Moreau, Jupiter et Sémélé, L'Apparition, Œdipe et le Sphinx, Les Chimères, Salomé
+alias: Moreau, Jupiter et Sémélé, L'Apparition, Œdipe et le Sphinx, Les Chimères, Salomé
 dates: 1826 – 1898
 an: 1826
 def: Peintre français, maître du symbolisme, qui peupla ses toiles de Salomé, d'Orphée, de chimères et de dieux couverts d'or et de pierreries ; il légua à l'État sa maison et son atelier, devenus le musée Gustave-Moreau.
 texte: Né à Paris en 1826, disciple de Chassériau, il se fait connaître au Salon de 1864 avec *Œdipe et le Sphinx* ([[oedipe]]), puis s'isole dans sa maison de la rue de La Rochefoucauld et ne montre plus que de loin en loin ses tableaux, chargés d'ornements, de bijoux et de références à toutes les mythologies. En 1876, *Salomé dansant devant Hérode* et l'aquarelle *L'Apparition* ([[salome|Salomé]]) fascinent [[joris-karl-huysmans|Huysmans]], qui les décrit dans *[[a-rebours|À rebours]]* et fait de Moreau le peintre de la décadence. Il peint *Jason*, *Orphée*, les *Chimères*, et, en 1895, *Jupiter et Sémélé*, véritable somme de sa théologie de la beauté.
-texte: Professeur à l'École des beaux-arts à partir de 1891, il forme Henri Matisse, Albert Marquet et Georges Rouault. À sa mort, en 1898, il lègue à l'État sa maison avec près de mille deux cents peintures et aquarelles et plus de dix mille dessins ; le musée ouvre en 1903, avec Rouault pour conservateur. André Breton raconta que sa découverte, à seize ans, avait « conditionné pour toujours » sa façon d'aimer.
+texte: Professeur à l'École des beaux-arts à partir de 1891, il forme Henri Matisse, Albert Marquet et Georges Rouault. À sa mort, en 1898, il lègue à l'État sa maison avec près de mille deux cents peintures et aquarelles et plus de dix mille dessins ; le [[musee-gustave-moreau|musée Gustave-Moreau]] ouvre en 1903, avec Rouault pour conservateur. André Breton raconta que sa découverte, à seize ans, avait « conditionné pour toujours » sa façon d'aimer.
 repere: 1826 — Naissance à Paris, le 6 avril.
 repere: 1864 — *Œdipe et le Sphinx* au Salon.
 repere: 1876 — *Salomé dansant devant Hérode* et *L'Apparition*.
 repere: 1895 — *Jupiter et Sémélé*.
 repere: 1898 — Mort à Paris, le 18 avril.
 repere: 1903 — Ouverture du musée Gustave-Moreau.
-voir: salome, symbolisme, a-rebours, oedipe, sphinx, orphee, chimere, odilon-redon, surrealisme
+voir: musee-gustave-moreau, salome, symbolisme, a-rebours, oedipe, sphinx, orphee, chimere, odilon-redon, surrealisme
 
 @ odilon-redon
 cat: figures

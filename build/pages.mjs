@@ -86,8 +86,13 @@ function page(a, parId, categories) {
   if (a.at) lignes.push('<p class="attention"><strong>À ne pas confondre.</strong> ' + enHtml(a.at, parId) + '</p>');
   if (a.ex && a.ex.length) {
     lignes.push('<h2>' + (a.ex.length > 1 ? 'Extraits' : 'Extrait') + '</h2>');
-    for (const [paras, ref, liens] of a.ex) {
-      lignes.push('<blockquote>' + paras.map((p) => '<p>' + echapper(p).replace(/\n/g, '<br>') + '</p>').join('') + '</blockquote>');
+    for (const [paras, ref, liens, traduction] of a.ex) {
+      const enBloc = (ps) => ps.map((p) => '<p>' + echapper(p).replace(/\n/g, '<br>') + '</p>').join('');
+      lignes.push('<blockquote' + (traduction ? ' lang="' + traduction.l + '"' : '') + '>' + enBloc(paras) + '</blockquote>');
+      if (traduction) {
+        lignes.push('<details class="traduction"><summary>Lire en français</summary><blockquote lang="fr">' + enBloc(traduction.t)
+          + '</blockquote><p class="source">Traduction française écrite pour ce dictionnaire.</p></details>');
+      }
       lignes.push('<p class="source">— ' + enHtml(ref, parId) + (liens || []).map((l) => ' · <a href="' + echapper(l[2]) + '" rel="noopener">' + echapper(l[0]) + '</a>').join('') + '</p>');
     }
   }

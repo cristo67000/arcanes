@@ -157,7 +157,7 @@ nom: Paris ésotérique
 def: D’une maison de Nicolas Flamel à la tombe d’Allan Kardec : les lieux, les livres et les figures du Paris des alchimistes, des devineresses, des loges et des spirites.
 etapes: paris, notre-dame-de-paris, mystere-des-cathedrales, fulcanelli, julien-champagne, tour-saint-jacques,
   nicolas-flamel, maison-de-nicolas-flamel, livre-des-figures-hieroglyphiques, saint-sulpice, affaire-des-poisons,
-  mademoiselle-lenormand, les-neuf-soeurs, eliphas-levi, salons-de-la-rose-croix, opera-garnier, pere-lachaise,
+  mademoiselle-lenormand, les-neuf-soeurs, eliphas-levi, salons-de-la-rose-croix, musee-gustave-moreau, opera-garnier, pere-lachaise,
   allan-kardec
 
 = rennes-le-chateau
@@ -166,3 +166,11 @@ def: Un curé, un trésor et des parchemins : comment une église du Razès est 
 etapes: rennes-le-chateau, berenger-sauniere, henri-boudet, rennes-les-bains, bugarach, parchemins-de-rennes-le-chateau,
   nicolas-poussin, inscription-de-shugborough, gerard-de-sede, pierre-plantard, prieure-de-sion, merovingiens,
   catharisme, montsegur, otto-rahn, peyrepertuse, queribus
+
+= croix
+nom: Les croix
+def: Du gibet romain aux drapeaux : la croix latine et la croix grecque, l'ânkh des Égyptiens, les croix des Églises, celles des chevaliers, du blason et des provinces.
+etapes: croix, croix-ansee, chrisme, croix-latine, croix-grecque, croix-en-tau, croix-de-saint-andre, croix-de-saint-pierre,
+  crucifix, signe-de-croix, croix-orthodoxe, croix-de-lorraine, croix-papale, croix-armenienne, croix-copte, croix-celtique,
+  croix-des-ordres-militaires, croix-des-templiers, croix-de-malte, croix-teutonique, croix-de-jerusalem, croix-de-l-ordre-du-christ,
+  croix-heraldiques, croix-occitane, lauburu, svastika, le-symbolisme-de-la-croix

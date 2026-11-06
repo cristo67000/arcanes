@@ -1,6 +1,6 @@
 'use strict';
 /*
- * Les sons : cris d'animaux, musiques, poèmes dits.
+ * Les sons : musiques, cloches, poèmes dits.
  *
  * Les enregistrements viennent de Wikimedia Commons, tous dans le domaine
  * public ou sous CC0 ; build/sons.txt dit d'où vient chacun, build/sonoriser.py

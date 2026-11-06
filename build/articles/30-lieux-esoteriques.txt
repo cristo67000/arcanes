@@ -16,7 +16,7 @@ repere: 1778 — Voltaire est reçu à la loge des Neuf Sœurs ; Mesmer arrive �
 repere: 1892 — Premier Salon de la Rose+Croix de Péladan.
 repere: 1926 — *Le Mystère des cathédrales* de Fulcanelli.
 repere: 1989 — Ouverture de la pyramide du Louvre, pièce des [[grands-travaux|Grands Travaux]] de François Mitterrand.
-voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme, opera-garnier, saint-sulpice, gaston-leroux, le-chat-noir, enclos-du-temple, grands-travaux
+voir: notre-dame-de-paris, tour-saint-jacques, maison-de-nicolas-flamel, pere-lachaise, les-neuf-soeurs, occultisme, opera-garnier, saint-sulpice, gaston-leroux, le-chat-noir, enclos-du-temple, grands-travaux, musee-gustave-moreau
 
 @ londres
 cat: lieux

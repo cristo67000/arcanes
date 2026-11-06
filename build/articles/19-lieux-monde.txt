@@ -138,7 +138,7 @@ voir: initiation, cabinet-de-reflexion, franc-maconnerie, couvent-du-christ
 @ couvent-du-christ
 cat: lieux
 nom: Couvent du Christ (Tomar)
-alias: Tomar, Convento de Cristo, ordre du Christ, charola de Tomar, fenêtre manuéline
+alias: Tomar, Convento de Cristo, charola de Tomar, fenêtre manuéline
 lieu: Tomar, Portugal
 geo: 39.6036, -8.4193
 def: Château des templiers portugais fondé en 1160, devenu le siège de l'ordre du Christ, qui leur succéda : le seul lieu où l'ordre du Temple se prolongea sans rupture.
@@ -146,7 +146,7 @@ texte: Le grand maître portugais Gualdim Pais fonde en 1160 le château de Toma
 texte: Gouverné au XVe siècle par Henri le Navigateur, l'ordre finance les grandes découvertes : sa croix rouge orne les voiles des caravelles. Le couvent s'agrandit de cloîtres et de la célèbre fenêtre manuéline de la salle du chapitre, couverte de cordages, de coraux et de sphères armillaires. Cette continuité, réelle, a nourri les spéculations néotemplières sur une survivance secrète de l'ordre.
 texte: La maçonnerie templière du XVIIIe siècle, comme la [[stricte-observance|Stricte Observance]], invoquait une filiation secrète du Temple ; l'exemple portugais montre au contraire une transmission publique, faite avec l'accord du pape.
 repere: 1160 — Gualdim Pais fonde le château templier.
-repere: 1319 — Création de l'ordre du Christ, héritier des templiers portugais.
+repere: 1319 — Création de l'[[croix-de-l-ordre-du-christ|ordre du Christ]], héritier des templiers portugais.
 repere: 1983 — Inscription au patrimoine mondial de l'UNESCO.
 voir: templiers, quinta-da-regaleira, chinon, stricte-observance, proces-des-templiers, hospitaliers, sainte-eulalie-de-cernon
 
