@@ -42,9 +42,9 @@ an: 130
 dates: IIe – IVe siècles
 def: Ensemble de mouvements religieux des premiers siècles chrétiens selon lesquels le monde matériel est l'œuvre d'un dieu inférieur, et le salut une connaissance qui libère l'étincelle divine prisonnière en l'homme.
 texte: Les gnostiques de l'Antiquité forment des écoles diverses — séthiens, valentiniens, disciples de [[basilide]] — mais partagent un récit. Au-dessus de tout règne un Dieu inconnaissable, entouré du [[plerome]], la plénitude de ses [[eon|éons]]. À la suite d'une faute, souvent celle de [[sophia]], naît un [[demiurge]] ignorant qui façonne le monde matériel et s'y croit le seul dieu. Des parcelles de lumière divine ont été enfermées dans les corps humains ; un révélateur, le Christ pour les gnostiques chrétiens, vient leur rappeler leur origine.
-texte: Combattus par les Pères de l'Église — [[irenee-de-lyon|Irénée de Lyon]] écrit vers 180 son *Contre les hérésies*, qui en fait remonter l'origine à [[simon-le-magicien|Simon le Magicien]] —, les gnostiques ne nous étaient longtemps connus que par leurs adversaires. La découverte en 1945 des manuscrits coptes de la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] a donné accès à leurs propres textes et renouvelé leur étude.
+texte: Combattus par les [[peres-de-l-eglise|Pères de l'Église]] — [[irenee-de-lyon|Irénée de Lyon]] écrit vers 180 son *Contre les hérésies*, qui en fait remonter l'origine à [[simon-le-magicien|Simon le Magicien]] —, les gnostiques ne nous étaient longtemps connus que par leurs adversaires. La découverte en 1945 des manuscrits coptes de la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] a donné accès à leurs propres textes et renouvelé leur étude.
 attention: Le gnosticisme, ensemble de mouvements antiques, ne se confond pas avec la [[gnose]], notion plus large qui désigne une connaissance salvatrice à toutes les époques.
-voir: gnose, valentin, basilide, demiurge, archonte, pistis-sophia, manicheisme, sethiens, apocryphon-de-jean, evangile-de-judas, ophites, apocryphes, mandeens, evangile-de-jean, heresie
+voir: gnose, valentin, basilide, demiurge, archonte, pistis-sophia, manicheisme, sethiens, apocryphon-de-jean, evangile-de-judas, ophites, apocryphes, mandeens, evangile-de-jean, heresie, peres-de-l-eglise, arianisme
 
 @ manicheisme
 cat: courants
@@ -87,7 +87,7 @@ alias: orphiques, orphique, hymnes orphiques
 an: -550
 dates: VIe siècle av. J.-C.
 def: Mouvement religieux de la Grèce antique se réclamant du chantre mythique Orphée, qui enseignait l'origine divine de l'âme et sa délivrance par une vie pure et des rites initiatiques.
-texte: Les orphiques racontent que les Titans dévorèrent le jeune Dionysos et furent foudroyés par Zeus ; de leurs cendres naquirent les hommes, faits à la fois de l'élément titanesque et de l'élément divin. Le corps est le tombeau de l'âme (*sôma, sêma*), qui doit se purifier au fil de ses réincarnations. Des lamelles d'or retrouvées dans des tombes indiquent au défunt le chemin à suivre dans l'au-delà et les paroles à prononcer.
+texte: Les orphiques racontent que les Titans dévorèrent le jeune Dionysos et furent foudroyés par Zeus ; de leurs cendres naquirent les hommes, faits à la fois de l'élément titanesque et de l'élément divin. Le corps est le tombeau de l'âme (*sôma, sêma*), qui doit se purifier au fil de ses réincarnations. Des lamelles d'or retrouvées dans des tombes indiquent au défunt le chemin à suivre dans l'au-delà et les paroles à prononcer : il doit éviter la source de l'oubli et demander à boire l'eau du lac de [[mnemosyne|Mnémosyne]], la Mémoire.
 texte: La Renaissance a lu les *Hymnes orphiques*, compositions d'époque impériale, comme l'œuvre d'[[orphee]] lui-même, l'un des « anciens théologiens » de la [[prisca-theologia]]. [[marsile-ficin]] les chantait en s'accompagnant de la lyre, pour attirer sur lui les influences favorables des astres.
 voir: orphee, mysteres-antiques, pythagorisme, metempsycose, persephone, pompei, dionysos-zagreus
 
@@ -98,7 +98,7 @@ alias: cultes à mystères, mystères d'Éleusis, eleusis, mithra, mithriacisme,
 dates: VIIe siècle av. J.-C. – IVe siècle
 an: -600
 def: Cultes initiatiques de l'Antiquité grecque et romaine, réservés à ceux qui avaient reçu une initiation secrète promettant un sort heureux après la mort.
-texte: Les plus célèbres sont les mystères d'Éleusis, près d'Athènes, consacrés à Déméter et à sa fille Perséphone, célébrés pendant près de deux mille ans. Viennent ensuite ceux de Dionysos, d'Isis et Osiris, de Cybèle et Attis, et de Mithra, très répandus dans l'armée romaine. Le secret a été si bien gardé que nous ignorons presque tout de ce qui était montré aux initiés ; on sait seulement qu'ils en sortaient transformés, « avec de meilleures espérances ».
+texte: Les plus célèbres sont les mystères d'Éleusis, près d'Athènes, consacrés à Déméter et à sa fille Perséphone, célébrés pendant près de deux mille ans. Viennent ensuite ceux de Dionysos, d'Isis et Osiris, de [[cybele|Cybèle]] et Attis, et de Mithra, très répandus dans l'armée romaine. Le secret a été si bien gardé que nous ignorons presque tout de ce qui était montré aux initiés ; on sait seulement qu'ils en sortaient transformés, « avec de meilleures espérances ».
 texte: Les mystères ont fourni à l'ésotérisme moderne son modèle de l'[[initiation]] : une mort symbolique suivie d'une renaissance, sous la conduite d'un maître, au sein d'une communauté qui garde un secret. La [[franc-maconnerie]] du XVIIIe siècle s'en est réclamée, et les écrivains de l'[[occultisme]] y ont vu le dépôt d'une sagesse égyptienne perdue.
 extrait: Sans doute, ami lecteur, votre curiosité va s’enquérir de ce qui se dit, de ce qui se fit ensuite. Je le dirais, s’il était permis de le dire ; vous l’apprendriez, s’il était permis de l’apprendre. Mais il y aurait crime au même degré pour les oreilles confidentes et pour la bouche révélatrice. (…) Écoutez et croyez, car ce que je dis est vrai. J’ai touché aux portes du trépas ; mon pied s’est posé sur le seuil de Proserpine. Au retour, j’ai traversé tous les éléments. Dans la profondeur de la nuit, j’ai vu rayonner le soleil. Dieux de l’enfer, dieux de l’Empyrée, tous ont été vus par moi face à face, et adorés de près.
 source: Apulée, *L’Âne d’or ou les Métamorphoses*, livre XI, trad. sous la direction de Désiré Nisard, 1865 | gallica bpt6k282077x | ws L’Âne d’or ou les Métamorphoses/XI
@@ -307,7 +307,7 @@ an: 1882
 dates: depuis 1882
 def: Étude des phénomènes attribués aux médiums et aux facultés supposées de l'esprit — télépathie, clairvoyance, action à distance —, menée avec les méthodes de la science.
 texte: La [[society-for-psychical-research|Society for Psychical Research]] est fondée à [[londres|Londres]] en 1882 par des universitaires de Cambridge pour examiner sans préjugé les phénomènes du [[spiritualisme]]. En France, le physiologiste [[charles-richet|Charles Richet]], prix Nobel de médecine, forge en 1905 le mot « métapsychique » ; l'Institut métapsychique international ouvre en 1919. Dans les années 1930, l'Américain Joseph Banks Rhine introduit les expériences statistiques avec des cartes et parle de « parapsychologie ».
-texte: Plus d'un siècle de recherches n'a pas produit de résultat que la communauté scientifique tienne pour établi : les effets annoncés disparaissent quand on renforce les contrôles ou qu'on répète les expériences. La métapsychique a en revanche démasqué bien des fraudes de médiums.
+texte: Plus d'un siècle de recherches n'a pas produit de résultat que la communauté scientifique tienne pour établi : les effets annoncés disparaissent quand on renforce les contrôles ou qu'on répète les expériences. La métapsychique a en revanche démasqué bien des fraudes de médiums : en France, le journaliste Paul Heuzé fit échouer à la Sorbonne, en 1922 et 1923, les médiums Eva Carrière et Jan Guzik, avant de s'attaquer aux [[fakir|fakirs]] de music-hall.
 voir: spiritualisme, medium, ectoplasme, voyance, tables-tournantes, telepathie, poltergeist
 
 @ new-age
@@ -328,9 +328,9 @@ alias: neopaganisme, néopaïen, paganisme moderne, païens, heathenry, ásatrú
 an: 1900
 dates: depuis le XXe siècle
 def: Ensemble de mouvements religieux modernes qui veulent faire revivre ou réinventer les religions préchrétiennes de l'Europe, souvent centrées sur la nature et les cycles des saisons.
-texte: Le néo-paganisme naît du romantisme, qui idéalise les Celtes, les Germains et les Grecs, puis prend forme au XXe siècle. Ses principales branches sont la [[wicca]], le [[druidisme|néo-druidisme]], les religions nordiques reconstituées (comme l'Ásatrú, reconnue en Islande en 1973) et les reconstructions des cultes grecs, romains ou baltes. Beaucoup célèbrent la « roue de l'année », huit fêtes liées aux solstices, aux équinoxes et aux fêtes celtiques.
+texte: Le néo-paganisme naît du romantisme, qui idéalise les Celtes, les Germains et les Grecs, puis prend forme au XXe siècle. Ses principales branches sont la [[wicca]], le [[druidisme|néo-druidisme]], les religions nordiques reconstituées (comme l'Ásatrú, fondée en 1972 par Sveinbjörn Beinteinsson et reconnue en Islande en 1973, qui honore [[odin|Odin]], [[thor|Thor]] et [[freyja|Freyja]] d'après les *[[edda|Eddas]]*) et les reconstructions des cultes grecs, romains ou baltes. Beaucoup célèbrent la « roue de l'année », huit fêtes liées aux solstices, aux équinoxes et aux fêtes celtiques.
 texte: Les historiens distinguent les mouvements qui veulent reconstruire fidèlement une religion ancienne d'après les sources, et ceux qui assument une création moderne. La plupart sont pacifiques et écologistes ; une minorité, en revanche, a été récupérée par l'extrême droite, dans le prolongement de l'[[ariosophie]].
-voir: wicca, druidisme, sorcellerie, chamanisme, pan, hecate
+voir: wicca, druidisme, sorcellerie, chamanisme, pan, hecate, odin, thor, freyja, edda
 
 @ wicca
 cat: courants
@@ -361,7 +361,7 @@ alias: soufi, soufis, tasawwuf, mystique musulmane, confréries soufies, dervich
 an: 750
 dates: depuis le VIIIe siècle
 def: Courant mystique de l'islam, qui cherche à purifier le cœur et à réaliser l'union intime avec Dieu, sous la direction d'un maître et au sein de confréries.
-texte: Le soufisme apparaît dans les premiers siècles de l'islam chez des ascètes vêtus de laine (*sûf*). Il se dote d'une doctrine — avec [[ibn-arabi]], théoricien de l'« unicité de l'être » — et de confréries (*tarîqa*), chacune avec sa chaîne de maîtres remontant au Prophète, ses rites de rappel de Dieu (*dhikr*) et, chez certaines, la musique et la danse, comme les derviches tourneurs de Konya, disciples de Rûmî.
+texte: Le soufisme apparaît dans les premiers siècles de l'islam chez des ascètes vêtus de laine (*sûf*), qu'on appelle aussi les « pauvres », [[fakir|fakirs]] ou derviches. Il se dote d'une doctrine — avec [[ibn-arabi]], théoricien de l'« unicité de l'être » — et de confréries (*tarîqa*), chacune avec sa chaîne de maîtres remontant au Prophète, ses rites de rappel de Dieu (*dhikr*) et, chez certaines, la musique et la danse, comme les derviches tourneurs de Konya, disciples de Rûmî.
 texte: Le soufisme n'est pas un courant de l'ésotérisme occidental, mais il l'a beaucoup fasciné. [[rene-guenon]], installé au Caire en 1930, y voit l'ésotérisme de l'islam et s'y rattache ; [[georges-gurdjieff]] a dit tenir une part de son enseignement de maîtres soufis. C'est sous le couvert du soufisme que survécurent en Perse, après la chute d'[[alamut|Alamut]] en 1256, les ismaéliens nizârites que l'Europe appelait [[assassins|Assassins]].
 voir: ibn-arabi, rene-guenon, initiation, mystique, enneagramme, huppe, assassins
 
@@ -383,7 +383,7 @@ alias: chaman, chamane, shaman, néo-chamanisme, neochamanisme
 def: Ensemble de pratiques religieuses où un spécialiste, le chamane, entre en transe pour voyager dans le monde des esprits, afin de guérir, de deviner ou de protéger sa communauté.
 texte: Le mot vient de la langue des Toungouses de Sibérie, où les explorateurs russes l'ont recueilli au XVIIe siècle. L'historien des religions [[mircea-eliade|Mircea Eliade]], dans *Le Chamanisme et les techniques archaïques de l'extase* (1951), en a fait une catégorie universelle, retrouvée en Asie, dans les Amériques et ailleurs : le chamane monte au ciel ou descend aux enfers par l'arbre ou l'axe du monde, aidé d'esprits auxiliaires souvent animaux.
 texte: Depuis les années 1960, un « néo-chamanisme » occidental, popularisé par les livres de Carlos Castaneda et par l'anthropologue Michael Harner, propose des stages de voyage chamanique au son du tambour. Les peuples autochtones dénoncent souvent ces emprunts comme une appropriation de leurs traditions.
-voir: new-age, arbre-cosmique, neopaganisme, psychopompe, extase, axis-mundi, sacrifice-d-odin
+voir: new-age, arbre-cosmique, neopaganisme, psychopompe, extase, axis-mundi, sacrifice-d-odin, odin, freyja
 
 @ catharisme
 cat: courants
@@ -394,7 +394,7 @@ dates: XIIe – XIVe siècles
 def: Mouvement chrétien dissident du Moyen Âge, implanté surtout en Languedoc et en Italie, qui opposait le Dieu bon, créateur des âmes, au mauvais principe, auteur du monde visible.
 texte: Les « bons hommes » et « bonnes femmes », comme ils se nommaient eux-mêmes, rejettent les sacrements de l'Église romaine et ne connaissent qu'un rite, le [[consolamentum|consolament]], imposition des mains qui fait du croyant un « [[parfaits|parfait]] » astreint à une vie d'ascèse. L'Église lance contre eux la croisade des Albigeois (1209-1229), puis l'Inquisition ; [[montsegur|Montségur]] tombe en 1244, et le dernier parfait connu est brûlé en 1321.
 texte: Au XIXe siècle, l'historien [[napoleon-peyrat|Napoléon Peyrat]] puis les occultistes font des cathares les gardiens d'une [[gnose]] secrète et du [[graal|Graal]] ; l'écrivain allemand [[otto-rahn|Otto Rahn]] cherche le trésor de Montségur dans les années 1930. Ces légendes n'ont aucun fondement historique, mais elles ont façonné l'image populaire du « pays cathare ». En 1959, [[rene-nelli|René Nelli]] réunit et traduit dans *Écritures cathares* les textes conservés de l'hérésie — la *Cène secrète*, le *Livre des deux principes*, les rituels.
-voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur, carcassonne, evangile-de-jean, heresie, rene-nelli
+voir: manicheisme, gnose, graal, eglise-gnostique, parfaits, consolamentum, dualisme, montsegur, carcassonne, evangile-de-jean, heresie, rene-nelli, arianisme
 
 @ ariosophie
 cat: courants
@@ -403,9 +403,9 @@ alias: ariosophes, occultisme völkisch, armanisme, guido von list, lanz von lie
 an: 1900
 dates: 1900 – 1945
 def: Courant occultiste autrichien et allemand du début du XXe siècle, qui mêlait théosophie, mythologie germanique et racisme, et prétendait révéler la sagesse secrète d'anciens Aryens.
-texte: [[guido-von-list|Guido von List]], écrivain viennois, invente vers 1900 une religion germanique primitive, l'« armanisme », dont les prêtres auraient caché leur savoir dans les [[runes]], l'héraldique et les légendes. Jörg Lanz von Liebenfels fonde en 1907 un « Ordre du Nouveau Temple » et une revue, *Ostara*, où il prêche une hiérarchie des races. Tous deux reprennent à la [[theosophie]] les idées de races-racines et de cycles, en les détournant vers le nationalisme.
+texte: [[guido-von-list|Guido von List]], écrivain viennois, invente vers 1900 une religion germanique primitive, l'« armanisme » ou « wotanisme », du nom allemand d'[[odin|Odin]], dont les prêtres auraient caché leur savoir dans les [[runes]], l'héraldique et les légendes. Jörg Lanz von Liebenfels fonde en 1907 un « Ordre du Nouveau Temple » et une revue, *Ostara*, où il prêche une hiérarchie des races. Tous deux reprennent à la [[theosophie]] les idées de races-racines et de cycles, en les détournant vers le nationalisme.
 texte: Leurs idées circulent dans les milieux völkisch d'où sortira le nazisme, notamment par la [[societe-thule|Société Thulé]]. Les historiens, à la suite de Nicholas Goodrick-Clarke (*Les Racines occultistes du nazisme*, 1985), ont montré que leur influence réelle sur les dirigeants nazis fut limitée, bien moindre que ne le prétendent les récits sensationnels.
-voir: societe-thule, runes, svastika, theosophie, karl-maria-wiligut, jorg-lanz-von-liebenfels, rudolf-von-sebottendorf, ahnenerbe
+voir: societe-thule, runes, svastika, theosophie, karl-maria-wiligut, jorg-lanz-von-liebenfels, rudolf-von-sebottendorf, ahnenerbe, odin, edda
 
 @ satanisme
 cat: courants

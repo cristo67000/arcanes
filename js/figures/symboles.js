@@ -101,6 +101,76 @@
     },
   };
 
+  // ── Le triskèle ───────────────────────────────────────────────────────────
+
+  /* Fait tourner des points autour de l'origine (degrés, sens horaire à l'écran), puis les place. */
+  const tourner = (points, deg, dx, dy) => {
+    const a = (deg * Math.PI) / 180;
+    const c = Math.cos(a);
+    const s = Math.sin(a);
+    return points.map(([x, y]) => [dx + x * c - y * s, dy + x * s + y * c]);
+  };
+  const coords = (pts) => pts.map(([x, y]) => x.toFixed(1) + ' ' + y.toFixed(1)).join(' ');
+
+  F.triskele = {
+    titre: 'Le triskèle',
+    hauteur: 176,
+    legende: 'Trois formes d’un même mouvement : la triple spirale gravée à Newgrange, le triskèle celtique à branches courbes, et la trinacrie à trois jambes de la Sicile et de l’île de Man.',
+    dessiner(f) {
+      const cy = 86;
+      // La triple spirale : trois spirales enroulées dans le même sens, dont les
+      // bouts se rejoignent par trois arcs autour de l'ensemble.
+      const c1 = 62;
+      const ecart = 13;
+      const R = ecart + 13.5;
+      let d = '';
+      [0, 120, 240].forEach((deg) => {
+        const phi = ((deg - 90) * Math.PI) / 180;
+        const sx = c1 + ecart * Math.cos(phi);
+        const sy = cy + ecart * Math.sin(phi);
+        const pts = [];
+        for (let i = 0; i <= 120; i += 1) {
+          const u = (i / 60) * 2 * Math.PI;
+          const r = 1.5 + (12 * u) / (4 * Math.PI);
+          pts.push([sx + r * Math.cos(phi + u), sy + r * Math.sin(phi + u)]);
+        }
+        d += 'M' + pts.map(([x, y]) => x.toFixed(1) + ' ' + y.toFixed(1)).join('L');
+        const phi2 = phi + (2 * Math.PI) / 3;
+        d += 'A' + R + ' ' + R + ' 0 0 1 ' + (c1 + R * Math.cos(phi2)).toFixed(1) + ' ' + (cy + R * Math.sin(phi2)).toFixed(1);
+      });
+      f.chemin(d, 'f-trait-fort');
+      // Le triskèle à branches courbes : trois virgules pleines qui tournent.
+      const c2 = 180;
+      const virgule = [
+        ['M', [0, 0]],
+        ['C', [-9, -10], [-6, -28], [6, -34]],
+        ['C', [16, -39], [28, -33], [27, -22]],
+        ['C', [26, -27], [18, -32], [12, -28]],
+        ['C', [3, -22], [5, -9], [0, 0]],
+      ];
+      let v = '';
+      [0, 120, 240].forEach((deg) => {
+        virgule.forEach(([lettre, ...pts]) => { v += lettre + coords(tourner(pts, deg, c2, cy)); });
+        v += 'Z';
+      });
+      f.chemin(v, 'f-trait-plein');
+      // La trinacrie : trois jambes pliées au genou autour d'une tête.
+      const c3 = 298;
+      [0, 120, 240].forEach((deg) => {
+        f.poly(tourner([[0, -9], [14, -27], [28, -20], [34, -26]], deg, c3, cy), 'f-jambe', true);
+      });
+      f.cercle(c3, cy, 9, 'f-point');
+      f.cercle(c3 - 3, cy - 2, 1.3, 'f-oeil');
+      f.cercle(c3 + 3, cy - 2, 1.3, 'f-oeil');
+      // Les légendes
+      [[c1, 'triple spirale', 'Newgrange, vers 3200 av. J.-C.'], [c2, 'triskèle', 'art celtique, Bretagne'], [c3, 'trinacrie', 'Sicile, île de Man']]
+        .forEach(([x, nom, sous]) => {
+          f.texte(x, cy + 50, nom, { t: 10, b: true, serif: true });
+          f.texte(x, cy + 62, sous, { t: 8, c: 'f-texte-doux' });
+        });
+    },
+  };
+
   F.enneagramme = {
     titre: 'L’ennéagramme',
     hauteur: 300,

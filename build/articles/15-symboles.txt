@@ -48,8 +48,8 @@ alias: la rose, rose mystique, rose sur la croix, rose-croix (symbole), sceau de
 schema: croix/rose-croix
 def: Fleur symbolique par excellence de l'Occident, image de la beauté, de l'amour, du secret et de la perfection spirituelle, unie à la croix dans le symbole rosicrucien.
 texte: La rose est la fleur de Vénus et de l'amour courtois dans le *Roman de la Rose* ; dans la *Divine Comédie*, [[dante|Dante]] contemple le paradis sous la forme d'une immense rose blanche où siègent les bienheureux. Le latin *sub rosa*, « sous la rose », signifie « en secret ». Pour les alchimistes, le *Rosaire* est le jardin de la sagesse.
-texte: Le sceau de Luther montrait une croix dans un cœur posé sur une rose blanche, et les armoiries de la famille d'[[johann-valentin-andreae]] portaient une croix et des roses : l'emblème des [[rose-croix|Rose-Croix]] est né dans ce milieu luthérien. La rose épanouie au centre de la croix figure l'âme qui fleurit au cœur de l'épreuve, ou l'union du principe féminin et du principe masculin.
-voir: croix, rose-croix, christian-rosenkreutz, rosaire-des-philosophes, pelican
+texte: Le sceau de [[martin-luther|Luther]], dessiné en 1530, montrait une croix noire dans un cœur posé sur une rose blanche, et les armoiries de la famille d'[[johann-valentin-andreae]] portaient une croix et des roses : l'emblème des [[rose-croix|Rose-Croix]] est né dans ce milieu luthérien. La rose épanouie au centre de la croix figure l'âme qui fleurit au cœur de l'épreuve, ou l'union du principe féminin et du principe masculin.
+voir: croix, rose-croix, christian-rosenkreutz, rosaire-des-philosophes, pelican, martin-luther
 
 @ croix-ansee
 cat: croix
@@ -132,11 +132,24 @@ voir: vesica-piscis, new-age, mandala
 @ triskele
 cat: symboles
 nom: Triskèle
-alias: triskell, triskel, triple spirale, trinacria
-def: Motif formé de trois spirales ou de trois jambes rayonnant d'un centre, emblème du mouvement et de la trinité, associé aujourd'hui à l'identité celtique et bretonne.
-texte: La triple spirale gravée à l'entrée du tumulus de Newgrange, en Irlande, date du Néolithique, bien avant les Celtes. L'art celtique de La Tène en fait un motif favori ; le triskèle à trois jambes figure sur les armes de la Sicile et de l'île de Man.
-texte: Le triskèle est devenu au XXe siècle un symbole de la Bretagne et du mouvement celtique, et le [[druidisme|néo-druidisme]] l'interprète comme l'image des trois mondes ou des trois forces de la nature.
-voir: druidisme, neopaganisme, roue-solaire, noeud-de-salomon
+alias: triskell, triskel, triskelion, triscèle, triquètre, triple spirale, trinacria, trinacrie, trois jambes, drapeau de la Sicile, drapeau de l'île de Man, tomoe, gankyil
+schema: triskele
+def: Motif à trois branches tournant autour d'un centre — trois spirales, trois courbes ou trois jambes —, gravé dès le Néolithique, monnayé en Sicile, cher à l'art celtique, et devenu au XXe siècle l'emblème de la Bretagne et du néodruidisme.
+texte: Le mot est grec, *triskelês*, « à trois jambes » ; les Bretons disent *triskell*. Le signe est bien plus vieux que son nom. Les temples mégalithiques de Malte en portent, et la triple spirale gravée sur la pierre d'entrée du tumulus de Newgrange, en Irlande, date d'environ 3200 avant notre ère, deux millénaires et demi avant que des Celtes n'y arrivent. La Grèce le connaît : à partir d'Agathocle de Syracuse, à la fin du IVe siècle avant notre ère, les trois jambes courent sur les monnaies de la Sicile, l'île aux trois caps, la « Trinacrie », et les monnaies de Lycie et de Pamphylie les mêlent au coq et au lion. L'art celtique de La Tène, du Ve au IIe siècle, en fait l'un de ses motifs favoris, à branches courbes et sans jambes, sur les armes, les bijoux et les monnaies. Le Moyen Âge le transmet au blason : les trois jambes armées de l'île de Man, les armes des seigneurs du lieu, et la Trinacrie à tête de Gorgone qui flotte sur le drapeau sicilien depuis 1285. Les sculpteurs d'églises l'emploient en frise, à Saint-Antoine-l'Abbaye, en Isère, plus que partout ailleurs en Europe.
+texte: Que veut-il dire ? Pour les archéologues du monde celtique, Albert Grenier, puis Venceslas Kruta, c'est un signe du [[soleil]] et de sa course : lever, midi, coucher, le quatrième pas se faisant dans la nuit ; la [[roue-solaire|roue]] et le [[svastika]] en seraient les cousins, à quatre branches. Goblet d'Alviella, en 1890, le suit de monnaie en monnaie pour montrer comment un symbole se fond dans un autre. Freud, en 1917, y voit un emblème sexuel protecteur, comme la fleur de lys. Les néodruides, à la fin du XIXe siècle, en font l'image des [[trois]] mondes ou des trois ordres de la société celtique, à l'imitation des trois castes de l'Inde. Ce sont des lectures, datées et signées : le trait néolithique de Newgrange n'a laissé aucun mode d'emploi.
+texte: Le XXe siècle en a fait un drapeau. Il paraît dans les revues nationalistes bretonnes avant 1914 ; le Parti national breton l'adopte pour insigne en 1941, à la place du *hevoud*, jugé trop proche de la croix gammée, et la 27e division SS *Langemarck*, flamande, s'en sert aussi, ce qui le rend suspect dans certains contextes. Après la guerre, c'est le renouveau de la musique bretonne, avec Alan Stivell dans les années 1970, qui le porte au cou de toute une génération ; il est aujourd'hui, sur les sacs et les autocollants, le signe même de la Bretagne, et les groupes du [[druidisme|néodruidisme]] et du [[neopaganisme|néopaganisme]] le tracent dans leurs cérémonies. L'Asie a les siens : le *tomoe* japonais, à trois virgules, le *gankyil* tibétain, « roue de la joie », et le *sam taegeuk* coréen, qui ajoute une troisième couleur au [[yin-et-yang|yin et yang]].
+repere: vers 3200 av. J.-C. — La triple spirale de Newgrange.
+repere: vers 310 av. J.-C. — Agathocle fait frapper le triskèle sur les monnaies de Syracuse.
+repere: 1285 — La Trinacrie entre dans les armes de la Sicile.
+repere: 1890 — Goblet d'Alviella suit sa migration dans la *Revue des Deux Mondes*.
+repere: 1931 — Les trois jambes sur le drapeau de l'île de Man.
+repere: 1941 — Insigne du Parti national breton.
+extrait: Le soleil était quelquefois symbolisé en Asie-Mineure par un triscèle, c’est-à-dire par un disque autour duquel rayonnent trois jambes soudées par la cuisse ; d’autres fois, il y était représenté, comme en Égypte, par des animaux, tels que le lion, le sanglier, l’aigle, le dragon, le coq. Une monnaie d’Aspendus en Pamphylie présente le coq placé dans le champ, à côté du triscèle ; d’autres pièces de même provenance montrent le triscèle superposé ou plutôt collé au corps de l’animal, sans que celui-ci en perde sa physionomie naturelle. Enfin, dans une monnaie lycienne du British-Museum, les deux symboles, d’abord juxtaposés, puis soudés, se sont littéralement fondus, l’un dans l’autre : les trois jambes du triscèle se sont métamorphosées en trois têtes de coq qui se groupent de la même façon autour d’un centre.
+source: Eugène Goblet d'Alviella, « La Migration des symboles », *Revue des Deux Mondes*, t. 99, 1890 | ws La Migration des symboles
+extrait: La fleur de lys française à trois branches et la Triskèle (trois jambes demi-courbes partant d’un centre commun), ces bizarres armoiries de deux îles aussi éloignées l’une de l’autre que la Sicile et l’île de Man, ne seraient également, à mon avis, que des reproductions symboliques, stylisées, de l’appareil génital de l’homme. Les reproductions de l’organe sexuel masculin étaient considérées dans l’antiquité comme de puissants moyens de défense (Apotropaea) contre les mauvaises influences.
+source: Sigmund Freud, *Introduction à la psychanalyse*, 1916-1917, 2e partie, chap. X, trad. Samuel Jankélévitch, 1921 | ws Introduction à la psychanalyse/II/10
+attention: Le triskèle n'est pas « le » symbole des Celtes : il les précède de deux mille ans à Newgrange et les ignore en Sicile. Son sens solaire est une hypothèse d'archéologues, non une donnée ; son usage par la SS flamande et par des groupes d'extrême droite ne fait pas de lui un signe nazi, mais invite à regarder qui le porte.
+voir: druidisme, neopaganisme, roue-solaire, svastika, noeud-de-salomon, trois, soleil, croix-celtique, lauburu, yin-et-yang, hecate
 
 @ baphomet
 cat: symboles
@@ -156,16 +169,16 @@ texte: Dans le *Banquet* de [[platon]], Aristophane raconte que les premiers hum
 texte: L'alchimie figure l'achèvement de l'œuvre par le [[rebis]], être à deux têtes ; [[jakob-boehme]] pense qu'Adam a perdu en tombant sa compagne intérieure, [[sophia]]. Le Baphomet d'Éliphas Lévi est androgyne, et Joséphin Péladan intitule *L'Androgyne* l'un de ses romans. Le thème hante le symbolisme fin de siècle.
 extrait: La nature humaine était primitivement bien différente de ce qu’elle est aujourd’hui. D’abord, il y avait trois sortes d’hommes, les deux sexes qui subsistent encore, et un troisième composé des deux premiers et qui les renfermait tous deux : il s’appelait androgyne ; il a été détruit, et la seule chose qui en reste, est le nom qui est en opprobre. Puis tous les hommes généralement étaient d’une figure ronde, avaient des épaules et des côtes attachées ensemble, quatre bras, quatre jambes, deux visages opposés l’un à l’autre et parfaitement semblables, sortant d’un seul cou et tenant à une seule tête, quatre oreilles, un double appareil des organes de la génération, et tout le reste dans la même proportion. Leur démarche était droite comme la nôtre, et ils n’avaient pas besoin de se tourner pour suivre tous les chemins qu’ils voulaient prendre ; quand ils voulaient aller plus vite, ils s’appuyaient de leurs huit membres, par un mouvement circulaire, comme ceux qui les pieds en l’air imitent la roue. La différence qui se trouve entre ces trois espèces d’hommes vient de la différence de leurs principes : le sexe masculin est produit par le soleil, le féminin par la terre, et celui qui est composé de deux, par la lune, qui participe de la terre et du soleil.
 source: Platon, *Le Banquet*, 189e-190b, trad. Victor Cousin, *Œuvres de Platon*, tome VI | ws Le Banquet (trad. Cousin)
-voir: rebis, sophia, baphomet, platon, adam-kadmon, mythe, attelage-aile, evangile-de-philippe
+voir: rebis, sophia, baphomet, platon, adam-kadmon, mythe, attelage-aile, evangile-de-philippe, eros
 
 @ arbre-cosmique
 cat: symboles
 nom: Arbre cosmique
 alias: axe du monde, axis mundi, arbre du monde, Yggdrasil, arbre de vie
 def: Arbre immense qui, dans de nombreuses mythologies, relie le ciel, la terre et le monde souterrain, et forme l'axe autour duquel s'organise l'univers.
-texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; Odin y reste pendu neuf nuits pour conquérir les [[runes]]. Les Saxons du continent vénéraient l'[[irminsul|Irminsul]], tronc dressé à ciel ouvert qu'un moine du IXe siècle appelle « colonne universelle ». La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
+texte: Dans la mythologie nordique, le frêne Yggdrasil unit les neuf mondes ; [[odin|Odin]] y reste pendu neuf nuits pour conquérir les [[runes]]. Les Saxons du continent vénéraient l'[[irminsul|Irminsul]], tronc dressé à ciel ouvert qu'un moine du IXe siècle appelle « colonne universelle ». La Genèse place au centre de l'Éden l'arbre de vie et l'arbre de la connaissance. Les chamanes de Sibérie grimpent symboliquement à l'arbre pour monter au ciel.
 texte: L'historien des religions [[mircea-eliade|Mircea Eliade]] a fait de l'axe du monde l'un des symboles universels du sacré. La [[kabbale]] figure Dieu et le monde sous la forme de l'[[arbre-des-sephiroth|arbre des séphiroth]], dont les racines sont en haut.
-voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin, irminsul
+voir: arbre-des-sephiroth, chamanisme, runes, echelle-de-jacob, axis-mundi, simurgh, sacrifice-d-odin, irminsul, odin, edda
 
 @ etoile-flamboyante
 cat: maconnerie

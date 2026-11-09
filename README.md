@@ -69,7 +69,14 @@ Nibelung* ; la version 1.14, une rubrique **Croix** (quarante croix dessinées, 
 formes premières aux Églises, aux ordres de chevalerie, au blason et aux provinces,
 avec leur histoire et leurs usages), *La Nouvelle Atlantide* de Bacon, le musée
 Gustave-Moreau, l'acrostiche ΙΧΘΥΣ dessiné, et la traduction française de tous les
-extraits en langue étrangère : on touche le texte pour la lire.
+extraits en langue étrangère : on touche le texte pour la lire ; la version 1.15,
+l'*Hortus deliciarum* de l'abbesse Herrade et ses miniatures, Hildegarde de Bingen
+(avec un chant de l'*Ordo virtutum*), la mystique rhénane, le triskèle dessiné sous
+ses trois formes et la croix de Canterbury ; la version 1.16, une rubrique
+**Mythologie et croyances nordiques** (Odin, Thor, Loki, Freyja, Idunn, l'Edda),
+Éros, Jason, Mnémosyne, Cybèle, le Doppelgänger, le fakir, Luther, Calvin, Martin
+Bucer, la Bibliothèque humaniste de Sélestat, les Pères de l'Église, l'arianisme, et
+des images pour le tarot de Thoth et l'étoile flamboyante.
 
 - des **biographies développées** pour plus de deux cents figures, chacune
   suivie de ses **repères** : une chronologie datée de sa vie et de ses œuvres ;

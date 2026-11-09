@@ -3179,6 +3179,7 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg",
    "pour": [
+    "hildegarde-de-bingen",
     "mystique",
     "microcosme-macrocosme"
    ],
@@ -13947,6 +13948,7 @@
    "lic": "Public domain",
    "src": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum,_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG",
    "pour": [
+    "hortus-deliciarum",
     "mont-sainte-odile"
    ],
    "sig": "Hortus Deliciarum, Die Philosophie mit den sieben freien Künsten.JPG||400|74"
@@ -14596,6 +14598,578 @@
     "croix-de-saint-jacques"
    ],
    "sig": "Diego Velázquez - Las Meninas - Selfportrait.jpg||400|74"
+  },
+  "hortus-herrade": {
+   "f": "img/hortus-herrade.webp",
+   "v": "b65a889d1c",
+   "w": 340,
+   "h": 510,
+   "l": "L’abbesse Herrade, au dernier feuillet de l’*Hortus deliciarum*, tenant le poème qu’elle adresse à ses chanoinesses",
+   "cr": "copie de Christian Moritz Engelhardt, 1818 — Gallica",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Herrade_de_Landsberg_Hortus_Deliciarum_detail.jpg",
+   "pour": [
+    "hortus-deliciarum"
+   ],
+   "sig": "Herrade de Landsberg Hortus Deliciarum detail.jpg||340|74"
+  },
+  "hortus-femme-apocalypse": {
+   "f": "img/hortus-femme-apocalypse.webp",
+   "v": "62e7658804",
+   "w": 400,
+   "h": 546,
+   "l": "La Femme de l’Apocalypse, seule planche en couleurs de la reconstitution de Straub et Keller (folio 261v)",
+   "cr": "Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_folio_261v_1899.jpg",
+   "pour": [
+    "hortus-deliciarum",
+    "femme-revetue-du-soleil"
+   ],
+   "sig": "Hortus deliciarum folio 261v 1899.jpg||400|74"
+  },
+  "hortus-babel": {
+   "f": "img/hortus-babel.webp",
+   "v": "496874975f",
+   "w": 520,
+   "h": 312,
+   "l": "La tour de Babel : les maçons à l’ouvrage, miniature de l’*Hortus deliciarum* (folio 27v)",
+   "cr": "Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_folio_27v_1899.jpg",
+   "pour": [
+    "tour-de-babel"
+   ],
+   "sig": "Hortus deliciarum folio 27v 1899.jpg||520|74"
+  },
+  "hortus-bapteme": {
+   "f": "img/hortus-bapteme.webp",
+   "v": "acd8ed496e",
+   "w": 400,
+   "h": 374,
+   "l": "Le baptême du Christ dans le Jourdain, miniature de l’*Hortus deliciarum* (folio 100r)",
+   "cr": "Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_folio_100r_1899.jpg",
+   "pour": [
+    "jean-baptiste"
+   ],
+   "sig": "Hortus deliciarum folio 100r 1899.jpg||400|74"
+  },
+  "hortus-sein-d-abraham": {
+   "f": "img/hortus-sein-d-abraham.webp",
+   "v": "24299e82c5",
+   "w": 400,
+   "h": 563,
+   "l": "Les justes dans le sein d’Abraham, miniature de l’*Hortus deliciarum* (folio 263v)",
+   "cr": "Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_deliciarum_folio_263v_1899.jpg",
+   "pour": [],
+   "sig": "Hortus deliciarum folio 263v 1899.jpg||400|74"
+  },
+  "hortus-enfer": {
+   "f": "img/hortus-enfer.webp",
+   "v": "dcf3c4ee09",
+   "w": 400,
+   "h": 511,
+   "l": "L’Enfer : Lucifer enchaîné au fond du gouffre, les damnés dans les flammes, miniature de l’*Hortus deliciarum*",
+   "cr": "copie du XIXe siècle d’une miniature détruite en 1870",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hortus_Deliciarum_-_Hell.jpg",
+   "pour": [],
+   "sig": "Hortus Deliciarum - Hell.jpg||400|74"
+  },
+  "hildegarde-vision": {
+   "f": "img/hildegarde-vision.webp",
+   "v": "e14573baee",
+   "w": 400,
+   "h": 585,
+   "l": "Hildegarde reçoit la vision, des flammes sur la tête, et la dicte au moine Volmar : frontispice du *Scivias*",
+   "cr": "copie (1927-1933) du manuscrit de Rupertsberg, vers 1175, disparu en 1945",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg",
+   "pour": [
+    "hildegarde-de-bingen"
+   ],
+   "sig": "Hildegard von Bingen.jpg||400|74"
+  },
+  "hildegarde-univers": {
+   "f": "img/hildegarde-univers.webp",
+   "v": "4d78310a48",
+   "w": 400,
+   "h": 515,
+   "l": "L’univers en forme d’œuf, première vision cosmique du *Scivias* (I, 3)",
+   "cr": "d’après le manuscrit de Rupertsberg, vers 1165-1175",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Meister_des_Hildegardis-Codex_001.jpg",
+   "pour": [
+    "hildegarde-de-bingen"
+   ],
+   "sig": "Meister des Hildegardis-Codex 001.jpg||400|74"
+  },
+  "hildegarde-anges": {
+   "f": "img/hildegarde-anges.webp",
+   "v": "c924237921",
+   "w": 400,
+   "h": 469,
+   "l": "Les chœurs des anges, *Scivias* I, 6",
+   "cr": "d’après le manuscrit de Rupertsberg, XIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:07angels-hildegard_von_bingen.jpg",
+   "pour": [
+    "hildegarde-de-bingen",
+    "hierarchies-celestes"
+   ],
+   "sig": "07angels-hildegard von bingen.jpg||400|74"
+  },
+  "tauler-sermon": {
+   "f": "img/tauler-sermon.webp",
+   "v": "6d83877c1e",
+   "w": 360,
+   "h": 526,
+   "l": "Un sermon de Jean Tauler copié en Alsace au début du XVe siècle",
+   "cr": "Cod. Pal. germ. 105, fol. 67r — bibliothèque universitaire de Heidelberg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Johannes_Tauler,_Predigt.jpg",
+   "pour": [
+    "mystique-rhenane"
+   ],
+   "sig": "Johannes Tauler, Predigt.jpg||360|74"
+  },
+  "suso-portrait": {
+   "f": "img/suso-portrait.webp",
+   "v": "dc47fa6891",
+   "w": 300,
+   "h": 508,
+   "l": "Henri Suso, peinture du XVe siècle",
+   "cr": "peintre inconnu, XVe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Heinrich_v_Berg.jpg",
+   "pour": [
+    "mystique-rhenane"
+   ],
+   "sig": "Heinrich v Berg.jpg||300|74"
+  },
+  "frieda-harris": {
+   "f": "img/frieda-harris.webp",
+   "v": "a67bf89202",
+   "w": 204,
+   "h": 321,
+   "l": "Lady Frieda Harris, qui peignit les soixante-dix-huit cartes du tarot de Thoth de 1938 à 1943, photographiée vers 1900",
+   "cr": "photographie anonyme, vers 1900",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lady_Frieda_Harris.jpg",
+   "pour": [
+    "tarot-de-thoth"
+   ],
+   "sig": "Lady Frieda Harris.jpg||300|74"
+  },
+  "thoth-dos-des-cartes": {
+   "f": "img/thoth-dos-des-cartes.webp",
+   "v": "d9d6f26677",
+   "w": 400,
+   "h": 501,
+   "l": "Le dos des cartes du tarot de Thoth : la Rose-Croix thélémite, dans les couleurs choisies par Frieda Harris (dessin moderne)",
+   "cr": "dessin vectoriel d’après le dos des cartes, domaine public",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Thelemic_Rose_Cross_Lamen_-_Thoth_Tarot_version.svg",
+   "pour": [
+    "tarot-de-thoth"
+   ],
+   "sig": "Thelemic Rose Cross Lamen - Thoth Tarot version.svg||400|74"
+  },
+  "thoth-hexagramme-unicursal": {
+   "f": "img/thoth-hexagramme-unicursal.webp",
+   "v": "e9a20fbaec",
+   "w": 300,
+   "h": 424,
+   "l": "L’hexagramme unicursal de Crowley, carte supplémentaire jointe à beaucoup d’éditions du tarot de Thoth (dessin moderne)",
+   "cr": "dessin vectoriel de Wolfgang Rieger, 2016, CC0",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Crowley_Unicursal_Hexagram_Tarot_Card.svg",
+   "pour": [
+    "tarot-de-thoth"
+   ],
+   "sig": "Crowley Unicursal Hexagram Tarot Card.svg||300|74"
+  },
+  "etoile-flamboyante-1850": {
+   "f": "img/etoile-flamboyante-1850.webp",
+   "v": "eacf241b70",
+   "w": 400,
+   "h": 400,
+   "l": "L’étoile flamboyante, planche d’un recueil maçonnique américain",
+   "cr": "lithographie, vers 1850 — Library of Congress",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Blazing_Star.jpg",
+   "pour": [
+    "etoile-flamboyante"
+   ],
+   "sig": "The Blazing Star.jpg||400|74"
+  },
+  "tableau-loge-1745": {
+   "f": "img/tableau-loge-1745.webp",
+   "v": "7fef6f304c",
+   "w": 360,
+   "h": 557,
+   "l": "Le tableau de la loge des maîtres, avec l’étoile au sommet, dans *Le Parfait Maçon* (1745), l’une des premières divulgations des rituels",
+   "cr": "gravure, *Le Parfait Maçon ou les véritables secrets des quatre grades*, 1745",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:1745,_Le_Parfait_Ma%C3%A7on,_tableau_maitre.jpg",
+   "pour": [
+    "etoile-flamboyante"
+   ],
+   "sig": "1745, Le Parfait Maçon, tableau maitre.jpg||360|74"
+  },
+  "masonic-chart-1876": {
+   "f": "img/masonic-chart-1876.webp",
+   "v": "0318cbfaeb",
+   "w": 440,
+   "h": 563,
+   "l": "*The Masonic Chart*, les symboles des trois grades, l’étoile flamboyante au centre",
+   "cr": "lithographie, 1876 — Library of Congress",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:The_masonic_chart_LCCN2002710037.jpg",
+   "pour": [
+    "etoile-flamboyante"
+   ],
+   "sig": "The masonic chart LCCN2002710037.jpg||440|74"
+  },
+  "odin-sam66": {
+   "f": "img/odin-sam66.webp",
+   "v": "8f22d7f5c9",
+   "w": 400,
+   "h": 508,
+   "l": "Odin avec ses deux corbeaux, Hugin et Munin, dans un manuscrit islandais du XVIIIe siècle",
+   "cr": "Jakob Sigurðsson, 1765-1766 — manuscrit SÁM 66, Institut Árni Magnússon, Reykjavik",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_77r,_Odin.jpg",
+   "pour": [
+    "odin"
+   ],
+   "sig": "SÁM 66, 77r, Odin.jpg||400|74"
+  },
+  "odin-chasse-sauvage": {
+   "f": "img/odin-chasse-sauvage.webp",
+   "v": "b093e5d785",
+   "w": 400,
+   "h": 275,
+   "l": "*La Chasse sauvage d'Odin* (*Åsgårdsreien*) : le cortège des morts traverse le ciel",
+   "cr": "Peter Nicolai Arbo, 1872 — Nasjonalmuseet, Oslo",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Peter_Nicolai_Arbo_-_The_wild_Hunt_of_Odin_-_NG.M.00258_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+   "pour": [
+    "odin"
+   ],
+   "sig": "Peter Nicolai Arbo - The wild Hunt of Odin - NG.M.00258 - National Museum of Art, Architecture and Design.jpg||400|74"
+  },
+  "thor-winge": {
+   "f": "img/thor-winge.webp",
+   "v": "84300d39ab",
+   "w": 400,
+   "h": 578,
+   "l": "*Le Combat de Thor contre les géants* : le dieu sur son char aux boucs, Mjöllnir levé",
+   "cr": "Mårten Eskil Winge, 1872 — Nationalmuseum, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:M%C3%A5rten_Eskil_Winge_-_Tor%27s_Fight_with_the_Giants_-_Google_Art_Project.jpg",
+   "pour": [
+    "thor"
+   ],
+   "sig": "Mårten Eskil Winge - Tor's Fight with the Giants - Google Art Project.jpg||400|74"
+  },
+  "thor-marteau-skane": {
+   "f": "img/thor-marteau-skane.webp",
+   "v": "2d204dd796",
+   "w": 400,
+   "h": 596,
+   "l": "Pendentif d'argent en forme de marteau de Thor, trouvé en Scanie",
+   "cr": "dessin d'Oscar Montelius, 1873",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Torshammare_av_silver_fr_Sk%C3%A5ne_(Montelius_1873_sid_107_fig_93).jpg",
+   "pour": [
+    "thor"
+   ],
+   "sig": "Torshammare av silver fr Skåne (Montelius 1873 sid 107 fig 93).jpg||400|74"
+  },
+  "loki-sigyn-winge": {
+   "f": "img/loki-sigyn-winge.webp",
+   "v": "36dd4f9c36",
+   "w": 400,
+   "h": 521,
+   "l": "*Loki et Sigyn* : le dieu enchaîné, son épouse recueillant le venin du serpent",
+   "cr": "Mårten Eskil Winge, 1863 — Nationalmuseum, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Loke_och_Sigyn_M%C3%A5rten_Eskil_Winge.jpg",
+   "pour": [
+    "loki"
+   ],
+   "sig": "Loke och Sigyn Mårten Eskil Winge.jpg||400|74"
+  },
+  "loki-enfants-frolich": {
+   "f": "img/loki-enfants-frolich.webp",
+   "v": "06a3e60f8a",
+   "w": 400,
+   "h": 272,
+   "l": "Odin écarte les enfants de Loki : le loup Fenrir, le serpent Jörmungand et Hel",
+   "cr": "Lorenz Frølich, 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Loki%27s_children_by_Fr%C3%B8lich.jpg",
+   "pour": [
+    "loki"
+   ],
+   "sig": "Loki's children by Frølich.jpg||400|74"
+  },
+  "freyja-blommer": {
+   "f": "img/freyja-blommer.webp",
+   "v": "b6d68d8411",
+   "w": 400,
+   "h": 264,
+   "l": "*Freyja cherchant son époux*, sur son char tiré par deux chats",
+   "cr": "Nils Blommér, 1852 — Nationalmuseum, Stockholm",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Freyja_and_cats_and_angels_by_Blommer.jpg",
+   "pour": [
+    "freyja"
+   ],
+   "sig": "Freyja and cats and angels by Blommer.jpg||400|74"
+  },
+  "freyja-doepler": {
+   "f": "img/freyja-doepler.webp",
+   "v": "bb2afeb390",
+   "w": 400,
+   "h": 329,
+   "l": "Freyja conduit son char tiré par des chats",
+   "cr": "Emil Doepler, vers 1905",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Freyja_by_Emil_Doepler.JPG",
+   "pour": [
+    "freyja"
+   ],
+   "sig": "Freyja by Emil Doepler.JPG||400|74"
+  },
+  "idunn-blommer": {
+   "f": "img/idunn-blommer.webp",
+   "v": "ae0f38ecb0",
+   "w": 400,
+   "h": 583,
+   "l": "*Idun et Brage* : le dieu de la poésie à la harpe, la déesse debout derrière lui",
+   "cr": "Nils Blommér, 1846 — Malmö konstmuseum",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Nils_Jakob_Blomm%C3%A9r_-_Idun_and_Brage_-_Google_Art_Project.jpg",
+   "pour": [
+    "idunn"
+   ],
+   "sig": "Nils Jakob Blommér - Idun and Brage - Google Art Project.jpg||400|74"
+  },
+  "idunn-thjazi-frolich": {
+   "f": "img/idunn-thjazi-frolich.webp",
+   "v": "a2fdadae5f",
+   "w": 400,
+   "h": 272,
+   "l": "Le géant Thjazi, sous son plumage d'aigle, emporte Loki accroché à sa perche",
+   "cr": "Lorenz Frølich, 1906",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Loki_and_%C3%9Ejazi_by_Fr%C3%B8lich.jpg",
+   "pour": [
+    "idunn"
+   ],
+   "sig": "Loki and Þjazi by Frølich.jpg||400|74"
+  },
+  "edda-codex-regius": {
+   "f": "img/edda-codex-regius.webp",
+   "v": "aa9aedb571",
+   "w": 400,
+   "h": 262,
+   "l": "Une page du *Codex Regius*, le manuscrit de l'*Edda poétique*",
+   "cr": "manuscrit islandais, vers 1270 — Institut Árni Magnússon, Reykjavik",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Codex_Regius_of_Eddaic_Poems.jpg",
+   "pour": [
+    "edda"
+   ],
+   "sig": "Codex Regius of Eddaic Poems.jpg||400|74"
+  },
+  "mythe-eros-lysippe": {
+   "f": "img/mythe-eros-lysippe.webp",
+   "v": "18dfa5a8e1",
+   "w": 400,
+   "h": 533,
+   "l": "Éros bandant son arc, copie romaine d’après le type de Lysippe",
+   "cr": "D’après Lysippe, Ier siècle — musée du Louvre, Paris",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Eros_bow_Louvre_Ma448_n01.jpg",
+   "pour": [
+    "eros"
+   ],
+   "sig": "Eros bow Louvre Ma448 n01.jpg||400|74"
+  },
+  "mythe-jason-moreau": {
+   "f": "img/mythe-jason-moreau.webp",
+   "v": "25ead3f8d5",
+   "w": 400,
+   "h": 714,
+   "l": "*Jason et Médée*, par Gustave Moreau",
+   "cr": "Gustave Moreau, 1865",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Moreau_-_Jason_et_M%C3%A9d%C3%A9e.jpg",
+   "pour": [
+    "jason"
+   ],
+   "sig": "Moreau - Jason et Médée.jpg||400|74"
+  },
+  "mythe-mnemosyne-rossetti": {
+   "f": "img/mythe-mnemosyne-rossetti.webp",
+   "v": "cafb7f2350",
+   "w": 400,
+   "h": 818,
+   "l": "*Mnemosyne*, par Dante Gabriel Rossetti : la Mémoire tient la lampe et la coupe ailée",
+   "cr": "Dante Gabriel Rossetti, 1875-1881 — Delaware Art Museum, Wilmington",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Mnemosyne_DAM.jpg",
+   "pour": [
+    "mnemosyne"
+   ],
+   "sig": "Mnemosyne DAM.jpg||400|74"
+  },
+  "mythe-cybele-met": {
+   "f": "img/mythe-cybele-met.webp",
+   "v": "1535a2061c",
+   "w": 400,
+   "h": 283,
+   "l": "Cybèle sur un char tiré par des lions, statuette de bronze romaine",
+   "cr": "Bronze romain, seconde moitié du IIe siècle — Metropolitan Museum of Art, New York",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Bronze_statuette_of_Cybele_on_a_cart_drawn_by_lions_MET_DP307791.jpg",
+   "pour": [
+    "cybele"
+   ],
+   "sig": "Bronze statuette of Cybele on a cart drawn by lions MET DP307791.jpg||400|74"
+  },
+  "double-rossetti": {
+   "f": "img/double-rossetti.webp",
+   "v": "f4e3166e2a",
+   "w": 400,
+   "h": 512,
+   "l": "*How They Met Themselves* : deux amants rencontrent leurs doubles dans un bois, par Dante Gabriel Rossetti",
+   "cr": "Dante Gabriel Rossetti, 1864",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_How_They_Met_Themselves_(1864).jpg",
+   "pour": [
+    "doppelganger"
+   ],
+   "sig": "Dante Gabriel Rossetti - How They Met Themselves (1864).jpg||400|74"
+  },
+  "fakir-vereshchagin": {
+   "f": "img/fakir-vereshchagin.webp",
+   "v": "a5c2157969",
+   "w": 400,
+   "h": 523,
+   "l": "*Deux fakirs*, par Vassili Vereshchagin, peint lors de son voyage en Inde",
+   "cr": "Vassili Vereshchagin, 1874-1876 — galerie Tretiakov, Moscou",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B2%D0%B0_%D1%84%D0%B0%D0%BA%D0%B8%D1%80%D0%B0_(%D0%92%D0%B5%D1%80%D0%B5%D1%89%D0%B0%D0%B3%D0%B8%D0%BD).jpg",
+   "pour": [
+    "fakir"
+   ],
+   "sig": "Два факира (Верещагин).jpg||400|74"
+  },
+  "luther-cranach-cobourg": {
+   "f": "img/luther-cranach-cobourg.webp",
+   "v": "8372999797",
+   "w": 400,
+   "h": 633,
+   "l": "Martin Luther en 1528, par Lucas Cranach l'Ancien",
+   "cr": "Lucas Cranach l'Ancien, 1528 — Veste Coburg",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Martin_Luther,_1528_(Veste_Coburg).jpg",
+   "pour": [
+    "martin-luther"
+   ],
+   "sig": "Lucas Cranach d.Ä. - Martin Luther, 1528 (Veste Coburg).jpg||400|74"
+  },
+  "calvin-boyvin": {
+   "f": "img/calvin-boyvin.webp",
+   "v": "7b7dd2f52e",
+   "w": 400,
+   "h": 537,
+   "l": "Jean Calvin à cinquante-trois ans, gravé par René Boyvin",
+   "cr": "René Boyvin, 1562 — Bibliothèque de Genève",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Calvin_1562.jpg",
+   "pour": [
+    "jean-calvin"
+   ],
+   "sig": "Calvin 1562.jpg||400|74"
+  },
+  "bucer-boissard": {
+   "f": "img/bucer-boissard.webp",
+   "v": "8c122df7ca",
+   "w": 400,
+   "h": 525,
+   "l": "Martin Bucer, dans les *Icones* de Jean-Jacques Boissard",
+   "cr": "Jean-Jacques Boissard et Théodore de Bry, 1599 — British Library",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Martin_Bucer_by_Boissard.png",
+   "pour": [
+    "martin-bucer"
+   ],
+   "sig": "Martin Bucer by Boissard.png||400|74"
+  },
+  "cosmographiae-selestat": {
+   "f": "img/cosmographiae-selestat.webp",
+   "v": "d1b5462be6",
+   "w": 400,
+   "h": 597,
+   "l": "La *Cosmographiae introductio* (Saint-Dié, 1507), exemplaire de Beatus Rhenanus avec son ex-libris, à la Bibliothèque humaniste",
+   "cr": "Matthias Ringmann et Martin Waldseemüller, 1507 — Bibliothèque humaniste de Sélestat",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Titelblatt_Cosmographiae_Introductio_Schlettstadt.jpg",
+   "pour": [
+    "bibliotheque-humaniste"
+   ],
+   "sig": "Titelblatt Cosmographiae Introductio Schlettstadt.jpg||400|74"
+  },
+  "beatus-rhenanus-haid": {
+   "f": "img/beatus-rhenanus-haid.webp",
+   "v": "73adf059ee",
+   "w": 400,
+   "h": 482,
+   "l": "Beatus Rhenanus, dont le legs de 1547 fonda la bibliothèque",
+   "cr": "gravure de Johann Jakob Haid, XVIIIe siècle",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:Beatus_Rhenanus_-_Imagines_philologorum.jpg",
+   "pour": [
+    "bibliotheque-humaniste"
+   ],
+   "sig": "Beatus Rhenanus - Imagines philologorum.jpg||400|74"
+  },
+  "quatre-docteurs-beccafumi": {
+   "f": "img/quatre-docteurs-beccafumi.webp",
+   "v": "08b8458b87",
+   "w": 400,
+   "h": 509,
+   "l": "Les quatre docteurs de l'Église latine, Ambroise, Jérôme, Augustin et Grégoire",
+   "cr": "Domenico Beccafumi, vers 1527-1530 — Metropolitan Museum of Art, New York",
+   "lic": "CC0",
+   "src": "https://commons.wikimedia.org/wiki/File:Four_Doctors_of_the_Church_MET_DP864188.jpg",
+   "pour": [
+    "peres-de-l-eglise"
+   ],
+   "sig": "Four Doctors of the Church MET DP864188.jpg||400|74"
+  },
+  "nicee-damaskinos": {
+   "f": "img/nicee-damaskinos.webp",
+   "v": "d066746190",
+   "w": 400,
+   "h": 510,
+   "l": "Le concile de Nicée : Constantin et les évêques autour de l'Évangile, Arius terrassé au premier plan",
+   "cr": "Michel Damaskinos, 1591 — Héraklion",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:First_Council_of_Nicaea_Michael_Damaskinos.png",
+   "pour": [
+    "arianisme"
+   ],
+   "sig": "First Council of Nicaea Michael Damaskinos.png||400|74"
   }
  },
  "planches": {
@@ -14900,6 +15474,20 @@
      "nabis-talisman",
      "klint-jeunesse",
      "mondrian-evolution"
+    ]
+   }
+  ],
+  "hortus-deliciarum": [
+   {
+    "titre": "Les miniatures de l’*Hortus deliciarum*, d’après les copies prises avant 1870",
+    "images": [
+     "hortus-deliciarum-philosophie",
+     "hortus-herrade",
+     "hortus-femme-apocalypse",
+     "hortus-babel",
+     "hortus-bapteme",
+     "hortus-sein-d-abraham",
+     "hortus-enfer"
     ]
    }
   ]

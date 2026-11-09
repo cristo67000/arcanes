@@ -25,9 +25,9 @@ cat: notions
 nom: Mystique
 alias: mysticisme, mystiques, expérience mystique, union mystique
 def: Expérience d'union directe et intime avec le divin ou l'absolu, et ensemble des doctrines et des pratiques qui y conduisent.
-texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : [[maitre-eckhart|Maître Eckhart]], Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
+texte: Le mot vient du grec *mustikos*, « relatif aux mystères » ; chez les chrétiens, il désigne d'abord le sens caché des Écritures, puis l'expérience de Dieu. Toutes les grandes religions ont leurs mystiques : [[hildegarde-de-bingen|Hildegarde de Bingen]], [[maitre-eckhart|Maître Eckhart]], Thérèse d'Avila, Jean de la Croix chez les chrétiens, les soufis en islam, les kabbalistes extatiques dans le judaïsme.
 texte: [[antoine-faivre]] distingue la mystique de l'ésotérisme : le mystique tend à dépasser toutes les images et tous les intermédiaires pour s'unir à Dieu, tandis que l'ésotériste s'attache aux symboles, aux [[correspondances]] et aux êtres intermédiaires, et cherche à connaître autant qu'à s'unir. Les deux attitudes se mêlent souvent chez les mêmes auteurs.
-voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase, marguerite-marie-alacoque, starets, maitre-eckhart
+voir: esoterisme, soufisme, pseudo-denys, theosophie-chretienne, extase, marguerite-marie-alacoque, starets, maitre-eckhart, mystique-rhenane, hildegarde-de-bingen
 
 @ initiation
 cat: notions
@@ -197,7 +197,7 @@ def: Enveloppes invisibles et plus fines que le corps physique dont l'être huma
 texte: Les néoplatoniciens parlaient d'un « véhicule » lumineux de l'âme (*ochêma*), qu'elle revêt en descendant à travers les sphères. [[paracelse]] distingue un corps « sidéral » à côté du corps élémentaire. La [[theosophie]] systématise ces idées en sept principes, du corps physique à l'esprit pur, en passant par le double éthérique, siège de la vitalité, le corps astral, siège des désirs et des émotions, et le corps mental.
 texte: [[rudolf-steiner]] retient quatre membres principaux : corps physique, corps éthérique, corps astral et « je ». Le [[spiritisme]] parle de [[perisprit]]. Ces enveloppes, que les clairvoyants disent percevoir comme une [[aura]], n'ont jamais été mises en évidence par des instruments.
 schema: corps-subtils
-voir: theosophie, aura, voyage-astral, perisprit, chakra, lumiere-astrale
+voir: theosophie, aura, voyage-astral, perisprit, chakra, lumiere-astrale, doppelganger
 
 @ aura
 cat: notions
@@ -404,7 +404,7 @@ alias: projection astrale, sortie hors du corps, décorporation, expérience hor
 def: Expérience où une personne a l'impression de quitter son corps et de se déplacer dans le monde physique ou dans d'autres plans, au moyen de son corps astral selon les ésotéristes.
 texte: L'occultisme et la [[theosophie]] décrivent le corps astral, qui pourrait se détacher du corps physique pendant le sommeil ou par entraînement, relié à lui par un fil d'argent. La [[golden-dawn|Golden Dawn]] enseignait à « voyager en esprit » dans des paysages symboliques. Des manuels de projection astrale paraissent à partir des années 1920 ; Robert Monroe popularise l'expérience en 1971.
 texte: Les neurologues observent des expériences de sortie du corps lors de crises d'épilepsie, d'accidents, de l'anesthésie ou de la stimulation électrique de certaines zones du cerveau. Elles sont vécues comme très réelles, mais les tests consistant à lire des cibles cachées n'ont pas donné de résultats probants.
-voir: corps-subtils, lumiere-astrale, imagination-creatrice
+voir: corps-subtils, lumiere-astrale, imagination-creatrice, doppelganger
 
 @ arcane
 cat: notions
@@ -420,7 +420,7 @@ cat: notions
 nom: Art de la mémoire
 alias: ars memoriae, mnémotechnie, palais de la mémoire, lieux de mémoire, théâtre de la mémoire
 def: Technique héritée de l'Antiquité qui consiste à placer en esprit des images frappantes dans des lieux imaginaires pour retenir un discours ; la Renaissance en fit un instrument magique et philosophique.
-texte: Les rhéteurs latins enseignaient à se représenter un bâtiment familier et à déposer dans chacune de ses pièces une image liée à ce qu'on veut retenir ; il suffit ensuite de parcourir le bâtiment en pensée. La tradition attribuait l'invention de la méthode au poète Simonide.
+texte: Les rhéteurs latins enseignaient à se représenter un bâtiment familier et à déposer dans chacune de ses pièces une image liée à ce qu'on veut retenir ; il suffit ensuite de parcourir le bâtiment en pensée. La tradition attribuait l'invention de la méthode au poète Simonide ; les Grecs avaient fait de la Mémoire une déesse, [[mnemosyne|Mnémosyne]], mère des Muses.
 texte: À la Renaissance, Giulio Camillo conçoit un « théâtre de la mémoire » où toute la connaissance serait rangée selon les planètes, et [[giordano-bruno]] construit des systèmes de roues et d'images astrales qui doivent imprimer dans l'esprit l'ordre même de l'univers. [[frances-yates]] a consacré un livre célèbre à cette histoire (1966).
 voir: giordano-bruno, raymond-lulle, frances-yates, robert-fludd
 

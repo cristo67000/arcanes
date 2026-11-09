@@ -410,7 +410,7 @@ alias: Edgar Poe, Poe, Le Corbeau, Le Scarabée d'or, Histoires extraordinaires,
 dates: 1809 – 1849
 an: 1809
 def: Poète et conteur américain, maître du fantastique et inventeur du récit policier, passionné de cryptographie et de magnétisme ; Baudelaire l'a fait connaître en France.
-texte: Né à Boston en 1809, orphelin élevé à Richmond, Poe mène une vie de misère, de journalisme et de deuils. En 1839-1840, il met au défi les lecteurs d'un journal de lui envoyer des messages chiffrés et se vante de les résoudre tous ; il publie en 1841 « Quelques mots sur l'écriture secrète ». *Le Double Assassinat dans la rue Morgue* (1841) invente le détective, *[[le-scarabee-d-or|Le Scarabée d'or]]* (1843) popularise l'[[analyse-des-frequences|analyse des fréquences]], *Le Corbeau* (1845) lui donne la gloire. Il meurt à Baltimore en 1849, dans des circonstances jamais éclaircies.
+texte: Né à Boston en 1809, orphelin élevé à Richmond, Poe mène une vie de misère, de journalisme et de deuils. En 1839-1840, il met au défi les lecteurs d'un journal de lui envoyer des messages chiffrés et se vante de les résoudre tous ; il publie en 1841 « Quelques mots sur l'écriture secrète ». *Le Double Assassinat dans la rue Morgue* (1841) invente le détective, *[[le-scarabee-d-or|Le Scarabée d'or]]* (1843) popularise l'[[analyse-des-frequences|analyse des fréquences]], *Le Corbeau* (1845) lui donne la gloire ; *William Wilson* (1839) est le conte du double ([[doppelganger]]). Il meurt à Baltimore en 1849, dans des circonstances jamais éclaircies.
 texte: Plusieurs contes mettent en scène le [[magnetisme-animal|magnétisme animal]] : un mourant maintenu en vie par l'hypnose dans *La Vérité sur le cas de M. Valdemar* (1845) ; *Eureka* (1848) est un poème cosmologique sur l'unité de l'univers. [[charles-baudelaire|Baudelaire]] le traduit de 1848 à 1865, Mallarmé traduit ses poèmes et lui dédie *Le Tombeau d'Edgar Poe* ; [[jules-verne|Jules Verne]] lui donne une suite avec *Le Sphinx des glaces*.
 repere: 1809 — Naissance à Boston, le 19 janvier.
 repere: 1841 — « Quelques mots sur l'écriture secrète » ; *Double Assassinat dans la rue Morgue*.
@@ -418,7 +418,7 @@ repere: 1843 — *Le Scarabée d'or*.
 repere: 1845 — *Le Corbeau* ; *La Vérité sur le cas de M. Valdemar*.
 repere: 1849 — Mort à Baltimore, le 7 octobre.
 repere: 1856 — Baudelaire publie les *Histoires extraordinaires*.
-voir: le-scarabee-d-or, corbeau, charles-baudelaire, jules-verne, magnetisme-animal, analyse-des-frequences, roman-gothique, stephane-mallarme
+voir: le-scarabee-d-or, corbeau, charles-baudelaire, jules-verne, magnetisme-animal, analyse-des-frequences, roman-gothique, stephane-mallarme, doppelganger
 
 @ michel-scot
 cat: figures
@@ -470,7 +470,7 @@ repere: 392 — Théodose interdit les cultes païens.
 repere: 395 — Les Goths d'Alaric ravagent Éleusis.
 extrait: Elle parla ainsi, et Dèmètèr à la belle couronne ne s’y refusa pas, et, aussitôt, elle produisit les fruits des champs fertiles. Et toute la vaste terre se hérissa de feuilles et de fleurs ; et Dèmètèr, en partant, instruisit les Rois qui rendent la justice : Triptolémos, et Dioklès dompteur de chevaux, et la force d’Eumolpos, et le chef des peuples Kéléos. Et elle les instruisit du ministère sacré, et elle les initia tous, Triptolémos, Polyxeinos, et surtout Dioklès, à ses orgies sacrées qu’il n’est permis ni de négliger, ni de sonder, ni de révéler, car le grand respect des Dieux réprime la voix. ¶ Heureux qui est instruit de ces choses parmi les hommes terrestres ! Celui qui n’est point initié aux choses sacrées et qui n’y participe point ne jouit jamais d’une semblable destinée, même mort, sous les ténèbres épaisses.
 source: *Hymnes homériques*, « À Dèmètèr », trad. Leconte de Lisle, Lemerre, 1893 | ws Hymnes homériques/À Dèmètèr 2
-voir: persephone, eleusis, mysteres-antiques, hecate, isis, mystes-et-epoptes, hierophante
+voir: persephone, eleusis, mysteres-antiques, hecate, isis, mystes-et-epoptes, hierophante, cybele
 
 @ persephone
 cat: figures

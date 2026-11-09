@@ -56,7 +56,7 @@ cat: divination
 nom: L'Amoureux
 alias: Amoureux, les Amoureux, arcane VI, les Amants
 def: Sixième arcane majeur : un jeune homme entre deux femmes, sous un Cupidon qui bande son arc, figure du choix, du désir et de l'union.
-texte: Dans le [[tarot-de-marseille|tarot de Marseille]], l'Amoureux hésite entre deux femmes, l'une plus âgée, l'autre plus jeune, qu'on a lues comme le vice et la vertu, la mère et l'épouse, ou deux voies de la vie. Au-dessus, un Cupidon ailé, l'Éros des Grecs (voir [[eros-et-psyche|Éros et Psyché]]), s'apprête à décocher sa flèche : le choix est aussi un coup du sort.
+texte: Dans le [[tarot-de-marseille|tarot de Marseille]], l'Amoureux hésite entre deux femmes, l'une plus âgée, l'autre plus jeune, qu'on a lues comme le vice et la vertu, la mère et l'épouse, ou deux voies de la vie. Au-dessus, un Cupidon ailé, l'[[eros|Éros]] des Grecs (voir aussi [[eros-et-psyche|Éros et Psyché]]), s'apprête à décocher sa flèche : le choix est aussi un coup du sort.
 texte: Le [[tarot-rider-waite|Rider-Waite]], qui l'appelle les Amoureux, montre Adam et Ève nus sous un ange, devant l'arbre de la connaissance du [[jardin-d-eden|jardin d'Éden]] ; la Golden Dawn lui attribue les [[gemeaux|Gémeaux]]. En divination, il signifie une décision, un sentiment, une alliance.
 schema: arcanes-majeurs/6
 voir: arcanes-majeurs, androgyne, gemeaux, eros-et-psyche, jardin-d-eden, tarot-rider-waite, tarot-de-marseille

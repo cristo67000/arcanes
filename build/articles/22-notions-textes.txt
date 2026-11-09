@@ -209,9 +209,9 @@ cat: notions
 nom: Psychopompe
 alias: guide des âmes, conducteur des âmes, Hermès psychopompe
 def: Le conducteur des âmes des morts vers l'au-delà, rôle que tiennent Hermès, Anubis, l'archange Michel ou les Walkyries, et, dans les rites chamaniques, le chaman lui-même.
-texte: En Grèce, [[hermes-trismegiste|Hermès]], messager des dieux, mène les ombres des défunts jusqu'au fleuve des Enfers ; en Égypte, Anubis, à tête de chacal, guide le mort et assiste à la pesée de son cœur. Le christianisme confie ce rôle à l'archange Michel, peseur des âmes, et les Walkyries de la mythologie nordique emportent les guerriers tombés vers le Valhalla.
+texte: En Grèce, [[hermes-trismegiste|Hermès]], messager des dieux, mène les ombres des défunts jusqu'au fleuve des Enfers ; en Égypte, Anubis, à tête de chacal, guide le mort et assiste à la pesée de son cœur. Le christianisme confie ce rôle à l'archange Michel, peseur des âmes, et les Walkyries de la mythologie nordique emportent les guerriers tombés vers le Valhalla d'[[odin|Odin]], tandis que [[freyja|Freyja]] en reçoit l'autre moitié dans son champ de Fólkvangr.
 texte: Dans le [[chamanisme]], le chaman accompagne l'âme du défunt dans l'autre monde. [[carl-gustav-jung|Jung]] appelle psychopompe la figure intérieure, le vieux sage ou l'anima, qui guide le moi vers l'inconscient.
-voir: hermes-trismegiste, chamanisme, anges, carl-gustav-jung, anubis, saint-michel
+voir: hermes-trismegiste, chamanisme, anges, carl-gustav-jung, anubis, saint-michel, odin, freyja
 
 @ extase
 cat: notions

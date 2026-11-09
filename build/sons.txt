@@ -293,3 +293,13 @@ commons: Harry Houdini's voice.ogg
 titre: La voix de Harry Houdini, qui démasquait les médiums
 credit: cylindre Edison, Flatbush, New York, 29 octobre 1914
 pour: arthur-conan-doyle
+
+
+% Chant médiéval
+debit: 64 mono
+
+= o-frondens
+commons: O frondens 2.ogg
+titre: Hildegarde de Bingen, « O frondens virga », antienne de l’*Ordo virtutum*
+credit: chanté par une interprète amateur (Makemi), en concert, 2006
+pour: hildegarde-de-bingen

@@ -126,7 +126,7 @@ def informations(titre, page=None):
     `page` : le numéro de page d'un livre numérisé (PDF ou DjVu), dont Commons
     fournit le rendu en image."""
     p = {'action': 'query', 'titles': 'File:' + titre, 'prop': 'imageinfo', 'redirects': '1',
-         'iiprop': 'url|size|extmetadata|sha1', 'iiurlwidth': str(LARGEUR_SOURCE), 'format': 'json'}
+         'iiprop': 'url|size|extmetadata|sha1|mime', 'iiurlwidth': str(LARGEUR_SOURCE), 'format': 'json'}
     if page:
         p['iiurlparam'] = 'page%d-%dpx' % (int(page), LARGEUR_SOURCE)
     r = json.loads(obtenir(API + '?' + urllib.parse.urlencode(p)))
@@ -138,7 +138,7 @@ def informations(titre, page=None):
     return {
         'titre': fiche['title'][len('File:'):],
         'url': ii['url'], 'vignette': ii.get('thumburl'), 'w': ii['width'], 'h': ii['height'], 'sha1': ii.get('sha1'),
-        'page': ii.get('descriptionurl'),
+        'page': ii.get('descriptionurl'), 'mime': ii.get('mime', ''),
         'licence': nettoyer(em.get('LicenseShortName', {}).get('value')),
         'licence_code': nettoyer(em.get('License', {}).get('value')).lower(),
         'droits': nettoyer(em.get('Copyrighted', {}).get('value')),
@@ -166,8 +166,10 @@ def original(info):
     chemin = os.path.join(ORIGINAUX, cle + '.bin')
     if os.path.exists(chemin):
         return chemin, False
-    # la page d'un livre numérisé n'existe qu'en rendu : la vignette, toujours
-    url = info['vignette'] if (info['w'] > LARGEUR_SOURCE or info.get('feuillet')) and info.get('vignette') else info['url']
+    # la page d'un livre numérisé n'existe qu'en rendu, et un SVG n'est lisible qu'une fois
+    # rendu par Commons : la vignette, toujours
+    rendu = info.get('feuillet') or info.get('mime') == 'image/svg+xml'
+    url = info['vignette'] if (info['w'] > LARGEUR_SOURCE or rendu) and info.get('vignette') else info['url']
     donnees = obtenir(url)
     with open(chemin, 'wb') as f:
         f.write(donnees)

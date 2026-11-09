@@ -101,6 +101,18 @@
       f.chemin(placer(LIS, { dy: -44, k: 0.45 }) + placer(LIS, { rot: 90, dx: 30, dy: -14, k: 0.45 }) + placer(LIS, { rot: -90, dx: -30, dy: -14, k: 0.45 }), c.p);
       f.chemin(barres([-12, 26, 24, 5], [-7, 40, 14, 7]), c.p);
     },
+    canterbury: (f, c) => {
+      // quatre bras triangulaires dont les bouts, arcs d'un même cercle, dessinent une roue
+      f.chemin(quatre('M-7 -7L-26 -38A46 46 0 0 1 26 -38L7 -7Z') + barres([-8, -8, 16, 16]), c.p);
+      f.chemin(quatre('M0 -13L-16 -34L16 -34Z'), c.v);
+      // le nœud à trois boucles (triquetra) gravé sur chaque panneau
+      const lobe = (deg) => {
+        const x = (5.5 * Math.cos(deg * RAD)).toFixed(2);
+        const y = (-25 + 5.5 * Math.sin(deg * RAD)).toFixed(2);
+        return 'M0 -25A3.4 3.4 0 0 1 ' + x + ' ' + y + 'A3.4 3.4 0 0 1 0 -25';
+      };
+      f.chemin(quatre([90, 210, 330].map(lobe).join('')), c.l2);
+    },
     celtique: (f, c) => {
       f.cercle(0, -16, 24, c.l);
       f.chemin(barres([-6, -48, 12, 96], [-34, -22, 68, 12]), c.p);
@@ -260,6 +272,7 @@
     copte: { n: 'Copte', r: 'croix-copte', f: 'Quatre branches égales à trois pointes chacune, soit douze pointes, autour d’un cercle.' },
     ethiopienne: { n: 'Éthiopienne', r: 'croix-ethiopienne', f: 'Une dentelle de métal : dessin simplifié d’une croix de procession.' },
     celtique: { n: 'Celtique', r: 'croix-celtique', f: 'La croix des pays celtiques, nimbée d’un anneau d’où ses branches dépassent.' },
+    canterbury: { n: 'Canterbury', r: 'croix-de-canterbury', f: 'Quatre bras triangulaires aux bouts arrondis en roue, d’après une broche saxonne du IXe siècle : la croix des anglicans.' },
     'saint-thomas': { n: 'Saint-Thomas', r: 'croix-de-saint-thomas', f: 'La croix des chrétiens de l’Inde : extrémités lobées, lotus au pied, colombe au sommet.' },
     huguenote: { n: 'Huguenote', r: 'croix-huguenote', f: 'Une croix de Malte perlée, quatre fleurs de lys, une colombe suspendue.' },
     serbe: { n: 'Serbe', r: 'croix-serbe', f: 'Une croix grecque cantonnée de quatre signes en forme de C.' },
@@ -291,7 +304,7 @@
 
   const SECTIONS = [
     { titre: 'Les formes premières', cles: ['latine', 'grecque', 'saint-andre', 'tau', 'saint-pierre', 'ansee'] },
-    { titre: 'Les Églises', cles: ['lorraine', 'papale', 'orthodoxe', 'armenienne', 'copte', 'ethiopienne', 'celtique', 'saint-thomas', 'huguenote', 'serbe'] },
+    { titre: 'Les Églises', cles: ['lorraine', 'papale', 'orthodoxe', 'armenienne', 'copte', 'ethiopienne', 'celtique', 'canterbury', 'saint-thomas', 'huguenote', 'serbe'] },
     { titre: 'Les ordres de chevalerie', cles: ['templiers', 'malte', 'teutonique', 'jerusalem', 'saint-lazare', 'saint-jacques', 'calatrava', 'ordre-du-christ', 'saint-esprit'] },
     { titre: 'Blasons, pays et provinces', cles: ['pattee', 'potencee', 'saint-georges', 'scandinave', 'bourgogne', 'occitane', 'lauburu', 'camarguaise'] },
     { titre: 'Monogrammes et autres signes', cles: ['chrisme', 'staurogramme', 'rose-croix', 'solaire', 'svastika', 'agadez', 'obele'] },

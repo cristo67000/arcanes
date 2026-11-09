@@ -174,3 +174,8 @@ etapes: croix, croix-ansee, chrisme, croix-latine, croix-grecque, croix-en-tau, 
   crucifix, signe-de-croix, croix-orthodoxe, croix-de-lorraine, croix-papale, croix-armenienne, croix-copte, croix-celtique,
   croix-des-ordres-militaires, croix-des-templiers, croix-de-malte, croix-teutonique, croix-de-jerusalem, croix-de-l-ordre-du-christ,
   croix-heraldiques, croix-occitane, lauburu, svastika, le-symbolisme-de-la-croix
+
+= dieux-du-nord
+nom: Les dieux du Nord
+def: D'Odin pendu à l'arbre du monde aux marteaux portés face à la croix : les dieux des Eddas, leurs runes, leur magie, et ce que Wagner et les néopaïens en ont fait.
+etapes: edda, odin, sacrifice-d-odin, runes, thor, loki, freyja, idunn, arbre-cosmique, l-anneau-du-nibelung, neopaganisme, ariosophie

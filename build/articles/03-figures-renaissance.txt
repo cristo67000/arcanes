@@ -59,7 +59,7 @@ def: Humaniste allemand, premier grand hébraïsant chrétien, qui fit de la kab
 texte: Né à Pforzheim en 1455, Johannes Reuchlin étudie à Fribourg, à Paris et à Bâle, où il apprend le grec, puis le droit à Orléans et à Poitiers. Juriste et diplomate au service du comte de Wurtemberg, il voyage en Italie, où il rencontre [[marsile-ficin|Ficin]] puis, en 1490, [[pic-de-la-mirandole|Pic de la Mirandole]], qui lui communique sa passion pour la [[kabbale]]. Il apprend l'hébreu auprès du médecin juif de l'empereur, puis d'un savant rabbin à Rome. Les humanistes l'appellent Capnion, traduction grecque de son nom, « petite fumée ».
 texte: En 1506, il publie une grammaire et un dictionnaire hébreux qui ouvrent aux chrétiens l'étude de la langue de l'Ancien Testament. Dans *De verbo mirifico* (1494), il soutient que le nom de Jésus, en hébreu, s'obtient en insérant la lettre *shin* au cœur du [[tetragramme|Tétragramme]] divin : le Nom imprononçable devient prononçable dans le Christ. Son *[[de-arte-cabalistica|De arte cabalistica]]* (1517), dédié au pape Léon X, expose la kabbale sous forme d'un dialogue entre un juif, un pythagoricien et un musulman : Pythagore, selon lui, avait puisé sa sagesse chez les kabbalistes.
 texte: En 1509, le converti Johannes Pfefferkorn obtient de l'empereur Maximilien la confiscation des livres juifs. Consulté, Reuchlin rend en 1510 un avis contraire : le Talmud et la kabbale doivent être conservés et étudiés. Les dominicains de Cologne l'attaquent, l'inquisiteur Hochstraten lui fait un procès qui dure dix ans, et l'Europe savante se divise. Les partisans de Reuchlin répliquent par une satire restée célèbre, les *Lettres des hommes obscurs*, qui ridiculise ses adversaires dans un latin de cuisine. Rome finit par condamner son livre en 1520.
-texte: Grand-oncle de Melanchthon, Reuchlin refuse pourtant de suivre Luther. Il termine sa vie professeur de grec et d'hébreu à Ingolstadt puis à Tübingen, et meurt en 1522. Son œuvre a fondé, après Pic, la [[kabbale-chretienne|kabbale chrétienne]] allemande, que reprendront [[cornelius-agrippa|Agrippa]] et les théosophes.
+texte: Grand-oncle de Melanchthon, Reuchlin refuse pourtant de suivre [[martin-luther|Luther]]. Il termine sa vie professeur de grec et d'hébreu à Ingolstadt puis à Tübingen, et meurt en 1522. Son œuvre a fondé, après Pic, la [[kabbale-chretienne|kabbale chrétienne]] allemande, que reprendront [[cornelius-agrippa|Agrippa]] et les théosophes.
 repere: 1455 — Naissance à Pforzheim.
 repere: 1482 — Voyage en Italie à la suite du comte de Wurtemberg ; il rencontre Ficin.
 repere: 1490 — Second voyage en Italie : il rencontre Pic de la Mirandole.
@@ -72,7 +72,7 @@ repere: 1517 — *De arte cabalistica*, dédié au pape Léon X.
 repere: 1520 — Rome condamne son *Miroir des yeux* au terme d'un long procès.
 repere: 1522 — Mort à Stuttgart.
 oeuvres: De verbo mirifico (1494) ; Rudiments de l'hébreu (1506) ; Miroir des yeux (1511) ; De arte cabalistica (1517)
-voir: kabbale-chretienne, de-arte-cabalistica, tetragramme, pic-de-la-mirandole, pythagore
+voir: kabbale-chretienne, de-arte-cabalistica, tetragramme, pic-de-la-mirandole, pythagore, martin-luther
 
 @ jean-tritheme
 cat: figures
@@ -411,7 +411,7 @@ repere: 1634 — Calw est incendiée ; il perd sa bibliothèque.
 repere: 1639 — Prédicateur de la cour à Stuttgart.
 repere: 1654 — Mort à Stuttgart.
 oeuvres: Noces chymiques de Christian Rosenkreutz (1616) ; Christianopolis (1619) ; Mythologia christiana (1619) ; autobiographie (publiée en 1849)
-voir: rose-croix, noces-chymiques, fama-fraternitatis, christian-rosenkreutz, confessio-fraternitatis
+voir: rose-croix, noces-chymiques, fama-fraternitatis, christian-rosenkreutz, confessio-fraternitatis, martin-luther
 
 @ christian-rosenkreutz
 cat: figures
@@ -424,14 +424,14 @@ texte: Selon la *[[fama-fraternitatis|Fama Fraternitatis]]* (1614), le frère C.
 texte: Les savants d'Espagne refusent ses enseignements. De retour en Allemagne, il fonde avec trois, puis huit compagnons une fraternité secrète, dont les règles sont simples : soigner les malades gratuitement, ne porter aucun habit distinctif, se retrouver chaque année dans la maison du Saint-Esprit, se choisir un successeur, garder le secret pendant cent ans. Il meurt à cent six ans, en 1484.
 texte: Son tombeau est découvert en 1604 par un frère qui restaure la maison : derrière une porte qui porte l'inscription « Dans cent vingt ans, je m'ouvrirai », une crypte à sept côtés, éclairée d'un soleil intérieur, abrite son corps intact, un livre à la main, entouré de miroirs, de cloches, de lampes et de livres. C'est cette découverte qui décide la Fraternité à se faire connaître.
 texte: Les *[[noces-chymiques|Noces chymiques]]* (1616) racontent son voyage initiatique, en sept jours de Pâques 1459, vers le château où se célèbrent les noces d'un roi et d'une reine : épreuves, pesée des âmes, mort et résurrection des époux royaux au terme d'opérations alchimiques, jusqu'à sa nomination comme chevalier de la Pierre d'or.
-texte: Les historiens tiennent Christian Rosenkreutz pour un personnage de fiction, dont le nom rappelle la rose et la croix du sceau de Luther et les armes de la famille d'[[johann-valentin-andreae|Andreae]]. Les ordres rosicruciens modernes en font un véritable maître ; [[rudolf-steiner]] lui consacre des conférences, et d'autres l'identifient au [[comte-de-saint-germain|comte de Saint-Germain]].
+texte: Les historiens tiennent Christian Rosenkreutz pour un personnage de fiction, dont le nom rappelle la rose et la croix du sceau de [[martin-luther|Luther]] et les armes de la famille d'[[johann-valentin-andreae|Andreae]]. Les ordres rosicruciens modernes en font un véritable maître ; [[rudolf-steiner]] lui consacre des conférences, et d'autres l'identifient au [[comte-de-saint-germain|comte de Saint-Germain]].
 repere: 1378 — Naissance du frère C.R.C., selon la *Fama*.
 repere: 1459 — Date du voyage raconté dans les *Noces chymiques*.
 repere: 1484 — Mort à cent six ans, selon la *Fama*.
 repere: 1604 — Découverte légendaire de son tombeau.
 repere: 1614 — La *Fama Fraternitatis* révèle son histoire.
 repere: 1616 — Publication des *Noces chymiques*.
-voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose, fernando-pessoa
+voir: rose-croix, fama-fraternitatis, noces-chymiques, johann-valentin-andreae, la-rose, fernando-pessoa, martin-luther
 
 @ basile-valentin
 cat: figures
@@ -584,7 +584,7 @@ repere: 1704 — *Optique*.
 repere: 1727 — Mort à Londres ; inhumé à l'abbaye de Westminster.
 repere: 1936 — Vente aux enchères de ses manuscrits ; Keynes en achète une partie.
 repere: 2019 — William Newman publie *Newton the Alchemist*.
-voir: alchimie, eirenee-philalethe, prisca-theologia, michel-sendivogius, temple-de-salomon, songe-de-nabuchodonosor, apocalypse, robert-boyle
+voir: alchimie, eirenee-philalethe, prisca-theologia, michel-sendivogius, temple-de-salomon, songe-de-nabuchodonosor, apocalypse, robert-boyle, arianisme
 
 # ── Figures ajoutées en 1.2 ─────────────────────────────────────────────────
 

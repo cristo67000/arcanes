@@ -86,6 +86,7 @@ const CATEGORIES = [
   { id: 'peinture',   nom: 'Peinture et gravure' },
   { id: 'musique',    nom: 'Musique' },
   { id: 'croix',      nom: 'Croix' },
+  { id: 'nordique',   nom: 'Mythologie et croyances nordiques' },
   { id: 'bestiaire',  nom: 'Animaux fantastiques et symboliques' },
   { id: 'egypte',     nom: 'Égyptologie' },
   { id: 'codes',      nom: 'Codes secrets' },

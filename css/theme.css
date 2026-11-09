@@ -64,6 +64,7 @@
   --c-peinture: #ca1652;
   --c-musique: #5c0b0b;
   --c-croix: #120a50;
+  --c-nordique: #1b4332;
   --c-perso: #6b6577;
 
   /* la carte des lieux */
@@ -143,6 +144,7 @@
     --c-peinture: #f65a8e;
     --c-musique: #f53838;
     --c-croix: #d0fff0;
+    --c-nordique: #b4e4ff;
     --c-perso: #aaa3b8;
     --mer: #0e1522;
     --terre: #221d31;
@@ -212,6 +214,7 @@
   --c-peinture: #f65a8e;
   --c-musique: #f53838;
   --c-croix: #d0fff0;
+  --c-nordique: #b4e4ff;
   --c-perso: #aaa3b8;
   --mer: #0e1522;
   --terre: #221d31;

@@ -95,6 +95,7 @@
 
 /* Divers */
 .f-amande { fill: var(--accent-clair); stroke: none; }
+.f-jambe { fill: none; stroke: var(--encre-douce); stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
 .f-soleil-un { fill: var(--or-clair); stroke: var(--or); stroke-width: 2; }
 .f-chakra { fill: var(--carte); stroke: var(--accent); stroke-width: 1.6; }
 .f-strate-0 { fill: var(--trait); stroke: var(--trait-fort); stroke-width: 1; }

@@ -41,9 +41,9 @@ cat: alchimie
 nom: Élixir de longue vie
 alias: élixir, elixir, élixir de vie, panacée, panacee, médecine universelle, remède universel
 def: Remède merveilleux recherché par les alchimistes, capable de guérir toutes les maladies, de rendre la jeunesse et de prolonger la vie, parfois indéfiniment.
-texte: Le mot « élixir » vient de l'arabe *al-iksîr*, qui désignait la poudre qu'on répand sur les métaux pour les transmuter. Dans l'alchimie latine, la [[pierre-philosophale]] devient aussi médecine du corps humain : [[roger-bacon]] et les traités attribués à [[arnaud-de-villeneuve]] et à [[raymond-lulle]] promettent la prolongation de la vie. La « panacée », du nom d'une déesse grecque de la guérison, désigne le remède universel.
+texte: Le mot « élixir » vient de l'arabe *al-iksîr*, qui désignait la poudre qu'on répand sur les métaux pour les transmuter. Dans l'alchimie latine, la [[pierre-philosophale]] devient aussi médecine du corps humain : [[roger-bacon]] et les traités attribués à [[arnaud-de-villeneuve]] et à [[raymond-lulle]] promettent la prolongation de la vie. La « panacée », du nom d'une déesse grecque de la guérison, désigne le remède universel. Les mythes connaissent le même rêve : les pommes d'[[idunn|Idunn]] rendent la jeunesse aux dieux du Nord.
 texte: L'alchimie chinoise poursuivait le même but : plusieurs empereurs moururent pour avoir absorbé des élixirs à base de mercure ou d'arsenic. Les légendes de [[nicolas-flamel]] immortel ou du [[comte-de-saint-germain]] plusieurs fois centenaire s'appuient sur la croyance en l'élixir.
-voir: pierre-philosophale, or-potable, quintessence, neidan, comte-de-saint-germain
+voir: pierre-philosophale, or-potable, quintessence, neidan, comte-de-saint-germain, idunn
 
 @ transmutation
 cat: alchimie

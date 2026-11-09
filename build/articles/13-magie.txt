@@ -99,9 +99,9 @@ cat: magie
 nom: Amulette
 alias: amulettes, porte-bonheur, phylactère, gri-gri, œil d'Horus, scarabée
 def: Petit objet porté sur soi ou placé dans une maison pour protéger des malheurs, des maladies et du mauvais œil.
-texte: Les amulettes existent dans toutes les civilisations : l'œil d'Horus et le scarabée égyptiens, la *bulla* des enfants romains, la main de Fatma, les médailles et les scapulaires chrétiens, les petits rouleaux de versets bibliques. Elles tirent leur force de leur matière, de leur forme, d'une inscription, comme le mot [[abracadabra]], ou d'une bénédiction.
+texte: Les amulettes existent dans toutes les civilisations : l'œil d'Horus et le scarabée égyptiens, la *bulla* des enfants romains, la main de Fatma, les médailles et les scapulaires chrétiens, les petits rouleaux de versets bibliques. Les Scandinaves de la fin du Xe siècle portaient au cou de petits marteaux de [[thor|Thor]], face à la croix des chrétiens. Elles tirent leur force de leur matière, de leur forme, d'une inscription, comme le mot [[abracadabra]], ou d'une bénédiction.
 texte: Les pierres gravées de l'Antiquité tardive, dites « gnostiques », associent des figures comme Abraxas à des [[voces-magicae|mots magiques]]. Le langage courant confond souvent amulette et [[talisman]].
-voir: talisman, abracadabra, voces-magicae, papyrus-grecs-magiques, oeil-d-horus, scarabee, croix-ansee, superstition
+voir: talisman, abracadabra, voces-magicae, papyrus-grecs-magiques, oeil-d-horus, scarabee, croix-ansee, superstition, thor
 
 @ pentacle
 cat: magie
@@ -208,7 +208,7 @@ alias: procès de sorcellerie, bûchers, Marteau des sorcières, Malleus malefic
 def: Vague de persécutions qui, en Europe et dans ses colonies, du XVe au XVIIIe siècle, a fait juger des dizaines de milliers de personnes accusées de sorcellerie, dont une majorité de femmes.
 texte: Le *Marteau des sorcières* (*Malleus maleficarum*), publié en 1486 par l'inquisiteur dominicain Heinrich Kramer, donne aux juges une doctrine et une méthode. Les procès culminent entre 1580 et 1630, surtout dans le Saint-Empire, en Suisse, en Lorraine et en Écosse, souvent devant des tribunaux laïcs. Les historiens estiment à une centaine de milliers le nombre des procès et entre quarante et soixante mille celui des exécutions ; environ quatre accusés sur cinq étaient des femmes.
 texte: Des voix s'élèvent tôt contre ces procès, comme celle du médecin [[jean-wier|Jean Wier]] en 1563. Les poursuites reculent au XVIIe siècle ; en France, un édit de 1682 requalifie la sorcellerie en simple superstition. L'une des dernières exécutions légales en Europe est celle d'Anna Göldi, en Suisse, en 1782. Aux États-Unis, les procès de Salem (1692) ont laissé une trace durable.
-voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem, sorciere, heresie, libertin
+voir: sorcellerie, sabbat, demonologie, affaire-des-poisons, salem, sorciere, heresie, libertin, martin-luther, jean-calvin
 
 @ demonologie
 cat: magie

@@ -34,7 +34,7 @@ repere: vers 150 — Naissance, sans doute à Athènes.
 repere: vers 190 — Il enseigne à l'école chrétienne d'Alexandrie.
 repere: 202 — La persécution de Septime Sévère le chasse d'Alexandrie.
 oeuvres: Protreptique ; Pédagogue ; Stromates
-voir: gnose, basilide, valentin, philon-d-alexandrie, mysteres-antiques, eleusis, hermes-trismegiste, hieroglyphes, sirene, evhemerisme, odyssee-de-l-ame
+voir: gnose, basilide, valentin, philon-d-alexandrie, mysteres-antiques, eleusis, hermes-trismegiste, hieroglyphes, sirene, evhemerisme, odyssee-de-l-ame, peres-de-l-eglise
 
 @ thomas-d-aquin
 cat: figures

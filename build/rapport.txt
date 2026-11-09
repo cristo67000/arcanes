@@ -1,17 +1,17 @@
-Dictionnaire construit le 2026-11-06
-1456 articles, 257377 mots, 606 datés pour la frise, 184 avec figure (40 / 40 figures), 59 avec glyphe
-526 avec des repères (3052), 1362 avec des liens extérieurs (1859)
-115 sur la carte, 287 extraits dans 267 articles
-1039 illustrations (34992 Ko) dans 1014 articles, 15 planche(s)
-23 parcours (415 étapes)
-37 sons (42564 Ko) dans 47 articles, 44 images animées
-3777899 octets de JSON, 1456 pages dans a/
+Dictionnaire construit le 2026-11-09
+1478 articles, 271639 mots, 615 datés pour la frise, 186 avec figure (41 / 41 figures), 60 avec glyphe
+543 avec des repères (3201), 1385 avec des liens extérieurs (1909)
+116 sur la carte, 303 extraits dans 279 articles
+1080 illustrations (36242 Ko) dans 1037 articles, 16 planche(s)
+24 parcours (427 étapes)
+38 sons (43315 Ko) dans 48 articles, 44 images animées
+3953447 octets de JSON, 1478 pages dans a/
 
-  courants     47
-  figures     338
-  textes       80
+  courants     50
+  figures     342
+  textes       81
   apocryphes   21
-  notions      91
+  notions      93
   alchimie     52
   kabbale      34
   astrologie   42
@@ -20,11 +20,12 @@ Dictionnaire construit le 2026-11-06
   societes     35
   maconnerie   81
   symboles     46
-  mythes       51
+  mythes       55
   litterature  39
   peinture     22
   musique      16
-  croix        42
+  croix        43
+  nordique      6
   bestiaire    59
   egypte       34
   codes        32
@@ -32,6 +33,6 @@ Dictionnaire construit le 2026-11-06
   astronomie   16
   pierres      36
   echecs       11
-  lieux       110
+  lieux       111
 
 0 article(s) que rien ne cite : 

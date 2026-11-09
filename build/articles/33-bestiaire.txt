@@ -51,7 +51,7 @@ cat: bestiaire
 nom: Centaure
 alias: centaures, Chiron, Nessos, centauromachie, sagittaire
 def: Être mi-homme mi-cheval de la mythologie grecque, brutal comme les centaures du combat des Lapithes ou sage comme Chiron, maître d'Asclépios et d'Achille, devenu la constellation du Sagittaire.
-texte: Les centaures, nés d'Ixion et d'une nuée, vivent en Thessalie ; invités aux noces du roi des Lapithes, ils s'enivrent et tentent d'enlever les femmes : leur combat, la centauromachie, orne le Parthénon. Le centaure Nessos, tué par Héraclès, lui donne pour se venger la tunique empoisonnée qui le fera mourir. Chiron, au contraire, immortel, savant en médecine, en musique et en astronomie, élève Asclépios, Jason et Achille ; blessé par une flèche empoisonnée, il renonce à son immortalité.
+texte: Les centaures, nés d'Ixion et d'une nuée, vivent en Thessalie ; invités aux noces du roi des Lapithes, ils s'enivrent et tentent d'enlever les femmes : leur combat, la centauromachie, orne le Parthénon. Le centaure Nessos, tué par Héraclès, lui donne pour se venger la tunique empoisonnée qui le fera mourir. Chiron, au contraire, immortel, savant en médecine, en musique et en astronomie, élève Asclépios, [[jason|Jason]] et Achille ; blessé par une flèche empoisonnée, il renonce à son immortalité.
 texte: Les Grecs ont placé au ciel un centaure archer, le [[sagittaire|Sagittaire]], et la constellation du Centaure. [[dante|Dante]] fait garder par des centaures le fleuve de sang où sont plongés les violents. L'astrologie moderne a donné le nom de Chiron à un petit corps découvert en 1977 entre Saturne et Uranus, devenu pour certains astrologues le « guérisseur blessé ». Le centaure est resté l'image de la double nature, animale et spirituelle, de l'homme.
 voir: sagittaire, minotaure, divine-comedie, constellation, astrologie
 
@@ -236,7 +236,7 @@ alias: aigles, aigle de saint Jean, aigle impérial, aigle blanc, aigle alchimiq
 def: Roi des oiseaux, qui fixe le soleil et monte le plus haut, emblème de Zeus, des légions et des empires, symbole de saint Jean l'Évangéliste et, en alchimie, de la volatilisation.
 texte: Oiseau de Zeus, qui enlève Ganymède, l'aigle conduit les âmes des empereurs vers le ciel et surmonte les enseignes des légions romaines ; Charlemagne, le Saint-Empire et Napoléon le reprennent, comme l'[[aigle-bicephale|aigle à deux têtes]] de Byzance et des Habsbourg. Dans le [[tetramorphe]], il est saint Jean, l'évangéliste qui s'élève le plus haut dans la contemplation du Verbe. Le *[[physiologus|Physiologus]]* raconte que l'aigle vieilli vole vers le soleil, brûle ses vieilles plumes et plonge trois fois dans une source pour renaître : « ta jeunesse se renouvelle comme celle de l'aigle », dit le psaume.
 texte: Les alchimistes appellent aigle la matière volatile qui monte dans le vase, ou l'opération de la sublimation ; l'aigle qui dévore le lion figure le fixe rendu volatil. Dans la [[franc-maconnerie]], l'aigle paraît dans les hauts [[grades-maconniques|grades]] : le trentième degré du [[rite-ecossais-ancien-et-accepte|Rite écossais]] est celui de [[chevalier-kadosh|Chevalier Kadosh]], « Chevalier de l'Aigle blanc et noir ».
-voir: aigle-bicephale, tetramorphe, sublimation, phenix, chevalier-kadosh, griffon, simurgh, jean-l-evangeliste
+voir: aigle-bicephale, tetramorphe, sublimation, phenix, chevalier-kadosh, griffon, simurgh, jean-l-evangeliste, idunn
 
 @ lion-symbole
 cat: bestiaire
@@ -290,11 +290,11 @@ cat: bestiaire
 nom: Corbeau
 alias: corbeaux, tête de corbeau, Huginn et Muninn, Corax, Le Corbeau de Poe, « Jamais plus »
 def: Oiseau noir de mauvais augure et de sagesse, messager d'Odin et d'Apollon, premier oiseau lâché par Noé ; les alchimistes appellent « tête de corbeau » le noir de l'œuvre.
-texte: Odin a deux corbeaux, Huginn et Muninn, « pensée » et « mémoire », qui parcourent le monde et lui rapportent tout ; Apollon fit noir le corbeau, d'abord blanc, qui lui avait annoncé l'infidélité de Coronis. Le prophète Élie est nourri au désert par des corbeaux. Dans les mystères de Mithra, le premier des sept grades d'initiation était celui de Corax, le corbeau.
+texte: [[odin|Odin]] a deux corbeaux, Huginn et Muninn, « pensée » et « mémoire », qui parcourent le monde et lui rapportent tout ; Apollon fit noir le corbeau, d'abord blanc, qui lui avait annoncé l'infidélité de Coronis. Le prophète Élie est nourri au désert par des corbeaux. Dans les mystères de Mithra, le premier des sept grades d'initiation était celui de Corax, le corbeau.
 texte: Les alchimistes appellent « tête de corbeau » la matière noire de la [[nigredo]], la putréfaction par laquelle commence l'œuvre ; un corbeau perché sur un crâne en est l'image dans bien des gravures. [[edgar-allan-poe|Edgar Poe]] a fait du corbeau qui répète « Jamais plus » l'oiseau du deuil sans espérance (1845) ; Stéphane Mallarmé l'a traduit en 1875, illustré par Manet.
 extrait: Au large je poussai le volet, quand, avec maints enjouement et agitation d’ailes, entra un majestueux corbeau des saints jours de jadis. Il ne fit pas la moindre révérence, il ne s’arrêta ni n’hésita un instant : mais, avec une mine de lord ou de lady, se percha au-dessus de la porte de ma chambre, — se percha sur un buste de Pallas, juste au-dessus de la porte de ma chambre — se percha, siégea et rien de plus. ¶ Alors cet oiseau d’ébène induisant ma triste imagination au sourire, par le grave et sévère décorum de la contenance qu’il eut : « Quoique ta crête soit chenue et rase, non ! dis-je, tu n’es pas pour sûr, un poltron, spectral, lugubre et ancien Corbeau, errant loin du rivage de Nuit — dis-moi quel est ton nom seigneurial au rivage plutonien de Nuit. » Le Corbeau dit : « Jamais plus. »
 source: Edgar Allan Poe, *Le Corbeau*, 1845, trad. Stéphane Mallarmé, *Les Poèmes d’Edgar Poe*, Léon Vanier, 1889 | ws Le Corbeau (trad. Mallarmé)
-voir: nigredo, colombe, edgar-allan-poe, mysteres-antiques, putrefaction, augures, stephane-mallarme
+voir: nigredo, colombe, edgar-allan-poe, mysteres-antiques, putrefaction, augures, stephane-mallarme, odin
 
 @ chouette
 cat: bestiaire
@@ -329,10 +329,10 @@ nom: Chat
 alias: chats, chat noir, Bastet, Bubastis, chat des sorcières
 def: Animal sacré de l'Égypte, incarnation de la déesse Bastet, devenu dans l'Europe médiévale le compagnon du diable et des sorcières ; Baudelaire en a fait le sphinx de la maison.
 texte: Dans l'Égypte ancienne, la chatte est Bastet, douce déesse de la joie et de la maternité, dont la ville de Bubastis célébrait la fête par des foules immenses, au dire d'Hérodote ; on y momifiait des chats par centaines de milliers. Tuer un chat pouvait coûter la vie. Les Grecs et les Romains l'ont peu aimé, et le Moyen Âge l'a soupçonné : une bulle de Grégoire IX, en 1233, décrit un chat noir adoré par des hérétiques, et parmi les accusations portées contre les [[templiers]] figurait l'adoration d'un chat.
-texte: Le chat noir est devenu l'animal familier des [[sorciere|sorcières]] ; à Paris, on brûlait encore des chats dans le [[feux-de-la-saint-jean|feu de la Saint-Jean]] de la place de Grève au XVIIe siècle. Le XIXe siècle le réhabilite : [[charles-baudelaire|Baudelaire]] voit dans les chats « les nobles attitudes des grands sphinx allongés au fond des solitudes », et le cabaret du [[le-chat-noir|Chat noir]], à Montmartre, accueille poètes et occultistes.
+texte: Dans le Nord, le char de [[freyja|Freyja]] est tiré par deux chats. Le chat noir est devenu l'animal familier des [[sorciere|sorcières]] ; à Paris, on brûlait encore des chats dans le [[feux-de-la-saint-jean|feu de la Saint-Jean]] de la place de Grève au XVIIe siècle. Le XIXe siècle le réhabilite : [[charles-baudelaire|Baudelaire]] voit dans les chats « les nobles attitudes des grands sphinx allongés au fond des solitudes », et le cabaret du [[le-chat-noir|Chat noir]], à Montmartre, accueille poètes et occultistes.
 extrait: Les amoureux fervents et les savants austères // Aiment également, dans leur mûre saison, // Les chats puissants et doux, orgueil de la maison, // Qui comme eux sont frileux et comme eux sédentaires. ¶ Amis de la science et de la volupté, // Ils cherchent le silence et l’horreur des ténèbres ; // L’Érèbe les eût pris pour ses coursiers funèbres, // S’ils pouvaient au servage incliner leur fierté. ¶ Ils prennent en songeant les nobles attitudes // Des grands sphinx allongés au fond des solitudes, // Qui semblent s’endormir dans un rêve sans fin ; ¶ Leurs reins féconds sont pleins d’étincelles magiques, // Et des parcelles d’or, ainsi qu’un sable fin, // Étoilent vaguement leurs prunelles mystiques.
 source: Charles Baudelaire, « Les Chats », *Les Fleurs du mal*, 1857 (éd. de 1868) | ws Les Fleurs du mal (1868)/Les Chats
-voir: sphinx, sorciere, templiers, chien, charles-baudelaire, le-chat-noir, feux-de-la-saint-jean
+voir: sphinx, sorciere, templiers, chien, charles-baudelaire, le-chat-noir, feux-de-la-saint-jean, freyja
 
 @ chien
 cat: bestiaire
@@ -348,9 +348,9 @@ cat: bestiaire
 nom: Loup
 alias: loups, louve romaine, Fenrir, loup de Gubbio, loup gris, loup des alchimistes
 def: Fauve redouté des forêts, louve nourricière de Rome et loup Fenrir de la fin du monde ; le « loup gris » des alchimistes est l'antimoine qui dévore le roi pour le purifier.
-texte: La louve allaite Romulus et Rémus au pied du Palatin ; chez les Germains, le loup Fenrir, enchaîné par les dieux, se délivrera au Ragnarök et dévorera Odin. Le Moyen Âge en fait la bête du diable, qui guette les brebis du Christ ; mais les *Fioretti* racontent que saint François apprivoisa le loup de Gubbio. Le [[loup-garou]] et la bête du Gévaudan disent la peur que le loup inspirait encore au XVIIIe siècle.
+texte: La louve allaite Romulus et Rémus au pied du Palatin ; chez les Germains, le loup Fenrir, fils de [[loki|Loki]], enchaîné par les dieux, se délivrera au Ragnarök et dévorera [[odin|Odin]]. Le Moyen Âge en fait la bête du diable, qui guette les brebis du Christ ; mais les *Fioretti* racontent que saint François apprivoisa le loup de Gubbio. Le [[loup-garou]] et la bête du Gévaudan disent la peur que le loup inspirait encore au XVIIIe siècle.
 texte: Dans les *Douze Clefs* de [[basile-valentin|Basile Valentin]], la première figure montre un loup gris dévorant le corps du roi, puis jeté au feu, d'où le roi renaît : l'[[antimoine]], avide des métaux, sert à purifier l'or. Les alchimistes ont fait du loup l'agent qui ronge les impuretés.
-voir: loup-garou, antimoine, basile-valentin, chien, ours
+voir: loup-garou, antimoine, basile-valentin, chien, ours, loki, odin
 
 @ ours
 cat: bestiaire
@@ -399,7 +399,7 @@ cat: bestiaire
 nom: Papillon
 alias: papillons, psyché, chrysalide, sphinx tête-de-mort
 def: Insecte qui sort de la chrysalide, image de l'âme qui quitte le corps : les Grecs le nommaient *psychè*, du même mot que l'âme, et le donnaient pour ailes à Psyché.
-texte: Le mot grec *psychè* désigne à la fois le souffle, l'âme et le papillon. La belle Psyché du conte d'[[apulee|Apulée]], aimée d'Éros, est figurée avec des ailes de papillon ; les tombes antiques et chrétiennes montrent le papillon sortant de la chrysalide comme l'âme sortant du corps, gage de résurrection. Le philosophe chinois Zhuangzi rêve qu'il est un papillon et ne sait plus, au réveil, s'il est un homme qui rêvait d'être papillon ou un papillon qui rêve d'être homme.
+texte: Le mot grec *psychè* désigne à la fois le souffle, l'âme et le papillon. La belle Psyché du conte d'[[apulee|Apulée]], aimée d'[[eros|Éros]], est figurée avec des ailes de papillon ; les tombes antiques et chrétiennes montrent le papillon sortant de la chrysalide comme l'âme sortant du corps, gage de résurrection. Le philosophe chinois Zhuangzi rêve qu'il est un papillon et ne sait plus, au réveil, s'il est un homme qui rêvait d'être papillon ou un papillon qui rêve d'être homme.
 texte: Le grand sphinx tête-de-mort, papillon de nuit qui porte une tête de mort dessinée sur le dos et qui crie quand on le saisit, passait pour un présage funeste. La métamorphose du papillon est devenue une image courante de l'[[initiation]] et de la [[palingenesie|palingénésie]].
 voir: apulee, palingenesie, initiation, metempsycose, reincarnation
 
@@ -453,17 +453,17 @@ cat: bestiaire
 nom: Faucon
 alias: faucons, faucon d'Horus, fauconnerie, De arte venandi cum avibus
 def: Rapace au vol rapide, forme du dieu Horus et du roi d'Égypte, oiseau noble de la chasse médiévale, dont Frédéric II écrivit le traité.
-texte: Le faucon plane au plus haut du ciel : les Égyptiens y virent [[horus|Horus]], dont les yeux sont le soleil et la lune, et le dieu soleil [[ra|Rê]]-Horakhty à tête de faucon ; l'âme *ba* du mort a parfois sa forme. Au Moyen Âge, la fauconnerie est l'art des seigneurs : l'empereur Frédéric II, à la cour duquel vivait l'astrologue [[michel-scot|Michel Scot]], écrivit vers 1240 un grand traité, *L'Art de chasser avec les oiseaux*.
-voir: horus, ra, aigle, michel-scot, ka-et-ba
+texte: Le faucon plane au plus haut du ciel : les Égyptiens y virent [[horus|Horus]], dont les yeux sont le soleil et la lune, et le dieu soleil [[ra|Rê]]-Horakhty à tête de faucon ; l'âme *ba* du mort a parfois sa forme. Dans le Nord, le manteau de plumes de faucon de [[freyja|Freyja]] permet de voler d'un monde à l'autre, et [[loki|Loki]] l'emprunte pour ramener Idunn. Au Moyen Âge, la fauconnerie est l'art des seigneurs : l'empereur Frédéric II, à la cour duquel vivait l'astrologue [[michel-scot|Michel Scot]], écrivit vers 1240 un grand traité, *L'Art de chasser avec les oiseaux*.
+voir: horus, ra, aigle, michel-scot, ka-et-ba, freyja, loki
 
 @ toison-d-or
 cat: symboles
 nom: Toison d'or
 alias: Argonautes, Jason, ordre de la Toison d'or, Toyson d'or, toison alchimique
 def: Dépouille dorée du bélier de Phrixos que Jason et les Argonautes allèrent conquérir en Colchide, lue par les alchimistes comme un livre de chrysopée, et emblème de l'ordre fondé par Philippe le Bon en 1430.
-texte: Jason, pour reprendre le trône de son père, doit rapporter de Colchide la toison d'or, suspendue à un chêne et gardée par un dragon qui ne dort jamais. Avec les héros de l'*Argo*, Héraclès, Orphée, les Dioscures, il franchit les roches qui s'entrechoquent, et l'enchanteresse Médée l'aide à vaincre. Le lexique byzantin de la *Souda*, au Xe siècle, affirme que la toison était en réalité un livre écrit sur des peaux, qui enseignait à faire de l'or : la lecture alchimique du mythe était née. La traduction française du *[[splendor-solis|Splendor solis]]* parut en 1612 sous le titre de *La Toyson d'or*.
+texte: [[jason|Jason]], pour reprendre le trône de son père, doit rapporter de Colchide la toison d'or, suspendue à un chêne et gardée par un dragon qui ne dort jamais. Avec les héros de l'*Argo*, Héraclès, Orphée, les Dioscures, il franchit les roches qui s'entrechoquent, et l'enchanteresse Médée l'aide à vaincre. Le lexique byzantin de la *Souda*, au Xe siècle, affirme que la toison était en réalité un livre écrit sur des peaux, qui enseignait à faire de l'or : la lecture alchimique du mythe était née. La traduction française du *[[splendor-solis|Splendor solis]]* parut en 1612 sous le titre de *La Toyson d'or*.
 texte: Le 10 janvier 1430, à Bruges, le duc de Bourgogne Philippe le Bon fonde l'ordre de la Toison d'or, dont le collier porte un bélier d'or suspendu ; il passa aux Habsbourg d'Espagne et d'Autriche. [[fulcanelli|Fulcanelli]] rattache l'[[argot]] et l'« art gothique » aux Argonautes, nautoniers de l'*Argo*, dans *Le [[mystere-des-cathedrales|Mystère des cathédrales]]*.
-voir: belier-symbole, chrysopee, splendor-solis, argot, mystere-des-cathedrales, dragon, argonautes, medee
+voir: belier-symbole, chrysopee, splendor-solis, argot, mystere-des-cathedrales, dragon, argonautes, medee, jason
 
 # Les quatre articles suivants étaient parmi les symboles (15-symboles.txt).
 
@@ -484,11 +484,11 @@ cat: bestiaire
 nom: Serpent
 alias: serpents, ophites, naassènes, serpent d'airain, Nehoushtân, uræus, serpent crucifié
 def: Animal au symbolisme double, à la fois tentateur et porteur de sagesse, de guérison et de renouveau, omniprésent dans l'ésotérisme.
-texte: Dans la Genèse, le serpent tente Ève ; mais [[moise|Moïse]] dresse au désert un [[serpent-d-airain|serpent d'airain]] qui guérit ceux qui le regardent, que le roi Ézéchias fera détruire parce qu'on l'adorait, et Jésus invite à être « prudents comme les serpents ». Certains gnostiques, les ophites, honoraient le serpent du paradis comme le révélateur de la connaissance. Le serpent qui mue figure la renaissance ; celui qui se mord la queue, l'[[ouroboros]], l'éternité. En Égypte, le cobra dressé, l'uræus, protège le front des rois, tandis que le serpent [[apophis|Apophis]] menace chaque nuit le soleil.
+texte: Dans la Genèse, le serpent tente Ève ; mais [[moise|Moïse]] dresse au désert un [[serpent-d-airain|serpent d'airain]] qui guérit ceux qui le regardent, que le roi Ézéchias fera détruire parce qu'on l'adorait, et Jésus invite à être « prudents comme les serpents ». Certains gnostiques, les ophites, honoraient le serpent du paradis comme le révélateur de la connaissance. Le serpent qui mue figure la renaissance ; celui qui se mord la queue, l'[[ouroboros]], l'éternité ; dans le Nord, Jörmungand, fils de [[loki|Loki]], entoure la terre et doit s'entretuer avec [[thor|Thor]] au Ragnarök. En Égypte, le cobra dressé, l'uræus, protège le front des rois, tandis que le serpent [[apophis|Apophis]] menace chaque nuit le soleil.
 texte: On le retrouve autour du [[caducee|caducée]] d'Hermès, du bâton d'Asclépios, dans la [[kundalini]] lovée à la base de la colonne vertébrale, et chez [[eliphas-levi]], pour qui le serpent de la Genèse est l'image de la [[lumiere-astrale]]. Les *Figures hiéroglyphiques* attribuées à [[nicolas-flamel|Nicolas Flamel]] montrent un serpent crucifié, le mercure fixé ; les légendes ont leurs serpentes, [[melusine|Mélusine]] et la [[vouivre]], et Goethe son *[[le-serpent-vert|Serpent vert]]*.
 extrait: Alors l’Éternel envoya contre le peuple des serpents brûlants ; ils mordirent le peuple, et il mourut beaucoup de gens en Israël. ¶ Le peuple vint à Moïse, et dit : Nous avons péché, car nous avons parlé contre l’Éternel et contre toi. Prie l’Éternel, afin qu’il éloigne de nous ces serpents. Moïse pria pour le peuple. ¶ L’Éternel dit à Moïse : Fais-toi un serpent brûlant, et place-le sur une perche ; quiconque aura été mordu, et le regardera, conservera la vie. ¶ Moïse fit un serpent d’airain, et le plaça sur une perche ; et quiconque avait été mordu par un serpent, et regardait le serpent d’airain, conservait la vie.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Nombres, chap. XXI, versets 6-9 | ws Bible Segond 1910/Nombres
-voir: ouroboros, caducee, kundalini, gnosticisme, lumiere-astrale, dragon, basilic, le-serpent-vert, apophis, vouivre, ophites, gilgamesh, jeu-lenormand
+voir: ouroboros, caducee, kundalini, gnosticisme, lumiere-astrale, dragon, basilic, le-serpent-vert, apophis, vouivre, ophites, gilgamesh, jeu-lenormand, thor, loki
 
 @ pelican
 cat: bestiaire

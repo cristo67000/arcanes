@@ -188,7 +188,7 @@ runes: wp Rune
 sibylles: wp Sibylle
 tarot: wp Tarot
 tarot-de-marseille: wp Tarot de Marseille
-tarot-de-thoth: en Thoth Tarot
+tarot-de-thoth: en Thoth Tarot | wp Lady Frieda Harris
 tarot-rider-waite: wp Tarot Rider-Waite
 voyance: wp Voyance
 yi-king: wp Yi Jing
@@ -377,7 +377,7 @@ convent-de-wilhelmsbad: -
 decors-maconniques: -
 droit-humain: wp Ordre maçonnique mixte international « le Droit humain »
 ecossisme: wp Écossisme
-etoile-flamboyante: -
+etoile-flamboyante: ia 1766-tschoudy-letoile-flamboyante-t-1 = Tschoudy, *L'Étoile flamboyante*, t. I, 1766 | ia TschoudyTHLetoileFlamboyanteVolII1766 = Tschoudy, *L'Étoile flamboyante*, t. II, 1766
 fils-de-la-veuve: wp Mythes maçonniques
 franc-maconnerie: wp Franc-maçonnerie
 gants-blancs: -
@@ -568,7 +568,7 @@ sphinx: wp Sphinx
 svastika: wp Svastika
 temple-de-salomon: wp Temple de Salomon
 tetramorphe: wp Tétramorphe
-triskele: wp Triskèle
+triskele: wp Triskèle | wp Trinacrie
 vesica-piscis: wp Vesica piscis
 yin-et-yang: wp Yin et yang
 amphitheatrum: ia BIUSante_pharma_res005272 = édition de 1609, avec les planches
@@ -1412,7 +1412,7 @@ phlogistique: wp Théorie du phlogistique | wp Georg Ernst Stahl | wp Johann Joa
 johann-rudolf-glauber: wp Johann Rudolf Glauber | bnf 12460045b
 robert-boyle: wp Robert Boyle | ws Auteur:Robert Boyle | bnf 119889796
 antoine-lavoisier: wp Antoine Lavoisier | wp Méthode de nomenclature chimique | ws Auteur:Antoine Laurent de Lavoisier | bnf 120790362
-mont-sainte-odile: wp Mont Sainte-Odile | wp Mur païen du mont Sainte-Odile | wp Hortus deliciarum | ws Les Légendes de l’Alsace - Promenades et Souvenirs = Édouard Schuré, « Les Légendes de l’Alsace » (1883)
+mont-sainte-odile: wp Mont Sainte-Odile | wp Mur païen du mont Sainte-Odile | ws Les Légendes de l’Alsace - Promenades et Souvenirs = Édouard Schuré, « Les Légendes de l’Alsace » (1883)
 donon: wp Donon | wp Musée du Donon
 taennchel: wp Taennchel
 insignes-du-saint-empire: wp Regalia du Saint-Empire | wp Couronne du Saint-Empire | en The Spear of Destiny (book)
@@ -1427,7 +1427,7 @@ eurythmie: wp Eurythmie anthroposophique
 biodynamie: wp Agriculture biodynamique
 pedagogie-waldorf: wp Pédagogie Steiner-Waldorf
 vivekananda: wp Vivekananda | ws Auteur:Vivekananda | bnf 121727683
-maitre-eckhart: wp Maître Eckhart | wp Mystique rhénane | ws Auteur:Maître Eckhart | bnf 119015354
+maitre-eckhart: wp Maître Eckhart | ws Auteur:Maître Eckhart | bnf 119015354
 pensee-magique: wp Pensée magique
 loi-de-l-attraction: wp Loi de l'attraction (Nouvelle Pensée)
 realisme-fantastique: wp Réalisme fantastique | wp Planète (revue)
@@ -1493,3 +1493,27 @@ croix-monumentale: wp Croix monumentale
 croix-heraldiques: wp Croix (héraldique)
 obele: wp Obèle
 le-symbolisme-de-la-croix: ws Le symbolisme de la croix/Préface = la préface de l'édition de 1957
+hortus-deliciarum: wp Hortus deliciarum | wp Herrade de Landsberg | ia gri_33125010499123 = Straub et Keller, *Hortus deliciarum*, Strasbourg, 1879-1899 (la reconstitution en planches)
+hildegarde-de-bingen: wp Hildegarde de Bingen | wp Scivias | ws Auteur:Hildegarde de Bingen
+mystique-rhenane: wp Mystique rhénane | wp Jean Tauler | wp Henri Suso
+croix-de-canterbury: en Canterbury cross
+
+# Version 1.12, suite : lots N G R.
+odin: wp Odin | wp Wotanisme
+thor: wp Thor | wp Mjöllnir
+loki: wp Loki
+freyja: wp Freyja | wp Seiðr
+idunn: wp Idunn
+edda: wp Edda poétique | wp Edda de Snorri | wp Codex Regius | ws Les Eddas
+eros: wp Éros | en Eros
+jason: wp Jason
+mnemosyne: wp Mnémosyne | bnf 122872956
+cybele: wp Cybèle
+doppelganger: en Doppelgänger
+fakir: wp Fakir | bnf 131635510
+martin-luther: wp Martin Luther | ws Auteur:Martin Luther | bnf 119136609
+jean-calvin: wp Jean Calvin | ws Auteur:Jean Calvin | bnf 11894896k
+martin-bucer: wp Martin Bucer | bnf 11929851j
+bibliotheque-humaniste: wp Bibliothèque humaniste de Sélestat | wp Beatus Rhenanus | wp Cosmographiae introductio
+peres-de-l-eglise: wp Pères de l'Église | wp Patristique | bnf 11934665p
+arianisme: wp Arianisme | wp Premier concile de Nicée | wp Wulfila

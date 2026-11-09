@@ -500,6 +500,19 @@
     "arthur-conan-doyle"
    ],
    "sig": "Harry Houdini's voice.ogg||48 mono|lame-cbr|0.3|2"
+  },
+  "o-frondens": {
+   "f": "son/o-frondens.mp3",
+   "v": "e3aae08b49",
+   "d": 96.2,
+   "ti": "Hildegarde de Bingen, « O frondens virga », antienne de l’*Ordo virtutum*",
+   "cr": "chanté par une interprète amateur (Makemi), en concert, 2006",
+   "lic": "Public domain",
+   "src": "https://commons.wikimedia.org/wiki/File:O_frondens_2.ogg",
+   "pour": [
+    "hildegarde-de-bingen"
+   ],
+   "sig": "O frondens 2.ogg||64 mono|lame-cbr|0.3|2"
   }
  }
 }

@@ -647,7 +647,7 @@ try {
   // ── La rubrique Croix : une planche de croix, chacune mène à son article ──
   await demarrage(BASE + 'index.html?article=croix');
   await attendre("Fiche.ouverte && Fiche.ref === 'croix' && document.querySelector('.figure-svg')", 4000, 'la planche des croix s’affiche');
-  ok(await js("return document.querySelectorAll('.figure-svg .f-case-croix[data-ref]').length") === 40, 'la planche montre quarante croix cliquables');
+  ok(await js("return document.querySelectorAll('.figure-svg .f-case-croix[data-ref]').length") === 41, 'la planche montre quarante et une croix cliquables');
   ok(await js("return Array.from(document.querySelectorAll('.figure-svg .f-case-croix path, .figure-svg .f-case-croix circle, .figure-svg .f-case-croix ellipse, .figure-svg .f-case-croix line')).every((e) => { const b = e.getBBox(); return b.width + b.height > 0; })"), 'chaque croix a bien un dessin');
   await js("document.querySelector('.figure-svg .f-case-croix[data-ref=\"croix-de-malte\"]').dispatchEvent(new MouseEvent('click', { bubbles: true })); return 1");
   await attendre("Fiche.ref === 'croix-de-malte' && document.querySelector('.figure-svg')", 4000, 'toucher la croix de Malte ouvre son article');

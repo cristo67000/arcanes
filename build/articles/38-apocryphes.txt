@@ -6,10 +6,10 @@ cat: apocryphes
 nom: Apocryphes
 alias: écrits apocryphes, apocryphes chrétiens, apocryphes du Nouveau Testament, évangiles apocryphes, livres cachés, Décret de Gélase, canon des Écritures
 def: Écrits juifs et chrétiens des premiers siècles, attribués à des patriarches, à des apôtres ou à Jésus lui-même, que les Églises n'ont pas retenus dans le canon des Écritures.
-texte: Le mot grec *apokryphos* signifie « caché ». Il désigna d'abord des livres secrets réservés à un petit nombre, puis, chez les Pères de l'Église, des écrits écartés comme douteux ou hérétiques. Le canon du Nouveau Testament se fixe peu à peu entre le IIe et le IVe siècle : la lettre pascale d'Athanase d'Alexandrie, en 367, est la première à donner la liste des vingt-sept livres aujourd'hui reçus. Au VIe siècle, un texte latin, le *Décret de Gélase*, dresse la liste des écrits « à ne pas recevoir ».
+texte: Le mot grec *apokryphos* signifie « caché ». Il désigna d'abord des livres secrets réservés à un petit nombre, puis, chez les [[peres-de-l-eglise|Pères de l'Église]], des écrits écartés comme douteux ou hérétiques. Le canon du Nouveau Testament se fixe peu à peu entre le IIe et le IVe siècle : la lettre pascale d'Athanase d'Alexandrie, en 367, est la première à donner la liste des vingt-sept livres aujourd'hui reçus. Au VIe siècle, un texte latin, le *Décret de Gélase*, dresse la liste des écrits « à ne pas recevoir ».
 texte: Cette littérature est immense : évangiles de l'enfance comme le *[[protevangile-de-jacques|Protévangile de Jacques]]*, récits de la Passion comme l'*[[evangile-de-nicodeme|Évangile de Nicodème]]* ou l'*[[evangile-de-pierre|Évangile de Pierre]]*, actes d'apôtres, d'où vient l'*[[hymne-de-la-perle|Hymne de la perle]]*, apocalypses, et les écrits gnostiques que révélèrent le [[codex-de-berlin|codex de Berlin]], la [[bibliotheque-de-nag-hammadi|bibliothèque de Nag Hammadi]] et le [[codex-tchacos|codex Tchacos]]. Les [[manuscrits-de-la-mer-morte|manuscrits de la mer Morte]], découverts à partir de 1947, ont rendu de leur côté des fragments d'apocryphes juifs, dont le *Livre d'Hénoch* et le *Livre des Jubilés*. Écartés du canon, plusieurs ont pourtant nourri la piété et l'art : l'âne et le bœuf de la crèche, les noms de Joachim et d'Anne, parents de Marie, ou la descente du Christ aux enfers viennent des apocryphes.
 texte: L'ésotérisme moderne y voit volontiers le dépôt d'un enseignement secret de Jésus que l'Église aurait étouffé ; les historiens y lisent surtout la diversité des premiers christianismes. Leur édition critique, du *Nouveau Testament apocryphe* de Montague Rhodes James (1924) aux *Écrits apocryphes chrétiens* de la Pléiade (1997 et 2005), en a fait un champ d'étude à part entière.
-voir: evangile-de-judas, evangile-de-marie, evangile-de-thomas, bibliotheque-de-nag-hammadi, gnosticisme, livre-d-henoch, protevangile-de-jacques, testament-de-salomon, manuscrits-de-la-mer-morte
+voir: evangile-de-judas, evangile-de-marie, evangile-de-thomas, bibliotheque-de-nag-hammadi, gnosticisme, livre-d-henoch, protevangile-de-jacques, testament-de-salomon, manuscrits-de-la-mer-morte, peres-de-l-eglise
 
 @ evangile-de-judas
 cat: apocryphes
@@ -120,7 +120,7 @@ nom: Séthiens
 alias: gnose séthienne, séthianisme, race de Seth, race inébranlable, Sethians
 def: Courant gnostique des IIe-IVe siècles qui se disait issu de Seth, troisième fils d'Adam, et dont relèvent l'Apocryphon de Jean et l'Évangile de Judas.
 texte: Les séthiens se tenaient pour la postérité spirituelle de Seth, le fils qu'Adam et Ève eurent après la mort d'Abel, la « race inébranlable » qui garde la mémoire du Dieu véritable contre les archontes du monde. Leur mythe met en scène l'Esprit invisible, [[barbelo|Barbélo]], quatre grands luminaires, la chute de [[sophia|Sophia]] et le démiurge Ialdabaoth ; Seth lui-même, descendu à plusieurs reprises, revêt Jésus pour sauver les siens.
-texte: Les Pères de l'Église mentionnent des « séthiens » ; c'est la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] qui a permis à l'historien allemand Hans-Martin Schenke, dans les années 1970, de regrouper sous ce nom une dizaine de traités : l'*[[apocryphon-de-jean|Apocryphon de Jean]]*, l'*Évangile des Égyptiens*, les *Trois Stèles de Seth*, *Zostrien*, *Allogène*… L'[[evangile-de-judas|Évangile de Judas]] s'y rattache.
+texte: Les [[peres-de-l-eglise|Pères de l'Église]] mentionnent des « séthiens » ; c'est la découverte de [[bibliotheque-de-nag-hammadi|Nag Hammadi]] qui a permis à l'historien allemand Hans-Martin Schenke, dans les années 1970, de regrouper sous ce nom une dizaine de traités : l'*[[apocryphon-de-jean|Apocryphon de Jean]]*, l'*Évangile des Égyptiens*, les *Trois Stèles de Seth*, *Zostrien*, *Allogène*… L'[[evangile-de-judas|Évangile de Judas]] s'y rattache.
 attention: Les séthiens n'ont rien à voir avec le dieu égyptien [[seth|Seth]], dont le nom s'écrit de la même façon en français.
 voir: apocryphon-de-jean, barbelo, evangile-de-judas, gnosticisme, cainites, ophites
 
@@ -204,4 +204,4 @@ repere: vers 130 — Naissance à Smyrne, en Asie Mineure.
 repere: 177 — Persécution de Lyon ; il succède à l'évêque Pothin.
 repere: vers 180 — *Contre les hérésies*, en cinq livres.
 repere: vers 202 — Mort à Lyon.
-voir: gnosticisme, valentin, basilide, cainites, evangile-de-judas, tetramorphe, apocryphes, jean-l-evangeliste, heresie
+voir: gnosticisme, valentin, basilide, cainites, evangile-de-judas, tetramorphe, apocryphes, jean-l-evangeliste, heresie, peres-de-l-eglise

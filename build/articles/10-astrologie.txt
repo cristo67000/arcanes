@@ -14,7 +14,7 @@ texte: Les tests scientifiques menés depuis le XXe siècle — comme l'expérie
 schema: zodiaque
 extrait: L’Astrologie judiciaire à laquelle on donne proprement le nom d’Astrologie, est l’art prétendu d’annoncer les évenemens moraux avant qu’ils arrivent. J’entends par évenemens moraux, ceux qui dépendent de la volonté & des actions libres de l’homme ; comme si les astres avoient quelque autorité sur lui, & qu’il en fût dirigé. (…) ¶ Ceux qui professent cet Art prétendent que « le ciel est un grand livre où Dieu a écrit de sa main l’histoire du monde, & où tout homme peut lire sa destinée. Notre Art, disent-ils, a eu le même berceau que l’Astronomie. Les anciens Assyriens qui joüissoient d’un ciel dont la beauté & la sérénité favorisoient les observations astronomiques, s’occuperent des mouvemens & des révolutions périodiques des corps célestes : ils remarquerent une analogie constante entre ces corps & les corps terrestres ; & ils en conclurrent que les astres étoient réellement ces parques & ce destin dont il étoit tant parlé, qu’ils présidoient à notre naissance, & qu’ils disposoient de notre état futur ».
 source: *L’Encyclopédie* de Diderot et d’Alembert, article « Astrologie », par l’abbé Edme Mallet et d’Alembert, tome I, 1751 (orthographe d’origine) | ws L’Encyclopédie/1re édition/ASTROLOGIE
-voir: zodiaque, planetes, theme-astral, maisons, aspects, tetrabiblos, claude-ptolemee
+voir: zodiaque, planetes, theme-astral, maisons, aspects, tetrabiblos, claude-ptolemee, martin-luther, jean-calvin
 
 @ zodiaque
 cat: astrologie
@@ -204,10 +204,10 @@ nom: Mercure
 alias: Mercurius, Hermès, planète Mercure, mercredi
 glyphe: mercure
 def: Planète la plus proche du Soleil, messagère rapide, symbole de l'intelligence, de la parole et des échanges, associée au vif-argent et au mercredi.
-texte: Mercure ne s'écarte jamais beaucoup du Soleil, qu'il précède ou suit de près. L'astrologie lui confie la pensée, le langage, le commerce, les voyages, les écrits — et les voleurs, que protégeait le dieu Hermès. Il a son domicile dans les [[gemeaux|Gémeaux]] et la [[vierge|Vierge]], et son exaltation dans la Vierge.
+texte: Mercure ne s'écarte jamais beaucoup du Soleil, qu'il précède ou suit de près. L'astrologie lui confie la pensée, le langage, le commerce, les voyages, les écrits — et les voleurs, que protégeait le dieu Hermès. Les Romains ont reconnu Mercure dans l'[[odin|Odin]] des Germains : le mercredi est *Wednesday*, jour de Woden, en anglais. Il a son domicile dans les [[gemeaux|Gémeaux]] et la [[vierge|Vierge]], et son exaltation dans la Vierge.
 texte: Planète double et changeante, Mercure prend la couleur des astres auxquels il s'associe. Son symbole, avec ses petites cornes, figure le [[caducee|caducée]] ou le casque ailé du dieu ; c'est aussi celui du [[mercure-principe|vif-argent]] des alchimistes.
 schema: planetes-septenaire/mercure
-voir: planetes, gemeaux, vierge, mercure-principe, hermes-trismegiste, hod, sept-metaux
+voir: planetes, gemeaux, vierge, mercure-principe, hermes-trismegiste, hod, sept-metaux, odin
 
 @ venus
 cat: astrologie
@@ -237,10 +237,10 @@ nom: Jupiter
 alias: Zeus, planète Jupiter, jeudi, étain
 glyphe: jupiter
 def: Plus grande des planètes, symbole de l'expansion, de la justice et de la prospérité, associée à l'étain et au jeudi.
-texte: Jupiter porte le nom du roi des dieux. L'astrologie y voit la « grande bénéfique » : la croissance, la chance, la loi, la religion, la générosité. Il a son domicile dans le [[sagittaire|Sagittaire]] et les [[poissons|Poissons]], et son exaltation dans le [[cancer|Cancer]]. Sa conjonction avec Saturne, tous les vingt ans environ, est l'un des grands repères de l'[[astrologie-mondiale]].
+texte: Jupiter porte le nom du roi des dieux ; les Germains lui ont assimilé [[thor|Thor]], d'où le *Thursday* anglais et le *Donnerstag* allemand pour le jeudi. L'astrologie y voit la « grande bénéfique » : la croissance, la chance, la loi, la religion, la générosité. Il a son domicile dans le [[sagittaire|Sagittaire]] et les [[poissons|Poissons]], et son exaltation dans le [[cancer|Cancer]]. Sa conjonction avec Saturne, tous les vingt ans environ, est l'un des grands repères de l'[[astrologie-mondiale]].
 texte: [[marsile-ficin]] conseillait aux savants mélancoliques de rechercher les influences de Jupiter pour tempérer celles de Saturne.
 schema: planetes-septenaire/jupiter
-voir: planetes, sagittaire, poissons, grandes-conjonctions, hesed, sept-metaux
+voir: planetes, sagittaire, poissons, grandes-conjonctions, hesed, sept-metaux, thor
 
 @ saturne
 cat: astrologie

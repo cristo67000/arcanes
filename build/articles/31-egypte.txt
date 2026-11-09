@@ -31,7 +31,7 @@ extrait: Du reste, les Égyptiens avouent eux-mêmes cette obscurité ; et c’e
 source: Plutarque, *Sur Isis et Osiris*, chap. IX, trad. Victor Bétolaud, *Œuvres morales*, Hachette, 1870 | ws Sur Isis et Osiris
 extrait: Aujourd’hui, il semble que le catholicisme lui-même ait subi, selon les pays, une réaction analogue à celle qui avait lieu dans les dernières années du polythéisme. En Italie, en Pologne, en Grèce, en Espagne, chez tous les peuples les plus sincèrement attachés à l’Église romaine, la dévotion à la Vierge n’est-elle pas devenue une sorte de culte exclusif ? N’est-ce pas toujours la Mère sainte, tenant dans ses bras l’enfant sauveur et médiateur qui domine les esprits, — et dont l’apparition produit encore des conversions comparables à celle du héros d’Apulée ? Isis n’a pas seulement ou l’enfant dans les bras, ou la croix à la main comme la Vierge : le même signe zodiacal leur est consacré, la lune est sous leurs pieds ; le même nimbe brille autour de leur tête ; nous avons rapporté plus haut mille détails analogues dans les cérémonies ; — même sentiment de chasteté dans le culte isiaque, tant que la doctrine est restée pure ; institutions pareilles d’associations et de confréries.
 source: Gérard de Nerval, « Isis », *Les Filles du feu*, 1854 (éd. Michel Lévy, 1856) | ws Les Filles du feu/Isis
-voir: osiris, horus, culte-d-isis, isis-devoilee, philae, hathor, vierges-noires, sirius
+voir: osiris, horus, culte-d-isis, isis-devoilee, philae, hathor, vierges-noires, sirius, cybele
 
 @ culte-d-isis
 cat: egypte
@@ -234,7 +234,7 @@ nom: Ka et ba
 alias: ka, ba, akh, ombre, nom, âme égyptienne, double
 def: Principes de la personne humaine selon les Égyptiens : le ka, force vitale et double nourri d'offrandes, le ba, âme-oiseau qui circule, l'akh, esprit glorifié.
 texte: L'Égyptien n'a pas une âme, mais plusieurs composantes. Le *ka*, figuré par deux bras levés, est la force vitale reçue à la naissance, le « double » qui survit dans la tombe et qu'il faut nourrir d'offrandes. Le *ba*, oiseau à tête humaine, est la part mobile de l'être, qui quitte le corps le jour et revient la nuit près de la momie. L'*akh*, l'esprit lumineux, est ce que devient le juste après la [[pesee-du-coeur|pesée du cœur]]. Le nom, l'ombre et le cœur complètent la personne : effacer le nom d'un mort, c'était l'anéantir.
-texte: Les théosophes et les occultistes ont rapproché ces principes de leurs propres [[corps-subtils|corps subtils]] et du « double » des spirites, rapprochements que les égyptologues jugent trompeurs. La [[momie]] devait conserver le corps auquel ka et ba devaient se rattacher.
+texte: Les théosophes et les occultistes ont rapproché ces principes de leurs propres [[corps-subtils|corps subtils]] et du « double » des spirites ([[doppelganger]]), rapprochements que les égyptologues jugent trompeurs. La [[momie]] devait conserver le corps auquel ka et ba devaient se rattacher.
 voir: momie, corps-subtils, pesee-du-coeur, livre-des-morts, perisprit
 
 @ momie

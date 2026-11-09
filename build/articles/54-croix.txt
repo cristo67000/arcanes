@@ -22,7 +22,7 @@ extrait: CROIX, s. f. (Hist.) instrument composé de deux pieces de bois, qui se
 source: *L’Encyclopédie*, t. IV, article « Croix » | ws L’Encyclopédie/1re édition/CROIX
 extrait: Car la prédication de la croix est une folie pour ceux qui périssent ; mais pour nous qui sommes sauvés, elle est une puissance de Dieu.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Première épître aux Corinthiens, chap. I, verset 18 | ws Bible Segond 1910/Première épître aux Corinthiens
-voir: croix-latine, croix-grecque, croix-des-ordres-militaires, croix-heraldiques, crucifix, signe-de-croix, legende-de-la-vraie-croix, chrisme, le-symbolisme-de-la-croix, quatre, rose-croix, croix-ansee, svastika, ichthys
+voir: croix-latine, croix-grecque, croix-des-ordres-militaires, croix-heraldiques, crucifix, signe-de-croix, legende-de-la-vraie-croix, chrisme, le-symbolisme-de-la-croix, quatre, rose-croix, croix-ansee, svastika, ichthys, croix-de-canterbury
 
 @ croix-latine
 cat: croix
@@ -169,7 +169,24 @@ def: Croix dont les branches dépassent d'un anneau, symbole du christianisme ce
 texte: Dans les pays celtiques, où la croix n'est plus seulement un ornement ou un objet liturgique, elle devient dès le VIIe siècle un monument auprès duquel, à défaut d'église, on célèbre le culte. Les plus connues se dressent en Irlande, à Kells et à Monasterboice ; on en trouve aussi en Écosse, au pays de Galles et en Cornouailles, et quelques-unes en France. L'anneau semble avoir d'abord consolidé les branches, avant de devenir un motif pour lui-même. La Réforme met fin à cet art : l'une des dernières est, vers 1515, la croix dite de MacLean, sur l'île d'Iona.
 texte: Dans les années 1850, le « Celtic Revival » la remet à la mode dans la bijouterie et l'image ; à la fin du siècle, elle orne les tombes des émigrés irlandais et écossais, signe de reconnaissance de leurs origines, puis se répand en Irlande. On l'a dite païenne et solaire, sans preuve ; elle ne doit pas être confondue avec la [[roue-solaire|croix solaire]], où les branches ne dépassent pas.
 attention: Sous une forme écourtée, un rond barré d'une croix régulière, elle sert depuis les années 1940-1950 d'emblème à des mouvements d'extrême droite et à des groupes suprémacistes. Ce n'est plus alors la croix des moines irlandais.
-voir: croix, roue-solaire, croix-monumentale, druidisme
+voir: croix, roue-solaire, croix-monumentale, druidisme, croix-de-canterbury, triskele
+
+@ croix-de-canterbury
+cat: croix
+nom: Croix de Canterbury
+alias: croix de Cantorbéry, Canterbury cross, Canterbury Cross, broche de Canterbury, croix anglicane, Communion anglicane, anglicans, Cantorbéry, Canterbury
+glyphe: croix-grecque
+schema: croix/canterbury
+def: Croix aux quatre bras triangulaires évasés dont les bouts arrondis dessinent presque une roue, copiée d'une broche anglo-saxonne du IXe siècle trouvée à Canterbury en 1867 : depuis le XXe siècle, l'un des emblèmes de la Communion anglicane.
+texte: Le modèle est un bijou : une broche de bronze d'environ 850, découverte en 1867 dans des fouilles de St George's Street, à Canterbury, la ville où saint Augustin fonda en 597 le premier siège épiscopal des Anglo-Saxons et où l'Église d'Angleterre a toujours son primat. D'un petit carré central partent quatre bras qui s'élargissent vers l'extérieur, de sorte que chacun forme un triangle ; leurs bouts sont des arcs d'un même cercle, et l'ensemble a l'air d'une roue. Chaque bras porte un panneau d'argent triangulaire incrusté de nielle, un émail noir, où est gravée une *triquetra*, le nœud à trois boucles de l'art insulaire. Les triangles et les nœuds à [[trois]] boucles passent pour des images de la Trinité, comme sur les [[croix-celtique|hautes croix]] irlandaises de la même époque. Passée d'un joaillier de la ville à un médecin, la broche est entrée en 1949 au musée de Canterbury, la Beaney House, où elle se trouve toujours.
+texte: Son dessin a été repris au XXe siècle. Une grande croix de pierre de ce modèle se dresse dans l'enceinte de la cathédrale, où la boutique en vend des copies aux pèlerins qui, depuis le meurtre de Thomas Becket en 1170 et les contes de Chaucer, viennent toujours à Canterbury. En 1932, une croix de Canterbury taillée dans la pierre de la ville a été envoyée à chacune des cathédrales de la Communion anglicane, à travers le monde, en signe d'union avec le siège primatial : elle en est devenue l'un des emblèmes d'usage, à côté de la rose des vents officielle, qui porte en son cœur la [[croix-de-saint-georges|croix de saint Georges]]. Des sociétés d'anglicans passés au catholicisme l'ont aussi adoptée. Parmi les croix d'Église, c'est la plus récente et l'une des rares qui soient nées d'une trouvaille archéologique plutôt que d'une tradition.
+repere: 597 — Augustin fonde le siège de Canterbury.
+repere: vers 850 — Date de la broche.
+repere: 1170 — Meurtre de Thomas Becket dans sa cathédrale, le 29 décembre.
+repere: 1867 — La broche est découverte dans St George's Street.
+repere: 1932 — Une croix de Canterbury est envoyée à chaque cathédrale anglicane.
+repere: 1949 — La broche entre au musée de Canterbury.
+voir: croix, croix-celtique, croix-pattee, croix-de-saint-georges, croix-grecque, trois, triskele, saint-jacques-de-compostelle
 
 @ croix-de-saint-thomas
 cat: croix
@@ -190,7 +207,7 @@ schema: croix/huguenote
 def: Bijou et symbole du protestantisme français : une croix de Malte perlée, quatre fleurs de lys et une colombe suspendue, créée, dit-on, vers 1688 par un orfèvre de Nîmes, après la révocation de l'édit de Nantes.
 texte: Elle se compose d'une [[croix-de-malte|croix de Malte]] dont les huit pointes s'achèvent par une petite perle, de quatre fleurs de lys glissées entre les bras, qui dessinent des cœurs dans leurs creux, et d'une colombe mobile, ailes ouvertes, tête en bas, parfois remplacée par une larme, le *trissou*. L'explication la plus répandue en attribue l'invention, vers 1688, à un orfèvre protestant de Nîmes du nom de Maistre ; aucune n'est sûre, et le dessin doit beaucoup aux décorations déjà en usage, celle de l'[[croix-du-saint-esprit|ordre du Saint-Esprit]] en tête, qui l'a précédée de plus d'un siècle.
 texte: Sa symbolique est venue après coup : les huit pointes pour les huit béatitudes, quatre fleurs pour les quatre Évangiles, les douze pétales pour les apôtres, la colombe pour l'Esprit. Elle reste aujourd'hui le signe de ralliement le plus connu des protestants de France.
-voir: croix, croix-de-malte, croix-du-saint-esprit, croix-occitane, huit
+voir: croix, croix-de-malte, croix-du-saint-esprit, croix-occitane, huit, jean-calvin
 
 @ croix-serbe
 cat: croix

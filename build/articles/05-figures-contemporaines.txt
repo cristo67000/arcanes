@@ -147,7 +147,7 @@ repere: 1924 — Grave accident de voiture ; il se consacre à l'écriture.
 repere: 1932 — Fermeture du Prieuré.
 repere: 1949 — Mort à Neuilly-sur-Seine.
 repere: 1950 — *Récits de Belzébuth à son petit-fils*.
-voir: quatrieme-voie, piotr-ouspensky, enneagramme, soufisme
+voir: quatrieme-voie, piotr-ouspensky, enneagramme, soufisme, fakir
 
 @ piotr-ouspensky
 cat: figures
@@ -245,13 +245,14 @@ repere: 1916 — *Sept Sermons aux morts*.
 repere: 1921 — *Types psychologiques*.
 repere: 1929 — Commentaire du *Secret de la fleur d'or*, texte alchimique chinois.
 repere: 1933 — Premières conférences aux rencontres d'Eranos, à Ascona.
+repere: 1936 — Essai *Wotan*, qui explique le nazisme par le réveil de l'archétype du dieu germanique.
 repere: 1944 — *Psychologie et alchimie*.
 repere: 1952 — *Synchronicité*, avec Wolfgang Pauli.
 repere: 1955 — *Mysterium conjunctionis*.
 repere: 1961 — Mort à Küsnacht.
 repere: 2009 — Publication du *Livre rouge*.
 oeuvres: Types psychologiques (1921) ; Psychologie et alchimie (1944) ; Aiôn (1951) ; Synchronicité (1952) ; Mysterium conjunctionis (1955-1956) ; Ma vie (1962)
-voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide, archetype, synchronicite, monte-verita, l-anneau-du-nibelung
+voir: alchimie, nigredo, zosime-de-panopolis, marie-la-juive, mandala, yi-king, basilide, archetype, synchronicite, monte-verita, l-anneau-du-nibelung, odin
 
 @ fulcanelli
 cat: figures
@@ -491,7 +492,7 @@ repere: 1977 — Faite dame de l'Empire britannique.
 repere: 1979 — *La Philosophie occulte à l'époque élisabéthaine*.
 repere: 1981 — Mort près de Londres.
 oeuvres: Giordano Bruno et la tradition hermétique (1964) ; L'Art de la mémoire (1966) ; La Lumière des Rose-Croix (1972) ; La Philosophie occulte à l'époque élisabéthaine (1979)
-voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme, john-dee, francis-bacon
+voir: giordano-bruno, art-de-la-memoire, hermetisme, rose-croix, esoterisme, john-dee, francis-bacon, mnemosyne
 
 @ antoine-faivre
 cat: figures
@@ -563,7 +564,7 @@ repere: 1900 — *L'Inconnu et les problèmes psychiques*.
 repere: 1920 — Début de la publication de *La Mort et son mystère*.
 repere: 1923 — Président de la Society for Psychical Research.
 repere: 1925 — Mort à Juvisy.
-voir: spiritisme, allan-kardec, metapsychique, eusapia-palladino, reincarnation
+voir: spiritisme, allan-kardec, metapsychique, eusapia-palladino, reincarnation, doppelganger
 
 @ charles-richet
 cat: figures
@@ -637,8 +638,8 @@ dates: 1848 – 1919
 an: 1848
 def: Écrivain et occultiste viennois, inventeur d'un système de runes et d'une prétendue religion des anciens Germains, l'un des fondateurs de l'ariosophie qui inspira le nazisme.
 texte: Guido List naît à Vienne en 1848 dans une famille de commerçants. Amoureux des montagnes et des forêts du Danube, passionné par le passé germanique, il devient journaliste et écrit des romans historiques exaltant les anciens Germains, comme *Carnuntum* (1888). Il s'attribue plus tard la particule nobiliaire.
-texte: En 1902, une opération de la cataracte le laisse aveugle pendant près d'un an. Il dit avoir reçu, pendant cette nuit, la révélation du sens secret des [[runes]]. *Le Secret des runes* (1908) expose un alphabet de dix-huit runes, dites « Armanen », qu'il tire d'un poème de l'Edda et qui ne correspond à aucun alphabet historique. List imagine une ancienne caste de prêtres-rois germaniques, les Armanen, gardiens d'une sagesse secrète qui aurait survécu, cachée, dans le blason, les noms de lieux, les légendes et même la [[kabbale]], qu'il tient pour un vol fait aux Germains.
-texte: Une société se fonde en 1908 pour diffuser ses idées, soutenue par des notables viennois, et il crée en 1911 un ordre ésotérique, le Haut Ordre des Armanen. Sa doctrine mêle le culte de Wotan, la [[theosophie]], la [[reincarnation]] et un racisme virulent, qui oppose les « Aryens » aux autres peuples : c'est l'[[ariosophie]], que développe aussi Lanz von Liebenfels. Il fait du [[svastika]] un symbole sacré des Germains.
+texte: En 1902, une opération de la cataracte le laisse aveugle pendant près d'un an. Il dit avoir reçu, pendant cette nuit, la révélation du sens secret des [[runes]]. *Le Secret des runes* (1908) expose un alphabet de dix-huit runes, dites « Armanen », qu'il tire d'un poème de l'*[[edda|Edda]]* et qui ne correspond à aucun alphabet historique. List imagine une ancienne caste de prêtres-rois germaniques, les Armanen, gardiens d'une sagesse secrète qui aurait survécu, cachée, dans le blason, les noms de lieux, les légendes et même la [[kabbale]], qu'il tient pour un vol fait aux Germains.
+texte: Une société se fonde en 1908 pour diffuser ses idées, soutenue par des notables viennois, et il crée en 1911 un ordre ésotérique, le Haut Ordre des Armanen. Sa doctrine mêle le culte de Wotan ([[odin|Odin]]), la [[theosophie]], la [[reincarnation]] et un racisme virulent, qui oppose les « Aryens » aux autres peuples : c'est l'[[ariosophie]], que développe aussi Lanz von Liebenfels. Il fait du [[svastika]] un symbole sacré des Germains.
 texte: Il meurt à Berlin en 1919. Ses idées passent par la [[societe-thule|société Thulé]] dans les milieux d'où sortira le nazisme ; la SS reprendra ses runes, dont la rune de la victoire. Les historiens, comme Nicholas Goodrick-Clarke, ont montré dans son œuvre l'une des racines occultistes de l'idéologie nazie.
 repere: 1848 — Naissance à Vienne.
 repere: 1888 — *Carnuntum*, roman de l'Antiquité germanique.
@@ -647,7 +648,7 @@ repere: 1908 — *Le Secret des runes* ; une société se fonde pour diffuser se
 repere: 1911 — Il fonde le Haut Ordre des Armanen.
 repere: 1919 — Mort à Berlin.
 repere: 1985 — Nicholas Goodrick-Clarke publie *Les Racines occultistes du nazisme*.
-voir: ariosophie, runes, svastika, societe-thule, neopaganisme, theosophie
+voir: ariosophie, runes, svastika, societe-thule, neopaganisme, theosophie, odin, edda
 
 @ margaret-murray
 cat: figures

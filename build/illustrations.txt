@@ -1424,7 +1424,7 @@ largeur: 300
 commons: Hildegard von Bingen Liber Divinorum Operum.jpg
 legende: L’homme au centre du cosmos, dans le *Livre des œuvres divines* de Hildegarde de Bingen
 credit: manuscrit, XIIIe siècle — bibliothèque d’État de Lucques
-pour: mystique, microcosme-macrocosme
+pour: hildegarde-de-bingen, mystique, microcosme-macrocosme
 largeur: 440
 
 = schnorr-ezechiel
@@ -6475,7 +6475,7 @@ pour: antoine-lavoisier
 commons: Hortus Deliciarum, Die Philosophie mit den sieben freien Künsten.JPG
 legende: La Philosophie entourée des sept arts libéraux, miniature de l’*Hortus deliciarum* de l’abbesse Herrade, d’après une copie prise avant l’incendie de 1870
 credit: copie coloriée, vers 1818, d’un original de la fin du XIIe siècle détruit en 1870
-pour: mont-sainte-odile
+pour: hortus-deliciarum, mont-sainte-odile
 
 = mur-paien-sainte-odile
 commons: Odilienberg Heidenmauer Mauer.jpg
@@ -6785,3 +6785,293 @@ commons: Diego Velázquez - Las Meninas - Selfportrait.jpg
 legende: Velázquez dans *Les Ménines* (1656), la croix de Santiago ajoutée sur sa poitrine après 1659
 credit: Diego Velázquez — musée du Prado
 pour: croix-de-saint-jacques
+
+
+# Lot de la version 1.15 : l'Hortus deliciarum, Hildegarde de Bingen, la mystique rhénane.
+# Licences relevées avec « outil.py commons » : toutes « Public domain ».
+
+% L'Hortus deliciarum, d'après les copies prises avant l'incendie de 1870
+
+= hortus-herrade
+commons: Herrade de Landsberg Hortus Deliciarum detail.jpg
+legende: L’abbesse Herrade, au dernier feuillet de l’*Hortus deliciarum*, tenant le poème qu’elle adresse à ses chanoinesses
+credit: copie de Christian Moritz Engelhardt, 1818 — Gallica
+pour: hortus-deliciarum
+largeur: 340
+
+= hortus-femme-apocalypse
+commons: Hortus deliciarum folio 261v 1899.jpg
+legende: La Femme de l’Apocalypse, seule planche en couleurs de la reconstitution de Straub et Keller (folio 261v)
+credit: Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899
+pour: hortus-deliciarum, femme-revetue-du-soleil
+
+= hortus-babel
+commons: Hortus deliciarum folio 27v 1899.jpg
+legende: La tour de Babel : les maçons à l’ouvrage, miniature de l’*Hortus deliciarum* (folio 27v)
+credit: Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899
+pour: tour-de-babel
+largeur: 520
+
+= hortus-bapteme
+commons: Hortus deliciarum folio 100r 1899.jpg
+legende: Le baptême du Christ dans le Jourdain, miniature de l’*Hortus deliciarum* (folio 100r)
+credit: Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899
+pour: jean-baptiste
+
+= hortus-sein-d-abraham
+commons: Hortus deliciarum folio 263v 1899.jpg
+legende: Les justes dans le sein d’Abraham, miniature de l’*Hortus deliciarum* (folio 263v)
+credit: Alexandre Straub et Gustave Keller, *Hortus deliciarum*, Strasbourg, 1879-1899
+
+= hortus-enfer
+commons: Hortus Deliciarum - Hell.jpg
+legende: L’Enfer : Lucifer enchaîné au fond du gouffre, les damnés dans les flammes, miniature de l’*Hortus deliciarum*
+credit: copie du XIXe siècle d’une miniature détruite en 1870
+
++ hortus-deliciarum
+titre: Les miniatures de l’*Hortus deliciarum*, d’après les copies prises avant 1870
+images: hortus-deliciarum-philosophie, hortus-herrade, hortus-femme-apocalypse, hortus-babel, hortus-bapteme, hortus-sein-d-abraham, hortus-enfer
+
+% Hildegarde de Bingen
+
+= hildegarde-vision
+commons: Hildegard von Bingen.jpg
+legende: Hildegarde reçoit la vision, des flammes sur la tête, et la dicte au moine Volmar : frontispice du *Scivias*
+credit: copie (1927-1933) du manuscrit de Rupertsberg, vers 1175, disparu en 1945
+pour: hildegarde-de-bingen
+
+= hildegarde-univers
+commons: Meister des Hildegardis-Codex 001.jpg
+legende: L’univers en forme d’œuf, première vision cosmique du *Scivias* (I, 3)
+credit: d’après le manuscrit de Rupertsberg, vers 1165-1175
+pour: hildegarde-de-bingen
+
+= hildegarde-anges
+commons: 07angels-hildegard von bingen.jpg
+legende: Les chœurs des anges, *Scivias* I, 6
+credit: d’après le manuscrit de Rupertsberg, XIIe siècle
+pour: hildegarde-de-bingen, hierarchies-celestes
+
+% La mystique rhénane
+
+= tauler-sermon
+commons: Johannes Tauler, Predigt.jpg
+legende: Un sermon de Jean Tauler copié en Alsace au début du XVe siècle
+credit: Cod. Pal. germ. 105, fol. 67r — bibliothèque universitaire de Heidelberg
+pour: mystique-rhenane
+largeur: 360
+
+= suso-portrait
+commons: Heinrich v Berg.jpg
+legende: Henri Suso, peinture du XVe siècle
+credit: peintre inconnu, XVe siècle
+pour: mystique-rhenane
+largeur: 300
+
+
+% Le tarot de Thoth (les cartes de Frieda Harris restent protégées jusqu'en 2033 : seuls le dos des cartes,
+# redessiné, la carte supplémentaire de l'hexagramme et le portrait de l'artiste sont libres)
+
+= frieda-harris
+commons: Lady Frieda Harris.jpg
+legende: Lady Frieda Harris, qui peignit les soixante-dix-huit cartes du tarot de Thoth de 1938 à 1943, photographiée vers 1900
+credit: photographie anonyme, vers 1900
+pour: tarot-de-thoth
+largeur: 300
+
+= thoth-dos-des-cartes
+commons: Thelemic Rose Cross Lamen - Thoth Tarot version.svg
+legende: Le dos des cartes du tarot de Thoth : la Rose-Croix thélémite, dans les couleurs choisies par Frieda Harris (dessin moderne)
+credit: dessin vectoriel d’après le dos des cartes, domaine public
+pour: tarot-de-thoth
+
+= thoth-hexagramme-unicursal
+commons: Crowley Unicursal Hexagram Tarot Card.svg
+legende: L’hexagramme unicursal de Crowley, carte supplémentaire jointe à beaucoup d’éditions du tarot de Thoth (dessin moderne)
+credit: dessin vectoriel de Wolfgang Rieger, 2016, CC0
+pour: tarot-de-thoth
+largeur: 300
+
+% L'étoile flamboyante
+
+= etoile-flamboyante-1850
+commons: The Blazing Star.jpg
+legende: L’étoile flamboyante, planche d’un recueil maçonnique américain
+credit: lithographie, vers 1850 — Library of Congress
+pour: etoile-flamboyante
+
+= tableau-loge-1745
+commons: 1745, Le Parfait Maçon, tableau maitre.jpg
+legende: Le tableau de la loge des maîtres, avec l’étoile au sommet, dans *Le Parfait Maçon* (1745), l’une des premières divulgations des rituels
+credit: gravure, *Le Parfait Maçon ou les véritables secrets des quatre grades*, 1745
+pour: etoile-flamboyante
+largeur: 360
+
+= masonic-chart-1876
+commons: The masonic chart LCCN2002710037.jpg
+legende: *The Masonic Chart*, les symboles des trois grades, l’étoile flamboyante au centre
+credit: lithographie, 1876 — Library of Congress
+pour: etoile-flamboyante
+largeur: 440
+
+% Version 1.12, suite : lots N G R
+
+# Lot N (version 1.16, rubrique nordique) : illustrations proposées. Licences relevées sur
+# Commons pendant la rédaction (toutes « Public domain » : peintres morts avant 1925, dessin
+# de 1873, manuscrits anciens). Aucune n'est déjà dans build/illustrations.txt.
+# Le fichier d'Arbo est très grand (10291 × 7074) : la conversion en WebP s'en chargera.
+
+= odin-sam66
+commons: SÁM 66, 77r, Odin.jpg
+legende: Odin avec ses deux corbeaux, Hugin et Munin, dans un manuscrit islandais du XVIIIe siècle
+credit: Jakob Sigurðsson, 1765-1766 — manuscrit SÁM 66, Institut Árni Magnússon, Reykjavik
+pour: odin
+
+= odin-chasse-sauvage
+commons: Peter Nicolai Arbo - The wild Hunt of Odin - NG.M.00258 - National Museum of Art, Architecture and Design.jpg
+legende: *La Chasse sauvage d'Odin* (*Åsgårdsreien*) : le cortège des morts traverse le ciel
+credit: Peter Nicolai Arbo, 1872 — Nasjonalmuseet, Oslo
+pour: odin
+
+= thor-winge
+commons: Mårten Eskil Winge - Tor's Fight with the Giants - Google Art Project.jpg
+legende: *Le Combat de Thor contre les géants* : le dieu sur son char aux boucs, Mjöllnir levé
+credit: Mårten Eskil Winge, 1872 — Nationalmuseum, Stockholm
+pour: thor
+
+= thor-marteau-skane
+commons: Torshammare av silver fr Skåne (Montelius 1873 sid 107 fig 93).jpg
+legende: Pendentif d'argent en forme de marteau de Thor, trouvé en Scanie
+credit: dessin d'Oscar Montelius, 1873
+pour: thor
+
+= loki-sigyn-winge
+commons: Loke och Sigyn Mårten Eskil Winge.jpg
+legende: *Loki et Sigyn* : le dieu enchaîné, son épouse recueillant le venin du serpent
+credit: Mårten Eskil Winge, 1863 — Nationalmuseum, Stockholm
+pour: loki
+
+= loki-enfants-frolich
+commons: Loki's children by Frølich.jpg
+legende: Odin écarte les enfants de Loki : le loup Fenrir, le serpent Jörmungand et Hel
+credit: Lorenz Frølich, 1906
+pour: loki
+
+= freyja-blommer
+commons: Freyja and cats and angels by Blommer.jpg
+legende: *Freyja cherchant son époux*, sur son char tiré par deux chats
+credit: Nils Blommér, 1852 — Nationalmuseum, Stockholm
+pour: freyja
+
+= freyja-doepler
+commons: Freyja by Emil Doepler.JPG
+legende: Freyja conduit son char tiré par des chats
+credit: Emil Doepler, vers 1905
+pour: freyja
+
+= idunn-blommer
+commons: Nils Jakob Blommér - Idun and Brage - Google Art Project.jpg
+legende: *Idun et Brage* : le dieu de la poésie à la harpe, la déesse debout derrière lui
+credit: Nils Blommér, 1846 — Malmö konstmuseum
+pour: idunn
+
+= idunn-thjazi-frolich
+commons: Loki and Þjazi by Frølich.jpg
+legende: Le géant Thjazi, sous son plumage d'aigle, emporte Loki accroché à sa perche
+credit: Lorenz Frølich, 1906
+pour: idunn
+
+= edda-codex-regius
+commons: Codex Regius of Eddaic Poems.jpg
+legende: Une page du *Codex Regius*, le manuscrit de l'*Edda poétique*
+credit: manuscrit islandais, vers 1270 — Institut Árni Magnússon, Reykjavik
+pour: edda
+
+% Version 1.16, lot G : Éros, Jason, Mnémosyne, Cybèle, le double, le fakir
+
+= mythe-eros-lysippe
+commons: Eros bow Louvre Ma448 n01.jpg
+legende: Éros bandant son arc, copie romaine d’après le type de Lysippe
+credit: D’après Lysippe, Ier siècle — musée du Louvre, Paris
+pour: eros
+
+= mythe-jason-moreau
+commons: Moreau - Jason et Médée.jpg
+legende: *Jason et Médée*, par Gustave Moreau
+credit: Gustave Moreau, 1865
+pour: jason
+
+= mythe-mnemosyne-rossetti
+commons: Mnemosyne DAM.jpg
+legende: *Mnemosyne*, par Dante Gabriel Rossetti : la Mémoire tient la lampe et la coupe ailée
+credit: Dante Gabriel Rossetti, 1875-1881 — Delaware Art Museum, Wilmington
+pour: mnemosyne
+
+= mythe-cybele-met
+commons: Bronze statuette of Cybele on a cart drawn by lions MET DP307791.jpg
+legende: Cybèle sur un char tiré par des lions, statuette de bronze romaine
+credit: Bronze romain, seconde moitié du IIe siècle — Metropolitan Museum of Art, New York
+pour: cybele
+
+= double-rossetti
+commons: Dante Gabriel Rossetti - How They Met Themselves (1864).jpg
+legende: *How They Met Themselves* : deux amants rencontrent leurs doubles dans un bois, par Dante Gabriel Rossetti
+credit: Dante Gabriel Rossetti, 1864
+pour: doppelganger
+
+= fakir-vereshchagin
+commons: Два факира (Верещагин).jpg
+legende: *Deux fakirs*, par Vassili Vereshchagin, peint lors de son voyage en Inde
+credit: Vassili Vereshchagin, 1874-1876 — galerie Tretiakov, Moscou
+pour: fakir
+
+# Lot R (Réforme et Pères, version 1.16) : illustrations proposées. Licences relevées avec
+# « outil.py commons » (Public domain, ou CC0 pour la gravure de Beccafumi donnée par le
+# Metropolitan Museum). Aucune n'est déjà dans build/illustrations.txt (grep sur Luther,
+# Cranach, Calvin, Boyvin, Bucer, Boissard, Rhenanus, Cosmographiae, Nicée, Damaskinos,
+# Beccafumi : rien). Pour la Bibliothèque humaniste, Commons n'a que des photographies récentes
+# du bâtiment (CC BY-SA) : on donne la page de titre de l'exemplaire sélestadien de la
+# Cosmographiae introductio, avec l'ex-libris manuscrit de Beatus Rhenanus, et le portrait
+# gravé de Rhenanus.
+
+= luther-cranach-cobourg
+commons: Lucas Cranach d.Ä. - Martin Luther, 1528 (Veste Coburg).jpg
+legende: Martin Luther en 1528, par Lucas Cranach l'Ancien
+credit: Lucas Cranach l'Ancien, 1528 — Veste Coburg
+pour: martin-luther
+
+= calvin-boyvin
+commons: Calvin 1562.jpg
+legende: Jean Calvin à cinquante-trois ans, gravé par René Boyvin
+credit: René Boyvin, 1562 — Bibliothèque de Genève
+pour: jean-calvin
+
+= bucer-boissard
+commons: Martin Bucer by Boissard.png
+legende: Martin Bucer, dans les *Icones* de Jean-Jacques Boissard
+credit: Jean-Jacques Boissard et Théodore de Bry, 1599 — British Library
+pour: martin-bucer
+
+= cosmographiae-selestat
+commons: Titelblatt Cosmographiae Introductio Schlettstadt.jpg
+legende: La *Cosmographiae introductio* (Saint-Dié, 1507), exemplaire de Beatus Rhenanus avec son ex-libris, à la Bibliothèque humaniste
+credit: Matthias Ringmann et Martin Waldseemüller, 1507 — Bibliothèque humaniste de Sélestat
+pour: bibliotheque-humaniste
+
+= beatus-rhenanus-haid
+commons: Beatus Rhenanus - Imagines philologorum.jpg
+legende: Beatus Rhenanus, dont le legs de 1547 fonda la bibliothèque
+credit: gravure de Johann Jakob Haid, XVIIIe siècle
+pour: bibliotheque-humaniste
+
+= quatre-docteurs-beccafumi
+commons: Four Doctors of the Church MET DP864188.jpg
+legende: Les quatre docteurs de l'Église latine, Ambroise, Jérôme, Augustin et Grégoire
+credit: Domenico Beccafumi, vers 1527-1530 — Metropolitan Museum of Art, New York
+pour: peres-de-l-eglise
+
+= nicee-damaskinos
+commons: First Council of Nicaea Michael Damaskinos.png
+legende: Le concile de Nicée : Constantin et les évêques autour de l'Évangile, Arius terrassé au premier plan
+credit: Michel Damaskinos, 1591 — Héraklion
+pour: arianisme

@@ -132,7 +132,7 @@ texte: Le mot vient du latin populaire *sortiarius*, celui qui dit ou jette les 
 texte: Les historiens estiment à environ 50 000 le nombre des exécutions en Europe entre 1450 et 1750 ; les femmes en forment la grande majorité, autour de trois sur quatre, mais pas partout : en Normandie, les hommes, souvent des bergers, furent les plus nombreux. Au XIXe siècle, Michelet fait de la sorcière une prêtresse de la nature et une guérisseuse persécutée par l'Église, Margaret Murray en 1921 la survivante d'un culte païen ; ces thèses, rejetées par les historiens, ont nourri la [[wicca]] et les féministes, qui ont repris le mot comme un emblème.
 extrait: Sprenger dit (avant 1500) : « Il faut dire *l'hérésie des sorcières*, et non des sorciers ; ceux-ci sont peu de chose. » — Et un autre sous Louis XIII : « Pour un sorcier, dix mille sorcières. » (…) ¶ La Sibylle prédisait le sort. Et la Sorcière le fait. C'est la grande, la vraie différence. Elle évoque, elle conjure, opère la destinée. (…) ¶ L'unique médecin du peuple, pendant mille ans, fut la Sorcière.
 source: Jules Michelet, *La Sorcière*, 1862, introduction | ws La Sorcière/Introduction
-voir: sorcellerie, chasse-aux-sorcieres, sabbat, walpurgis, margaret-murray, wicca, chat, crapaud, le-sabbat-des-sorcieres
+voir: sorcellerie, chasse-aux-sorcieres, sabbat, walpurgis, margaret-murray, wicca, chat, crapaud, le-sabbat-des-sorcieres, freyja
 
 @ parole-perdue
 cat: maconnerie

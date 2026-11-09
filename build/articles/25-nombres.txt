@@ -103,8 +103,8 @@ alias: 9, ennéade, neuvaine, trois fois trois, neuf muses
 dates: 9
 def: Le carré du trois, nombre de l'achèvement d'un cycle : neuf muses, neuf chœurs des anges, neuf cercles de l'Enfer de Dante, neuf mois de la gestation.
 texte: Les prêtres d'Héliopolis vénéraient une Ennéade de neuf dieux ; les Grecs comptaient neuf Muses, le Pseudo-Denys neuf [[hierarchies-celestes|chœurs des anges]] répartis en trois triades. [[dante|Dante]] fait de Béatrice, dans la *Vita Nuova*, un « neuf », un miracle dont la racine est la Trinité, et construit sa *[[divine-comedie|Divine Comédie]]* sur des multiples de trois : neuf cercles de l'Enfer, neuf ciels du Paradis.
-texte: Le neuf a une propriété arithmétique qui a fasciné les numérologues : la somme des chiffres de ses multiples redonne toujours neuf, d'où la « preuve par neuf ». L'Église prie en neuvaines, et l'[[enneagramme|ennéagramme]] de Gurdjieff dessine dans un cercle une figure à neuf pointes.
-voir: huit, dix, trois, dante, hierarchies-celestes, enneagramme
+texte: Le neuf a une propriété arithmétique qui a fasciné les numérologues : la somme des chiffres de ses multiples redonne toujours neuf, d'où la « preuve par neuf ». Dans le Nord, [[odin|Odin]] pend neuf nuits à l'arbre du monde, qui unit neuf mondes, et [[thor|Thor]] fait neuf pas avant de mourir du venin du serpent. L'Église prie en neuvaines, et l'[[enneagramme|ennéagramme]] de Gurdjieff dessine dans un cercle une figure à neuf pointes.
+voir: huit, dix, trois, dante, hierarchies-celestes, enneagramme, odin, thor
 
 @ dix
 cat: nombres
@@ -134,9 +134,9 @@ nom: Treize
 alias: 13, triskaïdékaphobie, vendredi 13, treize à table
 dates: 13
 def: Le nombre qui suit et brise l'ordre parfait du douze, réputé porter malheur — treize à table, vendredi 13 —, mais aussi tenu par certains pour un nombre de renouveau.
-texte: Treize convives à la Cène, dont Judas : de là, dit-on, la superstition qui interdit d'être treize à table. La mythologie nordique raconte de même que Loki, treizième invité d'un banquet des dieux, causa la mort de Balder. Le treizième arcane du tarot, sans nom, figure la [[arcane-sans-nom|Mort]], que l'ésotérisme lit comme une transformation plutôt qu'une fin.
+texte: Treize convives à la Cène, dont Judas : de là, dit-on, la superstition qui interdit d'être treize à table. On raconte de même que [[loki|Loki]], treizième invité d'un banquet des dieux, causa la mort de Baldr, détail que les *Eddas* ne rapportent pas : chez Snorri, Baldr meurt au cours d'un jeu, et Loki s'invite sans être compté au banquet d'Ægir. Le treizième arcane du tarot, sans nom, figure la [[arcane-sans-nom|Mort]], que l'ésotérisme lit comme une transformation plutôt qu'une fin.
 texte: Le « vendredi 13 » malchanceux n'est attesté qu'au XIXe et au XXe siècle ; on lui a cherché une origine dans l'arrestation des [[templiers]], le vendredi 13 octobre 1307, un rapprochement tardif. Certains immeubles n'ont pas de treizième étage ; d'autres, au contraire, jouent ce nombre à la loterie. La peur du treize porte un nom savant, la triskaïdékaphobie.
-voir: douze, arcane-sans-nom, templiers, jacques-de-molay
+voir: douze, arcane-sans-nom, templiers, jacques-de-molay, loki
 
 @ vingt-deux
 cat: nombres
@@ -187,7 +187,7 @@ alias: 666, six cent soixante-six, 616, marque de la Bête, chiffre de la Bête
 dates: 666
 def: Le nombre que l'Apocalypse donne à la Bête, « nombre d'homme » à calculer, que les commentateurs ont rapporté à Néron par la gématrie et appliqué à toutes les figures redoutées de l'histoire.
 texte: Le chapitre XIII de l'Apocalypse invite celui qui a de l'intelligence à calculer le nombre de la Bête, « car c'est un nombre d'homme ». Les historiens y lisent le plus souvent, par la [[gematrie|gématrie]], le nom de « Néron César » écrit en lettres hébraïques ; certains manuscrits anciens portent la variante 616, qui correspond à une autre graphie du même nom.
-texte: Au fil des siècles, on a appliqué le calcul au pape, à Mahomet, à Luther, à Napoléon, à Hitler ou aux codes-barres. [[aleister-crowley|Aleister Crowley]] se faisait appeler « la Bête 666 », et le nombre est devenu un emblème du satanisme et de la culture rock. Une rumeur tenace, et fausse, prétend que la pyramide du Louvre compte 666 vitres.
+texte: Au fil des siècles, on a appliqué le calcul au pape, à Mahomet, à [[martin-luther|Luther]], à Napoléon, à Hitler ou aux codes-barres. [[aleister-crowley|Aleister Crowley]] se faisait appeler « la Bête 666 », et le nombre est devenu un emblème du satanisme et de la culture rock. Une rumeur tenace, et fausse, prétend que la pyramide du Louvre compte 666 vitres.
 extrait: Et elle fit que tous, petits et grands, riches et pauvres, libres et esclaves, reçussent une marque sur leur main droite ou sur leur front, et que personne ne pût acheter ni vendre, sans avoir la marque, le nom de la bête ou le nombre de son nom. C'est ici la sagesse. Que celui qui a de l'intelligence calcule le nombre de la bête. Car c'est un nombre d'homme, et son nombre est six cent soixante-six.
 source: *La Sainte Bible*, trad. Louis Segond, 1910, Apocalypse, chap. XIII, versets 16-18 | ws Bible Segond 1910/Apocalypse
 voir: gematrie, isopsephie, six, satanisme, aleister-crowley, paris, apocalypse, grands-travaux
